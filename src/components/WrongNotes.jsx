@@ -1,7 +1,7 @@
 import { QUESTION_MAP } from '../data/questions'
 import { typeLabel } from '../data/types'
 
-export default function WrongNotes({ wrong, onRetry, onRemove }) {
+export default function WrongNotes({ wrong, onRetry, onRemove, onPrint }) {
   const entries = Object.entries(wrong)
     .filter(([id]) => QUESTION_MAP[id])
     .sort((a, b) => b[1].last - a[1].last)
@@ -15,12 +15,19 @@ export default function WrongNotes({ wrong, onRetry, onRemove }) {
     )
   }
 
+  const questions = entries.map(([id]) => QUESTION_MAP[id])
+
   return (
     <section className="panel">
       <h2>오답노트 ({entries.length})</h2>
-      <button type="button" className="btn primary full" onClick={() => onRetry(entries.map(([id]) => id))}>
-        오답 전체 다시 풀기
-      </button>
+      <div className="start-grid">
+        <button type="button" className="btn primary" onClick={() => onRetry(entries.map(([id]) => id))}>
+          오답 전체 다시 풀기
+        </button>
+        <button type="button" className="btn" onClick={() => onPrint('오답노트', questions, 'both')}>
+          오답노트 인쇄
+        </button>
+      </div>
 
       <ul className="wrong-list">
         {entries.map(([id, info]) => {

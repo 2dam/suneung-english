@@ -151,6 +151,54 @@ button:disabled { cursor: not-allowed; opacity: 0.5; }
 .notes li.right { font-weight: 600; }
 .trap, .tip { background: var(--warn-soft); border-radius: 8px; padding: 8px 10px; }
 
+/* 모의고사 */
+.exam-list { list-style: none; margin: 12px 0 0; padding: 0; display: grid; gap: 10px; }
+.exam-list li {
+  display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap;
+  border: 1px solid var(--line); border-radius: 10px; padding: 12px;
+}
+.print-buttons { display: inline-flex; gap: 4px; }
+.print-row { margin: 16px 0 0; }
+.timer { font-weight: 700; font-variant-numeric: tabular-nums; color: var(--primary); }
+.timer.hurry { color: var(--bad); }
+.navigator { display: flex; flex-wrap: wrap; gap: 6px; margin: 10px 0 14px; }
+.nav-no {
+  min-width: 36px; height: 36px; border-radius: 8px; border: 1px solid var(--line);
+  background: var(--card); font-weight: 600; font-size: 0.9rem;
+}
+.nav-no.done { background: var(--primary-soft); border-color: var(--primary); color: var(--primary); }
+.nav-no.current { outline: 2px solid var(--primary); outline-offset: 1px; }
+.exam-actions { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 8px; margin-top: 14px; }
+.exam .link { display: block; margin: 10px auto 0; }
+.explain.none { background: var(--warn-soft); }
+.result-list details summary { display: flex; gap: 10px; cursor: pointer; list-style: none; }
+.result-list details summary::-webkit-details-marker { display: none; }
+.result-list li { display: block; }
+.result-stem { margin: 10px 0 4px; font-weight: 600; }
+
+/* 인쇄: 화면에서는 숨기고, 인쇄할 때만 print-root를 보여 준다 */
+.print-root { display: none; }
+@media print {
+  body.printing #root { display: none; }
+  body.printing .print-root { display: block; }
+  body { background: #fff; color: #000; }
+  .print-root { font-size: 11pt; line-height: 1.5; font-family: Georgia, 'Times New Roman', 'Noto Serif KR', serif; }
+  .print-root h1 { font-size: 16pt; margin: 0 0 4pt; }
+  .print-meta { color: #555; margin: 0 0 12pt; font-size: 9pt; }
+  .print-q { break-inside: avoid; margin: 0 0 14pt; }
+  .print-q h2 { font-size: 11.5pt; margin: 0 0 6pt; }
+  .print-q h2 small { font-weight: 400; color: #666; }
+  .print-root .passage { border: 1px solid #999; background: #fff; padding: 8pt; font-size: 10.5pt; line-height: 1.6; }
+  .print-options { list-style: none; margin: 6pt 0 0; padding: 0; }
+  .print-options li { margin: 2pt 0; }
+  .print-note { color: #444; font-size: 9.5pt; margin: 4pt 0; }
+  .print-answer { border-top: 1px dashed #999; margin-top: 8pt; padding-top: 6pt; font-size: 10pt; }
+  .print-answer p { margin: 3pt 0; }
+  .print-answer ul { margin: 4pt 0; padding-left: 14pt; list-style: none; }
+  .answer-table { width: 100%; border-collapse: collapse; margin: 0 0 14pt; }
+  .answer-table th, .answer-table td { border: 1px solid #999; padding: 3pt; text-align: center; font-size: 10pt; }
+}
+
 .score { font-size: 1.4rem; margin: 6px 0 14px; }
 .score strong { font-size: 2rem; color: var(--primary); }
 .result-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }

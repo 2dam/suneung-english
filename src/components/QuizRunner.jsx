@@ -2,9 +2,11 @@ import { useState } from 'react'
 import { getLevel } from '../data/levels'
 import { TYPES, typeLabel } from '../data/types'
 import { stopSpeech } from '../lib/speech'
+import Explanation from './Explanation'
 import ListeningPlayer from './ListeningPlayer'
 import Passage, { CIRCLED } from './Passage'
 
+/** 연습 모드: 한 문제씩 풀고 바로 정답·해설을 본다. */
 export default function QuizRunner({ title, questions, onFinish, onExit }) {
   const [index, setIndex] = useState(0)
   const [picked, setPicked] = useState(null)
@@ -54,7 +56,7 @@ export default function QuizRunner({ title, questions, onFinish, onExit }) {
       <h2 className="stem">{question.stem}</h2>
 
       {isListening ? (
-        <ListeningPlayer key={question.id} lines={question.script} rate={rate} showScript={revealed} />
+        <ListeningPlayer key={question.id} id={question.id} lines={question.script} rate={rate} showScript={revealed} />
       ) : (
         <Passage text={question.passage} />
       )}
@@ -90,31 +92,7 @@ export default function QuizRunner({ title, questions, onFinish, onExit }) {
         </button>
       ) : (
         <>
-          <div className={`explain ${picked === question.answer ? 'good' : 'bad'}`}>
-            <h3>
-              {picked === question.answer ? '정답입니다' : '오답입니다'} · 정답 {CIRCLED[question.answer]}
-            </h3>
-            <p>{question.why}</p>
-
-            {question.translation && (
-              <details>
-                <summary>해석 보기</summary>
-                <p>{question.translation}</p>
-              </details>
-            )}
-
-            <h4>보기별 해설</h4>
-            <ul className="notes">
-              {question.optionNotes.map((note, noteIndex) => (
-                <li key={noteIndex} className={noteIndex === question.answer ? 'right' : ''}>
-                  <b>{CIRCLED[noteIndex]}</b> {note}
-                </li>
-              ))}
-            </ul>
-
-            {question.trap && <p className="trap">🧠 <b>함정</b> {question.trap}</p>}
-            {question.tip && <p className="tip">💡 <b>전략</b> {question.tip}</p>}
-          </div>
+          <Explanation question={question} picked={picked} />
           <button type="button" className="btn primary full" onClick={goNext}>
             {isLast ? '결과 보기' : '다음 문제'}
           </button>

@@ -5,7 +5,9 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "node scripts/check-content.mjs && vite build",
+    "check:content": "node scripts/check-content.mjs",
+    "audio": "node scripts/make-audio.mjs",
     "preview": "vite preview"
   },
   "dependencies": {
