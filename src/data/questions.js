@@ -1,0 +1,183 @@
+// 문제 데이터. 시범판에서는 이 파일(또는 이 형식의 JSON)만 채우면 화면에 그대로 나온다.
+//
+// 필드
+//  id          고유 번호. 'mid-purpose-001'처럼 등급-유형-순번
+//  level       'basic' | 'mid' | 'high'
+//  type        data/types.js의 key
+//  stem        한국어 발문
+//  passage     (읽기) 영어 지문. 어법 문제는 {1|close}처럼 번호 붙은 밑줄을 쓴다. 줄바꿈은 \n
+//  script      (듣기) 대본 [{ speaker: 'W'|'M'|'N', text }]
+//  options     보기 5개
+//  answer      정답 인덱스(0부터)
+//  translation (선택) 지문/대본 해석
+//  why         정답 근거
+//  optionNotes 보기별 해설 5개 (정답 보기 포함)
+//  trap        (선택) 함정 포인트
+//  tip         (선택) 풀이 전략
+//
+// 모든 지문은 직접 새로 쓴 독창 문항이다. 기출·참고서 문장은 쓰지 않는다.
+
+export const QUESTIONS = [
+  {
+    id: 'mid-purpose-001',
+    level: 'mid',
+    type: 'purpose',
+    stem: '다음 글을 쓴 목적으로 가장 적절한 것은?',
+    passage:
+      'Dear Residents of Maple Court,\nThis is to inform you that the elevator in Building B will be out of service from Monday, March 10, to Wednesday, March 12, for scheduled safety inspection and part replacement. During this period, residents who have difficulty using the stairs may request help with carrying groceries and packages by contacting the management office before 5 p.m. each day. We apologize for any inconvenience and appreciate your understanding.\nSincerely,\nDaniel Park, Building Manager',
+    options: [
+      '엘리베이터 점검 일정의 변경을 요청하려고',
+      '점검 기간의 이용 불가와 도움 요청 방법을 안내하려고',
+      '관리비 인상을 공지하려고',
+      '입주민의 불만 사항을 접수하려고',
+      '새 엘리베이터 설치를 홍보하려고',
+    ],
+    answer: 1,
+    translation:
+      'B동 엘리베이터가 3월 10일(월)부터 12일(수)까지 정기 안전 점검과 부품 교체로 운행하지 않습니다. 계단 이용이 어려운 입주민은 매일 오후 5시 전까지 관리사무소에 연락하시면 장바구니와 택배 운반을 도와 드립니다. 불편을 드려 죄송하며 양해해 주셔서 감사합니다.',
+    why: '"This is to inform you that ~"로 시작하는 공지이고, 핵심은 운행 중단 기간과 도움을 요청하는 방법입니다.',
+    optionNotes: [
+      '이미 정해진 일정을 알리는 글이지, 일정 변경을 요청하는 글이 아닙니다.',
+      '정답. 이용 불가 기간과 도움 요청 방법을 안내합니다.',
+      '관리비는 언급되지 않았습니다.',
+      '불만을 받는 글이 아니라 불편을 줄이기 위한 안내입니다.',
+      '새 설치가 아니라 점검과 부품 교체입니다.',
+    ],
+    trap: '①은 본문의 scheduled, ④는 inconvenience 같은 단어를 가져와 헷갈리게 합니다.',
+    tip: '"This is to inform you that"은 안내·공지 목적의 대표 표지입니다. 목적 문제는 첫 두 문장에서 대부분 결정됩니다.',
+  },
+  {
+    id: 'mid-gist-001',
+    level: 'mid',
+    type: 'gist',
+    stem: '다음 글의 요지로 가장 적절한 것은?',
+    passage:
+      'People often assume that being good at something means they should enjoy doing it, so when practice starts to feel tedious they take it as a sign they chose the wrong path. In reality, nearly every skill goes through a stretch where progress slows and repetition feels dull. Musicians call it the plateau, and athletes know it as the grind. The learners who eventually succeed are not those who feel constant enthusiasm, but those who keep showing up through the dull stretch, trusting that steady repetition is quietly building an ability that will become visible later.',
+    options: [
+      '흥미가 떨어지면 목표를 빨리 바꾸는 것이 좋다.',
+      '지루한 반복 구간을 견디는 꾸준함이 실력 향상의 바탕이 된다.',
+      '재능이 있어야 연습이 즐겁다.',
+      '슬럼프는 훈련량을 늘려야만 극복된다.',
+      '기술을 익히는 속도는 사람마다 다르다.',
+    ],
+    answer: 1,
+    translation:
+      '사람들은 어떤 일을 잘하면 그것이 즐거워야 한다고 생각해서, 연습이 지루해지면 잘못된 길을 택했다는 신호로 받아들인다. 그러나 사실 거의 모든 기술은 진전이 더뎌지고 반복이 따분하게 느껴지는 구간을 거친다. 음악가들은 그것을 정체기라 부르고, 운동선수들은 단련의 시간이라 안다. 결국 성공하는 학습자는 늘 열정이 넘치는 사람이 아니라, 반복이 쌓여 언젠가 드러날 실력을 만들고 있다고 믿으며 지루한 구간에도 계속 나타나는 사람이다.',
+    why: '첫 문장은 통념이고, "In reality" 이후가 필자의 주장입니다. 마지막 문장의 not A but B 구조가 결론입니다.',
+    optionNotes: [
+      '지루하면 목표를 바꾸라는 말은 글의 주장과 정반대입니다.',
+      '정답. 지루한 구간을 견디는 꾸준함이 핵심입니다.',
+      '재능과 즐거움의 관계는 다루지 않습니다.',
+      '"훈련량을 늘려야만"이라는 한정은 본문에 없는 과장입니다.',
+      '속도의 개인차는 언급되지 않았습니다.',
+    ],
+    trap: '첫 문장의 통념을 요지로 착각하기 쉽습니다. ④처럼 "~해야만"이 붙은 보기는 과잉 일반화입니다.',
+    tip: 'In reality, but, not A but B 같은 역접·대조 표지 뒤에 필자의 주장이 있습니다.',
+  },
+  {
+    id: 'mid-blank-001',
+    level: 'mid',
+    type: 'blank',
+    stem: '다음 빈칸에 들어갈 말로 가장 적절한 것은?',
+    passage:
+      "Maps are not neutral copies of the world. Every map leaves out far more than it includes, and the mapmaker must decide which features deserve space. A road map highlights highways and hides hills; a hiking map does the opposite. In this sense, a map's usefulness comes not from showing everything, but from __________. A map that tried to show every detail would be as unreadable as the land itself.",
+    options: [
+      'copying the land as faithfully as possible',
+      'choosing what to leave out for a particular purpose',
+      'using colors that attract the eye',
+      'updating its information regularly',
+      'drawing boundaries between countries',
+    ],
+    answer: 1,
+    translation:
+      '지도는 세계의 중립적인 복사본이 아니다. 모든 지도는 담는 것보다 훨씬 많은 것을 빼며, 지도 제작자는 어떤 특징에 자리를 줄지 정해야 한다. 도로 지도는 고속도로를 강조하고 언덕을 숨기며, 등산 지도는 그 반대이다. 이런 의미에서 지도의 유용성은 모든 것을 보여 주는 데서가 아니라 특정한 목적에 맞게 무엇을 뺄지 선택하는 데서 나온다. 모든 세부를 담으려는 지도는 땅 그 자체만큼이나 읽을 수 없을 것이다.',
+    why: '도로 지도와 등산 지도의 대비, 그리고 "모든 세부를 담은 지도는 읽을 수 없다"는 마지막 문장이 단서입니다.',
+    optionNotes: [
+      '첫 문장 "not neutral copies"와 정반대입니다.',
+      '정답. 목적에 맞게 무엇을 뺄지 선택한다는 뜻입니다.',
+      '색상은 글의 논점이 아닙니다.',
+      '정보 갱신은 언급되지 않았습니다.',
+      '국경은 근거가 없습니다.',
+    ],
+    trap: '①은 "지도는 땅을 정확히 베낀 것"이라는 상식에 끌려 고르기 쉽습니다.',
+    tip: '빈칸은 앞뒤 예시와 대비를 한 문장으로 일반화한 것입니다. 마지막 문장은 보통 빈칸과 반대되는 경우를 설명합니다.',
+  },
+  {
+    id: 'mid-grammar-001',
+    level: 'mid',
+    type: 'grammar',
+    stem: '다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?',
+    passage:
+      'The Venus flytrap is a plant that has adapted to poor soil by trapping insects. Its leaves {1|close} when an insect touches the tiny hairs inside twice within about twenty seconds. This double-touch rule prevents the plant from {2|wasting} energy on raindrops or falling leaves, {3|neither of which provides} any nutrients. Researchers have found that the plant {4|count} the touches by using small electrical signals, and it {5|keeps} the trap closed only after a certain number of signals have built up.',
+    options: ['①', '②', '③', '④', '⑤'],
+    answer: 3,
+    translation:
+      '파리지옥은 곤충을 잡아 척박한 토양에 적응한 식물이다. 잎 안쪽의 작은 털을 곤충이 약 20초 안에 두 번 건드리면 잎이 닫힌다. 이 이중 접촉 규칙은 식물이 빗방울이나 떨어지는 잎에 에너지를 낭비하는 것을 막아 주는데, 둘 다 영양분을 제공하지 않기 때문이다. 연구자들은 이 식물이 작은 전기 신호로 접촉 횟수를 세고, 신호가 일정 수준 쌓인 뒤에야 덫을 닫아 둔다는 것을 밝혀냈다.',
+    why: 'that절의 주어는 단수인 the plant이므로 동사는 count가 아니라 counts여야 합니다.',
+    optionNotes: [
+      '주어 Its leaves가 복수이므로 close가 맞습니다.',
+      'prevent A from -ing 구문이므로 wasting이 맞습니다.',
+      'neither of which는 계속적 용법 관계대명사 구문이고 neither는 단수로 받아 provides가 맞습니다.',
+      '정답(틀린 것). 주어 the plant가 단수이므로 counts여야 합니다.',
+      '주어 it이 단수이므로 keeps가 맞습니다.',
+    ],
+    trap: '동사 바로 앞의 명사가 아니라 그 동사의 진짜 주어를 찾아야 합니다. 뒤에 나온 복수 명사 the touches에 끌리면 count가 맞아 보입니다.',
+    tip: '동사를 만나면 먼저 그 동사의 주어를 찾으세요. 가까운 명사가 주어가 아닌 경우가 많습니다.',
+  },
+  {
+    id: 'mid-order-001',
+    level: 'mid',
+    type: 'order',
+    stem: '주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?',
+    passage:
+      'Last spring, our neighborhood library announced that it would begin lending tools such as ladders, drills, and garden shears.\n(A) As a result, residents who once hesitated to start small repairs found they could try them without buying equipment they would use only once.\n(B) The idea came from a volunteer who noticed that many households owned the same rarely used items.\n(C) Encouraged by this response, the library added a repair workshop where neighbors could learn to fix things together.',
+    options: ['(A)-(C)-(B)', '(B)-(A)-(C)', '(B)-(C)-(A)', '(C)-(A)-(B)', '(C)-(B)-(A)'],
+    answer: 1,
+    translation:
+      '지난봄 우리 동네 도서관은 사다리, 드릴, 정원 가위 같은 도구를 빌려주기 시작하겠다고 발표했다. (B) 그 아이디어는 많은 가구가 거의 쓰지 않는 같은 물건을 갖고 있다는 것을 알아챈 한 자원봉사자에게서 나왔다. (A) 그 결과 작은 수리를 망설이던 주민들은 한 번만 쓸 장비를 사지 않고도 시도해 볼 수 있음을 알게 되었다. (C) 이런 반응에 힘입어 도서관은 이웃들이 함께 고치는 법을 배울 수 있는 수리 워크숍을 추가했다.',
+    why: '(B)의 The idea가 주어진 글의 도구 대여를 받고, (A)의 As a result가 그 결과이며, (C)의 this response가 (A)의 주민 반응을 가리킵니다.',
+    optionNotes: [
+      '아이디어의 출처(B)가 결과 뒤에 오면 The idea가 가리킬 대상이 어색합니다.',
+      '정답. (B) 아이디어 출처 → (A) 결과 → (C) 반응에 따른 확장.',
+      '(C)의 this response가 가리킬 반응이 아직 나오지 않았습니다.',
+      '(C)가 맨 앞이면 this response가 가리킬 대상이 없습니다.',
+      '(C)가 맨 앞이면 this response가 가리킬 대상이 없습니다.',
+    ],
+    trap: 'As a result만 보고 (A)를 첫째로 두기 쉽습니다. 결과가 되려면 원인이 먼저 나와야 합니다.',
+    tip: 'this, the idea 같은 지시어와 접속 부사가 가리키는 앞 내용을 찾으세요. 지시어가 든 문장은 맨 앞에 올 수 없습니다.',
+  },
+  {
+    id: 'mid-l-todo-001',
+    level: 'mid',
+    type: 'l-todo',
+    stem: '대화를 듣고, 남자가 할 일로 가장 적절한 것을 고르시오.',
+    script: [
+      { speaker: 'W', text: 'Hi, Mr. Kim. I wanted to ask about the field trip form.' },
+      { speaker: 'M', text: 'Sure. Is there a problem?' },
+      { speaker: 'W', text: "My son has a mild allergy to peanuts. I'm not sure the box lunch will be safe for him." },
+      { speaker: 'M', text: 'Thank you for telling me. Let me check with the caterer and call you back this afternoon.' },
+    ],
+    options: [
+      '알레르기 약을 구입한다',
+      '도시락 업체에 문의한다',
+      '현장학습 일정을 변경한다',
+      '학부모에게 안내문을 보낸다',
+      '학생 명단을 확인한다',
+    ],
+    answer: 1,
+    translation:
+      '여: 안녕하세요, 김 선생님. 현장학습 신청서에 대해 여쭤보고 싶어서요. / 남: 네. 무슨 문제가 있나요? / 여: 제 아들이 땅콩에 가벼운 알레르기가 있어서요. 도시락이 안전할지 잘 모르겠어요. / 남: 말씀해 주셔서 감사합니다. 도시락 업체에 확인해 보고 오늘 오후에 다시 전화드리겠습니다.',
+    why: '남자의 마지막 말 "Let me check with the caterer"에서 caterer는 도시락·급식 업체입니다.',
+    optionNotes: [
+      '알레르기 약은 언급되지 않았습니다.',
+      '정답. caterer(출장 음식 업체)에게 확인하겠다고 했습니다.',
+      '일정 변경은 나오지 않았습니다.',
+      '안내문을 보낸다는 말은 없습니다.',
+      '명단 확인은 언급되지 않았습니다.',
+    ],
+    trap: 'allergy라는 단어 때문에 ①(약 구입)을 떠올리기 쉽습니다.',
+    tip: '"할 일" 문제는 대화 마지막에 나오는 "Let me ~ / I\'ll ~" 표현을 잡으세요.',
+  },
+]
+
+export const QUESTION_MAP = Object.fromEntries(QUESTIONS.map((question) => [question.id, question]))

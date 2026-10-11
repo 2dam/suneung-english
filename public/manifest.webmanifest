@@ -1,0 +1,13 @@
+{
+  "name": "수능영어 유형 연습",
+  "short_name": "수능영어",
+  "description": "수능 영어 유형 대비 독창 문제 · 듣기 · 해설 · 오답노트",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#2f5bea",
+  "lang": "ko",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
