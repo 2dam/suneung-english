@@ -85,13 +85,18 @@ for (const q of questions) {
   }
 
   // 문제 유형별 구조 검사
-  if (q.type === 'grammar' && q.passage) {
-    for (let n = 1; n <= 5; n++) {
-      const count = (q.passage.match(new RegExp(`\\{${n}\\|`, 'g')) || []).length
-      if (count !== 1) err(id, `어법 지문에 {${n}|...} 표기가 ${count}개입니다(1개여야 함)`)
+  // 번호 밑줄 {1|..}~{5|..}: 어법·어휘는 반드시, 다른 유형도 하나라도 쓰면 다섯 개가 모두 있어야 한다
+  if (q.passage) {
+    const hasNumbered = /\{[1-5]\|/.test(q.passage)
+    const mustHave = q.type === 'grammar' || q.type === 'vocab'
+    if (mustHave || hasNumbered) {
+      for (let n = 1; n <= 5; n++) {
+        const count = (q.passage.match(new RegExp(`\\{${n}\\|`, 'g')) || []).length
+        if (count !== 1) err(id, `지문에 {${n}|...} 표기가 ${count}개입니다(1개여야 함)`)
+      }
     }
-    if (Array.isArray(q.options) && !q.options.every((o) => CIRCLED_RE.test(o))) {
-      err(id, '어법 문제의 보기는 ①~⑤ 번호여야 합니다')
+    if ((q.type === 'grammar' || q.type === 'vocab') && Array.isArray(q.options)) {
+      if (!q.options.every((o) => CIRCLED_RE.test(o))) err(id, `${q.type} 문제의 보기는 ①~⑤ 번호여야 합니다`)
     }
   }
   if (q.type === 'blank' && q.passage && !/_{5,}/.test(q.passage)) err(id, '빈칸 문제에 ____ 표기가 없습니다')

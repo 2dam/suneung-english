@@ -1,0 +1,104 @@
+[
+  {
+    "id": "mid-m01-41", "level": "mid", "set": "mock-01", "no": 41, "type": "long", "group": "m01-g41",
+    "stem": "[41~42] 윗글의 제목으로 가장 적절한 것을 고르시오.",
+    "passage": "Long before supermarkets and refrigerators, farmers in many parts of the world kept a small portion of their best seeds each year. These seeds were not simply a {1|supply} of next season's crops; they were a form of memory. Each variety carried the traces of generations of {2|careless} selection, adapted to a particular soil, climate, and taste. Today, however, a handful of high-yield varieties dominate the world's fields, and thousands of traditional varieties have {3|disappeared}. Scientists warn that this loss is more than a cultural pity. If a new disease or an extreme drought strikes the dominant crops, we may need the {4|valuable} genes of forgotten varieties to breed plants that can survive. For this reason, seed banks around the world have begun to store seeds from as many varieties as possible in cold, secure vaults. Such places are sometimes described as insurance policies for humanity, because they {5|preserve} the diversity that future farmers may urgently need.",
+    "options": [
+      "Why Farmers Stopped Saving Their Seeds",
+      "The Rise of High-Yield Crops Around the World",
+      "Seed Banks: Guarding Diversity for an Uncertain Future",
+      "Cold Storage Techniques for Fresh Vegetables",
+      "Traditional Farming Methods versus Modern Machines"
+    ],
+    "answer": 2,
+    "translation": "슈퍼마켓과 냉장고가 생기기 훨씬 전, 세계 여러 곳의 농부들은 해마다 가장 좋은 씨앗 일부를 따로 보관했다. 이 씨앗들은 단순히 다음 철 작물의 공급원이 아니라 일종의 기억이었다. 각각의 품종은 특정한 토양, 기후, 입맛에 맞게 적응하며 여러 세대에 걸쳐 신중하게 선택된 흔적을 지니고 있었다. 그러나 오늘날에는 소수의 고수확 품종이 세계의 들판을 지배하고, 수천 종의 전통 품종이 사라졌다. 과학자들은 이 손실이 문화적 아쉬움 이상이라고 경고한다. 새로운 질병이나 극심한 가뭄이 지배적인 작물을 덮치면, 살아남을 수 있는 식물을 육종하기 위해 잊힌 품종의 귀중한 유전자가 필요할 수 있다. 이런 이유로 전 세계 종자 은행은 가능한 한 많은 품종의 씨앗을 차갑고 안전한 저장고에 보관하기 시작했다. 이런 곳은 인류의 보험이라고 불리기도 하는데, 미래의 농부들이 절실히 필요로 할 다양성을 보존하기 때문이다.",
+    "why": "사라진 전통 품종의 가치와 이를 보존하는 종자 은행을 다루므로, 불확실한 미래를 위해 다양성을 지키는 종자 은행이 글의 제목입니다.",
+    "optionNotes": [
+      "농부들이 씨앗 보관을 그만둔 이유를 다룬 글이 아닙니다.",
+      "고수확 품종은 배경으로 언급될 뿐 글의 중심이 아닙니다.",
+      "정답. 종자 은행이 다양성을 보존한다는 핵심을 담았습니다.",
+      "신선 채소의 저장 기술이 아닙니다.",
+      "전통 농법과 기계의 비교는 다루지 않습니다."
+    ],
+    "trap": "②는 본문 중반의 'high-yield varieties'를 가져온 보기로, 글이 문제 삼는 현상일 뿐 중심 내용이 아닙니다.",
+    "tip": "제목 문제는 글이 결국 향하는 곳(종자 은행의 역할)을 찾으세요. 'For this reason' 이후가 핵심입니다."
+  },
+  {
+    "id": "mid-m01-42", "level": "mid", "set": "mock-01", "no": 42, "type": "long", "group": "m01-g41",
+    "stem": "[41~42] 밑줄 친 ①~⑤ 중에서 문맥상 낱말의 쓰임이 적절하지 않은 것을 고르시오.",
+    "passage": "Long before supermarkets and refrigerators, farmers in many parts of the world kept a small portion of their best seeds each year. These seeds were not simply a {1|supply} of next season's crops; they were a form of memory. Each variety carried the traces of generations of {2|careless} selection, adapted to a particular soil, climate, and taste. Today, however, a handful of high-yield varieties dominate the world's fields, and thousands of traditional varieties have {3|disappeared}. Scientists warn that this loss is more than a cultural pity. If a new disease or an extreme drought strikes the dominant crops, we may need the {4|valuable} genes of forgotten varieties to breed plants that can survive. For this reason, seed banks around the world have begun to store seeds from as many varieties as possible in cold, secure vaults. Such places are sometimes described as insurance policies for humanity, because they {5|preserve} the diversity that future farmers may urgently need.",
+    "options": ["①", "②", "③", "④", "⑤"],
+    "answer": 1,
+    "translation": "(41번 지문과 같은 글입니다.)",
+    "why": "농부들이 가장 좋은 씨앗을 골라 보관했고 품종이 환경에 맞게 적응했다는 흐름이므로, 여러 세대에 걸친 selection은 careless(부주의한)가 아니라 careful(신중한)이어야 합니다.",
+    "optionNotes": [
+      "씨앗이 '다음 철 작물의 공급원'이라는 의미로 supply가 적절합니다.",
+      "정답(부적절). 가장 좋은 씨앗을 골라 적응시킨 과정이므로 careful이 와야 합니다.",
+      "전통 품종이 사라졌다는 흐름에 disappeared가 적절합니다.",
+      "잊힌 품종의 유전자가 필요하다는 흐름에 valuable이 적절합니다.",
+      "종자 은행이 다양성을 보존한다는 흐름에 preserve가 적절합니다."
+    ],
+    "trap": "selection 앞의 형용사는 문맥(best seeds)과 함께 읽어야 합니다. 형용사만 보면 어색함을 놓치기 쉽습니다.",
+    "tip": "어휘 문제는 문장 하나가 아니라 앞뒤 흐름(긍정/부정 방향)이 일치하는지 확인하세요."
+  },
+  {
+    "id": "mid-m01-43", "level": "mid", "set": "mock-01", "no": 43, "type": "long", "group": "m01-g43",
+    "stem": "[43~45] 주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것을 고르시오.",
+    "passage": "(A) Hana's grandfather ran a small repair shop at the end of the street, where broken clocks, radios, and toasters waited on dusty shelves. Hana, who was eleven, often sat beside him as he worked. One afternoon, a stranger brought in an old radio that had not made a sound in thirty years. {1|He} said it had belonged to his late wife and that he only wished to hear one particular song again.\n(B) For three days, Hana's grandfather cleaned each part of the radio and replaced the burnt wires, while Hana handed {2|him} tools and held the lamp whenever more light was needed. On the third evening, he slowly turned the dial, and a soft crackle filled the shop, followed by a faint melody.\n(C) The stranger returned the next morning. When he heard the music, his eyes filled with tears. He asked how much he owed, but Hana's grandfather said that the look on the man's face was payment enough. Hana, watching quietly, realized that {3|he} repaired not machines but memories.\n(D) Hana's grandfather examined the radio carefully and warned the man that the parts might no longer exist. Still, he agreed to try. Seeing Hana's curious look, {4|he} asked whether she would like to help. She nodded eagerly, and {5|he} gave her a small screwdriver and a soft cloth to begin.",
+    "options": ["(B)-(D)-(C)", "(C)-(B)-(D)", "(C)-(D)-(B)", "(D)-(B)-(C)", "(D)-(C)-(B)"],
+    "answer": 3,
+    "translation": "(A) Hana의 할아버지는 거리 끝에서 작은 수리점을 운영했는데, 그곳 먼지 쌓인 선반에는 고장 난 시계, 라디오, 토스터가 놓여 있었다. 열한 살인 Hana는 할아버지가 일할 때 종종 곁에 앉아 있었다. 어느 오후 한 낯선 남자가 30년 동안 소리를 내지 못한 낡은 라디오를 가져왔다. 그는 그것이 세상을 떠난 아내의 것이었고, 특정한 노래를 다시 한 번 듣고 싶을 뿐이라고 말했다. (D) 할아버지는 라디오를 주의 깊게 살펴보고 부품이 더 이상 없을지도 모른다고 경고했다. 그래도 해 보기로 했다. Hana의 호기심 어린 표정을 보고 그는 도와주겠느냐고 물었다. 그녀는 열심히 고개를 끄덕였고, 그는 작은 드라이버와 부드러운 천을 주며 시작하게 했다. (B) 사흘 동안 할아버지는 라디오의 각 부품을 닦고 탄 전선을 교체했고, Hana는 그에게 도구를 건네며 빛이 더 필요할 때마다 등을 들어 주었다. 사흘째 저녁, 그가 천천히 다이얼을 돌리자 작은 지직거림이 가게를 채웠고 곧 희미한 선율이 이어졌다. (C) 낯선 남자는 다음 날 아침에 돌아왔다. 음악을 듣자 그의 눈에 눈물이 고였다. 그는 얼마를 내야 하느냐고 물었지만 할아버지는 남자의 표정이 충분한 대가라고 말했다. Hana는 조용히 지켜보며 그가 기계가 아니라 기억을 고친다는 것을 깨달았다.",
+    "why": "(A)에서 낯선 남자가 라디오를 맡기고, (D)에서 할아버지가 수리를 수락하며 Hana에게 도움을 청하고, (B)에서 사흘간 수리해 소리가 나며, (C)에서 남자가 돌아와 음악을 듣습니다.",
+    "optionNotes": [
+      "(B)가 먼저 오면 수리를 수락하는 장면(D)이 수리 뒤에 놓여 어색합니다.",
+      "(C)는 수리가 끝난 뒤의 장면이므로 (A) 바로 뒤에 올 수 없습니다.",
+      "(C)는 수리가 끝난 뒤의 장면이므로 (A) 바로 뒤에 올 수 없습니다.",
+      "정답. 수락 → 수리 → 남자의 재방문.",
+      "(C)가 (B)보다 앞서면 수리 전에 음악을 듣게 됩니다."
+    ],
+    "trap": "(B)의 'For three days'가 수리를 이야기하므로 (A) 바로 뒤에 올 수 있어 보이지만, 수리를 맡기로 한 (D)가 먼저 와야 합니다.",
+    "tip": "소설체 글은 사건의 인과(맡김 → 수락 → 수리 → 완성 → 반응)를 시간 순서로 정리하세요."
+  },
+  {
+    "id": "mid-m01-44", "level": "mid", "set": "mock-01", "no": 44, "type": "long", "group": "m01-g43",
+    "stem": "[43~45] 밑줄 친 ①~⑤ 중에서 가리키는 대상이 나머지 넷과 다른 것을 고르시오.",
+    "passage": "(A) Hana's grandfather ran a small repair shop at the end of the street, where broken clocks, radios, and toasters waited on dusty shelves. Hana, who was eleven, often sat beside him as he worked. One afternoon, a stranger brought in an old radio that had not made a sound in thirty years. {1|He} said it had belonged to his late wife and that he only wished to hear one particular song again.\n(B) For three days, Hana's grandfather cleaned each part of the radio and replaced the burnt wires, while Hana handed {2|him} tools and held the lamp whenever more light was needed. On the third evening, he slowly turned the dial, and a soft crackle filled the shop, followed by a faint melody.\n(C) The stranger returned the next morning. When he heard the music, his eyes filled with tears. He asked how much he owed, but Hana's grandfather said that the look on the man's face was payment enough. Hana, watching quietly, realized that {3|he} repaired not machines but memories.\n(D) Hana's grandfather examined the radio carefully and warned the man that the parts might no longer exist. Still, he agreed to try. Seeing Hana's curious look, {4|he} asked whether she would like to help. She nodded eagerly, and {5|he} gave her a small screwdriver and a soft cloth to begin.",
+    "options": ["①", "②", "③", "④", "⑤"],
+    "answer": 0,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "①의 He는 라디오를 가져온 낯선 남자이고, ②~⑤는 모두 Hana의 할아버지입니다.",
+    "optionNotes": [
+      "정답. 라디오를 가져온 낯선 남자를 가리킵니다.",
+      "Hana가 도구를 건네는 대상인 할아버지입니다.",
+      "Hana가 깨달은 대상으로, 기억을 고치는 할아버지입니다.",
+      "Hana에게 도와주겠느냐고 물은 할아버지입니다.",
+      "Hana에게 드라이버와 천을 준 할아버지입니다."
+    ],
+    "trap": "같은 단락에 인물이 둘(남자, 할아버지) 있으면 He가 항상 할아버지를 가리키는 것으로 착각하기 쉽습니다.",
+    "tip": "대명사 문제는 각 대명사가 속한 문장의 동사(said / handed / asked / gave)를 보고 행위자를 확인하세요."
+  },
+  {
+    "id": "mid-m01-45", "level": "mid", "set": "mock-01", "no": 45, "type": "long", "group": "m01-g43",
+    "stem": "[43~45] 윗글에 관한 내용으로 적절하지 않은 것을 고르시오.",
+    "passage": "(A) Hana's grandfather ran a small repair shop at the end of the street, where broken clocks, radios, and toasters waited on dusty shelves. Hana, who was eleven, often sat beside him as he worked. One afternoon, a stranger brought in an old radio that had not made a sound in thirty years. {1|He} said it had belonged to his late wife and that he only wished to hear one particular song again.\n(B) For three days, Hana's grandfather cleaned each part of the radio and replaced the burnt wires, while Hana handed {2|him} tools and held the lamp whenever more light was needed. On the third evening, he slowly turned the dial, and a soft crackle filled the shop, followed by a faint melody.\n(C) The stranger returned the next morning. When he heard the music, his eyes filled with tears. He asked how much he owed, but Hana's grandfather said that the look on the man's face was payment enough. Hana, watching quietly, realized that {3|he} repaired not machines but memories.\n(D) Hana's grandfather examined the radio carefully and warned the man that the parts might no longer exist. Still, he agreed to try. Seeing Hana's curious look, {4|he} asked whether she would like to help. She nodded eagerly, and {5|he} gave her a small screwdriver and a soft cloth to begin.",
+    "options": [
+      "할아버지의 수리점은 거리 끝에 있었다.",
+      "낯선 남자가 가져온 라디오는 30년 동안 소리를 내지 못했다.",
+      "할아버지는 수리 전에 부품이 없을 수도 있다고 경고했다.",
+      "라디오는 사흘째 저녁에 소리를 냈다.",
+      "남자는 수리비를 지불하고 돌아갔다."
+    ],
+    "answer": 4,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "할아버지는 남자의 표정이 충분한 대가라고 말했으므로 수리비를 받지 않았습니다. 남자가 수리비를 지불했다는 ⑤는 글의 내용과 일치하지 않습니다.",
+    "optionNotes": [
+      "at the end of the street와 일치합니다.",
+      "had not made a sound in thirty years와 일치합니다.",
+      "warned the man that the parts might no longer exist와 일치합니다.",
+      "On the third evening ... a faint melody와 일치합니다.",
+      "정답(불일치). 'the look on the man's face was payment enough'로 수리비를 받지 않았습니다."
+    ],
+    "trap": "'He asked how much he owed'에서 남자가 돈을 낸 것으로 착각하기 쉽습니다. 할아버지가 받지 않았습니다.",
+    "tip": "일치하지 않는 것 문제는 질문-응답이 있는 장면에서 응답까지 읽고 결론을 확인하세요."
+  }
+]

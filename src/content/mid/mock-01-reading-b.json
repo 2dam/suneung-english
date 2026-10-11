@@ -1,0 +1,248 @@
+[
+  {
+    "id": "mid-m01-29", "level": "mid", "set": "mock-01", "no": 29, "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Sleep researchers have long known that memory is not simply stored in the brain during the day. Rather, the connections {1|that} form while we learn are strengthened overnight. During deep sleep, the brain replays the day's events and moves important information to long-term storage, {2|making} it easier to recall later. This is {3|why} students who sleep well after studying often perform better than those who stay up all night. Of course, getting enough rest is not always easy, {4|especially} when so many distractions compete for our attention. However, experts suggest that going to bed at a regular time {5|help} the brain to organize what has been learned.",
+    "options": ["①", "②", "③", "④", "⑤"],
+    "answer": 4,
+    "translation": "수면 연구자들은 오래전부터 기억이 낮 동안 뇌에 단순히 저장되는 것이 아니라는 것을 알고 있었다. 오히려 우리가 배우는 동안 형성되는 연결이 밤사이 강화된다. 깊은 잠을 자는 동안 뇌는 그날의 사건을 되풀이해 재생하며 중요한 정보를 장기 저장소로 옮기고, 그래서 나중에 떠올리기 쉬워진다. 이것이 공부한 뒤 잘 자는 학생이 밤을 새운 학생보다 종종 더 좋은 성적을 내는 이유이다. 물론 충분히 쉬는 것은 항상 쉽지 않은데, 특히 수많은 방해 요소가 우리의 주의를 끌려고 경쟁할 때 그렇다. 그러나 전문가들은 규칙적인 시간에 잠자리에 드는 것이 뇌가 배운 것을 정리하도록 돕는다고 제안한다.",
+    "why": "that절의 주어는 동명사구 'going to bed at a regular time'으로 단수 취급하므로 동사는 help가 아니라 helps여야 합니다.",
+    "optionNotes": [
+      "주격 관계대명사 that이며 선행사 the connections(복수)에 맞춰 동사 form이 쓰였습니다.",
+      "앞 절 전체를 결과로 이어 주는 분사구문(making)이 적절합니다.",
+      "'This is why ~'는 이유를 나타내는 관계부사 구문으로 적절합니다.",
+      "부사 especially가 when 절을 수식하는 것으로 적절합니다.",
+      "정답(틀린 것). 동명사구 주어는 단수이므로 helps여야 합니다."
+    ],
+    "trap": "동사 바로 앞의 'regular time'에 끌려 단수/복수를 잘못 판단하기 쉽습니다. 주어는 'going to bed ...'라는 동명사구 전체입니다.",
+    "tip": "동사 문제는 먼저 그 동사의 주어를 찾으세요. 동명사구·to부정사구·명사절 주어는 단수 취급합니다."
+  },
+  {
+    "id": "mid-m01-30", "level": "mid", "set": "mock-01", "no": 30, "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Scientists studying ancient trees have found that growth rings can reveal more than a tree's age. Narrow rings usually indicate years of {1|plentiful} rainfall, while wide rings point to {2|favorable} conditions. By {3|comparing} the rings of many trees from the same region, researchers can build a detailed record of past climate. This record is {4|valuable} because written weather reports exist for only a few centuries. Some ancient trees therefore function as living archives, {5|preserving} information about thousands of years of environmental change.",
+    "options": ["①", "②", "③", "④", "⑤"],
+    "answer": 0,
+    "translation": "고대 나무를 연구하는 과학자들은 나이테가 나무의 나이 이상의 것을 알려 줄 수 있음을 발견했다. 좁은 나이테는 보통 강우량이 풍부했던 해를 나타내고, 넓은 나이테는 유리한 조건을 가리킨다. 같은 지역에 있는 많은 나무의 나이테를 비교함으로써 연구자들은 과거 기후의 상세한 기록을 만들 수 있다. 기상을 기록한 문서는 몇 세기 분량밖에 없기 때문에 이 기록은 귀중하다. 따라서 일부 고대 나무는 수천 년에 걸친 환경 변화의 정보를 보존하는 살아 있는 기록 보관소 역할을 한다.",
+    "why": "넓은 나이테가 유리한 조건을 가리킨다고 했으므로 좁은 나이테는 불리한 조건, 곧 비가 적었던 해를 나타냅니다. plentiful(풍부한)은 scarce(부족한)여야 합니다.",
+    "optionNotes": [
+      "정답(부적절). 'while wide rings ~'와의 대조로 보아 scarce가 와야 합니다.",
+      "넓은 나이테 = 좋은 성장 조건이므로 favorable은 적절합니다.",
+      "여러 나무를 비교해 기록을 만든다는 흐름에 comparing이 적절합니다.",
+      "문헌 기록이 짧아서 나이테 기록이 귀중하다는 흐름에 valuable이 적절합니다.",
+      "정보를 보존하는 기록 보관소라는 흐름에 preserving이 적절합니다."
+    ],
+    "trap": "rain이 나왔다고 해서 rainfall 앞의 형용사를 그대로 받아들이기 쉽습니다. while로 이어지는 대조 구조를 확인하세요.",
+    "tip": "어휘 문제는 while, but, whereas 같은 대조 표지 앞뒤의 의미 방향이 맞는지 확인하세요."
+  },
+  {
+    "id": "mid-m01-31", "level": "mid", "set": "mock-01", "no": 31, "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Most people believe that creativity thrives when there are no limits. A blank page, an unlimited budget, and endless time seem like the perfect conditions for imagination. In practice, however, total freedom often paralyzes us because we have no direction in which to move. Poets, for example, have produced some of their most inventive work within the strict rules of the sonnet, and designers often say that a tight deadline pushes them toward bolder choices. Boundaries give the mind something to push against. In other words, creativity is often sparked not by the absence of limits but by __________.",
+    "options": [
+      "choosing the most familiar way of working",
+      "gathering as many resources as we can",
+      "the presence of well-chosen constraints",
+      "ignoring the opinions of other people",
+      "having enough time to rest and reflect"
+    ],
+    "answer": 2,
+    "translation": "대부분의 사람들은 제약이 없을 때 창의성이 꽃핀다고 믿는다. 빈 종이, 무제한의 예산, 끝없는 시간은 상상력에 완벽한 조건처럼 보인다. 그러나 실제로는 완전한 자유가 오히려 우리를 마비시키는 경우가 많은데, 나아갈 방향이 없기 때문이다. 예를 들어 시인들은 소네트의 엄격한 규칙 안에서 가장 독창적인 작품을 내놓았고, 디자이너들은 촉박한 마감이 더 대담한 선택으로 이끈다고 말하곤 한다. 경계는 마음이 맞서 밀어낼 무언가를 제공한다. 다시 말해 창의성은 제약이 없을 때가 아니라 잘 고른 제약이 있을 때 자주 불붙는다.",
+    "why": "소네트의 규칙, 촉박한 마감 같은 예와 'Boundaries give the mind something to push against'를 일반화하면 잘 고른 제약이 창의성을 불러일으킨다는 결론이 됩니다.",
+    "optionNotes": [
+      "익숙한 방식을 고르는 것은 글과 무관합니다.",
+      "자원을 많이 모으는 것은 'unlimited budget'을 긍정하는 쪽이라 글의 주장과 반대입니다.",
+      "정답. constraints(제약)의 존재가 창의성을 자극합니다.",
+      "타인의 의견을 무시한다는 내용은 없습니다.",
+      "휴식과 성찰은 언급되지 않았습니다."
+    ],
+    "trap": "②는 첫 단락의 통념(unlimited budget)에 가까운 선택지로, 글이 반박하는 쪽입니다.",
+    "tip": "빈칸이 'not A but B'의 B라면, A는 앞에서 부정되는 통념입니다. 예시의 공통점으로 B를 채우세요."
+  },
+  {
+    "id": "mid-m01-32", "level": "mid", "set": "mock-01", "no": 32, "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In a classroom, we often reward the student who answers first. Speed looks like intelligence. But in the world beyond school, problems rarely come with a question already attached to them. The person who succeeds is usually the one who can look at a confusing situation and ask the question that no one has thought to ask. A well-crafted question does more than request information; it reveals what we do not yet understand and directs our attention toward it. That is why experienced scientists often spend more time __________ than finding the answer to it.",
+    "options": [
+      "memorizing facts about the problem",
+      "deciding what the problem really is",
+      "looking for answers in textbooks",
+      "comparing their results with others",
+      "working alone in the laboratory"
+    ],
+    "answer": 1,
+    "translation": "교실에서는 가장 먼저 대답하는 학생에게 보상하는 경우가 많다. 속도는 지능처럼 보인다. 그러나 학교 밖 세계에서 문제는 질문이 이미 붙은 채로 오는 경우가 드물다. 성공하는 사람은 대개 혼란스러운 상황을 보고 아무도 묻지 않은 질문을 던질 수 있는 사람이다. 잘 만든 질문은 정보를 요청하는 것 이상을 한다. 그것은 우리가 아직 이해하지 못한 것을 드러내고 우리의 주의를 그쪽으로 향하게 한다. 그래서 숙련된 과학자들은 종종 문제의 답을 찾는 것보다 문제가 실제로 무엇인지 결정하는 데 더 많은 시간을 쓴다.",
+    "why": "문제에 질문이 이미 붙어 오지 않으며 좋은 질문을 던지는 것이 중요하다는 흐름이므로, 답을 찾기보다 문제가 무엇인지 규정하는 데 시간을 쓴다는 내용이 적절합니다.",
+    "optionNotes": [
+      "사실을 암기한다는 내용은 글과 무관합니다.",
+      "정답. 질문을 던져 문제를 규정하는 일을 가리킵니다.",
+      "교과서에서 답을 찾는 것은 'finding the answer'의 방향입니다.",
+      "결과를 남과 비교하는 내용은 없습니다.",
+      "혼자 실험실에서 일한다는 내용은 없습니다."
+    ],
+    "trap": "③은 빈칸 뒤의 'than finding the answer'와 같은 방향이라 비교 구조에 어긋납니다.",
+    "tip": "'more A than B'에서 B가 주어져 있으면 A는 B와 대조되는 활동이어야 합니다."
+  },
+  {
+    "id": "mid-m01-33", "level": "mid", "set": "mock-01", "no": 33, "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A common mistake of beginning musicians is to believe that music is made of sounds alone. They concentrate on playing every note correctly and fill every moment with activity. Experienced performers understand something different. The silence between the notes gives each sound its shape; without it, a melody would blur into a single, unbroken noise. A well-placed pause can build tension, give the listener time to absorb what has just been heard, and make the next note feel more powerful. In this sense, silence in music is not an empty space but __________.",
+    "options": [
+      "a sign that the performer has made an error",
+      "a break that tires the audience",
+      "a result of poor rehearsal",
+      "a technique used only by beginners",
+      "an active element that gives meaning to the sounds around it"
+    ],
+    "answer": 4,
+    "translation": "초보 음악가들의 흔한 실수는 음악이 소리만으로 이루어졌다고 믿는 것이다. 그들은 모든 음을 정확하게 연주하는 데 집중하고 모든 순간을 활동으로 채운다. 숙련된 연주자들은 다른 것을 이해한다. 음과 음 사이의 침묵이 각각의 소리에 형태를 부여하며, 그것이 없다면 선율은 하나의 끊어지지 않는 소음으로 흐려질 것이다. 적절한 곳의 쉼은 긴장을 만들고, 청자가 방금 들은 것을 소화할 시간을 주며, 다음 음을 더 강력하게 느끼게 한다. 이런 의미에서 음악의 침묵은 빈 공간이 아니라 주변의 소리에 의미를 부여하는 능동적인 요소이다.",
+    "why": "침묵이 음에 형태를 주고 긴장을 만들며 다음 음을 강조한다는 설명이므로, 침묵은 주변 소리에 의미를 주는 능동적 요소라는 결론이 됩니다.",
+    "optionNotes": [
+      "침묵이 실수의 신호라는 내용은 없습니다.",
+      "청중을 피로하게 한다는 내용은 없습니다.",
+      "연습 부족의 결과라는 내용은 없습니다.",
+      "초보자만 쓰는 기법이라는 내용은 글과 반대입니다.",
+      "정답. 침묵이 소리에 형태와 의미를 부여한다는 내용입니다."
+    ],
+    "trap": "'not an empty space but ~'에서 정답은 'empty'의 반대 의미(능동적·의미 있는)를 가져야 합니다.",
+    "tip": "'not A but B'에서 A는 통념이므로, B는 A의 반대 방향이며 앞의 근거(shape, tension, powerful)를 담은 표현을 고르세요."
+  },
+  {
+    "id": "mid-m01-34", "level": "mid", "set": "mock-01", "no": 34, "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "For most of history, information was hard to obtain. Books were rare, experts were few, and people valued knowledge because it was difficult to find. Today the situation is reversed. We can look up almost any fact within seconds, and the sheer amount of material available far exceeds what anyone could read in a lifetime. As a result, the limiting resource is no longer information itself. What has become scarce is the ability to decide which pieces deserve our focus. In an age of abundance, the most valuable skill is therefore not collecting more information but __________.",
+    "options": [
+      "finding faster ways to search the internet",
+      "memorizing as many facts as possible",
+      "trusting whichever source is most popular",
+      "choosing carefully what to pay attention to",
+      "avoiding technology altogether"
+    ],
+    "answer": 3,
+    "translation": "역사의 대부분 동안 정보는 얻기 어려웠다. 책은 드물었고 전문가도 적었으며, 사람들은 지식을 찾기 어려웠기 때문에 가치 있게 여겼다. 오늘날 상황은 뒤바뀌었다. 우리는 거의 모든 사실을 몇 초 안에 찾아볼 수 있고, 이용할 수 있는 자료의 양은 누구든 평생 읽을 수 있는 양을 훨씬 넘는다. 그 결과 한정된 자원은 더 이상 정보 자체가 아니다. 희소해진 것은 어떤 조각이 우리의 집중을 받을 만한지 결정하는 능력이다. 그러므로 풍요의 시대에 가장 가치 있는 기술은 더 많은 정보를 모으는 것이 아니라 무엇에 주의를 기울일지 신중하게 고르는 것이다.",
+    "why": "정보가 넘쳐나서 희소해진 것은 어떤 정보에 집중할지 결정하는 능력이라고 했으므로, 무엇에 주의를 기울일지 신중하게 고르는 것이 가장 가치 있는 기술입니다.",
+    "optionNotes": [
+      "더 빨리 검색하는 것은 '더 많은 정보를 모으는 것'의 연장입니다.",
+      "많은 사실을 암기하는 것은 글과 반대 방향입니다.",
+      "인기 있는 출처를 믿는다는 내용은 없습니다.",
+      "정답. 무엇에 주의를 기울일지 선택하는 능력입니다.",
+      "기술을 완전히 피한다는 극단적 내용은 근거가 없습니다."
+    ],
+    "trap": "①은 '정보 시대의 기술'이라는 상식에 이끌리기 쉽지만, 글은 모으는 것이 아니라 선별하는 것을 강조합니다.",
+    "tip": "빈칸 바로 앞 'What has become scarce is ~' 문장이 정답의 핵심입니다. 희소해진 것이 가치 있는 것입니다."
+  },
+  {
+    "id": "mid-m01-35", "level": "mid", "set": "mock-01", "no": 35, "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Honeybees have a remarkable way of sharing information about food. When a worker bee finds a good source of nectar, she returns to the hive and performs a 'waggle dance.' ① Many people feel anxious around bees because of their stings, even though most bees are not aggressive. ② The angle of the dance relative to the vertical shows the direction of the food in relation to the sun. ③ The length of the waggling part tells the other bees how far they must fly. ④ By watching closely, the other workers can head straight to the flowers without searching blindly. ⑤ This efficient system helps the colony collect large amounts of nectar with little wasted effort.",
+    "options": ["①", "②", "③", "④", "⑤"],
+    "answer": 0,
+    "translation": "꿀벌은 먹이에 관한 정보를 공유하는 놀라운 방법을 가지고 있다. 일벌이 좋은 꿀 공급원을 발견하면 벌집으로 돌아와 ‘8자 춤’을 춘다. ① 많은 사람들은 벌침 때문에 벌 주변에서 불안해하지만, 대부분의 벌은 공격적이지 않다. ② 수직선에 대한 춤의 각도는 태양에 대한 먹이의 방향을 보여 준다. ③ 흔드는 부분의 길이는 다른 벌들에게 얼마나 멀리 날아야 하는지 알려 준다. ④ 자세히 지켜봄으로써 다른 일벌들은 눈먼 탐색 없이 곧장 꽃으로 향할 수 있다. ⑤ 이 효율적인 체계는 벌집이 거의 낭비 없이 많은 꿀을 모으도록 돕는다.",
+    "why": "글은 꿀벌이 춤으로 먹이 정보를 공유하는 방법을 설명하는데, ①은 사람들이 벌침 때문에 느끼는 불안으로 화제에서 벗어납니다.",
+    "optionNotes": [
+      "정답(무관). 사람들의 불안과 벌침은 춤을 통한 정보 공유와 관계가 없습니다.",
+      "춤의 각도가 방향을 알려 준다는 설명입니다.",
+      "춤의 길이가 거리를 알려 준다는 설명입니다.",
+      "다른 벌들이 춤을 보고 꽃으로 향한다는 결과입니다.",
+      "체계의 효율성을 정리하는 마무리 문장입니다."
+    ],
+    "trap": "'bees'라는 같은 단어가 나오지만 화제가 정보 공유 방법에서 사람의 감정으로 바뀐 문장입니다.",
+    "tip": "무관한 문장은 같은 소재의 단어를 쓰되 글의 논점(여기서는 '춤으로 정보를 전달하는 방법')에서 벗어납니다."
+  },
+  {
+    "id": "mid-m01-36", "level": "mid", "set": "mock-01", "no": 36, "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "When the city of Marlow decided to reduce traffic jams, officials first considered building a new road.\n(A) At first, many residents were doubtful that the lanes would make any difference. But within a year, thousands of commuters had switched from cars to bicycles, and the traffic jams in the center clearly eased.\n(B) However, studies showed that adding roads often invites even more cars, so the problem would soon return. Instead, they chose a different approach: building protected lanes for bicycles.\n(C) The success of the project encouraged the city to extend the lanes into neighboring districts, and other cities have begun to follow its example.",
+    "options": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+    "answer": 1,
+    "translation": "Marlow 시가 교통 체증을 줄이기로 했을 때, 공무원들은 처음에 새 도로를 건설하는 것을 고려했다. (B) 그러나 연구에 따르면 도로를 늘리면 오히려 더 많은 차를 불러들여 문제가 곧 되돌아온다. 대신 그들은 다른 접근을 택했는데, 자전거 보호 차선을 만드는 것이었다. (A) 처음에는 많은 주민이 그 차선이 효과가 있을지 의심했다. 그러나 1년 안에 수천 명의 통근자가 자동차에서 자전거로 바꿨고 중심가의 체증이 눈에 띄게 줄었다. (C) 이 프로젝트의 성공은 시가 인근 지구로 차선을 넓히도록 이끌었고, 다른 도시들도 그 사례를 따르기 시작했다.",
+    "why": "(B)에서 자전거 차선이 처음 등장하고, (A)의 'the lanes'가 이를 받으며, (C)의 'The success of the project'가 (A)의 결과를 받습니다.",
+    "optionNotes": [
+      "(A)의 'the lanes'가 가리킬 차선이 앞에 소개되지 않습니다.",
+      "정답. 도로 대신 차선 → 주민 반응과 결과 → 성공과 확산.",
+      "(C)의 'success'는 결과를 서술한 (A) 뒤에 와야 합니다.",
+      "(C)가 먼저 오면 성공의 근거가 없습니다.",
+      "(C)가 먼저 오면 성공의 근거가 없습니다."
+    ],
+    "trap": "(A)의 'But within a year'만 보면 어디에나 올 수 있을 것 같지만, 정관사 'the lanes'가 (B)를 먼저 요구합니다.",
+    "tip": "the + 명사, 대명사, 접속 부사(However, Instead)가 가리키는 앞 내용을 찾아 연결 고리를 만드세요."
+  },
+  {
+    "id": "mid-m01-37", "level": "mid", "set": "mock-01", "no": 37, "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Every spring, the town of Hallow Creek holds a festival to celebrate the return of its migrating swans.\n(A) Soon his neighbors joined him, and the small act of kindness turned into a yearly gathering where villagers fed the birds together and shared a meal by the water.\n(B) Since then, the event has grown steadily, and today it attracts visitors from all over the country; the money raised through it is used to protect the wetlands where the swans nest.\n(C) The tradition goes back nearly a hundred years. After an unusually harsh winter, a local farmer noticed that the swans arriving at the river were too weak to find food, so he began scattering grain along the bank.",
+    "options": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+    "answer": 3,
+    "translation": "매년 봄 Hallow Creek 마을은 이동하는 백조의 귀환을 축하하는 축제를 연다. (C) 이 전통은 거의 100년 전으로 거슬러 올라간다. 유난히 혹독한 겨울이 지난 뒤, 한 지역 농부가 강에 도착한 백조들이 너무 약해 먹이를 찾지 못하는 것을 알아채고 강둑을 따라 곡식을 뿌리기 시작했다. (A) 곧 그의 이웃들이 함께했고, 그 작은 친절은 마을 사람들이 새들에게 함께 먹이를 주고 물가에서 식사를 나누는 연례 모임이 되었다. (B) 그 후 행사는 꾸준히 커져 오늘날에는 전국에서 방문객을 끌어들이며, 여기서 모인 돈은 백조가 둥지를 트는 습지를 보호하는 데 쓰인다.",
+    "why": "(C)가 전통의 기원(농부)을 소개하고, (A)의 'his neighbors'가 그 농부를 받으며, (B)의 'Since then'이 (A)에서 시작된 모임 이후의 변화를 서술합니다.",
+    "optionNotes": [
+      "(A)의 'his'가 가리킬 농부가 아직 소개되지 않았습니다.",
+      "(B)의 'Since then'이 가리킬 과거 사건이 앞에 없습니다.",
+      "(B)의 'Since then'이 가리킬 과거 사건이 앞에 없습니다.",
+      "정답. 기원 → 확산 → 이후의 성장.",
+      "(B)의 'Since then'은 (A)에서 모임이 시작된 뒤에 와야 합니다."
+    ],
+    "trap": "(B)의 'the event'가 주어진 글의 festival을 받아 앞에 올 수 있을 것 같지만, 'Since then'이 과거 사건을 요구합니다.",
+    "tip": "시간 부사(Since then, Soon, After)와 인물 대명사(his)를 순서의 단서로 삼으세요."
+  },
+  {
+    "id": "mid-m01-38", "level": "mid", "set": "mock-01", "no": 38, "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThe answer may lie in how the reward changed the way they saw the activity.\n\n[글]\nIn a well-known experiment, psychologists studied children who loved to draw. ( ① ) One group was promised a gold star for a good drawing, and a week later these children spent far less time drawing during free play than the others. ( ② ) Why would a reward reduce their interest? ( ③ ) Drawing, once a pleasure in itself, had become a job done for payment. ( ④ ) When the payment disappeared, so did their reason to draw. ( ⑤ )",
+    "options": ["①", "②", "③", "④", "⑤"],
+    "answer": 2,
+    "translation": "[주어진 문장] 그 답은 보상이 그들이 활동을 바라보는 방식을 바꾼 데 있을지도 모른다. [글] 한 유명한 실험에서 심리학자들은 그림 그리기를 좋아하는 아이들을 연구했다. 한 집단은 좋은 그림에 금별을 주겠다는 약속을 받았고, 일주일 뒤 이 아이들은 다른 아이들보다 자유 시간에 그림을 훨씬 적게 그렸다. 왜 보상이 그들의 흥미를 줄였을까? 그림 그리기는 한때 그 자체로 즐거움이었지만 대가를 위한 일이 되어 버렸다. 대가가 사라지자 그림을 그릴 이유도 사라졌다.",
+    "why": "주어진 문장의 'The answer'는 바로 앞의 질문 'Why would a reward reduce their interest?'에 대한 답이므로 ③에 들어갑니다. 뒤 문장이 그 답을 구체적으로 설명합니다.",
+    "optionNotes": [
+      "아직 실험 결과가 나오지 않아 'The answer'가 가리킬 질문이 없습니다.",
+      "질문이 나오기 전이므로 'The answer'가 가리킬 대상이 없습니다.",
+      "정답. 질문 바로 뒤에서 답을 제시하고, 이어지는 문장이 구체적으로 설명합니다.",
+      "설명이 이미 끝난 뒤라서 'may lie'로 시작하는 추측이 어색합니다.",
+      "결론 뒤에 새로운 답을 추가하면 흐름이 끊깁니다."
+    ],
+    "trap": "'reward, activity' 같은 단어가 반복되어 어디에나 들어갈 수 있어 보입니다. 'The answer'라는 표현이 앞의 질문을 요구합니다.",
+    "tip": "주어진 문장의 지시어·정관사·답변 표현(The answer, This, That)이 가리키는 앞 문장을 찾으세요."
+  },
+  {
+    "id": "mid-m01-39", "level": "mid", "set": "mock-01", "no": 39, "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThat depends on who pays for the network and what they expect in return.\n\n[글]\nMany cities now offer free public Wi-Fi, but the service is rarely as simple as it sounds. ( ① ) Installing thousands of access points across a city requires large sums of money for equipment and maintenance. ( ② ) Some governments have therefore partnered with private companies, which pay for the network in exchange for the right to display advertisements. ( ③ ) Critics, however, worry that such arrangements allow companies to collect information about users' movements. ( ④ ) So can free Wi-Fi ever truly be free? ( ⑤ )",
+    "options": ["①", "②", "③", "④", "⑤"],
+    "answer": 4,
+    "translation": "[주어진 문장] 그것은 누가 네트워크 비용을 내고 그 대가로 무엇을 기대하느냐에 달려 있다. [글] 많은 도시가 이제 무료 공공 와이파이를 제공하지만, 그 서비스는 들리는 것처럼 단순하지 않다. 도시 전역에 수천 개의 접속 장치를 설치하려면 장비와 유지 보수에 막대한 돈이 든다. 그래서 일부 정부는 광고를 표시할 권리를 대가로 네트워크 비용을 대는 민간 기업과 협력해 왔다. 그러나 비판자들은 이런 협정이 기업이 이용자의 이동 정보를 수집하도록 허용한다고 우려한다. 그렇다면 무료 와이파이가 정말로 무료일 수 있을까?",
+    "why": "주어진 문장의 'That depends on ~'는 질문 'So can free Wi-Fi ever truly be free?'에 대한 답이므로 맨 끝 ⑤에 들어갑니다.",
+    "optionNotes": [
+      "'That'이 가리킬 질문이 앞에 없습니다.",
+      "비용 이야기에서 'That'이 무엇인지 알 수 없습니다.",
+      "'That depends'가 광고 대가를 설명하는 문장에 붙으면 의미가 어색합니다.",
+      "비판 내용 뒤에 오면 'That'이 가리킬 질문이 뒤에 나와 순서가 뒤바뀝니다.",
+      "정답. 마지막 질문에 대한 답입니다."
+    ],
+    "trap": "'who pays' 때문에 비용을 설명하는 ②나 ③에 끌리기 쉽습니다. 'That depends'는 질문에 대한 답 표현입니다.",
+    "tip": "'That depends on ~'은 앞에 질문이 있어야 자연스럽습니다. 질문 바로 뒤를 찾으세요."
+  },
+  {
+    "id": "mid-m01-40", "level": "mid", "set": "mock-01", "no": 40, "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A well-known study in a grocery store offered shoppers a tasting table with either six or twenty-four jars of jam. The larger display attracted more attention, and more people stopped to look. Yet when it came to buying, the results were reversed: only about three percent of those who saw twenty-four jars made a purchase, compared with roughly thirty percent of those who saw six. Researchers explained that too many options make comparison tiring and increase the fear of choosing wrongly. With fewer options, people can decide with confidence and feel more satisfied afterward.\n\n▶ Although a (A) selection can attract more attention, it often (B) people from making decisions, whereas a limited range makes choosing easier.",
+    "options": [
+      "(A) wide — (B) discourages",
+      "(A) wide — (B) encourages",
+      "(A) narrow — (B) discourages",
+      "(A) narrow — (B) encourages",
+      "(A) familiar — (B) confuses"
+    ],
+    "answer": 0,
+    "translation": "한 식료품점의 유명한 연구는 구매자들에게 잼 6병 또는 24병이 놓인 시식대를 제공했다. 더 큰 진열이 더 많은 관심을 끌었고 더 많은 사람이 멈춰 서서 살펴보았다. 그러나 구매에 있어서는 결과가 뒤집혔다. 24병을 본 사람 중 약 3퍼센트만 구매했는데, 6병을 본 사람은 약 30퍼센트였다. 연구자들은 선택지가 너무 많으면 비교가 피곤해지고 잘못 고를까 하는 두려움이 커진다고 설명했다. 선택지가 적으면 사람들은 자신 있게 결정하고 이후 더 만족한다. ▶ 폭넓은 선택지는 더 많은 관심을 끌 수 있지만 사람들이 결정하는 것을 종종 단념시키는 반면, 제한된 범위는 선택을 더 쉽게 만든다.",
+    "why": "24병(많은 선택지)은 관심은 끌었지만 구매는 줄었으므로 (A)는 wide, (B)는 discourages(단념시키다)입니다.",
+    "optionNotes": [
+      "정답. 선택지가 많으면(wide) 결정을 단념시킵니다(discourages).",
+      "많은 선택지가 결정을 촉진한다는 것은 결과와 반대입니다.",
+      "(A)가 narrow이면 'attract more attention'과 모순됩니다.",
+      "(A)가 narrow이면 'attract more attention'과 모순됩니다.",
+      "familiar는 글에서 다루지 않은 개념입니다."
+    ],
+    "trap": "'Although ~ attract more attention'을 보고 (A)를 narrow로 착각하지 마세요. 관심을 더 끈 것은 24병(wide)입니다.",
+    "tip": "요약문은 글의 대비 구조(관심↑ vs 구매↓)를 그대로 옮긴 것입니다. (A)와 (B)를 각각 본문에서 찾아 대응시키세요."
+  }
+]
