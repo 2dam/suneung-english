@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m2-02-29",
+    "level": "m2",
+    "set": "mock-02",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "I have {1|lived} in Busan for ten years. My house is close to the sea, so I often go there. The beach {2|is visited} by many tourists every summer. Last weekend, I {3|saw} a famous singer there. She was {4|taking} pictures of the waves. I asked her {5|take} a photo with me.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "나는 부산에서 10년 동안 살아 왔다. 우리 집은 바다와 가까워서 나는 자주 그곳에 간다. 그 해변은 매년 여름 많은 관광객이 찾는다. 지난 주말에 나는 그곳에서 유명한 가수를 보았다. 그녀는 파도 사진을 찍고 있었다. 나는 그녀에게 나와 함께 사진을 찍어 달라고 부탁했다.",
+    "why": "'ask + 사람 + to부정사'의 구조이므로 take가 아니라 to take여야 합니다.",
+    "optionNotes": [
+      "'for ten years'와 함께 쓰인 현재완료 have lived가 맞습니다.",
+      "해변이 방문되는 것이므로 수동태 is visited가 맞습니다.",
+      "Last weekend가 있으므로 과거 saw가 맞습니다.",
+      "과거진행형 was taking이 맞습니다.",
+      "정답(틀린 것). ask her to take처럼 to부정사가 와야 합니다."
+    ],
+    "trap": "'asked her take'가 영어로 자연스럽게 들려 놓치기 쉽습니다. 'ask'는 목적어 뒤에 to부정사를 씁니다.",
+    "tip": "동사별 문형(ask/want/tell + 목적어 + to V)을 확인하세요."
+  },
+  {
+    "id": "m2-02-30",
+    "level": "m2",
+    "set": "mock-02",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Honey is a {1|natural} food that almost never goes bad. In ancient tombs, scientists found honey that was thousands of years old, and it was still safe to eat. Honey is so {2|sweet} that bacteria cannot live in it. It also contains very little water. Because of these {3|properties}, people can {4|waste} honey in a cupboard for many years. They can even eat it {5|safely} after a long time.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "꿀은 거의 상하지 않는 천연 식품이다. 고대 무덤에서 과학자들은 수천 년이 된 꿀을 발견했는데, 그것은 여전히 먹어도 안전했다. 꿀은 너무 달아서 세균이 살 수 없다. 또한 수분이 매우 적게 들어 있다. 이런 특성 때문에 사람들은 꿀을 찬장에 여러 해 동안 보관할 수 있다. 오랜 시간이 지난 후에도 안전하게 먹을 수 있다.",
+    "why": "꿀이 오래간다는 흐름이므로 찬장에 여러 해 동안 '낭비하다(waste)'가 아니라 '보관하다(keep/store)'가 알맞습니다.",
+    "optionNotes": [
+      "천연 식품이라는 의미로 natural이 알맞습니다.",
+      "너무 달아서 세균이 살 수 없다는 의미로 sweet이 알맞습니다.",
+      "특성이라는 의미로 properties가 알맞습니다.",
+      "정답(부적절). 오래 보관한다는 의미의 keep/store가 와야 합니다.",
+      "안전하게 먹을 수 있다는 의미로 safely가 알맞습니다."
+    ],
+    "trap": "'in a cupboard'와 'for many years'가 있어 문장 형태가 자연스러워 단어의 의미를 놓치기 쉽습니다.",
+    "tip": "어휘 문제는 문장의 결론(오래 보관할 수 있다)과 단어의 의미가 맞는지 확인하세요."
+  },
+  {
+    "id": "m2-02-31",
+    "level": "m2",
+    "set": "mock-02",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Traveling by plane is fast, but you usually miss the scenery. On a train, you can watch mountains, rivers, and villages pass by the window. There are no phone calls to answer, and no traffic to worry about. Many people say that they get their best ideas on a long train ride. That is because a slow trip gives your mind __________.",
+    "options": [
+      "a chance to compete with others in speed",
+      "a reason to buy souvenirs at the stations",
+      "time and space to wander freely",
+      "a way to avoid the strong sunlight",
+      "many tasks to finish as quickly as possible"
+    ],
+    "answer": 2,
+    "translation": "비행기 여행은 빠르지만 대개 풍경을 놓친다. 기차에서는 산과 강과 마을이 창밖으로 지나가는 것을 볼 수 있다. 받아야 할 전화도 없고 걱정할 교통 체증도 없다. 많은 사람들이 긴 기차 여행에서 가장 좋은 아이디어를 얻는다고 말한다. 느린 여행이 마음에 자유롭게 거닐 시간과 공간을 주기 때문이다.",
+    "why": "전화도 교통 걱정도 없이 풍경을 보며 좋은 아이디어를 얻는다고 했으므로, 마음이 자유롭게 거닐 시간과 공간을 준다는 내용이 알맞습니다.",
+    "optionNotes": [
+      "경쟁은 글에 나오지 않습니다.",
+      "기념품은 글에 나오지 않습니다.",
+      "정답. 느린 여행이 생각할 여유를 줍니다.",
+      "햇빛은 글에 나오지 않습니다.",
+      "서둘러 끝내야 할 일은 글의 방향과 반대입니다."
+    ],
+    "trap": "⑤는 'tasks'가 일반적인 여행 이미지와 맞아 보이지만 글은 '일이 없는' 상태를 설명합니다.",
+    "tip": "빈칸 앞의 이유(no phone calls, no traffic)를 긍정적인 상태로 바꾼 표현을 고르세요."
+  },
+  {
+    "id": "m2-02-32",
+    "level": "m2",
+    "set": "mock-02",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Researchers asked people to write down three things they were thankful for every night for two weeks. The things could be small, like a warm meal or a kind word. At the end, the people felt happier and slept better than before. Being thankful makes us notice the good things around us, which we often take for granted. In short, gratitude is a simple habit that can __________.",
+    "options": [
+      "make your difficult homework disappear",
+      "give you more money than you expect",
+      "help you win every single game easily",
+      "change the weather in your hometown",
+      "improve your mood and sleep"
+    ],
+    "answer": 4,
+    "translation": "연구자들은 사람들에게 2주 동안 매일 밤 감사한 일 세 가지를 적게 했다. 그것들은 따뜻한 식사나 친절한 말처럼 작은 것이어도 좋았다. 끝났을 때 사람들은 이전보다 더 행복해졌고 잠도 더 잘 잤다. 감사함은 우리가 당연하게 여기던 주변의 좋은 것들을 알아차리게 한다. 요컨대 감사하는 마음은 기분과 수면을 개선할 수 있는 단순한 습관이다.",
+    "why": "연구 결과 더 행복해지고 잠도 더 잘 잤다는 내용을 요약하면 기분과 수면을 개선한다는 결론입니다.",
+    "optionNotes": [
+      "숙제가 사라진다는 내용은 없습니다.",
+      "돈과 관련된 내용은 없습니다.",
+      "게임에서 이긴다는 내용은 없습니다.",
+      "날씨와 관련된 내용은 없습니다.",
+      "정답. 더 행복해지고 잠을 더 잘 잤습니다."
+    ],
+    "trap": "①②③④는 지나치게 과장된 효과이므로 연구 결과(happier, slept better)와 맞지 않습니다.",
+    "tip": "빈칸이 'In short'로 시작하면 앞의 연구 결과를 요약하세요."
+  },
+  {
+    "id": "m2-02-33",
+    "level": "m2",
+    "set": "mock-02",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Hearing and listening are not the same. Hearing is something that happens automatically when sounds reach your ears. Listening, on the other hand, requires effort. When you listen, you focus on the speaker, think about the meaning, and show interest. A simple nod or a short question shows that you care. Good listeners make speakers feel respected. Therefore, to be a good friend, you should __________.",
+    "options": [
+      "talk more than anyone else in the group",
+      "pay full attention when others speak",
+      "speak in a loud voice to be heard",
+      "always give advice to your friends",
+      "avoid difficult topics in a conversation"
+    ],
+    "answer": 1,
+    "translation": "듣는 것(hearing)과 귀 기울여 듣는 것(listening)은 같지 않다. 듣는 것은 소리가 귀에 닿을 때 자동으로 일어나는 일이다. 반면 귀 기울여 듣는 것은 노력이 필요하다. 귀 기울여 들을 때 우리는 화자에게 집중하고, 의미를 생각하며, 관심을 보인다. 고개를 끄덕이거나 짧게 질문하는 것만으로도 관심이 있음을 보여 줄 수 있다. 잘 듣는 사람은 말하는 사람이 존중받는다고 느끼게 한다. 그러므로 좋은 친구가 되려면 다른 사람이 말할 때 온전히 집중해야 한다.",
+    "why": "listening은 화자에게 집중하는 노력이며 상대를 존중하게 한다고 했으므로, 다른 사람이 말할 때 온전히 집중해야 합니다.",
+    "optionNotes": [
+      "자기가 더 말하는 것은 글과 반대입니다.",
+      "정답. 말하는 사람에게 집중하는 것이 listening입니다.",
+      "큰 소리로 말하는 것은 언급되지 않았습니다.",
+      "조언은 언급되지 않았습니다.",
+      "어려운 주제를 피하는 것은 언급되지 않았습니다."
+    ],
+    "trap": "'good friend'라는 말에서 조언(④)을 떠올리기 쉽지만, 글은 '듣는 태도'를 말합니다.",
+    "tip": "빈칸 앞에서 정의한 개념(listening = focus, show interest)을 행동으로 바꾼 표현을 고르세요."
+  },
+  {
+    "id": "m2-02-34",
+    "level": "m2",
+    "set": "mock-02",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many people think that volunteering is only for helping others. But research shows that volunteers also receive great benefits. Some help at animal shelters, and others teach younger students. They feel more satisfied with their lives and make new friends. Some even discover new interests and skills. In this sense, volunteering is a gift that __________.",
+    "options": [
+      "costs a lot of money",
+      "only older people can give",
+      "benefits both the giver and the receiver",
+      "is difficult to find",
+      "nobody should accept"
+    ],
+    "answer": 2,
+    "translation": "많은 사람들은 봉사 활동이 다른 사람을 돕기 위한 것일 뿐이라고 생각한다. 그러나 연구에 따르면 봉사자들도 큰 혜택을 받는다. 어떤 사람은 동물 보호소에서 돕고, 어떤 사람은 어린 학생들을 가르친다. 그들은 삶에 더 만족하고 새 친구를 사귄다. 어떤 사람은 새로운 관심사와 기술을 발견하기도 한다. 이런 의미에서 봉사 활동은 주는 사람과 받는 사람 모두에게 이로운 선물이다.",
+    "why": "봉사자도 혜택을 받는다는 내용이므로, 주는 사람과 받는 사람 모두에게 이로운 선물이라는 결론이 알맞습니다.",
+    "optionNotes": [
+      "돈이 많이 든다는 내용은 없습니다.",
+      "나이와 관련된 내용은 없습니다.",
+      "정답. 봉사자도 혜택을 받는다는 내용의 일반화입니다.",
+      "찾기 어렵다는 내용은 없습니다.",
+      "받아서는 안 된다는 내용은 글과 반대입니다."
+    ],
+    "trap": "첫 문장의 통념('only for helping others')이 정답처럼 보일 수 있지만, But 이후가 핵심입니다.",
+    "tip": "빈칸 앞 문장 'volunteers also receive benefits'를 '둘 다에게 이롭다'로 일반화하세요."
+  },
+  {
+    "id": "m2-02-35",
+    "level": "m2",
+    "set": "mock-02",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Brushing your teeth correctly is important for a healthy smile. ① You should brush for at least two minutes each time. ② Brush your teeth in small circles instead of hard back-and-forth movements. ③ Do not forget to brush your tongue to remove bacteria. ④ Changing your toothbrush every three months is also a good idea. ⑤ Many people enjoy eating sweet snacks while watching movies.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "올바르게 양치하는 것은 건강한 미소를 위해 중요하다. ① 매번 적어도 2분 동안 닦아야 한다. ② 세게 앞뒤로 문지르는 대신 작은 원을 그리며 닦아라. ③ 세균을 없애기 위해 혀도 닦는 것을 잊지 마라. ④ 3개월마다 칫솔을 바꾸는 것도 좋은 방법이다. ⑤ 많은 사람들은 영화를 보며 단 간식을 먹는 것을 즐긴다.",
+    "why": "글은 올바른 양치 방법을 설명하는데 ⑤는 간식을 즐기는 이야기라 흐름과 관계가 없습니다.",
+    "optionNotes": [
+      "양치 시간에 대한 설명입니다.",
+      "양치 방법에 대한 설명입니다.",
+      "혀를 닦는 방법입니다.",
+      "칫솔 교체 주기입니다.",
+      "정답(무관). 양치 방법과 관계없는 간식 이야기입니다."
+    ],
+    "trap": "'sweet snacks'는 치아와 관련 있어 보이지만, 글이 설명하는 것은 양치 '방법'입니다.",
+    "tip": "무관한 문장은 같은 큰 화제(치아)라도 글의 구체적 논점(올바른 양치법)을 벗어났는지 확인하세요."
+  },
+  {
+    "id": "m2-02-36",
+    "level": "m2",
+    "set": "mock-02",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Eric lost his house key on the way to school.\n(A) The clerk was holding the key for him. Eric thanked her and walked home happily.\n(B) At first, he looked in his bag and his pockets, but he couldn't find it. He was very worried.\n(C) Then he remembered that he had stopped at the bookstore. He ran back there.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 2,
+    "translation": "Eric은 학교에 가는 길에 집 열쇠를 잃어버렸다. (B) 처음에 그는 가방과 주머니를 찾아봤지만 열쇠를 찾지 못했다. 그는 매우 걱정되었다. (C) 그러다 그는 서점에 들렀던 것이 생각났다. 그는 그곳으로 뛰어갔다. (A) 점원이 그를 위해 열쇠를 보관하고 있었다. Eric은 그녀에게 감사하고 행복하게 집으로 걸어갔다.",
+    "why": "(B) 처음에 가방을 뒤짐 → (C) 'Then'으로 서점이 떠오름 → (A) 점원이 열쇠를 보관하고 있었던 결과입니다.",
+    "optionNotes": [
+      "(A)의 결과가 서점을 떠올리기 전에 올 수 없습니다.",
+      "(A)의 'The clerk'는 (C)의 서점이 소개된 뒤에 와야 합니다.",
+      "정답. 찾아봄 → 기억남 → 열쇠를 되찾음.",
+      "(C)가 먼저 오면 'Then'이 가리킬 앞 사건이 없습니다.",
+      "(C)가 먼저 오면 'Then'이 가리킬 앞 사건이 없습니다."
+    ],
+    "trap": "(A)의 'the clerk'는 앞에 서점이 나와야 이해됩니다. 정관사 the가 단서입니다.",
+    "tip": "At first → Then → 결과의 흐름, 그리고 the + 명사의 앞선 소개를 확인하세요."
+  },
+  {
+    "id": "m2-02-37",
+    "level": "m2",
+    "set": "mock-02",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Humpback whales sing long and complex songs.\n(A) However, the song slowly changes every year, and whales in other areas begin to sing the new version.\n(B) Interestingly, all the male whales in one area sing the same song at the same time.\n(C) In this way, a new song can travel across an entire ocean. Scientists have recorded this change for many years.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 1,
+    "translation": "혹등고래는 길고 복잡한 노래를 부른다. (B) 흥미롭게도 한 지역의 모든 수컷 고래는 같은 시간에 같은 노래를 부른다. (A) 그러나 그 노래는 해마다 서서히 변하고, 다른 지역의 고래들이 새로운 버전을 부르기 시작한다. (C) 이렇게 새로운 노래가 바다 전체를 가로질러 퍼질 수 있다. 과학자들은 이 변화를 여러 해 동안 기록해 왔다.",
+    "why": "(B)에서 같은 노래를 부른다고 소개하고, (A)의 'However ... the song'이 그 노래의 변화를 말하며, (C)의 'In this way'가 결과를 정리합니다.",
+    "optionNotes": [
+      "(A)의 'the song'이 가리킬 노래가 (B)에 먼저 나와야 합니다.",
+      "정답. 같은 노래 → 변화와 확산 → 정리.",
+      "(C)의 'In this way'가 가리킬 방법이 앞에 없습니다.",
+      "(C)의 'In this way'가 가리킬 방법이 앞에 없습니다.",
+      "(C)의 'In this way'가 가리킬 방법이 앞에 없습니다."
+    ],
+    "trap": "(C)는 결론 문장이라 마지막처럼 보이지만, (A)와 (B) 사이의 순서는 'However ... the song'으로 정해집니다.",
+    "tip": "However는 앞의 내용과 반대되는 정보를 요구합니다. (B)의 '같은 노래'가 그 앞 내용입니다."
+  },
+  {
+    "id": "m2-02-38",
+    "level": "m2",
+    "set": "mock-02",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThe answer is that purring has more than one meaning.\n\n[글]\nWhy do cats purr? ( ① ) They purr when they are happy, but they also purr when they are hungry or hurt. ( ② ) Scientists think that the soft sound may calm the cat itself. ( ③ ) Some experts also say that the vibration may help its bones heal. ( ④ ) So, purring is not just a sign of happiness. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "[주어진 문장] 그 답은 그르렁거리는 소리에 한 가지가 아닌 여러 의미가 있다는 것이다. [글] 고양이는 왜 그르렁거릴까? 고양이는 행복할 때도 그르렁거리지만 배고프거나 다쳤을 때도 그르렁거린다. 과학자들은 그 부드러운 소리가 고양이 자신을 진정시킬 수 있다고 생각한다. 일부 전문가들은 그 진동이 뼈가 낫는 것을 도울 수 있다고도 말한다. 그러므로 그르렁거림은 행복의 신호일 뿐만이 아니다.",
+    "why": "주어진 문장의 'The answer'는 맨 앞의 질문 'Why do cats purr?'에 대한 답이므로 ①에 들어갑니다.",
+    "optionNotes": [
+      "정답. 질문 바로 뒤에서 답을 제시합니다.",
+      "이미 구체적인 설명이 나온 뒤라서 'The answer'가 어색합니다.",
+      "설명 도중에 답을 말하면 흐름이 끊깁니다.",
+      "설명이 끝나 가는 부분이라 'The answer'가 어색합니다.",
+      "결론 뒤에 새 답을 말하면 흐름이 맞지 않습니다."
+    ],
+    "trap": "'meaning'이 결론에 나오는 ⑤가 유력해 보이지만, 'The answer'는 질문 바로 뒤여야 합니다.",
+    "tip": "'The answer ~'는 앞의 질문에 대한 답이므로 질문 바로 뒤를 찾으세요."
+  },
+  {
+    "id": "m2-02-39",
+    "level": "m2",
+    "set": "mock-02",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nInstead, they found that students who slept more got better scores.\n\n[글]\nResearchers wondered whether studying late at night helps students get better scores. ( ① ) They asked 200 students about their study habits. ( ② ) Surprisingly, the late-night studiers did not do better. ( ③ ) This is because studying late makes students tired. ( ④ ) So, going to bed on time is also a good way to study. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 대신 그들은 잠을 더 많이 잔 학생들이 더 좋은 점수를 받는다는 것을 발견했다. [글] 연구자들은 밤늦게 공부하는 것이 학생들이 더 좋은 점수를 받는 데 도움이 되는지 궁금했다. 그들은 200명의 학생에게 공부 습관을 물었다. 놀랍게도 밤늦게 공부한 학생들은 더 잘하지 못했다. 이는 늦게 공부하면 학생들이 피곤해지기 때문이다. 그러므로 제시간에 자는 것도 좋은 공부 방법이다.",
+    "why": "'Instead'는 앞의 '밤늦게 공부한 학생들이 더 잘하지 못했다'는 결과와 대조되므로 그 바로 뒤인 ③에 들어갑니다.",
+    "optionNotes": [
+      "연구 질문 뒤에서는 대조할 결과가 아직 없습니다.",
+      "조사 방법만 나왔고 결과가 나오기 전입니다.",
+      "정답. 밤샘 공부의 결과 뒤에 대조되는 발견을 제시합니다.",
+      "이유 설명 뒤에 오면 'Instead'의 대비가 약해집니다.",
+      "결론 뒤에 오면 흐름이 맞지 않습니다."
+    ],
+    "trap": "④는 '잠'과 관련된 결론 근처라서 고르기 쉽습니다. 'Instead'는 직전의 부정적 결과와 이어져야 합니다.",
+    "tip": "Instead 같은 대조 표현은 바로 앞에 'A가 아니다'는 내용이 있어야 합니다."
+  },
+  {
+    "id": "m2-02-40",
+    "level": "m2",
+    "set": "mock-02",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Researchers asked two groups of people to take a twenty-minute walk. One group walked in a green park, and the other walked on a busy street. After the walk, the park group felt calmer and solved a puzzle faster. The researchers explained that natural scenes help the brain rest and recover from stress.\n\n▶ Spending time in (A) can (B) our mind.",
+    "options": [
+      "(A) crowded places — (B) excite",
+      "(A) nature — (B) calm and refresh",
+      "(A) cities — (B) relax",
+      "(A) noisy streets — (B) refresh",
+      "(A) nature — (B) tire"
+    ],
+    "answer": 1,
+    "translation": "연구자들은 두 그룹의 사람들에게 20분 동안 산책하게 했다. 한 그룹은 푸른 공원에서, 다른 그룹은 붐비는 거리에서 걸었다. 산책 후 공원 그룹은 더 차분함을 느꼈고 퍼즐을 더 빨리 풀었다. 연구자들은 자연 풍경이 뇌가 쉬고 스트레스에서 회복하도록 돕는다고 설명했다. ▶ 자연 속에서 시간을 보내면 마음을 진정시키고 상쾌하게 할 수 있다.",
+    "why": "공원(자연)을 걸은 그룹이 더 차분해지고 퍼즐을 더 빨리 풀었으므로 (A)는 nature, (B)는 calm and refresh입니다.",
+    "optionNotes": [
+      "붐비는 곳은 글에서 대조되는 장소입니다.",
+      "정답. 자연이 마음을 진정시키고 상쾌하게 합니다.",
+      "도시는 글에서 언급된 장소가 아니고 효과도 맞지 않습니다.",
+      "시끄러운 거리는 효과가 반대입니다.",
+      "자연이 마음을 피곤하게 한다는 것은 결과와 반대입니다."
+    ],
+    "trap": "(A)가 nature인 ⑤를 고르기 쉽지만 (B)가 tire(피곤하게 하다)여서 결과와 반대입니다.",
+    "tip": "요약문은 실험 결과가 좋은 그룹(park)의 환경과 효과를 옮긴 문장입니다."
+  }
+]

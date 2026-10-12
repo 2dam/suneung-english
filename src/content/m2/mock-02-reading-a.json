@@ -1,0 +1,340 @@
+[
+  {
+    "id": "m2-02-18",
+    "level": "m2",
+    "set": "mock-02",
+    "no": 18,
+    "type": "purpose",
+    "stem": "다음 글을 쓴 목적으로 가장 적절한 것은?",
+    "passage": "Dear Principal Kim,\nI am Sujin Park, the president of the student council. We would like to hold a charity run on the school playground on Saturday, October 26. The money from participation fees will be donated to a local children's hospital. We expect about 200 students and parents to join. May we have your permission to use the playground on that day? We promise to clean up afterward.\nSincerely,\nSujin Park",
+    "options": [
+      "자선 달리기를 위한 운동장 사용 허락을 구하려고",
+      "학생회 임원 선거의 일정과 투표 방법을 알리려고",
+      "지역 병원에서 봉사할 학생 참가자를 모집하려고",
+      "학교 운동장의 청소 계획을 보고하려고",
+      "학부모 회의의 장소가 바뀐 것을 알리려고"
+    ],
+    "answer": 0,
+    "translation": "김 교장 선생님께. 저는 학생회장 박수진입니다. 저희는 10월 26일 토요일에 학교 운동장에서 자선 달리기를 열고자 합니다. 참가비는 지역 어린이 병원에 기부될 것입니다. 약 200명의 학생과 학부모가 참여할 것으로 예상합니다. 그날 운동장을 사용해도 될지 허락해 주시겠습니까? 행사 후에 청소할 것을 약속드립니다. 박수진 드림.",
+    "why": "'May we have your permission to use the playground'로 자선 달리기를 위한 운동장 사용 허락을 구하는 글입니다.",
+    "optionNotes": [
+      "정답. 운동장 사용 허락을 구합니다.",
+      "임원 선거는 언급되지 않았습니다.",
+      "병원은 기부 대상이지 봉사 장소가 아닙니다.",
+      "청소는 약속의 한 부분일 뿐 보고서가 아닙니다.",
+      "학부모 회의는 언급되지 않았습니다."
+    ],
+    "trap": "③은 'hospital'이 나오지만 기부 대상입니다. 글의 요청은 운동장 사용 허락입니다.",
+    "tip": "편지의 목적은 'May we ~?', 'We would like to ~' 같은 요청 표현에서 찾으세요."
+  },
+  {
+    "id": "m2-02-19",
+    "level": "m2",
+    "set": "mock-02",
+    "no": 19,
+    "type": "mood",
+    "stem": "다음 글에 드러난 'I'의 심경 변화로 가장 적절한 것은?",
+    "passage": "I stood on the stage in front of the whole school. The lights were bright, and suddenly my mind went blank. I could not remember my first line. My face turned red, and I wanted to run away. Then I saw my friend Mina in the front row. She smiled at me and whispered, \"You can do it!\" I took a deep breath, and my line came back to me. I finished the play, and everyone clapped.",
+    "options": [
+      "excited → very bored",
+      "proud → jealous of friends",
+      "calm → really angry",
+      "embarrassed → encouraged",
+      "curious → very frightened"
+    ],
+    "answer": 3,
+    "translation": "나는 전교생 앞의 무대에 섰다. 조명이 밝았고 갑자기 머릿속이 하얘졌다. 첫 대사가 기억나지 않았다. 얼굴이 빨개졌고 도망치고 싶었다. 그때 앞줄에 있는 친구 Mina가 보였다. 그녀는 나에게 미소 지으며 \"할 수 있어!\"라고 속삭였다. 나는 숨을 깊이 들이쉬었고 대사가 다시 떠올랐다. 나는 연극을 마쳤고 모두가 박수를 쳤다.",
+    "why": "대사를 잊어 얼굴이 빨개지고 도망치고 싶었다가(embarrassed), 친구의 격려로 용기를 얻었습니다(encouraged).",
+    "optionNotes": [
+      "신나거나 지루한 감정이 아닙니다.",
+      "자랑스러움이나 질투가 나타나지 않습니다.",
+      "침착하거나 화난 감정이 아닙니다.",
+      "정답. 당황 → 격려받음.",
+      "호기심이나 두려움이 변화의 방향이 아닙니다."
+    ],
+    "trap": "②의 proud는 마지막 박수에서 떠올릴 수 있지만, 처음 감정이 proud가 아닙니다.",
+    "tip": "심경 변화는 처음의 상황(mind went blank, face turned red)과 계기(whispered)를 연결하세요."
+  },
+  {
+    "id": "m2-02-20",
+    "level": "m2",
+    "set": "mock-02",
+    "no": 20,
+    "type": "claim",
+    "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+    "passage": "Many people give up keeping a diary because they think they must write something special every day. However, a diary does not need to be perfect. Even a few lines about your day can be enough. When you read them later, you can see how you have changed. Writing also helps you understand your feelings. So, make it a habit to write a little every day.",
+    "options": [
+      "일기는 특별한 일이 생겼을 때에만 써야 한다.",
+      "일기를 매일 조금씩 쓰는 습관을 들여야 한다.",
+      "일기는 다른 사람에게 보여 주어야 한다.",
+      "글쓰기 대회에 적극적으로 참가해야 한다.",
+      "감정은 일기보다 대화로 표현해야 한다."
+    ],
+    "answer": 1,
+    "translation": "많은 사람들은 매일 특별한 것을 써야 한다고 생각해서 일기 쓰기를 포기한다. 그러나 일기가 완벽할 필요는 없다. 하루에 대한 몇 줄만으로도 충분할 수 있다. 나중에 그것을 읽으면 자신이 어떻게 변했는지 볼 수 있다. 글쓰기는 또한 감정을 이해하는 데 도움이 된다. 그러니 매일 조금씩 쓰는 습관을 들여라.",
+    "why": "마지막 문장 'make it a habit to write a little every day'가 필자의 주장입니다.",
+    "optionNotes": [
+      "글이 반박하는 통념입니다.",
+      "정답. 매일 조금씩 쓰는 습관을 권합니다.",
+      "남에게 보여 주라는 말은 없습니다.",
+      "글쓰기 대회는 언급되지 않았습니다.",
+      "일기 쓰기가 감정 이해에 도움이 된다고 했으므로 반대입니다."
+    ],
+    "trap": "①은 첫 문장의 통념에서 나온 보기입니다. However 이후가 필자의 입장입니다.",
+    "tip": "주장 문제는 'So, make it a habit ~'처럼 결론의 권유 문장을 확인하세요."
+  },
+  {
+    "id": "m2-02-21",
+    "level": "m2",
+    "set": "mock-02",
+    "no": 21,
+    "type": "implied",
+    "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "passage": "Mina could not come to school today. She told her teacher on the phone that she was {u|under the weather}. Her teacher wished her a quick recovery and hoped she would get better soon.",
+    "options": [
+      "enjoying the nice weather",
+      "waiting for the rain to stop",
+      "studying about the weather",
+      "feeling a little sick",
+      "going on a trip"
+    ],
+    "answer": 3,
+    "translation": "미나는 오늘 학교에 오지 못했다. 그녀는 전화로 선생님께 몸이 좋지 않다고 말했다. 선생님은 그녀가 빨리 낫기를 바라며 곧 좋아지기를 희망했다.",
+    "why": "학교에 오지 못했고 선생님이 빨리 낫기를 바랐으므로 'under the weather'는 몸이 좋지 않다는 뜻입니다.",
+    "optionNotes": [
+      "날씨를 즐긴다는 단서가 없습니다.",
+      "비를 기다린다는 단서가 없습니다.",
+      "날씨에 대해 공부한다는 단서가 없습니다.",
+      "정답. 몸이 조금 아프다는 뜻입니다.",
+      "여행을 간다는 단서가 없습니다."
+    ],
+    "trap": "weather라는 단어 때문에 날씨와 관련된 보기(①②③)를 고르기 쉽습니다. 관용 표현은 상황으로 판단하세요.",
+    "tip": "뒤 문장(wished her a quick recovery)이 의미를 알려 주는 단서입니다."
+  },
+  {
+    "id": "m2-02-22",
+    "level": "m2",
+    "set": "mock-02",
+    "no": 22,
+    "type": "gist",
+    "stem": "다음 글의 요지로 가장 적절한 것은?",
+    "passage": "Saving money does not have to be difficult. You do not need to put aside a large amount at once. If you save just 500 won every day, you will have more than 180,000 won in a year. In the same way, reading ten minutes a day can lead to many books after a year. Small habits, if repeated, bring big results.",
+    "options": [
+      "작은 습관도 반복하면 큰 결과를 만든다.",
+      "큰돈을 한 번에 저축하는 것이 가장 좋다.",
+      "독서는 저축보다 더 중요한 습관이다.",
+      "매일 운동을 하면 건강해질 수 있다.",
+      "계획 없이 쓰면 돈이 모이지 않는다."
+    ],
+    "answer": 0,
+    "translation": "돈을 모으는 것이 어려울 필요는 없다. 한 번에 큰 금액을 따로 둘 필요는 없다. 매일 500원만 저축해도 1년이면 18만 원이 넘게 모인다. 같은 방식으로 하루 10분씩 책을 읽으면 1년 뒤에는 많은 책이 된다. 작은 습관도 반복하면 큰 결과를 가져온다.",
+    "why": "마지막 문장 'Small habits, if repeated, bring big results.'가 요지입니다.",
+    "optionNotes": [
+      "정답. 작은 습관의 반복이 큰 결과를 만듭니다.",
+      "글이 반박하는 내용입니다.",
+      "독서와 저축의 우열을 비교하지 않습니다.",
+      "운동은 언급되지 않았습니다.",
+      "계획 없는 소비는 언급되지 않았습니다."
+    ],
+    "trap": "저축과 독서는 예시일 뿐입니다. 예시를 요지로 착각하지 마세요.",
+    "tip": "요지는 예시들(saving, reading)을 일반화한 마지막 문장에 있습니다."
+  },
+  {
+    "id": "m2-02-23",
+    "level": "m2",
+    "set": "mock-02",
+    "no": 23,
+    "type": "topic",
+    "stem": "다음 글의 주제로 가장 적절한 것은?",
+    "passage": "Coral reefs cover less than one percent of the ocean floor, but a quarter of all sea animals live around them. The reefs give fish places to hide and feed. They also work like a wall that slows down big waves, which protects the coasts from storms. However, warm water and pollution are damaging many reefs around the world.",
+    "options": [
+      "why coral reefs have bright colors",
+      "how fish find food in deep water",
+      "the cause of strong waves and storms",
+      "the importance of coral reefs for sea life and coasts",
+      "ways to travel to tropical islands"
+    ],
+    "answer": 3,
+    "translation": "산호초는 해저의 1퍼센트도 안 되는 면적을 차지하지만 모든 바다 동물의 약 4분의 1이 그 주변에서 산다. 산호초는 물고기에게 숨고 먹이를 먹을 장소를 제공한다. 또한 큰 파도를 늦추는 벽처럼 작용해 해안을 폭풍으로부터 보호한다. 그러나 따뜻해지는 물과 오염이 전 세계의 많은 산호초를 훼손하고 있다.",
+    "why": "산호초가 바다 생물의 서식지가 되고 해안을 보호한다는 중요성을 설명하는 글입니다.",
+    "optionNotes": [
+      "산호의 색은 다루지 않습니다.",
+      "깊은 바다의 먹이 찾기는 다루지 않습니다.",
+      "파도와 폭풍의 원인은 다루지 않습니다.",
+      "정답. 바다 생물과 해안에 대한 중요성입니다.",
+      "열대 섬 여행은 다루지 않습니다."
+    ],
+    "trap": "③은 'waves, storms'가 나오지만 이는 산호초가 막아 주는 대상입니다.",
+    "tip": "주제는 글의 대상(coral reefs)과 그 역할(shelter, protection)을 함께 담은 표현입니다."
+  },
+  {
+    "id": "m2-02-24",
+    "level": "m2",
+    "set": "mock-02",
+    "no": 24,
+    "type": "title",
+    "stem": "다음 글의 제목으로 가장 적절한 것은?",
+    "passage": "In some towns, children do not go to school alone or by car. They join a 'walking school bus.' A group of children walks together along a set route, and a few adults walk with them. The group picks up more children at each 'stop.' This way, children get exercise, make friends, and arrive at school safely. It also reduces traffic around the school.",
+    "options": [
+      "A Bus That Runs on Clean Electricity Only",
+      "Why Cars Are Bad for Children's Health",
+      "The Fastest Way to Get to School on Time",
+      "How to Make Friends in a New Town Easily",
+      "Walking Together: A Safe Way to School"
+    ],
+    "answer": 4,
+    "translation": "어떤 마을에서는 아이들이 혼자서 또는 차로 학교에 가지 않는다. 그들은 '걸어서 가는 학교 버스'에 참여한다. 아이들 한 무리가 정해진 길을 따라 함께 걷고 몇몇 어른이 동행한다. 이 무리는 각 '정류장'에서 더 많은 아이들을 태운다. 이렇게 하면 아이들은 운동을 하고 친구를 사귀며 안전하게 학교에 도착한다. 학교 주변의 교통량도 줄어든다.",
+    "why": "아이들이 함께 걸어서 안전하게 학교에 가는 방법을 소개하므로 'Walking Together: A Safe Way to School'이 제목으로 적절합니다.",
+    "optionNotes": [
+      "전기 버스 이야기가 아닙니다.",
+      "자동차의 건강 문제는 다루지 않습니다.",
+      "가장 빠른 방법이 아니라 안전한 방법입니다.",
+      "친구 사귀기는 장점 중 하나일 뿐입니다.",
+      "정답. 함께 걷는 안전한 등굣길입니다."
+    ],
+    "trap": "'bus'라는 말이 나오지만 걸어서 가는 것입니다. 비유 표현을 문자 그대로 해석하지 마세요.",
+    "tip": "제목은 핵심 방법(walking together)과 효과(safe)를 함께 담은 표현입니다."
+  },
+  {
+    "id": "m2-02-25",
+    "level": "m2",
+    "set": "mock-02",
+    "no": 25,
+    "type": "chart",
+    "stem": "다음 도표의 내용과 일치하지 않는 것은?",
+    "chart": {
+      "title": "Weekend Activities of Boys and Girls in Class 2-3",
+      "unit": "students",
+      "labels": [
+        "Sports",
+        "Movies",
+        "Reading",
+        "Games"
+      ],
+      "series": [
+        {
+          "name": "Boys",
+          "values": [
+            9,
+            6,
+            3,
+            10
+          ]
+        },
+        {
+          "name": "Girls",
+          "values": [
+            5,
+            8,
+            7,
+            4
+          ]
+        }
+      ]
+    },
+    "passage": "The graph shows the weekend activities of boys and girls in Class 2-3. ① Games are the most popular activity among girls. ② More boys than girls like sports. ③ Reading is the least popular activity among boys. ④ Movies are more popular than reading among girls. ⑤ The number of boys who like games is more than twice that of girls.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "그래프는 2학년 3반 남학생과 여학생의 주말 활동을 보여 준다. ① 게임은 여학생에게 가장 인기 있는 활동이다. ② 운동을 좋아하는 남학생이 여학생보다 많다. ③ 독서는 남학생에게 가장 인기 없는 활동이다. ④ 여학생 사이에서는 영화가 독서보다 인기가 많다. ⑤ 게임을 좋아하는 남학생 수는 여학생의 두 배보다 많다.",
+    "why": "여학생은 영화(8명)가 가장 많고 게임은 4명으로 가장 적은 편이므로 ①이 도표와 일치하지 않습니다.",
+    "optionNotes": [
+      "정답(불일치). 여학생이 가장 좋아하는 활동은 영화(8명)입니다.",
+      "운동은 남학생 9명, 여학생 5명입니다.",
+      "남학생 중 독서는 3명으로 가장 적습니다.",
+      "여학생 중 영화 8명, 독서 7명입니다.",
+      "게임은 남학생 10명, 여학생 4명으로 두 배(8)보다 많습니다."
+    ],
+    "trap": "boys의 게임 수(10)를 여학생의 것으로 읽으면 ①이 맞아 보입니다. 범례를 확인하세요.",
+    "tip": "두 집단 도표는 '누구'의 막대인지(범례)를 먼저 확인하고 숫자를 읽으세요."
+  },
+  {
+    "id": "m2-02-26",
+    "level": "m2",
+    "set": "mock-02",
+    "no": 26,
+    "type": "match",
+    "stem": "Daniel Choi에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Daniel Choi is a 15-year-old cyclist from Jeju. He started riding a bike when he was eight, after his father gave him an old bicycle. Now he trains for two hours every morning. Last year, he won the national junior race. He also hopes to teach children how to ride safely. His next goal is to join a competition in Japan next spring.",
+    "options": [
+      "열두 살에 자전거를 타기 시작했다.",
+      "아버지에게서 낡은 자전거를 받았다.",
+      "매일 저녁 두 시간씩 훈련한다.",
+      "작년에 국제 대회에서 우승했다.",
+      "올봄에 일본 대회에 참가했다."
+    ],
+    "answer": 1,
+    "translation": "Daniel Choi는 제주 출신의 열다섯 살 사이클 선수이다. 그는 아버지가 낡은 자전거를 준 뒤 여덟 살에 자전거를 타기 시작했다. 지금은 매일 아침 두 시간씩 훈련한다. 작년에 그는 전국 청소년 대회에서 우승했다. 그는 또한 아이들에게 안전하게 타는 법을 가르치고 싶어 한다. 그의 다음 목표는 내년 봄 일본에서 열리는 대회에 참가하는 것이다.",
+    "why": "'after his father gave him an old bicycle'이므로 아버지에게서 낡은 자전거를 받았습니다.",
+    "optionNotes": [
+      "여덟 살에 시작했습니다.",
+      "정답. 아버지가 낡은 자전거를 주었습니다.",
+      "매일 아침 훈련합니다.",
+      "전국 청소년 대회에서 우승했습니다.",
+      "일본 대회는 내년 봄의 목표입니다."
+    ],
+    "trap": "숫자(eight)와 시간(morning), 범위(national), 시기(next spring)를 바꾼 보기들입니다.",
+    "tip": "일치 문제는 보기마다 근거 문장을 찾아 숫자·시간·범위를 대조하세요."
+  },
+  {
+    "id": "m2-02-27",
+    "level": "m2",
+    "set": "mock-02",
+    "no": 27,
+    "type": "notice",
+    "stem": "Used Book Sale에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Used Book Sale\nGive old books a new home!\nDate: Saturday, May 25, 10 a.m. – 3 p.m.\nPlace: School Gym\nPrices: Picture books $1 / Novels $2 / Comics $3\nNotes:\n- Please bring your own bag.\n- All profits will go to the school library.\n- If you want to donate books, bring them to the library by May 20.",
+    "options": [
+      "학교 도서관에서 열린다.",
+      "만화책이 가장 싸다.",
+      "수익금은 학교 도서관에 쓰인다.",
+      "책을 기부하려면 5월 25일까지 가져와야 한다.",
+      "쇼핑백은 현장에서 무료로 준다."
+    ],
+    "answer": 2,
+    "translation": "중고 책 판매. 오래된 책에 새로운 집을 주세요! 날짜: 5월 25일 토요일 오전 10시~오후 3시. 장소: 학교 체육관. 가격: 그림책 1달러 / 소설 2달러 / 만화책 3달러. 유의 사항: 개인 가방을 가져오세요. 모든 수익금은 학교 도서관에 쓰입니다. 책을 기부하려면 5월 20일까지 도서관에 가져오세요.",
+    "why": "'All profits will go to the school library.'와 일치합니다.",
+    "optionNotes": [
+      "학교 체육관에서 열립니다.",
+      "만화책은 3달러로 가장 비쌉니다.",
+      "정답. 수익금은 학교 도서관에 쓰입니다.",
+      "기부 마감은 5월 20일입니다.",
+      "개인 가방을 가져와야 합니다."
+    ],
+    "trap": "'library'가 장소와 수익금 두 곳에 나옵니다. 어느 항목의 정보인지 구분하세요.",
+    "tip": "안내문 문제는 Place, Prices, Notes 같은 항목별로 보기를 대응시키세요."
+  },
+  {
+    "id": "m2-02-28",
+    "level": "m2",
+    "set": "mock-02",
+    "no": 28,
+    "type": "notice",
+    "stem": "School Music Concert에 관한 다음 안내문의 내용과 일치하지 않는 것은?",
+    "passage": "School Music Concert\nJoin us for a night of music!\nDate: Thursday, December 12\nTime: 6:30 p.m. (Doors open at 6:00 p.m.)\nPlace: School Auditorium\nPerformers: Orchestra, choir, and band\nTickets: Free, but you must reserve one on the school website.\nNote: Children under 7 cannot enter.",
+    "options": [
+      "12월 12일 목요일에 열린다.",
+      "학교 강당에서 열린다.",
+      "오케스트라, 합창단, 밴드가 공연한다.",
+      "학교 누리집에서 예약하지 않고도 입장권을 받을 수 있다.",
+      "7세 미만 어린이는 입장할 수 없다."
+    ],
+    "answer": 3,
+    "translation": "학교 음악회. 음악의 밤에 함께하세요! 날짜: 12월 12일 목요일. 시간: 오후 6시 30분(입장은 오후 6시부터). 장소: 학교 강당. 출연: 오케스트라, 합창단, 밴드. 입장권: 무료이지만 학교 누리집에서 예약해야 합니다. 유의 사항: 7세 미만 어린이는 입장할 수 없습니다.",
+    "why": "입장권은 무료지만 학교 누리집에서 예약해야 하므로 예약 없이 받을 수 있다는 ④는 일치하지 않습니다.",
+    "optionNotes": [
+      "Thursday, December 12와 일치합니다.",
+      "School Auditorium과 일치합니다.",
+      "Orchestra, choir, and band와 일치합니다.",
+      "정답(불일치). 예약해야 합니다(must reserve).",
+      "Children under 7 cannot enter와 일치합니다."
+    ],
+    "trap": "'Free'만 보고 예약이 필요 없다고 착각하기 쉽습니다. 'but you must reserve'를 확인하세요.",
+    "tip": "but 이하의 조건이 불일치 문제의 핵심인 경우가 많습니다."
+  }
+]
