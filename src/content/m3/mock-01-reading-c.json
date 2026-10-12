@@ -1,0 +1,104 @@
+[
+  {
+    "id": "m3-01-41", "level": "m3", "set": "mock-01", "no": 41, "type": "long", "group": "m3-01-g41",
+    "stem": "[41~42] 윗글의 제목으로 가장 적절한 것을 고르시오.",
+    "passage": "The ocean is not as quiet as many people think. For centuries, whales have communicated through songs that can travel hundreds of kilometers. However, the sounds of ships, drilling, and construction have made the sea much noisier. This noise is not just annoying; it can seriously {1|harm} marine animals. Whales may {2|fail} to hear each other, and they sometimes lose their way during migration. Some animals even leave areas that were once their homes. Scientists have therefore urged ships to slow down and use quieter engines. In some ports, such rules have already {3|reduced} noise by half. Protecting the ocean means thinking not only about pollution we can see, but also about the sounds we cannot. Even small changes can make a {4|significant} difference for the animals that rely on sound to survive. If we {5|prevent} the noise from growing, the sea will become a dangerous place for them.",
+    "options": [
+      "Whales: The Largest Animals Living in the Ocean",
+      "How Modern Ships Are Built to Travel Faster",
+      "Silent Victims: How Ocean Noise Harms Marine Life",
+      "The Beautiful Songs of Whales Across the Sea",
+      "New Technologies for Exploring the Deep Sea"
+    ],
+    "answer": 2,
+    "translation": "바다는 많은 사람이 생각하는 것만큼 조용하지 않다. 수 세기 동안 고래는 수백 킬로미터를 이동할 수 있는 노래로 의사소통해 왔다. 그러나 배, 시추, 공사의 소리는 바다를 훨씬 더 시끄럽게 만들었다. 이 소음은 단지 짜증 나는 것이 아니라 해양 동물에게 심각한 해를 줄 수 있다. 고래는 서로의 소리를 듣지 못할 수 있고, 이동 중에 길을 잃기도 한다. 어떤 동물은 한때 집이었던 지역을 떠나기도 한다. 그래서 과학자들은 배가 속도를 줄이고 더 조용한 엔진을 쓰도록 촉구했다. 일부 항구에서는 그런 규칙이 이미 소음을 절반으로 줄였다. 바다를 보호한다는 것은 우리가 볼 수 있는 오염뿐 아니라 볼 수 없는 소리에 대해서도 생각하는 것이다. 작은 변화도 생존을 위해 소리에 의존하는 동물들에게 큰 차이를 만들 수 있다. 만약 소음이 커지는 것을 막지 않는다면 바다는 그들에게 위험한 곳이 될 것이다.",
+    "why": "배와 공사의 소음이 해양 동물에게 해를 준다는 내용이므로 '소리 없는 피해자: 바다 소음이 해양 생물에 미치는 해'가 제목으로 적절합니다.",
+    "optionNotes": [
+      "고래의 크기에 관한 글이 아닙니다.",
+      "배의 속도를 높이는 건조 이야기가 아닙니다.",
+      "정답. 소음이 해양 생물에 해를 준다는 핵심을 담았습니다.",
+      "고래의 노래는 도입부에 나오는 화제일 뿐입니다.",
+      "심해 탐사 기술은 다루지 않습니다."
+    ],
+    "trap": "④는 첫 부분의 'songs'에서 가져온 보기입니다. 글의 중심은 노래의 아름다움이 아니라 소음의 피해입니다.",
+    "tip": "제목은 글의 문제 제기(소음)와 대상(해양 생물)을 함께 담은 표현을 고르세요."
+  },
+  {
+    "id": "m3-01-42", "level": "m3", "set": "mock-01", "no": 42, "type": "long", "group": "m3-01-g41",
+    "stem": "[41~42] 밑줄 친 ①~⑤ 중에서 문맥상 낱말의 쓰임이 적절하지 않은 것을 고르시오.",
+    "passage": "The ocean is not as quiet as many people think. For centuries, whales have communicated through songs that can travel hundreds of kilometers. However, the sounds of ships, drilling, and construction have made the sea much noisier. This noise is not just annoying; it can seriously {1|harm} marine animals. Whales may {2|fail} to hear each other, and they sometimes lose their way during migration. Some animals even leave areas that were once their homes. Scientists have therefore urged ships to slow down and use quieter engines. In some ports, such rules have already {3|reduced} noise by half. Protecting the ocean means thinking not only about pollution we can see, but also about the sounds we cannot. Even small changes can make a {4|significant} difference for the animals that rely on sound to survive. If we {5|prevent} the noise from growing, the sea will become a dangerous place for them.",
+    "options": ["①", "②", "③", "④", "⑤"],
+    "answer": 4,
+    "translation": "(41번 지문과 같은 글입니다.)",
+    "why": "소음을 막지 않으면 바다가 위험해진다는 흐름이므로, '소음이 커지는 것을 막으면(prevent)'이 아니라 '내버려 두면(allow/let)'이 알맞습니다.",
+    "optionNotes": [
+      "소음이 해양 동물에게 해를 준다는 흐름에 harm이 적절합니다.",
+      "서로의 소리를 듣지 못할 수 있다는 흐름에 fail이 적절합니다.",
+      "규칙으로 소음이 절반으로 줄었다는 흐름에 reduced가 적절합니다.",
+      "작은 변화도 큰 차이를 만든다는 흐름에 significant가 적절합니다.",
+      "정답(부적절). 소음이 커지는 것을 '막으면' 바다가 위험해진다는 말은 모순입니다."
+    ],
+    "trap": "'If we prevent ... the sea will become a dangerous place'가 문법적으로 자연스러워 보여 의미의 모순을 놓치기 쉽습니다.",
+    "tip": "어휘 문제는 조건절(If ~)의 결과가 앞의 글 전체 방향과 일치하는지 확인하세요."
+  },
+  {
+    "id": "m3-01-43", "level": "m3", "set": "mock-01", "no": 43, "type": "long", "group": "m3-01-g43",
+    "stem": "[43~45] 주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것을 고르시오.",
+    "passage": "(A) Minjun had always dreamed of becoming a guitarist, but his family could not afford a good guitar. He practiced on an old, cracked one that his uncle gave {1|him}. Every day after school, he played in the park, and people sometimes stopped to listen.\n(B) One evening, an elderly man sat on a bench nearby and listened until it got dark. When Minjun finished, the man clapped and said, \"You have real talent. Can you come to my music shop tomorrow?\" Minjun was so surprised that {2|he} could hardly answer. The man gave him a small card with an address.\n(C) Minjun thanked the man, but {3|he} hesitated because he had never accepted such a big gift. His father quietly patted his shoulder and said, \"Take it, son. {4|He} wants to see your music reach more people.\" Minjun finally took the guitar with a deep bow.\n(D) The next afternoon, Minjun visited the shop with his parents. The shop was full of beautiful guitars, and {5|he} could not believe his eyes. The old man handed him a shiny guitar and said, \"This one is yours as long as you promise to keep playing.\"",
+    "options": ["(B)-(D)-(C)", "(C)-(B)-(D)", "(C)-(D)-(B)", "(D)-(B)-(C)", "(D)-(C)-(B)"],
+    "answer": 0,
+    "translation": "(A) 민준은 항상 기타리스트가 되는 것을 꿈꿨지만 집안 형편상 좋은 기타를 살 수 없었다. 그는 삼촌이 준 낡고 금이 간 기타로 연습했다. 매일 방과 후 공원에서 연주했고 사람들이 가끔 멈춰 서서 들었다. (B) 어느 저녁 한 노인이 근처 벤치에 앉아 어두워질 때까지 들었다. 민준이 연주를 마치자 노인은 박수를 치며 말했다. \"넌 진짜 재능이 있구나. 내일 내 악기 가게에 와 줄 수 있겠니?\" 민준은 너무 놀라서 거의 대답하지 못했다. 노인은 그에게 주소가 적힌 작은 카드를 주었다. (D) 다음 날 오후 민준은 부모님과 함께 가게를 방문했다. 가게는 아름다운 기타로 가득했고 그는 눈을 믿을 수 없었다. 노인은 그에게 반짝이는 기타를 건네며 말했다. \"이건 네가 계속 연주하겠다고 약속하는 한 네 것이란다.\" (C) 민준은 노인에게 감사했지만 그렇게 큰 선물을 받아 본 적이 없어 망설였다. 아버지가 그의 어깨를 조용히 토닥이며 말했다. \"받으렴, 아들아. 그분은 네 음악이 더 많은 사람에게 닿기를 바라셔.\" 민준은 마침내 깊이 허리를 숙여 기타를 받았다.",
+    "why": "(A)에서 연주하던 민준을 (B)에서 노인이 발견하고 가게로 초대하며, (D)에서 가게를 방문해 기타를 받겠느냐는 제안을 받고, (C)에서 망설이다 받아들입니다.",
+    "optionNotes": [
+      "정답. 만남 → 가게 방문과 제안 → 망설임과 수락.",
+      "(C)의 수락과 (B)의 초대 순서가 맞지 않습니다.",
+      "(C)는 기타를 제안받은 뒤의 장면이라 (D) 앞에 올 수 없습니다.",
+      "(D)는 카드를 받은 다음 날이므로 (B)보다 앞설 수 없습니다.",
+      "(C)는 (D)에서 선물을 제안받은 뒤의 반응입니다."
+    ],
+    "trap": "(C)에도 기타가 나오므로 (B) 바로 뒤처럼 보이지만, 'such a big gift'를 받으려면 (D)에서 선물이 제시되어야 합니다.",
+    "tip": "이야기글은 선물을 '제안받음 → 망설임 → 받아들임'처럼 감정의 흐름과 사건 순서를 함께 보세요."
+  },
+  {
+    "id": "m3-01-44", "level": "m3", "set": "mock-01", "no": 44, "type": "long", "group": "m3-01-g43",
+    "stem": "[43~45] 밑줄 친 ①~⑤ 중에서 가리키는 대상이 나머지 넷과 다른 것을 고르시오.",
+    "passage": "(A) Minjun had always dreamed of becoming a guitarist, but his family could not afford a good guitar. He practiced on an old, cracked one that his uncle gave {1|him}. Every day after school, he played in the park, and people sometimes stopped to listen.\n(B) One evening, an elderly man sat on a bench nearby and listened until it got dark. When Minjun finished, the man clapped and said, \"You have real talent. Can you come to my music shop tomorrow?\" Minjun was so surprised that {2|he} could hardly answer. The man gave him a small card with an address.\n(C) Minjun thanked the man, but {3|he} hesitated because he had never accepted such a big gift. His father quietly patted his shoulder and said, \"Take it, son. {4|He} wants to see your music reach more people.\" Minjun finally took the guitar with a deep bow.\n(D) The next afternoon, Minjun visited the shop with his parents. The shop was full of beautiful guitars, and {5|he} could not believe his eyes. The old man handed him a shiny guitar and said, \"This one is yours as long as you promise to keep playing.\"",
+    "options": ["①", "②", "③", "④", "⑤"],
+    "answer": 3,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "④의 He는 기타를 주려고 한 노인을 가리키고, 나머지 ①②③⑤는 모두 민준을 가리킵니다.",
+    "optionNotes": [
+      "him은 삼촌이 기타를 준 대상, 민준입니다.",
+      "he는 놀란 민준입니다.",
+      "he는 선물을 받기를 망설인 민준입니다.",
+      "정답. He는 'wants to see your music reach more people'의 주체, 즉 노인입니다.",
+      "he는 눈을 믿을 수 없었던 민준입니다."
+    ],
+    "trap": "(C)에 민준, 아버지, 노인이 모두 나와서 He가 아버지로 보일 수 있습니다. 아버지는 말하는 사람이고 He는 그가 말한 대상(노인)입니다.",
+    "tip": "대명사는 직전 문장의 주어뿐 아니라 인용문 속의 대상까지 고려해야 합니다. 말하는 사람과 언급되는 사람을 구분하세요."
+  },
+  {
+    "id": "m3-01-45", "level": "m3", "set": "mock-01", "no": 45, "type": "long", "group": "m3-01-g43",
+    "stem": "[43~45] 윗글에 관한 내용으로 적절하지 않은 것을 고르시오.",
+    "passage": "(A) Minjun had always dreamed of becoming a guitarist, but his family could not afford a good guitar. He practiced on an old, cracked one that his uncle gave {1|him}. Every day after school, he played in the park, and people sometimes stopped to listen.\n(B) One evening, an elderly man sat on a bench nearby and listened until it got dark. When Minjun finished, the man clapped and said, \"You have real talent. Can you come to my music shop tomorrow?\" Minjun was so surprised that {2|he} could hardly answer. The man gave him a small card with an address.\n(C) Minjun thanked the man, but {3|he} hesitated because he had never accepted such a big gift. His father quietly patted his shoulder and said, \"Take it, son. {4|He} wants to see your music reach more people.\" Minjun finally took the guitar with a deep bow.\n(D) The next afternoon, Minjun visited the shop with his parents. The shop was full of beautiful guitars, and {5|he} could not believe his eyes. The old man handed him a shiny guitar and said, \"This one is yours as long as you promise to keep playing.\"",
+    "options": [
+      "민준은 삼촌에게서 낡은 기타를 받았다.",
+      "노인은 민준에게 학교 앞에서 연주해 달라고 부탁했다.",
+      "민준은 부모님과 함께 가게를 방문했다.",
+      "노인은 민준에게 계속 연주하겠다고 약속하면 기타를 주겠다고 했다.",
+      "민준은 결국 기타를 받아들였다."
+    ],
+    "answer": 1,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "노인은 민준에게 자신의 악기 가게에 와 달라고 했을 뿐, 학교 앞에서 연주해 달라고 부탁하지 않았습니다.",
+    "optionNotes": [
+      "삼촌이 준 낡은 기타로 연습했습니다.",
+      "정답(불일치). 노인은 자신의 가게에 와 달라고 했습니다.",
+      "다음 날 부모님과 함께 가게를 방문했습니다.",
+      "계속 연주하겠다고 약속하는 한 기타가 민준의 것이라고 했습니다.",
+      "마침내 허리를 숙여 기타를 받았습니다."
+    ],
+    "trap": "'Can you come to my music shop tomorrow?'를 연주 부탁으로 착각하기 쉽습니다. 부탁한 내용은 방문입니다.",
+    "tip": "일치하지 않는 것 문제는 장소·행동이 바뀐 보기를 인용문 속에서 찾으세요."
+  }
+]

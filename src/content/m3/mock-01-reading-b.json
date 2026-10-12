@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m3-01-29",
+    "level": "m3",
+    "set": "mock-01",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "The Great Wall of China is {1|one} of the most famous structures in the world. It {2|was built} over many centuries to protect the country from enemies. Some parts of the wall {3|have been damaged} by weather and tourists. To protect the wall, the government has made rules {4|that prohibits} visitors from climbing on certain sections. Today, people around the world visit the wall to learn about the history {5|behind it}.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "만리장성은 세계에서 가장 유명한 건축물 중 하나이다. 그것은 적으로부터 나라를 보호하기 위해 여러 세기에 걸쳐 지어졌다. 성벽의 일부는 날씨와 관광객에 의해 손상되어 왔다. 성벽을 보호하기 위해 정부는 방문객이 특정 구간에 오르는 것을 금지하는 규칙을 만들었다. 오늘날 전 세계 사람들은 그 뒤에 있는 역사를 배우려고 성벽을 방문한다.",
+    "why": "관계대명사 that의 선행사는 복수인 rules이므로 동사는 prohibits가 아니라 prohibit이어야 합니다.",
+    "optionNotes": [
+      "'one of the most + 복수 명사' 구문에서 one은 맞습니다.",
+      "'만들어졌다'는 수동태이므로 was built가 맞습니다.",
+      "주어 parts(복수)에 맞는 현재완료 수동태 have been damaged입니다.",
+      "정답(틀린 것). 선행사 rules가 복수이므로 prohibit이어야 합니다.",
+      "'the history behind it'은 '그 뒤에 있는 역사'로 맞습니다."
+    ],
+    "trap": "동사 바로 앞의 단수 명사 'rules'가 아니라 'rules that prohibit'에서 선행사의 수를 확인해야 합니다. 형태가 비슷해 보여 놓치기 쉽습니다.",
+    "tip": "관계대명사절의 동사는 선행사에 수를 일치시킵니다. 선행사를 먼저 찾으세요."
+  },
+  {
+    "id": "m3-01-30",
+    "level": "m3",
+    "set": "mock-01",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Today, young people are {1|exposed} to a huge amount of information online. Although the internet provides {2|limited} access to knowledge, it is also hard to tell which sources are reliable. Therefore, it is {3|important} to check who wrote the information and when it was published. Comparing several sources can also {4|reduce} the risk of believing false news. In short, we need to develop a critical {5|attitude} toward what we read.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "오늘날 젊은 사람들은 온라인에서 엄청난 양의 정보에 노출된다. 인터넷은 지식에 대한 쉬운 접근을 제공하지만, 어떤 출처가 믿을 만한지 구별하기도 어렵다. 따라서 누가 그 정보를 썼고 언제 게시되었는지 확인하는 것이 중요하다. 여러 출처를 비교하면 가짜 뉴스를 믿을 위험도 줄일 수 있다. 요컨대 우리는 읽는 것에 대해 비판적인 태도를 길러야 한다.",
+    "why": "Although로 이어져 '출처를 구별하기 어렵다'는 단점과 대비되려면 인터넷이 지식에 대한 '쉬운(easy/wide)' 접근을 제공한다는 내용이어야 합니다. limited(제한된)는 부적절합니다.",
+    "optionNotes": [
+      "많은 정보에 노출된다는 의미로 exposed가 적절합니다.",
+      "정답(부적절). Although 뒤의 단점과 대비되려면 easy/wide가 와야 합니다.",
+      "확인하는 것이 중요하다는 의미로 important가 적절합니다.",
+      "위험을 줄인다는 의미로 reduce가 적절합니다.",
+      "비판적인 태도라는 의미로 attitude가 적절합니다."
+    ],
+    "trap": "'Although ~, ...' 구조에서 앞과 뒤의 방향이 반대인지 확인해야 합니다. limited는 뒤 문장과 같은 부정적인 방향이라 어색합니다.",
+    "tip": "Although/while 같은 양보 접속사는 앞뒤 절의 의미가 대조되는지 확인하세요."
+  },
+  {
+    "id": "m3-01-31",
+    "level": "m3",
+    "set": "mock-01",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In the early 20th century, factory workers in many countries worked more than ten hours a day. As a result, they had little time for family or rest. Then, one company decided to try something new: it shortened the workday to eight hours. Surprisingly, production did not fall. The workers were less tired, made fewer mistakes, and worked more carefully. Other companies soon followed, and many of them reported similar results. This example shows that working longer does not necessarily mean __________.",
+    "options": [
+      "working together with more colleagues",
+      "working safely under strict rules",
+      "working quietly without any complaints",
+      "working earlier than other companies",
+      "working more productively than before"
+    ],
+    "answer": 4,
+    "translation": "20세기 초 많은 나라의 공장 노동자들은 하루에 열 시간 넘게 일했다. 그 결과 가족이나 휴식을 위한 시간이 거의 없었다. 그러다 한 회사가 새로운 시도를 하기로 했다. 노동 시간을 여덟 시간으로 줄인 것이다. 놀랍게도 생산량은 줄지 않았다. 노동자들은 덜 피곤했고, 실수를 덜 했으며, 더 신중하게 일했다. 다른 회사들도 곧 그 뒤를 따랐고 많은 회사가 비슷한 결과를 보고했다. 이 예는 오래 일하는 것이 반드시 더 생산적으로 일하는 것을 뜻하지는 않는다는 것을 보여 준다.",
+    "why": "근무 시간을 줄여도 생산량이 줄지 않았으므로, 오래 일하는 것이 반드시 더 생산적인 것은 아니라는 결론입니다.",
+    "optionNotes": [
+      "함께 일하는 동료 수는 글의 내용과 상관이 없습니다.",
+      "안전은 언급되지 않았습니다.",
+      "불평 없이 일하는 것은 언급되지 않았습니다.",
+      "일찍 시작하는 것은 언급되지 않았습니다.",
+      "정답. 생산량이 줄지 않았다는 사례의 일반화입니다."
+    ],
+    "trap": "'made fewer mistakes' 때문에 ②(safely)를 고르기 쉽습니다. 일반화된 결론은 생산성(production)입니다.",
+    "tip": "빈칸이 'This example shows that ~'로 시작하는 문장이면, 앞의 사례(production did not fall)를 일반화하세요."
+  },
+  {
+    "id": "m3-01-32",
+    "level": "m3",
+    "set": "mock-01",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "When you learn a new skill, it is natural to compare your progress with others. However, comparison can be misleading because everyone starts from a different point and moves at a different speed. A student who has played the piano for five years should not be compared with a beginner. Such comparisons often make beginners feel discouraged. A more meaningful standard is __________. By looking at how much you have improved since last month, you can see your own growth clearly.",
+    "options": [
+      "how well you did in your own past",
+      "what your classmates are able to do",
+      "how your friends are feeling today",
+      "what famous experts have achieved",
+      "how difficult the whole task seems"
+    ],
+    "answer": 0,
+    "translation": "새로운 기술을 배울 때 자신의 발전을 다른 사람과 비교하는 것은 자연스럽다. 그러나 비교는 오해를 불러일으킬 수 있는데, 모두가 서로 다른 지점에서 출발해 다른 속도로 나아가기 때문이다. 피아노를 5년 동안 친 학생을 초보자와 비교해서는 안 된다. 그런 비교는 종종 초보자를 낙담하게 만든다. 더 의미 있는 기준은 자신의 과거 수행이다. 지난달 이후로 얼마나 나아졌는지 살펴보면 자신의 성장을 분명히 볼 수 있다.",
+    "why": "마지막 문장에서 '지난달 이후로 얼마나 나아졌는지'를 본다고 했으므로 기준은 자신의 과거 수행입니다.",
+    "optionNotes": [
+      "정답. 자신의 과거와 비교하는 기준입니다.",
+      "다른 사람과의 비교이므로 글이 비판하는 기준입니다.",
+      "친구들의 기분은 글과 상관이 없습니다.",
+      "전문가와의 비교도 다른 사람과의 비교입니다.",
+      "과제의 난이도는 언급되지 않았습니다."
+    ],
+    "trap": "②는 'compare ... with others'의 반복이라 글이 부정하는 방향입니다.",
+    "tip": "빈칸 바로 뒤의 'By looking at ~' 문장은 빈칸의 구체적인 설명입니다. 이를 먼저 읽으세요."
+  },
+  {
+    "id": "m3-01-33",
+    "level": "m3",
+    "set": "mock-01",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A common myth says that people use only ten percent of their brains. In reality, brain scans show that nearly every part of the brain is active over the course of a day. Even when we sleep, many regions continue to work. Some parts may be more active than others depending on the task, but no part is completely unused. In fact, damage to even a small area of the brain can cause serious problems. Therefore, the idea that most of our brain is idle is __________.",
+    "options": [
+      "scientifically proven by many recent studies",
+      "widely accepted among brain experts",
+      "nothing more than a popular myth",
+      "the result of new research on the brain",
+      "true only for people who are sleeping"
+    ],
+    "answer": 2,
+    "translation": "흔한 통념은 사람이 뇌의 10퍼센트만 사용한다고 말한다. 사실 뇌 스캔은 하루 동안 뇌의 거의 모든 부분이 활동한다는 것을 보여 준다. 잠을 잘 때도 많은 영역이 계속 일한다. 과제에 따라 어떤 부분은 다른 부분보다 더 활동적일 수 있지만, 완전히 쓰이지 않는 부분은 없다. 사실 뇌의 작은 부분만 손상되어도 심각한 문제가 생길 수 있다. 따라서 우리 뇌의 대부분이 놀고 있다는 생각은 통념에 불과하다.",
+    "why": "첫 문장에서 '흔한 통념(myth)'이라고 소개했고, 뇌 전체가 활동한다는 근거로 반박했으므로 빈칸에는 '통념에 불과하다'가 알맞습니다.",
+    "optionNotes": [
+      "과학적으로 입증되었다는 내용은 글과 반대입니다.",
+      "전문가들이 널리 받아들였다는 내용은 글과 반대입니다.",
+      "정답. 글이 시작부터 myth라고 불렀습니다.",
+      "새로운 연구의 결과가 아니라 오래된 통념을 반박한 것입니다.",
+      "잠자는 사람에게만 해당한다는 내용은 없습니다."
+    ],
+    "trap": "'Even when we sleep'를 보고 ⑤를 고르기 쉽지만, 글은 잠잘 때도 뇌가 활동한다고 말합니다.",
+    "tip": "글의 처음과 끝이 수미상관일 때, 첫 문장의 핵심어(myth)가 빈칸에 반복되는 경우가 많습니다."
+  },
+  {
+    "id": "m3-01-34",
+    "level": "m3",
+    "set": "mock-01",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Some animals, such as chameleons, change their skin color to match their surroundings. This helps them hide from predators. Their skin contains special cells that reflect different colors of light, so they can change quickly. Interestingly, however, the main reason for color change in many chameleons is not camouflage. Scientists have found that they often change color to __________. A bright, colorful display can warn rivals to stay away or attract a partner, while dull colors show that they are calm.",
+    "options": [
+      "save energy in cold weather",
+      "communicate with other chameleons",
+      "find their food more easily",
+      "protect the eggs from enemies",
+      "cool down their body in the heat"
+    ],
+    "answer": 1,
+    "translation": "카멜레온 같은 일부 동물은 주변 환경에 맞춰 피부색을 바꾼다. 이것은 포식자로부터 숨는 데 도움이 된다. 그들의 피부에는 서로 다른 색의 빛을 반사하는 특별한 세포가 있어서 빠르게 색을 바꿀 수 있다. 그러나 흥미롭게도 많은 카멜레온에게 색이 변하는 주된 이유는 위장이 아니다. 과학자들은 그들이 종종 다른 카멜레온과 의사소통하기 위해 색을 바꾼다는 것을 발견했다. 밝고 화려한 과시는 경쟁자에게 가까이 오지 말라고 경고하거나 짝을 유인할 수 있고, 칙칙한 색은 그들이 차분하다는 것을 보여 준다.",
+    "why": "밝은 색이 경쟁자에게 경고하거나 짝을 유인하고, 칙칙한 색은 차분함을 보여 준다는 설명이므로 서로 의사소통하기 위해 색을 바꿉니다.",
+    "optionNotes": [
+      "에너지 절약은 언급되지 않았습니다.",
+      "정답. 신호를 주고받는 의사소통입니다.",
+      "먹이를 찾는 것은 언급되지 않았습니다.",
+      "알을 보호하는 것은 언급되지 않았습니다.",
+      "더위를 식히는 것은 언급되지 않았습니다."
+    ],
+    "trap": "처음 설명(위장)에 끌려 방어 목적의 보기를 고르지 마세요. However 이후가 중심입니다.",
+    "tip": "빈칸 뒤 문장(A bright, colorful display can warn ~)이 빈칸의 구체적 예시입니다."
+  },
+  {
+    "id": "m3-01-35",
+    "level": "m3",
+    "set": "mock-01",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Public libraries play an important role in a community. ① They provide free access to books, computers, and quiet places for study. ② Many libraries also offer programs such as language classes and reading clubs. ③ In this way, they give everyone, regardless of income, a chance to learn. ④ Bookstores in large shopping malls have become more modern and comfortable in recent years. ⑤ As a result, libraries help build a more informed and connected society.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "공공 도서관은 지역 사회에서 중요한 역할을 한다. ① 그것들은 책, 컴퓨터, 조용한 학습 공간에 무료로 접근할 수 있게 해 준다. ② 많은 도서관은 언어 수업과 독서 모임 같은 프로그램도 제공한다. ③ 이런 식으로 도서관은 소득에 상관없이 모든 사람에게 배울 기회를 준다. ④ 대형 쇼핑몰의 서점은 최근 몇 년 사이 더 현대적이고 편안해졌다. ⑤ 그 결과 도서관은 더 많은 정보를 가지고 서로 연결된 사회를 만드는 데 도움을 준다.",
+    "why": "글은 공공 도서관의 역할을 설명하는데 ④는 쇼핑몰 서점의 변화를 이야기해 흐름과 관계가 없습니다.",
+    "optionNotes": [
+      "도서관의 무료 서비스입니다.",
+      "도서관의 프로그램입니다.",
+      "도서관이 학습 기회를 제공한다는 정리입니다.",
+      "정답(무관). 서점은 공공 도서관과 다른 화제입니다.",
+      "도서관의 사회적 역할을 정리하는 결론입니다."
+    ],
+    "trap": "'books, store' 같은 책과 관련된 소재라 어색함을 놓치기 쉽습니다. 글의 주어는 계속 도서관입니다.",
+    "tip": "무관한 문장은 주어와 화제가 바뀌었는지를 먼저 확인하세요(libraries → bookstores)."
+  },
+  {
+    "id": "m3-01-36",
+    "level": "m3",
+    "set": "mock-01",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Cities are often much hotter than the countryside around them.\n(A) To solve this problem, some cities have started painting roofs white, which reflects sunlight and keeps buildings cooler. Others have planted trees along the streets.\n(B) This is because concrete and asphalt absorb heat during the day and release it slowly at night. There are also fewer trees to give shade.\n(C) As a result, people in cities use more air conditioners, which increases energy use and makes the problem even worse.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 2,
+    "translation": "도시는 주변 시골보다 훨씬 더 더운 경우가 많다. (B) 이것은 콘크리트와 아스팔트가 낮 동안 열을 흡수하고 밤에 천천히 내보내기 때문이다. 또한 그늘을 만들어 주는 나무도 더 적다. (C) 그 결과 도시 사람들은 에어컨을 더 많이 사용하고, 이는 에너지 사용을 늘려 문제를 더욱 악화시킨다. (A) 이 문제를 해결하기 위해 일부 도시는 지붕을 흰색으로 칠하기 시작했는데, 이는 햇빛을 반사해 건물을 더 시원하게 유지한다. 또 어떤 도시는 거리를 따라 나무를 심었다.",
+    "why": "(B) 원인('This is because ~') → (C) 결과('As a result') → (A) 해결책('To solve this problem') 순서입니다.",
+    "optionNotes": [
+      "(A)의 해결책이 문제의 원인과 결과가 나오기 전에 오면 'this problem'이 모호합니다.",
+      "(A)의 'this problem'은 (C)에서 문제가 악화된다는 내용 뒤에 와야 합니다.",
+      "정답. 원인 → 결과 → 해결책.",
+      "(C)의 'As a result'가 가리킬 원인이 앞에 없습니다.",
+      "(C)의 'As a result'가 가리킬 원인이 앞에 없습니다."
+    ],
+    "trap": "(A)는 해결책이라서 바로 이어질 것 같지만, 'this problem'은 문제가 충분히 설명된 뒤에 와야 합니다.",
+    "tip": "원인(This is because) → 결과(As a result) → 해결(To solve this problem)은 설명문의 전형적인 순서입니다."
+  },
+  {
+    "id": "m3-01-37",
+    "level": "m3",
+    "set": "mock-01",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Sam had always been afraid of speaking in front of people.\n(A) So when his teacher asked him to join the debate club, he almost said no.\n(B) At first, his voice shook during the debates, but after several months, he became one of the club's best speakers. His teacher and friends cheered for him every time.\n(C) However, he remembered his grandfather's words: \"Courage is acting despite fear.\" He decided to give it a try.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "Sam은 항상 사람들 앞에서 말하는 것을 두려워했다. (A) 그래서 선생님이 토론 동아리에 들어오라고 했을 때 그는 거의 거절할 뻔했다. (C) 하지만 그는 할아버지의 말씀을 기억했다. \"용기는 두려움에도 불구하고 행동하는 것이다.\" 그는 한번 해 보기로 결심했다. (B) 처음에는 토론에서 목소리가 떨렸지만, 몇 달 뒤 그는 동아리에서 가장 말을 잘하는 사람 중 한 명이 되었다. 선생님과 친구들은 그때마다 그를 응원했다.",
+    "why": "(A) 두려움 때문에 거절할 뻔함 → (C) 'However' 할아버지의 말씀으로 결심 → (B) 시작은 힘들었지만 결국 성공 순서입니다.",
+    "optionNotes": [
+      "정답. 거절할 뻔함 → However 결심 → 결과.",
+      "(B)의 결과가 먼저 오면 (A)(C)의 망설임이 결과 뒤에 놓여 어색합니다.",
+      "(C)의 'However'가 가리킬 부정적 상황이 (A)보다 먼저 올 수 없습니다.",
+      "(C)의 'However'가 가리킬 거절의 상황 없이 시작됩니다.",
+      "(B)의 결과가 (A)의 선택 전에 올 수 없습니다."
+    ],
+    "trap": "(B)의 'At first'는 처음 시작을 나타내므로 (A)보다 앞에 둘 수 있을 것 같지만, (A)에서 가입을 결정해야 합니다.",
+    "tip": "However 같은 접속 부사는 반대 방향의 앞 문장이 필요합니다. (A)의 'almost said no'가 그 앞 문장입니다."
+  },
+  {
+    "id": "m3-01-38",
+    "level": "m3",
+    "set": "mock-01",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThere is no simple answer, since each school has different needs.\n\n[글]\nMany schools are considering whether to start classes later in the morning. ( ① ) Teenagers' body clocks naturally shift, which makes them feel sleepy until later in the morning. ( ② ) Several studies show that students who start school later get more sleep and pay better attention in class. ( ③ ) On the other hand, some parents worry that later classes will make the school day end too late for after-school activities. ( ④ ) So, is a later start time really the best solution? ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "[주어진 문장] 학교마다 필요한 것이 다르기 때문에 간단한 답은 없다. [글] 많은 학교가 아침 수업을 더 늦게 시작해야 할지 고민하고 있다. 십 대의 체내 시계는 자연스럽게 늦어지기 때문에 아침 늦게까지 졸음을 느낀다. 여러 연구는 수업을 늦게 시작한 학생들이 더 많이 자고 수업에 더 잘 집중한다는 것을 보여 준다. 반면 일부 학부모들은 수업이 늦어지면 방과 후 활동을 하기에 하루가 너무 늦게 끝날 것을 걱정한다. 그렇다면 늦은 시작 시간이 정말로 최선의 해결책일까?",
+    "why": "'There is no simple answer'는 바로 앞의 질문 'is a later start time really the best solution?'에 대한 답이므로 맨 끝 ⑤에 들어갑니다.",
+    "optionNotes": [
+      "질문이 나오기 전이라 'no simple answer'가 가리킬 질문이 없습니다.",
+      "장단점이 소개되기 전이라 결론을 내리기에 이릅니다.",
+      "찬성 근거만 나온 상태에서 'no simple answer'는 어색합니다.",
+      "반대 의견 뒤에 오면 질문보다 먼저 답이 나와 순서가 뒤바뀝니다.",
+      "정답. 마지막 질문에 대한 답입니다."
+    ],
+    "trap": "④는 '반대 의견' 뒤라서 결론처럼 보이지만, 'no simple answer'가 답하는 질문은 ⑤ 앞의 문장입니다.",
+    "tip": "'There is no simple answer'는 앞에 질문이 있어야 하는 답변 표현입니다. 질문 바로 뒤를 찾으세요."
+  },
+  {
+    "id": "m3-01-39",
+    "level": "m3",
+    "set": "mock-01",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThis led to a rapid increase in the number of people who work from home.\n\n[글]\nThe COVID-19 pandemic changed the way many people work. ( ① ) Companies had to close their offices to stop the virus from spreading. ( ② ) As a result, video meetings and cloud tools became part of everyday life. ( ③ ) Many workers found that they could save commuting time and spend more time with their families. ( ④ ) However, others felt lonely and had difficulty separating work from private life. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "[주어진 문장] 이는 재택근무를 하는 사람의 수를 급격히 늘렸다. [글] 코로나19 팬데믹은 많은 사람들이 일하는 방식을 바꾸었다. 기업들은 바이러스가 퍼지는 것을 막기 위해 사무실을 닫아야 했다. 그 결과 화상 회의와 클라우드 도구가 일상의 일부가 되었다. 많은 직장인은 통근 시간을 아끼고 가족과 더 많은 시간을 보낼 수 있음을 알게 되었다. 하지만 어떤 이들은 외로움을 느끼고 일과 사생활을 구분하기 어려워했다.",
+    "why": "'This'는 사무실을 닫아야 했다는 앞 문장을 가리키고, 다음 문장의 'As a result'가 재택근무가 늘어난 결과를 이어받습니다.",
+    "optionNotes": [
+      "사무실을 닫았다는 내용이 나오기 전이라 'This'가 가리킬 대상이 없습니다.",
+      "정답. 사무실 폐쇄 → 재택근무 증가 → As a result.",
+      "'As a result'로 시작하는 문장 뒤에 오면 결과 문장의 원인이 사라집니다.",
+      "장점을 서술한 문장 뒤에 오면 흐름이 끊깁니다.",
+      "However 뒤의 단점 문장 다음에 오면 'This'가 가리키는 대상이 어색합니다."
+    ],
+    "trap": "③은 '화상 회의'가 재택근무와 관련되어 보이지만, 'As a result'가 이 문장 앞에 원인을 요구합니다.",
+    "tip": "주어진 문장 다음 문장이 'As a result'로 시작하면, 주어진 문장이 원인(앞 사건)이 되는 위치입니다."
+  },
+  {
+    "id": "m3-01-40",
+    "level": "m3",
+    "set": "mock-01",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In a study, researchers asked two groups of students to learn a list of words. One group studied the list for ten minutes and then took a test immediately. The other group studied for the same time but took a short quiz after five minutes before the final test. On the final test, the group that had taken the short quiz remembered about 20 percent more words. The researchers explained that trying to recall information strengthens memory more than simply reading it again.\n\n▶ Testing yourself during study can (A) memory because retrieving information makes it (B) than reading again.",
+    "options": [
+      "(A) weaken — (B) weaker",
+      "(A) improve — (B) less stable",
+      "(A) weaken — (B) stronger",
+      "(A) improve — (B) stronger",
+      "(A) ignore — (B) clearer"
+    ],
+    "answer": 3,
+    "translation": "한 연구에서 연구자들은 두 그룹의 학생에게 단어 목록을 외우게 했다. 한 그룹은 목록을 10분 동안 공부한 뒤 바로 시험을 보았다. 다른 그룹은 같은 시간 동안 공부했지만 5분 후에 짧은 퀴즈를 본 다음 최종 시험을 보았다. 최종 시험에서 짧은 퀴즈를 본 그룹은 약 20퍼센트 더 많은 단어를 기억했다. 연구자들은 정보를 떠올리려고 해 보는 것이 단순히 다시 읽는 것보다 기억을 더 강화한다고 설명했다. ▶ 공부하는 동안 스스로를 시험해 보는 것은 정보를 떠올리는 것이 다시 읽는 것보다 기억을 더 강하게 만들기 때문에 기억을 향상시킬 수 있다.",
+    "why": "퀴즈를 본 그룹이 더 많이 기억했고, 떠올리는 것이 기억을 더 강하게 만든다고 했으므로 (A)는 improve, (B)는 stronger입니다.",
+    "optionNotes": [
+      "weaken은 글의 결과와 반대입니다.",
+      "less stable은 'strengthens memory'와 반대입니다.",
+      "weaken은 글의 결과와 반대입니다.",
+      "정답. 기억을 향상시키고 더 강하게 만듭니다.",
+      "ignore는 글에 나오지 않습니다."
+    ],
+    "trap": "(B)에 'less stable'처럼 그럴듯한 형용사가 있지만 글의 마지막 문장은 'strengthens'입니다.",
+    "tip": "요약문은 글의 마지막 설명 문장(The researchers explained ~)을 거의 그대로 옮긴 경우가 많습니다."
+  }
+]
