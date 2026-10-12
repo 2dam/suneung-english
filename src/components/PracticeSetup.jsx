@@ -23,7 +23,7 @@ export default function PracticeSetup({ level, onStart, onStartExam, onPrint }) 
     return (
       <section className="panel empty">
         <h2>{level.name} 문제를 준비 중입니다</h2>
-        <p className="muted">시범판에서는 중급 샘플 문제부터 열려 있습니다. 상단에서 등급을 바꿔 확인해 보세요.</p>
+        <p className="muted">아직 제작 중이에요. 다른 학년을 먼저 풀어 보세요.</p>
       </section>
     )
   }

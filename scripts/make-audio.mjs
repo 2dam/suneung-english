@@ -16,7 +16,7 @@ const contentDir = path.join(root, 'src', 'content')
 const audioDir = path.join(root, 'public', 'audio')
 
 const VOICES = { W: 'en-US-JennyNeural', M: 'en-US-GuyNeural', N: 'en-US-AriaNeural' }
-const RATE = { basic: '-15%', mid: '-5%', high: '0%' } // 등급별 속도
+const RATE = { m1: '-20%', m2: '-10%', m3: '-5%' } // 학년별 속도
 const args = new Set(process.argv.slice(2))
 
 function listJson(dir) {

@@ -4,6 +4,7 @@ import { TYPES, typeLabel } from '../data/types'
 import { stopSpeech } from '../lib/speech'
 import ListeningPlayer from './ListeningPlayer'
 import Passage, { CIRCLED } from './Passage'
+import Visual from './Visual'
 
 const formatTime = (seconds) => {
   const safe = Math.max(0, seconds)
@@ -111,6 +112,7 @@ export default function ExamRunner({ title, questions, minutes, onSubmit, onExit
       ) : (
         <Passage text={question.passage} />
       )}
+      <Visual question={question} />
 
       <ul className={`options ${numbersOnly ? 'numbers-only' : ''}`}>
         {question.options.map((option, optionIndex) => (

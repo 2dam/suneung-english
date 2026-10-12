@@ -99,7 +99,52 @@ for (const q of questions) {
       if (!q.options.every((o) => CIRCLED_RE.test(o))) err(id, `${q.type} 문제의 보기는 ①~⑤ 번호여야 합니다`)
     }
   }
+  // 그림·도표 자료
+  if (q.type === 'l-picture') {
+    const items = q.picture?.items
+    if (!Array.isArray(items) || items.length !== 5) err(id, 'l-picture 문항에는 picture.items 5개가 필요합니다')
+    else if (items.some((item, i) => item.no !== i + 1 || !item.emoji || !item.label)) {
+      err(id, 'picture.items는 no 1~5, emoji, label을 모두 가져야 합니다')
+    }
+  }
+  if (q.type === 'l-chart' || q.type === 'chart') {
+    const c = q.chart
+    if (!c || !Array.isArray(c.labels) || !Array.isArray(c.series) || c.series.length === 0) {
+      err(id, `${q.type} 문항에는 chart(labels, series)가 필요합니다`)
+    } else if (c.series.some((s) => !Array.isArray(s.values) || s.values.length !== c.labels.length)) {
+      err(id, 'chart.series의 values 길이가 labels와 같아야 합니다')
+    }
+  }
   if (q.type === 'blank' && q.passage && !/_{5,}/.test(q.passage)) err(id, '빈칸 문제에 ____ 표기가 없습니다')
+
+  // 학년별 난이도 기준(읽기 지문 길이, 문장 길이, 듣기 대본 길이)
+  const spec = LEVELS.find((level) => level.id === q.level)?.spec
+  if (spec) {
+    const raw = info.section === 'listening' ? (q.script || []).map((l) => l.text).join(' ') : q.passage || ''
+    const cleaned = raw
+      .replace(/\{[1-5u]\|([^}]+)\}/g, '$1')
+      .replace(/\[(주어진 문장|글)\]/g, ' ')
+      .replace(/\([A-D]\)/g, ' ')
+      .replace(/[①②③④⑤▶]/g, ' ')
+    // 문장 경계: 마침표·물음표·느낌표(뒤에 따옴표가 붙어도) 또는 줄바꿈(안내문 항목)
+    const sentences = cleaned.split(/[.!?]+["”']?(?:\s|$)|\n/).map((s) => s.trim()).filter(Boolean)
+    const counts = sentences.map((s) => (s.match(/[A-Za-z][A-Za-z'’-]*/g) || []).length)
+    const total = counts.reduce((a, b) => a + b, 0)
+    const longest = Math.max(0, ...counts)
+    const avg = counts.length ? total / counts.length : 0
+    const isSet = q.type === 'long' || q.type === 'l-set'
+    const factor = isSet ? 1.7 : 1
+    if (info.section === 'reading' && q.passage) {
+      const [lo, hi] = spec.readingWords
+      if (!isSet && total < lo) warn(id, `지문이 짧습니다(${total}단어, 기준 ${lo}~${hi})`)
+      if (total > hi * factor) warn(id, `지문이 깁니다(${total}단어, 기준 ${lo}~${Math.round(hi * factor)})`)
+    }
+    if (info.section === 'listening' && total > spec.scriptWords * factor) {
+      warn(id, `듣기 대본이 깁니다(${total}단어, 기준 ${Math.round(spec.scriptWords * factor)} 이하)`)
+    }
+    if (avg > spec.avgSentence) warn(id, `문장 평균 길이가 깁니다(${avg.toFixed(1)}단어, 기준 ${spec.avgSentence} 이하)`)
+    if (longest > spec.maxSentence) warn(id, `가장 긴 문장이 깁니다(${longest}단어, 기준 ${spec.maxSentence} 이하)`)
+  }
   if (q.type === 'order' && q.passage) {
     for (const mark of ['(A)', '(B)', '(C)']) {
       if (!q.passage.includes(mark)) err(id, `글의 순서 지문에 ${mark}가 없습니다`)
@@ -138,6 +183,22 @@ for (const [key, group] of mockGroups) {
   const dup = nos.filter((n, i) => nos.indexOf(n) !== i)
   if (dup.length) err(key, `문항 번호가 중복됩니다: ${[...new Set(dup)].join(', ')}`)
   if (group.length !== 45) warn(key, `45문항 중 ${group.length}문항만 작성됨(작성 중)`)
+}
+
+// 정답 보기가 가장 긴 문항 비율: 길이만으로 정답을 짐작할 수 없게 한다 (우연 기대치 약 20%)
+for (const [key, group] of mockGroups) {
+  const texts = group.filter(
+    (q) => Array.isArray(q.options) && !q.options.every((o) => CIRCLED_RE.test(o)) && !/^\([A-D]\)/.test(q.options[0]),
+  )
+  if (texts.length < 20) continue
+  const longest = texts.filter((q) => {
+    const lens = q.options.map((o) => o.length)
+    const max = Math.max(...lens)
+    return lens[q.answer] === max && lens.filter((l) => l === max).length === 1
+  }).length
+  if (longest / texts.length > 0.3) {
+    warn(key, `정답이 가장 긴 보기인 문항이 ${Math.round((100 * longest) / texts.length)}%입니다(${longest}/${texts.length})`)
+  }
 }
 
 // 정답 위치 분포: 한쪽으로 쏠리면 정답을 찍기 쉬워진다

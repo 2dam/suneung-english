@@ -90,7 +90,7 @@ export default function App() {
       <main className="shell">
         <header className="topbar">
           <button type="button" className="brand" onClick={goHome}>
-            수능영어
+            수능영어 완성하기
           </button>
           <button type="button" className="level-chip" onClick={() => setLevelId(null)}>
             {level.name} · 변경

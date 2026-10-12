@@ -151,6 +151,21 @@ button:disabled { cursor: not-allowed; opacity: 0.5; }
 .notes li.right { font-weight: 600; }
 .trap, .tip { background: var(--warn-soft); border-radius: 8px; padding: 8px 10px; }
 
+/* 그림·도표 */
+.picture, .chart { margin: 12px 0 0; padding: 12px; border: 1px solid var(--line); border-radius: 10px; background: var(--card); }
+.picture figcaption, .chart figcaption { font-weight: 700; margin-bottom: 8px; font-size: 0.95rem; }
+.picture ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); }
+.picture li { display: flex; align-items: center; gap: 8px; padding: 8px 10px; border: 1px solid var(--line); border-radius: 8px; background: var(--bg); }
+.pic-emoji { font-size: 1.6rem; line-height: 1; }
+.pic-label { font-family: Georgia, 'Times New Roman', serif; font-size: 0.95rem; }
+.chart svg { width: 100%; height: auto; display: block; }
+.chart .grid { stroke: var(--line); stroke-width: 1; }
+.chart .tick, .chart .axis, .chart .value { fill: var(--text); font-size: 11px; font-family: Georgia, serif; }
+.chart .tick { fill: var(--muted); }
+.legend { list-style: none; display: flex; gap: 14px; padding: 0; margin: 6px 0 0; font-size: 0.85rem; }
+.legend i { display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 4px; }
+.chart-unit { margin: 4px 0 0; color: var(--muted); font-size: 0.8rem; }
+
 /* 모의고사 */
 .exam-list { list-style: none; margin: 12px 0 0; padding: 0; display: grid; gap: 10px; }
 .exam-list li {
@@ -195,6 +210,9 @@ button:disabled { cursor: not-allowed; opacity: 0.5; }
   .print-answer { border-top: 1px dashed #999; margin-top: 8pt; padding-top: 6pt; font-size: 10pt; }
   .print-answer p { margin: 3pt 0; }
   .print-answer ul { margin: 4pt 0; padding-left: 14pt; list-style: none; }
+  .print-root .picture, .print-root .chart { border: 1px solid #999; background: #fff; break-inside: avoid; }
+  .print-root .picture li { background: #fff; border-color: #bbb; }
+  .print-root .chart .tick, .print-root .chart .axis, .print-root .chart .value { fill: #000; }
   .answer-table { width: 100%; border-collapse: collapse; margin: 0 0 14pt; }
   .answer-table th, .answer-table td { border: 1px solid #999; padding: 3pt; text-align: center; font-size: 10pt; }
 }

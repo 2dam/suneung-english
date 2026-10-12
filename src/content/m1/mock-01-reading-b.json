@@ -1,0 +1,248 @@
+[
+  {
+    "id": "m1-01-29", "level": "m1", "set": "mock-01", "no": 29, "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Mina {1|is} a middle school student. She {2|likes} animals very much. After school, she {3|go} to the animal shelter near her house. She helps {4|to feed} the dogs and cats there. Mina wants {5|to be} a vet in the future.",
+    "options": ["①", "②", "③", "④", "⑤"],
+    "answer": 2,
+    "translation": "미나는 중학생이다. 그녀는 동물을 매우 좋아한다. 방과 후에 그녀는 집 근처의 동물 보호소에 간다. 그곳에서 개와 고양이에게 먹이 주는 것을 돕는다. 미나는 장차 수의사가 되고 싶어 한다.",
+    "why": "주어 she는 3인칭 단수이므로 일반동사에 -es를 붙여 goes로 써야 합니다.",
+    "optionNotes": [
+      "주어 Mina에 맞는 be동사 is입니다.",
+      "3인칭 단수 주어에 맞는 likes입니다.",
+      "정답(틀린 것). 3인칭 단수 주어 she 뒤에는 goes가 와야 합니다.",
+      "help는 'to + 동사원형'이나 동사원형 둘 다 쓸 수 있어 맞습니다.",
+      "want는 'to + 동사원형'을 씁니다. 맞습니다."
+    ],
+    "trap": "'After school'이라는 부사구가 앞에 있어도 문장의 주어는 She입니다.",
+    "tip": "어법 문제는 각 밑줄 동사의 주어를 먼저 찾고 단수/복수와 시제를 확인하세요."
+  },
+  {
+    "id": "m1-01-30", "level": "m1", "set": "mock-01", "no": 30, "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Winter is a {1|cold} season. People wear thick coats to stay {2|cool}. They drink hot tea and eat warm food. Many children enjoy {3|playing} in the snow. On the other hand, some animals {4|sleep} for a long time until spring. They wake up when the weather becomes {5|warm}.",
+    "options": ["①", "②", "③", "④", "⑤"],
+    "answer": 1,
+    "translation": "겨울은 추운 계절이다. 사람들은 따뜻하게 지내려고 두꺼운 코트를 입는다. 그들은 뜨거운 차를 마시고 따뜻한 음식을 먹는다. 많은 아이들은 눈 속에서 노는 것을 즐긴다. 반면에 어떤 동물들은 봄까지 오랫동안 잔다. 그들은 날씨가 따뜻해지면 깬다.",
+    "why": "겨울에 두꺼운 코트를 입는 이유는 따뜻하게(warm) 지내기 위해서이므로 cool(시원한)은 알맞지 않습니다.",
+    "optionNotes": [
+      "겨울은 추운 계절이므로 cold가 맞습니다.",
+      "정답(부적절). 두꺼운 코트를 입는 것은 따뜻하게 지내기 위해서입니다.",
+      "눈 속에서 노는 것을 즐긴다는 의미로 playing이 맞습니다.",
+      "겨울잠을 자는 동물이므로 sleep이 맞습니다.",
+      "봄이 오면 날씨가 따뜻해지므로 warm이 맞습니다."
+    ],
+    "trap": "'stay cool'이라는 표현은 흔해서 자연스럽게 느껴질 수 있지만, 문맥은 겨울입니다.",
+    "tip": "어휘 문제는 앞뒤 문장의 상황(겨울, 두꺼운 코트)과 단어의 뜻이 어울리는지 확인하세요."
+  },
+  {
+    "id": "m1-01-31", "level": "m1", "set": "mock-01", "no": 31, "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Everyone has a dream job. Some people want to be doctors, and others want to be singers. But some students don't know what they want to do. That's okay. You can try many different activities, such as clubs and volunteer work. Through them, you can find what you like and what you are good at. Finding your dream starts with __________.",
+    "options": [
+      "staying at home all day",
+      "copying your friend's dream",
+      "studying only math",
+      "waiting for someone's help",
+      "trying new things"
+    ],
+    "answer": 4,
+    "translation": "누구에게나 꿈의 직업이 있다. 어떤 사람은 의사가 되고 싶어 하고, 다른 사람은 가수가 되고 싶어 한다. 하지만 어떤 학생들은 무엇을 하고 싶은지 모른다. 괜찮다. 동아리나 봉사 활동 같은 여러 활동을 해 볼 수 있다. 그것들을 통해 좋아하는 것과 잘하는 것을 찾을 수 있다. 꿈을 찾는 것은 새로운 것을 시도하는 것에서 시작된다.",
+    "why": "여러 활동을 해 보면서 좋아하는 것과 잘하는 것을 찾을 수 있다고 했으므로 빈칸에는 '새로운 것을 시도하기'가 알맞습니다.",
+    "optionNotes": [
+      "하루 종일 집에 있으면 활동을 해 볼 수 없습니다.",
+      "친구의 꿈을 따라 하라는 내용은 없습니다.",
+      "수학만 공부하라는 내용은 없습니다.",
+      "도움을 기다리는 것은 글의 내용(직접 해 보기)과 반대입니다.",
+      "정답. 여러 활동을 해 본다는 내용과 이어집니다."
+    ],
+    "trap": "빈칸 앞의 'Through them'이 가리키는 것이 '여러 활동'임을 놓치면 안 됩니다.",
+    "tip": "빈칸 문장은 앞 문장의 내용을 요약하는 경우가 많습니다. 반복되는 개념(activities)을 찾으세요."
+  },
+  {
+    "id": "m1-01-32", "level": "m1", "set": "mock-01", "no": 32, "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A smile is a small action, but it has great power. When you smile at someone, the person often smiles back. Then both of you feel better. A smile can make a bad day better. It can also help new friends feel comfortable. In this way, a smile is like __________ that you can give to others for free.",
+    "options": [
+      "a gift",
+      "a heavy bag",
+      "a long road",
+      "a hard test",
+      "a loud noise"
+    ],
+    "answer": 0,
+    "translation": "미소는 작은 행동이지만 큰 힘이 있다. 누군가에게 미소 지으면 그 사람도 종종 미소로 답한다. 그러면 둘 다 기분이 좋아진다. 미소는 나쁜 하루를 더 낫게 만들 수 있다. 새 친구가 편안함을 느끼게 도울 수도 있다. 이런 점에서 미소는 다른 사람에게 공짜로 줄 수 있는 선물과 같다.",
+    "why": "미소는 상대를 기분 좋게 해 주고 공짜로 줄 수 있다고 했으므로 '선물'에 비유할 수 있습니다.",
+    "optionNotes": [
+      "정답. 상대를 기분 좋게 하고 공짜로 줄 수 있는 것입니다.",
+      "무거운 가방은 부담이므로 글의 분위기와 반대입니다.",
+      "긴 길은 미소의 특징과 관련이 없습니다.",
+      "어려운 시험은 좋은 기분과 반대입니다.",
+      "시끄러운 소리는 편안함과 반대입니다."
+    ],
+    "trap": "'power'라는 단어 때문에 힘센 것(heavy)을 떠올리기 쉽지만, 글이 말하는 힘은 기분을 좋게 하는 긍정적인 힘입니다.",
+    "tip": "비유 빈칸은 글에서 설명한 대상의 특징(좋은 기분, 공짜)과 어울리는 단어를 고르세요."
+  },
+  {
+    "id": "m1-01-33", "level": "m1", "set": "mock-01", "no": 33, "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Plants need water to live. But too much water is not good for them. If you give a plant too much water, its roots cannot get enough air. Then the plant can die. The same is true for many things in our life. For example, eating too much food makes us sick. That is why __________ is important.",
+    "options": [
+      "being fast",
+      "being rich",
+      "keeping balance",
+      "working alone",
+      "going far"
+    ],
+    "answer": 2,
+    "translation": "식물은 살기 위해 물이 필요하다. 하지만 물이 너무 많은 것도 식물에게 좋지 않다. 식물에게 물을 너무 많이 주면 뿌리가 공기를 충분히 얻지 못한다. 그러면 식물은 죽을 수 있다. 우리 삶의 많은 것들도 마찬가지이다. 예를 들어 너무 많이 먹으면 아프게 된다. 그래서 균형을 유지하는 것이 중요하다.",
+    "why": "식물에게 물이 부족해도 너무 많아도 좋지 않고, 음식도 너무 많이 먹으면 아프다는 예시이므로 '균형 유지'가 알맞습니다.",
+    "optionNotes": [
+      "빠른 것에 대한 이야기는 없습니다.",
+      "부유한 것에 대한 이야기는 없습니다.",
+      "정답. 너무 많거나 적지 않은 균형이 중요하다는 결론입니다.",
+      "혼자 일하는 것과 관련이 없습니다.",
+      "멀리 가는 것과 관련이 없습니다."
+    ],
+    "trap": "'Plants need water'만 보면 '물을 많이'가 좋다고 착각하기 쉽지만, 'too much'가 문제라고 합니다.",
+    "tip": "빈칸에는 예시들의 공통점을 일반화한 개념이 들어갑니다. 예시(식물, 음식)에서 공통 교훈을 찾으세요."
+  },
+  {
+    "id": "m1-01-34", "level": "m1", "set": "mock-01", "no": 34, "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Reading a book and watching a movie are different. When you read a book, you make pictures in your head by yourself. Every reader imagines the main character's face and voice in a different way. But when you watch a movie, the pictures are already made for you. Therefore, reading a book helps you use your __________ more.",
+    "options": [
+      "money",
+      "legs",
+      "voice",
+      "imagination",
+      "homework"
+    ],
+    "answer": 3,
+    "translation": "책을 읽는 것과 영화를 보는 것은 다르다. 책을 읽을 때는 머릿속에서 스스로 그림을 만든다. 모든 독자가 주인공의 얼굴과 목소리를 다르게 상상한다. 하지만 영화를 볼 때는 그림이 이미 만들어져 있다. 그러므로 책을 읽는 것은 상상력을 더 많이 쓰도록 도와준다.",
+    "why": "책을 읽을 때는 머릿속에서 스스로 그림을 만든다고 했으므로 상상력(imagination)을 더 쓰게 됩니다.",
+    "optionNotes": [
+      "돈은 글에 나오지 않습니다.",
+      "다리는 글에 나오지 않습니다.",
+      "목소리를 상상한다고 했지만, 사용하는 것은 imagination입니다.",
+      "정답. 머릿속에서 그림을 만드는 능력입니다.",
+      "숙제는 글에 나오지 않습니다."
+    ],
+    "trap": "'voice'가 본문에 나오지만, 독자가 '내는' 목소리가 아니라 '상상하는' 목소리입니다.",
+    "tip": "빈칸 앞의 Therefore는 앞 내용의 결과를 이끕니다. 앞 문장의 핵심(make pictures in your head)을 단어로 바꾸세요."
+  },
+  {
+    "id": "m1-01-35", "level": "m1", "set": "mock-01", "no": 35, "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Eating breakfast is good for students. ① It gives your body energy for the morning. ② Many students go to school by bus or on foot. ③ It also helps you focus better in class. ④ Students who eat breakfast usually do better on tests. ⑤ So, try to eat something before you leave home.",
+    "options": ["①", "②", "③", "④", "⑤"],
+    "answer": 1,
+    "translation": "아침 식사는 학생들에게 좋다. ① 그것은 아침 동안 몸에 에너지를 준다. ② 많은 학생들이 버스나 걸어서 학교에 간다. ③ 그것은 또한 수업 시간에 더 잘 집중하도록 도와준다. ④ 아침을 먹는 학생들은 보통 시험을 더 잘 본다. ⑤ 그러니 집을 떠나기 전에 무엇이든 먹도록 노력하라.",
+    "why": "글은 아침 식사의 좋은 점을 설명하는데, ②는 학교에 가는 방법을 말해 흐름과 관계가 없습니다.",
+    "optionNotes": [
+      "아침 식사가 에너지를 준다는 장점입니다.",
+      "정답(무관). 학교에 가는 방법은 아침 식사와 관계가 없습니다.",
+      "아침 식사가 집중을 돕는다는 장점입니다.",
+      "아침 식사와 시험 성적의 관계입니다.",
+      "아침 식사를 하라는 결론입니다."
+    ],
+    "trap": "'students'라는 같은 소재가 나오지만 화제(아침 식사)에서 벗어난 문장입니다.",
+    "tip": "무관한 문장은 글의 중심 소재(breakfast)가 포함되었는지, 이어지는 문장과 자연스럽게 연결되는지 확인하세요."
+  },
+  {
+    "id": "m1-01-36", "level": "m1", "set": "mock-01", "no": 36, "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Jisu found a small kitten on her way home.\n(A) The next day, she took the kitten to the animal hospital. The doctor said it was healthy.\n(B) So she took it home and gave it some warm milk.\n(C) It was crying under a tree in the rain, and it looked very hungry.",
+    "options": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+    "answer": 4,
+    "translation": "지수는 집에 가는 길에 작은 새끼 고양이를 발견했다. (C) 고양이는 빗속에서 나무 아래에서 울고 있었고 매우 배고파 보였다. (B) 그래서 그녀는 고양이를 집에 데려가서 따뜻한 우유를 주었다. (A) 다음 날 그녀는 고양이를 동물병원에 데려갔다. 의사는 고양이가 건강하다고 말했다.",
+    "why": "(C)의 'It'이 주어진 글의 kitten을 받고, (B)의 'So'가 (C)의 상황(배고픔)에 대한 결과이며, (A)의 'The next day'가 그다음 날의 일입니다.",
+    "optionNotes": [
+      "(A)의 'The next day'가 앞의 하루 이야기 없이 시작됩니다.",
+      "(B)가 먼저 오면 'So'가 가리킬 원인이 없습니다.",
+      "(B)가 먼저 오면 'So'가 가리킬 원인이 없습니다.",
+      "(A)의 'The next day'는 (B)의 하룻밤 뒤여야 하므로 (A)가 (B)보다 앞설 수 없습니다.",
+      "정답. 발견한 상태 → 집에 데려감 → 다음 날 병원."
+    ],
+    "trap": "(A)는 완결된 이야기처럼 보이지만 'The next day' 때문에 앞에 하루가 있어야 합니다.",
+    "tip": "So, Then, The next day 같은 접속 부사와 시간 표현으로 사건의 순서를 정하세요."
+  },
+  {
+    "id": "m1-01-37", "level": "m1", "set": "mock-01", "no": 37, "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Tom wanted to make a paper airplane for the school contest.\n(A) Finally, he tested his airplane in the yard, and it flew very far.\n(B) First, he folded a sheet of paper in half.\n(C) Then he folded the two corners to the middle line.",
+    "options": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+    "answer": 2,
+    "translation": "Tom은 학교 대회를 위해 종이비행기를 만들고 싶었다. (B) 먼저 그는 종이 한 장을 반으로 접었다. (C) 그다음 그는 두 모서리를 가운데 선으로 접었다. (A) 마지막으로 그는 마당에서 비행기를 시험해 보았고, 비행기는 매우 멀리 날았다.",
+    "why": "First(처음) → Then(그다음) → Finally(마지막으로)의 순서이므로 (B)-(C)-(A)입니다.",
+    "optionNotes": [
+      "(B) 없이 (A)가 가장 먼저 올 수 없습니다.",
+      "Finally가 중간에 오면 Then이 뒤에 올 수 없습니다.",
+      "정답. First → Then → Finally.",
+      "(C)의 Then은 First 뒤에 와야 합니다.",
+      "(A)의 Finally는 마지막에 와야 합니다."
+    ],
+    "trap": "(A)의 내용이 결과라서 어디에든 올 수 있을 것 같지만, Finally가 마지막을 알려 줍니다.",
+    "tip": "First, Then, Finally 같은 순서 표시어가 있으면 가장 확실한 단서입니다."
+  },
+  {
+    "id": "m1-01-38", "level": "m1", "set": "mock-01", "no": 38, "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nHowever, she soon found a good way to make friends.\n\n[글]\nHana moved to a new school last spring, and she did not know anyone there. ( ① ) She joined the school band and played the guitar with other members. ( ② ) After a few weeks, she had many new friends. ( ③ ) She also became more confident. ( ④ ) Now she loves her new school. ( ⑤ )",
+    "options": ["①", "②", "③", "④", "⑤"],
+    "answer": 0,
+    "translation": "[주어진 문장] 하지만 그녀는 곧 친구를 사귀는 좋은 방법을 찾았다. [글] 하나는 작년 봄에 새 학교로 전학을 왔고, 그곳에서 아는 사람이 아무도 없었다. 그녀는 학교 밴드에 가입해서 다른 부원들과 기타를 쳤다. 몇 주 뒤 그녀에게는 새 친구가 많이 생겼다. 그녀는 더 자신감도 생겼다. 이제 그녀는 새 학교를 매우 좋아한다.",
+    "why": "'However'는 앞의 부정적인 상황(아는 사람이 없음)과 대조되며, 뒤 문장(밴드에 가입)이 그 '좋은 방법'을 구체적으로 설명합니다.",
+    "optionNotes": [
+      "정답. 아는 사람이 없다는 상황 뒤에 However로 반전하고, 다음 문장이 방법을 설명합니다.",
+      "밴드에 가입한 것이 곧 그 방법이므로, 설명 뒤에 'However'가 오면 어색합니다.",
+      "이미 친구가 생긴 뒤라서 '친구를 사귀는 방법을 찾았다'가 어색합니다.",
+      "자신감 이야기 뒤에 방법을 소개하는 것은 흐름에 맞지 않습니다.",
+      "결론 뒤에 'However'는 어색합니다."
+    ],
+    "trap": "'make friends'가 있어서 친구가 생긴 ③ 근처를 고르기 쉽지만, 'found a way'는 방법을 찾은 시점입니다.",
+    "tip": "However 같은 대조 표현은 앞에 반대되는 내용이 있어야 합니다. 앞뒤 문장의 방향을 확인하세요."
+  },
+  {
+    "id": "m1-01-39", "level": "m1", "set": "mock-01", "no": 39, "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nAfter two weeks, the results were very different.\n\n[글]\nStudents in Mr. Brown's class did an experiment with two groups of bean plants. ( ① ) They gave Group A plenty of sunlight and water. ( ② ) Group B got only a little water and no sunlight. ( ③ ) The students checked the plants every day for two weeks. ( ④ ) Group A's plants grew tall and green. ( ⑤ ) Group B's plants stayed small and turned yellow.",
+    "options": ["①", "②", "③", "④", "⑤"],
+    "answer": 3,
+    "translation": "[주어진 문장] 2주 뒤, 결과는 매우 달랐다. [글] Brown 선생님 반 학생들은 콩 식물 두 그룹으로 실험을 했다. 그들은 A 그룹에게는 햇빛과 물을 충분히 주었다. B 그룹은 물을 조금만 받았고 햇빛은 받지 못했다. 학생들은 2주 동안 매일 식물을 관찰했다. A 그룹의 식물은 키가 크고 푸르게 자랐다. B 그룹의 식물은 작은 채로 노랗게 변했다.",
+    "why": "2주 동안 관찰했다는 문장 다음에 'After two weeks, the results were very different.'가 오고, 그 뒤에 결과(A와 B의 차이)가 설명됩니다.",
+    "optionNotes": [
+      "실험이 소개되기 전이라 결과를 말할 수 없습니다.",
+      "A 그룹의 조건만 나왔고, B 그룹 조건이 아직 없습니다.",
+      "'two weeks'가 아직 소개되지 않았습니다.",
+      "정답. 2주간 관찰했다는 문장 바로 뒤에 결과가 나옵니다.",
+      "A 그룹 결과 뒤에 'the results were very different'는 B 그룹 결과가 이어져야 하므로 어색합니다."
+    ],
+    "trap": "'Group B'가 나오는 ⑤ 근처에서 결과를 말한다고 착각하기 쉽습니다. 주어진 문장은 두 그룹의 결과를 '모두' 소개하는 문장입니다.",
+    "tip": "'After two weeks'처럼 시간 표현이 있으면 앞에 그 기간이 먼저 소개되어야 합니다."
+  },
+  {
+    "id": "m1-01-40", "level": "m1", "set": "mock-01", "no": 40, "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A school ran a test with two groups of students. Group 1 studied for one hour without a break. Group 2 studied for one hour but took a five-minute break every twenty minutes. After that, both groups took the same quiz. Group 2 got better scores than Group 1. The researchers said that short breaks help our brain rest and remember more.\n\n▶ Taking (A) breaks while studying helps students (B) more information.",
+    "options": [
+      "(A) long — (B) forget",
+      "(A) short — (B) remember",
+      "(A) short — (B) forget",
+      "(A) long — (B) remember",
+      "(A) no — (B) remember"
+    ],
+    "answer": 1,
+    "translation": "한 학교가 두 그룹의 학생들로 시험을 했다. 그룹 1은 쉬지 않고 한 시간 동안 공부했다. 그룹 2는 한 시간 동안 공부했지만 20분마다 5분씩 쉬었다. 그 후 두 그룹은 같은 퀴즈를 풀었다. 그룹 2가 그룹 1보다 점수가 더 좋았다. 연구자들은 짧은 휴식이 우리 뇌가 쉬고 더 많이 기억하도록 돕는다고 말했다. ▶ 공부하는 동안 짧은 휴식을 취하는 것은 학생들이 더 많은 정보를 기억하도록 돕는다.",
+    "why": "20분마다 5분씩 짧게 쉰 그룹이 더 좋은 점수를 받았으므로 (A)는 short, (B)는 remember입니다.",
+    "optionNotes": [
+      "긴 휴식과 잊어버림은 글의 내용과 반대입니다.",
+      "정답. 짧은 휴식이 더 많이 기억하도록 돕습니다.",
+      "짧은 휴식이 잊게 한다는 것은 결과와 반대입니다.",
+      "긴 휴식에 대한 내용은 없습니다.",
+      "휴식이 없는 그룹은 점수가 더 낮았습니다."
+    ],
+    "trap": "(B)가 remember인 것은 쉽게 알아도, (A)를 long으로 착각하기 쉽습니다. 휴식은 5분의 '짧은' 것이었습니다.",
+    "tip": "요약문은 실험의 비교 대상(A 그룹/B 그룹)과 결과를 그대로 옮긴 문장입니다."
+  }
+]

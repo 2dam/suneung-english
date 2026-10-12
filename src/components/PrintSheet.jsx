@@ -3,6 +3,7 @@ import { createPortal } from 'react-dom'
 import { getLevel } from '../data/levels'
 import { TYPES, typeLabel } from '../data/types'
 import Passage, { CIRCLED } from './Passage'
+import Visual from './Visual'
 
 /**
  * 인쇄용 문서. 화면에서는 숨겨져 있고(@media print에서만 보임), 마운트되면 인쇄 창을 연다.
@@ -75,6 +76,7 @@ export default function PrintSheet({ job, onDone }) {
               ) : (
                 <Passage text={question.passage} />
               ))}
+            {showQuestions && <Visual question={question} />}
 
             {showQuestions && !numbersOnly && (
               <ol className="print-options">

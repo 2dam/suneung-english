@@ -5,6 +5,7 @@ import { stopSpeech } from '../lib/speech'
 import Explanation from './Explanation'
 import ListeningPlayer from './ListeningPlayer'
 import Passage, { CIRCLED } from './Passage'
+import Visual from './Visual'
 
 /** 연습 모드: 한 문제씩 풀고 바로 정답·해설을 본다. */
 export default function QuizRunner({ title, questions, onFinish, onExit }) {
@@ -60,6 +61,7 @@ export default function QuizRunner({ title, questions, onFinish, onExit }) {
       ) : (
         <Passage text={question.passage} />
       )}
+      <Visual question={question} />
 
       <ul className={`options ${numbersOnly ? 'numbers-only' : ''}`}>
         {question.options.map((option, optionIndex) => {
