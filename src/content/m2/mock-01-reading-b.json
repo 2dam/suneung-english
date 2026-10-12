@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m2-01-29",
+    "level": "m2",
+    "set": "mock-01",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Last weekend, I {1|visited} a traditional market with my grandmother. It was a place {2|which} many old things are sold. We bought fresh vegetables, and my grandmother {3|taught} me how to choose good ones. I was surprised {4|to see} so many people there. It was {5|more crowded} than I expected.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "지난 주말에 나는 할머니와 함께 전통 시장을 방문했다. 그곳은 오래된 물건들이 많이 팔리는 곳이었다. 우리는 신선한 채소를 샀고, 할머니는 좋은 것을 고르는 법을 가르쳐 주셨다. 나는 그곳에 그렇게 많은 사람이 있는 것을 보고 놀랐다. 그곳은 내가 예상한 것보다 더 붐볐다.",
+    "why": "a place 뒤의 절(many old things are sold)이 완전한 문장이므로 관계부사 where가 와야 합니다. which 뒤에는 불완전한 절이 와야 합니다.",
+    "optionNotes": [
+      "last weekend가 과거를 나타내므로 visited가 맞습니다.",
+      "정답(틀린 것). 완전한 절이 이어지므로 which가 아니라 where입니다.",
+      "과거 시제 taught가 맞고 'teach + 사람 + how to ~' 구조입니다.",
+      "감정 형용사 뒤에서 원인을 나타내는 to부정사입니다.",
+      "비교급 more crowded + than이 맞습니다."
+    ],
+    "trap": "'a place'가 선행사라서 which를 쓰기 쉽습니다. 뒤 문장의 구조가 완전한지를 확인하세요.",
+    "tip": "관계사 문제는 선행사 뒤의 절에서 주어·목적어가 빠졌는지 확인하세요. 빠지지 않았다면 관계부사입니다."
+  },
+  {
+    "id": "m2-01-30",
+    "level": "m2",
+    "set": "mock-01",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Sleep is {1|essential} for our health. When we sleep, our body {2|repairs} itself and our brain organizes what we learned. If we don't get enough sleep, we can feel tired and have {3|trouble} focusing. That is why doctors {4|discourage} teenagers to sleep at least eight hours every night. Good sleep also helps us {5|manage} our emotions better.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "잠은 우리의 건강에 필수적이다. 우리가 자는 동안 몸은 스스로를 회복하고 뇌는 배운 것을 정리한다. 충분히 자지 못하면 피곤하고 집중하는 데 어려움을 겪을 수 있다. 그래서 의사들은 십 대들이 매일 밤 최소 여덟 시간은 자도록 권한다. 푹 자면 감정을 더 잘 다스리는 데도 도움이 된다.",
+    "why": "충분한 잠이 중요하다는 흐름이므로, 의사들은 최소 여덟 시간을 자도록 '권한다(recommend)'가 알맞습니다. discourage(단념시키다)는 반대 뜻입니다.",
+    "optionNotes": [
+      "건강에 필수적이라는 의미로 essential이 적절합니다.",
+      "몸이 스스로를 회복한다는 의미로 repairs가 적절합니다.",
+      "집중하는 데 어려움이 있다는 의미로 trouble이 적절합니다.",
+      "정답(부적절). 의사들이 여덟 시간 자도록 권하므로 recommend가 와야 합니다.",
+      "감정을 다스린다는 의미로 manage가 적절합니다."
+    ],
+    "trap": "'doctors ... teenagers to sleep'의 구조가 자연스러워 보여서 단어의 뜻을 놓치기 쉽습니다.",
+    "tip": "어휘 문제는 앞 문장의 방향(잠이 중요함)과 문장 전체가 그 방향을 따르는지 확인하세요."
+  },
+  {
+    "id": "m2-01-31",
+    "level": "m2",
+    "set": "mock-01",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "When you meet someone for the first time, you may feel shy. But there is a simple way to make the moment easier. Ask a question about the person's interests, such as hobbies or favorite food. Most people enjoy talking about themselves, so they will feel comfortable. Asking questions shows that you are interested in them. In other words, a good conversation begins with __________.",
+    "options": [
+      "showing interest in others",
+      "talking about yourself all the time",
+      "speaking loudly to be heard",
+      "giving advice to everyone",
+      "finishing the talk quickly"
+    ],
+    "answer": 0,
+    "translation": "처음 만나는 사람 앞에서는 수줍음을 느낄 수 있다. 하지만 그 순간을 더 쉽게 만드는 간단한 방법이 있다. 취미나 좋아하는 음식 같은 그 사람의 관심사에 대해 질문하라. 대부분의 사람들은 자신에 대해 이야기하는 것을 즐기므로 편안함을 느낄 것이다. 질문은 당신이 그들에게 관심이 있음을 보여 준다. 다시 말해, 좋은 대화는 다른 사람에게 관심을 보이는 것에서 시작된다.",
+    "why": "질문이 상대에게 관심이 있음을 보여 준다고 했으므로 빈칸에는 '다른 사람에게 관심 보이기'가 알맞습니다.",
+    "optionNotes": [
+      "정답. 질문은 관심을 보이는 방법입니다.",
+      "자기 이야기를 하는 것은 글의 방법과 반대입니다.",
+      "크게 말하는 것은 글에 나오지 않습니다.",
+      "조언은 글에 나오지 않습니다.",
+      "빨리 끝내는 것은 글에 나오지 않습니다."
+    ],
+    "trap": "'talk about themselves'를 보고 ②를 고르기 쉽지만, 말하는 주체는 상대방입니다.",
+    "tip": "빈칸 앞의 'In other words'는 바로 앞 문장을 다시 말하는 표시입니다. 앞 문장(관심을 보인다)을 따르세요."
+  },
+  {
+    "id": "m2-01-32",
+    "level": "m2",
+    "set": "mock-01",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A lot of people think that talent is the most important thing for success. But a famous study says something different. It found that top musicians practiced much more than other students, often for thousands of hours. Talent may help you start well, but without effort you cannot go far. It is __________ that makes a real difference in the end.",
+    "options": [
+      "luck",
+      "money",
+      "steady effort",
+      "a good teacher",
+      "natural beauty"
+    ],
+    "answer": 2,
+    "translation": "많은 사람들이 재능이 성공에 가장 중요하다고 생각한다. 그러나 한 유명한 연구는 다른 이야기를 한다. 연구에 따르면 최고의 음악가들은 다른 학생들보다 훨씬 많이, 종종 수천 시간을 연습했다. 재능은 잘 시작하도록 도울 수 있지만 노력이 없으면 멀리 갈 수 없다. 결국 진짜 차이를 만드는 것은 꾸준한 노력이다.",
+    "why": "연습을 많이 한 사람이 최고가 되었고 노력이 없으면 멀리 갈 수 없다고 했으므로 '꾸준한 노력'이 알맞습니다.",
+    "optionNotes": [
+      "운에 대한 내용은 없습니다.",
+      "돈에 대한 내용은 없습니다.",
+      "정답. practiced much more, effort가 단서입니다.",
+      "선생님에 대한 내용은 없습니다.",
+      "외모에 대한 내용은 없습니다."
+    ],
+    "trap": "'talent'를 부정하는 글이지만 '재능 대신 무엇'을 묻는 문제입니다. 반복되는 effort를 찾으세요.",
+    "tip": "빈칸 앞에 대비되는 내용(Talent ~, but without effort ~)이 있으면 'but' 뒤의 개념이 정답입니다."
+  },
+  {
+    "id": "m2-01-33",
+    "level": "m2",
+    "set": "mock-01",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Colors can affect our feelings. For example, blue often makes people feel calm, so many bedrooms are painted in blue. Red, on the other hand, can make our hearts beat faster and feel excited. That is why red is often used in places that need energy, such as sports stadiums. When we choose colors for a room, we should think about __________.",
+    "options": [
+      "how much the paint costs in the store",
+      "which color is the most popular today",
+      "the age and size of the house",
+      "what our friends like the most",
+      "what feeling we want to have there"
+    ],
+    "answer": 4,
+    "translation": "색은 우리의 감정에 영향을 줄 수 있다. 예를 들어 파란색은 사람들을 차분하게 만드는 경우가 많아서 많은 침실이 파란색으로 칠해진다. 반면 빨간색은 심장을 더 빨리 뛰게 하고 흥분하게 만들 수 있다. 그래서 빨간색은 운동 경기장처럼 에너지가 필요한 곳에 자주 쓰인다. 방의 색을 고를 때 우리는 그곳에서 어떤 감정을 느끼고 싶은지를 생각해야 한다.",
+    "why": "색이 감정에 영향을 주고, 장소에 맞는 색이 쓰인다는 예시이므로 그곳에서 느끼고 싶은 감정을 생각해야 합니다.",
+    "optionNotes": [
+      "페인트 값은 글에 나오지 않습니다.",
+      "인기 있는 색은 글의 관점이 아닙니다.",
+      "집의 나이는 글에 나오지 않습니다.",
+      "친구의 취향은 글에 나오지 않습니다.",
+      "정답. 색이 감정에 주는 영향이 글의 핵심입니다."
+    ],
+    "trap": "'popular'를 고르기 쉽지만 글은 인기가 아니라 감정을 기준으로 삼습니다.",
+    "tip": "빈칸 앞의 예시(blue-calm, red-excited)를 일반화하면 '감정'이라는 기준이 나옵니다."
+  },
+  {
+    "id": "m2-01-34",
+    "level": "m2",
+    "set": "mock-01",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "People often say, \"Don't judge a book by its cover.\" It means that appearance alone does not tell the whole story. A shabby cafe may serve the best food in town, and a quiet student may have a wonderful sense of humor. If we make a quick decision based only on what we see, we may miss something __________.",
+    "options": [
+      "that is easy to forget",
+      "that is truly valuable",
+      "that is too expensive",
+      "that is very common",
+      "that is hard to carry"
+    ],
+    "answer": 1,
+    "translation": "사람들은 흔히 \"표지로 책을 판단하지 마라\"라고 말한다. 그것은 겉모습만으로는 전체 이야기를 알 수 없다는 뜻이다. 허름한 카페가 마을에서 가장 맛있는 음식을 낼 수도 있고, 조용한 학생이 멋진 유머 감각을 가졌을 수도 있다. 눈에 보이는 것만으로 빠르게 결정하면 정말로 가치 있는 것을 놓칠 수 있다.",
+    "why": "겉모습으로 판단하면 허름한 카페의 최고의 음식이나 조용한 학생의 유머 같은 가치 있는 것을 놓칠 수 있습니다.",
+    "optionNotes": [
+      "잊기 쉽다는 내용은 없습니다.",
+      "정답. 겉모습 뒤의 가치를 놓친다는 의미입니다.",
+      "비싸다는 내용은 없습니다.",
+      "흔하다는 내용은 없습니다.",
+      "들고 다니기 어렵다는 내용은 없습니다."
+    ],
+    "trap": "예시(best food, wonderful sense of humor)가 긍정적인 것임을 놓치지 마세요.",
+    "tip": "빈칸에는 앞의 예시들의 공통된 의미(숨은 가치)가 들어갑니다."
+  },
+  {
+    "id": "m2-01-35",
+    "level": "m2",
+    "set": "mock-01",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Volunteering is good for both others and yourself. ① When you help people in need, you can feel proud and happy. ② You can also meet new friends who share the same interests. ③ Volunteering gives you chances to learn new skills, such as cooking or teaching. ④ Many shops give a discount to customers who bring their own bags. ⑤ These experiences can help you find what you want to do in the future.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "봉사 활동은 다른 사람과 자신 모두에게 좋다. ① 도움이 필요한 사람을 도우면 자랑스럽고 행복할 수 있다. ② 같은 관심사를 가진 새 친구도 만날 수 있다. ③ 봉사 활동은 요리나 가르치기 같은 새로운 기술을 배울 기회를 준다. ④ 많은 가게는 자기 가방을 가져오는 손님에게 할인을 해 준다. ⑤ 이런 경험은 장차 하고 싶은 일을 찾는 데 도움이 될 수 있다.",
+    "why": "글은 봉사 활동의 좋은 점을 이야기하는데 ④는 가게의 할인에 관한 내용이라 관계가 없습니다.",
+    "optionNotes": [
+      "봉사의 좋은 점(행복)입니다.",
+      "봉사의 좋은 점(친구)입니다.",
+      "봉사의 좋은 점(기술)입니다.",
+      "정답(무관). 가게의 할인은 봉사 활동과 관계가 없습니다.",
+      "봉사 경험이 진로 탐색에 도움이 된다는 마무리입니다."
+    ],
+    "trap": "'bags, customers'처럼 일상적인 말이라 어색함을 놓치기 쉽습니다. 화제를 벗어났는지 확인하세요.",
+    "tip": "무관한 문장은 첫 문장의 중심 화제(volunteering)가 이어지는지 하나씩 대조하세요."
+  },
+  {
+    "id": "m2-01-36",
+    "level": "m2",
+    "set": "mock-01",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Yuri wanted to learn how to bake bread, so she joined a baking class.\n(A) At first, she made many mistakes. Her bread was too hard, and sometimes it was burnt.\n(B) After three months, she could bake soft and delicious bread. Now she shares it with her family every Sunday morning.\n(C) But her teacher kindly gave her advice and told her not to give up. Yuri practiced every weekend.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "유리는 빵 굽는 법을 배우고 싶어서 제빵 수업에 등록했다. (A) 처음에 그녀는 많은 실수를 했다. 빵은 너무 딱딱했고 가끔은 탔다. (C) 하지만 선생님은 친절하게 조언해 주며 포기하지 말라고 했다. 유리는 주말마다 연습했다. (B) 석 달 뒤 그녀는 부드럽고 맛있는 빵을 구울 수 있었다. 이제 그녀는 일요일 아침마다 가족과 함께 그것을 나눈다.",
+    "why": "(A) 처음의 실수 → (C) But으로 이어지는 선생님의 조언과 연습 → (B) 석 달 뒤의 결과입니다.",
+    "optionNotes": [
+      "정답. 실수 → 극복 노력 → 결과.",
+      "(B)의 'After three months'가 처음에 오면 (A)의 'At first'와 시간이 어긋납니다.",
+      "(B)가 먼저 오면 (C)의 노력이 결과 뒤에 놓여 어색합니다.",
+      "(C)의 'But'이 가리킬 실수가 앞에 없습니다.",
+      "(C)의 'But'이 가리킬 실수가 앞에 없습니다."
+    ],
+    "trap": "(C)는 단독으로도 읽히지만 'But'과 'give up'이 (A)의 실수를 전제로 합니다.",
+    "tip": "At first → But → After three months 같은 시간·대조 표지로 순서를 잡으세요."
+  },
+  {
+    "id": "m2-01-37",
+    "level": "m2",
+    "set": "mock-01",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Many people think that the best way to study is to read a textbook many times.\n(A) Students who used this method remembered more than students who just read again and again.\n(B) In this method, you close the book and try to remember what you have learned. You can write it down or explain it to a friend.\n(C) However, researchers have found a better method called 'active recall.'",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 4,
+    "translation": "많은 사람들은 공부하는 가장 좋은 방법이 교과서를 여러 번 읽는 것이라고 생각한다. (C) 하지만 연구자들은 '능동적 회상'이라는 더 나은 방법을 발견했다. (B) 이 방법에서는 책을 덮고 배운 것을 기억해 내려고 해 본다. 그것을 써 보거나 친구에게 설명할 수도 있다. (A) 이 방법을 사용한 학생들은 그냥 반복해서 읽은 학생들보다 더 많이 기억했다.",
+    "why": "(C)가 'However'로 새로운 방법을 소개하고, (B)가 'this method'로 그 방법을 설명하며, (A)가 그 방법의 결과를 말합니다.",
+    "optionNotes": [
+      "(A)의 'this method'가 가리킬 방법이 앞에 없습니다.",
+      "(B)의 'this method'가 가리킬 방법이 앞에 없습니다.",
+      "(B)의 'this method'가 가리킬 방법이 앞에 없습니다.",
+      "(A)의 'this method'는 (B)의 설명 뒤에 와야 자연스럽습니다.",
+      "정답. 새 방법 소개 → 설명 → 결과."
+    ],
+    "trap": "(A)는 결과 문장이라 마지막에 올 것 같지만, (B)와 (C) 중 무엇이 먼저인지는 'this method'로 정해집니다.",
+    "tip": "'this method'처럼 지시어가 있는 문장은 방법을 처음 소개하는 문장 뒤에 옵니다."
+  },
+  {
+    "id": "m2-01-38",
+    "level": "m2",
+    "set": "mock-01",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nBecause of this glue-like liquid, tree frogs can stay on leaves even in the rain.\n\n[글]\nTree frogs have special toes. ( ① ) The tips of their toes are flat and covered with a thin layer of liquid. ( ② ) This liquid works like glue between the toe and the surface. ( ③ ) They can also walk upside down on leaves. ( ④ ) Scientists are studying their toe pads to make better tape for hospitals. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 이 풀 같은 액체 덕분에 청개구리는 비가 와도 잎 위에 머물 수 있다. [글] 청개구리는 특별한 발가락을 가지고 있다. 발가락 끝은 납작하고 얇은 액체층으로 덮여 있다. 이 액체는 발가락과 표면 사이에서 풀처럼 작용한다. 그들은 잎 위에서 거꾸로 걸을 수도 있다. 과학자들은 병원에서 쓸 더 좋은 테이프를 만들려고 그들의 발가락 패드를 연구하고 있다.",
+    "why": "주어진 문장의 'this glue-like liquid'는 바로 앞의 '액체가 풀처럼 작용한다'는 문장을 가리키므로 ③에 들어갑니다.",
+    "optionNotes": [
+      "액체가 소개되기 전이라 'this glue-like liquid'가 가리킬 대상이 없습니다.",
+      "액체가 소개되었지만 '풀처럼 작용한다'는 설명이 아직 나오지 않았습니다.",
+      "정답. 'glue-like'가 앞 문장의 'works like glue'를 받습니다.",
+      "'They can also ...' 뒤에 오면 문장 연결이 끊깁니다.",
+      "과학자들의 연구 이야기로 넘어간 뒤라 어색합니다."
+    ],
+    "trap": "②의 앞은 'liquid'가 처음 나온 곳이라 후보로 보이지만, 'glue-like'라는 설명이 아직 없습니다.",
+    "tip": "주어진 문장의 한정 표현(this ~, glue-like)이 앞 문장에서 어떻게 소개되었는지 확인하세요."
+  },
+  {
+    "id": "m2-01-39",
+    "level": "m2",
+    "set": "mock-01",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nHowever, things did not go as he had planned.\n\n[글]\nTim practiced his speech all night, and in the morning he felt confident. ( ① ) He was sure that he would give the best speech in class. ( ② ) When he stood on the stage, his mind went blank. ( ③ ) He could not remember even a single word. ( ④ ) His face turned red, and he wanted to run away. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "[주어진 문장] 하지만 일은 그가 계획한 대로 되지 않았다. [글] Tim은 밤새 발표문을 연습했고 아침에는 자신감이 있었다. 그는 반에서 가장 좋은 발표를 할 것이라고 확신했다. 무대에 섰을 때 그의 머릿속은 하얘졌다. 그는 단 한 단어도 기억할 수 없었다. 얼굴이 빨개졌고 도망치고 싶었다.",
+    "why": "자신감 있고 확신하는 상황이 이어진 뒤에 'However'로 반전하고, 다음 문장에서 실제로 일이 틀어지는 내용이 나옵니다.",
+    "optionNotes": [
+      "확신하는 내용이 나오기 전이라 'However'로 반전할 내용이 없습니다.",
+      "정답. 확신 → However → 머릿속이 하얘짐.",
+      "이미 실패가 나온 뒤라서 'However'가 어색합니다.",
+      "실패 상황이 계속되는 중이라 반전 표현이 맞지 않습니다.",
+      "마지막 결과 뒤에 반전 표현이 오면 어색합니다."
+    ],
+    "trap": "실패 장면이 나오는 ③ 이후에 두고 싶지만, 'However'는 반대되는 내용 앞에 와야 합니다.",
+    "tip": "'However'가 있는 문장은 앞뒤의 방향(긍정 → 부정)이 바뀌는 지점에 놓입니다."
+  },
+  {
+    "id": "m2-01-40",
+    "level": "m2",
+    "set": "mock-01",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A café in our town tested a new idea. It gave a 10 percent discount to customers who brought their own cups. In the first month, only 20 customers used their own cups. But after the café put up posters about the problem of paper waste, the number grew to 150. The owner said that people were more willing to change their habits when they understood why it mattered.\n\n▶ People are more likely to change their habits when they (A) the reason, so giving (B) is as important as giving rewards.",
+    "options": [
+      "(A) hear — (B) discounts",
+      "(A) ignore — (B) information",
+      "(A) know — (B) money",
+      "(A) understand — (B) information",
+      "(A) forget — (B) advice"
+    ],
+    "answer": 3,
+    "translation": "우리 동네의 한 카페가 새로운 아이디어를 시험했다. 자기 컵을 가져오는 손님에게 10퍼센트 할인을 해 주었다. 첫 달에는 20명의 손님만 자기 컵을 사용했다. 하지만 카페가 종이 쓰레기 문제에 관한 포스터를 붙인 뒤, 그 수는 150명으로 늘었다. 주인은 사람들이 그것이 왜 중요한지 이해할 때 습관을 바꾸려는 마음이 더 커진다고 말했다. ▶ 사람들은 이유를 이해할 때 습관을 바꿀 가능성이 더 크므로, 정보를 주는 것이 보상을 주는 것만큼 중요하다.",
+    "why": "할인만 했을 때는 20명이었지만, 이유를 알리는 포스터 뒤에 150명이 되었으므로 (A)는 understand, (B)는 information입니다.",
+    "optionNotes": [
+      "'hear'는 이해와 다르고, 할인은 이미 효과가 작았습니다.",
+      "ignore는 습관을 바꾸는 것과 반대입니다.",
+      "know는 비슷하지만 money(돈)는 포스터의 내용이 아닙니다.",
+      "정답. 이유를 이해하게 하는 정보가 중요합니다.",
+      "forget은 글의 방향과 반대입니다."
+    ],
+    "trap": "할인 이야기(discount)가 길게 나와 ①을 고르기 쉽습니다. 변화를 이끈 것은 포스터(정보)입니다.",
+    "tip": "요약문 빈칸은 글의 전환점(But after ~)에서 무엇이 결과를 바꿨는지 찾으세요."
+  }
+]

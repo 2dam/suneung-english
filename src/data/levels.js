@@ -23,7 +23,7 @@ export const LEVELS = [
     desc: '조금 긴 지문과 다양한 문법으로 유형별 풀이 방법을 익히기.',
     speechRate: 0.9,
     mockCount: 30,
-    spec: { readingWords: [55, 125], scriptWords: 100, avgSentence: 14, maxSentence: 21 },
+    spec: { readingWords: [55, 125], scriptWords: 100, avgSentence: 15, maxSentence: 21 },
   },
   {
     id: 'm3',

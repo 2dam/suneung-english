@@ -136,7 +136,8 @@ for (const q of questions) {
     const factor = isSet ? 1.7 : 1
     if (info.section === 'reading' && q.passage) {
       const [lo, hi] = spec.readingWords
-      if (!isSet && total < lo) warn(id, `지문이 짧습니다(${total}단어, 기준 ${lo}~${hi})`)
+      const shortOk = ['notice', 'implied', 'grammar', 'vocab', 'chart', 'insert', 'irrelevant'].includes(q.type) // 구조상 짧은 유형
+      if (!isSet && !shortOk && total < lo) warn(id, `지문이 짧습니다(${total}단어, 기준 ${lo}~${hi})`)
       if (total > hi * factor) warn(id, `지문이 깁니다(${total}단어, 기준 ${lo}~${Math.round(hi * factor)})`)
     }
     if (info.section === 'listening' && total > spec.scriptWords * factor) {
