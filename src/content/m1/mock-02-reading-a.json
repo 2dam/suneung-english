@@ -1,0 +1,333 @@
+[
+  {
+    "id": "m1-02-18",
+    "level": "m1",
+    "set": "mock-02",
+    "no": 18,
+    "type": "purpose",
+    "stem": "다음 글을 쓴 목적으로 가장 적절한 것은?",
+    "passage": "Dear parents,\nOur school will hold an open class day on Wednesday, November 6. You can visit your child's classroom and watch the lessons from 9:00 a.m. to 12:00 p.m. After the lessons, there will be a short talk with the teachers in the school hall. Please use the visitor's card at the front gate. We hope to see you there.\nHanbit Middle School",
+    "options": [
+      "학부모 상담 신청을 받으려고",
+      "새 학년 반 배정을 알리려고",
+      "학교 급식 메뉴를 소개하려고",
+      "공개 수업 참관을 안내하려고",
+      "방학 중 학교 시설 이용을 안내하려고"
+    ],
+    "answer": 3,
+    "translation": "학부모님께. 우리 학교는 11월 6일 수요일에 공개 수업의 날을 엽니다. 오전 9시부터 낮 12시까지 자녀의 교실을 방문해 수업을 참관하실 수 있습니다. 수업이 끝난 뒤 학교 강당에서 선생님들과 짧은 이야기 시간이 있습니다. 정문에서 방문증을 이용해 주세요. 뵙기를 바랍니다. 한빛 중학교.",
+    "why": "공개 수업의 날짜, 시간, 참관 방법을 안내하는 글이므로 공개 수업 참관 안내가 목적입니다.",
+    "optionNotes": [
+      "상담 신청을 받는 내용이 아닙니다.",
+      "반 배정은 언급되지 않았습니다.",
+      "급식 메뉴는 언급되지 않았습니다.",
+      "정답. open class day, watch the lessons가 단서입니다.",
+      "방학 중 시설 이용은 언급되지 않았습니다."
+    ],
+    "trap": "'a short talk with the teachers'를 보고 상담 신청(①)을 고르기 쉽습니다. 이는 수업 후의 부가 행사입니다.",
+    "tip": "안내문의 목적은 행사 이름(open class day)과 참여 방법(visit, watch)에서 찾으세요."
+  },
+  {
+    "id": "m1-02-19",
+    "level": "m1",
+    "set": "mock-02",
+    "no": 19,
+    "type": "mood",
+    "stem": "다음 글에 드러난 'I'의 심경 변화로 가장 적절한 것은?",
+    "passage": "On Monday, I was walking to school alone. My best friend moved to another city last week, and I felt very empty. In class, I looked at the empty seat next to me and sighed. At lunch time, a new girl, Sara, came and asked, \"Can I sit with you?\" We talked about our favorite books and laughed a lot. When I walked home that day, I was humming a song.",
+    "options": [
+      "proud → ashamed",
+      "angry → calm",
+      "bored → very sleepy",
+      "happy → lonely",
+      "lonely → cheerful"
+    ],
+    "answer": 4,
+    "translation": "월요일에 나는 혼자 학교에 걸어가고 있었다. 가장 친한 친구가 지난주에 다른 도시로 이사해서 마음이 매우 허전했다. 수업 시간에 나는 옆의 빈자리를 보고 한숨을 쉬었다. 점심시간에 새로 온 여학생 Sara가 와서 \"같이 앉아도 될까?\"라고 물었다. 우리는 좋아하는 책에 대해 이야기하며 많이 웃었다. 그날 집에 걸어갈 때 나는 노래를 흥얼거리고 있었다.",
+    "why": "친구가 이사해 허전하고 외로웠다가(lonely), 새 친구와 웃고 노래를 흥얼거리며 즐거워졌습니다(cheerful).",
+    "optionNotes": [
+      "자랑스러움이나 부끄러움은 나오지 않습니다.",
+      "화가 났다는 표현이 없습니다.",
+      "지루함이나 졸림은 나오지 않습니다.",
+      "방향이 반대입니다. 외로움에서 즐거움으로 바뀝니다.",
+      "정답. 외로움 → 즐거움."
+    ],
+    "trap": "④는 순서를 반대로 한 보기입니다. 감정이 어떻게 '바뀌는지' 방향을 확인하세요.",
+    "tip": "심경 변화는 앞(empty, sighed)과 뒤(laughed, humming)를 비교하세요."
+  },
+  {
+    "id": "m1-02-20",
+    "level": "m1",
+    "set": "mock-02",
+    "no": 20,
+    "type": "claim",
+    "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+    "passage": "Many students drink soda every day. Soda tastes sweet, but it has a lot of sugar. Too much sugar can make your teeth weak and make you gain weight. Water is the best drink for your body. It has no sugar, and it helps you stay focused. So, you should drink water instead of soda.",
+    "options": [
+      "청량음료 대신 물을 마셔야 한다.",
+      "치과에 정기적으로 가야 한다.",
+      "하루 세 끼를 규칙적으로 먹어야 한다.",
+      "운동 후에는 스포츠 음료를 마셔야 한다.",
+      "음료수의 가격을 낮춰야 한다."
+    ],
+    "answer": 0,
+    "translation": "많은 학생들이 매일 탄산음료를 마신다. 탄산음료는 달콤하지만 설탕이 많다. 너무 많은 설탕은 치아를 약하게 하고 살이 찌게 할 수 있다. 물은 몸에 가장 좋은 음료이다. 설탕이 없고 집중하는 데 도움이 된다. 그러니 탄산음료 대신 물을 마셔야 한다.",
+    "why": "마지막 문장 'you should drink water instead of soda'가 필자의 주장입니다.",
+    "optionNotes": [
+      "정답. 탄산음료 대신 물을 마시라는 주장입니다.",
+      "치아 이야기는 나오지만 치과 방문은 주장이 아닙니다.",
+      "식사 횟수는 언급되지 않았습니다.",
+      "스포츠 음료는 언급되지 않았습니다.",
+      "가격은 언급되지 않았습니다."
+    ],
+    "trap": "②는 'teeth'라는 단어가 나오지만 글의 주장과 관련이 없습니다.",
+    "tip": "주장 문제는 마지막 문장의 'So, you should ~'를 확인하세요."
+  },
+  {
+    "id": "m1-02-21",
+    "level": "m1",
+    "set": "mock-02",
+    "no": 21,
+    "type": "implied",
+    "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "passage": "It was a windy morning, but Jiho still went out to play soccer. Suddenly, the sky became dark, and heavy rain began to fall. When Jiho got home, he was completely wet. \"Wow! It was {u|raining cats and dogs},\" he told his mom.",
+    "options": [
+      "snowing a little",
+      "making a loud noise",
+      "raining very hard",
+      "getting warmer",
+      "shining brightly"
+    ],
+    "answer": 2,
+    "translation": "바람이 부는 아침이었지만 지호는 축구를 하러 나갔다. 갑자기 하늘이 어두워지고 폭우가 쏟아지기 시작했다. 지호가 집에 왔을 때 그는 완전히 젖어 있었다. \"와! 비가 억수같이 쏟아졌어요.\"라고 그는 엄마에게 말했다.",
+    "why": "하늘이 어두워지고 폭우가 쏟아져 흠뻑 젖었다는 내용이므로 'raining cats and dogs'는 비가 매우 세게 온다는 뜻입니다.",
+    "optionNotes": [
+      "눈이 온다는 내용은 없습니다.",
+      "소리가 크다는 뜻이 아닙니다.",
+      "정답. 비가 아주 세게 온다는 관용 표현입니다.",
+      "날씨가 따뜻해졌다는 단서가 없습니다.",
+      "햇빛이 밝게 비춘다는 단서가 없습니다."
+    ],
+    "trap": "cats and dogs를 문자 그대로 동물로 해석하면 안 됩니다. 앞뒤 상황(heavy rain, wet)으로 판단하세요.",
+    "tip": "관용 표현은 앞뒤 문장의 상황(폭우, 젖음)을 연결해 뜻을 추론하세요."
+  },
+  {
+    "id": "m1-02-22",
+    "level": "m1",
+    "set": "mock-02",
+    "no": 22,
+    "type": "gist",
+    "stem": "다음 글의 요지로 가장 적절한 것은?",
+    "passage": "Reading aloud is a good habit. When you read aloud, you use your eyes, your mouth, and your ears at the same time. This helps you remember the words better. It also helps you learn how to say new words correctly. Try to read aloud for ten minutes every day, and you will see a big change.",
+    "options": [
+      "매일 꾸준히 운동을 하는 것이 몸에 좋다.",
+      "새 단어는 반드시 사전으로 찾아서 외워야 한다.",
+      "책은 소리 내지 않고 조용히 읽는 것이 좋다.",
+      "소리 내어 읽으면 기억과 발음에 도움이 된다.",
+      "긴 책을 읽을수록 실력이 빨리 늘어난다."
+    ],
+    "answer": 3,
+    "translation": "소리 내어 읽기는 좋은 습관이다. 책을 소리 내어 읽을 때 우리는 눈, 입, 귀를 동시에 사용한다. 이는 단어를 더 잘 기억하도록 도와준다. 또한 새 단어를 올바르게 발음하는 방법을 배우는 데도 도움이 된다. 매일 10분씩 소리 내어 읽어 보면 큰 변화를 보게 될 것이다.",
+    "why": "소리 내어 읽으면 단어를 더 잘 기억하고 발음하는 데 도움이 된다는 내용이 글의 핵심입니다.",
+    "optionNotes": [
+      "운동 이야기는 나오지 않습니다.",
+      "사전 사용은 언급되지 않았습니다.",
+      "글의 내용과 반대입니다.",
+      "정답. 소리 내어 읽기의 효과입니다.",
+      "책의 길이는 언급되지 않았습니다."
+    ],
+    "trap": "③은 글에서 권하는 것과 정반대입니다. 'aloud'를 놓치지 마세요.",
+    "tip": "요지는 글의 반복되는 핵심어(read aloud)와 효과(remember, learn)를 묶어 보세요."
+  },
+  {
+    "id": "m1-02-23",
+    "level": "m1",
+    "set": "mock-02",
+    "no": 23,
+    "type": "topic",
+    "stem": "다음 글의 주제로 가장 적절한 것은?",
+    "passage": "Birds build nests in many ways. Some birds, such as swallows, use mud and grass. Eagles build large nests with sticks on high trees. Penguins do not use any materials; they keep their eggs on their feet. The hornbill makes a hole in a tree and closes it with mud, so the nest stays safe.",
+    "options": [
+      "the foods birds eat in winter",
+      "how birds learn to fly",
+      "why birds sing in the morning",
+      "different ways birds make nests",
+      "places where birds sleep at night"
+    ],
+    "answer": 3,
+    "translation": "새들은 여러 가지 방식으로 둥지를 짓는다. 제비 같은 일부 새는 진흙과 풀을 사용한다. 독수리는 높은 나무 위에 나뭇가지로 커다란 둥지를 짓는다. 펭귄은 아무 재료도 쓰지 않고 알을 발 위에 둔다. 코뿔새는 나무에 구멍을 내고 진흙으로 막아서 둥지를 안전하게 유지한다.",
+    "why": "제비, 독수리, 펭귄, 코뿔새가 둥지를 만드는 서로 다른 방식을 소개합니다.",
+    "optionNotes": [
+      "겨울 먹이는 나오지 않습니다.",
+      "나는 법을 배우는 것은 나오지 않습니다.",
+      "아침에 노래하는 이유는 나오지 않습니다.",
+      "정답. 둥지를 만드는 다양한 방식입니다.",
+      "잠자는 장소는 둥지의 한 부분일 뿐 중심 주제가 아닙니다."
+    ],
+    "trap": "⑤는 둥지(nest)와 가까운 개념이지만 글은 '짓는 방식'을 다룹니다.",
+    "tip": "주제는 반복되는 동사(build, make)와 대상(nests)을 묶어 보세요."
+  },
+  {
+    "id": "m1-02-24",
+    "level": "m1",
+    "set": "mock-02",
+    "no": 24,
+    "type": "title",
+    "stem": "다음 글의 제목으로 가장 적절한 것은?",
+    "passage": "On some streets, you can find a small wooden box that looks like a house. It is a Little Free Library. Anyone can take a book from the box, and anyone can put a book in it. You don't need a card or money. Many neighbors use it, and it makes the street a friendly place.",
+    "options": [
+      "How to Build a Wooden House",
+      "Books That Everyone Should Read",
+      "A New Bookstore in Our Town",
+      "The History of Free Libraries",
+      "A Small Box That Shares Books with Neighbors"
+    ],
+    "answer": 4,
+    "translation": "어떤 거리에서는 집처럼 생긴 작은 나무 상자를 볼 수 있다. 그것은 작은 무료 도서관이다. 누구나 상자에서 책을 가져갈 수 있고, 누구나 책을 넣을 수 있다. 카드나 돈이 필요 없다. 많은 이웃이 이용하며 그것은 거리를 다정한 곳으로 만든다.",
+    "why": "누구나 책을 가져가고 넣을 수 있는 작은 상자가 이웃과 책을 나눈다는 내용입니다.",
+    "optionNotes": [
+      "집을 짓는 방법이 아닙니다.",
+      "읽어야 할 책 목록이 아닙니다.",
+      "서점이 아닙니다. 무료로 나누는 상자입니다.",
+      "역사에 대한 글이 아닙니다.",
+      "정답. 책을 이웃과 나누는 작은 상자입니다."
+    ],
+    "trap": "①은 'wooden box that looks like a house'에서 가져온 보기입니다. 핵심은 책을 나누는 것입니다.",
+    "tip": "제목은 대상(small box)과 기능(shares books)을 함께 담은 표현입니다."
+  },
+  {
+    "id": "m1-02-25",
+    "level": "m1",
+    "set": "mock-02",
+    "no": 25,
+    "type": "chart",
+    "stem": "다음 도표의 내용과 일치하지 않는 것은?",
+    "chart": {
+      "title": "Pets of Students in Class 1-2",
+      "unit": "students",
+      "labels": [
+        "Dog",
+        "Cat",
+        "Fish",
+        "Bird",
+        "Hamster"
+      ],
+      "series": [
+        {
+          "name": "Students",
+          "values": [
+            10,
+            8,
+            6,
+            3,
+            2
+          ]
+        }
+      ]
+    },
+    "passage": "The graph shows the pets of students in Class 1-2. ① More students have cats than dogs. ② Fish are the third most common pet. ③ Only two students have hamsters. ④ Dogs are the most popular pet. ⑤ Fewer students have birds than fish.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "그래프는 1학년 2반 학생들의 반려동물을 보여 준다. ① 고양이를 키우는 학생이 개를 키우는 학생보다 많다. ② 물고기는 세 번째로 흔한 반려동물이다. ③ 햄스터를 키우는 학생은 두 명뿐이다. ④ 개는 가장 인기 있는 반려동물이다. ⑤ 새를 키우는 학생이 물고기를 키우는 학생보다 적다.",
+    "why": "개는 10명, 고양이는 8명이므로 고양이를 키우는 학생이 더 많다는 ①은 도표와 일치하지 않습니다.",
+    "optionNotes": [
+      "정답(불일치). 개 10명, 고양이 8명입니다.",
+      "물고기 6명은 개, 고양이 다음으로 세 번째입니다.",
+      "햄스터는 2명입니다.",
+      "개가 10명으로 가장 많습니다.",
+      "새 3명은 물고기 6명보다 적습니다."
+    ],
+    "trap": "dog와 cat의 순서를 바꿔 읽으면 맞아 보입니다. 막대의 이름과 숫자를 정확히 확인하세요.",
+    "tip": "도표 문제는 비교 대상 두 막대의 숫자를 직접 읽어 대소를 확인하세요."
+  },
+  {
+    "id": "m1-02-26",
+    "level": "m1",
+    "set": "mock-02",
+    "no": 26,
+    "type": "match",
+    "stem": "Tom에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Tom is a 13-year-old boy who loves cooking. He learned to cook from his grandfather when he was nine. Every Sunday, he makes dinner for his family. His favorite dish is spaghetti with tomato sauce. He wants to open a small restaurant someday.",
+    "options": [
+      "아홉 살에 할아버지에게서 요리를 배웠다.",
+      "매주 토요일에 가족을 위해 아침 식사를 만든다.",
+      "가장 좋아하는 음식은 피자이다.",
+      "요리사 학교에 다니고 있다.",
+      "이미 작은 식당을 열었다."
+    ],
+    "answer": 0,
+    "translation": "Tom은 요리를 매우 좋아하는 열세 살 소년이다. 그는 아홉 살 때 할아버지에게서 요리를 배웠다. 매주 일요일에 그는 가족을 위해 저녁을 만든다. 그가 가장 좋아하는 음식은 토마토소스 스파게티이다. 그는 언젠가 작은 식당을 열고 싶어 한다.",
+    "why": "'He learned to cook from his grandfather when he was nine.'과 일치합니다.",
+    "optionNotes": [
+      "정답. 아홉 살 때 할아버지에게서 배웠습니다.",
+      "일요일에 저녁을 만듭니다.",
+      "가장 좋아하는 음식은 스파게티입니다.",
+      "요리사 학교에 다닌다는 내용은 없습니다.",
+      "식당은 언젠가 열고 싶어 하는 꿈입니다."
+    ],
+    "trap": "⑤는 'wants to'를 이미 이루어진 것으로 바꾼 보기입니다.",
+    "tip": "일치 문제는 요일·음식·시기 같은 세부 정보를 하나씩 확인하세요."
+  },
+  {
+    "id": "m1-02-27",
+    "level": "m1",
+    "set": "mock-02",
+    "no": 27,
+    "type": "notice",
+    "stem": "Class T-shirt Design Contest에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Class T-shirt Design Contest\nMake a great design for our class T-shirt!\nWho: All students in grade 1\nHow: Draw your design on A4 paper\nDeadline: Friday, September 20, by 4 p.m.\nSubmit to: Class president\nPrize: The winning design will be printed on all T-shirts, and the winner gets a $10 gift card.\nNote: Use no more than three colors.",
+    "options": [
+      "모든 학년이 참가할 수 있다.",
+      "컴퓨터 프로그램으로 디자인해야 한다.",
+      "마감일은 9월 30일이다.",
+      "우승 디자인은 반 티셔츠에 인쇄된다.",
+      "색은 다섯 가지까지 쓸 수 있다."
+    ],
+    "answer": 3,
+    "translation": "반 티셔츠 디자인 대회. 우리 반 티셔츠를 위한 멋진 디자인을 만들어 보세요! 대상: 1학년 모든 학생. 방법: A4 용지에 디자인을 그리세요. 마감: 9월 20일 금요일 오후 4시까지. 제출: 반장에게. 상품: 우승 디자인은 모든 티셔츠에 인쇄되며, 우승자는 10달러 상품권을 받습니다. 유의: 색은 세 가지 이하로 쓰세요.",
+    "why": "'The winning design will be printed on all T-shirts'와 일치합니다.",
+    "optionNotes": [
+      "1학년 학생만 참가할 수 있습니다.",
+      "A4 용지에 그려야 합니다.",
+      "마감은 9월 20일입니다.",
+      "정답. 우승 디자인이 모든 티셔츠에 인쇄됩니다.",
+      "색은 세 가지 이하입니다."
+    ],
+    "trap": "숫자(20→30, three→five)가 바뀐 보기에 주의하세요.",
+    "tip": "안내문 문제는 항목(Who, How, Deadline, Prize, Note)별로 보기를 확인하세요."
+  },
+  {
+    "id": "m1-02-28",
+    "level": "m1",
+    "set": "mock-02",
+    "no": 28,
+    "type": "notice",
+    "stem": "Swimming Pool Rules에 관한 다음 안내문의 내용과 일치하지 않는 것은?",
+    "passage": "Swimming Pool Rules\nThe school pool is open from June 3 to August 30.\nOpen: Monday – Friday, 3:00 p.m. – 6:00 p.m.\nRules:\n- Take a shower before you enter the pool.\n- Wear a swimming cap.\n- Do not run around the pool.\n- Children under 13 must come with a parent.\nFee: Free for students",
+    "options": [
+      "월~금에 문을 연다.",
+      "수영 모자를 써야 한다.",
+      "수영장 주변에서 뛰면 안 된다.",
+      "입장 전에 샤워를 해야 한다.",
+      "13세 미만 어린이는 부모 없이도 혼자 수영장을 이용할 수 있다."
+    ],
+    "answer": 4,
+    "translation": "수영장 이용 규칙. 학교 수영장은 6월 3일부터 8월 30일까지 문을 엽니다. 운영: 월~금 오후 3시~6시. 규칙: 수영장에 들어가기 전에 샤워를 하세요. 수영 모자를 쓰세요. 수영장 주변에서 뛰지 마세요. 13세 미만 어린이는 부모와 함께 와야 합니다. 요금: 학생은 무료.",
+    "why": "13세 미만 어린이는 부모와 함께 와야 하므로 혼자 이용할 수 있다는 ⑤는 일치하지 않습니다.",
+    "optionNotes": [
+      "Monday – Friday와 일치합니다.",
+      "Wear a swimming cap과 일치합니다.",
+      "Do not run around the pool과 일치합니다.",
+      "Take a shower before you enter와 일치합니다.",
+      "정답(불일치). 부모와 함께 와야 합니다(must come with a parent)."
+    ],
+    "trap": "'must come with a parent'를 놓치면 일치한다고 착각하기 쉽습니다.",
+    "tip": "must, do not 같은 의무·금지 표현이 바뀐 보기가 불일치의 단서입니다."
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m1-02-29",
+    "level": "m1",
+    "set": "mock-02",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "My brother {1|have} a new bike. He {2|rides} it to school every day. Yesterday, he {3|met} his friend on the way. They {4|went} to the park together and {5|played} soccer.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "내 남동생은 새 자전거를 갖고 있다. 그는 매일 그것을 타고 학교에 간다. 어제 그는 가는 길에 친구를 만났다. 그들은 함께 공원에 가서 축구를 했다.",
+    "why": "주어 My brother는 3인칭 단수이므로 have가 아니라 has여야 합니다.",
+    "optionNotes": [
+      "정답(틀린 것). 3인칭 단수 주어 뒤에는 has가 와야 합니다.",
+      "He에 맞는 3인칭 단수 현재 rides입니다.",
+      "Yesterday가 있으므로 과거 met이 맞습니다.",
+      "과거 시제 went가 맞습니다.",
+      "과거 시제 played가 맞습니다."
+    ],
+    "trap": "문장 앞부분이라 가볍게 지나치기 쉽습니다. 주어의 인칭과 수를 먼저 확인하세요.",
+    "tip": "어법 문제는 각 문장의 주어와 시제 표시어(every day, Yesterday)를 확인하세요."
+  },
+  {
+    "id": "m1-02-30",
+    "level": "m1",
+    "set": "mock-02",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Spring is my favorite season. The weather is {1|warm}, and many flowers {2|bloom} in the garden. Birds {3|sing} happily in the trees. I like to go for a {4|walk} in the park after dinner. But the evening air is still cool, so I always wear a {5|swimsuit}.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "봄은 내가 가장 좋아하는 계절이다. 날씨는 따뜻하고 정원에 많은 꽃이 핀다. 새들은 나무에서 즐겁게 노래한다. 나는 저녁을 먹은 뒤 공원에서 산책하는 것을 좋아한다. 하지만 저녁 공기는 아직 서늘해서 나는 항상 수영복을 입는다.",
+    "why": "저녁 공기가 서늘해서 입는 것은 수영복이 아니라 재킷 같은 따뜻한 옷이어야 합니다.",
+    "optionNotes": [
+      "봄이므로 warm이 알맞습니다.",
+      "꽃이 피므로 bloom이 알맞습니다.",
+      "새가 노래하므로 sing이 알맞습니다.",
+      "저녁 후에 하는 활동으로 walk가 알맞습니다.",
+      "정답(부적절). 서늘한 공기에는 jacket이 알맞습니다."
+    ],
+    "trap": "'wear a ~'의 형태가 자연스러워 단어의 의미를 놓치기 쉽습니다.",
+    "tip": "어휘 문제는 마지막 문장의 원인(air is cool)과 결과(wear ~)가 어울리는지 확인하세요."
+  },
+  {
+    "id": "m1-02-31",
+    "level": "m1",
+    "set": "mock-02",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Some students are afraid to speak English in class. They think they will make mistakes. But mistakes are not bad. When you make a mistake, your teacher can help you, and you can learn from it. The more you speak, the better you will be. So, if you want to improve your English, you should __________.",
+    "options": [
+      "wait until you are perfect",
+      "avoid speaking with friends",
+      "study only by yourself",
+      "watch the clock carefully",
+      "speak up without being afraid of mistakes"
+    ],
+    "answer": 4,
+    "translation": "어떤 학생들은 수업 시간에 영어로 말하는 것을 두려워한다. 그들은 실수를 할 것이라고 생각한다. 하지만 실수는 나쁜 것이 아니다. 실수를 하면 선생님이 도와줄 수 있고, 그것으로부터 배울 수 있다. 더 많이 말할수록 더 잘하게 될 것이다. 그러니 영어 실력을 늘리고 싶다면 실수를 두려워하지 않고 말해야 한다.",
+    "why": "실수는 나쁘지 않고 많이 말할수록 잘하게 된다고 했으므로 '실수를 두려워하지 않고 말하기'가 알맞습니다.",
+    "optionNotes": [
+      "완벽해질 때까지 기다리는 것은 글과 반대입니다.",
+      "친구와 말하지 않는 것은 글과 반대입니다.",
+      "혼자서만 공부하는 것은 글과 반대입니다.",
+      "시계를 보는 것은 글과 상관이 없습니다.",
+      "정답. 많이 말하는 것이 실력을 늘린다는 내용입니다."
+    ],
+    "trap": "①은 완벽주의에서 나오는 흔한 생각이지만 글이 부정하는 방향입니다.",
+    "tip": "빈칸 앞의 'The more you speak, the better you will be'가 정답의 근거입니다."
+  },
+  {
+    "id": "m1-02-32",
+    "level": "m1",
+    "set": "mock-02",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "People in cold countries often eat hot soup in winter. The warm soup makes their bodies warm. In hot countries, people sometimes eat hot and spicy food, too. Spicy food makes people sweat, and sweat makes their bodies feel cooler. So, people choose food that __________.",
+    "options": [
+      "is very expensive to buy",
+      "looks very colorful on a plate",
+      "helps them feel comfortable",
+      "takes a long time to cook",
+      "their friends bring to them"
+    ],
+    "answer": 2,
+    "translation": "추운 나라의 사람들은 겨울에 뜨거운 수프를 자주 먹는다. 따뜻한 수프는 몸을 따뜻하게 해 준다. 더운 나라의 사람들도 때때로 뜨겁고 매운 음식을 먹는다. 매운 음식은 땀이 나게 하고, 땀은 몸을 더 시원하게 느끼게 한다. 그래서 사람들은 자신이 편안하게 느끼도록 도와주는 음식을 고른다.",
+    "why": "추운 곳에서는 몸을 따뜻하게, 더운 곳에서는 시원하게 느끼게 하는 음식을 먹으므로 '편안하게 느끼게 하는 음식'이 알맞습니다.",
+    "optionNotes": [
+      "가격은 언급되지 않았습니다.",
+      "색깔은 언급되지 않았습니다.",
+      "정답. 두 예의 공통점은 몸이 편안해지는 것입니다.",
+      "조리 시간은 언급되지 않았습니다.",
+      "친구가 가져오는 음식은 언급되지 않았습니다."
+    ],
+    "trap": "'hot'이 반복되어 ④(오래 끓임)를 고르기 쉽지만 의미가 다릅니다.",
+    "tip": "빈칸에는 앞의 두 예시(수프, 매운 음식)의 공통된 효과가 들어갑니다."
+  },
+  {
+    "id": "m1-02-33",
+    "level": "m1",
+    "set": "mock-02",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A friend is someone who helps you when you are in trouble. But a good friend does more than that. A good friend is happy when you succeed. A good friend also listens to you when you are sad. In short, a true friend is a person who __________.",
+    "options": [
+      "always agrees with you",
+      "shares both good and bad times",
+      "lives in the house next to yours",
+      "has the same hobby as you",
+      "gives you many presents"
+    ],
+    "answer": 1,
+    "translation": "친구는 곤경에 처했을 때 도와주는 사람이다. 하지만 좋은 친구는 그 이상을 한다. 좋은 친구는 네가 성공하면 기뻐한다. 또 네가 슬플 때 이야기를 들어준다. 요컨대 진정한 친구는 좋은 때와 나쁜 때를 함께 나누는 사람이다.",
+    "why": "성공을 기뻐하고 슬플 때 들어 준다는 내용을 정리하면 좋은 때와 나쁜 때를 함께 나누는 사람입니다.",
+    "optionNotes": [
+      "항상 동의한다는 내용은 없습니다.",
+      "정답. 기쁜 일과 슬픈 일을 함께 나눕니다.",
+      "가까이 산다는 내용은 없습니다.",
+      "같은 취미는 언급되지 않았습니다.",
+      "선물은 언급되지 않았습니다."
+    ],
+    "trap": "'helps you'만 보고 도움을 주는 것(선물 등)을 고르지 마세요. 글은 감정을 함께 나누는 것을 말합니다.",
+    "tip": "빈칸 앞의 두 문장(happy when you succeed, listens when sad)을 하나로 묶어 보세요."
+  },
+  {
+    "id": "m1-02-34",
+    "level": "m1",
+    "set": "mock-02",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "The moon looks bright at night, but it does not make its own light. It only reflects the light of the sun. In the same way, a mirror does not make light. It just shows the light that comes from another place. So, we can say that the moon is like __________.",
+    "options": [
+      "a big mirror in the sky",
+      "a lamp that never turns off",
+      "a stone that cannot move",
+      "a star that is far away",
+      "a cloud that shines at night"
+    ],
+    "answer": 0,
+    "translation": "달은 밤에 밝게 보이지만 스스로 빛을 내지는 않는다. 그것은 태양의 빛을 반사할 뿐이다. 같은 방식으로 거울도 빛을 만들지 않는다. 거울은 다른 곳에서 오는 빛을 보여 줄 뿐이다. 그래서 달은 하늘에 있는 커다란 거울과 같다고 말할 수 있다.",
+    "why": "달도 거울처럼 스스로 빛을 내지 않고 태양의 빛을 반사하므로 '하늘의 커다란 거울'과 같습니다.",
+    "optionNotes": [
+      "정답. 빛을 반사한다는 점이 거울과 같습니다.",
+      "램프는 스스로 빛을 내므로 반대입니다.",
+      "움직이지 못한다는 내용은 없습니다.",
+      "별은 스스로 빛을 냅니다.",
+      "구름은 언급되지 않았습니다."
+    ],
+    "trap": "'bright'만 보고 램프(②)나 별(④)을 고르기 쉽습니다. 달은 스스로 빛을 내지 않습니다.",
+    "tip": "비유 빈칸은 글의 설명(반사한다)과 같은 특성을 가진 대상을 고르세요."
+  },
+  {
+    "id": "m1-02-35",
+    "level": "m1",
+    "set": "mock-02",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Walking is a good exercise for everyone. ① My school is only five minutes away from my house. ② It makes your heart stronger. ③ It also helps you sleep better at night. ④ You don't need special shoes or equipment. ⑤ So, try to walk for thirty minutes every day.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "걷기는 모든 사람에게 좋은 운동이다. ① 우리 학교는 집에서 5분 거리밖에 안 된다. ② 걷기는 심장을 더 튼튼하게 한다. ③ 또 밤에 잠을 더 잘 자도록 도와준다. ④ 특별한 신발이나 장비가 필요 없다. ⑤ 그러니 매일 30분씩 걸어 보자.",
+    "why": "글은 걷기의 좋은 점을 설명하는데 ①은 학교와 집의 거리를 말해 흐름과 관계가 없습니다.",
+    "optionNotes": [
+      "정답(무관). 걷기의 장점과 상관이 없습니다.",
+      "걷기의 장점입니다.",
+      "걷기의 장점입니다.",
+      "걷기의 장점입니다.",
+      "걷기를 권하는 결론입니다."
+    ],
+    "trap": "'walk'와 관련 있는 거리 이야기라 자연스러워 보이지만 걷기의 '효과'가 아닙니다.",
+    "tip": "무관한 문장은 글의 중심 화제(걷기의 좋은 점)를 설명하는지 확인하세요."
+  },
+  {
+    "id": "m1-02-36",
+    "level": "m1",
+    "set": "mock-02",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Mina wanted to make a birthday card for her mother.\n(A) Finally, she put the card on the table, and her mother smiled at it.\n(B) First, she drew a big red heart on a piece of paper.\n(C) Next, she wrote \"I love you, Mom\" inside the heart.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 2,
+    "translation": "미나는 엄마를 위한 생일 카드를 만들고 싶었다. (B) 먼저 그녀는 종이에 커다란 빨간 하트를 그렸다. (C) 그다음 하트 안에 \"엄마 사랑해요\"라고 썼다. (A) 마지막으로 그녀는 카드를 식탁 위에 놓았고, 엄마가 그것을 보고 미소 지었다.",
+    "why": "First(처음) → Next(다음) → Finally(마지막으로) 순서이므로 (B)-(C)-(A)입니다.",
+    "optionNotes": [
+      "(A)의 Finally는 마지막에 와야 합니다.",
+      "(A)가 가운데에 오면 Next가 Finally 뒤에 옵니다.",
+      "정답. First → Next → Finally.",
+      "(C)의 Next는 First 뒤에 와야 합니다.",
+      "(A)가 마지막에 오지만 (C)가 (B)보다 앞섭니다."
+    ],
+    "trap": "(A)에도 내용이 있어 중간처럼 보이지만 'Finally'가 마지막을 알려 줍니다.",
+    "tip": "First, Next, Finally 같은 순서 표시어는 가장 확실한 단서입니다."
+  },
+  {
+    "id": "m1-02-37",
+    "level": "m1",
+    "set": "mock-02",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "A boy named Ben was walking in the park.\n(A) Ben carefully picked it up and took it home.\n(B) After a few days, the bird got better, and Ben let it fly away.\n(C) He saw a little bird on the ground. It had a hurt wing.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 3,
+    "translation": "Ben이라는 소년이 공원을 걷고 있었다. (C) 그는 땅에 있는 작은 새를 보았다. 새는 날개를 다쳤다. (A) Ben은 조심스럽게 그것을 집어 집으로 데려갔다. (B) 며칠 뒤 새는 나아졌고 Ben은 그것을 날려 보냈다.",
+    "why": "(C)에서 새를 발견하고, (A)의 'it'이 그 새를 받으며, (B)의 'After a few days'가 그 뒤의 결과입니다.",
+    "optionNotes": [
+      "(A)의 'it'이 가리킬 대상이 앞에 없습니다.",
+      "(B)의 결과가 가장 먼저 올 수 없습니다.",
+      "(B)의 결과가 가장 먼저 올 수 없습니다.",
+      "정답. 발견 → 집으로 데려감 → 며칠 뒤 회복.",
+      "(B)가 (A)보다 앞서면 새를 데려가기 전에 회복하게 됩니다."
+    ],
+    "trap": "(A)의 'it'이 무엇인지 알려 주는 (C)가 먼저 와야 합니다.",
+    "tip": "대명사 it, 시간 표현 After a few days로 순서를 확인하세요."
+  },
+  {
+    "id": "m1-02-38",
+    "level": "m1",
+    "set": "mock-02",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThe reason is her habit before sleeping.\n\n[글]\nMia always feels sleepy in the morning class. ( ① ) She goes to bed at ten o'clock, which is not late. So why is she so tired? ( ② ) She often plays games on her phone in bed. ( ③ ) The light from the screen makes it hard to sleep deeply. ( ④ ) So, she should put her phone away before going to bed. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "[주어진 문장] 그 이유는 잠자기 전의 습관 때문이다. [글] Mia는 아침 수업 시간에 항상 졸린다. 그녀는 10시에 잠자리에 드는데, 그건 늦은 시간이 아니다. 그렇다면 왜 그렇게 피곤할까? 그녀는 침대에서 자주 휴대전화로 게임을 한다. 화면의 빛은 깊이 자는 것을 어렵게 만든다. 그러므로 그녀는 잠자기 전에 휴대전화를 치워야 한다.",
+    "why": "주어진 문장의 'The reason'은 앞의 질문 'So why is she so tired?'에 대한 답이므로 그 바로 뒤인 ②에 들어갑니다.",
+    "optionNotes": [
+      "질문이 나오기 전이므로 'The reason'이 가리킬 것이 없습니다.",
+      "정답. 질문 바로 뒤에서 이유를 제시합니다.",
+      "이미 이유(게임)를 설명한 뒤라서 'The reason is'가 어색합니다.",
+      "설명이 끝난 뒤라서 순서가 맞지 않습니다.",
+      "결론 뒤에 이유가 오면 순서가 맞지 않습니다."
+    ],
+    "trap": "'phone'이 나오는 ③ 근처를 고르기 쉽습니다. 'The reason'은 질문에 대한 답 표현입니다.",
+    "tip": "'The reason is ~'는 앞에 why 질문이 있어야 합니다. 질문 바로 뒤를 찾으세요."
+  },
+  {
+    "id": "m1-02-39",
+    "level": "m1",
+    "set": "mock-02",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThen, he poured the mixture into a small box.\n\n[글]\nMin made ice cream at home yesterday. ( ① ) First, he put milk, sugar, and strawberries into a bowl. ( ② ) He stirred them well for five minutes. ( ③ ) After that, he put it in the freezer for three hours. ( ④ ) Finally, he took it out and enjoyed the cold, sweet ice cream. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 그다음 그는 섞은 것을 작은 상자에 부었다. [글] Min은 어제 집에서 아이스크림을 만들었다. 먼저 그는 우유, 설탕, 딸기를 그릇에 넣었다. 그는 5분 동안 그것들을 잘 저었다. 그 후 그는 그것을 냉동실에 세 시간 동안 넣어 두었다. 마지막으로 그는 그것을 꺼내 차갑고 달콤한 아이스크림을 즐겼다.",
+    "why": "재료를 넣고(First) 저은 다음, 섞은 것을 상자에 붓고(Then), 냉동실에 넣는(After that) 순서이므로 ③에 들어갑니다.",
+    "optionNotes": [
+      "재료를 넣기 전이라 섞은 것(mixture)이 없습니다.",
+      "재료를 넣었지만 아직 젓지 않았습니다.",
+      "정답. 젓기 → 상자에 붓기 → 냉동실.",
+      "냉동실에 넣은 뒤에 붓는 것은 순서에 맞지 않습니다.",
+      "마지막(Finally) 뒤에 단계를 추가할 수 없습니다."
+    ],
+    "trap": "'mixture'는 재료를 섞은 뒤에만 존재합니다. 젓는 문장 뒤여야 합니다.",
+    "tip": "순서 표시어(First → Then → After that → Finally)로 빠진 단계의 위치를 찾으세요."
+  },
+  {
+    "id": "m1-02-40",
+    "level": "m1",
+    "set": "mock-02",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Two groups of students tried a new way to learn words. Group A copied each new word ten times. Group B made a short story with each new word. After one week, they took a test. Group B got higher scores. The teacher said that making a story helps students remember words because it gives each word a meaning.\n\n▶ Students remember new words better when they (A) them in a (B) way.",
+    "options": [
+      "(A) copy — (B) boring",
+      "(A) use — (B) meaningful",
+      "(A) forget — (B) simple",
+      "(A) use — (B) boring",
+      "(A) copy — (B) meaningful"
+    ],
+    "answer": 1,
+    "translation": "두 그룹의 학생들이 단어를 배우는 새로운 방법을 시도했다. A 그룹은 새 단어를 각각 열 번씩 베껴 썼다. B 그룹은 새 단어마다 짧은 이야기를 만들었다. 일주일 뒤 그들은 시험을 보았다. B 그룹이 더 높은 점수를 받았다. 선생님은 이야기를 만들면 각 단어에 의미가 생겨 단어를 기억하는 데 도움이 된다고 말했다. ▶ 학생들은 새 단어를 의미 있는 방식으로 사용할 때 더 잘 기억한다.",
+    "why": "이야기를 만들어 단어를 사용한 B 그룹의 점수가 높았으므로 (A)는 use, (B)는 meaningful입니다.",
+    "optionNotes": [
+      "베껴 쓰기와 지루함은 글에 나오지 않습니다.",
+      "정답. 의미 있는 방식으로 단어를 사용한 B 그룹입니다.",
+      "forget은 결과와 반대입니다.",
+      "boring은 글의 내용과 반대입니다.",
+      "베껴 쓴 A 그룹은 점수가 낮았습니다."
+    ],
+    "trap": "A 그룹의 'copied'가 먼저 나와서 ⑤를 고르기 쉽지만, 점수가 높은 쪽은 B 그룹입니다.",
+    "tip": "요약문은 실험의 두 그룹 중 결과가 좋은 그룹의 방법을 옮긴 문장입니다."
+  }
+]

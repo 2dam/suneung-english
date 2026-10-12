@@ -1,0 +1,147 @@
+[
+  {
+    "id": "m1-02-41",
+    "level": "m1",
+    "set": "mock-02",
+    "no": 41,
+    "type": "long",
+    "group": "m1-02-g41",
+    "stem": "[41~42] 윗글의 제목으로 가장 적절한 것을 고르시오.",
+    "passage": "Last Sunday, I found a brown wallet on the street. I opened it and saw some money and an ID card. At first, I wanted to {1|keep} the money, but I changed my mind. I thought about the owner. He must be very {2|worried}. So I took the wallet to the police station. The police officer called the owner, and he came to the station within an hour. He was very {3|thankful} and wanted to give me some money. I said no, because I only did what was {4|right}. On my way home, I felt {5|guilty}.",
+    "options": [
+      "How to Keep Your Money Safe at Home",
+      "The Day I Returned a Lost Wallet",
+      "Why Police Officers Are Busy",
+      "My Favorite Brown Wallet",
+      "Shopping on the Street"
+    ],
+    "answer": 1,
+    "translation": "지난 일요일 나는 길에서 갈색 지갑을 발견했다. 열어 보니 돈과 신분증이 있었다. 처음에는 그 돈을 갖고 싶었지만 마음을 바꿨다. 나는 주인을 생각했다. 그는 매우 걱정하고 있을 것이다. 그래서 나는 지갑을 경찰서에 가져갔다. 경찰관이 주인에게 전화했고, 그는 한 시간 안에 경찰서에 왔다. 그는 매우 고마워하며 나에게 돈을 주려고 했다. 나는 올바른 일을 했을 뿐이라서 거절했다. 집에 가는 길에 나는 뿌듯했다.",
+    "why": "잃어버린 지갑을 경찰서에 가져다주어 주인에게 돌려준 하루의 이야기이므로 ②가 제목으로 적절합니다.",
+    "optionNotes": [
+      "돈을 안전하게 보관하는 방법이 아닙니다.",
+      "정답. 잃어버린 지갑을 돌려준 이야기입니다.",
+      "경찰이 바쁜 이유는 나오지 않습니다.",
+      "지갑에 대한 애정이 아닙니다.",
+      "쇼핑 이야기가 아닙니다."
+    ],
+    "trap": "④는 'brown wallet'에서 가져온 보기입니다. 글의 중심은 지갑이 아니라 '돌려준 행동'입니다.",
+    "tip": "이야기글의 제목은 사건(returned a lost wallet)을 담은 표현입니다."
+  },
+  {
+    "id": "m1-02-42",
+    "level": "m1",
+    "set": "mock-02",
+    "no": 42,
+    "type": "long",
+    "group": "m1-02-g41",
+    "stem": "[41~42] 밑줄 친 ①~⑤ 중에서 문맥상 낱말의 쓰임이 적절하지 않은 것을 고르시오.",
+    "passage": "Last Sunday, I found a brown wallet on the street. I opened it and saw some money and an ID card. At first, I wanted to {1|keep} the money, but I changed my mind. I thought about the owner. He must be very {2|worried}. So I took the wallet to the police station. The police officer called the owner, and he came to the station within an hour. He was very {3|thankful} and wanted to give me some money. I said no, because I only did what was {4|right}. On my way home, I felt {5|guilty}.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "(41번 지문과 같은 글입니다.)",
+    "why": "올바른 일을 하고 돌려주었으므로 집에 가는 길의 기분은 죄책감(guilty)이 아니라 뿌듯함(proud)이어야 합니다.",
+    "optionNotes": [
+      "처음에는 돈을 갖고 싶었다는 흐름에 keep이 알맞습니다.",
+      "주인이 잃어버려 걱정할 것이라는 흐름에 worried가 알맞습니다.",
+      "돌려받아 고마워했다는 흐름에 thankful이 알맞습니다.",
+      "올바른 일을 했을 뿐이라는 흐름에 right가 알맞습니다.",
+      "정답(부적절). 올바른 일을 했으므로 proud가 알맞습니다."
+    ],
+    "trap": "'felt ~'의 형태가 자연스러워 감정의 방향을 놓치기 쉽습니다.",
+    "tip": "어휘 문제는 글 전체의 감정 흐름(좋은 일 → 뿌듯함)과 맞는지 확인하세요."
+  },
+  {
+    "id": "m1-02-43",
+    "level": "m1",
+    "set": "mock-02",
+    "no": 43,
+    "type": "long",
+    "group": "m1-02-g43",
+    "stem": "[43~45] 주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것을 고르시오.",
+    "passage": "(A) Hana and her little brother, Dongmin, went to the river with a new kite. It was a windy day, and {1|she} was excited to fly it.\n(B) At last, Hana found the kite in a tall tree. A kind man helped {2|her} get it down with a long stick. Dongmin clapped and said, \"Thank you!\" They walked home happily.\n(C) The kite flew very high, but suddenly the string broke. The kite flew over the trees and disappeared. Dongmin looked at {3|her} and started to cry.\n(D) Hana told him not to worry. They walked along the river and looked for the kite for an hour. Dongmin was tired, so {4|he} sat down on a stone. {5|She} kept walking and looking up at the trees.",
+    "options": [
+      "(B)-(D)-(C)",
+      "(C)-(B)-(D)",
+      "(C)-(D)-(B)",
+      "(D)-(B)-(C)",
+      "(D)-(C)-(B)"
+    ],
+    "answer": 2,
+    "translation": "(A) 하나와 남동생 동민은 새 연을 들고 강에 갔다. 바람이 부는 날이어서 그녀는 연을 날릴 생각에 신이 났다. (C) 연은 매우 높이 날았지만 갑자기 줄이 끊어졌다. 연은 나무들 위로 날아가 사라졌다. 동민은 그녀를 쳐다보며 울기 시작했다. (D) 하나는 그에게 걱정하지 말라고 했다. 그들은 강을 따라 걸으며 한 시간 동안 연을 찾았다. 동민은 지쳐서 돌 위에 앉았다. 그녀는 계속 걸으며 나무 위를 올려다보았다. (B) 마침내 하나는 키 큰 나무에서 연을 발견했다. 친절한 남자가 긴 막대기로 그것을 내리는 것을 도와주었다. 동민은 박수를 치며 \"고맙습니다!\"라고 말했다. 그들은 행복하게 집으로 걸어갔다.",
+    "why": "(A) 연을 날리러 감 → (C) 줄이 끊어져 연이 사라짐 → (D) 찾아다님 → (B) 마침내 발견하고 집으로 돌아감 순서입니다.",
+    "optionNotes": [
+      "(B)의 발견이 (C) 연을 잃어버리기 전에 올 수 없습니다.",
+      "(B)의 발견이 (D) 찾는 과정보다 앞설 수 없습니다.",
+      "정답. 잃어버림 → 찾아다님 → 발견.",
+      "(D)의 찾는 장면이 연을 잃기 전에 올 수 없습니다.",
+      "(D)가 (C) 앞에 오면 잃어버리기 전에 찾게 됩니다."
+    ],
+    "trap": "(B)는 해피엔딩이라 마지막처럼 보이지만, (C)가 문제의 발단입니다. 발단 → 과정 → 결과로 순서를 잡으세요.",
+    "tip": "이야기글은 사건(발단 → 전개 → 결말)의 흐름으로 순서를 정하세요."
+  },
+  {
+    "id": "m1-02-44",
+    "level": "m1",
+    "set": "mock-02",
+    "no": 44,
+    "type": "long",
+    "group": "m1-02-g43",
+    "stem": "[43~45] 밑줄 친 ①~⑤ 중에서 가리키는 대상이 나머지 넷과 다른 것을 고르시오.",
+    "passage": "(A) Hana and her little brother, Dongmin, went to the river with a new kite. It was a windy day, and {1|she} was excited to fly it.\n(B) At last, Hana found the kite in a tall tree. A kind man helped {2|her} get it down with a long stick. Dongmin clapped and said, \"Thank you!\" They walked home happily.\n(C) The kite flew very high, but suddenly the string broke. The kite flew over the trees and disappeared. Dongmin looked at {3|her} and started to cry.\n(D) Hana told him not to worry. They walked along the river and looked for the kite for an hour. Dongmin was tired, so {4|he} sat down on a stone. {5|She} kept walking and looking up at the trees.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "④의 he는 지쳐서 돌 위에 앉은 동민이고, 나머지 ①②③⑤는 모두 하나를 가리킵니다.",
+    "optionNotes": [
+      "she는 연을 날리려고 신이 난 하나입니다.",
+      "her는 남자가 연을 내리는 것을 도와준 대상인 하나입니다.",
+      "her는 동민이 쳐다본 대상인 하나입니다.",
+      "정답. he는 동민입니다.",
+      "She는 계속 걸으며 올려다본 하나입니다."
+    ],
+    "trap": "(D)에 하나와 동민이 함께 나와 he/she를 혼동하기 쉽습니다. 성별(he/she)을 확인하세요.",
+    "tip": "대명사의 성별과 문장의 행동(sat down / kept walking)으로 가리키는 사람을 구분하세요."
+  },
+  {
+    "id": "m1-02-45",
+    "level": "m1",
+    "set": "mock-02",
+    "no": 45,
+    "type": "long",
+    "group": "m1-02-g43",
+    "stem": "[43~45] 윗글에 관한 내용으로 적절하지 않은 것을 고르시오.",
+    "passage": "(A) Hana and her little brother, Dongmin, went to the river with a new kite. It was a windy day, and {1|she} was excited to fly it.\n(B) At last, Hana found the kite in a tall tree. A kind man helped {2|her} get it down with a long stick. Dongmin clapped and said, \"Thank you!\" They walked home happily.\n(C) The kite flew very high, but suddenly the string broke. The kite flew over the trees and disappeared. Dongmin looked at {3|her} and started to cry.\n(D) Hana told him not to worry. They walked along the river and looked for the kite for an hour. Dongmin was tired, so {4|he} sat down on a stone. {5|She} kept walking and looking up at the trees.",
+    "options": [
+      "하나와 동민은 강에 갔다.",
+      "연은 강물에 떨어졌다.",
+      "동민은 울기 시작했다.",
+      "친절한 남자가 연을 내리는 것을 도와주었다.",
+      "남매는 행복하게 집으로 걸어갔다."
+    ],
+    "answer": 1,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "연은 강물이 아니라 키 큰 나무에서 발견되었으므로 ②는 일치하지 않습니다.",
+    "optionNotes": [
+      "went to the river와 일치합니다.",
+      "정답(불일치). 연은 나무 위에서 발견되었습니다.",
+      "started to cry와 일치합니다.",
+      "A kind man helped her get it down과 일치합니다.",
+      "They walked home happily와 일치합니다."
+    ],
+    "trap": "river가 반복되어 연이 강에 빠졌다고 착각하기 쉽습니다. 연이 날아간 곳은 나무 위입니다.",
+    "tip": "불일치 문제는 장소가 바뀐 보기를 본문의 장소 표현(tall tree)과 대조하세요."
+  }
+]
