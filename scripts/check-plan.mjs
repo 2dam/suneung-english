@@ -5,17 +5,17 @@ import fs from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 
-const [grade, mockArg] = process.argv.slice(2)
+const [grade, mockArg, courseArg = 'a'] = process.argv.slice(2)
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 const mock = String(mockArg).padStart(2, '0')
 
-const planText = execFileSync('node', [path.join(root, 'scripts', 'answer-plan.mjs'), grade, String(Number(mockArg))], {
+const planText = execFileSync('node', [path.join(root, 'scripts', 'answer-plan.mjs'), grade, String(Number(mockArg)), courseArg], {
   encoding: 'utf8',
 })
 const planAnswers = planText.match(/정답\(1~45번\): (\d+)/)[1].split('').map(Number)
 const planLongest = planText.match(/가장 긴 보기로 쓸 문항: ([\d, ]+)/)[1].split(',').map((s) => Number(s.trim()))
 
-const dir = path.join(root, 'src', 'content', grade)
+const dir = path.join(root, 'src', 'content', courseArg, grade)
 const questions = fs
   .readdirSync(dir)
   .filter((f) => f.startsWith(`mock-${mock}-`) && f.endsWith('.json'))

@@ -1,12 +1,12 @@
 // 회차별 정답 배치 계획: 직접 순열을 만들다 생기는 실수와 주기적 패턴을 막는다.
-//   node scripts/answer-plan.mjs m1 2        (학년, 회차 번호)
+//   node scripts/answer-plan.mjs m1 2        (학년, 회차 번호[, 코스 a|b])
 // 출력
 //   - 1~45번 정답 번호(①~⑤). 각 번호 9개, 듣기 17문항은 3~4개씩, 같은 번호 연속은 최대 2번
 //   - "정답을 가장 긴 보기로 쓸 문항" 번호: 길이로 정답을 짐작할 수 없도록 약 20%만 지정
 //   - 순서 문항(36·37·43번)의 정답 배열
 // 같은 학년·회차는 항상 같은 계획이 나온다(시드 고정).
 
-const [grade, mockArg] = process.argv.slice(2)
+const [grade, mockArg, courseArg = 'a'] = process.argv.slice(2)
 if (!grade || !mockArg) {
   console.error('사용법: node scripts/answer-plan.mjs <m1|m2|m3> <회차번호>')
   process.exit(1)
@@ -45,7 +45,8 @@ function spread(counts, random) {
   throw new Error('배치를 찾지 못했습니다')
 }
 
-const random = rng(hash(`${grade}-${mockArg}`))
+// A코스는 기존 시드를 유지해 이미 만든 회차의 계획이 바뀌지 않게 한다
+const random = rng(hash(courseArg === 'a' ? `${grade}-${mockArg}` : `${courseArg}-${grade}-${mockArg}`))
 // 듣기 17문항: 5개 번호에 3,3,3,4,4 (어느 번호가 4개인지 무작위)
 const lCounts = { 1: 3, 2: 3, 3: 3, 4: 3, 5: 3 }
 for (const n of shuffle([1, 2, 3, 4, 5], random).slice(0, 2)) lCounts[n] += 1

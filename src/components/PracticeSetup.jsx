@@ -15,15 +15,18 @@ function PrintButtons({ title, questions, onPrint }) {
   )
 }
 
-export default function PracticeSetup({ level, onStart, onStartExam, onPrint }) {
-  const pool = useMemo(() => practiceQuestions(level.id), [level.id])
-  const exams = useMemo(() => mockExams(level.id), [level.id])
+export default function PracticeSetup({ course, level, onStart, onStartExam, onPrint }) {
+  const pool = useMemo(() => practiceQuestions(course.id, level.id), [course.id, level.id])
+  const exams = useMemo(() => mockExams(course.id, level.id), [course.id, level.id])
+  const label = `${level.name} ${course.name}`
 
   if (pool.length === 0 && exams.length === 0) {
     return (
       <section className="panel empty">
-        <h2>{level.name} 문제를 준비 중입니다</h2>
-        <p className="muted">아직 제작 중이에요. 다른 학년을 먼저 풀어 보세요.</p>
+        <h2>{label}는 준비 중입니다</h2>
+        <p className="muted">
+          {course.ready ? '아직 제작 중이에요. 다른 학년을 먼저 풀어 보세요.' : `${course.name}는 A코스를 마친 뒤 열립니다.`}
+        </p>
       </section>
     )
   }
@@ -40,8 +43,10 @@ export default function PracticeSetup({ level, onStart, onStartExam, onPrint }) 
     <>
       {exams.length > 0 && (
         <section className="panel">
-          <h2>{level.name} · 모의고사</h2>
-          <p className="muted">45문항 · 70분 · 듣기는 2번까지 · 끝나고 한꺼번에 채점</p>
+          <h2>{label} · 모의고사</h2>
+          <p className="muted">
+            45문항 · 70분 · 듣기는 2번까지 · 끝나고 한꺼번에 채점 · 제작된 회차 {exams.length}개
+          </p>
           <ul className="exam-list">
             {exams.map((exam) => {
               const complete = exam.questions.length === 45
@@ -55,7 +60,7 @@ export default function PracticeSetup({ level, onStart, onStartExam, onPrint }) 
                     <button type="button" className="btn primary small-btn" onClick={() => onStartExam(exam)}>
                       시험 시작
                     </button>
-                    <PrintButtons title={`${level.name} ${exam.title}`} questions={exam.questions} onPrint={onPrint} />
+                    <PrintButtons title={`${label} ${exam.title}`} questions={exam.questions} onPrint={onPrint} />
                   </div>
                 </li>
               )
@@ -66,18 +71,18 @@ export default function PracticeSetup({ level, onStart, onStartExam, onPrint }) 
 
       {pool.length > 0 && (
         <section className="panel">
-          <h2>{level.name} · 유형 연습</h2>
+          <h2>{label} · 유형 연습</h2>
           <p className="muted">{level.target} · 한 문제씩 풀고 바로 해설을 봅니다</p>
 
           <div className="start-grid">
-            <button type="button" className="btn primary" onClick={() => onStart(`${level.name} 전체`, pool)}>
+            <button type="button" className="btn primary" onClick={() => onStart(`${label} 전체`, pool)}>
               전체 풀기 ({pool.length}문항)
             </button>
             <button
               type="button"
               className="btn"
               disabled={listening.length === 0}
-              onClick={() => onStart(`${level.name} 듣기`, listening)}
+              onClick={() => onStart(`${label} 듣기`, listening)}
             >
               듣기만 ({listening.length})
             </button>
@@ -85,7 +90,7 @@ export default function PracticeSetup({ level, onStart, onStartExam, onPrint }) 
               type="button"
               className="btn"
               disabled={reading.length === 0}
-              onClick={() => onStart(`${level.name} 읽기`, reading)}
+              onClick={() => onStart(`${label} 읽기`, reading)}
             >
               읽기만 ({reading.length})
             </button>
@@ -100,7 +105,7 @@ export default function PracticeSetup({ level, onStart, onStartExam, onPrint }) 
                 className="chip"
                 onClick={() =>
                   onStart(
-                    `${level.name} · ${typeLabel(type)}`,
+                    `${label} · ${typeLabel(type)}`,
                     pool.filter((question) => question.type === type),
                   )
                 }
@@ -111,7 +116,7 @@ export default function PracticeSetup({ level, onStart, onStartExam, onPrint }) 
           </div>
 
           <p className="print-row">
-            <PrintButtons title={`${level.name} 유형 연습`} questions={pool} onPrint={onPrint} />
+            <PrintButtons title={`${label} 유형 연습`} questions={pool} onPrint={onPrint} />
           </p>
         </section>
       )}

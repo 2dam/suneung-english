@@ -37,7 +37,9 @@ for (const file of listJson(contentDir)) {
     err(path.relative(root, file), '최상위가 배열이 아닙니다')
     continue
   }
-  data.forEach((q) => questions.push({ ...q, __file: path.relative(root, file) }))
+  // 경로: src/content/<코스>/<학년>/*.json
+  const course = path.relative(contentDir, file).split(path.sep)[0]
+  data.forEach((q) => questions.push({ ...q, course, __file: path.relative(root, file) }))
 }
 
 const levelIds = new Set(LEVELS.map((level) => level.id))
@@ -57,7 +59,9 @@ for (const q of questions) {
     err(id, `알 수 없는 type: ${q.type}`)
     continue
   }
-  if (q.id && !q.id.startsWith(`${q.level}-`)) warn(id, `id가 "${q.level}-"로 시작하지 않습니다`)
+  // A코스 id: m1-01-05, B코스 id: m1b-01-05
+  const prefix = q.course === 'a' ? `${q.level}-` : `${q.level}${q.course}-`
+  if (q.id && !q.id.startsWith(prefix)) warn(id, `id가 "${prefix}"로 시작하지 않습니다`)
   if (!q.stem) err(id, 'stem(발문)이 없습니다')
 
   if (!Array.isArray(q.options) || q.options.length !== 5) err(id, 'options는 정확히 5개여야 합니다')
@@ -118,7 +122,7 @@ for (const q of questions) {
   if (q.type === 'blank' && q.passage && !/_{5,}/.test(q.passage)) err(id, '빈칸 문제에 ____ 표기가 없습니다')
 
   // 학년별 난이도 기준(읽기 지문 길이, 문장 길이, 듣기 대본 길이)
-  const spec = LEVELS.find((level) => level.id === q.level)?.spec
+  const spec = LEVELS.find((level) => level.id === q.level)?.spec?.[q.course]
   if (spec) {
     const raw = info.section === 'listening' ? (q.script || []).map((l) => l.text).join(' ') : q.passage || ''
     const cleaned = raw
@@ -174,7 +178,7 @@ for (const q of questions) {
 const mockGroups = new Map()
 for (const q of questions) {
   if (typeof q.set === 'string' && q.set.startsWith('mock-')) {
-    const key = `${q.level}/${q.set}`
+    const key = `${q.course}/${q.level}/${q.set}`
     if (!mockGroups.has(key)) mockGroups.set(key, [])
     mockGroups.get(key).push(q)
   }
@@ -217,10 +221,14 @@ for (const [key, group] of mockGroups) distribution(key, group)
 
 // 요약
 console.log(`문항 ${questions.length}개, 파일 ${new Set(questions.map((q) => q.__file)).size}개`)
-for (const level of LEVELS) {
-  const list = questions.filter((q) => q.level === level.id)
-  const listening = list.filter((q) => TYPES[q.type]?.section === 'listening').length
-  console.log(`  ${level.name}(${level.id}): ${list.length}문항 (듣기 ${listening} / 읽기 ${list.length - listening})`)
+for (const course of ['a', 'b']) {
+  for (const level of LEVELS) {
+    const list = questions.filter((q) => q.course === course && q.level === level.id)
+    if (list.length === 0 && course !== 'a') continue
+    const listening = list.filter((q) => TYPES[q.type]?.section === 'listening').length
+    const mocks = new Set(list.filter((q) => q.set?.startsWith('mock-')).map((q) => q.set)).size
+    console.log(`  ${course.toUpperCase()}코스 ${level.name}(${level.id}): ${list.length}문항, 모의고사 ${mocks}회 (듣기 ${listening} / 읽기 ${list.length - listening})`)
+  }
 }
 if (warns.length) {
   console.log(`\n경고 ${warns.length}건`)

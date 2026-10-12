@@ -228,3 +228,14 @@ button:disabled { cursor: not-allowed; opacity: 0.5; }
 .wrong-list li { border: 1px solid var(--line); border-radius: 10px; padding: 12px; }
 .wrong-list .preview { margin: 6px 0 10px; color: var(--muted); font-size: 0.92rem; }
 .row { display: flex; align-items: center; gap: 12px; }
+
+/* 코스 선택 */
+.course-switch { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-bottom: 12px; }
+.course-switch button {
+  display: grid; gap: 2px; text-align: left; padding: 10px 12px;
+  background: var(--card); border: 1px solid var(--line); border-radius: 10px;
+}
+.course-switch button strong { font-size: 1rem; }
+.course-switch button span { color: var(--muted); font-size: 0.8rem; }
+.course-switch button.on { border-color: var(--primary); background: var(--primary-soft); }
+.course-switch button.on strong { color: var(--primary); }

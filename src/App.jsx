@@ -1,5 +1,5 @@
 import { useCallback, useState } from 'react'
-import { getLevel } from './data/levels'
+import { COURSES, getCourse, getLevel } from './data/levels'
 import { QUESTION_MAP } from './data/questions'
 import { load, save } from './lib/storage'
 import { stopSpeech } from './lib/speech'
@@ -16,6 +16,7 @@ const examMinutes = (count) => Math.max(5, Math.ceil((count * 70) / 45))
 
 export default function App() {
   const [levelId, setLevelId] = useState(() => load('level', null))
+  const [courseId, setCourseId] = useState(() => getCourse(load('course', 'a')).id)
   const [tab, setTab] = useState('study')
   const [session, setSession] = useState(null) // { kind: 'practice'|'exam', title, questions, minutes }
   const [result, setResult] = useState(null)
@@ -24,11 +25,17 @@ export default function App() {
   const [wrong, setWrong] = useState(() => load('wrong', {}))
 
   const level = getLevel(levelId)
+  const course = getCourse(courseId)
   const clearPrint = useCallback(() => setPrintJob(null), [])
 
   const chooseLevel = (id) => {
     save('level', id)
     setLevelId(id)
+  }
+
+  const chooseCourse = (id) => {
+    save('course', id)
+    setCourseId(id)
   }
 
   const start = (title, questions) => {
@@ -45,7 +52,7 @@ export default function App() {
     setResult(null)
     setSession({
       kind: 'exam',
-      title: `${level.name} ${exam.title}`,
+      title: `${level.name} ${course.name} ${exam.title}`,
       questions: exam.questions,
       minutes: examMinutes(exam.questions.length),
     })
@@ -98,14 +105,32 @@ export default function App() {
         </header>
 
         {!session && !result && (
-          <nav className="tabs" role="tablist">
-            <button type="button" role="tab" aria-selected={tab === 'study'} className={tab === 'study' ? 'on' : ''} onClick={() => setTab('study')}>
-              학습
-            </button>
-            <button type="button" role="tab" aria-selected={tab === 'wrong'} className={tab === 'wrong' ? 'on' : ''} onClick={() => setTab('wrong')}>
-              오답노트{wrongCount > 0 ? ` (${wrongCount})` : ''}
-            </button>
-          </nav>
+          <>
+            <div className="course-switch" role="tablist" aria-label="코스 선택">
+              {COURSES.map((item) => (
+                <button
+                  key={item.id}
+                  type="button"
+                  role="tab"
+                  aria-selected={courseId === item.id}
+                  className={courseId === item.id ? 'on' : ''}
+                  onClick={() => chooseCourse(item.id)}
+                >
+                  <strong>{item.name}</strong>
+                  <span>{item.ready ? item.desc : `${item.desc} · 준비 중`}</span>
+                </button>
+              ))}
+            </div>
+
+            <nav className="tabs" role="tablist">
+              <button type="button" role="tab" aria-selected={tab === 'study'} className={tab === 'study' ? 'on' : ''} onClick={() => setTab('study')}>
+                학습
+              </button>
+              <button type="button" role="tab" aria-selected={tab === 'wrong'} className={tab === 'wrong' ? 'on' : ''} onClick={() => setTab('wrong')}>
+                오답노트{wrongCount > 0 ? ` (${wrongCount})` : ''}
+              </button>
+            </nav>
+          </>
         )}
 
         {session?.kind === 'exam' ? (
@@ -133,7 +158,7 @@ export default function App() {
             onPrint={print}
           />
         ) : tab === 'study' ? (
-          <PracticeSetup level={level} onStart={start} onStartExam={startExam} onPrint={print} />
+          <PracticeSetup course={course} level={level} onStart={start} onStartExam={startExam} onPrint={print} />
         ) : (
           <WrongNotes
             wrong={wrong}
