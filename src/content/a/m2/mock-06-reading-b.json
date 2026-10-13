@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m2-06-29",
+    "level": "m2",
+    "set": "mock-06",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Mount Everest {1|is} the highest mountain in the world. Every year, many climbers {2|try} to reach the top. They must {3|prepare} for months because the weather is extremely cold. Some climbers get sick {4|during} the climb. Climbing Everest {5|are} very dangerous.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "에베레스트산은 세계에서 가장 높은 산이다. 해마다 많은 등반가가 정상에 오르려고 시도한다. 날씨가 몹시 춥기 때문에 그들은 몇 달 동안 준비해야 한다. 일부 등반가는 등반 중에 병이 난다. 에베레스트를 오르는 것은 매우 위험하다.",
+    "why": "동명사구 주어 'Climbing Everest'는 단수 취급하므로 'are'가 아니라 'is'여야 합니다.",
+    "optionNotes": [
+      "단수 주어 Mount Everest에 맞는 is입니다.",
+      "복수 주어 many climbers에 맞는 try입니다.",
+      "조동사 must 뒤의 동사원형 prepare가 맞습니다.",
+      "'~ 동안'을 뜻하는 전치사 during이 맞습니다.",
+      "정답(틀린 것). 동명사 주어는 단수이므로 is여야 합니다."
+    ],
+    "trap": "'Everest'의 복수 느낌에 속지 마세요. 주어는 동명사구입니다.",
+    "tip": "동명사(구) 주어는 단수 취급합니다."
+  },
+  {
+    "id": "m2-06-30",
+    "level": "m2",
+    "set": "mock-06",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Every autumn, many birds {1|migrate} to warmer places. Some birds fly thousands of kilometers without stopping. They use the sun and the stars to {2|lose} their way. Strong winds can make the trip {3|dangerous}. However, most birds {4|return} to the same place every spring, and they {5|build} nests again.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "해마다 가을이면 많은 새들이 따뜻한 곳으로 이동한다. 어떤 새들은 쉬지 않고 수천 킬로미터를 난다. 그들은 해와 별을 이용해 길을 찾는다. 강한 바람은 여행을 위험하게 만들 수 있다. 하지만 대부분의 새는 봄마다 같은 곳으로 돌아와 다시 둥지를 짓는다.",
+    "why": "해와 별을 이용하는 목적은 길을 '찾는(find)' 것이므로 'lose'는 부적절합니다.",
+    "optionNotes": [
+      "따뜻한 곳으로 이동한다는 의미로 migrate가 알맞습니다.",
+      "정답(부적절). 해와 별로 길을 찾는 것이므로 find가 알맞습니다.",
+      "바람이 여행을 위험하게 만든다는 의미로 dangerous가 알맞습니다.",
+      "봄마다 돌아온다는 의미로 return이 알맞습니다.",
+      "둥지를 짓는다는 의미로 build가 알맞습니다."
+    ],
+    "trap": "'lose their way'는 자주 쓰는 표현이라 어색함을 놓치기 쉽습니다. 'use ~ to ...'의 목적을 확인하세요.",
+    "tip": "'use A to V'에서 V는 A의 기능과 맞아야 합니다."
+  },
+  {
+    "id": "m2-06-31",
+    "level": "m2",
+    "set": "mock-06",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many people think that being busy all day means being productive. However, research shows that people who take regular short breaks solve problems better than those who work for hours without stopping. During a break, the brain can rest and organize information. After the break, we can focus more easily. Therefore, taking breaks can make us __________.",
+    "options": [
+      "more careless about details in the work",
+      "less interested in difficult tasks",
+      "more productive in the end",
+      "worse at remembering names",
+      "unable to finish projects on time"
+    ],
+    "answer": 2,
+    "translation": "많은 사람들은 하루 종일 바쁘면 생산적이라고 생각한다. 그러나 연구에 따르면 규칙적으로 짧게 쉬는 사람들은 몇 시간 동안 쉬지 않고 일하는 사람들보다 문제를 더 잘 해결한다. 쉬는 동안 뇌는 쉬면서 정보를 정리할 수 있다. 쉰 뒤에는 더 쉽게 집중할 수 있다. 그러므로 휴식을 취하면 결국 더 생산적이 될 수 있다.",
+    "why": "짧은 휴식이 문제 해결과 집중력을 높인다고 했으므로 결국 더 생산적이라는 말이 알맞습니다.",
+    "optionNotes": [
+      "세부 사항에 부주의해진다는 내용은 없습니다.",
+      "어려운 일에 흥미를 잃는다는 내용은 없습니다.",
+      "정답. 결국 더 생산적이 됩니다.",
+      "이름 기억 이야기는 나오지 않습니다.",
+      "제시간에 끝내지 못한다는 내용은 없습니다."
+    ],
+    "trap": "'break'를 부정적으로 오해하면 ①②⑤를 고르게 됩니다.",
+    "tip": "However 뒤의 연구 결과가 글의 방향이며 빈칸이 그 결론입니다."
+  },
+  {
+    "id": "m2-06-32",
+    "level": "m2",
+    "set": "mock-06",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Have you ever smelled something and suddenly remembered a moment from your childhood? This is because the brain part that processes smell is very close to the parts that handle memory and emotion. Other senses must travel through more areas before they reach these parts. Smells can even affect our mood without us noticing. That is why a smell can __________.",
+    "options": [
+      "make us forget what we ate for breakfast yesterday",
+      "slow down how fast we walk",
+      "bring back old memories suddenly",
+      "change the color of what we see",
+      "make us hear very small sounds"
+    ],
+    "answer": 2,
+    "translation": "무엇인가의 냄새를 맡고 갑자기 어린 시절의 한순간이 떠오른 적이 있는가? 이는 냄새를 처리하는 뇌 부위가 기억과 감정을 다루는 부위와 매우 가까이 있기 때문이다. 다른 감각은 이 부위에 닿기 전에 더 많은 영역을 거쳐야 한다. 냄새는 우리가 알아차리지 못하는 사이에 기분에도 영향을 줄 수 있다. 그래서 냄새는 옛 기억을 갑자기 떠올리게 할 수 있다.",
+    "why": "후각 부위가 기억·감정 부위와 가깝다고 했으므로 옛 기억을 갑자기 떠올리게 한다는 말이 알맞습니다.",
+    "optionNotes": [
+      "먹은 것을 잊게 한다는 내용은 없습니다.",
+      "걷는 속도는 나오지 않습니다.",
+      "정답. 옛 기억을 갑자기 떠올리게 합니다.",
+      "시각 변화는 나오지 않습니다.",
+      "작은 소리를 듣는 것은 나오지 않습니다."
+    ],
+    "trap": "감각 이야기라서 ④⑤를 고르기 쉽지만 글의 연결은 후각과 기억입니다.",
+    "tip": "첫 문장의 질문(smelled → remembered)이 결론과 같은 내용입니다."
+  },
+  {
+    "id": "m2-06-33",
+    "level": "m2",
+    "set": "mock-06",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A company studied hundreds of teams to find out what makes a team successful. Surprisingly, the best teams were not those with the smartest members. They were the teams where members felt comfortable saying their opinions, even if they might be wrong. People in these teams were not afraid of being laughed at. Therefore, the success of a team depends not only on skills but also on whether members __________.",
+    "options": [
+      "feel safe to share their ideas",
+      "work alone in separate rooms",
+      "avoid discussing difficult problems",
+      "always agree with the leader",
+      "compete against each other for rewards"
+    ],
+    "answer": 0,
+    "translation": "한 회사는 팀을 성공하게 하는 것이 무엇인지 알아보려고 수백 개의 팀을 연구했다. 놀랍게도 최고의 팀은 가장 똑똑한 구성원이 있는 팀이 아니었다. 틀릴지도 모르는 의견이라도 편하게 말할 수 있다고 느끼는 팀이었다. 이런 팀의 사람들은 비웃음을 사는 것을 두려워하지 않았다. 그러므로 팀의 성공은 기술뿐 아니라 구성원이 자신의 생각을 안심하고 나눌 수 있다고 느끼는지에도 달려 있다.",
+    "why": "최고의 팀은 의견을 편하게 말할 수 있는 팀이었으므로 안심하고 생각을 나눈다는 말이 알맞습니다.",
+    "optionNotes": [
+      "정답. 안심하고 생각을 나눕니다.",
+      "혼자 일한다는 내용은 없습니다.",
+      "어려운 문제를 피한다는 것은 글과 반대입니다.",
+      "항상 동의한다는 내용은 없습니다.",
+      "경쟁한다는 내용은 없습니다."
+    ],
+    "trap": "'not only A but also B'에서 B가 빈칸입니다. A(skills)를 반복하지 마세요.",
+    "tip": "빈칸 앞 문장(not afraid of being laughed at)이 직접 근거입니다."
+  },
+  {
+    "id": "m2-06-34",
+    "level": "m2",
+    "set": "mock-06",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In nature, many plants and animals depend on each other. Bees get food from flowers. In return, they carry pollen from one flower to another, which helps the plants make fruit. Birds eat fruits and spread the seeds in new places. When one of these living things disappears, others suffer as well. This shows that living things __________.",
+    "options": [
+      "can live better without other species",
+      "need less food in winter than in summer",
+      "depend on each other for survival",
+      "always move to a new place every year",
+      "grow faster when they are alone"
+    ],
+    "answer": 2,
+    "translation": "자연에서 많은 식물과 동물은 서로에게 의존한다. 벌은 꽃에서 먹이를 얻고 그 대가로 한 꽃에서 다른 꽃으로 꽃가루를 옮겨 식물이 열매를 맺게 돕는다. 새는 열매를 먹고 씨앗을 새로운 곳에 퍼뜨린다. 이런 생물 중 하나가 사라지면 다른 생물도 고통받는다. 이는 생물이 생존을 위해 서로 의존한다는 것을 보여 준다.",
+    "why": "벌과 꽃, 새와 열매가 서로 도우며 한쪽이 사라지면 다른 쪽이 고통받는다는 내용이므로 서로 의존한다는 말이 알맞습니다.",
+    "optionNotes": [
+      "다른 종 없이 더 잘 산다는 것은 글과 반대입니다.",
+      "겨울과 여름의 먹이는 나오지 않습니다.",
+      "정답. 생존을 위해 서로 의존합니다.",
+      "매년 이동한다는 내용은 없습니다.",
+      "혼자일 때 더 빨리 자란다는 것은 글과 반대입니다."
+    ],
+    "trap": "①과 ⑤는 글의 방향과 반대되는 보기입니다.",
+    "tip": "'This shows that ~' 빈칸은 앞의 사례 모두를 포괄하는 일반화 표현입니다."
+  },
+  {
+    "id": "m2-06-35",
+    "level": "m2",
+    "set": "mock-06",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Regular exercise is good for students' studies. ① It increases blood flow to the brain, which improves memory. ② Students who exercise tend to concentrate better in class. ③ It also reduces stress before exams. ④ The Olympic Games are held every four years. ⑤ Therefore, even a short walk every day can help you learn better.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "규칙적인 운동은 학생들의 공부에 좋다. ① 뇌로 가는 혈류를 늘려 기억력을 높인다. ② 운동하는 학생들은 수업 시간에 더 잘 집중하는 경향이 있다. ③ 또한 시험 전의 스트레스를 줄여 준다. ④ 올림픽은 4년마다 열린다. ⑤ 그러므로 매일 짧게 걷는 것만으로도 더 잘 배우는 데 도움이 될 수 있다.",
+    "why": "글은 운동이 공부에 주는 이점을 설명하는데 ④는 올림픽 개최 주기 이야기라 흐름과 관계가 없습니다.",
+    "optionNotes": [
+      "운동의 이점(기억력)입니다.",
+      "운동의 이점(집중)입니다.",
+      "운동의 이점(스트레스 감소)입니다.",
+      "정답(무관). 올림픽 이야기입니다.",
+      "결론입니다."
+    ],
+    "trap": "'exercise'와 연관된 올림픽이라 자연스러워 보이지만 학업과는 무관합니다.",
+    "tip": "무관한 문장은 소재가 연관되어도 논점을 이어 가지 않습니다."
+  },
+  {
+    "id": "m2-06-36",
+    "level": "m2",
+    "set": "mock-06",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Honeybees live in groups, and each bee has its own job to do for the whole hive.\n(A) Young bees clean the hive and feed the babies.\n(B) Finally, the oldest bees fly out to collect nectar from flowers far away from the hive.\n(C) As they grow older, they begin to guard the entrance of the hive.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "꿀벌은 무리를 지어 살며 각 벌에게는 전체 벌집을 위해 저마다 해야 할 일이 있다. (A) 어린 벌은 벌집을 청소하고 애벌레를 먹인다. (C) 나이가 들면 벌집 입구를 지키기 시작한다. (B) 마지막으로 가장 나이 든 벌은 꽃에서 꿀물을 모으러 밖으로 날아간다.",
+    "why": "(A) 어린 벌의 일 → (C) 'As they grow older' 입구 경비 → (B) 'Finally, the oldest' 꿀 채집 순서입니다.",
+    "optionNotes": [
+      "정답. 어린 벌 → 나이 듦 → 가장 나이 든 벌.",
+      "(B)의 Finally가 처음에 올 수 없습니다.",
+      "(B)가 (A) 앞에 오면 'the oldest'가 먼저 나와 어색합니다.",
+      "(C)의 'they'가 가리킬 어린 벌이 앞에 없습니다.",
+      "(C)의 'they'가 가리킬 어린 벌이 앞에 없습니다."
+    ],
+    "trap": "(C)의 'they'가 가리킬 대상은 (A)의 young bees입니다.",
+    "tip": "As they grow older → Finally, the oldest의 시간 순서를 확인하세요."
+  },
+  {
+    "id": "m2-06-37",
+    "level": "m2",
+    "set": "mock-06",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Many people think that the tongue has separate zones for different tastes, such as sweet, sour, and bitter.\n(A) In fact, every part of the tongue can detect all of the basic tastes.\n(B) Therefore, you can taste sweet things even with the sides of your tongue.\n(C) However, scientists have shown that this idea is a myth.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 3,
+    "translation": "많은 사람들은 혀에 맛마다 구역이 따로 있다고 생각한다. (C) 하지만 과학자들은 이 생각이 근거 없는 이야기임을 보여 주었다. (A) 사실 혀의 모든 부분이 기본 맛을 모두 감지할 수 있다. (B) 그러므로 혀의 옆쪽으로도 단것을 느낄 수 있다.",
+    "why": "(C) 'However'로 통념을 반박 → (A) 'In fact'로 사실 설명 → (B) 'Therefore'로 결론 순서입니다.",
+    "optionNotes": [
+      "(A)의 'In fact'가 반박 전에 올 수 없습니다.",
+      "(B)의 'Therefore'가 근거 없이 처음에 올 수 없습니다.",
+      "(B)가 (C) 바로 뒤에 오면 근거(A)가 빠집니다.",
+      "정답. 반박 → 사실 → 결론.",
+      "(B)의 'Therefore'가 (A)의 근거 앞에 올 수 없습니다."
+    ],
+    "trap": "(A)의 'In fact'는 앞의 'However' 문장 뒤에서 사실을 설명합니다.",
+    "tip": "However(반박) → In fact(사실) → Therefore(결론)의 흐름을 확인하세요."
+  },
+  {
+    "id": "m2-06-38",
+    "level": "m2",
+    "set": "mock-06",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nFor this reason, many experts suggest keeping a regular bedtime.\n\n[글]\nOur body clock works best when we go to bed and wake up at the same time every day. ( ① ) When our sleep schedule changes, the body clock gets confused. ( ② ) We may feel sleepy during the day and wide awake at night. ( ③ ) Studies show that students with irregular sleep schedules get lower grades. ( ④ ) Even a difference of one hour can matter. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "[주어진 문장] 이런 이유로 많은 전문가들은 규칙적인 취침 시간을 지키라고 권한다. [글] 우리의 체내 시계는 매일 같은 시간에 자고 일어날 때 가장 잘 작동한다. 수면 일정이 바뀌면 체내 시계가 혼란스러워진다. 우리는 낮에는 졸리고 밤에는 말똥말똥할 수 있다. 연구에 따르면 수면 일정이 불규칙한 학생들은 성적이 더 낮다. 한 시간 차이도 중요할 수 있다.",
+    "why": "'For this reason'은 앞의 모든 문제(시계 혼란, 졸림, 낮은 성적, 한 시간 차이의 영향)를 근거로 권고를 제시하므로 마지막 ⑤에 들어갑니다.",
+    "optionNotes": [
+      "근거가 나오기 전이라 권고하기 이릅니다.",
+      "혼란이 언급된 직후지만 이후 근거가 더 이어집니다.",
+      "졸림 설명 뒤지만 연구 결과가 남아 있습니다.",
+      "연구 결과 직후지만 '한 시간 차이'라는 마지막 근거가 남아 있습니다.",
+      "정답. 모든 근거를 제시한 뒤 권고합니다."
+    ],
+    "trap": "④도 연구 결과 뒤라 맞아 보이지만, 마지막 근거(Even a difference of one hour)까지 나온 뒤가 자연스럽습니다.",
+    "tip": "'For this reason'은 충분한 근거를 제시한 뒤의 결론·권고 앞에 옵니다."
+  },
+  {
+    "id": "m2-06-39",
+    "level": "m2",
+    "set": "mock-06",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nHowever, this is not always the case.\n\n[글]\nMany people believe that expensive products are always better. ( ① ) In a blind test, people could not tell the difference between cheap juice and expensive juice. ( ② ) Some even preferred the cheaper one. ( ③ ) This suggests that price can strongly influence our opinion. ( ④ ) So it is wise to check quality, not just price. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "[주어진 문장] 하지만 항상 그런 것은 아니다. [글] 많은 사람들은 비싼 제품이 항상 더 좋다고 믿는다. 블라인드 테스트에서 사람들은 싼 주스와 비싼 주스의 차이를 구별하지 못했다. 어떤 사람들은 더 싼 것을 선호하기도 했다. 이는 가격이 우리의 의견에 강하게 영향을 줄 수 있음을 시사한다. 그러므로 가격만이 아니라 품질도 확인하는 것이 현명하다.",
+    "why": "'However, this is not always the case.'의 'this'는 첫 문장의 믿음을 가리키므로 ①에 들어갑니다.",
+    "optionNotes": [
+      "정답. 첫 문장의 믿음을 바로 반박합니다.",
+      "실험 결과 뒤라 반박이 이미 나왔습니다.",
+      "일부 선호 결과 뒤라 어색합니다.",
+      "결론 해석 뒤라 어색합니다.",
+      "결론 뒤라 어색합니다."
+    ],
+    "trap": "'However'가 있는 보기를 실험 결과 쪽에 넣기 쉽지만 'this'가 가리키는 믿음이 첫 문장입니다.",
+    "tip": "'this is not always the case'는 바로 앞의 일반적인 믿음을 가리킵니다."
+  },
+  {
+    "id": "m2-06-40",
+    "level": "m2",
+    "set": "mock-06",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Researchers compared two ways of studying. One group of students read a chapter twice. The other group read it once and then explained it to a friend in their own words. A week later, the second group remembered much more of the chapter than the first group. Explaining helped them find what they did not understand and fix it.\n\n▶ (A) what you learn to others helps you (B) it better.",
+    "options": [
+      "(A) hiding — (B) forget",
+      "(A) copying — (B) skip",
+      "(A) reading — (B) hear",
+      "(A) memorizing — (B) avoid",
+      "(A) explaining — (B) remember"
+    ],
+    "answer": 4,
+    "translation": "연구자들은 두 가지 공부 방법을 비교했다. 한 집단의 학생들은 한 장을 두 번 읽었다. 다른 집단은 한 번 읽은 뒤 친구에게 자기 말로 설명했다. 일주일 뒤 두 번째 집단이 첫 번째 집단보다 그 장을 훨씬 더 많이 기억했다. 설명하는 것은 이해하지 못한 부분을 찾아 고치도록 도왔다. ▶ 배운 것을 다른 사람에게 설명하면 그것을 더 잘 기억하도록 도와준다.",
+    "why": "친구에게 설명한 집단이 더 잘 기억했으므로 (A)는 explaining, (B)는 remember입니다.",
+    "optionNotes": [
+      "숨기는 것은 글과 맞지 않습니다.",
+      "베끼는 것은 글에 나오지 않습니다.",
+      "읽는 것과 듣는 것은 글의 비교가 아닙니다.",
+      "외우기를 피한다는 내용은 없습니다.",
+      "정답. 설명하면 더 잘 기억합니다."
+    ],
+    "trap": "'reading'은 첫 번째 집단의 방법입니다. 효과가 좋았던 방법을 고르세요.",
+    "tip": "요약문은 효과가 있었던 집단의 방법과 결과를 짝지으세요."
+  }
+]
