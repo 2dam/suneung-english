@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m3-02-29",
+    "level": "m3",
+    "set": "mock-02",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Visitors to the National Art Museum {1|are asked} to leave their bags at the entrance. The museum, {2|which} was built in 1920, has {3|collected} more than ten thousand paintings over the years. Many of them are displayed in rooms {4|designing} by famous architects. Last year, the museum introduced a free audio guide, {5|making} it easier for visitors to learn about each work.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "국립 미술관의 방문객은 입구에 가방을 맡기도록 요청받는다. 1920년에 지어진 그 미술관은 여러 해에 걸쳐 만 점이 넘는 그림을 수집해 왔다. 그중 많은 작품은 유명한 건축가들이 설계한 방에 전시되어 있다. 지난해 미술관은 무료 오디오 가이드를 도입해 방문객이 각 작품에 대해 알기 더 쉽게 만들었다.",
+    "why": "rooms는 건축가에 의해 '설계된' 것이므로 수동의 과거분사 designed가 되어야 합니다. designing은 능동입니다.",
+    "optionNotes": [
+      "방문객이 요청받는 것이므로 수동태 are asked가 맞습니다.",
+      "선행사 The museum 뒤의 계속적 용법 관계대명사 which가 맞습니다.",
+      "현재완료 has collected가 맞습니다.",
+      "정답(틀린 것). rooms are designed by ~, 즉 designed가 와야 합니다.",
+      "앞 절 전체를 결과로 이어 주는 분사구문 making이 맞습니다."
+    ],
+    "trap": "'by famous architects'가 뒤에 있어 수동을 확인할 수 있지만, 형용사처럼 읽혀 designing도 자연스럽게 느껴질 수 있습니다.",
+    "tip": "분사의 능동·수동은 수식받는 명사가 그 행위를 '하는지' '받는지'로 판단하세요."
+  },
+  {
+    "id": "m3-02-30",
+    "level": "m3",
+    "set": "mock-02",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Microplastics are {1|huge} pieces of plastic that are smaller than five millimeters. They come from broken bottles, synthetic clothes, and even cosmetics. When they flow into rivers and oceans, fish and other animals often {2|swallow} them by mistake. As a result, microplastics can enter the human food chain. Scientists are {3|concerned} about their long-term effects on health, although more research is still needed. In the meantime, simple actions such as {4|reducing} the use of disposable plastic can {5|lower} the amount that ends up in nature.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "미세 플라스틱은 5밀리미터보다 작은 거대한 플라스틱 조각이다. 그것들은 깨진 병, 합성 섬유 옷, 심지어 화장품에서도 나온다. 강과 바다로 흘러 들어가면 물고기와 다른 동물들이 실수로 그것을 삼키는 경우가 많다. 그 결과 미세 플라스틱은 인간의 먹이 사슬에 들어올 수 있다. 과학자들은 건강에 미치는 장기적인 영향을 우려하지만 더 많은 연구가 필요하다. 그동안 일회용 플라스틱 사용을 줄이는 것 같은 간단한 행동은 자연에 흘러 들어가는 양을 낮출 수 있다.",
+    "why": "5밀리미터보다 작은 조각이라고 했으므로 huge(거대한)가 아니라 tiny(아주 작은)여야 합니다.",
+    "optionNotes": [
+      "정답(부적절). 5밀리미터보다 작다고 했으므로 tiny가 와야 합니다.",
+      "동물이 실수로 삼킨다는 의미로 swallow가 적절합니다.",
+      "건강에 미치는 영향을 우려한다는 의미로 concerned가 적절합니다.",
+      "일회용 플라스틱을 줄이는 행동이라는 의미로 reducing이 적절합니다.",
+      "자연에 들어가는 양을 낮춘다는 의미로 lower가 적절합니다."
+    ],
+    "trap": "'huge pieces'가 문법적으로 자연스러워 보이지만, 바로 뒤의 'smaller than five millimeters'와 모순됩니다.",
+    "tip": "어휘 문제는 같은 문장 안의 수치·크기 표현과 의미가 모순되지 않는지 확인하세요."
+  },
+  {
+    "id": "m3-02-31",
+    "level": "m3",
+    "set": "mock-02",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In many workplaces, people stay late to show their dedication. However, studies show that long hours do not always lead to better results. After a certain point, tiredness lowers concentration, and mistakes increase. A person who finishes the same work efficiently in less time is often more valuable than one who looks busy all day. This is why some companies have begun to adopt shorter workweeks. Real productivity should be judged by __________ rather than by the time spent.",
+    "options": [
+      "the total number of meetings attended each week",
+      "the overall length of the working hours",
+      "the size and location of the office space",
+      "the opinions of colleagues and the manager",
+      "the quality of the results achieved"
+    ],
+    "answer": 4,
+    "translation": "많은 직장에서 사람들은 헌신을 보여 주려고 늦게까지 남는다. 그러나 연구에 따르면 긴 노동 시간이 항상 더 좋은 결과로 이어지는 것은 아니다. 어느 시점이 지나면 피로가 집중력을 떨어뜨리고 실수가 늘어난다. 같은 일을 더 짧은 시간에 효율적으로 끝내는 사람은 하루 종일 바빠 보이는 사람보다 더 가치 있는 경우가 많다. 이것이 일부 회사가 더 짧은 주 근무제를 도입하기 시작한 이유이다. 진짜 생산성은 소비한 시간이 아니라 달성한 결과의 질로 판단되어야 한다.",
+    "why": "시간이 아니라 결과가 중요하다는 흐름이므로 빈칸에는 '성취한 결과의 질'이 알맞습니다.",
+    "optionNotes": [
+      "회의 횟수는 글에 나오지 않습니다.",
+      "근무 시간의 길이는 글이 부정하는 기준입니다.",
+      "사무 공간의 크기는 글에 나오지 않습니다.",
+      "동료의 의견은 글에 나오지 않습니다.",
+      "정답. 시간이 아니라 결과의 질로 판단해야 합니다."
+    ],
+    "trap": "②는 'rather than ~'의 뒤에 이미 나온 개념입니다. 빈칸에는 그와 대비되는 개념이 들어갑니다.",
+    "tip": "'A rather than B'에서 빈칸이 A이면 B(time spent)와 반대되는 개념을 고르세요."
+  },
+  {
+    "id": "m3-02-32",
+    "level": "m3",
+    "set": "mock-02",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Our expectations shape our experiences more than we realize. In one experiment, people tasted the same wine from two bottles. They were told that one bottle was expensive and the other was cheap. Most participants rated the wine from the expensive-labeled bottle as more delicious, even though both bottles held exactly the same wine. Brain scans taken during the tasting showed that the pleasure centers were more active for the 'expensive' wine. The result shows that __________. Our brains combine real sensations with what we already believe.",
+    "options": [
+      "our beliefs can change how we perceive things",
+      "expensive wine always tastes better than cheaper wine",
+      "people have different tastes depending on their age",
+      "tasting experts are less influenced by labels",
+      "sensations are always identical for everyone"
+    ],
+    "answer": 0,
+    "translation": "우리의 기대는 우리가 깨닫는 것보다 더 많이 우리의 경험을 형성한다. 한 실험에서 사람들이 두 병의 같은 와인을 맛보았다. 그들은 한 병은 비싸고 다른 병은 싸다는 말을 들었다. 대부분의 참가자는 두 병에 정확히 같은 와인이 들어 있었는데도 비싸다고 표시된 병의 와인이 더 맛있다고 평가했다. 맛보는 동안 찍은 뇌 스캔은 '비싼' 와인에서 쾌감 중추가 더 활발했음을 보여 주었다. 이 결과는 미리 믿는 것이 우리가 사물을 인식하는 방식을 바꿀 수 있음을 보여 준다. 우리의 뇌는 실제 감각과 이미 믿고 있는 것을 결합한다.",
+    "why": "같은 와인이 가격 표시만으로 더 맛있게 평가되었으므로, 사전의 믿음이 인식을 바꾼다는 결론이 알맞습니다.",
+    "optionNotes": [
+      "정답. 기대가 인식을 바꿉니다.",
+      "비싼 와인이 항상 맛있다는 결과가 아니라 같은 와인이었습니다.",
+      "나이에 따른 입맛 차이는 언급되지 않았습니다.",
+      "전문가에 대한 내용은 언급되지 않았습니다.",
+      "감각이 모두에게 같다는 내용은 결과와 반대입니다."
+    ],
+    "trap": "②는 'expensive wine'이 맛있다는 결과를 일반화한 보기이지만, 실험은 같은 와인을 사용했습니다.",
+    "tip": "실험 결과 요약 빈칸은 변인(가격 표시)이 결과(평가)를 바꿨다는 인과를 일반화하세요."
+  },
+  {
+    "id": "m3-02-33",
+    "level": "m3",
+    "set": "mock-02",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Some languages have many different words for snow, while others have only one or two. Researchers have found that speakers of languages with more snow words can distinguish between types of snow more quickly. In another study, people who speak languages with separate words for light blue and dark blue were faster at telling similar blues apart. The difference appeared even when the speakers looked at exactly the same pictures. These findings suggest that language __________. In other words, the words we have affect what we notice.",
+    "options": [
+      "influences how we notice the world",
+      "is a tool that only experts can fully master",
+      "is gradually becoming simpler as time passes",
+      "makes it difficult to learn about other cultures",
+      "determines the weather conditions of a region"
+    ],
+    "answer": 0,
+    "translation": "어떤 언어는 눈을 나타내는 단어가 많지만 다른 언어는 한두 개뿐이다. 연구자들은 눈을 나타내는 단어가 더 많은 언어의 사용자가 눈의 종류를 더 빨리 구분할 수 있다는 것을 발견했다. 다른 연구에서는 밝은 파랑과 어두운 파랑에 별도의 단어가 있는 언어를 쓰는 사람들이 비슷한 파란색을 더 빨리 구분했다. 그 차이는 화자들이 정확히 같은 그림을 볼 때에도 나타났다. 이 발견은 언어가 우리가 세상을 인식하고 생각하는 방식에 영향을 준다는 것을 시사한다. 다시 말해 우리가 가진 단어는 우리가 알아차리는 것에 영향을 준다.",
+    "why": "단어가 많을수록 구분이 빠르다는 두 연구 결과를 일반화하면 언어가 인식과 사고에 영향을 준다는 결론입니다.",
+    "optionNotes": [
+      "정답. 단어가 인식에 영향을 줍니다.",
+      "전문가만 익힐 수 있다는 내용은 없습니다.",
+      "언어가 단순해진다는 내용은 없습니다.",
+      "문화 학습이 어렵다는 내용은 없습니다.",
+      "날씨를 결정한다는 내용은 없습니다."
+    ],
+    "trap": "'snow'라는 소재 때문에 ⑤(날씨)를 고르기 쉽지만, 글은 인식의 차이를 다룹니다.",
+    "tip": "마지막 문장 'In other words'는 빈칸의 내용을 다시 풀어 쓴 문장입니다. 이를 먼저 읽으세요."
+  },
+  {
+    "id": "m3-02-34",
+    "level": "m3",
+    "set": "mock-02",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In an age of instant messages, a handwritten letter feels special because it takes time and effort. Typing a short message may take a few seconds, but writing a letter can take an entire evening. The sender must choose a piece of paper, think carefully about each sentence, and send it through the mail. The receiver can see the handwriting, which carries the writer's personality. Many people keep such letters for decades and read them again on difficult days. In this way, a letter is not only a message but also __________.",
+    "options": [
+      "a quick way to spread news to many people",
+      "a cheap kind of advertisement for small shops",
+      "a tool for learning correct spelling and grammar",
+      "a lasting expression of care and attention from the writer",
+      "a habit that most people have already forgotten"
+    ],
+    "answer": 3,
+    "translation": "즉각적인 메시지의 시대에 손으로 쓴 편지는 시간과 노력이 들기 때문에 특별하게 느껴진다. 짧은 메시지를 치는 데는 몇 초면 되지만 편지를 쓰는 데는 저녁 내내 걸릴 수 있다. 보내는 사람은 종이를 고르고, 각 문장을 신중하게 생각하고, 우편으로 보내야 한다. 받는 사람은 글쓴이의 개성이 담긴 필체를 볼 수 있다. 많은 사람들은 그런 편지를 수십 년 동안 간직하고 힘든 날에 다시 읽는다. 이런 의미에서 편지는 단지 메시지일 뿐 아니라 배려와 관심을 오래도록 담은 표현이기도 하다.",
+    "why": "편지가 시간과 노력을 들인 것이고 오래 간직된다는 내용이므로 '배려와 관심의 오래 남는 표현'이 알맞습니다.",
+    "optionNotes": [
+      "빠르게 소식을 전한다는 내용은 글과 반대입니다.",
+      "광고는 언급되지 않았습니다.",
+      "철자·문법 학습은 언급되지 않았습니다.",
+      "정답. 노력과 관심이 담겨 오래 간직되는 표현입니다.",
+      "사람들이 잊었다는 내용은 글과 반대입니다."
+    ],
+    "trap": "①은 '메시지'라는 단어와 연결되지만, 글은 오히려 빠르지 않아서 특별하다고 말합니다.",
+    "tip": "'not only A but also B'에서 B는 A보다 한 단계 깊은 의미를 담은 표현입니다."
+  },
+  {
+    "id": "m3-02-35",
+    "level": "m3",
+    "set": "mock-02",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Learning a second language brings benefits that go far beyond communication. ① Studies suggest that bilingual people are better at switching attention between tasks. ② Some languages are written from right to left, while others are written from left to right. ③ Learning a new language also exposes you to different cultures and ways of thinking. ④ In addition, it may delay the signs of memory decline in old age. ⑤ For these reasons, many schools encourage students to start learning another language early.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "제2언어를 배우는 것은 의사소통을 훨씬 넘어서는 이점을 가져온다. ① 연구에 따르면 이중 언어 사용자는 과제 사이에서 주의를 전환하는 데 더 능숙하다. ② 어떤 언어는 오른쪽에서 왼쪽으로 쓰고 다른 언어는 왼쪽에서 오른쪽으로 쓴다. ③ 새로운 언어를 배우는 것은 또한 다른 문화와 사고방식을 접하게 한다. ④ 게다가 노년기 기억력 감퇴의 징후를 늦출 수도 있다. ⑤ 이런 이유로 많은 학교가 학생들이 다른 언어를 일찍 배우기 시작하도록 권장한다.",
+    "why": "글은 제2언어 학습의 이점을 설명하는데 ②는 문자의 쓰는 방향을 말해 흐름과 관계가 없습니다.",
+    "optionNotes": [
+      "주의 전환 능력이라는 이점입니다.",
+      "정답(무관). 언어의 쓰는 방향은 이점과 관계가 없습니다.",
+      "다른 문화를 접하는 이점입니다.",
+      "기억력 감퇴를 늦춘다는 이점입니다.",
+      "이점을 정리하는 결론입니다."
+    ],
+    "trap": "'language'라는 같은 소재가 나오지만 이점을 설명하는 문장이 아닙니다.",
+    "tip": "무관한 문장은 같은 화제어를 쓰지만 글의 논점('benefits')을 이어 가지 않습니다."
+  },
+  {
+    "id": "m3-02-36",
+    "level": "m3",
+    "set": "mock-02",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Most people throw away old smartphones after two or three years, and millions of them are discarded every year.\n(A) If they are recycled properly, these metals can be reused to make new devices, and the process uses far less energy than mining.\n(B) As a result, less mining is needed, which protects forests and rivers.\n(C) However, these devices contain valuable metals such as gold and copper. In fact, a ton of old phones can contain more gold than a ton of ore.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 3,
+    "translation": "대부분의 사람들은 오래된 스마트폰을 2~3년 후에 버리며, 해마다 수백만 대가 버려진다. (C) 하지만 이 기기들에는 금과 구리 같은 귀중한 금속이 들어 있다. 사실 낡은 휴대전화 1톤에는 광석 1톤보다 더 많은 금이 들어 있을 수 있다. (A) 제대로 재활용되면 이 금속들은 새 기기를 만드는 데 다시 쓰일 수 있고, 그 과정은 채굴보다 에너지를 훨씬 적게 쓴다. (B) 그 결과 채굴이 덜 필요해져 숲과 강이 보호된다.",
+    "why": "(C)의 'However'가 버린다는 내용과 대비되고, (A)의 'these metals'가 (C)의 금속을 받으며, (B)의 'As a result'가 결과를 말합니다.",
+    "optionNotes": [
+      "(A)의 'these metals'가 가리킬 금속이 (C)에 먼저 나와야 합니다.",
+      "(B)의 'As a result'가 가리킬 원인이 앞에 없습니다.",
+      "(B)의 'As a result'가 가리킬 원인이 앞에 없습니다.",
+      "정답. 대비 → 재활용 가능성 → 결과.",
+      "(B)는 (A)의 재활용을 전제로 하므로 (A) 뒤에 와야 합니다."
+    ],
+    "trap": "(B)는 결과이므로 마지막처럼 보이지만, (A)와 (C)의 순서는 'these metals'로 정해집니다.",
+    "tip": "However(대비) → these + 명사(지시) → As a result(결과)의 순서를 확인하세요."
+  },
+  {
+    "id": "m3-02-37",
+    "level": "m3",
+    "set": "mock-02",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Dolphins are known for their remarkable intelligence, and scientists have studied how they think and learn for decades.\n(A) Researchers therefore believe that dolphins may understand more about themselves than we once thought, and they continue to study this ability.\n(B) In experiments, they have learned to recognize themselves in a mirror and to understand simple symbols. A mark was placed on their skin. They checked it in the mirror.\n(C) This ability, found in only a few animals, suggests a high level of self-awareness.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 2,
+    "translation": "돌고래는 놀라운 지능으로 알려져 있으며, 과학자들은 수십 년 동안 그들이 어떻게 생각하고 배우는지 연구해 왔다. (B) 실험에서 그들은 거울 속의 자신을 알아보고 간단한 기호를 이해하는 법을 배웠다. 그들의 피부에 표시가 되었고, 그들은 거울로 그것을 확인했다. (C) 몇몇 동물에게서만 발견되는 이 능력은 높은 수준의 자기 인식을 시사한다. (A) 따라서 연구자들은 돌고래가 우리가 한때 생각했던 것보다 자신에 대해 더 많이 이해할지도 모른다고 믿으며, 이 능력을 계속 연구하고 있다.",
+    "why": "(B)에서 거울 실험을 소개하고, (C)의 'This ability'가 이를 받아 의미를 설명하며, (A)의 'therefore'가 결론을 내립니다.",
+    "optionNotes": [
+      "(A)의 'therefore'가 가리킬 근거가 앞에 없습니다.",
+      "(A)의 'therefore'가 가리킬 근거가 (C)에 있어야 하므로 (C)가 먼저 와야 합니다.",
+      "정답. 실험 → 의미 → 결론.",
+      "(C)의 'This ability'가 가리킬 능력이 앞에 없습니다.",
+      "(C)의 'This ability'가 가리킬 능력이 앞에 없습니다."
+    ],
+    "trap": "(A)는 'dolphins'로 시작해 처음처럼 보이지만, 'therefore'가 앞의 근거를 요구합니다.",
+    "tip": "this + 명사(This ability)와 therefore는 앞 내용을 가리키는 강한 연결 고리입니다."
+  },
+  {
+    "id": "m3-02-38",
+    "level": "m3",
+    "set": "mock-02",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nIn contrast, the other group, which had received no hints, gave up much sooner.\n\n[글]\nIn a study of problem solving, researchers divided students into two groups. ( ① ) Both groups were given the same difficult puzzle. ( ② ) One group received small hints every few minutes. ( ③ ) These students kept trying for more than an hour. ( ④ ) Researchers concluded that small hints can keep motivation high. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "[주어진 문장] 반면에 힌트를 전혀 받지 못한 다른 그룹은 훨씬 더 일찍 포기했다. [글] 문제 해결에 관한 한 연구에서 연구자들은 학생들을 두 그룹으로 나누었다. 두 그룹 모두 같은 어려운 퍼즐을 받았다. 한 그룹은 몇 분마다 작은 힌트를 받았다. 이 학생들은 한 시간 넘게 계속 시도했다. 연구자들은 작은 힌트가 동기를 높게 유지할 수 있다고 결론지었다.",
+    "why": "'In contrast'는 힌트를 받은 그룹이 오래 시도했다는 문장 바로 뒤에서 다른 그룹과 대비되므로 ④에 들어갑니다.",
+    "optionNotes": [
+      "두 그룹을 나눈 직후라서 대비할 내용이 아직 없습니다.",
+      "한 그룹의 조건이 나오기 전이라 'the other group'이 모호합니다.",
+      "'These students'가 가리키는 대상이 힌트를 받은 그룹이므로, 그 앞에 끼어들면 안 됩니다.",
+      "정답. 한 그룹의 결과 뒤에 대조되는 그룹을 소개합니다.",
+      "결론 뒤에 오면 흐름이 맞지 않습니다."
+    ],
+    "trap": "③은 힌트를 받은 그룹 설명 뒤라 맞아 보이지만, 그렇게 하면 'These students'가 힌트를 받지 않은 그룹을 가리키게 됩니다.",
+    "tip": "주어진 문장의 'In contrast'는 바로 앞에 결과가 나온 뒤에 놓이며, 뒤 문장의 지시어(These)가 끊기지 않는지 확인하세요."
+  },
+  {
+    "id": "m3-02-39",
+    "level": "m3",
+    "set": "mock-02",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nTherefore, many people have started to look for other ways to travel.\n\n[글]\nMany cities have been struggling with heavy traffic. ( ① ) The number of cars on the road has increased every year. ( ② ) As a result, drivers spend about an hour a day in traffic jams. ( ③ ) Bicycles, subways, and shared scooters have become more popular. ( ④ ) Some cities even offer free bike rentals to encourage this change. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 그래서 많은 사람들이 다른 이동 방법을 찾기 시작했다. [글] 많은 도시가 심한 교통 체증으로 어려움을 겪고 있다. 도로 위의 자동차 수는 해마다 늘어났다. 그 결과 운전자들은 하루에 약 한 시간을 교통 체증 속에서 보낸다. 자전거, 지하철, 공유 킥보드가 더 인기를 얻고 있다. 일부 도시는 이런 변화를 장려하려고 무료 자전거 대여까지 제공한다.",
+    "why": "'Therefore'는 하루 한 시간을 교통 체증에서 보낸다는 결과 뒤에 이어지고, 다음 문장이 대안 교통수단의 인기를 설명합니다.",
+    "optionNotes": [
+      "교통 체증의 원인이 나오기 전이라 'Therefore'가 어색합니다.",
+      "'As a result' 문장 앞이라 순서가 뒤바뀝니다.",
+      "정답. 체증이라는 결과 뒤에 대안을 찾는 결론이 이어집니다.",
+      "대안이 이미 설명된 뒤라서 'Therefore'가 중복됩니다.",
+      "마지막 문장 뒤에 오면 흐름이 맞지 않습니다."
+    ],
+    "trap": "④는 'other ways'와 같은 내용이 바로 뒤에 있어 후보로 보이지만, 'Therefore'는 원인 뒤에 와야 합니다.",
+    "tip": "Therefore/As a result는 원인이 먼저 나온 뒤에 놓입니다. 인과 사슬의 순서를 확인하세요."
+  },
+  {
+    "id": "m3-02-40",
+    "level": "m3",
+    "set": "mock-02",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In a study, strangers were paired up and asked to watch a short video together. Half of the pairs watched a funny comedy clip, and the other half watched a serious documentary. Afterward, the pairs who had laughed together said they felt much closer to each other and were more willing to share personal stories. The researchers explained that shared laughter sends a signal of trust, making people feel they are on the same side.\n\n▶ Sharing (A) can make people feel (B) to each other.",
+    "options": [
+      "(A) sadness — (B) farther",
+      "(A) laughter — (B) closer",
+      "(A) silence — (B) closer",
+      "(A) laughter — (B) colder",
+      "(A) work — (B) farther"
+    ],
+    "answer": 1,
+    "translation": "한 연구에서 낯선 사람들이 짝을 이루어 짧은 영상을 함께 보게 했다. 절반의 짝은 웃긴 코미디 영상을, 나머지 절반은 진지한 다큐멘터리를 보았다. 이후 함께 웃은 짝들은 서로 훨씬 더 가깝게 느낀다고 말했고 개인적인 이야기를 더 기꺼이 나누려 했다. 연구자들은 함께 웃는 것이 신뢰의 신호를 보내 같은 편이라고 느끼게 한다고 설명했다. ▶ 웃음을 함께 나누는 것은 서로를 더 가깝게 느끼게 할 수 있다.",
+    "why": "함께 웃은 짝들이 서로 더 가깝게 느꼈으므로 (A)는 laughter, (B)는 closer입니다.",
+    "optionNotes": [
+      "슬픔과 멀게 느낌은 글에 나오지 않습니다.",
+      "정답. 함께 웃으면 더 가깝게 느낍니다.",
+      "침묵은 글에 나오지 않습니다.",
+      "colder는 글의 결과와 반대입니다.",
+      "일과 멀게 느낌은 글에 나오지 않습니다."
+    ],
+    "trap": "(A)가 laughter인 ④를 고르기 쉽지만 (B)가 colder라 결과와 반대입니다.",
+    "tip": "요약문은 연구 결과(feel much closer)를 그대로 옮긴 표현을 고르세요."
+  }
+]

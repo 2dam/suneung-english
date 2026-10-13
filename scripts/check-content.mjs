@@ -72,6 +72,13 @@ for (const q of questions) {
   if (!Number.isInteger(q.answer) || q.answer < 0 || q.answer > 4) err(id, 'answer는 0~4 정수여야 합니다')
   if (!Array.isArray(q.optionNotes) || q.optionNotes.length !== 5) err(id, 'optionNotes는 정확히 5개여야 합니다')
   else if (q.optionNotes.some((n) => typeof n !== 'string' || n.trim() === '')) err(id, '빈 보기 해설이 있습니다')
+  // 정답 해설은 반드시 정답 위치에 있어야 한다("정답"이 들어간 보기 해설이 answer 위치 하나뿐)
+  if (Array.isArray(q.optionNotes) && q.optionNotes.length === 5 && Number.isInteger(q.answer)) {
+    const marked = q.optionNotes.map((n, i) => (typeof n === 'string' && n.includes('정답') ? i : -1)).filter((i) => i >= 0)
+    if (marked.length !== 1 || marked[0] !== q.answer) {
+      err(id, `정답 해설 위치가 answer(${q.answer + 1}번)와 다릅니다 (정답 표시: ${marked.map((i) => i + 1).join(',') || '없음'})`)
+    }
+  }
   if (!q.why) err(id, 'why(정답 근거)가 없습니다')
   if (!q.translation) warn(id, 'translation(해석)이 없습니다')
   if (!q.tip) warn(id, 'tip(전략)이 없습니다')
