@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m3-03-29",
+    "level": "m3",
+    "set": "mock-03",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Bamboo is one of the fastest-growing plants {1|in} the world. Some species can grow nearly one meter in a single day. Because it {2|reaches} maturity in just a few years, bamboo is often used {3|building} houses, furniture, and even bicycles. Many designers regard it as an environmentally friendly material {4|that} can replace wood. If more people {5|used} it, we could protect many forests.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "대나무는 세계에서 가장 빨리 자라는 식물 중 하나이다. 일부 종은 하루에 거의 1미터까지 자랄 수 있다. 몇 년 만에 성숙기에 이르기 때문에 대나무는 집, 가구, 심지어 자전거를 만드는 데 자주 쓰인다. 많은 디자이너는 그것을 나무를 대체할 수 있는 친환경 소재로 여긴다. 더 많은 사람이 그것을 쓴다면 우리는 많은 숲을 보호할 수 있을 것이다.",
+    "why": "'be used + to V(~하는 데 쓰이다)' 또는 'be used for + -ing'의 형태여야 하므로 building은 to build 또는 for building이어야 합니다.",
+    "optionNotes": [
+      "'one of the ~ plants in the world'가 맞습니다.",
+      "접속사 Because 뒤의 3인칭 단수 현재형 reaches가 맞습니다.",
+      "정답(틀린 것). is used to build 또는 is used for building이어야 합니다.",
+      "선행사 material을 받는 주격 관계대명사 that이 맞습니다.",
+      "가정법 과거 'If ~ used, ... could protect'가 맞습니다."
+    ],
+    "trap": "'used building'이 문장 흐름상 자연스러워 보여 놓치기 쉽습니다. 수동태 + 목적을 나타내는 to부정사입니다.",
+    "tip": "be used to V(~하는 데 쓰이다)와 be used to -ing(~에 익숙하다)을 구분하세요."
+  },
+  {
+    "id": "m3-03-30",
+    "level": "m3",
+    "set": "mock-03",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Public libraries have long been {1|expensive} places where anyone can read and learn for free. Nowadays, many libraries also {2|offer} digital services such as e-books and online classes. Some of them even lend tools and musical instruments. Librarians say that a library's role is {3|expanding} beyond books. It is becoming a community space where people {4|gather}, share ideas, and {5|develop} new skills.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "공공 도서관은 오래전부터 누구나 무료로 읽고 배울 수 있는 귀중한 장소였다. 오늘날 많은 도서관은 전자책과 온라인 수업 같은 디지털 서비스도 제공한다. 일부는 공구와 악기를 빌려주기도 한다. 사서들은 도서관의 역할이 책을 넘어 확대되고 있다고 말한다. 그것은 사람들이 모여 아이디어를 나누고 새로운 기술을 키우는 지역 사회 공간이 되고 있다.",
+    "why": "'for free'로 누구나 무료로 이용한다고 했으므로 expensive(비싼)가 아니라 valuable(귀중한)이 알맞습니다.",
+    "optionNotes": [
+      "정답(부적절). 무료 이용과 모순되므로 valuable이 와야 합니다.",
+      "디지털 서비스를 제공한다는 의미로 offer가 알맞습니다.",
+      "역할이 확대된다는 의미로 expanding이 알맞습니다.",
+      "사람들이 모인다는 의미로 gather가 알맞습니다.",
+      "기술을 키운다는 의미로 develop이 알맞습니다."
+    ],
+    "trap": "'places where ...'의 구조가 자연스러워 형용사의 뜻을 놓치기 쉽습니다. 'for free'와 모순됩니다.",
+    "tip": "어휘 문제는 같은 문장 안의 단서(for free)와 형용사의 의미가 충돌하는지 확인하세요."
+  },
+  {
+    "id": "m3-03-31",
+    "level": "m3",
+    "set": "mock-03",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In many countries, people have started to repair broken items instead of throwing them away. In \"repair cafés,\" volunteers help fix toasters, clothes, and bicycles for free. Each month, hundreds of people bring their broken things and leave with working ones, and many say they feel proud to have saved them. Participants not only save money but also learn practical skills from the volunteers. More importantly, the repair café movement encourages a change in attitude: seeing objects not as disposable goods but as things __________.",
+    "options": [
+      "that are easily replaced",
+      "that should always be bought new",
+      "that look better when they are broken",
+      "worth caring for and keeping",
+      "made only for a short period of time"
+    ],
+    "answer": 3,
+    "translation": "많은 나라에서 사람들은 고장 난 물건을 버리는 대신 수리하기 시작했다. '수리 카페'에서는 자원봉사자들이 토스터, 옷, 자전거를 무료로 고쳐 준다. 매달 수백 명이 고장 난 물건을 가져와 작동하는 물건을 들고 돌아가며, 많은 이들이 그것을 살려 냈다는 데 자부심을 느낀다고 말한다. 참가자들은 돈을 아낄 뿐 아니라 자원봉사자들에게서 실용적인 기술도 배운다. 더 중요한 것은 수리 카페 운동이 태도의 변화를 이끈다는 점이다. 물건을 일회용품이 아니라 아끼고 간직할 가치가 있는 것으로 보게 한다.",
+    "why": "'not as disposable goods but as things ~'에서 일회용품과 대비되는 '아끼고 간직할 가치가 있는 것'이 알맞습니다.",
+    "optionNotes": [
+      "쉽게 대체되는 것은 disposable과 같은 방향입니다.",
+      "항상 새로 사야 하는 것은 글과 반대입니다.",
+      "고장 났을 때 더 좋아 보인다는 내용은 없습니다.",
+      "정답. 일회용품과 대비되는 가치 있는 물건입니다.",
+      "잠깐 쓰는 물건은 disposable과 같은 방향입니다."
+    ],
+    "trap": "'not A but B'에서 빈칸은 B입니다. A(disposable goods)와 같은 방향의 보기를 고르지 마세요.",
+    "tip": "'not A but B'는 A와 반대 의미를 가진 표현이 B 자리에 옵니다."
+  },
+  {
+    "id": "m3-03-32",
+    "level": "m3",
+    "set": "mock-03",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Studies on happiness show that, once basic needs are met, more money produces only small increases in well-being. What matters more is how we spend our time. Researchers in several countries followed thousands of adults for many years to find out which habits are linked with a happy life. People who spend time with friends and family report much greater satisfaction than those who spend more hours at work. They also say that they feel less stressed. This suggests that __________.",
+    "options": [
+      "relationships contribute more to happiness than wealth does",
+      "working longer hours is the secret to a happy and successful life",
+      "money cannot buy even the most basic needs of ordinary people in a city",
+      "friends are always more expensive to keep than family members are",
+      "happiness is exactly the same for every person in every country"
+    ],
+    "answer": 0,
+    "translation": "행복에 관한 연구에 따르면 기본적인 필요가 충족된 뒤에는 더 많은 돈이 행복을 조금만 증가시킨다. 더 중요한 것은 우리가 시간을 어떻게 쓰느냐이다. 여러 나라의 연구자들은 어떤 습관이 행복한 삶과 관련되는지 알아보려고 수천 명의 성인을 여러 해 동안 추적했다. 친구, 가족과 시간을 보내는 사람들은 일하는 시간이 더 많은 사람들보다 훨씬 더 큰 만족을 보고한다. 그들은 또한 스트레스를 덜 느낀다고 말한다. 이는 인간관계가 부보다 행복에 더 많이 기여한다는 것을 시사한다.",
+    "why": "돈보다 사람과 보내는 시간이 만족을 높인다는 내용이므로 관계가 부보다 행복에 더 기여한다는 결론이 알맞습니다.",
+    "optionNotes": [
+      "정답. 관계가 부보다 행복에 더 기여합니다.",
+      "오래 일하는 것은 글과 반대입니다.",
+      "기본적인 필요를 충족한 뒤라고 했으므로 맞지 않습니다.",
+      "비용 비교는 글에 나오지 않습니다.",
+      "모두 똑같다는 내용은 없습니다."
+    ],
+    "trap": "②는 'more hours at work'를 가져온 보기이지만 글은 이 사람들의 만족이 더 낮다고 합니다.",
+    "tip": "빈칸이 'This suggests that ~'이면 앞의 비교 결과를 그대로 일반화하세요."
+  },
+  {
+    "id": "m3-03-33",
+    "level": "m3",
+    "set": "mock-03",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "When people speak a second language, they often make decisions differently. Studies suggest that using a foreign language creates emotional distance, so decision-makers rely less on feelings and more on logic. For example, people are less likely to be influenced by fear of loss when they think in another language. A similar effect appears in moral choices, where people are less shocked by difficult situations when they use a second language. In other words, a foreign language can help us __________.",
+    "options": [
+      "forget what we have already studied in our native language",
+      "feel more anxious about uncertain risks and possible losses",
+      "make faster and more emotional choices in difficult situations",
+      "think about problems more calmly and logically",
+      "tell more exciting stories to our friends and family members"
+    ],
+    "answer": 3,
+    "translation": "사람들이 제2언어로 말할 때 종종 다르게 결정을 내린다. 연구에 따르면 외국어를 사용하면 감정적 거리가 생겨 의사 결정자가 감정에는 덜 의존하고 논리에 더 의존한다. 예를 들어 사람들은 다른 언어로 생각할 때 손실에 대한 두려움에 덜 영향을 받는다. 비슷한 효과가 도덕적 선택에서도 나타나, 사람들은 제2언어를 쓸 때 어려운 상황에 덜 충격을 받는다. 다시 말해 외국어는 우리가 문제를 더 침착하고 논리적으로 생각하도록 도와줄 수 있다.",
+    "why": "감정적 거리가 생겨 감정보다 논리에 의존한다는 내용을 요약하면 문제를 더 침착하고 논리적으로 생각하게 돕는다는 것입니다.",
+    "optionNotes": [
+      "배운 것을 잊는다는 내용은 없습니다.",
+      "위험에 더 불안해진다는 내용은 글과 반대입니다.",
+      "더 감정적인 선택은 글과 반대입니다.",
+      "정답. 침착하고 논리적으로 생각하도록 돕습니다.",
+      "이야기를 더 흥미롭게 한다는 내용은 없습니다."
+    ],
+    "trap": "③은 'decisions'와 비슷한 어휘이지만 'more emotional'이 글과 반대입니다.",
+    "tip": "'less ~ and more ...'는 빈칸을 채우는 핵심 방향(감정↓, 논리↑)입니다."
+  },
+  {
+    "id": "m3-03-34",
+    "level": "m3",
+    "set": "mock-03",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Plants cannot move, but they respond to their environment in surprising ways. When a plant is attacked by insects, it can release chemicals into the air that warn nearby plants. Scientists first noticed this when they saw that trees growing close to a damaged tree suffered fewer insect bites than trees farther away. The neighbors then produce substances that make their leaves taste bad to the insects. This shows that plants are not just passive organisms; they are able to __________.",
+    "options": [
+      "communicate and react to danger",
+      "choose where they will grow",
+      "hear sounds from far away",
+      "feel pain just as animals do",
+      "remember the place where they were born"
+    ],
+    "answer": 0,
+    "translation": "식물은 움직일 수 없지만 놀라운 방식으로 환경에 반응한다. 식물이 곤충의 공격을 받으면 근처 식물에게 경고하는 화학 물질을 공기 중에 내보낼 수 있다. 과학자들은 손상된 나무 가까이에 자란 나무가 멀리 있는 나무보다 벌레에 덜 물린다는 것을 보고 처음 이를 알아챘다. 이웃 식물은 곤충에게 잎이 맛없게 느껴지게 하는 물질을 만든다. 이는 식물이 단순히 수동적인 생물이 아니라 의사소통하고 위험에 반응할 수 있음을 보여 준다.",
+    "why": "경고 물질을 내보내고 이웃이 방어 물질을 만든다는 내용이므로 의사소통하고 위험에 반응한다는 것이 알맞습니다.",
+    "optionNotes": [
+      "정답. 경고를 주고받으며 위험에 반응합니다.",
+      "어디서 자랄지 고르는 내용은 없습니다.",
+      "소리를 듣는다는 내용은 없습니다.",
+      "고통을 느낀다는 내용은 없습니다.",
+      "태어난 곳을 기억한다는 내용은 없습니다."
+    ],
+    "trap": "③④는 'respond'와 연관된 상식이지만 글에 나오지 않는 능력입니다.",
+    "tip": "빈칸은 앞의 구체적 사례(경고 물질, 방어 물질)를 한 문장으로 일반화한 것입니다."
+  },
+  {
+    "id": "m3-03-35",
+    "level": "m3",
+    "set": "mock-03",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Ocean currents play a major role in controlling the Earth's climate. ① They carry warm water from the equator toward the poles. ② Many people enjoy swimming in the ocean during their summer vacations. ③ In this way, they make cold regions warmer than they would otherwise be. ④ Cold currents, on the other hand, flow toward the equator and cool the coastal areas they pass. ⑤ Thus, changes in these currents can have a serious impact on weather around the world.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "해류는 지구의 기후를 조절하는 데 중요한 역할을 한다. ① 해류는 적도에서 극지방으로 따뜻한 물을 운반한다. ② 많은 사람들이 여름휴가 동안 바다에서 수영을 즐긴다. ③ 이렇게 해서 해류는 추운 지역을 그렇지 않았을 때보다 더 따뜻하게 만든다. ④ 반면 차가운 해류는 적도 쪽으로 흘러 지나가는 해안 지역을 식힌다. ⑤ 그러므로 이런 해류의 변화는 전 세계의 날씨에 심각한 영향을 줄 수 있다.",
+    "why": "글은 해류가 기후를 조절하는 방식을 설명하는데 ②는 휴가철 수영 이야기라 흐름과 관계가 없습니다.",
+    "optionNotes": [
+      "따뜻한 해류의 역할입니다.",
+      "정답(무관). 수영은 기후 조절과 관계가 없습니다.",
+      "따뜻한 해류의 영향입니다.",
+      "차가운 해류의 역할입니다.",
+      "결론입니다."
+    ],
+    "trap": "'ocean'이라는 같은 소재라 자연스러워 보이지만 논점(기후 조절)에서 벗어난 문장입니다.",
+    "tip": "무관한 문장은 같은 소재를 쓰되 글의 논점을 이어 가지 않습니다."
+  },
+  {
+    "id": "m3-03-36",
+    "level": "m3",
+    "set": "mock-03",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "When we look at the night sky, we see thousands of stars twinkling above us.\n(A) In a sense, looking at the stars is like looking at the past. We see them as they were long ago.\n(B) However, many of them are so far away that their light takes thousands of years to reach us.\n(C) This means that the light we see tonight left the star long before we were born. Perhaps it even left before the first cities were built.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 2,
+    "translation": "밤하늘을 올려다보면 우리 위에서 반짝이는 수천 개의 별이 보인다. (B) 그러나 그중 많은 별은 너무 멀리 있어서 그 빛이 우리에게 닿는 데 수천 년이 걸린다. (C) 이는 오늘 밤 우리가 보는 빛이 우리가 태어나기 훨씬 전에 별을 떠났다는 뜻이며, 어쩌면 최초의 도시가 세워지기도 전일 수 있다. (A) 어떤 의미에서 별을 보는 것은 과거를 보는 것과 같다. 우리는 별을 아주 오래전의 모습으로 보기 때문이다.",
+    "why": "(B)의 'However'가 별의 거리를 말하고, (C)의 'This means'가 그 의미를 풀이하며, (A)의 'In a sense'가 결론을 비유로 정리합니다.",
+    "optionNotes": [
+      "(A)의 결론이 근거 설명보다 앞설 수 없습니다.",
+      "(A)의 'In a sense'는 (C)의 풀이 뒤에 와야 합니다.",
+      "정답. 거리 → 의미 → 비유적 결론.",
+      "(C)의 'This means'가 가리킬 내용이 앞에 없습니다.",
+      "(C)의 'This means'가 가리킬 내용이 앞에 없습니다."
+    ],
+    "trap": "(A)는 한 문장으로 완결되어 처음처럼 보이지만 'In a sense'는 결론을 이끕니다.",
+    "tip": "However(전환) → This means(풀이) → In a sense(정리)의 순서를 확인하세요."
+  },
+  {
+    "id": "m3-03-37",
+    "level": "m3",
+    "set": "mock-03",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Many people feel anxious before an important exam. Their hearts beat faster, and they often cannot stop thinking about everything that might go wrong.\n(A) In one study, students who did this scored higher than those who did not. The effect was largest for the most anxious students.\n(B) Researchers suggest that writing down your worries for ten minutes before the test can help. This is especially true for students who often feel nervous in exams.\n(C) This is because putting worries on paper frees up mental space for the test.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 1,
+    "translation": "많은 사람들은 중요한 시험 전에 불안해한다. 심장이 더 빨리 뛰고 잘못될 수 있는 모든 일을 계속 생각한다. (B) 연구자들은 시험 전에 10분 동안 걱정을 적어 보는 것이 도움이 될 수 있다고 제안하며, 시험에서 자주 긴장하는 학생에게 특히 그렇다고 한다. (A) 한 연구에서 이렇게 한 학생들은 그렇지 않은 학생들보다 높은 점수를 받았고, 그 효과는 가장 불안해하는 학생에게서 가장 컸다. (C) 이는 걱정을 종이에 적으면 시험을 위한 정신적 공간이 비워지기 때문이다.",
+    "why": "(B)의 제안 → (A)의 'did this'가 제안을 받아 연구 결과를 제시 → (C)의 'This is because'가 이유를 설명합니다.",
+    "optionNotes": [
+      "(A)의 'did this'가 가리킬 제안이 앞에 없습니다.",
+      "정답. 제안 → 연구 결과 → 이유.",
+      "(C)의 이유가 (A)의 결과보다 앞서 'This'의 대상이 불분명합니다.",
+      "(C)의 'This is because'가 가리킬 결과가 앞에 없습니다.",
+      "(C)가 처음에 와서 'This'의 대상이 없습니다."
+    ],
+    "trap": "(C)의 'This is because'는 결과 뒤에 와야 합니다. 결과(A)가 먼저입니다.",
+    "tip": "'did this'와 'This is because'가 각각 가리키는 앞 내용을 찾으세요."
+  },
+  {
+    "id": "m3-03-38",
+    "level": "m3",
+    "set": "mock-03",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThe answer, however, appears to be more complicated than that.\n\n[글]\nResearchers have long wondered why some people learn languages faster than others. ( ① ) Is it simply a matter of intelligence? ( ② ) Studies suggest that the answer lies in motivation and practice time rather than in intelligence. ( ③ ) Learners who use the language in daily life make much faster progress. ( ④ ) Even a short conversation every day makes a difference. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "[주어진 문장] 하지만 그 답은 그보다 더 복잡한 것으로 보인다. [글] 연구자들은 오랫동안 왜 어떤 사람들은 다른 사람들보다 언어를 더 빨리 배우는지 궁금해했다. 그것은 단순히 지능의 문제일까? 연구에 따르면 답은 지능이 아니라 동기와 연습 시간에 있다. 일상에서 그 언어를 사용하는 학습자는 훨씬 빠르게 발전한다. 하루에 짧은 대화 한 번도 차이를 만든다.",
+    "why": "'The answer'는 바로 앞의 질문 'Is it simply a matter of intelligence?'에 대한 반응이므로 ②에 들어갑니다.",
+    "optionNotes": [
+      "질문이 나오기 전이라 'The answer'가 가리킬 대상이 없습니다.",
+      "정답. 질문 바로 뒤에서 답을 말합니다.",
+      "이미 답(motivation, practice)이 나온 뒤라서 어색합니다.",
+      "설명이 진행된 뒤라서 어색합니다.",
+      "결론 부분에서 'more complicated'를 말하면 흐름이 맞지 않습니다."
+    ],
+    "trap": "③의 'the answer lies in'과 'The answer'가 겹쳐 보이지만, 주어진 문장은 질문 직후에 와야 합니다.",
+    "tip": "'The answer ~' 문장은 질문 바로 뒤에 놓입니다."
+  },
+  {
+    "id": "m3-03-39",
+    "level": "m3",
+    "set": "mock-03",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nAs a result, many of them started to visit the shop twice a week.\n\n[글]\nA small coffee shop in Seoul changed its approach to customers. ( ① ) Instead of simply taking orders, the staff began to remember each regular customer's name and favorite drink. ( ② ) They also wrote short, friendly messages on the cups. ( ③ ) Customers began to feel that the shop truly cared about them. ( ④ ) Some even brought their friends and colleagues. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "[주어진 문장] 그 결과 그들 중 많은 사람이 일주일에 두 번씩 그 가게를 찾기 시작했다. [글] 서울의 한 작은 커피숍이 고객을 대하는 방식을 바꾸었다. 단순히 주문을 받는 대신 직원들은 단골손님 한 명 한 명의 이름과 좋아하는 음료를 기억하기 시작했다. 컵에 짧고 다정한 메시지도 적었다. 고객들은 가게가 자신들을 진심으로 아낀다고 느끼기 시작했다. 어떤 사람은 친구와 동료까지 데려왔다.",
+    "why": "'As a result'는 고객들이 아낌을 받는다고 느꼈다는 원인 뒤에 오고, 'many of them'은 customers를 가리키므로 ④에 들어갑니다.",
+    "optionNotes": [
+      "customers가 아직 소개되지 않아 'many of them'이 모호합니다.",
+      "직원의 행동만 나왔을 뿐 결과로 이어질 원인이 부족합니다.",
+      "원인(메시지)은 나왔지만 고객의 반응(feel cared)이 아직 없습니다.",
+      "정답. 고객이 아낌을 받는다고 느낀 결과입니다.",
+      "친구를 데려온 결과 뒤에 오면 순서가 맞지 않습니다."
+    ],
+    "trap": "③은 원인이 나온 직후라 맞아 보이지만, 'many of them'이 가리킬 customers가 ④에 처음 등장합니다.",
+    "tip": "대명사 them이 가리키는 명사가 먼저 나왔는지 확인하세요."
+  },
+  {
+    "id": "m3-03-40",
+    "level": "m3",
+    "set": "mock-03",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Researchers asked two groups of students to complete reading tests. One group worked in a quiet room, and the other worked in a room with loud construction noise. Both groups read the same texts. The students in the noisy room needed more time and made more mistakes. Interestingly, however, when students in the noisy room were allowed to wear earplugs, their scores improved to nearly the same level as the quiet group.\n\n▶ Background (A) can reduce reading performance, but (B) can help students recover.",
+    "options": [
+      "(A) silence — (B) music",
+      "(A) noise — (B) headphones that play loud music",
+      "(A) light — (B) sunglasses",
+      "(A) heat — (B) fans",
+      "(A) noise — (B) earplugs"
+    ],
+    "answer": 4,
+    "translation": "연구자들은 두 그룹의 학생에게 독해 시험을 보게 했다. 한 그룹은 조용한 방에서, 다른 그룹은 큰 공사 소음이 있는 방에서 시험을 보았다. 두 그룹은 같은 글을 읽었다. 시끄러운 방의 학생들은 시간이 더 걸렸고 실수도 더 많았다. 그러나 흥미롭게도 시끄러운 방의 학생들에게 귀마개를 쓰게 하자 점수는 조용한 그룹과 거의 같은 수준으로 올랐다. ▶ 배경 소음은 독해 성적을 떨어뜨릴 수 있지만 귀마개가 학생들이 회복하도록 도울 수 있다.",
+    "why": "공사 소음이 성적을 떨어뜨렸고 귀마개를 쓰자 회복되었으므로 (A)는 noise, (B)는 earplugs입니다.",
+    "optionNotes": [
+      "silence는 성적을 떨어뜨리는 원인이 아닙니다.",
+      "큰 음악을 트는 헤드폰은 글에 나오지 않습니다.",
+      "빛과 선글라스는 글에 나오지 않습니다.",
+      "열과 선풍기는 글에 나오지 않습니다.",
+      "정답. 소음이 성적을 떨어뜨렸고 귀마개가 회복을 도왔습니다."
+    ],
+    "trap": "②는 noise가 맞지만 (B)가 글의 해결책(earplugs)이 아니라 그 반대 방향입니다.",
+    "tip": "요약문은 원인(A)과 해결책(B)을 글에서 그대로 찾아 짝지으세요."
+  }
+]

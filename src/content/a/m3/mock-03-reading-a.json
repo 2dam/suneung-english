@@ -1,0 +1,343 @@
+[
+  {
+    "id": "m3-03-18",
+    "level": "m3",
+    "set": "mock-03",
+    "no": 18,
+    "type": "purpose",
+    "stem": "다음 글을 쓴 목적으로 가장 적절한 것은?",
+    "passage": "Dear Parents,\nOur school is collecting used books to donate to rural libraries. Many children in remote villages have few chances to read new stories, and a single book can open a whole new world for them. We would be grateful if you could send gently used books with your child by November 29. Books for all ages are welcome, but we cannot accept damaged books or textbooks. Thank you for your support.\nSincerely,\nMs. Lim, Student Council Advisor",
+    "options": [
+      "학교 도서관의 새 도서 구입 예산을 알리려고",
+      "학생들의 독서 습관 조사에 협조를 구하려고",
+      "학부모 독서 모임의 참가자를 모집하려고",
+      "농촌 학교를 방문하는 일정을 안내하려고",
+      "농촌 도서관에 기부할 헌책의 기증을 요청하려고"
+    ],
+    "answer": 4,
+    "translation": "학부모님께. 우리 학교는 농촌 도서관에 기부할 헌책을 모으고 있습니다. 외딴 마을의 많은 아이들은 새로운 이야기를 읽을 기회가 적으며, 책 한 권이 그들에게 완전히 새로운 세계를 열어 줄 수 있습니다. 11월 29일까지 자녀 편으로 깨끗이 쓴 헌책을 보내 주시면 감사하겠습니다. 모든 연령의 책을 환영하지만 훼손된 책이나 교과서는 받을 수 없습니다. 도와주셔서 감사합니다. 학생회 지도 교사 임 선생님.",
+    "why": "'We would be grateful if you could send gently used books'로 농촌 도서관에 기부할 헌책을 요청하는 글입니다.",
+    "optionNotes": [
+      "도서 구입 예산은 언급되지 않았습니다.",
+      "독서 습관 조사는 언급되지 않았습니다.",
+      "학부모 독서 모임은 언급되지 않았습니다.",
+      "방문 일정은 언급되지 않았습니다.",
+      "정답. 헌책 기증을 요청합니다."
+    ],
+    "trap": "'accept damaged books or textbooks' 같은 세부 조건에 이끌리지 마세요. 핵심은 기증 요청입니다.",
+    "tip": "목적 문제는 'We would be grateful if you could ~'처럼 요청 표현을 찾으세요."
+  },
+  {
+    "id": "m3-03-19",
+    "level": "m3",
+    "set": "mock-03",
+    "no": 19,
+    "type": "mood",
+    "stem": "다음 글에 드러난 'I'의 심경 변화로 가장 적절한 것은?",
+    "passage": "When I walked onto the stage, I tapped the microphone, and it made a loud noise that echoed through the hall. Everyone turned to look at me. My face turned red, and I wanted to disappear. I opened my mouth, but no words came out. Then I laughed and said, \"Sorry, it's my first time!\" The audience laughed with me, and a few people even clapped. Suddenly, my shoulders felt much lighter, and I began my speech with a smile.",
+    "options": [
+      "bored → curious",
+      "proud → jealous",
+      "calm → upset",
+      "embarrassed → relaxed",
+      "hopeful → disappointed"
+    ],
+    "answer": 3,
+    "translation": "무대에 올라가 마이크를 두드리자 홀 전체에 울릴 정도로 큰 소음이 났다. 모두가 나를 쳐다보았다. 얼굴이 빨개졌고 사라지고 싶었다. 입을 열었지만 아무 말도 나오지 않았다. 그때 나는 웃으며 \"죄송해요, 처음이라서요!\"라고 말했다. 청중이 나와 함께 웃었고 몇몇은 박수도 쳤다. 갑자기 어깨가 훨씬 가벼워졌고 나는 미소를 지으며 연설을 시작했다.",
+    "why": "마이크 소음으로 얼굴이 빨개지고 사라지고 싶었다가(embarrassed), 청중과 함께 웃으며 어깨가 가벼워졌습니다(relaxed).",
+    "optionNotes": [
+      "지루함이나 호기심이 아닙니다.",
+      "자랑스러움이나 질투가 아닙니다.",
+      "침착함이나 화남이 아닙니다.",
+      "정답. 당황 → 긴장이 풀림.",
+      "희망이나 실망이 아닙니다."
+    ],
+    "trap": "①②⑤는 감정의 방향이 글과 맞지 않습니다. 앞(face turned red)과 뒤(lighter)의 대비를 보세요.",
+    "tip": "심경 변화는 신체 반응(face turned red → shoulders felt lighter)의 변화를 찾으세요."
+  },
+  {
+    "id": "m3-03-20",
+    "level": "m3",
+    "set": "mock-03",
+    "no": 20,
+    "type": "claim",
+    "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+    "passage": "Cities around the world are looking for ways to reduce traffic and air pollution. One effective solution is to encourage more people to use public transportation. A single bus can carry as many people as forty cars, which means fewer vehicles on the road. Public transportation also uses energy more efficiently, and it saves individuals the cost of owning and maintaining a car. Therefore, citizens should choose buses and subways over private cars whenever possible.",
+    "options": [
+      "도시의 도로를 더 넓게 확장해야 한다.",
+      "대중교통 요금을 모두 무료로 해야 한다.",
+      "전기 자동차를 더 많이 보급해야 한다.",
+      "가능하면 자가용보다 대중교통을 이용해야 한다.",
+      "출퇴근 시간을 하루 중 다르게 분산해야 한다."
+    ],
+    "answer": 3,
+    "translation": "전 세계 도시들은 교통량과 대기 오염을 줄일 방법을 찾고 있다. 효과적인 해결책 하나는 더 많은 사람이 대중교통을 이용하도록 장려하는 것이다. 버스 한 대는 자동차 마흔 대만큼의 사람을 태울 수 있어, 도로 위의 차량이 줄어든다. 대중교통은 에너지를 더 효율적으로 쓰고, 개인이 자동차를 소유하고 유지하는 비용도 아껴 준다. 그러므로 시민들은 가능하면 자가용보다 버스와 지하철을 선택해야 한다.",
+    "why": "마지막 문장 'citizens should choose buses and subways over private cars whenever possible'이 필자의 주장입니다.",
+    "optionNotes": [
+      "도로 확장은 언급되지 않았습니다.",
+      "무료 요금은 언급되지 않았습니다.",
+      "전기 자동차는 언급되지 않았습니다.",
+      "정답. 가능하면 대중교통을 이용해야 합니다.",
+      "출퇴근 시간 분산은 언급되지 않았습니다."
+    ],
+    "trap": "①②③⑤는 교통 문제의 일반적인 해결책으로 그럴듯하지만 글에 나오지 않습니다.",
+    "tip": "주장 문제는 'Therefore, ~ should ...'가 들어간 문장을 확인하세요."
+  },
+  {
+    "id": "m3-03-21",
+    "level": "m3",
+    "set": "mock-03",
+    "no": 21,
+    "type": "implied",
+    "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "passage": "Many young players believe that talent is everything. But a famous coach once told his team, \"Talent opens the door, but it is hard work that {u|keeps you in the room}.\" He wanted them to understand that early success does not last without daily effort. Many players with great talent have disappeared from the game, while others who worked steadily became stars.",
+    "options": [
+      "makes you want to leave early",
+      "helps you find a new door to open",
+      "gives you more free time to relax",
+      "teaches you how to cook and clean",
+      "allows you to stay and succeed in the long run"
+    ],
+    "answer": 4,
+    "translation": "많은 젊은 선수들은 재능이 전부라고 믿는다. 하지만 한 유명한 감독은 한때 팀에게 이렇게 말했다. \"재능은 문을 열어 주지만 방 안에 머물게 하는 것은 노력이다.\" 그는 일상의 노력 없이는 초기의 성공이 오래가지 않는다는 것을 이해시키고 싶었다. 뛰어난 재능을 가진 많은 선수가 경기에서 사라진 반면, 꾸준히 노력한 다른 선수들은 스타가 되었다.",
+    "why": "문을 여는 것은 재능이고 방에 머무는 것은 노력이라는 비유이므로, 노력이 장기적으로 남아 성공하게 한다는 뜻입니다.",
+    "optionNotes": [
+      "일찍 떠나고 싶게 한다는 내용은 반대입니다.",
+      "새 문을 찾는다는 내용은 없습니다.",
+      "여가 시간 이야기는 없습니다.",
+      "요리와 청소는 글과 상관이 없습니다.",
+      "정답. 노력이 오래 남아 성공하게 합니다."
+    ],
+    "trap": "'room'을 문자 그대로 방으로 해석한 ③④를 고르지 마세요. 비유의 대상은 '경기에 남는 것'입니다.",
+    "tip": "비유는 뒤 문장(early success does not last without effort)에서 의미를 확인하세요."
+  },
+  {
+    "id": "m3-03-22",
+    "level": "m3",
+    "set": "mock-03",
+    "no": 22,
+    "type": "gist",
+    "stem": "다음 글의 요지로 가장 적절한 것은?",
+    "passage": "Holding a grudge can feel like a way to protect yourself. However, psychologists point out that the person who suffers most from long-term anger is the one who carries it. Studies show that forgiving others lowers stress and improves sleep. People who forgive also tend to report happier relationships and a calmer outlook on life. This does not mean that you must forget what happened or continue the relationship. It means that you decide not to let the past control your present.",
+    "options": [
+      "용서하려면 먼저 상대의 진심 어린 사과를 받아야 한다.",
+      "분노를 겉으로 표현하지 않고 참는 것이 가장 좋은 방법이다.",
+      "용서는 자신의 마음의 부담을 덜어 주는 선택이다.",
+      "관계를 계속 유지하는 것이 용서의 필수 조건이 된다.",
+      "과거에 일어난 일은 가능하면 빨리 잊어버리는 것이 좋다."
+    ],
+    "answer": 2,
+    "translation": "원한을 품는 것은 자신을 보호하는 방법처럼 느껴질 수 있다. 그러나 심리학자들은 오래가는 분노로 가장 고통받는 사람은 그것을 품고 있는 사람이라고 지적한다. 연구에 따르면 남을 용서하면 스트레스가 줄고 잠을 더 잘 잔다. 용서하는 사람들은 또한 더 행복한 인간관계와 더 차분한 삶의 태도를 보고하는 경향이 있다. 이는 일어난 일을 잊어야 하거나 관계를 이어 가야 한다는 뜻이 아니다. 과거가 현재를 지배하지 못하게 하겠다고 결정하는 것을 뜻한다.",
+    "why": "용서가 스트레스를 줄이고 과거가 현재를 지배하지 못하게 하는 자신을 위한 결정이라는 내용입니다.",
+    "optionNotes": [
+      "사과가 필요하다는 내용은 없습니다.",
+      "분노를 참으라는 내용은 아닙니다.",
+      "정답. 용서는 자신의 부담을 덜어 주는 선택입니다.",
+      "관계 지속이 필수가 아니라고 했습니다.",
+      "잊으라는 뜻이 아니라고 했습니다."
+    ],
+    "trap": "④⑤는 글이 'This does not mean ~'으로 명시적으로 부정한 내용입니다.",
+    "tip": "'does not mean ~, It means ...' 구조에서 뒤가 글의 핵심입니다."
+  },
+  {
+    "id": "m3-03-23",
+    "level": "m3",
+    "set": "mock-03",
+    "no": 23,
+    "type": "topic",
+    "stem": "다음 글의 주제로 가장 적절한 것은?",
+    "passage": "Octopuses are surprisingly intelligent animals. In laboratory tests, they can open jars to get food and find their way through mazes. They can also remember which of two shapes led to food even weeks later, which suggests that they have a good memory. Some octopuses have been observed carrying coconut shells to use as shelters later. They are also known for escaping from tanks through tiny gaps. Scientists believe their intelligence helps them survive in the complex environment of the sea.",
+    "options": [
+      "the intelligent behaviors that octopuses show in the sea and in laboratories",
+      "why octopuses live in deep and cold water",
+      "how octopuses change the color of their skin",
+      "the dangers faced by animals kept in tanks",
+      "ways of catching octopuses without harming them"
+    ],
+    "answer": 0,
+    "translation": "문어는 놀랍도록 지능이 높은 동물이다. 실험실 시험에서 문어는 먹이를 얻으려고 병을 열고 미로를 통과해 길을 찾을 수 있다. 또한 두 도형 중 어느 쪽이 먹이로 이어졌는지 몇 주 뒤에도 기억할 수 있어, 기억력이 좋다는 것을 보여 준다. 일부 문어는 나중에 은신처로 쓰려고 코코넛 껍데기를 들고 다니는 것이 관찰되었다. 문어는 또한 작은 틈으로 수조에서 탈출하는 것으로도 알려져 있다. 과학자들은 문어의 지능이 바다의 복잡한 환경에서 살아남는 데 도움이 된다고 믿는다.",
+    "why": "병 열기, 미로, 코코넛 껍데기, 탈출 등 문어의 지능적 행동을 소개하는 글입니다.",
+    "optionNotes": [
+      "정답. 문어의 지능적인 행동들입니다.",
+      "서식 수심은 다루지 않습니다.",
+      "피부색 변화는 다루지 않습니다.",
+      "수조 속 동물의 위험은 다루지 않습니다.",
+      "잡는 방법은 다루지 않습니다."
+    ],
+    "trap": "'tanks'가 나오지만 수조의 위험을 다루는 글이 아닙니다.",
+    "tip": "주제는 반복되는 소재(octopuses)와 그 특징(intelligent behaviors)을 한 문장으로 묶으세요."
+  },
+  {
+    "id": "m3-03-24",
+    "level": "m3",
+    "set": "mock-03",
+    "no": 24,
+    "type": "title",
+    "stem": "다음 글의 제목으로 가장 적절한 것은?",
+    "passage": "In recent years, beekeeping has appeared in an unexpected place: city rooftops. In cities, flowers are available in parks, balconies, and gardens, and bees can find food all year without the pesticides used on farms. As a result, city honey is sometimes of higher quality than honey from the countryside. Rooftop hives also help pollinate urban plants and raise public awareness about the importance of bees. Some cities now even offer classes for people who would like to start keeping bees on their own balconies.",
+    "options": [
+      "Why Honey Prices Are Rising Every Year",
+      "The Secret Language of Honeybees",
+      "How Pesticides Harm Farm Animals",
+      "Building Hives in the Countryside",
+      "Bees Find a New Home on City Rooftops"
+    ],
+    "answer": 4,
+    "translation": "최근 몇 년 사이 양봉이 뜻밖의 장소인 도시 옥상에 나타났다. 도시에서는 공원, 발코니, 정원에 꽃이 있고 농장에서 쓰는 살충제 없이 일 년 내내 벌이 먹이를 구할 수 있다. 그 결과 도시 꿀이 시골 꿀보다 품질이 더 좋은 경우도 있다. 옥상 벌통은 도시 식물의 수분을 돕고 벌의 중요성에 대한 대중의 인식도 높인다. 일부 도시에서는 자기 발코니에서 벌을 키우고 싶은 사람들을 위한 수업까지 제공한다.",
+    "why": "도시 옥상에서 양봉을 하는 현상과 그 이점을 다루므로 ⑤가 제목으로 적절합니다.",
+    "optionNotes": [
+      "꿀값 이야기는 없습니다.",
+      "벌의 언어는 다루지 않습니다.",
+      "살충제의 피해는 부차적으로 나올 뿐입니다.",
+      "시골이 아니라 도시 옥상입니다.",
+      "정답. 벌이 도시 옥상에 새 보금자리를 찾았다는 내용입니다."
+    ],
+    "trap": "③은 'pesticides'에서 가져온 보기입니다. 글의 중심은 도시 옥상 양봉입니다.",
+    "tip": "제목은 새로운 현상(rooftop beekeeping)과 그 위치(city rooftops)를 담아야 합니다."
+  },
+  {
+    "id": "m3-03-25",
+    "level": "m3",
+    "set": "mock-03",
+    "no": 25,
+    "type": "chart",
+    "stem": "다음 도표의 내용과 일치하지 않는 것은?",
+    "chart": {
+      "title": "How Students Get to School in 2015 and 2023 (%)",
+      "unit": "%",
+      "labels": [
+        "Walk",
+        "Bus",
+        "Subway",
+        "Car",
+        "Bike"
+      ],
+      "series": [
+        {
+          "name": "2015",
+          "values": [
+            30,
+            35,
+            15,
+            15,
+            5
+          ]
+        },
+        {
+          "name": "2023",
+          "values": [
+            28,
+            30,
+            22,
+            12,
+            8
+          ]
+        }
+      ]
+    },
+    "passage": "The graph shows how students got to school in 2015 and 2023. ① The bus was the most common way in both years. ② The percentage of subway users increased by seven points. ③ The percentage of car users in 2023 was the same as that of bike users in 2015. ④ The percentage of students who walked decreased slightly. ⑤ The percentage of bike users increased by three points.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "그래프는 2015년과 2023년에 학생들이 학교에 가는 방법을 보여 준다. ① 버스는 두 해 모두 가장 흔한 방법이었다. ② 지하철 이용자의 비율은 7포인트 증가했다. ③ 2023년의 자동차 이용자 비율은 2015년의 자전거 이용자 비율과 같았다. ④ 걸어서 가는 학생의 비율은 약간 감소했다. ⑤ 자전거 이용자의 비율은 3포인트 증가했다.",
+    "why": "2023년 자동차 이용자는 12%이고 2015년 자전거 이용자는 5%이므로 같지 않아 ③이 도표와 일치하지 않습니다.",
+    "optionNotes": [
+      "버스는 35%, 30%로 두 해 모두 가장 높습니다.",
+      "지하철은 15%에서 22%로 7포인트 증가했습니다.",
+      "정답(불일치). 12%와 5%는 같지 않습니다.",
+      "걷기는 30%에서 28%로 약간 줄었습니다.",
+      "자전거는 5%에서 8%로 3포인트 증가했습니다."
+    ],
+    "trap": "비교하는 두 값이 서로 다른 해, 다른 항목이라 헷갈립니다. 해당 막대를 정확히 짚으세요.",
+    "tip": "서로 다른 연도·항목을 비교하는 보기는 두 막대의 숫자를 각각 읽어 확인하세요."
+  },
+  {
+    "id": "m3-03-26",
+    "level": "m3",
+    "set": "mock-03",
+    "no": 26,
+    "type": "match",
+    "stem": "Rosa Alvarez에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Rosa Alvarez was born in a small farming village in Peru. As a child, she had to walk two hours each way to reach school. Her family was poor, and sometimes she studied by the light of a small candle after finishing her chores. She studied hard and received a scholarship to study agriculture in Lima. After graduation, she returned to her village and introduced new irrigation methods that doubled the village's harvest. Today, she runs a program that trains young farmers.",
+    "options": [
+      "큰 도시에서 태어나 자랐다.",
+      "학교에 가려고 한 시간을 걸었다.",
+      "장학금을 받아 농업을 공부했다.",
+      "졸업 후 도시에 남아 일했다.",
+      "지금은 대학 교수로 일한다."
+    ],
+    "answer": 2,
+    "translation": "Rosa Alvarez는 페루의 작은 농촌 마을에서 태어났다. 어린 시절 그녀는 학교에 가려고 편도 두 시간을 걸어야 했다. 가족은 가난했고, 그녀는 집안일을 마친 뒤 작은 촛불 아래서 공부하기도 했다. 그녀는 열심히 공부해 리마에서 농업을 공부할 장학금을 받았다. 졸업 후 그녀는 마을로 돌아와 마을의 수확량을 두 배로 늘린 새로운 관개 방법을 도입했다. 오늘날 그녀는 젊은 농부를 교육하는 프로그램을 운영한다.",
+    "why": "'received a scholarship to study agriculture in Lima'와 일치합니다.",
+    "optionNotes": [
+      "작은 농촌 마을에서 태어났습니다.",
+      "두 시간을 걸었습니다.",
+      "정답. 장학금을 받아 농업을 공부했습니다.",
+      "졸업 후 마을로 돌아왔습니다.",
+      "젊은 농부를 교육하는 프로그램을 운영합니다."
+    ],
+    "trap": "숫자(two hours), 장소(village), 직업을 바꾼 보기들에 주의하세요.",
+    "tip": "일치 문제는 인물의 시기별 정보(어린 시절 → 학업 → 귀향 → 현재)를 순서대로 대조하세요."
+  },
+  {
+    "id": "m3-03-27",
+    "level": "m3",
+    "set": "mock-03",
+    "no": 27,
+    "type": "notice",
+    "stem": "Teen Photography Workshop에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Teen Photography Workshop\nLearn to take better photos with your smartphone!\nDate: Saturday, June 22\nTime: 1:00 p.m. – 4:00 p.m.\nPlace: Greenfield Community Center, Room B\nWho: Ages 13–17 (limited to 20 participants)\nFee: $10 (includes a photo book)\nWhat to bring: Your smartphone\nRegistration: By phone or at the front desk until June 18\nNote: Participants under 15 must be accompanied by an adult during the outdoor walk.",
+    "options": [
+      "참가 인원에는 제한이 없다.",
+      "참가비에는 사진집이 포함되어 있다.",
+      "전문 카메라를 직접 가져와야 한다.",
+      "6월 22일까지 등록해야 한다.",
+      "모든 참가자는 보호자와 함께 와야 한다."
+    ],
+    "answer": 1,
+    "translation": "청소년 사진 워크숍. 스마트폰으로 더 좋은 사진을 찍는 법을 배워요! 날짜: 6월 22일 토요일. 시간: 오후 1시~4시. 장소: Greenfield 주민센터 B호. 대상: 13~17세(20명 한정). 참가비: 10달러(사진집 포함). 준비물: 스마트폰. 등록: 6월 18일까지 전화 또는 안내 데스크. 유의: 15세 미만 참가자는 야외 촬영 시 어른과 동행해야 합니다.",
+    "why": "'Fee: $10 (includes a photo book)'과 일치합니다.",
+    "optionNotes": [
+      "20명으로 한정됩니다.",
+      "정답. 사진집이 포함됩니다.",
+      "스마트폰을 가져오면 됩니다.",
+      "등록 마감은 6월 18일입니다.",
+      "15세 미만만 야외 촬영 때 동행이 필요합니다."
+    ],
+    "trap": "'under 15'만 해당하는 조건을 '모든 참가자'로 바꾼 보기에 주의하세요.",
+    "tip": "한정 조건(under 15, limited to 20)이 일치 문제의 핵심입니다."
+  },
+  {
+    "id": "m3-03-28",
+    "level": "m3",
+    "set": "mock-03",
+    "no": 28,
+    "type": "notice",
+    "stem": "Community Library Book Sale에 관한 다음 안내문의 내용과 일치하지 않는 것은?",
+    "passage": "Community Library Book Sale\nGreat books at low prices!\nDate: Friday, October 11 – Sunday, October 13\nTime: 10:00 a.m. – 6:00 p.m. (until 4:00 p.m. on Sunday)\nPlace: Main Hall, Community Library\nPrices: Paperbacks $1, Hardcovers $3, Children's books 50 cents\nNote: Cash only. All profits will be used to buy new books for the library. Bags will be provided.",
+    "options": [
+      "사흘 동안 열린다.",
+      "일요일에는 오후 4시에 끝난다.",
+      "카드로도 결제할 수 있다.",
+      "수익금은 새 도서 구입에 쓰인다.",
+      "양장본은 3달러이다."
+    ],
+    "answer": 2,
+    "translation": "지역 도서관 도서 판매. 좋은 책을 저렴한 가격에! 날짜: 10월 11일 금요일~10월 13일 일요일. 시간: 오전 10시~오후 6시(일요일은 오후 4시까지). 장소: 지역 도서관 중앙 홀. 가격: 문고판 1달러, 양장본 3달러, 어린이책 50센트. 유의: 현금만 가능. 모든 수익금은 도서관의 새 책을 사는 데 쓰입니다. 봉투는 제공됩니다.",
+    "why": "'Cash only.'이므로 카드로도 결제할 수 있다는 ③은 일치하지 않습니다.",
+    "optionNotes": [
+      "October 11 – 13은 3일입니다.",
+      "일요일은 오후 4시까지입니다.",
+      "정답(불일치). 현금만 가능합니다.",
+      "수익금은 새 책 구입에 쓰입니다.",
+      "Hardcovers $3과 일치합니다."
+    ],
+    "trap": "'Cash only'를 놓치면 카드 결제 가능으로 착각하기 쉽습니다.",
+    "tip": "Note 항목의 결제 조건과 용도를 확인하세요."
+  }
+]

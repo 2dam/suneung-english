@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m2-03-29",
+    "level": "m2",
+    "set": "mock-03",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "My sister {1|have} lived in Canada for two years. She {2|has been} learning French since she moved there. Last month, she {3|sent} me a letter, which {4|was written} in French. I was surprised {5|that} I could understand it.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "내 누나는 캐나다에서 2년 동안 살고 있다. 그녀는 그곳으로 이사한 이후로 프랑스어를 배우고 있다. 지난달 그녀는 나에게 편지를 보냈는데, 그것은 프랑스어로 쓰여 있었다. 나는 그것을 이해할 수 있어서 놀랐다.",
+    "why": "주어 My sister는 3인칭 단수이므로 현재완료는 have가 아니라 has lived여야 합니다.",
+    "optionNotes": [
+      "정답(틀린 것). 3인칭 단수 주어이므로 has lived입니다.",
+      "since와 함께 쓰인 현재완료진행 has been learning이 맞습니다.",
+      "Last month가 있으므로 과거형 sent가 맞습니다.",
+      "편지가 쓰인 것이므로 수동태 was written이 맞습니다.",
+      "감정 형용사 뒤의 that절이 맞습니다."
+    ],
+    "trap": "'for two years'에서 현재완료만 확인하고 주어의 수를 놓치기 쉽습니다.",
+    "tip": "현재완료는 have/has를 주어의 인칭·수에 맞게 쓰는지 확인하세요."
+  },
+  {
+    "id": "m2-03-30",
+    "level": "m2",
+    "set": "mock-03",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Many young people today are {1|addicted} to their smartphones. They check them {2|constantly}, even during meals. Experts say that this habit can {3|improve} sleep quality and concentration. As a result, some schools {4|ban} phones in classrooms. Students are encouraged to {5|focus} on real conversations instead.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "오늘날 많은 젊은이들이 스마트폰에 중독되어 있다. 그들은 식사 중에도 끊임없이 확인한다. 전문가들은 이런 습관이 수면의 질과 집중력을 해칠 수 있다고 말한다. 그 결과 일부 학교는 교실에서 휴대전화를 금지한다. 학생들은 대신 실제 대화에 집중하도록 권장된다.",
+    "why": "습관의 문제점을 지적하고 학교가 금지한다는 흐름이므로 수면의 질과 집중력을 '개선하다(improve)'가 아니라 '해치다(harm)'가 알맞습니다.",
+    "optionNotes": [
+      "스마트폰에 중독되었다는 의미로 addicted가 알맞습니다.",
+      "식사 중에도 계속 확인한다는 의미로 constantly가 알맞습니다.",
+      "정답(부적절). 부정적인 영향을 말하므로 harm이 와야 합니다.",
+      "휴대전화를 금지한다는 의미로 ban이 알맞습니다.",
+      "실제 대화에 집중한다는 의미로 focus가 알맞습니다."
+    ],
+    "trap": "'can improve sleep quality and concentration'이 긍정적으로 읽혀 자연스럽습니다. 문맥은 부정적입니다.",
+    "tip": "문제점을 지적하는 글(As a result ... ban)에서는 영향을 나타내는 동사의 방향을 확인하세요."
+  },
+  {
+    "id": "m2-03-31",
+    "level": "m2",
+    "set": "mock-03",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Children ask questions all the time: \"Why is the sky blue?\" \"How do birds fly?\" Unfortunately, many adults stop asking such questions as they get older. They are afraid of looking foolish. But the people who make great discoveries are those who never lose their curiosity. A single curious question can open a door to a new idea. In other words, asking questions is __________.",
+    "options": [
+      "a habit that only wastes time",
+      "a sign of weakness in adults",
+      "the starting point of learning",
+      "a skill that only children need",
+      "a way to avoid every mistake"
+    ],
+    "answer": 2,
+    "translation": "아이들은 끊임없이 질문한다. \"하늘은 왜 파랄까?\" \"새는 어떻게 날까?\" 안타깝게도 많은 어른은 나이가 들면서 그런 질문을 멈춘다. 그들은 어리석어 보일까 봐 두려워한다. 그러나 위대한 발견을 하는 사람은 호기심을 잃지 않는 사람이다. 호기심 어린 질문 하나가 새로운 아이디어로 가는 문을 열 수 있다. 다시 말해 질문하는 것은 배움의 출발점이다.",
+    "why": "호기심을 잃지 않는 사람이 큰 발견을 한다고 했으므로 질문은 배움의 출발점입니다.",
+    "optionNotes": [
+      "시간 낭비라는 내용은 글과 반대입니다.",
+      "어른의 약점이라는 내용은 글과 반대입니다.",
+      "정답. 질문은 배움과 발견의 시작입니다.",
+      "아이에게만 필요하다는 내용은 글과 반대입니다.",
+      "실수를 피하는 방법이라는 내용은 없습니다."
+    ],
+    "trap": "②는 '어리석어 보일까 봐 두렵다'는 부분에서 가져왔지만 글은 이를 극복하자는 입장입니다.",
+    "tip": "'In other words'는 앞 문장을 다시 말하는 표시입니다. 호기심 = 질문 = 배움의 시작입니다."
+  },
+  {
+    "id": "m2-03-32",
+    "level": "m2",
+    "set": "mock-03",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many people think that buying more things will make them happier. However, research shows that the excitement of a new purchase fades quickly. A new phone may feel exciting for a week, but a trip is remembered for years. In contrast, experiences such as traveling or learning something new give lasting happiness, because we remember and share them. Therefore, spending money on experiences usually brings __________ than spending it on things.",
+    "options": [
+      "less joy and shorter memories",
+      "more lasting happiness",
+      "greater risks and more stress",
+      "weaker friendships and less energy",
+      "fewer chances to learn new things"
+    ],
+    "answer": 1,
+    "translation": "많은 사람들은 더 많은 물건을 사면 더 행복해질 것이라고 생각한다. 그러나 연구에 따르면 새 물건을 산 설렘은 빨리 사라진다. 새 휴대전화는 일주일 동안은 신나지만 여행은 몇 년이 지나도 기억된다. 반면 여행이나 새로운 것을 배우는 경험은 우리가 기억하고 나누기 때문에 오래가는 행복을 준다. 그러므로 경험에 돈을 쓰는 것이 물건에 쓰는 것보다 대체로 더 오래가는 행복을 가져다준다.",
+    "why": "경험은 오래가는 행복을 준다고 했으므로 빈칸에는 'more lasting happiness'가 알맞습니다.",
+    "optionNotes": [
+      "글과 반대되는 내용입니다.",
+      "정답. 경험이 더 오래가는 행복을 줍니다.",
+      "위험과 스트레스는 언급되지 않았습니다.",
+      "우정은 언급되지 않았습니다.",
+      "배움 기회가 적다는 내용은 글과 반대입니다."
+    ],
+    "trap": "'than spending it on things'를 반대로 읽으면 ①을 고르게 됩니다. 비교 대상을 확인하세요.",
+    "tip": "'A rather than B'의 빈칸은 In contrast 뒤의 긍정적 효과를 가져옵니다."
+  },
+  {
+    "id": "m2-03-33",
+    "level": "m2",
+    "set": "mock-03",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "When we are bored, our minds start to wander. This may sound unproductive, but scientists say that mind-wandering helps us make new connections between ideas. Many writers and inventors report that their best ideas came when they were doing nothing special. A quiet walk or a long shower often gives the brain this space. So, a little boredom can be __________.",
+    "options": [
+      "a sign of laziness in students",
+      "a source of creativity",
+      "a cause of stress at school",
+      "a waste of talent in adults",
+      "a reason to quit a hobby"
+    ],
+    "answer": 1,
+    "translation": "우리가 지루할 때 마음은 방황하기 시작한다. 비생산적으로 들릴 수 있지만 과학자들은 마음이 방황하는 것이 아이디어 사이의 새로운 연결을 만드는 데 도움이 된다고 말한다. 많은 작가와 발명가는 자신의 가장 좋은 아이디어가 특별한 일을 하지 않을 때 떠올랐다고 말한다. 조용한 산책이나 긴 샤워가 뇌에 이런 여유를 주는 경우가 많다. 그러므로 약간의 지루함은 창의성의 원천이 될 수 있다.",
+    "why": "마음의 방황이 새로운 연결을 만들어 좋은 아이디어를 낳는다고 했으므로 지루함은 창의성의 원천입니다.",
+    "optionNotes": [
+      "게으름의 표시라는 내용은 글과 반대입니다.",
+      "정답. 창의성의 원천입니다.",
+      "스트레스의 원인이라는 내용은 없습니다.",
+      "재능의 낭비라는 내용은 글과 반대입니다.",
+      "취미를 그만둘 이유라는 내용은 없습니다."
+    ],
+    "trap": "①④는 'unproductive'라는 통념에서 나온 보기로, 글이 반박하는 쪽입니다.",
+    "tip": "'This may sound ~, but ...' 구조에서 but 뒤가 글의 입장입니다."
+  },
+  {
+    "id": "m2-03-34",
+    "level": "m2",
+    "set": "mock-03",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Fast fashion encourages us to buy cheap clothes and throw them away after a few wears. But each piece requires water, energy, and labor to make. A single cotton shirt can take about 2,700 liters of water to produce. If we repair a torn shirt or wear a jacket for several more years, we reduce this waste. The most sustainable piece of clothing is __________.",
+    "options": [
+      "the one with the lowest price in the store",
+      "the one with the brightest color",
+      "the one you already own and keep using",
+      "the one made in another country",
+      "the one that follows the newest trend"
+    ],
+    "answer": 2,
+    "translation": "패스트 패션은 우리가 싼 옷을 사서 몇 번 입고 버리도록 부추긴다. 하지만 각각의 옷은 만드는 데 물, 에너지, 노동이 든다. 면 셔츠 한 장을 만드는 데 약 2,700리터의 물이 들 수 있다. 찢어진 셔츠를 수선하거나 재킷을 몇 해 더 입으면 이런 낭비를 줄인다. 가장 지속 가능한 옷은 이미 가지고 있으면서 계속 입는 옷이다.",
+    "why": "수선하고 오래 입어 낭비를 줄인다는 내용이므로 이미 가진 옷을 계속 입는 것이 가장 지속 가능합니다.",
+    "optionNotes": [
+      "가격이 낮은 옷은 패스트 패션의 특징입니다.",
+      "색은 언급되지 않았습니다.",
+      "정답. 이미 가진 옷을 계속 입는 것입니다.",
+      "생산 국가는 언급되지 않았습니다.",
+      "유행을 따르는 것은 글이 비판하는 쪽입니다."
+    ],
+    "trap": "①④⑤는 패스트 패션을 연상시키는 보기이므로 글의 결론과 반대입니다.",
+    "tip": "마지막 문장의 빈칸은 앞의 해결책(repair, wear longer)을 한 문장으로 일반화하세요."
+  },
+  {
+    "id": "m2-03-35",
+    "level": "m2",
+    "set": "mock-03",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Cycling to school has many benefits. ① Many people enjoy watching movies on weekends. ② It strengthens your legs and heart. ③ It also saves money on bus fares. ④ Since bikes do not release exhaust gas, they help keep the air clean. ⑤ These benefits make cycling a great choice for students.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "자전거로 등교하는 것은 많은 이점이 있다. ① 많은 사람들은 주말에 영화 보기를 즐긴다. ② 다리와 심장을 튼튼하게 해 준다. ③ 버스 요금도 아낄 수 있다. ④ 자전거는 배기가스를 내지 않으므로 공기를 깨끗하게 유지하는 데 도움이 된다. ⑤ 이런 이점들 때문에 자전거는 학생들에게 좋은 선택이다.",
+    "why": "글은 자전거 등교의 이점을 설명하는데 ①은 영화 감상 이야기라 관계가 없습니다.",
+    "optionNotes": [
+      "정답(무관). 영화 보기는 자전거 등교와 관계가 없습니다.",
+      "건강상의 이점입니다.",
+      "경제적 이점입니다.",
+      "환경적 이점입니다.",
+      "이점을 정리하는 결론입니다."
+    ],
+    "trap": "'weekends'가 자전거 타기와 연결될 것 같지만 문장의 내용은 영화입니다.",
+    "tip": "무관한 문장은 첫 문장의 논점(benefits of cycling)을 이어 가는지 확인하세요."
+  },
+  {
+    "id": "m2-03-36",
+    "level": "m2",
+    "set": "mock-03",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "My grandfather has a small garden behind his house.\n(A) He always teaches me that plants need patience, just like people.\n(B) Because of him, I have learned to wait for good things to grow.\n(C) Every summer, I visit him and help him pick tomatoes. He says that the smell of fresh soil is his favorite smell in the world.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 3,
+    "translation": "할아버지는 집 뒤에 작은 정원을 가지고 계신다. (C) 매년 여름 나는 그를 방문해 토마토를 따는 것을 돕는다. 그는 신선한 흙 냄새가 세상에서 가장 좋아하는 냄새라고 말한다. (A) 그는 늘 식물에게도 사람처럼 인내가 필요하다고 가르쳐 주신다. (B) 그 덕분에 나는 좋은 것이 자라기를 기다리는 법을 배웠다.",
+    "why": "(C)에서 정원을 방문하는 상황을 소개하고, (A)에서 'He'가 가르침을 주며, (B)의 'Because of him'이 그 영향을 정리합니다.",
+    "optionNotes": [
+      "(A)의 'He'가 가리킬 사람이 앞에 소개되지 않습니다.",
+      "(B)의 'him'이 가리킬 사람이 앞에 없습니다.",
+      "(B)의 'him'이 가리킬 사람이 앞에 없습니다.",
+      "정답. 방문 → 가르침 → 영향.",
+      "(B)의 영향은 가르침(A) 뒤에 와야 합니다."
+    ],
+    "trap": "(C)는 새로운 장면 같지만 주어진 글의 '정원'을 이어 받아 상황을 구체화합니다.",
+    "tip": "He, him 같은 대명사가 가리키는 사람이 먼저 소개되었는지 확인하세요."
+  },
+  {
+    "id": "m2-03-37",
+    "level": "m2",
+    "set": "mock-03",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Many people believe that the Great Wall of China can be seen from space.\n(A) The wall is very long, but it is too narrow to be seen from such a height.\n(B) However, astronauts have said that this is not true.\n(C) In fact, highways and city lights are much easier to see from orbit. Astronauts say that cities at night look like bright maps.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 1,
+    "translation": "많은 사람들은 만리장성이 우주에서 보인다고 믿는다. (B) 하지만 우주 비행사들은 그것이 사실이 아니라고 말했다. (A) 장성은 매우 길지만 그런 높이에서 보기에는 너무 좁다. (C) 사실 고속도로와 도시의 불빛이 궤도에서는 훨씬 더 쉽게 보인다. 우주 비행사들은 밤의 도시가 밝은 지도처럼 보인다고 말한다.",
+    "why": "(B)의 'However'가 통념을 반박하고, (A)가 이유를 설명하며, (C)의 'In fact'가 대조적인 사실을 덧붙입니다.",
+    "optionNotes": [
+      "(A)의 이유가 반박(B) 없이 먼저 나옵니다.",
+      "정답. 반박 → 이유 → 덧붙이는 사실.",
+      "(C)의 'In fact'가 가리킬 설명이 앞에 없습니다.",
+      "(C)가 먼저 오면 반박 없이 사실부터 나옵니다.",
+      "(A)가 마지막에 오면 'In fact' 문장이 이유보다 앞섭니다."
+    ],
+    "trap": "(A)가 이유 문장이라 (B) 뒤에 와야 하는데, 앞뒤 접속어(However, In fact)를 놓치기 쉽습니다.",
+    "tip": "However는 앞 내용과 반대되는 말을, In fact는 앞 내용을 보충하는 말을 이끕니다."
+  },
+  {
+    "id": "m2-03-38",
+    "level": "m2",
+    "set": "mock-03",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThat is because sound needs a medium, such as air, to travel.\n\n[글]\nThere is no sound in space. ( ① ) If two astronauts are outside a spaceship, they cannot talk to each other directly. ( ② ) Why is that? ( ③ ) Space is almost empty, so there is nothing to carry the sound waves. ( ④ ) That is why astronauts use radios to communicate. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 그것은 소리가 이동하려면 공기 같은 매질이 필요하기 때문이다. [글] 우주에는 소리가 없다. 두 우주 비행사가 우주선 밖에 있으면 서로 직접 이야기할 수 없다. 왜 그럴까? 우주는 거의 비어 있어서 음파를 전달할 것이 없다. 그래서 우주 비행사들은 무전기로 의사소통한다.",
+    "why": "주어진 문장의 'That is because ~'는 바로 앞의 질문 'Why is that?'에 대한 답이므로 ③에 들어갑니다.",
+    "optionNotes": [
+      "질문이 나오기 전이라 이유를 말할 수 없습니다.",
+      "아직 '왜'라는 질문이 나오지 않았습니다.",
+      "정답. 질문 바로 뒤에 이유를 제시합니다.",
+      "이미 이유를 설명한 뒤라 순서가 맞지 않습니다.",
+      "결론 뒤에 이유가 오면 흐름이 맞지 않습니다."
+    ],
+    "trap": "④의 'Space is almost empty'가 이유처럼 보이지만 주어진 문장이 먼저 나와 매질을 설명해야 합니다.",
+    "tip": "'That is because ~'는 앞에 'Why ~?' 질문이나 결과 문장이 있어야 합니다."
+  },
+  {
+    "id": "m2-03-39",
+    "level": "m2",
+    "set": "mock-03",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nIn short, small daily habits matter more than occasional big efforts.\n\n[글]\nMany people try to change their lives by making a big effort once in a while. ( ① ) They run ten kilometers one day and then rest for a month. ( ② ) Others set a goal to read a book in one night but give up halfway. ( ③ ) In contrast, people who exercise or read for just fifteen minutes every day gradually improve. ( ④ ) Their progress may seem slow, but it adds up over time. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "[주어진 문장] 요컨대 가끔 하는 큰 노력보다 작은 일상 습관이 더 중요하다. [글] 많은 사람들이 가끔씩 큰 노력을 해서 삶을 바꾸려 한다. 어느 날 10킬로미터를 달리고 한 달을 쉰다. 어떤 사람들은 하룻밤에 책 한 권을 읽겠다는 목표를 세우지만 중간에 포기한다. 반면 하루에 15분만 운동하거나 읽는 사람들은 서서히 나아진다. 그들의 발전은 느려 보일 수 있지만 시간이 지나면 쌓인다.",
+    "why": "'In short'는 앞의 설명을 요약하는 표현이므로 글 맨 마지막인 ⑤에 들어가 결론을 정리합니다.",
+    "optionNotes": [
+      "예시가 나오기 전이라 요약할 내용이 없습니다.",
+      "하나의 예시만 나온 상태입니다.",
+      "두 번째 예시만 나온 상태라 요약하기 이릅니다.",
+      "반대되는 사례를 소개한 직후라 뒤의 설명이 남아 있습니다.",
+      "정답. 앞의 두 대조 사례를 요약하는 결론입니다."
+    ],
+    "trap": "④의 'In contrast' 뒤에 오면 요약처럼 보이지만, 이어지는 'Their progress ...'가 그 사례의 설명입니다.",
+    "tip": "'In short'는 앞의 내용을 정리하는 표현이므로 글의 끝에 놓입니다."
+  },
+  {
+    "id": "m2-03-40",
+    "level": "m2",
+    "set": "mock-03",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In a study, two groups of students solved the same puzzles. Group A listened to music with lyrics, and Group B studied in silence. Group B solved the puzzles faster and made fewer mistakes. The researchers explained that lyrics compete with our own thoughts, so the brain has to divide its attention.\n\n▶ Studying with (A) music can make it (B) to concentrate.",
+    "options": [
+      "(A) instrumental — (B) easier",
+      "(A) lyrical — (B) harder",
+      "(A) loud — (B) easier",
+      "(A) lyrical — (B) easier",
+      "(A) no — (B) harder"
+    ],
+    "answer": 1,
+    "translation": "한 연구에서 두 그룹의 학생이 같은 퍼즐을 풀었다. A 그룹은 가사가 있는 음악을 들었고 B 그룹은 조용히 공부했다. B 그룹이 퍼즐을 더 빨리 풀었고 실수도 적었다. 연구자들은 가사가 우리 자신의 생각과 경쟁해서 뇌가 주의를 나누어야 한다고 설명했다. ▶ 가사가 있는 음악을 들으며 공부하면 집중하기가 더 어려울 수 있다.",
+    "why": "가사가 있는 음악을 들은 그룹이 더 못했으므로 (A)는 lyrical, (B)는 harder입니다.",
+    "optionNotes": [
+      "instrumental 음악은 글에서 비교되지 않았습니다.",
+      "정답. 가사가 있는 음악은 집중을 더 어렵게 합니다.",
+      "loud는 글에 나오지 않습니다.",
+      "lyrical이지만 easier는 결과와 반대입니다.",
+      "음악이 없을 때 집중이 어려워진다는 것은 결과와 반대입니다."
+    ],
+    "trap": "(A)가 lyrical인 ④를 고르기 쉽지만 (B)가 easier라 결과와 반대입니다.",
+    "tip": "요약문은 결과가 좋은 그룹(silence)과 반대인 조건의 효과를 옮긴 것입니다."
+  }
+]

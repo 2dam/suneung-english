@@ -1,0 +1,340 @@
+[
+  {
+    "id": "m2-03-18",
+    "level": "m2",
+    "set": "mock-03",
+    "no": 18,
+    "type": "purpose",
+    "stem": "다음 글을 쓴 목적으로 가장 적절한 것은?",
+    "passage": "Dear Editor,\nI am a middle school student who rides a bike to school every day. I am writing to ask the city to build bike lanes on Main Street. Right now, cyclists must share the road with cars, which is dangerous. Last month, two of my classmates were hurt in accidents there. Please consider building safe bike lanes before someone is seriously injured.\nSincerely,\nMinsu Kang",
+    "options": [
+      "자전거 도로를 만들어 달라고 요청하려고",
+      "자전거 대여소의 위치와 이용 방법을 문의하려고",
+      "교통사고의 피해 보상을 요구하려고",
+      "학교 통학 버스의 노선을 변경하려고",
+      "새로 나온 자전거 상품을 홍보하려고"
+    ],
+    "answer": 0,
+    "translation": "편집장님께. 저는 매일 자전거로 학교에 가는 중학생입니다. 시에 중앙로에 자전거 도로를 만들어 달라고 요청하기 위해 글을 씁니다. 지금은 자전거 이용자가 차와 도로를 함께 써야 해서 위험합니다. 지난달에 제 반 친구 두 명이 그곳에서 사고로 다쳤습니다. 누군가 크게 다치기 전에 안전한 자전거 도로를 만드는 것을 고려해 주세요. 강민수 드림.",
+    "why": "'I am writing to ask the city to build bike lanes'로 자전거 도로를 만들어 달라고 요청하는 글입니다.",
+    "optionNotes": [
+      "정답. bike lanes를 요청합니다.",
+      "대여소는 언급되지 않았습니다.",
+      "보상 요구가 아니라 예방 요청입니다.",
+      "통학 버스는 언급되지 않았습니다.",
+      "상품 홍보가 아닙니다."
+    ],
+    "trap": "사고 이야기가 구체적이라 ③을 고르기 쉽지만, 글의 목적은 사고의 예방(도로 건설)입니다.",
+    "tip": "편지의 목적은 'I am writing to ask ~'에서 확인하세요."
+  },
+  {
+    "id": "m2-03-19",
+    "level": "m2",
+    "set": "mock-03",
+    "no": 19,
+    "type": "mood",
+    "stem": "다음 글에 드러난 'I'의 심경 변화로 가장 적절한 것은?",
+    "passage": "I had tried to bake cookies three times, but each batch came out burnt. My kitchen smelled like smoke, and I was ready to give up. Then my grandmother came in and showed me how to lower the oven temperature. This time, I watched carefully. When the timer rang, the cookies were golden and soft. I took one bite and could not stop smiling.",
+    "options": [
+      "bored → surprised",
+      "angry → ashamed",
+      "frustrated → satisfied",
+      "excited → disappointed",
+      "lonely → jealous"
+    ],
+    "answer": 2,
+    "translation": "나는 쿠키를 세 번 구워 보았지만 매번 타 버렸다. 부엌에서는 연기 냄새가 났고 나는 포기할 준비가 되어 있었다. 그때 할머니가 들어와 오븐 온도를 낮추는 법을 보여 주셨다. 이번에는 주의 깊게 지켜보았다. 타이머가 울렸을 때 쿠키는 황금빛이고 부드러웠다. 한 입 먹고 나는 웃음을 멈출 수 없었다.",
+    "why": "세 번 실패해 포기하려 했다가(frustrated) 성공한 쿠키를 먹고 웃음을 멈추지 못합니다(satisfied).",
+    "optionNotes": [
+      "지루함이나 놀람이 중심이 아닙니다.",
+      "화가 났다가 부끄러워하는 흐름이 아닙니다.",
+      "정답. 좌절 → 만족.",
+      "흥분에서 실망으로 바뀌는 흐름은 반대입니다.",
+      "외로움이나 질투는 나타나지 않습니다."
+    ],
+    "trap": "④는 순서를 반대로 한 보기입니다. 감정이 바뀌는 방향을 확인하세요.",
+    "tip": "심경 변화는 앞의 표현(burnt, give up)과 끝의 표현(could not stop smiling)을 연결하세요."
+  },
+  {
+    "id": "m2-03-20",
+    "level": "m2",
+    "set": "mock-03",
+    "no": 20,
+    "type": "claim",
+    "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+    "passage": "On social media, people usually show only their best moments. When you scroll through these photos, it is easy to feel that your own life is boring. However, those pictures do not show the whole story. Everyone has bad days, even if they do not post about them. So, you should not compare your real life with other people's highlights.",
+    "options": [
+      "SNS는 하루에 한 시간 정도만 정해서 사용해야 한다.",
+      "남이 올린 모습과 내 삶을 비교하지 말아야 한다.",
+      "좋은 사진을 올려 많은 사람의 반응을 얻어야 한다.",
+      "친구가 올린 게시물에는 항상 댓글을 달아야 한다.",
+      "힘든 날에는 SNS 계정을 완전히 삭제해야 한다."
+    ],
+    "answer": 1,
+    "translation": "소셜 미디어에서 사람들은 보통 가장 좋은 순간만 보여 준다. 이런 사진들을 넘겨 보면 자신의 삶이 지루하다고 느끼기 쉽다. 그러나 그 사진들이 전체 이야기를 보여 주는 것은 아니다. 올리지 않더라도 누구에게나 힘든 날이 있다. 그러므로 자신의 실제 삶을 다른 사람의 하이라이트와 비교해서는 안 된다.",
+    "why": "마지막 문장 'you should not compare your real life with other people's highlights'가 주장입니다.",
+    "optionNotes": [
+      "사용 시간 제한은 언급되지 않았습니다.",
+      "정답. 남들의 하이라이트와 비교하지 말라는 주장입니다.",
+      "반응을 얻는 방법은 언급되지 않았습니다.",
+      "댓글은 언급되지 않았습니다.",
+      "계정 삭제는 언급되지 않았습니다."
+    ],
+    "trap": "①④⑤는 SNS와 관련된 일반적인 조언처럼 보이지만 글에 나오지 않습니다.",
+    "tip": "주장은 'So, you should not ~'처럼 결론에서 행동을 제시하는 문장입니다."
+  },
+  {
+    "id": "m2-03-21",
+    "level": "m2",
+    "set": "mock-03",
+    "no": 21,
+    "type": "implied",
+    "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "passage": "The school festival was only a week away. But our class had not decided what to perform. Everyone had a different idea, and the arguments never ended. Then our class president said, \"We are all {u|in the same boat}, so we have to work it out together.\"",
+    "options": [
+      "sitting on a boat at a lake",
+      "sailing to a faraway island",
+      "trying to change the school rules",
+      "looking for a new class president",
+      "facing the same difficult situation together"
+    ],
+    "answer": 4,
+    "translation": "학교 축제가 일주일밖에 남지 않았다. 하지만 우리 반은 무엇을 공연할지 정하지 못했다. 모두가 다른 생각을 가졌고 논쟁은 끝나지 않았다. 그때 우리 반 회장이 말했다. \"우리는 모두 같은 배를 탄 처지니까 함께 해결해야 해.\"",
+    "why": "축제가 다가오는데 공연을 못 정해 모두가 같은 어려움을 겪고 있으므로 'in the same boat'는 같은 어려운 처지에 있다는 뜻입니다.",
+    "optionNotes": [
+      "배에 타고 있다는 문자 그대로의 해석입니다.",
+      "섬으로 항해한다는 내용은 없습니다.",
+      "학교 규칙은 언급되지 않았습니다.",
+      "새 반장을 찾는다는 내용은 없습니다.",
+      "정답. 같은 어려운 상황에 처해 있다는 뜻입니다."
+    ],
+    "trap": "boat이라는 단어 때문에 ①②를 고르지 마세요. 관용 표현은 상황으로 해석합니다.",
+    "tip": "관용 표현은 뒤 문장(so we have to work it out together)이 의미를 알려 줍니다."
+  },
+  {
+    "id": "m2-03-22",
+    "level": "m2",
+    "set": "mock-03",
+    "no": 22,
+    "type": "gist",
+    "stem": "다음 글의 요지로 가장 적절한 것은?",
+    "passage": "Being on time is a simple way to show respect. When you arrive late, other people have to wait, and their time is wasted. For example, if you are late for a meeting, the whole team may need to start over. Being punctual also shows that you take your responsibilities seriously. People who are always on time earn trust more easily.",
+    "options": [
+      "약속 장소는 하루 전에 미리 정해 두어야 한다.",
+      "친구와의 약속은 상황에 따라 자주 바꾸어도 된다.",
+      "시간 관리 앱을 사용하는 것이 가장 좋은 방법이다.",
+      "시간을 지키는 것은 존중을 보여 준다.",
+      "일찍 일어나는 사람이 항상 성공을 거둔다."
+    ],
+    "answer": 3,
+    "translation": "시간을 지키는 것은 존중을 보여 주는 간단한 방법이다. 늦게 도착하면 다른 사람들이 기다려야 하고 그들의 시간이 낭비된다. 예를 들어 회의에 늦으면 팀 전체가 다시 시작해야 할 수도 있다. 시간을 지키는 것은 책임을 진지하게 여긴다는 것도 보여 준다. 항상 시간을 지키는 사람은 더 쉽게 신뢰를 얻는다.",
+    "why": "첫 문장 'Being on time is a simple way to show respect.'가 글 전체의 요지입니다.",
+    "optionNotes": [
+      "장소 이야기는 없습니다.",
+      "약속을 바꾸어도 된다는 것은 글과 반대입니다.",
+      "앱은 언급되지 않았습니다.",
+      "정답. 시간을 지키는 것은 존중을 보여 줍니다.",
+      "일찍 일어나는 것은 언급되지 않았습니다."
+    ],
+    "trap": "②는 글과 정반대의 내용입니다. 'late'가 나오는 문장이 부정적 예시임을 확인하세요.",
+    "tip": "요지는 첫 문장과 마지막 문장에서 반복되는 핵심(respect, trust)을 묶어 보세요."
+  },
+  {
+    "id": "m2-03-23",
+    "level": "m2",
+    "set": "mock-03",
+    "no": 23,
+    "type": "topic",
+    "stem": "다음 글의 주제로 가장 적절한 것은?",
+    "passage": "Elephants communicate in ways that humans cannot hear. They make very low sounds, called infrasound, which can travel several kilometers through the air and the ground. Scientists have recorded these calls with special microphones. Other elephants can feel these sounds through their feet. This helps them stay in touch even when they are far apart.",
+    "options": [
+      "how elephants communicate over long distances",
+      "why elephants have such large ears on their heads",
+      "what elephants eat during the dry season",
+      "how baby elephants learn to swim in rivers",
+      "where elephants live in the African forests"
+    ],
+    "answer": 0,
+    "translation": "코끼리는 사람이 들을 수 없는 방식으로 의사소통한다. 그들은 초저주파라 불리는 매우 낮은 소리를 내는데, 이는 공기와 땅을 통해 수 킬로미터를 이동할 수 있다. 과학자들은 특수 마이크로 이런 소리를 기록해 왔다. 다른 코끼리는 발로 이 소리를 느낄 수 있다. 이것은 멀리 떨어져 있어도 연락을 유지하도록 돕는다.",
+    "why": "코끼리가 초저주파로 먼 거리에서도 의사소통하는 방식을 설명하는 글입니다.",
+    "optionNotes": [
+      "정답. 먼 거리에서의 의사소통입니다.",
+      "귀의 크기는 다루지 않습니다.",
+      "먹이는 다루지 않습니다.",
+      "수영은 다루지 않습니다.",
+      "서식지는 다루지 않습니다."
+    ],
+    "trap": "elephants 관련 일반 상식(귀, 먹이, 서식지)으로 오답을 고르지 마세요.",
+    "tip": "주제는 글에서 반복되는 핵심어(sounds, communicate)를 묶어 보세요."
+  },
+  {
+    "id": "m2-03-24",
+    "level": "m2",
+    "set": "mock-03",
+    "no": 24,
+    "type": "title",
+    "stem": "다음 글의 제목으로 가장 적절한 것은?",
+    "passage": "In a small village far from any city, a bus travels once a week with a special load: books. The \"Book Bus\" stops at each village for an hour, and children can borrow books for free. Many of them have never visited a real library. The driver, a retired teacher, reads aloud to them. Because of this bus, many children in the village have fallen in love with reading.",
+    "options": [
+      "A Bus Driver's Long Journey Home",
+      "How to Build a New School in a Village",
+      "Why Children Should Avoid Using Phones",
+      "The History of Public Transportation",
+      "A Bus That Brings Books to Children"
+    ],
+    "answer": 4,
+    "translation": "도시에서 멀리 떨어진 작은 마을에서는 일주일에 한 번 특별한 짐을 실은 버스가 다닌다. 바로 책이다. '북 버스'는 각 마을에서 한 시간씩 서 있고 아이들은 책을 무료로 빌릴 수 있다. 그들 중 많은 아이가 진짜 도서관에 가 본 적이 없다. 운전기사인 은퇴한 교사는 아이들에게 소리 내어 책을 읽어 준다. 이 버스 덕분에 마을의 많은 아이가 독서를 좋아하게 되었다.",
+    "why": "책을 실어 마을 아이들에게 빌려주는 버스 이야기이므로 ⑤가 제목으로 적절합니다.",
+    "optionNotes": [
+      "운전기사의 귀가 여정이 아닙니다.",
+      "학교를 짓는 방법이 아닙니다.",
+      "휴대전화 이야기가 아닙니다.",
+      "대중교통의 역사가 아닙니다.",
+      "정답. 책을 실어 나르는 버스입니다."
+    ],
+    "trap": "bus라는 소재가 같아 ①④를 고르기 쉽지만, 핵심은 책을 가져다주는 것입니다.",
+    "tip": "제목은 소재(bus)와 기능(brings books)을 함께 담습니다."
+  },
+  {
+    "id": "m2-03-25",
+    "level": "m2",
+    "set": "mock-03",
+    "no": 25,
+    "type": "chart",
+    "stem": "다음 도표의 내용과 일치하지 않는 것은?",
+    "chart": {
+      "title": "Favorite Drinks of Boys and Girls in Class 2-2",
+      "unit": "students",
+      "labels": [
+        "Water",
+        "Juice",
+        "Milk",
+        "Soda"
+      ],
+      "series": [
+        {
+          "name": "Boys",
+          "values": [
+            8,
+            6,
+            5,
+            9
+          ]
+        },
+        {
+          "name": "Girls",
+          "values": [
+            10,
+            7,
+            6,
+            3
+          ]
+        }
+      ]
+    },
+    "passage": "The graph shows the favorite drinks of boys and girls in Class 2-2. ① More girls than boys choose water. ② Soda is the most popular drink among girls. ③ Eleven students in total choose milk. ④ Among boys, soda is the most popular drink. ⑤ The number of girls who choose soda is less than half of the number of boys.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "그래프는 2학년 2반 남학생과 여학생이 좋아하는 음료를 보여 준다. ① 물을 선택한 여학생이 남학생보다 많다. ② 탄산음료는 여학생에게 가장 인기 있는 음료이다. ③ 우유를 선택한 학생은 모두 11명이다. ④ 남학생 중에서는 탄산음료가 가장 인기 있다. ⑤ 탄산음료를 선택한 여학생 수는 남학생 수의 절반보다 적다.",
+    "why": "여학생이 가장 좋아하는 음료는 물(10명)이고 탄산음료는 3명이므로 ②가 일치하지 않습니다.",
+    "optionNotes": [
+      "물은 여학생 10명, 남학생 8명입니다.",
+      "정답(불일치). 여학생의 탄산음료는 3명으로 가장 적습니다.",
+      "우유는 5 + 6 = 11명입니다.",
+      "남학생의 탄산음료는 9명으로 가장 많습니다.",
+      "여학생 3명은 남학생 9명의 절반(4.5)보다 적습니다."
+    ],
+    "trap": "boys의 탄산음료 수(9)를 여학생 것으로 읽으면 ②가 맞아 보입니다. 범례를 확인하세요.",
+    "tip": "두 집단 도표는 '누구의' 막대인지(범례)를 먼저 확인하세요."
+  },
+  {
+    "id": "m2-03-26",
+    "level": "m2",
+    "set": "mock-03",
+    "no": 26,
+    "type": "match",
+    "stem": "Elena Novak에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Elena Novak is a 16-year-old chess player from Poland. She learned to play chess from her grandmother when she was six. She now practices for three hours every day after school. Last year, she won the national junior championship. Her coach says that her calm attitude is her greatest strength. She hopes to become a professional player and travel to many countries.",
+    "options": [
+      "폴란드 출신의 열여섯 살 수영 선수이다.",
+      "아버지에게서 체스를 배웠다.",
+      "하루에 한 시간씩 연습한다.",
+      "작년에 전국 청소년 대회에서 우승했다.",
+      "이미 프로 선수로 활동하고 있다."
+    ],
+    "answer": 3,
+    "translation": "Elena Novak는 폴란드 출신의 열여섯 살 체스 선수이다. 그녀는 여섯 살 때 할머니에게서 체스를 배웠다. 지금은 방과 후 매일 세 시간씩 연습한다. 작년에 그녀는 전국 청소년 선수권 대회에서 우승했다. 그녀의 코치는 침착한 태도가 그녀의 가장 큰 강점이라고 말한다. 그녀는 프로 선수가 되어 여러 나라를 여행하기를 희망한다.",
+    "why": "'Last year, she won the national junior championship.'과 일치합니다.",
+    "optionNotes": [
+      "수영이 아니라 체스 선수입니다.",
+      "할머니에게서 배웠습니다.",
+      "하루 세 시간씩 연습합니다.",
+      "정답. 작년에 전국 청소년 대회에서 우승했습니다.",
+      "프로가 되고 싶어 하는 희망입니다."
+    ],
+    "trap": "종목, 가르친 사람, 시간, 현재 상태를 바꾼 보기들입니다.",
+    "tip": "일치 문제는 종목·사람·숫자·시점을 하나씩 대조하세요."
+  },
+  {
+    "id": "m2-03-27",
+    "level": "m2",
+    "set": "mock-03",
+    "no": 27,
+    "type": "notice",
+    "stem": "Volunteer Day에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Volunteer Day at Happy Tails Animal Shelter\nHelp us care for dogs and cats!\nDate: Sunday, April 14\nTime: 9:00 a.m. – 12:00 p.m.\nWho: Students aged 12 and older (students under 14 need a parent's permission)\nTasks: Walking dogs, cleaning cages, and feeding cats\nBring: Water and comfortable shoes\nSign up: Call the shelter by April 10.\nNote: Lunch will be provided for all volunteers.",
+    "options": [
+      "토요일 오후에 열린다.",
+      "12세 미만도 참가할 수 있다.",
+      "신청은 4월 14일까지 해야 한다.",
+      "점심은 각자 가져와야 한다.",
+      "14세 미만 학생은 부모의 허락이 필요하다."
+    ],
+    "answer": 4,
+    "translation": "Happy Tails 동물 보호소 봉사의 날. 개와 고양이를 돌보는 것을 도와주세요! 날짜: 4월 14일 일요일. 시간: 오전 9시~낮 12시. 대상: 12세 이상 학생(14세 미만은 부모의 허락 필요). 활동: 개 산책시키기, 우리 청소하기, 고양이 먹이 주기. 준비물: 물과 편한 신발. 신청: 4월 10일까지 보호소에 전화. 유의: 모든 봉사자에게 점심이 제공됩니다.",
+    "why": "'students under 14 need a parent's permission'과 일치합니다.",
+    "optionNotes": [
+      "일요일 오전에 열립니다.",
+      "12세 이상 학생이 대상입니다.",
+      "신청 마감은 4월 10일입니다.",
+      "점심은 제공됩니다.",
+      "정답. 14세 미만은 부모의 허락이 필요합니다."
+    ],
+    "trap": "'12 and older'와 'under 14'의 두 연령 기준을 구분하세요.",
+    "tip": "괄호 안의 조건(parent's permission)이 일치 문제의 단서인 경우가 많습니다."
+  },
+  {
+    "id": "m2-03-28",
+    "level": "m2",
+    "set": "mock-03",
+    "no": 28,
+    "type": "notice",
+    "stem": "Mini Marathon for Students에 관한 다음 안내문의 내용과 일치하지 않는 것은?",
+    "passage": "Mini Marathon for Students\nRun for health and fun!\nDate: Saturday, October 5\nStart: 8:30 a.m. at City Hall Square\nCourse: 5 km (round trip along the river)\nFee: $5 (T-shirt and snack included)\nRegister: Online by September 28\nNote: Runners must wear a number card. Strollers are not allowed.",
+    "options": [
+      "참가비를 내더라도 티셔츠와 간식은 따로 사야 한다.",
+      "5km 코스로 진행된다.",
+      "시청 광장에서 출발한다.",
+      "온라인으로 등록해야 한다.",
+      "번호표를 달아야 한다."
+    ],
+    "answer": 0,
+    "translation": "학생을 위한 미니 마라톤. 건강과 즐거움을 위해 달려요! 날짜: 10월 5일 토요일. 출발: 오전 8시 30분 시청 광장. 코스: 5km(강변 왕복). 참가비: 5달러(티셔츠와 간식 포함). 등록: 9월 28일까지 온라인. 유의: 주자는 번호표를 달아야 합니다. 유모차는 허용되지 않습니다.",
+    "why": "참가비에 티셔츠와 간식이 포함되어 있으므로 따로 사야 한다는 ①은 일치하지 않습니다.",
+    "optionNotes": [
+      "정답(불일치). T-shirt and snack included입니다.",
+      "Course: 5 km와 일치합니다.",
+      "at City Hall Square와 일치합니다.",
+      "Register: Online과 일치합니다.",
+      "Runners must wear a number card와 일치합니다."
+    ],
+    "trap": "'included'를 놓치면 별도 구매라고 착각할 수 있습니다.",
+    "tip": "괄호 안의 포함(included) 정보를 놓치지 마세요."
+  }
+]
