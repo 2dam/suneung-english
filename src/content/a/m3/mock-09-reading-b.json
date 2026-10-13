@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m3-09-29",
+    "level": "m3",
+    "set": "mock-09",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Many people who live in big cities {1|suffers} from stress. A recent study found that spending twenty minutes in a park {2|can lower} stress levels. Researchers asked volunteers {3|to walk} through a park or a busy street, and those who walked in the park {4|reported} feeling much calmer. This suggests that cities should {5|provide} more green spaces.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "대도시에 사는 많은 사람이 스트레스에 시달린다. 최근 연구는 공원에서 20분을 보내는 것이 스트레스 수준을 낮출 수 있음을 발견했다. 연구자들은 자원자들에게 공원이나 번잡한 거리를 걸어 보라고 요청했고 공원에서 걸은 사람들은 훨씬 더 차분해졌다고 보고했다. 이는 도시가 더 많은 녹지 공간을 제공해야 함을 시사한다.",
+    "why": "주어 'Many people'은 복수이므로 동사는 'suffers'가 아니라 'suffer'여야 합니다.",
+    "optionNotes": [
+      "정답(틀림). 복수 주어에 맞춰 suffer여야 합니다.",
+      "조동사 can 뒤의 동사원형 lower가 맞습니다.",
+      "ask + 목적어 + to부정사 구문이 맞습니다.",
+      "those를 주어로 하는 과거 reported가 맞습니다.",
+      "조동사 should 뒤의 동사원형 provide가 맞습니다."
+    ],
+    "trap": "관계절 'who live in big cities'가 길어 주어(people)의 수를 놓치기 쉽습니다.",
+    "tip": "수식어구가 길 때는 문장의 핵심 주어를 찾아 수일치를 확인하세요."
+  },
+  {
+    "id": "m3-09-30",
+    "level": "m3",
+    "set": "mock-09",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Social media has changed the way we {1|communicate}. News spreads {2|instantly}, so people can learn about events across the world within seconds. However, information that has not been checked can be {3|reliable}, and false stories sometimes travel faster than true ones. For this reason, readers should {4|verify} the source before they share, and they should be {5|cautious} about shocking headlines.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "소셜 미디어는 우리가 소통하는 방식을 바꾸었다. 뉴스는 즉시 퍼지므로 사람들은 몇 초 안에 세계 곳곳의 사건을 알 수 있다. 그러나 확인되지 않은 정보는 믿을 수 없을 수 있고 거짓 이야기가 사실보다 빨리 퍼지기도 한다. 이런 이유로 독자는 공유하기 전에 출처를 확인해야 하고 충격적인 제목에 신중해야 한다.",
+    "why": "확인되지 않은 정보이고 거짓 이야기가 퍼진다는 흐름이므로 'reliable(믿을 만한)'이 아니라 'misleading(오해를 일으키는)'이어야 합니다.",
+    "optionNotes": [
+      "소통 방식을 바꾸었다는 의미로 communicate가 알맞습니다.",
+      "즉시 퍼진다는 의미로 instantly가 알맞습니다.",
+      "정답(부적절). 확인되지 않은 정보는 misleading이 알맞습니다.",
+      "출처를 확인한다는 의미로 verify가 알맞습니다.",
+      "신중하다는 의미로 cautious가 알맞습니다."
+    ],
+    "trap": "'However' 뒤라 부정적 내용이 와야 하는데 reliable은 긍정적 의미라 모순됩니다.",
+    "tip": "접속사(However) 뒤의 낱말이 글의 흐름(부정적 평가)과 맞는지 확인하세요."
+  },
+  {
+    "id": "m3-09-31",
+    "level": "m3",
+    "set": "mock-09",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Researchers who study memory have discovered that retelling a story can change it. Each time we remember an event, our brain rebuilds it from pieces, and in this process small details may be added or lost. In one study, people watched a video of a car accident. Those who were asked how fast the cars were going when they smashed into each other reported higher speeds. Some of them even remembered broken glass that was not in the video. This means that vivid memories are not always __________.",
+    "options": [
+      "short",
+      "accurate",
+      "pleasant",
+      "private",
+      "recent"
+    ],
+    "answer": 1,
+    "translation": "기억을 연구하는 연구자들은 이야기를 다시 말하면 그것이 바뀔 수 있음을 발견했다. 우리가 사건을 기억할 때마다 뇌는 그것을 조각들로 다시 만들고 이 과정에서 작은 세부 사항이 더해지거나 사라질 수 있다. 한 연구에서 사람들은 자동차 사고 영상을 보았다. 자동차들이 서로 '박살 났을' 때 얼마나 빨리 달리고 있었는지 질문받은 사람들은 더 높은 속도를 보고했다. 그들 중 일부는 영상에 없던 깨진 유리를 기억하기도 했다. 이는 생생한 기억이 항상 정확한 것은 아님을 의미한다.",
+    "why": "기억이 다시 만들어지며 세부가 바뀌므로 생생해도 항상 정확하지는 않다는 말이 알맞습니다.",
+    "optionNotes": [
+      "길이 이야기는 나오지 않습니다.",
+      "정답. 생생해도 정확하지 않을 수 있습니다.",
+      "기분 이야기는 나오지 않습니다.",
+      "사적인지는 나오지 않습니다.",
+      "최근 여부는 나오지 않습니다."
+    ],
+    "trap": "'vivid'와 어울리는 pleasant에 이끌리지 마세요.",
+    "tip": "'not always'는 앞 내용의 한계를 말하는 표현입니다."
+  },
+  {
+    "id": "m3-09-32",
+    "level": "m3",
+    "set": "mock-09",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "People who walk to work often say that the time spent walking is the best part of their day. Without the pressure of driving, they can organize their thoughts and plan the day ahead. Some companies even hold walking meetings. Employees take a path around the office park instead of sitting around a table. Many of them also feel more relaxed afterward. According to the managers, ideas flow more easily when people are __________, and the meetings finish sooner than usual.",
+    "options": [
+      "sitting at their desks",
+      "moving their bodies",
+      "looking at their phones",
+      "eating together",
+      "speaking loudly"
+    ],
+    "answer": 1,
+    "translation": "걸어서 출근하는 사람들은 걷는 시간이 하루 중 가장 좋은 부분이라고 말하곤 한다. 운전의 압박이 없으면 생각을 정리하고 하루를 계획할 수 있다. 일부 회사는 걷기 회의를 열기도 한다. 직원들은 탁자에 둘러앉는 대신 사무 단지 주변의 길을 걷는다. 그들 중 다수는 끝난 뒤 더 편안해졌다고도 느낀다. 관리자들에 따르면 사람들이 몸을 움직일 때 아이디어가 더 쉽게 흐르고 회의도 평소보다 빨리 끝난다.",
+    "why": "걷기 회의가 아이디어를 잘 흐르게 한다는 내용이므로 몸을 움직이고 있을 때가 알맞습니다.",
+    "optionNotes": [
+      "앉아 있으면 걷기 회의의 장점과 맞지 않습니다.",
+      "정답. 몸을 움직일 때 아이디어가 잘 흐릅니다.",
+      "휴대전화 이야기는 나오지 않습니다.",
+      "식사 이야기는 나오지 않습니다.",
+      "목소리 크기는 나오지 않습니다."
+    ],
+    "trap": "'meetings'에서 책상에 앉는 모습을 떠올려 ①을 고르기 쉽습니다.",
+    "tip": "'walking meetings'가 빈칸의 단서입니다."
+  },
+  {
+    "id": "m3-09-33",
+    "level": "m3",
+    "set": "mock-09",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Wild animals show a behavior that humans also have when facing danger: some freeze, some run, and some fight. Scientists call this the fight-or-flight response. Interestingly, it is not decided by careful thinking. When a loud sound comes from behind, the heart beats faster and the muscles tighten within a fraction of a second. Experts say that this quick reaction has helped many species survive. Before the brain can analyze the situation, the body has already __________.",
+    "options": [
+      "prepared itself to react",
+      "forgotten the danger",
+      "fallen into a deep sleep",
+      "asked other animals for help",
+      "made a long-term plan"
+    ],
+    "answer": 0,
+    "translation": "야생 동물은 인간에게도 있는 행동을 위험에 처했을 때 보인다. 어떤 동물은 얼어붙고 어떤 동물은 달아나며 어떤 동물은 맞서 싸운다. 과학자들은 이를 투쟁-도피 반응이라고 부른다. 흥미롭게도 이것은 신중한 생각으로 결정되지 않는다. 뒤에서 큰 소리가 나면 1초도 안 되어 심장이 더 빨리 뛰고 근육이 긴장한다. 전문가들은 이 빠른 반응이 많은 종의 생존을 도왔다고 말한다. 뇌가 상황을 분석하기도 전에 몸은 이미 반응할 준비를 마쳤다.",
+    "why": "생각으로 결정되지 않고 뇌가 분석하기 전에 몸이 먼저 움직이므로 반응할 준비를 마쳤다는 말이 알맞습니다.",
+    "optionNotes": [
+      "정답. 몸이 이미 반응할 준비를 마쳤습니다.",
+      "위험을 잊는다는 내용은 없습니다.",
+      "잠든다는 내용은 없습니다.",
+      "도움을 요청하는 내용은 없습니다.",
+      "장기 계획은 신중한 생각과 같아 글과 반대입니다."
+    ],
+    "trap": "⑤는 신중한 생각의 결과이므로 'not decided by careful thinking'과 모순됩니다.",
+    "tip": "'Before the brain can analyze'는 몸이 먼저 반응한다는 뜻의 단서입니다."
+  },
+  {
+    "id": "m3-09-34",
+    "level": "m3",
+    "set": "mock-09",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "When a company designs a product, it often tests it on an average user. However, there is no such thing as a truly average person. In a famous study of thousands of pilots, not one matched the average on all ten body measurements. People differ in height, weight, and even the length of their arms. Even small differences can matter a great deal. A seat designed for the average body would fit almost no one. For this reason, good designers try to __________.",
+    "options": [
+      "copy the most popular product",
+      "create flexible products that people of different sizes can adjust to their needs",
+      "ignore what customers say",
+      "use cheaper materials",
+      "reduce the size of every product"
+    ],
+    "answer": 1,
+    "translation": "회사가 제품을 설계할 때 흔히 평균적인 사용자를 기준으로 시험한다. 그러나 진정으로 평균적인 사람이란 존재하지 않는다. 수천 명의 조종사를 대상으로 한 유명한 연구에서 열 가지 신체 치수 모두에서 평균과 일치한 사람은 한 명도 없었다. 사람들은 키, 몸무게, 심지어 팔 길이도 다르다. 작은 차이도 매우 중요할 수 있다. 평균적인 몸에 맞게 설계된 좌석은 거의 아무에게도 맞지 않을 것이다. 이런 이유로 좋은 디자이너는 서로 다른 체격의 사람들이 자신의 필요에 맞게 조절할 수 있는 유연한 제품을 만들려고 한다.",
+    "why": "평균적인 사람은 없으므로 다양한 체격이 조절해 쓸 수 있는 유연한 제품을 만들어야 합니다.",
+    "optionNotes": [
+      "인기 제품을 베끼는 내용은 없습니다.",
+      "정답. 다양한 체격이 조절할 수 있는 유연한 제품입니다.",
+      "고객의 의견을 무시하는 내용은 없습니다.",
+      "재료 이야기는 나오지 않습니다.",
+      "크기를 줄이는 내용은 없습니다."
+    ],
+    "trap": "'average'에 이끌려 평균적인 제품을 만드는 방법을 고르지 마세요.",
+    "tip": "'no such thing as an average person'의 결론은 모두에게 맞게 조절 가능해야 한다는 것입니다."
+  },
+  {
+    "id": "m3-09-35",
+    "level": "m3",
+    "set": "mock-09",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Cooking at home has many benefits. ① It allows you to control the ingredients and the amount of salt and sugar. ② It usually costs less than eating out every day. ③ Preparing meals also improves your skills in planning and organizing. ④ Sharing a home-cooked meal strengthens family bonds. ⑤ Many tourists visit the city's historical sites in the summer.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "집에서 요리하는 것은 많은 이점이 있다. ① 재료와 소금, 설탕의 양을 조절할 수 있다. ② 보통 매일 외식하는 것보다 비용이 적게 든다. ③ 식사를 준비하는 것은 계획하고 정리하는 능력도 키워 준다. ④ 집에서 만든 음식을 함께 나누는 것은 가족 간의 유대를 강화한다. ⑤ 많은 관광객이 여름에 도시의 유적지를 방문한다.",
+    "why": "글은 집에서 요리하는 이점을 말하는데 ⑤는 관광객의 유적지 방문이라 관계가 없습니다.",
+    "optionNotes": [
+      "요리의 이점입니다.",
+      "요리의 이점입니다.",
+      "요리의 이점입니다.",
+      "요리의 이점입니다.",
+      "정답(무관). 관광객 이야기입니다."
+    ],
+    "trap": "마지막 문장이라 결론으로 착각하기 쉽지만 주제와 무관합니다.",
+    "tip": "마지막 문장도 주제와 이어지는지 확인하세요."
+  },
+  {
+    "id": "m3-09-36",
+    "level": "m3",
+    "set": "mock-09",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Procrastination, putting off tasks until the last moment, is often seen as a sign of laziness.\n(A) Therefore, to stop procrastinating, we should first deal with the negative feelings, for example by dividing a task into smaller steps.\n(B) However, psychologists argue that it is not a problem of time management but a problem of emotion management.\n(C) In other words, people delay tasks that make them feel anxious or bored, such as writing a report or cleaning a room. Avoiding the task brings immediate relief.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 2,
+    "translation": "마지막 순간까지 일을 미루는 것은 흔히 게으름의 신호로 여겨진다. (B) 그러나 심리학자들은 그것이 시간 관리의 문제가 아니라 감정 관리의 문제라고 주장한다. (C) 다시 말해 사람들은 불안하거나 지루하게 만드는 일, 예를 들어 보고서 쓰기나 방 청소를 미룬다. 그 일을 피하면 즉각적인 안도감이 온다. (A) 그러므로 미루기를 멈추려면 먼저 부정적인 감정을 다루어야 하며, 예를 들어 과제를 더 작은 단계로 나누는 것이다.",
+    "why": "(B) 'However'로 통념을 반박 → (C) 'In other words'로 설명 → (A) 'Therefore'로 해결책 순서입니다.",
+    "optionNotes": [
+      "(A)의 'Therefore'가 근거 없이 처음에 올 수 없습니다.",
+      "(A)의 'Therefore'는 (C)의 설명 뒤에 와야 합니다.",
+      "정답. 반박 → 설명 → 결론.",
+      "(C)의 'In other words'는 (B)의 주장을 바꿔 말하는 것입니다.",
+      "(B)가 (C) 뒤에 오면 'However'가 어색하고 결론 (A)가 마지막이어야 합니다."
+    ],
+    "trap": "(C)의 'In other words'는 바로 앞 (B)의 주장을 풀어 말하는 문장입니다.",
+    "tip": "However(반박) → In other words(설명) → Therefore(결론)의 논리 순서를 확인하세요."
+  },
+  {
+    "id": "m3-09-37",
+    "level": "m3",
+    "set": "mock-09",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "One of the most useful office products was invented by accident.\n(A) A scientist at a company was trying to make a very strong glue, but he produced a weak one. It stuck lightly and could be removed easily.\n(B) That small idea became the sticky note, which is now sold in almost every country all over the world.\n(C) For years, nobody knew what to do with it. Then a colleague used it to mark pages in his songbook.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "가장 유용한 사무용품 중 하나는 우연히 발명되었다. (A) 한 회사의 과학자가 매우 강한 접착제를 만들려 했지만 가볍게 붙고 쉽게 떼어지는 약한 접착제를 만들어 냈다. (C) 몇 년 동안 아무도 그것을 어디에 쓸지 몰랐는데, 한 동료가 그것으로 악보집의 페이지를 표시하기 전까지는 그랬다. (B) 그 작은 아이디어는 포스트잇이 되었고 지금은 전 세계에서 팔린다.",
+    "why": "(A) 약한 접착제의 탄생 → (C) 'it'을 받아 쓸모를 찾은 계기 → (B) 'That small idea'로 결과 순서입니다.",
+    "optionNotes": [
+      "정답. 발명 → 활용의 계기 → 결과.",
+      "(B)의 'That small idea'가 가리킬 내용이 앞에 없습니다.",
+      "(B)의 'That small idea'가 가리킬 내용이 앞에 없습니다.",
+      "(C)의 'it'이 가리킬 접착제가 앞에 없습니다.",
+      "(C)의 'it'이 가리킬 접착제가 앞에 없습니다."
+    ],
+    "trap": "(B)는 결과를 요약하므로 가장 마지막에 옵니다.",
+    "tip": "it, That small idea 같은 지시어가 가리키는 앞 문장을 확인하세요."
+  },
+  {
+    "id": "m3-09-38",
+    "level": "m3",
+    "set": "mock-09",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nAs a result, the village's income from tourism has doubled in five years.\n\n[글]\n( ① ) A small fishing village in Norway was losing its young people. ( ② ) To change this, the villagers turned old fishing huts into guest houses. ( ③ ) Visitors from around the world came to enjoy the quiet sea and the local food. ( ④ ) With this extra income, the village built a small school and a library. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "[주어진 문장] 그 결과 마을의 관광 수입은 5년 만에 두 배가 되었다. [글] 노르웨이의 작은 어촌 마을은 젊은이들을 잃고 있었다. 이를 바꾸기 위해 마을 사람들은 낡은 어부 오두막을 게스트하우스로 바꾸었다. 전 세계의 방문객이 고요한 바다와 현지 음식을 즐기러 왔다. 그 결과 마을의 관광 수입은 5년 만에 두 배가 되었다. 이 추가 수입으로 마을은 작은 학교와 도서관을 지었다.",
+    "why": "'As a result'는 방문객 증가의 결과이고 뒤의 'this extra income'이 가리키는 수입이 먼저 나와야 하므로 ④에 들어갑니다.",
+    "optionNotes": [
+      "글의 첫머리라 'As a result'가 어색합니다.",
+      "게스트하우스를 만든 직후 결과를 말하기엔 방문객 이야기가 빠집니다.",
+      "방문객이 온 사실이 나왔지만 'this extra income'은 아직 나오지 않았습니다.",
+      "정답. 방문객의 결과 → 수입 증가 → 'this extra income'.",
+      "'this extra income'의 지시 대상이 앞에 없습니다."
+    ],
+    "trap": "뒤 문장의 'this extra income'이 가리키는 수입 이야기가 먼저 나와야 합니다.",
+    "tip": "지시어(this extra income)가 가리키는 대상이 주어진 문장에 있는지 확인하세요."
+  },
+  {
+    "id": "m3-09-39",
+    "level": "m3",
+    "set": "mock-09",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nOver time, the friendliest wolves were allowed to stay near the camps.\n\n[글]\n( ① ) Dogs have been called humans' best friends for thousands of years. ( ② ) Scientists believe that this bond began when wolves approached human camps to eat leftover food. ( ③ ) Their puppies inherited the friendly character, and gradually they became the first dogs. ( ④ ) Today, dogs can even read human gestures better than chimpanzees can. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 시간이 지나면서 가장 친근한 늑대들은 야영지 근처에 머무를 수 있게 되었다. [글] 개는 수천 년 동안 인간의 가장 친한 친구라고 불려 왔다. 과학자들은 이 유대가 늑대들이 남은 음식을 먹으러 인간의 야영지에 다가오면서 시작되었다고 믿는다. 시간이 지나면서 가장 친근한 늑대들은 야영지 근처에 머무를 수 있게 되었다. 그들의 새끼는 친근한 성격을 물려받았고 점차 최초의 개가 되었다. 오늘날 개는 침팬지보다 인간의 몸짓을 더 잘 읽을 수도 있다.",
+    "why": "'the friendliest wolves'는 늑대 소개 뒤에 나오고, 다음 문장의 'Their puppies'가 가리키는 대상이므로 ③에 들어갑니다.",
+    "optionNotes": [
+      "늑대가 소개되기 전이라 'the friendliest wolves'가 어색합니다.",
+      "'Over time'이 이어지려면 늑대가 야영지에 다가온 이유(②)가 나온 뒤여야 하고 'Their puppies'와도 이어져야 하므로 ③이 더 알맞습니다.",
+      "정답. 늑대 소개 뒤이고 'Their puppies'가 이어집니다.",
+      "'Their puppies'가 가리킬 대상이 앞에 없습니다.",
+      "마지막 문장 뒤라 어색합니다."
+    ],
+    "trap": "②에도 들어갈 듯하지만 'Their puppies'의 지시 대상을 연결해야 합니다.",
+    "tip": "뒤 문장의 소유격(Their)이 가리키는 대상이 주어진 문장에 있습니다."
+  },
+  {
+    "id": "m3-09-40",
+    "level": "m3",
+    "set": "mock-09",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A company allowed half of its employees to decide their own working hours, while the other half kept fixed hours. The managers were worried at first that productivity would fall. After six months, the flexible group reported higher job satisfaction and took fewer sick days, and their productivity did not decrease. The managers concluded that trusting employees to manage their own time improves both well-being and efficiency.\n\n▶ Giving employees (A) over their schedules can improve their (B) without lowering productivity.",
+    "options": [
+      "(A) pressure — (B) fear",
+      "(A) money — (B) laziness",
+      "(A) warnings — (B) mistakes",
+      "(A) control — (B) satisfaction and health",
+      "(A) news — (B) stories"
+    ],
+    "answer": 3,
+    "translation": "한 회사가 직원의 절반에게는 근무 시간을 스스로 정하게 하고 나머지 절반에게는 정해진 시간을 유지하게 했다. 관리자들은 처음에 생산성이 떨어질까 봐 걱정했다. 6개월 뒤 유연 근무 집단은 직무 만족도가 더 높고 병가를 덜 냈으며 생산성은 떨어지지 않았다. 관리자들은 직원이 자신의 시간을 관리하도록 믿어 주는 것이 복지와 효율을 모두 높인다고 결론지었다. ▶ 직원에게 일정에 대한 통제권을 주면 생산성을 낮추지 않고도 만족도와 건강을 높일 수 있다.",
+    "why": "일정을 스스로 정한 집단이 만족도와 건강이 좋아졌으므로 (A)는 control, (B)는 satisfaction and health입니다.",
+    "optionNotes": [
+      "pressure와 fear는 글과 반대입니다.",
+      "money와 laziness는 글에 나오지 않습니다.",
+      "warnings와 mistakes는 글에 나오지 않습니다.",
+      "정답. 통제권을 주면 만족도와 건강이 높아집니다.",
+      "news와 stories는 글에 나오지 않습니다."
+    ],
+    "trap": "(A)와 (B)가 모두 글의 결과와 맞아야 합니다.",
+    "tip": "요약문은 원인(스스로 정한 근무 시간)과 결과(만족도, 건강)를 함께 찾으세요."
+  }
+]

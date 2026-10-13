@@ -1,0 +1,147 @@
+[
+  {
+    "id": "m3-09-41",
+    "level": "m3",
+    "set": "mock-09",
+    "no": 41,
+    "type": "long",
+    "group": "m3-09-g41",
+    "stem": "[41~42] 윗글의 제목으로 가장 적절한 것을 고르시오.",
+    "passage": "Vertical farms grow vegetables in stacked layers inside buildings instead of in open fields. Because they use LED lights and recycled water, they need up to ninety percent less water than traditional farms. Since the crops are protected indoors, farmers do not need to {1|use} pesticides. Vertical farms can also be built in the middle of a city, which {2|increases} the distance that food has to travel to reach customers. This means that the vegetables arrive {3|fresh} and cause less pollution from transport. However, the electricity needed for the lights is still very {4|expensive}, so scientists are working to {5|lower} the cost.",
+    "options": [
+      "The History of Traditional Farming",
+      "Why Fresh Vegetables Are Good for the Health of Teenagers",
+      "How to Save Electricity at Home",
+      "Growing Upward: The Promise of Vertical Farming",
+      "Pesticides: A Danger to Our Rivers"
+    ],
+    "answer": 3,
+    "translation": "수직 농장은 탁 트인 들판 대신 건물 안의 쌓아 올린 층에서 채소를 기른다. LED 조명과 재활용 물을 사용하므로 기존 농장보다 물이 최대 90퍼센트 적게 든다. 작물이 실내에서 보호되므로 농부들은 살충제를 쓸 필요가 없다. 수직 농장은 도시 한가운데에도 지을 수 있어 음식이 고객에게 닿기까지 이동하는 거리를 줄인다. 이는 채소가 신선하게 도착하고 운송으로 인한 오염이 줄어듦을 뜻한다. 하지만 조명에 필요한 전기는 여전히 매우 비싸서 과학자들은 비용을 낮추려고 노력하고 있다.",
+    "why": "건물 안에서 층층이 채소를 기르는 수직 농장의 장점과 과제를 소개하므로 ④가 제목입니다.",
+    "optionNotes": [
+      "전통 농업의 역사는 나오지 않습니다.",
+      "채소의 건강 효과는 나오지 않습니다.",
+      "전기 절약 방법은 나오지 않습니다.",
+      "정답. 위로 키우는 수직 농업의 가능성입니다.",
+      "살충제의 위험은 나오지 않습니다."
+    ],
+    "trap": "'electricity'와 'pesticides'는 지문의 세부 사항입니다.",
+    "tip": "제목은 대상(vertical farming)과 글의 평가(promise)를 담으세요."
+  },
+  {
+    "id": "m3-09-42",
+    "level": "m3",
+    "set": "mock-09",
+    "no": 42,
+    "type": "long",
+    "group": "m3-09-g41",
+    "stem": "[41~42] 밑줄 친 ①~⑤ 중에서 문맥상 낱말의 쓰임이 적절하지 않은 것을 고르시오.",
+    "passage": "Vertical farms grow vegetables in stacked layers inside buildings instead of in open fields. Because they use LED lights and recycled water, they need up to ninety percent less water than traditional farms. Since the crops are protected indoors, farmers do not need to {1|use} pesticides. Vertical farms can also be built in the middle of a city, which {2|increases} the distance that food has to travel to reach customers. This means that the vegetables arrive {3|fresh} and cause less pollution from transport. However, the electricity needed for the lights is still very {4|expensive}, so scientists are working to {5|lower} the cost.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "(41번 지문과 같은 글입니다.)",
+    "why": "도시 한가운데에 지으면 음식이 이동하는 거리가 '늘어나는(increases)' 것이 아니라 '줄어드는(shortens)' 것입니다.",
+    "optionNotes": [
+      "살충제를 쓸 필요가 없다는 의미로 use가 알맞습니다.",
+      "정답(부적절). 도시 안이므로 거리가 줄어든다(shortens)는 의미여야 합니다.",
+      "신선하게 도착한다는 의미로 fresh가 알맞습니다.",
+      "전기가 비싸다는 의미로 expensive가 알맞습니다.",
+      "비용을 낮춘다는 의미로 lower가 알맞습니다."
+    ],
+    "trap": "'travel'과 'distance'가 이어져 자연스러워 보이지만 뒤 문장의 '더 적은 오염'과 모순됩니다.",
+    "tip": "문장의 결과(신선, 오염 감소)와 낱말의 방향이 일치하는지 확인하세요."
+  },
+  {
+    "id": "m3-09-43",
+    "level": "m3",
+    "set": "mock-09",
+    "no": 43,
+    "type": "long",
+    "group": "m3-09-g43",
+    "stem": "[43~45] 주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것을 고르시오.",
+    "passage": "(A) Dohyun had volunteered to build a website for the school festival, but after two weeks the site still did not work. {1|He} stared at the screen every night and could not find the error. Frustrated, he almost gave up.\n(B) The next day, Mr. Oh, the computer teacher, noticed Dohyun's tired face. {2|He} sat beside the boy and asked him to explain the problem step by step.\n(C) A few minutes later, Dohyun found a missing bracket in a single line of code. {3|He} laughed in relief when the website finally appeared on the screen.\n(D) That night, Dohyun leaned back and thought about how long he had struggled alone. {4|He} decided that he would ask for help the next morning, and {5|he} fell asleep earlier than usual.",
+    "options": [
+      "(B)-(D)-(C)",
+      "(C)-(B)-(D)",
+      "(C)-(D)-(B)",
+      "(D)-(B)-(C)",
+      "(D)-(C)-(B)"
+    ],
+    "answer": 3,
+    "translation": "(A) 도현은 학교 축제를 위한 웹사이트를 만들겠다고 자원했지만 2주가 지나도 사이트는 여전히 작동하지 않았다. 그는 매일 밤 화면을 노려보았지만 오류를 찾지 못했다. 좌절한 그는 거의 포기할 뻔했다. (D) 그날 밤 도현은 몸을 뒤로 기대고 얼마나 오래 혼자 씨름했는지 생각했다. 그는 다음 날 아침 도움을 청하기로 결심했고 평소보다 일찍 잠들었다. (B) 다음 날 컴퓨터 선생님인 오 선생님이 도현의 지친 얼굴을 알아챘다. 그는 소년 옆에 앉아 문제를 단계별로 설명해 보라고 했다. (C) 몇 분 뒤 도현은 한 줄의 코드에서 빠진 괄호를 발견했다. 마침내 웹사이트가 화면에 나타나자 그는 안도하며 웃었다.",
+    "why": "(A) 포기할 뻔함 → (D) 그날 밤 도움을 청하기로 결심 → (B) 다음 날 선생님의 도움 → (C) 몇 분 뒤 오류 발견 순서입니다.",
+    "optionNotes": [
+      "(B)의 'The next day'가 (D)의 'That night'보다 앞설 수 없습니다.",
+      "(C)의 해결이 도움을 받기 전에 올 수 없습니다.",
+      "(C)가 (D) 앞에 오면 해결한 뒤에 도움을 청하기로 결심하게 됩니다.",
+      "정답. 결심 → 도움 → 해결.",
+      "(C)가 (B)보다 앞서면 선생님의 도움 전에 해결됩니다."
+    ],
+    "trap": "(C)의 'A few minutes later'는 (B)에서 설명을 시작한 시점을 기준으로 합니다.",
+    "tip": "That night → The next day → A few minutes later의 시간 표현을 따라가세요."
+  },
+  {
+    "id": "m3-09-44",
+    "level": "m3",
+    "set": "mock-09",
+    "no": 44,
+    "type": "long",
+    "group": "m3-09-g43",
+    "stem": "[43~45] 밑줄 친 ①~⑤ 중에서 가리키는 대상이 나머지 넷과 다른 것을 고르시오.",
+    "passage": "(A) Dohyun had volunteered to build a website for the school festival, but after two weeks the site still did not work. {1|He} stared at the screen every night and could not find the error. Frustrated, he almost gave up.\n(B) The next day, Mr. Oh, the computer teacher, noticed Dohyun's tired face. {2|He} sat beside the boy and asked him to explain the problem step by step.\n(C) A few minutes later, Dohyun found a missing bracket in a single line of code. {3|He} laughed in relief when the website finally appeared on the screen.\n(D) That night, Dohyun leaned back and thought about how long he had struggled alone. {4|He} decided that he would ask for help the next morning, and {5|he} fell asleep earlier than usual.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "②의 He는 소년 옆에 앉아 설명해 보라고 한 오 선생님이고, 나머지 ①③④⑤는 모두 도현을 가리킵니다.",
+    "optionNotes": [
+      "He는 화면을 노려본 도현입니다.",
+      "정답. He는 옆에 앉은 오 선생님입니다.",
+      "He는 안도하며 웃은 도현입니다.",
+      "He는 도움을 청하기로 결심한 도현입니다.",
+      "he는 평소보다 일찍 잠든 도현입니다."
+    ],
+    "trap": "두 인물이 모두 남성이라 He만으로는 구분되지 않습니다. 동작의 주체로 판단하세요.",
+    "tip": "앞 문장의 주어가 바뀌었는지(Mr. Oh)를 확인하세요."
+  },
+  {
+    "id": "m3-09-45",
+    "level": "m3",
+    "set": "mock-09",
+    "no": 45,
+    "type": "long",
+    "group": "m3-09-g43",
+    "stem": "[43~45] 윗글에 관한 내용으로 적절하지 않은 것을 고르시오.",
+    "passage": "(A) Dohyun had volunteered to build a website for the school festival, but after two weeks the site still did not work. {1|He} stared at the screen every night and could not find the error. Frustrated, he almost gave up.\n(B) The next day, Mr. Oh, the computer teacher, noticed Dohyun's tired face. {2|He} sat beside the boy and asked him to explain the problem step by step.\n(C) A few minutes later, Dohyun found a missing bracket in a single line of code. {3|He} laughed in relief when the website finally appeared on the screen.\n(D) That night, Dohyun leaned back and thought about how long he had struggled alone. {4|He} decided that he would ask for help the next morning, and {5|he} fell asleep earlier than usual.",
+    "options": [
+      "도현은 학교 축제를 위한 웹사이트를 만들겠다고 자원했다.",
+      "도현은 매일 밤 화면을 보았지만 오류를 찾지 못했다.",
+      "오 선생님은 도현에게 문제를 단계별로 설명해 보라고 했다.",
+      "도현은 한 줄의 코드에서 빠진 괄호를 발견했다.",
+      "도현은 오 선생님이 대신 오류를 모두 고쳐 준 덕분에 웹사이트를 완성할 수 있었다."
+    ],
+    "answer": 4,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "오류를 찾은 사람은 오 선생님이 아니라 도현 자신이므로 ⑤는 일치하지 않습니다.",
+    "optionNotes": [
+      "volunteered to build a website와 일치합니다.",
+      "stared at the screen every night and could not find the error와 일치합니다.",
+      "asked him to explain the problem step by step과 일치합니다.",
+      "found a missing bracket in a single line of code와 일치합니다.",
+      "정답(불일치). 도현이 직접 빠진 괄호를 찾았습니다."
+    ],
+    "trap": "오 선생님이 도왔다는 사실만 보고 대신 고쳐 주었다고 착각하기 쉽습니다.",
+    "tip": "불일치 문제는 행동의 주체(누가 오류를 찾았는가)가 바뀐 보기를 확인하세요."
+  }
+]

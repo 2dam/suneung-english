@@ -1,0 +1,343 @@
+[
+  {
+    "id": "m3-09-18",
+    "level": "m3",
+    "set": "mock-09",
+    "no": 18,
+    "type": "purpose",
+    "stem": "다음 글을 쓴 목적으로 가장 적절한 것은?",
+    "passage": "Dear Mr. Jung,\nI am Hana Seo, the president of the Environment Club. Our members have been collecting food waste in the cafeteria and turning it into compost. We would like to use the empty space on the school rooftop to make a small vegetable garden. There, students can use our compost to grow vegetables. We will take full responsibility for watering and cleaning. We would be very grateful if you could allow us to start this project this spring.\nSincerely,\nHana Seo",
+    "options": [
+      "학교 옥상에 텃밭을 만들 수 있도록 허락해 달라고 요청하려고",
+      "급식실 음식물 쓰레기 처리 방법을 문의하려고",
+      "환경 동아리의 신입 회원을 모집하려고",
+      "퇴비 판매 수익의 사용처를 보고하려고",
+      "학교 급식 메뉴 변경을 건의하려고"
+    ],
+    "answer": 0,
+    "translation": "정 선생님께. 저는 환경 동아리 회장 서하나입니다. 우리 회원들은 급식실의 음식물 쓰레기를 모아 퇴비로 만들어 왔습니다. 우리는 학교 옥상의 빈 공간을 이용해 작은 텃밭을 만들고 싶습니다. 그곳에서 학생들은 우리의 퇴비로 채소를 키울 수 있습니다. 물 주기와 청소는 저희가 모두 책임지겠습니다. 올봄에 이 프로젝트를 시작할 수 있도록 허락해 주시면 정말 감사하겠습니다. 서하나 드림.",
+    "why": "'We would be very grateful if you could allow us to start this project'에서 옥상 텃밭 조성 허락을 요청하는 글입니다.",
+    "optionNotes": [
+      "정답. 옥상 텃밭을 만들 수 있도록 허락을 요청합니다.",
+      "처리 방법 문의가 아닙니다.",
+      "회원 모집이 아닙니다.",
+      "수익 보고가 아닙니다.",
+      "메뉴 변경 건의가 아닙니다."
+    ],
+    "trap": "앞부분의 음식물 쓰레기·퇴비 이야기는 배경일 뿐입니다.",
+    "tip": "목적 문제는 'We would like to ~', 'We would be grateful if ~' 문장을 찾으세요."
+  },
+  {
+    "id": "m3-09-19",
+    "level": "m3",
+    "set": "mock-09",
+    "no": 19,
+    "type": "mood",
+    "stem": "다음 글에 드러난 'I'의 심경 변화로 가장 적절한 것은?",
+    "passage": "The night before the science fair, I hardly slept. What if my volcano model did not erupt in front of the judges? In the morning, my hands were shaking as I poured the liquid into the model. For a moment, nothing happened, and I thought that all my work had been wasted. Then bubbles slowly rose and flowed down the side of the model. The judges began to clap, and one of them said, \"Well done!\" I let out a long breath, and a wide smile spread across my face.",
+    "options": [
+      "bored → angry",
+      "jealous → grateful",
+      "anxious and doubtful → relieved and delighted",
+      "proud → ashamed",
+      "lonely → surprised"
+    ],
+    "answer": 2,
+    "translation": "과학 박람회 전날 밤 나는 거의 잠을 자지 못했다. 내 화산 모형이 심사위원들 앞에서 분출하지 않으면 어쩌지? 아침에 나는 액체를 모형에 부을 때 손이 떨렸다. 잠시 아무 일도 일어나지 않았고 나는 내 모든 노력이 헛된 것이라고 생각했다. 그때 거품이 천천히 올라와 모형의 옆면을 따라 흘러내렸다. 심사위원들이 박수를 치기 시작했고 한 명이 \"잘했어요!\"라고 말했다. 나는 긴 숨을 내쉬었고 얼굴에 큰 미소가 번졌다.",
+    "why": "실패할까 봐 불안하고 의심했다가(anxious and doubtful), 모형이 분출하고 박수를 받자 안도하고 기뻐했습니다(relieved and delighted).",
+    "optionNotes": [
+      "지루함에서 화남이 아닙니다.",
+      "질투에서 감사가 아닙니다.",
+      "정답. 불안과 의심에서 안도와 기쁨으로 변했습니다.",
+      "자랑스러움에서 부끄러움이 아닙니다.",
+      "외로움에서 놀람이 아닙니다."
+    ],
+    "trap": "'wasted'를 보고 처음 감정을 실망으로만 보면 변화의 방향을 놓칩니다.",
+    "tip": "처음의 걱정(What if ~?)과 마지막 신체 반응(long breath, smile)을 비교하세요."
+  },
+  {
+    "id": "m3-09-20",
+    "level": "m3",
+    "set": "mock-09",
+    "no": 20,
+    "type": "claim",
+    "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+    "passage": "In many cities, small empty lots are left unused for years. They collect trash, and some become unsafe places at night. Several cities have started to lend such lots to residents who want to grow vegetables and flowers. These community gardens bring neighbors together, provide fresh food, and make the neighborhood look cleaner and safer. Since the benefits are so great and the cost is so small, cities should actively support residents who turn empty lots into community gardens.",
+    "options": [
+      "도시는 빈 땅을 주민들이 텃밭으로 활용하도록 적극 지원해야 한다.",
+      "도시의 모든 빈 땅은 교통 문제를 해결하기 위해 주차장으로 바꾸어야 한다.",
+      "주민들은 텃밭에서 키운 채소를 판매해서는 안 된다.",
+      "도시에서는 채소를 직접 키우는 것보다 사 먹는 것이 낫다.",
+      "빈 땅은 그대로 두는 것이 안전하다."
+    ],
+    "answer": 0,
+    "translation": "많은 도시에서 작은 빈 땅이 몇 년 동안 방치되어 있다. 그곳에는 쓰레기가 쌓이고 일부는 밤에 위험한 장소가 된다. 몇몇 도시는 채소와 꽃을 키우고 싶어 하는 주민들에게 그런 땅을 빌려주기 시작했다. 이러한 공동체 텃밭은 이웃을 하나로 모으고 신선한 음식을 제공하며 동네를 더 깨끗하고 안전해 보이게 한다. 이점이 매우 크고 비용은 매우 적으므로 도시는 빈 땅을 공동체 텃밭으로 바꾸는 주민들을 적극적으로 지원해야 한다.",
+    "why": "마지막 문장 'cities should actively support residents who turn empty lots into community gardens'가 필자의 주장입니다.",
+    "optionNotes": [
+      "정답. 빈 땅을 텃밭으로 바꾸는 주민을 지원해야 합니다.",
+      "주차장 이야기는 나오지 않습니다.",
+      "판매 금지 이야기는 나오지 않습니다.",
+      "사 먹는 것이 낫다는 내용은 없습니다.",
+      "방치는 문제라고 했으므로 글과 반대입니다."
+    ],
+    "trap": "앞부분의 문제점(쓰레기, 위험)만 보고 ⑤를 고르지 마세요.",
+    "tip": "주장 문제는 'Since ~, ... should ...' 문장을 찾으세요."
+  },
+  {
+    "id": "m3-09-21",
+    "level": "m3",
+    "set": "mock-09",
+    "no": 21,
+    "type": "implied",
+    "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "passage": "Jun failed the audition for the school play and was deeply disappointed. But because he had free afternoons, he joined the debate club and discovered his real talent for public speaking. Looking back, he said that the failure was {u|a blessing in disguise}.",
+    "options": [
+      "something unlucky that turned out to be good",
+      "a gift that was wrapped in plain brown paper and tied with a ribbon",
+      "a costume that hid his face on stage",
+      "a secret that no one should know",
+      "a lesson that was too difficult to learn"
+    ],
+    "answer": 0,
+    "translation": "준은 학교 연극 오디션에서 떨어져 크게 실망했다. 하지만 오후 시간이 비어 있었기 때문에 그는 토론 동아리에 가입했고 말하기에 대한 진짜 재능을 발견했다. 돌이켜보면 그는 그 실패가 겉으로는 불운이었지만 결과적으로 축복이었다고 말했다.",
+    "why": "오디션 실패 덕분에 토론 동아리에서 재능을 발견했으므로 불운처럼 보였지만 결과적으로 좋았다는 뜻입니다.",
+    "optionNotes": [
+      "정답. 불운으로 보였으나 좋은 결과가 된 일을 뜻합니다.",
+      "포장지 선물이 아닙니다.",
+      "무대 의상이 아닙니다.",
+      "비밀이 아닙니다.",
+      "배우기 어려운 교훈이 아닙니다."
+    ],
+    "trap": "'disguise'의 문자적 의미(변장)에 이끌려 ③을 고르지 마세요.",
+    "tip": "관용 표현은 사건의 전개(실패 → 새 재능 발견)에서 의미를 추론하세요."
+  },
+  {
+    "id": "m3-09-22",
+    "level": "m3",
+    "set": "mock-09",
+    "no": 22,
+    "type": "gist",
+    "stem": "다음 글의 요지로 가장 적절한 것은?",
+    "passage": "People often believe that the more choices they have, the happier they will be. But research suggests the opposite. When faced with too many options, people feel overwhelmed, take longer to decide, and feel less satisfied with the choice they make. They also worry about the options they gave up. For example, shoppers who saw twenty kinds of jam bought less than those who saw only six. Limiting the number of choices can therefore make decisions easier and more satisfying.",
+    "options": [
+      "선택은 가능한 한 빨리 해야 한다.",
+      "선택지가 많을수록 더 많은 정보를 비교해 더 현명한 결정을 할 수 있다.",
+      "다른 사람의 선택을 따르는 것이 가장 안전하다.",
+      "후회가 없도록 모든 선택지를 하나씩 비교해야 한다.",
+      "선택지가 지나치게 많으면 오히려 만족도가 떨어질 수 있다."
+    ],
+    "answer": 4,
+    "translation": "사람들은 흔히 선택권이 많을수록 더 행복할 것이라고 믿는다. 그러나 연구는 반대를 시사한다. 지나치게 많은 선택지에 직면하면 사람들은 압도당하고 결정에 더 오래 걸리며 자신이 한 선택에 덜 만족한다. 그들은 또 포기한 선택지에 대해 걱정한다. 예를 들어 스무 종류의 잼을 본 쇼핑객은 여섯 종류만 본 쇼핑객보다 적게 샀다. 따라서 선택지의 수를 제한하면 결정이 더 쉽고 더 만족스러워질 수 있다.",
+    "why": "선택지가 많으면 오히려 압도되고 덜 만족한다는 것이 요지입니다.",
+    "optionNotes": [
+      "빨리 선택하라는 내용은 없습니다.",
+      "첫 문장의 통념이며 글과 반대입니다.",
+      "다른 사람을 따르라는 내용은 없습니다.",
+      "모든 선택지를 비교하라는 내용은 글과 반대입니다.",
+      "정답. 선택지가 너무 많으면 만족도가 떨어집니다."
+    ],
+    "trap": "첫 문장의 통념을 필자의 생각으로 오해하지 마세요.",
+    "tip": "But 뒤의 연구 결과와 마지막 문장이 요지를 담습니다."
+  },
+  {
+    "id": "m3-09-23",
+    "level": "m3",
+    "set": "mock-09",
+    "no": 23,
+    "type": "topic",
+    "stem": "다음 글의 주제로 가장 적절한 것은?",
+    "passage": "Every autumn, millions of monarch butterflies fly as far as four thousand kilometers from North America to a forest in Mexico. Remarkably, no single butterfly makes the whole round trip. The journey takes several generations, so the butterflies that return in spring are the grandchildren of those that left. Scientists believe that they find their way by using the position of the Sun and a kind of internal clock in their brains. Their journey is truly amazing.",
+    "options": [
+      "why butterflies are attracted to bright flowers in the spring and summer",
+      "how caterpillars turn into butterflies",
+      "what monarch butterflies eat in the winter",
+      "how monarch butterflies complete their long migration",
+      "where scientists keep butterflies for research"
+    ],
+    "answer": 3,
+    "translation": "해마다 가을이면 수백만 마리의 제왕나비가 북미에서 멕시코의 숲까지 4,000킬로미터나 날아간다. 놀랍게도 한 마리의 나비가 왕복 전체를 하는 것은 아니다. 여행은 여러 세대에 걸쳐 이루어지므로 봄에 돌아오는 나비는 떠난 나비의 손주들이다. 과학자들은 나비가 태양의 위치와 뇌의 일종의 내부 시계를 이용해 길을 찾는다고 믿는다. 그들의 여행은 정말 놀랍다.",
+    "why": "제왕나비가 여러 세대에 걸쳐 긴 이동을 완성하는 방식을 설명하는 글입니다.",
+    "optionNotes": [
+      "밝은 꽃은 나오지 않습니다.",
+      "변태 과정은 나오지 않습니다.",
+      "겨울의 먹이는 나오지 않습니다.",
+      "정답. 제왕나비의 긴 이동 과정입니다.",
+      "연구 보관 장소는 나오지 않습니다."
+    ],
+    "trap": "②는 나비에 관한 일반적 상식이지만 지문의 내용이 아닙니다.",
+    "tip": "주제는 글의 모든 문장을 묶는 핵심(migration over generations)을 담은 보기입니다."
+  },
+  {
+    "id": "m3-09-24",
+    "level": "m3",
+    "set": "mock-09",
+    "no": 24,
+    "type": "title",
+    "stem": "다음 글의 제목으로 가장 적절한 것은?",
+    "passage": "In recent years, more people have chosen to live in tiny houses, homes smaller than thirty square meters. Rising housing prices are one reason, but many people also say that they want a simpler life with fewer possessions. Living in a tiny house forces owners to think carefully about what they really need. Some owners say that lower bills and less cleaning give them more time for hobbies and friends. Tiny houses are not for everyone. Still, they show that a happy life does not always need a big space.",
+    "options": [
+      "The Hidden Cost of Moving to a New City",
+      "How to Build a House in Three Days",
+      "Why Housing Prices Never Fall",
+      "Cleaning Tips for Busy Families",
+      "Living Small: The Rise of Tiny Houses"
+    ],
+    "answer": 4,
+    "translation": "최근 몇 년 동안 더 많은 사람들이 30제곱미터보다 작은 집인 소형 주택에서 살기를 선택하고 있다. 치솟는 집값이 한 가지 이유이지만 많은 사람들은 소유물이 적은 더 단순한 삶을 원한다고도 말한다. 소형 주택에서 사는 것은 주인이 정말 무엇이 필요한지 신중히 생각하게 만든다. 일부 주인들은 적은 요금과 적은 청소가 취미와 친구를 위한 더 많은 시간을 준다고 말한다. 소형 주택이 모두에게 맞는 것은 아니다. 그래도 그것은 행복한 삶에 항상 큰 공간이 필요한 것은 아님을 보여 준다.",
+    "why": "작은 집에서 사는 사람이 늘고 있는 현상과 이유를 설명하므로 ⑤가 제목입니다.",
+    "optionNotes": [
+      "이사 비용은 나오지 않습니다.",
+      "집 짓는 방법은 나오지 않습니다.",
+      "집값이 내리지 않는 이유는 나오지 않습니다.",
+      "청소 요령은 일부일 뿐입니다.",
+      "정답. 작은 집에서 사는 삶의 확산입니다."
+    ],
+    "trap": "'housing prices'를 보고 ③을 고르지 마세요. 집값은 이유 중 하나일 뿐입니다.",
+    "tip": "제목은 현상(tiny houses)과 흐름(rise)을 함께 담으세요."
+  },
+  {
+    "id": "m3-09-25",
+    "level": "m3",
+    "set": "mock-09",
+    "no": 25,
+    "type": "chart",
+    "stem": "다음 도표의 내용과 일치하지 않는 것은?",
+    "chart": {
+      "title": "Main Reasons for Visiting the City Library (%)",
+      "unit": "%",
+      "labels": [
+        "Study",
+        "Borrow books",
+        "Use computers",
+        "Attend events",
+        "Read magazines"
+      ],
+      "series": [
+        {
+          "name": "Teens",
+          "values": [
+            40,
+            25,
+            15,
+            10,
+            10
+          ]
+        },
+        {
+          "name": "Adults",
+          "values": [
+            15,
+            40,
+            10,
+            20,
+            15
+          ]
+        }
+      ]
+    },
+    "passage": "The graph shows the main reasons why teens and adults visit the city library. ① Studying was the most common reason among teens. ② Borrowing books was the most common reason among adults. ③ The percentage of teens who attended events was lower than that of adults. ④ Using computers was chosen by a higher percentage of teens than adults. ⑤ The percentage of teens who read magazines was higher than that of adults.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "그래프는 청소년과 성인이 시립 도서관을 방문하는 주된 이유를 보여 준다. ① 청소년 사이에서 가장 흔한 이유는 공부였다. ② 성인 사이에서 가장 흔한 이유는 책 빌리기였다. ③ 행사에 참석한 청소년의 비율은 성인보다 낮았다. ④ 컴퓨터 사용은 성인보다 청소년이 더 높은 비율로 선택했다. ⑤ 잡지를 읽는 청소년의 비율은 성인보다 높았다.",
+    "why": "잡지 읽기는 청소년 10%, 성인 15%이므로 청소년이 더 높다는 ⑤는 일치하지 않습니다.",
+    "optionNotes": [
+      "청소년은 공부 40%로 가장 많습니다.",
+      "성인은 책 빌리기 40%로 가장 많습니다.",
+      "행사 참석은 청소년 10%, 성인 20%입니다.",
+      "컴퓨터 사용은 청소년 15%, 성인 10%입니다.",
+      "정답(불일치). 잡지 읽기는 성인이 더 높습니다."
+    ],
+    "trap": "두 집단의 막대 순서를 바꿔 읽기 쉽습니다.",
+    "tip": "집단 비교 문제는 보기마다 어느 집단의 수치인지 확인하세요."
+  },
+  {
+    "id": "m3-09-26",
+    "level": "m3",
+    "set": "mock-09",
+    "no": 26,
+    "type": "match",
+    "stem": "Dohyun Kim에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Dohyun Kim is a sign language interpreter. He learned sign language at the age of fourteen when his younger brother lost his hearing. After studying at university, he worked at a hospital, where he helped deaf patients talk with doctors. Three years ago, he started a free online course to teach sign language to ordinary people. More than 5,000 people have taken the course, and he hopes it will make society friendlier to the deaf. He often says that language is a bridge between people.",
+    "options": [
+      "대학에서 의학을 공부한 뒤 종합병원에서 의사로 오랫동안 일했다.",
+      "열 살에 수화를 배우기 시작했다.",
+      "병원에서 수화 수업을 가르쳤다.",
+      "무료 온라인 강좌를 만들었고 5,000명 넘게 수강했다.",
+      "수화 통역사 일을 그만두고 의사가 되었다."
+    ],
+    "answer": 3,
+    "translation": "김도현은 수화 통역사이다. 그는 남동생이 청력을 잃은 열네 살 때 수화를 배웠다. 대학에서 공부한 뒤 그는 병원에서 일하며 청각 장애 환자가 의사와 대화하도록 도왔다. 3년 전 그는 일반인에게 수화를 가르치는 무료 온라인 강좌를 시작했다. 5,000명이 넘는 사람이 강좌를 들었고 그는 이것이 사회가 청각 장애인에게 더 친절해지도록 하기를 바란다. 그는 언어가 사람들 사이의 다리라고 자주 말한다.",
+    "why": "'started a free online course ... More than 5,000 people have taken the course'와 일치합니다.",
+    "optionNotes": [
+      "대학에서 무엇을 공부했는지는 나오지 않습니다.",
+      "열네 살에 배웠습니다.",
+      "병원에서는 환자와 의사의 대화를 도왔습니다.",
+      "정답. 무료 온라인 강좌를 만들었고 5,000명 넘게 수강했습니다.",
+      "통역사 일을 계속하고 있습니다."
+    ],
+    "trap": "나이(fourteen)와 장소(hospital)를 바꾼 보기에 주의하세요.",
+    "tip": "일치 문제는 시기별 사건(14세, 대학, 병원, 3년 전)을 대조하세요."
+  },
+  {
+    "id": "m3-09-27",
+    "level": "m3",
+    "set": "mock-09",
+    "no": 27,
+    "type": "notice",
+    "stem": "Young Writers' Contest에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Young Writers' Contest\nShare your stories with the world!\nWho: Students aged 13–15\nTheme: \"A Day Without Screens\"\nLength: 500–800 words in English\nSubmit: By email to writers@cityculture.org by October 31\nPrize: First prize, a laptop; second and third prizes, book vouchers\nNote: Each student can submit only one story, and the story must be an original work.",
+    "options": [
+      "중학생부터 고등학생까지 참가할 수 있다.",
+      "주제는 참가자가 자유롭게 정한다.",
+      "한 사람당 한 편만 제출할 수 있다.",
+      "한국어로 작성해야 한다.",
+      "1등 상품은 도서 상품권이다."
+    ],
+    "answer": 2,
+    "translation": "청소년 글쓰기 대회. 당신의 이야기를 세상과 나누세요! 대상: 13~15세 학생. 주제: '화면 없는 하루'. 분량: 영어 500~800단어. 제출: 10월 31일까지 writers@cityculture.org로 이메일 제출. 상품: 1등 노트북, 2등과 3등 도서 상품권. 유의: 학생 한 명당 한 편만 제출할 수 있으며 작품은 창작이어야 합니다.",
+    "why": "'Each student can submit only one story'와 일치합니다.",
+    "optionNotes": [
+      "13~15세 학생이 대상입니다.",
+      "주제는 'A Day Without Screens'로 정해져 있습니다.",
+      "정답. 한 사람당 한 편만 제출합니다.",
+      "영어로 작성해야 합니다.",
+      "1등 상품은 노트북입니다."
+    ],
+    "trap": "1등과 2·3등의 상품을 바꾼 보기에 주의하세요.",
+    "tip": "안내문은 항목(Who, Theme, Length, Prize, Note)별로 대조하세요."
+  },
+  {
+    "id": "m3-09-28",
+    "level": "m3",
+    "set": "mock-09",
+    "no": 28,
+    "type": "notice",
+    "stem": "Riverside Bike Repair Workshop에 관한 다음 안내문의 내용과 일치하지 않는 것은?",
+    "passage": "Riverside Bike Repair Workshop\nLearn to fix your bike for free!\nDate: Saturday, May 18\nTime: 2:00 p.m. – 5:00 p.m.\nPlace: Riverside Community Center, Room B\nProgram: Fixing flat tires, adjusting brakes, and cleaning chains\nWho: Anyone aged 12 or older\nBring: Your own bike and a pair of gloves\nNote: Tools and spare parts are provided. Registration is first-come, first-served and limited to twenty participants.",
+    "options": [
+      "만 12세 이상이면 참가할 수 있다.",
+      "참가자는 필요한 공구를 직접 가져와야 한다.",
+      "펑크 난 타이어를 수리하는 방법과 브레이크를 조정하는 방법을 배운다.",
+      "선착순으로 접수한다.",
+      "자신의 자전거와 장갑을 가져와야 한다."
+    ],
+    "answer": 1,
+    "translation": "강변 자전거 수리 워크숍. 무료로 자전거 고치는 법을 배우세요! 날짜: 5월 18일 토요일. 시간: 오후 2시~5시. 장소: 강변 주민센터 B호실. 프로그램: 펑크 난 타이어 수리, 브레이크 조정, 체인 청소. 대상: 12세 이상 누구나. 준비물: 자신의 자전거와 장갑. 유의: 공구와 예비 부품은 제공됩니다. 접수는 선착순이며 스무 명으로 제한됩니다.",
+    "why": "'Tools and spare parts are provided.'이므로 공구를 직접 가져와야 한다는 ②는 일치하지 않습니다.",
+    "optionNotes": [
+      "Anyone aged 12 or older와 일치합니다.",
+      "정답(불일치). 공구는 제공됩니다.",
+      "Fixing flat tires와 일치합니다.",
+      "first-come, first-served와 일치합니다.",
+      "Your own bike and a pair of gloves와 일치합니다."
+    ],
+    "trap": "'Bring' 항목에 자전거와 장갑이 있어 공구도 가져와야 한다고 착각하기 쉽습니다.",
+    "tip": "Note 항목의 제공 내용(Tools are provided)을 확인하세요."
+  }
+]
