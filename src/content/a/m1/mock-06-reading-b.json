@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m1-06-29",
+    "level": "m1",
+    "set": "mock-06",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "My cat {1|sleeps} on my bed every night. She {2|likes} warm places. Yesterday, she {3|jumped} on the table and {4|break} a glass. My mom {5|was} not angry.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "우리 고양이는 매일 밤 내 침대에서 잔다. 그녀는 따뜻한 곳을 좋아한다. 어제 그녀는 식탁 위로 뛰어올라 컵을 깼다. 엄마는 화를 내지 않으셨다.",
+    "why": "'Yesterday'가 있으므로 과거형 'broke'여야 합니다.",
+    "optionNotes": [
+      "every night는 습관이므로 현재형 sleeps가 맞습니다.",
+      "3인칭 단수 현재형 likes가 맞습니다.",
+      "과거형 jumped가 맞습니다.",
+      "정답(틀린 것). 과거형 broke여야 합니다.",
+      "과거형 was가 맞습니다."
+    ],
+    "trap": "'jumped and break'처럼 and로 연결된 동사의 시제를 일치시켜야 합니다.",
+    "tip": "and로 연결된 동사는 같은 시제로 씁니다."
+  },
+  {
+    "id": "m1-06-30",
+    "level": "m1",
+    "set": "mock-06",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Last Sunday, we went to the beach. The sun was {1|bright}. The water was very {2|dirty}, so we could see small fish near our feet. We built a big {3|sand} castle. We also ate {4|cold} watermelon. I felt so {5|happy}.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "지난 일요일 우리는 해변에 갔다. 해는 밝았고 물이 매우 맑아서 발 근처의 작은 물고기를 볼 수 있었다. 우리는 큰 모래성을 쌓았다. 또 시원한 수박도 먹었다. 나는 정말 행복했다.",
+    "why": "작은 물고기가 보였다고 했으므로 물이 'dirty'가 아니라 'clear'여야 합니다.",
+    "optionNotes": [
+      "해가 밝다는 의미로 bright가 알맞습니다.",
+      "정답(부적절). 물고기가 보일 만큼 맑아야 합니다.",
+      "모래성이라는 의미로 sand가 알맞습니다.",
+      "시원한 수박이라는 의미로 cold가 알맞습니다.",
+      "행복했다는 의미로 happy가 알맞습니다."
+    ],
+    "trap": "'water'와 'dirty'는 자주 같이 쓰여 자연스럽게 읽히지만 뒤의 so 절과 모순됩니다.",
+    "tip": "결과를 나타내는 so 절을 근거로 형용사의 의미를 확인하세요."
+  },
+  {
+    "id": "m1-06-31",
+    "level": "m1",
+    "set": "mock-06",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "When you are angry, your heart beats fast, and your face becomes hot. It is hard to think clearly. Taking a deep breath helps your brain calm down. After a short break, you can think better. So when you are angry, it is best to __________.",
+    "options": [
+      "shout at your friends loudly until you feel better again",
+      "run away from the school",
+      "stop for a moment and take a deep breath",
+      "throw things on the floor",
+      "say the first thing in your mind"
+    ],
+    "answer": 2,
+    "translation": "화가 나면 심장이 빨리 뛰고 얼굴이 뜨거워진다. 명확하게 생각하기 어렵다. 깊게 숨을 쉬면 뇌가 진정되는 데 도움이 된다. 잠깐 쉬고 나면 더 잘 생각할 수 있다. 그래서 화가 날 때는 잠시 멈추고 깊게 숨을 쉬는 것이 가장 좋다.",
+    "why": "깊은 숨이 뇌를 진정시킨다고 했으므로 잠시 멈추고 숨을 쉬는 것이 알맞습니다.",
+    "optionNotes": [
+      "소리 지르라는 내용은 없습니다.",
+      "도망가라는 내용은 없습니다.",
+      "정답. 잠시 멈추고 깊게 숨을 쉽니다.",
+      "물건을 던지라는 내용은 없습니다.",
+      "생각나는 대로 말하라는 내용은 없습니다."
+    ],
+    "trap": "①④⑤는 화가 났을 때 하기 쉬운 행동으로 글의 방향과 반대입니다.",
+    "tip": "빈칸 앞의 해결 방법(Taking a deep breath)이 직접 단서입니다."
+  },
+  {
+    "id": "m1-06-32",
+    "level": "m1",
+    "set": "mock-06",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Penguins live in very cold places. They have thick fat and feathers. On cold, windy days, thousands of penguins stand very close together. The penguins in the middle are warm, and they slowly change places with the ones outside. They stand close together to __________.",
+    "options": [
+      "catch more fish",
+      "play with each other",
+      "sleep for a long time",
+      "look bigger to enemies",
+      "share their body heat"
+    ],
+    "answer": 4,
+    "translation": "펭귄은 매우 추운 곳에 산다. 두꺼운 지방과 깃털이 있다. 춥고 바람 부는 날에는 수천 마리의 펭귄이 아주 가까이 모여 선다. 가운데 있는 펭귄은 따뜻하고 서서히 바깥쪽 펭귄과 자리를 바꾼다. 그들은 체온을 나누려고 가까이 서 있다.",
+    "why": "추위를 견디려고 모여 자리를 바꾼다고 했으므로 체온을 나눈다는 말이 알맞습니다.",
+    "optionNotes": [
+      "물고기 잡기는 나오지 않습니다.",
+      "서로 노는 이야기는 나오지 않습니다.",
+      "오래 자기 위한 것은 아닙니다.",
+      "커 보이려는 내용은 없습니다.",
+      "정답. 체온을 나눕니다."
+    ],
+    "trap": "펭귄에 대한 상식(헤엄, 사냥)이 아니라 글의 근거를 확인하세요.",
+    "tip": "빈칸 앞의 구체적 묘사(warm in the middle)가 이유를 알려 줍니다."
+  },
+  {
+    "id": "m1-06-33",
+    "level": "m1",
+    "set": "mock-06",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Our body is about sixty percent water. Water carries food and air to every part of the body. If you don't drink enough water, you may feel tired and have a headache. Drinking water is good for your skin, too. So drinking enough water helps our body __________.",
+    "options": [
+      "work well",
+      "grow taller every day",
+      "become much faster than others",
+      "sleep for twelve hours",
+      "forget bad memories easily"
+    ],
+    "answer": 0,
+    "translation": "우리 몸은 약 60퍼센트가 물이다. 물은 몸의 모든 부분으로 음식과 공기를 운반한다. 물을 충분히 마시지 않으면 피곤하고 머리가 아플 수 있다. 물을 마시는 것은 피부에도 좋다. 그래서 물을 충분히 마시는 것은 우리 몸이 잘 작동하도록 돕는다.",
+    "why": "물이 몸 전체에 영양을 나르고 부족하면 피곤하다는 내용이므로 몸이 잘 작동하도록 돕는다는 말이 알맞습니다.",
+    "optionNotes": [
+      "정답. 몸이 잘 작동하게 돕습니다.",
+      "키 이야기는 나오지 않습니다.",
+      "속도는 나오지 않습니다.",
+      "수면 시간은 나오지 않습니다.",
+      "기억 이야기는 나오지 않습니다."
+    ],
+    "trap": "물과 관련 없는 신체 능력을 고르지 마세요.",
+    "tip": "빈칸 앞 문장(feel tired, headache)이 부족했을 때의 결과를 알려 줍니다."
+  },
+  {
+    "id": "m1-06-34",
+    "level": "m1",
+    "set": "mock-06",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Saying \"please\" and \"thank you\" is easy, but it is very powerful. When we say thank you, people feel that we respect them. When we use polite words, people want to help us more. Good manners make our day better. So good manners help us __________.",
+    "options": [
+      "make others feel respected and happy",
+      "finish all of our homework very quickly every night",
+      "win every game we play",
+      "spend less money",
+      "run faster in a race"
+    ],
+    "answer": 0,
+    "translation": "'제발'과 '고맙습니다'라고 말하는 것은 쉽지만 매우 큰 힘이 있다. 고맙다고 말하면 사람들은 존중받는다고 느낀다. 공손한 말을 쓰면 사람들은 우리를 더 돕고 싶어 한다. 좋은 예절은 우리의 하루를 더 좋게 만든다. 그래서 좋은 예절은 다른 사람을 존중받고 행복하게 느끼게 한다.",
+    "why": "고맙다는 말이 존중받는 느낌을 준다고 했으므로 다른 사람을 존중받고 행복하게 한다는 말이 알맞습니다.",
+    "optionNotes": [
+      "정답. 다른 사람을 존중받고 행복하게 합니다.",
+      "숙제 이야기는 나오지 않습니다.",
+      "게임 승리는 나오지 않습니다.",
+      "돈 이야기는 나오지 않습니다.",
+      "달리기는 나오지 않습니다."
+    ],
+    "trap": "예절과 관련 없는 효과를 고르지 마세요. 글의 근거는 존중받는 느낌입니다.",
+    "tip": "반복되는 표현(feel respected)이 빈칸의 정답입니다."
+  },
+  {
+    "id": "m1-06-35",
+    "level": "m1",
+    "set": "mock-06",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Rain is important for farmers. ① It helps crops grow. ② It fills rivers and lakes with water. ③ Farmers need water for their fields. ④ Plants need water to make food. ⑤ I bought a new umbrella yesterday.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "비는 농부에게 중요하다. ① 비는 작물이 자라도록 돕는다. ② 강과 호수를 물로 채운다. ③ 농부들은 밭에 물이 필요하다. ④ 식물은 양분을 만들려고 물이 필요하다. ⑤ 나는 어제 새 우산을 샀다.",
+    "why": "글은 농부에게 비가 중요한 이유를 설명하는데 ⑤는 우산을 산 이야기라 흐름과 관계가 없습니다.",
+    "optionNotes": [
+      "비의 역할입니다.",
+      "비의 역할입니다.",
+      "물이 필요한 이유입니다.",
+      "물이 필요한 이유입니다.",
+      "정답(무관). 우산을 산 개인적 이야기입니다."
+    ],
+    "trap": "'rain'과 'umbrella'가 연관되어 자연스러워 보이지만 글의 논점과 무관합니다.",
+    "tip": "무관한 문장은 같은 소재를 쓰더라도 논점을 이어 가지 않습니다."
+  },
+  {
+    "id": "m1-06-36",
+    "level": "m1",
+    "set": "mock-06",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Jin wanted to bake a cake for his mom.\n(A) Finally, he baked it for thirty minutes, and the kitchen smelled sweet.\n(B) With these, he mixed the batter carefully.\n(C) He went to the kitchen and took out eggs, flour, and sugar.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 4,
+    "translation": "Jin은 어머니를 위해 케이크를 굽고 싶었다. (C) 그는 주방에 가서 달걀, 밀가루, 설탕을 꺼냈다. (B) 이것들로 그는 반죽을 조심스럽게 섞었다. (A) 마지막으로 그는 30분 동안 구웠고 주방에 달콤한 냄새가 났다.",
+    "why": "(C) 재료를 꺼냄 → (B) 'these'(재료)로 반죽 → (A) 'Finally' 굽기 순서입니다.",
+    "optionNotes": [
+      "(A)의 Finally가 처음에 올 수 없습니다.",
+      "(A)가 반죽 전에 올 수 없습니다.",
+      "(B)의 'these'가 가리킬 재료가 앞에 없습니다.",
+      "(A)가 (B)보다 앞서면 굽기 전에 반죽이 없습니다.",
+      "정답. 재료 → 반죽 → 굽기."
+    ],
+    "trap": "(B)의 'these'가 앞의 재료를 가리킨다는 점을 놓치면 순서가 틀립니다.",
+    "tip": "these, it 같은 지시어가 가리키는 명사가 먼저 나와야 합니다."
+  },
+  {
+    "id": "m1-06-37",
+    "level": "m1",
+    "set": "mock-06",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Hana lost her umbrella on the bus.\n(A) A kind staff member said that someone had found it.\n(B) The next day, she went to the office and got it back.\n(C) She called the bus company right away.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 3,
+    "translation": "Hana는 버스에서 우산을 잃어버렸다. (C) 그녀는 곧바로 버스 회사에 전화했다. (A) 친절한 직원이 누군가 그것을 찾았다고 말했다. (B) 다음 날 그녀는 사무실에 가서 우산을 되찾았다.",
+    "why": "(C) 전화함 → (A) 직원이 찾았다고 알림 → (B) 다음 날 되찾음 순서입니다.",
+    "optionNotes": [
+      "(A)의 직원 말이 전화하기 전에 올 수 없습니다.",
+      "(B)의 되찾음이 처음에 올 수 없습니다.",
+      "(B)가 (C) 바로 뒤에 오면 직원의 알림(A)이 뒤로 밀려 어색합니다.",
+      "정답. 전화 → 알림 → 되찾음.",
+      "(B)가 (A) 앞에 오면 찾았다는 말을 듣기 전에 되찾게 됩니다."
+    ],
+    "trap": "(B)의 'The next day'는 결과이므로 마지막입니다.",
+    "tip": "행동의 인과(전화 → 응답 → 결과)와 시간 표현으로 순서를 정하세요."
+  },
+  {
+    "id": "m1-06-38",
+    "level": "m1",
+    "set": "mock-06",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nOn the other hand, other students prefer studying in a noisy café.\n\n[글]\nSome students like studying in a quiet library. ( ① ) They say that silence helps them think. ( ② ) They can read for hours without being disturbed. ( ③ ) They say that a little noise keeps them awake. ( ④ ) So the best place depends on the person. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 반면에 다른 학생들은 시끄러운 카페에서 공부하는 것을 더 좋아한다. [글] 어떤 학생들은 조용한 도서관에서 공부하는 것을 좋아한다. 그들은 조용함이 생각을 돕는다고 말한다. 그들은 방해받지 않고 몇 시간 동안 읽을 수 있다. 그들은 약간의 소음이 졸리지 않게 해 준다고 말한다. 그래서 가장 좋은 장소는 사람에 따라 다르다.",
+    "why": "주어진 문장이 새로운 집단(other students)을 소개하고, 다음 문장 'They say that a little noise ...'의 They가 그들을 가리키므로 ③에 들어갑니다.",
+    "optionNotes": [
+      "도서관 학생들의 이유가 나오기 전이라 'On the other hand'가 이릅니다.",
+      "도서관 학생들의 설명이 끝나지 않았습니다.",
+      "정답. 도서관 학생 설명 뒤 새 집단을 소개합니다.",
+      "'They say ... noise'의 주어가 가리킬 대상이 앞에 없어 어색합니다.",
+      "결론 뒤에 오면 흐름이 맞지 않습니다."
+    ],
+    "trap": "②도 설명 직후라 가능해 보이지만 뒤의 'They can read for hours'가 카페 학생을 가리켜 어색해집니다.",
+    "tip": "대명사 They가 가리키는 집단이 바뀌는 지점을 확인하세요."
+  },
+  {
+    "id": "m1-06-39",
+    "level": "m1",
+    "set": "mock-06",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nIn the end, it was a picnic that nobody would forget.\n\n[글]\nOn the picnic day, it began to rain. ( ① ) The teacher quickly moved the class to the gym. ( ② ) Students spread blankets on the floor and ate lunch. ( ③ ) After lunch, they played board games. ( ④ ) Everyone laughed a lot. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "[주어진 문장] 결국 그것은 아무도 잊지 못할 소풍이 되었다. [글] 소풍날 비가 오기 시작했다. 선생님은 재빨리 반을 체육관으로 옮겼다. 학생들은 바닥에 담요를 깔고 점심을 먹었다. 점심 후에 그들은 보드게임을 했다. 모두가 많이 웃었다.",
+    "why": "'In the end'는 이야기를 마무리하는 표현이므로 마지막 ⑤에 들어갑니다.",
+    "optionNotes": [
+      "사건이 시작되기 전이라 마무리할 수 없습니다.",
+      "아직 체육관으로 옮긴 직후라 결말이 아닙니다.",
+      "점심을 먹는 중이라 결말이 아닙니다.",
+      "아직 웃는 장면이 남아 있습니다.",
+      "정답. 모든 사건 뒤의 결론입니다."
+    ],
+    "trap": "④도 후반부라 가능해 보이지만 마지막 사건(Everyone laughed)이 남아 있습니다.",
+    "tip": "In the end 같은 결론 표현은 이야기의 마지막에 놓입니다."
+  },
+  {
+    "id": "m1-06-40",
+    "level": "m1",
+    "set": "mock-06",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A school asked students to write in a diary for five minutes every night. They wrote about their feelings and what happened that day. After four weeks, many students said they felt calmer. They also said that they could sleep better.\n\n▶ Writing about feelings (A) helped students feel (B).",
+    "options": [
+      "(A) once a year — (B) angry",
+      "(A) every day — (B) less stressed and calmer",
+      "(A) sometimes — (B) tired",
+      "(A) loudly — (B) hungry",
+      "(A) quickly — (B) afraid"
+    ],
+    "answer": 1,
+    "translation": "한 학교가 학생들에게 매일 밤 5분 동안 일기를 쓰게 했다. 그들은 자신의 감정과 그날 있었던 일에 대해 썼다. 4주 뒤 많은 학생이 더 차분해졌다고 말했다. 또 잠을 더 잘 잘 수 있다고 했다. ▶ 감정에 대해 매일 쓰는 것은 학생들이 스트레스를 덜 받고 차분해지도록 도왔다.",
+    "why": "매일 일기를 쓴 뒤 학생들이 더 차분해졌으므로 (A)는 every day, (B)는 less stressed and calmer입니다.",
+    "optionNotes": [
+      "일 년에 한 번은 글과 맞지 않습니다.",
+      "정답. 매일 쓰면 스트레스가 줄고 차분해집니다.",
+      "가끔은 글과 맞지 않습니다.",
+      "크게 쓰는 것은 글에 나오지 않습니다.",
+      "빨리 쓰는 것은 글에 나오지 않습니다."
+    ],
+    "trap": "(B)만 보고 고르면 안 됩니다. (A)의 빈도(every night)도 맞아야 합니다.",
+    "tip": "요약문은 행동의 빈도(every night)와 결과(calmer)를 짝지으세요."
+  }
+]
