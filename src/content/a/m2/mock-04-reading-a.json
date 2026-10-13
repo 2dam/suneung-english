@@ -1,0 +1,343 @@
+[
+  {
+    "id": "m2-04-18",
+    "level": "m2",
+    "set": "mock-04",
+    "no": 18,
+    "type": "purpose",
+    "stem": "다음 글을 쓴 목적으로 가장 적절한 것은?",
+    "passage": "Dear Principal Lee,\nMy name is Jiwon Kang, and I am the president of the Dance Club. We are preparing a performance for the school festival in October. However, the music room is too small for our practice. We would like to ask for your permission to use the gym every Wednesday after school. We promise to keep the gym clean and to leave on time. Thank you for considering our request.\nSincerely,\nJiwon Kang",
+    "options": [
+      "동아리 활동 결과 보고서를 선생님께 제출하려고",
+      "학교 축제의 일정을 확인하려고",
+      "춤 대회 참가 신청을 취소하려고",
+      "체육관 사용 허락을 요청하려고",
+      "새 동아리의 설립을 제안하려고"
+    ],
+    "answer": 3,
+    "translation": "이 교장 선생님께. 저는 춤 동아리 회장 강지원입니다. 우리는 10월 학교 축제에서 할 공연을 준비하고 있습니다. 하지만 음악실이 연습하기에는 너무 좁습니다. 매주 수요일 방과 후에 체육관을 사용하도록 허락해 주시기를 부탁드립니다. 체육관을 깨끗이 쓰고 제시간에 나가겠다고 약속합니다. 저희의 요청을 고려해 주셔서 감사합니다. 강지원 올림.",
+    "why": "'We would like to ask for your permission to use the gym'에서 체육관 사용 허락을 요청하는 글입니다.",
+    "optionNotes": [
+      "보고서 제출은 나오지 않습니다.",
+      "축제 일정 확인이 아닙니다.",
+      "참가 신청을 취소하는 글이 아닙니다.",
+      "정답. 체육관 사용 허락을 요청합니다.",
+      "동아리 설립 제안은 나오지 않습니다."
+    ],
+    "trap": "공연 준비와 축제 이야기는 배경입니다. 'We would like to ask for ~'가 목적을 드러냅니다.",
+    "tip": "목적 문제는 'I would like to ask/request ~' 같은 요청 표현에 표시하세요."
+  },
+  {
+    "id": "m2-04-19",
+    "level": "m2",
+    "set": "mock-04",
+    "no": 19,
+    "type": "mood",
+    "stem": "다음 글에 드러난 'I'의 심경 변화로 가장 적절한 것은?",
+    "passage": "I had practiced for three months for the school marathon. On the race day, I got a cramp in my leg and finished last. I felt disappointed and wanted to hide. But my classmates were waiting at the finish line. They clapped and shouted my name. One of them said, \"You didn't give up. That's what matters.\" My heart felt warm, and I decided to try again next year.",
+    "options": [
+      "excited → bored",
+      "nervous → jealous",
+      "disappointed → encouraged",
+      "confident → deeply ashamed",
+      "calm → frightened"
+    ],
+    "answer": 2,
+    "translation": "나는 학교 마라톤을 위해 석 달 동안 연습했다. 경기 날 다리에 쥐가 나서 꼴찌로 들어왔다. 나는 실망했고 숨고 싶었다. 하지만 반 친구들이 결승선에서 기다리고 있었다. 그들은 박수를 치며 내 이름을 외쳤다. 한 친구가 말했다. \"넌 포기하지 않았잖아. 그게 중요한 거야.\" 내 마음은 따뜻해졌고 나는 내년에 다시 도전하기로 결심했다.",
+    "why": "꼴찌로 들어와 실망했다가(disappointed), 친구들의 응원에 마음이 따뜻해지고 다시 도전하기로 했습니다(encouraged).",
+    "optionNotes": [
+      "신남에서 지루함으로의 변화가 아닙니다.",
+      "긴장에서 질투로의 변화가 아닙니다.",
+      "정답. 실망에서 용기를 얻음으로 변했습니다.",
+      "자랑스러움이 아니라 실망으로 시작합니다.",
+      "침착함에서 두려움이 아닙니다."
+    ],
+    "trap": "꼴찌 장면만 보고 ④를 고르기 쉽지만, 부끄러움이 아니라 실망이고 뒤에서 용기를 얻습니다.",
+    "tip": "심경 변화는 앞쪽 감정(disappointed)과 마지막 결심(try again)의 방향 차이를 보세요."
+  },
+  {
+    "id": "m2-04-20",
+    "level": "m2",
+    "set": "mock-04",
+    "no": 20,
+    "type": "claim",
+    "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+    "passage": "False news spreads quickly on the Internet. A shocking headline can be shared thousands of times before anyone checks whether it is true. One wrong post can hurt people or cause panic. Most of us share information because we want to help our friends. But sharing without checking can do the opposite. Before you click the share button, take a minute. Find out who wrote the post, and check whether other reliable sources report the same story.",
+    "options": [
+      "온라인에서 정보를 공유하기 전에 출처를 확인해야 한다.",
+      "뉴스는 매일 아침마다 읽어야 한다.",
+      "소셜 미디어를 사용하지 말아야 한다.",
+      "친구의 게시물에는 반드시 댓글을 달아야 한다.",
+      "좋은 정보는 빨리 공유할수록 좋다."
+    ],
+    "answer": 0,
+    "translation": "가짜 뉴스는 인터넷에서 빠르게 퍼진다. 충격적인 제목은 누가 사실인지 확인하기 전에 수천 번 공유될 수 있다. 잘못된 게시물 하나가 사람들을 다치게 하거나 공포를 일으킬 수 있다. 우리 대부분은 친구들을 돕고 싶어서 정보를 공유한다. 하지만 확인 없이 공유하면 정반대가 될 수 있다. 공유 버튼을 누르기 전에 잠시 시간을 내어 누가 썼는지, 다른 믿을 만한 출처도 같은 이야기를 전하는지 알아보라.",
+    "why": "마지막 문장에서 공유 전에 작성자와 다른 출처를 확인하라고 하므로 ①이 필자의 주장입니다.",
+    "optionNotes": [
+      "정답. 공유 전에 출처를 확인해야 합니다.",
+      "뉴스 읽기 습관은 언급되지 않았습니다.",
+      "사용 금지를 주장하지 않습니다.",
+      "댓글은 언급되지 않았습니다.",
+      "빨리 공유하라는 것은 글과 반대입니다."
+    ],
+    "trap": "⑤는 'quickly', 'share' 같은 단어가 있지만 필자의 주장과 정반대입니다.",
+    "tip": "주장 문제는 명령문(take a minute to ~)이나 'should'가 들어간 문장을 찾으세요."
+  },
+  {
+    "id": "m2-04-21",
+    "level": "m2",
+    "set": "mock-04",
+    "no": 21,
+    "type": "implied",
+    "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "passage": "Jina missed the school bus and had to walk to school. On the way, she found a lost wallet and returned it to its owner. The owner was so grateful that he gave her two tickets to a concert. Jina told her friends, \"Missing the bus was {u|a blessing in disguise}.\"",
+    "options": [
+      "a clever plan to save time",
+      "something bad that turns out to be good",
+      "a gift hidden inside a small paper box on a table",
+      "a way to avoid a long walk",
+      "a secret that nobody knows"
+    ],
+    "answer": 1,
+    "translation": "Jina는 학교 버스를 놓쳐서 걸어서 학교에 가야 했다. 가는 길에 그녀는 잃어버린 지갑을 발견하여 주인에게 돌려주었다. 주인은 너무 고마워서 그녀에게 콘서트 표 두 장을 주었다. Jina는 친구들에게 말했다. \"버스를 놓친 건 불행처럼 보였지만 오히려 잘된 일이었어.\"",
+    "why": "버스를 놓친 나쁜 일이 오히려 좋은 결과로 이어졌으므로 '나쁜 일이 좋은 일로 드러난 것'을 뜻합니다.",
+    "optionNotes": [
+      "시간을 아끼려는 계획이 아닙니다.",
+      "정답. 나쁜 일이 좋은 결과가 되었습니다.",
+      "상자 속 선물 이야기가 아닙니다.",
+      "걷지 않으려는 방법이 아닙니다.",
+      "비밀 이야기가 아닙니다."
+    ],
+    "trap": "'disguise'와 'blessing'을 문자 그대로 해석하면 ③을 고르게 됩니다. 전후 사건의 흐름으로 판단하세요.",
+    "tip": "관용 표현은 사건의 결과(나쁜 일 → 좋은 결과)를 근거로 의미를 추론하세요."
+  },
+  {
+    "id": "m2-04-22",
+    "level": "m2",
+    "set": "mock-04",
+    "no": 22,
+    "type": "gist",
+    "stem": "다음 글의 요지로 가장 적절한 것은?",
+    "passage": "Saving money feels difficult when you think you must save a large amount. But even small amounts count. If you save one thousand won every day, you will have more than 360,000 won in a year. The key is not the amount but the habit. A small amount saved regularly grows into a surprisingly large sum. So it is better to start with what you can afford and keep going.",
+    "options": [
+      "용돈은 필요한 곳에 아낌없이 써야 한다.",
+      "저축을 시작하려면 먼저 수입을 늘려야 한다.",
+      "은행을 이용해야 안전하게 돈을 모을 수 있다.",
+      "큰 목표가 있어야만 저축을 지속할 수 있다.",
+      "작은 금액이라도 꾸준히 모으면 큰돈이 될 수 있다."
+    ],
+    "answer": 4,
+    "translation": "저축은 많은 금액을 모아야 한다고 생각하면 어렵게 느껴진다. 하지만 작은 금액도 중요하다. 매일 천 원을 저축하면 1년 뒤에는 36만 원이 넘게 된다. 중요한 것은 금액이 아니라 습관이다. 꾸준히 모은 작은 돈은 놀랄 만큼 큰돈이 되므로, 감당할 수 있는 만큼 시작해 계속하는 것이 좋다.",
+    "why": "핵심은 금액이 아니라 습관이며, 작은 금액도 꾸준히 모으면 큰돈이 된다는 것입니다.",
+    "optionNotes": [
+      "아낌없이 쓰라는 내용은 없습니다.",
+      "수입을 늘려야 한다는 내용은 없습니다.",
+      "은행 이야기는 나오지 않습니다.",
+      "큰 목표가 필요하다는 것은 글과 반대입니다.",
+      "정답. 작은 금액도 꾸준히 모으면 큰돈이 됩니다."
+    ],
+    "trap": "④는 'large amount'가 나와 그럴듯하지만, 글은 큰 금액이 필요하지 않다고 말합니다.",
+    "tip": "'not A but B'에서 B(habit)가 필자의 강조점이며 요지입니다."
+  },
+  {
+    "id": "m2-04-23",
+    "level": "m2",
+    "set": "mock-04",
+    "no": 23,
+    "type": "topic",
+    "stem": "다음 글의 주제로 가장 적절한 것은?",
+    "passage": "Laughing is not only fun but also good for our health. When we laugh, our body releases chemicals that lower stress and make us feel happier. Laughter also relaxes our muscles and helps our heart work better. In addition, laughing with others makes friendships stronger because it shows that we enjoy each other's company. Even forced laughter can improve our mood, because the body reacts in the same way.",
+    "options": [
+      "the positive effects of laughing on our body and mind",
+      "funny jokes that students can tell their friends at school",
+      "why some people cry when they are very sad",
+      "how to become a famous comedian on television",
+      "the dangers of laughing too much in public"
+    ],
+    "answer": 0,
+    "translation": "웃음은 재미있을 뿐 아니라 건강에도 좋다. 웃을 때 우리 몸은 스트레스를 낮추고 더 행복하게 만드는 물질을 내보낸다. 웃음은 또한 근육을 이완시키고 심장이 더 잘 작동하도록 돕는다. 게다가 다른 사람들과 함께 웃으면 서로의 곁을 즐긴다는 것을 보여 주므로 우정이 더 단단해진다. 억지로 웃는 웃음도 몸이 같은 방식으로 반응하므로 기분을 좋게 할 수 있다.",
+    "why": "웃음이 몸과 마음에 주는 긍정적인 효과를 설명하는 글입니다.",
+    "optionNotes": [
+      "정답. 웃음이 몸과 마음에 주는 긍정적 효과입니다.",
+      "농담 이야기는 나오지 않습니다.",
+      "우는 이유는 나오지 않습니다.",
+      "코미디언이 되는 방법은 나오지 않습니다.",
+      "너무 많이 웃는 위험은 나오지 않습니다."
+    ],
+    "trap": "'funny', 'comedian' 같은 연관 어휘에 이끌리지 마세요. 글은 건강과 관계의 이점을 다룹니다.",
+    "tip": "주제는 여러 예(스트레스, 근육, 우정)를 묶는 상위 개념을 찾으세요."
+  },
+  {
+    "id": "m2-04-24",
+    "level": "m2",
+    "set": "mock-04",
+    "no": 24,
+    "type": "title",
+    "stem": "다음 글의 제목으로 가장 적절한 것은?",
+    "passage": "Why do we yawn? Scientists are not completely sure. Some say that yawning brings more oxygen to our brain. Others think that it cools the brain when it gets warm. What is even more interesting is that yawning is contagious. When we see someone yawn, we often yawn too, even if we are not tired. Researchers suggest that this contagious yawning may show how closely we feel connected to the people around us.",
+    "options": [
+      "The Best Time to Take a Nap",
+      "How to Stay Awake in Class",
+      "Why Our Brain Needs So Much Oxygen",
+      "Why Is Yawning So Contagious?",
+      "Ways to Sleep Better at Night"
+    ],
+    "answer": 3,
+    "translation": "우리는 왜 하품을 할까? 과학자들도 완전히 확신하지는 못한다. 어떤 사람들은 하품이 뇌에 더 많은 산소를 공급한다고 말한다. 다른 사람들은 뇌가 따뜻해질 때 그것을 식혀 준다고 생각한다. 더 흥미로운 점은 하품이 전염된다는 것이다. 누군가 하품하는 것을 보면 피곤하지 않아도 우리도 종종 하품을 한다. 연구자들은 이런 전염성 하품이 우리가 주변 사람들과 얼마나 가깝게 연결되어 있다고 느끼는지를 보여 줄지도 모른다고 말한다.",
+    "why": "하품의 이유와, 특히 하품이 전염되는 점을 중심으로 다루므로 ④가 제목입니다.",
+    "optionNotes": [
+      "낮잠 시간은 나오지 않습니다.",
+      "졸음을 이기는 방법은 나오지 않습니다.",
+      "산소는 한 가지 가설일 뿐입니다.",
+      "정답. 하품이 전염되는 이유가 중심입니다.",
+      "숙면 방법은 나오지 않습니다."
+    ],
+    "trap": "③은 산소 이야기를 가져왔지만 부분적인 설명일 뿐입니다. 글 전체의 관심은 전염입니다.",
+    "tip": "제목은 글 마지막에 강조된 흥미로운 점(contagious)을 반영하세요."
+  },
+  {
+    "id": "m2-04-25",
+    "level": "m2",
+    "set": "mock-04",
+    "no": 25,
+    "type": "chart",
+    "stem": "다음 도표의 내용과 일치하지 않는 것은?",
+    "chart": {
+      "title": "Weekend Activities of Boys and Girls (%)",
+      "unit": "%",
+      "labels": [
+        "Gaming",
+        "Reading",
+        "Sports",
+        "Shopping",
+        "Studying"
+      ],
+      "series": [
+        {
+          "name": "Boys",
+          "values": [
+            35,
+            10,
+            30,
+            5,
+            20
+          ]
+        },
+        {
+          "name": "Girls",
+          "values": [
+            15,
+            20,
+            25,
+            20,
+            20
+          ]
+        }
+      ]
+    },
+    "passage": "The graph shows what boys and girls do on weekends. ① Gaming was the most popular activity among boys. ② The percentage of boys who chose shopping was 15 points lower than that of girls. ③ More boys than girls chose sports. ④ Boys and girls chose studying at the same rate. ⑤ Among girls, gaming was more popular than reading.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "그래프는 남학생과 여학생이 주말에 하는 활동을 보여 준다. ① 남학생 중에서는 게임이 가장 인기 있는 활동이었다. ② 쇼핑을 선택한 남학생의 비율은 여학생보다 15포인트 낮았다. ③ 운동을 선택한 남학생이 여학생보다 많았다. ④ 남학생과 여학생은 공부를 같은 비율로 선택했다. ⑤ 여학생 중에서는 게임이 독서보다 더 인기 있었다.",
+    "why": "여학생은 게임 15%, 독서 20%이므로 게임이 독서보다 인기 있다는 ⑤는 일치하지 않습니다.",
+    "optionNotes": [
+      "남학생의 게임은 35%로 가장 높습니다.",
+      "쇼핑은 남학생 5%, 여학생 20%이므로 15포인트 낮습니다.",
+      "운동은 남학생 30%, 여학생 25%입니다.",
+      "공부는 남학생 20%, 여학생 20%로 같습니다.",
+      "정답(불일치). 여학생은 게임 15%, 독서 20%입니다."
+    ],
+    "trap": "남학생 수치(게임 35%)와 여학생 수치(게임 15%)를 혼동하지 마세요.",
+    "tip": "두 집단 그래프는 질문의 집단(Among girls)을 먼저 정하고 해당 막대만 읽으세요."
+  },
+  {
+    "id": "m2-04-26",
+    "level": "m2",
+    "set": "mock-04",
+    "no": 26,
+    "type": "match",
+    "stem": "Hana Lee에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Hana Lee has loved the sea since she was a child. When she was twelve, she saw sea turtles caught in fishing nets on a beach. She decided to protect them. She studied marine biology in college and now works at a research center in Busan. Last year, she started a campaign that asks beach visitors to avoid using plastic bags. Thanks to the campaign, the amount of plastic trash on local beaches has dropped by thirty percent.",
+    "options": [
+      "어릴 때 바다를 무서워했다.",
+      "대학에서 요리를 공부했다.",
+      "열두 살에 바다거북을 보고 보호하기로 결심했다.",
+      "서울의 연구소에서 일하고 있다.",
+      "작년에 해변에서 비닐봉지를 파는 가게를 시작했다."
+    ],
+    "answer": 2,
+    "translation": "이하나는 어릴 때부터 바다를 사랑했다. 열두 살 때 그녀는 해변에서 어망에 걸린 바다거북을 보고 그것들을 보호하기로 결심했다. 그녀는 대학에서 해양 생물학을 공부했고 지금은 부산의 연구소에서 일한다. 작년에 그녀는 해변 방문객에게 비닐봉지를 쓰지 말라고 요청하는 캠페인을 시작했다. 캠페인 덕분에 지역 해변의 플라스틱 쓰레기양이 30퍼센트 줄었다.",
+    "why": "'When she was twelve, she saw sea turtles ... and she decided to protect them.'과 일치합니다.",
+    "optionNotes": [
+      "어릴 때부터 바다를 사랑했습니다.",
+      "해양 생물학을 공부했습니다.",
+      "정답. 열두 살에 바다거북을 보호하기로 결심했습니다.",
+      "부산의 연구소에서 일합니다.",
+      "비닐봉지 사용을 줄이는 캠페인을 시작했습니다."
+    ],
+    "trap": "도시(부산), 시기(작년), 전공 등을 바꾼 보기들에 주의하세요.",
+    "tip": "일치 문제는 나이·장소·시기 같은 구체적 정보를 본문과 하나씩 대조하세요."
+  },
+  {
+    "id": "m2-04-27",
+    "level": "m2",
+    "set": "mock-04",
+    "no": 27,
+    "type": "notice",
+    "stem": "Winter Book Camp에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Winter Book Camp\nRead, Share, and Enjoy!\nDate: December 23 – 24 (2 days)\nTime: 10:00 a.m. – 3:00 p.m.\nPlace: School Library\nWho: Students in grades 1 and 2 (limited to 30 students)\nFee: Free (Please bring your own lunch.)\nApply: Online at the school website by December 15\nNote: Each participant will receive one free book.",
+    "options": [
+      "3일 동안 진행된다.",
+      "신청은 학교 누리집에서 온라인으로 한다.",
+      "3학년도 참가할 수 있다.",
+      "점심은 학교 식당에서 무료로 제공해 준다고 한다.",
+      "참가비는 5천 원이다."
+    ],
+    "answer": 1,
+    "translation": "겨울 독서 캠프. 읽고, 나누고, 즐겨요! 날짜: 12월 23일~24일(2일). 시간: 오전 10시~오후 3시. 장소: 학교 도서관. 대상: 1, 2학년 학생(30명 한정). 참가비: 무료(점심은 직접 가져오세요). 신청: 12월 15일까지 학교 누리집에서 온라인으로. 유의: 참가자 모두에게 책 한 권을 무료로 드립니다.",
+    "why": "'Apply: Online at the school website by December 15'와 일치합니다.",
+    "optionNotes": [
+      "2일 동안 진행됩니다.",
+      "정답. 학교 누리집에서 온라인으로 신청합니다.",
+      "1, 2학년만 참가할 수 있습니다.",
+      "점심은 직접 가져와야 합니다.",
+      "참가비는 무료입니다."
+    ],
+    "trap": "'Free'와 'bring your own lunch'가 함께 나와 비용과 점심을 혼동하기 쉽습니다.",
+    "tip": "안내문은 대상·비용·신청 방법·유의 사항을 항목별로 대조하세요."
+  },
+  {
+    "id": "m2-04-28",
+    "level": "m2",
+    "set": "mock-04",
+    "no": 28,
+    "type": "notice",
+    "stem": "City Museum Night Tour에 관한 다음 안내문의 내용과 일치하지 않는 것은?",
+    "passage": "City Museum Night Tour\nExplore the museum after dark!\nDate: Every Friday in August\nTime: 7:00 p.m. – 9:00 p.m.\nCost: $5 (Children under 7 are free.)\nReservation: Required online\nRules: Photos are allowed without flash. Food and drinks are not allowed inside.",
+    "options": [
+      "매주 토요일에 열린다.",
+      "두 시간 동안 진행된다.",
+      "7세 미만 어린이는 무료이다.",
+      "플래시 없이 사진을 찍을 수 있다.",
+      "안에서 음식을 먹을 수 없다."
+    ],
+    "answer": 0,
+    "translation": "시립 박물관 야간 투어. 어둠이 내린 뒤의 박물관을 탐험하세요! 날짜: 8월 매주 금요일. 시간: 오후 7시~9시. 비용: 5달러(7세 미만 어린이는 무료). 예약: 온라인 예약 필수. 규칙: 플래시 없이 사진 촬영 가능. 음식과 음료는 안에서 허용되지 않습니다.",
+    "why": "'Every Friday in August'이므로 매주 토요일이라는 ①은 일치하지 않습니다.",
+    "optionNotes": [
+      "정답(불일치). 금요일입니다.",
+      "7시~9시이므로 두 시간입니다.",
+      "Children under 7 are free와 일치합니다.",
+      "Photos are allowed without flash와 일치합니다.",
+      "Food and drinks are not allowed와 일치합니다."
+    ],
+    "trap": "요일을 바꾼 보기는 첫 줄에서 빠르게 지나가기 쉽습니다.",
+    "tip": "Date 항목의 요일과 기간을 먼저 확인하세요."
+  }
+]

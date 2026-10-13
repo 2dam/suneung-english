@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m2-04-29",
+    "level": "m2",
+    "set": "mock-04",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Many people think that cats {1|hate} water, but this is not always true. Some cats {2|like} swimming. The Turkish Van is famous {3|for} its love of water. Its owners say that it often jumps into lakes {4|to} cool off. Some scientists believe that the cat's fur, which {5|are} water-resistant, makes it comfortable in water.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "많은 사람들은 고양이가 물을 싫어한다고 생각하지만 항상 그렇지는 않다. 어떤 고양이는 수영을 좋아한다. 터키시 밴은 물을 좋아하는 것으로 유명하다. 주인들은 그 고양이가 열을 식히려고 종종 호수에 뛰어든다고 말한다. 일부 과학자들은 방수가 되는 그 고양이의 털이 물속에서 편안하게 해 준다고 믿는다.",
+    "why": "관계대명사 which의 선행사는 단수 'fur'이므로 동사는 'is'여야 합니다.",
+    "optionNotes": [
+      "think that절의 주어 cats에 맞는 hate입니다.",
+      "복수 주어 Some cats에 맞는 like입니다.",
+      "'be famous for(~로 유명하다)'가 맞습니다.",
+      "목적을 나타내는 to부정사 to cool off입니다.",
+      "정답(틀린 것). 선행사 fur가 단수이므로 is여야 합니다."
+    ],
+    "trap": "바로 앞의 'cat's'나 'water-resistant'에 이끌려 복수로 착각하기 쉽습니다.",
+    "tip": "관계절의 동사는 선행사의 수에 일치시킵니다. 선행사가 무엇인지 먼저 찾으세요."
+  },
+  {
+    "id": "m2-04-30",
+    "level": "m2",
+    "set": "mock-04",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Many students feel {1|relaxed} because they have too much homework. Experts say that they need more free time. Free time helps students {2|recover} from stress and {3|develop} their interests. Some schools now {4|reduce} homework on weekends. Students say that they can {5|enjoy} their hobbies more.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "많은 학생들은 숙제가 너무 많아서 스트레스를 받는다. 전문가들은 그들에게 자유 시간이 더 필요하다고 말한다. 자유 시간은 학생들이 스트레스에서 회복하고 관심사를 키우는 데 도움이 된다. 일부 학교는 이제 주말 숙제를 줄인다. 학생들은 취미를 더 즐길 수 있다고 말한다.",
+    "why": "숙제가 너무 많아서 느끼는 감정이므로 relaxed(느긋한)가 아니라 stressed(스트레스를 받는)가 알맞습니다.",
+    "optionNotes": [
+      "정답(부적절). 숙제가 많으면 stressed가 알맞습니다.",
+      "스트레스에서 회복한다는 의미로 recover가 알맞습니다.",
+      "관심사를 키운다는 의미로 develop이 알맞습니다.",
+      "주말 숙제를 줄인다는 의미로 reduce가 알맞습니다.",
+      "취미를 즐긴다는 의미로 enjoy가 알맞습니다."
+    ],
+    "trap": "'feel relaxed'는 자연스러운 표현이라 놓치기 쉽습니다. 'because they have too much homework'와 충돌합니다.",
+    "tip": "이유(because ~)와 감정 형용사가 인과적으로 맞는지 확인하세요."
+  },
+  {
+    "id": "m2-04-31",
+    "level": "m2",
+    "set": "mock-04",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Some people think that being alone means being lonely. However, many creative people say that time alone is important for them. When we are alone, we can listen to our own thoughts without the noise of others. This quiet time can help us find new ideas and understand our feelings better. Therefore, spending some time alone can be __________.",
+    "options": [
+      "a sign of having no friends",
+      "a chance to recharge and think",
+      "a waste of precious time",
+      "a reason to avoid other people",
+      "an activity that is only for adults"
+    ],
+    "answer": 1,
+    "translation": "어떤 사람들은 혼자 있는 것이 외롭다는 뜻이라고 생각한다. 그러나 많은 창의적인 사람들은 혼자 있는 시간이 자신에게 중요하다고 말한다. 혼자 있을 때 우리는 다른 사람들의 소음 없이 자신의 생각에 귀를 기울일 수 있다. 이 조용한 시간은 새로운 아이디어를 찾고 감정을 더 잘 이해하는 데 도움이 된다. 그러므로 얼마간 혼자 있는 시간은 재충전하고 생각할 기회가 될 수 있다.",
+    "why": "혼자 있는 시간이 아이디어와 감정 이해에 도움이 된다고 했으므로 재충전하고 생각할 기회라는 말이 알맞습니다.",
+    "optionNotes": [
+      "친구가 없다는 증거라는 것은 글과 반대입니다.",
+      "정답. 재충전하고 생각하는 기회입니다.",
+      "시간 낭비라는 것은 글과 반대입니다.",
+      "사람을 피할 이유라는 내용은 없습니다.",
+      "어른만을 위한 활동이라는 내용은 없습니다."
+    ],
+    "trap": "'However'로 시작되는 반박 뒤의 내용이 글의 방향입니다. 첫 문장(외로움)에 끌리지 마세요.",
+    "tip": "Therefore 뒤의 빈칸은 앞의 이점들(new ideas, understand feelings)을 요약합니다."
+  },
+  {
+    "id": "m2-04-32",
+    "level": "m2",
+    "set": "mock-04",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Sound travels in waves. When these waves hit a hard surface, they bounce back, and we call this an echo. Bats use echoes to find their way in the dark. They make high sounds and listen to the echoes that return. By checking how long the echoes take to come back, a bat can tell __________.",
+    "options": [
+      "what time of day it is",
+      "which direction the wind blows",
+      "how far away an object is and where it is",
+      "how loud other animals are",
+      "what food is good to eat"
+    ],
+    "answer": 2,
+    "translation": "소리는 파동으로 이동한다. 이 파동이 단단한 표면에 부딪치면 되돌아오는데, 이를 메아리라고 한다. 박쥐는 어둠 속에서 길을 찾으려고 메아리를 이용한다. 박쥐는 높은 소리를 내고 되돌아오는 메아리를 듣는다. 메아리가 돌아오는 데 걸리는 시간을 확인함으로써 박쥐는 물체가 얼마나 멀리 있고 어디에 있는지 알 수 있다.",
+    "why": "메아리가 돌아오는 시간으로 길을 찾는다고 했으므로 물체의 거리와 위치를 안다는 말이 알맞습니다.",
+    "optionNotes": [
+      "시간대는 나오지 않습니다.",
+      "바람의 방향은 나오지 않습니다.",
+      "정답. 에코 시간으로 거리와 위치를 압니다.",
+      "다른 동물의 소리 크기는 나오지 않습니다.",
+      "먹이의 안전성은 나오지 않습니다."
+    ],
+    "trap": "글에 나온 'find their way'의 의미를 놓치면 엉뚱한 정보를 고르기 쉽습니다.",
+    "tip": "빈칸 앞 문장(how long the echoes take)이 무엇을 알아내는 수단인지 생각하세요."
+  },
+  {
+    "id": "m2-04-33",
+    "level": "m2",
+    "set": "mock-04",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "At first, tying your shoes needs all of your attention. You must think about every step. After you practice many times, your brain saves the steps as a pattern, and you can do it without thinking. The same is true for brushing your teeth and riding a bicycle. Our brain wants to save energy for harder tasks. In other words, repeated actions become __________.",
+    "options": [
+      "harder to remember",
+      "automatic habits",
+      "a source of new stress",
+      "useful only for children",
+      "boring games to play"
+    ],
+    "answer": 1,
+    "translation": "처음에는 신발 끈을 묶는 데 모든 주의가 필요하다. 모든 단계를 생각해야 한다. 여러 번 연습하면 뇌가 그 단계를 패턴으로 저장해 생각하지 않고도 할 수 있다. 양치질과 자전거 타기도 마찬가지다. 우리 뇌는 더 어려운 일을 위해 에너지를 아끼려고 한다. 다시 말해 반복된 행동은 자동적인 습관이 된다.",
+    "why": "연습을 반복하면 생각하지 않고도 할 수 있게 된다는 내용이므로 automatic habits가 알맞습니다.",
+    "optionNotes": [
+      "기억하기 어려워진다는 것은 글과 반대입니다.",
+      "정답. 자동적인 습관이 됩니다.",
+      "스트레스 이야기는 나오지 않습니다.",
+      "어린이에게만 유용하다는 내용은 없습니다.",
+      "게임 이야기는 나오지 않습니다."
+    ],
+    "trap": "①은 'remember'가 맥락상 떠오르지만, 글은 쉬워진다는 방향입니다.",
+    "tip": "'In other words'가 나오면 앞의 설명을 한 문장으로 요약한 표현이 빈칸입니다."
+  },
+  {
+    "id": "m2-04-34",
+    "level": "m2",
+    "set": "mock-04",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many scientists say that some of their best ideas came from mistakes. In 1928, a scientist named Alexander Fleming left a dish uncovered by mistake. When he returned, he found mold growing in it, and the bacteria around the mold had died. It was something he had never expected to see. This accident led to the discovery of penicillin. In science, mistakes can sometimes __________.",
+    "options": [
+      "be avoided with money",
+      "make people stop their work",
+      "hurt a scientist's health",
+      "lead to great discoveries",
+      "prove that a plan is perfect"
+    ],
+    "answer": 3,
+    "translation": "많은 과학자들은 자신의 가장 좋은 아이디어 중 일부가 실수에서 나왔다고 말한다. 1928년 알렉산더 플레밍이라는 과학자는 실수로 접시를 덮지 않은 채 두었다. 돌아왔을 때 그는 접시에 곰팡이가 자라고 있고 곰팡이 주위의 세균이 죽은 것을 발견했다. 그것은 그가 전혀 예상하지 못한 광경이었다. 이 우연한 사고는 페니실린의 발견으로 이어졌다. 과학에서 실수는 때때로 위대한 발견으로 이어질 수 있다.",
+    "why": "실수로 접시를 덮지 않은 일이 페니실린 발견으로 이어졌다고 했으므로 great discoveries가 알맞습니다.",
+    "optionNotes": [
+      "돈으로 피한다는 내용은 없습니다.",
+      "일을 멈추게 한다는 내용은 반대입니다.",
+      "건강을 해친다는 내용은 없습니다.",
+      "정답. 실수가 위대한 발견으로 이어졌습니다.",
+      "계획이 완벽하다는 증거는 아닙니다."
+    ],
+    "trap": "'mistake'라는 낱말 때문에 부정적인 보기를 고르기 쉽습니다. 사례의 결과는 긍정적입니다.",
+    "tip": "사례의 '결과'(discovery)를 일반화한 표현이 빈칸의 정답입니다."
+  },
+  {
+    "id": "m2-04-35",
+    "level": "m2",
+    "set": "mock-04",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Green tea has many health benefits. ① It contains substances that protect our cells from damage. ② Drinking it regularly may help lower the risk of heart disease. ③ It also helps us stay calm and focused. ④ Coffee became popular in Europe in the 17th century. ⑤ So many doctors recommend drinking green tea in moderation.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "녹차에는 건강에 좋은 점이 많다. ① 녹차에는 세포를 손상으로부터 보호하는 물질이 들어 있다. ② 녹차를 규칙적으로 마시면 심장병 위험을 낮추는 데 도움이 될 수 있다. ③ 또한 우리가 차분하고 집중하도록 도와준다. ④ 커피는 17세기에 유럽에서 인기를 얻었다. ⑤ 그래서 많은 의사들은 녹차를 적당히 마시라고 권한다.",
+    "why": "글은 녹차의 건강상 이점을 설명하는데 ④는 커피의 역사 이야기라 흐름과 관계가 없습니다.",
+    "optionNotes": [
+      "녹차의 첫 번째 이점입니다.",
+      "녹차의 이점입니다.",
+      "녹차의 이점입니다.",
+      "정답(무관). 커피의 역사 이야기입니다.",
+      "결론입니다."
+    ],
+    "trap": "'drink'라는 같은 소재가 나오지만 논점은 녹차의 건강 효과입니다.",
+    "tip": "무관한 문장은 같은 범주의 다른 대상(coffee)이나 다른 시대 이야기로 흐름을 끊습니다."
+  },
+  {
+    "id": "m2-04-36",
+    "level": "m2",
+    "set": "mock-04",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Many people think that memory works like a video camera. They believe that every moment of life is stored safely in the mind.\n(A) Each time we recall an event, the brain rebuilds it, so some details can change.\n(B) A camera records everything exactly and keeps it unchanged.\n(C) However, our brain does not work in the same way.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 2,
+    "translation": "많은 사람들은 기억이 비디오카메라처럼 작동한다고 생각한다. 그들은 인생의 모든 순간이 마음속에 안전하게 저장된다고 믿는다. (B) 카메라는 모든 것을 정확히 기록하고 변하지 않게 보관한다. (C) 하지만 우리 뇌는 같은 방식으로 작동하지 않는다. (A) 사건을 떠올릴 때마다 뇌는 그것을 다시 구성하므로 일부 세부 내용이 바뀔 수 있다.",
+    "why": "(B) 카메라의 특징 → (C) 'in the same way'로 뇌와의 차이 → (A) 뇌가 기억을 다시 구성함 순서입니다.",
+    "optionNotes": [
+      "(A)의 뇌 이야기가 카메라 설명(B)보다 앞서면 대비가 되지 않습니다.",
+      "(A)는 (C)의 'However' 뒤에 와야 합니다.",
+      "정답. 카메라 → 대비 → 뇌의 특징.",
+      "(C)의 'the same way'가 가리킬 카메라 설명이 앞에 없습니다.",
+      "(C)의 'the same way'가 가리킬 카메라 설명이 앞에 없습니다."
+    ],
+    "trap": "(C)의 'However'가 앞 문장과 바로 연결될 것 같지만 'the same way'의 비교 대상이 먼저 있어야 합니다.",
+    "tip": "However 뒤의 'the same way'는 앞에서 소개된 대상의 방식을 가리킵니다."
+  },
+  {
+    "id": "m2-04-37",
+    "level": "m2",
+    "set": "mock-04",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Last month, our class held a flea market to help children in need.\n(A) On the day of the event, we set up tables in the schoolyard and sold them at low prices.\n(B) For two weeks before it, students brought used books, toys, and clothes from home.\n(C) We earned about 200,000 won and donated all of it to a children's hospital.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 1,
+    "translation": "지난달 우리 반은 도움이 필요한 아이들을 돕기 위해 벼룩시장을 열었다. (B) 행사 전 2주 동안 학생들은 집에서 헌책, 장난감, 옷을 가져왔다. (A) 행사 당일 우리는 운동장에 탁자를 놓고 그것들을 싼값에 팔았다. (C) 우리는 약 20만 원을 벌었고 전부 어린이 병원에 기부했다.",
+    "why": "(B) 물건을 모음 → (A) 행사 당일 판매('them') → (C) 번 돈을 기부('all of it') 순서입니다.",
+    "optionNotes": [
+      "(A)의 'them'이 가리킬 물건이 앞에 없습니다.",
+      "정답. 준비 → 당일 판매 → 기부.",
+      "(C)의 'all of it'이 가리킬 돈이 앞에 나오지 않습니다.",
+      "(C)의 결과가 앞서면 판매 내용이 없습니다.",
+      "(C)의 결과가 앞서면 판매 내용이 없습니다."
+    ],
+    "trap": "(A)의 'On the day of the event'가 시간상 먼저처럼 보이지만 'them'이 (B)의 물건을 가리킵니다.",
+    "tip": "대명사(them, it)가 가리키는 명사가 먼저 나온 문장 뒤에 와야 합니다."
+  },
+  {
+    "id": "m2-04-38",
+    "level": "m2",
+    "set": "mock-04",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nBecause of this, many experts recommend a glass of water before meals.\n\n[글]\nMany people eat too much because they cannot tell the difference between hunger and thirst. ( ① ) The brain sometimes sends similar signals for both. ( ② ) As a result, we may eat when we only need water. ( ③ ) Studies show that people who drank a glass of water before meals ate less. ( ④ ) In this way, a simple glass of water can help us control the amount of food we eat. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "[주어진 문장] 이 때문에 많은 전문가들은 식사 전에 물 한 잔을 마실 것을 권한다. [글] 많은 사람들은 배고픔과 목마름을 구별하지 못해서 너무 많이 먹는다. 뇌는 때때로 둘에 대해 비슷한 신호를 보낸다. 그 결과 우리는 물만 필요한데도 음식을 먹을 수 있다. 연구에 따르면 식사 전에 물 한 잔을 마신 사람들은 더 적게 먹었다. 이런 식으로 간단한 물 한 잔은 우리가 먹는 음식의 양을 조절하도록 도울 수 있다.",
+    "why": "주어진 문장의 'Because of this'는 연구 결과를 가리키고, 뒤의 'In this way'는 권고를 이어받으므로 ④에 들어갑니다.",
+    "optionNotes": [
+      "구별하지 못한다는 첫 문장 뒤라 권고하기에는 이릅니다.",
+      "신호 설명 중이라 권고가 어색합니다.",
+      "결과 설명 뒤이지만 연구 근거가 아직 없습니다.",
+      "정답. 연구 결과 뒤에 권고가 오고 'In this way'로 이어집니다.",
+      "'In this way' 뒤에 권고가 오면 흐름이 맞지 않습니다."
+    ],
+    "trap": "③은 'As a result' 바로 뒤라 자연스러워 보이지만 연구 근거(Studies show)가 먼저 나와야 권고가 됩니다.",
+    "tip": "'Because of this' 앞에는 근거가, 'In this way' 앞에는 방법(권고)이 옵니다."
+  },
+  {
+    "id": "m2-04-39",
+    "level": "m2",
+    "set": "mock-04",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nBecause of this, you often wake up at the same time even without an alarm.\n\n[글]\nOur body has a built-in clock called the circadian rhythm. ( ① ) It tells us when to sleep and when to wake up. ( ② ) Bright light in the morning helps set this clock. ( ③ ) However, using a smartphone late at night can confuse it. ( ④ ) That is why experts say we should avoid screens before bed. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "[주어진 문장] 이 때문에 알람이 없어도 종종 같은 시각에 깨어난다. [글] 우리 몸에는 일주기 리듬이라는 체내 시계가 있다. 이것은 언제 자고 언제 일어날지를 알려 준다. 아침의 밝은 빛은 이 시계를 맞추는 데 도움이 된다. 그러나 밤늦게 스마트폰을 쓰면 이것을 혼란스럽게 할 수 있다. 그래서 전문가들은 잠자기 전에 화면을 피하라고 말한다.",
+    "why": "'Because of this'는 앞 문장의 '언제 자고 일어날지 알려 준다'를 가리키므로 ②에 들어갑니다.",
+    "optionNotes": [
+      "체내 시계의 기능이 아직 설명되지 않았습니다.",
+      "정답. 시계의 기능 뒤에 결과가 이어집니다.",
+      "'this clock'이 가리키는 시계 설명 흐름이 끊깁니다.",
+      "스마트폰 문제를 말한 뒤라 어색합니다.",
+      "결론 뒤라서 어색합니다."
+    ],
+    "trap": "①도 'this'가 시계를 가리킬 수 있어 보이지만, 'It tells us ...'의 'It'이 곧바로 이어져야 합니다.",
+    "tip": "'Because of this'는 바로 앞 문장이 원인이어야 합니다. 뒤 문장과의 대명사 연결도 확인하세요."
+  },
+  {
+    "id": "m2-04-40",
+    "level": "m2",
+    "set": "mock-04",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Researchers asked two groups of students to learn thirty new words. Group A studied for three hours in one day. Group B studied for thirty minutes a day for six days. A week later, they took a test. Group B remembered more words than Group A.\n\n▶ Studying in (A) sessions over several days can lead to (B) memory than studying for a long time at once.",
+    "options": [
+      "(A) long — (B) better",
+      "(A) loud — (B) worse",
+      "(A) short — (B) better",
+      "(A) short — (B) worse",
+      "(A) late — (B) weaker"
+    ],
+    "answer": 2,
+    "translation": "연구자들은 두 그룹의 학생에게 새 단어 서른 개를 배우게 했다. A그룹은 하루에 세 시간 공부했다. B그룹은 엿새 동안 하루 30분씩 공부했다. 일주일 뒤 시험을 보았다. B그룹이 A그룹보다 단어를 더 많이 기억했다. ▶ 며칠에 걸친 짧은 학습은 한 번에 오래 공부하는 것보다 더 나은 기억으로 이어질 수 있다.",
+    "why": "하루 30분씩 나누어 공부한 그룹이 더 많이 기억했으므로 (A)는 short, (B)는 better입니다.",
+    "optionNotes": [
+      "긴 시간은 한 번에 공부한 그룹의 방식입니다.",
+      "시끄러운 환경은 글에 나오지 않습니다.",
+      "정답. 짧은 학습이 더 나은 기억으로 이어집니다.",
+      "(B)가 worse라 결과와 반대입니다.",
+      "늦은 시간 학습은 글에 나오지 않습니다."
+    ],
+    "trap": "④는 (A)는 맞지만 (B)가 결과와 반대입니다. 둘 다 맞아야 합니다.",
+    "tip": "요약문은 비교 대상(짧은 반복 vs 한 번에 길게)과 결과(더 많이 기억)를 짝지으세요."
+  }
+]
