@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m2-08-29",
+    "level": "m2",
+    "set": "mock-08",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Last year, I {1|visited} my grandparents' farm for the first time. At first, I thought that farm life would be boring, but I {2|was} wrong. Every morning, I helped my grandfather {3|fed} the chickens and collected eggs. In the afternoon, we {4|picked} vegetables together. It was a wonderful experience, and I want {5|to go} there again.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "작년에 나는 조부모님의 농장을 처음 방문했다. 처음에는 농장 생활이 지루할 거라고 생각했지만 틀렸다. 매일 아침 나는 할아버지가 닭에게 모이를 주고 달걀을 모으는 것을 도왔다. 오후에는 함께 채소를 땄다. 멋진 경험이었고 나는 그곳에 다시 가고 싶다.",
+    "why": "help + 목적어 + 동사원형(또는 to V)이므로 'fed'가 아니라 'feed'여야 합니다.",
+    "optionNotes": [
+      "Last year가 있으므로 과거형 visited가 맞습니다.",
+      "과거형 was가 맞습니다.",
+      "정답(틀린 것). help + 목적어 + 동사원형이므로 feed여야 합니다.",
+      "과거형 picked가 맞습니다.",
+      "want to V가 맞습니다."
+    ],
+    "trap": "과거 이야기라서 과거형을 쓰고 싶어지지만 help 뒤에서는 동사원형입니다.",
+    "tip": "help + 목적어 + 동사원형/to V 구문을 확인하세요."
+  },
+  {
+    "id": "m2-08-30",
+    "level": "m2",
+    "set": "mock-08",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "A good night's sleep is {1|essential} for our health. During sleep, our body {2|repairs} itself and our brain organizes the information we learned. If we sleep too little, we find it hard to {3|concentrate} in class. Experts say that teenagers need eight to ten hours of sleep. Therefore, we should {4|avoid} using smartphones before bed and go to bed at a regular time to {5|worsen} our sleep.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "충분한 숙면은 우리 건강에 필수적이다. 자는 동안 몸은 스스로를 회복하고 뇌는 배운 정보를 정리한다. 너무 적게 자면 수업 시간에 집중하기 어렵다. 전문가들은 십 대에게 8~10시간의 수면이 필요하다고 말한다. 그러므로 잠자기 전 스마트폰 사용을 피하고 규칙적인 시간에 잠자리에 들어 수면을 개선해야 한다.",
+    "why": "수면을 위해 노력해야 한다는 흐름이므로 수면을 '악화시키다(worsen)'가 아니라 '개선하다(improve)'여야 합니다.",
+    "optionNotes": [
+      "필수적이라는 의미로 essential이 알맞습니다.",
+      "스스로를 회복한다는 의미로 repairs가 알맞습니다.",
+      "집중한다는 의미로 concentrate가 알맞습니다.",
+      "스마트폰을 피한다는 의미로 avoid가 알맞습니다.",
+      "정답(부적절). 수면을 개선하려는 목적이므로 improve가 알맞습니다."
+    ],
+    "trap": "마지막 낱말이라 문장을 끝까지 읽지 않으면 놓치기 쉽습니다.",
+    "tip": "'to V' 목적의 동사는 앞의 행동(규칙적인 취침)의 목적과 일치해야 합니다."
+  },
+  {
+    "id": "m2-08-31",
+    "level": "m2",
+    "set": "mock-08",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Beneath the ground of a forest, trees are connected by a network of fungi. Through this network, they share water, food, and even warning signals. If an insect attacks one tree, it sends a chemical message to its neighbors. They then prepare their defenses. In this way, a forest is not just a group of individual trees but a community that __________.",
+    "options": [
+      "competes to take the most space",
+      "shares resources and protects one another",
+      "grows faster when it is alone",
+      "depends only on the sunlight",
+      "ignores messages from nearby trees"
+    ],
+    "answer": 1,
+    "translation": "숲의 땅속에서는 나무들이 균류의 네트워크로 연결되어 있다. 이 네트워크를 통해 그들은 물, 양분, 심지어 경고 신호까지 나눈다. 곤충이 나무 한 그루를 공격하면 이웃에게 화학 메시지를 보내 그들이 방어를 준비한다. 이렇게 숲은 개별 나무의 집합이 아니라 자원을 나누고 서로를 보호하는 공동체이다.",
+    "why": "물과 양분과 경고를 나눈다고 했으므로 자원을 나누고 서로를 보호한다는 말이 알맞습니다.",
+    "optionNotes": [
+      "공간을 놓고 경쟁한다는 내용은 글과 반대입니다.",
+      "정답. 자원을 나누고 서로를 보호합니다.",
+      "혼자일 때 더 빨리 자란다는 내용은 없습니다.",
+      "햇빛에만 의존한다는 내용은 없습니다.",
+      "메시지를 무시한다는 것은 글과 반대입니다."
+    ],
+    "trap": "①④⑤는 글의 내용과 반대되는 보기입니다.",
+    "tip": "'not just A but B' 구조에서 빈칸은 B이며 글이 강조하는 방향입니다."
+  },
+  {
+    "id": "m2-08-32",
+    "level": "m2",
+    "set": "mock-08",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Imagine that you are asked to choose between two jobs. One pays a high salary but requires long hours. The other pays less but allows you to spend more time with your family. Many people choose the first job because money is easy to measure. However, surveys show that people who spend more time with family and friends report greater life satisfaction. This suggests that the most valuable things in life are often those that __________.",
+    "options": [
+      "are decided by the people around us",
+      "are easily replaced by new things",
+      "help us earn more money each year",
+      "cannot be bought with a high salary and are hard to measure",
+      "last for only a short moment"
+    ],
+    "answer": 3,
+    "translation": "두 가지 일 중 하나를 선택하라는 요청을 받았다고 상상해 보자. 하나는 월급이 높지만 오래 일해야 하고 다른 하나는 월급이 적지만 가족과 더 많은 시간을 보낼 수 있다. 많은 사람들은 돈이 측정하기 쉽기 때문에 첫 번째 일을 선택한다. 그러나 조사에 따르면 가족, 친구와 더 많은 시간을 보내는 사람들이 삶의 만족도가 더 높다고 보고한다. 이는 삶에서 가장 가치 있는 것은 높은 월급으로 살 수 없고 측정하기 어려운 것인 경우가 많음을 시사한다.",
+    "why": "돈은 측정하기 쉽지만 가족·친구와의 시간이 만족도를 높인다고 했으므로 높은 월급으로 살 수 없고 측정하기 어려운 것이 알맞습니다.",
+    "optionNotes": [
+      "주변 사람이 결정한다는 내용은 없습니다.",
+      "쉽게 대체된다는 내용은 없습니다.",
+      "더 많은 돈을 번다는 내용은 반대입니다.",
+      "정답. 월급으로 살 수 없고 측정하기 어려운 것입니다.",
+      "짧은 순간만 지속된다는 내용은 없습니다."
+    ],
+    "trap": "③은 돈 이야기에서 만든 보기이지만 글은 돈이 아닌 가치를 강조합니다.",
+    "tip": "However 뒤의 조사 결과가 빈칸의 방향입니다."
+  },
+  {
+    "id": "m2-08-33",
+    "level": "m2",
+    "set": "mock-08",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many people believe that the more options they have, the happier they will be. However, psychologists have found that too many choices can make people anxious. In one experiment, shoppers who saw twenty-four kinds of jam bought less than shoppers who saw only six kinds. With too many options, people feel pressure to choose the perfect one, and they often decide to choose nothing. In other words, having more choices does not always lead to __________.",
+    "options": [
+      "better prices in the stores",
+      "a quicker walk to the market",
+      "more fresh food in the shelves",
+      "better decisions and greater satisfaction",
+      "greater interest in new products"
+    ],
+    "answer": 3,
+    "translation": "많은 사람들은 선택지가 많을수록 더 행복해질 것이라고 믿는다. 그러나 심리학자들은 선택지가 너무 많으면 사람들이 불안해질 수 있다는 것을 발견했다. 한 실험에서 24종류의 잼을 본 쇼핑객은 6종류만 본 쇼핑객보다 덜 샀다. 선택지가 너무 많으면 사람들은 완벽한 것을 골라야 한다는 압박을 느끼고 종종 아무것도 고르지 않기로 한다. 다시 말해 선택지가 많다고 항상 더 나은 결정과 더 큰 만족으로 이어지는 것은 아니다.",
+    "why": "선택지가 많으면 오히려 사지 않거나 불안해진다고 했으므로 더 나은 결정과 더 큰 만족으로 이어지지 않는다는 말이 알맞습니다.",
+    "optionNotes": [
+      "가격 이야기는 나오지 않습니다.",
+      "걷는 속도는 나오지 않습니다.",
+      "신선한 음식의 양은 나오지 않습니다.",
+      "정답. 더 나은 결정과 큰 만족으로 이어지지 않습니다.",
+      "관심 이야기는 나오지 않습니다."
+    ],
+    "trap": "⑤는 'interest'가 쇼핑 맥락에서 자연스러워 보이지만 글의 결론과 다릅니다.",
+    "tip": "'In other words' 뒤의 빈칸은 실험 결과를 일반화한 표현입니다."
+  },
+  {
+    "id": "m2-08-34",
+    "level": "m2",
+    "set": "mock-08",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In many countries, people use metal or glass straws instead of plastic ones. In stores, shoppers bring their own bags and cups. Some cafés even give discounts to customers who bring their own cups. These small actions seem unimportant, but when millions of people do the same thing, the effect becomes huge. This shows that small personal choices can __________.",
+    "options": [
+      "make a big difference when many people do them",
+      "increase the price of daily goods in many stores around the town",
+      "make people lose interest in stores",
+      "be ignored by businesses and governments",
+      "replace the role of laws completely"
+    ],
+    "answer": 0,
+    "translation": "많은 나라에서 사람들은 플라스틱 대신 금속이나 유리 빨대를 쓴다. 상점에서 쇼핑객들은 자기 가방과 컵을 가져온다. 일부 카페는 자기 컵을 가져온 고객에게 할인도 해 준다. 이런 작은 행동은 중요하지 않아 보이지만 수백만 명이 같은 일을 하면 효과가 엄청나게 커진다. 이는 작은 개인적 선택도 많은 사람이 하면 큰 차이를 만들 수 있음을 보여 준다.",
+    "why": "수백만 명이 하면 효과가 커진다고 했으므로 많은 사람이 하면 큰 차이를 만든다는 말이 알맞습니다.",
+    "optionNotes": [
+      "정답. 많은 사람이 하면 큰 차이를 만듭니다.",
+      "물가 이야기는 나오지 않습니다.",
+      "상점에 흥미를 잃는다는 내용은 없습니다.",
+      "무시된다는 것은 글과 반대입니다.",
+      "법을 완전히 대체한다는 내용은 과장입니다."
+    ],
+    "trap": "'seem unimportant'만 보고 ④를 고르기 쉽지만 But 이후가 핵심입니다.",
+    "tip": "'but when ~' 이후의 결론이 빈칸의 정답입니다."
+  },
+  {
+    "id": "m2-08-35",
+    "level": "m2",
+    "set": "mock-08",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Reading before bed has several benefits. ① The Great Wall of China is more than twenty thousand kilometers long. ② It helps your mind relax after a busy day. ③ Quiet reading can also lower your heart rate. ④ Many people say that they fall asleep faster when they read a book. ⑤ For these reasons, reading before bed can improve the quality of your sleep.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "자기 전에 책을 읽는 것에는 여러 이점이 있다. ① 만리장성은 길이가 2만 킬로미터가 넘는다. ② 바쁜 하루 뒤 마음이 느긋해지도록 돕는다. ③ 조용한 독서는 심박수를 낮추기도 한다. ④ 많은 사람들은 책을 읽으면 더 빨리 잠든다고 말한다. ⑤ 이런 이유로 자기 전 독서는 수면의 질을 높일 수 있다.",
+    "why": "글은 자기 전 독서의 이점을 설명하는데 ①은 만리장성의 길이 이야기라 흐름과 관계가 없습니다.",
+    "optionNotes": [
+      "정답(무관). 만리장성의 길이 이야기입니다.",
+      "독서의 이점입니다.",
+      "독서의 이점입니다.",
+      "독서의 이점입니다.",
+      "결론입니다."
+    ],
+    "trap": "①이 첫 번째 번호 문장이라 도입처럼 보이지만 주제와 무관합니다.",
+    "tip": "첫 번째 번호 문장도 주제(reading before bed)와 이어지는지 확인하세요."
+  },
+  {
+    "id": "m2-08-36",
+    "level": "m2",
+    "set": "mock-08",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Some people are afraid of speaking in front of a crowd.\n(A) Instead, they should think of the audience as friendly listeners.\n(B) They imagine that everyone is judging them and waiting for a mistake, and this makes their hearts beat faster.\n(C) This change in thinking can lower their fear and help them speak naturally. The talk then becomes more enjoyable.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 1,
+    "translation": "어떤 사람들은 많은 사람 앞에서 말하는 것을 두려워한다. (B) 그들은 모두가 자신을 평가하고 실수를 기다린다고 상상하며 이 때문에 심장이 더 빨리 뛴다. (A) 대신 청중을 친근한 청자로 생각해야 한다. (C) 이런 생각의 변화는 두려움을 줄이고 자연스럽게 말하도록 도울 수 있어 발표가 더 즐거운 경험이 된다.",
+    "why": "(B) 두려움의 원인 → (A) 'Instead'로 대안 제시 → (C) 'This change'가 그 변화의 효과를 설명하는 순서입니다.",
+    "optionNotes": [
+      "(A)의 'Instead'가 대비할 앞 내용이 없습니다.",
+      "정답. 원인 → 대안 → 효과.",
+      "(C)의 'This change'가 가리킬 변화가 앞에 없습니다.",
+      "(C)의 'This change'가 가리킬 변화가 앞에 없습니다.",
+      "(C)의 'This change'가 가리킬 변화가 앞에 없습니다."
+    ],
+    "trap": "(A)의 'Instead'는 (B)의 부정적 생각에 대한 대안입니다.",
+    "tip": "Instead(대안) → This change(효과) 순서를 확인하세요."
+  },
+  {
+    "id": "m2-08-37",
+    "level": "m2",
+    "set": "mock-08",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Last summer, a heavy rain flooded our village in just two days.\n(A) After a week, the water went down, and neighbors started to clean the streets together.\n(B) Many houses were filled with water, and people had to stay in the school gym.\n(C) Thanks to everyone's help, the village was back to normal after a month.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 1,
+    "translation": "지난여름 큰비가 이틀 만에 우리 마을을 침수시켰다. (B) 많은 집이 물에 잠겼고 사람들은 학교 체육관에 머물러야 했다. (A) 일주일 뒤 물이 빠지자 이웃들은 함께 거리를 청소하기 시작했다. (C) 모두의 도움 덕분에 한 달 뒤 마을은 평소대로 돌아왔다.",
+    "why": "(B) 침수와 대피 → (A) 일주일 뒤 청소 → (C) 한 달 뒤 복구 순서입니다.",
+    "optionNotes": [
+      "(A)가 침수 설명(B) 전에 올 수 없습니다.",
+      "정답. 침수 → 일주일 뒤 청소 → 한 달 뒤 복구.",
+      "(C)의 복구가 (A)의 청소보다 앞설 수 없습니다.",
+      "(C)가 처음이면 침수 전에 복구가 됩니다.",
+      "(C)가 처음이면 침수 전에 복구가 됩니다."
+    ],
+    "trap": "시간 표현(After a week, after a month)의 순서를 놓치지 마세요.",
+    "tip": "After a week → after a month의 시간 순서로 정렬하세요."
+  },
+  {
+    "id": "m2-08-38",
+    "level": "m2",
+    "set": "mock-08",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nAs a result, they were able to share the work and finish the project on time.\n\n[글]\nA group of students had a difficult science project. ( ① ) At first, each student tried to work alone, and nothing went well. ( ② ) Then their teacher suggested making a plan and dividing the tasks according to each person's strengths. ( ③ ) One student collected data, another drew charts, and the others wrote the report. ( ④ ) The students were proud of their work and learned the value of teamwork. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "[주어진 문장] 그 결과 그들은 일을 나누어 하고 제시간에 프로젝트를 끝낼 수 있었다. [글] 한 모둠의 학생들은 어려운 과학 프로젝트를 맡았다. 처음에는 각자 혼자 하려 했고 아무것도 잘되지 않았다. 그때 선생님이 계획을 세우고 각자의 강점에 따라 일을 나누라고 제안하셨다. 한 학생은 자료를 모았고 다른 학생은 도표를 그렸고 나머지는 보고서를 썼다. 학생들은 작품이 자랑스러웠고 협동의 가치를 배웠다.",
+    "why": "'As a result'는 앞의 원인(역할 분담)의 결과를 말하므로 구체적 분담 설명 뒤인 ④에 들어갑니다.",
+    "optionNotes": [
+      "문제가 소개되기 전이라 결과가 어색합니다.",
+      "혼자 하다 실패한 뒤라 'share the work'가 어색합니다.",
+      "제안만 나온 뒤라 구체적 분담이 아직 설명되지 않았습니다.",
+      "정답. 역할 분담 뒤의 결과입니다.",
+      "자랑스러웠다는 결과 뒤라 중복됩니다."
+    ],
+    "trap": "③도 제안 뒤라 가능해 보이지만, 'share the work'의 근거인 구체적 분담이 먼저 나와야 합니다.",
+    "tip": "'As a result' 앞에는 원인이 충분히 설명되어야 합니다."
+  },
+  {
+    "id": "m2-08-39",
+    "level": "m2",
+    "set": "mock-08",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThis is why it is important to check the label before eating any packaged food.\n\n[글]\nFood companies often use words like \"natural\" or \"light\" on their products. ( ① ) These words sound healthy, but they do not have a strict legal meaning. ( ② ) A \"light\" snack may still contain a lot of sugar or salt. ( ③ ) The ingredient list and nutrition facts on the back give more accurate information. ( ④ ) Many people only look at the front of the package. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 이것이 포장 식품을 먹기 전에 라벨을 확인하는 것이 중요한 이유이다. [글] 식품 회사들은 제품에 '천연'이나 '가벼운' 같은 낱말을 흔히 쓴다. 이 낱말들은 건강해 보이지만 엄격한 법적 의미는 없다. '가벼운' 간식도 설탕이나 소금이 많이 들어 있을 수 있다. 뒷면의 성분표와 영양 정보가 더 정확한 정보를 준다. 많은 사람은 포장의 앞면만 본다.",
+    "why": "'This is why'는 앞의 설명(낱말에 법적 의미가 없고 '가벼운' 간식도 당이 많을 수 있다)의 결과를 말하므로 ③에 들어갑니다.",
+    "optionNotes": [
+      "원인 설명이 나오기 전이라 'This'가 가리킬 내용이 없습니다.",
+      "법적 의미가 없다는 사실만 나왔고 구체적 예가 남아 있습니다.",
+      "정답. 원인과 예 뒤에 결론이 오고 뒤의 '성분표'로 이어집니다.",
+      "성분표 설명 뒤라 결론이 어색합니다.",
+      "마지막 문장 뒤라 흐름이 맞지 않습니다."
+    ],
+    "trap": "②도 원인 뒤라 가능해 보이지만 구체적 예(light snack)가 나온 뒤의 결론이 더 자연스럽습니다.",
+    "tip": "'This is why ~'는 앞에서 설명한 원인 전체를 받는 문장입니다."
+  },
+  {
+    "id": "m2-08-40",
+    "level": "m2",
+    "set": "mock-08",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A researcher asked two groups of students to remember a list of words. One group was allowed to listen to music while studying, and the other studied in silence. The students who studied in silence remembered about twenty percent more words. The researcher explained that music competes with the brain for attention, which makes it harder to store new information.\n\n▶ Studying in (A) can help students (B) more information.",
+    "options": [
+      "(A) a noisy room — (B) lose",
+      "(A) the sunlight — (B) ignore",
+      "(A) a hurry — (B) forget",
+      "(A) groups — (B) avoid",
+      "(A) silence — (B) remember"
+    ],
+    "answer": 4,
+    "translation": "한 연구자가 두 집단의 학생에게 낱말 목록을 기억하게 했다. 한 집단은 공부하는 동안 음악을 들을 수 있었고 다른 집단은 조용히 공부했다. 조용히 공부한 학생들은 약 20퍼센트 더 많은 낱말을 기억했다. 연구자는 음악이 뇌의 주의를 두고 경쟁해 새로운 정보를 저장하기 더 어렵게 만든다고 설명했다. ▶ 조용한 곳에서 공부하면 학생들이 더 많은 정보를 기억하는 데 도움이 될 수 있다.",
+    "why": "조용히 공부한 집단이 더 많이 기억했으므로 (A)는 silence, (B)는 remember입니다.",
+    "optionNotes": [
+      "시끄러운 방과 잃는다는 내용은 글과 반대입니다.",
+      "햇빛과 무시는 글에 나오지 않습니다.",
+      "서두름과 잊음은 글에 나오지 않습니다.",
+      "모둠과 피함은 글에 나오지 않습니다.",
+      "정답. 조용하면 더 많이 기억합니다."
+    ],
+    "trap": "(B)가 'remember'인 보기는 ⑤뿐이지만 (A)도 글의 조건(silence)과 맞아야 합니다.",
+    "tip": "요약문은 조건(silence)과 결과(remember)를 짝지으세요."
+  }
+]

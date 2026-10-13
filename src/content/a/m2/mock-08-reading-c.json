@@ -1,0 +1,104 @@
+[
+  {
+    "id": "m2-08-41", "level": "m2", "set": "mock-08", "no": 41, "type": "long", "group": "m2-08-g41",
+    "stem": "[41~42] 윗글의 제목으로 가장 적절한 것을 고르시오.",
+    "passage": "Under our feet, soil is full of life. A handful of soil can contain more living things than there are people on Earth. These tiny creatures {1|break} down dead leaves and turn them into food for plants. Earthworms {2|block} the soil so that air and water can reach the roots. Fungi connect with plant roots and help them {3|absorb} water. Healthy soil also {4|stores} carbon and keeps it out of the air. Farmers and scientists now work to {5|protect} the soil, because without it, we could not grow the food that we eat.",
+    "options": [
+      "How Farmers Choose Their Tools",
+      "The Most Dangerous Insects in the World",
+      "Why Plants Need Sunlight to Grow",
+      "The Hidden World Beneath Our Feet",
+      "A Day in the Life of a Farmer"
+    ],
+    "answer": 3,
+    "translation": "우리 발밑의 흙은 생명으로 가득하다. 한 줌의 흙에는 지구의 인구보다 더 많은 생물이 들어 있을 수 있다. 이 작은 생물들은 죽은 잎을 분해해 식물의 양분으로 바꾼다. 지렁이는 공기와 물이 뿌리에 닿도록 흙을 막는다. 균류는 식물 뿌리와 연결되어 물을 흡수하도록 돕는다. 건강한 흙은 또한 탄소를 저장해 공기 밖에 둔다. 농부와 과학자들은 이제 흙을 보호하려고 노력한다. 흙이 없다면 우리가 먹는 식량을 기를 수 없기 때문이다.",
+    "why": "흙 속에 사는 생물과 그 역할을 다루므로 ④가 제목입니다.",
+    "optionNotes": [
+      "농기구 이야기는 나오지 않습니다.",
+      "위험한 곤충은 나오지 않습니다.",
+      "식물과 햇빛은 나오지 않습니다.",
+      "정답. 발밑 흙 속의 숨은 세계입니다.",
+      "농부의 하루는 나오지 않습니다."
+    ],
+    "trap": "'farmers'가 나오지만 글의 중심은 흙 속의 생명입니다.",
+    "tip": "제목은 글 전체의 대상(soil, hidden life)을 담으세요."
+  },
+  {
+    "id": "m2-08-42", "level": "m2", "set": "mock-08", "no": 42, "type": "long", "group": "m2-08-g41",
+    "stem": "[41~42] 밑줄 친 ①~⑤ 중에서 문맥상 낱말의 쓰임이 적절하지 않은 것을 고르시오.",
+    "passage": "Under our feet, soil is full of life. A handful of soil can contain more living things than there are people on Earth. These tiny creatures {1|break} down dead leaves and turn them into food for plants. Earthworms {2|block} the soil so that air and water can reach the roots. Fungi connect with plant roots and help them {3|absorb} water. Healthy soil also {4|stores} carbon and keeps it out of the air. Farmers and scientists now work to {5|protect} the soil, because without it, we could not grow the food that we eat.",
+    "options": ["①", "②", "③", "④", "⑤"],
+    "answer": 1,
+    "translation": "(41번 지문과 같은 글입니다.)",
+    "why": "공기와 물이 뿌리에 닿도록 해야 하므로 흙을 '막는다(block)'가 아니라 '느슨하게 한다(loosen)'여야 합니다.",
+    "optionNotes": [
+      "죽은 잎을 분해한다는 의미로 break가 알맞습니다.",
+      "정답(부적절). 공기와 물이 닿도록 흙을 느슨하게 해야 합니다.",
+      "물을 흡수하도록 돕는다는 의미로 absorb가 알맞습니다.",
+      "탄소를 저장한다는 의미로 stores가 알맞습니다.",
+      "흙을 보호한다는 의미로 protect가 알맞습니다."
+    ],
+    "trap": "'so that air and water can reach the roots'라는 결과가 뒤에 있어 앞 동사의 의미를 놓치기 쉽습니다.",
+    "tip": "목적을 나타내는 so that 절의 내용과 동사의 방향이 맞는지 확인하세요."
+  },
+  {
+    "id": "m2-08-43", "level": "m2", "set": "mock-08", "no": 43, "type": "long", "group": "m2-08-g43",
+    "stem": "[43~45] 주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것을 고르시오.",
+    "passage": "(A) Jaemin became the goalkeeper of his school team, but he let in five goals in his first match. After the game, {1|he} felt that everyone was disappointed in him.\n(B) In the final match a month later, {2|he} saved the last shot of the other team. His teammates ran to him and hugged him.\n(C) The next morning, Jaemin arrived at the field early. {3|He} practiced catching balls for an hour without a break.\n(D) That evening, Coach Bae called Jaemin and said, \"Everyone makes mistakes. Come early tomorrow.\" {4|He} nodded in the dark room. {5|She} smiled and ended the call.",
+    "options": ["(B)-(D)-(C)", "(C)-(B)-(D)", "(C)-(D)-(B)", "(D)-(B)-(C)", "(D)-(C)-(B)"],
+    "answer": 4,
+    "translation": "(A) 재민은 학교 팀의 골키퍼가 되었지만 첫 경기에서 다섯 골을 허용했다. 경기 후 그는 모두가 자신에게 실망했다고 느꼈다. (D) 그날 저녁 배 코치가 재민에게 전화해 말했다. \"누구나 실수를 해. 내일 일찍 오렴.\" 그는 어두운 방에서 고개를 끄덕였다. 그녀는 미소 지으며 전화를 끊었다. (C) 다음 날 아침 재민은 일찍 운동장에 도착했다. 그는 한 시간 동안 쉬지 않고 공 잡는 연습을 했다. (B) 한 달 뒤 결승전에서 그는 상대 팀의 마지막 슛을 막았다. 팀 동료들이 달려와 그를 안아 주었다.",
+    "why": "(A) 첫 경기 실패 → (D) 그날 저녁 코치의 전화 → (C) 다음 날 아침 연습 → (B) 한 달 뒤 결승전 순서입니다.",
+    "optionNotes": [
+      "(B)의 결승전이 처음에 올 수 없습니다.",
+      "(B)가 (D)보다 앞서면 위로받기 전에 결승전이 됩니다.",
+      "(C)가 (D)보다 앞서면 코치가 오라고 하기 전에 일찍 도착하게 됩니다.",
+      "(D) 뒤에 (B)가 오면 연습(C)이 빠져 결과가 갑작스럽습니다.",
+      "정답. 코치의 전화 → 다음 날 연습 → 한 달 뒤 결승전."
+    ],
+    "trap": "(C)의 'The next morning'은 (D)의 'That evening' 다음 날입니다.",
+    "tip": "That evening → The next morning → a month later의 시간 순서를 따르세요."
+  },
+  {
+    "id": "m2-08-44", "level": "m2", "set": "mock-08", "no": 44, "type": "long", "group": "m2-08-g43",
+    "stem": "[43~45] 밑줄 친 ①~⑤ 중에서 가리키는 대상이 나머지 넷과 다른 것을 고르시오.",
+    "passage": "(A) Jaemin became the goalkeeper of his school team, but he let in five goals in his first match. After the game, {1|he} felt that everyone was disappointed in him.\n(B) In the final match a month later, {2|he} saved the last shot of the other team. His teammates ran to him and hugged him.\n(C) The next morning, Jaemin arrived at the field early. {3|He} practiced catching balls for an hour without a break.\n(D) That evening, Coach Bae called Jaemin and said, \"Everyone makes mistakes. Come early tomorrow.\" {4|He} nodded in the dark room. {5|She} smiled and ended the call.",
+    "options": ["①", "②", "③", "④", "⑤"],
+    "answer": 4,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "⑤의 She는 미소 지으며 전화를 끊은 배 코치이고, 나머지 ①②③④는 모두 재민을 가리킵니다.",
+    "optionNotes": [
+      "he는 실망했다고 느낀 재민입니다.",
+      "he는 마지막 슛을 막은 재민입니다.",
+      "He는 공 잡는 연습을 한 재민입니다.",
+      "He는 고개를 끄덕인 재민입니다.",
+      "정답. She는 배 코치입니다."
+    ],
+    "trap": "(D)에서 코치와 재민이 나와 ④⑤가 헷갈리기 쉽습니다. he/she로 구분됩니다.",
+    "tip": "대명사는 직전 동작의 주어와 성별을 함께 확인하세요."
+  },
+  {
+    "id": "m2-08-45", "level": "m2", "set": "mock-08", "no": 45, "type": "long", "group": "m2-08-g43",
+    "stem": "[43~45] 윗글에 관한 내용으로 적절하지 않은 것을 고르시오.",
+    "passage": "(A) Jaemin became the goalkeeper of his school team, but he let in five goals in his first match. After the game, {1|he} felt that everyone was disappointed in him.\n(B) In the final match a month later, {2|he} saved the last shot of the other team. His teammates ran to him and hugged him.\n(C) The next morning, Jaemin arrived at the field early. {3|He} practiced catching balls for an hour without a break.\n(D) That evening, Coach Bae called Jaemin and said, \"Everyone makes mistakes. Come early tomorrow.\" {4|He} nodded in the dark room. {5|She} smiled and ended the call.",
+    "options": [
+      "재민은 첫 경기에서 다섯 골을 허용했다.",
+      "재민은 코치의 전화를 받은 뒤 축구를 그만두기로 마음먹고 팀을 떠났다.",
+      "재민은 다음 날 아침 일찍 운동장에 도착했다.",
+      "재민은 한 달 뒤 결승전에서 마지막 슛을 막았다.",
+      "팀 동료들은 재민을 안아 주었다."
+    ],
+    "answer": 1,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "재민은 코치의 전화를 받은 뒤 다음 날 일찍 연습했고 결승전에서 활약했으므로 팀을 떠났다는 ②는 일치하지 않습니다.",
+    "optionNotes": [
+      "let in five goals와 일치합니다.",
+      "정답(불일치). 코치의 격려로 다시 연습했습니다.",
+      "arrived at the field early와 일치합니다.",
+      "saved the last shot과 일치합니다.",
+      "hugged him과 일치합니다."
+    ],
+    "trap": "처음의 실망에 이끌려 그만두었을 것이라 짐작하기 쉽습니다.",
+    "tip": "불일치 문제는 인물의 이후 행동(다음 날 연습)과 모순되는 보기를 찾으세요."
+  }
+]
