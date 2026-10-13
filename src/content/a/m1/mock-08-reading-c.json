@@ -1,0 +1,147 @@
+[
+  {
+    "id": "m1-08-41",
+    "level": "m1",
+    "set": "mock-08",
+    "no": 41,
+    "type": "long",
+    "group": "m1-08-g41",
+    "stem": "[41~42] 윗글의 제목으로 가장 적절한 것을 고르시오.",
+    "passage": "Ella was not good at drawing. Her friends could draw cute cats and flowers, but her pictures looked strange. One day, she almost {1|gave} up. Her art teacher said, \"A great picture starts with a simple line.\" So Ella drew one line every day. After a month, her lines became {2|rough}. After three months, she could draw a small house. At the school art show, many people stopped in front of her picture. Ella felt very {3|proud}. She learned that practice makes things {4|better}. Now she wants to {5|share} her pictures with more people.",
+    "options": [
+      "The Best Art Teacher in Town",
+      "Ella's Lost Pencil Case",
+      "One Line at a Time",
+      "A Cat That Loves Flowers",
+      "How to Build a Small House"
+    ],
+    "answer": 2,
+    "translation": "Ella는 그림을 잘 그리지 못했다. 친구들은 귀여운 고양이와 꽃을 그릴 수 있었지만 그녀의 그림은 이상해 보였다. 어느 날 그녀는 거의 포기할 뻔했다. 미술 선생님이 말씀하셨다. \"훌륭한 그림은 단순한 선 하나에서 시작해.\" 그래서 Ella는 매일 선 하나를 그렸다. 한 달 뒤 그녀의 선은 거칠어졌다. 석 달 뒤에는 작은 집을 그릴 수 있었다. 학교 미술 전시회에서 많은 사람이 그녀의 그림 앞에 멈춰 섰다. Ella는 매우 자랑스러웠다. 그녀는 연습이 일을 더 좋게 만든다는 것을 배웠다. 이제 그녀는 더 많은 사람과 그림을 나누고 싶어 한다.",
+    "why": "매일 선 하나씩 그려 그림이 나아진 이야기이므로 ③이 제목입니다.",
+    "optionNotes": [
+      "최고의 미술 선생님 이야기가 아닙니다.",
+      "필통 이야기는 나오지 않습니다.",
+      "정답. 선 하나씩 그려 나아진 이야기입니다.",
+      "고양이는 친구들의 그림 예일 뿐입니다.",
+      "집 짓는 법이 아닙니다."
+    ],
+    "trap": "②⑤는 지문의 소재(drawing, house)를 가져온 보기입니다. 핵심은 매일 한 선이라는 연습입니다.",
+    "tip": "이야기글의 제목은 교훈이 되는 핵심 행동(one line every day)을 담으세요."
+  },
+  {
+    "id": "m1-08-42",
+    "level": "m1",
+    "set": "mock-08",
+    "no": 42,
+    "type": "long",
+    "group": "m1-08-g41",
+    "stem": "[41~42] 밑줄 친 ①~⑤ 중에서 문맥상 낱말의 쓰임이 적절하지 않은 것을 고르시오.",
+    "passage": "Ella was not good at drawing. Her friends could draw cute cats and flowers, but her pictures looked strange. One day, she almost {1|gave} up. Her art teacher said, \"A great picture starts with a simple line.\" So Ella drew one line every day. After a month, her lines became {2|rough}. After three months, she could draw a small house. At the school art show, many people stopped in front of her picture. Ella felt very {3|proud}. She learned that practice makes things {4|better}. Now she wants to {5|share} her pictures with more people.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "(41번 지문과 같은 글입니다.)",
+    "why": "연습한 지 한 달 뒤 그림이 나아졌다고 했으므로 선이 '거칠어졌다(rough)'가 아니라 '매끄러워졌다(smooth)'여야 합니다.",
+    "optionNotes": [
+      "거의 포기할 뻔했다는 의미로 gave가 알맞습니다.",
+      "정답(부적절). 연습으로 나아졌으므로 smooth가 알맞습니다.",
+      "자랑스러웠다는 의미로 proud가 알맞습니다.",
+      "연습이 일을 더 좋게 만든다는 의미로 better가 알맞습니다.",
+      "나누고 싶다는 의미로 share가 알맞습니다."
+    ],
+    "trap": "'became rough'는 문법적으로 자연스럽지만 이어지는 'After three months, she could draw a small house'와 모순됩니다.",
+    "tip": "변화의 방향(나아짐)과 낱말이 일치하는지 확인하세요."
+  },
+  {
+    "id": "m1-08-43",
+    "level": "m1",
+    "set": "mock-08",
+    "no": 43,
+    "type": "long",
+    "group": "m1-08-g43",
+    "stem": "[43~45] 주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것을 고르시오.",
+    "passage": "(A) Sumin was making a card for her grandmother's birthday. {1|She} wanted to write a poem, but she did not know what to write.\n(B) At last, Sumin finished the card, and {2|she} read the poem aloud. Her mother smiled and said, \"Grandmother will love it.\"\n(C) Her mother came into the room and sat next to her. {3|She} asked, \"What do you love about Grandmother?\" Sumin thought for a moment.\n(D) Sumin remembered the soup that her grandmother cooked every winter. {4|She} began to write about the warm soup and the warm hands. {5|She} wrote the poem line by line.",
+    "options": [
+      "(B)-(D)-(C)",
+      "(C)-(B)-(D)",
+      "(C)-(D)-(B)",
+      "(D)-(B)-(C)",
+      "(D)-(C)-(B)"
+    ],
+    "answer": 3,
+    "translation": "(A) 수민은 할머니 생신 카드를 만들고 있었다. 그녀는 시를 쓰고 싶었지만 무엇을 써야 할지 몰랐다. (D) 수민은 할머니가 매년 겨울 끓여 주시던 수프를 떠올렸다. 그녀는 따뜻한 수프와 따뜻한 손에 대해 쓰기 시작했다. 그녀는 시를 한 줄씩 썼다. (B) 마침내 수민은 카드를 완성하고 시를 소리 내어 읽었다. 어머니는 미소 지으며 말했다. \"할머니가 좋아하시겠다.\" (C) 어머니가 방에 들어와 그녀 옆에 앉았다. 어머니는 물었다. \"할머니의 어떤 점이 좋니?\" 수민은 잠시 생각했다.",
+    "why": "정답 순서는 (D)-(B)-(C)입니다. (A) 무엇을 쓸지 모름 → (D) 수프를 떠올리며 시를 씀 → (B) 완성해 읽음 → (C) 어머니의 질문 순서입니다.",
+    "optionNotes": [
+      "(B)의 완성이 (D)보다 앞설 수 없습니다.",
+      "(C)의 어머니 질문이 (B) 앞에 오면 완성 전에 칭찬을 듣게 됩니다.",
+      "(C)가 (D) 앞에 오면 수민이 쓸 내용을 떠올리기 전에 어머니가 묻게 됩니다.",
+      "정답. 떠올림 → 완성 → 어머니의 질문.",
+      "(C)가 (B) 앞에 오면 시를 읽기 전에 질문이 먼저 나옵니다."
+    ],
+    "trap": "(C)의 어머니 질문이 (A) 바로 뒤처럼 보여 혼동하기 쉽습니다.",
+    "tip": "At last(마침내) 같은 표현은 이야기의 마무리 장면에 놓입니다."
+  },
+  {
+    "id": "m1-08-44",
+    "level": "m1",
+    "set": "mock-08",
+    "no": 44,
+    "type": "long",
+    "group": "m1-08-g43",
+    "stem": "[43~45] 밑줄 친 ①~⑤ 중에서 가리키는 대상이 나머지 넷과 다른 것을 고르시오.",
+    "passage": "(A) Sumin was making a card for her grandmother's birthday. {1|She} wanted to write a poem, but she did not know what to write.\n(B) At last, Sumin finished the card, and {2|she} read the poem aloud. Her mother smiled and said, \"Grandmother will love it.\"\n(C) Her mother came into the room and sat next to her. {3|She} asked, \"What do you love about Grandmother?\" Sumin thought for a moment.\n(D) Sumin remembered the soup that her grandmother cooked every winter. {4|She} began to write about the warm soup and the warm hands. {5|She} wrote the poem line by line.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "③의 She는 '할머니의 어떤 점이 좋니?'라고 물은 어머니이고, 나머지 ①②④⑤는 모두 수민을 가리킵니다.",
+    "optionNotes": [
+      "She는 시를 쓰고 싶었던 수민입니다.",
+      "she는 시를 소리 내어 읽은 수민입니다.",
+      "정답. She는 질문한 어머니입니다.",
+      "She는 수프에 대해 쓰기 시작한 수민입니다.",
+      "She는 시를 한 줄씩 쓴 수민입니다."
+    ],
+    "trap": "모두 여성이라 she만으로는 구분되지 않습니다. 동작의 주체로 판단하세요.",
+    "tip": "같은 성별의 두 인물이 나오면 각 문장의 동작과 직전 주어로 구분하세요."
+  },
+  {
+    "id": "m1-08-45",
+    "level": "m1",
+    "set": "mock-08",
+    "no": 45,
+    "type": "long",
+    "group": "m1-08-g43",
+    "stem": "[43~45] 윗글에 관한 내용으로 적절하지 않은 것을 고르시오.",
+    "passage": "(A) Sumin was making a card for her grandmother's birthday. {1|She} wanted to write a poem, but she did not know what to write.\n(B) At last, Sumin finished the card, and {2|she} read the poem aloud. Her mother smiled and said, \"Grandmother will love it.\"\n(C) Her mother came into the room and sat next to her. {3|She} asked, \"What do you love about Grandmother?\" Sumin thought for a moment.\n(D) Sumin remembered the soup that her grandmother cooked every winter. {4|She} began to write about the warm soup and the warm hands. {5|She} wrote the poem line by line.",
+    "options": [
+      "수민은 할머니의 생신 카드를 만들고 있었다.",
+      "수민은 무엇을 쓸지 몰라 고민했다.",
+      "어머니는 수민 옆에 앉아 질문을 했다.",
+      "수민은 따뜻한 수프에 대해 시를 썼다.",
+      "수민은 카드를 어머니에게 보여 주지 않았다."
+    ],
+    "answer": 4,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "수민은 시를 소리 내어 읽었고 어머니가 미소 지으며 말했으므로 어머니에게 보여 주지 않았다는 ⑤는 일치하지 않습니다.",
+    "optionNotes": [
+      "making a card for her grandmother's birthday와 일치합니다.",
+      "did not know what to write와 일치합니다.",
+      "came into the room and sat next to her와 일치합니다.",
+      "write about the warm soup과 일치합니다.",
+      "정답(불일치). 시를 읽어 어머니가 들었습니다."
+    ],
+    "trap": "'read the poem aloud'를 놓치면 사실과 반대의 보기를 고르게 됩니다.",
+    "tip": "불일치 문제는 본문에 나온 행동과 반대되는 보기를 찾으세요."
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m1-08-29",
+    "level": "m1",
+    "set": "mock-08",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Tom {1|has} a younger sister. Her name {2|is} Lily. She is five years old. Every morning, she {3|wakes} up early. Then she {4|go} to kindergarten by bus. Tom {5|walks} to school.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "Tom에게는 여동생이 있다. 그녀의 이름은 Lily이다. 그녀는 다섯 살이다. 매일 아침 그녀는 일찍 일어난다. 그리고 버스를 타고 유치원에 간다. Tom은 걸어서 학교에 간다.",
+    "why": "주어 'she'는 3인칭 단수이므로 'go'가 아니라 'goes'여야 합니다.",
+    "optionNotes": [
+      "3인칭 단수 주어 Tom에 맞는 has입니다.",
+      "단수 주어 Her name에 맞는 is입니다.",
+      "3인칭 단수 주어 she에 맞는 wakes입니다.",
+      "정답(틀린 것). 3인칭 단수이므로 goes여야 합니다.",
+      "3인칭 단수 주어 Tom에 맞는 walks입니다."
+    ],
+    "trap": "'Then she go'처럼 접속부사 뒤에서 주어를 놓치기 쉽습니다.",
+    "tip": "일반동사 현재형은 주어(she)가 3인칭 단수인지 확인하세요."
+  },
+  {
+    "id": "m1-08-30",
+    "level": "m1",
+    "set": "mock-08",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "I {1|hate} my grandmother's house very much. It is a small house near the sea. In the morning, we {2|walk} on the beach and collect shells. At night, we {3|watch} stars. My grandmother {4|cooks} delicious food for me. I always {5|visit} her in the summer.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "나는 할머니 집을 매우 좋아한다. 바다 근처의 작은 집이다. 아침에는 해변을 걸으며 조개껍데기를 줍는다. 밤에는 별을 본다. 할머니는 나를 위해 맛있는 음식을 요리해 주신다. 나는 여름마다 항상 할머니를 찾아뵌다.",
+    "why": "할머니 집에서 즐거운 활동을 하고 여름마다 찾아간다고 했으므로 'hate'가 아니라 'love'여야 합니다.",
+    "optionNotes": [
+      "정답(부적절). 즐겁게 지내므로 love가 알맞습니다.",
+      "해변을 걷는다는 의미로 walk가 알맞습니다.",
+      "별을 본다는 의미로 watch가 알맞습니다.",
+      "음식을 요리한다는 의미로 cooks가 알맞습니다.",
+      "찾아간다는 의미로 visit이 알맞습니다."
+    ],
+    "trap": "첫 문장의 'very much'가 강한 감정이라 어색함을 놓치기 쉽습니다.",
+    "tip": "첫 문장의 감정 낱말은 뒤 문장의 즐거운 내용과 맞는지 확인하세요."
+  },
+  {
+    "id": "m1-08-31",
+    "level": "m1",
+    "set": "mock-08",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Bees visit many flowers to collect nectar. When they move from flower to flower, yellow dust called pollen sticks to their bodies. Some of it falls on the next flower. This helps the flowers make seeds. Without bees, many plants could not __________.",
+    "options": [
+      "grow very tall",
+      "turn yellow in autumn",
+      "live in cold places",
+      "make seeds and fruits",
+      "smell sweet at night"
+    ],
+    "answer": 3,
+    "translation": "벌은 꿀을 모으려고 많은 꽃을 찾아간다. 꽃에서 꽃으로 옮겨 다닐 때 꽃가루라는 노란 가루가 몸에 붙는다. 그 일부는 다음 꽃에 떨어진다. 이것이 꽃이 씨앗을 만드는 데 도움이 된다. 벌이 없으면 많은 식물이 씨앗과 열매를 만들 수 없을 것이다.",
+    "why": "벌이 꽃가루를 옮겨 씨앗을 만들게 돕는다고 했으므로 씨앗과 열매를 만들지 못한다는 말이 알맞습니다.",
+    "optionNotes": [
+      "키 이야기는 나오지 않습니다.",
+      "가을 단풍은 나오지 않습니다.",
+      "추운 곳은 나오지 않습니다.",
+      "정답. 씨앗과 열매를 만들지 못합니다.",
+      "밤의 향기는 나오지 않습니다."
+    ],
+    "trap": "식물에 대한 상식이 아니라 글의 근거(helps flowers make seeds)를 확인하세요.",
+    "tip": "빈칸 앞 문장(helps the flowers make seeds)이 직접 단서입니다."
+  },
+  {
+    "id": "m1-08-32",
+    "level": "m1",
+    "set": "mock-08",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Some people think that saying \"I don't know\" is embarrassing. But asking questions is the best way to learn. When we ask a question, we understand things better. Teachers are happy when students ask questions, because it shows that students are thinking. So when you don't understand something, you should __________.",
+    "options": [
+      "keep silent and wait for the class to end",
+      "ask a question to your teacher or your friends right away",
+      "copy the answer from a book",
+      "look at your classmate's paper",
+      "go home and forget about it"
+    ],
+    "answer": 1,
+    "translation": "어떤 사람들은 '모르겠어요'라고 말하는 것이 창피하다고 생각한다. 하지만 질문하는 것은 배우는 가장 좋은 방법이다. 질문하면 우리는 더 잘 이해한다. 학생들이 질문하면 생각하고 있다는 것을 보여 주기 때문에 선생님은 기뻐하신다. 그러므로 이해하지 못한 것이 있을 때는 선생님이나 친구에게 질문해야 한다.",
+    "why": "질문하는 것이 배우는 가장 좋은 방법이라고 했으므로 선생님이나 친구에게 질문해야 한다는 말이 알맞습니다.",
+    "optionNotes": [
+      "가만히 있으라는 것은 글과 반대입니다.",
+      "정답. 선생님이나 친구에게 질문해야 합니다.",
+      "책에서 베끼라는 내용은 없습니다.",
+      "친구의 시험지를 보라는 내용은 없습니다.",
+      "집에 가서 잊으라는 것은 글과 반대입니다."
+    ],
+    "trap": "①④⑤는 이해하지 못했을 때 하기 쉬운 행동이지만 글의 방향과 반대입니다.",
+    "tip": "빈칸의 'So ~' 문장은 앞의 주장(질문이 최고의 방법)을 행동으로 바꾼 표현입니다."
+  },
+  {
+    "id": "m1-08-33",
+    "level": "m1",
+    "set": "mock-08",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A spider does not have a boss or a teacher, but it can make a beautiful web. First, it sends a thin thread into the air. The wind carries it to another branch. Then the spider walks along the thread and adds more lines. It makes the web by __________.",
+    "options": [
+      "borrowing a big net from a fisherman who lives near the lake",
+      "asking other spiders for help",
+      "making thread and adding lines step by step",
+      "painting lines on the leaves",
+      "using the wind and rain together"
+    ],
+    "answer": 2,
+    "translation": "거미는 우두머리나 선생님이 없지만 아름다운 거미줄을 만들 수 있다. 먼저 공중으로 가는 실을 보낸다. 바람이 그것을 다른 나뭇가지로 옮긴다. 그런 다음 거미는 실을 따라 걸으며 선을 더한다. 거미는 실을 만들고 선을 단계별로 더해 거미줄을 만든다.",
+    "why": "실을 보내고 선을 더하는 과정이므로 단계별로 더해 만든다는 말이 알맞습니다.",
+    "optionNotes": [
+      "어부의 그물은 나오지 않습니다.",
+      "다른 거미의 도움은 나오지 않습니다.",
+      "정답. 실을 만들고 단계별로 선을 더합니다.",
+      "잎에 선을 칠한다는 내용은 없습니다.",
+      "바람과 비를 함께 쓴다는 내용은 없습니다."
+    ],
+    "trap": "②는 첫 문장의 'boss or teacher'와 반대되는 내용입니다.",
+    "tip": "'First ~ Then ...' 순서 설명이 빈칸의 정답을 요약합니다."
+  },
+  {
+    "id": "m1-08-34",
+    "level": "m1",
+    "set": "mock-08",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Sleeping is important for children. During sleep, the body grows and the brain keeps what we learned during the day. If you sleep less than nine hours, you may feel tired and angry. A good night's sleep helps you __________.",
+    "options": [
+      "run much faster than a car on the road",
+      "remember what you learned",
+      "see in the dark",
+      "stay awake for two days",
+      "become taller overnight"
+    ],
+    "answer": 1,
+    "translation": "수면은 어린이에게 중요하다. 자는 동안 몸은 자라고 뇌는 낮에 배운 것을 간직한다. 아홉 시간보다 적게 자면 피곤하고 화가 날 수 있다. 푹 자는 것은 배운 것을 기억하도록 돕는다.",
+    "why": "자는 동안 뇌가 배운 것을 간직한다고 했으므로 배운 것을 기억하도록 돕는다는 말이 알맞습니다.",
+    "optionNotes": [
+      "자동차보다 빨리 달린다는 내용은 없습니다.",
+      "정답. 배운 것을 기억하도록 돕습니다.",
+      "어둠에서 본다는 내용은 없습니다.",
+      "이틀 동안 깨어 있는다는 내용은 없습니다.",
+      "하룻밤에 키가 큰다는 내용은 과장입니다."
+    ],
+    "trap": "'the body grows'를 보고 ⑤를 고르기 쉽지만 과장된 표현입니다.",
+    "tip": "빈칸 앞 문장(the brain keeps what we learned)이 직접 근거입니다."
+  },
+  {
+    "id": "m1-08-35",
+    "level": "m1",
+    "set": "mock-08",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Walking to school has many good points. ① It is good exercise for your legs. ② My sister bought a new red bag last week. ③ You can meet friends on the way. ④ It also helps you wake up in the morning. ⑤ So walking to school is a good habit.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "걸어서 등교하는 것에는 좋은 점이 많다. ① 다리에 좋은 운동이 된다. ② 내 누나는 지난주에 새 빨간 가방을 샀다. ③ 가는 길에 친구를 만날 수 있다. ④ 또한 아침에 잠을 깨는 데 도움이 된다. ⑤ 그래서 걸어서 등교하는 것은 좋은 습관이다.",
+    "why": "글은 걸어서 등교하는 것의 장점을 설명하는데 ②는 누나의 가방 이야기라 흐름과 관계가 없습니다.",
+    "optionNotes": [
+      "걷기의 장점입니다.",
+      "정답(무관). 누나의 가방 이야기입니다.",
+      "걷기의 장점입니다.",
+      "걷기의 장점입니다.",
+      "결론입니다."
+    ],
+    "trap": "'bag'이 등교와 연관된 낱말이라 자연스러워 보이지만 논점과 무관합니다.",
+    "tip": "무관한 문장은 같은 소재를 쓰더라도 논점을 이어 가지 않습니다."
+  },
+  {
+    "id": "m1-08-36",
+    "level": "m1",
+    "set": "mock-08",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Jina found a small bird on the ground.\n(A) Two weeks later, the bird flew away from her window.\n(B) She took it home and gave it water and food.\n(C) At home, the bird looked weak, and its wing was hurt.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 2,
+    "translation": "지나는 땅에서 작은 새를 발견했다. (B) 그녀는 새를 집에 데려가 물과 먹이를 주었다. (C) 집에서 새는 약해 보였고 날개가 다쳐 있었다. (A) 2주 뒤 새는 그녀의 창문에서 날아갔다.",
+    "why": "(B) 집에 데려가 돌봄 → (C) 새의 상태(날개가 다침) → (A) 'Two weeks later' 날아감 순서입니다.",
+    "optionNotes": [
+      "(A)의 'Two weeks later'가 처음에 올 수 없습니다.",
+      "(C)가 (A) 뒤에 오면 날아간 뒤 새가 약해 보이게 됩니다.",
+      "정답. 돌봄 → 집에서의 상태 → 날아감.",
+      "(C)가 (A)보다 앞서면 'Two weeks later'가 가운데에 오게 됩니다.",
+      "(C)의 'At home'이 가리킬 집이 (B)보다 앞에 나오지 않습니다."
+    ],
+    "trap": "(C)의 'At home'은 (B)에서 새를 집에 데려온 뒤에 나옵니다.",
+    "tip": "At home, Two weeks later 같은 장소·시간 표현의 순서를 확인하세요."
+  },
+  {
+    "id": "m1-08-37",
+    "level": "m1",
+    "set": "mock-08",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Dan lost his pencil case in the classroom.\n(A) A girl in the next class had found it and brought it to the teacher.\n(B) The next day, Dan got it back and thanked her.\n(C) He looked for it under his desk and in his bag.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 3,
+    "translation": "Dan은 교실에서 필통을 잃어버렸다. (C) 그는 책상 아래와 가방 속을 찾아보았다. (A) 옆 반의 한 소녀가 그것을 발견해 선생님께 가져다 놓았다. (B) 다음 날 Dan은 그것을 되찾고 그녀에게 고마워했다.",
+    "why": "(C) 직접 찾아봄 → (A) 다른 사람이 발견함 → (B) 다음 날 되찾음 순서입니다.",
+    "optionNotes": [
+      "(A)가 찾아본 과정 전에 올 수 없습니다.",
+      "(B)의 결과가 처음에 올 수 없습니다.",
+      "(B)가 (C) 바로 뒤에 오면 (A)가 뒤로 밀립니다.",
+      "정답. 찾아봄 → 발견됨 → 되찾음.",
+      "(B)가 (A)보다 앞서면 찾아 주기 전에 되찾게 됩니다."
+    ],
+    "trap": "(A)의 소녀 이야기는 (C) 뒤에 이어집니다.",
+    "tip": "The next day는 결과 장면이므로 마지막에 오는지 확인하세요."
+  },
+  {
+    "id": "m1-08-38",
+    "level": "m1",
+    "set": "mock-08",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nWhy is the sky blue?\n\n[글]\n( ① ) The sunlight looks white, but it has many colors. ( ② ) When the sunlight enters the air, the blue light is scattered the most. ( ③ ) So the blue light comes to our eyes from all directions. ( ④ ) That is why the sky looks blue. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "[주어진 문장] 하늘은 왜 파란색일까? [글] 햇빛은 하얗게 보이지만 여러 색을 가지고 있다. 햇빛이 공기 속으로 들어오면 파란빛이 가장 많이 흩어진다. 그래서 파란빛이 모든 방향에서 우리 눈에 들어온다. 이것이 하늘이 파랗게 보이는 이유이다.",
+    "why": "주어진 문장은 글 전체의 질문이므로 맨 앞인 ①에 들어갑니다.",
+    "optionNotes": [
+      "정답. 글 전체를 여는 질문입니다.",
+      "설명이 시작된 뒤라 질문이 어색합니다.",
+      "설명 도중이라 질문이 어색합니다.",
+      "답을 내놓은 뒤라 질문이 어색합니다.",
+      "글이 끝난 뒤라 질문이 어색합니다."
+    ],
+    "trap": "'That is why ~'가 답이므로 질문은 그 앞이 아니라 글 맨 앞에 있어야 합니다.",
+    "tip": "질문 문장은 설명 글의 맨 앞에 놓입니다."
+  },
+  {
+    "id": "m1-08-39",
+    "level": "m1",
+    "set": "mock-08",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nAs a result, the plants grew taller and greener.\n\n[글]\nLast spring, our class planted tomatoes in the school garden. ( ① ) Every day, students watered them before school. ( ② ) They also removed weeds around the plants. ( ③ ) After a month, the students put some natural fertilizer in the soil. ( ④ ) In July, we picked red tomatoes and ate them for lunch. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "[주어진 문장] 그 결과 식물은 더 크고 푸르게 자랐다. [글] 지난봄 우리 반은 학교 텃밭에 토마토를 심었다. 매일 학생들은 등교 전에 물을 주었다. 또 식물 주변의 잡초를 뽑았다. 한 달 뒤 학생들은 흙에 천연 비료를 넣었다. 7월에 우리는 빨간 토마토를 따서 점심으로 먹었다.",
+    "why": "'As a result'는 앞의 원인(물 주기, 잡초 뽑기, 비료)에 대한 결과이므로 ④에 들어갑니다.",
+    "optionNotes": [
+      "심기만 한 뒤라 결과가 어색합니다.",
+      "물만 준 뒤라 원인이 부족합니다.",
+      "비료를 넣기 전이라 원인이 부족합니다.",
+      "정답. 돌봄과 비료의 결과입니다.",
+      "토마토를 따는 이야기 뒤라 어색합니다."
+    ],
+    "trap": "③도 그럴듯하지만 '비료'가 나온 뒤가 더 알맞습니다.",
+    "tip": "'As a result' 앞에는 원인이 모두 나와야 합니다."
+  },
+  {
+    "id": "m1-08-40",
+    "level": "m1",
+    "set": "mock-08",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A teacher asked students to say \"thank you\" to one person every day for two weeks. At first, many students felt shy. But after two weeks, they said that they felt happier and that their friends were kinder to them.\n\n▶ Saying (A) every day can make students feel (B).",
+    "options": [
+      "(A) sorry — (B) shy",
+      "(A) goodbye — (B) tired",
+      "(A) no — (B) angry",
+      "(A) hello — (B) bored",
+      "(A) thank you — (B) happier"
+    ],
+    "answer": 4,
+    "translation": "한 선생님이 학생들에게 2주 동안 매일 적어도 한 사람에게 '고맙습니다'라고 말하게 했다. 처음에는 많은 학생이 쑥스러워했다. 하지만 2주 뒤 그들은 더 행복해졌고 친구들이 더 친절해졌다고 말했다. ▶ 매일 '고맙습니다'라고 말하면 학생들이 더 행복해질 수 있다.",
+    "why": "매일 고맙다고 말한 학생들이 더 행복해졌으므로 (A)는 thank you, (B)는 happier입니다.",
+    "optionNotes": [
+      "sorry와 shy는 글의 핵심이 아닙니다.",
+      "goodbye와 tired는 글에 나오지 않습니다.",
+      "no와 angry는 글에 나오지 않습니다.",
+      "hello와 bored는 글에 나오지 않습니다.",
+      "정답. 고맙다고 말하면 더 행복해집니다."
+    ],
+    "trap": "'shy'가 글에 나오지만 이는 처음의 반응일 뿐 결과가 아닙니다.",
+    "tip": "요약문은 활동(say thank you)과 결과(happier)를 글에서 그대로 찾으세요."
+  }
+]
