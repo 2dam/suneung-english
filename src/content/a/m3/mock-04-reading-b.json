@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m3-04-29",
+    "level": "m3",
+    "set": "mock-04",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "The Sahara, which is the largest hot desert {1|in} the world, is almost as large as the United States. Its temperature can {2|reaches} over 50°C in the daytime, but it drops sharply at night. Despite the harsh conditions, various animals {3|have adapted} to live there. For example, the fennec fox has large ears {4|that} release heat. People who live in the desert wear loose clothes {5|to protect} themselves from the sun.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "세계에서 가장 큰 열대 사막인 사하라는 미국과 거의 비슷한 크기이다. 낮에는 기온이 50도를 넘을 수 있지만 밤에는 급격히 떨어진다. 가혹한 환경에도 불구하고 다양한 동물이 그곳에서 살도록 적응해 왔다. 예를 들어 사막여우는 열을 방출하는 큰 귀를 가지고 있다. 사막에 사는 사람들은 햇빛으로부터 몸을 보호하려고 헐렁한 옷을 입는다.",
+    "why": "조동사 can 뒤에는 동사원형이 와야 하므로 'can reaches'가 아니라 'can reach'여야 합니다.",
+    "optionNotes": [
+      "'the largest ~ in the world'가 맞습니다.",
+      "정답(틀린 것). can 뒤에는 동사원형 reach가 와야 합니다.",
+      "현재완료 have adapted가 맞습니다.",
+      "선행사 ears를 받는 주격 관계대명사 that이 맞습니다.",
+      "목적을 나타내는 to protect가 맞습니다."
+    ],
+    "trap": "주어 'temperature'가 3인칭 단수여서 reaches가 자연스러워 보이지만 조동사 can이 있습니다.",
+    "tip": "조동사(can, will ~) 뒤의 동사는 주어에 관계없이 동사원형입니다."
+  },
+  {
+    "id": "m3-04-30",
+    "level": "m3",
+    "set": "mock-04",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Fast fashion refers to cheap clothes that are produced {1|quickly} to follow the latest trends. Because these clothes are so {2|inexpensive}, people buy more than they need and throw them away after wearing them only a few times. This habit creates an enormous amount of textile {3|waste}. In addition, producing clothes requires large amounts of water and {4|energy}. To reduce this harmful effect, experts advise us to buy fewer clothes and {5|discard} them for a long time.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "패스트 패션은 최신 유행을 따르려고 빠르게 생산되는 저렴한 옷을 가리킨다. 이런 옷은 매우 저렴해서 사람들은 필요한 것보다 많이 사고 몇 번 입지 않고 버린다. 이런 습관은 막대한 양의 섬유 쓰레기를 만든다. 게다가 옷을 만들려면 많은 물과 에너지가 필요하다. 이 해로운 영향을 줄이려면 전문가들은 옷을 적게 사고 오래 입으라고 조언한다.",
+    "why": "해로운 영향을 줄이려면 옷을 적게 사서 오래 '입어야(wear)' 하므로 'discard(버리다)'는 부적절합니다.",
+    "optionNotes": [
+      "유행을 따르려고 빠르게 생산한다는 의미로 quickly가 알맞습니다.",
+      "저렴해서 많이 산다는 의미로 inexpensive가 알맞습니다.",
+      "버려지는 섬유 쓰레기를 뜻하는 waste가 알맞습니다.",
+      "물과 에너지가 필요하다는 의미로 energy가 알맞습니다.",
+      "정답(부적절). 오래 입으라는 의미이므로 wear가 알맞습니다."
+    ],
+    "trap": "'for a long time'과 'discard'는 어색하지만 문장 끝이라 놓치기 쉽습니다. 'buy fewer ~ and ...'의 흐름을 보세요.",
+    "tip": "병렬 구조(buy fewer clothes and ~)에서 두 번째 동사는 같은 방향의 행동이어야 합니다."
+  },
+  {
+    "id": "m3-04-31",
+    "level": "m3",
+    "set": "mock-04",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Psychologists have found that students who believe their intelligence can grow with effort tend to take on difficult challenges. In contrast, students who believe that intelligence is fixed often avoid hard tasks to protect their image. They worry that failing will make them look unintelligent in front of others. Psychologists call these two views \"growth\" and \"fixed\" mindsets. Over time, the first group usually learns more because they keep trying, even after failing. This suggests that our beliefs about our own abilities can __________.",
+    "options": [
+      "influence how much we actually achieve",
+      "change the color of our eyes",
+      "make us forget almost everything that we have learned",
+      "determine the weather on exam days",
+      "prevent us from making new friends"
+    ],
+    "answer": 0,
+    "translation": "심리학자들은 지능이 노력으로 자랄 수 있다고 믿는 학생들이 어려운 도전을 받아들이는 경향이 있다는 것을 발견했다. 반대로 지능이 고정되어 있다고 믿는 학생들은 이미지를 지키려고 어려운 과제를 피하는 경우가 많다. 그들은 실패하면 남들 앞에서 똑똑하지 않아 보일까 봐 걱정한다. 심리학자들은 이 두 관점을 '성장' 마인드셋과 '고정' 마인드셋이라고 부른다. 시간이 지나면 첫 번째 집단은 실패한 뒤에도 계속 노력하기 때문에 대개 더 많이 배운다. 이는 자신의 능력에 대한 믿음이 실제로 우리가 성취하는 정도에 영향을 줄 수 있음을 시사한다.",
+    "why": "능력에 대한 믿음이 도전과 학습량의 차이를 만든다는 내용이므로 실제 성취에 영향을 준다는 말이 알맞습니다.",
+    "optionNotes": [
+      "정답. 믿음이 성취에 영향을 줍니다.",
+      "눈 색깔은 관련이 없습니다.",
+      "배운 것을 잊게 한다는 내용은 없습니다.",
+      "날씨와는 무관합니다.",
+      "친구 사귀기는 나오지 않습니다."
+    ],
+    "trap": "③은 'learns more'의 반대 방향을 가져온 보기입니다. 글은 오히려 더 많이 배운다고 합니다.",
+    "tip": "'This suggests that ~'의 빈칸은 앞의 비교 결과를 일반화한 문장입니다."
+  },
+  {
+    "id": "m3-04-32",
+    "level": "m3",
+    "set": "mock-04",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Imagine you see a jacket with a price tag of $200 crossed out and a new price of $120. You may feel that it is a bargain, even if $120 is more than the jacket is really worth. The original price works as an anchor, and our judgment is pulled toward it. Many shoppers do not notice that the jacket was never sold at the original price. Many shoppers do not notice that the jacket was never sold at the original price. Stores take advantage of this effect by showing a high price first. In other words, our sense of value is often shaped by __________.",
+    "options": [
+      "the first number we see",
+      "the color of the price tag",
+      "the weather outside the store",
+      "the personal opinion of a close friend",
+      "the age of the product"
+    ],
+    "answer": 0,
+    "translation": "200달러짜리 가격표에 줄이 그어지고 새 가격이 120달러라고 적힌 재킷을 본다고 상상해 보자. 120달러가 재킷의 실제 가치보다 높더라도 싸게 샀다고 느낄 수 있다. 원래 가격이 닻 역할을 하여 우리의 판단이 그것 쪽으로 끌려간다. 많은 쇼핑객은 그 재킷이 원래 가격으로 팔린 적이 없다는 것을 알아차리지 못한다. 상점은 높은 가격을 먼저 보여 줌으로써 이 효과를 이용한다. 다시 말해 우리의 가치 판단은 종종 처음 보는 숫자에 의해 형성된다.",
+    "why": "원래 가격이 기준(anchor)이 되어 판단을 끌어당긴다고 했으므로 처음 보는 숫자가 알맞습니다.",
+    "optionNotes": [
+      "정답. 처음 본 숫자가 기준이 됩니다.",
+      "가격표 색깔은 나오지 않습니다.",
+      "날씨는 나오지 않습니다.",
+      "친구의 의견은 나오지 않습니다.",
+      "제품의 나이는 나오지 않습니다."
+    ],
+    "trap": "'original price'를 '제품의 원래 가치(나이)'와 혼동하지 마세요.",
+    "tip": "'In other words'로 시작하는 문장은 앞의 구체적 예를 일반화한 표현입니다."
+  },
+  {
+    "id": "m3-04-33",
+    "level": "m3",
+    "set": "mock-04",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "At an airport, passengers complained about waiting for their luggage, even though the wait was only eight minutes. The managers moved the baggage claim farther away, so the passengers had to walk longer, and the actual waiting time at the carousel became shorter. Complaints almost disappeared. In some airports, managers also placed shops and screens along the path, so that passengers could look at something while they walked. This shows that the feeling of waiting depends less on clock time than on __________.",
+    "options": [
+      "how many people are standing around us in the line",
+      "how fast the airplane has flown",
+      "whether our time is filled with something to do",
+      "what time of day we arrive",
+      "the price of the ticket we bought"
+    ],
+    "answer": 2,
+    "translation": "한 공항에서 승객들은 수하물을 기다리는 시간이 겨우 8분이었는데도 불평했다. 관리자들은 수하물 수취대를 더 멀리 옮겨 승객들이 더 오래 걸어야 했고 수취대에서 기다리는 실제 시간은 짧아졌다. 불평은 거의 사라졌다. 일부 공항에서는 관리자들이 길을 따라 상점과 화면도 두어 승객들이 걸으면서 볼거리를 갖게 했다. 이는 기다리는 느낌이 시계상의 시간보다 할 일로 시간이 채워져 있는지에 더 좌우된다는 것을 보여 준다.",
+    "why": "걷는 동안 시간이 채워지니 불평이 줄었다는 사례이므로 할 일로 시간이 채워졌는지가 알맞습니다.",
+    "optionNotes": [
+      "사람 수는 나오지 않습니다.",
+      "비행 속도는 나오지 않습니다.",
+      "정답. 시간이 활동으로 채워졌는지가 중요합니다.",
+      "도착 시간대는 나오지 않습니다.",
+      "항공권 가격은 나오지 않습니다."
+    ],
+    "trap": "실제 대기 시간은 오히려 짧아졌다는 점을 놓치면 ④를 고르기 쉽습니다.",
+    "tip": "사례의 변화(걷는 시간 증가 → 불평 감소)가 빈칸의 핵심 변수를 알려 줍니다."
+  },
+  {
+    "id": "m3-04-34",
+    "level": "m3",
+    "set": "mock-04",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Psychologists have found that people are less likely to help someone in need when many other people are around. If you are the only witness, you know that you alone must act. But in a crowd, each person assumes that someone else will call for help. This tendency is known as the bystander effect, and it has been observed in many different countries. As a result, no one may act at all. Therefore, the more people who witness an emergency, the more each person feels that __________.",
+    "options": [
+      "the situation is already over",
+      "the victim wants to be left alone",
+      "someone else will take responsibility",
+      "helping others requires special training and equipment",
+      "it is unsafe to stand nearby"
+    ],
+    "answer": 2,
+    "translation": "심리학자들은 주변에 다른 사람이 많을 때 도움이 필요한 사람을 도울 가능성이 낮아진다는 것을 발견했다. 목격자가 혼자라면 자신이 직접 행동해야 한다는 것을 안다. 하지만 군중 속에서는 각자 다른 누군가가 도움을 요청할 것이라고 가정한다. 이 경향은 방관자 효과로 알려져 있으며 여러 나라에서 관찰되었다. 그 결과 아무도 행동하지 않을 수 있다. 그러므로 긴급 상황을 목격하는 사람이 많을수록 각자 다른 누군가가 책임을 질 것이라고 느낀다.",
+    "why": "군중 속에서 각자 다른 누군가가 도움을 요청할 것이라고 가정한다고 했으므로 다른 사람이 책임질 것이라는 말이 알맞습니다.",
+    "optionNotes": [
+      "상황이 끝났다는 내용은 없습니다.",
+      "피해자의 바람은 언급되지 않았습니다.",
+      "정답. 다른 누군가가 책임질 것이라 느낍니다.",
+      "특별한 훈련 이야기는 없습니다.",
+      "안전 문제는 나오지 않습니다."
+    ],
+    "trap": "도움을 주지 않는 이유를 '위험'이나 '훈련'에서 찾기 쉽지만, 글은 책임의 분산을 말합니다.",
+    "tip": "빈칸 바로 앞의 'each person assumes that someone else ~'가 직접 단서입니다."
+  },
+  {
+    "id": "m3-04-35",
+    "level": "m3",
+    "set": "mock-04",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Sleep is essential for learning. ① During sleep, the brain organizes the information gathered during the day. ② Students who sleep well tend to remember facts better than those who stay up all night. ③ Sleep also helps us solve problems more creatively. ④ The earliest alarm clocks were invented in ancient Greece. ⑤ Therefore, getting enough sleep before an exam is more effective than studying through the night.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "수면은 학습에 필수적이다. ① 잠자는 동안 뇌는 낮에 모은 정보를 정리한다. ② 잘 자는 학생들은 밤새 깨어 있는 학생들보다 사실을 더 잘 기억하는 경향이 있다. ③ 수면은 또한 우리가 문제를 더 창의적으로 해결하도록 돕는다. ④ 가장 오래된 알람 시계는 고대 그리스에서 발명되었다. ⑤ 그러므로 시험 전에 충분히 자는 것이 밤을 새워 공부하는 것보다 효과적이다.",
+    "why": "글은 수면이 학습에 미치는 영향을 설명하는데 ④는 알람 시계의 역사 이야기라 흐름과 관계가 없습니다.",
+    "optionNotes": [
+      "수면의 학습 효과입니다.",
+      "수면과 기억의 관계입니다.",
+      "수면의 또 다른 효과입니다.",
+      "정답(무관). 알람 시계의 역사입니다.",
+      "결론입니다."
+    ],
+    "trap": "'alarm clock'은 수면과 관련된 소재라 자연스러워 보이지만 논점(학습 효과)에서 벗어납니다.",
+    "tip": "무관한 문장은 같은 소재를 다루되 글의 논점을 이어 가지 않습니다."
+  },
+  {
+    "id": "m3-04-36",
+    "level": "m3",
+    "set": "mock-04",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Plastic straws are used by millions of people every day, in cafés, restaurants, and homes.\n(A) Most of them are thrown away after only a few minutes of use, and nobody thinks about them again.\n(B) In response, many cafés now offer paper or metal straws, and some cities have banned plastic ones entirely.\n(C) However, because they are small and light, many never reach the recycling plant. Instead, they end up in rivers and seas, where they harm sea animals.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "플라스틱 빨대는 매일 수백만 명이 사용한다. 카페, 식당, 가정에서 쓰인다. (A) 그중 대부분은 몇 분 쓰고 버려지고 아무도 다시 생각하지 않는다. (C) 하지만 작고 가벼워서 많은 것이 재활용 시설에 닿지 못한다. 대신 강과 바다로 흘러가 바다 동물에게 해를 끼친다. (B) 이에 대응해 많은 카페가 이제 종이나 금속 빨대를 제공하고 일부 도시는 플라스틱 빨대를 전면 금지했다.",
+    "why": "(A) 짧게 쓰고 버려짐 → (C) 'However'로 재활용되지 않고 바다로 감 → (B) 'In response'로 대응책 순서입니다.",
+    "optionNotes": [
+      "정답. 사용 → 문제 → 대응.",
+      "(B)의 'In response'가 가리킬 문제가 앞에 없습니다.",
+      "(B)의 'In response'가 가리킬 문제가 앞에 없습니다.",
+      "(C)의 'However'가 대비할 앞 내용이 없습니다.",
+      "(C)의 'However'가 대비할 앞 내용이 없습니다."
+    ],
+    "trap": "(B)의 대응책이 결론처럼 보이지만 'In response'는 문제를 먼저 제시한 뒤에 옵니다.",
+    "tip": "However(전환)와 In response(대응)가 가리키는 앞 내용을 찾으세요."
+  },
+  {
+    "id": "m3-04-37",
+    "level": "m3",
+    "set": "mock-04",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Honeybees are known for their remarkable way of sharing information with other members of the hive.\n(A) The angle of the dance shows the direction of the flowers, and its length shows the distance.\n(B) When a worker bee finds a good source of flowers, it returns to the hive. There, it performs a special dance in front of the other bees.\n(C) Using this information, the other bees fly straight to the flowers without searching. This saves a great deal of time and energy.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 1,
+    "translation": "꿀벌은 정보를 공유하는 놀라운 방식으로 알려져 있다. 벌집의 다른 구성원들과 정보를 나누는 방식이다. (B) 일벌이 좋은 꽃 군락을 발견하면 벌집으로 돌아와 다른 벌들 앞에서 특별한 춤을 춘다. (A) 춤의 각도는 꽃의 방향을 알려 주고 춤의 길이는 거리를 알려 준다. (C) 이 정보를 이용해 다른 벌들은 찾아다니지 않고 곧장 꽃으로 날아가므로 많은 시간과 에너지를 아낀다.",
+    "why": "(B) 춤을 춤 → (A) 'The dance'의 의미 설명 → (C) 'this information'을 이용해 이동하는 순서입니다.",
+    "optionNotes": [
+      "(A)의 'The angle of the dance'가 가리킬 춤이 앞에 없습니다.",
+      "정답. 춤 → 춤의 의미 → 정보 활용.",
+      "(C)의 'this information'이 가리킬 정보가 앞에 없습니다.",
+      "(C)의 'this information'이 가리킬 정보가 앞에 없습니다.",
+      "(C)의 'this information'이 가리킬 정보가 앞에 없습니다."
+    ],
+    "trap": "(C)는 결론처럼 마지막에 올 것 같지만 (A)가 정보를 설명한 뒤 와야 합니다.",
+    "tip": "the dance, this information 같은 정관사·지시어가 가리키는 앞 내용을 확인하세요."
+  },
+  {
+    "id": "m3-04-38",
+    "level": "m3",
+    "set": "mock-04",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nIn other words, the reward had reduced their original interest in reading.\n\n[글]\nA teacher gave stickers to students for reading books, hoping to make them read more. ( ① ) At first, the number of books they read increased sharply. ( ② ) However, when the stickers stopped, the students read less than they had before the program began. ( ③ ) Researchers call this the \"overjustification effect\": external rewards can weaken internal motivation. ( ④ ) To keep students reading, teachers should help them find enjoyment in the books themselves. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 다시 말해 보상이 원래의 독서에 대한 흥미를 줄였다. [글] 한 교사는 책을 읽으면 학생들에게 스티커를 주어 더 많이 읽게 하려고 했다. 처음에는 읽은 책의 수가 급격히 늘었다. 그러나 스티커가 중단되자 학생들은 프로그램이 시작되기 전보다 덜 읽었다. 연구자들은 이것을 '과잉 정당화 효과'라고 부른다. 외적 보상이 내적 동기를 약화시킬 수 있다. 학생들이 계속 읽게 하려면 교사는 책 자체에서 즐거움을 찾도록 도와야 한다.",
+    "why": "'In other words'는 바로 앞의 '스티커가 중단되자 이전보다 덜 읽었다'를 다시 풀어 말한 것이므로 ③에 들어갑니다.",
+    "optionNotes": [
+      "스티커 이야기만 나온 뒤라 'In other words'로 풀어 쓸 내용이 없습니다.",
+      "처음의 증가를 설명하는 부분이라 맞지 않습니다.",
+      "정답. 읽기가 줄어든 결과를 다시 풀어 설명합니다.",
+      "효과의 이름을 소개한 뒤라 순서가 어색합니다.",
+      "결론 뒤에 오면 흐름이 맞지 않습니다."
+    ],
+    "trap": "④는 'weaken internal motivation'과 의미가 비슷해 보이지만, 'In other words'는 바로 앞 결과를 풀어 쓰는 문장입니다.",
+    "tip": "'In other words'는 바로 앞 문장을 풀어 쓰므로 그 뒤에 오는지 확인하세요."
+  },
+  {
+    "id": "m3-04-39",
+    "level": "m3",
+    "set": "mock-04",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThey live in groups called pods and often stay together for many years.\n\n[글]\nDolphins are among the most social animals in the sea. ( ① ) Members of a pod help injured companions by lifting them to the surface so that they can breathe. ( ② ) They also use whistles that work like names. ( ③ ) Each dolphin has its own signature whistle, and others respond when they hear it. ( ④ ) Such complex communication suggests that dolphins have strong social bonds. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "[주어진 문장] 그들은 '포드'라는 무리를 이루어 살며 종종 여러 해 동안 함께 지낸다. [글] 돌고래는 바다에서 가장 사회적인 동물 중 하나이다. 포드의 구성원들은 다친 동료가 숨을 쉴 수 있도록 수면 위로 들어 올려 준다. 그들은 또한 이름처럼 작용하는 휘파람을 사용한다. 각 돌고래는 자신만의 고유한 휘파람이 있고 다른 돌고래들은 그것을 들으면 반응한다. 이런 복잡한 의사소통은 돌고래가 강한 사회적 유대를 가지고 있음을 시사한다.",
+    "why": "주어진 문장은 'pods'를 처음 소개하고, 다음 문장의 'Members of a pod'가 이를 이어받으므로 ①에 들어갑니다.",
+    "optionNotes": [
+      "정답. 'pods'를 소개한 뒤 'Members of a pod'로 이어집니다.",
+      "이미 'a pod'가 먼저 나온 뒤라서 소개가 어색합니다.",
+      "휘파람 이야기 도중에 무리 설명이 끼어 어색합니다.",
+      "휘파람 설명 도중이라 어색합니다.",
+      "결론 뒤에 오면 흐름이 맞지 않습니다."
+    ],
+    "trap": "주어진 문장의 'They'가 돌고래를 가리키는 점만 보고 ③을 고르지 마세요. 'pods'가 먼저 소개되어야 합니다.",
+    "tip": "새로운 용어(pods)를 소개하는 문장은 그 용어가 처음 쓰이는 문장 앞에 놓입니다."
+  },
+  {
+    "id": "m3-04-40",
+    "level": "m3",
+    "set": "mock-04",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In an experiment, students were asked to complete a difficult puzzle. Before the task, one group was told to imagine how wonderful it would feel to succeed. Another group was asked to imagine the specific obstacles they might meet and how they could overcome them. The second group solved more puzzles and kept trying for a longer time. The researchers explained that imagining only a pleasant result can make people feel as if they have already succeeded, which reduces their effort.\n\n▶ Simply imagining (A) results may not help as much as preparing for (B) in advance.",
+    "options": [
+      "(A) positive — (B) rewards",
+      "(A) negative — (B) mistakes",
+      "(A) pleasant — (B) obstacles",
+      "(A) distant — (B) friends",
+      "(A) public — (B) feedback"
+    ],
+    "answer": 2,
+    "translation": "한 실험에서 학생들에게 어려운 퍼즐을 풀게 했다. 과제 전에 한 집단은 성공했을 때 얼마나 멋질지 상상하라는 말을 들었다. 다른 집단은 마주칠 구체적인 장애물과 그것을 극복할 방법을 상상하라는 요청을 받았다. 두 번째 집단이 더 많은 퍼즐을 풀었고 더 오래 계속 시도했다. 연구자들은 즐거운 결과만 상상하면 이미 성공한 것처럼 느껴져 노력이 줄어들 수 있다고 설명했다. ▶ 즐거운 결과를 단순히 상상하는 것은 장애물을 미리 대비하는 것만큼 도움이 되지 않을 수 있다.",
+    "why": "성공의 즐거움만 상상한 집단보다 구체적인 장애물을 상상한 집단의 성과가 좋았으므로 (A)는 pleasant, (B)는 obstacles입니다.",
+    "optionNotes": [
+      "positive는 맞지만 (B)가 rewards라 글과 맞지 않습니다.",
+      "(A)가 negative라 글과 맞지 않습니다.",
+      "정답. 즐거운 결과만 상상하는 것보다 장애물에 대비하는 것이 낫습니다.",
+      "distant, friends는 글에 나오지 않습니다.",
+      "public, feedback은 글에 나오지 않습니다."
+    ],
+    "trap": "①은 (A)가 positive로 맞아 보이지만 (B)가 글의 핵심(장애물)과 어긋납니다.",
+    "tip": "요약문은 비교되는 두 집단의 방식(성공 상상 vs 장애물 상상)을 각각 짝지으세요."
+  }
+]

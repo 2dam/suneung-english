@@ -1,0 +1,343 @@
+[
+  {
+    "id": "m3-04-18",
+    "level": "m3",
+    "set": "mock-04",
+    "no": 18,
+    "type": "purpose",
+    "stem": "다음 글을 쓴 목적으로 가장 적절한 것은?",
+    "passage": "Dear Mr. Hwang,\nI am a ninth-grade student at Hanbit Middle School. Our school is located on a busy road, but there is no crosswalk or traffic light near the main gate. Every morning, hundreds of students have to cross the street between moving cars. Last month, a car almost hit one of my classmates. I am writing to ask you to install a crosswalk and a traffic light in front of the school gate as soon as possible. Thank you for your attention to this matter.\nSincerely,\nSumin Lee",
+    "options": [
+      "학교 주변 도로의 교통사고 발생 현황을 조사해 달라고 부탁하려고",
+      "교통 안전 교육의 일정을 문의하려고",
+      "시청의 새로운 교통 정책을 비판하려고",
+      "학교 앞에 횡단보도와 신호등을 설치해 달라고 요청하려고",
+      "통학버스 노선의 변경을 제안하려고"
+    ],
+    "answer": 3,
+    "translation": "황 선생님께. 저는 한빛 중학교 3학년 학생입니다. 우리 학교는 번잡한 도로에 있지만 정문 근처에 횡단보도나 신호등이 없습니다. 매일 아침 수백 명의 학생들이 달리는 차들 사이로 길을 건너야 합니다. 지난달에는 차가 제 반 친구를 칠 뻔했습니다. 학교 정문 앞에 횡단보도와 신호등을 가능한 한 빨리 설치해 주시기를 요청드립니다. 관심을 가져 주셔서 감사합니다. 이수민 드림.",
+    "why": "'I am writing to ask you to install a crosswalk and a traffic light'에서 설치를 요청하는 글입니다.",
+    "optionNotes": [
+      "현황 조사를 부탁하는 글이 아닙니다.",
+      "교육 일정을 묻는 글이 아닙니다.",
+      "정책 비판이 아닙니다.",
+      "정답. 횡단보도와 신호등 설치를 요청합니다.",
+      "통학버스는 나오지 않습니다."
+    ],
+    "trap": "사고 위험 이야기는 요청의 이유일 뿐 글의 목적이 아닙니다.",
+    "tip": "목적 문제는 'I am writing to ~'와 요청 대상(install ~)을 확인하세요."
+  },
+  {
+    "id": "m3-04-19",
+    "level": "m3",
+    "set": "mock-04",
+    "no": 19,
+    "type": "mood",
+    "stem": "다음 글에 드러난 'I'의 심경 변화로 가장 적절한 것은?",
+    "passage": "I sat in the auditorium with my hands pressed together. The results of the essay contest would be announced in a few minutes. My heart was pounding so loudly that I could barely hear the announcer. When the third prize was called, it wasn't me. When the second prize was called, it still wasn't me. Then the announcer said, \"The first prize goes to Hana Kim.\" That was my name! I jumped up from my seat, and my eyes filled with tears of joy.",
+    "options": [
+      "bored → annoyed",
+      "anxious → thrilled",
+      "proud → ashamed",
+      "lonely → angry",
+      "confident → worried"
+    ],
+    "answer": 1,
+    "translation": "나는 두 손을 모은 채 강당에 앉아 있었다. 몇 분 뒤 에세이 대회 결과가 발표될 예정이었다. 심장이 너무 크게 뛰어서 진행자의 말이 거의 들리지 않았다. 3등이 호명되었을 때 내가 아니었다. 2등이 호명되었을 때도 내가 아니었다. 그때 진행자가 말했다. \"1등은 김하나입니다.\" 내 이름이었다! 나는 자리에서 벌떡 일어났고 눈에는 기쁨의 눈물이 가득 찼다.",
+    "why": "결과 발표를 기다리며 심장이 뛰었다가(anxious), 1등으로 호명되자 기쁨의 눈물이 났습니다(thrilled).",
+    "optionNotes": [
+      "지루함이나 짜증이 아닙니다.",
+      "정답. 불안에서 기쁨으로 변했습니다.",
+      "자랑스러움에서 부끄러움으로의 변화가 아닙니다.",
+      "외로움이나 화남이 아닙니다.",
+      "자신감이 걱정으로 변한 것이 아닙니다."
+    ],
+    "trap": "3등, 2등이 불리는 동안 초조함이 길게 이어져 처음 감정을 놓치기 쉽습니다.",
+    "tip": "심경 변화는 처음의 신체 반응(heart pounding)과 마지막 반응(tears of joy)을 짝지으세요."
+  },
+  {
+    "id": "m3-04-20",
+    "level": "m3",
+    "set": "mock-04",
+    "no": 20,
+    "type": "claim",
+    "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+    "passage": "Many teenagers receive their first debit card or start earning money from part-time jobs without knowing how to manage it. Schools teach algebra and chemistry, but they rarely teach how interest works or how to avoid debt. As a result, many young adults make costly mistakes, such as spending more than they earn or borrowing money without understanding the risks. Money management is a skill that everyone needs throughout life. Therefore, financial education should be a required part of the school curriculum.",
+    "options": [
+      "학생들의 아르바이트를 금지해야 한다.",
+      "수학 수업 시간을 늘려야 한다.",
+      "청소년의 신용카드 사용을 법률로 엄격하게 제한해야 한다.",
+      "학교 교육 과정에 금융 교육을 필수로 포함해야 한다.",
+      "부모가 자녀의 용돈을 직접 관리해야 한다."
+    ],
+    "answer": 3,
+    "translation": "많은 십 대들은 돈을 관리하는 방법을 모른 채 첫 체크카드를 받거나 아르바이트로 돈을 벌기 시작한다. 학교는 대수와 화학을 가르치지만 이자가 어떻게 작동하는지, 빚을 어떻게 피하는지는 거의 가르치지 않는다. 그 결과 많은 젊은이들이 번 것보다 더 쓰거나 위험을 이해하지 못한 채 돈을 빌리는 등 값비싼 실수를 한다. 돈 관리는 평생 모든 사람에게 필요한 기술이다. 그러므로 금융 교육은 학교 교육 과정의 필수 부분이 되어야 한다.",
+    "why": "마지막 문장 'financial education should be a required part of the school curriculum'이 필자의 주장입니다.",
+    "optionNotes": [
+      "아르바이트 금지는 언급되지 않았습니다.",
+      "수학 시간 확대는 언급되지 않았습니다.",
+      "카드 사용 제한은 언급되지 않았습니다.",
+      "정답. 금융 교육을 필수로 해야 합니다.",
+      "부모의 관리는 언급되지 않았습니다."
+    ],
+    "trap": "글에 나온 'debit card', 'part-time jobs'에 이끌려 ①③을 고르기 쉽습니다.",
+    "tip": "주장 문제는 'Therefore, ~ should ...'가 들어간 마지막 문장을 확인하세요."
+  },
+  {
+    "id": "m3-04-21",
+    "level": "m3",
+    "set": "mock-04",
+    "no": 21,
+    "type": "implied",
+    "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "passage": "Hana wanted to apply to only one high school, the most famous one in her city. Her teacher worried about the risks and advised her, \"Don't {u|put all your eggs in one basket}. Apply to a few schools, so you will still have good options if something goes wrong.\"",
+    "options": [
+      "Buy eggs in large quantities whenever they are cheap",
+      "Carry baskets with great care",
+      "Avoid risking everything on a single choice",
+      "Wait patiently for good results",
+      "Save money for the future"
+    ],
+    "answer": 2,
+    "translation": "하나는 도시에서 가장 유명한 고등학교 한 곳에만 지원하고 싶었다. 선생님은 위험을 걱정하며 조언했다. \"모든 달걀을 한 바구니에 담지 마라. 몇 군데에 지원해서 일이 잘못되더라도 좋은 선택지가 남도록 해.\"",
+    "why": "한 곳에만 지원하려는 하나에게 여러 곳에 지원하라고 조언했으므로 하나의 선택에 모든 것을 걸지 말라는 뜻입니다.",
+    "optionNotes": [
+      "달걀을 사는 이야기가 아닙니다.",
+      "바구니를 조심히 들라는 이야기가 아닙니다.",
+      "정답. 한 가지 선택에 모든 것을 걸지 말라는 뜻입니다.",
+      "인내하라는 이야기가 아닙니다.",
+      "저축 이야기가 아닙니다."
+    ],
+    "trap": "'eggs'와 'basket'을 문자 그대로 해석하면 ①②를 고르게 됩니다. 뒤 문장(Apply to a few schools)을 보세요.",
+    "tip": "관용 표현은 바로 뒤의 풀이 문장에서 의미를 확인하세요."
+  },
+  {
+    "id": "m3-04-22",
+    "level": "m3",
+    "set": "mock-04",
+    "no": 22,
+    "type": "gist",
+    "stem": "다음 글의 요지로 가장 적절한 것은?",
+    "passage": "Many people try to fill every free minute with their phones, as if boredom were a problem to be solved. However, psychologists say that boredom has a hidden benefit. When our minds are not busy, they begin to wander, and wandering minds often come up with creative ideas. Many writers and artists say that their best ideas arrived during quiet, empty moments rather than during busy hours. So instead of escaping from boredom, we should treat it as a chance for imagination.",
+    "options": [
+      "휴대전화 사용 시간을 법으로 제한해야 한다.",
+      "지루한 시간은 창의적인 생각을 낳는 기회가 될 수 있다.",
+      "예술가들은 혼자 있는 시간을 가장 좋아한다.",
+      "바쁘고 쉴 틈 없이 사는 것이 성공으로 가는 가장 중요한 열쇠이다.",
+      "지루함을 자주 느끼는 사람은 집중력이 낮다."
+    ],
+    "answer": 1,
+    "translation": "많은 사람들은 지루함이 해결해야 할 문제인 것처럼 모든 여유 시간을 휴대전화로 채우려 한다. 그러나 심리학자들은 지루함에 숨은 이점이 있다고 말한다. 마음이 바쁘지 않으면 생각이 떠돌기 시작하고, 떠도는 생각은 종종 창의적인 아이디어를 낸다. 많은 작가와 예술가들은 가장 좋은 아이디어가 바쁜 시간이 아니라 조용하고 빈 순간에 찾아왔다고 말한다. 그러므로 지루함에서 벗어나려 하기보다 그것을 상상력의 기회로 여겨야 한다.",
+    "why": "지루함은 마음이 떠돌며 창의적인 아이디어를 낳는 기회가 된다는 내용이 글의 요지입니다.",
+    "optionNotes": [
+      "휴대전화 제한은 주장하지 않습니다.",
+      "정답. 지루한 시간이 창의성의 기회가 됩니다.",
+      "혼자 있는 시간 선호는 나오지 않습니다.",
+      "바쁜 것이 성공의 열쇠라는 것은 글과 반대입니다.",
+      "집중력 이야기는 나오지 않습니다."
+    ],
+    "trap": "첫 문장의 휴대전화 이야기에 이끌려 ①을 고르기 쉽습니다. 요지는 'However' 이후의 내용입니다.",
+    "tip": "However 뒤의 문장과 마지막 'So ~' 문장이 요지를 담습니다."
+  },
+  {
+    "id": "m3-04-23",
+    "level": "m3",
+    "set": "mock-04",
+    "no": 23,
+    "type": "topic",
+    "stem": "다음 글의 주제로 가장 적절한 것은?",
+    "passage": "Mangrove forests grow along tropical coasts, where the land meets the sea. Their thick, tangled roots slow down waves and protect the land from storms. The roots also trap mud and prevent soil from washing away. In some regions, they also store large amounts of carbon, which helps to slow climate change. Many fish and crabs lay their eggs among the roots, so mangroves work as nurseries for sea life. Despite their importance, mangroves are disappearing quickly because of shrimp farms and tourist resorts built along the coast.",
+    "options": [
+      "why shrimp farming is profitable in tropical areas",
+      "how tourists choose beach resorts abroad",
+      "the types of colorful fish that live in coral reefs and warm waters",
+      "the important roles mangrove forests play for coasts and sea life",
+      "ways of growing trees successfully in cold climates"
+    ],
+    "answer": 3,
+    "translation": "맹그로브 숲은 육지와 바다가 만나는 열대 해안을 따라 자란다. 이 숲의 두껍고 얽힌 뿌리는 파도를 늦추고 육지를 폭풍으로부터 보호한다. 뿌리는 또한 진흙을 붙잡아 토양이 씻겨 나가는 것을 막는다. 일부 지역에서는 막대한 양의 탄소도 저장해 기후 변화를 늦추는 데 도움이 된다. 많은 물고기와 게가 뿌리 사이에 알을 낳으므로 맹그로브는 바다 생물의 보육원 역할을 한다. 그 중요성에도 불구하고 맹그로브는 해안에 지어진 새우 양식장과 관광 리조트 때문에 빠르게 사라지고 있다.",
+    "why": "맹그로브 숲이 해안과 바다 생물에게 하는 중요한 역할을 설명하는 글입니다.",
+    "optionNotes": [
+      "새우 양식은 위협 요인으로만 나옵니다.",
+      "관광객의 선택은 나오지 않습니다.",
+      "산호초 물고기는 나오지 않습니다.",
+      "정답. 맹그로브의 중요한 역할입니다.",
+      "추운 기후는 나오지 않습니다."
+    ],
+    "trap": "글 끝의 'shrimp farms'와 'tourist resorts'는 위협 요소일 뿐 글의 중심이 아닙니다.",
+    "tip": "주제는 반복되는 대상(mangroves)과 그 역할(protect, trap, nurseries)을 묶어 찾으세요."
+  },
+  {
+    "id": "m3-04-24",
+    "level": "m3",
+    "set": "mock-04",
+    "no": 24,
+    "type": "title",
+    "stem": "다음 글의 제목으로 가장 적절한 것은?",
+    "passage": "A seed library works like a book library, but instead of books, you borrow seeds. Gardeners take seeds home, grow the plants, and return some seeds from the harvest. Anyone with a library card can join, and no payment is required. Seed libraries help preserve old varieties of vegetables that large companies no longer sell. This keeps plant diversity alive, and if a disease attacks one variety, other varieties may survive. For this reason, seed libraries are becoming an important tool for protecting our food supply.",
+    "options": [
+      "Seed Libraries: Protecting Plant Diversity for the Future",
+      "How to Start a Garden in Your Bedroom",
+      "The Rise of Large Seed Companies",
+      "Why Vegetables Taste Different Today",
+      "Borrowing Books From Neighbors"
+    ],
+    "answer": 0,
+    "translation": "씨앗 도서관은 책 도서관처럼 작동하지만 책 대신 씨앗을 빌린다. 정원사들은 씨앗을 집에 가져가 식물을 기르고 수확물에서 얻은 씨앗 일부를 돌려준다. 도서관 카드가 있으면 누구나 참여할 수 있고 비용은 들지 않는다. 씨앗 도서관은 대기업이 더는 팔지 않는 오래된 채소 품종을 보존하도록 돕는다. 이는 식물의 다양성을 유지하고 한 품종에 병이 닥쳐도 다른 품종은 살아남을 수 있게 한다. 이런 이유로 씨앗 도서관은 우리의 식량 공급을 지키는 중요한 도구가 되고 있다.",
+    "why": "씨앗 도서관이 식물 다양성을 보존해 미래의 식량을 지킨다는 내용이므로 ①이 제목입니다.",
+    "optionNotes": [
+      "정답. 씨앗 도서관과 식물 다양성 보존입니다.",
+      "침실에서 정원을 가꾸는 방법은 나오지 않습니다.",
+      "대기업의 성장은 나오지 않습니다.",
+      "채소 맛 이야기는 나오지 않습니다.",
+      "책을 빌리는 이야기가 아닙니다."
+    ],
+    "trap": "⑤는 첫 문장의 비유(book library)를 가져온 보기입니다. 글의 중심은 씨앗입니다.",
+    "tip": "제목은 새로운 개념(seed libraries)과 그 목적(plant diversity)을 함께 담으세요."
+  },
+  {
+    "id": "m3-04-25",
+    "level": "m3",
+    "set": "mock-04",
+    "no": 25,
+    "type": "chart",
+    "stem": "다음 도표의 내용과 일치하지 않는 것은?",
+    "chart": {
+      "title": "Free-Time Activities of Middle School Students (hours per week)",
+      "unit": "hours",
+      "labels": [
+        "Video games",
+        "Reading",
+        "Sports",
+        "Social media",
+        "Hobby classes"
+      ],
+      "series": [
+        {
+          "name": "2014",
+          "values": [
+            6,
+            4,
+            5,
+            3,
+            2
+          ]
+        },
+        {
+          "name": "2022",
+          "values": [
+            8,
+            3,
+            5,
+            7,
+            4
+          ]
+        }
+      ]
+    },
+    "passage": "The graph compares how middle school students spent their free time in 2014 and 2022. ① Time spent on video games increased by two hours. ② Reading time was cut in half. ③ Time spent on sports did not change. ④ Social media showed the largest increase among the five activities. ⑤ In 2022, reading took the least time among the five activities.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "그래프는 2014년과 2022년에 중학생들이 여가 시간을 어떻게 보냈는지 비교한다. ① 비디오 게임에 쓴 시간은 두 시간 늘었다. ② 독서 시간은 절반으로 줄었다. ③ 운동에 쓴 시간은 변하지 않았다. ④ 소셜 미디어는 다섯 활동 중 가장 크게 늘었다. ⑤ 2022년에는 독서가 다섯 활동 중 가장 적은 시간을 차지했다.",
+    "why": "독서는 4시간에서 3시간으로 줄었으므로 절반으로 줄었다는 ②는 일치하지 않습니다.",
+    "optionNotes": [
+      "비디오 게임은 6시간에서 8시간으로 두 시간 늘었습니다.",
+      "정답(불일치). 4시간에서 3시간으로 한 시간 줄었습니다.",
+      "운동은 5시간으로 같습니다.",
+      "소셜 미디어는 3시간에서 7시간으로 4시간 늘어 가장 큽니다.",
+      "2022년에 독서는 3시간으로 가장 적습니다."
+    ],
+    "trap": "'cut in half'라는 표현은 정확한 비율 확인이 필요합니다. 4의 절반은 2입니다.",
+    "tip": "증감 표현(by two hours, in half, largest)은 두 해의 수치를 직접 계산해 확인하세요."
+  },
+  {
+    "id": "m3-04-26",
+    "level": "m3",
+    "set": "mock-04",
+    "no": 26,
+    "type": "match",
+    "stem": "Daniel Okafor에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Daniel Okafor grew up in Lagos, Nigeria, where the electricity often went out. At the age of fifteen, he built a small solar-powered lamp from broken phone parts and used it to study at night. The light was weak at first, but it worked every evening, even during long power cuts. When his neighbors saw it, they asked him to make lamps for them too. He later opened a workshop that teaches teenagers how to build solar lamps. Today, more than two thousand families use lamps made in his workshop.",
+    "options": [
+      "전기가 안정적으로 공급되는 도시에서 자랐다.",
+      "고장 난 휴대전화 부품으로 가스 램프를 만들었다.",
+      "과학 대회에서 우승한 뒤 곧바로 다른 나라로 이민을 갔다.",
+      "혼자서 큰 공장을 운영하며 램프를 판매한다.",
+      "청소년에게 태양광 램프를 만드는 법을 가르치는 작업장을 열었다."
+    ],
+    "answer": 4,
+    "translation": "다니엘 오카포는 전기가 자주 나가는 나이지리아 라고스에서 자랐다. 열다섯 살에 그는 고장 난 휴대전화 부품으로 작은 태양광 램프를 만들어 밤에 공부할 때 썼다. 처음에는 불빛이 약했지만 긴 정전 중에도 매일 저녁 작동했다. 이웃들이 그것을 보고 자신들에게도 램프를 만들어 달라고 부탁했다. 그는 나중에 청소년에게 태양광 램프 만드는 법을 가르치는 작업장을 열었다. 오늘날 2천 가구가 넘는 가정이 그의 작업장에서 만든 램프를 쓴다.",
+    "why": "'opened a workshop that teaches teenagers how to build solar lamps'와 일치합니다.",
+    "optionNotes": [
+      "전기가 자주 나가는 곳에서 자랐습니다.",
+      "가스 램프가 아니라 태양광 램프입니다.",
+      "대회 우승과 이민은 나오지 않습니다.",
+      "공장이 아니라 작업장이고 판매는 나오지 않습니다.",
+      "정답. 청소년에게 만드는 법을 가르치는 작업장을 열었습니다."
+    ],
+    "trap": "'workshop'과 'factory', 'solar'와 'gas' 같은 낱말을 바꾼 보기들에 주의하세요.",
+    "tip": "일치 문제는 인물의 시기별 정보(성장 → 발명 → 사업)를 차례로 대조하세요."
+  },
+  {
+    "id": "m3-04-27",
+    "level": "m3",
+    "set": "mock-04",
+    "no": 27,
+    "type": "notice",
+    "stem": "Youth Orchestra Open Auditions에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Youth Orchestra Open Auditions\nDo you love music? Join our orchestra!\nDate: Saturday, March 9, 2:00 p.m.\nPlace: Riverside Arts Center, Room 201\nWho: Ages 12–18 (no previous orchestra experience required)\nWhat to bring: Your instrument and one piece of music (up to three minutes)\nRegistration: Online by March 1\nResults: All applicants will be informed individually by email within one week after the audition.",
+    "options": [
+      "접수는 현장에서만 받는다.",
+      "세 곡을 연주해야 한다.",
+      "합격 여부는 오디션 후 일주일 이내에 이메일로 개별 통보된다.",
+      "18세 이상만 지원할 수 있다.",
+      "악기는 현장에서 빌려 준다."
+    ],
+    "answer": 2,
+    "translation": "청소년 오케스트라 공개 오디션. 음악을 사랑하시나요? 우리 오케스트라에 함께하세요! 날짜: 3월 9일 토요일 오후 2시. 장소: 리버사이드 아트센터 201호. 대상: 12~18세(오케스트라 경험 불필요). 준비물: 악기와 악보 한 곡(3분 이내). 접수: 3월 1일까지 온라인. 결과: 오디션 후 일주일 이내에 모든 지원자에게 이메일로 개별 통보합니다.",
+    "why": "'Results: All applicants will be informed individually by email within one week'와 일치합니다.",
+    "optionNotes": [
+      "온라인으로 접수합니다.",
+      "한 곡(3분 이내)을 준비합니다.",
+      "정답. 일주일 이내에 이메일로 개별 통보됩니다.",
+      "12~18세가 대상입니다.",
+      "악기를 직접 가져와야 합니다."
+    ],
+    "trap": "'no previous orchestra experience required'를 '악기를 빌려 준다'와 혼동하지 마세요.",
+    "tip": "안내문 문제는 접수 방법, 준비물, 결과 통보 방식을 항목별로 대조하세요."
+  },
+  {
+    "id": "m3-04-28",
+    "level": "m3",
+    "set": "mock-04",
+    "no": 28,
+    "type": "notice",
+    "stem": "Riverside Night Market에 관한 다음 안내문의 내용과 일치하지 않는 것은?",
+    "passage": "Riverside Night Market\nFood, crafts, and music under the stars!\nDate: Friday, September 20 – Sunday, September 22\nTime: 6:00 p.m. – 11:00 p.m.\nPlace: Riverside Plaza\nAdmission: Free\nSpecial: Street performances every night at 8:00 p.m.\nNote: Pets are not allowed. There is no parking at the plaza, so please use the public parking lot near the station.",
+    "options": [
+      "사흘 동안 열린다.",
+      "입장은 무료이다.",
+      "매일 저녁 8시에 거리 공연이 있다.",
+      "반려동물은 데려올 수 없다.",
+      "광장 안에 주차할 수 있다."
+    ],
+    "answer": 4,
+    "translation": "리버사이드 야시장. 별빛 아래의 음식, 공예, 음악! 날짜: 9월 20일 금요일~9월 22일 일요일. 시간: 오후 6시~11시. 장소: 리버사이드 광장. 입장: 무료. 특별 행사: 매일 밤 8시 거리 공연. 유의: 반려동물은 허용되지 않습니다. 광장에는 주차할 수 없으니 역 근처 공영 주차장을 이용해 주세요.",
+    "why": "'There is no parking at the plaza'이므로 광장 안에 주차할 수 있다는 ⑤는 일치하지 않습니다.",
+    "optionNotes": [
+      "금요일~일요일이므로 사흘입니다.",
+      "Admission: Free와 일치합니다.",
+      "every night at 8:00 p.m.과 일치합니다.",
+      "Pets are not allowed와 일치합니다.",
+      "정답(불일치). 광장에는 주차할 수 없습니다."
+    ],
+    "trap": "'Parking'이 안내 끝부분에 나와 놓치기 쉽습니다.",
+    "tip": "Note 항목은 금지·제한 사항(not allowed, no parking)이 자주 출제됩니다."
+  }
+]
