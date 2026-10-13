@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m3-07-29",
+    "level": "m3",
+    "set": "mock-07",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Having a pet {1|teaches} children important lessons about responsibility. Children who {2|grows} up with animals learn to feed, clean, and care for another living creature. They also learn empathy, {3|because} they have to notice when their pet is sick or sad. Studies show that these children tend {4|to be} more patient and kind. For many families, a pet becomes {5|a close friend}.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "반려동물을 키우는 것은 아이들에게 책임감에 관한 중요한 교훈을 가르쳐 준다. 동물과 함께 자라는 아이들은 다른 생명체를 먹이고, 청소하고, 돌보는 법을 배운다. 그들은 반려동물이 아프거나 슬플 때를 알아차려야 하므로 공감도 배운다. 연구에 따르면 이런 아이들은 더 인내심 있고 친절한 경향이 있다. 많은 가정에서 반려동물은 가까운 친구가 된다.",
+    "why": "관계대명사 who의 선행사 'Children'은 복수이므로 'grows'가 아니라 'grow'여야 합니다.",
+    "optionNotes": [
+      "동명사 주어 Having은 단수이므로 teaches가 맞습니다.",
+      "정답(틀린 것). 선행사가 복수이므로 grow여야 합니다.",
+      "이유를 나타내는 접속사 because가 맞습니다.",
+      "tend to V 구문의 to be가 맞습니다.",
+      "보어 a close friend가 맞습니다."
+    ],
+    "trap": "바로 앞의 'animals'가 아니라 선행사 'Children'과 수를 일치시켜야 합니다.",
+    "tip": "관계절의 동사는 선행사의 수에 일치시킵니다."
+  },
+  {
+    "id": "m3-07-30",
+    "level": "m3",
+    "set": "mock-07",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Many people believe that multitasking makes them more {1|efficient}. However, research shows the opposite. When we switch between tasks, our brain needs time to {2|adjust}, and we often make more {3|mistakes}. In addition, constantly checking messages {4|interrupts} our concentration and increases stress. To work more effectively, experts advise us to focus on one task at a time and to {5|check} the notifications until we finish.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "많은 사람들은 멀티태스킹이 자신을 더 효율적으로 만든다고 믿는다. 하지만 연구는 반대를 보여 준다. 과제 사이를 전환할 때 뇌는 적응할 시간이 필요하고 우리는 더 많은 실수를 하는 경우가 많다. 게다가 메시지를 계속 확인하는 것은 집중을 방해하고 스트레스를 높인다. 더 효과적으로 일하려면 전문가들은 한 번에 한 가지 일에 집중하고 끝낼 때까지 알림을 계속 확인하라고 조언한다.",
+    "why": "한 번에 한 가지 일에 집중하라는 조언이므로 알림을 끝날 때까지 ‘확인하라(check)’가 아니라 ‘무시하라(ignore)’여야 합니다.",
+    "optionNotes": [
+      "효율적이라는 의미로 efficient가 알맞습니다.",
+      "적응할 시간이 필요하다는 의미로 adjust가 알맞습니다.",
+      "더 많은 실수라는 의미로 mistakes가 알맞습니다.",
+      "집중을 방해한다는 의미로 interrupts가 알맞습니다.",
+      "정답(부적절). 집중을 위해서는 알림을 무시하라는 의미로 ignore가 알맞습니다."
+    ],
+    "trap": "check는 일상적인 표현이라 자연스러워 보이지만 ‘집중하라’는 조언과 모순됩니다.",
+    "tip": "앞 문장(focus on one task)의 조언과 낱말이 방향을 같이 하는지 확인하세요."
+  },
+  {
+    "id": "m3-07-31",
+    "level": "m3",
+    "set": "mock-07",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many people believe that talent is something we are born with, and that only a few lucky people can become experts. However, studies of top musicians and athletes show that the best performers are not necessarily the most naturally gifted ones. They have practiced in a focused way for thousands of hours. They corrected their weaknesses again and again. Naturally gifted beginners often stop improving when they stop practicing. In this sense, high achievement is the result of __________ rather than natural ability.",
+    "options": [
+      "sudden inspiration at an early age",
+      "wealth and social position",
+      "deliberate and long-term practice",
+      "luck and favorable weather",
+      "avoiding all mistakes"
+    ],
+    "answer": 2,
+    "translation": "많은 사람들은 재능이 타고나는 것이며 운 좋은 소수만 전문가가 될 수 있다고 믿는다. 하지만 최고의 음악가와 운동선수에 관한 연구는 최고의 연주자가 반드시 타고난 재능이 가장 뛰어난 사람은 아니라는 것을 보여 준다. 그들은 수천 시간 동안 집중해서 연습하며 약점을 거듭 고친 사람들이다. 이런 의미에서 높은 성취는 타고난 능력이라기보다 의도적이고 장기적인 연습의 결과이다.",
+    "why": "수천 시간 집중해서 연습하며 약점을 고친 사람이라 했으므로 의도적이고 장기적인 연습이 알맞습니다.",
+    "optionNotes": [
+      "갑작스러운 영감은 글에 나오지 않습니다.",
+      "부와 사회적 지위는 나오지 않습니다.",
+      "정답. 의도적이고 장기적인 연습입니다.",
+      "행운과 날씨는 나오지 않습니다.",
+      "실수를 모두 피한다는 내용은 없습니다."
+    ],
+    "trap": "①은 '타고난 재능'을 연상시키는 보기이지만 글은 연습을 강조합니다.",
+    "tip": "'rather than ~' 앞의 빈칸은 글에서 강조하는 쪽을 가리킵니다."
+  },
+  {
+    "id": "m3-07-32",
+    "level": "m3",
+    "set": "mock-07",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Researchers asked students to learn a list of words. One group studied the list in a single long session, while another group studied the same words in several short sessions spread over a week. When tested later, the second group remembered much more. The researchers explained that the brain needs time between sessions to strengthen new memories. Cramming may feel productive in the short term, but the information fades quickly. Therefore, learning that is spread over time is __________ learning that is crammed into a single session.",
+    "options": [
+      "much more tiring than",
+      "less necessary than",
+      "equal in value to",
+      "far more effective and lasting than",
+      "nearly impossible compared to"
+    ],
+    "answer": 3,
+    "translation": "연구자들은 학생들에게 낱말 목록을 배우게 했다. 한 집단은 한 번의 긴 시간에 목록을 공부했고 다른 집단은 같은 낱말을 일주일에 걸쳐 여러 번의 짧은 시간에 나누어 공부했다. 나중에 시험을 보았을 때 두 번째 집단이 훨씬 더 많이 기억했다. 연구자들은 뇌가 새로운 기억을 강화하려면 회기 사이에 시간이 필요하다고 설명했다. 벼락치기는 단기적으로는 생산적으로 느껴질 수 있지만 정보는 금세 사라진다. 그러므로 시간에 걸쳐 나누어 하는 학습은 한 번에 몰아서 하는 학습보다 훨씬 더 효과적이고 오래간다.",
+    "why": "나누어 공부한 집단이 더 많이 기억했으므로 몰아서 하는 학습보다 훨씬 더 효과적이고 오래간다는 말이 알맞습니다.",
+    "optionNotes": [
+      "더 피곤하다는 내용은 없습니다.",
+      "덜 필요하다는 내용은 없습니다.",
+      "가치가 같다는 것은 글과 반대입니다.",
+      "정답. 훨씬 더 효과적이고 오래갑니다.",
+      "거의 불가능하다는 내용은 과장입니다."
+    ],
+    "trap": "③은 두 방식을 비교한다는 점만 반영한 오답입니다. 결과는 한쪽이 더 낫다는 것입니다.",
+    "tip": "비교 구문의 빈칸은 실험 결과(어느 쪽이 더 나은가)를 반영하세요."
+  },
+  {
+    "id": "m3-07-33",
+    "level": "m3",
+    "set": "mock-07",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In a famous experiment, children were given one marshmallow. They were told that they could eat it right away or wait fifteen minutes to receive a second one. Some children ate it immediately, while others waited. Years later, the children who waited tended to have better grades and healthier lives. However, later studies found that the children's home environment mattered as well. Children who trusted adults to keep promises were more willing to wait. This suggests that self-control depends not only on the individual but also on __________.",
+    "options": [
+      "the size of the reward that is offered to each child",
+      "the surrounding conditions that shape trust",
+      "the time of day when the test begins",
+      "the number of children in the room",
+      "the type of snack that is chosen"
+    ],
+    "answer": 1,
+    "translation": "유명한 실험에서 아이들은 마시멜로 하나를 받고 바로 먹거나 15분을 기다려 하나를 더 받을 수 있다는 말을 들었다. 어떤 아이들은 바로 먹었고 다른 아이들은 기다렸다. 몇 년 뒤 기다린 아이들은 성적이 더 좋고 더 건강한 삶을 사는 경향이 있었다. 그러나 이후 연구는 아이들의 가정 환경도 중요하다는 것을 발견했다. 어른이 약속을 지킨다고 믿는 아이들이 더 기꺼이 기다렸다. 이는 자기 통제가 개인에게만 달린 것이 아니라 신뢰를 형성하는 주변 환경에도 달려 있음을 시사한다.",
+    "why": "약속을 지킨다고 믿는 아이가 더 기다렸다고 했으므로 신뢰를 형성하는 주변 환경이 알맞습니다.",
+    "optionNotes": [
+      "보상의 크기는 나오지 않습니다.",
+      "정답. 신뢰를 형성하는 주변 환경입니다.",
+      "시험 시각은 나오지 않습니다.",
+      "방의 아이 수는 나오지 않습니다.",
+      "간식 종류는 나오지 않습니다."
+    ],
+    "trap": "마시멜로 실험 자체에 이끌려 ① ④ ⑤를 고르기 쉽지만 빈칸은 'However ~' 이후의 발견입니다.",
+    "tip": "'not only A but also B'에서 B는 However 뒤의 새 발견(환경과 신뢰)입니다."
+  },
+  {
+    "id": "m3-07-34",
+    "level": "m3",
+    "set": "mock-07",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Some cities have started to create \"quiet zones\" in the middle of busy areas. In these zones, the noise level is kept low, and residents can sit and enjoy the sounds of nature. Studies show that spending even a short time in a quiet place lowers blood pressure and improves concentration. As cities grow louder, such places become more precious. In other words, silence is no longer a simple absence of sound, but a valuable __________.",
+    "options": [
+      "waste of public money",
+      "cause of traffic accidents",
+      "resource that needs to be protected",
+      "habit that spreads disease",
+      "problem that city planners should avoid"
+    ],
+    "answer": 2,
+    "translation": "일부 도시는 번화한 지역 한가운데에 '조용한 구역'을 만들기 시작했다. 이런 구역에서는 소음 수준이 낮게 유지되고 주민들은 앉아서 자연의 소리를 즐길 수 있다. 연구에 따르면 조용한 곳에서 잠깐만 시간을 보내도 혈압이 낮아지고 집중력이 좋아진다. 도시가 시끄러워질수록 이런 장소는 더 귀해진다. 다시 말해 정적은 더 이상 단순한 소리의 부재가 아니라 보호해야 할 가치 있는 자원이다.",
+    "why": "정적이 혈압과 집중력에 도움이 되고 귀해진다고 했으므로 보호해야 할 자원이라는 말이 알맞습니다.",
+    "optionNotes": [
+      "공공 자금의 낭비라는 것은 글과 반대입니다.",
+      "교통사고 이야기는 나오지 않습니다.",
+      "정답. 보호해야 할 자원입니다.",
+      "질병 이야기는 나오지 않습니다.",
+      "도시 계획가가 피할 문제라는 것은 글과 반대입니다."
+    ],
+    "trap": "'absence of sound'라는 표현 때문에 부정적 보기를 고르기 쉽지만 글은 가치를 강조합니다.",
+    "tip": "'not A but B' 구조에서 B가 빈칸이며 글의 긍정적 평가와 일치해야 합니다."
+  },
+  {
+    "id": "m3-07-35",
+    "level": "m3",
+    "set": "mock-07",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Gardening can improve both physical and mental health. ① Digging and planting provide gentle exercise for the whole body. ② Spending time outdoors in sunlight helps our body produce vitamin D. ③ Many people also find that caring for plants reduces anxiety. ④ The price of electric cars has dropped by about twenty percent in recent years. ⑤ For these reasons, many hospitals now include gardens in their care programs.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "원예는 신체적, 정신적 건강을 모두 향상시킬 수 있다. ① 땅을 파고 심는 것은 온몸에 가벼운 운동이 된다. ② 햇빛 아래 야외에서 시간을 보내면 몸이 비타민 D를 만드는 데 도움이 된다. ③ 많은 사람들은 식물을 돌보는 것이 불안을 줄인다고 느낀다. ④ 전기 자동차의 가격은 최근 몇 년 동안 약 20퍼센트 하락했다. ⑤ 이런 이유로 많은 병원이 이제 치료 프로그램에 정원을 포함한다.",
+    "why": "글은 원예의 건강상 이점을 설명하는데 ④는 전기 자동차 가격 이야기라 흐름과 관계가 없습니다.",
+    "optionNotes": [
+      "원예의 이점(운동)입니다.",
+      "원예의 이점(비타민 D)입니다.",
+      "원예의 이점(불안 감소)입니다.",
+      "정답(무관). 전기 자동차 가격 이야기입니다.",
+      "결론입니다."
+    ],
+    "trap": "'recent years'와 같은 흔한 표현 때문에 자연스러워 보이지만 주제와 무관합니다.",
+    "tip": "무관한 문장은 소재가 다르고 주제와 이어지지 않습니다."
+  },
+  {
+    "id": "m3-07-36",
+    "level": "m3",
+    "set": "mock-07",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Many people think that bats are blind, but this is not true. This idea is repeated in many stories.\n(A) In fact, all bat species can see, and some can see well even in dim light, and their eyes are as sensitive as human eyes.\n(B) The mistake comes from the fact that most bats use sound to find their way in the dark.\n(C) They send out high-pitched sounds and listen to the echoes that return from objects around them in the dark.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 1,
+    "translation": "많은 사람들은 박쥐가 눈이 멀었다고 생각하지만 이는 사실이 아니다. 이 생각은 많은 이야기에서 반복된다. (B) 이 오해는 대부분의 박쥐가 어둠 속에서 길을 찾는 데 소리를 이용한다는 사실에서 비롯된다. (A) 사실 모든 박쥐 종은 볼 수 있고 일부는 어두운 빛에서도 잘 볼 수 있다. (C) 그들은 높은 소리를 내고 주변 물체에서 되돌아오는 메아리를 듣는다.",
+    "why": "(B) 'The mistake'가 오해의 원인을 설명 → (A) 'In fact' 사실 → (C) 'They'가 소리를 이용하는 방식 설명 순서입니다.",
+    "optionNotes": [
+      "(C)의 'They'가 가리킬 박쥐 설명이 (A) 뒤에는 어색합니다.",
+      "정답. 오해의 원인 → 사실 → 소리 이용 방식.",
+      "(C)가 (B) 바로 뒤에 오면 'In fact'(A)의 반박이 뒤로 밀립니다.",
+      "(C)의 'They'가 가리킬 대상이 앞에 없습니다.",
+      "(C)의 'They'가 가리킬 대상이 앞에 없습니다."
+    ],
+    "trap": "(B)의 'The mistake'는 첫 문장의 오해를 가리킵니다. (A)보다 앞서 원인을 설명합니다.",
+    "tip": "The mistake가 가리키는 오해와 In fact(반박)의 순서를 확인하세요."
+  },
+  {
+    "id": "m3-07-37",
+    "level": "m3",
+    "set": "mock-07",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Paper has a long history, and its invention changed the way people share knowledge, trade, and learn.\n(A) Today, most people read digital text, but paper is still used for books, notes, and packaging. Millions of tons are produced every year.\n(B) Later, around the second century, a Chinese official improved the method. Paper then became cheaper than silk or bamboo.\n(C) The earliest paper was made in ancient China from rags and plant fibers. It was a rare and costly material.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 4,
+    "translation": "종이는 오랜 역사를 가지고 있고 그 발명은 사람들이 지식을 나누는 방식을 바꾸었다. (C) 가장 오래된 종이는 고대 중국에서 넝마와 식물 섬유로 만들어졌다. (B) 나중인 2세기경 한 중국 관리가 방법을 개선했고 종이는 비단이나 대나무보다 저렴해졌다. (A) 오늘날 대부분의 사람은 디지털 글을 읽지만 종이는 여전히 책, 공책, 포장에 쓰인다.",
+    "why": "시간 순서에 따라 (C) 가장 오래된 종이 → (B) Later 개선 → (A) Today 현재 순서입니다.",
+    "optionNotes": [
+      "Today가 가장 마지막에 와야 합니다.",
+      "Later(B)가 가장 오래된 종이(C)보다 앞설 수 없습니다.",
+      "Today가 Later 앞에 올 수 없습니다.",
+      "Later가 Today보다 앞에 와야 합니다.",
+      "정답. earliest → Later → Today."
+    ],
+    "trap": "(B)의 'the method'가 (C)에서 설명된 제작 방법을 가리키므로 (C)가 먼저입니다.",
+    "tip": "시간 표지(earliest, Later, Today)와 the method의 지시 대상을 확인하세요."
+  },
+  {
+    "id": "m3-07-38",
+    "level": "m3",
+    "set": "mock-07",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThis, however, does not mean that the quiet people have no leadership ability.\n\n[글]\nIn many group projects, the most talkative member tends to become the leader. ( ① ) The person who speaks the most often appears more confident and capable. ( ② ) Research shows that others tend to trust such people more easily. ( ③ ) However, studies of team performance suggest that the quality of a leader depends on listening and decision-making rather than on talking. ( ④ ) Quiet members who listen carefully can often guide the group better. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "[주어진 문장] 그러나 이것이 조용한 사람들에게 리더십 능력이 없다는 뜻은 아니다. [글] 많은 모둠 프로젝트에서 가장 말이 많은 구성원이 리더가 되는 경향이 있다. 가장 많이 말하는 사람이 더 자신감 있고 유능해 보인다. 연구에 따르면 다른 사람들은 그런 사람을 더 쉽게 신뢰하는 경향이 있다. 그러나 팀 성과에 관한 연구들은 리더의 자질이 말하기가 아니라 경청과 결정에 달려 있음을 시사한다. 주의 깊게 듣는 조용한 구성원이 모둠을 더 잘 이끌 수 있는 경우가 많다.",
+    "why": "주어진 문장의 'This'는 앞 문장들(말이 많은 사람이 리더가 되는 경향과 연구 결과)을 가리키고, 뒤 문장의 '조용한 구성원이 더 잘 이끌 수 있다'로 이어지므로 ④에 들어갑니다.",
+    "optionNotes": [
+      "'This'가 가리킬 경향이 설명되기 전입니다.",
+      "경향 설명 도중이라 흐름이 끊깁니다.",
+      "'However'로 반박하기 전이라 이릅니다.",
+      "정답. 반박 근거 뒤에 오며 조용한 사람의 능력으로 이어집니다.",
+      "결론 뒤에 오면 흐름이 맞지 않습니다."
+    ],
+    "trap": "'However'가 이미 한 번 나온 문장 바로 뒤에 놓여 이중 반박처럼 보이지만, 조용한 사람의 능력이라는 새 논점으로 이어집니다.",
+    "tip": "'This ~ does not mean ...'는 앞 내용을 오해하지 않도록 덧붙이는 문장입니다."
+  },
+  {
+    "id": "m3-07-39",
+    "level": "m3",
+    "set": "mock-07",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nBut that is only half of the story.\n\n[글]\nWe often hear that sugar is bad for our health. ( ① ) Eating too much of it can certainly cause weight gain and dental problems. ( ② ) Our body, however, actually needs a certain amount of sugar to work properly. ( ③ ) The brain, for example, uses sugar as its main source of energy. ( ④ ) The key is to choose natural sources, such as fruit, and to avoid excessive amounts. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "[주어진 문장] 하지만 그것은 이야기의 절반일 뿐이다. [글] 우리는 흔히 설탕이 건강에 나쁘다고 듣는다. 너무 많이 먹으면 분명히 체중 증가와 치아 문제를 일으킬 수 있다. 그러나 우리 몸은 제대로 작동하려면 실제로 일정량의 당이 필요하다. 예를 들어 뇌는 당을 주된 에너지원으로 쓴다. 핵심은 과일 같은 천연 공급원을 고르고 과도한 양을 피하는 것이다.",
+    "why": "'that'은 첫 문장의 '설탕은 건강에 나쁘다'는 통념을 가리키고, 뒤에서 몸에 필요한 면을 설명하므로 ①에 들어갑니다.",
+    "optionNotes": [
+      "정답. 첫 문장의 통념을 받아 이야기의 나머지 절반으로 넘어갑니다.",
+      "설탕의 해로움을 설명한 뒤라 'half'가 어색합니다.",
+      "'however' 이후라 이미 다른 면을 설명한 뒤입니다.",
+      "예시 설명 도중이라 흐름이 끊깁니다.",
+      "결론 뒤라서 어색합니다."
+    ],
+    "trap": "②도 가능해 보이지만 'Eating too much...'가 첫 통념을 뒷받침하는 문장이므로 그 뒤의 'however'와 직접 이어집니다.",
+    "tip": "'that is only half of the story'는 통념을 가리키고 반대 면의 설명을 이끕니다."
+  },
+  {
+    "id": "m3-07-40",
+    "level": "m3",
+    "set": "mock-07",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A researcher asked two groups of employees to eat lunch in different ways. One group ate at their desks while working, and the other group took a thirty-minute break away from their desks. By the end of the afternoon, the second group reported less fatigue and made fewer errors. The researcher also found that the employees who rested were more satisfied with their jobs. She concluded that a short break away from work, even during a busy day, improves both well-being and performance.\n\n▶ Taking a (A) break from work helps employees (B) their well-being and performance.",
+    "options": [
+      "(A) long — (B) lose",
+      "(A) noisy — (B) reduce",
+      "(A) lonely — (B) hide",
+      "(A) quick — (B) delay",
+      "(A) short — (B) improve"
+    ],
+    "answer": 4,
+    "translation": "한 연구자는 두 집단의 직원에게 서로 다른 방식으로 점심을 먹게 했다. 한 집단은 일하면서 책상에서 먹었고 다른 집단은 책상에서 떨어져 30분 휴식을 취했다. 오후가 끝날 무렵 두 번째 집단은 피로를 덜 느꼈고 실수도 적었다. 연구자는 쉰 직원들이 직무에 더 만족한다는 것도 발견했다. 그녀는 바쁜 날에도 일에서 벗어난 짧은 휴식이 건강과 성과를 모두 높인다고 결론지었다. ▶ 일에서 벗어난 짧은 휴식은 직원들이 건강과 성과를 높이도록 돕는다.",
+    "why": "30분의 짧은 휴식이 피로와 실수를 줄이고 만족도를 높였으므로 (A)는 short, (B)는 improve입니다.",
+    "optionNotes": [
+      "긴 휴식과 잃는다는 내용은 글과 반대입니다.",
+      "시끄러운 휴식과 줄인다는 내용은 글에 나오지 않습니다.",
+      "외로운 휴식과 숨긴다는 내용은 글에 나오지 않습니다.",
+      "빠른 휴식과 미룬다는 내용은 글에 나오지 않습니다.",
+      "정답. 짧은 휴식이 건강과 성과를 높입니다."
+    ],
+    "trap": "(A)가 short인 보기는 ⑤뿐이지만 (B)도 글의 결과와 맞아야 합니다.",
+    "tip": "요약문은 조건(short break)과 결과(improve)를 글에서 그대로 찾으세요."
+  }
+]
