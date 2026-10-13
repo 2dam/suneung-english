@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m3-08-29",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Many students {1|find} it hard to wake up early in the morning. Scientists say that teenagers' body clocks {2|naturally shift} later than those of children and adults. As a result, the amount of sleep that teenagers need {3|are} often not enough on school days. Some schools that {4|have changed} their start time to a later hour report that students are more alert in class. Therefore, many experts argue that school days {5|should begin} later.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "많은 학생이 아침에 일찍 일어나는 것을 힘들어한다. 과학자들은 십 대의 생체 시계가 어린이나 성인보다 자연스럽게 늦어진다고 말한다. 그 결과 십 대가 필요로 하는 수면량은 등교하는 날에 종종 충분하지 않다. 등교 시간을 더 늦게 바꾼 일부 학교는 학생들이 수업 시간에 더 또렷하다고 보고한다. 그러므로 많은 전문가들은 수업이 더 늦게 시작되어야 한다고 주장한다.",
+    "why": "주어 'the amount of sleep'의 핵심 명사 amount가 단수이므로 동사는 are가 아니라 is여야 합니다. 관계절 'that teenagers need'는 수식어구일 뿐입니다.",
+    "optionNotes": [
+      "find + it(가목적어) + hard + to부정사 구문이 맞습니다.",
+      "복수 주어 body clocks에 맞는 동사 shift를 부사 naturally가 수식합니다.",
+      "정답(틀림). 주어 the amount(단수)에 맞춰 is로 고쳐야 합니다.",
+      "선행사 schools에 맞는 현재완료 have changed가 맞습니다.",
+      "'주장·제안' 동사 argue 뒤 that절에서 should + 동사원형이 맞습니다."
+    ],
+    "trap": "바로 앞의 복수 명사 teenagers에 이끌려 are를 맞다고 판단하기 쉽습니다. 주어의 핵심은 amount입니다.",
+    "tip": "'the amount of + 명사' 주어는 amount에 수를 일치시키고, 수식 관계절 속 명사에 속지 마세요."
+  },
+  {
+    "id": "m3-08-30",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Bees are small, but their role in nature is {1|enormous}. They carry pollen from flower to flower, which helps plants {2|reproduce}. About one third of the food that humans eat depends on this process. Unfortunately, the number of bees is {3|declining} worldwide because of pesticides and the loss of habitats. If this trend {4|improves}, many crops will become scarce and expensive. Scientists therefore urge people to plant flowers and to {5|reduce} the use of harmful chemicals.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "벌은 작지만 자연에서의 역할은 막대하다. 벌은 꽃에서 꽃으로 꽃가루를 옮겨 식물이 번식하도록 돕는다. 인간이 먹는 음식의 약 3분의 1이 이 과정에 의존한다. 안타깝게도 살충제와 서식지 파괴로 전 세계 벌의 수가 줄고 있다. 이 추세가 계속되면 많은 작물이 귀하고 비싸질 것이다. 그래서 과학자들은 사람들에게 꽃을 심고 해로운 화학 물질 사용을 줄이라고 촉구한다.",
+    "why": "벌의 수가 줄고 있다는 흐름에서 '이 추세가 계속되면' 작물이 귀해진다고 하므로 improves가 아니라 continues여야 합니다.",
+    "optionNotes": [
+      "막대하다는 의미로 enormous가 알맞습니다.",
+      "번식을 돕는다는 의미로 reproduce가 알맞습니다.",
+      "줄고 있다는 의미로 declining이 알맞습니다.",
+      "정답(부적절). 감소 추세이므로 continues가 알맞습니다.",
+      "사용을 줄인다는 의미로 reduce가 알맞습니다."
+    ],
+    "trap": "'improves'는 긍정적이라 If절에 어울려 보이지만 뒤의 결과(작물 부족)와 모순됩니다.",
+    "tip": "조건절의 동사는 뒤의 결과 절(crops become scarce)과 인과가 맞는지 확인하세요."
+  },
+  {
+    "id": "m3-08-31",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "People often say that they \"can't remember\" a person's name right after being introduced. In many cases, however, the problem is not memory but attention. When we meet someone, we are busy thinking about what to say next or how we look. As a result, the name never gets stored in our brain in the first place. Experts suggest repeating the name aloud once during the conversation. Therefore, forgetting a name is often a matter of __________ rather than a poor memory.",
+    "options": [
+      "bad eyesight that makes it hard to see people's faces",
+      "heavy stress",
+      "age and gender",
+      "inattention at the moment of meeting",
+      "the number of people in the room"
+    ],
+    "answer": 3,
+    "translation": "사람들은 소개받은 직후 이름을 '기억할 수 없다'고 말하곤 한다. 그러나 많은 경우 문제는 기억이 아니라 주의이다. 누군가를 만날 때 우리는 다음에 무슨 말을 할지 또는 자신이 어떻게 보이는지 생각하느라 바쁘다. 그 결과 이름은 애초에 뇌에 저장되지 않는다. 전문가들은 대화 중에 이름을 한 번 소리 내어 반복하라고 권한다. 그러므로 이름을 잊는 것은 나쁜 기억력보다는 만나는 순간의 주의 부족의 문제인 경우가 많다.",
+    "why": "문제는 기억이 아니라 주의이며 이름이 저장되지 않는다고 했으므로 만나는 순간의 주의 부족이 알맞습니다.",
+    "optionNotes": [
+      "시력 이야기는 나오지 않습니다.",
+      "스트레스 이야기는 나오지 않습니다.",
+      "나이와 성별은 나오지 않습니다.",
+      "정답. 만나는 순간의 주의 부족입니다.",
+      "방의 인원은 나오지 않습니다."
+    ],
+    "trap": "'memory'라는 말에 이끌려 기억 관련 보기를 고르기 쉽습니다. 글은 기억이 아니라 주의라고 말합니다.",
+    "tip": "'not A but B' 구조에서 B(attention)가 빈칸의 정답입니다."
+  },
+  {
+    "id": "m3-08-32",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In a famous study, a researcher paid people either one dollar or twenty dollars to do a boring task. Then he asked them to rate how enjoyable it was. Surprisingly, those who were paid only one dollar said that the task was more enjoyable than those who were paid twenty dollars. The researcher explained that people who received little money needed another reason for doing the task. So they convinced themselves that it was interesting. This suggests that people often adjust their __________ to match their actions.",
+    "options": [
+      "salaries according to their efforts",
+      "personal thoughts and attitudes so that they seem consistent",
+      "daily schedules based on what other people around them are doing at work",
+      "clothes to the weather of the day",
+      "reports to please their employers"
+    ],
+    "answer": 1,
+    "translation": "유명한 연구에서 연구자는 사람들에게 지루한 과제를 한 뒤 1달러 또는 20달러를 받게 하고 그 과제가 얼마나 즐거웠는지 평가하게 했다. 놀랍게도 1달러만 받은 사람들이 20달러를 받은 사람들보다 과제가 더 즐거웠다고 말했다. 연구자는 적은 돈을 받은 사람들은 과제를 한 다른 이유가 필요해서 그것이 흥미롭다고 스스로를 납득시켰다고 설명했다. 이는 사람들이 자신의 행동과 일치해 보이도록 개인적인 생각과 태도를 조정하는 경우가 많음을 시사한다.",
+    "why": "행동에 맞추어 생각(재미있다는 평가)을 바꾼다는 내용이므로 행동과 일관되어 보이도록 생각과 태도를 조정한다는 말이 알맞습니다.",
+    "optionNotes": [
+      "급여를 조정한다는 내용은 아닙니다.",
+      "정답. 행동과 일관되도록 생각과 태도를 조정합니다.",
+      "일정을 조정한다는 내용은 없습니다.",
+      "날씨에 맞춘 옷은 나오지 않습니다.",
+      "보고서를 맞춘다는 내용은 없습니다."
+    ],
+    "trap": "'paid'와 연결된 ①을 고르기 쉽지만 글은 돈이 아닌 태도의 변화를 말합니다.",
+    "tip": "결론 문장의 'to match their actions'가 빈칸의 방향을 알려 줍니다."
+  },
+  {
+    "id": "m3-08-33",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many people think that being introverted is a weakness in the modern world. However, introverts often have strengths that are less noticed. They tend to listen carefully, think deeply before they speak, and form close relationships rather than many shallow ones. Many of them are also good at working quietly toward long-term goals. Many successful leaders have described themselves as introverts. This means that social success does not depend on __________ but on how well one understands and cares for others.",
+    "options": [
+      "the skill of listening to others",
+      "how loudly and often one speaks",
+      "the strength of close relationships",
+      "the habit of thinking before acting",
+      "the number of years one has worked"
+    ],
+    "answer": 1,
+    "translation": "많은 사람들은 내향적인 것이 현대 사회에서 약점이라고 생각한다. 그러나 내향적인 사람들은 덜 주목받는 강점을 가진 경우가 많다. 그들은 주의 깊게 듣고 말하기 전에 깊이 생각하며 얕은 관계가 많기보다 가까운 관계를 맺는 경향이 있다. 많은 성공한 지도자가 스스로를 내향적이라고 묘사했다. 이는 사회적 성공이 얼마나 크게, 얼마나 자주 말하는지가 아니라 타인을 얼마나 잘 이해하고 배려하는지에 달려 있음을 뜻한다.",
+    "why": "내향적인 사람의 강점(경청, 깊은 생각, 가까운 관계)이 성공을 만든다고 했으므로 말을 크게, 자주 하는 것에는 달려 있지 않다는 말이 알맞습니다.",
+    "optionNotes": [
+      "경청은 글이 강조하는 강점입니다.",
+      "정답. 얼마나 크게, 자주 말하는지가 아닙니다.",
+      "가까운 관계는 글이 강조하는 강점입니다.",
+      "행동 전 생각은 글이 강조하는 강점입니다.",
+      "일한 햇수는 나오지 않습니다."
+    ],
+    "trap": "①③④는 글이 강조하는 강점이라 'not A but B'에서 A가 될 수 없습니다.",
+    "tip": "'not A but B'에서 B가 글의 강점이면 A는 그와 반대되는 것입니다."
+  },
+  {
+    "id": "m3-08-34",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "When people use public transportation, they walk to stations and stops and spend time standing or climbing stairs. Studies show that people who commute by bus or subway take about thirty percent more steps per day than people who drive. Over a year, this small difference adds up to a considerable amount of exercise. Some people even get off one stop early to walk more. This habit makes the benefit even bigger. In other words, using public transportation can be a convenient way to __________ without setting aside special time.",
+    "options": [
+      "reduce the price of travel tickets",
+      "learn about the history of the city",
+      "increase daily physical activity",
+      "avoid meeting strangers on the way",
+      "save time on the road"
+    ],
+    "answer": 2,
+    "translation": "사람들이 대중교통을 이용할 때는 역과 정류장까지 걷고 서 있거나 계단을 오르며 시간을 보낸다. 연구에 따르면 버스나 지하철로 통근하는 사람들은 운전하는 사람들보다 하루에 약 30퍼센트 더 많이 걷는다. 일 년이면 이 작은 차이가 상당한 운동량이 된다. 다시 말해 대중교통을 이용하는 것은 따로 시간을 내지 않고도 일상의 신체 활동을 늘리는 편리한 방법이 될 수 있다.",
+    "why": "더 많이 걷게 된다는 내용이므로 따로 시간을 내지 않고도 일상의 신체 활동을 늘린다는 말이 알맞습니다.",
+    "optionNotes": [
+      "표 값 이야기는 나오지 않습니다.",
+      "도시의 역사는 나오지 않습니다.",
+      "정답. 일상의 신체 활동을 늘립니다.",
+      "낯선 사람을 피하는 것은 나오지 않습니다.",
+      "시간 절약은 나오지 않습니다."
+    ],
+    "trap": "교통수단 이야기라서 ⑤를 고르기 쉽지만 글의 이점은 운동량입니다.",
+    "tip": "수치 비교(thirty percent more steps)가 가리키는 이점이 빈칸입니다."
+  },
+  {
+    "id": "m3-08-35",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Handwriting has important benefits for the brain. ① Writing by hand activates more areas of the brain than typing does. ② Many airlines now offer online check-in for their passengers. ③ Students who take notes by hand tend to understand the concepts better. ④ The slower speed of handwriting forces writers to select the most important points. ⑤ For these reasons, handwriting remains valuable even in the digital age.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "손글씨는 뇌에 중요한 이점이 있다. ① 손으로 쓰면 타자를 칠 때보다 뇌의 더 많은 영역이 활성화된다. ② 많은 항공사는 이제 승객에게 온라인 체크인을 제공한다. ③ 손으로 필기하는 학생들은 개념을 더 잘 이해하는 경향이 있다. ④ 손글씨의 느린 속도는 쓰는 사람이 가장 중요한 요점을 고르게 한다. ⑤ 이런 이유로 손글씨는 디지털 시대에도 여전히 가치가 있다.",
+    "why": "글은 손글씨의 이점을 설명하는데 ②는 항공사의 온라인 체크인 이야기라 흐름과 관계가 없습니다.",
+    "optionNotes": [
+      "손글씨의 이점입니다.",
+      "정답(무관). 온라인 체크인 이야기입니다.",
+      "손글씨의 이점입니다.",
+      "손글씨의 이점입니다.",
+      "결론입니다."
+    ],
+    "trap": "'online'과 'digital'이 연상되어 자연스러워 보이지만 주제와 무관합니다.",
+    "tip": "무관한 문장은 주제(handwriting)와 이어지는 인과가 없습니다."
+  },
+  {
+    "id": "m3-08-36",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Many people think of cities as places that are bad for nature. They imagine only concrete buildings, loud traffic, and polluted air.\n(A) Therefore, cities may play an important role in protecting biodiversity. With some planning, they can become safe homes for many living things.\n(B) Some cities have even found that wild bees thrive on rooftop gardens and in parks. Birds also nest on tall buildings and near rivers.\n(C) However, recent studies show that cities can host a surprisingly large number of plant and animal species.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 4,
+    "translation": "많은 사람들은 도시를 자연에 나쁜 곳이라고 생각한다. 그들은 콘크리트 건물, 시끄러운 교통, 오염된 공기만 떠올린다. (C) 그러나 최근 연구는 도시가 놀랄 만큼 많은 식물과 동물종을 품을 수 있음을 보여 준다. (B) 일부 도시는 야생 벌이 옥상 정원과 공원에서 번성한다는 것도 발견했다. 새들도 높은 건물과 강 근처에 둥지를 튼다. (A) 그러므로 도시는 생물 다양성을 보호하는 데 중요한 역할을 할 수 있다. 어느 정도의 계획만 있다면 도시는 많은 생물의 안전한 보금자리가 될 수 있다.",
+    "why": "(C) 'However'로 통념을 반박 → (B) 구체적 사례 → (A) 'Therefore' 결론 순서입니다.",
+    "optionNotes": [
+      "(A)의 'Therefore'가 근거 없이 처음에 올 수 없습니다.",
+      "(B)의 'even'이 가리킬 앞 사례가 없습니다.",
+      "(B)가 (C) 앞에 오면 'even'이 가리킬 내용이 없습니다.",
+      "(A)의 'Therefore'가 (B)의 사례보다 앞서면 근거가 부족합니다.",
+      "정답. 반박 → 사례 → 결론."
+    ],
+    "trap": "(A)의 결론이 짧아 쉽게 중간에 놓기 쉽지만 'Therefore'는 마지막입니다.",
+    "tip": "However(반박) → even(사례) → Therefore(결론)의 논리 순서를 확인하세요."
+  },
+  {
+    "id": "m3-08-37",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Our sense of taste is closely connected to our sense of smell.\n(A) So when we have a cold and our nose is blocked, the aroma cannot reach the nose. As a result, food seems to have much less flavor.\n(B) Likewise, people who lose their sense of smell for a long time often say that eating has become less enjoyable.\n(C) When we eat, the aroma of the food travels from the mouth to the nose and joins the taste information.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 3,
+    "translation": "우리의 미각은 후각과 밀접하게 연결되어 있다. (C) 음식을 먹을 때 음식의 향은 입에서 코로 이동해 맛 정보와 합쳐진다. (A) 그래서 감기에 걸려 코가 막히면 향이 코에 닿지 못해 음식의 맛이 훨씬 덜하게 느껴진다. (B) 마찬가지로 오랫동안 후각을 잃은 사람들은 식사가 덜 즐거워졌다고 말하는 경우가 많다.",
+    "why": "(C) 향이 맛 정보와 합쳐지는 원리 → (A) 'the aroma'를 이어받아 코가 막힌 경우 → (B) 'Likewise'로 또 다른 사례 순서입니다.",
+    "optionNotes": [
+      "(A)의 'the aroma'는 (C)에서 먼저 소개된 뒤에 나와야 합니다.",
+      "(B)의 'Likewise'가 가리킬 앞의 사례가 없습니다.",
+      "(B)의 'Likewise'가 가리킬 앞의 사례가 없습니다.",
+      "정답. 원리 → 사례 → 비슷한 사례.",
+      "(B)의 'Likewise'는 (A)의 사례 뒤에 와야 합니다."
+    ],
+    "trap": "'Likewise'는 앞에 비슷한 사례가 있어야 하므로 (A) 뒤에 옵니다.",
+    "tip": "the(정관사)와 Likewise 같은 연결어가 가리키는 앞 내용을 확인하세요."
+  },
+  {
+    "id": "m3-08-38",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nIn contrast, those who studied with a clear question in mind remembered much more.\n\n[글]\nResearchers compared two groups of students who read the same article. ( ① ) The first group was told only to read carefully. ( ② ) After reading, they could recall only a small part of what they had read. ( ③ ) The second group was asked to find answers to three questions while reading. ( ④ ) This suggests that having a purpose for reading helps us pay attention to important information. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 대조적으로 분명한 질문을 마음에 두고 공부한 학생들은 훨씬 더 많이 기억했다. [글] 연구자들은 같은 글을 읽은 두 집단의 학생을 비교했다. 첫 번째 집단은 주의 깊게 읽으라는 말만 들었다. 읽은 뒤 그들은 읽은 것의 일부만 떠올릴 수 있었다. 두 번째 집단은 읽는 동안 세 가지 질문의 답을 찾으라는 요청을 받았다. 이는 읽는 목적이 있으면 중요한 정보에 주의를 기울이는 데 도움이 됨을 시사한다.",
+    "why": "'In contrast'는 앞의 '일부만 떠올렸다'와 대비되고 뒤의 '두 번째 집단'으로 이어지므로 ③에 들어갑니다.",
+    "optionNotes": [
+      "두 집단이 소개되기 전이라 'In contrast'가 어색합니다.",
+      "첫 번째 집단의 결과가 나오기 전이라 대비할 내용이 없습니다.",
+      "정답. 첫 번째 집단의 결과와 대비되고 두 번째 집단 설명으로 이어집니다.",
+      "두 번째 집단의 과제가 나온 뒤라 흐름이 뒤바뀝니다.",
+      "결론 문장 뒤라 어색합니다."
+    ],
+    "trap": "'those who ... question in mind'를 보고 두 번째 집단 설명 뒤에 오는 것으로 착각하기 쉽습니다.",
+    "tip": "'In contrast'는 앞 문장의 결과와 대비되는 문장입니다. 두 집단의 순서를 확인하세요."
+  },
+  {
+    "id": "m3-08-39",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nFor this reason, many hospitals now provide music therapy as a part of their treatment programs.\n\n[글]\nMusic has a powerful effect on our emotions and body. ( ① ) Slow, calm music can lower the heart rate and reduce blood pressure. ( ② ) Patients who listen to music before surgery report less anxiety. ( ③ ) Music also helps people with memory problems recall their past experiences. ( ④ ) Even people who cannot speak after a stroke can sometimes sing familiar songs. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "[주어진 문장] 이런 이유로 많은 병원이 이제 치료 프로그램의 일부로 음악 치료를 제공한다. [글] 음악은 우리의 감정과 몸에 강력한 영향을 준다. 느리고 차분한 음악은 심박수를 낮추고 혈압을 줄일 수 있다. 수술 전에 음악을 듣는 환자는 불안이 덜하다고 보고한다. 음악은 또한 기억력 문제가 있는 사람이 지난 경험을 떠올리게 돕는다. 뇌졸중 뒤 말을 못 하는 사람도 때로는 익숙한 노래를 부를 수 있다.",
+    "why": "'For this reason'은 앞에서 나열한 음악의 여러 효과를 근거로 병원의 치료 활용을 말하므로 마지막 ⑤에 들어갑니다.",
+    "optionNotes": [
+      "효과가 나오기 전이라 근거가 없습니다.",
+      "심박수 효과만 나왔고 나머지 효과가 남아 있습니다.",
+      "불안 감소 효과만 더해졌고 효과가 더 이어집니다.",
+      "기억 효과 뒤이지만 마지막 효과가 아직 남아 있습니다.",
+      "정답. 모든 효과를 설명한 뒤 결론으로 이어집니다."
+    ],
+    "trap": "④도 가능해 보이지만 마지막 효과(말을 못 해도 노래를 부름)가 남아 있습니다.",
+    "tip": "'For this reason'은 이유가 모두 나열된 뒤의 결론에 놓입니다."
+  },
+  {
+    "id": "m3-08-40",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Researchers asked two groups of students to do a difficult puzzle. Before the task, one group was told that their intelligence was fixed, and the other group was told that the brain grows stronger with effort. When the puzzle became harder, the students who believed that the brain can grow worked longer and tried new strategies. In contrast, the students who believed that intelligence was fixed gave up sooner. The study suggests that our beliefs about ability shape how we face challenges.\n\n▶ Students who believe that ability can (A) are more likely to (B) when faced with difficulty.",
+    "options": [
+      "(A) grow — (B) persist",
+      "(A) disappear — (B) relax",
+      "(A) stop — (B) compete",
+      "(A) change colors — (B) hide",
+      "(A) be measured — (B) complain"
+    ],
+    "answer": 0,
+    "translation": "연구자들은 두 집단의 학생에게 어려운 퍼즐을 풀게 했다. 과제 전에 한 집단은 지능이 고정되어 있다는 말을 들었고 다른 집단은 노력으로 뇌가 더 강해진다는 말을 들었다. 퍼즐이 어려워지자 뇌가 성장할 수 있다고 믿은 학생들은 더 오래 노력하고 새로운 전략을 시도했다. 반면 지능이 고정되어 있다고 믿은 학생들은 더 빨리 포기했다. 이 연구는 능력에 대한 우리의 믿음이 도전에 맞서는 방식을 좌우함을 시사한다. ▶ 능력이 성장할 수 있다고 믿는 학생들은 어려움에 처했을 때 끈기 있게 버틸 가능성이 더 높다.",
+    "why": "능력이 성장할 수 있다고 믿은 학생들이 더 오래 노력했으므로 (A)는 grow, (B)는 persist입니다.",
+    "optionNotes": [
+      "정답. 성장할 수 있다고 믿으면 끈기 있게 버팁니다.",
+      "disappear와 relax는 글에 나오지 않습니다.",
+      "stop과 compete은 글과 반대입니다.",
+      "change colors와 hide는 글에 나오지 않습니다.",
+      "be measured와 complain은 글에 나오지 않습니다."
+    ],
+    "trap": "(A)와 (B)가 함께 글의 결과와 맞아야 합니다.",
+    "tip": "요약문은 믿음(grow)과 행동(persist)을 짝지으세요."
+  }
+]

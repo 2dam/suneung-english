@@ -1,0 +1,343 @@
+[
+  {
+    "id": "m3-08-18",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 18,
+    "type": "purpose",
+    "stem": "다음 글을 쓴 목적으로 가장 적절한 것은?",
+    "passage": "Dear Mr. Choi,\nMy name is Jiwoo Han, and I was your student in the ninth-grade science class last year. I am now applying to a science high school, and the application requires a letter of recommendation from a teacher. You know my work in the lab and my interest in robotics better than anyone. I would be very grateful if you could write a letter for me. The deadline is November 20. Thank you very much for your time.\nSincerely,\nJiwoo Han",
+    "options": [
+      "고등학교 입학 시험의 접수 방법과 일정을 선생님께 문의하려고",
+      "과학 수업의 성적 정정을 요청하려고",
+      "고등학교 지원에 필요한 추천서 작성을 부탁하려고",
+      "로봇 동아리의 지도를 부탁하려고",
+      "실험실 사용 허락을 구하려고"
+    ],
+    "answer": 2,
+    "translation": "최 선생님께. 저는 작년에 선생님의 3학년 과학 수업을 들은 한지우입니다. 저는 지금 과학 고등학교에 지원하고 있는데 지원 서류에 교사의 추천서가 필요합니다. 선생님은 저의 실험실 활동과 로봇공학에 대한 관심을 누구보다 잘 아십니다. 저를 위해 추천서를 써 주신다면 정말 감사하겠습니다. 마감은 11월 20일입니다. 시간을 내 주셔서 감사합니다. 한지우 드림.",
+    "why": "'I would be very grateful if you could write a letter for me.'에서 추천서 작성을 부탁하는 글입니다.",
+    "optionNotes": [
+      "입학 시험 접수 문의가 아닙니다.",
+      "성적 정정 요청이 아닙니다.",
+      "정답. 추천서 작성을 부탁합니다.",
+      "동아리 지도 부탁이 아닙니다.",
+      "실험실 사용 허락이 아닙니다."
+    ],
+    "trap": "'interest in robotics'는 추천서를 부탁하는 이유일 뿐입니다.",
+    "tip": "목적 문제는 'I would be grateful if you could ~' 요청 표현을 찾으세요."
+  },
+  {
+    "id": "m3-08-19",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 19,
+    "type": "mood",
+    "stem": "다음 글에 드러난 'I'의 심경 변화로 가장 적절한 것은?",
+    "passage": "I sat in the waiting room, tapping my foot against the floor. The results of my driving test would be announced in a few minutes. My palms were wet, and I could hardly breathe. Finally, the examiner called my name and handed me a paper. I looked at it slowly, and the word \"Pass\" appeared. My shoulders dropped, and a long breath came out of me. I thanked her, smiling, and walked out of the room as if I were floating.",
+    "options": [
+      "bored → annoyed",
+      "proud → ashamed",
+      "lonely → angry",
+      "tense → relieved",
+      "curious → disappointed"
+    ],
+    "answer": 3,
+    "translation": "나는 대기실에 앉아 발로 바닥을 톡톡 쳤다. 운전 시험 결과가 몇 분 뒤에 발표될 예정이었다. 손바닥이 젖었고 숨쉬기도 어려웠다. 마침내 시험관이 내 이름을 부르고 종이를 건넸다. 나는 천천히 그것을 보았고 '합격'이라는 낱말이 나타났다. 어깨가 내려갔고 긴 숨이 나왔다. 나는 미소 지으며 감사 인사를 하고 구름 위를 걷는 듯 방을 걸어 나왔다.",
+    "why": "결과를 기다리며 손바닥이 젖을 만큼 긴장했다가(tense), 합격을 확인하고 긴 숨을 내쉬며 안도했습니다(relieved).",
+    "optionNotes": [
+      "지루함에서 짜증이 아닙니다.",
+      "자랑스러움에서 부끄러움이 아닙니다.",
+      "외로움에서 화남이 아닙니다.",
+      "정답. 긴장에서 안도로 변했습니다.",
+      "호기심에서 실망이 아닙니다."
+    ],
+    "trap": "'floating'을 보고 excited를 고르기 쉽지만 보기에서는 긴장 → 안도가 알맞습니다.",
+    "tip": "신체 반응(wet palms → shoulders dropped)의 변화를 따라가세요."
+  },
+  {
+    "id": "m3-08-20",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 20,
+    "type": "claim",
+    "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+    "passage": "Museums keep the cultural treasures of our society, but many young people rarely visit them. One reason is the cost of tickets. For a family with several children, a single visit can be expensive. Yet the teenage years are exactly when people form their interests and ideas about the world. If museums were free for teenagers, more of them would be exposed to art, history, and science. Therefore, museums should offer free admission to teenagers so that they can grow with culture.",
+    "options": [
+      "박물관은 입장 시간을 늘려야 한다.",
+      "청소년은 안전을 위해 반드시 부모님과 함께만 박물관에 가야 한다.",
+      "박물관의 전시품은 모두 교체되어야 한다.",
+      "박물관은 가족 단위 관람객을 우선해야 한다.",
+      "박물관은 청소년에게 무료로 입장할 수 있도록 해야 한다."
+    ],
+    "answer": 4,
+    "translation": "박물관은 우리 사회의 문화적 보물을 보관하지만 많은 젊은이들은 박물관을 거의 찾지 않는다. 한 가지 이유는 표 값이다. 자녀가 여럿인 가정에는 한 번 방문하는 데도 비용이 많이 들 수 있다. 그러나 십 대 시절은 사람들이 세상에 대한 관심과 생각을 형성하는 바로 그 시기이다. 박물관이 청소년에게 무료라면 더 많은 청소년이 예술, 역사, 과학을 접할 것이다. 그러므로 박물관은 청소년이 문화와 함께 성장할 수 있도록 무료로 입장하게 해야 한다.",
+    "why": "마지막 문장 'museums should offer free admission to teenagers'가 필자의 주장입니다.",
+    "optionNotes": [
+      "입장 시간 이야기는 나오지 않습니다.",
+      "부모와 함께만 가라는 내용은 없습니다.",
+      "전시품 교체는 나오지 않습니다.",
+      "가족 관람객 우선은 나오지 않습니다.",
+      "정답. 청소년에게 무료 입장을 제공해야 합니다."
+    ],
+    "trap": "가족 비용 이야기는 근거일 뿐 주장이 아닙니다.",
+    "tip": "주장 문제는 'Therefore, ~ should ...' 문장을 찾으세요."
+  },
+  {
+    "id": "m3-08-21",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 21,
+    "type": "implied",
+    "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "passage": "Mina joined the school choir, the debate team, the robot club, and the volunteer group in the same month. By the end of the month, she was always tired and missed deadlines. Her teacher told her gently, \"You have {u|bitten off more than you can chew}. Choose the activities that matter most to you.\"",
+    "options": [
+      "taken on a task that is too big to handle",
+      "eaten too much food at a dinner",
+      "learned a new way to cook meals",
+      "found a quick and easy way to finish all of the work",
+      "made a lot of new friends"
+    ],
+    "answer": 0,
+    "translation": "미나는 한 달 동안 학교 합창단, 토론 팀, 로봇 동아리, 봉사 모임에 모두 가입했다. 그 달 말에 그녀는 늘 피곤했고 마감을 놓쳤다. 선생님이 부드럽게 말씀하셨다. \"너는 감당할 수 있는 것보다 더 많이 맡았구나. 너에게 가장 중요한 활동을 골라 보렴.\"",
+    "why": "여러 활동을 맡아 지쳐 마감을 놓쳤으므로 감당할 수 있는 것보다 더 많이 맡았다는 뜻입니다.",
+    "optionNotes": [
+      "정답. 감당하기 어려운 일을 맡았다는 뜻입니다.",
+      "저녁을 너무 많이 먹었다는 뜻이 아닙니다.",
+      "요리법을 배웠다는 뜻이 아닙니다.",
+      "일을 빨리 끝낼 방법이 아닙니다.",
+      "친구를 많이 사귀었다는 뜻이 아닙니다."
+    ],
+    "trap": "'bite'와 'chew'를 문자 그대로 해석하면 ②를 고르게 됩니다.",
+    "tip": "관용 표현은 앞 문장(피곤함, 마감을 놓침)과 뒤 문장(중요한 활동을 고르라)에서 의미를 추론하세요."
+  },
+  {
+    "id": "m3-08-22",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 22,
+    "type": "gist",
+    "stem": "다음 글의 요지로 가장 적절한 것은?",
+    "passage": "When you hear a criticism, your first reaction might be to defend yourself. However, the people who improve the fastest are those who listen to feedback calmly. Criticism, even if it is uncomfortable, points out things that we cannot see by ourselves. Instead of asking, \"Why are they attacking me?\" we should ask, \"What can I learn from this?\" Many successful people say that honest feedback was the turning point in their careers. This simple change in thinking turns criticism into an opportunity for growth.",
+    "options": [
+      "비판을 성장의 기회로 받아들이는 태도가 중요하다.",
+      "다른 사람을 비판하기 전에 신중해야 한다.",
+      "자신을 변호하는 것이 가장 효과적인 방법이다.",
+      "비판을 받으면 상처를 받지 않도록 그 사람과 거리를 두어야 한다.",
+      "칭찬만 듣는 것이 자신감을 높인다."
+    ],
+    "answer": 0,
+    "translation": "비판을 들으면 첫 반응은 자신을 변호하는 것일 수 있다. 그러나 가장 빨리 성장하는 사람들은 피드백을 차분히 듣는 사람들이다. 비판은 불편하더라도 우리가 스스로 볼 수 없는 것을 짚어 준다. \"왜 나를 공격하지?\"라고 묻는 대신 \"이것에서 무엇을 배울 수 있을까?\"라고 물어야 한다. 이 간단한 생각의 변화가 비판을 성장의 기회로 바꾼다.",
+    "why": "비판을 성장의 기회로 받아들이는 생각의 변화가 중요하다는 것이 요지입니다.",
+    "optionNotes": [
+      "정답. 비판을 성장의 기회로 받아들여야 합니다.",
+      "비판하기 전의 신중함은 나오지 않습니다.",
+      "변호가 효과적이라는 내용은 글과 반대입니다.",
+      "거리를 두라는 내용은 없습니다.",
+      "칭찬만 듣자는 내용은 글과 반대입니다."
+    ],
+    "trap": "첫 문장의 'defend yourself'를 필자의 권고로 오해하지 마세요.",
+    "tip": "However 뒤와 마지막 문장이 요지를 담습니다."
+  },
+  {
+    "id": "m3-08-23",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 23,
+    "type": "topic",
+    "stem": "다음 글의 주제로 가장 적절한 것은?",
+    "passage": "Many animals that live in cold regions have special ways to stay alive in winter. Bears eat a great deal of food in autumn and then sleep for months, using the stored fat for energy. Some frogs can freeze almost completely and then come back to life when the weather gets warmer. Arctic foxes grow thick white fur that keeps them warm and hides them in the snow. These adaptations allow animals to survive in places where food is scarce and the temperature is extremely low. Each method is different, but all of them work.",
+    "options": [
+      "why bears are dangerous for hikers in the forest",
+      "how white fur helps foxes find food at night",
+      "the reasons why frogs live near rivers",
+      "how animals survive the cold of winter",
+      "the best places to see wild animals in the snow"
+    ],
+    "answer": 3,
+    "translation": "추운 지역에 사는 많은 동물은 겨울에 살아남는 특별한 방법이 있다. 곰은 가을에 많은 음식을 먹고 몇 달 동안 자면서 저장된 지방을 에너지로 쓴다. 일부 개구리는 거의 완전히 얼었다가 날씨가 따뜻해지면 되살아난다. 북극여우는 몸을 따뜻하게 하고 눈 속에 몸을 숨겨 주는 두껍고 하얀 털이 자란다. 이런 적응은 먹이가 부족하고 기온이 극히 낮은 곳에서 동물이 살아남게 한다.",
+    "why": "추운 겨울을 견디는 여러 동물의 방법을 소개하는 글입니다.",
+    "optionNotes": [
+      "곰의 위험성은 나오지 않습니다.",
+      "여우의 사냥은 나오지 않습니다.",
+      "개구리의 서식지는 나오지 않습니다.",
+      "정답. 동물이 겨울 추위를 견디는 방법입니다.",
+      "관찰 장소는 나오지 않습니다."
+    ],
+    "trap": "①②③은 지문의 동물 이름만 가져온 보기입니다. 주제는 겨울을 살아남는 적응입니다.",
+    "tip": "여러 사례를 묶는 상위 개념(survive the cold)을 주제로 고르세요."
+  },
+  {
+    "id": "m3-08-24",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 24,
+    "type": "title",
+    "stem": "다음 글의 제목으로 가장 적절한 것은?",
+    "passage": "Every year, thousands of tons of coffee grounds are thrown away from cafés. A few start-ups have found a creative way to reuse them. They collect the grounds and use them to grow mushrooms, which need dark, moist places to grow. Others turn the grounds into fuel pellets or into a material for making cups. In this way, what was once waste becomes a valuable resource, and the cafés save the cost of waste disposal.",
+    "options": [
+      "From Trash to Treasure: New Lives for Coffee Grounds",
+      "The Best Way to Make a Delicious Cup of Coffee at Home Every Day",
+      "Why Cafés Are Losing Customers",
+      "A Guide to Growing Mushrooms Safely",
+      "The History of Coffee Around the World"
+    ],
+    "answer": 0,
+    "translation": "해마다 수천 톤의 커피 찌꺼기가 카페에서 버려진다. 몇몇 스타트업이 이를 재사용할 창의적인 방법을 찾았다. 그들은 찌꺼기를 모아 어둡고 습한 곳이 필요한 버섯을 키우는 데 쓴다. 다른 곳들은 찌꺼기를 연료 펠릿이나 컵을 만드는 재료로 바꾼다. 이렇게 한때 쓰레기였던 것이 가치 있는 자원이 되고 카페는 폐기 비용을 아낀다.",
+    "why": "버려지는 커피 찌꺼기를 새 용도로 재사용하는 내용이므로 ①이 제목입니다.",
+    "optionNotes": [
+      "정답. 쓰레기에서 보물로, 커피 찌꺼기의 새 삶입니다.",
+      "커피 만드는 법은 나오지 않습니다.",
+      "카페 손님 감소는 나오지 않습니다.",
+      "버섯 재배 안내는 일부일 뿐입니다.",
+      "커피의 역사는 나오지 않습니다."
+    ],
+    "trap": "④는 지문의 한 사례(mushrooms)를 전체 주제로 착각한 보기입니다.",
+    "tip": "제목은 여러 사례를 아우르는 핵심(reuse of waste)을 담으세요."
+  },
+  {
+    "id": "m3-08-25",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 25,
+    "type": "chart",
+    "stem": "다음 도표의 내용과 일치하지 않는 것은?",
+    "chart": {
+      "title": "Ways Students Spend Their Weekends (%)",
+      "unit": "%",
+      "labels": [
+        "Sleep in",
+        "Hang out",
+        "Study",
+        "Hobbies",
+        "Part-time job"
+      ],
+      "series": [
+        {
+          "name": "Grade 7",
+          "values": [
+            25,
+            30,
+            15,
+            25,
+            5
+          ]
+        },
+        {
+          "name": "Grade 9",
+          "values": [
+            20,
+            20,
+            30,
+            20,
+            10
+          ]
+        }
+      ]
+    },
+    "passage": "The graph shows how Grade 7 and Grade 9 students spend their weekends. ① Grade 7 students chose hanging out the most. ② Grade 9 students chose hobbies more than studying. ③ Studying showed the largest increase from Grade 7 to Grade 9. ④ The rate of part-time jobs in Grade 9 was twice that of Grade 7. ⑤ The percentage of sleeping in decreased from Grade 7 to Grade 9.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "그래프는 7학년과 9학년 학생들이 주말을 보내는 방식을 보여 준다. ① 7학년 학생은 친구와 어울리기를 가장 많이 선택했다. ② 9학년 학생은 공부보다 취미를 더 많이 선택했다. ③ 공부는 7학년에서 9학년으로 가며 가장 크게 늘었다. ④ 9학년의 아르바이트 비율은 7학년의 두 배였다. ⑤ 늦잠 비율은 7학년에서 9학년으로 가며 줄었다.",
+    "why": "9학년은 공부 30%, 취미 20%이므로 취미를 더 많이 선택했다는 ②는 일치하지 않습니다.",
+    "optionNotes": [
+      "7학년은 친구와 어울리기 30%로 가장 많습니다.",
+      "정답(불일치). 9학년은 공부가 취미보다 많습니다.",
+      "공부는 15%에서 30%로 15포인트 늘어 가장 큽니다.",
+      "아르바이트는 5%에서 10%로 두 배입니다.",
+      "늦잠은 25%에서 20%로 줄었습니다."
+    ],
+    "trap": "9학년 계열만 읽어야 하는데 7학년 수치와 혼동하기 쉽습니다.",
+    "tip": "집단이 명시된 보기는 해당 집단의 막대만 읽으세요."
+  },
+  {
+    "id": "m3-08-26",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 26,
+    "type": "match",
+    "stem": "Haneul Kang에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Haneul Kang is a young inventor from a small town in Korea. When she was eleven, she noticed that her grandmother often lost her glasses. So she built a small device. It makes a sound when you clap your hands. At fifteen, she won first prize at a national science fair. Her device helps blind people cross the street safely. She now studies engineering at a university. She plans to make her inventions available at low prices for people who need them.",
+    "options": [
+      "할머니가 안경을 자주 잃어버리는 것을 보고 발명품을 만들었다.",
+      "열다섯 살에 해외 과학 박람회에서 우승했다.",
+      "시각 장애인이 일상에서 쓸 수 있는 특수 안경을 개발해서 큰 상을 받았다.",
+      "대학에서 의학을 공부하고 있다.",
+      "발명품을 비싼 가격에 팔 계획이다."
+    ],
+    "answer": 0,
+    "translation": "강하늘은 한국의 작은 마을 출신의 젊은 발명가이다. 열한 살 때 그녀는 할머니가 안경을 자주 잃어버리는 것을 알아채고 손뼉을 치면 소리가 나는 작은 장치를 만들었다. 열다섯 살에는 시각 장애인이 길을 안전하게 건너도록 돕는 장치로 전국 과학 박람회에서 1등을 했다. 지금 그녀는 대학에서 공학을 공부하며 필요한 사람들이 낮은 가격으로 발명품을 이용할 수 있게 할 계획이다.",
+    "why": "'she noticed that her grandmother often lost her glasses, so she built a small device'와 일치합니다.",
+    "optionNotes": [
+      "정답. 할머니의 안경 분실을 계기로 장치를 만들었습니다.",
+      "전국 과학 박람회에서 우승했습니다.",
+      "안경이 아니라 길 건너기를 돕는 장치입니다.",
+      "공학을 공부합니다.",
+      "낮은 가격으로 제공할 계획입니다."
+    ],
+    "trap": "나라(national/international), 전공(engineering/medicine)을 바꾼 보기에 주의하세요.",
+    "tip": "일치 문제는 나이별 사건(열한 살, 열다섯 살, 현재)을 대조하세요."
+  },
+  {
+    "id": "m3-08-27",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 27,
+    "type": "notice",
+    "stem": "Weekend Language Exchange Café에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Weekend Language Exchange Café\nMeet new friends and practice languages!\nDate: Every Saturday\nTime: 2:00 p.m. – 4:00 p.m.\nPlace: Hanbit Community Center, Room 3\nLanguages: English, Spanish, Korean, and Chinese\nFee: Free (drinks cost $2 each)\nNote: No registration is required, but each table is limited to six people.",
+    "options": [
+      "참가하려면 최소 일주일 전에 미리 사전 등록을 해야 한다.",
+      "한 테이블에는 여섯 명까지 앉을 수 있다.",
+      "음료는 무료로 제공된다.",
+      "일요일 오후에 열린다.",
+      "영어 수업만 진행된다."
+    ],
+    "answer": 1,
+    "translation": "주말 언어 교환 카페. 새 친구를 만나고 언어를 연습하세요! 날짜: 매주 토요일. 시간: 오후 2시~4시. 장소: 한빛 주민센터 3호실. 언어: 영어, 스페인어, 한국어, 중국어. 참가비: 무료(음료는 한 잔에 2달러). 유의: 사전 등록은 필요 없지만 한 테이블은 여섯 명으로 제한됩니다.",
+    "why": "'each table is limited to six people'과 일치합니다.",
+    "optionNotes": [
+      "사전 등록은 필요하지 않습니다.",
+      "정답. 한 테이블은 여섯 명으로 제한됩니다.",
+      "음료는 한 잔에 2달러입니다.",
+      "토요일에 열립니다.",
+      "여러 언어를 연습합니다."
+    ],
+    "trap": "'Free'를 보고 음료도 무료라고 착각하기 쉽습니다.",
+    "tip": "괄호 안의 정보(drinks cost $2)와 Note를 함께 확인하세요."
+  },
+  {
+    "id": "m3-08-28",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 28,
+    "type": "notice",
+    "stem": "Fire Safety Training에 관한 다음 안내문의 내용과 일치하지 않는 것은?",
+    "passage": "Fire Safety Training for Students\nDate: Wednesday, November 6\nTime: 1:00 p.m. – 3:00 p.m.\nPlace: School Playground (Gym in case of rain)\nProgram: Fire extinguisher practice, emergency evacuation drill, and first-aid lessons\nInstructors: Members of the City Fire Department\nNote: Wear comfortable sports clothes. Participants will receive a certificate of completion.",
+    "options": [
+      "수요일 오후에 진행된다.",
+      "비가 올 경우에는 운동장 대신 체육관에서 교육을 한다.",
+      "교육은 학교 선생님들이 직접 진행한다.",
+      "소화기 사용 연습이 포함된다.",
+      "이수 증명서를 받을 수 있다."
+    ],
+    "answer": 2,
+    "translation": "학생 소방 안전 교육. 날짜: 11월 6일 수요일. 시간: 오후 1시~3시. 장소: 학교 운동장(비가 오면 체육관). 프로그램: 소화기 사용 연습, 비상 대피 훈련, 응급 처치 수업. 강사: 시 소방서 대원. 유의: 편한 운동복을 입으세요. 참가자는 이수 증명서를 받습니다.",
+    "why": "'Instructors: Members of the City Fire Department'이므로 학교 선생님이 직접 진행한다는 ③은 일치하지 않습니다.",
+    "optionNotes": [
+      "Wednesday, 1:00 p.m.과 일치합니다.",
+      "Gym in case of rain과 일치합니다.",
+      "정답(불일치). 강사는 시 소방서 대원입니다.",
+      "Fire extinguisher practice와 일치합니다.",
+      "certificate of completion과 일치합니다."
+    ],
+    "trap": "'School Playground'만 보고 학교에서 진행한다고 착각하지 마세요. 강사는 소방서 대원입니다.",
+    "tip": "Instructors 항목처럼 주체를 묻는 항목을 확인하세요."
+  }
+]
