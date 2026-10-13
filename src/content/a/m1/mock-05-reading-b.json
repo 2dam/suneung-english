@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m1-05-29",
+    "level": "m1",
+    "set": "mock-05",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "There {1|is} three pandas in the zoo. They {2|eat} bamboo all day. A zookeeper {3|brings} fresh bamboo every morning. The baby pandas {4|play} with each other. They {5|look} so cute.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "동물원에는 판다가 세 마리 있다. 그들은 하루 종일 대나무를 먹는다. 사육사는 매일 아침 신선한 대나무를 가져온다. 아기 판다들은 서로 함께 논다. 그들은 정말 귀여워 보인다.",
+    "why": "'three pandas'는 복수이므로 'There is'가 아니라 'There are'여야 합니다.",
+    "optionNotes": [
+      "정답(틀린 것). 복수 명사 앞이므로 are여야 합니다.",
+      "주어 They에 맞는 eat입니다.",
+      "주어 A zookeeper가 3인칭 단수이므로 brings가 맞습니다.",
+      "복수 주어 The baby pandas에 맞는 play입니다.",
+      "look + 형용사가 맞습니다."
+    ],
+    "trap": "There is/are 구문은 동사 뒤의 명사에 수를 일치시킵니다.",
+    "tip": "There is/are 뒤의 명사(three pandas)가 단수인지 복수인지 확인하세요."
+  },
+  {
+    "id": "m1-05-30",
+    "level": "m1",
+    "set": "mock-05",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Yesterday was my birthday. I invited five friends to my house. We {1|sang} songs, {2|played} games, and ate a big cake. My mom {3|baked} it for me. At the end of the party, my friends gave me {4|punishments}. We {5|took} many photos together.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "어제는 내 생일이었다. 나는 다섯 명의 친구를 집에 초대했다. 우리는 노래를 부르고 게임을 하고 큰 케이크를 먹었다. 엄마가 나를 위해 구워 주셨다. 파티가 끝날 때 친구들이 내게 선물을 주었다. 우리는 함께 사진을 많이 찍었다.",
+    "why": "생일 파티에서 친구들이 주는 것이므로 'punishments(벌)'가 아니라 'presents(선물)'여야 합니다.",
+    "optionNotes": [
+      "노래를 불렀다는 의미로 sang이 알맞습니다.",
+      "게임을 했다는 의미로 played가 알맞습니다.",
+      "케이크를 구웠다는 의미로 baked가 알맞습니다.",
+      "정답(부적절). 생일에 받는 것은 presents입니다.",
+      "사진을 찍었다는 의미로 took이 알맞습니다."
+    ],
+    "trap": "철자가 비슷한 낱말(presents/punishments)은 형태에 속지 말고 의미를 확인하세요.",
+    "tip": "어휘 문제는 상황(birthday party)에 맞는 낱말인지 확인하세요."
+  },
+  {
+    "id": "m1-05-31",
+    "level": "m1",
+    "set": "mock-05",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A camel can live in the desert for many days without water. It stores fat in its hump, not water. When the camel needs energy, the body changes the fat into energy and a little water. This is why a camel can __________.",
+    "options": [
+      "run faster than a horse",
+      "sleep on the snow",
+      "eat meat every day",
+      "jump over a very high fence in just a few seconds",
+      "go without food and water for a long time"
+    ],
+    "answer": 4,
+    "translation": "낙타는 물 없이도 사막에서 여러 날 살 수 있다. 낙타는 혹에 물이 아니라 지방을 저장한다. 낙타가 에너지가 필요하면 몸이 지방을 에너지와 약간의 물로 바꾼다. 이것이 낙타가 음식과 물 없이 오랫동안 지낼 수 있는 이유이다.",
+    "why": "혹의 지방을 에너지와 물로 바꾸므로 오랫동안 먹지 않아도 견딜 수 있습니다.",
+    "optionNotes": [
+      "속도 이야기는 나오지 않습니다.",
+      "눈 위에서 잔다는 내용은 없습니다.",
+      "고기 이야기는 없습니다.",
+      "높이뛰기는 나오지 않습니다.",
+      "정답. 음식과 물 없이 오래 지낼 수 있습니다."
+    ],
+    "trap": "'desert'에서 떠올린 상식(빠르다 등)이 아니라 글의 근거를 확인하세요.",
+    "tip": "빈칸 앞의 'This is why' 앞 문장이 직접 단서입니다."
+  },
+  {
+    "id": "m1-05-32",
+    "level": "m1",
+    "set": "mock-05",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A good friend is not someone who plays with you only when you are happy. A good friend also listens when you are sad. When you have a problem, a good friend helps you think about it. A true friend is someone who __________.",
+    "options": [
+      "buys you a new gift every week and gives you money",
+      "stays with you in good times and bad times",
+      "always agrees with everything you say",
+      "lives in the same house as you",
+      "is better than you at every game"
+    ],
+    "answer": 1,
+    "translation": "좋은 친구는 네가 행복할 때만 같이 노는 사람이 아니다. 좋은 친구는 네가 슬플 때도 들어 준다. 문제가 있을 때 좋은 친구는 함께 생각해 준다. 진정한 친구는 좋을 때도 나쁠 때도 곁에 있어 주는 사람이다.",
+    "why": "행복할 때뿐 아니라 슬플 때도 곁에 있다고 했으므로 좋을 때나 나쁠 때나 함께한다는 말이 알맞습니다.",
+    "optionNotes": [
+      "선물 이야기는 없습니다.",
+      "정답. 좋을 때나 나쁠 때나 곁에 있습니다.",
+      "항상 동의한다는 내용은 없습니다.",
+      "같이 사는 것은 나오지 않습니다.",
+      "게임 실력은 나오지 않습니다."
+    ],
+    "trap": "③은 친구에게 호의적인 말처럼 보이지만 글에 나오지 않습니다.",
+    "tip": "'not A but B' 구조에서 빈칸은 B와 같은 방향입니다."
+  },
+  {
+    "id": "m1-05-33",
+    "level": "m1",
+    "set": "mock-05",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Before her trip, Jisu made a packing list. She wrote down her clothes, toothbrush, and camera. When she packed her bag, she checked each item one by one. In the end, she didn't forget anything. A list helps us __________.",
+    "options": [
+      "walk much faster on the street than other people do",
+      "sleep more at night",
+      "speak other languages",
+      "run farther than before",
+      "remember what we need to do or bring"
+    ],
+    "answer": 4,
+    "translation": "여행 전에 지수는 짐 목록을 만들었다. 그녀는 옷, 칫솔, 카메라를 적었다. 가방을 쌀 때 그녀는 물건을 하나씩 확인했다. 결국 아무것도 잊지 않았다. 목록은 우리가 해야 할 일이나 챙길 것을 기억하도록 돕는다.",
+    "why": "목록으로 하나씩 확인해 잊지 않았으므로 해야 할 일이나 챙길 것을 기억하게 돕는다는 말이 알맞습니다.",
+    "optionNotes": [
+      "걷는 속도는 나오지 않습니다.",
+      "잠 이야기는 나오지 않습니다.",
+      "언어는 나오지 않습니다.",
+      "달리기는 나오지 않습니다.",
+      "정답. 목록이 기억을 돕습니다."
+    ],
+    "trap": "여행 이야기라 ①④를 고르기 쉽지만 목록의 기능과는 무관합니다.",
+    "tip": "빈칸의 직전 문장(didn't forget anything)이 정답의 근거입니다."
+  },
+  {
+    "id": "m1-05-34",
+    "level": "m1",
+    "set": "mock-05",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Why do we sweat? When we exercise, our body gets hot. Then sweat comes out of our skin. As the sweat dries, our skin becomes cooler. Our body does this by itself, and it is a smart way to stay safe. So sweating helps our body __________.",
+    "options": [
+      "grow taller",
+      "stay at a good temperature",
+      "become much heavier than before the exercise",
+      "see in the dark",
+      "hear small sounds"
+    ],
+    "answer": 1,
+    "translation": "우리는 왜 땀을 흘릴까? 운동하면 몸이 뜨거워진다. 그러면 피부에서 땀이 나온다. 땀이 마르면서 피부가 시원해진다. 우리 몸은 이것을 스스로 하며, 안전을 지키는 영리한 방법이다. 그래서 땀을 흘리는 것은 몸이 알맞은 온도를 유지하도록 돕는다.",
+    "why": "몸이 뜨거워지면 땀이 나와 식혀 주므로 알맞은 체온을 유지하도록 돕습니다.",
+    "optionNotes": [
+      "키 이야기는 나오지 않습니다.",
+      "정답. 알맞은 온도를 유지합니다.",
+      "몸무게는 나오지 않습니다.",
+      "어둠에서 보는 것은 관련이 없습니다.",
+      "작은 소리를 듣는 것은 관련이 없습니다."
+    ],
+    "trap": "땀과 관련 없는 신체 능력을 고르지 마세요.",
+    "tip": "과정(hot → sweat → cooler)의 결과가 빈칸입니다."
+  },
+  {
+    "id": "m1-05-35",
+    "level": "m1",
+    "set": "mock-05",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Pets are good for children. ① They teach children to be responsible. ② Children learn to be kind to animals. ③ Playing with pets makes them happy. ④ Many people like to travel to other countries in summer. ⑤ So pets can be good friends for children.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "반려동물은 어린이에게 좋다. ① 아이들에게 책임감을 가르친다. ② 아이들은 동물에게 친절한 법을 배운다. ③ 반려동물과 노는 것은 아이들을 행복하게 한다. ④ 많은 사람들은 여름에 다른 나라로 여행하는 것을 좋아한다. ⑤ 그래서 반려동물은 아이들에게 좋은 친구가 될 수 있다.",
+    "why": "글은 반려동물이 어린이에게 좋은 점을 설명하는데 ④는 여름 여행 이야기라 흐름과 관계가 없습니다.",
+    "optionNotes": [
+      "반려동물의 장점입니다.",
+      "반려동물의 장점입니다.",
+      "반려동물의 장점입니다.",
+      "정답(무관). 여행 이야기입니다.",
+      "결론입니다."
+    ],
+    "trap": "'summer', 'travel'은 흔한 소재라 자연스러워 보이지만 주제와 무관합니다.",
+    "tip": "무관한 문장은 중심 소재(pets)와 연결되지 않는 문장입니다."
+  },
+  {
+    "id": "m1-05-36",
+    "level": "m1",
+    "set": "mock-05",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Amy found a letter in the mailbox.\n(A) She was so happy that she wrote a long reply that night.\n(B) There, she opened the envelope carefully and read it twice.\n(C) She picked it up and ran into her room.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 4,
+    "translation": "Amy는 우편함에서 편지를 발견했다. (C) 그녀는 그것을 집어 들고 자기 방으로 뛰어갔다. (B) 그곳에서 그녀는 봉투를 조심스럽게 열고 두 번 읽었다. (A) 그녀는 너무 기뻐서 그날 밤 긴 답장을 썼다.",
+    "why": "(C) 방으로 뛰어감 → (B) 'There'(방)에서 읽음 → (A) 기뻐서 답장을 씀 순서입니다.",
+    "optionNotes": [
+      "(A)의 답장이 읽기(B) 전에 올 수 없습니다.",
+      "(A)의 답장이 (B) 바로 뒤에 오면 (C)가 마지막이 되어 부자연스럽습니다.",
+      "(B)의 'There'가 가리킬 장소가 앞에 없습니다.",
+      "(A)가 읽기 전에 오면 'so happy'의 이유가 없습니다.",
+      "정답. 방으로 감 → 읽음 → 답장."
+    ],
+    "trap": "(B)의 'read it'이 처음처럼 보이지만 'There'가 장소를 가리키므로 (C) 뒤에 옵니다.",
+    "tip": "There, Then 같은 부사가 가리키는 앞 내용을 먼저 찾으세요."
+  },
+  {
+    "id": "m1-05-37",
+    "level": "m1",
+    "set": "mock-05",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Tim wanted to make a paper airplane.\n(A) Finally, he threw it, and it flew across the room.\n(B) First, he folded a sheet of paper in half.\n(C) Next, he folded the two top corners to the center.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 2,
+    "translation": "Tim은 종이비행기를 만들고 싶었다. (B) 먼저 그는 종이 한 장을 반으로 접었다. (C) 다음으로 그는 위쪽 두 모서리를 가운데로 접었다. (A) 마지막으로 그는 그것을 던졌고 방을 가로질러 날았다.",
+    "why": "First → Next → Finally의 순서어로 (B) → (C) → (A)입니다.",
+    "optionNotes": [
+      "Finally는 마지막이어야 합니다.",
+      "Next가 First 뒤에 와야 합니다.",
+      "정답. First → Next → Finally.",
+      "First가 Next 앞에 와야 합니다.",
+      "First가 마지막에 올 수 없습니다."
+    ],
+    "trap": "(A)의 'it flew'가 결과라 마지막이 맞지만 First와 Next의 순서를 놓치기 쉽습니다.",
+    "tip": "First, Next, Finally 같은 순서어를 먼저 표시하세요."
+  },
+  {
+    "id": "m1-05-38",
+    "level": "m1",
+    "set": "mock-05",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nBut that is only a myth, not a fact.\n\n[글]\nMany people say that carrots help us see in the dark. ( ① ) Carrots have vitamin A, which keeps our eyes healthy. ( ② ) However, eating many carrots will not give you night vision. ( ③ ) So you still need a flashlight in the dark. ( ④ ) Eating many kinds of vegetables is best for your eyes. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "[주어진 문장] 하지만 그것은 사실이 아니라 근거 없는 이야기이다. [글] 많은 사람들은 당근이 어둠 속에서 보도록 도와준다고 말한다. 당근에는 눈을 건강하게 해 주는 비타민 A가 있다. 그러나 당근을 많이 먹는다고 야간 시력이 생기지는 않는다. 그래서 어둠 속에서는 여전히 손전등이 필요하다. 다양한 채소를 먹는 것이 눈에 가장 좋다.",
+    "why": "주어진 문장의 'that'은 첫 문장의 주장(당근이 어둠 속에서 보게 한다)을 가리키므로 ①에 들어갑니다.",
+    "optionNotes": [
+      "정답. 첫 문장의 주장에 바로 반박합니다.",
+      "비타민 A라는 사실 뒤라 반박이 어색합니다.",
+      "이미 'However'로 반박한 뒤입니다.",
+      "결론 부분이라 어색합니다.",
+      "결론 뒤라 어색합니다."
+    ],
+    "trap": "③의 'However' 근처를 고르기 쉽지만, 주어진 문장은 처음 나온 주장 바로 뒤에서 반박합니다.",
+    "tip": "'But that is ~'는 바로 앞의 주장을 가리킵니다."
+  },
+  {
+    "id": "m1-05-39",
+    "level": "m1",
+    "set": "mock-05",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nAt first, she was afraid of the water.\n\n[글]\nLast summer, Mia learned to swim. ( ① ) But her coach was patient and taught her step by step. ( ② ) After a month, she could float on her back. ( ③ ) Now she is ready to join a swimming race. ( ④ ) She says swimming is the best sport. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "[주어진 문장] 처음에 그녀는 물을 무서워했다. [글] 지난여름 Mia는 수영을 배웠다. 하지만 그녀의 코치는 인내심이 있어서 한 단계씩 가르쳤다. 한 달 뒤 그녀는 등으로 뜰 수 있었다. 이제 그녀는 수영 경기에 나갈 준비가 되었다. 그녀는 수영이 가장 좋은 운동이라고 말한다.",
+    "why": "'But her coach was patient'의 'But'이 무서워했다는 내용과 대비되므로 주어진 문장은 ①에 들어갑니다.",
+    "optionNotes": [
+      "정답. 'But'으로 이어지는 대비가 성립합니다.",
+      "'But' 앞에 이미 대비할 내용이 있어야 합니다.",
+      "수영을 배운 뒤의 이야기라 'At first'가 어색합니다.",
+      "경기 준비 단계라 어색합니다.",
+      "마지막 평가 문장이라 어색합니다."
+    ],
+    "trap": "'At first'만 보고 처음에 오는 것은 맞지만, 뒤의 'But'과의 연결을 확인해야 합니다.",
+    "tip": "접속어(But)가 있는 문장은 그 앞에 대비되는 내용이 와야 합니다."
+  },
+  {
+    "id": "m1-05-40",
+    "level": "m1",
+    "set": "mock-05",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Researchers asked 100 people to join a short activity. One group sang together for an hour. The other group only talked for an hour. After the activity, the singing group said they felt much closer to each other. Many of them also felt happier.\n\n▶ Singing (A) can make people feel (B) to each other.",
+    "options": [
+      "(A) alone — (B) tired",
+      "(A) loudly — (B) sleepy",
+      "(A) slowly — (B) hungry",
+      "(A) together — (B) closer",
+      "(A) quietly — (B) angrier"
+    ],
+    "answer": 3,
+    "translation": "연구자들은 100명에게 짧은 활동에 참여하게 했다. 한 집단은 한 시간 동안 함께 노래했다. 다른 집단은 한 시간 동안 이야기만 했다. 활동 후 노래한 집단은 서로 훨씬 더 가깝게 느낀다고 말했다. 그들 중 많은 사람은 더 행복하다고도 느꼈다. ▶ 함께 노래하는 것은 사람들이 서로 더 가깝게 느끼게 할 수 있다.",
+    "why": "함께 노래한 집단이 서로 더 가깝게 느꼈으므로 (A)는 together, (B)는 closer입니다.",
+    "optionNotes": [
+      "혼자 노래한다는 내용이 아닙니다.",
+      "크게 부른다는 내용은 없습니다.",
+      "천천히 부른다는 내용은 없습니다.",
+      "정답. 함께 노래하면 더 가깝게 느낍니다.",
+      "조용히 부르거나 화난다는 내용은 없습니다."
+    ],
+    "trap": "(A)가 together인 보기를 찾으면 정답이 하나로 좁혀집니다.",
+    "tip": "요약문은 활동(sing together)과 결과(closer)를 글에서 그대로 찾으세요."
+  }
+]
