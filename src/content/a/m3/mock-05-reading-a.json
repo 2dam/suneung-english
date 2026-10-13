@@ -1,0 +1,343 @@
+[
+  {
+    "id": "m3-05-18",
+    "level": "m3",
+    "set": "mock-05",
+    "no": 18,
+    "type": "purpose",
+    "stem": "다음 글을 쓴 목적으로 가장 적절한 것은?",
+    "passage": "Dear Residents of Maple Apartments,\nWe are writing to inform you that the water supply to the entire building will be shut off on Saturday, October 12, from 9:00 a.m. to 3:00 p.m. Workers will replace old pipes during that time. We recommend that you store enough water for drinking, cooking, and washing in advance. We kindly ask all residents to cooperate. We apologize for any inconvenience this may cause, and we thank you for your understanding.\nSincerely,\nThe Management Office",
+    "options": [
+      "다음 달부터 수도 요금이 크게 인상됨을 입주민에게 알리려고",
+      "단수 일정을 알리고 대비를 당부하려고",
+      "새로운 정수기의 설치를 안내하려고",
+      "관리비 납부를 독촉하려고",
+      "아파트 청소 봉사자를 모집하려고"
+    ],
+    "answer": 1,
+    "translation": "메이플 아파트 입주민 여러분께. 10월 12일 토요일 오전 9시부터 오후 3시까지 건물 전체의 수돗물 공급이 중단됨을 알려 드립니다. 그 시간 동안 작업자들이 낡은 배관을 교체합니다. 마시고, 요리하고, 씻는 데 필요한 물을 미리 받아 두시기를 권해 드립니다. 모든 입주민의 협조를 부탁드립니다. 불편을 드려 죄송하며 이해해 주셔서 감사합니다. 관리 사무소 드림.",
+    "why": "수돗물 공급 중단 일정을 알리고 미리 물을 받아 두라고 당부하는 글입니다.",
+    "optionNotes": [
+      "요금 인상은 나오지 않습니다.",
+      "정답. 단수 일정과 대비를 안내합니다.",
+      "정수기 설치는 나오지 않습니다.",
+      "관리비 납부는 나오지 않습니다.",
+      "봉사자 모집은 나오지 않습니다."
+    ],
+    "trap": "배관 교체는 단수의 이유일 뿐 글의 목적이 아닙니다.",
+    "tip": "공지문의 목적은 'We are writing to inform you that ~' 뒤에 나옵니다."
+  },
+  {
+    "id": "m3-05-19",
+    "level": "m3",
+    "set": "mock-05",
+    "no": 19,
+    "type": "mood",
+    "stem": "다음 글에 드러난 'I'의 심경 변화로 가장 적절한 것은?",
+    "passage": "While I was cleaning my room, my elbow hit the mug that Jena had given me for my birthday. It fell and broke into three pieces. My stomach sank, because it was her favorite mug, and she had lent it to me for my cold. I could hardly look at her when I told her what happened. To my surprise, she just smiled and said, \"It's only a mug. I'm glad you're okay.\" The heavy feeling in my chest disappeared, and we went out to buy a new one together.",
+    "options": [
+      "bored → curious",
+      "excited → jealous",
+      "calm → furious",
+      "proud → lonely",
+      "guilty → relieved"
+    ],
+    "answer": 4,
+    "translation": "방을 청소하다가 내 팔꿈치가 Jena가 생일 선물로 준 머그컵을 쳤다. 컵은 떨어져 세 조각으로 깨졌다. 가슴이 철렁했다. 그것은 그녀가 가장 아끼는 컵이었고 감기에 걸린 나에게 빌려준 것이었다. 무슨 일이 있었는지 말할 때 나는 그녀를 쳐다보기도 어려웠다. 놀랍게도 그녀는 미소 지으며 말했다. \"그냥 컵일 뿐이야. 네가 괜찮아서 다행이야.\" 가슴을 짓누르던 무거운 느낌이 사라졌고 우리는 함께 새 컵을 사러 나갔다.",
+    "why": "컵을 깨뜨려 미안하고 죄책감이 들었다가(guilty), 친구가 괜찮다고 하자 마음이 풀렸습니다(relieved).",
+    "optionNotes": [
+      "지루함이나 호기심이 아닙니다.",
+      "신남이나 질투가 아닙니다.",
+      "차분함에서 격분이 아닙니다.",
+      "자랑스러움이나 외로움이 아닙니다.",
+      "정답. 죄책감에서 안도로 변했습니다."
+    ],
+    "trap": "친구가 화내지 않았다는 점을 놓치고 ③을 고르지 마세요. 감정 변화의 주체는 'I'입니다.",
+    "tip": "심경 변화는 신체 반응(stomach sank → heavy feeling disappeared)을 따라가세요."
+  },
+  {
+    "id": "m3-05-20",
+    "level": "m3",
+    "set": "mock-05",
+    "no": 20,
+    "type": "claim",
+    "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+    "passage": "A grade tells students how well they did, but it does not tell them why. A student who receives a B on an essay may not know whether the problem was the structure, the grammar, or the ideas. Without that information, it is difficult to improve. Many students simply accept the result and move on. Specific written comments, on the other hand, point out strengths and show exactly what to work on next. Therefore, teachers should give detailed feedback along with grades.",
+    "options": [
+      "교사는 점수와 함께 구체적인 피드백을 주어야 한다.",
+      "학생들은 무엇보다 시험 점수를 올리는 데 모든 노력을 집중해야 한다.",
+      "에세이 쓰기 수업을 더 늘려야 한다.",
+      "점수 대신 학생의 출석을 평가해야 한다.",
+      "학부모에게 성적표를 더 자주 보내야 한다."
+    ],
+    "answer": 0,
+    "translation": "점수는 학생에게 얼마나 잘했는지는 알려 주지만 왜 그런지는 알려 주지 않는다. 에세이에서 B를 받은 학생은 문제가 구조인지, 문법인지, 아이디어인지 알지 못할 수 있다. 그런 정보가 없으면 향상되기 어렵다. 많은 학생들은 결과를 그냥 받아들이고 넘어간다. 반면 구체적인 서면 의견은 강점을 짚어 주고 다음에 무엇을 해야 할지 정확히 알려 준다. 그러므로 교사는 점수와 함께 자세한 피드백을 주어야 한다.",
+    "why": "마지막 문장 'teachers should give detailed feedback along with grades'가 필자의 주장입니다.",
+    "optionNotes": [
+      "정답. 점수와 함께 구체적 피드백을 주어야 합니다.",
+      "점수에 집중하라는 내용은 없습니다.",
+      "에세이 수업 확대는 언급되지 않았습니다.",
+      "출석 평가는 언급되지 않았습니다.",
+      "성적표 발송은 언급되지 않았습니다."
+    ],
+    "trap": "에세이 사례에 이끌려 ③을 고르기 쉽지만 사례일 뿐 주장은 아닙니다.",
+    "tip": "주장 문제는 'Therefore, ~ should ...' 문장을 찾고 사례와 구분하세요."
+  },
+  {
+    "id": "m3-05-21",
+    "level": "m3",
+    "set": "mock-05",
+    "no": 21,
+    "type": "implied",
+    "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "passage": "Everyone on the team knew that they kept losing because of the captain's selfish attitude. Yet no one dared to mention it during the meetings, and they talked only about training schedules. The captain's behavior was {u|the elephant in the room}, obvious to all but ignored by everyone.",
+    "options": [
+      "a large animal that needs special care and a lot of food every day",
+      "a fun subject that everyone enjoys",
+      "a secret plan to win the next match",
+      "a small problem that will soon disappear",
+      "an obvious problem that people avoid discussing"
+    ],
+    "answer": 4,
+    "translation": "팀원 모두는 주장의 이기적인 태도 때문에 계속 진다는 것을 알고 있었다. 그러나 회의에서 아무도 감히 그것을 언급하지 못했고 훈련 일정만 이야기했다. 주장의 행동은 모두에게 뻔히 보이지만 모두가 외면하는 '방 안의 코끼리'였다.",
+    "why": "모두 알고 있지만 아무도 말하지 못하는 명백한 문제를 뜻하는 표현입니다.",
+    "optionNotes": [
+      "큰 동물을 돌보는 이야기가 아닙니다.",
+      "모두가 즐기는 주제가 아닙니다.",
+      "비밀 작전이 아닙니다.",
+      "곧 사라질 작은 문제가 아닙니다.",
+      "정답. 모두가 알지만 논의를 피하는 명백한 문제입니다."
+    ],
+    "trap": "'elephant'를 문자 그대로 해석하지 마세요. 뒤의 풀이(obvious to all but ignored)가 힌트입니다.",
+    "tip": "관용 표현은 바로 뒤에 붙은 설명 구절에서 의미를 확인하세요."
+  },
+  {
+    "id": "m3-05-22",
+    "level": "m3",
+    "set": "mock-05",
+    "no": 22,
+    "type": "gist",
+    "stem": "다음 글의 요지로 가장 적절한 것은?",
+    "passage": "Young children ask hundreds of questions every day. As they grow older, they ask fewer questions, partly because they fear that they will look ignorant in front of others. Soon, they learn to stay silent instead of raising their hands. However, every expert was once a beginner who did not know the answers. Asking questions is not a sign of weakness, but the starting point of learning. Those who keep asking questions, even simple ones, continue to grow throughout their lives.",
+    "options": [
+      "어린이는 어른보다 더 많은 것을 알고 있다.",
+      "모르는 것을 질문하는 것이 배움의 출발점이다.",
+      "전문가가 되려면 어릴 때부터 공부해야 한다.",
+      "질문은 반드시 수업이 끝난 뒤에 해야 한다.",
+      "친구들 앞에서는 질문을 삼가는 것이 예의이다."
+    ],
+    "answer": 1,
+    "translation": "어린아이들은 매일 수백 가지 질문을 한다. 나이가 들수록 질문을 덜 하게 되는데 이는 부분적으로 남들 앞에서 무지해 보일까 봐 두렵기 때문이다. 곧 그들은 손을 드는 대신 침묵하는 법을 배운다. 하지만 모든 전문가도 한때는 답을 모르는 초보자였다. 질문하는 것은 약함의 표시가 아니라 배움의 출발점이다. 간단한 질문이라도 계속 질문하는 사람은 평생 성장한다.",
+    "why": "질문하는 것은 약함이 아니라 배움의 출발점이라는 것이 글의 요지입니다.",
+    "optionNotes": [
+      "어린이가 더 많이 안다는 내용은 없습니다.",
+      "정답. 질문이 배움의 출발점입니다.",
+      "어릴 때부터 공부해야 한다는 내용은 없습니다.",
+      "질문 시점은 나오지 않습니다.",
+      "질문을 삼가라는 것은 글과 반대입니다."
+    ],
+    "trap": "⑤는 글에서 언급한 '두려움'을 그대로 옮긴 보기이지만, 글은 이를 극복하라고 말합니다.",
+    "tip": "'not A, but B' 구조에서 B가 필자의 핵심 주장입니다."
+  },
+  {
+    "id": "m3-05-23",
+    "level": "m3",
+    "set": "mock-05",
+    "no": 23,
+    "type": "topic",
+    "stem": "다음 글의 주제로 가장 적절한 것은?",
+    "passage": "Our intestines are home to trillions of bacteria. Although we usually think of bacteria as harmful, many of them are essential for our health. They break down food that our bodies cannot digest, produce important vitamins, and protect us from dangerous germs. Recent studies even suggest that the bacteria in our gut can influence our mood and our ability to handle stress. For this reason, scientists are now paying more attention to keeping this inner community balanced.",
+    "options": [
+      "the dangerous germs that cause serious diseases in children and older adults",
+      "how to wash our hands correctly",
+      "why we should avoid eating spicy food",
+      "the history of vaccines in modern medicine",
+      "the beneficial functions of bacteria living in our body"
+    ],
+    "answer": 4,
+    "translation": "우리의 장에는 수조 마리의 박테리아가 산다. 우리는 보통 박테리아를 해로운 것으로 생각하지만 그중 많은 것이 건강에 필수적이다. 그것들은 우리 몸이 소화하지 못하는 음식을 분해하고, 중요한 비타민을 만들며, 위험한 세균으로부터 우리를 보호한다. 최근 연구는 장 속 박테리아가 기분과 스트레스를 다루는 능력에도 영향을 줄 수 있다고 시사한다. 이 때문에 과학자들은 이 내부 공동체의 균형을 유지하는 데 더 주목하고 있다.",
+    "why": "몸속 박테리아가 하는 유익한 기능을 설명하는 글입니다.",
+    "optionNotes": [
+      "해로운 세균이 아니라 유익한 박테리아를 다룹니다.",
+      "손 씻는 방법은 나오지 않습니다.",
+      "매운 음식은 나오지 않습니다.",
+      "백신의 역사는 나오지 않습니다.",
+      "정답. 몸속 박테리아의 유익한 기능입니다."
+    ],
+    "trap": "첫 문장의 'harmful'에 이끌려 ①을 고르기 쉽지만 글은 이를 뒤집습니다(Although ~).",
+    "tip": "Although로 시작하는 통념 뒤의 주절이 글의 초점입니다."
+  },
+  {
+    "id": "m3-05-24",
+    "level": "m3",
+    "set": "mock-05",
+    "no": 24,
+    "type": "title",
+    "stem": "다음 글의 제목으로 가장 적절한 것은?",
+    "passage": "Beavers are famous for building dams across streams. These dams create ponds that provide homes for fish, frogs, and birds. They also slow down the flow of water, which reduces floods and helps filter pollution. In places where beavers were removed, streams often dried up and wildlife declined. When beavers return, the whole ecosystem begins to recover. Because of these benefits, some governments now bring beavers back to damaged rivers on purpose. Scientists hope that this natural method will be cheaper than building concrete walls.",
+    "options": [
+      "Beavers: Nature's Engineers That Restore Rivers",
+      "How to Build a Strong Wooden Bridge Over a Wide Mountain River",
+      "The Secret Lives of Mountain Birds",
+      "Why Floods Are Becoming More Common",
+      "Fish That Can Climb Waterfalls"
+    ],
+    "answer": 0,
+    "translation": "비버는 개울을 가로지르는 댐을 짓는 것으로 유명하다. 이 댐은 물고기, 개구리, 새의 보금자리가 되는 연못을 만든다. 또한 물의 흐름을 늦춰 홍수를 줄이고 오염 물질을 거르는 데 도움이 된다. 비버가 제거된 곳에서는 개울이 마르고 야생 동물이 줄어드는 경우가 많았다. 비버가 돌아오면 생태계 전체가 회복되기 시작한다. 이런 이점 때문에 일부 정부는 이제 손상된 강에 일부러 비버를 다시 데려온다. 과학자들은 이 자연적 방법이 콘크리트 벽을 짓는 것보다 비용이 적게 들기를 기대한다.",
+    "why": "비버의 댐 짓기가 하천 생태계를 회복시킨다는 내용이므로 ①이 제목입니다.",
+    "optionNotes": [
+      "정답. 비버가 강을 회복시키는 자연의 기술자입니다.",
+      "나무 다리 만드는 법은 나오지 않습니다.",
+      "산새 이야기는 나오지 않습니다.",
+      "홍수 증가 이유는 나오지 않습니다.",
+      "폭포를 오르는 물고기는 나오지 않습니다."
+    ],
+    "trap": "'floods'가 나오지만 홍수의 원인을 설명하는 글은 아닙니다.",
+    "tip": "제목은 주체(beavers)와 핵심 결과(restore rivers)를 함께 담으세요."
+  },
+  {
+    "id": "m3-05-25",
+    "level": "m3",
+    "set": "mock-05",
+    "no": 25,
+    "type": "chart",
+    "stem": "다음 도표의 내용과 일치하지 않는 것은?",
+    "chart": {
+      "title": "Most Important Reason for Choosing a Job (%)",
+      "unit": "%",
+      "labels": [
+        "Salary",
+        "Stability",
+        "Interest",
+        "Location",
+        "Growth"
+      ],
+      "series": [
+        {
+          "name": "20s",
+          "values": [
+            30,
+            15,
+            25,
+            10,
+            20
+          ]
+        },
+        {
+          "name": "50s",
+          "values": [
+            25,
+            35,
+            20,
+            10,
+            10
+          ]
+        }
+      ]
+    },
+    "passage": "The graph shows the most important reason for choosing a job among people in their 20s and 50s. ① Salary was the most popular reason in both age groups. ② The gap in the stability response between the two groups was 20 points. ③ More people in their 20s than in their 50s chose interest. ④ The two age groups chose location at the same rate. ⑤ The percentage of the 20s who chose growth was twice that of the 50s.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "그래프는 20대와 50대가 직업을 선택할 때 가장 중요하게 여기는 이유를 보여 준다. ① 연봉은 두 연령대 모두에서 가장 인기 있는 이유였다. ② 안정성 응답의 두 집단 차이는 20포인트였다. ③ 20대 중 흥미를 선택한 사람이 50대보다 많았다. ④ 두 연령대는 위치를 같은 비율로 선택했다. ⑤ 성장을 선택한 20대의 비율은 50대의 두 배였다.",
+    "why": "50대에서는 안정성(35%)이 연봉(25%)보다 높으므로 두 집단 모두에서 연봉이 가장 인기 있었다는 ①은 일치하지 않습니다.",
+    "optionNotes": [
+      "정답(불일치). 50대는 안정성이 가장 높습니다.",
+      "안정성은 15%와 35%로 20포인트 차이입니다.",
+      "흥미는 20대 25%, 50대 20%입니다.",
+      "위치는 둘 다 10%입니다.",
+      "성장은 20대 20%, 50대 10%로 두 배입니다."
+    ],
+    "trap": "'in both age groups'는 두 집단 모두에서 성립해야 합니다. 50대 막대도 확인하세요.",
+    "tip": "두 집단을 비교하는 보기는 두 계열의 수치를 모두 확인하세요."
+  },
+  {
+    "id": "m3-05-26",
+    "level": "m3",
+    "set": "mock-05",
+    "no": 26,
+    "type": "match",
+    "stem": "Maya Torres에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Maya Torres grew up in a fishing village in Chile. As a teenager, she borrowed her uncle's old camera and began photographing the lives of local fishermen. Her photographs showed the hard work and quiet pride of their daily lives. She worked as a teacher for ten years while taking photographs on weekends. In 2015, one of her photos won an international award, and she left teaching to become a full-time photographer. Today, she also runs photography classes for children in her home village.",
+    "options": [
+      "어린 시절을 큰 도시에서 보냈다.",
+      "십 대 때 삼촌에게서 카메라를 선물로 받았다.",
+      "10년 동안 사진작가로 일한 뒤 교사가 되었다.",
+      "국제상을 받은 뒤 전업 사진작가가 되었다.",
+      "자신의 마을에서 사진 대회를 운영한다."
+    ],
+    "answer": 3,
+    "translation": "마야 토레스는 칠레의 한 어촌 마을에서 자랐다. 십 대 때 그녀는 삼촌의 낡은 카메라를 빌려 지역 어부들의 삶을 찍기 시작했다. 그녀의 사진은 그들의 일상 속 고된 노동과 조용한 자부심을 보여 주었다. 그녀는 주말마다 사진을 찍으며 10년 동안 교사로 일했다. 2015년 그녀의 사진 한 장이 국제상을 받았고 그녀는 교직을 떠나 전업 사진작가가 되었다. 오늘날 그녀는 고향 마을에서 어린이를 위한 사진 수업도 운영한다.",
+    "why": "'won an international award, and she left teaching to become a full-time photographer'와 일치합니다.",
+    "optionNotes": [
+      "어촌 마을에서 자랐습니다.",
+      "삼촌의 카메라를 빌렸을 뿐 선물받지 않았습니다.",
+      "교사로 일하며 사진을 찍었습니다.",
+      "정답. 국제상을 받은 뒤 전업 사진작가가 되었습니다.",
+      "대회가 아니라 어린이 사진 수업을 운영합니다."
+    ],
+    "trap": "'borrowed'를 'received as a gift'로 바꾼 보기, 순서를 뒤집은 보기에 주의하세요.",
+    "tip": "일치 문제는 인물의 시기별 정보(성장 → 직업 → 전환 → 현재)를 차례로 대조하세요."
+  },
+  {
+    "id": "m3-05-27",
+    "level": "m3",
+    "set": "mock-05",
+    "no": 27,
+    "type": "notice",
+    "stem": "Youth Volunteer Day에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Youth Volunteer Day\nHelp your neighbors and make a difference!\nDate: Saturday, January 18\nTime: 9:30 a.m. – 12:30 p.m.\nMeeting Point: Riverside Community Center\nWho: Students aged 13–18\nActivity: Delivering lunch boxes to elderly residents in groups of three\nNote: A short training session will be given at 9:30 a.m. Participants will receive a certificate that is counted as three hours of official volunteer work.",
+    "options": [
+      "일요일 오후 두 시부터 저녁까지 지역 공원에서 진행된다.",
+      "만 19세 이상만 참여할 수 있다.",
+      "참가자는 봉사 시간으로 인정되는 확인서를 받는다.",
+      "혼자서 도시락을 배달한다.",
+      "활동 전에 교육은 따로 없다."
+    ],
+    "answer": 2,
+    "translation": "청소년 봉사의 날. 이웃을 돕고 변화를 만드세요! 날짜: 1월 18일 토요일. 시간: 오전 9시 30분~12시 30분. 모이는 곳: 리버사이드 주민센터. 대상: 13~18세 학생. 활동: 세 명씩 조를 이루어 어르신들께 도시락 배달. 유의: 오전 9시 30분에 짧은 교육이 있습니다. 참가자는 공식 봉사 시간 3시간으로 인정되는 확인서를 받습니다.",
+    "why": "'Participants will receive a certificate that is counted as three hours of official volunteer work.'와 일치합니다.",
+    "optionNotes": [
+      "토요일 오전입니다.",
+      "13~18세가 대상입니다.",
+      "정답. 봉사 시간으로 인정되는 확인서를 받습니다.",
+      "세 명씩 조를 이룹니다.",
+      "짧은 교육이 있습니다."
+    ],
+    "trap": "'in groups of three'를 놓치면 ④를 고르기 쉽습니다.",
+    "tip": "안내문은 활동 방식(groups of three)과 Note의 혜택을 항목별로 대조하세요."
+  },
+  {
+    "id": "m3-05-28",
+    "level": "m3",
+    "set": "mock-05",
+    "no": 28,
+    "type": "notice",
+    "stem": "Neighborhood Swap Meet에 관한 다음 안내문의 내용과 일치하지 않는 것은?",
+    "passage": "Neighborhood Swap Meet\nBring what you don't need and take home something new!\nWhen: The first Sunday of every month, 10:00 a.m. – 2:00 p.m.\nWhere: Greenfield School parking lot\nWhat to bring: Clean items in good condition, such as clothes, toys, and books\nRules: This is a swap, not a sale, so no money can be exchanged. Each family may bring up to five items.",
+    "options": [
+      "매달 첫째 일요일에 열린다.",
+      "학교 주차장에서 열린다.",
+      "가져오는 물건은 깨끗하고 상태가 좋아야 한다.",
+      "마음에 드는 물건은 현금으로 살 수 있다.",
+      "한 가족당 다섯 개까지 가져올 수 있다."
+    ],
+    "answer": 3,
+    "translation": "이웃 물물교환 장터. 필요 없는 것을 가져와 새로운 것을 집으로 가져가세요! 일시: 매월 첫째 일요일 오전 10시~오후 2시. 장소: 그린필드 학교 주차장. 가져올 것: 옷, 장난감, 책 같은 깨끗하고 상태가 좋은 물건. 규칙: 판매가 아닌 교환이므로 돈을 주고받을 수 없습니다. 한 가족당 다섯 개까지 가져올 수 있습니다.",
+    "why": "'no money can be exchanged'이므로 현금으로 살 수 있다는 ④는 일치하지 않습니다.",
+    "optionNotes": [
+      "The first Sunday of every month와 일치합니다.",
+      "Greenfield School parking lot과 일치합니다.",
+      "Clean items in good condition과 일치합니다.",
+      "정답(불일치). 돈을 주고받을 수 없습니다.",
+      "up to five items와 일치합니다."
+    ],
+    "trap": "'swap, not a sale'을 놓치면 장터에서 판매도 한다고 착각하기 쉽습니다.",
+    "tip": "Rules 항목의 'not ~', 'no ~' 표현을 확인하세요."
+  }
+]

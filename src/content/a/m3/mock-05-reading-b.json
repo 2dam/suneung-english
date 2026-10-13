@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m3-05-29",
+    "level": "m3",
+    "set": "mock-05",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Playing a musical instrument {1|improve} memory and attention. When people play music, many parts of the brain {2|work} together at the same time. Studies show that children {3|who} take music lessons often get better scores in language tests. Music can also help people {4|relax} after a stressful day. For these reasons, many schools {5|are} adding music classes to their programs.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "악기를 연주하는 것은 기억력과 주의력을 향상시킨다. 사람들이 음악을 연주할 때 뇌의 여러 부분이 동시에 함께 작동한다. 연구에 따르면 음악 수업을 받는 어린이는 언어 시험에서 더 좋은 점수를 받는 경우가 많다. 음악은 또한 스트레스를 받은 하루 뒤에 사람들이 긴장을 풀도록 도와줄 수 있다. 이런 이유로 많은 학교가 음악 수업을 추가하고 있다.",
+    "why": "동명사 주어 'Playing ~'는 단수 취급하므로 동사는 'improve'가 아니라 'improves'여야 합니다.",
+    "optionNotes": [
+      "정답(틀린 것). 동명사 주어는 단수이므로 improves여야 합니다.",
+      "복수 주어 many parts에 맞는 work입니다.",
+      "선행사 children을 받는 주격 관계대명사 who가 맞습니다.",
+      "help + 목적어 + 동사원형 relax가 맞습니다.",
+      "복수 주어 many schools에 맞는 현재진행형 are adding입니다."
+    ],
+    "trap": "'a musical instrument' 뒤에 와서 목적어가 주어처럼 보이지만 주어는 동명사구 전체입니다.",
+    "tip": "동명사(구) 주어는 단수 취급하므로 동사에 -s를 붙입니다."
+  },
+  {
+    "id": "m3-05-30",
+    "level": "m3",
+    "set": "mock-05",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "The Internet has made it easy to find {1|information}, but it has also made it easier to spread false stories. Studies show that false news spreads faster than true news because it is often more {2|surprising}. To avoid being misled, we should check the {3|source} and compare it with other reports. Also, we should {4|pause} before sharing a post that makes us angry. If we believe everything we read, we may become {5|resistant} to false information.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "인터넷은 정보를 찾기 쉽게 만들었지만 거짓 이야기를 퍼뜨리기도 쉽게 만들었다. 연구에 따르면 가짜 뉴스는 더 놀라운 경우가 많기 때문에 진짜 뉴스보다 빨리 퍼진다. 속지 않으려면 출처를 확인하고 다른 보도와 비교해야 한다. 또 화가 나게 하는 게시물을 공유하기 전에 잠시 멈추어야 한다. 읽는 것을 모두 믿으면 거짓 정보에 취약해질 수 있다.",
+    "why": "읽는 것을 모두 믿으면 거짓 정보에 '저항하는(resistant)'이 아니라 '취약한(vulnerable)' 상태가 됩니다.",
+    "optionNotes": [
+      "정보를 찾기 쉽다는 의미로 information이 알맞습니다.",
+      "더 놀라워서 빨리 퍼진다는 의미로 surprising이 알맞습니다.",
+      "출처를 확인한다는 의미로 source가 알맞습니다.",
+      "공유 전에 멈춘다는 의미로 pause가 알맞습니다.",
+      "정답(부적절). 모두 믿으면 취약해지므로 vulnerable이 알맞습니다."
+    ],
+    "trap": "'become resistant to'는 자주 쓰이는 표현이라 자연스럽게 읽히지만 조건절의 내용과 모순됩니다.",
+    "tip": "조건절(If we believe everything)의 결과로 긍정적 표현이 오는지 확인하세요."
+  },
+  {
+    "id": "m3-05-31",
+    "level": "m3",
+    "set": "mock-05",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In many studies of the placebo effect, patients who received a sugar pill, which has no medicine in it, reported that their pain decreased. Similar results appeared in studies of headaches and sleep problems. They improved because they believed that the pill would help them. The patients did not know that the pill was only sugar. Brain scans even showed that the parts of the brain related to pain were less active. This shows that our expectations can __________.",
+    "options": [
+      "damage the effect of real medicines that doctors give us",
+      "make a sugar pill taste better",
+      "replace the work of all doctors",
+      "influence how our body actually feels",
+      "stop us from believing in science"
+    ],
+    "answer": 3,
+    "translation": "플라시보 효과에 관한 많은 연구에서 약 성분이 없는 설탕 알약을 받은 환자들이 통증이 줄었다고 보고했다. 두통과 수면 문제에 관한 연구에서도 비슷한 결과가 나타났다. 그들은 알약이 도움이 될 것이라고 믿었기 때문에 나아졌다. 환자들은 그 알약이 설탕일 뿐이라는 것을 알지 못했다. 뇌 스캔에서도 통증과 관련된 뇌 부위가 덜 활동한다는 것이 나타났다. 이는 우리의 기대가 실제로 몸이 느끼는 것에 영향을 줄 수 있음을 보여 준다.",
+    "why": "믿음만으로 통증이 줄고 뇌 활동도 달라졌으므로 기대가 몸의 실제 느낌에 영향을 준다는 말이 알맞습니다.",
+    "optionNotes": [
+      "진짜 약의 효과를 해친다는 내용은 없습니다.",
+      "알약의 맛 이야기는 나오지 않습니다.",
+      "모든 의사의 일을 대체한다는 내용은 없습니다.",
+      "정답. 기대가 몸의 실제 느낌에 영향을 줍니다.",
+      "과학을 믿지 않게 한다는 내용은 없습니다."
+    ],
+    "trap": "③은 'patients improved'에서 과장한 보기입니다. 글은 의사를 대체한다고 말하지 않습니다.",
+    "tip": "빈칸이 'This shows that ~'이면 앞의 실험 결과를 한 문장으로 일반화하세요."
+  },
+  {
+    "id": "m3-05-32",
+    "level": "m3",
+    "set": "mock-05",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many people believe that owning more things will make them happier. However, researchers have found that people who own fewer things often feel less stressed. They spend less time cleaning, repairing, and organizing, and they make fewer decisions every day. Some of them even say that they feel freer in a smaller home. The time and attention that they save can be used for relationships and hobbies. Therefore, owning fewer things can give us more __________.",
+    "options": [
+      "money to spend on expensive hobbies and fashionable clothes",
+      "time and freedom to focus on what matters",
+      "space to store extra clothes at home",
+      "chances to compete with our neighbors",
+      "reasons to buy new things every season"
+    ],
+    "answer": 1,
+    "translation": "많은 사람들은 더 많은 물건을 가지면 더 행복해질 것이라고 믿는다. 하지만 연구자들은 물건을 적게 가진 사람들이 스트레스를 덜 느끼는 경우가 많다는 것을 발견했다. 그들은 청소하고 고치고 정리하는 데 시간을 덜 쓰고 하루에 내리는 결정도 더 적다. 일부는 더 작은 집에서 오히려 더 자유롭다고 말하기도 한다. 이렇게 아낀 시간과 관심은 인간관계와 취미에 쓸 수 있다. 그러므로 물건을 적게 가지는 것은 중요한 것에 집중할 수 있는 시간과 자유를 더 줄 수 있다.",
+    "why": "아낀 시간과 관심을 인간관계와 취미에 쓸 수 있다고 했으므로 중요한 것에 집중할 시간과 자유가 알맞습니다.",
+    "optionNotes": [
+      "비싼 취미에 쓸 돈 이야기는 없습니다.",
+      "정답. 중요한 것에 집중할 시간과 자유입니다.",
+      "여분의 옷을 보관할 공간은 글과 반대입니다.",
+      "이웃과의 경쟁은 나오지 않습니다.",
+      "계절마다 새 물건을 사는 것은 글과 반대입니다."
+    ],
+    "trap": "'space'라는 낱말은 글에 나오지 않지만 ③은 물건 소유와 관련해 그럴듯합니다. 글의 이점은 시간과 주의입니다.",
+    "tip": "Therefore 앞 문장(The time and attention that they save ~)이 직접 근거입니다."
+  },
+  {
+    "id": "m3-05-33",
+    "level": "m3",
+    "set": "mock-05",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Parkinson's Law states that work expands to fill the time available for its completion. If you give yourself a whole week to finish a report that you could complete in two days, it will somehow take the entire week. You will check the details again and again, and you will delay the real work. If you set a shorter deadline, however, you focus on what is important and avoid wasting time. In other words, setting a shorter deadline can __________.",
+    "options": [
+      "make every task more difficult to start",
+      "help us finish work more efficiently",
+      "reduce the quality of the final result",
+      "make us forget the details of our tasks",
+      "force us to ask other people for help"
+    ],
+    "answer": 1,
+    "translation": "파킨슨의 법칙은 일이 완료에 쓸 수 있는 시간만큼 늘어난다고 말한다. 이틀이면 끝낼 수 있는 보고서를 마치는 데 일주일을 자신에게 주면 어쩐지 일주일 내내 걸린다. 세부 사항을 계속 확인하고 실제 작업을 미루게 된다. 하지만 더 짧은 마감 시한을 정하면 중요한 것에 집중하고 시간 낭비를 피한다. 다시 말해 더 짧은 마감 시한은 우리가 일을 더 효율적으로 끝내도록 도울 수 있다.",
+    "why": "짧은 마감 시한이 중요한 것에 집중하고 낭비를 피하게 한다고 했으므로 더 효율적으로 끝내도록 돕는다는 말이 알맞습니다.",
+    "optionNotes": [
+      "시작이 어려워진다는 내용은 없습니다.",
+      "정답. 일을 더 효율적으로 끝내도록 돕습니다.",
+      "결과의 질이 떨어진다는 내용은 없습니다.",
+      "세부 사항을 잊는다는 내용은 없습니다.",
+      "남에게 도움을 청한다는 내용은 없습니다."
+    ],
+    "trap": "③은 마감이 짧으면 품질이 떨어진다는 흔한 통념을 이용한 보기이지만 글과 반대입니다.",
+    "tip": "However 뒤의 내용이 빈칸의 방향입니다."
+  },
+  {
+    "id": "m3-05-34",
+    "level": "m3",
+    "set": "mock-05",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In a forest with many different species, each species plays its own role. If one species suffers from disease, others can take over its role, and the forest continues to function. In an ecosystem with only a few species, however, the loss of a single species can cause a chain of problems. Scientists call this protection against change the insurance effect. This is why scientists emphasize that a high level of biodiversity makes an ecosystem __________.",
+    "options": [
+      "more dependent on a single species",
+      "less attractive to tourists",
+      "easier to be damaged by disease",
+      "more stable against sudden changes",
+      "more difficult to study and manage"
+    ],
+    "answer": 3,
+    "translation": "다양한 종이 있는 숲에서는 각 종이 자신의 역할을 한다. 한 종이 병으로 고통받아도 다른 종이 그 역할을 대신할 수 있어 숲은 계속 기능한다. 하지만 종이 몇 개뿐인 생태계에서는 한 종을 잃는 것이 연쇄적인 문제를 일으킬 수 있다. 과학자들은 변화에 대한 이런 보호를 보험 효과라고 부른다. 그래서 과학자들은 생물 다양성이 높을수록 생태계가 갑작스러운 변화에 더 안정적이라고 강조한다.",
+    "why": "한 종이 사라져도 다른 종이 역할을 대신하므로 변화에 더 안정적이라는 말이 알맞습니다.",
+    "optionNotes": [
+      "한 종에 더 의존한다는 것은 글과 반대입니다.",
+      "관광객 이야기는 나오지 않습니다.",
+      "병에 더 쉽게 손상된다는 것은 글과 반대입니다.",
+      "정답. 갑작스러운 변화에 더 안정적입니다.",
+      "연구와 관리가 더 어렵다는 내용은 없습니다."
+    ],
+    "trap": "①②는 반대 방향의 낱말을 가져온 보기입니다. 빈칸 앞 문장(others can take over)이 단서입니다.",
+    "tip": "대조(however) 구조에서 앞의 사례와 같은 방향이 빈칸의 답입니다."
+  },
+  {
+    "id": "m3-05-35",
+    "level": "m3",
+    "set": "mock-05",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Practicing gratitude can improve our well-being in many ways. ① People who keep a gratitude journal tend to sleep better at night. ② They also report feeling less stressed and more optimistic. ③ Many restaurants in the city offer special discounts on weekends. ④ Expressing thanks to others strengthens relationships and builds trust. ⑤ Thus, a simple habit of appreciating small things can make a big difference in our lives.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "감사를 실천하면 여러 면에서 삶의 만족이 높아질 수 있다. ① 감사 일기를 쓰는 사람들은 밤에 더 잘 자는 경향이 있다. ② 그들은 스트레스를 덜 받고 더 낙관적이라고 말한다. ③ 도시의 많은 식당이 주말에 특별 할인을 제공한다. ④ 남에게 감사를 표현하면 관계가 강해지고 신뢰가 쌓인다. ⑤ 그러므로 작은 것에 감사하는 간단한 습관이 삶에 큰 차이를 만들 수 있다.",
+    "why": "글은 감사의 효과를 설명하는데 ③은 식당 할인 이야기라 흐름과 관계가 없습니다.",
+    "optionNotes": [
+      "감사의 효과(수면)입니다.",
+      "감사의 효과(스트레스, 낙관)입니다.",
+      "정답(무관). 식당 할인 이야기입니다.",
+      "감사의 효과(관계)입니다.",
+      "결론입니다."
+    ],
+    "trap": "'weekends' 같은 일상적 표현이라 자연스럽게 읽히지만 주제와 무관합니다.",
+    "tip": "무관한 문장은 주제어(gratitude)와의 연결 여부로 판단하세요."
+  },
+  {
+    "id": "m3-05-36",
+    "level": "m3",
+    "set": "mock-05",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Coral reefs cover less than one percent of the ocean floor, a very small area. Many animals depend on them.\n(A) Yet they support about a quarter of all marine species, from tiny fish to large sharks.\n(B) Sadly, these vital ecosystems are now in danger because rising ocean temperatures cause corals to lose their color and die.\n(C) This is because the complex structure of a reef provides shelter and food for countless animals living in the water.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "산호초는 해저의 1퍼센트도 되지 않는 면적을 차지한다. 매우 좁은 면적이다. 많은 동물이 그것에 의존한다. (A) 그런데도 작은 물고기에서 큰 상어까지 모든 해양 생물종의 약 4분의 1을 부양한다. (C) 이는 산호초의 복잡한 구조가 물속에 사는 수많은 동물에게 은신처와 먹이를 제공하기 때문이다. (B) 안타깝게도 이 중요한 생태계는 바다 수온 상승으로 산호가 색을 잃고 죽어 가면서 위험에 처해 있다.",
+    "why": "(A) 'Yet'으로 면적 대비 부양하는 종의 비율 → (C) 'This is because'로 이유 → (B) 'these vital ecosystems'의 위기 순서입니다.",
+    "optionNotes": [
+      "정답. 대비 → 이유 → 위기.",
+      "(B)의 'these vital ecosystems'가 가리킬 설명이 앞에 없습니다.",
+      "(B)의 'these vital ecosystems'가 가리킬 설명이 앞에 없습니다.",
+      "(C)의 'This is because'가 설명할 결과가 앞에 없습니다.",
+      "(C)의 'This is because'가 설명할 결과가 앞에 없습니다."
+    ],
+    "trap": "(B)의 'Sadly'가 전환처럼 보여 앞에 올 수 있다고 착각하기 쉽지만, 'these vital ecosystems'는 중요성이 설명된 뒤에 나옵니다.",
+    "tip": "Yet(대비) → This is because(이유) → these(지시어) 순서를 확인하세요."
+  },
+  {
+    "id": "m3-05-37",
+    "level": "m3",
+    "set": "mock-05",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Humans have used maps for thousands of years to find their way and to record what they have seen, such as rivers, mountains, and roads.\n(A) Today, we rely on digital maps that update in real time through satellites and smartphones.\n(B) Later, explorers began to draw maps on paper to record the lands and seas that they visited.\n(C) The oldest known maps were carved on clay tablets by people in ancient Mesopotamia. Some of these maps are still kept in museums today.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 4,
+    "translation": "인류는 수천 년 동안 길을 찾고 본 것(강, 산, 길 같은 것)을 기록하려고 지도를 사용해 왔다. (C) 가장 오래된 것으로 알려진 지도는 고대 메소포타미아 사람들이 점토판에 새긴 것이다. 이 지도 중 일부는 오늘날에도 박물관에 보관되어 있다. (B) 나중에 탐험가들은 자신이 방문한 땅과 바다를 기록하려고 종이에 지도를 그리기 시작했다. (A) 오늘날 우리는 위성과 스마트폰으로 실시간 갱신되는 디지털 지도를 이용한다.",
+    "why": "시간 순서에 따라 (C) 가장 오래된 지도 → (B) Later 종이 지도 → (A) Today 디지털 지도 순서입니다.",
+    "optionNotes": [
+      "Today가 가장 마지막이어야 합니다.",
+      "Later(B)가 가장 오래된 지도(C)보다 앞설 수 없습니다.",
+      "Today가 Later 앞에 올 수 없습니다.",
+      "Later가 가장 오래된 지도 뒤에 와야 합니다.",
+      "정답. oldest → Later → Today."
+    ],
+    "trap": "(B)의 'Later'가 시간 표현이므로 'oldest' 뒤에 와야 합니다.",
+    "tip": "시간 표현(oldest, Later, Today)을 표시해 연대순으로 정렬하세요."
+  },
+  {
+    "id": "m3-05-38",
+    "level": "m3",
+    "set": "mock-05",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nHowever, after several weeks, they began to notice a change in themselves.\n\n[글]\nResearchers taught a group of teenagers to take three slow breaths whenever they felt angry. ( ① ) The teens practiced this technique every day for a month. ( ② ) At first, many of them said it felt strange and silly. ( ③ ) Fewer students had angry outbursts at school. ( ④ ) The researchers concluded that simple breathing exercises can improve emotional control. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 하지만 몇 주 뒤 그들은 자신에게서 변화를 느끼기 시작했다. [글] 연구자들은 십 대 집단에게 화가 날 때마다 천천히 세 번 숨을 쉬도록 가르쳤다. 십 대들은 이 기법을 한 달 동안 매일 연습했다. 처음에 많은 학생들은 그것이 이상하고 어리석게 느껴진다고 말했다. 학교에서 화를 터뜨리는 학생이 줄었다. 연구자들은 간단한 호흡 운동이 감정 조절을 향상시킬 수 있다고 결론지었다.",
+    "why": "'However'는 '처음에는 이상하게 느꼈다'와 대비되어 '몇 주 뒤 변화를 느꼈다'로 이어지므로 ③에 들어갑니다.",
+    "optionNotes": [
+      "연습을 시작하기도 전이라 변화를 말할 수 없습니다.",
+      "연습한 직후 이어지면 'At first'로 이어지는 순서가 어색합니다.",
+      "정답. 처음의 어색함과 대비되는 변화입니다.",
+      "화를 터뜨린 학생이 줄었다는 결과 뒤에 변화를 처음 말하면 어색합니다.",
+      "결론 뒤라서 어색합니다."
+    ],
+    "trap": "②도 시간 흐름상 가능해 보이지만 뒤에 'At first'가 오면 시간 순서가 뒤집힙니다.",
+    "tip": "'However'는 바로 앞 내용과 대비되고, 'at first ~ after several weeks'의 시간 순서도 확인하세요."
+  },
+  {
+    "id": "m3-05-39",
+    "level": "m3",
+    "set": "mock-05",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nIn short, small daily habits can lead to big changes over time.\n\n[글]\nA man named James decided to read just ten pages every day. ( ① ) In the first month, it felt like nothing. ( ② ) But by the end of the year, he had finished more than twenty books. ( ③ ) His vocabulary and knowledge had grown, and he even began to write short essays. ( ④ ) Other people who knew him were surprised at how much he had changed. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "[주어진 문장] 요컨대 작은 일상의 습관이 시간이 지나면 큰 변화로 이어질 수 있다. [글] 제임스라는 남자는 매일 단 열 쪽만 읽기로 했다. 첫 한 달은 아무것도 아닌 것 같았다. 하지만 일 년이 끝날 무렵 그는 스무 권이 넘는 책을 다 읽었다. 그의 어휘와 지식은 늘었고 짧은 에세이도 쓰기 시작했다. 그를 아는 사람들은 그가 얼마나 변했는지에 놀랐다.",
+    "why": "'In short'는 앞의 사례를 요약하는 표현이므로 사례가 모두 끝난 마지막 ⑤에 들어갑니다.",
+    "optionNotes": [
+      "사례가 시작되기도 전이라 요약할 수 없습니다.",
+      "첫 한 달 이야기만 나온 뒤라 요약하기 이릅니다.",
+      "일 년 후의 결과만 나왔고 이후 변화가 더 이어집니다.",
+      "변화가 더 이어지므로 요약하기 이릅니다.",
+      "정답. 사례를 모두 설명한 뒤 요약합니다."
+    ],
+    "trap": "결론 표현(In short)을 문장 내용만 보고 중간에 넣지 마세요.",
+    "tip": "In short, Thus, Therefore는 글의 마지막 부분에 놓입니다."
+  },
+  {
+    "id": "m3-05-40",
+    "level": "m3",
+    "set": "mock-05",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A company asked its employees to work only four days a week for six months, while keeping the same salary. Many managers worried that productivity would fall. However, the results were surprising. The employees completed just as much work as before, and their sales even increased slightly. At the same time, they reported lower stress and fewer cases of burnout, and fewer people left the company.\n\n▶ Reducing working days (A) productivity, while (B) employees' stress and burnout.",
+    "options": [
+      "(A) harmed — (B) raising",
+      "(A) stopped — (B) hiding",
+      "(A) doubled — (B) ignoring",
+      "(A) did not harm — (B) lowering",
+      "(A) delayed — (B) increasing"
+    ],
+    "answer": 3,
+    "translation": "한 회사는 직원들에게 같은 월급을 유지하면서 6개월 동안 주 4일만 일하게 했다. 많은 관리자들은 생산성이 떨어질까 봐 걱정했다. 그러나 결과는 놀라웠다. 직원들은 이전과 똑같은 양의 일을 끝냈고 매출은 오히려 약간 늘었다. 동시에 직원들은 스트레스와 번아웃이 줄었다고 보고했고 회사를 떠나는 사람도 줄었다. ▶ 근무 일수를 줄인 것은 생산성을 해치지 않으면서 직원들의 스트레스와 번아웃을 낮췄다.",
+    "why": "생산성은 유지되거나 약간 늘었고 스트레스와 번아웃은 줄었으므로 (A)는 did not harm, (B)는 lowering입니다.",
+    "optionNotes": [
+      "생산성을 해쳤다는 것은 글과 반대입니다.",
+      "생산성이 멈췄다는 것은 글과 반대입니다.",
+      "생산성이 두 배가 되었다는 내용은 없습니다.",
+      "정답. 생산성은 유지되고 스트레스는 줄었습니다.",
+      "생산성이 지연되었다는 것은 글과 반대입니다."
+    ],
+    "trap": "(B)가 lowering인 보기와 increasing인 보기를 구분하세요. 스트레스는 줄었습니다.",
+    "tip": "요약문은 두 가지 결과(생산성 유지, 스트레스 감소)를 각각 짝지으세요."
+  }
+]
