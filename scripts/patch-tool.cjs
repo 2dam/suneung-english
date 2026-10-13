@@ -10,6 +10,7 @@ for(const p of patches){
   if(!q) throw new Error('no '+p.no+' in '+p.file);
   for(const [i,t] of Object.entries(p.opt||{})) q.options[+i]=t;
   for(const [i,t] of Object.entries(p.note||{})) q.optionNotes[+i]=t;
+  if(p.passage&&!q.passage&&q.script){ const t=q.script[0]; if(!t.text.includes(p.passage[0])) throw new Error(p.no+' script miss'); t.text=t.text.replace(p.passage[0],p.passage[1]); delete p.passage; }
   for(const k of ['passage','translation']) if(p[k]){ if(!q[k].includes(p[k][0])) throw new Error(p.no+' '+k+' miss: '+p[k][0]); q[k]=q[k].replace(p[k][0],p[k][1]); }
 }
 for(const [path,d] of Object.entries(cache)) fs.writeFileSync(path,JSON.stringify(d,null,2)+'\n');

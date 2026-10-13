@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m2-07-29",
+    "level": "m2",
+    "set": "mock-07",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Venice, {1|which} is built on more than a hundred small islands, is famous for its canals. Cars {2|are} not allowed in the city, so people travel by boat or on foot. Every year, millions of tourists {3|visit} the city. However, the city is slowly {4|sinking}, and floods {5|is} becoming more frequent.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "백 개가 넘는 작은 섬 위에 세워진 베네치아는 운하로 유명하다. 도시에서는 자동차가 허용되지 않아 사람들은 배나 걸어서 이동한다. 해마다 수백만 명의 관광객이 이 도시를 방문한다. 하지만 도시는 서서히 가라앉고 있고 홍수가 더 자주 발생하고 있다.",
+    "why": "주어 'floods'는 복수이므로 'is'가 아니라 'are'여야 합니다.",
+    "optionNotes": [
+      "선행사 Venice를 받는 관계대명사 which가 맞습니다.",
+      "복수 주어 Cars에 맞는 are입니다.",
+      "복수 주어 millions of tourists에 맞는 visit입니다.",
+      "진행형 is sinking의 sinking이 맞습니다.",
+      "정답(틀린 것). 복수 주어 floods에는 are여야 합니다."
+    ],
+    "trap": "'city is'가 앞에 있어 is가 자연스럽게 보이지만 주어는 'floods'입니다.",
+    "tip": "접속사 and 뒤의 새 절은 주어를 다시 확인하세요."
+  },
+  {
+    "id": "m2-07-30",
+    "level": "m2",
+    "set": "mock-07",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Wearing a helmet {1|protects} your head when you ride a bicycle. Studies show that a helmet {2|increases} the risk of serious injury by about seventy percent. Yet many riders do not wear one because it feels {3|uncomfortable} or looks strange. Safety experts say that a few minutes of {4|discomfort} are a small price to pay for {5|safety}.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "자전거를 탈 때 헬멧을 쓰면 머리를 보호한다. 연구에 따르면 헬멧은 심각한 부상의 위험을 약 70퍼센트 줄인다. 그런데도 많은 운전자는 불편하거나 이상해 보인다는 이유로 쓰지 않는다. 안전 전문가들은 몇 분의 불편함은 안전을 위해 치를 작은 대가라고 말한다.",
+    "why": "헬멧이 머리를 보호한다고 했으므로 위험을 '증가시킨다(increases)'가 아니라 '줄인다(reduces)'여야 합니다.",
+    "optionNotes": [
+      "머리를 보호한다는 의미로 protects가 알맞습니다.",
+      "정답(부적절). 위험을 줄이므로 reduces가 알맞습니다.",
+      "불편하다는 의미로 uncomfortable이 알맞습니다.",
+      "불편함이라는 의미로 discomfort가 알맞습니다.",
+      "안전이라는 의미로 safety가 알맞습니다."
+    ],
+    "trap": "'risk of serious injury' 뒤의 수치 표현이 자연스러워 동사 방향을 놓치기 쉽습니다.",
+    "tip": "첫 문장(protects)과 동사의 방향이 일치하는지 확인하세요."
+  },
+  {
+    "id": "m2-07-31",
+    "level": "m2",
+    "set": "mock-07",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Tropical rainforests cover only about six percent of the Earth's land. However, they are home to more than half of the world's plant and animal species. These forests also produce a large part of the oxygen we breathe. Many of these species cannot be found anywhere else. When a rainforest is cut down, all of them can disappear forever. Therefore, protecting rainforests is essential to __________.",
+    "options": [
+      "preserving the variety of life on Earth",
+      "building more roads between large cities",
+      "producing cheaper wood for furniture",
+      "increasing the number of tourist hotels",
+      "making the weather colder in summer"
+    ],
+    "answer": 0,
+    "translation": "열대 우림은 지구 육지의 약 6퍼센트만 차지하지만 세계 동식물종의 절반 이상이 산다. 이 숲은 우리가 마시는 산소의 상당 부분도 만든다. 이 종 중 많은 수는 다른 곳에서는 찾을 수 없다. 우림이 벌채되면 그 모든 종이 영원히 사라질 수 있다. 그러므로 우림을 보호하는 것은 지구 생명의 다양성을 보존하는 데 필수적이다.",
+    "why": "우림에 많은 종이 살고 사라지면 영원히 없어진다고 했으므로 생명의 다양성을 보존한다는 말이 알맞습니다.",
+    "optionNotes": [
+      "정답. 생명의 다양성을 보존합니다.",
+      "도로 건설은 글과 반대입니다.",
+      "가구용 싼 목재는 글과 반대입니다.",
+      "관광 호텔은 나오지 않습니다.",
+      "날씨 이야기는 나오지 않습니다."
+    ],
+    "trap": "②③④는 우림 개발을 연상시키는 보기들로 글의 방향과 반대입니다.",
+    "tip": "빈칸 앞의 결과(disappear forever)가 보호의 목적을 알려 줍니다."
+  },
+  {
+    "id": "m2-07-32",
+    "level": "m2",
+    "set": "mock-07",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "At a noisy party, you can still follow one conversation among many voices. This is called the cocktail party effect. Even in loud places, your brain can focus on the voice that interests you and filter out the rest. If someone mentions your name from across the room, you will probably notice it right away. This shows that our brain can __________.",
+    "options": [
+      "stop hearing sounds completely",
+      "make louder sounds than a machine",
+      "choose what to pay attention to",
+      "remember every sound we hear",
+      "work only when the room is quiet"
+    ],
+    "answer": 2,
+    "translation": "시끄러운 파티에서도 여러 목소리 속에서 하나의 대화를 따라갈 수 있다. 이를 칵테일 파티 효과라고 한다. 시끄러운 곳에서도 뇌는 관심 있는 목소리에 집중하고 나머지를 걸러 낼 수 있다. 누군가 방 건너편에서 당신의 이름을 말하면 아마 바로 알아챌 것이다. 이는 우리 뇌가 무엇에 주의를 기울일지 선택할 수 있음을 보여 준다.",
+    "why": "여러 소리 중 관심 있는 소리에 집중하고 나머지는 걸러 낸다는 내용이므로 주의를 기울일 대상을 선택한다는 말이 알맞습니다.",
+    "optionNotes": [
+      "소리를 완전히 듣지 않는 것은 아닙니다.",
+      "기계보다 큰 소리는 나오지 않습니다.",
+      "정답. 무엇에 집중할지 선택합니다.",
+      "모든 소리를 기억한다는 내용은 없습니다.",
+      "조용할 때만 작동한다는 것은 글과 반대입니다."
+    ],
+    "trap": "⑤는 'noisy'에서 만든 반대 방향의 보기입니다.",
+    "tip": "예시(이름을 알아챔)가 보여 주는 능력을 일반화하세요."
+  },
+  {
+    "id": "m2-07-33",
+    "level": "m2",
+    "set": "mock-07",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Imagine that you are watching a movie that you paid for, but after thirty minutes you realize that it is boring. Many people keep watching because they have already paid for the ticket. This is called the sunk cost fallacy. The money is already gone, whether you stay or leave. In other words, we often make decisions based on __________.",
+    "options": [
+      "the advice of our close friends",
+      "how popular a movie star is",
+      "the weather outside the theater",
+      "how much sleep we got last night and how tired we feel in the morning",
+      "what we have already spent rather than what we will gain"
+    ],
+    "answer": 4,
+    "translation": "돈을 내고 영화를 보고 있는데 30분 뒤에 지루하다는 것을 깨달았다고 상상해 보자. 많은 사람이 이미 표값을 냈기 때문에 계속 본다. 이를 매몰 비용의 오류라고 한다. 머물든 떠나든 돈은 이미 사라졌다. 다시 말해 우리는 흔히 앞으로 얻을 것이 아니라 이미 쓴 것에 근거해 결정을 내린다.",
+    "why": "이미 낸 돈 때문에 계속 본다는 내용이므로 앞으로 얻을 것이 아니라 이미 쓴 것에 근거한다는 말이 알맞습니다.",
+    "optionNotes": [
+      "친구의 조언은 나오지 않습니다.",
+      "영화배우 인기는 나오지 않습니다.",
+      "날씨는 나오지 않습니다.",
+      "수면 시간은 나오지 않습니다.",
+      "정답. 이미 쓴 비용에 근거해 결정합니다."
+    ],
+    "trap": "영화 이야기라서 ②를 고르기 쉽지만 핵심은 이미 낸 비용입니다.",
+    "tip": "용어 설명(sunk cost) 뒤의 'In other words'가 빈칸에 해당합니다."
+  },
+  {
+    "id": "m2-07-34",
+    "level": "m2",
+    "set": "mock-07",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Every habit has three parts: a cue, a routine, and a reward. For example, feeling stressed (cue) leads you to eat snacks (routine), which makes you feel calm for a moment (reward). Researchers say that it is very hard to remove a habit completely. However, if you keep the same cue and reward but change the routine, the new behavior can become a habit. Therefore, the best way to break a bad habit is to __________.",
+    "options": [
+      "ignore the cue and the reward",
+      "avoid every situation that makes you stressed",
+      "wait until the habit disappears naturally",
+      "replace the behavior with a healthier one that gives a similar reward",
+      "tell your friends that you have a bad habit"
+    ],
+    "answer": 3,
+    "translation": "모든 습관에는 신호, 반복 행동, 보상이라는 세 부분이 있다. 예를 들어 스트레스를 받는 것(신호)이 간식을 먹는 행동(반복 행동)으로 이어지고, 그것이 잠시 마음을 가라앉힌다(보상). 연구자들은 습관을 완전히 없애는 것은 매우 어렵다고 말한다. 그러나 같은 신호와 보상을 유지하되 반복 행동을 바꾸면 새로운 행동이 습관이 될 수 있다. 그러므로 나쁜 습관을 깨는 가장 좋은 방법은 비슷한 보상을 주는 더 건강한 행동으로 대체하는 것이다.",
+    "why": "신호와 보상은 그대로 두고 행동만 바꾸라고 했으므로 비슷한 보상을 주는 더 건강한 행동으로 대체한다는 말이 알맞습니다.",
+    "optionNotes": [
+      "신호와 보상을 무시하라는 내용은 글과 반대입니다.",
+      "스트레스 상황을 모두 피하라는 내용은 없습니다.",
+      "자연히 사라질 때까지 기다리라는 내용은 없습니다.",
+      "정답. 비슷한 보상을 주는 건강한 행동으로 대체합니다.",
+      "친구에게 알리라는 내용은 나오지 않습니다."
+    ],
+    "trap": "①은 'cue'와 'reward'를 무시하라고 해 글과 반대입니다.",
+    "tip": "However 뒤의 조건(same cue and reward, change routine)이 빈칸의 정답입니다."
+  },
+  {
+    "id": "m2-07-35",
+    "level": "m2",
+    "set": "mock-07",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Learning a second language has many benefits. ① The Eiffel Tower was built in 1889. ② It improves memory and attention. ③ Bilingual people often find it easier to switch between tasks. ④ It also helps people understand other cultures better. ⑤ For these reasons, many schools encourage students to study a foreign language.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "제2언어를 배우는 것에는 많은 이점이 있다. ① 에펠탑은 1889년에 세워졌다. ② 기억력과 주의력을 높여 준다. ③ 이중 언어 사용자는 과제 간 전환이 더 쉽다고 느끼는 경우가 많다. ④ 또한 다른 문화를 더 잘 이해하도록 돕는다. ⑤ 이런 이유로 많은 학교가 학생들에게 외국어 공부를 권장한다.",
+    "why": "글은 제2언어 학습의 이점을 설명하는데 ①은 에펠탑의 건립 연도 이야기라 흐름과 관계가 없습니다.",
+    "optionNotes": [
+      "정답(무관). 에펠탑 이야기입니다.",
+      "제2언어 학습의 이점입니다.",
+      "제2언어 학습의 이점입니다.",
+      "제2언어 학습의 이점입니다.",
+      "결론입니다."
+    ],
+    "trap": "첫 번째 번호 문장은 도입처럼 보여 지나치기 쉽습니다.",
+    "tip": "모든 번호 문장이 주제(benefits of learning a language)와 이어지는지 확인하세요."
+  },
+  {
+    "id": "m2-07-36",
+    "level": "m2",
+    "set": "mock-07",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Octopuses are masters of disguise, and this skill helps them survive in the ocean.\n(A) They can change the color and texture of their skin in less than a second. No other animal can do this so quickly.\n(B) Scientists are now studying this ability to develop new camouflage materials.\n(C) This allows them to hide from predators by looking like rocks or sand.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "문어는 위장의 달인이며 이 기술은 바다에서 살아남는 데 도움이 된다. (A) 문어는 1초도 안 되는 시간에 피부의 색과 질감을 바꿀 수 있다. (C) 이것은 바위나 모래처럼 보여 포식자로부터 숨게 해 준다. (B) 과학자들은 이제 이 능력을 연구해 새로운 위장 소재를 개발하고 있다.",
+    "why": "(A) 피부를 바꾸는 능력 → (C) 'This allows them'이 그 이점을 설명 → (B) 'this ability'를 연구하는 과학자 순서입니다.",
+    "optionNotes": [
+      "정답. 능력 → 이점 → 연구.",
+      "(B)의 'this ability'가 가리킬 능력이 앞에 없습니다.",
+      "(B)의 'this ability'가 가리킬 능력이 앞에 없습니다.",
+      "(C)의 'This'가 가리킬 능력이 앞에 없습니다.",
+      "(C)의 'This'가 가리킬 능력이 앞에 없습니다."
+    ],
+    "trap": "(B)의 'this ability'와 (C)의 'This'는 모두 (A)의 능력을 가리킵니다.",
+    "tip": "this/this ability 같은 지시어가 가리키는 앞 문장을 먼저 찾으세요."
+  },
+  {
+    "id": "m2-07-37",
+    "level": "m2",
+    "set": "mock-07",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Marie wanted to improve her English, but she did not know how to start, so she asked her teacher for advice.\n(A) Encouraged by this, she joined an English discussion club at her school.\n(B) She started by reading one short article every day.\n(C) After a few weeks, she began to understand most of the words without a dictionary.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 2,
+    "translation": "Marie는 영어 실력을 높이고 싶었지만 어떻게 시작해야 할지 몰라 선생님께 조언을 구했다. (B) 그녀는 매일 짧은 기사 하나를 읽는 것으로 시작했다. (C) 몇 주 뒤 그녀는 사전 없이도 대부분의 단어를 이해하기 시작했다. (A) 이에 고무되어 그녀는 학교의 영어 토론 동아리에 가입했다.",
+    "why": "(B) 기사 읽기 시작 → (C) 몇 주 뒤 변화 → (A) 'this'로 고무되어 동아리 가입 순서입니다.",
+    "optionNotes": [
+      "(A)의 'this'가 가리킬 성과가 앞에 없습니다.",
+      "(C)가 (A)보다 뒤에 오면 'this'가 가리킬 결과가 없습니다.",
+      "정답. 시작 → 성과 → 새 도전.",
+      "(C)의 '몇 주 뒤'가 시작(B) 전에 올 수 없습니다.",
+      "(C)가 처음에 오면 시작 전의 결과가 됩니다."
+    ],
+    "trap": "(A)의 'Encouraged by this'는 (C)의 성과를 받습니다.",
+    "tip": "시작 → 변화 → 결과의 인과와 'this'의 지시 대상을 확인하세요."
+  },
+  {
+    "id": "m2-07-38",
+    "level": "m2",
+    "set": "mock-07",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThis belief is very common, but it is not entirely accurate.\n\n[글]\nMany people think that eating late at night makes you gain weight. ( ① ) The truth is more complex. ( ② ) What matters most is the total amount of food and the quality of what you eat during the whole day. ( ③ ) However, heavy meals right before bed can make it harder to sleep well. ( ④ ) Poor sleep can in turn lead to weight gain. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "[주어진 문장] 이 믿음은 매우 흔하지만 완전히 정확하지는 않다. [글] 많은 사람들은 밤늦게 먹으면 살이 찐다고 생각한다. 진실은 더 복잡하다. 가장 중요한 것은 하루 전체의 음식 섭취량과 질이다. 하지만 자기 직전의 과식은 잠을 잘 자기 어렵게 만들 수 있다. 수면 부족은 다시 체중 증가로 이어질 수 있다.",
+    "why": "'This belief'는 첫 문장의 통념을 가리키고 뒤의 'The truth is more complex'로 이어지므로 ①에 들어갑니다.",
+    "optionNotes": [
+      "정답. 첫 문장의 믿음을 가리킵니다.",
+      "이미 'The truth is more complex'가 나온 뒤라 어색합니다.",
+      "진실 설명 뒤라 'This belief'가 어색합니다.",
+      "'However' 이후라 어색합니다.",
+      "결론 부분이라 어색합니다."
+    ],
+    "trap": "'The truth' 앞에 오는 것이 자연스럽다는 점을 놓치면 ②를 고르기 쉽습니다.",
+    "tip": "'This belief'는 바로 앞에 믿음이 소개된 문장 뒤에 옵니다."
+  },
+  {
+    "id": "m2-07-39",
+    "level": "m2",
+    "set": "mock-07",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nFor this reason, some companies now offer free language classes to their employees.\n\n[글]\nEmployees who speak more than one language bring many advantages to a company. ( ① ) They can communicate with international clients without a translator. ( ② ) They also tend to solve problems more creatively. ( ③ ) Studies even show that bilingual people have better memory. ( ④ ) Many employees say that they feel more motivated when the company supports their learning. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "[주어진 문장] 이런 이유로 일부 회사들은 이제 직원들에게 무료 어학 수업을 제공한다. [글] 둘 이상의 언어를 말하는 직원은 회사에 많은 이점을 가져다준다. 그들은 통역 없이도 해외 고객과 소통할 수 있다. 그들은 또한 문제를 더 창의적으로 해결하는 경향이 있다. 연구는 이중 언어 사용자가 기억력도 더 좋다고 보여 준다. 많은 직원은 회사가 자신의 학습을 지원하면 더 의욕이 생긴다고 말한다.",
+    "why": "'For this reason'은 앞의 여러 이점을 근거로 하고, 뒤 문장의 '회사의 학습 지원'과 이어지므로 ④에 들어갑니다.",
+    "optionNotes": [
+      "이점이 나오기 전이라 근거가 없습니다.",
+      "이점이 하나만 나왔습니다.",
+      "이점이 둘뿐이고 기억력 이점이 남았습니다.",
+      "정답. 이점을 모두 설명한 뒤 대책이 오고 뒤의 '회사가 지원하면'으로 이어집니다.",
+      "'회사의 지원'이 먼저 나온 뒤라 어색합니다."
+    ],
+    "trap": "⑤도 결론 위치처럼 보이지만 뒤 문장(직원의 반응)이 대책을 전제합니다.",
+    "tip": "'For this reason' 뒤에는 이유(이점) 전체와 이어지는 대책이 옵니다."
+  },
+  {
+    "id": "m2-07-40",
+    "level": "m2",
+    "set": "mock-07",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A company placed small plants on the desks of half of its employees. After three months, the employees with plants reported feeling less stress and more satisfaction with their jobs. They also completed their tasks about fifteen percent faster than those without plants. The researchers said that natural elements help people relax and focus.\n\n▶ Having (A) in the workplace can help employees become (B).",
+    "options": [
+      "(A) noise — (B) more tired",
+      "(A) machines — (B) less careful",
+      "(A) meetings — (B) more bored",
+      "(A) rules — (B) less friendly",
+      "(A) plants — (B) more productive and happier"
+    ],
+    "answer": 4,
+    "translation": "한 회사는 직원의 절반의 책상에 작은 식물을 놓았다. 석 달 뒤 식물이 있는 직원들은 스트레스가 줄고 직무 만족이 높아졌다고 보고했다. 그들은 또한 식물이 없는 직원들보다 업무를 약 15퍼센트 더 빨리 끝냈다. 연구자들은 자연 요소가 사람들이 긴장을 풀고 집중하도록 돕는다고 말했다. ▶ 직장에 식물이 있으면 직원들이 더 생산적이고 행복해지도록 도울 수 있다.",
+    "why": "책상의 식물이 스트레스를 줄이고 업무 속도를 높였으므로 (A)는 plants, (B)는 more productive and happier입니다.",
+    "optionNotes": [
+      "소음과 피곤은 글에 나오지 않습니다.",
+      "기계와 부주의는 글에 나오지 않습니다.",
+      "회의와 지루함은 글에 나오지 않습니다.",
+      "규칙과 불친절은 글에 나오지 않습니다.",
+      "정답. 식물이 생산성과 행복을 높입니다."
+    ],
+    "trap": "(B)가 긍정적인 보기는 ⑤뿐입니다. (A)도 글의 핵심어(plants)와 일치해야 합니다.",
+    "tip": "요약문은 실험의 조건(plants)과 결과(productive, happier)를 짝지으세요."
+  }
+]
