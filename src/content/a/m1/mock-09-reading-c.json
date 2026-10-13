@@ -1,0 +1,147 @@
+[
+  {
+    "id": "m1-09-41",
+    "level": "m1",
+    "set": "mock-09",
+    "no": 41,
+    "type": "long",
+    "group": "m1-09-g41",
+    "stem": "[41~42] 윗글의 제목으로 가장 적절한 것을 고르시오.",
+    "passage": "There was an old bench in front of Sora's school. It was broken, and nobody sat on it. One day, Sora brought paint and a brush. She {1|painted} the bench blue and drew small flowers on it. The next day, her classmates {2|joined} her and cleaned the yard. A teacher brought some plants. Soon the corner became a {3|dirty} garden. Now many students {4|enjoy} eating lunch there. Sora learned that one small action can {5|change} a place.",
+    "options": [
+      "From a Broken Bench to a Garden",
+      "A Teacher Who Loves Plants",
+      "Sora's Lost Paint Brush",
+      "The Longest and Oldest Bench in the Whole Town",
+      "How to Cook Lunch at School"
+    ],
+    "answer": 0,
+    "translation": "소라네 학교 앞에는 오래된 벤치가 있었다. 그것은 부서져 있어서 아무도 앉지 않았다. 어느 날 소라는 페인트와 붓을 가져왔다. 그녀는 벤치를 파랗게 칠하고 작은 꽃을 그렸다. 다음 날 반 친구들이 함께 와서 마당을 청소했다. 한 선생님이 식물을 가져왔다. 곧 그 구석은 아름다운 정원이 되었다. 이제 많은 학생이 그곳에서 점심 먹는 것을 즐긴다. 소라는 작은 행동 하나가 장소를 바꿀 수 있음을 배웠다.",
+    "why": "부서진 벤치가 소라의 행동으로 정원이 된 이야기이므로 ①이 제목입니다.",
+    "optionNotes": [
+      "정답. 부서진 벤치가 정원이 된 이야기입니다.",
+      "선생님은 식물을 가져온 인물일 뿐입니다.",
+      "잃어버린 붓은 나오지 않습니다.",
+      "벤치의 길이는 나오지 않습니다.",
+      "요리법은 나오지 않습니다."
+    ],
+    "trap": "②는 지문의 일부 인물만 가져온 보기입니다. 핵심 변화는 벤치에서 정원으로입니다.",
+    "tip": "이야기글의 제목은 처음 상태와 결과의 변화를 담으세요."
+  },
+  {
+    "id": "m1-09-42",
+    "level": "m1",
+    "set": "mock-09",
+    "no": 42,
+    "type": "long",
+    "group": "m1-09-g41",
+    "stem": "[41~42] 밑줄 친 ①~⑤ 중에서 문맥상 낱말의 쓰임이 적절하지 않은 것을 고르시오.",
+    "passage": "There was an old bench in front of Sora's school. It was broken, and nobody sat on it. One day, Sora brought paint and a brush. She {1|painted} the bench blue and drew small flowers on it. The next day, her classmates {2|joined} her and cleaned the yard. A teacher brought some plants. Soon the corner became a {3|dirty} garden. Now many students {4|enjoy} eating lunch there. Sora learned that one small action can {5|change} a place.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "(41번 지문과 같은 글입니다.)",
+    "why": "꽃을 그리고 식물을 가져와 꾸몄으므로 구석이 '더러운(dirty)' 정원이 아니라 '아름다운(beautiful)' 정원이 되어야 합니다.",
+    "optionNotes": [
+      "칠했다는 의미로 painted가 알맞습니다.",
+      "함께했다는 의미로 joined가 알맞습니다.",
+      "정답(부적절). 꾸민 결과이므로 beautiful이 알맞습니다.",
+      "즐긴다는 의미로 enjoy가 알맞습니다.",
+      "바꿀 수 있다는 의미로 change가 알맞습니다."
+    ],
+    "trap": "'became a dirty garden'은 문법적으로 자연스럽지만 앞의 행동(칠하기, 청소, 식물)과 모순됩니다.",
+    "tip": "결과를 나타내는 형용사는 앞의 행동과 방향이 일치하는지 확인하세요."
+  },
+  {
+    "id": "m1-09-43",
+    "level": "m1",
+    "set": "mock-09",
+    "no": 43,
+    "type": "long",
+    "group": "m1-09-g43",
+    "stem": "[43~45] 주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것을 고르시오.",
+    "passage": "(A) Jun wanted to ride a bike without help. His father taught him for a week, but {1|he} still fell down every time.\n(B) Jun stopped and turned around. His father was standing far away, and {2|he} shouted, \"You did it!\"\n(C) At the end of the day, Jun thanked his father. {3|He} was so happy that he rode twice more.\n(D) On Saturday, they went to the park again. His father held the seat and ran next to him. {4|He} pedaled hard and looked ahead. Suddenly, {5|he} noticed that nobody was holding the seat.",
+    "options": [
+      "(B)-(D)-(C)",
+      "(C)-(B)-(D)",
+      "(C)-(D)-(B)",
+      "(D)-(B)-(C)",
+      "(D)-(C)-(B)"
+    ],
+    "answer": 3,
+    "translation": "(A) 준은 도움 없이 자전거를 타고 싶었다. 아버지가 일주일 동안 가르쳐 주었지만 그는 여전히 매번 넘어졌다. (D) 토요일에 그들은 다시 공원에 갔다. 아버지는 안장을 잡고 그의 옆에서 달렸다. 그는 열심히 페달을 밟으며 앞을 보았다. 갑자기 그는 아무도 안장을 잡고 있지 않다는 것을 알아챘다. (B) 준은 멈추어 뒤를 돌아보았다. 아버지는 멀리 서 있었고 \"해냈구나!\"라고 외쳤다. (C) 하루가 끝날 무렵 준은 아버지께 감사했다. 그는 너무 행복해서 두 번 더 탔다.",
+    "why": "(A) 매번 넘어짐 → (D) 공원에서 혼자 타고 있음을 알아챔 → (B) 멈추어 돌아봄 → (C) 하루가 끝날 무렵 순서입니다.",
+    "optionNotes": [
+      "(B)의 외침이 (D)의 혼자 타기보다 앞설 수 없습니다.",
+      "(C)의 하루 끝이 처음에 올 수 없습니다.",
+      "(C)가 (B)보다 앞서면 외침 전에 하루가 끝납니다.",
+      "정답. 연습 → 알아챔 → 외침 → 하루의 끝.",
+      "(C)가 (B)보다 앞서면 외침 전에 하루가 끝납니다."
+    ],
+    "trap": "(B)의 'You did it!'은 혼자 탄 것을 알아챈 (D) 뒤에 옵니다.",
+    "tip": "On Saturday → turned around → At the end of the day의 시간 흐름을 따라가세요."
+  },
+  {
+    "id": "m1-09-44",
+    "level": "m1",
+    "set": "mock-09",
+    "no": 44,
+    "type": "long",
+    "group": "m1-09-g43",
+    "stem": "[43~45] 밑줄 친 ①~⑤ 중에서 가리키는 대상이 나머지 넷과 다른 것을 고르시오.",
+    "passage": "(A) Jun wanted to ride a bike without help. His father taught him for a week, but {1|he} still fell down every time.\n(B) Jun stopped and turned around. His father was standing far away, and {2|he} shouted, \"You did it!\"\n(C) At the end of the day, Jun thanked his father. {3|He} was so happy that he rode twice more.\n(D) On Saturday, they went to the park again. His father held the seat and ran next to him. {4|He} pedaled hard and looked ahead. Suddenly, {5|he} noticed that nobody was holding the seat.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "②의 he는 멀리서 \"해냈구나!\"라고 외친 아버지이고, 나머지 ①③④⑤는 모두 준을 가리킵니다.",
+    "optionNotes": [
+      "he는 여전히 매번 넘어진 준입니다.",
+      "정답. he는 소리친 아버지입니다.",
+      "He는 너무 행복했던 준입니다.",
+      "He는 열심히 페달을 밟은 준입니다.",
+      "he는 안장을 잡은 사람이 없음을 알아챈 준입니다."
+    ],
+    "trap": "두 인물이 모두 남성이라 he만으로는 구분되지 않습니다. 동작의 주체로 판단하세요.",
+    "tip": "같은 성별의 두 인물이 나오면 각 문장의 동작과 직전 주어를 확인하세요."
+  },
+  {
+    "id": "m1-09-45",
+    "level": "m1",
+    "set": "mock-09",
+    "no": 45,
+    "type": "long",
+    "group": "m1-09-g43",
+    "stem": "[43~45] 윗글에 관한 내용으로 적절하지 않은 것을 고르시오.",
+    "passage": "(A) Jun wanted to ride a bike without help. His father taught him for a week, but {1|he} still fell down every time.\n(B) Jun stopped and turned around. His father was standing far away, and {2|he} shouted, \"You did it!\"\n(C) At the end of the day, Jun thanked his father. {3|He} was so happy that he rode twice more.\n(D) On Saturday, they went to the park again. His father held the seat and ran next to him. {4|He} pedaled hard and looked ahead. Suddenly, {5|he} noticed that nobody was holding the seat.",
+    "options": [
+      "준은 일주일 동안 혼자서 자전거를 연습했다.",
+      "아버지는 공원에서 안장을 잡고 옆에서 달렸다.",
+      "준은 아무도 안장을 잡고 있지 않다는 것을 알아챘다.",
+      "아버지는 멀리서 \"해냈구나!\"라고 외쳤다.",
+      "준은 하루가 끝날 무렵 아버지께 감사했다."
+    ],
+    "answer": 0,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "일주일 동안 준을 가르친 사람은 아버지이므로 혼자서 연습했다는 ①은 일치하지 않습니다.",
+    "optionNotes": [
+      "정답(불일치). 아버지가 일주일 동안 가르쳐 주었습니다.",
+      "held the seat and ran next to him과 일치합니다.",
+      "noticed that nobody was holding the seat와 일치합니다.",
+      "shouted, \"You did it!\"과 일치합니다.",
+      "thanked his father와 일치합니다."
+    ],
+    "trap": "'taught him for a week'를 놓치면 혼자 연습했다는 보기를 맞다고 착각합니다.",
+    "tip": "불일치 문제는 행동의 주체(누가 가르쳤는가)가 바뀐 보기를 확인하세요."
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m1-09-29",
+    "level": "m1",
+    "set": "mock-09",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "My uncle {1|is} a firefighter. He {2|works} at the fire station near my school. Every day, he {3|checks} the fire truck. He {4|wears} a red helmet. On weekends, he {5|play} soccer with his friends.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "우리 삼촌은 소방관이다. 그는 우리 학교 근처의 소방서에서 일한다. 매일 그는 소방차를 점검한다. 그는 빨간 헬멧을 쓴다. 주말에 그는 친구들과 축구를 한다.",
+    "why": "주어 'he'는 3인칭 단수이므로 'play'가 아니라 'plays'여야 합니다.",
+    "optionNotes": [
+      "단수 주어 My uncle에 맞는 is입니다.",
+      "3인칭 단수 주어 He에 맞는 works입니다.",
+      "3인칭 단수 주어 he에 맞는 checks입니다.",
+      "3인칭 단수 주어 He에 맞는 wears입니다.",
+      "정답(틀린 것). 3인칭 단수이므로 plays여야 합니다."
+    ],
+    "trap": "'On weekends,'처럼 부사구 뒤에서 주어(he)를 놓치기 쉽습니다.",
+    "tip": "일반동사 현재형은 주어가 3인칭 단수일 때 -(e)s를 확인하세요."
+  },
+  {
+    "id": "m1-09-30",
+    "level": "m1",
+    "set": "mock-09",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Last weekend, my family went to the mountain. The air was {1|fresh} and the sky was {2|clear}. We {3|climbed} to the top and had a picnic. The view was very {4|beautiful}. It was a great day, so I felt very {5|sad}.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "지난 주말 우리 가족은 산에 갔다. 공기는 신선했고 하늘은 맑았다. 우리는 정상까지 올라가 소풍을 했다. 경치는 매우 아름다웠다. 멋진 하루여서 나는 매우 행복했다.",
+    "why": "멋진 하루였다는 문장 뒤에 이어지므로 'sad'가 아니라 'happy'여야 합니다.",
+    "optionNotes": [
+      "공기가 신선하다는 의미로 fresh가 알맞습니다.",
+      "하늘이 맑다는 의미로 clear가 알맞습니다.",
+      "정상까지 올랐다는 의미로 climbed가 알맞습니다.",
+      "경치가 아름답다는 의미로 beautiful이 알맞습니다.",
+      "정답(부적절). 멋진 하루였으므로 happy가 알맞습니다."
+    ],
+    "trap": "'so I felt very'라는 구조에서 앞 문장의 감정과 이어지는지 확인해야 합니다.",
+    "tip": "감정 낱말은 앞 문장의 분위기(great day)와 맞는지 확인하세요."
+  },
+  {
+    "id": "m1-09-31",
+    "level": "m1",
+    "set": "mock-09",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Sharks must keep moving to stay alive. Water has to flow through their gills so they can take in oxygen. If a shark stops, it cannot breathe well. So a shark __________ even when it rests.",
+    "options": [
+      "sinks to the sea floor and sleeps",
+      "eats many fish at night",
+      "keeps moving through the water to get oxygen",
+      "hides in a small cave",
+      "lives only in warm water"
+    ],
+    "answer": 2,
+    "translation": "상어는 살아남으려면 계속 움직여야 한다. 산소를 얻으려면 물이 아가미를 통해 흘러야 한다. 상어가 멈추면 숨을 잘 쉴 수 없다. 그래서 상어는 쉴 때에도 산소를 얻기 위해 물속에서 계속 움직인다.",
+    "why": "상어는 멈추면 숨쉬기 어렵기 때문에 쉴 때에도 산소를 얻으려 계속 움직입니다.",
+    "optionNotes": [
+      "바다 바닥에 가라앉으면 숨쉬기 어렵다는 글과 반대입니다.",
+      "먹이 이야기는 나오지 않습니다.",
+      "정답. 산소를 얻기 위해 계속 움직입니다.",
+      "동굴은 나오지 않습니다.",
+      "서식지는 나오지 않습니다."
+    ],
+    "trap": "'rests'를 보고 ①을 고르기 쉽지만 글은 쉴 때도 움직인다고 말합니다.",
+    "tip": "앞 문장의 원인(멈추면 숨쉬기 어렵다)이 빈칸의 결과를 알려 줍니다."
+  },
+  {
+    "id": "m1-09-32",
+    "level": "m1",
+    "set": "mock-09",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Dolphins talk to each other with whistles. Each dolphin has its own whistle. This sound helps them find friends in the sea. When dolphins meet, they call each other by their whistles. A whistle is like a __________ for a dolphin.",
+    "options": [
+      "home",
+      "job",
+      "name",
+      "friend",
+      "toy"
+    ],
+    "answer": 2,
+    "translation": "돌고래는 휘파람 소리로 서로 대화한다. 각 돌고래는 자기만의 휘파람 소리가 있다. 이 소리는 바다에서 친구를 찾는 데 도움이 된다. 돌고래는 만나면 휘파람 소리로 서로를 부른다. 휘파람 소리는 돌고래에게 이름과 같다.",
+    "why": "각자 고유한 소리로 서로를 부르므로 사람의 이름과 같다는 의미의 'name'이 알맞습니다.",
+    "optionNotes": [
+      "집이 아닙니다.",
+      "직업이 아닙니다.",
+      "정답. 서로를 부르는 이름과 같습니다.",
+      "친구가 아닙니다.",
+      "장난감이 아닙니다."
+    ],
+    "trap": "'call each other'의 핵심은 부르는 이름입니다. friend와 혼동하지 마세요.",
+    "tip": "'its own', 'call each other'가 빈칸의 단서입니다."
+  },
+  {
+    "id": "m1-09-33",
+    "level": "m1",
+    "set": "mock-09",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A good night's sleep helps your brain. While you sleep, your brain organizes what you learned during the day. So studying all night before a test is not a good idea. You should __________ to remember what you studied.",
+    "options": [
+      "watch a long movie",
+      "eat a big dinner",
+      "study until morning",
+      "play games with friends",
+      "get enough sleep"
+    ],
+    "answer": 4,
+    "translation": "푹 자는 것은 뇌에 도움이 된다. 잠자는 동안 뇌는 낮에 배운 것을 정리한다. 그래서 시험 전에 밤새 공부하는 것은 좋은 생각이 아니다. 공부한 것을 기억하려면 충분히 자야 한다.",
+    "why": "잠자는 동안 뇌가 배운 것을 정리하므로 기억하려면 충분히 자야 합니다.",
+    "optionNotes": [
+      "영화는 나오지 않습니다.",
+      "저녁 식사는 나오지 않습니다.",
+      "밤샘 공부는 좋지 않다고 했습니다.",
+      "게임은 나오지 않습니다.",
+      "정답. 충분히 자야 기억할 수 있습니다."
+    ],
+    "trap": "'studied'가 들어간 ③에 이끌리지 마세요. 글은 밤샘 공부를 반대합니다.",
+    "tip": "'So ~ is not a good idea' 뒤의 권고가 빈칸입니다."
+  },
+  {
+    "id": "m1-09-34",
+    "level": "m1",
+    "set": "mock-09",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Ice floats on water. When water freezes, it becomes lighter than liquid water. So lakes freeze from the top, and fish can live under the ice. If ice sank, the whole lake would freeze, and __________.",
+    "options": [
+      "the lake would get warmer",
+      "the fish could not survive the winter",
+      "the water would taste sweet",
+      "the ice would be very thin",
+      "the sun would look bigger"
+    ],
+    "answer": 1,
+    "translation": "얼음은 물 위에 뜬다. 물이 얼면 액체인 물보다 가벼워진다. 그래서 호수는 위에서부터 얼고 물고기는 얼음 아래에서 살 수 있다. 얼음이 가라앉는다면 호수 전체가 얼 것이고 물고기는 겨울을 살아 넘길 수 없을 것이다.",
+    "why": "호수 전체가 얼면 물고기가 살 곳이 없어지므로 겨울을 넘기지 못합니다.",
+    "optionNotes": [
+      "호수가 따뜻해진다는 내용은 없습니다.",
+      "정답. 호수 전체가 얼면 물고기가 살 수 없습니다.",
+      "맛 이야기는 나오지 않습니다.",
+      "얼음 두께는 나오지 않습니다.",
+      "태양은 나오지 않습니다."
+    ],
+    "trap": "'fish can live under the ice'의 반대 상황을 생각해야 합니다.",
+    "tip": "가정(If ~ sank)의 결과는 앞 문장의 좋은 점이 사라진다는 내용입니다."
+  },
+  {
+    "id": "m1-09-35",
+    "level": "m1",
+    "set": "mock-09",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Singing is good for everyone. ① It makes you feel happy. ② It helps you breathe deeply. ③ You can make new friends in a school choir. ④ Many cars use electric power these days. ⑤ So try singing every day.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "노래하기는 모든 사람에게 좋다. ① 기분을 행복하게 만든다. ② 깊게 숨 쉬는 데 도움이 된다. ③ 학교 합창단에서 새 친구를 사귈 수 있다. ④ 요즘 많은 자동차가 전기를 쓴다. ⑤ 그러니 매일 노래해 보자.",
+    "why": "글은 노래의 좋은 점을 말하는데 ④는 자동차의 전기 이야기라 관계가 없습니다.",
+    "optionNotes": [
+      "노래의 좋은 점입니다.",
+      "노래의 좋은 점입니다.",
+      "노래의 좋은 점입니다.",
+      "정답(무관). 자동차 이야기입니다.",
+      "결론입니다."
+    ],
+    "trap": "'power'가 'energy'처럼 들려 몸의 힘과 연결해 착각하기 쉽습니다.",
+    "tip": "무관한 문장은 글의 주제(singing)와 이어지는 내용이 없습니다."
+  },
+  {
+    "id": "m1-09-36",
+    "level": "m1",
+    "set": "mock-09",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Mina wanted to grow a sunflower.\n(A) First, she put a seed in a small pot and gave it water.\n(B) Finally, a bright yellow flower opened in the sun.\n(C) A week later, a small green leaf came up from the soil.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "미나는 해바라기를 키우고 싶었다. (A) 먼저 그녀는 작은 화분에 씨앗을 넣고 물을 주었다. (C) 일주일 뒤 작은 초록 잎이 흙에서 올라왔다. (B) 마침내 밝은 노란 꽃이 햇빛 속에서 활짝 피었다.",
+    "why": "(A) 씨앗 심기 → (C) 일주일 뒤 잎 → (B) 마침내 꽃 순서입니다.",
+    "optionNotes": [
+      "정답. 씨앗 → 잎 → 꽃.",
+      "(B)의 'Finally'는 처음에 올 수 없습니다.",
+      "(B)의 'Finally'는 처음에 올 수 없습니다.",
+      "(C)의 잎이 (A)의 씨앗 심기보다 앞설 수 없습니다.",
+      "(C)와 (B)가 (A)보다 앞설 수 없습니다."
+    ],
+    "trap": "(C)의 'A week later'만 보면 앞의 사건이 필요하다는 점을 놓칩니다.",
+    "tip": "First → A week later → Finally 같은 순서 표현을 따라가세요."
+  },
+  {
+    "id": "m1-09-37",
+    "level": "m1",
+    "set": "mock-09",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Ben was late for school this morning.\n(A) At last, he ran into the classroom, and the teacher smiled at him.\n(B) Then he ran to the bus stop, but the bus had already left.\n(C) He woke up at eight, and the first class was at eight thirty.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 4,
+    "translation": "벤은 오늘 아침 학교에 지각했다. (C) 그는 8시에 일어났고 첫 수업은 8시 30분이었다. (B) 그러고 나서 그는 버스 정류장으로 달려갔지만 버스는 이미 떠난 뒤였다. (A) 마침내 그는 교실로 뛰어 들어갔고 선생님이 그에게 미소 지었다.",
+    "why": "(C) 늦게 일어남 → (B) 버스를 놓침 → (A) 마침내 교실에 도착 순서입니다.",
+    "optionNotes": [
+      "(A)의 'At last'가 처음에 올 수 없습니다.",
+      "(B)와 (A)가 (C)의 원인보다 앞설 수 없습니다.",
+      "(B)가 (C)보다 앞서면 늦게 일어난 원인이 나중에 나옵니다.",
+      "(A)의 도착이 (B)의 버스 놓침보다 앞설 수 없습니다.",
+      "정답. 늦잠 → 버스 놓침 → 도착."
+    ],
+    "trap": "(A)의 'At last'는 마지막 사건에 놓입니다.",
+    "tip": "원인(woke up at eight) → 결과(missed the bus) → 결말(At last)의 흐름을 확인하세요."
+  },
+  {
+    "id": "m1-09-38",
+    "level": "m1",
+    "set": "mock-09",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nBut the kitchen was a big mess.\n\n[글]\n( ① ) Mina and her brother made pancakes for breakfast. ( ② ) They mixed eggs, milk, and flour in a big bowl. ( ③ ) In twenty minutes, they had six golden pancakes. ( ④ ) So they cleaned it together before eating. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "[주어진 문장] 하지만 부엌은 엉망이었다. [글] 미나와 남동생은 아침으로 팬케이크를 만들었다. 그들은 큰 그릇에 달걀, 우유, 밀가루를 섞었다. 20분 뒤 그들은 노릇한 팬케이크 여섯 개를 만들었다. 하지만 부엌은 엉망이었다. 그래서 그들은 먹기 전에 함께 치웠다.",
+    "why": "'But'은 앞의 성공(팬케이크 완성)과 대조되고 뒤의 'So they cleaned it'과 이어지므로 ④에 들어갑니다.",
+    "optionNotes": [
+      "글의 첫 부분이라 'But'이 어색합니다.",
+      "재료를 섞는 도중이라 대조할 내용이 없습니다.",
+      "팬케이크가 완성되기 전이라 흐름이 맞지 않습니다.",
+      "정답. 완성과 대조되고 'it'은 부엌을 가리킵니다.",
+      "치운 뒤라 'But'이 어색합니다."
+    ],
+    "trap": "뒤 문장의 'it'이 가리키는 것이 부엌임을 놓치기 쉽습니다.",
+    "tip": "But은 앞 문장과 반대되는 내용을 이끌고, 뒤 문장의 대명사가 가리키는 대상을 확인하세요."
+  },
+  {
+    "id": "m1-09-39",
+    "level": "m1",
+    "set": "mock-09",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nIn short, a cat's long sleep is a natural habit, not laziness.\n\n[글]\n( ① ) Cats sleep for about fifteen hours a day. ( ② ) Some people think that cats are lazy. ( ③ ) However, in the wild, cats hunt hard at dawn and at dusk. ( ④ ) Sleeping during the day gives them energy for the hunt. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "[주어진 문장] 요컨대 고양이의 긴 잠은 게으름이 아니라 자연스러운 습성이다. [글] 고양이는 하루에 약 15시간을 잔다. 어떤 사람들은 고양이가 게으르다고 생각한다. 그러나 야생에서 고양이는 새벽과 해질녘에 열심히 사냥한다. 낮에 자는 것은 사냥을 위한 에너지를 준다. 요컨대 고양이의 긴 잠은 게으름이 아니라 자연스러운 습성이다.",
+    "why": "'In short'는 앞 내용을 정리하는 결론이므로 모든 설명이 끝난 ⑤에 들어갑니다.",
+    "optionNotes": [
+      "글의 첫 부분이라 결론이 어색합니다.",
+      "게으르다는 생각만 나온 뒤라 결론이 어색합니다.",
+      "사냥 이야기가 이어지므로 아직 결론이 아닙니다.",
+      "낮잠의 이유가 나온 직후이지만 그 뒤에 결론이 나와야 합니다.",
+      "정답. 설명을 모두 정리하는 결론입니다."
+    ],
+    "trap": "④ 뒤에 놓아도 될 듯하지만, 'In short' 뒤에는 더 이어지는 설명이 없어야 합니다.",
+    "tip": "'In short', 'Therefore' 같은 결론 연결어는 글의 마지막에 놓입니다."
+  },
+  {
+    "id": "m1-09-40",
+    "level": "m1",
+    "set": "mock-09",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Two classes tried a test for two weeks. Class A put their phones in a box during lunch. Class B used their phones as usual. After two weeks, the students in Class A talked with their friends more. They also said that they felt less lonely.\n\n▶ When students (A) their phones at lunch, they (B) more with friends.",
+    "options": [
+      "(A) used — (B) slept",
+      "(A) put away — (B) talked",
+      "(A) lost — (B) cried",
+      "(A) charged — (B) ran",
+      "(A) sold — (B) ate"
+    ],
+    "answer": 1,
+    "translation": "두 학급이 2주 동안 실험을 했다. A반은 점심시간에 휴대전화를 상자에 넣었다. B반은 평소처럼 휴대전화를 사용했다. 2주 뒤 A반 학생들은 친구들과 더 많이 이야기했다. 그들은 또 덜 외롭다고 말했다. ▶ 학생들이 점심시간에 휴대전화를 치우면 친구들과 더 많이 이야기한다.",
+    "why": "휴대전화를 상자에 넣은 A반이 친구들과 더 많이 이야기했으므로 (A)는 put away, (B)는 talked입니다.",
+    "optionNotes": [
+      "used와 slept는 글에 나오지 않습니다.",
+      "정답. 휴대전화를 치우면 더 많이 이야기합니다.",
+      "lost와 cried는 글에 나오지 않습니다.",
+      "charged와 ran은 글에 나오지 않습니다.",
+      "sold와 ate는 글에 나오지 않습니다."
+    ],
+    "trap": "'used'는 B반의 행동입니다. 실험 결과가 나온 A반을 기준으로 고르세요.",
+    "tip": "요약문은 행동(put away)과 결과(talked)를 짝지어 찾으세요."
+  }
+]
