@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m1-07-29",
+    "level": "m1",
+    "set": "mock-07",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Tom {1|is} my best friend. He {2|lives} near my house. We often {3|plays} soccer together after school. After the game, we {4|drink} water. We always have {5|fun}.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "Tom은 내 가장 친한 친구이다. 그는 우리 집 근처에 산다. 우리는 방과 후에 종종 함께 축구를 한다. 경기가 끝난 뒤 우리는 물을 마신다. 우리는 항상 즐겁다.",
+    "why": "주어 'We'는 복수이므로 'plays'가 아니라 'play'여야 합니다.",
+    "optionNotes": [
+      "단수 주어 Tom에 맞는 is입니다.",
+      "3인칭 단수 주어 He에 맞는 lives입니다.",
+      "정답(틀린 것). 복수 주어 We에는 play를 씁니다.",
+      "복수 주어 we에 맞는 drink입니다.",
+      "have fun이 맞습니다."
+    ],
+    "trap": "Tom 이야기에서 이어져 주어를 3인칭 단수로 착각하기 쉽습니다.",
+    "tip": "동사 바로 앞의 주어(We)를 먼저 확인하세요."
+  },
+  {
+    "id": "m1-07-30",
+    "level": "m1",
+    "set": "mock-07",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Summer is a {1|cold} season. The days are {2|long}, and the sun is {3|hot}. People eat {4|ice} cream and drink cold drinks. Many families go to the {5|beach}.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "여름은 더운 계절이다. 낮이 길고 해가 뜨겁다. 사람들은 아이스크림을 먹고 차가운 음료를 마신다. 많은 가족이 해변에 간다.",
+    "why": "해가 뜨겁고 차가운 음료를 마신다고 했으므로 여름은 'cold'가 아니라 'hot'한 계절입니다.",
+    "optionNotes": [
+      "정답(부적절). 여름은 더운 계절입니다.",
+      "여름의 낮이 길다는 의미로 long이 알맞습니다.",
+      "해가 뜨겁다는 의미로 hot이 알맞습니다.",
+      "아이스크림이라는 의미로 ice가 알맞습니다.",
+      "해변에 간다는 의미로 beach가 알맞습니다."
+    ],
+    "trap": "첫 낱말이라 문장 전체를 읽기 전에 지나치기 쉽습니다.",
+    "tip": "첫 문장 낱말도 뒤 문장(hot, cold drinks)과 모순되는지 확인하세요."
+  },
+  {
+    "id": "m1-07-31",
+    "level": "m1",
+    "set": "mock-07",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Ants are very small, but they can carry food much heavier than themselves. One ant cannot carry a big piece of bread alone. So many ants gather around it and push it together. They don't need a boss to give orders. Ants are strong because they work __________.",
+    "options": [
+      "in different rooms",
+      "all night without sleep",
+      "together as a team",
+      "faster than a person",
+      "on top of a high tree"
+    ],
+    "answer": 2,
+    "translation": "개미는 매우 작지만 자기보다 훨씬 무거운 음식을 나를 수 있다. 개미 한 마리는 큰 빵 조각을 혼자 나를 수 없다. 그래서 많은 개미가 그 주위에 모여 함께 민다. 그들은 명령을 내릴 우두머리가 필요 없다. 개미는 팀으로 함께 일하기 때문에 강하다.",
+    "why": "여러 마리가 함께 밀어 나른다고 했으므로 팀으로 함께 일한다는 말이 알맞습니다.",
+    "optionNotes": [
+      "다른 방에서 일한다는 것은 글과 반대입니다.",
+      "밤새 일한다는 내용은 없습니다.",
+      "정답. 팀으로 함께 일합니다.",
+      "사람보다 빠르다는 내용은 없습니다.",
+      "높은 나무 위라는 내용은 없습니다."
+    ],
+    "trap": "①은 'together'와 반대 의미의 보기입니다.",
+    "tip": "빈칸 앞의 구체적 묘사(gather and push together)가 근거입니다."
+  },
+  {
+    "id": "m1-07-32",
+    "level": "m1",
+    "set": "mock-07",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "When a honeybee finds flowers with a lot of food, it comes back to the hive. Then it does a special dance. The direction and speed of the dance tell where the flowers are. The other bees watch the dance carefully. This dance helps the other bees __________.",
+    "options": [
+      "find the food easily",
+      "sleep in a safe place",
+      "make a bigger hive",
+      "stay away from rain",
+      "fly higher than birds"
+    ],
+    "answer": 0,
+    "translation": "꿀벌은 먹이가 많은 꽃을 발견하면 벌집으로 돌아와 특별한 춤을 춘다. 춤의 방향과 속도가 꽃이 어디에 있는지 알려 준다. 다른 벌들은 춤을 주의 깊게 본다. 이 춤은 다른 벌들이 먹이를 쉽게 찾도록 돕는다.",
+    "why": "춤이 꽃의 위치를 알려 주므로 다른 벌들이 먹이를 쉽게 찾도록 돕습니다.",
+    "optionNotes": [
+      "정답. 먹이를 쉽게 찾도록 돕습니다.",
+      "잠자리 이야기는 나오지 않습니다.",
+      "벌집 크기는 나오지 않습니다.",
+      "비를 피하는 것은 나오지 않습니다.",
+      "새보다 높이 나는 것은 나오지 않습니다."
+    ],
+    "trap": "벌에 대한 일반 상식이 아니라 글의 근거(tell where the flowers are)를 확인하세요.",
+    "tip": "빈칸 바로 앞 문장(춤이 위치를 알려 줌)이 직접 근거입니다."
+  },
+  {
+    "id": "m1-07-33",
+    "level": "m1",
+    "set": "mock-07",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "If you put a plant near a window, the plant bends toward the light. This happens because plants use light to make food. The side of the plant that gets less light grows faster, so the plant bends. A plant bends toward the window because it __________.",
+    "options": [
+      "wants to listen to the street",
+      "likes to watch people",
+      "feels cold in the room",
+      "needs light to make food",
+      "is afraid of the dark room"
+    ],
+    "answer": 3,
+    "translation": "식물을 창가 근처에 두면 식물은 빛 쪽으로 휜다. 이는 식물이 빛을 이용해 양분을 만들기 때문이다. 빛을 덜 받는 쪽이 더 빨리 자라서 식물이 휜다. 식물은 양분을 만들기 위해 빛이 필요해서 창문 쪽으로 휜다.",
+    "why": "식물이 빛을 이용해 양분을 만들므로 빛이 필요해서 창문 쪽으로 휩니다.",
+    "optionNotes": [
+      "거리 소리를 듣고 싶어서가 아닙니다.",
+      "사람을 보고 싶어서가 아닙니다.",
+      "추워서가 아닙니다.",
+      "정답. 양분을 만들기 위해 빛이 필요합니다.",
+      "어두운 방이 무서워서가 아닙니다."
+    ],
+    "trap": "①②⑤는 식물에 감정을 부여한 오답입니다.",
+    "tip": "'This happens because ~' 뒤의 원인이 빈칸의 근거입니다."
+  },
+  {
+    "id": "m1-07-34",
+    "level": "m1",
+    "set": "mock-07",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A plastic bottle takes about 450 years to break down in nature. Every year, millions of plastic bottles end up in the sea and hurt animals. We can use a water bottle many times instead of buying new ones. So we should __________.",
+    "options": [
+      "throw away bottles in the sea",
+      "buy more plastic bottles every day at the store",
+      "keep bottles on the street",
+      "stop drinking water",
+      "reduce the use of plastic bottles"
+    ],
+    "answer": 4,
+    "translation": "플라스틱 병은 자연에서 분해되는 데 약 450년이 걸린다. 해마다 수백만 개의 플라스틱 병이 바다로 흘러가 동물들을 해친다. 우리는 새 병을 사는 대신 물병을 여러 번 쓸 수 있다. 그러므로 플라스틱 병의 사용을 줄여야 한다.",
+    "why": "플라스틱 병이 환경에 해롭다고 했으므로 사용을 줄여야 한다는 말이 알맞습니다.",
+    "optionNotes": [
+      "바다에 버리는 것은 글과 반대입니다.",
+      "더 많이 사는 것은 글과 반대입니다.",
+      "거리에 두는 것은 글과 반대입니다.",
+      "물을 마시지 말라는 내용은 아닙니다.",
+      "정답. 플라스틱 병 사용을 줄여야 합니다."
+    ],
+    "trap": "④는 'water bottle'에서 연상한 극단적인 보기입니다.",
+    "tip": "'So we should ~' 빈칸은 앞의 문제를 해결하는 행동입니다."
+  },
+  {
+    "id": "m1-07-35",
+    "level": "m1",
+    "set": "mock-07",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Bicycles are good for the environment. ① They don't make smoke. ② They don't need gas or oil. ③ My uncle works at a bank near the station. ④ They are quiet and don't make noise. ⑤ So riding a bicycle helps keep our city clean.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "자전거는 환경에 좋다. ① 연기를 내지 않는다. ② 휘발유나 기름이 필요 없다. ③ 우리 삼촌은 역 근처 은행에서 일하신다. ④ 조용해서 소음을 내지 않는다. ⑤ 그래서 자전거를 타는 것은 도시를 깨끗하게 하는 데 도움이 된다.",
+    "why": "글은 자전거가 환경에 좋은 이유를 설명하는데 ③은 삼촌의 직업 이야기라 흐름과 관계가 없습니다.",
+    "optionNotes": [
+      "자전거의 장점입니다.",
+      "자전거의 장점입니다.",
+      "정답(무관). 삼촌의 직업 이야기입니다.",
+      "자전거의 장점입니다.",
+      "결론입니다."
+    ],
+    "trap": "'station'이 교통 이야기와 연결되어 보이지만 글의 논점과 무관합니다.",
+    "tip": "무관한 문장은 중심 소재(bicycles)와 이어지지 않습니다."
+  },
+  {
+    "id": "m1-07-36",
+    "level": "m1",
+    "set": "mock-07",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Amy wanted to learn how to swim.\n(A) At first, she was afraid, but her teacher helped her.\n(B) So she joined a class at the sports center.\n(C) After two months, she could swim across the pool.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 1,
+    "translation": "Amy는 수영을 배우고 싶었다. (B) 그래서 그녀는 스포츠 센터의 수업에 등록했다. (A) 처음에 그녀는 무서웠지만 선생님이 도와주셨다. (C) 두 달 뒤 그녀는 수영장을 가로질러 헤엄칠 수 있었다.",
+    "why": "(B) 'So'로 수업에 등록 → (A) 'At first' 처음의 두려움 → (C) 'After two months' 결과 순서입니다.",
+    "optionNotes": [
+      "(A)의 'her teacher'가 가리킬 수업이 앞에 없습니다.",
+      "정답. 등록 → 두려움과 도움 → 결과.",
+      "(C)의 결과가 (A)보다 앞설 수 없습니다.",
+      "(C)의 결과가 처음에 올 수 없습니다.",
+      "(C)가 처음이면 등록 전에 헤엄치게 됩니다."
+    ],
+    "trap": "(A)의 'her teacher'는 (B)에서 수업에 등록한 뒤에 나오는 인물입니다.",
+    "tip": "So(그래서), At first, After two months 같은 표지로 순서를 정하세요."
+  },
+  {
+    "id": "m1-07-37",
+    "level": "m1",
+    "set": "mock-07",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "It was Dad's birthday, and everyone in the family was excited.\n(A) In the evening, they gave him a surprise party with cake and songs.\n(B) Then they cooked his favorite food together.\n(C) Sora and her brother made a card in the morning.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 4,
+    "translation": "아빠의 생신이었고 온 가족이 들떠 있었다. (C) 소라와 남동생은 아침에 카드를 만들었다. (B) 그다음 그들은 함께 아빠가 좋아하는 음식을 요리했다. (A) 저녁에 그들은 아빠에게 케이크와 노래로 깜짝 파티를 해 드렸다.",
+    "why": "(C) 아침 → (B) 'Then' 요리 → (A) 저녁 순서입니다.",
+    "optionNotes": [
+      "(A)의 저녁이 처음에 올 수 없습니다.",
+      "(A)가 (B)보다 앞서면 요리 전에 파티가 됩니다.",
+      "(A)의 저녁이 가운데 올 수 없습니다.",
+      "(A)가 (B) 앞에 오면 'Then'의 순서가 어색합니다.",
+      "정답. 아침 → 그다음 → 저녁."
+    ],
+    "trap": "시간 표현(morning, evening)과 Then의 순서를 함께 보세요.",
+    "tip": "morning → Then → evening의 시간 순서로 정렬하세요."
+  },
+  {
+    "id": "m1-07-38",
+    "level": "m1",
+    "set": "mock-07",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThis is how they save energy for hunting.\n\n[글]\nLions live in groups called prides. ( ① ) Female lions hunt together. ( ② ) Male lions protect the group from enemies. ( ③ ) Lions sleep for about twenty hours a day. ( ④ ) A hungry lion can eat a lot of meat at one time. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "[주어진 문장] 이렇게 그들은 사냥을 위해 에너지를 아낀다. [글] 사자는 프라이드라는 무리를 지어 산다. 암사자들은 함께 사냥한다. 수사자들은 적으로부터 무리를 지킨다. 사자는 하루에 약 20시간을 잔다. 배고픈 사자는 한 번에 많은 고기를 먹을 수 있다.",
+    "why": "주어진 문장의 'This'는 바로 앞의 '하루 20시간 잔다'를 가리키므로 ④에 들어갑니다.",
+    "optionNotes": [
+      "'This'가 가리킬 내용이 없습니다.",
+      "사냥 이야기 뒤라 'save energy'가 어색합니다.",
+      "수사자의 역할 뒤라 'This'가 가리킬 대상이 없습니다.",
+      "정답. 잠을 자는 것이 에너지를 아끼는 방법입니다.",
+      "먹는 이야기 뒤라 어색합니다."
+    ],
+    "trap": "'hunting'이 나오는 ②를 고르기 쉽지만 'This'는 직전의 수면 이야기를 가리킵니다.",
+    "tip": "'This is how ~'는 바로 앞 문장의 사실을 가리킵니다."
+  },
+  {
+    "id": "m1-07-39",
+    "level": "m1",
+    "set": "mock-07",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nBut the box was empty.\n\n[글]\nMina got a big box on her birthday. ( ① ) She felt sad for a moment. ( ② ) Then she found a small note in the corner. ( ③ ) It said, \"Look under your bed.\" ( ④ ) There was a new bike. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "[주어진 문장] 하지만 상자는 비어 있었다. [글] 미나는 생일에 큰 상자를 받았다. 그녀는 잠시 슬펐다. 그때 구석에서 작은 쪽지를 발견했다. 쪽지에는 \"침대 밑을 봐.\"라고 쓰여 있었다. 거기에 새 자전거가 있었다.",
+    "why": "'But the box was empty.'가 첫 문장의 큰 상자와 대비되고, 뒤의 'She felt sad'로 이어지므로 ①에 들어갑니다.",
+    "optionNotes": [
+      "정답. 큰 상자와 대비되며 슬픔의 이유가 됩니다.",
+      "이미 슬프다고 한 뒤라 이유가 어색합니다.",
+      "쪽지를 발견한 뒤라 어색합니다.",
+      "쪽지 내용 뒤라 어색합니다.",
+      "새 자전거를 발견한 뒤라 어색합니다."
+    ],
+    "trap": "'sad' 앞 위치가 자연스러운지 감정의 이유 순서를 보세요.",
+    "tip": "But 문장은 앞의 기대와 대비되는 사실이며 감정의 원인이 됩니다."
+  },
+  {
+    "id": "m1-07-40",
+    "level": "m1",
+    "set": "mock-07",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A school asked half of its students to walk to school. The other half came by car. After one month, the students who walked said they felt more awake in class. Their teachers also said that they listened better and answered more questions.\n\n▶ (A) to school helps students feel (B) in class.",
+    "options": [
+      "(A) Sleeping — (B) angry",
+      "(A) Running — (B) sleepy",
+      "(A) Eating — (B) lonely",
+      "(A) Talking — (B) afraid",
+      "(A) Walking — (B) more awake and focused"
+    ],
+    "answer": 4,
+    "translation": "한 학교가 학생의 절반은 걸어서, 나머지 절반은 차로 등교하게 했다. 한 달 뒤 걸어서 온 학생들은 수업 시간에 더 정신이 맑다고 말했다. 선생님들도 그들이 더 잘 듣고 더 많은 질문에 답한다고 말했다. ▶ 걸어서 등교하는 것은 학생들이 수업 시간에 더 깨어 있고 집중하게 도와준다.",
+    "why": "걸어서 등교한 학생들이 더 깨어 있고 잘 들었으므로 (A)는 Walking, (B)는 more awake and focused입니다.",
+    "optionNotes": [
+      "자는 것과 화남은 글에 나오지 않습니다.",
+      "달리기와 졸림은 글에 나오지 않습니다.",
+      "먹기와 외로움은 글에 나오지 않습니다.",
+      "말하기와 두려움은 글에 나오지 않습니다.",
+      "정답. 걷기가 정신을 맑게 하고 집중을 돕습니다."
+    ],
+    "trap": "(A)가 Running인 ②는 (B)가 글과 반대입니다.",
+    "tip": "요약문은 방법(walking)과 결과(awake, focused)를 짝지으세요."
+  }
+]

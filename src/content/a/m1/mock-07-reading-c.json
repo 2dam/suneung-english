@@ -1,0 +1,147 @@
+[
+  {
+    "id": "m1-07-41",
+    "level": "m1",
+    "set": "mock-07",
+    "no": 41,
+    "type": "long",
+    "group": "m1-07-g41",
+    "stem": "[41~42] 윗글의 제목으로 가장 적절한 것을 고르시오.",
+    "passage": "On a rainy night, Hana heard a small sound outside the door. A tiny cat was {1|shaking} in the cold. Hana {2|carried} it inside and gave it warm milk. The cat soon {3|fell} asleep on her lap. Her mom said they could not keep it, but Hana asked again and again. In the end, her mom smiled and said yes. Hana felt very {4|angry}. She named the cat Nabi and kept her {5|safe} and warm.",
+    "options": [
+      "How to Wash a Cat at Home",
+      "A Little Cat Finds a Home",
+      "The Best Food for Hungry Dogs",
+      "A Rainy Day at the Zoo",
+      "Why Cats Don't Like Water"
+    ],
+    "answer": 1,
+    "translation": "비 오는 밤 하나는 문 밖에서 작은 소리를 들었다. 작은 고양이가 추위에 떨고 있었다. 하나는 고양이를 안으로 안고 들어와 따뜻한 우유를 주었다. 고양이는 곧 그녀의 무릎에서 잠들었다. 엄마는 키울 수 없다고 했지만 하나는 계속 부탁했다. 결국 엄마는 미소 지으며 좋다고 했다. 하나는 매우 화가 났다. 그녀는 고양이를 나비라고 이름 짓고 안전하고 따뜻하게 돌보았다.",
+    "why": "비 오는 밤 만난 작은 고양이가 하나의 집에서 가족이 되는 이야기이므로 ②가 제목입니다.",
+    "optionNotes": [
+      "고양이 씻기는 방법은 나오지 않습니다.",
+      "정답. 작은 고양이가 집을 찾습니다.",
+      "개 사료 이야기는 나오지 않습니다.",
+      "동물원 이야기는 나오지 않습니다.",
+      "고양이가 물을 싫어하는 이유는 나오지 않습니다."
+    ],
+    "trap": "'rainy', 'milk'에서 연상되는 보기들에 이끌리지 마세요.",
+    "tip": "이야기글의 제목은 결말(finds a home)을 반영하세요."
+  },
+  {
+    "id": "m1-07-42",
+    "level": "m1",
+    "set": "mock-07",
+    "no": 42,
+    "type": "long",
+    "group": "m1-07-g41",
+    "stem": "[41~42] 밑줄 친 ①~⑤ 중에서 문맥상 낱말의 쓰임이 적절하지 않은 것을 고르시오.",
+    "passage": "On a rainy night, Hana heard a small sound outside the door. A tiny cat was {1|shaking} in the cold. Hana {2|carried} it inside and gave it warm milk. The cat soon {3|fell} asleep on her lap. Her mom said they could not keep it, but Hana asked again and again. In the end, her mom smiled and said yes. Hana felt very {4|angry}. She named the cat Nabi and kept her {5|safe} and warm.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "(41번 지문과 같은 글입니다.)",
+    "why": "엄마가 키워도 된다고 해서 고양이를 이름 짓고 돌보았으므로 'angry'가 아니라 'happy'여야 합니다.",
+    "optionNotes": [
+      "추위에 떨고 있다는 의미로 shaking이 알맞습니다.",
+      "안으로 안고 들어왔다는 의미로 carried가 알맞습니다.",
+      "잠들었다는 의미로 fell이 알맞습니다.",
+      "정답(부적절). 허락을 받아 기뻤으므로 happy가 알맞습니다.",
+      "안전하게 돌보았다는 의미로 safe가 알맞습니다."
+    ],
+    "trap": "'felt very'는 어떤 감정 형용사든 받아 어색함을 놓치기 쉽습니다.",
+    "tip": "감정 어휘는 바로 앞의 사건(엄마가 허락함)과 방향이 맞는지 확인하세요."
+  },
+  {
+    "id": "m1-07-43",
+    "level": "m1",
+    "set": "mock-07",
+    "no": 43,
+    "type": "long",
+    "group": "m1-07-g43",
+    "stem": "[43~45] 주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것을 고르시오.",
+    "passage": "(A) Seho's mother worked at a bakery. {1|She} left home at four o'clock every morning, so Seho usually woke up alone.\n(B) On her birthday, {2|he} got up at three, made a sandwich, and left a note on the table. It said, \"Happy birthday, Mom.\"\n(C) One morning, Seho got up early and followed his mother to the bakery by bike. {3|He} saw her kneading dough in the dark kitchen.\n(D) {4|He} felt proud and sorry at the same time. He wanted to help her. {5|He} asked the owner if he could sweep the floor.",
+    "options": [
+      "(B)-(D)-(C)",
+      "(C)-(B)-(D)",
+      "(C)-(D)-(B)",
+      "(D)-(B)-(C)",
+      "(D)-(C)-(B)"
+    ],
+    "answer": 2,
+    "translation": "(A) 세호의 어머니는 빵집에서 일했다. 그녀는 매일 아침 4시에 집을 나서서 세호는 보통 혼자 일어났다. (C) 어느 날 아침 세호는 일찍 일어나 자전거로 어머니를 따라 빵집에 갔다. 그는 어두운 주방에서 반죽을 치대는 어머니를 보았다. (D) 그는 자랑스러우면서도 죄송했다. 그는 어머니를 돕고 싶었다. 그는 주인에게 바닥을 쓸어도 되는지 물었다. (B) 어머니의 생일에 그는 3시에 일어나 샌드위치를 만들고 식탁 위에 쪽지를 남겼다. \"생일 축하해요, 엄마.\"라고 쓰여 있었다.",
+    "why": "(A) 어머니가 일찍 일함 → (C) 따라가서 봄 → (D) 돕고 싶어 함 → (B) 생일에 쪽지를 남김 순서입니다.",
+    "optionNotes": [
+      "(B)의 생일 장면이 처음에 올 수 없습니다.",
+      "(B)가 (D)보다 앞서면 돕고 싶다고 느끼기 전에 쪽지를 남기게 됩니다.",
+      "정답. 따라가 봄 → 돕고 싶어 함 → 생일.",
+      "(D)의 감정이 (C)의 목격 앞에 올 수 없습니다.",
+      "(B)가 마지막이어야 하는데 (D)가 (C) 앞에 오면 감정의 이유가 없습니다."
+    ],
+    "trap": "(B)의 생일 장면이 (A) 다음처럼 보이지만 (C)에서 새 사실을 알게 된 뒤입니다.",
+    "tip": "목격(C) → 감정(D) → 행동(B)의 인과 순서를 확인하세요."
+  },
+  {
+    "id": "m1-07-44",
+    "level": "m1",
+    "set": "mock-07",
+    "no": 44,
+    "type": "long",
+    "group": "m1-07-g43",
+    "stem": "[43~45] 밑줄 친 ①~⑤ 중에서 가리키는 대상이 나머지 넷과 다른 것을 고르시오.",
+    "passage": "(A) Seho's mother worked at a bakery. {1|She} left home at four o'clock every morning, so Seho usually woke up alone.\n(B) On her birthday, {2|he} got up at three, made a sandwich, and left a note on the table. It said, \"Happy birthday, Mom.\"\n(C) One morning, Seho got up early and followed his mother to the bakery by bike. {3|He} saw her kneading dough in the dark kitchen.\n(D) {4|He} felt proud and sorry at the same time. He wanted to help her. {5|He} asked the owner if he could sweep the floor.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "①의 She는 매일 새벽에 집을 나선 어머니이고, 나머지 ②③④⑤는 모두 세호를 가리킵니다.",
+    "optionNotes": [
+      "정답. She는 어머니입니다.",
+      "he는 3시에 일어난 세호입니다.",
+      "He는 반죽을 보는 세호입니다.",
+      "He는 자랑스러웠던 세호입니다.",
+      "He는 주인에게 물은 세호입니다."
+    ],
+    "trap": "첫 문장에서 어머니와 세호가 한 문단에 함께 나옵니다. she/he로 구분됩니다.",
+    "tip": "대명사 문제는 성별과 직전 문장의 주어를 함께 확인하세요."
+  },
+  {
+    "id": "m1-07-45",
+    "level": "m1",
+    "set": "mock-07",
+    "no": 45,
+    "type": "long",
+    "group": "m1-07-g43",
+    "stem": "[43~45] 윗글에 관한 내용으로 적절하지 않은 것을 고르시오.",
+    "passage": "(A) Seho's mother worked at a bakery. {1|She} left home at four o'clock every morning, so Seho usually woke up alone.\n(B) On her birthday, {2|he} got up at three, made a sandwich, and left a note on the table. It said, \"Happy birthday, Mom.\"\n(C) One morning, Seho got up early and followed his mother to the bakery by bike. {3|He} saw her kneading dough in the dark kitchen.\n(D) {4|He} felt proud and sorry at the same time. He wanted to help her. {5|He} asked the owner if he could sweep the floor.",
+    "options": [
+      "세호의 어머니는 빵집에서 일했다.",
+      "세호는 자전거로 어머니를 따라 빵집에 갔다.",
+      "세호는 빵집 주인에게 바닥을 쓸어도 되는지 정중하게 물었다.",
+      "세호는 어머니의 생일에 아무것도 준비하지 않았다.",
+      "세호는 식탁 위에 쪽지를 남겼다."
+    ],
+    "answer": 3,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "세호는 어머니의 생일에 샌드위치를 만들고 쪽지를 남겼으므로 아무것도 준비하지 않았다는 ④는 일치하지 않습니다.",
+    "optionNotes": [
+      "worked at a bakery와 일치합니다.",
+      "followed his mother ... by bike와 일치합니다.",
+      "asked the owner if he could sweep the floor와 일치합니다.",
+      "정답(불일치). 샌드위치와 쪽지를 준비했습니다.",
+      "left a note on the table과 일치합니다."
+    ],
+    "trap": "'nothing'처럼 전부를 부정하는 보기는 본문과 대조해 보세요.",
+    "tip": "불일치 문제는 본문의 행동과 정반대의 내용을 담은 보기를 찾으세요."
+  }
+]

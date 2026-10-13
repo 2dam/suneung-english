@@ -1,0 +1,333 @@
+[
+  {
+    "id": "m1-07-18",
+    "level": "m1",
+    "set": "mock-07",
+    "no": 18,
+    "type": "purpose",
+    "stem": "다음 글을 쓴 목적으로 가장 적절한 것은?",
+    "passage": "Dear neighbors,\nOur apartment will have a flea market on Saturday, May 18. Please bring things that you don't use, such as clothes, toys, and books. You can sell them in the playground from 10:00 a.m. to 2:00 p.m. Tables will be provided. If you want to join, please sign up at the management office by May 10.\nThe Residents' Council",
+    "options": [
+      "아파트 공사 일정을 알려 주려고",
+      "중고 물건을 사 달라고 부탁하려고",
+      "새 이웃을 소개하려고",
+      "놀이터 사용 규칙을 바꾸려고",
+      "아파트 벼룩시장 참가를 안내하려고"
+    ],
+    "answer": 4,
+    "translation": "이웃 여러분께. 우리 아파트는 5월 18일 토요일에 벼룩시장을 엽니다. 옷, 장난감, 책처럼 쓰지 않는 물건을 가져오세요. 오전 10시부터 오후 2시까지 놀이터에서 팔 수 있습니다. 탁자는 제공됩니다. 참가하려면 5월 10일까지 관리 사무소에서 신청하세요. 입주민 협의회.",
+    "why": "벼룩시장의 날짜, 장소, 참가 신청을 안내하는 글입니다.",
+    "optionNotes": [
+      "공사 일정은 나오지 않습니다.",
+      "물건을 사 달라는 부탁이 아닙니다.",
+      "새 이웃 소개는 나오지 않습니다.",
+      "놀이터 규칙은 나오지 않습니다.",
+      "정답. 벼룩시장 참가를 안내합니다."
+    ],
+    "trap": "'놀이터'가 장소일 뿐 규칙을 바꾸려는 글이 아닙니다.",
+    "tip": "목적 문제는 행사 이름(flea market)과 요청 표현(Please bring, sign up)을 찾으세요."
+  },
+  {
+    "id": "m1-07-19",
+    "level": "m1",
+    "set": "mock-07",
+    "no": 19,
+    "type": "mood",
+    "stem": "다음 글에 드러난 'I'의 심경 변화로 가장 적절한 것은?",
+    "passage": "When I was seven, I got lost in a big shopping mall. I could not see my mother, and I started to cry. My heart was beating fast, and my hands were cold. Then a kind staff member took my hand and brought me to the information desk. A moment later, I heard my mother's voice. I ran to her and hugged her tightly. I felt safe again.",
+    "options": [
+      "bored → excited",
+      "worried → relieved",
+      "angry → happy",
+      "proud → lonely",
+      "sleepy → surprised"
+    ],
+    "answer": 1,
+    "translation": "일곱 살 때 나는 큰 쇼핑몰에서 길을 잃었다. 엄마가 보이지 않아 울기 시작했다. 심장이 빨리 뛰고 손이 차가웠다. 그때 친절한 직원이 내 손을 잡고 안내 데스크로 데려다주었다. 잠시 후 엄마의 목소리가 들렸다. 나는 엄마에게 달려가 꼭 안았다. 다시 안전하다고 느꼈다.",
+    "why": "길을 잃어 울며 불안했다가(worried), 엄마를 만나 안전하다고 느꼈습니다(relieved).",
+    "optionNotes": [
+      "지루함에서 신남이 아닙니다.",
+      "정답. 걱정에서 안도로 변했습니다.",
+      "화남에서 행복이 아닙니다.",
+      "자랑스러움에서 외로움이 아닙니다.",
+      "졸림에서 놀람이 아닙니다."
+    ],
+    "trap": "'hugged her tightly'를 보고 happy를 고르기 쉽지만 안도(relieved)가 더 정확합니다.",
+    "tip": "심경 변화는 처음의 신체 반응(heart beating fast)과 마지막 문장(felt safe)을 비교하세요."
+  },
+  {
+    "id": "m1-07-20",
+    "level": "m1",
+    "set": "mock-07",
+    "no": 20,
+    "type": "claim",
+    "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+    "passage": "Many people open a new machine and start using it right away. But a machine can be dangerous or break if we use it in the wrong way. The instructions tell us how to use it safely. They also help us use all the useful functions. So we should read the instructions before we use a new machine.",
+    "options": [
+      "기계는 값이 비싸고 유명한 상표의 것을 사야 오래 쓴다.",
+      "새 기계는 사용하기 전에 설명서를 읽어야 한다.",
+      "기계는 매일 청소해야 한다.",
+      "고장 난 기계는 바로 버려야 한다.",
+      "설명서는 한 번만 읽으면 된다."
+    ],
+    "answer": 1,
+    "translation": "많은 사람들은 새 기계를 열고 바로 사용하기 시작한다. 하지만 기계를 잘못 사용하면 위험하거나 고장 날 수 있다. 설명서는 안전하게 사용하는 방법을 알려 준다. 또 유용한 기능을 모두 활용하도록 돕는다. 그러므로 새 기계를 쓰기 전에 설명서를 읽어야 한다.",
+    "why": "마지막 문장 'we should read the instructions before we use a new machine'이 필자의 주장입니다.",
+    "optionNotes": [
+      "가격 이야기는 나오지 않습니다.",
+      "정답. 사용 전에 설명서를 읽어야 합니다.",
+      "청소 이야기는 나오지 않습니다.",
+      "버리라는 내용은 나오지 않습니다.",
+      "읽는 횟수는 나오지 않습니다."
+    ],
+    "trap": "③⑤는 기계 사용과 관련 있어 보이지만 글에 나오지 않습니다.",
+    "tip": "주장 문제는 'So we should ~' 문장을 찾으세요."
+  },
+  {
+    "id": "m1-07-21",
+    "level": "m1",
+    "set": "mock-07",
+    "no": 21,
+    "type": "implied",
+    "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "passage": "I studied for the math test for a week. When I opened the test paper, all the questions were easy. After the test, I told my friend, \"It was {u|a piece of cake}!\" He asked me for the secret of my success.",
+    "options": [
+      "very easy",
+      "very sweet",
+      "very expensive",
+      "very small",
+      "very difficult"
+    ],
+    "answer": 0,
+    "translation": "나는 일주일 동안 수학 시험 공부를 했다. 시험지를 열자 문제가 모두 쉬웠다. 시험이 끝난 뒤 친구에게 말했다. \"식은 죽 먹기였어!\" 친구는 내게 성공의 비결을 물었다.",
+    "why": "'a piece of cake'는 아주 쉬운 일을 뜻하는 관용 표현입니다.",
+    "optionNotes": [
+      "정답. 아주 쉽다는 뜻입니다.",
+      "아주 달다는 뜻이 아닙니다.",
+      "아주 비싸다는 뜻이 아닙니다.",
+      "아주 작다는 뜻이 아닙니다.",
+      "아주 어렵다는 뜻이 아닙니다."
+    ],
+    "trap": "'cake'를 문자 그대로 해석하면 ②를 고르게 됩니다.",
+    "tip": "관용 표현은 앞 문장(all the questions were easy)에서 의미를 확인하세요."
+  },
+  {
+    "id": "m1-07-22",
+    "level": "m1",
+    "set": "mock-07",
+    "no": 22,
+    "type": "gist",
+    "stem": "다음 글의 요지로 가장 적절한 것은?",
+    "passage": "Learning to play a musical instrument is not easy. At first, your fingers hurt, and the sounds are not beautiful. Many people give up in the first month. But if you practice a little every day, you will get better. After a few months, you can play your first song. The happiness you feel at that moment is very big.",
+    "options": [
+      "악기는 비싼 것일수록 소리가 좋다.",
+      "악기를 배우는 데는 시간이 걸리지만 꾸준히 하면 보람이 크다.",
+      "처음 한 달 안에 곡을 연주해야 한다.",
+      "손가락이 아프면 연습을 쉬어야 한다.",
+      "음악은 혼자 연주하는 것이 좋다."
+    ],
+    "answer": 1,
+    "translation": "악기를 배우는 것은 쉽지 않다. 처음에는 손가락이 아프고 소리가 아름답지 않다. 많은 사람이 첫 달에 포기한다. 하지만 매일 조금씩 연습하면 나아질 것이다. 몇 달 뒤에는 첫 곡을 연주할 수 있다. 그 순간 느끼는 행복은 매우 크다.",
+    "why": "처음에는 어렵지만 꾸준히 연습하면 큰 기쁨을 얻는다는 것이 요지입니다.",
+    "optionNotes": [
+      "악기 가격 이야기는 나오지 않습니다.",
+      "정답. 꾸준히 연습하면 보람이 큽니다.",
+      "한 달 안에 곡을 연주해야 한다는 내용은 없습니다.",
+      "연습을 쉬라는 내용은 없습니다.",
+      "혼자 연주하라는 내용은 없습니다."
+    ],
+    "trap": "③은 'first month'에서 만든 보기입니다. 글은 첫 달에 포기하지 말라는 내용입니다.",
+    "tip": "But 뒤의 문장과 마지막 문장이 요지를 담습니다."
+  },
+  {
+    "id": "m1-07-23",
+    "level": "m1",
+    "set": "mock-07",
+    "no": 23,
+    "type": "topic",
+    "stem": "다음 글의 주제로 가장 적절한 것은?",
+    "passage": "A seat belt keeps you in your seat when a car stops suddenly. Without a seat belt, your body keeps moving forward. It can hit the window or the seat in front of you. A seat belt spreads the force over the strongest parts of your body. Many accidents become much less dangerous when people wear seat belts. So you should buckle up every time, even on a short trip.",
+    "options": [
+      "how to drive a car safely at night in the heavy rain",
+      "why cars are different from trains",
+      "why seat belts keep us safe in a car",
+      "how a car engine works",
+      "the best cars for a big family"
+    ],
+    "answer": 2,
+    "translation": "안전벨트는 차가 갑자기 멈출 때 당신을 좌석에 잡아 준다. 안전벨트가 없으면 몸이 계속 앞으로 움직여 창문이나 앞 좌석에 부딪힐 수 있다. 안전벨트는 힘을 몸의 가장 튼튼한 부분에 분산한다. 안전벨트를 매면 많은 사고가 훨씬 덜 위험해진다. 그러므로 짧은 이동에서도 매번 안전벨트를 매야 한다.",
+    "why": "안전벨트가 차 안에서 우리를 안전하게 지켜 주는 이유를 설명하는 글입니다.",
+    "optionNotes": [
+      "밤 운전은 나오지 않습니다.",
+      "차와 기차의 차이는 나오지 않습니다.",
+      "정답. 안전벨트가 안전을 지키는 이유입니다.",
+      "엔진 작동은 나오지 않습니다.",
+      "가족용 차는 나오지 않습니다."
+    ],
+    "trap": "'car'가 소재라서 ①④⑤를 고르기 쉽지만 글의 중심은 안전벨트입니다.",
+    "tip": "주제는 반복되는 핵심어(seat belt)와 그 기능을 묶으세요."
+  },
+  {
+    "id": "m1-07-24",
+    "level": "m1",
+    "set": "mock-07",
+    "no": 24,
+    "type": "title",
+    "stem": "다음 글의 제목으로 가장 적절한 것은?",
+    "passage": "Some schools tried a special day with no phones. Students put their phones in a box in the morning. At first, they felt bored. But soon they began to talk with friends, play games outside, and read books. They said that the day went by quickly. Many students asked for another phone-free day.",
+    "options": [
+      "A Day Without Phones at School",
+      "How to Fix a Broken Phone Screen by Yourself at Home",
+      "The Best Games for Your Phone",
+      "Why Phones Cost So Much",
+      "A New Box for School Lunch"
+    ],
+    "answer": 0,
+    "translation": "일부 학교는 휴대전화가 없는 특별한 날을 시도했다. 학생들은 아침에 휴대전화를 상자에 넣었다. 처음에는 지루해했다. 하지만 곧 친구들과 이야기하고 밖에서 놀고 책을 읽기 시작했다. 그들은 하루가 빨리 지나갔다고 말했다. 많은 학생이 휴대전화 없는 날을 또 하자고 요청했다.",
+    "why": "학교에서 휴대전화 없이 보낸 하루의 경험을 다루므로 ①이 제목입니다.",
+    "optionNotes": [
+      "정답. 휴대전화 없는 학교의 하루입니다.",
+      "수리 방법은 나오지 않습니다.",
+      "휴대전화 게임은 나오지 않습니다.",
+      "가격 이야기는 나오지 않습니다.",
+      "점심 상자는 나오지 않습니다."
+    ],
+    "trap": "'box'가 나오지만 점심 상자가 아닙니다.",
+    "tip": "제목은 글 전체의 핵심 사건(a day without phones)을 담으세요."
+  },
+  {
+    "id": "m1-07-25",
+    "level": "m1",
+    "set": "mock-07",
+    "no": 25,
+    "type": "chart",
+    "stem": "다음 도표의 내용과 일치하지 않는 것은?",
+    "chart": {
+      "title": "Library Visitors by Day (students)",
+      "unit": "students",
+      "labels": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri"
+      ],
+      "series": [
+        {
+          "name": "Students",
+          "values": [
+            40,
+            25,
+            30,
+            35,
+            20
+          ]
+        }
+      ]
+    },
+    "passage": "The graph shows the number of students who visited the school library. ① Monday had the most visitors. ② Friday had the fewest visitors. ③ Tuesday had five fewer visitors than Wednesday. ④ Thursday had fewer visitors than Wednesday. ⑤ Monday had twice as many visitors as Friday.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "그래프는 학교 도서관을 방문한 학생 수를 보여 준다. ① 월요일이 방문자가 가장 많았다. ② 금요일이 방문자가 가장 적었다. ③ 화요일은 수요일보다 방문자가 5명 적었다. ④ 목요일은 수요일보다 방문자가 적었다. ⑤ 월요일은 금요일의 두 배였다.",
+    "why": "목요일은 35명, 수요일은 30명이므로 목요일이 더 적다는 ④는 일치하지 않습니다.",
+    "optionNotes": [
+      "월요일 40명으로 가장 많습니다.",
+      "금요일 20명으로 가장 적습니다.",
+      "화요일 25명, 수요일 30명으로 5명 적습니다.",
+      "정답(불일치). 목요일 35명은 수요일 30명보다 많습니다.",
+      "40명은 20명의 두 배입니다."
+    ],
+    "trap": "'fewer'와 'more'를 반대로 읽기 쉽습니다.",
+    "tip": "비교 보기는 두 막대의 숫자를 직접 읽고 대소를 확인하세요."
+  },
+  {
+    "id": "m1-07-26",
+    "level": "m1",
+    "set": "mock-07",
+    "no": 26,
+    "type": "match",
+    "stem": "Sumin에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Sumin is a fourteen-year-old girl. She loves animals and has two cats at home. Every Saturday, she goes to the library and reads picture books to younger children. The children love her stories because she uses different voices for each animal. She wants to be a kindergarten teacher in the future.",
+    "options": [
+      "열세 살이다.",
+      "집에서 개 두 마리를 키운다.",
+      "일요일마다 박물관에 간다.",
+      "토요일마다 도서관에서 어린 아이들에게 그림책을 읽어 준다.",
+      "초등학교 교사가 되고 싶어 한다."
+    ],
+    "answer": 3,
+    "translation": "수민은 열네 살 소녀이다. 그녀는 동물을 좋아하고 집에서 고양이 두 마리를 키운다. 매주 토요일 그녀는 도서관에 가서 어린 아이들에게 그림책을 읽어 준다. 아이들은 그녀가 동물마다 다른 목소리를 내기 때문에 이야기를 좋아한다. 그녀는 미래에 유치원 교사가 되고 싶어 한다.",
+    "why": "'Every Saturday, she goes to the library and reads picture books to younger children.'과 일치합니다.",
+    "optionNotes": [
+      "열네 살입니다.",
+      "고양이 두 마리를 키웁니다.",
+      "토요일에 도서관에 갑니다.",
+      "정답. 토요일마다 도서관에서 그림책을 읽어 줍니다.",
+      "유치원 교사가 되고 싶어 합니다."
+    ],
+    "trap": "나이, 동물, 요일, 직업을 바꾼 보기에 주의하세요.",
+    "tip": "일치 문제는 숫자와 요일, 직업 정보를 하나씩 대조하세요."
+  },
+  {
+    "id": "m1-07-27",
+    "level": "m1",
+    "set": "mock-07",
+    "no": 27,
+    "type": "notice",
+    "stem": "School Chess Tournament에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "School Chess Tournament\nDate: Saturday, November 9\nTime: 9:00 a.m. – 3:00 p.m.\nPlace: School Library\nWho: All students\nFee: Free\nPrize: The winner will represent our school in the city tournament in December.\nSign up: At the front desk of the library by November 5",
+    "options": [
+      "일요일에 열린다.",
+      "우승자는 12월 시 대회에 학교 대표로 나간다.",
+      "참가비가 있다.",
+      "체육관에서 열린다.",
+      "11월 9일까지 신청해야 한다."
+    ],
+    "answer": 1,
+    "translation": "학교 체스 대회. 날짜: 11월 9일 토요일. 시간: 오전 9시~오후 3시. 장소: 학교 도서관. 대상: 전교생. 참가비: 무료. 상: 우승자는 12월 시 대회에서 우리 학교를 대표합니다. 신청: 11월 5일까지 도서관 안내 데스크.",
+    "why": "'The winner will represent our school in the city tournament in December.'와 일치합니다.",
+    "optionNotes": [
+      "토요일에 열립니다.",
+      "정답. 우승자는 12월 시 대회에 학교 대표로 나갑니다.",
+      "참가비는 무료입니다.",
+      "도서관에서 열립니다.",
+      "신청은 11월 5일까지입니다."
+    ],
+    "trap": "11월 9일(대회일)과 11월 5일(신청 마감)을 혼동하기 쉽습니다.",
+    "tip": "안내문은 대회일과 신청 마감일을 구분해 확인하세요."
+  },
+  {
+    "id": "m1-07-28",
+    "level": "m1",
+    "set": "mock-07",
+    "no": 28,
+    "type": "notice",
+    "stem": "Swimming Pool Rules에 관한 다음 안내문의 내용과 일치하지 않는 것은?",
+    "passage": "Swimming Pool Rules\nOpen: 9:00 a.m. – 6:00 p.m. every day\nPlease take a shower before you enter the pool.\nSwimming caps are required.\nNo running around the pool.\nChildren under ten must be with an adult.",
+    "options": [
+      "매일 문을 연다.",
+      "입장 전에 샤워를 해야 한다.",
+      "수영장 주변에서 뛰면 안 된다.",
+      "10세 미만 어린이는 어른과 함께 와야 한다.",
+      "수영 모자 없이도 입장할 수 있다."
+    ],
+    "answer": 4,
+    "translation": "수영장 이용 규칙. 개장: 매일 오전 9시~오후 6시. 입장 전에 샤워를 하세요. 수영 모자는 필수입니다. 수영장 주변에서 뛰지 마세요. 10세 미만 어린이는 어른과 함께 와야 합니다.",
+    "why": "'Swimming caps are required.'이므로 모자 없이도 입장할 수 있다는 ⑤는 일치하지 않습니다.",
+    "optionNotes": [
+      "every day와 일치합니다.",
+      "take a shower와 일치합니다.",
+      "No running과 일치합니다.",
+      "Children under ten must be with an adult와 일치합니다.",
+      "정답(불일치). 수영 모자는 필수입니다."
+    ],
+    "trap": "'required'를 놓치면 모자가 선택 사항이라고 착각합니다.",
+    "tip": "required, must 같은 의무 표현을 확인하세요."
+  }
+]
