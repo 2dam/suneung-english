@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m2-09-29",
+    "level": "m2",
+    "set": "mock-09",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Mr. Han, who {1|teaches} science at my school, is my favorite teacher. He {2|has worked} there for ten years. Last month, he took us to a science museum, {3|which} was built in 1990. We saw many experiments that {4|was} designed for students, and we {5|were} allowed to try some of them.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "우리 학교에서 과학을 가르치시는 한 선생님은 내가 가장 좋아하는 선생님이다. 그는 그곳에서 10년 동안 일해 오셨다. 지난달 그는 우리를 1990년에 지어진 과학 박물관에 데려가셨다. 우리는 학생을 위해 만들어진 많은 실험을 보았고 그중 일부를 해 볼 수 있었다.",
+    "why": "선행사 'many experiments'는 복수이므로 관계대명사절의 동사는 'was'가 아니라 'were'여야 합니다.",
+    "optionNotes": [
+      "선행사 Mr. Han에 맞는 관계대명사절 동사 teaches입니다.",
+      "10년 동안이라는 기간에 맞는 현재완료 has worked입니다.",
+      "선행사 a science museum을 받는 which입니다.",
+      "정답(틀림). 선행사가 복수이므로 were여야 합니다.",
+      "주어 we에 맞는 were allowed입니다."
+    ],
+    "trap": "가까이 있는 단수 명사(students)에 속아 was를 맞다고 판단하기 쉽습니다. 선행사는 experiments입니다.",
+    "tip": "관계절의 동사는 선행사의 수에 일치시키세요."
+  },
+  {
+    "id": "m2-09-30",
+    "level": "m2",
+    "set": "mock-09",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Plastic waste is a serious problem for the ocean. Millions of tons of plastic {1|enter} the sea every year, and many sea animals {2|mistake} it for food. Some scientists are {3|developing} materials that break down quickly in water. We can also {4|reduce} plastic by bringing our own bags and bottles. If we want clean oceans, we should {5|increase} the amount of plastic we use.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "플라스틱 쓰레기는 바다에 심각한 문제이다. 해마다 수백만 톤의 플라스틱이 바다로 들어가고 많은 바다 동물이 그것을 먹이로 착각한다. 일부 과학자들은 물에서 빨리 분해되는 소재를 개발하고 있다. 우리도 자신의 가방과 병을 가져와 플라스틱을 줄일 수 있다. 깨끗한 바다를 원한다면 우리가 쓰는 플라스틱의 양을 줄여야 한다.",
+    "why": "깨끗한 바다를 원한다면 플라스틱 사용량을 '늘리는(increase)' 것이 아니라 '줄여야(reduce)' 합니다.",
+    "optionNotes": [
+      "바다로 들어간다는 의미로 enter가 알맞습니다.",
+      "먹이로 착각한다는 의미로 mistake가 알맞습니다.",
+      "소재를 개발한다는 의미로 developing이 알맞습니다.",
+      "플라스틱을 줄인다는 의미로 reduce가 알맞습니다.",
+      "정답(부적절). 줄여야 하므로 reduce여야 합니다."
+    ],
+    "trap": "앞 문장의 'reduce'를 확인하지 않으면 반대 방향의 동사를 놓칩니다.",
+    "tip": "목적(clean oceans)과 행동의 방향이 일치하는지 확인하세요."
+  },
+  {
+    "id": "m2-09-31",
+    "level": "m2",
+    "set": "mock-09",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In a famous experiment, children were given one marshmallow. They were told that they would get a second one if they waited for fifteen minutes. Some ate it immediately, while others waited. Years later, the children who waited had better grades and healthier habits. This suggests that the ability to __________ is an important key to success.",
+    "options": [
+      "eat sweet food slowly",
+      "make friends easily",
+      "remember long stories",
+      "control one's desires and wait for a bigger reward",
+      "speak in front of many people"
+    ],
+    "answer": 3,
+    "translation": "한 유명한 실험에서 아이들은 마시멜로 한 개를 받고 15분을 기다리면 하나를 더 받는다는 말을 들었다. 어떤 아이들은 곧바로 먹었고 다른 아이들은 기다렸다. 몇 년 뒤 기다렸던 아이들은 성적이 더 좋고 습관이 더 건강했다. 이는 욕구를 조절하고 더 큰 보상을 기다리는 능력이 성공의 중요한 열쇠임을 시사한다.",
+    "why": "기다린 아이들이 더 잘 지냈다는 결과이므로 욕구를 조절하고 더 큰 보상을 기다리는 능력이 알맞습니다.",
+    "optionNotes": [
+      "천천히 먹는 것이 아닙니다.",
+      "친구를 사귀는 이야기는 나오지 않습니다.",
+      "긴 이야기를 기억하는 것은 나오지 않습니다.",
+      "정답. 욕구를 조절하고 더 큰 보상을 기다리는 능력입니다.",
+      "발표 이야기는 나오지 않습니다."
+    ],
+    "trap": "마시멜로 때문에 ①을 고르기 쉽지만 핵심은 기다리는 능력입니다.",
+    "tip": "실험 결과 문장(waited → better grades)이 빈칸의 방향을 알려 줍니다."
+  },
+  {
+    "id": "m2-09-32",
+    "level": "m2",
+    "set": "mock-09",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "When people move to a new country, they often feel lonely and confused at first. The language, the food, and even simple customs can seem strange. This feeling is called culture shock. However, most people slowly get used to the new environment within a few months. They make friends, learn the language, and begin to enjoy their new life. So culture shock is usually a __________ stage rather than a permanent condition.",
+    "options": [
+      "dangerous",
+      "temporary",
+      "pleasant",
+      "useless",
+      "boring"
+    ],
+    "answer": 1,
+    "translation": "사람들이 새로운 나라로 이사하면 처음에는 외롭고 혼란스러운 경우가 많다. 언어, 음식, 심지어 간단한 관습도 낯설어 보일 수 있다. 이 느낌을 문화 충격이라고 한다. 그러나 대부분의 사람은 몇 달 안에 새로운 환경에 서서히 익숙해진다. 그들은 친구를 사귀고 언어를 배우며 새 생활을 즐기기 시작한다. 그래서 문화 충격은 영구적인 상태라기보다 보통 일시적인 단계이다.",
+    "why": "'rather than a permanent condition'과 대비되므로 일시적인(temporary) 단계가 알맞습니다.",
+    "optionNotes": [
+      "위험하다는 내용은 없습니다.",
+      "정답. 영구적이 아니라 일시적인 단계입니다.",
+      "처음에는 외롭고 혼란스럽다고 했으므로 맞지 않습니다.",
+      "쓸모없다는 내용은 없습니다.",
+      "지루하다는 내용은 없습니다."
+    ],
+    "trap": "'enjoy their new life'에 이끌려 pleasant를 고르기 쉽지만 'rather than permanent'와 맞는 말은 temporary입니다.",
+    "tip": "'A rather than B'에서 B(permanent)와 반대되는 낱말이 A입니다."
+  },
+  {
+    "id": "m2-09-33",
+    "level": "m2",
+    "set": "mock-09",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many people think that the best way to learn a new language is to memorize long lists of words. However, research shows that words are remembered better in context. For example, a story or a conversation gives words a clear setting. A word that you meet in a sentence connects to a situation, an image, or a feeling. These connections help your brain __________.",
+    "options": [
+      "forget words faster",
+      "stop learning grammar",
+      "avoid reading stories",
+      "retrieve the word more easily when you need it later",
+      "make shorter lists of words"
+    ],
+    "answer": 3,
+    "translation": "많은 사람들은 새 언어를 배우는 가장 좋은 방법이 긴 단어 목록을 외우는 것이라고 생각한다. 그러나 연구에 따르면 단어는 맥락 속에서 더 잘 기억된다. 예를 들어 이야기나 대화는 단어에 분명한 배경을 준다. 문장에서 만난 단어는 상황, 이미지, 감정과 연결된다. 이런 연결은 나중에 필요할 때 뇌가 그 단어를 더 쉽게 떠올리도록 돕는다.",
+    "why": "맥락 속에서 연결이 생기면 기억이 잘 된다고 했으므로 필요할 때 단어를 더 쉽게 떠올린다는 내용이 알맞습니다.",
+    "optionNotes": [
+      "잊는다는 내용은 글과 반대입니다.",
+      "문법 이야기는 나오지 않습니다.",
+      "이야기를 읽는 것을 피하라는 내용은 글과 반대입니다.",
+      "정답. 필요할 때 단어를 더 쉽게 떠올립니다.",
+      "목록을 줄이는 이야기는 나오지 않습니다."
+    ],
+    "trap": "앞부분의 'lists'에 이끌려 ⑤를 고르기 쉽습니다.",
+    "tip": "However 뒤의 연구 결과가 빈칸의 방향을 정합니다."
+  },
+  {
+    "id": "m2-09-34",
+    "level": "m2",
+    "set": "mock-09",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A map shows the roads and buildings of a city. However, it cannot show how the city feels. It cannot show the noise, the smells, or the mood of its people. A traveler who walks through a street notices these small details with all of the senses. This is why walking through a place gives you __________ that no map can offer.",
+    "options": [
+      "a kind of understanding",
+      "a faster way to travel",
+      "a cheaper travel plan",
+      "a clearer picture of the weather",
+      "a list of all the street names"
+    ],
+    "answer": 0,
+    "translation": "지도는 도시의 도로와 건물을 보여 준다. 그러나 도시가 어떻게 느껴지는지는 보여 줄 수 없다. 소음, 냄새, 사람들의 분위기도 보여 줄 수 없다. 거리를 걸어 다니는 여행자는 이런 작은 세부 사항을 모든 감각으로 알아챈다. 이것이 어떤 장소를 걸어서 다니면 어떤 지도도 줄 수 없는 일종의 이해를 얻게 되는 이유이다.",
+    "why": "지도가 보여 주지 못하는 분위기와 느낌을 직접 걸으며 알게 된다는 내용이므로 일종의 이해가 알맞습니다.",
+    "optionNotes": [
+      "정답. 지도가 줄 수 없는 일종의 이해입니다.",
+      "이동 속도 이야기는 나오지 않습니다.",
+      "비용 이야기는 나오지 않습니다.",
+      "날씨는 나오지 않습니다.",
+      "거리 이름 목록은 지도가 제공하는 것입니다."
+    ],
+    "trap": "⑤는 지도가 줄 수 있는 정보라 글의 방향과 반대입니다.",
+    "tip": "'that no map can offer'는 지도가 줄 수 없는 것을 가리킵니다."
+  },
+  {
+    "id": "m2-09-35",
+    "level": "m2",
+    "set": "mock-09",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Playing board games has several benefits for young people. ① They teach players how to take turns and follow rules. ② The price of movie tickets has risen sharply in recent years. ③ Games that require strategy help players practice planning ahead. ④ Playing together also strengthens friendships and family bonds. ⑤ For these reasons, board games are more than just a way to pass the time.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "보드게임을 하는 것은 젊은이들에게 몇 가지 이점이 있다. ① 보드게임은 순서를 지키고 규칙을 따르는 법을 가르친다. ② 최근 몇 년 동안 영화표 가격이 급격히 올랐다. ③ 전략이 필요한 게임은 앞날을 계획하는 연습을 하게 한다. ④ 함께 하는 것은 우정과 가족 간의 유대도 강화한다. ⑤ 이런 이유로 보드게임은 시간을 보내는 방법 이상이다.",
+    "why": "글은 보드게임의 이점을 말하는데 ②는 영화표 가격 이야기라 흐름과 관계가 없습니다.",
+    "optionNotes": [
+      "보드게임의 이점입니다.",
+      "정답(무관). 영화표 가격 이야기입니다.",
+      "보드게임의 이점입니다.",
+      "보드게임의 이점입니다.",
+      "결론입니다."
+    ],
+    "trap": "'games'와 'play'에서 오락을 연상해 영화 이야기를 자연스럽다고 착각할 수 있습니다.",
+    "tip": "주제(board games의 이점)와 이어지지 않는 문장을 고르세요."
+  },
+  {
+    "id": "m2-09-36",
+    "level": "m2",
+    "set": "mock-09",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Cities are often very noisy places, and constant noise can harm our health in many ways.\n(A) For example, people who live near airports tend to sleep badly and feel more stress.\n(B) They build walls along highways and limit the hours of night construction in residential areas.\n(C) Because of these problems, some cities have started to take action against noise.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "도시는 종종 시끄러운 곳이며 소음은 우리의 건강을 해칠 수 있다. (A) 예를 들어 공항 근처에 사는 사람들은 잠을 잘 못 자고 스트레스를 더 받는 경향이 있다. (C) 이런 문제 때문에 일부 도시는 소음에 대한 조치를 취하기 시작했다. (B) 그들은 고속도로를 따라 방음벽을 세우고 야간 공사 시간을 제한한다.",
+    "why": "(A) 소음의 피해 예 → (C) 'these problems'를 받아 도시의 조치 → (B) 'They'가 가리키는 도시들의 구체적 조치 순서입니다.",
+    "optionNotes": [
+      "정답. 피해 예 → 조치 → 구체적 방법.",
+      "(B)의 'They'가 가리킬 대상이 앞에 없습니다.",
+      "(B)의 'They'가 가리킬 대상이 앞에 없습니다.",
+      "(C)의 'these problems'가 가리킬 문제가 앞에 없습니다.",
+      "(C)의 'these problems'가 가리킬 문제가 앞에 없습니다."
+    ],
+    "trap": "(C)의 'these problems'는 (A)의 피해 사례를 가리킵니다.",
+    "tip": "지시어(these, They)가 가리키는 앞 내용을 확인하세요."
+  },
+  {
+    "id": "m2-09-37",
+    "level": "m2",
+    "set": "mock-09",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Crows are among the smartest birds in the world.\n(A) The crow used the short stick to get a longer stick, and then used the longer one to reach the meat.\n(B) This showed that the crow could plan several steps ahead.\n(C) In one experiment, a crow was given a short stick and a piece of meat inside a long tube.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 3,
+    "translation": "까마귀는 세계에서 가장 영리한 새 중 하나이다. (C) 한 실험에서 까마귀는 짧은 막대기와 긴 관 안의 고기 한 조각을 받았다. (A) 까마귀는 짧은 막대기로 더 긴 막대기를 얻은 다음 그 긴 막대기로 고기에 닿았다. (B) 이는 까마귀가 여러 단계를 미리 계획할 수 있음을 보여 주었다.",
+    "why": "(C) 실험 상황 → (A) 까마귀의 행동 → (B) 'This'로 결과 해석 순서입니다.",
+    "optionNotes": [
+      "(A)의 'The crow'가 가리킬 실험 소개가 앞에 없습니다.",
+      "(B)의 'This'가 가리킬 행동이 앞에 없습니다.",
+      "(B)의 'This'가 가리킬 행동이 앞에 없습니다.",
+      "정답. 실험 → 행동 → 해석.",
+      "(B)의 'This'가 (A)의 행동 앞에 올 수 없습니다."
+    ],
+    "trap": "(B)가 짧아 앞에 놓기 쉽지만 'This showed'는 행동 뒤에 옵니다.",
+    "tip": "'This showed ~'는 앞서 설명한 사실을 해석하는 문장입니다."
+  },
+  {
+    "id": "m2-09-38",
+    "level": "m2",
+    "set": "mock-09",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nTo find out, she designed a simple experiment with two plants.\n\n[글]\n( ① ) Mina wanted to know whether plants really need light. ( ② ) She put one plant by the window and the other in a dark closet. ( ③ ) She gave both of them the same amount of water every day. ( ④ ) After a week, the plant in the closet had turned yellow. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "[주어진 문장] 알아보기 위해 그녀는 두 식물로 간단한 실험을 설계했다. [글] 미나는 식물이 정말 빛이 필요한지 알고 싶었다. 알아보기 위해 그녀는 두 식물로 간단한 실험을 설계했다. 그녀는 한 식물은 창가에, 다른 식물은 어두운 벽장에 두었다. 그녀는 두 식물에 매일 같은 양의 물을 주었다. 일주일 뒤 벽장 속 식물은 노랗게 변했다.",
+    "why": "'To find out'은 앞 문장의 궁금증을 받고, 뒤 문장에서 실험 방법이 구체적으로 이어지므로 ②에 들어갑니다.",
+    "optionNotes": [
+      "글의 첫머리라 'To find out'이 가리킬 내용이 없습니다.",
+      "정답. 궁금증 뒤에 실험 설계가 이어집니다.",
+      "이미 실험 방법이 나온 뒤라 설계 소개가 중복됩니다.",
+      "결과를 설명하는 부분이라 설계 소개가 어색합니다.",
+      "글이 끝난 뒤라 어색합니다."
+    ],
+    "trap": "'experiment'가 뒤의 실험 설명과 이어지므로 ③이나 ④에 놓고 싶어지지만 'To find out'은 질문 바로 뒤에 옵니다.",
+    "tip": "'To find out ~'은 앞 문장의 궁금증(wanted to know)을 받습니다."
+  },
+  {
+    "id": "m2-09-39",
+    "level": "m2",
+    "set": "mock-09",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nAnother reason is that sweating after a spicy meal helps cool the body.\n\n[글]\n( ① ) Spicy food is popular in many hot countries. ( ② ) One reason is that spices such as chili peppers can kill bacteria in food. ( ③ ) People in colder countries do not need these effects as much, so they use fewer spices. ( ④ ) Their traditional dishes are usually milder and less spicy. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 또 다른 이유는 매운 음식을 먹은 뒤 땀을 흘리면 몸이 식는다는 것이다. [글] 매운 음식은 더운 나라에서 인기가 많다. 한 가지 이유는 고추 같은 향신료가 음식 속의 세균을 죽일 수 있기 때문이다. 또 다른 이유는 매운 음식을 먹은 뒤 땀을 흘리면 몸이 식는다는 것이다. 추운 나라 사람들은 이런 효과가 덜 필요해서 향신료를 적게 쓴다. 그들의 전통 요리는 대개 더 순하고 덜 맵다.",
+    "why": "'Another reason'은 'One reason'을 이어받아야 하고 뒤의 'these effects'가 두 가지 이유를 가리키므로 ③에 들어갑니다.",
+    "optionNotes": [
+      "'One reason'이 나오기 전이라 'Another reason'이 어색합니다.",
+      "첫 번째 이유 앞이라 어색합니다.",
+      "정답. 첫 번째 이유 뒤에 두 번째 이유가 이어지고 'these effects'가 받습니다.",
+      "'these effects' 뒤에 오면 두 번째 이유가 참조되지 않습니다.",
+      "결론 뒤라 어색합니다."
+    ],
+    "trap": "'One reason'과 'Another reason'의 짝을 놓치기 쉽습니다.",
+    "tip": "One reason → Another reason의 짝과 'these effects'의 지시 대상을 확인하세요."
+  },
+  {
+    "id": "m2-09-40",
+    "level": "m2",
+    "set": "mock-09",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Researchers asked two groups of students to study the same text. One group read it twice. The other group read it once and then tried to write down everything they remembered. A week later, the second group remembered about fifty percent more. The researchers explained that trying to recall information strengthens memory more than reading it again.\n\n▶ Trying to (A) what you have learned works better than (B) the text again and again.",
+    "options": [
+      "(A) hide — (B) copying",
+      "(A) recall — (B) rereading",
+      "(A) ignore — (B) writing",
+      "(A) share — (B) avoiding",
+      "(A) forget — (B) skipping"
+    ],
+    "answer": 1,
+    "translation": "연구자들은 두 집단의 학생에게 같은 글을 공부하게 했다. 한 집단은 그것을 두 번 읽었다. 다른 집단은 한 번 읽은 뒤 기억나는 모든 것을 적어 보려고 했다. 일주일 뒤 두 번째 집단은 약 50퍼센트 더 많이 기억했다. 연구자들은 정보를 떠올리려 하는 것이 다시 읽는 것보다 기억을 더 강화한다고 설명했다. ▶ 배운 것을 떠올려 보려고 하는 것이 글을 반복해서 다시 읽는 것보다 더 효과적이다.",
+    "why": "떠올리려고 한 집단이 더 많이 기억했으므로 (A)는 recall, (B)는 rereading입니다.",
+    "optionNotes": [
+      "hide와 copying은 글에 나오지 않습니다.",
+      "정답. 떠올리는 것이 다시 읽는 것보다 효과적입니다.",
+      "ignore와 writing은 글의 핵심과 맞지 않습니다.",
+      "share와 avoiding은 글에 나오지 않습니다.",
+      "forget과 skipping은 글과 반대입니다."
+    ],
+    "trap": "'write down'을 보고 (B)를 writing으로 착각하지 마세요. 쓰는 것은 떠올리기의 방법입니다.",
+    "tip": "요약문은 비교되는 두 방법(recall vs reread)을 짝지어 찾으세요."
+  }
+]
