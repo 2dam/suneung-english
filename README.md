@@ -59,3 +59,15 @@ npm run audio          # 듣기 음원 생성 (Azure Speech 키 필요, scripts/
 ## 보관
 
 `archive/high-school-sample/`: 고등학교 수준으로 먼저 만들었던 모의고사 샘플. 앱에는 포함되지 않는다.
+
+## 배포 (Render 정적 사이트)
+
+`render.yaml`에 설정이 있다. 빌드는 `npm install && npm run build`(콘텐츠 검사 후 vite build), 게시 폴더는 `dist`.
+
+1. Render 대시보드 → **New → Blueprint** → 저장소 `2dam/suneung-english` 선택 → 적용
+   (또는 **New → Static Site**에서 같은 값으로 직접 입력)
+2. 서비스 → **Settings → Custom Domains**에 `ichapterwise.com`, `www.ichapterwise.com` 추가
+3. 도메인 등록 업체의 DNS에서 Render가 표시하는 값으로 설정
+   - `@`(루트) → Render가 알려 주는 A 레코드 값
+   - `www` → `<서비스 이름>.onrender.com` (CNAME)
+4. 인증서는 Render가 자동 발급한다. 이후 `main`에 푸시하면 자동 배포된다.
