@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m1-04-29",
+    "level": "m1",
+    "set": "mock-04",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "My family {1|goes} camping every summer. Last year, we {2|stayed} near a lake. My brother and I {3|catches} fish in the morning. We cooked them for lunch. Dad {4|told} us funny stories at night. It was {5|a} great trip.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "우리 가족은 매년 여름 캠핑을 간다. 작년에 우리는 호수 근처에 머물렀다. 형과 나는 아침에 물고기를 잡았다. 우리는 그것을 점심으로 요리했다. 아빠는 밤에 우리에게 재미있는 이야기를 해 주셨다. 멋진 여행이었다.",
+    "why": "'Last year'와 이어지는 과거 이야기이므로 'catches'는 과거형 'caught'여야 합니다.",
+    "optionNotes": [
+      "every summer는 반복되는 일이므로 현재형 goes가 맞습니다.",
+      "Last year가 있으므로 과거형 stayed가 맞습니다.",
+      "정답(틀린 것). 과거 이야기이므로 caught여야 합니다.",
+      "과거형 told가 맞습니다.",
+      "'great trip' 앞의 관사 a가 맞습니다."
+    ],
+    "trap": "주어가 'My brother and I'라 복수이므로 catches가 이상해 보이지만, 시제가 문제입니다.",
+    "tip": "문단에서 시제 표시어(Last year)를 찾고 동사의 시제를 통일하세요."
+  },
+  {
+    "id": "m1-04-30",
+    "level": "m1",
+    "set": "mock-04",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Today is a rainy day. I wear {1|rain} boots to school. The streets are {2|dry}, and there are many puddles. My friends {3|jump} into them and laugh. After school, the rain {4|stops}, and we see a beautiful {5|rainbow}.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "오늘은 비 오는 날이다. 나는 장화를 신고 학교에 간다. 길이 젖어 있고 물웅덩이가 많다. 친구들은 그 속으로 뛰어들며 웃는다. 방과 후 비가 그치고 우리는 아름다운 무지개를 본다.",
+    "why": "물웅덩이가 많다고 했으므로 길이 'dry(마른)'가 아니라 'wet(젖은)'이어야 합니다.",
+    "optionNotes": [
+      "비 오는 날 신는 rain boots가 알맞습니다.",
+      "정답(부적절). 웅덩이가 많으므로 wet이 알맞습니다.",
+      "웅덩이로 뛰어드는 jump가 알맞습니다.",
+      "비가 그친다는 stops가 알맞습니다.",
+      "비 온 뒤에 보는 rainbow가 알맞습니다."
+    ],
+    "trap": "'streets'와 어울리는 dry가 일반적으로 자연스러워 보이지만 puddles라는 단서와 충돌합니다.",
+    "tip": "어휘 문제는 같은 문장·다음 문장의 단서(many puddles)와 의미가 맞는지 보세요."
+  },
+  {
+    "id": "m1-04-31",
+    "level": "m1",
+    "set": "mock-04",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many animals use colors to survive. A chameleon can change its skin color. Its skin has special cells under the surface. It becomes green on leaves and brown on branches. This helps it hide from enemies. In this way, color changes help a chameleon __________.",
+    "options": [
+      "stay safe from danger",
+      "make a loud noise",
+      "find a new home",
+      "catch fish in the water",
+      "run faster than other animals"
+    ],
+    "answer": 0,
+    "translation": "많은 동물이 살아남기 위해 색을 이용한다. 카멜레온은 피부색을 바꿀 수 있다. 피부 표면 아래에 특별한 세포가 있다. 잎 위에서는 초록색이, 나뭇가지 위에서는 갈색이 된다. 이것은 적에게서 숨는 데 도움이 된다. 이렇게 색의 변화는 카멜레온이 위험으로부터 안전하게 지내도록 돕는다.",
+    "why": "색을 바꿔 적에게서 숨는다고 했으므로 위험으로부터 안전하게 지내도록 돕는다는 말이 알맞습니다.",
+    "optionNotes": [
+      "정답. 적에게서 숨어 안전하게 지냅니다.",
+      "소리 이야기는 나오지 않습니다.",
+      "새로운 집 이야기는 나오지 않습니다.",
+      "물고기 잡기는 나오지 않습니다.",
+      "달리기 속도는 나오지 않습니다."
+    ],
+    "trap": "'skin color'와 직접 관련 없는 보기들은 동물 상식처럼 보이지만 글의 근거가 없습니다.",
+    "tip": "빈칸 바로 앞 문장(hide from enemies)이 빈칸의 직접 단서입니다."
+  },
+  {
+    "id": "m1-04-32",
+    "level": "m1",
+    "set": "mock-04",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Learning a new skill takes time. A baby cannot walk on the first day. A singer cannot sing high notes without practice. Even a great soccer player kicked the ball thousands of times as a child. So a new skill grows with __________.",
+    "options": [
+      "a new school bag",
+      "regular practice",
+      "a big dinner",
+      "a quiet bedroom",
+      "an expensive pair of shoes"
+    ],
+    "answer": 1,
+    "translation": "새로운 기술을 배우는 데는 시간이 걸린다. 아기는 첫날에는 걸을 수 없다. 가수는 연습 없이는 높은 음을 부를 수 없다. 훌륭한 축구 선수도 어린 시절 공을 수천 번 찼다. 그래서 새로운 기술은 꾸준한 연습과 함께 자란다.",
+    "why": "아기, 가수, 축구 선수의 예가 모두 연습을 통해 기술이 자란다는 내용이므로 regular practice가 알맞습니다.",
+    "optionNotes": [
+      "새 가방은 나오지 않습니다.",
+      "정답. 꾸준한 연습입니다.",
+      "저녁 식사는 나오지 않습니다.",
+      "조용한 침실은 나오지 않습니다.",
+      "비싼 신발은 나오지 않습니다."
+    ],
+    "trap": "축구 선수가 나온다고 신발(⑤)을 고르지 마세요. 예시의 공통점은 반복 연습입니다.",
+    "tip": "예시가 여러 개일 때 공통점이 빈칸의 정답입니다."
+  },
+  {
+    "id": "m1-04-33",
+    "level": "m1",
+    "set": "mock-04",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Honey never goes bad. Scientists found honey in old tombs. It was thousands of years old, but it was still safe to eat. Honey has very little water, so germs cannot live in it. This is why honey can be kept __________.",
+    "options": [
+      "in the freezer only",
+      "by adding more sugar",
+      "for a few days at most",
+      "in a very hot place",
+      "for a very long time without going bad"
+    ],
+    "answer": 4,
+    "translation": "꿀은 절대 상하지 않는다. 과학자들은 수천 년 된 오래된 무덤에서 꿀을 발견했는데 여전히 먹어도 안전했다. 꿀에는 물이 거의 없어서 세균이 살 수 없다. 이것이 꿀을 상하지 않고 아주 오랫동안 보관할 수 있는 이유이다.",
+    "why": "수천 년 된 꿀도 먹을 수 있다고 했으므로 상하지 않고 오랫동안 보관할 수 있다는 말이 알맞습니다.",
+    "optionNotes": [
+      "냉동실만 가능하다는 말은 없습니다.",
+      "설탕을 더한다는 말은 없습니다.",
+      "며칠뿐이라는 것은 글과 반대입니다.",
+      "더운 곳이 필요하다는 말은 없습니다.",
+      "정답. 수천 년을 상하지 않고 보관할 수 있습니다."
+    ],
+    "trap": "③은 'honey'가 자주 먹는 음식이라 떠올리기 쉽지만 글은 오래 보관할 수 있다는 내용입니다.",
+    "tip": "'This is why ~' 뒤의 빈칸은 앞 문장들의 결론을 그대로 옮긴 표현입니다."
+  },
+  {
+    "id": "m1-04-34",
+    "level": "m1",
+    "set": "mock-04",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Some people think only strong people can be leaders. But a good leader is not always the loudest person. A good leader listens to others and thinks about their feelings. Teams work better when members feel heard. A good leader is someone who __________.",
+    "options": [
+      "listens carefully to what others say",
+      "shouts at team members",
+      "does everything alone",
+      "never changes plans",
+      "wins every game"
+    ],
+    "answer": 0,
+    "translation": "어떤 사람들은 강한 사람만 리더가 될 수 있다고 생각한다. 하지만 좋은 리더가 항상 가장 목소리가 큰 사람은 아니다. 좋은 리더는 다른 사람의 말을 듣고 그들의 감정을 생각한다. 구성원이 자신의 말이 받아들여진다고 느낄 때 팀은 더 잘 일한다. 좋은 리더는 다른 사람의 말을 주의 깊게 듣는 사람이다.",
+    "why": "좋은 리더는 남의 말을 듣고 감정을 생각한다고 했으므로 listens carefully가 알맞습니다.",
+    "optionNotes": [
+      "정답. 다른 사람의 말을 주의 깊게 듣습니다.",
+      "소리치는 것은 글과 반대입니다.",
+      "혼자 모든 것을 한다는 것은 글과 반대입니다.",
+      "계획을 바꾸지 않는다는 내용은 없습니다.",
+      "항상 이긴다는 내용은 없습니다."
+    ],
+    "trap": "'loudest'가 나오는 부분에서 ②를 고르기 쉽지만 글은 이를 부정합니다.",
+    "tip": "'not ~ but ...' 구조에서 빈칸은 but 뒤의 내용과 같은 방향입니다."
+  },
+  {
+    "id": "m1-04-35",
+    "level": "m1",
+    "set": "mock-04",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Plants need water to live. ① Water helps plants take in food from the soil. ② Too little water makes the leaves turn yellow. ③ Many farmers use water pipes in dry places. ④ Sunlight is also important for plants. ⑤ My brother is learning to play the drums.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "식물은 살기 위해 물이 필요하다. ① 물은 식물이 토양에서 영양분을 얻도록 돕는다. ② 물이 너무 적으면 잎이 노랗게 변한다. ③ 많은 농부들은 건조한 곳에서 물 파이프를 이용한다. ④ 햇빛도 식물에게 중요하다. ⑤ 내 동생은 드럼 치는 법을 배우고 있다.",
+    "why": "글은 식물에게 필요한 것을 설명하는데 ⑤는 동생의 드럼 연습 이야기라 흐름과 관계가 없습니다.",
+    "optionNotes": [
+      "물의 역할을 설명합니다.",
+      "물이 부족할 때의 결과입니다.",
+      "물을 공급하는 방법입니다.",
+      "식물에게 필요한 다른 요소입니다.",
+      "정답(무관). 식물과 관계없는 이야기입니다."
+    ],
+    "trap": "마지막 문장이라 결론처럼 보이지만 'plants'와 아무 관련이 없습니다.",
+    "tip": "무관한 문장은 글의 중심 소재(plants, water)와 연결되는지 확인하세요."
+  },
+  {
+    "id": "m1-04-36",
+    "level": "m1",
+    "set": "mock-04",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Ben found a small brown puppy near the school gate.\n(A) It had no name tag, and Ben did not know who the owner was.\n(B) The next day, a girl saw the poster and ran to Ben. The puppy was hers, and she thanked him.\n(C) So he made a poster and put it on the gate.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "Ben은 학교 정문 근처에서 작은 갈색 강아지를 발견했다. (A) 강아지는 이름표가 없었고 Ben은 주인이 누구인지 몰랐다. (C) 그래서 그는 포스터를 만들어 정문에 붙였다. (B) 다음 날 한 소녀가 포스터를 보고 Ben에게 달려왔다. 그 강아지는 그녀의 것이었고 그녀는 그에게 고마워했다.",
+    "why": "(A) 주인을 모름 → (C) 'So'로 포스터를 만듦 → (B) 'the poster'를 보고 주인이 나타남 순서입니다.",
+    "optionNotes": [
+      "정답. 문제 → 해결 행동 → 결과.",
+      "(B)의 'the poster'가 가리킬 포스터가 앞에 없습니다.",
+      "(B)의 'the poster'가 가리킬 포스터가 앞에 없습니다.",
+      "(C)의 'So'가 가리킬 이유가 앞에 없습니다.",
+      "(B)가 (C)보다 앞서면 'the poster'가 앞에 없습니다."
+    ],
+    "trap": "(B)가 결과라서 마지막인 것은 쉽지만, (C)가 (A)보다 앞서면 'So'의 이유가 없습니다.",
+    "tip": "So(그래서)는 이유 뒤에, the poster(정관사)는 이미 나온 대상 뒤에 옵니다."
+  },
+  {
+    "id": "m1-04-37",
+    "level": "m1",
+    "set": "mock-04",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Yuna had a school presentation on Monday.\n(A) On Monday, she stood in front of the class and spoke clearly. Everyone clapped for her.\n(B) She was very nervous, so she practiced in front of a mirror.\n(C) Then she asked her sister to listen and give advice.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 2,
+    "translation": "Yuna는 월요일에 학교 발표가 있었다. (B) 그녀는 매우 긴장해서 거울 앞에서 연습했다. (C) 그런 다음 그녀는 언니에게 들어 보고 조언해 달라고 부탁했다. (A) 월요일에 그녀는 반 앞에 서서 또렷하게 말했다. 모두가 박수를 쳤다.",
+    "why": "(B) 긴장해서 연습함 → (C) 'Then' 언니에게 부탁함 → (A) 발표 당일의 결과 순서입니다.",
+    "optionNotes": [
+      "발표 당일(A)이 준비 과정보다 앞설 수 없습니다.",
+      "(C)의 'Then'이 이어질 앞 행동이 없습니다.",
+      "정답. 연습 → 조언 → 발표.",
+      "(C)의 'Then'이 이어질 앞 행동이 없습니다.",
+      "(A)의 발표 당일이 가운데에 올 수 없습니다."
+    ],
+    "trap": "(A)에 'Monday'가 반복되어 처음처럼 보이지만 발표 당일의 결과는 마지막입니다.",
+    "tip": "Then(그다음)은 앞선 행동 뒤에, 날짜 표현(On Monday)은 결과 장면에 옵니다."
+  },
+  {
+    "id": "m1-04-38",
+    "level": "m1",
+    "set": "mock-04",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nOne reason is that many of them taste bitter.\n\n[글]\nMany children don't like vegetables. ( ① ) However, vegetables have many vitamins that help our bodies grow. ( ② ) So parents try to make children eat them. ( ③ ) Some parents cut them into fun shapes. ( ④ ) Others hide them in soups or sandwiches. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "[주어진 문장] 한 가지 이유는 그것들 중 많은 것이 쓴맛이 난다는 것이다. [글] 많은 아이들은 채소를 좋아하지 않는다. 그러나 채소에는 몸이 자라도록 돕는 비타민이 많다. 그래서 부모들은 아이들이 먹게 하려고 노력한다. 어떤 부모는 재미있는 모양으로 자른다. 어떤 부모는 수프나 샌드위치에 숨긴다.",
+    "why": "주어진 문장은 아이들이 채소를 좋아하지 않는 이유를 설명하므로 첫 문장 바로 뒤인 ①에 들어갑니다.",
+    "optionNotes": [
+      "정답. 싫어하는 이유를 바로 설명합니다.",
+      "However 뒤에 이유를 말하면 흐름이 끊깁니다.",
+      "부모의 노력을 말한 뒤라 이유가 어색합니다.",
+      "부모의 방법을 설명하는 중간입니다.",
+      "방법을 설명한 뒤라 이유를 말하기 어색합니다."
+    ],
+    "trap": "'them'이 채소를 가리키는 점만 보고 ②③을 고르기 쉽지만, 'One reason'은 앞의 문제 제기 바로 뒤에 옵니다.",
+    "tip": "'One reason is ~'는 이유를 묻는 문제 제기 문장 바로 뒤에 놓입니다."
+  },
+  {
+    "id": "m1-04-39",
+    "level": "m1",
+    "set": "mock-04",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThanks to everyone's effort, the schoolyard became much cleaner in a month.\n\n[글]\nStudents at Hill Middle School wanted a cleaner schoolyard. ( ① ) They made small groups and picked up trash every Friday. ( ② ) They also put recycling boxes next to every bench. ( ③ ) Teachers praised them in the morning meeting. ( ④ ) Soon, other classes joined in. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "[주어진 문장] 모두의 노력 덕분에 학교 운동장은 한 달 만에 훨씬 깨끗해졌다. [글] Hill 중학교 학생들은 더 깨끗한 운동장을 원했다. 그들은 작은 모둠을 만들어 매주 금요일 쓰레기를 주웠다. 또 모든 벤치 옆에 재활용 상자를 두었다. 선생님들은 아침 조회에서 그들을 칭찬했다. 곧 다른 반들도 참여했다.",
+    "why": "'everyone's effort'는 다른 반들까지 참여한 뒤의 결과를 가리키므로 마지막인 ⑤에 들어갑니다.",
+    "optionNotes": [
+      "아직 노력이 시작되기 전이라 결과를 말할 수 없습니다.",
+      "쓰레기 줍기만 나왔고 'everyone'이 아직 아닙니다.",
+      "재활용 상자까지 나왔지만 모두가 참여한 것은 아닙니다.",
+      "칭찬 뒤에 오면 'Soon, other classes joined in'이 결과 뒤에 나와 어색합니다.",
+      "정답. 다른 반까지 참여한 뒤의 결과입니다."
+    ],
+    "trap": "'became much cleaner'라는 결과라서 ③④를 고르기 쉽지만, 'everyone's effort'는 모두가 참여한 뒤입니다.",
+    "tip": "everyone 같은 포괄적 표현은 여러 사람이 참여한 뒤에 나옵니다."
+  },
+  {
+    "id": "m1-04-40",
+    "level": "m1",
+    "set": "mock-04",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Teachers wanted to know if walking can help students think. They asked two groups to do a creative test. One group walked for ten minutes in a park first. The other group sat in a classroom. The walking group gave more new ideas.\n\n▶ A short (A) in a park can make students (B).",
+    "options": [
+      "(A) walk — (B) more creative",
+      "(A) nap — (B) more hungry",
+      "(A) talk — (B) more quiet",
+      "(A) meal — (B) more sleepy and slow",
+      "(A) game — (B) more careful"
+    ],
+    "answer": 0,
+    "translation": "선생님들은 걷기가 학생들의 생각에 도움이 되는지 알고 싶었다. 그들은 두 모둠에게 창의성 검사를 하게 했다. 한 모둠은 먼저 공원에서 10분 동안 걸었다. 다른 모둠은 교실에 앉아 있었다. 걸은 모둠이 새로운 아이디어를 더 많이 냈다. ▶ 공원에서의 짧은 산책은 학생들을 더 창의적으로 만들 수 있다.",
+    "why": "공원에서 걸은 모둠이 새로운 아이디어를 더 많이 냈으므로 (A)는 walk, (B)는 more creative입니다.",
+    "optionNotes": [
+      "정답. 짧은 산책이 창의성을 높였습니다.",
+      "낮잠과 배고픔은 글에 나오지 않습니다.",
+      "대화와 조용함은 글에 나오지 않습니다.",
+      "식사와 졸림은 글에 나오지 않습니다.",
+      "게임과 신중함은 글에 나오지 않습니다."
+    ],
+    "trap": "(A)와 (B) 중 하나만 맞는 보기를 주의하세요. 둘 다 글의 내용과 맞아야 합니다.",
+    "tip": "요약문은 방법(walk)과 결과(more creative)를 글에서 그대로 찾아 짝지으세요."
+  }
+]
