@@ -1,0 +1,333 @@
+[
+  {
+    "id": "m3-13-18",
+    "level": "m3",
+    "set": "mock-13",
+    "no": 18,
+    "type": "purpose",
+    "stem": "다음 글을 쓴 목적으로 가장 적절한 것은?",
+    "passage": "Dear Ms. Moon,\nMy name is Taeyang Kim, and I am a ninth grader at Hanbit Middle School. I am writing to apply for the Future Scientist Scholarship that your foundation offers each year. Since I was eleven, I have been interested in robotics, and last year I won second prize at the regional science contest. However, the cost of materials for my next project is too high for my family. I would be truly grateful if you could consider my application.\nSincerely,\nTaeyang Kim",
+    "options": [
+      "지역 과학 대회 참가 방법을 문의하려고",
+      "로봇 동아리 후원을 요청하려고",
+      "대회에서 받은 상품에 대해 감사하려고",
+      "재단의 장학금을 신청하려고",
+      "재단의 연례 행사 일정을 확인하려고"
+    ],
+    "answer": 3,
+    "translation": "문 선생님께. 제 이름은 김태양이고 한빛 중학교 3학년입니다. 귀 재단이 해마다 제공하는 미래 과학자 장학금을 신청하려고 글을 씁니다. 열한 살 때부터 로봇공학에 관심이 있었고 작년에는 지역 과학 대회에서 2등상을 받았습니다. 하지만 다음 프로젝트의 재료비는 우리 가족에게 너무 큽니다. 제 신청을 고려해 주시면 정말 감사하겠습니다. 김태양 드림.",
+    "why": "'I am writing to apply for the Future Scientist Scholarship'에서 장학금을 신청하는 글입니다.",
+    "optionNotes": [
+      "대회 참가 방법 문의가 아닙니다.",
+      "동아리 후원 요청이 아닙니다.",
+      "감사 인사가 아닙니다.",
+      "정답. 재단의 장학금을 신청합니다.",
+      "행사 일정 확인이 아닙니다."
+    ],
+    "trap": "수상 경력과 재료비 이야기는 신청의 근거일 뿐입니다.",
+    "tip": "목적 문제는 'I am writing to apply for ~' 문장을 찾으세요."
+  },
+  {
+    "id": "m3-13-19",
+    "level": "m3",
+    "set": "mock-13",
+    "no": 19,
+    "type": "mood",
+    "stem": "다음 글에 드러난 'I'의 심경 변화로 가장 적절한 것은?",
+    "passage": "At the top of the indoor climbing wall, my arms were shaking, and my heart beat so loudly that I could hear it. I had never been so high before. When I looked down, the ground seemed to spin, and I almost closed my eyes. \"Just one more reach!\" my friend shouted from below. I took a deep breath, stretched my arm, and touched the bell. It rang clearly across the hall. My friends cheered, and I laughed so loudly that my voice echoed.",
+    "options": [
+      "bored → angry",
+      "jealous → proud",
+      "lonely → curious and hopeful",
+      "calm → ashamed",
+      "terrified → thrilled"
+    ],
+    "answer": 4,
+    "translation": "실내 암벽 등반 벽의 꼭대기에서 내 팔은 떨리고 심장이 너무 크게 뛰어 그 소리가 들릴 정도였다. 나는 그렇게 높이 올라간 적이 없었다. 아래를 보니 땅이 빙글빙글 도는 것 같아 눈을 거의 감을 뻔했다. \"한 번만 더 뻗어!\"라고 친구가 아래에서 외쳤다. 나는 숨을 깊이 들이쉬고 팔을 뻗어 종을 쳤다. 종소리가 홀 전체에 맑게 울렸다. 친구들이 환호했고 나는 목소리가 울릴 만큼 크게 웃었다.",
+    "why": "처음에는 팔이 떨릴 만큼 무서웠다가(terrified), 종을 치고 환호받으며 크게 웃을 만큼 신이 났습니다(thrilled).",
+    "optionNotes": [
+      "지루함에서 화남이 아닙니다.",
+      "질투에서 자랑스러움이 아닙니다.",
+      "외로움에서 호기심이 아닙니다.",
+      "침착함에서 부끄러움이 아닙니다.",
+      "정답. 두려움에서 짜릿함으로 변했습니다."
+    ],
+    "trap": "마지막 웃음을 proud로만 보지 마세요. 두려움 → 짜릿함의 변화가 핵심입니다.",
+    "tip": "처음의 신체 반응(shaking, heart)과 마지막 반응(laughed, cheered)을 비교하세요."
+  },
+  {
+    "id": "m3-13-20",
+    "level": "m3",
+    "set": "mock-13",
+    "no": 20,
+    "type": "claim",
+    "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+    "passage": "Every day, millions of people click \"I agree\" on long terms and conditions without reading a single line. By doing so, they may give companies permission to collect their location, their contacts, and even their photos. Most users never realize what they have agreed to until a problem occurs. Reading every word may be unrealistic. However, it is not difficult to check the main points, such as what data is collected and how it is used. Therefore, users should make a habit of checking the key terms before they click \"I agree.\"",
+    "options": [
+      "기업은 약관을 더 길게 작성해야 한다.",
+      "이용자는 동의 버튼을 누르기 전에 핵심 약관을 확인하는 습관을 가져야 한다.",
+      "정부는 개인 정보 유출을 막기 위해 모든 온라인 서비스의 사용을 법으로 금지해야 한다.",
+      "개인 정보는 모두 공개하는 것이 안전하다.",
+      "약관은 읽을 필요가 없다."
+    ],
+    "answer": 1,
+    "translation": "매일 수백만 명이 긴 이용 약관에서 한 줄도 읽지 않은 채 '동의'를 누른다. 그렇게 하면 기업에 위치, 연락처, 심지어 사진까지 수집할 수 있는 허락을 줄 수 있다. 대부분의 사용자는 문제가 생기기 전까지 자신이 무엇에 동의했는지 알지 못한다. 모든 단어를 읽는 것은 비현실적일 수 있다. 그러나 어떤 데이터가 수집되고 어떻게 쓰이는지 같은 핵심을 확인하는 것은 어렵지 않다. 그러므로 사용자는 '동의'를 누르기 전에 핵심 약관을 확인하는 습관을 가져야 한다.",
+    "why": "마지막 문장 'users should make a habit of checking the key terms before they click'이 필자의 주장입니다.",
+    "optionNotes": [
+      "약관을 길게 쓰라는 내용은 없습니다.",
+      "정답. 핵심 약관을 확인하는 습관을 가져야 합니다.",
+      "사용 금지 내용은 없습니다.",
+      "공개하는 것이 안전하다는 내용은 글과 반대입니다.",
+      "읽을 필요가 없다는 내용은 글과 반대입니다."
+    ],
+    "trap": "'Reading every word may be unrealistic'를 '읽을 필요 없다'로 오해하지 마세요.",
+    "tip": "주장 문제는 'Therefore, ~ should ...' 문장을 찾으세요."
+  },
+  {
+    "id": "m3-13-21",
+    "level": "m3",
+    "set": "mock-13",
+    "no": 21,
+    "type": "implied",
+    "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "passage": "The principal was shocked to see the cracked window in the old school building. But the inspector said that it was only {u|the tip of the iceberg}. The building also had leaking pipes in the ceiling, old electric wires, and a weak foundation. All of them would cost a lot to repair.",
+    "options": [
+      "the top of a very tall mountain that is always covered with ice and snow",
+      "a small visible part of a much bigger problem",
+      "a cold drink served in summer",
+      "the most beautiful part of the building",
+      "a decoration made of glass"
+    ],
+    "answer": 1,
+    "translation": "교장은 낡은 학교 건물의 금이 간 창문을 보고 충격을 받았다. 그러나 점검 담당자는 그것이 빙산의 일각일 뿐이라고 말했다. 건물에는 천장의 새는 배관, 낡은 전선, 약한 기초도 있었다. 모두 수리에 많은 돈이 들 것이었다.",
+    "why": "창문 외에도 배관, 전선, 기초 문제가 있다고 했으므로 'the tip of the iceberg'는 훨씬 큰 문제의 작은 일부라는 뜻입니다.",
+    "optionNotes": [
+      "얼음 덮인 산 꼭대기가 아닙니다.",
+      "정답. 훨씬 큰 문제의 눈에 보이는 작은 일부라는 뜻입니다.",
+      "차가운 음료가 아닙니다.",
+      "가장 아름다운 부분이 아닙니다.",
+      "유리 장식이 아닙니다."
+    ],
+    "trap": "'iceberg'를 문자 그대로 해석하면 ①③을 고르게 됩니다.",
+    "tip": "관용 표현은 뒤 문장(also had ~)에서 의미를 추론하세요."
+  },
+  {
+    "id": "m3-13-22",
+    "level": "m3",
+    "set": "mock-13",
+    "no": 22,
+    "type": "gist",
+    "stem": "다음 글의 요지로 가장 적절한 것은?",
+    "passage": "Many athletes believe that more training always leads to better results. However, sports scientists have found that the body becomes stronger not during exercise but during rest. Exercise creates tiny damage in the muscles, and it is during rest that the body repairs this damage and builds stronger tissue. Without enough sleep and recovery days, training can even cause injuries and reduce performance. Therefore, rest should be considered a part of training, not the opposite of it.",
+    "options": [
+      "운동은 많이 할수록 항상 좋다.",
+      "운동 중에는 물을 마시지 않는 것이 좋다.",
+      "근육 손상은 반드시 피해야 한다.",
+      "선수는 부상이 있어도 대회 일정에 맞추어 훈련을 계속해야 한다.",
+      "휴식은 훈련의 일부이며 성과를 높이는 데 꼭 필요하다."
+    ],
+    "answer": 4,
+    "translation": "많은 운동선수는 훈련을 많이 할수록 항상 더 좋은 결과가 나온다고 믿는다. 그러나 스포츠 과학자들은 몸이 운동 중이 아니라 휴식 중에 더 강해진다는 것을 발견했다. 운동은 근육에 아주 작은 손상을 만들고 몸이 이 손상을 복구해 더 강한 조직을 만드는 것은 휴식 중이다. 충분한 수면과 회복의 날이 없으면 훈련은 부상을 일으키고 성과를 떨어뜨리기도 한다. 그러므로 휴식은 훈련의 반대가 아니라 훈련의 일부로 여겨져야 한다.",
+    "why": "But 뒤와 마지막 문장에서 휴식이 훈련의 일부이며 성과에 꼭 필요하다는 것이 요지입니다.",
+    "optionNotes": [
+      "첫 문장의 통념이며 글과 반대입니다.",
+      "물 이야기는 나오지 않습니다.",
+      "손상은 휴식 중 복구된다고 했습니다.",
+      "부상이 있어도 계속하라는 내용은 글과 반대입니다.",
+      "정답. 휴식은 훈련의 일부이며 필요합니다."
+    ],
+    "trap": "첫 문장의 통념(more training)을 필자의 생각으로 오해하지 마세요.",
+    "tip": "However와 Therefore 뒤의 문장이 요지를 담습니다."
+  },
+  {
+    "id": "m3-13-23",
+    "level": "m3",
+    "set": "mock-13",
+    "no": 23,
+    "type": "topic",
+    "stem": "다음 글의 주제로 가장 적절한 것은?",
+    "passage": "Many islands in the Pacific Ocean were not formed by the movement of continents. They began as volcanoes under the sea. Over thousands of years, hot melted rock called lava flowed out of the volcano and cooled in the water. As layers of rock piled up, the volcano grew taller until its top rose above the surface. Birds then carried seeds there, and plants slowly began to cover the new land, so that the barren rock became a green island.",
+    "options": [
+      "how volcanoes create new islands in the ocean",
+      "why sea water is warmer near the equator",
+      "how fish migrate between islands",
+      "what tourists should bring to tropical islands",
+      "where the world's deepest oceans are located"
+    ],
+    "answer": 0,
+    "translation": "태평양의 많은 섬은 대륙의 이동으로 만들어진 것이 아니다. 그것들은 바닷속 화산으로 시작했다. 수천 년에 걸쳐 용암이라 불리는 뜨겁게 녹은 암석이 화산에서 흘러나와 물속에서 식었다. 암석층이 쌓이면서 화산은 꼭대기가 수면 위로 솟을 때까지 점점 높아졌다. 그러면 새들이 씨앗을 날라 왔고 식물이 새 땅을 서서히 덮기 시작해 메마른 바위가 푸른 섬이 되었다.",
+    "why": "바닷속 화산이 새로운 섬을 만드는 과정을 설명하는 글입니다.",
+    "optionNotes": [
+      "정답. 화산이 바다에서 새 섬을 만드는 과정입니다.",
+      "바닷물의 온도는 나오지 않습니다.",
+      "물고기의 이동은 나오지 않습니다.",
+      "관광객 준비물은 나오지 않습니다.",
+      "깊은 바다의 위치는 나오지 않습니다."
+    ],
+    "trap": "마지막의 씨앗과 식물 이야기를 주제로 착각하지 마세요.",
+    "tip": "주제는 글 전체의 과정(volcano → island)을 담은 보기입니다."
+  },
+  {
+    "id": "m3-13-24",
+    "level": "m3",
+    "set": "mock-13",
+    "no": 24,
+    "type": "title",
+    "stem": "다음 글의 제목으로 가장 적절한 것은?",
+    "passage": "In a silent disco, people dance to music that they can hear only through wireless headphones. To anyone without headphones, the room looks strangely quiet. A crowd moves to a rhythm that no one else can hear. This format has become popular because it can be held in places where loud music is not allowed, such as libraries, parks, and museums. Participants can also choose from several music channels, so friends with different tastes can enjoy the same dance floor together.",
+    "options": [
+      "How to Choose the Best Headphones",
+      "The History of Dance Music in Public Libraries Around the World",
+      "Why Museums Should Close at Night",
+      "Dancing Without Noise: The Rise of Silent Discos",
+      "Ten Tips for Writing Songs"
+    ],
+    "answer": 3,
+    "translation": "사일런트 디스코에서는 사람들이 무선 헤드폰으로만 들을 수 있는 음악에 맞춰 춤춘다. 헤드폰이 없는 사람에게 그 방은 이상할 만큼 조용해 보인다. 아무도 들을 수 없는 리듬에 맞춰 사람들이 움직인다. 이 방식은 도서관, 공원, 박물관처럼 큰 음악이 허용되지 않는 곳에서도 열릴 수 있어 인기를 끌고 있다. 참가자들은 여러 음악 채널 중에서 고를 수 있어 취향이 다른 친구들도 같은 댄스 플로어에서 함께 즐길 수 있다.",
+    "why": "헤드폰으로 듣는 소리 없는 디스코의 확산을 소개하므로 ④가 제목입니다.",
+    "optionNotes": [
+      "헤드폰 고르는 법은 나오지 않습니다.",
+      "도서관 댄스 음악의 역사는 나오지 않습니다.",
+      "박물관 폐관은 나오지 않습니다.",
+      "정답. 소음 없이 춤추는 사일런트 디스코의 확산입니다.",
+      "작곡은 나오지 않습니다."
+    ],
+    "trap": "'libraries', 'museums'는 장소 예시일 뿐입니다.",
+    "tip": "제목은 핵심 대상(silent discos)과 흐름(rise)을 담으세요."
+  },
+  {
+    "id": "m3-13-25",
+    "level": "m3",
+    "set": "mock-13",
+    "no": 25,
+    "type": "chart",
+    "stem": "다음 도표의 내용과 일치하지 않는 것은?",
+    "chart": {
+      "title": "Reasons Students Are Late to School (%)",
+      "unit": "%",
+      "labels": [
+        "Overslept",
+        "Traffic",
+        "Forgot items",
+        "Weather",
+        "Others"
+      ],
+      "series": [
+        {
+          "name": "Percentage",
+          "values": [
+            40,
+            25,
+            15,
+            10,
+            10
+          ]
+        }
+      ]
+    },
+    "passage": "The graph shows the reasons why students are late to school. ① Oversleeping was the most common reason. ② Traffic was the second most common reason. ③ The sum of weather and others was higher than the percentage of forgetting items. ④ The percentage of weather was higher than that of forgetting items. ⑤ The percentage of oversleeping was four times that of weather.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "그래프는 학생들이 학교에 지각하는 이유를 보여 준다. ① 늦잠이 가장 흔한 이유였다. ② 교통이 두 번째로 흔한 이유였다. ③ 날씨와 기타의 합은 물건을 잊은 비율보다 높았다. ④ 날씨의 비율은 물건을 잊은 비율보다 높았다. ⑤ 늦잠의 비율은 날씨의 네 배였다.",
+    "why": "날씨는 10%, 물건을 잊은 것은 15%이므로 날씨가 더 높다는 ④는 일치하지 않습니다.",
+    "optionNotes": [
+      "늦잠은 40%로 가장 많습니다.",
+      "교통은 25%로 두 번째입니다.",
+      "날씨 10%와 기타 10%의 합 20%는 물건을 잊은 15%보다 높습니다.",
+      "정답(불일치). 날씨 10%는 물건 15%보다 낮습니다.",
+      "40%는 10%의 네 배입니다."
+    ],
+    "trap": "합산 보기(③)는 숫자를 직접 더해 확인해야 합니다.",
+    "tip": "비교·합산 보기는 해당 막대의 숫자를 직접 대조하세요."
+  },
+  {
+    "id": "m3-13-26",
+    "level": "m3",
+    "set": "mock-13",
+    "no": 26,
+    "type": "match",
+    "stem": "Rina Tanaka에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Rina Tanaka is a ceramic artist who lives in a small village in Japan. She first touched clay at the age of seven, when her grandmother, a potter, let her make a small bowl. After studying art in college, she worked at a design company for five years, but she missed working with her hands. At thirty, she returned to her village and opened a studio. There she uses local clay and ash from burned rice straw to make glaze. Today she teaches children from the village how to make their own cups on weekends.",
+    "options": [
+      "대학에서 도예가 아닌 경영학을 공부했다.",
+      "일곱 살 때 학교 미술 수업 시간에 친구들과 함께 처음 점토를 만져 보았다.",
+      "디자인 회사에서 5년 일한 뒤 고향 마을로 돌아와 작업실을 열었다.",
+      "작업실에서 수입한 유약만 사용한다.",
+      "주중에 어른들에게만 도예를 가르친다."
+    ],
+    "answer": 2,
+    "translation": "타나카 리나는 일본의 작은 마을에 사는 도예가이다. 그녀는 도예가였던 할머니가 작은 그릇을 만들게 해 주었을 때인 일곱 살에 처음 점토를 만졌다. 대학에서 미술을 공부한 뒤 그녀는 디자인 회사에서 5년을 일했지만 손으로 하는 작업이 그리웠다. 서른 살에 그녀는 마을로 돌아와 작업실을 열었다. 그곳에서 지역의 점토와 태운 볏짚의 재로 유약을 만든다. 오늘날 그녀는 주말에 마을의 어린이들에게 자신의 컵을 만드는 법을 가르친다.",
+    "why": "'worked at a design company for five years ... returned to her village and opened a studio'와 일치합니다.",
+    "optionNotes": [
+      "대학에서 미술을 공부했습니다.",
+      "할머니가 점토를 만지게 해 주었습니다.",
+      "정답. 디자인 회사에서 5년 일한 뒤 마을로 돌아와 작업실을 열었습니다.",
+      "지역 점토와 재로 유약을 만듭니다.",
+      "주말에 어린이들을 가르칩니다."
+    ],
+    "trap": "나이(seven/thirty)와 장소(school/grandmother)를 바꾼 보기에 주의하세요.",
+    "tip": "일치 문제는 시기별 사실(7세, 대학, 5년, 30세, 현재)을 대조하세요."
+  },
+  {
+    "id": "m3-13-27",
+    "level": "m3",
+    "set": "mock-13",
+    "no": 27,
+    "type": "notice",
+    "stem": "Youth Film Festival에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Youth Film Festival\nWatch short films made by teenagers!\nDate: Friday, November 7 – Sunday, November 9\nTime: 1:00 p.m. – 8:00 p.m.\nPlace: Hanbit Arts Center, Main Hall\nTickets: $5 per day, or $12 for a three-day pass\nSpecial: A Q&A with the directors after each screening\nNote: Children under 10 are not admitted to evening screenings (after 6:00 p.m.).",
+    "options": [
+      "하루만 열린다.",
+      "표는 하루권 한 종류만 있다.",
+      "상영이 끝난 뒤 감독과의 질의응답이 있다.",
+      "10세 미만은 모든 상영에 입장할 수 없다.",
+      "입장은 무료이다."
+    ],
+    "answer": 2,
+    "translation": "청소년 영화제. 십 대가 만든 단편 영화를 보세요! 날짜: 11월 7일 금요일~11월 9일 일요일. 시간: 오후 1시~8시. 장소: 한빛 아트 센터 메인 홀. 표: 하루 5달러 또는 3일권 12달러. 특별 행사: 매 상영 후 감독과의 질의응답. 유의: 10세 미만 어린이는 저녁 상영(오후 6시 이후)에 입장할 수 없습니다.",
+    "why": "'A Q&A with the directors after each screening'과 일치합니다.",
+    "optionNotes": [
+      "3일 동안 열립니다.",
+      "하루권과 3일권이 있습니다.",
+      "정답. 상영 후 감독과의 질의응답이 있습니다.",
+      "저녁 상영에만 입장할 수 없습니다.",
+      "입장권이 필요합니다."
+    ],
+    "trap": "Note의 'evening screenings'를 '모든 상영'으로 바꾼 ④에 주의하세요.",
+    "tip": "괄호 안의 시간(after 6:00 p.m.)과 Note를 정확히 확인하세요."
+  },
+  {
+    "id": "m3-13-28",
+    "level": "m3",
+    "set": "mock-13",
+    "no": 28,
+    "type": "notice",
+    "stem": "Student Photo Contest에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Student Photo Contest\nTheme: Hidden Beauty in Our City\nWho: Middle and high school students\nEntries: Up to three photos per student, in color or black-and-white\nSubmit: Online at www.hanbitphoto.org by December 15\nJudging: Winners will be announced on December 22\nPrize: First prize, a digital camera; second and third prizes, photo books\nNote: Photos must not be edited with filters that change the scene.",
+    "options": [
+      "고등학생은 참가할 수 없다.",
+      "학생 한 명당 최대 세 장까지 낼 수 있다.",
+      "12월 22일 수상자 발표 때까지 사진을 제출해야 한다.",
+      "1등 상품은 사진집이다.",
+      "필터로 장면을 바꾼 사진도 낼 수 있다."
+    ],
+    "answer": 1,
+    "translation": "학생 사진 공모전. 주제: 우리 도시의 숨은 아름다움. 대상: 중·고등학생. 출품: 학생당 컬러 또는 흑백 사진 최대 세 장. 제출: 12월 15일까지 www.hanbitphoto.org에서 온라인으로. 심사: 12월 22일 수상자 발표. 상: 1등 디지털 카메라, 2·3등 사진집. 유의: 장면을 바꾸는 필터로 보정한 사진은 안 됩니다.",
+    "why": "'Up to three photos per student'와 일치합니다.",
+    "optionNotes": [
+      "중·고등학생이 대상입니다.",
+      "정답. 학생당 최대 세 장까지 낼 수 있습니다.",
+      "제출은 12월 15일까지입니다.",
+      "1등은 디지털 카메라입니다.",
+      "장면을 바꾸는 필터 사진은 안 됩니다."
+    ],
+    "trap": "제출 마감(Dec 15)과 발표일(Dec 22)을 혼동하지 마세요.",
+    "tip": "날짜가 두 개 나올 때는 항목별로 구분해 확인하세요."
+  }
+]

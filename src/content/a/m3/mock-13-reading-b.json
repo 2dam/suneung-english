@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m3-13-29",
+    "level": "m3",
+    "set": "mock-13",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Many people believe that they {1|are} too old to learn new skills. However, studies show that adults {2|can} learn a language as effectively as children. The key is not age but the amount of time spent {3|to practice}. Adults who {4|study} regularly in short sessions often {5|surprise} themselves with their progress.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "많은 사람들은 새로운 기술을 배우기에는 자신이 너무 나이가 많다고 믿는다. 그러나 연구에 따르면 성인도 아이들만큼 효과적으로 언어를 배울 수 있다. 핵심은 나이가 아니라 연습에 쓴 시간의 양이다. 짧은 시간씩 규칙적으로 공부하는 성인은 자신의 발전에 스스로 놀라는 경우가 많다.",
+    "why": "'spend + 시간 + (in) -ing' 구문이므로 'to practice'가 아니라 'practicing'이어야 합니다.",
+    "optionNotes": [
+      "복수 주어 they에 맞는 are입니다.",
+      "조동사 can 뒤의 동사원형 learn입니다.",
+      "정답(틀림). time spent 뒤에는 (on) practicing이 와야 합니다.",
+      "선행사 Adults에 맞는 복수 동사 study입니다.",
+      "복수 주어 Adults에 맞는 surprise입니다."
+    ],
+    "trap": "to부정사가 '목적'처럼 자연스러워 보이지만 spent 뒤에는 동명사를 씁니다.",
+    "tip": "'time spent' 뒤에는 (on/in) + 동명사가 옵니다."
+  },
+  {
+    "id": "m3-13-30",
+    "level": "m3",
+    "set": "mock-13",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Fast fashion has {1|reduced} the amount of clothing that ends up in landfills. Because cheap clothes are made quickly, people buy more and {2|wear} each item for a shorter time. Some brands now {3|encourage} customers to repair and reuse their clothes. Governments are also {4|considering} new rules that make companies {5|responsible} for the waste they create.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "패스트 패션은 매립지에 쌓이는 옷의 양을 늘렸다. 싼 옷이 빠르게 만들어지기 때문에 사람들은 더 많이 사고 각 옷을 더 짧은 시간 동안 입는다. 일부 브랜드는 이제 고객에게 옷을 수선하고 재사용하도록 권장한다. 정부도 회사가 만들어 내는 쓰레기에 책임을 지게 하는 새 규칙을 검토하고 있다.",
+    "why": "사람들이 더 많이 사고 짧게 입는다고 했으므로 매립지에 쌓이는 옷의 양을 '줄였다(reduced)'가 아니라 '늘렸다(increased)'여야 합니다.",
+    "optionNotes": [
+      "정답(부적절). 옷이 더 많이 버려지므로 increased여야 합니다.",
+      "입는다는 의미로 wear가 알맞습니다.",
+      "권장한다는 의미로 encourage가 알맞습니다.",
+      "검토한다는 의미로 considering이 알맞습니다.",
+      "책임이 있다는 의미로 responsible이 알맞습니다."
+    ],
+    "trap": "첫 문장의 'reduced'는 문법적으로 자연스럽지만 뒤 문장의 내용과 모순됩니다.",
+    "tip": "Because 뒤의 원인(people buy more)이 첫 문장의 결과 방향을 정합니다."
+  },
+  {
+    "id": "m3-13-31",
+    "level": "m3",
+    "set": "mock-13",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Thousands of old satellites and pieces of rockets now orbit the Earth as space debris. Even a small piece traveling at high speed can seriously damage an active satellite or a spacecraft. In 2009, two satellites even collided in orbit and broke into thousands of pieces. Tracking all of this debris is difficult because much of it is too small to see. Scientists warn that collisions could create even more debris, which might make some orbits unusable. The more satellites we launch into space, the more important it is to __________.",
+    "options": [
+      "launch larger rockets more often to carry more satellites",
+      "ignore small pieces of debris",
+      "build faster satellites quickly",
+      "remove or avoid old satellites and debris",
+      "reduce the cost of every launch"
+    ],
+    "answer": 3,
+    "translation": "수천 개의 낡은 인공위성과 로켓 조각이 이제 우주 쓰레기로 지구 궤도를 돌고 있다. 작은 조각이라도 빠른 속도로 움직이면 작동 중인 위성이나 우주선에 심각한 손상을 줄 수 있다. 2009년에는 두 위성이 궤도에서 충돌해 수천 개의 조각으로 부서지기도 했다. 이 쓰레기의 대부분은 너무 작아서 보이지 않기 때문에 모두 추적하기는 어렵다. 과학자들은 충돌이 더 많은 쓰레기를 만들어 일부 궤도를 쓸 수 없게 만들 수 있다고 경고한다. 우주로 위성을 더 많이 쏘아 올릴수록 낡은 위성과 쓰레기를 치우거나 피하는 것이 더 중요해진다.",
+    "why": "위성이 늘수록 충돌 위험이 커지므로 낡은 위성과 쓰레기를 제거하거나 피하는 것이 중요합니다.",
+    "optionNotes": [
+      "더 큰 로켓은 문제를 키웁니다.",
+      "작은 조각을 무시하라는 내용은 글과 반대입니다.",
+      "더 빠른 위성은 언급되지 않았습니다.",
+      "정답. 낡은 위성과 쓰레기를 제거하거나 피해야 합니다.",
+      "발사 비용은 나오지 않습니다."
+    ],
+    "trap": "'launch'가 반복된 ①⑤에 이끌리지 마세요.",
+    "tip": "앞 문장의 위험(collisions, debris)이 빈칸의 대응책을 알려 줍니다."
+  },
+  {
+    "id": "m3-13-32",
+    "level": "m3",
+    "set": "mock-13",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Psychologists who study resilience have found that people who recover quickly from failure interpret it differently from others. Instead of thinking, \"I am a failure,\" they tell themselves, \"This attempt did not work, so I will try another way.\" They do not take one bad result as proof of their entire ability. Their mindset helps them keep going when tasks become difficult and progress feels slow. For them, a failure is a __________ event rather than a permanent judgment on who they are.",
+    "options": [
+      "permanent",
+      "private",
+      "pleasant",
+      "public",
+      "temporary"
+    ],
+    "answer": 4,
+    "translation": "회복 탄력성을 연구하는 심리학자들은 실패에서 빨리 회복하는 사람들이 실패를 다르게 해석한다는 것을 발견했다. \"나는 실패자야\"라고 생각하는 대신 그들은 \"이번 시도는 효과가 없었으니 다른 방법을 써 보자\"라고 스스로에게 말한다. 그들은 한 번의 나쁜 결과를 자신의 능력 전체의 증거로 받아들이지 않는다. 이런 마음가짐은 일이 어려워지고 진전이 느리게 느껴질 때에도 그들이 계속 나아가도록 돕는다. 그들에게 실패는 자신이 누구인지에 대한 영구적인 판단이 아니라 일시적인 사건이다.",
+    "why": "'rather than a permanent judgment'와 대비되므로 일시적인(temporary) 사건이 알맞습니다.",
+    "optionNotes": [
+      "permanent는 'rather than' 뒤에 쓰인 말입니다.",
+      "사적이라는 내용은 없습니다.",
+      "즐겁다는 내용은 없습니다.",
+      "공개적이라는 내용은 없습니다.",
+      "정답. 일시적인 사건입니다."
+    ],
+    "trap": "빈칸 뒤의 'permanent'를 그대로 고르지 마세요. 'rather than'은 반대를 뜻합니다.",
+    "tip": "'A rather than B'에서 B와 반대되는 낱말이 A입니다."
+  },
+  {
+    "id": "m3-13-33",
+    "level": "m3",
+    "set": "mock-13",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many universities now require first-year students to take a course on critical thinking. In this course, students are taught to ask who produced a piece of information, what evidence supports it, and who may benefit from it. The aim is to develop people who do not simply accept everything at face value. These skills are useful in every subject, from science to history, and in daily life. In an age of fake news, perhaps the most valuable skill is the ability to __________.",
+    "options": [
+      "question information carefully instead of accepting everything at face value",
+      "read quickly",
+      "write long essays",
+      "memorize facts",
+      "avoid the news"
+    ],
+    "answer": 0,
+    "translation": "많은 대학은 이제 신입생에게 비판적 사고 과목을 듣게 한다. 이 과목에서 학생들은 누가 정보를 만들었는지, 어떤 증거가 뒷받침하는지, 누구에게 이익이 될 수 있는지 묻도록 배운다. 목표는 모든 것을 액면 그대로 받아들이지 않는 사람을 기르는 것이다. 이런 기술은 과학에서 역사까지 모든 과목과 일상생활에서 유용하다. 가짜 뉴스의 시대에 가장 가치 있는 기술은 아마도 모든 것을 액면 그대로 받아들이지 않고 정보를 신중하게 의심해 보는 능력일 것이다.",
+    "why": "정보를 액면 그대로 받아들이지 않고 묻는 능력을 기르는 과목이므로 ①이 알맞습니다.",
+    "optionNotes": [
+      "정답. 정보를 신중히 의심하고 질문하는 능력입니다.",
+      "빨리 읽기는 나오지 않습니다.",
+      "긴 글쓰기는 나오지 않습니다.",
+      "암기는 글의 목표와 반대입니다.",
+      "뉴스를 피하라는 내용은 없습니다."
+    ],
+    "trap": "②③④는 글에 나온 질문하기와 거리가 먼 능력입니다.",
+    "tip": "앞 문장의 'do not simply accept everything'이 빈칸의 단서입니다."
+  },
+  {
+    "id": "m3-13-34",
+    "level": "m3",
+    "set": "mock-13",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "The sound of ocean waves is often used as a sleep aid. Many people turn on a recording of rain or waves when they go to bed, hoping to fall asleep faster. Researchers explain that such steady sounds, sometimes called white noise, do not remove noise from the room. Rather, they __________ sudden sounds, such as a door closing or a car horn, so that the brain is less likely to wake up. A constant, gentle background makes unexpected sounds less noticeable.",
+    "options": [
+      "amplify",
+      "mask",
+      "create",
+      "stop",
+      "measure"
+    ],
+    "answer": 1,
+    "translation": "파도 소리는 흔히 수면 보조로 쓰인다. 많은 사람이 더 빨리 잠들기를 바라며 잠자리에 들 때 빗소리나 파도 소리 녹음을 튼다. 연구자들은 백색 소음이라고도 하는 이런 일정한 소리가 방에서 소음을 없애 주는 것은 아니라고 설명한다. 오히려 그것은 문이 닫히거나 자동차 경적이 울리는 것 같은 갑작스러운 소리를 가려서 뇌가 깰 가능성을 줄인다. 일정하고 부드러운 배경음은 예상치 못한 소리를 덜 눈에 띄게 한다.",
+    "why": "갑작스러운 소리가 덜 눈에 띄게 한다고 했으므로 그것을 가린다(mask)는 말이 알맞습니다.",
+    "optionNotes": [
+      "증폭한다는 내용은 글과 반대입니다.",
+      "정답. 갑작스러운 소리를 가립니다.",
+      "만든다는 내용은 없습니다.",
+      "멈춘다는 내용은 글에서 부정되었습니다.",
+      "측정한다는 내용은 없습니다."
+    ],
+    "trap": "'do not remove'를 보고 ④를 고르지 마세요. 소음을 없애는 것이 아닙니다.",
+    "tip": "마지막 문장(less noticeable)이 빈칸의 의미를 알려 줍니다."
+  },
+  {
+    "id": "m3-13-35",
+    "level": "m3",
+    "set": "mock-13",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Learning a second language has benefits beyond communication. ① It improves memory because learners must remember new words and rules. ② It also strengthens the ability to switch attention between different tasks. ③ Many tourists take photos at famous landmarks every summer. ④ Studies suggest that bilingual people may even delay the signs of age-related memory loss. ⑤ For these reasons, learning another language is a worthwhile investment.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "제2외국어를 배우는 것은 의사소통을 넘어서는 이점이 있다. ① 학습자가 새로운 단어와 규칙을 기억해야 하므로 기억력이 향상된다. ② 또한 서로 다른 과제 사이에서 주의를 전환하는 능력을 강화한다. ③ 많은 관광객이 여름마다 유명한 명소에서 사진을 찍는다. ④ 연구에 따르면 이중 언어 사용자는 나이에 따른 기억력 감퇴의 징후를 늦출 수도 있다. ⑤ 이런 이유로 다른 언어를 배우는 것은 가치 있는 투자이다.",
+    "why": "글은 외국어 학습의 이점을 말하는데 ③은 관광객의 사진 촬영 이야기라 관계가 없습니다.",
+    "optionNotes": [
+      "언어 학습의 이점입니다.",
+      "언어 학습의 이점입니다.",
+      "정답(무관). 관광객의 사진 촬영 이야기입니다.",
+      "언어 학습의 이점입니다.",
+      "결론입니다."
+    ],
+    "trap": "'language'와 'tourists'를 연결해 자연스럽다고 착각할 수 있습니다.",
+    "tip": "주제(언어 학습의 이점)와 이어지지 않는 문장을 고르세요."
+  },
+  {
+    "id": "m3-13-36",
+    "level": "m3",
+    "set": "mock-13",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "The world is getting warmer every year. Many cities suffer from extremely hot weather in summer.\n(A) This is known as the urban heat island effect, and it can make the city center several degrees warmer than nearby areas.\n(B) Planting trees and building green roofs can help lower the temperature, because plants provide shade and release water vapor.\n(C) The main reason is that concrete and asphalt absorb heat during the day and release it slowly at night.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 3,
+    "translation": "세계는 해마다 더 따뜻해지고 있다. 많은 도시는 여름에 매우 더운 날씨에 시달린다. (C) 주된 이유는 콘크리트와 아스팔트가 낮 동안 열을 흡수했다가 밤에 천천히 방출하기 때문이다. (A) 이것은 도시 열섬 효과로 알려져 있으며 도심을 주변 지역보다 몇 도 더 따뜻하게 만들 수 있다. (B) 나무를 심고 옥상 녹화를 하면 식물이 그늘을 만들고 수증기를 내보내므로 기온을 낮추는 데 도움이 된다.",
+    "why": "(C) 원인 설명 → (A) 'This is known as'로 명칭과 결과 → (B) 해결책 순서입니다.",
+    "optionNotes": [
+      "(A)의 'This'가 가리킬 현상이 앞에 없습니다.",
+      "(B)의 해결책이 원인 설명 앞에 올 수 없습니다.",
+      "(B)의 해결책이 처음에 올 수 없습니다.",
+      "정답. 원인 → 명칭 → 해결책.",
+      "(B)가 (A)보다 앞서면 현상을 이름 짓기 전에 해결책이 나옵니다."
+    ],
+    "trap": "(A)의 'This'는 (C)에서 설명한 열 흡수·방출 현상을 가리킵니다.",
+    "tip": "원인(main reason) → 명칭(This is known as) → 해결책의 흐름을 확인하세요."
+  },
+  {
+    "id": "m3-13-37",
+    "level": "m3",
+    "set": "mock-13",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "According to a legend, coffee was discovered by accident.\n(A) Soon the news spread to nearby villages, and people began to make a drink from the roasted berries. Today, coffee is enjoyed by millions of people around the world, and it is one of the most traded goods on Earth.\n(B) A goat herder in Ethiopia noticed that his goats became very lively after eating small red berries.\n(C) Curious, he tried the berries himself and felt unusually energetic for the rest of the day.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 2,
+    "translation": "전설에 따르면 커피는 우연히 발견되었다. (B) 에티오피아의 한 염소지기는 염소들이 작은 붉은 열매를 먹은 뒤 매우 활발해지는 것을 알아챘다. (C) 호기심이 생긴 그는 열매를 직접 먹어 보았고 그날 나머지 시간 동안 유난히 활력이 넘쳤다. (A) 곧 소식이 근처 마을로 퍼졌고 사람들은 볶은 열매로 음료를 만들기 시작했다. 오늘날 커피는 전 세계 수백만 명이 즐기며 지구에서 가장 많이 거래되는 상품 중 하나이다.",
+    "why": "(B) 염소의 변화를 알아챔 → (C) 직접 먹어 봄 → (A) 소식이 퍼짐 순서입니다.",
+    "optionNotes": [
+      "(A)의 'the news'가 가리킬 소식이 앞에 없습니다.",
+      "(A)가 (C)보다 앞서면 시도 전에 소식이 퍼집니다.",
+      "정답. 알아챔 → 먹어 봄 → 소식이 퍼짐.",
+      "(C)의 'he'와 'the berries'가 가리킬 대상이 앞에 없습니다.",
+      "(C)의 'he'가 가리킬 대상이 앞에 없습니다."
+    ],
+    "trap": "(C)의 'the berries'는 (B)에서 소개된 열매를 가리킵니다.",
+    "tip": "정관사(the)와 대명사(he)가 가리키는 앞 문장을 확인하세요."
+  },
+  {
+    "id": "m3-13-38",
+    "level": "m3",
+    "set": "mock-13",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nIn short, outdoor play supports children's physical, mental, and social growth.\n\n[글]\n( ① ) Children who play outdoors develop stronger muscles and better balance. ( ② ) They also learn to solve problems when their games do not go as planned. ( ③ ) Playing with friends teaches them to cooperate and share. ( ④ ) Time in nature even reduces their stress and improves their mood. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "[주어진 문장] 요컨대 야외 놀이는 어린이의 신체적, 정신적, 사회적 성장을 돕는다. [글] 야외에서 노는 어린이는 더 튼튼한 근육과 더 나은 균형 감각을 기른다. 그들은 또 놀이가 계획대로 되지 않을 때 문제를 해결하는 법을 배운다. 친구들과 놀면 협력하고 나누는 법을 배운다. 자연 속에서 보내는 시간은 스트레스를 줄이고 기분도 좋게 한다. 요컨대 야외 놀이는 어린이의 신체적, 정신적, 사회적 성장을 돕는다.",
+    "why": "'In short'는 앞에서 나열한 신체·정신·사회적 이점을 요약하는 결론이므로 ⑤에 들어갑니다.",
+    "optionNotes": [
+      "이점이 나오기 전이라 결론이 어색합니다.",
+      "이점이 하나만 나왔습니다.",
+      "이점이 두 개만 나왔습니다.",
+      "마지막 이점이 아직 나오지 않았습니다.",
+      "정답. 모든 이점을 요약하는 결론입니다."
+    ],
+    "trap": "④ 앞에서도 가능해 보이지만 'mental' 이점이 ④에 있으므로 요약은 그 뒤에 와야 합니다.",
+    "tip": "'In short'는 나열을 마친 뒤에 놓입니다."
+  },
+  {
+    "id": "m3-13-39",
+    "level": "m3",
+    "set": "mock-13",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThat is why it is important to read the labels of products carefully before buying them.\n\n[글]\n( ① ) Some products labeled \"natural\" contain artificial ingredients. ( ② ) Others claim to be \"low-fat\" but contain large amounts of sugar. ( ③ ) There are no strict rules for using these words. ( ④ ) As a result, consumers can easily be misled by attractive packages. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "[주어진 문장] 그래서 제품을 사기 전에 라벨을 주의 깊게 읽는 것이 중요하다. [글] '천연'이라고 표시된 일부 제품에는 인공 성분이 들어 있다. '저지방'이라고 주장하는 다른 제품에는 많은 양의 설탕이 들어 있다. 이런 말을 쓰는 데에는 엄격한 규칙이 없다. 그 결과 소비자는 눈길을 끄는 포장에 쉽게 속을 수 있다. 그래서 제품을 사기 전에 라벨을 주의 깊게 읽는 것이 중요하다.",
+    "why": "'That is why'는 앞의 모든 이유와 결과('As a result')를 받는 결론이므로 ⑤에 들어갑니다.",
+    "optionNotes": [
+      "이유가 나오기 전이라 어색합니다.",
+      "이유가 일부만 나왔습니다.",
+      "이유가 더 이어집니다.",
+      "'As a result' 문장 앞이라 결과가 아직 없습니다.",
+      "정답. 이유와 결과 뒤의 결론입니다."
+    ],
+    "trap": "④ 앞에서도 가능해 보이지만 'As a result' 문장이 먼저 나와야 이유가 완성됩니다.",
+    "tip": "'That is why'는 이유와 결과가 완성된 뒤에 놓입니다."
+  },
+  {
+    "id": "m3-13-40",
+    "level": "m3",
+    "set": "mock-13",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A company asked half of its employees to take a ten-minute walk after lunch every day for two months. The other half stayed at their desks. At the end of the period, the walking group reported lower stress levels and said that they could focus better in the afternoon. The company also found that their sick days decreased. Many of them also said that they slept better at night.\n\n▶ A short daily (A) can (B) workers' stress and improve their concentration.",
+    "options": [
+      "(A) walk — (B) reduce",
+      "(A) meal — (B) raise",
+      "(A) shout — (B) measure",
+      "(A) trip — (B) forget",
+      "(A) game — (B) delay"
+    ],
+    "answer": 0,
+    "translation": "한 회사가 직원의 절반에게 두 달 동안 매일 점심 후 10분 산책을 하게 했다. 나머지 절반은 책상에 머물렀다. 그 기간이 끝났을 때 산책 집단은 스트레스 수준이 낮아졌고 오후에 더 잘 집중할 수 있다고 말했다. 회사는 또 그들의 병가 일수도 줄었음을 발견했다. 그들 중 많은 사람은 밤에 더 잘 잤다고도 말했다. ▶ 매일의 짧은 산책은 직원의 스트레스를 줄이고 집중력을 높일 수 있다.",
+    "why": "산책 집단의 스트레스가 낮아지고 집중력이 좋아졌으므로 (A)는 walk, (B)는 reduce입니다.",
+    "optionNotes": [
+      "정답. 짧은 산책이 스트레스를 줄입니다.",
+      "meal과 raise는 글에 나오지 않습니다.",
+      "shout와 measure는 글에 나오지 않습니다.",
+      "trip과 forget은 글에 나오지 않습니다.",
+      "game과 delay는 글에 나오지 않습니다."
+    ],
+    "trap": "(A)와 (B)가 모두 글의 결과와 맞아야 합니다.",
+    "tip": "요약문은 활동(walk)과 결과(reduce stress)를 짝지어 찾으세요."
+  }
+]

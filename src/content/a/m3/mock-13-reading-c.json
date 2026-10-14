@@ -1,0 +1,147 @@
+[
+  {
+    "id": "m3-13-41",
+    "level": "m3",
+    "set": "mock-13",
+    "no": 41,
+    "type": "long",
+    "group": "m3-13-g41",
+    "stem": "[41~42] 윗글의 제목으로 가장 적절한 것을 고르시오.",
+    "passage": "The Sahara Desert is {1|expanding} southward by several kilometers every year, turning farmland into dry sand. To stop this, eleven African countries have started a project called the Great Green Wall. They are planting a belt of trees and bushes across the continent. The roots of these plants {2|hold} the soil, and the leaves {3|block} the wind. Because of this, rainwater can be {4|wasted} and absorbed into the ground, which helps the land turn green again. The project also {5|creates} jobs for thousands of local people.",
+    "options": [
+      "Why the Sahara Is the Hottest Place on Earth",
+      "Planting a Wall of Trees to Stop the Desert",
+      "The Best Seeds for Growing Vegetables",
+      "How Farmers in Africa Raise Cattle",
+      "A Short History of African Countries"
+    ],
+    "answer": 1,
+    "translation": "사하라 사막은 해마다 남쪽으로 몇 킬로미터씩 확장되어 농지를 메마른 모래로 바꾸고 있다. 이를 막으려고 아프리카 열한 개 나라가 '그레이트 그린 월'이라는 프로젝트를 시작했다. 그들은 대륙을 가로질러 나무와 관목의 띠를 심고 있다. 이 식물의 뿌리는 흙을 붙잡고 잎은 바람을 막는다. 그 덕분에 빗물이 땅에 저장되고 흡수되어 땅이 다시 푸르러지도록 돕는다. 이 프로젝트는 또 수천 명의 지역 주민에게 일자리를 만들어 준다.",
+    "why": "사막이 번지는 것을 막으려고 나무의 띠를 심는 프로젝트를 소개하므로 ②가 제목입니다.",
+    "optionNotes": [
+      "사하라가 가장 더운 이유는 나오지 않습니다.",
+      "정답. 사막을 막으려고 나무의 벽을 심는 이야기입니다.",
+      "채소 씨앗은 나오지 않습니다.",
+      "가축 사육은 나오지 않습니다.",
+      "아프리카 역사는 나오지 않습니다."
+    ],
+    "trap": "'jobs'가 나온다고 일자리 이야기를 주제로 고르지 마세요.",
+    "tip": "제목은 문제(desert spreads)와 대응책(wall of trees)을 담으세요."
+  },
+  {
+    "id": "m3-13-42",
+    "level": "m3",
+    "set": "mock-13",
+    "no": 42,
+    "type": "long",
+    "group": "m3-13-g41",
+    "stem": "[41~42] 밑줄 친 ①~⑤ 중에서 문맥상 낱말의 쓰임이 적절하지 않은 것을 고르시오.",
+    "passage": "The Sahara Desert is {1|expanding} southward by several kilometers every year, turning farmland into dry sand. To stop this, eleven African countries have started a project called the Great Green Wall. They are planting a belt of trees and bushes across the continent. The roots of these plants {2|hold} the soil, and the leaves {3|block} the wind. Because of this, rainwater can be {4|wasted} and absorbed into the ground, which helps the land turn green again. The project also {5|creates} jobs for thousands of local people.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "(41번 지문과 같은 글입니다.)",
+    "why": "땅이 다시 푸르러지도록 돕는다고 했으므로 빗물이 '낭비된다(wasted)'가 아니라 '저장된다(stored)'여야 합니다.",
+    "optionNotes": [
+      "확장된다는 의미로 expanding이 알맞습니다.",
+      "흙을 붙잡는다는 의미로 hold가 알맞습니다.",
+      "바람을 막는다는 의미로 block이 알맞습니다.",
+      "정답(부적절). 땅에 흡수되는 맥락이므로 stored여야 합니다.",
+      "일자리를 만든다는 의미로 creates가 알맞습니다."
+    ],
+    "trap": "'wasted and absorbed'는 문법적으로 이어지지만 'helps the land turn green'과 모순됩니다.",
+    "tip": "뒤의 결과(helps the land turn green)와 동사의 방향을 확인하세요."
+  },
+  {
+    "id": "m3-13-43",
+    "level": "m3",
+    "set": "mock-13",
+    "no": 43,
+    "type": "long",
+    "group": "m3-13-g43",
+    "stem": "[43~45] 주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것을 고르시오.",
+    "passage": "(A) Sora had always dreamed of becoming a pilot, but she was afraid that her poor eyesight would stop her. {1|She} kept the dream a secret from everyone.\n(B) One day, a female pilot visited Sora's school to give a talk. Sora listened carefully, and {2|she} wrote down every word.\n(C) The pilot smiled kindly at the question. {3|She} explained that many pilots wear glasses and that what matters is passing the vision test with correction.\n(D) After the talk, Sora gathered her courage and approached the pilot. {4|She} asked whether poor eyesight could stop her from becoming a pilot. A few minutes later, {5|she} was holding a brochure about the vision standards.",
+    "options": [
+      "(B)-(D)-(C)",
+      "(C)-(B)-(D)",
+      "(C)-(D)-(B)",
+      "(D)-(B)-(C)",
+      "(D)-(C)-(B)"
+    ],
+    "answer": 0,
+    "translation": "(A) 소라는 늘 조종사가 되는 꿈을 꾸었지만 나쁜 시력이 자신을 막을까 봐 두려웠다. 그녀는 그 꿈을 모두에게 비밀로 했다. (B) 어느 날 여성 조종사가 소라의 학교를 방문해 강연을 했다. 소라는 주의 깊게 들었고 한마디 한마디를 받아 적었다. (D) 강연 뒤 소라는 용기를 내어 조종사에게 다가갔다. 그녀는 나쁜 시력이 자신이 조종사가 되는 것을 막을 수 있는지 물었다. 몇 분 뒤 그녀는 시력 기준에 관한 안내 책자를 들고 있었다. (C) 조종사는 그 질문에 다정하게 미소 지었다. 그녀는 많은 조종사가 안경을 쓰며 중요한 것은 교정 후 시력 검사를 통과하는 것이라고 설명했다.",
+    "why": "(A) 꿈을 비밀로 함 → (B) 조종사의 강연 → (D) 질문하러 다가감 → (C) 조종사의 답 순서입니다.",
+    "optionNotes": [
+      "정답. 강연 → 질문 → 답변.",
+      "(C)의 'the question'이 질문이 나오기 전에 올 수 없습니다.",
+      "(C)가 (D)보다 앞서면 질문 전에 답변이 나옵니다.",
+      "(D)가 (B)보다 앞서면 강연 전에 질문합니다.",
+      "(D)가 (B)보다 앞서면 강연 전에 조종사에게 다가갑니다."
+    ],
+    "trap": "(C)의 'the question'은 (D)에서 소라가 한 질문을 가리킵니다.",
+    "tip": "정관사(the question)가 가리키는 앞 문장을 확인하세요."
+  },
+  {
+    "id": "m3-13-44",
+    "level": "m3",
+    "set": "mock-13",
+    "no": 44,
+    "type": "long",
+    "group": "m3-13-g43",
+    "stem": "[43~45] 밑줄 친 ①~⑤ 중에서 가리키는 대상이 나머지 넷과 다른 것을 고르시오.",
+    "passage": "(A) Sora had always dreamed of becoming a pilot, but she was afraid that her poor eyesight would stop her. {1|She} kept the dream a secret from everyone.\n(B) One day, a female pilot visited Sora's school to give a talk. Sora listened carefully, and {2|she} wrote down every word.\n(C) The pilot smiled kindly at the question. {3|She} explained that many pilots wear glasses and that what matters is passing the vision test with correction.\n(D) After the talk, Sora gathered her courage and approached the pilot. {4|She} asked whether poor eyesight could stop her from becoming a pilot. A few minutes later, {5|she} was holding a brochure about the vision standards.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "③의 She는 많은 조종사가 안경을 쓴다고 설명한 조종사이고, 나머지 ①②④⑤는 모두 소라를 가리킵니다.",
+    "optionNotes": [
+      "She는 꿈을 비밀로 한 소라입니다.",
+      "she는 모든 말을 받아 적은 소라입니다.",
+      "정답. She는 설명해 준 조종사입니다.",
+      "She는 질문한 소라입니다.",
+      "she는 안내 책자를 든 소라입니다."
+    ],
+    "trap": "앞 문장의 주어가 'The pilot'이므로 She도 조종사입니다.",
+    "tip": "같은 성별의 두 인물이 나오면 직전 문장의 주어를 확인하세요."
+  },
+  {
+    "id": "m3-13-45",
+    "level": "m3",
+    "set": "mock-13",
+    "no": 45,
+    "type": "long",
+    "group": "m3-13-g43",
+    "stem": "[43~45] 윗글에 관한 내용으로 적절하지 않은 것을 고르시오.",
+    "passage": "(A) Sora had always dreamed of becoming a pilot, but she was afraid that her poor eyesight would stop her. {1|She} kept the dream a secret from everyone.\n(B) One day, a female pilot visited Sora's school to give a talk. Sora listened carefully, and {2|she} wrote down every word.\n(C) The pilot smiled kindly at the question. {3|She} explained that many pilots wear glasses and that what matters is passing the vision test with correction.\n(D) After the talk, Sora gathered her courage and approached the pilot. {4|She} asked whether poor eyesight could stop her from becoming a pilot. A few minutes later, {5|she} was holding a brochure about the vision standards.",
+    "options": [
+      "소라는 조종사가 되는 것이 꿈이었다.",
+      "소라는 학교에 온 조종사의 강연을 듣고 바로 꿈을 포기했다.",
+      "소라는 강연이 끝난 뒤 용기를 내어 조종사에게 직접 다가가 조심스럽게 질문했다.",
+      "조종사는 안경을 쓰는 조종사도 많다고 설명했다.",
+      "소라는 시력 기준에 관한 안내 책자를 받았다."
+    ],
+    "answer": 1,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "소라는 강연 뒤 용기를 내어 조종사에게 질문했으므로 꿈을 포기했다는 ②는 일치하지 않습니다.",
+    "optionNotes": [
+      "dreamed of becoming a pilot과 일치합니다.",
+      "정답(불일치). 소라는 포기하지 않고 질문했습니다.",
+      "gathered her courage and approached the pilot과 일치합니다.",
+      "many pilots wear glasses와 일치합니다.",
+      "holding a brochure about the vision standards와 일치합니다."
+    ],
+    "trap": "'afraid'라는 처음의 감정을 결과로 착각하지 마세요.",
+    "tip": "불일치 문제는 인물의 행동(approached)을 반대로 바꾼 보기를 찾으세요."
+  }
+]
