@@ -1,0 +1,147 @@
+[
+  {
+    "id": "m1-10-41",
+    "level": "m1",
+    "set": "mock-10",
+    "no": 41,
+    "type": "long",
+    "group": "m1-10-g41",
+    "stem": "[41~42] 윗글의 제목으로 가장 적절한 것을 고르시오.",
+    "passage": "Minho made a kite with his grandfather on Saturday. It was red and had a long {1|tail}. On Sunday, the wind was {2|weak}, so the kite flew very high. Suddenly, the string broke, and the kite flew away. Minho felt very {3|sad}. The next morning, he {4|found} the kite in a tree near the river. His grandfather helped him get it down. Minho felt {5|happy} again.",
+    "options": [
+      "How to Cook Noodles",
+      "A Rainy Day at the River",
+      "Minho's New Bike",
+      "The Tallest Tree in Town",
+      "The Kite That Came Back"
+    ],
+    "answer": 4,
+    "translation": "민호는 토요일에 할아버지와 함께 연을 만들었다. 그것은 빨간색이었고 긴 꼬리가 있었다. 일요일에 바람이 강해서 연은 매우 높이 날았다. 갑자기 줄이 끊어져 연이 날아가 버렸다. 민호는 매우 슬펐다. 다음 날 아침 그는 강 근처 나무에서 연을 찾았다. 할아버지가 연을 내리는 것을 도와주셨다. 민호는 다시 행복해졌다.",
+    "why": "날아간 연을 다시 찾은 이야기이므로 ⑤가 제목입니다.",
+    "optionNotes": [
+      "요리는 나오지 않습니다.",
+      "비 오는 날은 나오지 않습니다.",
+      "자전거는 나오지 않습니다.",
+      "나무는 연이 걸린 장소일 뿐입니다.",
+      "정답. 날아갔다가 돌아온 연 이야기입니다."
+    ],
+    "trap": "④는 지문의 'tree'만 가져온 보기입니다.",
+    "tip": "이야기글의 제목은 중심 사건(연이 돌아옴)을 담으세요."
+  },
+  {
+    "id": "m1-10-42",
+    "level": "m1",
+    "set": "mock-10",
+    "no": 42,
+    "type": "long",
+    "group": "m1-10-g41",
+    "stem": "[41~42] 밑줄 친 ①~⑤ 중에서 문맥상 낱말의 쓰임이 적절하지 않은 것을 고르시오.",
+    "passage": "Minho made a kite with his grandfather on Saturday. It was red and had a long {1|tail}. On Sunday, the wind was {2|weak}, so the kite flew very high. Suddenly, the string broke, and the kite flew away. Minho felt very {3|sad}. The next morning, he {4|found} the kite in a tree near the river. His grandfather helped him get it down. Minho felt {5|happy} again.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "(41번 지문과 같은 글입니다.)",
+    "why": "연이 매우 높이 날았다고 했으므로 바람이 '약했다(weak)'가 아니라 '강했다(strong)'여야 합니다.",
+    "optionNotes": [
+      "긴 꼬리라는 의미로 tail이 알맞습니다.",
+      "정답(부적절). 높이 날았으므로 strong이어야 합니다.",
+      "슬펐다는 의미로 sad가 알맞습니다.",
+      "찾았다는 의미로 found가 알맞습니다.",
+      "행복해졌다는 의미로 happy가 알맞습니다."
+    ],
+    "trap": "'wind was weak'는 문법적으로 자연스럽지만 'flew very high'와 모순됩니다.",
+    "tip": "원인과 결과(so ~)의 방향이 맞는지 확인하세요."
+  },
+  {
+    "id": "m1-10-43",
+    "level": "m1",
+    "set": "mock-10",
+    "no": 43,
+    "type": "long",
+    "group": "m1-10-g43",
+    "stem": "[43~45] 주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것을 고르시오.",
+    "passage": "(A) Taeho was new in town and had no friends. {1|He} ate lunch alone every day and looked at his tray.\n(B) After a week, Taeho no longer ate alone. {2|He} sat with Jun and his friends every day.\n(C) One day, a boy named Jun came to Taeho's table and sat down. Taeho was surprised, and {3|he} did not know what to say.\n(D) Jun took out a deck of cards and asked, \"Do you want to play?\" {4|He} smiled and shuffled the cards. Taeho nodded, and {5|he} picked up the first card.",
+    "options": [
+      "(B)-(D)-(C)",
+      "(C)-(B)-(D)",
+      "(C)-(D)-(B)",
+      "(D)-(B)-(C)",
+      "(D)-(C)-(B)"
+    ],
+    "answer": 2,
+    "translation": "(A) 태호는 마을에 새로 와서 친구가 없었다. 그는 매일 혼자 점심을 먹으며 자신의 식판을 바라보았다. (C) 어느 날 준이라는 소년이 태호의 식탁에 와서 앉았다. 태호는 놀라서 무슨 말을 해야 할지 몰랐다. (D) 준은 카드 한 벌을 꺼내며 \"같이 할래?\"라고 물었다. 그는 미소 지으며 카드를 섞었다. 태호는 고개를 끄덕이고 첫 카드를 집었다. (B) 일주일 뒤 태호는 더 이상 혼자 먹지 않았다. 그는 매일 준과 친구들과 함께 앉았다.",
+    "why": "(A) 혼자 점심 → (C) 준이 와서 앉음 → (D) 카드 게임 → (B) 일주일 뒤 순서입니다.",
+    "optionNotes": [
+      "(B)의 일주일 뒤가 처음에 올 수 없습니다.",
+      "(B)가 (D)보다 앞서면 카드 게임 전에 일주일이 지납니다.",
+      "정답. 만남 → 카드 게임 → 일주일 뒤.",
+      "(D)가 (C)보다 앞서면 준이 오기 전에 카드를 꺼냅니다.",
+      "(D)가 (C)보다 앞설 수 없습니다."
+    ],
+    "trap": "(B)의 'After a week'는 가장 마지막 장면입니다.",
+    "tip": "One day → Jun took out → After a week의 시간 흐름을 따라가세요."
+  },
+  {
+    "id": "m1-10-44",
+    "level": "m1",
+    "set": "mock-10",
+    "no": 44,
+    "type": "long",
+    "group": "m1-10-g43",
+    "stem": "[43~45] 밑줄 친 ①~⑤ 중에서 가리키는 대상이 나머지 넷과 다른 것을 고르시오.",
+    "passage": "(A) Taeho was new in town and had no friends. {1|He} ate lunch alone every day and looked at his tray.\n(B) After a week, Taeho no longer ate alone. {2|He} sat with Jun and his friends every day.\n(C) One day, a boy named Jun came to Taeho's table and sat down. Taeho was surprised, and {3|he} did not know what to say.\n(D) Jun took out a deck of cards and asked, \"Do you want to play?\" {4|He} smiled and shuffled the cards. Taeho nodded, and {5|he} picked up the first card.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "④의 He는 카드를 꺼내 미소 지으며 섞은 준이고, 나머지 ①②③⑤는 모두 태호를 가리킵니다.",
+    "optionNotes": [
+      "He는 혼자 점심을 먹은 태호입니다.",
+      "He는 준과 함께 앉은 태호입니다.",
+      "he는 무슨 말을 할지 몰랐던 태호입니다.",
+      "정답. He는 카드를 섞은 준입니다.",
+      "he는 첫 카드를 집은 태호입니다."
+    ],
+    "trap": "두 인물이 모두 남성이라 He만으로는 구분되지 않습니다. 동작의 주체로 판단하세요.",
+    "tip": "같은 성별의 두 인물이 나오면 각 문장의 동작과 직전 주어를 확인하세요."
+  },
+  {
+    "id": "m1-10-45",
+    "level": "m1",
+    "set": "mock-10",
+    "no": 45,
+    "type": "long",
+    "group": "m1-10-g43",
+    "stem": "[43~45] 윗글에 관한 내용으로 적절하지 않은 것을 고르시오.",
+    "passage": "(A) Taeho was new in town and had no friends. {1|He} ate lunch alone every day and looked at his tray.\n(B) After a week, Taeho no longer ate alone. {2|He} sat with Jun and his friends every day.\n(C) One day, a boy named Jun came to Taeho's table and sat down. Taeho was surprised, and {3|he} did not know what to say.\n(D) Jun took out a deck of cards and asked, \"Do you want to play?\" {4|He} smiled and shuffled the cards. Taeho nodded, and {5|he} picked up the first card.",
+    "options": [
+      "태호는 마을에 새로 와서 친구가 없었다.",
+      "태호는 매일 혼자 점심을 먹었다.",
+      "준이라는 소년이 태호의 식탁에 와서 옆자리에 앉았다.",
+      "태호는 처음에 준의 카드 게임 제안을 거절했다.",
+      "일주일 뒤 태호는 준과 친구들과 함께 앉았다."
+    ],
+    "answer": 3,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "태호는 고개를 끄덕이며 제안을 받아들였으므로 거절했다는 ④는 일치하지 않습니다.",
+    "optionNotes": [
+      "was new in town과 일치합니다.",
+      "ate lunch alone every day와 일치합니다.",
+      "came to Taeho's table and sat down과 일치합니다.",
+      "정답(불일치). 태호는 고개를 끄덕였습니다.",
+      "sat with Jun and his friends와 일치합니다."
+    ],
+    "trap": "'did not know what to say'는 놀란 상태일 뿐 거절이 아닙니다.",
+    "tip": "불일치 문제는 반응(nodded)을 반대로 바꾼 보기를 찾으세요."
+  }
+]

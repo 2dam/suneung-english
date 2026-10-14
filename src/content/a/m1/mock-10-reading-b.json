@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m1-10-29",
+    "level": "m1",
+    "set": "mock-10",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Yesterday, I {1|went} to the park with my sister. We {2|played} badminton and {3|ate} sandwiches. It {4|was} sunny and warm. After lunch, we {5|take} many pictures.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "어제 나는 여동생과 공원에 갔다. 우리는 배드민턴을 치고 샌드위치를 먹었다. 날씨는 맑고 따뜻했다. 점심 후에 우리는 사진을 많이 찍었다.",
+    "why": "'Yesterday'로 과거의 일을 말하므로 'take'가 아니라 과거형 'took'이어야 합니다.",
+    "optionNotes": [
+      "과거를 나타내는 went입니다.",
+      "과거형 played입니다.",
+      "과거형 ate입니다.",
+      "과거형 was입니다.",
+      "정답(틀린 것). 과거 이야기이므로 took이어야 합니다."
+    ],
+    "trap": "'we take'처럼 현재형도 자연스러워 보이지만 글 전체가 과거입니다.",
+    "tip": "시간 표현(Yesterday)에 맞춰 모든 동사의 시제가 일치하는지 확인하세요."
+  },
+  {
+    "id": "m1-10-30",
+    "level": "m1",
+    "set": "mock-10",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "My father is a baker. He {1|wakes} up at four every morning. The shop smells {2|sweet}, and many people {3|buy} his bread. He is very {4|kind} to his customers. I {5|dislike} his job and want to be a baker like him.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "우리 아버지는 제빵사이다. 그는 매일 아침 4시에 일어난다. 가게에서는 달콤한 냄새가 나고 많은 사람이 그의 빵을 산다. 그는 손님에게 매우 친절하다. 나는 그의 일을 좋아하고 그처럼 제빵사가 되고 싶다.",
+    "why": "아버지처럼 제빵사가 되고 싶다고 했으므로 'dislike'가 아니라 'like'여야 합니다.",
+    "optionNotes": [
+      "일어난다는 의미로 wakes가 알맞습니다.",
+      "달콤한 냄새라는 의미로 sweet가 알맞습니다.",
+      "빵을 산다는 의미로 buy가 알맞습니다.",
+      "친절하다는 의미로 kind가 알맞습니다.",
+      "정답(부적절). 되고 싶다고 했으므로 like여야 합니다."
+    ],
+    "trap": "뒤의 'and want to be a baker'를 확인하지 않으면 놓치기 쉽습니다.",
+    "tip": "접속사 and 뒤의 내용과 앞 낱말의 감정이 맞는지 확인하세요."
+  },
+  {
+    "id": "m1-10-31",
+    "level": "m1",
+    "set": "mock-10",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Giraffes have very long necks. This helps them reach the leaves on tall trees that other animals cannot reach. They live on the grassy land in Africa. A giraffe can be more than five meters tall. So a giraffe's long neck helps it __________.",
+    "options": [
+      "swim across deep water in the river",
+      "hide from lions",
+      "sleep for a long time",
+      "eat leaves on tall trees",
+      "hear sounds far away"
+    ],
+    "answer": 3,
+    "translation": "기린은 목이 매우 길다. 이것은 다른 동물이 닿을 수 없는 키 큰 나무의 잎에 닿도록 도와준다. 기린은 아프리카의 초원에 산다. 기린은 키가 5미터가 넘을 수도 있다. 그래서 기린의 긴 목은 키 큰 나무의 잎을 먹도록 도와준다.",
+    "why": "긴 목이 키 큰 나무의 잎에 닿게 해 준다고 했으므로 ④가 알맞습니다.",
+    "optionNotes": [
+      "수영 이야기는 나오지 않습니다.",
+      "사자를 피하는 이야기는 나오지 않습니다.",
+      "잠 이야기는 나오지 않습니다.",
+      "정답. 키 큰 나무의 잎을 먹습니다.",
+      "소리 이야기는 나오지 않습니다."
+    ],
+    "trap": "'long necks'에서 ⑤ 같은 추측을 하지 마세요. 글에 근거가 있어야 합니다.",
+    "tip": "앞 문장의 'This helps them ~'이 빈칸의 단서입니다."
+  },
+  {
+    "id": "m1-10-32",
+    "level": "m1",
+    "set": "mock-10",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A true friend does not leave you when you are in trouble. When you are sad, a true friend listens. When you succeed, a true friend is happy for you. A true friend is with you in both good times and __________ times.",
+    "options": [
+      "new",
+      "empty",
+      "long",
+      "bad",
+      "small"
+    ],
+    "answer": 3,
+    "translation": "진정한 친구는 네가 어려울 때 떠나지 않는다. 네가 슬플 때 진정한 친구는 들어 준다. 네가 성공하면 진정한 친구는 함께 기뻐한다. 진정한 친구는 좋은 때와 나쁜 때 모두 너와 함께 있다.",
+    "why": "'good times'와 짝을 이루는 'bad times'가 알맞습니다.",
+    "optionNotes": [
+      "new times는 어색합니다.",
+      "empty times는 어색합니다.",
+      "long times는 문맥과 맞지 않습니다.",
+      "정답. good times와 bad times는 짝을 이루는 표현입니다.",
+      "small times는 어색합니다."
+    ],
+    "trap": "앞 문장의 'trouble', 'sad'가 단서입니다.",
+    "tip": "'both A and B'에서 A와 반대되는 B를 고르세요."
+  },
+  {
+    "id": "m1-10-33",
+    "level": "m1",
+    "set": "mock-10",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Thick clothes keep body heat inside, so we wear them in cold weather. There is also air between the layers of clothes. The air keeps us warm. So wearing several thin layers can be warmer than wearing one __________ coat.",
+    "options": [
+      "red",
+      "new",
+      "short",
+      "long",
+      "thick"
+    ],
+    "answer": 4,
+    "translation": "두꺼운 옷은 체온을 안에 가두기 때문에 추운 날씨에 입는다. 옷의 층 사이에도 공기가 있고 그 공기가 우리를 따뜻하게 한다. 그래서 얇은 옷을 여러 겹 입는 것이 두꺼운 코트 하나를 입는 것보다 더 따뜻할 수 있다.",
+    "why": "얇은 옷 여러 겹과 비교되는 것은 두꺼운 코트 하나입니다.",
+    "optionNotes": [
+      "색깔은 비교 대상이 아닙니다.",
+      "새 옷은 비교 대상이 아닙니다.",
+      "길이는 비교 대상이 아닙니다.",
+      "길이는 비교 대상이 아닙니다.",
+      "정답. 얇은 여러 겹과 비교되는 두꺼운 코트입니다."
+    ],
+    "trap": "'thin layers'와 반대되는 낱말을 찾아야 합니다.",
+    "tip": "비교 표현(warmer than)에서 앞 대상과 대조되는 낱말을 고르세요."
+  },
+  {
+    "id": "m1-10-34",
+    "level": "m1",
+    "set": "mock-10",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "When you plant a seed, you cannot see anything for days. But under the soil, the seed is growing roots. Many good things in life are like this. Hard work may not show results right away, but it is slowly __________.",
+    "options": [
+      "wasting your time",
+      "making you tired",
+      "going away from you",
+      "hiding in a box",
+      "preparing something big for you"
+    ],
+    "answer": 4,
+    "translation": "씨앗을 심으면 며칠 동안 아무것도 보이지 않는다. 하지만 흙 속에서 씨앗은 뿌리를 키우고 있다. 인생의 많은 좋은 일이 이와 같다. 노력은 바로 결과를 보여 주지 않을 수 있지만 천천히 당신을 위해 큰 것을 준비하고 있다.",
+    "why": "눈에 보이지 않아도 뿌리가 자란다는 비유이므로 노력이 큰 것을 준비하고 있다는 말이 알맞습니다.",
+    "optionNotes": [
+      "시간 낭비라는 내용은 글과 반대입니다.",
+      "피곤하게 만든다는 내용은 없습니다.",
+      "사라진다는 내용은 글과 반대입니다.",
+      "상자 이야기는 나오지 않습니다.",
+      "정답. 큰 것을 준비하고 있습니다."
+    ],
+    "trap": "'cannot see anything'만 보고 부정적인 보기를 고르지 마세요.",
+    "tip": "비유(seed)가 말하려는 결론이 빈칸입니다."
+  },
+  {
+    "id": "m1-10-35",
+    "level": "m1",
+    "set": "mock-10",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Swimming is good for your body. ① The new bus route starts next week. ② It makes your arms and legs strong. ③ It helps your heart and lungs work well. ④ It is a safe sport for people of all ages. ⑤ So try swimming at least once a week.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "수영은 몸에 좋다. ① 새 버스 노선이 다음 주에 시작된다. ② 팔과 다리를 튼튼하게 한다. ③ 심장과 폐가 잘 작동하도록 돕는다. ④ 모든 연령대가 할 수 있는 안전한 운동이다. ⑤ 그러니 일주일에 적어도 한 번은 수영을 해 보자.",
+    "why": "글은 수영의 좋은 점을 말하는데 ①은 버스 노선 이야기라 관계가 없습니다.",
+    "optionNotes": [
+      "정답(무관). 버스 노선 이야기입니다.",
+      "수영의 좋은 점입니다.",
+      "수영의 좋은 점입니다.",
+      "수영의 좋은 점입니다.",
+      "결론입니다."
+    ],
+    "trap": "첫 문장 바로 뒤라 도입처럼 보이지만 주제와 무관합니다.",
+    "tip": "주제 문장 뒤라도 내용이 이어지는지 확인하세요."
+  },
+  {
+    "id": "m1-10-36",
+    "level": "m1",
+    "set": "mock-10",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Sora was making a sandwich for lunch.\n(A) She spread butter on the bread and put ham on it.\n(B) First, she took out two slices of bread from the bag.\n(C) At last, she cut it in half and put it in her lunch box.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 1,
+    "translation": "소라는 점심으로 샌드위치를 만들고 있었다. (B) 먼저 그녀는 봉지에서 빵 두 조각을 꺼냈다. (A) 그녀는 빵에 버터를 바르고 그 위에 햄을 얹었다. (C) 마지막으로 그녀는 그것을 반으로 잘라 도시락 통에 넣었다.",
+    "why": "(B) 'First' 빵을 꺼냄 → (A) 버터와 햄 → (C) 'At last' 잘라서 도시락 통에 넣음 순서입니다.",
+    "optionNotes": [
+      "(A)가 빵을 꺼내기 전에 올 수 없습니다.",
+      "정답. 빵 꺼내기 → 속 재료 올리기 → 마무리.",
+      "(C)의 마무리가 (A)보다 앞설 수 없습니다.",
+      "(C)의 'At last'가 처음에 올 수 없습니다.",
+      "(C)의 'At last'가 처음에 올 수 없습니다."
+    ],
+    "trap": "(A)의 'bread'가 (B)에서 처음 나온 'two slices of bread'를 받는다는 점을 확인하세요.",
+    "tip": "First → At last 같은 순서 표현을 따라가세요."
+  },
+  {
+    "id": "m1-10-37",
+    "level": "m1",
+    "set": "mock-10",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Jun heard a strange sound from the kitchen at night.\n(A) It was only the refrigerator making noise, so he went back to bed.\n(B) He got up quietly and took a flashlight.\n(C) He walked slowly to the kitchen and looked around.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 2,
+    "translation": "준은 밤에 부엌에서 이상한 소리를 들었다. (B) 그는 조용히 일어나 손전등을 챙겼다. (C) 그는 천천히 부엌으로 걸어가 주위를 둘러보았다. (A) 그것은 냉장고가 내는 소리일 뿐이어서 그는 다시 잠자리로 돌아갔다.",
+    "why": "(B) 일어나 손전등을 챙김 → (C) 부엌으로 가서 둘러봄 → (A) 냉장고 소리임을 알고 돌아감 순서입니다.",
+    "optionNotes": [
+      "(A)의 결론이 처음에 올 수 없습니다.",
+      "(A)가 (C)의 확인보다 앞설 수 없습니다.",
+      "정답. 준비 → 확인 → 결론.",
+      "(C)가 (B)의 준비보다 앞서면 일어나기 전에 걸어갑니다.",
+      "(A)가 마지막이어야 합니다."
+    ],
+    "trap": "(A)의 'It was only ~'는 확인한 뒤에 나오는 결론입니다.",
+    "tip": "행동의 순서(일어남 → 이동 → 확인 → 결론)를 따라가세요."
+  },
+  {
+    "id": "m1-10-38",
+    "level": "m1",
+    "set": "mock-10",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nElephants are very caring animals.\n\n[글]\n( ① ) For example, when a baby elephant is hurt, the whole herd gathers around it. ( ② ) They touch it gently with their trunks. ( ③ ) Elephants also stay with the herd members who are old or sick. ( ④ ) Their care for each other is like a family's. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "[주어진 문장] 코끼리는 매우 배려심이 깊은 동물이다. [글] 코끼리는 매우 배려심이 깊은 동물이다. 예를 들어 아기 코끼리가 다치면 무리 전체가 그 주위에 모인다. 그들은 코로 부드럽게 아기를 만진다. 코끼리는 또 늙거나 아픈 무리 구성원과 함께 머무른다. 서로를 돌보는 모습은 가족과 같다.",
+    "why": "주어진 문장은 글 전체의 주제이고 'For example'로 시작하는 뒤 문장이 그 예를 들므로 ①에 들어갑니다.",
+    "optionNotes": [
+      "정답. 주제 문장 뒤에 'For example'이 이어집니다.",
+      "'For example' 문장 뒤에 오면 예가 먼저 나옵니다.",
+      "예시 도중이라 주제 문장이 어색합니다.",
+      "예시가 끝난 뒤라 주제 문장이 어색합니다.",
+      "결론 뒤라 어색합니다."
+    ],
+    "trap": "'Their care'라는 표현 때문에 뒤쪽에 놓고 싶어지지만 주제 문장은 앞에 옵니다.",
+    "tip": "'For example'로 시작하는 문장 앞에는 일반적인 주장이 놓입니다."
+  },
+  {
+    "id": "m1-10-39",
+    "level": "m1",
+    "set": "mock-10",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nTom was very nervous on the first day of school.\n\n[글]\n( ① ) He did not know anyone in his class. ( ② ) Then a boy next to him smiled and said hello. ( ③ ) They talked about soccer during lunch. ( ④ ) By the end of the day, Tom was not nervous anymore. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "[주어진 문장] 톰은 학교 첫날 매우 긴장했다. [글] 톰은 학교 첫날 매우 긴장했다. 그는 반에서 아는 사람이 아무도 없었다. 그때 옆자리 소년이 미소 지으며 인사했다. 그들은 점심시간에 축구 이야기를 했다. 하루가 끝날 무렵 톰은 더 이상 긴장하지 않았다.",
+    "why": "주어진 문장에서 'Tom'이 소개되고 뒤 문장의 'He'가 톰을 가리키므로 ①에 들어갑니다.",
+    "optionNotes": [
+      "정답. 인물과 상황을 소개하는 첫 문장입니다.",
+      "'He'가 가리킬 대상이 먼저 나와야 합니다.",
+      "대화가 시작된 뒤라 어색합니다.",
+      "점심 이야기 뒤라 어색합니다.",
+      "결말 뒤라 어색합니다."
+    ],
+    "trap": "결말의 'was not nervous anymore'와 이어 보이지만 소개 문장은 앞에 와야 합니다.",
+    "tip": "이야기글의 인물 소개 문장은 대명사(He) 앞에 놓입니다."
+  },
+  {
+    "id": "m1-10-40",
+    "level": "m1",
+    "set": "mock-10",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A school gave each student a small plant. The students watered it every day for a month and wrote notes about the changes. After a month, many students said that they felt calmer and more responsible.\n\n▶ Taking care of a (A) every day can make students feel more (B).",
+    "options": [
+      "(A) toy — (B) lazy",
+      "(A) plant — (B) responsible",
+      "(A) game — (B) angry",
+      "(A) cat — (B) tired",
+      "(A) book — (B) shy"
+    ],
+    "answer": 1,
+    "translation": "한 학교가 학생마다 작은 식물을 하나씩 주었다. 학생들은 한 달 동안 매일 물을 주고 변화에 대한 기록을 썼다. 한 달 뒤 많은 학생이 더 차분해지고 책임감이 생겼다고 말했다. ▶ 매일 식물을 돌보는 것은 학생들이 더 책임감을 느끼게 할 수 있다.",
+    "why": "식물을 돌본 학생들이 더 책임감 있다고 느꼈으므로 (A)는 plant, (B)는 responsible입니다.",
+    "optionNotes": [
+      "toy와 lazy는 글에 나오지 않습니다.",
+      "정답. 식물을 돌보면 책임감이 커집니다.",
+      "game과 angry는 글에 나오지 않습니다.",
+      "cat과 tired는 글에 나오지 않습니다.",
+      "book과 shy는 글에 나오지 않습니다."
+    ],
+    "trap": "'calmer'가 아닌 'responsible'이 보기에 있다는 점을 확인하세요.",
+    "tip": "요약문은 돌본 대상(plant)과 결과(responsible)를 글에서 그대로 찾으세요."
+  }
+]
