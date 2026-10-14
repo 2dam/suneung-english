@@ -2,9 +2,9 @@
 //
 //   npm run build && npx vite preview --port 4173      (다른 터미널)
 //   node scripts/export-pdf.mjs [--base http://localhost:4173] [--out exports/pdf] [--course a]
-//                               [--level m3] [--mock 10]
+//                               [--level m3] [--mock 10] [--modes questions,answers,both]
 //
-// 앱에 ?pdf=<코스>:<학년>:<회차>:<questions|answers> 주소로 접속하면 인쇄용 문서만 그려지고,
+// 앱에 ?pdf=<코스>:<학년>:<회차>:<questions|answers|both> 주소로 접속하면 인쇄용 문서만 그려지고,
 // 설치된 Chrome/Edge의 헤드리스 모드가 그것을 PDF로 저장한다.
 import { spawn } from 'node:child_process'
 import { existsSync, mkdirSync, readdirSync, readFileSync, mkdtempSync, rmSync } from 'node:fs'
@@ -21,6 +21,7 @@ const outDir = resolve(opt('out', 'exports/pdf'))
 const courseFilter = opt('course', null)
 const levelFilter = opt('level', null)
 const mockFilter = opt('mock', null)
+const modes = opt('modes', 'questions,answers,both').split(',')
 
 const LEVEL_NAME = { m1: '중1', m2: '중2', m3: '중3' }
 const COURSE_NAME = { a: 'A코스', b: 'B코스' }
@@ -56,7 +57,7 @@ for (const course of readdirSync(contentRoot)) {
     for (const [number, count] of [...counts.entries()].sort()) {
       if (count !== 45) continue
       if (mockFilter && Number(number) !== Number(mockFilter)) continue
-      for (const mode of ['questions', 'answers']) jobs.push({ course, level, number: Number(number), mode })
+      for (const mode of modes) jobs.push({ course, level, number: Number(number), mode })
     }
   }
 }
@@ -64,7 +65,7 @@ for (const course of readdirSync(contentRoot)) {
 function run(job) {
   const dir = join(outDir, `${LEVEL_NAME[job.level]}_${COURSE_NAME[job.course]}`)
   mkdirSync(dir, { recursive: true })
-  const label = job.mode === 'questions' ? '문제지' : '정답해설'
+  const label = { questions: '문제지', answers: '정답해설', both: '해설지_문제포함' }[job.mode]
   const file = join(dir, `${LEVEL_NAME[job.level]}_${COURSE_NAME[job.course]}_모의고사${String(job.number).padStart(2, '0')}회_${label}.pdf`)
   const url = `${base}/?pdf=${job.course}:${job.level}:${job.number}:${job.mode}`
   const profile = mkdtempSync(join(tmpdir(), 'se-pdf-'))

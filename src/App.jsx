@@ -14,7 +14,7 @@ import WrongNotes from './components/WrongNotes'
 // 실제 수능 영어: 45문항 70분. 문항 수가 모자란 작성 중 회차는 비율로 줄인다.
 const examMinutes = (count) => Math.max(5, Math.ceil((count * 70) / 45))
 
-// PDF 내보내기: ?pdf=<코스>:<학년>:<회차 번호>:<questions|answers>
+// PDF 내보내기: ?pdf=<코스>:<학년>:<회차 번호>:<questions|answers|both>
 // 예) ?pdf=a:m3:10:questions — scripts/export-pdf.mjs가 헤드리스 브라우저로 연다.
 function pdfJobFromUrl() {
   const spec = new URLSearchParams(window.location.search).get('pdf')
@@ -23,7 +23,7 @@ function pdfJobFromUrl() {
   const exam = mockExams(courseId, levelId).find((item) => Number(item.set.replace('mock-', '')) === Number(number))
   if (!exam) return null
   const title = `${getLevel(levelId).name} ${getCourse(courseId).name} ${exam.title}`
-  return { title, questions: exam.questions, mode: mode === 'answers' ? 'answers' : 'questions', static: true }
+  return { title, questions: exam.questions, mode: ['answers', 'both'].includes(mode) ? mode : 'questions', static: true }
 }
 
 export default function App() {
