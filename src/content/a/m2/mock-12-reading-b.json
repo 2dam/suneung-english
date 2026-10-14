@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m2-12-29",
+    "level": "m2",
+    "set": "mock-12",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "The Eiffel Tower, {1|that} was built in 1889 for a world fair, was supposed to be removed after twenty years. However, it {2|was} so popular that the city decided {3|to keep} it. Today, it {4|attracts} nearly seven million visitors a year. Many people {5|consider} it a symbol of Paris.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "1889년 만국 박람회를 위해 지어진 에펠탑은 20년 뒤 철거될 예정이었다. 그러나 너무 인기가 있어서 도시는 그것을 유지하기로 결정했다. 오늘날 에펠탑은 해마다 약 칠백만 명의 방문객을 끌어들이며 많은 사람이 그것을 파리의 상징으로 여긴다.",
+    "why": "콤마 뒤의 계속적 용법에서는 관계대명사 'that'을 쓸 수 없으므로 'which'여야 합니다.",
+    "optionNotes": [
+      "정답(틀림). 콤마 뒤에는 that을 쓸 수 없고 which여야 합니다.",
+      "과거 시제 was입니다.",
+      "decide 뒤의 to부정사입니다.",
+      "단수 주어 it에 맞는 attracts입니다.",
+      "복수 주어 many people에 맞는 consider입니다."
+    ],
+    "trap": "관계대명사 that과 which를 구분하지 않으면 놓치기 쉽습니다.",
+    "tip": "콤마 뒤의 관계대명사는 which/who만 가능합니다."
+  },
+  {
+    "id": "m2-12-30",
+    "level": "m2",
+    "set": "mock-12",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Volunteering has many {1|benefits}. It allows you to {2|meet} new people and {3|learn} new skills. It can also {4|increase} stress, so you feel calmer and more relaxed after helping others. Many volunteers say that they feel more {5|satisfied} with their lives.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "봉사 활동은 많은 이점이 있다. 새로운 사람들을 만나고 새로운 기술을 배울 수 있다. 또한 스트레스를 줄여 주기 때문에 다른 사람을 돕고 나면 더 차분하고 편안해진다. 많은 봉사자는 자신의 삶에 더 만족한다고 말한다.",
+    "why": "뒤에서 더 차분하고 편안해진다고 했으므로 스트레스를 '증가시킨다(increase)'가 아니라 '줄인다(reduce)'여야 합니다.",
+    "optionNotes": [
+      "이점이라는 의미로 benefits가 알맞습니다.",
+      "만난다는 의미로 meet가 알맞습니다.",
+      "배운다는 의미로 learn이 알맞습니다.",
+      "정답(부적절). 스트레스를 줄여야 하므로 reduce여야 합니다.",
+      "만족한다는 의미로 satisfied가 알맞습니다."
+    ],
+    "trap": "'so you feel calmer'를 확인하지 않으면 놓치기 쉽습니다.",
+    "tip": "so 뒤의 결과와 앞 동사의 방향이 일치하는지 확인하세요."
+  },
+  {
+    "id": "m2-12-31",
+    "level": "m2",
+    "set": "mock-12",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many people believe that making a decision quickly is a sign of confidence. However, research shows that important decisions are often better when people take time to think. A quick choice is often driven by emotion. The options that were not considered may turn out to be more suitable. Therefore, for big choices, it is wise to __________.",
+    "options": [
+      "follow other people without thinking",
+      "give yourself enough time to compare the options carefully",
+      "make the decision on the first day",
+      "avoid asking for advice",
+      "choose the cheapest one"
+    ],
+    "answer": 1,
+    "translation": "많은 사람들은 빠르게 결정하는 것이 자신감의 표시라고 믿는다. 그러나 연구에 따르면 중요한 결정은 사람들이 생각할 시간을 가질 때 더 나은 경우가 많다. 빠른 선택은 흔히 감정에 이끌리고 고려되지 않은 선택지가 더 알맞은 것으로 드러날 수 있다. 그러므로 큰 선택에는 선택지를 신중히 비교할 충분한 시간을 스스로에게 주는 것이 현명하다.",
+    "why": "중요한 결정은 시간을 들여 생각할 때 더 낫다고 했으므로 충분한 시간을 두고 신중히 비교하라는 말이 알맞습니다.",
+    "optionNotes": [
+      "생각 없이 따라가라는 내용은 없습니다.",
+      "정답. 충분한 시간을 두고 신중히 비교합니다.",
+      "첫날 결정하라는 것은 글과 반대입니다.",
+      "조언을 피하라는 내용은 없습니다.",
+      "가장 싼 것을 고르라는 내용은 없습니다."
+    ],
+    "trap": "첫 문장의 통념(quickly = confidence)을 결론으로 오해하지 마세요.",
+    "tip": "However 뒤의 연구 결과와 Therefore 뒤의 권고가 빈칸입니다."
+  },
+  {
+    "id": "m2-12-32",
+    "level": "m2",
+    "set": "mock-12",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A single bee can make only a tiny amount of honey in its whole life. But when thousands of bees work together, they can produce a large amount. In the same way, our small actions, such as saving water or picking up trash, may seem unimportant. However, when many people act together, they can make a __________.",
+    "options": [
+      "tiny mistake",
+      "long break",
+      "big difference to the environment and society",
+      "bad habit",
+      "new rule"
+    ],
+    "answer": 2,
+    "translation": "벌 한 마리는 평생 아주 적은 양의 꿀만 만들 수 있다. 그러나 수천 마리의 벌이 함께 일하면 많은 양을 생산할 수 있다. 마찬가지로 물을 아끼거나 쓰레기를 줍는 것 같은 우리의 작은 행동은 중요하지 않아 보일 수 있다. 하지만 많은 사람이 함께 행동하면 환경과 사회에 큰 차이를 만들 수 있다.",
+    "why": "작은 행동도 함께하면 큰 효과를 낸다는 비유이므로 큰 차이를 만든다는 말이 알맞습니다.",
+    "optionNotes": [
+      "작은 실수라는 내용은 없습니다.",
+      "긴 휴식이라는 내용은 없습니다.",
+      "정답. 환경과 사회에 큰 차이를 만듭니다.",
+      "나쁜 습관이라는 내용은 없습니다.",
+      "새 규칙이라는 내용은 없습니다."
+    ],
+    "trap": "'small actions'와 대조되는 큰 효과가 빈칸입니다.",
+    "tip": "비유(bees)의 결론을 'In the same way' 뒤에서 찾으세요."
+  },
+  {
+    "id": "m2-12-33",
+    "level": "m2",
+    "set": "mock-12",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "The color of a room can affect how people feel. In blue rooms, people tend to feel calm and relaxed. In red rooms, people feel more active and sometimes tense. A study room is a place where you need to concentrate for a long time. So when you paint it, it is better to choose a __________ color.",
+    "options": [
+      "bright red",
+      "hot pink",
+      "dark black",
+      "loud orange",
+      "soft blue"
+    ],
+    "answer": 4,
+    "translation": "방의 색은 사람들이 느끼는 방식에 영향을 줄 수 있다. 파란 방에서는 사람들이 차분하고 편안해지는 경향이 있다. 빨간 방에서는 사람들이 더 활동적이 되고 때로는 긴장한다. 공부방은 오래 집중해야 하는 곳이다. 그래서 그곳을 칠할 때는 부드러운 파란색을 고르는 것이 좋다.",
+    "why": "집중해야 하는 공부방에는 차분하게 해 주는 파란색이 알맞습니다.",
+    "optionNotes": [
+      "빨간색은 긴장을 줍니다.",
+      "분홍색은 글에 근거가 없습니다.",
+      "검은색은 글에 근거가 없습니다.",
+      "주황색은 글에 근거가 없습니다.",
+      "정답. 차분하게 해 주는 부드러운 파란색입니다."
+    ],
+    "trap": "'bright', 'loud'라는 수식어에 이끌려 활동적인 색을 고르지 마세요.",
+    "tip": "공부방의 목적(concentrate)과 색의 효과를 연결하세요."
+  },
+  {
+    "id": "m2-12-34",
+    "level": "m2",
+    "set": "mock-12",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Some people think that failure is the opposite of success. However, many great inventors failed hundreds of times before they finally succeeded. Thomas Edison is said to have tried thousands of materials before he found a working light bulb. Each failure taught them something new about what did not work. So failure is not the opposite of success but a part of the __________.",
+    "options": [
+      "learning process",
+      "final result of the whole project",
+      "first step",
+      "excuse",
+      "punishment"
+    ],
+    "answer": 0,
+    "translation": "어떤 사람들은 실패가 성공의 반대라고 생각한다. 그러나 많은 위대한 발명가는 마침내 성공하기 전에 수백 번 실패했다. 토머스 에디슨은 작동하는 전구를 찾기 전에 수천 가지 재료를 시험했다고 한다. 각 실패는 무엇이 효과가 없는지에 대해 새로운 것을 가르쳐 주었다. 그래서 실패는 성공의 반대가 아니라 배움의 과정의 일부이다.",
+    "why": "실패가 새로운 것을 가르쳐 주었다고 했으므로 배움의 과정의 일부라는 말이 알맞습니다.",
+    "optionNotes": [
+      "정답. 실패는 배움의 과정의 일부입니다.",
+      "최종 결과가 아닙니다.",
+      "첫 단계라는 내용은 없습니다.",
+      "변명이라는 내용은 없습니다.",
+      "벌이라는 내용은 없습니다."
+    ],
+    "trap": "'opposite'와 'not A but B'의 구조를 놓치지 마세요.",
+    "tip": "'not A but B'에서 B는 앞 문장(taught them something)의 내용을 요약합니다."
+  },
+  {
+    "id": "m2-12-35",
+    "level": "m2",
+    "set": "mock-12",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Smiling has surprising effects on our body and mind. ① It can lower stress by relaxing the muscles in your face. ② It helps your brain release chemicals that make you feel happier. ③ A smile also makes other people feel more comfortable around you. ④ Many airports have introduced new security systems recently. ⑤ So try to smile more often, even when you do not feel like it.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "미소는 우리의 몸과 마음에 놀라운 효과가 있다. ① 얼굴 근육을 풀어 스트레스를 줄일 수 있다. ② 뇌가 더 행복하게 느끼게 하는 물질을 분비하도록 돕는다. ③ 미소는 다른 사람들이 당신 주위에서 더 편안하게 느끼게 한다. ④ 많은 공항이 최근 새로운 보안 시스템을 도입했다. ⑤ 그러니 그럴 기분이 아닐 때에도 더 자주 웃어 보자.",
+    "why": "글은 미소의 효과를 말하는데 ④는 공항 보안 시스템 이야기라 관계가 없습니다.",
+    "optionNotes": [
+      "미소의 효과입니다.",
+      "미소의 효과입니다.",
+      "미소의 효과입니다.",
+      "정답(무관). 공항 보안 시스템 이야기입니다.",
+      "결론입니다."
+    ],
+    "trap": "'systems'가 앞 문장의 'chemicals'와 비슷한 기술적 어휘라 자연스러워 보일 수 있습니다.",
+    "tip": "주제(미소의 효과)와 이어지지 않는 문장을 고르세요."
+  },
+  {
+    "id": "m2-12-36",
+    "level": "m2",
+    "set": "mock-12",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Many students feel nervous before speaking in class. Some of them even forget what they planned to say.\n(A) One helpful method is to practice in front of a mirror at home every evening.\n(B) After several practices, you will feel much more confident than you did at first.\n(C) This lets you see your gestures and fix them before the real speech.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "많은 학생이 수업 시간에 발표하기 전에 긴장한다. (A) 도움이 되는 한 가지 방법은 거울 앞에서 연습하는 것이다. (C) 이렇게 하면 몸짓을 보고 실제 발표 전에 고칠 수 있다. (B) 몇 번 연습하고 나면 훨씬 더 자신감이 생길 것이다.",
+    "why": "(A) 방법 제시 → (C) 'This'로 효과 설명 → (B) 결과 순서입니다.",
+    "optionNotes": [
+      "정답. 방법 → 효과 → 결과.",
+      "(B)의 결과가 방법 앞에 올 수 없습니다.",
+      "(B)의 결과가 방법 앞에 올 수 없습니다.",
+      "(C)의 'This'가 가리킬 방법이 앞에 없습니다.",
+      "(C)의 'This'가 가리킬 방법이 앞에 없습니다."
+    ],
+    "trap": "(C)의 'This'는 (A)의 'practice in front of a mirror'를 가리킵니다.",
+    "tip": "지시어(This)가 가리키는 앞 문장을 확인하세요."
+  },
+  {
+    "id": "m2-12-37",
+    "level": "m2",
+    "set": "mock-12",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Recycling one aluminum can saves enough energy to run a TV for three hours.\n(A) This is because making a new can from raw materials needs much more energy than melting an old one.\n(B) That is why many cities encourage people to recycle cans.\n(C) In fact, recycled aluminum uses only about five percent of the energy.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "알루미늄 캔 하나를 재활용하면 TV를 세 시간 켜 둘 수 있는 에너지를 아낀다. (A) 이는 원료로 새 캔을 만드는 것이 오래된 캔을 녹이는 것보다 훨씬 더 많은 에너지가 필요하기 때문이다. (C) 사실 재활용 알루미늄은 에너지의 약 5퍼센트만 쓴다. (B) 그래서 많은 도시가 캔 재활용을 장려한다.",
+    "why": "(A) 'This is because'로 이유 → (C) 'In fact'로 수치 보충 → (B) 'That is why'로 결과 순서입니다.",
+    "optionNotes": [
+      "정답. 이유 → 수치 → 결과.",
+      "(B)의 'That is why'가 근거 앞에 올 수 없습니다.",
+      "(B)의 'That is why'가 근거 앞에 올 수 없습니다.",
+      "(C)의 'In fact'가 설명 앞에 올 수 없습니다.",
+      "(C)의 'In fact'가 설명 앞에 올 수 없습니다."
+    ],
+    "trap": "(A)의 'This'는 주어진 글의 '에너지 절약'을 가리킵니다.",
+    "tip": "This is because → In fact → That is why의 논리 순서를 확인하세요."
+  },
+  {
+    "id": "m2-12-38",
+    "level": "m2",
+    "set": "mock-12",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThey also absorb dust and noise from the traffic.\n\n[글]\n( ① ) Many cities are planting trees along busy roads. ( ② ) Trees give shade and lower the temperature in summer. ( ③ ) Residents say that the streets are now more pleasant to walk along. ( ④ ) Some stores have even reported more customers. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 나무는 또한 교통에서 나오는 먼지와 소음을 흡수한다. [글] 많은 도시가 붐비는 도로를 따라 나무를 심고 있다. 나무는 그늘을 주고 여름에 기온을 낮춘다. 나무는 또한 교통에서 나오는 먼지와 소음을 흡수한다. 주민들은 이제 거리를 따라 걷기가 더 즐겁다고 말한다. 일부 가게는 손님이 늘었다고 보고하기도 했다.",
+    "why": "'also'는 앞에서 나무의 이점(그늘, 기온)을 말한 뒤 또 다른 이점을 더하는 말이므로 ③에 들어갑니다.",
+    "optionNotes": [
+      "나무가 소개되기 전이라 'They'가 어색합니다.",
+      "나무의 첫 번째 이점 앞이라 'also'가 어색합니다.",
+      "정답. 첫 이점 뒤에 또 다른 이점을 더합니다.",
+      "결과(거리가 즐거워짐) 뒤라 이점을 더하는 위치로 어색합니다.",
+      "결론 뒤라 어색합니다."
+    ],
+    "trap": "'They'가 가리키는 대상(trees)과 'also'가 더하는 위치를 함께 확인하세요.",
+    "tip": "'also'는 앞에 같은 종류의 정보가 이미 나온 뒤에 놓입니다."
+  },
+  {
+    "id": "m2-12-39",
+    "level": "m2",
+    "set": "mock-12",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nIn short, these habits are small, but together they make a big difference to your sleep.\n\n[글]\n( ① ) Go to bed at the same time every night. ( ② ) Avoid looking at screens for an hour before bed. ( ③ ) Keep your room cool and dark. ( ④ ) Do not drink coffee or tea after lunch. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "[주어진 문장] 요컨대 이런 습관은 작지만 함께하면 수면에 큰 차이를 만든다. [글] 매일 밤 같은 시간에 자러 가라. 자기 전 한 시간 동안은 화면을 보지 마라. 방을 시원하고 어둡게 유지하라. 점심 이후에는 커피나 차를 마시지 마라. 요컨대 이런 습관은 작지만 함께하면 수면에 큰 차이를 만든다.",
+    "why": "'In short'는 앞의 모든 습관을 요약하는 결론이므로 맨 끝인 ⑤에 들어갑니다.",
+    "optionNotes": [
+      "습관이 나오기 전이라 결론이 어색합니다.",
+      "습관이 하나만 나왔습니다.",
+      "습관이 두 개만 나왔습니다.",
+      "마지막 습관이 아직 나오지 않았습니다.",
+      "정답. 모든 습관을 정리하는 결론입니다."
+    ],
+    "trap": "④ 뒤에도 가능해 보이지만 마지막 습관이 ④에 있으므로 요약은 그 뒤에 와야 합니다.",
+    "tip": "'In short'는 나열을 마친 뒤에 놓입니다."
+  },
+  {
+    "id": "m2-12-40",
+    "level": "m2",
+    "set": "mock-12",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Researchers asked two groups of adults to take a creativity test. One group walked outdoors for fifteen minutes before the test, and the other group sat in a room. The group that walked scored about sixty percent higher. The researchers explained that moving the body in a pleasant environment relaxes the mind and helps ideas flow.\n\n▶ (A) outdoors before a task can (B) creative thinking.",
+    "options": [
+      "(A) Sitting — (B) block",
+      "(A) Walking — (B) improve",
+      "(A) Sleeping — (B) test",
+      "(A) Eating — (B) delay",
+      "(A) Shouting — (B) hide"
+    ],
+    "answer": 1,
+    "translation": "연구자들은 두 집단의 성인에게 창의성 검사를 받게 했다. 한 집단은 검사 전에 15분 동안 야외에서 걸었고 다른 집단은 방에 앉아 있었다. 걸은 집단이 약 60퍼센트 더 높은 점수를 받았다. 연구자들은 쾌적한 환경에서 몸을 움직이면 마음이 편안해지고 아이디어가 흐르도록 돕는다고 설명했다. ▶ 일을 하기 전에 야외에서 걷는 것은 창의적 사고를 향상시킬 수 있다.",
+    "why": "걸은 집단의 점수가 더 높았으므로 (A)는 Walking, (B)는 improve입니다.",
+    "optionNotes": [
+      "Sitting과 block은 글과 반대입니다.",
+      "정답. 걷기가 창의적 사고를 향상시킵니다.",
+      "Sleeping과 test는 글에 나오지 않습니다.",
+      "Eating과 delay는 글에 나오지 않습니다.",
+      "Shouting과 hide는 글에 나오지 않습니다."
+    ],
+    "trap": "앉아 있던 집단의 행동(Sitting)을 고르지 마세요.",
+    "tip": "요약문은 점수가 높은 집단의 행동을 중심으로 찾으세요."
+  }
+]

@@ -1,0 +1,340 @@
+[
+  {
+    "id": "m2-12-18",
+    "level": "m2",
+    "set": "mock-12",
+    "no": 18,
+    "type": "purpose",
+    "stem": "다음 글을 쓴 목적으로 가장 적절한 것은?",
+    "passage": "Dear Ms. Jang,\nMy name is Yuri Choi, and I am the president of Class 2-4. Our class is planning a talent show for the end of the semester. We need a microphone and a speaker so that everyone can hear the performers. Could we borrow the ones in the music room for one afternoon? We promise to return them in good condition. Thank you for considering our request.\nSincerely,\nYuri Choi",
+    "options": [
+      "학급 장기 자랑을 위해 음향 장비를 빌려 달라고 요청하려고",
+      "음악 수업 시간표를 바꿔 달라고 부탁하려고",
+      "장기 자랑 참가자를 모집하려고",
+      "학기 말에 열리는 학급 장기 자랑과 다른 여러 행사의 일정을 문의하려고",
+      "음악실 청소 당번을 정해 달라고 요청하려고"
+    ],
+    "answer": 0,
+    "translation": "장 선생님께. 저는 2학년 4반 반장 최유리입니다. 우리 반은 학기 말에 장기 자랑을 계획하고 있습니다. 모두가 공연자의 소리를 들을 수 있도록 마이크와 스피커가 필요합니다. 음악실에 있는 것을 하루 오후 동안 빌려 쓸 수 있을까요? 좋은 상태로 돌려 드리겠다고 약속합니다. 요청을 고려해 주셔서 감사합니다. 최유리 드림.",
+    "why": "'Could we borrow the ones in the music room for one afternoon?'에서 음향 장비를 빌려 달라는 요청임을 알 수 있습니다.",
+    "optionNotes": [
+      "정답. 마이크와 스피커를 빌려 달라고 요청합니다.",
+      "시간표 변경 요청이 아닙니다.",
+      "참가자 모집이 아닙니다.",
+      "행사 일정 문의가 아닙니다.",
+      "청소 당번은 나오지 않습니다."
+    ],
+    "trap": "'talent show'는 배경일 뿐이므로 ③을 고르지 마세요.",
+    "tip": "목적 문제는 'Could we ~?' 요청 표현을 찾으세요."
+  },
+  {
+    "id": "m2-12-19",
+    "level": "m2",
+    "set": "mock-12",
+    "no": 19,
+    "type": "mood",
+    "stem": "다음 글에 드러난 'I'의 심경 변화로 가장 적절한 것은?",
+    "passage": "At lunchtime, I opened my bag and found that my lunch box was not there. My face turned red, and I looked around, hoping that nobody noticed. Everyone was eating, and I sat quietly with my head down. Then my classmate Min put half of his sandwich on my desk and said, \"Let's share.\" I felt a warm feeling in my chest and said, \"Thank you so much.\"",
+    "options": [
+      "bored → angry",
+      "proud → jealous",
+      "calm → nervous",
+      "embarrassed → grateful",
+      "lonely → annoyed and upset"
+    ],
+    "answer": 3,
+    "translation": "점심시간에 나는 가방을 열었는데 도시락이 없다는 것을 알았다. 얼굴이 빨개졌고 아무도 알아채지 못하기를 바라며 주위를 둘러보았다. 모두가 먹고 있었고 나는 고개를 숙이고 조용히 앉아 있었다. 그때 반 친구 민이 자신의 샌드위치 절반을 내 책상 위에 놓으며 말했다. \"나눠 먹자.\" 나는 가슴이 따뜻해지는 것을 느끼며 말했다. \"정말 고마워.\"",
+    "why": "도시락이 없어 얼굴이 빨개지며 부끄러워하다가(embarrassed), 친구가 나눠 주자 따뜻함과 고마움을 느꼈습니다(grateful).",
+    "optionNotes": [
+      "지루함에서 화남이 아닙니다.",
+      "자랑스러움에서 질투가 아닙니다.",
+      "침착함에서 긴장이 아닙니다.",
+      "정답. 부끄러움에서 고마움으로 변했습니다.",
+      "외로움에서 짜증이 아닙니다."
+    ],
+    "trap": "'sat quietly with my head down'을 lonely로 오해하지 마세요.",
+    "tip": "처음의 신체 반응(face turned red)과 마지막 말(Thank you)을 비교하세요."
+  },
+  {
+    "id": "m2-12-20",
+    "level": "m2",
+    "set": "mock-12",
+    "no": 20,
+    "type": "claim",
+    "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+    "passage": "Most students choose their future jobs based on what they see on TV or what their parents do. But they know very little about what real jobs are like. A short experience at a real workplace can show them the daily tasks, the difficulties, and the joy of a job. Such experience helps them find what suits them and saves time later. Therefore, schools should regularly give students opportunities to experience various jobs in person.",
+    "options": [
+      "학생들은 부모님의 직업을 반드시 이어받아야 한다.",
+      "학교는 진로 상담을 폐지해야 한다.",
+      "텔레비전 프로그램은 청소년이 시청하지 못하게 해야 한다.",
+      "학생들은 대학에 입학한 뒤에 진로를 정해야 한다.",
+      "학교는 학생들이 다양한 직업을 직접 체험해 볼 기회를 정기적으로 마련해야 한다."
+    ],
+    "answer": 4,
+    "translation": "대부분의 학생은 텔레비전에서 보는 것이나 부모의 직업을 바탕으로 장래 직업을 선택한다. 하지만 그들은 실제 직업이 어떤지 거의 알지 못한다. 실제 직장에서의 짧은 경험은 일상적인 업무, 어려움, 기쁨을 보여 줄 수 있다. 이런 경험은 자신에게 맞는 것을 찾도록 돕고 나중에 시간을 아껴 준다. 그러므로 학교는 학생들이 다양한 직업을 직접 체험할 기회를 정기적으로 주어야 한다.",
+    "why": "마지막 문장 'schools should regularly give students opportunities to experience various jobs in person'이 필자의 주장입니다.",
+    "optionNotes": [
+      "부모의 직업을 이으라는 내용은 없습니다.",
+      "상담 폐지 이야기는 나오지 않습니다.",
+      "시청 제한은 나오지 않습니다.",
+      "대학 입학 후에 정하라는 내용은 글과 반대입니다.",
+      "정답. 학교가 직업 체험 기회를 정기적으로 마련해야 합니다."
+    ],
+    "trap": "첫 문장의 현황(TV, parents)을 필자의 주장으로 오해하지 마세요.",
+    "tip": "주장 문제는 'Therefore, ~ should ...' 문장을 찾으세요."
+  },
+  {
+    "id": "m2-12-21",
+    "level": "m2",
+    "set": "mock-12",
+    "no": 21,
+    "type": "implied",
+    "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "passage": "I sent the report to my manager and explained all the details. I have done everything I can. Now {u|the ball is in her court}, and I need to wait for her decision.",
+    "options": [
+      "a game of tennis is about to begin",
+      "she has lost the ball",
+      "it is her turn to decide or act",
+      "she should practice for the match",
+      "I need to buy a new ball"
+    ],
+    "answer": 2,
+    "translation": "나는 보고서를 상사에게 보내고 모든 세부 사항을 설명했다. 내가 할 수 있는 일은 다 했다. 이제 공은 그녀에게 넘어갔고 나는 그녀의 결정을 기다려야 한다.",
+    "why": "자신이 할 일을 마치고 상사의 결정을 기다린다고 했으므로 이제 결정하거나 행동할 차례가 그녀에게 있다는 뜻입니다.",
+    "optionNotes": [
+      "테니스 경기를 뜻하지 않습니다.",
+      "공을 잃어버렸다는 뜻이 아닙니다.",
+      "정답. 이제 그녀가 결정하거나 행동할 차례라는 뜻입니다.",
+      "연습 이야기가 아닙니다.",
+      "공을 사야 한다는 뜻이 아닙니다."
+    ],
+    "trap": "'ball', 'court'를 문자 그대로 해석하면 ①④를 고르게 됩니다.",
+    "tip": "관용 표현은 뒤 문장(wait for her decision)에서 의미를 추론하세요."
+  },
+  {
+    "id": "m2-12-22",
+    "level": "m2",
+    "set": "mock-12",
+    "no": 22,
+    "type": "gist",
+    "stem": "다음 글의 요지로 가장 적절한 것은?",
+    "passage": "Many people believe that taking a break from work wastes time. However, a Stanford study found something different. People who took a short walk outside came up with about sixty percent more creative ideas. Those who stayed in their chairs did not. Fresh air, sunlight, and gentle movement relax the mind. They also help it connect ideas in new ways. A ten-minute walk, therefore, is not a waste but an investment in better work.",
+    "options": [
+      "일은 쉬지 않고 계속해야 효율이 높다.",
+      "짧은 야외 산책은 기분과 창의력을 높여 주어 일의 능률에도 도움이 된다.",
+      "운동은 오랜 시간 해야만 효과가 있다.",
+      "실내에서 일하는 사람은 햇빛을 피해야 한다.",
+      "창의적인 아이디어는 혼자 있을 때만 떠오른다."
+    ],
+    "answer": 1,
+    "translation": "많은 사람들은 일에서 잠시 쉬는 것이 시간 낭비라고 믿는다. 그러나 스탠퍼드의 한 연구에 따르면 밖에서 짧게 산책한 사람들은 의자에 앉아 있던 사람들보다 약 60퍼센트 더 많은 창의적인 아이디어를 냈다. 신선한 공기, 햇빛, 부드러운 움직임은 마음을 편안하게 하고 생각을 새로운 방식으로 연결하도록 돕는다. 따라서 10분의 산책은 낭비가 아니라 더 나은 일을 위한 투자이다.",
+    "why": "짧은 산책이 창의력을 높이고 일의 능률에도 투자가 된다는 것이 요지입니다.",
+    "optionNotes": [
+      "쉬지 않아야 한다는 것은 글과 반대입니다.",
+      "정답. 짧은 산책이 창의력과 능률에 도움이 됩니다.",
+      "오래 해야 한다는 내용은 없습니다.",
+      "햇빛을 피하라는 것은 글과 반대입니다.",
+      "혼자 있을 때만이라는 내용은 없습니다."
+    ],
+    "trap": "첫 문장의 통념을 필자의 생각으로 오해하지 마세요.",
+    "tip": "However 뒤와 마지막 문장(therefore)이 요지를 담습니다."
+  },
+  {
+    "id": "m2-12-23",
+    "level": "m2",
+    "set": "mock-12",
+    "no": 23,
+    "type": "topic",
+    "stem": "다음 글의 주제로 가장 적절한 것은?",
+    "passage": "Earthquakes can be very different in strength. Scientists use a machine called a seismograph to record the shaking of the ground. The machine draws a line that moves up and down, and the bigger the movement is, the stronger the earthquake is. Using this record, scientists calculate a number, which is called the magnitude. Each increase of one in the magnitude means about thirty times more energy.",
+    "options": [
+      "why earthquakes happen only in cold regions",
+      "how animals sense danger before disasters",
+      "how scientists measure the strength of earthquakes",
+      "what people should do during a fire",
+      "where the tallest buildings in the world are located"
+    ],
+    "answer": 2,
+    "translation": "지진은 강도가 매우 다를 수 있다. 과학자들은 지진계라는 기계를 사용해 땅의 흔들림을 기록한다. 이 기계는 위아래로 움직이는 선을 그리며 움직임이 클수록 지진이 더 강하다. 이 기록을 이용해 과학자들은 규모라고 불리는 숫자를 계산한다. 규모가 1 커질 때마다 약 30배 더 많은 에너지를 뜻한다.",
+    "why": "지진계를 이용해 지진의 세기를 재는 방법을 설명하는 글입니다.",
+    "optionNotes": [
+      "추운 지역은 나오지 않습니다.",
+      "동물의 감지는 나오지 않습니다.",
+      "정답. 지진의 세기를 재는 방법입니다.",
+      "화재 대처는 나오지 않습니다.",
+      "높은 건물은 나오지 않습니다."
+    ],
+    "trap": "'earthquake'가 들어간 ① 같은 보기에 이끌리지 마세요.",
+    "tip": "주제는 글 전체가 답하는 'how' 질문을 찾으세요."
+  },
+  {
+    "id": "m2-12-24",
+    "level": "m2",
+    "set": "mock-12",
+    "no": 24,
+    "type": "title",
+    "stem": "다음 글의 제목으로 가장 적절한 것은?",
+    "passage": "At a high school in the countryside, the students run the school café by themselves. They decide the menu, buy the ingredients, and take care of the accounts. Every month, they meet to calculate their profits and decide how to spend them. Some students say that they learned to work in a team. Others say that they now understand what business is about. The teachers only give advice when it is needed.",
+    "options": [
+      "Why Students Should Not Work",
+      "How to Open a Restaurant in the City",
+      "The History of Coffee in Korea",
+      "A School Where Students Run the Café and Learn Business Skills",
+      "Healthy Menus for School Lunches"
+    ],
+    "answer": 3,
+    "translation": "시골의 한 고등학교에서는 학생들이 직접 학교 카페를 운영한다. 그들은 메뉴를 정하고 재료를 사고 장부를 관리한다. 매달 모여 이익을 계산하고 그것을 어떻게 쓸지 결정한다. 어떤 학생들은 팀으로 일하는 법을 배웠다고 말하고 다른 학생들은 이제 사업이 무엇인지 안다고 말한다. 교사들은 필요할 때만 조언한다.",
+    "why": "학생들이 직접 카페를 운영하며 사업 기술을 배운다는 내용이므로 ⑤가 제목입니다.",
+    "optionNotes": [
+      "학생이 일하면 안 된다는 내용은 글과 반대입니다.",
+      "도시에서 식당을 여는 방법은 나오지 않습니다.",
+      "커피의 역사는 나오지 않습니다.",
+      "정답. 학생이 카페를 운영하며 사업 기술을 배웁니다.",
+      "건강한 급식 메뉴는 나오지 않습니다."
+    ],
+    "trap": "'café'가 나온다고 ③을 고르지 마세요.",
+    "tip": "제목은 주체(students)와 활동(run the café), 배움(business skills)을 담으세요."
+  },
+  {
+    "id": "m2-12-25",
+    "level": "m2",
+    "set": "mock-12",
+    "no": 25,
+    "type": "chart",
+    "stem": "다음 도표의 내용과 일치하지 않는 것은?",
+    "chart": {
+      "title": "Museum Visitors by Month (people)",
+      "unit": "people",
+      "labels": [
+        "January",
+        "February",
+        "March",
+        "April"
+      ],
+      "series": [
+        {
+          "name": "Weekdays",
+          "values": [
+            200,
+            180,
+            250,
+            300
+          ]
+        },
+        {
+          "name": "Weekends",
+          "values": [
+            350,
+            320,
+            400,
+            420
+          ]
+        }
+      ]
+    },
+    "passage": "The graph shows the number of visitors to a museum on weekdays and weekends. ① The number of weekend visitors was larger than that of weekday visitors every month. ② The number of weekday visitors was the largest in March. ③ The gap between weekday and weekend visitors was 140 in February. ④ The number of weekend visitors increased from February to April. ⑤ The number of weekday visitors in April was 100 more than in January.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "그래프는 박물관의 평일과 주말 방문객 수를 보여 준다. ① 주말 방문객 수는 매달 평일 방문객 수보다 많았다. ② 평일 방문객 수는 3월에 가장 많았다. ③ 2월의 평일과 주말 방문객 수의 차이는 140명이었다. ④ 주말 방문객 수는 2월에서 4월까지 늘어났다. ⑤ 4월의 평일 방문객 수는 1월보다 100명 많았다.",
+    "why": "평일 방문객 수는 4월(300명)이 가장 많으므로 3월에 가장 많았다는 ②는 일치하지 않습니다.",
+    "optionNotes": [
+      "매달 주말이 더 많습니다.",
+      "정답(불일치). 평일 방문객은 4월에 가장 많습니다.",
+      "320 − 180 = 140명입니다.",
+      "320, 400, 420명으로 늘었습니다.",
+      "300 − 200 = 100명입니다."
+    ],
+    "trap": "주말과 평일의 계열을 혼동하기 쉽습니다.",
+    "tip": "'가장 많은' 보기는 해당 계열의 모든 값을 비교하세요."
+  },
+  {
+    "id": "m2-12-26",
+    "level": "m2",
+    "set": "mock-12",
+    "no": 26,
+    "type": "match",
+    "stem": "Kenji Sato에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Kenji Sato is a chef who runs a small restaurant in Osaka. He first became interested in cooking when he helped his grandmother in her kitchen at the age of eight. After high school, he trained in a famous restaurant for six years. He opened his own place at thirty, using only local vegetables and fish. Today he teaches children how to cook once a month. He believes that food teaches people to appreciate nature.",
+    "options": [
+      "열두 살에 처음 요리에 관심을 가졌다.",
+      "고등학교를 졸업하고 곧바로 자신의 식당을 열어 운영했다.",
+      "수입 재료만 사용하는 식당을 운영한다.",
+      "요리 학원에서 성인에게만 요리를 가르친다.",
+      "한 달에 한 번 어린이들에게 요리를 가르친다."
+    ],
+    "answer": 4,
+    "translation": "사토 겐지는 오사카에서 작은 식당을 운영하는 요리사이다. 그는 여덟 살 때 할머니의 부엌에서 도우면서 처음 요리에 관심을 갖게 되었다. 고등학교를 졸업한 뒤 그는 유명한 식당에서 6년 동안 수련했다. 서른 살에 그는 지역의 채소와 생선만 사용하는 자신의 가게를 열었다. 오늘날 그는 음식이 사람들에게 자연의 고마움을 가르친다고 믿기 때문에 한 달에 한 번 어린이들에게 요리를 가르친다.",
+    "why": "'he teaches children how to cook once a month'와 일치합니다.",
+    "optionNotes": [
+      "여덟 살 때입니다.",
+      "6년 수련한 뒤 서른 살에 열었습니다.",
+      "지역 재료를 사용합니다.",
+      "어린이들에게 가르칩니다.",
+      "정답. 한 달에 한 번 어린이들에게 요리를 가르칩니다."
+    ],
+    "trap": "나이(eight/twelve)와 재료(local/imported)를 바꾼 보기에 주의하세요.",
+    "tip": "일치 문제는 시기별 사건(8세, 졸업 후, 30세, 현재)을 대조하세요."
+  },
+  {
+    "id": "m2-12-27",
+    "level": "m2",
+    "set": "mock-12",
+    "no": 27,
+    "type": "notice",
+    "stem": "Weekend Photo Walk에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Weekend Photo Walk\nSee your town through a camera!\nDate: Saturday, October 26\nTime: 9:00 a.m. – 12:00 p.m.\nMeeting Point: Riverside Park Gate 2\nWho: Anyone aged 12 or older (any camera or smartphone is fine)\nFee: Free\nNote: In case of rain, the walk will be held on the next Saturday.",
+    "options": [
+      "일요일 오후에 열린다.",
+      "전문가용 카메라만 사용할 수 있다.",
+      "비가 오면 다음 토요일에 진행한다.",
+      "참가비는 5달러이다.",
+      "12세 미만만 참가할 수 있다."
+    ],
+    "answer": 2,
+    "translation": "주말 사진 산책. 카메라로 우리 동네를 바라보세요! 날짜: 10월 26일 토요일. 시간: 오전 9시~낮 12시. 모이는 곳: 강변 공원 2번 출입구. 대상: 12세 이상 누구나(카메라나 스마트폰 모두 가능). 참가비: 무료. 유의: 비가 오면 다음 토요일에 열립니다.",
+    "why": "'In case of rain, the walk will be held on the next Saturday.'와 일치합니다.",
+    "optionNotes": [
+      "토요일 오전입니다.",
+      "스마트폰도 가능합니다.",
+      "정답. 비가 오면 다음 토요일에 열립니다.",
+      "무료입니다.",
+      "12세 이상이 대상입니다."
+    ],
+    "trap": "'취소'가 아니라 '다음 토요일로 연기'임을 확인하세요.",
+    "tip": "안내문은 괄호 안의 정보와 Note 항목을 함께 확인하세요."
+  },
+  {
+    "id": "m2-12-28",
+    "level": "m2",
+    "set": "mock-12",
+    "no": 28,
+    "type": "notice",
+    "stem": "Used Bike Sale에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Used Bike Sale\nGood bikes at low prices!\nDate: Sunday, May 4\nTime: 10:00 a.m. – 4:00 p.m.\nPlace: Hanbit Middle School playground\nPrices: $20 – $80 depending on the condition\nPayment: Cash only\nNote: All bikes are checked by a professional mechanic, and the income will be used to buy school sports equipment.",
+    "options": [
+      "평일 저녁에 열린다.",
+      "카드로도 결제할 수 있다.",
+      "모든 자전거의 가격은 상태와 관계없이 똑같이 정해져 있다.",
+      "학교 체육관에서 열린다.",
+      "수익은 학교 운동 기구를 사는 데 쓰인다."
+    ],
+    "answer": 4,
+    "translation": "중고 자전거 판매. 좋은 자전거를 저렴한 가격에! 날짜: 5월 4일 일요일. 시간: 오전 10시~오후 4시. 장소: 한빛 중학교 운동장. 가격: 상태에 따라 20~80달러. 결제: 현금만 가능. 유의: 모든 자전거는 전문 정비사가 점검했으며 수익은 학교 운동 기구를 사는 데 쓰입니다.",
+    "why": "'the income will be used to buy school sports equipment'와 일치합니다.",
+    "optionNotes": [
+      "일요일 낮에 열립니다.",
+      "현금만 가능합니다.",
+      "상태에 따라 가격이 다릅니다.",
+      "운동장에서 열립니다.",
+      "정답. 수익은 학교 운동 기구를 사는 데 쓰입니다."
+    ],
+    "trap": "'Cash only'를 놓치면 ②를 고르기 쉽습니다.",
+    "tip": "Payment와 Note 항목을 꼼꼼히 확인하세요."
+  }
+]

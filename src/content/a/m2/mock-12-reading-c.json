@@ -1,0 +1,147 @@
+[
+  {
+    "id": "m2-12-41",
+    "level": "m2",
+    "set": "mock-12",
+    "no": 41,
+    "type": "long",
+    "group": "m2-12-g41",
+    "stem": "[41~42] 윗글의 제목으로 가장 적절한 것을 고르시오.",
+    "passage": "In Japan, doctors sometimes recommend \"forest bathing,\" which means walking slowly in a forest without hurrying. Studies show that two hours in a forest can {1|lower} stress levels and blood pressure. Trees release natural chemicals that {2|strengthen} the body's defense against illness. The quiet atmosphere also {3|increases} people's anxiety and helps them feel peaceful. Many companies now {4|encourage} employees to take short forest walks. As a result, forest bathing is becoming popular {5|around} the world.",
+    "options": [
+      "Healing in the Forest: The Benefits of Forest Bathing",
+      "How to Build a Wooden House in the Mountains with Local Trees",
+      "Why Trees Are Disappearing from Japan",
+      "The Best Hiking Shoes for Every Season",
+      "A Beginner's Guide to Swimming in a Lake"
+    ],
+    "answer": 0,
+    "translation": "일본에서는 의사들이 때때로 서두르지 않고 숲속을 천천히 걷는 '산림욕'을 권한다. 연구에 따르면 숲에서 두 시간을 보내면 스트레스 수준과 혈압을 낮출 수 있다. 나무는 몸의 질병에 대한 방어를 강화하는 천연 물질을 내보낸다. 조용한 분위기는 또한 사람들의 불안을 줄이고 평온함을 느끼도록 돕는다. 많은 회사는 이제 직원들에게 짧은 숲 산책을 권장한다. 그 결과 산림욕은 전 세계에서 인기를 얻고 있다.",
+    "why": "숲속 산책(산림욕)의 건강상 이점을 소개하므로 ①이 제목입니다.",
+    "optionNotes": [
+      "정답. 숲에서의 치유, 산림욕의 이점입니다.",
+      "집 짓기는 나오지 않습니다.",
+      "나무가 사라지는 이야기는 나오지 않습니다.",
+      "등산화는 나오지 않습니다.",
+      "호수 수영은 나오지 않습니다."
+    ],
+    "trap": "'bathing'을 목욕이나 수영으로 오해하지 마세요.",
+    "tip": "제목은 글의 중심(forest bathing)과 효과(benefits)를 담으세요."
+  },
+  {
+    "id": "m2-12-42",
+    "level": "m2",
+    "set": "mock-12",
+    "no": 42,
+    "type": "long",
+    "group": "m2-12-g41",
+    "stem": "[41~42] 밑줄 친 ①~⑤ 중에서 문맥상 낱말의 쓰임이 적절하지 않은 것을 고르시오.",
+    "passage": "In Japan, doctors sometimes recommend \"forest bathing,\" which means walking slowly in a forest without hurrying. Studies show that two hours in a forest can {1|lower} stress levels and blood pressure. Trees release natural chemicals that {2|strengthen} the body's defense against illness. The quiet atmosphere also {3|increases} people's anxiety and helps them feel peaceful. Many companies now {4|encourage} employees to take short forest walks. As a result, forest bathing is becoming popular {5|around} the world.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "(41번 지문과 같은 글입니다.)",
+    "why": "조용한 분위기는 사람들이 평온함을 느끼게 도우므로 불안을 '증가시킨다(increases)'가 아니라 '줄인다(reduces)'여야 합니다.",
+    "optionNotes": [
+      "낮춘다는 의미로 lower가 알맞습니다.",
+      "강화한다는 의미로 strengthen이 알맞습니다.",
+      "정답(부적절). 평온함을 느끼게 하므로 reduces여야 합니다.",
+      "장려한다는 의미로 encourage가 알맞습니다.",
+      "전 세계라는 의미로 around가 알맞습니다."
+    ],
+    "trap": "'and helps them feel peaceful'을 확인하지 않으면 놓치기 쉽습니다.",
+    "tip": "and 뒤의 결과(평온함)와 앞 동사의 방향이 맞는지 확인하세요."
+  },
+  {
+    "id": "m2-12-43",
+    "level": "m2",
+    "set": "mock-12",
+    "no": 43,
+    "type": "long",
+    "group": "m2-12-g43",
+    "stem": "[43~45] 주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것을 고르시오.",
+    "passage": "(A) Hana had never been on a plane, and tomorrow she had to fly alone to visit her aunt in Jeju. {1|She} could not sleep that night.\n(B) On the plane, a flight attendant sat next to Hana and showed her the window. {2|She} saw the clouds below and forgot her fear.\n(C) At the airport, Hana checked her ticket again and again. {3|She} was afraid that she would miss the plane.\n(D) When the plane landed in Jeju, Hana's aunt was waiting at the gate. {4|She} waved with a big smile, and {5|she} ran to hug her.",
+    "options": [
+      "(B)-(D)-(C)",
+      "(C)-(B)-(D)",
+      "(C)-(D)-(B)",
+      "(D)-(B)-(C)",
+      "(D)-(C)-(B)"
+    ],
+    "answer": 1,
+    "translation": "(A) 하나는 비행기를 타 본 적이 없었는데 내일 혼자 제주도의 이모를 만나러 비행기를 타야 했다. 그녀는 그날 밤 잠을 이루지 못했다. (C) 공항에서 하나는 표를 계속 확인했다. 그녀는 비행기를 놓칠까 봐 두려웠다. (B) 비행기에서 승무원이 하나 옆에 앉아 창문을 보여 주었다. 그녀는 아래의 구름을 보고 두려움을 잊었다. (D) 비행기가 제주에 착륙했을 때 하나의 이모가 게이트에서 기다리고 있었다. 이모는 환한 미소로 손을 흔들었고 하나는 달려가 안겼다.",
+    "why": "(A) 잠을 못 잠 → (C) 공항에서 표를 확인 → (B) 비행기 안 → (D) 제주에 착륙 순서입니다.",
+    "optionNotes": [
+      "(B)의 비행기 안이 공항(C)보다 앞설 수 없습니다.",
+      "정답. 공항 → 비행기 → 착륙.",
+      "(D)의 착륙이 비행기 안(B)보다 앞설 수 없습니다.",
+      "(D)의 착륙이 처음에 올 수 없습니다.",
+      "(D)의 착륙이 처음에 올 수 없습니다."
+    ],
+    "trap": "(C)의 'At the airport'는 탑승 전의 장면입니다.",
+    "tip": "At the airport → On the plane → When the plane landed의 장소·시간 흐름을 따라가세요."
+  },
+  {
+    "id": "m2-12-44",
+    "level": "m2",
+    "set": "mock-12",
+    "no": 44,
+    "type": "long",
+    "group": "m2-12-g43",
+    "stem": "[43~45] 밑줄 친 ①~⑤ 중에서 가리키는 대상이 나머지 넷과 다른 것을 고르시오.",
+    "passage": "(A) Hana had never been on a plane, and tomorrow she had to fly alone to visit her aunt in Jeju. {1|She} could not sleep that night.\n(B) On the plane, a flight attendant sat next to Hana and showed her the window. {2|She} saw the clouds below and forgot her fear.\n(C) At the airport, Hana checked her ticket again and again. {3|She} was afraid that she would miss the plane.\n(D) When the plane landed in Jeju, Hana's aunt was waiting at the gate. {4|She} waved with a big smile, and {5|she} ran to hug her.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "④의 She는 게이트에서 기다리다 미소 지으며 손을 흔든 이모이고, 나머지 ①②③⑤는 모두 하나를 가리킵니다.",
+    "optionNotes": [
+      "She는 잠을 이루지 못한 하나입니다.",
+      "She는 구름을 보고 두려움을 잊은 하나입니다.",
+      "She는 비행기를 놓칠까 봐 두려워한 하나입니다.",
+      "정답. She는 손을 흔든 이모입니다.",
+      "she는 달려가 안긴 하나입니다."
+    ],
+    "trap": "앞 문장의 주어가 Hana's aunt이므로 She도 이모입니다. 하나로 착각하지 마세요.",
+    "tip": "같은 성별의 두 인물이 나오면 직전 문장의 주어를 확인하세요."
+  },
+  {
+    "id": "m2-12-45",
+    "level": "m2",
+    "set": "mock-12",
+    "no": 45,
+    "type": "long",
+    "group": "m2-12-g43",
+    "stem": "[43~45] 윗글에 관한 내용으로 적절하지 않은 것을 고르시오.",
+    "passage": "(A) Hana had never been on a plane, and tomorrow she had to fly alone to visit her aunt in Jeju. {1|She} could not sleep that night.\n(B) On the plane, a flight attendant sat next to Hana and showed her the window. {2|She} saw the clouds below and forgot her fear.\n(C) At the airport, Hana checked her ticket again and again. {3|She} was afraid that she would miss the plane.\n(D) When the plane landed in Jeju, Hana's aunt was waiting at the gate. {4|She} waved with a big smile, and {5|she} ran to hug her.",
+    "options": [
+      "하나는 이모를 만나러 제주도에 가기 전까지 비행기를 타 본 적이 한 번도 없었다.",
+      "하나는 공항에서 표를 계속 확인했다.",
+      "비행기에서 승무원이 하나 옆에 앉았다.",
+      "하나가 제주 공항에 도착했을 때 이모는 기다리지 않고 먼저 집으로 갔다.",
+      "하나는 이모를 안으려고 달려갔다."
+    ],
+    "answer": 3,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "이모는 게이트에서 하나를 기다리고 있었으므로 먼저 집으로 갔다는 ④는 일치하지 않습니다.",
+    "optionNotes": [
+      "had never been on a plane과 일치합니다.",
+      "checked her ticket again and again과 일치합니다.",
+      "sat next to Hana와 일치합니다.",
+      "정답(불일치). 이모는 게이트에서 기다리고 있었습니다.",
+      "ran to hug her와 일치합니다."
+    ],
+    "trap": "'was waiting at the gate'를 놓치지 마세요.",
+    "tip": "불일치 문제는 인물의 행동(waiting)을 반대로 바꾼 보기를 찾으세요."
+  }
+]
