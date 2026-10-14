@@ -1,0 +1,333 @@
+[
+  {
+    "id": "m3-11-18",
+    "level": "m3",
+    "set": "mock-11",
+    "no": 18,
+    "type": "purpose",
+    "stem": "다음 글을 쓴 목적으로 가장 적절한 것은?",
+    "passage": "Dear Sir or Madam,\nI am a teacher at Hanbit Middle School, and I am writing to ask about guided tours at your museum. Twenty-five ninth graders are studying ancient history this semester, and I would like to bring them to your exhibition on ancient civilizations in November. The students are especially interested in ancient Egypt and Greece. Could you let me know which dates are available and what the group fee is? I look forward to hearing from you.\nSincerely,\nMinji Yoon",
+    "options": [
+      "박물관 전시품을 학교 도서관에 기증하는 방법을 문의하려고",
+      "박물관 개관 시간을 문의하려고",
+      "박물관 일자리에 지원하려고",
+      "박물관 관람 후기를 남기려고",
+      "단체 견학이 가능한 날짜와 요금을 문의하려고"
+    ],
+    "answer": 4,
+    "translation": "담당자께. 저는 한빛 중학교 교사이며 귀 박물관의 안내 견학에 대해 문의하려고 글을 씁니다. 이번 학기에 3학년 학생 스물다섯 명이 고대사를 배우고 있어 11월에 귀 박물관의 고대 문명 전시회에 데려가고 싶습니다. 학생들은 특히 고대 이집트와 그리스에 관심이 있습니다. 가능한 날짜와 단체 요금을 알려 주실 수 있나요? 연락을 기다리겠습니다. 윤민지 드림.",
+    "why": "'Could you let me know which dates are available and what the group fee is?'에서 단체 견학의 날짜와 요금을 문의하는 글입니다.",
+    "optionNotes": [
+      "기증 이야기는 나오지 않습니다.",
+      "개관 시간 문의가 아닙니다.",
+      "일자리 지원이 아닙니다.",
+      "후기를 남기는 글이 아닙니다.",
+      "정답. 단체 견학이 가능한 날짜와 요금을 문의합니다."
+    ],
+    "trap": "학생들이 고대사를 배운다는 배경 설명에 이끌려 다른 목적을 고르지 마세요.",
+    "tip": "목적 문제는 'Could you let me know ~?' 같은 질문 문장을 찾으세요."
+  },
+  {
+    "id": "m3-11-19",
+    "level": "m3",
+    "set": "mock-11",
+    "no": 19,
+    "type": "mood",
+    "stem": "다음 글에 드러난 'I'의 심경 변화로 가장 적절한 것은?",
+    "passage": "Missing the last-second shot cost our team the game. I sat on the bench with my head down and thought that everyone blamed me. Outside, the fans were still cheering for the other team. The locker room was silent, and I could not look at anyone. Then my teammate Jun sat next to me and said, \"We win together, and we lose together. Let's train harder next week.\" I wiped my face, raised my head, and nodded.",
+    "options": [
+      "bored → excited",
+      "proud → envious",
+      "lonely → amused and relaxed",
+      "guilty → determined",
+      "calm → terrified"
+    ],
+    "answer": 3,
+    "translation": "마지막 순간의 슛을 놓쳐서 우리 팀은 경기에서 졌다. 나는 고개를 숙인 채 벤치에 앉아 모두가 나를 탓한다고 생각했다. 밖에서는 관중들이 여전히 상대 팀을 응원하고 있었다. 탈의실은 조용했고 나는 누구도 쳐다볼 수 없었다. 그때 팀 동료 준이 내 옆에 앉아 말했다. \"우리는 함께 이기고 함께 져. 다음 주에 더 열심히 훈련하자.\" 나는 얼굴을 닦고 고개를 들어 고개를 끄덕였다.",
+    "why": "슛을 놓쳐 모두가 탓한다고 생각하며 죄책감을 느꼈다가(guilty), 동료의 말에 고개를 들고 더 훈련하기로 다짐했습니다(determined).",
+    "optionNotes": [
+      "지루함에서 신남이 아닙니다.",
+      "자랑스러움에서 질투가 아닙니다.",
+      "외로움에서 즐거움이 아닙니다.",
+      "정답. 죄책감에서 다짐으로 변했습니다.",
+      "침착함에서 공포가 아닙니다."
+    ],
+    "trap": "'lonely'를 처음 감정으로 보기 쉽지만 변화 후의 감정이 amused는 아닙니다.",
+    "tip": "처음의 자세(head down)와 마지막 행동(raised my head, nodded)을 비교하세요."
+  },
+  {
+    "id": "m3-11-20",
+    "level": "m3",
+    "set": "mock-11",
+    "no": 20,
+    "type": "claim",
+    "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+    "passage": "For many families, the cost of commuting to school is a heavy burden. Some students walk for an hour because they cannot afford the bus. Others skip classes when the family budget is tight. These costs add up over a whole school year. Free public transportation for students would solve these problems. It would also reduce traffic near schools and encourage young people to use public transportation as adults. Therefore, local governments should make public transportation free for all students.",
+    "options": [
+      "학교는 통학 거리가 먼 학생에게 기숙사를 제공해야 한다.",
+      "지방 정부는 모든 학생에게 대중교통을 무료로 제공해 교육 기회를 보장하고 가계 부담을 줄여야 한다.",
+      "학생들은 가능한 한 걸어서 통학해야 한다.",
+      "자가용 통학을 장려해야 한다.",
+      "교통 요금은 학교에서 부담해야 한다."
+    ],
+    "answer": 1,
+    "translation": "많은 가정에서 통학 비용은 큰 부담이다. 일부 학생은 버스비를 낼 수 없어 한 시간을 걸어간다. 다른 학생들은 가계가 어려울 때 수업을 빼먹는다. 이런 비용은 한 학년 동안 쌓인다. 학생들을 위한 무료 대중교통은 이런 문제를 해결할 것이다. 또한 학교 주변 교통량을 줄이고 젊은이들이 어른이 되어서도 대중교통을 이용하도록 장려할 것이다. 그러므로 지방 정부는 모든 학생에게 대중교통을 무료로 제공해야 한다.",
+    "why": "마지막 문장 'local governments should make public transportation free for all students'가 필자의 주장입니다.",
+    "optionNotes": [
+      "기숙사 이야기는 나오지 않습니다.",
+      "정답. 대중교통을 무료로 제공해야 합니다.",
+      "걸어서 통학하라는 내용은 글과 반대입니다.",
+      "자가용 통학 장려는 글과 반대입니다.",
+      "학교 부담 이야기는 나오지 않습니다."
+    ],
+    "trap": "'walk for an hour'는 현재의 문제 상황이며 필자의 권고가 아닙니다.",
+    "tip": "주장 문제는 'Therefore, ~ should ...' 문장을 찾으세요."
+  },
+  {
+    "id": "m3-11-21",
+    "level": "m3",
+    "set": "mock-11",
+    "no": 21,
+    "type": "implied",
+    "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "passage": "Tom needed to return some books to the library and also wanted to get some exercise. He decided to ride his bike to the library instead of taking the bus. By doing so, he {u|killed two birds with one stone}.",
+    "options": [
+      "hurt two birds with a heavy stone that he found on the way",
+      "achieved two goals with a single action",
+      "threw a stone at a bird",
+      "made friends with two birds",
+      "built a nest for the birds"
+    ],
+    "answer": 1,
+    "translation": "톰은 도서관에 책을 반납해야 했고 운동도 하고 싶었다. 그는 버스를 타는 대신 자전거를 타고 도서관에 가기로 했다. 그렇게 함으로써 그는 일석이조를 이루었다.",
+    "why": "자전거를 타고 가서 책을 반납하고 운동도 했으므로 한 행동으로 두 가지 목표를 이루었다는 뜻입니다.",
+    "optionNotes": [
+      "새를 다치게 했다는 뜻이 아닙니다.",
+      "정답. 한 행동으로 두 가지 목표를 이룬다는 뜻입니다.",
+      "새에게 돌을 던졌다는 뜻이 아닙니다.",
+      "새와 친구가 되었다는 뜻이 아닙니다.",
+      "둥지를 지었다는 뜻이 아닙니다."
+    ],
+    "trap": "'birds'와 'stone'을 문자 그대로 해석하면 ①③을 고르게 됩니다.",
+    "tip": "관용 표현은 앞 문장의 두 목적(반납, 운동)에서 의미를 추론하세요."
+  },
+  {
+    "id": "m3-11-22",
+    "level": "m3",
+    "set": "mock-11",
+    "no": 22,
+    "type": "gist",
+    "stem": "다음 글의 요지로 가장 적절한 것은?",
+    "passage": "Staying in our comfort zone feels safe, but it rarely leads to growth. When we try something new, such as speaking in front of an audience or learning an unfamiliar skill, we feel nervous and uncomfortable. However, these feelings are signs that our brain is forming new connections. Athletes and musicians know this well, since they improve only when they practice what is difficult. If we avoid every challenge, our abilities stay the same. Therefore, a small amount of discomfort is the price of improvement.",
+    "options": [
+      "새로운 도전은 실패할 위험이 크므로 언제나 신중하게 준비하고 시작해야 한다.",
+      "불안을 느끼면 즉시 하던 일을 멈추어야 한다.",
+      "남들 앞에서 말하는 것은 반드시 피해야 한다.",
+      "편안한 영역에서 벗어나 불편함을 감수할 때 성장할 수 있다.",
+      "실력은 처음부터 정해져 있어서 노력해도 변하지 않는다."
+    ],
+    "answer": 3,
+    "translation": "편안한 영역에 머무르면 안전하게 느껴지지만 성장으로 이어지는 일은 드물다. 청중 앞에서 말하기나 낯선 기술 배우기 같은 새로운 일을 시도하면 우리는 긴장하고 불편함을 느낀다. 그러나 이런 감정은 뇌가 새로운 연결을 만들고 있다는 신호이다. 운동선수와 음악가는 어려운 것을 연습할 때만 실력이 늘기 때문에 이를 잘 안다. 모든 도전을 피하면 우리의 능력은 그대로이다. 그러므로 약간의 불편함은 향상을 위한 대가이다.",
+    "why": "불편함은 성장의 신호이며 편안한 영역을 벗어나야 향상된다는 것이 요지입니다.",
+    "optionNotes": [
+      "위험하므로 신중하라는 내용은 없습니다.",
+      "멈추라는 내용은 글과 반대입니다.",
+      "피하라는 내용은 글과 반대입니다.",
+      "정답. 불편함을 감수할 때 성장할 수 있습니다.",
+      "노력해도 변하지 않는다는 내용은 글과 반대입니다."
+    ],
+    "trap": "둘째 문장의 'nervous and uncomfortable'을 부정적 결론으로 오해하지 마세요.",
+    "tip": "However 뒤와 Therefore 뒤의 문장이 요지를 담습니다."
+  },
+  {
+    "id": "m3-11-23",
+    "level": "m3",
+    "set": "mock-11",
+    "no": 23,
+    "type": "topic",
+    "stem": "다음 글의 주제로 가장 적절한 것은?",
+    "passage": "Wetlands may look like muddy, useless land, but they provide valuable services. Like a giant sponge, a wetland absorbs heavy rain and releases it slowly, which reduces flooding in nearby towns. Plants growing there filter harmful substances from the water before it reaches rivers. In addition, wetlands are home to many birds, fish, and insects. Protecting them is much cheaper than building concrete walls and treatment plants. As a result, many scientists now call wetlands nature's water filters.",
+    "options": [
+      "how wetlands protect communities by controlling floods and cleaning water",
+      "why birds migrate to cold regions in winter",
+      "how farmers use wetlands to grow rice",
+      "what types of fish live in rivers and lakes",
+      "where new concrete walls should be built near towns"
+    ],
+    "answer": 0,
+    "translation": "습지는 진흙투성이의 쓸모없는 땅처럼 보일 수 있지만 귀중한 역할을 한다. 거대한 스펀지처럼 습지는 폭우를 흡수해 천천히 내보내며 이는 근처 마을의 홍수를 줄인다. 그곳에서 자라는 식물은 물이 강에 닿기 전에 해로운 물질을 걸러 낸다. 또한 습지는 많은 새와 물고기, 곤충의 서식지이다. 습지를 보호하는 것은 콘크리트 벽과 처리 시설을 짓는 것보다 훨씬 저렴하다. 그 결과 많은 과학자들은 이제 습지를 자연의 정수기라고 부른다.",
+    "why": "습지가 홍수를 막고 물을 깨끗하게 하는 역할을 설명하는 글입니다.",
+    "optionNotes": [
+      "정답. 습지가 홍수를 막고 물을 정화하는 방법입니다.",
+      "새의 이동은 나오지 않습니다.",
+      "벼농사는 나오지 않습니다.",
+      "물고기의 종류는 나오지 않습니다.",
+      "콘크리트 벽의 위치는 나오지 않습니다."
+    ],
+    "trap": "'birds, fish, insects'는 세부 사항일 뿐 글의 핵심이 아닙니다.",
+    "tip": "주제는 글 전체를 아우르는 핵심(floods, filtering)을 담은 보기입니다."
+  },
+  {
+    "id": "m3-11-24",
+    "level": "m3",
+    "set": "mock-11",
+    "no": 24,
+    "type": "title",
+    "stem": "다음 글의 제목으로 가장 적절한 것은?",
+    "passage": "Many people feel sleepy in the early afternoon and try to fight it with coffee. However, researchers suggest that a short nap of about twenty minutes works better. After such a nap, people react faster, remember more, and feel in a better mood. Some companies in Japan even give their employees a short nap room. The key is to keep it short. A nap longer than thirty minutes may leave you feeling heavier and more tired than before.",
+    "options": [
+      "Why Short Naps Make Us Smarter",
+      "The Best Coffee Shops in Town",
+      "How to Sleep Ten Hours a Night",
+      "Why Teenagers Should Avoid Sleeping",
+      "The History of Afternoon Tea"
+    ],
+    "answer": 0,
+    "translation": "많은 사람들은 이른 오후에 졸음을 느끼고 커피로 그것을 이기려 한다. 그러나 연구자들은 약 20분의 짧은 낮잠이 더 효과적이라고 시사한다. 그런 낮잠 뒤에는 사람들이 더 빨리 반응하고 더 많이 기억하며 기분도 좋아진다. 일본의 일부 회사는 직원에게 짧은 낮잠 방을 제공하기도 한다. 핵심은 짧게 자는 것이다. 30분보다 긴 낮잠은 이전보다 몸이 더 무겁고 피곤하게 만들 수 있다.",
+    "why": "짧은 낮잠이 집중력과 기억력을 높인다는 내용이므로 ①이 제목입니다.",
+    "optionNotes": [
+      "정답. 짧은 낮잠이 우리를 더 영리하게 만든다는 내용입니다.",
+      "커피숍 이야기는 나오지 않습니다.",
+      "열 시간 수면은 나오지 않습니다.",
+      "잠을 피하라는 내용은 글과 반대입니다.",
+      "차의 역사는 나오지 않습니다."
+    ],
+    "trap": "'coffee'가 나온다고 ②를 고르지 마세요.",
+    "tip": "제목은 글의 핵심 주장(short naps)과 효과를 담으세요."
+  },
+  {
+    "id": "m3-11-25",
+    "level": "m3",
+    "set": "mock-11",
+    "no": 25,
+    "type": "chart",
+    "stem": "다음 도표의 내용과 일치하지 않는 것은?",
+    "chart": {
+      "title": "People Who Read Books at Least Once a Month by Age (%)",
+      "unit": "%",
+      "labels": [
+        "10s",
+        "20s",
+        "30s",
+        "40s",
+        "50s"
+      ],
+      "series": [
+        {
+          "name": "Percentage",
+          "values": [
+            70,
+            60,
+            55,
+            50,
+            45
+          ]
+        }
+      ]
+    },
+    "passage": "The graph shows the percentage of people who read books at least once a month by age group. ① The 10s had the highest percentage among all age groups. ② The percentage decreased as the age group became older. ③ The difference between the 10s and the 20s was ten percentage points. ④ The percentage of the 30s was higher than that of the 40s. ⑤ The percentage of the 50s was half of that of the 10s.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "그래프는 연령대별로 한 달에 한 번 이상 책을 읽는 사람의 비율을 보여 준다. ① 10대가 모든 연령대 중 가장 높은 비율을 보였다. ② 연령대가 높아질수록 비율이 낮아졌다. ③ 10대와 20대의 차이는 10퍼센트포인트였다. ④ 30대의 비율은 40대보다 높았다. ⑤ 50대의 비율은 10대의 절반이었다.",
+    "why": "50대는 45%, 10대는 70%이므로 절반(35%)이 아닙니다. ⑤는 일치하지 않습니다.",
+    "optionNotes": [
+      "10대가 70%로 가장 높습니다.",
+      "70, 60, 55, 50, 45%로 낮아집니다.",
+      "70%와 60%의 차이는 10퍼센트포인트입니다.",
+      "30대 55%는 40대 50%보다 높습니다.",
+      "정답(불일치). 50대 45%는 10대 70%의 절반(35%)이 아닙니다."
+    ],
+    "trap": "'half'라는 표현은 숫자를 직접 계산해 확인해야 합니다.",
+    "tip": "배수·절반을 말하는 보기는 두 값을 직접 계산하세요."
+  },
+  {
+    "id": "m3-11-26",
+    "level": "m3",
+    "set": "mock-11",
+    "no": 26,
+    "type": "match",
+    "stem": "Amara Diallo에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Amara Diallo is a water engineer from Senegal. As a child, she walked several kilometers every day to carry water for her family. She promised herself that she would solve this problem for her village. After studying engineering abroad, she returned home and designed a low-cost system that collects rainwater and stores it in underground tanks. Her system now provides clean water to more than twelve thousand villagers, and she trains local people to maintain it.",
+    "options": [
+      "어린 시절 외국에서 공부했다.",
+      "마을의 물 문제를 해결하기 위해 해외로 이주했다.",
+      "지하수를 끌어올리는 대형 펌프를 설계했다.",
+      "고향으로 돌아와 빗물을 모아 지하 탱크에 저장하는 저비용 시스템을 만들었고 지역 주민에게 유지 관리법을 가르친다.",
+      "시스템을 직접 운영하며 마을 사람들에게 물을 판매한다."
+    ],
+    "answer": 3,
+    "translation": "아마라 디알로는 세네갈 출신의 수자원 공학자이다. 어린 시절 그녀는 가족을 위한 물을 나르려고 매일 몇 킬로미터를 걸었다. 그녀는 마을을 위해 이 문제를 해결하겠다고 스스로 약속했다. 해외에서 공학을 공부한 뒤 그녀는 고향으로 돌아와 빗물을 모아 지하 탱크에 저장하는 저비용 시스템을 설계했다. 그녀의 시스템은 이제 만 이천 명이 넘는 마을 사람들에게 깨끗한 물을 제공하며 그녀는 지역 주민에게 유지 관리법을 가르친다.",
+    "why": "'returned home and designed a low-cost system'과 'trains local people to maintain it'과 일치합니다.",
+    "optionNotes": [
+      "어린 시절에는 물을 나르며 지냈습니다.",
+      "공부한 뒤 고향으로 돌아왔습니다.",
+      "대형 펌프가 아니라 빗물 시스템입니다.",
+      "정답. 빗물 저장 시스템을 만들고 유지 관리법을 가르칩니다.",
+      "물을 판매한다는 내용은 없습니다."
+    ],
+    "trap": "'abroad'와 'returned home'의 순서를 놓치면 ②를 고르기 쉽습니다.",
+    "tip": "일치 문제는 시기별 사건(어린 시절, 유학, 귀국, 현재)을 대조하세요."
+  },
+  {
+    "id": "m3-11-27",
+    "level": "m3",
+    "set": "mock-11",
+    "no": 27,
+    "type": "notice",
+    "stem": "Community Garden Workshop에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Community Garden Workshop\nLearn to grow your own vegetables!\nDate: Saturday, April 12 and Sunday, April 13\nTime: 10:00 a.m. – 12:00 p.m.\nPlace: Greenfield Community Garden\nWho: Anyone aged 14 or older\nFee: $10 (seeds and tools included)\nRegistration: By April 8 at the community center\nNote: Participants will receive a small herb pot to take home.",
+    "options": [
+      "하루만 열린다.",
+      "14세 미만도 참가할 수 있다.",
+      "씨앗과 도구는 각자 가져와야 한다.",
+      "참가자는 작은 허브 화분을 집에 가져갈 수 있다.",
+      "접수는 행사 당일 아침에 현장 접수처에서 직접 한다."
+    ],
+    "answer": 3,
+    "translation": "공동체 텃밭 워크숍. 직접 채소 키우는 법을 배우세요! 날짜: 4월 12일 토요일과 13일 일요일. 시간: 오전 10시~낮 12시. 장소: 그린필드 공동체 텃밭. 대상: 14세 이상 누구나. 참가비: 10달러(씨앗과 도구 포함). 접수: 4월 8일까지 주민센터에서. 유의: 참가자는 집에 가져갈 작은 허브 화분을 받습니다.",
+    "why": "'Participants will receive a small herb pot to take home.'과 일치합니다.",
+    "optionNotes": [
+      "토요일과 일요일 이틀입니다.",
+      "14세 이상입니다.",
+      "씨앗과 도구는 참가비에 포함됩니다.",
+      "정답. 작은 허브 화분을 받습니다.",
+      "4월 8일까지 주민센터에서 접수합니다."
+    ],
+    "trap": "Fee 항목의 괄호 안(seeds and tools included)을 놓치기 쉽습니다.",
+    "tip": "안내문은 괄호 안의 정보와 Note를 함께 확인하세요."
+  },
+  {
+    "id": "m3-11-28",
+    "level": "m3",
+    "set": "mock-11",
+    "no": 28,
+    "type": "notice",
+    "stem": "Winter Coat Drive에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Winter Coat Drive\nHelp keep our neighbors warm!\nDate: December 2 – December 13\nCollection Points: School main hall and Hanbit Community Center\nWhat to bring: Clean coats in good condition (all sizes)\nNote: Torn or dirty items cannot be accepted. All coats will be given to local families in need on December 20.",
+    "options": [
+      "12월 20일까지 학교 중앙 홀과 주민센터에서 외투를 계속 수거한다.",
+      "찢어진 옷도 기부할 수 있다.",
+      "수거 장소는 학교 한 곳뿐이다.",
+      "크기별로 일부 사이즈만 받는다.",
+      "기부된 코트는 12월 20일 지역의 필요한 가정에 전달된다."
+    ],
+    "answer": 4,
+    "translation": "겨울 외투 모으기. 이웃이 따뜻하게 지내도록 도와주세요! 날짜: 12월 2일~12월 13일. 수거 장소: 학교 중앙 홀과 한빛 주민센터. 가져올 것: 상태가 좋은 깨끗한 외투(모든 사이즈). 유의: 찢어지거나 더러운 물품은 받을 수 없습니다. 모든 외투는 12월 20일 지역의 필요한 가정에 전달됩니다.",
+    "why": "'All coats will be given to local families in need on December 20.'과 일치합니다.",
+    "optionNotes": [
+      "12월 13일까지 수거합니다.",
+      "찢어진 것은 받을 수 없습니다.",
+      "두 곳에서 수거합니다.",
+      "모든 사이즈를 받습니다.",
+      "정답. 12월 20일 지역 가정에 전달됩니다."
+    ],
+    "trap": "수거 기간 마지막 날(13일)과 전달일(20일)을 혼동하기 쉽습니다.",
+    "tip": "날짜가 여러 개일 때는 항목별로 구분해 확인하세요."
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "id": "m3-11-41",
+    "level": "m3",
+    "set": "mock-11",
+    "no": 41,
+    "type": "long",
+    "group": "m3-11-g41",
+    "stem": "[41~42] 윗글의 제목으로 가장 적절한 것을 고르시오.",
+    "passage": "In many cities, the night sky is never truly dark. Artificial lights {1|glow} all night, and they hide the stars that people used to see. Light pollution also {2|helps} wildlife: migrating birds lose their way, and baby sea turtles crawl toward bright streets instead of the sea. Some towns have therefore created \"dark sky\" zones where outdoor lights must be {3|shielded} and turned off late at night. Residents report that they sleep better and {4|enjoy} watching the stars again. Astronomers add that this approach is cheap to {5|adopt}.",
+    "options": [
+      "How Astronomers Build Large Telescopes",
+      "Preserving the Night: The Fight Against Light Pollution",
+      "Why Sea Turtles Travel to the Beach",
+      "The Easy Way to Sleep Better at Night and Wake Up Full of Energy",
+      "Tips for Taking Photos of the Stars"
+    ],
+    "answer": 1,
+    "translation": "많은 도시에서 밤하늘은 결코 진짜로 어둡지 않다. 인공 조명은 밤새 빛나 사람들이 예전에 보던 별을 가린다. 빛 공해는 또한 야생 동물에게 해롭다. 철새는 길을 잃고 새끼 바다거북은 바다 대신 밝은 거리로 기어간다. 그래서 일부 마을은 야외 조명을 가리고 밤늦게 꺼야 하는 '어두운 하늘' 구역을 만들었다. 주민들은 잠을 더 잘 자고 다시 별을 보는 것을 즐긴다고 말한다. 천문학자들은 이 접근법을 도입하는 비용이 적다고 덧붙인다.",
+    "why": "빛 공해의 문제와 이를 줄이려는 마을의 노력을 소개하므로 ②가 제목입니다.",
+    "optionNotes": [
+      "망원경 제작은 나오지 않습니다.",
+      "정답. 밤을 지키려는 빛 공해와의 싸움입니다.",
+      "바다거북은 일부 사례일 뿐입니다.",
+      "수면은 결과의 일부일 뿐입니다.",
+      "별 사진 촬영은 나오지 않습니다."
+    ],
+    "trap": "④는 지문의 'sleep better'만 가져온 보기입니다.",
+    "tip": "제목은 글의 중심(light pollution)과 대응(fight)을 담으세요."
+  },
+  {
+    "id": "m3-11-42",
+    "level": "m3",
+    "set": "mock-11",
+    "no": 42,
+    "type": "long",
+    "group": "m3-11-g41",
+    "stem": "[41~42] 밑줄 친 ①~⑤ 중에서 문맥상 낱말의 쓰임이 적절하지 않은 것을 고르시오.",
+    "passage": "In many cities, the night sky is never truly dark. Artificial lights {1|glow} all night, and they hide the stars that people used to see. Light pollution also {2|helps} wildlife: migrating birds lose their way, and baby sea turtles crawl toward bright streets instead of the sea. Some towns have therefore created \"dark sky\" zones where outdoor lights must be {3|shielded} and turned off late at night. Residents report that they sleep better and {4|enjoy} watching the stars again. Astronomers add that this approach is cheap to {5|adopt}.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "(41번 지문과 같은 글입니다.)",
+    "why": "철새가 길을 잃고 새끼 바다거북이 거리로 기어간다고 했으므로 빛 공해는 야생 동물을 '돕는(helps)' 것이 아니라 '해치는(harms)' 것입니다.",
+    "optionNotes": [
+      "빛난다는 의미로 glow가 알맞습니다.",
+      "정답(부적절). 길을 잃는다고 했으므로 harms여야 합니다.",
+      "가려진다는 의미로 shielded가 알맞습니다.",
+      "즐긴다는 의미로 enjoy가 알맞습니다.",
+      "도입한다는 의미로 adopt가 알맞습니다."
+    ],
+    "trap": "'also helps'는 문법적으로 자연스럽지만 뒤의 예(길을 잃음)와 모순됩니다.",
+    "tip": "콜론(:) 뒤의 예가 앞 문장의 서술과 일치하는지 확인하세요."
+  },
+  {
+    "id": "m3-11-43",
+    "level": "m3",
+    "set": "mock-11",
+    "no": 43,
+    "type": "long",
+    "group": "m3-11-g43",
+    "stem": "[43~45] 주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것을 고르시오.",
+    "passage": "(A) Haeun was asked to design the poster for the school science fair, but after three attempts she was unhappy with every version. {1|She} crumpled the paper and sighed.\n(B) On the day of the fair, the poster hung on the front door. {2|She} stood nearby and watched visitors stop to read it with a smile.\n(C) At that moment, her art teacher, Ms. Yoon, walked by and picked up one of the crumpled pages. {3|She} unfolded it and said, \"This has a bold idea. Don't throw it away.\"\n(D) That night, Haeun looked at the page again. {4|She} kept the main idea but changed the colors, and {5|she} added a small drawing of a telescope.",
+    "options": [
+      "(B)-(D)-(C)",
+      "(C)-(B)-(D)",
+      "(C)-(D)-(B)",
+      "(D)-(B)-(C)",
+      "(D)-(C)-(B)"
+    ],
+    "answer": 2,
+    "translation": "(A) 하은은 학교 과학 박람회 포스터를 디자인해 달라는 요청을 받았지만 세 번 시도한 뒤에도 모든 시안이 마음에 들지 않았다. 그녀는 종이를 구기고 한숨을 쉬었다. (C) 그때 미술 선생님인 윤 선생님이 지나가다가 구겨진 종이 한 장을 집어 들었다. 그녀는 그것을 펴서 말했다. \"대담한 아이디어가 있구나. 버리지 마.\" (D) 그날 밤 하은은 그 종이를 다시 보았다. 그녀는 중심 아이디어는 그대로 두고 색을 바꾸었으며 작은 망원경 그림을 더했다. (B) 박람회 날 포스터는 정문에 걸렸다. 그녀는 근처에 서서 방문객들이 멈춰 서서 미소를 지으며 읽는 모습을 지켜보았다.",
+    "why": "(A) 시안이 마음에 들지 않음 → (C) 선생님이 종이를 집어 듦 → (D) 그날 밤 수정 → (B) 박람회 날 순서입니다.",
+    "optionNotes": [
+      "(B)의 박람회 날이 처음에 올 수 없습니다.",
+      "(B)가 (D)보다 앞서면 수정하기 전에 포스터가 걸립니다.",
+      "정답. 선생님의 말 → 수정 → 박람회 날.",
+      "(D)의 'That night'가 (C)의 'At that moment'보다 앞설 수 없습니다.",
+      "(D)가 (C)보다 앞서면 선생님의 조언 없이 수정하게 됩니다."
+    ],
+    "trap": "(C)의 'At that moment'는 (A)의 한숨 바로 뒤의 장면입니다.",
+    "tip": "At that moment → That night → On the day of the fair의 시간 흐름을 따라가세요."
+  },
+  {
+    "id": "m3-11-44",
+    "level": "m3",
+    "set": "mock-11",
+    "no": 44,
+    "type": "long",
+    "group": "m3-11-g43",
+    "stem": "[43~45] 밑줄 친 ①~⑤ 중에서 가리키는 대상이 나머지 넷과 다른 것을 고르시오.",
+    "passage": "(A) Haeun was asked to design the poster for the school science fair, but after three attempts she was unhappy with every version. {1|She} crumpled the paper and sighed.\n(B) On the day of the fair, the poster hung on the front door. {2|She} stood nearby and watched visitors stop to read it with a smile.\n(C) At that moment, her art teacher, Ms. Yoon, walked by and picked up one of the crumpled pages. {3|She} unfolded it and said, \"This has a bold idea. Don't throw it away.\"\n(D) That night, Haeun looked at the page again. {4|She} kept the main idea but changed the colors, and {5|she} added a small drawing of a telescope.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "③의 She는 구겨진 종이를 펴서 \"대담한 아이디어가 있구나.\"라고 말한 윤 선생님이고, 나머지 ①②④⑤는 모두 하은을 가리킵니다.",
+    "optionNotes": [
+      "She는 종이를 구기고 한숨을 쉰 하은입니다.",
+      "She는 근처에 서서 지켜본 하은입니다.",
+      "정답. She는 종이를 펴서 말한 윤 선생님입니다.",
+      "She는 색을 바꾼 하은입니다.",
+      "she는 망원경 그림을 더한 하은입니다."
+    ],
+    "trap": "직전 문장의 주어가 Ms. Yoon이므로 She도 선생님입니다. 하은으로 착각하지 마세요.",
+    "tip": "같은 성별의 두 인물이 나오면 직전 문장의 주어를 확인하세요."
+  },
+  {
+    "id": "m3-11-45",
+    "level": "m3",
+    "set": "mock-11",
+    "no": 45,
+    "type": "long",
+    "group": "m3-11-g43",
+    "stem": "[43~45] 윗글에 관한 내용으로 적절하지 않은 것을 고르시오.",
+    "passage": "(A) Haeun was asked to design the poster for the school science fair, but after three attempts she was unhappy with every version. {1|She} crumpled the paper and sighed.\n(B) On the day of the fair, the poster hung on the front door. {2|She} stood nearby and watched visitors stop to read it with a smile.\n(C) At that moment, her art teacher, Ms. Yoon, walked by and picked up one of the crumpled pages. {3|She} unfolded it and said, \"This has a bold idea. Don't throw it away.\"\n(D) That night, Haeun looked at the page again. {4|She} kept the main idea but changed the colors, and {5|she} added a small drawing of a telescope.",
+    "options": [
+      "하은은 첫 번째 시안이 마음에 들어 바로 포스터를 완성했다.",
+      "윤 선생님은 구겨진 종이를 펴서 대담한 아이디어가 있다고 말했다.",
+      "하은은 밤에 중심 아이디어는 그대로 두고 색을 바꾸고 망원경 그림을 더했다.",
+      "박람회 날 포스터는 정문에 걸렸고 하은은 근처에서 방문객들을 지켜보았다.",
+      "방문객들은 포스터를 읽으려고 멈춰 서서 미소를 지었다."
+    ],
+    "answer": 0,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "하은은 세 번 시도한 뒤에도 모든 시안이 마음에 들지 않았으므로 ①은 일치하지 않습니다.",
+    "optionNotes": [
+      "정답(불일치). 하은은 모든 시안이 마음에 들지 않았습니다.",
+      "unfolded it and said, 'This has a bold idea.'와 일치합니다.",
+      "kept the main idea but changed the colors와 일치합니다.",
+      "the poster hung on the front door와 일치합니다.",
+      "stop to read it with a smile과 일치합니다."
+    ],
+    "trap": "'after three attempts'를 놓치면 첫 시안에 만족했다는 보기를 고르지 못합니다.",
+    "tip": "불일치 문제는 인물의 감정(unhappy)을 반대로 바꾼 보기를 찾으세요."
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m3-11-29",
+    "level": "m3",
+    "set": "mock-11",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Climate change {1|affects} many parts of the world. For example, sea levels {2|rising} each year, and island nations {3|are losing} land. Governments {4|are discussing} ways to reduce pollution. However, individuals {5|can} also help by saving energy and using public transportation.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "기후 변화는 세계 여러 지역에 영향을 미친다. 예를 들어 해수면은 해마다 상승하고 섬나라들은 땅을 잃고 있다. 정부들은 오염을 줄이는 방법을 논의하고 있다. 그러나 개인도 에너지를 절약하고 대중교통을 이용함으로써 도울 수 있다.",
+    "why": "'sea levels'가 주어이고 동사가 필요하므로 'rising'이 아니라 'are rising'(또는 rise)이어야 합니다.",
+    "optionNotes": [
+      "단수 주어 Climate change에 맞는 affects입니다.",
+      "정답(틀림). 주어 뒤에 정동사가 필요합니다.",
+      "복수 주어 island nations에 맞는 현재진행형입니다.",
+      "복수 주어 Governments에 맞는 현재진행형입니다.",
+      "조동사 can 뒤의 동사원형 help입니다."
+    ],
+    "trap": "-ing 형태만 있으면 진행형처럼 보이지만 be동사가 빠졌습니다.",
+    "tip": "문장마다 주어에 대응하는 정동사가 있는지 확인하세요."
+  },
+  {
+    "id": "m3-11-30",
+    "level": "m3",
+    "set": "mock-11",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Many companies now {1|allow} employees to work from home. Remote work {2|reduces} commuting time and gives people more flexibility. However, workers who rarely meet their colleagues may feel {3|connected}, which can weaken teamwork. To solve this problem, some companies {4|organize} regular online meetings and occasional gatherings so that employees can {5|build} stronger relationships.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "많은 회사가 이제 직원이 집에서 일하도록 허용한다. 재택근무는 통근 시간을 줄이고 사람들에게 더 많은 유연성을 준다. 그러나 동료를 거의 만나지 못하는 직원은 고립감을 느낄 수 있고 이는 협업을 약화시킬 수 있다. 이 문제를 해결하려고 일부 회사는 정기적인 온라인 회의와 가끔의 모임을 열어 직원들이 더 강한 관계를 쌓도록 한다.",
+    "why": "동료를 거의 만나지 못하면 '연결된(connected)' 느낌이 아니라 '고립된(isolated)' 느낌이어야 합니다.",
+    "optionNotes": [
+      "허용한다는 의미로 allow가 알맞습니다.",
+      "줄인다는 의미로 reduces가 알맞습니다.",
+      "정답(부적절). 협업이 약해진다고 했으므로 isolated여야 합니다.",
+      "조직한다는 의미로 organize가 알맞습니다.",
+      "쌓는다는 의미로 build가 알맞습니다."
+    ],
+    "trap": "'However' 뒤에는 부정적인 내용이 와야 하는데 connected는 긍정적입니다.",
+    "tip": "However 뒤의 감정 낱말이 'weaken teamwork'과 논리적으로 맞는지 확인하세요."
+  },
+  {
+    "id": "m3-11-31",
+    "level": "m3",
+    "set": "mock-11",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "The invention of the printing press changed the way knowledge spreads. Before it, books were copied by hand, so they were rare and expensive. Only a few wealthy people and religious leaders could own them. After printing became common, books became much cheaper, and ordinary people began to learn how to read. Libraries and schools began to appear in many towns. As more people read, new ideas spread quickly across countries. In this way, the printing press helped ordinary people __________.",
+    "options": [
+      "forget old traditions",
+      "avoid learning new things",
+      "gain access to knowledge",
+      "pay higher prices for books",
+      "stop traveling abroad"
+    ],
+    "answer": 2,
+    "translation": "인쇄기의 발명은 지식이 퍼지는 방식을 바꾸었다. 그 전에는 책을 손으로 베꼈기 때문에 드물고 비쌌다. 소수의 부유한 사람과 종교 지도자만 가질 수 있었다. 인쇄가 흔해지자 책은 훨씬 저렴해졌고 평범한 사람들이 읽는 법을 배우기 시작했다. 많은 마을에 도서관과 학교가 생기기 시작했다. 더 많은 사람이 읽으면서 새로운 생각이 나라들 사이에 빠르게 퍼졌다. 이렇게 인쇄기는 평범한 사람들이 지식에 접근하도록 도왔다.",
+    "why": "책이 싸져 평범한 사람들이 읽을 수 있게 되었으므로 지식에 접근하게 되었다는 말이 알맞습니다.",
+    "optionNotes": [
+      "전통을 잊게 한다는 내용은 없습니다.",
+      "배우기를 피한다는 내용은 글과 반대입니다.",
+      "정답. 평범한 사람들이 지식에 접근하게 되었습니다.",
+      "책값이 싸졌다고 했으므로 글과 반대입니다.",
+      "여행 이야기는 나오지 않습니다."
+    ],
+    "trap": "'prices'가 나온다고 ④를 고르지 마세요. 글은 값이 싸졌다고 합니다.",
+    "tip": "Before와 After를 비교하면 결과가 빈칸에 들어갑니다."
+  },
+  {
+    "id": "m3-11-32",
+    "level": "m3",
+    "set": "mock-11",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Researchers have found that people remember unfinished tasks better than finished ones. This tendency is known as the Zeigarnik effect. When a task is left incomplete, the brain keeps it active in memory until it is completed. That is why a task that you leave half-finished keeps coming back to your mind during the day. Television writers use this effect well. Many dramas end each episode at a __________ moment so that viewers keep thinking about what will happen next.",
+    "options": [
+      "boring",
+      "peaceful",
+      "predictable",
+      "cheerful",
+      "suspenseful"
+    ],
+    "answer": 4,
+    "translation": "연구자들은 사람들이 끝낸 일보다 끝내지 못한 일을 더 잘 기억한다는 것을 발견했다. 이 경향은 자이가르닉 효과로 알려져 있다. 일이 미완성인 채로 남으면 뇌는 그것이 끝날 때까지 기억 속에서 활성화해 둔다. 그래서 반쯤 해 두고 놓아둔 일은 낮 동안 계속 마음속에 떠오른다. 텔레비전 작가들은 이 효과를 잘 이용한다. 많은 드라마는 시청자가 다음에 무슨 일이 일어날지 계속 생각하도록 각 회를 긴장감 넘치는 순간에 끝낸다.",
+    "why": "미완성의 일을 계속 기억한다는 효과이므로 시청자가 다음을 궁금해할 긴장감 있는 순간이 알맞습니다.",
+    "optionNotes": [
+      "지루한 순간은 궁금함을 유발하지 못합니다.",
+      "평화로운 순간은 궁금함을 유발하지 못합니다.",
+      "예측 가능하면 궁금하지 않습니다.",
+      "즐거운 순간은 미완성의 긴장과 맞지 않습니다.",
+      "정답. 다음이 궁금해지는 긴장감 있는 순간입니다."
+    ],
+    "trap": "'moment'만 보고 평화로운 순간을 고르기 쉽습니다. 'what will happen next'가 단서입니다.",
+    "tip": "앞의 효과(미완성 → 계속 기억)가 빈칸 낱말의 방향을 정합니다."
+  },
+  {
+    "id": "m3-11-33",
+    "level": "m3",
+    "set": "mock-11",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many people believe that being confident means never feeling doubt. However, psychologists describe confidence in a different way. Even the most successful performers admit that they feel nervous before they go on stage. Athletes, actors, and speakers often say that their hearts race before they begin. Many of them even say that the fear never disappears completely. What distinguishes them is not the absence of fear but how they respond to it. In this sense, confidence is __________.",
+    "options": [
+      "the lack of any feeling of fear or doubt",
+      "the habit of avoiding all difficult tasks",
+      "the talent that people are born with",
+      "the ability to act despite feeling uncertain and afraid of making mistakes",
+      "the skill of hiding one's feelings from others"
+    ],
+    "answer": 3,
+    "translation": "많은 사람들은 자신감이 있다는 것은 의심을 전혀 느끼지 않는 것이라고 믿는다. 그러나 심리학자들은 자신감을 다르게 설명한다. 가장 성공한 공연자들도 무대에 서기 전에 긴장한다고 인정한다. 운동선수, 배우, 연설가들은 시작하기 전에 심장이 빨리 뛴다고 자주 말한다. 그들 중 많은 사람은 두려움이 완전히 사라지지 않는다고 말하기도 한다. 그들을 구분하는 것은 두려움이 없다는 것이 아니라 그것에 어떻게 대응하느냐이다. 이런 의미에서 자신감은 불확실하고 실수가 두려워도 행동할 수 있는 능력이다.",
+    "why": "두려움이 없는 것이 아니라 두려움에 어떻게 대응하느냐가 중요하다고 했으므로 두렵고 불확실해도 행동하는 능력이 알맞습니다.",
+    "optionNotes": [
+      "두려움이 없는 것이라는 내용은 글과 반대입니다.",
+      "어려운 일을 피한다는 내용은 없습니다.",
+      "타고난 재능이라는 내용은 없습니다.",
+      "정답. 불확실하고 두려워도 행동하는 능력입니다.",
+      "감정을 숨기는 기술이라는 내용은 없습니다."
+    ],
+    "trap": "①은 첫 문장의 통념을 그대로 옮긴 보기입니다.",
+    "tip": "'not A but B'에서 B(how they respond)가 빈칸의 내용입니다."
+  },
+  {
+    "id": "m3-11-34",
+    "level": "m3",
+    "set": "mock-11",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many cities suffer from flooding because most of their ground is covered with concrete. Rainwater cannot soak in and flows quickly into drains, which often overflow. To solve this problem, some cities are creating sponge parks, areas of soil, plants, and shallow ponds. In Copenhagen, a former parking lot was turned into a park that can hold millions of liters of rainwater during storms. The idea is not to push the water away as fast as possible but to __________.",
+    "options": [
+      "send it to rivers faster",
+      "build higher walls along the streets",
+      "collect it in tanks only",
+      "pump it out of the city at night",
+      "let the ground absorb it"
+    ],
+    "answer": 4,
+    "translation": "많은 도시는 지면 대부분이 콘크리트로 덮여 있어 홍수를 겪는다. 빗물이 스며들지 못하고 배수구로 빠르게 흘러 배수구가 넘치는 경우가 많다. 이 문제를 해결하려고 일부 도시는 흙, 식물, 얕은 연못으로 이루어진 스펀지 공원을 만들고 있다. 코펜하겐에서는 예전 주차장이 폭풍우 때 수백만 리터의 빗물을 담을 수 있는 공원으로 바뀌었다. 그 생각은 물을 가능한 한 빨리 밀어내는 것이 아니라 땅이 그것을 흡수하게 하는 것이다.",
+    "why": "'not A but B'에서 A(물을 빨리 밀어냄)와 반대인 땅이 물을 흡수하게 한다는 말이 알맞습니다.",
+    "optionNotes": [
+      "빨리 보낸다는 것은 A와 같은 방향입니다.",
+      "벽 이야기는 나오지 않습니다.",
+      "탱크 이야기는 나오지 않습니다.",
+      "밖으로 퍼낸다는 것은 A와 같은 방향입니다.",
+      "정답. 땅이 물을 흡수하게 합니다."
+    ],
+    "trap": "①④는 모두 '밀어낸다'는 A의 방향입니다.",
+    "tip": "'not A but B'에서 A와 반대 방향을 고르세요."
+  },
+  {
+    "id": "m3-11-35",
+    "level": "m3",
+    "set": "mock-11",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Learning a musical instrument benefits the brain in many ways. ① It strengthens memory because players have to remember notes and rhythms. ② Many concert halls are located in the center of large cities. ③ It improves coordination between the hands and the eyes. ④ Regular practice also teaches patience and discipline. ⑤ For these reasons, many educators recommend music lessons for children.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "악기를 배우는 것은 여러 면에서 뇌에 이롭다. ① 연주자는 음과 리듬을 기억해야 하므로 기억력을 강화한다. ② 많은 콘서트홀은 대도시의 중심부에 위치해 있다. ③ 손과 눈의 협응력을 향상시킨다. ④ 규칙적인 연습은 인내와 자제력도 가르친다. ⑤ 이런 이유로 많은 교육자가 어린이에게 음악 수업을 권한다.",
+    "why": "글은 악기 학습이 뇌에 주는 이점을 말하는데 ②는 콘서트홀의 위치 이야기라 관계가 없습니다.",
+    "optionNotes": [
+      "악기 학습의 이점입니다.",
+      "정답(무관). 콘서트홀의 위치 이야기입니다.",
+      "악기 학습의 이점입니다.",
+      "악기 학습의 이점입니다.",
+      "결론입니다."
+    ],
+    "trap": "'music'이 이어져 자연스러워 보이지만 이점과 무관합니다.",
+    "tip": "주제(악기 학습의 이점)와 이어지지 않는 문장을 고르세요."
+  },
+  {
+    "id": "m3-11-36",
+    "level": "m3",
+    "set": "mock-11",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Many people believe that the more tasks they handle at the same time, the more they can get done.\n(A) In fact, studies show that switching between tasks can reduce productivity by as much as forty percent.\n(B) Therefore, experts recommend completing one task before starting another. They also advise turning off notifications while working.\n(C) This happens because the brain needs time to refocus each time the task changes, and the lost time adds up. As a result, a day full of switching feels busy but produces little.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "많은 사람들은 동시에 다루는 일이 많을수록 더 많이 해낼 수 있다고 믿는다. (A) 사실 연구에 따르면 과제 사이를 전환하면 생산성이 최대 40퍼센트까지 떨어질 수 있다. (C) 이는 과제가 바뀔 때마다 뇌가 다시 집중할 시간이 필요하고 잃어버린 시간이 쌓이기 때문이다. 그 결과 전환이 가득한 하루는 바쁘게 느껴지지만 얻는 것은 적다. (B) 그러므로 전문가들은 한 가지 일을 끝낸 뒤 다른 일을 시작하라고 권한다. 그들은 또 일하는 동안 알림을 꺼 두라고 조언한다.",
+    "why": "(A) 'In fact'로 반박 → (C) 'This happens because'로 이유 → (B) 'Therefore'로 권고 순서입니다.",
+    "optionNotes": [
+      "정답. 반박 → 이유 → 권고.",
+      "(B)의 'Therefore'가 근거 없이 처음에 올 수 없습니다.",
+      "(B)의 'Therefore'가 근거 없이 처음에 올 수 없습니다.",
+      "(C)의 'This'가 가리킬 현상이 앞에 없습니다.",
+      "(C)의 'This'가 가리킬 현상이 앞에 없습니다."
+    ],
+    "trap": "(C)의 'This happens because'는 (A)의 현상(생산성 하락)을 가리킵니다.",
+    "tip": "In fact(반박) → This happens because(이유) → Therefore(권고)의 순서를 확인하세요."
+  },
+  {
+    "id": "m3-11-37",
+    "level": "m3",
+    "set": "mock-11",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Some cities are finding new ways to use their old buildings instead of tearing them down to build new ones.\n(A) These projects show that old structures can gain a second life instead of being torn down.\n(B) In Seoul, an abandoned factory was turned into a cultural center with galleries and cafés. It had stood silent for more than twenty years.\n(C) Residents who once avoided the area now visit it for exhibitions and concerts. Many of them bring their families.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 2,
+    "translation": "일부 도시는 낡은 건물을 활용하는 새로운 방법을 찾고 있다. (B) 서울에서는 버려진 공장이 미술관과 카페가 있는 문화 센터로 바뀌었다. 그 공장은 20년 넘게 조용히 서 있었다. (C) 한때 그 지역을 피했던 주민들이 이제 전시와 공연을 보러 그곳을 찾는다. 그들 중 다수는 가족과 함께 온다. (A) 이런 프로젝트는 낡은 구조물이 철거되는 대신 두 번째 삶을 얻을 수 있음을 보여 준다.",
+    "why": "(B) 구체적 사례 → (C) 변화 → (A) 'These projects'로 결론 순서입니다.",
+    "optionNotes": [
+      "(A)의 'These projects'가 가리킬 사례가 앞에 없습니다.",
+      "(A)의 'These projects'는 사례(C) 뒤에 와야 합니다.",
+      "정답. 사례 → 변화 → 결론.",
+      "(C)의 'the area'가 가리킬 장소가 앞에 없습니다.",
+      "(C)의 'the area'가 가리킬 장소가 앞에 없습니다."
+    ],
+    "trap": "(C)의 'the area'는 (B)에서 소개된 문화 센터 지역을 가리킵니다.",
+    "tip": "정관사(the)와 지시어(These projects)가 가리키는 앞 문장을 확인하세요."
+  },
+  {
+    "id": "m3-11-38",
+    "level": "m3",
+    "set": "mock-11",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nHave you ever wondered why we feel nervous before an important event?\n\n[글]\n( ① ) The answer lies in a part of the brain called the amygdala, which detects possible danger. ( ② ) When it senses a threat, it sends a signal that makes the heart beat faster. ( ③ ) This reaction prepared our ancestors to run away from predators. ( ④ ) Today, the same reaction occurs before an exam or a speech, even though there is no real danger. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "[주어진 문장] 중요한 행사 전에 우리가 왜 긴장하는지 궁금했던 적이 있는가? [글] 중요한 행사 전에 우리가 왜 긴장하는지 궁금했던 적이 있는가? 그 답은 위험 가능성을 감지하는 편도체라는 뇌의 한 부분에 있다. 편도체가 위협을 감지하면 심장을 더 빨리 뛰게 하는 신호를 보낸다. 이 반응은 우리 조상이 포식자에게서 도망치도록 준비시켰다. 오늘날에는 실제 위험이 없어도 시험이나 연설 전에 같은 반응이 일어난다.",
+    "why": "질문 문장이고 뒤의 'The answer'가 그 질문에 대한 답이므로 ①에 들어갑니다.",
+    "optionNotes": [
+      "정답. 질문 뒤에 'The answer'가 이어집니다.",
+      "'The answer' 문장 뒤에 오면 답이 질문보다 먼저 나옵니다.",
+      "편도체의 작동을 설명한 뒤라 질문이 어색합니다.",
+      "조상의 이야기 뒤라 질문이 어색합니다.",
+      "결론 뒤라 질문이 어색합니다."
+    ],
+    "trap": "'wondered why'를 보고 글 중간에 놓고 싶어지지만 'The answer'는 질문 바로 뒤입니다.",
+    "tip": "질문 문장은 그 답을 말하는 'The answer ~' 문장 바로 앞에 놓입니다."
+  },
+  {
+    "id": "m3-11-39",
+    "level": "m3",
+    "set": "mock-11",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nIn contrast, the bean plants that heard no music grew at a normal speed.\n\n[글]\n( ① ) A group of students played classical music to bean plants for a month. ( ② ) At the end of the month, these plants had grown nearly thirty percent taller. ( ③ ) Therefore, the students concluded that sound vibrations might affect plant growth. ( ④ ) However, they admitted that further research is needed to confirm this. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 반면 음악을 듣지 못한 콩 식물은 정상 속도로 자랐다. [글] 한 학생 집단이 한 달 동안 콩 식물에게 클래식 음악을 들려주었다. 한 달이 끝났을 때 이 식물들은 거의 30퍼센트 더 크게 자랐다. 반면 음악을 듣지 못한 콩 식물은 정상 속도로 자랐다. 그러므로 학생들은 소리의 진동이 식물의 성장에 영향을 줄 수 있다고 결론지었다. 하지만 이를 확인하려면 추가 연구가 필요하다고 인정했다.",
+    "why": "'In contrast'는 음악을 들은 식물의 결과와 대비되고, 뒤의 'Therefore' 결론에 두 결과가 모두 필요하므로 ③에 들어갑니다.",
+    "optionNotes": [
+      "음악을 들려준 실험이 소개되기 전이라 대비가 어색합니다.",
+      "음악을 들은 식물의 결과가 나오기 전이라 대비가 어색합니다.",
+      "정답. 음악을 들은 식물의 결과와 대비되고 결론으로 이어집니다.",
+      "결론 뒤라 대조 결과가 어색합니다.",
+      "마지막 문장 뒤라 어색합니다."
+    ],
+    "trap": "'Therefore' 문장의 근거는 두 집단의 비교임을 놓치기 쉽습니다.",
+    "tip": "'In contrast'는 앞 문장의 결과와 대조되는 결과를 제시합니다."
+  },
+  {
+    "id": "m3-11-40",
+    "level": "m3",
+    "set": "mock-11",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Researchers asked two groups of students to take the same exam. One group took it in a classroom with loud construction noise outside, and the other group took it in a quiet room. Both groups had studied for the same amount of time, and the researchers also measured the students' heart rates. The students in the quiet room scored about fifteen percent higher. They also said that they could remember information more easily and felt less tired.\n\n▶ A (A) environment helps students (B) better during an exam.",
+    "options": [
+      "(A) quiet — (B) concentrate",
+      "(A) crowded — (B) sleep",
+      "(A) bright — (B) forget",
+      "(A) noisy — (B) remember",
+      "(A) hot — (B) cooperate"
+    ],
+    "answer": 0,
+    "translation": "연구자들은 두 집단의 학생에게 같은 시험을 보게 했다. 한 집단은 밖에서 시끄러운 공사 소음이 나는 교실에서 보았고 다른 집단은 조용한 방에서 보았다. 두 집단은 같은 시간 동안 공부했고 연구자들은 학생들의 심박수도 측정했다. 조용한 방의 학생들은 약 15퍼센트 더 높은 점수를 받았다. 그들은 또 정보를 더 쉽게 기억할 수 있고 덜 피곤했다고 말했다. ▶ 조용한 환경은 학생들이 시험 중에 더 잘 집중하도록 돕는다.",
+    "why": "조용한 방의 학생들이 더 높은 점수를 받았으므로 (A)는 quiet, (B)는 concentrate입니다.",
+    "optionNotes": [
+      "정답. 조용한 환경이 집중을 돕습니다.",
+      "crowded와 sleep은 글에 나오지 않습니다.",
+      "bright와 forget은 글에 나오지 않습니다.",
+      "noisy와 remember는 글과 반대입니다.",
+      "hot과 cooperate는 글에 나오지 않습니다."
+    ],
+    "trap": "④는 단어는 글에 나오지만 시끄러운 환경이 기억을 돕는다는 반대 내용입니다.",
+    "tip": "요약문은 환경(quiet)과 결과(concentrate)를 모두 글과 맞춰 보세요."
+  }
+]
