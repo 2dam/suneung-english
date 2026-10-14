@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m3-10-29",
+    "level": "m3",
+    "set": "mock-10",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "A new study suggests that people who {1|read} fiction regularly are better at understanding other people's feelings. When we read a story, we {2|imagining} ourselves in the characters' situations. This experience {3|helps} us practice empathy. Researchers asked volunteers {4|to read} either a novel or a news article, and those who read the novel {5|scored} higher on an empathy test.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "한 새로운 연구는 소설을 정기적으로 읽는 사람이 다른 사람의 감정을 더 잘 이해한다고 시사한다. 이야기를 읽을 때 우리는 등장인물의 처지에 자신을 놓고 상상한다. 이 경험은 우리가 공감을 연습하도록 돕는다. 연구자들은 자원자들에게 소설이나 뉴스 기사를 읽어 보라고 요청했고, 소설을 읽은 사람들이 공감 테스트에서 더 높은 점수를 받았다.",
+    "why": "'we'가 주어이고 동사가 필요하므로 'imagining'이 아니라 'imagine'이어야 합니다.",
+    "optionNotes": [
+      "관계절의 복수 동사 read가 맞습니다.",
+      "정답(틀림). 주어 we 뒤에는 정동사 imagine이 와야 합니다.",
+      "단수 주어 This experience에 맞는 helps입니다.",
+      "ask + 목적어 + to부정사 구문이 맞습니다.",
+      "과거 시제 scored가 맞습니다."
+    ],
+    "trap": "-ing 형태가 분사로 자연스러워 보이지만 문장에 정동사가 없어집니다.",
+    "tip": "문장마다 주어에 대응하는 정동사가 있는지 확인하세요."
+  },
+  {
+    "id": "m3-10-30",
+    "level": "m3",
+    "set": "mock-10",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Many cities are experiencing a {1|shortage} of affordable housing. As more people move to cities, prices {2|rise}. Young workers often have to spend most of their income on rent, which makes it {3|easy} for them to save money. Some governments therefore {4|provide} subsidies and build public apartments to {5|support} low-income residents.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "많은 도시가 적정 가격의 주택 부족을 겪고 있다. 더 많은 사람이 도시로 이사하면서 가격이 오른다. 젊은 근로자들은 소득의 대부분을 월세에 써야 하는 경우가 많아 저축하기가 어렵다. 그래서 일부 정부는 저소득층을 지원하려고 보조금을 제공하고 공공 아파트를 짓는다.",
+    "why": "소득 대부분을 월세에 쓰면 저축하기 '쉽다(easy)'가 아니라 '어렵다(difficult)'여야 합니다.",
+    "optionNotes": [
+      "부족이라는 의미로 shortage가 알맞습니다.",
+      "오른다는 의미로 rise가 알맞습니다.",
+      "정답(부적절). 저축하기 어렵다는 의미여야 합니다.",
+      "제공한다는 의미로 provide가 알맞습니다.",
+      "지원한다는 의미로 support가 알맞습니다."
+    ],
+    "trap": "'which makes it ~ for them to save money'에서 앞 내용과 모순됩니다.",
+    "tip": "'which' 앞 내용의 결과가 긍정인지 부정인지 확인하세요."
+  },
+  {
+    "id": "m3-10-31",
+    "level": "m3",
+    "set": "mock-10",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many people are afraid of making mistakes while speaking a foreign language, so they stay silent. However, language researchers say that mistakes are not obstacles but __________. Each error shows exactly what you still need to learn, and correcting it brings you one step closer to fluency. Making mistakes means that you are trying, and trying is what builds skill. Learners who speak often and accept their errors usually improve much faster than those who wait until they feel perfect.",
+    "options": [
+      "signs of laziness",
+      "proof of poor memory",
+      "steps toward improvement",
+      "reasons to avoid speaking",
+      "results of bad teaching"
+    ],
+    "answer": 2,
+    "translation": "많은 사람들은 외국어로 말할 때 실수할까 봐 두려워서 침묵한다. 그러나 언어 연구자들은 실수는 장애물이 아니라 향상으로 가는 단계라고 말한다. 각 오류는 아직 배워야 할 것이 무엇인지 정확히 보여 주고 이를 고치면 유창함에 한 걸음 더 가까워진다. 실수를 한다는 것은 시도하고 있다는 뜻이며 시도가 실력을 쌓는다. 자주 말하고 자신의 오류를 받아들이는 학습자는 완벽하다고 느낄 때까지 기다리는 학습자보다 보통 훨씬 빨리 향상된다.",
+    "why": "실수가 무엇을 배워야 하는지 보여 주고 유창함에 가까워지게 하므로 향상으로 가는 단계가 알맞습니다.",
+    "optionNotes": [
+      "게으름의 신호가 아닙니다.",
+      "기억력과는 관계가 없습니다.",
+      "정답. 향상으로 가는 단계입니다.",
+      "'not obstacles'와 반대입니다.",
+      "가르침의 결과가 아닙니다."
+    ],
+    "trap": "'reasons to avoid speaking'은 'obstacles'와 같은 부정적 의미라 'not A but B'의 A 쪽입니다.",
+    "tip": "'not A but B'에서 A와 반대되는 긍정적 의미가 B입니다."
+  },
+  {
+    "id": "m3-10-32",
+    "level": "m3",
+    "set": "mock-10",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A phone on your desk can reduce your concentration even if you never touch it. In one experiment, students whose phones were in another room scored higher on tests than students whose phones were on the desk. The students with the phones on their desks said that they were not distracted at all. However, their performance showed otherwise. Researchers believe that the brain keeps watching the phone even when we are not aware of it. The mere presence of a phone seems to __________ some of the brain's limited attention.",
+    "options": [
+      "take up",
+      "give out",
+      "put down",
+      "turn off",
+      "hand over"
+    ],
+    "answer": 0,
+    "translation": "책상 위의 휴대전화는 만지지 않아도 집중력을 떨어뜨릴 수 있다. 한 실험에서 휴대전화가 다른 방에 있던 학생들은 휴대전화가 책상 위에 있던 학생들보다 시험에서 더 높은 점수를 받았다. 책상 위에 휴대전화를 둔 학생들은 전혀 산만하지 않았다고 말했다. 그러나 그들의 성적은 다르게 보여 주었다. 연구자들은 우리가 알아채지 못할 때도 뇌가 휴대전화를 계속 살피고 있다고 믿는다. 휴대전화의 단순한 존재만으로도 뇌의 한정된 주의의 일부를 차지하는 듯하다.",
+    "why": "휴대전화가 있는 것만으로 점수가 낮았으므로 주의의 일부를 차지한다는 'take up'이 알맞습니다.",
+    "optionNotes": [
+      "정답. 주의의 일부를 차지합니다.",
+      "'give out'은 나누어 준다는 뜻이라 맞지 않습니다.",
+      "'put down'은 내려놓는다는 뜻이라 맞지 않습니다.",
+      "'turn off'는 끈다는 뜻이라 맞지 않습니다.",
+      "'hand over'는 넘겨준다는 뜻이라 맞지 않습니다."
+    ],
+    "trap": "'turn off'를 휴대전화와 연결해 고르기 쉽지만 문장의 주어는 휴대전화의 존재입니다.",
+    "tip": "구동사는 목적어(some of the brain's attention)와 의미가 맞는지 확인하세요."
+  },
+  {
+    "id": "m3-10-33",
+    "level": "m3",
+    "set": "mock-10",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many people believe that earning money is the only reason people work. However, studies suggest otherwise. In one survey, employees who felt that their work was useful to others reported higher satisfaction, even when their pay was lower than that of others. They also stayed in their jobs longer and worked harder. Managers can use this finding to design jobs that connect employees with the people they help. This suggests that people are motivated most strongly by __________.",
+    "options": [
+      "the length of the working hours",
+      "a sense that their work has real meaning and value to other people",
+      "the size of the office",
+      "the color of the uniform",
+      "the distance from home to the office"
+    ],
+    "answer": 1,
+    "translation": "많은 사람들은 돈을 버는 것이 사람들이 일하는 유일한 이유라고 믿는다. 그러나 연구는 그렇지 않음을 시사한다. 한 설문 조사에서 자신의 일이 다른 사람에게 유용하다고 느낀 직원들은 급여가 다른 사람들보다 낮아도 더 높은 만족도를 보고했다. 그들은 또 직장에 더 오래 머물렀고 더 열심히 일했다. 관리자들은 이 발견을 이용해 직원들을 자신이 돕는 사람들과 연결해 주는 업무를 설계할 수 있다. 이는 사람들이 자신의 일이 다른 사람들에게 실제 의미와 가치가 있다는 느낌에 의해 가장 강하게 동기를 얻음을 시사한다.",
+    "why": "일이 다른 사람에게 유용하다고 느낄 때 만족도가 높았으므로 일의 의미와 가치에 대한 느낌이 알맞습니다.",
+    "optionNotes": [
+      "근무 시간 이야기는 나오지 않습니다.",
+      "정답. 일이 다른 사람에게 의미와 가치가 있다는 느낌입니다.",
+      "사무실 크기는 나오지 않습니다.",
+      "유니폼 색은 나오지 않습니다.",
+      "거리 이야기는 나오지 않습니다."
+    ],
+    "trap": "'pay'에 이끌려 돈과 관련된 보기를 고르지 마세요. 글은 돈이 유일한 이유가 아니라고 말합니다.",
+    "tip": "However 뒤의 결과(useful to others → higher satisfaction)가 빈칸입니다."
+  },
+  {
+    "id": "m3-10-34",
+    "level": "m3",
+    "set": "mock-10",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Different cultures have different habits about personal space. In some countries, people stand very close when they talk, while in others they keep a wider distance. A person from a close-distance culture may seem friendly, and a person from a wide-distance culture may seem cold. For example, a person who steps back may only be trying to be polite. But these impressions come from learned habits, not from personality. Therefore, before judging someone's behavior, we should consider their __________.",
+    "options": [
+      "age",
+      "income",
+      "hobbies",
+      "cultural background",
+      "their personal appearance and manner of dressing"
+    ],
+    "answer": 3,
+    "translation": "문화마다 개인 공간에 대한 습관이 다르다. 어떤 나라에서는 사람들이 이야기할 때 매우 가까이 서고 다른 나라에서는 더 넓은 거리를 유지한다. 가까운 거리의 문화권 사람은 친근해 보이고 넓은 거리의 문화권 사람은 차가워 보일 수 있다. 예를 들어 뒤로 물러서는 사람은 단지 예의를 지키려는 것일 수 있다. 그러나 이런 인상은 성격이 아니라 학습된 습관에서 나온다. 그러므로 누군가의 행동을 판단하기 전에 그의 문화적 배경을 고려해야 한다.",
+    "why": "행동의 차이가 문화에서 학습된 습관이라고 했으므로 문화적 배경을 고려해야 합니다.",
+    "optionNotes": [
+      "나이 이야기는 나오지 않습니다.",
+      "수입 이야기는 나오지 않습니다.",
+      "취미 이야기는 나오지 않습니다.",
+      "정답. 문화적 배경입니다.",
+      "외모 이야기는 나오지 않습니다."
+    ],
+    "trap": "'personality'와 'learned habits'의 대조를 놓치지 마세요.",
+    "tip": "'Therefore' 앞의 근거가 빈칸의 단서입니다."
+  },
+  {
+    "id": "m3-10-35",
+    "level": "m3",
+    "set": "mock-10",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Public libraries offer far more than books. ① Many of them provide free internet access and computers for people who do not have them at home. ② They hold classes, such as language lessons and job training for adults. ③ Libraries also serve as safe places where students can study quietly after school. ④ In some towns, libraries even lend tools and musical instruments. ⑤ Electric cars are becoming more popular in many countries every year.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "공공 도서관은 책 이상을 제공한다. ① 많은 도서관은 집에 컴퓨터가 없는 사람들을 위해 무료 인터넷과 컴퓨터를 제공한다. ② 언어 수업이나 성인 직업 훈련 같은 강좌도 연다. ③ 도서관은 또 학생들이 방과 후 조용히 공부할 수 있는 안전한 장소가 된다. ④ 일부 마을에서는 도서관이 공구와 악기를 빌려주기도 한다. ⑤ 많은 나라에서 전기 자동차가 해마다 더 인기를 얻고 있다.",
+    "why": "글은 도서관이 제공하는 책 이외의 서비스를 설명하는데 ⑤는 전기 자동차 이야기라 관계가 없습니다.",
+    "optionNotes": [
+      "도서관의 서비스입니다.",
+      "도서관의 서비스입니다.",
+      "도서관의 서비스입니다.",
+      "도서관의 서비스입니다.",
+      "정답(무관). 전기 자동차 이야기입니다."
+    ],
+    "trap": "마지막 문장이라 결론으로 착각하기 쉽지만 주제와 무관합니다.",
+    "tip": "마지막 문장도 글의 주제(도서관의 서비스)와 이어지는지 확인하세요."
+  },
+  {
+    "id": "m3-10-36",
+    "level": "m3",
+    "set": "mock-10",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "The Great Barrier Reef, which lies off the coast of Australia, is the largest coral reef system in the world.\n(A) This process, called bleaching, weakens corals. It can eventually kill them if the heat continues for a long time.\n(B) However, rising ocean temperatures have caused large areas of it to lose their color and turn pale white.\n(C) Scientists are therefore testing methods to help corals survive in warmer water. One example is breeding heat-resistant species.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 1,
+    "translation": "오스트레일리아 해안에 있는 그레이트 배리어 리프는 세계에서 가장 큰 산호초 지대이다. (B) 그러나 바다 수온이 오르면서 그 넓은 지역이 색을 잃고 창백한 흰색으로 변했다. (A) 백화라고 불리는 이 과정은 산호를 약하게 하고 열이 오래 계속되면 결국 죽게 할 수 있다. (C) 그래서 과학자들은 산호가 더 따뜻한 물에서 살아남도록 돕는 방법을 시험하고 있다. 한 예는 열에 강한 종을 번식시키는 것이다.",
+    "why": "(B) 'However'로 문제 제시 → (A) 'This process'로 설명 → (C) 'therefore'로 대응 순서입니다.",
+    "optionNotes": [
+      "(A)의 'This process'가 가리킬 대상이 앞에 없습니다.",
+      "정답. 문제 제시 → 설명 → 대응.",
+      "(C)의 'therefore'가 (A)의 설명 앞에 올 수 없습니다.",
+      "(C)의 'therefore'가 근거 없이 처음에 올 수 없습니다.",
+      "(C)의 'therefore'가 근거 없이 처음에 올 수 없습니다."
+    ],
+    "trap": "(A)의 'This process'는 (B)에서 색을 잃는 현상을 가리킵니다.",
+    "tip": "However(문제 제시) → This process(설명) → therefore(대응)의 흐름을 확인하세요."
+  },
+  {
+    "id": "m3-10-37",
+    "level": "m3",
+    "set": "mock-10",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Experts warn that sitting for long hours every day harms our health in many ways. These include heart disease and back pain.\n(A) For this reason, it is recommended to stand up and move for a few minutes every hour.\n(B) Such a short break, for example a short walk or a few stretches, is enough to improve blood circulation.\n(C) Even people who exercise regularly are at risk if they sit for most of the day at a desk.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 3,
+    "translation": "전문가들은 매일 오래 앉아 있는 것이 심장병과 요통을 포함해 여러 면에서 건강에 해롭다고 경고한다. (C) 규칙적으로 운동하는 사람도 하루 대부분 책상에 앉아 있으면 위험하다. (A) 이런 이유로 매시간 몇 분씩 일어서서 움직이는 것이 권장된다. (B) 짧은 산책이나 몇 번의 스트레칭 같은 이런 짧은 휴식만으로도 혈액 순환을 개선하기에 충분하다.",
+    "why": "(C) 위험의 범위 → (A) 'For this reason'으로 권고 → (B) 'Such a short break'로 구체화 순서입니다.",
+    "optionNotes": [
+      "(A)의 'For this reason'이 가리킬 근거가 앞에 없습니다.",
+      "(B)의 'Such a short break'가 가리킬 대상이 앞에 없습니다.",
+      "(B)의 'Such a short break'가 가리킬 대상이 앞에 없습니다.",
+      "정답. 위험 → 권고 → 구체화.",
+      "(B)의 'Such a short break'가 (A)의 권고 앞에 올 수 없습니다."
+    ],
+    "trap": "(B)의 'Such a short break'는 (A)의 'a few minutes every hour'를 가리킵니다.",
+    "tip": "For this reason과 Such a ~ 같은 지시 표현이 가리키는 앞 문장을 확인하세요."
+  },
+  {
+    "id": "m3-10-38",
+    "level": "m3",
+    "set": "mock-10",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nIn short, the key is not how much we exercise, but how consistently we do it.\n\n[글]\n( ① ) Many people begin an exercise program with great enthusiasm. ( ② ) They work out for two hours a day during the first week. ( ③ ) However, most of them stop within a month because they feel exhausted. ( ④ ) On the other hand, those who start with only ten minutes a day are more likely to continue for a year. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "[주어진 문장] 요컨대 핵심은 운동을 얼마나 많이 하느냐가 아니라 얼마나 꾸준히 하느냐이다. [글] 많은 사람들은 큰 열정으로 운동 프로그램을 시작한다. 그들은 첫 주 동안 하루에 두 시간씩 운동한다. 그러나 대부분은 지쳐서 한 달 안에 그만둔다. 반면 하루에 10분만 시작한 사람들은 일 년 동안 계속할 가능성이 더 높다. 요컨대 핵심은 운동을 얼마나 많이 하느냐가 아니라 얼마나 꾸준히 하느냐이다.",
+    "why": "'In short'는 앞의 대조 사례를 정리하는 결론이므로 맨 끝인 ⑤에 들어갑니다.",
+    "optionNotes": [
+      "글의 첫머리라 결론이 어색합니다.",
+      "사례가 시작되기 전이라 결론이 어색합니다.",
+      "그만두는 사례만 나온 뒤라 결론이 어색합니다.",
+      "대조 사례의 마지막이 아직 나오지 않았습니다.",
+      "정답. 두 사례를 정리하는 결론입니다."
+    ],
+    "trap": "'On the other hand' 문장이 결론처럼 보이지만 실제 결론은 'In short' 문장입니다.",
+    "tip": "'In short'는 앞의 모든 내용을 요약하는 문장이므로 글의 끝에 놓입니다."
+  },
+  {
+    "id": "m3-10-39",
+    "level": "m3",
+    "set": "mock-10",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThis is why train companies treat even a short delay as a serious matter.\n\n[글]\n( ① ) In Japan, millions of people depend on trains every day. ( ② ) Because the schedule is so precise, many passengers plan their meetings by the minute. ( ③ ) They also arrange transfers with only a few minutes to spare. ( ④ ) As a result, a delay of just one minute can cause a chain of missed connections. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "[주어진 문장] 이런 이유로 철도 회사들은 짧은 지연도 심각한 문제로 다룬다. [글] 일본에서는 수백만 명이 매일 기차에 의존한다. 일정이 매우 정확하기 때문에 많은 승객이 분 단위로 회의를 계획한다. 그들은 또 몇 분의 여유만 두고 환승을 계획한다. 그 결과 단 1분의 지연이 연쇄적인 환승 실패를 일으킬 수 있다. 이런 이유로 철도 회사들은 짧은 지연도 심각한 문제로 다룬다.",
+    "why": "'This is why'는 앞의 모든 이유(정확한 일정, 짧은 환승 간격, 연쇄 환승 실패)에 대한 결론이므로 ⑤에 들어갑니다.",
+    "optionNotes": [
+      "이유가 나오기 전이라 'This is why'가 어색합니다.",
+      "첫 번째 이유만 나온 뒤라 결론이 이릅니다.",
+      "이유가 일부만 나왔습니다.",
+      "'As a result'로 이어지는 문장의 앞이라 결과와 맞지 않습니다.",
+      "정답. 모든 이유 뒤에 오는 결론입니다."
+    ],
+    "trap": "④ 앞에서도 가능해 보이지만 'As a result' 문장이 먼저 나와야 이유가 완성됩니다.",
+    "tip": "'This is why'는 앞에 이유가 완성된 뒤에 놓입니다."
+  },
+  {
+    "id": "m3-10-40",
+    "level": "m3",
+    "set": "mock-10",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Researchers asked two groups of volunteers to follow different plans for a week. One group was told to perform five small acts of kindness, such as helping a neighbor or thanking a coworker. The other group was told to continue their normal routine. At the end of the week, the first group reported being happier, and their sense of happiness stayed higher even a month later.\n\n▶ Performing small acts of (A) can (B) people's happiness for a long time.",
+    "options": [
+      "(A) anger — (B) lower",
+      "(A) silence — (B) hide",
+      "(A) travel — (B) delay",
+      "(A) kindness — (B) raise",
+      "(A) noise — (B) test"
+    ],
+    "answer": 3,
+    "translation": "연구자들은 두 집단의 자원자에게 일주일 동안 서로 다른 계획을 따르게 했다. 한 집단은 이웃을 돕거나 동료에게 감사하는 등 작은 친절 행동을 다섯 가지 하라는 말을 들었다. 다른 집단은 평소 생활을 이어 가라는 말을 들었다. 일주일 뒤 첫 번째 집단은 더 행복하다고 보고했고 행복감은 한 달 뒤에도 더 높게 유지되었다. ▶ 작은 친절을 베푸는 것은 사람들의 행복을 오래도록 높일 수 있다.",
+    "why": "작은 친절 행동을 한 집단이 더 행복했으므로 (A)는 kindness, (B)는 raise입니다.",
+    "optionNotes": [
+      "anger와 lower는 글과 반대입니다.",
+      "silence와 hide는 글에 나오지 않습니다.",
+      "travel과 delay는 글에 나오지 않습니다.",
+      "정답. 친절이 행복을 높입니다.",
+      "noise와 test는 글에 나오지 않습니다."
+    ],
+    "trap": "(A)와 (B)가 모두 글의 결과와 맞아야 합니다.",
+    "tip": "요약문은 원인(kindness)과 결과(raise happiness)를 글에서 찾으세요."
+  }
+]

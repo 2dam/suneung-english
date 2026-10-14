@@ -1,0 +1,340 @@
+[
+  {
+    "id": "m3-10-18",
+    "level": "m3",
+    "set": "mock-10",
+    "no": 18,
+    "type": "purpose",
+    "stem": "다음 글을 쓴 목적으로 가장 적절한 것은?",
+    "passage": "Dear Ms. Lee,\nMy name is Yerin Oh, and I am a ninth grader in Class 4. I would like to apply for the position of editor of the school newspaper. For two years, I have written articles for the newspaper, and I know how the whole process works. I also have many ideas for new sections, such as interviews with teachers and a student opinion page. I would be grateful for the chance to lead the team.\nSincerely,\nYerin Oh",
+    "options": [
+      "학교 신문 구독 방법을 문의하려고",
+      "학교 신문에 실을 기사를 제안하려고",
+      "새로운 교내 동아리의 설립을 요청하려고",
+      "학교 신문 편집장 자리에 지원하려고",
+      "학교 신문의 기사 내용을 정정해 달라고 요청하려고"
+    ],
+    "answer": 3,
+    "translation": "이 선생님께. 제 이름은 오예린이고 4반 3학년입니다. 저는 학교 신문의 편집장 자리에 지원하고 싶습니다. 2년 동안 저는 신문에 기사를 써 왔고 전체 과정이 어떻게 돌아가는지 알고 있습니다. 또 교사 인터뷰와 학생 의견 면 같은 새로운 코너에 대한 아이디어도 많습니다. 팀을 이끌 기회를 주신다면 감사하겠습니다. 오예린 드림.",
+    "why": "'I would like to apply for the position of editor of the school newspaper'에서 지원하는 글임을 알 수 있습니다.",
+    "optionNotes": [
+      "구독 방법 문의가 아닙니다.",
+      "기사 제안은 일부 아이디어일 뿐입니다.",
+      "동아리 설립 요청이 아닙니다.",
+      "정답. 편집장 자리에 지원합니다.",
+      "정정 요청이 아닙니다."
+    ],
+    "trap": "새 코너 아이디어를 보고 ②를 고르지 마세요. 아이디어는 지원의 이유입니다.",
+    "tip": "목적 문제는 'I would like to apply for ~' 같은 핵심 문장을 찾으세요."
+  },
+  {
+    "id": "m3-10-19",
+    "level": "m3",
+    "set": "mock-10",
+    "no": 19,
+    "type": "mood",
+    "stem": "다음 글에 드러난 'I'의 심경 변화로 가장 적절한 것은?",
+    "passage": "At the school cooking contest, I realized in the middle of the dish that I had added far too much salt. My cheeks burned as the judges walked toward my table. I stared at my plate and waited for the worst. After the first bite, one judge raised her eyebrows and said, \"Interesting! It's salty, but the sauce is amazing.\" The others laughed kindly, and so did I. I let out a long breath, feeling much lighter.",
+    "options": [
+      "bored → excited",
+      "jealous → proud",
+      "lonely → curious",
+      "embarrassed → relieved",
+      "hopeful → angry and upset"
+    ],
+    "answer": 3,
+    "translation": "학교 요리 대회에서 나는 요리 도중 소금을 너무 많이 넣었다는 것을 깨달았다. 심사위원들이 내 테이블로 걸어올 때 뺨이 화끈거렸다. 나는 접시를 바라보며 최악을 기다렸다. 첫 입을 먹은 뒤 한 심사위원이 눈썹을 올리며 말했다. \"흥미롭네요! 짜지만 소스는 훌륭해요.\" 다른 심사위원들도 친절하게 웃었고 나도 웃었다. 나는 긴 숨을 내쉬었고 훨씬 가벼워진 기분이었다.",
+    "why": "소금을 너무 많이 넣어 뺨이 화끈거리며 당황했다가(embarrassed), 칭찬을 듣고 긴 숨을 내쉬며 안도했습니다(relieved).",
+    "optionNotes": [
+      "지루함에서 신남이 아닙니다.",
+      "질투에서 자랑스러움이 아닙니다.",
+      "외로움에서 호기심이 아닙니다.",
+      "정답. 당황에서 안도로 변했습니다.",
+      "희망에서 화남이 아닙니다."
+    ],
+    "trap": "'amazing'이라는 칭찬에 이끌려 proud를 고르기 쉽지만 'let out a long breath'는 안도를 뜻합니다.",
+    "tip": "신체 반응(cheeks burned → long breath)의 변화를 따라가세요."
+  },
+  {
+    "id": "m3-10-20",
+    "level": "m3",
+    "set": "mock-10",
+    "no": 20,
+    "type": "claim",
+    "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+    "passage": "Every day, teenagers see thousands of messages online. Some are true, but others are designed to mislead them or to sell something. Schools teach reading and mathematics, yet they rarely teach students how to judge online information. As a result, many young people share false stories without noticing. This is becoming a serious problem for society. If students learn to check sources and recognize persuasion tricks, they can protect themselves. Therefore, schools should teach media literacy as a regular subject.",
+    "options": [
+      "학교는 미디어 리터러시를 정규 과목으로 가르쳐야 한다.",
+      "학생들은 하루 온라인 사용 시간을 엄격하게 제한하고 줄여야 한다.",
+      "광고는 학생에게 보여 주지 않아야 한다.",
+      "수학과 읽기 수업을 줄여야 한다.",
+      "거짓 정보를 퍼뜨린 학생은 처벌해야 한다."
+    ],
+    "answer": 0,
+    "translation": "매일 십 대들은 온라인에서 수천 개의 메시지를 본다. 일부는 사실이지만 다른 것들은 그들을 오도하거나 무언가를 팔기 위해 만들어졌다. 학교는 읽기와 수학을 가르치지만 온라인 정보를 판단하는 방법은 거의 가르치지 않는다. 그 결과 많은 젊은이들은 눈치채지 못한 채 거짓 이야기를 공유한다. 이것은 사회에 심각한 문제가 되고 있다. 학생들이 출처를 확인하고 설득의 속임수를 알아보는 법을 배운다면 스스로를 보호할 수 있다. 그러므로 학교는 미디어 리터러시를 정규 과목으로 가르쳐야 한다.",
+    "why": "마지막 문장 'schools should teach media literacy as a regular subject'가 필자의 주장입니다.",
+    "optionNotes": [
+      "정답. 미디어 리터러시를 정규 과목으로 가르쳐야 합니다.",
+      "사용 시간 이야기는 나오지 않습니다.",
+      "광고 금지 내용은 없습니다.",
+      "수학 수업을 줄이라는 내용은 없습니다.",
+      "처벌 이야기는 나오지 않습니다."
+    ],
+    "trap": "'Schools teach reading and mathematics'는 현재 상황이며 줄이라는 뜻이 아닙니다.",
+    "tip": "주장 문제는 'Therefore, ~ should ...' 문장을 찾으세요."
+  },
+  {
+    "id": "m3-10-21",
+    "level": "m3",
+    "set": "mock-10",
+    "no": 21,
+    "type": "implied",
+    "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "passage": "Our group was struggling to find out why the club's membership was falling. Everyone gave different reasons. Then Mina said that the meetings were held too late for most students. When she described the problem, she {u|hit the nail on the head}, and everyone nodded.",
+    "options": [
+      "injured herself with a hammer",
+      "made a loud noise in the room",
+      "described the exact point correctly",
+      "built something useful for the club",
+      "blamed the wrong person for the problem"
+    ],
+    "answer": 2,
+    "translation": "우리 모둠은 동아리 회원이 왜 줄고 있는지 알아내려고 애쓰고 있었다. 모두 서로 다른 이유를 말했다. 그때 미나가 모임이 대부분의 학생에게 너무 늦은 시간에 열린다고 말했다. 그녀가 문제를 설명했을 때 그녀는 정곡을 찔렀고 모두가 고개를 끄덕였다.",
+    "why": "모두가 고개를 끄덕였으므로 'hit the nail on the head'는 정확히 핵심을 짚었다는 뜻입니다.",
+    "optionNotes": [
+      "망치로 다쳤다는 뜻이 아닙니다.",
+      "큰 소리를 냈다는 뜻이 아닙니다.",
+      "정답. 핵심을 정확히 짚었다는 뜻입니다.",
+      "무언가를 만들었다는 뜻이 아닙니다.",
+      "엉뚱한 사람을 탓했다는 뜻이 아닙니다."
+    ],
+    "trap": "'nail'과 'hit'를 문자 그대로 해석하면 ①을 고르게 됩니다.",
+    "tip": "관용 표현은 뒤 문장(everyone nodded)에서 의미를 추론하세요."
+  },
+  {
+    "id": "m3-10-22",
+    "level": "m3",
+    "set": "mock-10",
+    "no": 22,
+    "type": "gist",
+    "stem": "다음 글의 요지로 가장 적절한 것은?",
+    "passage": "Today's teenagers can fill every free moment with a phone, so they rarely feel bored. But boredom may be more useful than we think. When the brain has nothing to do, it begins to wander and connect unrelated ideas. Many writers and inventors say that their best ideas appeared during quiet, empty moments. Quiet moments allow ideas to settle and mix. Constant activity does not leave room for this. Therefore, a little boredom may give creative thinking the space it needs to grow.",
+    "options": [
+      "학생들은 창의적인 생각을 위해 휴대전화 사용 시간을 반드시 줄여야 한다.",
+      "지루함을 느끼지 않으려면 늘 바쁘게 지내야 한다.",
+      "좋은 아이디어는 많은 사람과 이야기할 때 나온다.",
+      "적당한 지루함은 창의적인 생각이 자랄 수 있는 여유를 줄 수 있다.",
+      "발명가들은 대부분 학교에서 아이디어를 얻는다."
+    ],
+    "answer": 3,
+    "translation": "오늘날 십 대는 모든 빈 시간을 휴대전화로 채울 수 있어서 지루함을 거의 느끼지 않는다. 하지만 지루함은 우리가 생각하는 것보다 더 유용할 수 있다. 뇌가 할 일이 없을 때 뇌는 방황하기 시작하고 관련 없는 생각들을 연결한다. 많은 작가와 발명가는 최고의 아이디어가 조용하고 비어 있는 순간에 떠올랐다고 말한다. 조용한 순간은 생각이 가라앉고 섞이도록 해 준다. 끊임없는 활동은 이를 위한 여유를 남기지 않는다. 그러므로 약간의 지루함이 창의적 사고가 자라는 데 필요한 공간을 줄 수 있다.",
+    "why": "But 뒤에서 지루함이 창의적 생각의 여유가 된다는 것이 요지입니다.",
+    "optionNotes": [
+      "사용 시간 감소를 강조하지 않습니다.",
+      "바쁘게 지내라는 것은 글과 반대입니다.",
+      "대화 이야기는 나오지 않습니다.",
+      "정답. 지루함이 창의적 사고의 여유를 줄 수 있습니다.",
+      "학교는 나오지 않습니다."
+    ],
+    "trap": "첫 문장에 이끌려 ①을 고르지 마세요. 필자는 지루함의 가치를 말합니다.",
+    "tip": "But과 Therefore 뒤의 문장이 요지를 담습니다."
+  },
+  {
+    "id": "m3-10-23",
+    "level": "m3",
+    "set": "mock-10",
+    "no": 23,
+    "type": "topic",
+    "stem": "다음 글의 주제로 가장 적절한 것은?",
+    "passage": "The Sahara Desert can reach more than forty degrees Celsius during the day, yet at night the temperature may fall close to zero. This sharp change happens because the desert air is extremely dry. Humid air holds heat, like a blanket, but dry air contains very little water vapor. Without this blanket, the heat that the ground absorbed in the daytime escapes quickly into the sky after sunset, and the night becomes cold. Deserts are therefore places of great contrast.",
+    "options": [
+      "why desert temperatures change so greatly between day and night",
+      "how plants and small animals survive in a place with so little water",
+      "what animals eat in the Sahara Desert",
+      "how people travel across the desert safely",
+      "why deserts are found near the equator"
+    ],
+    "answer": 0,
+    "translation": "사하라 사막은 낮에 섭씨 40도를 넘을 수 있지만 밤에는 기온이 영하 가까이로 떨어질 수 있다. 이 급격한 변화는 사막 공기가 극도로 건조하기 때문에 일어난다. 습한 공기는 담요처럼 열을 간직하지만 건조한 공기는 수증기를 거의 포함하지 않는다. 이 담요가 없으면 낮에 땅이 흡수한 열이 해가 진 뒤 하늘로 빠르게 빠져나가 밤이 추워진다. 그래서 사막은 큰 대조가 있는 곳이다.",
+    "why": "사막의 낮과 밤 기온 차가 큰 이유를 설명하는 글입니다.",
+    "optionNotes": [
+      "정답. 낮과 밤의 기온 차가 큰 이유입니다.",
+      "식물 이야기는 나오지 않습니다.",
+      "동물의 먹이는 나오지 않습니다.",
+      "이동 방법은 나오지 않습니다.",
+      "적도와의 관계는 나오지 않습니다."
+    ],
+    "trap": "사막이라는 소재 때문에 ②③④를 고르기 쉽지만 글의 초점은 기온 변화입니다.",
+    "tip": "주제는 글 전체의 질문(Why?)에 대한 답입니다."
+  },
+  {
+    "id": "m3-10-24",
+    "level": "m3",
+    "set": "mock-10",
+    "no": 24,
+    "type": "title",
+    "stem": "다음 글의 제목으로 가장 적절한 것은?",
+    "passage": "In Finland, every student receives a free hot lunch each school day. The program has been running for more than seventy years. Some people think that it costs too much. However, studies show that well-fed students concentrate better and perform better in class. The meals also teach children healthy eating habits and let students from different backgrounds eat together as equals. In this sense, the lunch is not an expense but an investment in the future of the country.",
+    "options": [
+      "How to Cook a Hot Meal in Thirty Minutes",
+      "The Famous Foods of Northern Europe",
+      "Why Students Should Skip Breakfast",
+      "The Long History of Finnish Schools and Education Systems",
+      "Free School Lunches: An Investment in the Future"
+    ],
+    "answer": 4,
+    "translation": "핀란드에서는 모든 학생이 등교하는 날마다 무료로 따뜻한 점심을 받으며 이 제도는 70년이 넘게 이어져 왔다. 어떤 사람들은 비용이 너무 많이 든다고 생각하지만 연구는 잘 먹은 학생이 더 집중하고 수업에서 더 잘 해낸다는 것을 보여 준다. 급식은 또한 아이들에게 건강한 식습관을 가르치고 다양한 배경의 학생이 평등하게 함께 먹도록 한다. 이런 의미에서 점심은 비용이 아니라 나라의 미래에 대한 투자이다.",
+    "why": "무료 급식이 비용이 아니라 미래에 대한 투자라는 내용이므로 ⑤가 제목입니다.",
+    "optionNotes": [
+      "요리법은 나오지 않습니다.",
+      "북유럽 음식은 나오지 않습니다.",
+      "아침 식사 거르기는 나오지 않습니다.",
+      "학교의 역사는 나오지 않습니다.",
+      "정답. 무료 급식은 미래에 대한 투자라는 내용입니다."
+    ],
+    "trap": "'Finland'가 들어간 보기 ②④에 이끌리지 마세요.",
+    "tip": "마지막 문장이 글의 핵심 관점(investment)을 담습니다."
+  },
+  {
+    "id": "m3-10-25",
+    "level": "m3",
+    "set": "mock-10",
+    "no": 25,
+    "type": "chart",
+    "stem": "다음 도표의 내용과 일치하지 않는 것은?",
+    "chart": {
+      "title": "Daily Sleep Hours: Actual and Recommended",
+      "unit": "hours",
+      "labels": [
+        "10–12",
+        "13–15",
+        "16–18",
+        "19–22"
+      ],
+      "series": [
+        {
+          "name": "Actual",
+          "values": [
+            9.5,
+            8.5,
+            7.5,
+            7
+          ]
+        },
+        {
+          "name": "Recommended",
+          "values": [
+            10,
+            9,
+            9,
+            8
+          ]
+        }
+      ]
+    },
+    "passage": "The graph compares actual and recommended daily sleep hours by age group. ① The actual sleep hours decrease as the age group gets older. ② The 10–12 group slept half an hour less than recommended. ③ The gap between actual and recommended sleep was the smallest in the 19–22 group. ④ The 16–18 group had the largest gap between actual and recommended sleep. ⑤ The 13–15 group slept 8.5 hours a day on average.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "그래프는 연령대별 실제 수면 시간과 권장 수면 시간을 비교한다. ① 실제 수면 시간은 연령대가 높아질수록 줄어든다. ② 10~12세 집단은 권장 시간보다 30분 적게 잤다. ③ 실제 수면과 권장 수면의 차이는 19~22세 집단에서 가장 작았다. ④ 16~18세 집단은 실제 수면과 권장 수면의 차이가 가장 컸다. ⑤ 13~15세 집단은 하루 평균 8.5시간을 잤다.",
+    "why": "차이는 10~12세 0.5시간, 13~15세 0.5시간, 16~18세 1.5시간, 19~22세 1시간이므로 19~22세가 가장 작다는 ③은 일치하지 않습니다.",
+    "optionNotes": [
+      "9.5, 8.5, 7.5, 7로 줄어듭니다.",
+      "10시간 권장, 9.5시간 실제로 0.5시간 적습니다.",
+      "정답(불일치). 가장 작은 차이는 10~12세와 13~15세(0.5시간)입니다.",
+      "16~18세는 1.5시간 차이로 가장 큽니다.",
+      "13~15세는 8.5시간입니다."
+    ],
+    "trap": "실제 수면 시간이 가장 적은 집단과 차이가 가장 작은 집단을 혼동하지 마세요.",
+    "tip": "두 계열의 차이를 묻는 보기는 각 집단의 차이를 직접 계산하세요."
+  },
+  {
+    "id": "m3-10-26",
+    "level": "m3",
+    "set": "mock-10",
+    "no": 26,
+    "type": "match",
+    "stem": "Lena Park에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Lena Park is a wildlife photographer from Busan. She began taking pictures at fifteen after receiving a used camera from her uncle. During college, she studied biology and joined a research trip to the Arctic. There she photographed polar bears for three months, and her photos were published in an international magazine. Today she gives lectures at schools to make young people care about endangered animals. She says that patience is the most important skill for a photographer.",
+    "options": [
+      "열다섯 살에 새 카메라를 선물로 받았다.",
+      "대학에서 사진학을 전공했다.",
+      "북극에서 석 달 동안 북극곰을 촬영했다.",
+      "사진이 국내 신문에만 실렸다.",
+      "지금은 학교 교사로 일하고 있다."
+    ],
+    "answer": 2,
+    "translation": "레나 박은 부산 출신의 야생 동물 사진가이다. 그녀는 삼촌에게서 중고 카메라를 받은 열다섯 살에 사진을 찍기 시작했다. 대학 시절 그녀는 생물학을 공부했고 북극 연구 여행에 참여했다. 그곳에서 그녀는 석 달 동안 북극곰을 촬영했고 그녀의 사진은 국제 잡지에 실렸다. 오늘날 그녀는 젊은이들이 멸종 위기 동물에 관심을 갖도록 학교에서 강연을 한다. 그녀는 인내가 사진가에게 가장 중요한 기술이라고 말한다.",
+    "why": "'There she photographed polar bears for three months'와 일치합니다.",
+    "optionNotes": [
+      "중고 카메라였습니다.",
+      "생물학을 공부했습니다.",
+      "정답. 북극에서 석 달 동안 북극곰을 촬영했습니다.",
+      "국제 잡지에 실렸습니다.",
+      "학교에서 강연을 합니다."
+    ],
+    "trap": "used/new, biology/photography 같은 단어를 바꾼 보기에 주의하세요.",
+    "tip": "일치 문제는 시기별 사건(15세, 대학, 북극, 현재)을 대조하세요."
+  },
+  {
+    "id": "m3-10-27",
+    "level": "m3",
+    "set": "mock-10",
+    "no": 27,
+    "type": "notice",
+    "stem": "Youth Debate Tournament에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Youth Debate Tournament\nSpeak up for your ideas!\nWho: Teams of three students aged 13–15\nDate: Saturday, November 9\nPlace: City Hall Auditorium\nTopic: Announced one week before the tournament\nRegistration: By October 25 on our website (free)\nPrize: Trophies and scholarships for the top three teams\nNote: Each team must have a teacher as an advisor.",
+    "options": [
+      "학생 개인이 혼자서 자유롭게 참가 신청을 할 수 있다.",
+      "대회 일주일 전에 주제가 발표된다.",
+      "참가비는 10달러이다.",
+      "10월 31일까지 접수한다.",
+      "우승팀에게만 장학금을 준다."
+    ],
+    "answer": 1,
+    "translation": "청소년 토론 대회. 당신의 생각을 당당히 말하세요! 대상: 13~15세 학생 세 명으로 구성된 팀. 날짜: 11월 9일 토요일. 장소: 시청 강당. 주제: 대회 일주일 전에 발표. 접수: 10월 25일까지 웹사이트에서(무료). 상: 상위 세 팀에 트로피와 장학금. 유의: 각 팀은 교사 한 명을 지도 교사로 두어야 합니다.",
+    "why": "'Topic: Announced one week before the tournament'와 일치합니다.",
+    "optionNotes": [
+      "세 명으로 구성된 팀만 참가합니다.",
+      "정답. 대회 일주일 전에 주제가 발표됩니다.",
+      "무료입니다.",
+      "10월 25일까지 접수합니다.",
+      "상위 세 팀이 받습니다."
+    ],
+    "trap": "접수 마감(October 25)과 날짜를 혼동하기 쉽습니다.",
+    "tip": "안내문은 항목(Who, Topic, Registration, Prize)별로 대조하세요."
+  },
+  {
+    "id": "m3-10-28",
+    "level": "m3",
+    "set": "mock-10",
+    "no": 28,
+    "type": "notice",
+    "stem": "Library Night Study Program에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Library Night Study Program\nA quiet place to study before exams\nPeriod: December 2 – December 13 (weekdays only)\nTime: 6:00 p.m. – 10:00 p.m.\nPlace: Central Library, Study Room 2\nWho: Middle and high school students\nApplication: At the information desk, with a student ID\nProvided: Free drinks and a snack at 8:00 p.m.\nNote: Mobile phones must be turned off inside the room.",
+    "options": [
+      "평일에만 운영한다.",
+      "오후 8시에 운영이 끝난다.",
+      "초등학생도 이용할 수 있다.",
+      "간식은 별도 요금을 내야 한다.",
+      "휴대전화는 진동으로 켜 두어도 된다."
+    ],
+    "answer": 0,
+    "translation": "도서관 야간 학습 프로그램. 시험 전 조용히 공부할 수 있는 곳. 기간: 12월 2일~12월 13일(평일만). 시간: 오후 6시~10시. 장소: 중앙 도서관 2열람실. 대상: 중·고등학생. 신청: 학생증을 가지고 안내 데스크에서. 제공: 무료 음료와 오후 8시 간식. 유의: 열람실 안에서는 휴대전화를 꺼야 합니다.",
+    "why": "'December 2 – December 13 (weekdays only)'와 일치합니다.",
+    "optionNotes": [
+      "정답. 평일에만 운영합니다.",
+      "오후 10시에 끝납니다.",
+      "중·고등학생이 대상입니다.",
+      "음료와 간식은 무료로 제공됩니다.",
+      "휴대전화는 꺼야 합니다."
+    ],
+    "trap": "8:00 p.m.은 간식 시간이며 종료 시각이 아닙니다.",
+    "tip": "안내문의 시간 항목과 제공 항목을 구분해 확인하세요."
+  }
+]
