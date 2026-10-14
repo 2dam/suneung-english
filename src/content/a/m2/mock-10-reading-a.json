@@ -1,0 +1,340 @@
+[
+  {
+    "id": "m2-10-18",
+    "level": "m2",
+    "set": "mock-10",
+    "no": 18,
+    "type": "purpose",
+    "stem": "다음 글을 쓴 목적으로 가장 적절한 것은?",
+    "passage": "Dear Mr. Mayor,\nI am a student at Hanbit Middle School. Every morning, hundreds of students cross the road in front of our school, but there is no crosswalk or traffic light. Cars often drive fast, and last month a student was almost hit. I kindly ask you to install a crosswalk and a traffic light there. Thank you for your attention.\nSincerely,\nJina Park",
+    "options": [
+      "학교 앞 도로의 공사 일정을 문의하려고",
+      "시내 교통 요금 인하를 건의하려고",
+      "학교 앞 횡단보도와 신호등 설치를 요청하려고",
+      "학생들을 위한 교통 안전 교육 프로그램을 널리 홍보하려고",
+      "교통사고 피해에 대한 보상을 요구하려고"
+    ],
+    "answer": 2,
+    "translation": "시장님께. 저는 한빛 중학교 학생입니다. 매일 아침 수백 명의 학생이 학교 앞 도로를 건너지만 횡단보도도 신호등도 없습니다. 자동차는 종종 빠르게 달리고 지난달에는 한 학생이 차에 치일 뻔했습니다. 그곳에 횡단보도와 신호등을 설치해 주시기를 정중히 요청합니다. 관심을 가져 주셔서 감사합니다. 박지나 드림.",
+    "why": "'I kindly ask you to install a crosswalk and a traffic light'에서 설치를 요청하는 글입니다.",
+    "optionNotes": [
+      "공사 일정 문의가 아닙니다.",
+      "교통 요금은 나오지 않습니다.",
+      "정답. 횡단보도와 신호등 설치를 요청합니다.",
+      "교육 홍보가 아닙니다.",
+      "보상 요구가 아닙니다."
+    ],
+    "trap": "사고 이야기는 요청의 이유일 뿐이므로 ⑤를 고르지 마세요.",
+    "tip": "목적 문제는 'I kindly ask you to ~'를 찾으세요."
+  },
+  {
+    "id": "m2-10-19",
+    "level": "m2",
+    "set": "mock-10",
+    "no": 19,
+    "type": "mood",
+    "stem": "다음 글에 드러난 'I'의 심경 변화로 가장 적절한 것은?",
+    "passage": "I had waited for the school trip for weeks. I packed my bag the night before and could hardly sleep. In the morning, I ran to the classroom with a big smile. Then the teacher said, \"I'm sorry, but the trip is canceled because of the heavy rain.\" I looked out of the window. My smile slowly disappeared, and I sat down at my desk without a word.",
+    "options": [
+      "excited → disappointed",
+      "bored → curious",
+      "angry → grateful",
+      "proud → ashamed",
+      "relaxed → nervous and worried"
+    ],
+    "answer": 0,
+    "translation": "나는 몇 주 동안 학교 소풍을 기다렸다. 전날 밤 가방을 싸고 잠을 거의 자지 못했다. 아침에 나는 활짝 웃으며 교실로 뛰어갔다. 그때 선생님이 \"미안하지만 폭우 때문에 소풍이 취소되었어요.\"라고 말씀하셨다. 나는 창밖을 보았다. 내 미소는 서서히 사라졌고 나는 말없이 자리에 앉았다.",
+    "why": "소풍을 기대하며 들떠 있다가(excited), 취소 소식에 실망했습니다(disappointed).",
+    "optionNotes": [
+      "정답. 들뜸에서 실망으로 변했습니다.",
+      "지루함에서 호기심이 아닙니다.",
+      "화남에서 감사가 아닙니다.",
+      "자랑스러움에서 부끄러움이 아닙니다.",
+      "편안함에서 긴장이 아닙니다."
+    ],
+    "trap": "마지막의 'without a word'를 보고 angry로 오해하지 마세요.",
+    "tip": "처음의 기대감과 마지막의 행동(smile disappeared)을 비교하세요."
+  },
+  {
+    "id": "m2-10-20",
+    "level": "m2",
+    "set": "mock-10",
+    "no": 20,
+    "type": "claim",
+    "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+    "passage": "Most classes are held indoors, and students spend hours looking at desks and screens. However, research shows that students who spend time in nature feel less stressed and pay more attention afterward. Outdoor activities also give students a chance to move their bodies and enjoy fresh air. These benefits cannot be gained in a closed classroom. Therefore, schools should hold some of their classes outdoors.",
+    "options": [
+      "학생들은 학교 수업 시간 내내 하루 종일 야외에서 지내야 한다.",
+      "수업 시간은 지금보다 늘려야 한다.",
+      "화면을 보는 시간을 완전히 없애야 한다.",
+      "학교 건물은 새로 지어야 한다.",
+      "학교는 수업의 일부를 야외에서 진행해야 한다."
+    ],
+    "answer": 4,
+    "translation": "대부분의 수업은 실내에서 이루어지고 학생들은 책상과 화면을 보며 몇 시간을 보낸다. 그러나 연구에 따르면 자연에서 시간을 보낸 학생은 스트레스를 덜 느끼고 이후에 더 집중한다. 야외 활동은 몸을 움직이고 신선한 공기를 즐길 기회도 준다. 이런 이점은 닫힌 교실에서는 얻을 수 없다. 그러므로 학교는 수업의 일부를 야외에서 해야 한다.",
+    "why": "마지막 문장 'schools should hold some of their classes outdoors'가 필자의 주장입니다.",
+    "optionNotes": [
+      "하루 종일 야외에서 지내라는 내용은 없습니다.",
+      "수업 시간은 나오지 않습니다.",
+      "화면 시간 제거는 나오지 않습니다.",
+      "건물 신축은 나오지 않습니다.",
+      "정답. 수업의 일부를 야외에서 해야 합니다."
+    ],
+    "trap": "'some of'를 놓치면 하루 종일 야외 수업을 주장한다고 오해하기 쉽습니다.",
+    "tip": "주장 문제는 'Therefore, ~ should ...' 문장을 찾으세요."
+  },
+  {
+    "id": "m2-10-21",
+    "level": "m2",
+    "set": "mock-10",
+    "no": 21,
+    "type": "implied",
+    "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "passage": "We were planning a surprise party for Mom's birthday. We promised to keep it secret. But my little brother {u|spilled the beans} at breakfast and told her everything. Mom pretended to be surprised, but she was smiling.",
+    "options": [
+      "dropped beans on the kitchen floor",
+      "cooked a big dinner for the family",
+      "bought a birthday present for Mom",
+      "prepared a speech for the party",
+      "told the secret by mistake"
+    ],
+    "answer": 4,
+    "translation": "우리는 엄마의 생신을 위한 깜짝 파티를 계획하고 있었다. 우리는 비밀로 하기로 약속했다. 하지만 어린 동생이 아침 식사 때 비밀을 털어놓아 엄마에게 모든 것을 말해 버렸다. 엄마는 놀란 척했지만 미소 짓고 있었다.",
+    "why": "비밀로 하기로 한 일을 동생이 엄마에게 말해 버렸으므로 'spilled the beans'는 실수로 비밀을 말했다는 뜻입니다.",
+    "optionNotes": [
+      "콩을 떨어뜨렸다는 뜻이 아닙니다.",
+      "저녁을 요리했다는 뜻이 아닙니다.",
+      "선물을 샀다는 뜻이 아닙니다.",
+      "연설을 준비했다는 뜻이 아닙니다.",
+      "정답. 실수로 비밀을 말했다는 뜻입니다."
+    ],
+    "trap": "'beans'를 문자 그대로 해석하면 ①을 고르게 됩니다.",
+    "tip": "관용 표현은 뒤 문장(told her everything)에서 의미를 확인하세요."
+  },
+  {
+    "id": "m2-10-22",
+    "level": "m2",
+    "set": "mock-10",
+    "no": 22,
+    "type": "gist",
+    "stem": "다음 글의 요지로 가장 적절한 것은?",
+    "passage": "Many people try to hide their mistakes because they are afraid of being blamed. However, studies of workplaces show something different. Teams that openly talk about their mistakes tend to improve faster. When mistakes are shared, other members can learn from them and avoid the same problems. A mistake that is hidden is likely to be repeated, but a mistake that is shared becomes a lesson for everyone.",
+    "options": [
+      "실수를 숨기지 않고 공유하면 구성원 모두가 배워 더 빨리 발전할 수 있다.",
+      "실수를 한 사람은 반드시 책임을 져야 한다.",
+      "같은 실수를 반복하는 사람은 팀에서 나가야 한다.",
+      "팀원들은 서로의 일에 간섭하지 않아야 한다.",
+      "실수를 하지 않으려면 일을 천천히 해야 한다."
+    ],
+    "answer": 0,
+    "translation": "많은 사람들은 비난받을까 두려워 실수를 숨기려 한다. 그러나 직장에 대한 연구는 다른 점을 보여 준다. 자신의 실수를 공개적으로 이야기하는 팀이 더 빨리 발전하는 경향이 있다. 실수가 공유되면 다른 구성원들이 그것에서 배우고 같은 문제를 피할 수 있다. 숨겨진 실수는 반복될 가능성이 높지만 공유된 실수는 모두를 위한 교훈이 된다.",
+    "why": "실수를 공유하면 서로 배워 더 빨리 발전한다는 것이 요지입니다.",
+    "optionNotes": [
+      "정답. 실수를 공유하면 모두가 배워 발전합니다.",
+      "책임 이야기는 나오지 않습니다.",
+      "팀에서 나가라는 내용은 없습니다.",
+      "간섭하지 말라는 내용은 없습니다.",
+      "천천히 하라는 내용은 없습니다."
+    ],
+    "trap": "첫 문장의 'hide their mistakes'를 필자의 주장으로 오해하지 마세요.",
+    "tip": "However 뒤의 연구 결과와 마지막 문장을 요지로 고르세요."
+  },
+  {
+    "id": "m2-10-23",
+    "level": "m2",
+    "set": "mock-10",
+    "no": 23,
+    "type": "topic",
+    "stem": "다음 글의 주제로 가장 적절한 것은?",
+    "passage": "A cat's whiskers are not just stiff hairs. They are very sensitive, and they help the cat sense changes in the air. In the dark, whiskers tell a cat whether there is a wall or an obstacle ahead. A cat also uses its whiskers to decide whether its body can fit through a small opening. In short, whiskers work like tools that allow a cat to understand the world around it.",
+    "options": [
+      "why cats sleep most of the day",
+      "how cats clean their fur with their tongues",
+      "what makes a cat's eyes shine at night",
+      "how a cat's whiskers help it understand the world around it",
+      "why cats are afraid of water"
+    ],
+    "answer": 3,
+    "translation": "고양이의 수염은 단순히 뻣뻣한 털이 아니다. 매우 민감해서 고양이가 공기의 변화를 느끼도록 돕는다. 어둠 속에서 수염은 앞에 벽이나 장애물이 있는지 알려 준다. 고양이는 수염을 사용해 자기 몸이 좁은 틈을 통과할 수 있는지도 판단한다. 요컨대 수염은 고양이가 주변 세계를 이해하게 해 주는 도구처럼 작동한다.",
+    "why": "고양이의 수염이 주변을 이해하는 데 어떻게 도움이 되는지 설명하는 글입니다.",
+    "optionNotes": [
+      "잠은 나오지 않습니다.",
+      "털 손질은 나오지 않습니다.",
+      "눈의 반사는 나오지 않습니다.",
+      "정답. 수염이 주변 세계를 이해하게 돕습니다.",
+      "물을 무서워하는 이유는 나오지 않습니다."
+    ],
+    "trap": "①②③⑤는 고양이에 관한 상식이지만 글의 내용이 아닙니다.",
+    "tip": "마지막 문장 'In short'가 주제를 요약합니다."
+  },
+  {
+    "id": "m2-10-24",
+    "level": "m2",
+    "set": "mock-10",
+    "no": 24,
+    "type": "title",
+    "stem": "다음 글의 제목으로 가장 적절한 것은?",
+    "passage": "Every evening, a small bakery in Gwangju puts all of its unsold bread into paper bags before closing time. The owner then leaves the bags outside the door with a sign that reads, \"Take what you need.\" Many people who cannot afford dinner come and take a bag. Some regular customers have started to leave small notes of thanks. Others have begun to buy extra bread to help the shop continue its kind habit.",
+    "options": [
+      "How to Bake Bread at Home",
+      "The Best Bakery for Delicious Cakes and Cookies in Gwangju City",
+      "Why Bread Prices Keep Rising",
+      "A Day in the Life of a Delivery Driver",
+      "Sharing Warm Bread: A Bakery's Small Act of Kindness"
+    ],
+    "answer": 4,
+    "translation": "매일 저녁 광주의 한 작은 빵집은 문을 닫기 전에 팔리지 않은 빵을 모두 종이봉투에 담는다. 주인은 그 봉투를 \"필요한 만큼 가져가세요.\"라고 적힌 표지판과 함께 문 밖에 둔다. 저녁을 해결하기 어려운 많은 사람들이 와서 봉투를 가져간다. 일부 단골손님은 작은 감사 쪽지를 남기기 시작했다. 다른 이들은 빵집이 친절한 습관을 이어 가도록 빵을 더 사기 시작했다.",
+    "why": "팔리지 않은 빵을 나누는 빵집의 친절을 소개하므로 ⑤가 제목입니다.",
+    "optionNotes": [
+      "빵 굽는 방법은 나오지 않습니다.",
+      "케이크 이야기는 나오지 않습니다.",
+      "빵 가격은 나오지 않습니다.",
+      "배달 기사 이야기는 나오지 않습니다.",
+      "정답. 빵을 나누는 빵집의 작은 친절입니다."
+    ],
+    "trap": "'bakery'가 들어간 ②에 이끌리지 마세요. 핵심은 나눔입니다.",
+    "tip": "제목은 핵심 행동(sharing)과 대상(bakery)을 함께 담으세요."
+  },
+  {
+    "id": "m2-10-25",
+    "level": "m2",
+    "set": "mock-10",
+    "no": 25,
+    "type": "chart",
+    "stem": "다음 도표의 내용과 일치하지 않는 것은?",
+    "chart": {
+      "title": "Favorite Season of Boys and Girls (%)",
+      "unit": "%",
+      "labels": [
+        "Spring",
+        "Summer",
+        "Autumn",
+        "Winter"
+      ],
+      "series": [
+        {
+          "name": "Boys",
+          "values": [
+            20,
+            35,
+            25,
+            20
+          ]
+        },
+        {
+          "name": "Girls",
+          "values": [
+            30,
+            25,
+            30,
+            15
+          ]
+        }
+      ]
+    },
+    "passage": "The graph shows the favorite seasons of boys and girls in a middle school. ① Summer was the most popular season among boys. ② Girls chose spring and autumn at the same rate. ③ Among girls, winter was the least popular season. ④ Autumn was chosen by girls at a rate ten percentage points higher than boys. ⑤ Spring was chosen by a higher percentage of girls than boys.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "그래프는 한 중학교 남학생과 여학생이 좋아하는 계절을 보여 준다. ① 남학생 사이에서 가장 인기 있는 계절은 여름이었다. ② 여학생은 봄과 가을을 같은 비율로 선택했다. ③ 여학생 사이에서 겨울이 가장 인기가 적었다. ④ 가을은 여학생이 남학생보다 10퍼센트포인트 더 높은 비율로 선택했다. ⑤ 봄은 남학생보다 여학생이 더 높은 비율로 선택했다.",
+    "why": "가을은 여학생 30%, 남학생 25%이므로 차이는 5퍼센트포인트입니다. 10퍼센트포인트라는 ④는 일치하지 않습니다.",
+    "optionNotes": [
+      "남학생은 여름 35%로 가장 많습니다.",
+      "여학생은 봄 30%, 가을 30%로 같습니다.",
+      "여학생은 겨울 15%로 가장 적습니다.",
+      "정답(불일치). 차이는 5퍼센트포인트입니다.",
+      "봄은 여학생 30%, 남학생 20%입니다."
+    ],
+    "trap": "수치 차이(10 vs 5)를 확인하지 않으면 놓치기 쉽습니다.",
+    "tip": "차이를 말하는 보기는 두 수를 직접 빼서 확인하세요."
+  },
+  {
+    "id": "m2-10-26",
+    "level": "m2",
+    "set": "mock-10",
+    "no": 26,
+    "type": "match",
+    "stem": "Amina Yusuf에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Dr. Amina Yusuf is a marine engineer from Nigeria. When she was a child, she watched fishermen near her house throw away broken nets. She wondered if these nets could be reused. After studying engineering in college, she developed a method to turn old fishing nets into strong ropes and carpets. Her company now employs more than two hundred local people. Most of them are women who used to have no regular job.",
+    "options": [
+      "어릴 때 어부가 되고 싶어 했다.",
+      "대학에서 요리를 공부했다.",
+      "그물을 새로 만드는 방법을 개발했다.",
+      "회사에서 일하는 사람은 대부분 남성이다.",
+      "버려진 어망을 튼튼한 밧줄과 카펫으로 바꾸는 방법을 개발해 지역 주민 이백 명 넘게 고용하고 있다."
+    ],
+    "answer": 4,
+    "translation": "아미나 유수프 박사는 나이지리아 출신의 해양 공학자이다. 어릴 때 그녀는 집 근처 어부들이 찢어진 그물을 버리는 것을 보았다. 그녀는 이 그물을 재사용할 수 있을지 궁금했다. 대학에서 공학을 공부한 뒤 그녀는 낡은 어망을 튼튼한 밧줄과 카펫으로 바꾸는 방법을 개발했다. 그녀의 회사는 이제 이백 명이 넘는 지역 주민을 고용하며 대부분은 이전에 정규 직업이 없던 여성이다.",
+    "why": "'turn old fishing nets into strong ropes and carpets'와 'employs more than two hundred local people'과 일치합니다.",
+    "optionNotes": [
+      "어부가 되고 싶어 했다는 내용은 없습니다.",
+      "공학을 공부했습니다.",
+      "그물을 새로 만든 것이 아니라 재활용합니다.",
+      "대부분은 여성입니다.",
+      "정답. 어망을 재활용해 이백 명 넘게 고용합니다."
+    ],
+    "trap": "'만든다(make)'와 '재활용한다(reuse)'를 혼동하지 마세요.",
+    "tip": "일치 문제는 보기의 핵심 단어(전공, 사업 내용, 직원 수)를 하나씩 대조하세요."
+  },
+  {
+    "id": "m2-10-27",
+    "level": "m2",
+    "set": "mock-10",
+    "no": 27,
+    "type": "notice",
+    "stem": "Starlight Science Night에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Starlight Science Night\nWatch the stars through real telescopes!\nDate: Friday, October 11\nTime: 7:30 p.m. – 9:30 p.m.\nPlace: Riverside Park (Hanbit Middle School gym in case of rain)\nWho: Students and families\nFee: Free (a registration form is required)\nBring: A warm jacket and a blanket\nNote: Children under 10 must be accompanied by an adult.",
+    "options": [
+      "비가 오면 학교 체육관에서 한다.",
+      "참가비는 5달러이다.",
+      "저녁 6시에 시작한다.",
+      "망원경은 직접 가져와야 한다.",
+      "10세 미만도 혼자 참가할 수 있다."
+    ],
+    "answer": 0,
+    "translation": "별빛 과학의 밤. 진짜 망원경으로 별을 보세요! 날짜: 10월 11일 금요일. 시간: 오후 7시 30분~9시 30분. 장소: 강변 공원(비가 오면 한빛 중학교 체육관). 대상: 학생과 가족. 참가비: 무료(신청서 필요). 준비물: 따뜻한 겉옷과 담요. 유의: 10세 미만 어린이는 어른과 함께해야 합니다.",
+    "why": "'Hanbit Middle School gym in case of rain'과 일치합니다.",
+    "optionNotes": [
+      "정답. 비가 오면 학교 체육관에서 합니다.",
+      "무료입니다.",
+      "오후 7시 30분에 시작합니다.",
+      "망원경은 행사에서 제공하며 가져올 것은 겉옷과 담요입니다.",
+      "10세 미만은 어른과 함께해야 합니다."
+    ],
+    "trap": "'Free'와 'registration form'을 혼동해 ②를 고르지 마세요.",
+    "tip": "안내문은 괄호 안의 정보(in case of rain)도 확인하세요."
+  },
+  {
+    "id": "m2-10-28",
+    "level": "m2",
+    "set": "mock-10",
+    "no": 28,
+    "type": "notice",
+    "stem": "Rooftop Garden Day에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Rooftop Garden Day\nHelp us grow vegetables on the school roof!\nDate: Saturday, April 20\nTime: 10:00 a.m. – 1:00 p.m.\nPlace: Hanbit Middle School rooftop\nWho: Students and parents\nWhat to do: Plant seeds, water the plants, and make signs\nProvided: Tools, soil, and sandwiches\nNote: Please wear shoes that can get dirty.",
+    "options": [
+      "학생과 학부모가 함께 참여할 수 있다.",
+      "옥상이 아닌 운동장에서 한다.",
+      "씨앗과 공구와 흙은 모두 각자 집에서 가져와야 한다.",
+      "오후 늦게 시작한다.",
+      "점심은 개인이 준비해야 한다."
+    ],
+    "answer": 0,
+    "translation": "옥상 정원의 날. 학교 옥상에서 채소를 키우는 것을 도와주세요! 날짜: 4월 20일 토요일. 시간: 오전 10시~오후 1시. 장소: 한빛 중학교 옥상. 대상: 학생과 학부모. 할 일: 씨앗 심기, 식물에 물 주기, 표지판 만들기. 제공: 공구, 흙, 샌드위치. 유의: 더러워져도 되는 신발을 신으세요.",
+    "why": "'Who: Students and parents'와 일치합니다.",
+    "optionNotes": [
+      "정답. 학생과 학부모가 참여합니다.",
+      "옥상에서 합니다.",
+      "공구와 흙은 제공됩니다.",
+      "오전 10시에 시작합니다.",
+      "샌드위치가 제공됩니다."
+    ],
+    "trap": "'Provided' 항목을 놓치면 ③⑤를 고르기 쉽습니다.",
+    "tip": "Provided(제공)와 Bring(준비물)을 구분해 확인하세요."
+  }
+]
