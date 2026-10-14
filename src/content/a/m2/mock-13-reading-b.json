@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m2-13-29",
+    "level": "m2",
+    "set": "mock-13",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Amy is a student {1|who} loves animals. She {2|volunteers} at an animal shelter every weekend. Last week, she {3|find} a lost puppy there. She {4|took} care of it, and its owner {5|came} to pick it up the next day.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "에이미는 동물을 사랑하는 학생이다. 그녀는 주말마다 동물 보호소에서 자원봉사를 한다. 지난주에 그녀는 그곳에서 길 잃은 강아지를 발견했다. 그녀는 강아지를 돌보았고 주인이 다음 날 데리러 왔다.",
+    "why": "'Last week'로 과거의 일을 말하므로 'find'가 아니라 과거형 'found'여야 합니다.",
+    "optionNotes": [
+      "선행사 a student를 받는 주격 관계대명사 who입니다.",
+      "현재 습관을 나타내는 volunteers입니다.",
+      "정답(틀림). 과거 시제이므로 found여야 합니다.",
+      "과거형 took입니다.",
+      "과거형 came입니다."
+    ],
+    "trap": "앞 문장의 현재형에 끌려 find를 맞다고 생각하기 쉽습니다.",
+    "tip": "시간 표현(Last week)에 맞춰 시제를 확인하세요."
+  },
+  {
+    "id": "m2-13-30",
+    "level": "m2",
+    "set": "mock-13",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Reading a book before bed is a {1|healthy} habit. It helps your mind {2|relax}. In contrast, using a smartphone can {3|improve} your sleep because the bright light {4|stimulates} your brain. Experts therefore {5|recommend} putting phones away an hour before bed.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "자기 전에 책을 읽는 것은 건강한 습관이다. 마음이 편안해지도록 도와준다. 반면 스마트폰을 사용하면 밝은 빛이 뇌를 자극하기 때문에 수면을 해칠 수 있다. 그래서 전문가들은 자기 한 시간 전에 휴대전화를 치우라고 권한다.",
+    "why": "'In contrast'와 'stimulates your brain'을 보면 스마트폰은 수면을 '개선한다(improve)'가 아니라 '해친다(harm)'여야 합니다.",
+    "optionNotes": [
+      "건강한 습관이라는 의미로 healthy가 알맞습니다.",
+      "편안해진다는 의미로 relax가 알맞습니다.",
+      "정답(부적절). 밝은 빛이 뇌를 자극하므로 harm이어야 합니다.",
+      "자극한다는 의미로 stimulates가 알맞습니다.",
+      "권한다는 의미로 recommend가 알맞습니다."
+    ],
+    "trap": "'In contrast' 뒤의 서술이 앞 문장과 반대여야 한다는 점을 놓치지 마세요.",
+    "tip": "연결어(In contrast)가 알려 주는 대조 관계를 확인하세요."
+  },
+  {
+    "id": "m2-13-31",
+    "level": "m2",
+    "set": "mock-13",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Some people believe that being busy is the same as being productive. But a person can be busy all day without achieving anything important. Answering every message and attending every meeting may feel like work, yet it may not move any big goal forward. True productivity means focusing your energy on the tasks that really __________.",
+    "options": [
+      "matter",
+      "exhaust",
+      "hide",
+      "wait",
+      "sleep"
+    ],
+    "answer": 0,
+    "translation": "어떤 사람들은 바쁜 것이 생산적인 것과 같다고 믿는다. 하지만 사람은 하루 종일 바빠도 중요한 것을 하나도 이루지 못할 수 있다. 모든 메시지에 답하고 모든 회의에 참석하는 것은 일처럼 느껴지지만 큰 목표를 전혀 앞으로 나아가게 하지 못할 수 있다. 진정한 생산성은 정말 중요한 일에 에너지를 집중하는 것이다.",
+    "why": "바쁨과 대비되는 생산성은 정말 중요한 일에 집중하는 것이므로 matter가 알맞습니다.",
+    "optionNotes": [
+      "정답. 정말 중요한 일에 집중하는 것입니다.",
+      "지치게 한다는 내용은 없습니다.",
+      "숨기는 내용은 없습니다.",
+      "기다리는 내용은 없습니다.",
+      "자는 내용은 없습니다."
+    ],
+    "trap": "'busy'가 반복된 보기에 이끌리지 마세요.",
+    "tip": "'not A but B' 같은 대조(busy vs matter)가 빈칸의 방향을 알려 줍니다."
+  },
+  {
+    "id": "m2-13-32",
+    "level": "m2",
+    "set": "mock-13",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "When two people talk, they often copy each other's gestures and posture without noticing. For example, one person crosses his arms, and soon the other does the same. Psychologists call this mirroring. It is a sign of friendship in many cultures, and people do not usually plan it. It usually happens when people feel __________ with each other and want to connect.",
+    "options": [
+      "comfortable",
+      "angry",
+      "afraid",
+      "bored",
+      "uncomfortable"
+    ],
+    "answer": 0,
+    "translation": "두 사람이 이야기할 때 그들은 알아채지 못한 채 서로의 몸짓과 자세를 따라 하는 경우가 많다. 예를 들어 한 사람이 팔짱을 끼면 곧 다른 사람도 같은 행동을 한다. 심리학자들은 이를 거울 효과라고 부른다. 이것은 많은 문화에서 우정의 표시이며 사람들은 보통 그것을 계획하지 않는다. 이것은 보통 사람들이 서로에게 편안함을 느끼고 연결되고 싶어 할 때 일어난다.",
+    "why": "서로 연결되고 싶을 때 몸짓을 따라 하므로 편안하다고 느낄 때가 알맞습니다.",
+    "optionNotes": [
+      "정답. 서로에게 편안함을 느낄 때입니다.",
+      "화가 날 때라는 내용은 없습니다.",
+      "두려울 때라는 내용은 없습니다.",
+      "지루할 때라는 내용은 없습니다.",
+      "질투할 때라는 내용은 없습니다."
+    ],
+    "trap": "'copy'에서 부정적 감정을 연상하지 마세요.",
+    "tip": "'want to connect'가 긍정적 감정의 단서입니다."
+  },
+  {
+    "id": "m2-13-33",
+    "level": "m2",
+    "set": "mock-13",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Honest feedback may hurt at first. It points out your mistakes, and it is natural to feel upset. However, people who receive such feedback and use it tend to improve faster than those who only hear praise. Praise feels good, but it rarely shows you what to fix. So when someone gives you honest feedback, you should see it as a __________.",
+    "options": [
+      "punishment",
+      "joke",
+      "gift",
+      "mistake",
+      "competition"
+    ],
+    "answer": 2,
+    "translation": "솔직한 피드백은 처음에는 아플 수 있다. 실수를 지적하므로 속상한 것은 자연스럽다. 그러나 그런 피드백을 받아 활용하는 사람은 칭찬만 듣는 사람보다 더 빨리 나아지는 경향이 있다. 칭찬은 기분이 좋지만 무엇을 고쳐야 하는지 거의 알려 주지 않는다. 그러므로 누군가 솔직한 피드백을 줄 때 그것을 선물로 여겨야 한다.",
+    "why": "솔직한 피드백이 더 빨리 나아지게 한다고 했으므로 선물로 여겨야 합니다.",
+    "optionNotes": [
+      "벌이라는 내용은 글과 반대입니다.",
+      "농담이라는 내용은 없습니다.",
+      "정답. 선물로 여겨야 합니다.",
+      "실수라는 내용은 없습니다.",
+      "경쟁이라는 내용은 없습니다."
+    ],
+    "trap": "첫 문장의 'hurt'에 이끌려 부정적 단어를 고르지 마세요.",
+    "tip": "However 뒤의 긍정적 결과가 빈칸의 방향입니다."
+  },
+  {
+    "id": "m2-13-34",
+    "level": "m2",
+    "set": "mock-13",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "After making many decisions, the brain gets tired, and the quality of later decisions becomes worse. This is known as decision fatigue. That is why many successful people create daily routines for small matters. These include what to eat for breakfast or which clothes to wear. In this way, they __________ the number of small decisions they have to make each day.",
+    "options": [
+      "increase",
+      "ignore",
+      "forget",
+      "reduce",
+      "celebrate"
+    ],
+    "answer": 3,
+    "translation": "많은 결정을 내리고 나면 뇌가 피로해지고 이후 결정의 질이 나빠진다. 이를 결정 피로라고 한다. 그래서 많은 성공한 사람들은 아침에 무엇을 먹을지, 어떤 옷을 입을지 같은 사소한 일에 대해 일과를 만든다. 이렇게 하여 그들은 날마다 내려야 하는 작은 결정의 수를 줄인다.",
+    "why": "일과를 만들어 사소한 결정을 줄이려는 것이므로 reduce가 알맞습니다.",
+    "optionNotes": [
+      "늘린다는 내용은 글과 반대입니다.",
+      "무시한다는 내용은 없습니다.",
+      "잊는다는 내용은 없습니다.",
+      "정답. 작은 결정의 수를 줄입니다.",
+      "축하한다는 내용은 없습니다."
+    ],
+    "trap": "'routines'가 결정을 늘린다고 오해하지 마세요.",
+    "tip": "앞 문장의 'That is why'와 결과(피로 방지)를 연결하세요."
+  },
+  {
+    "id": "m2-13-35",
+    "level": "m2",
+    "set": "mock-13",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Drinking enough water is important for students. ① It helps the brain stay focused during class. ② Many cartoon characters wear yellow shirts and blue pants. ③ It keeps the body temperature steady when the weather is hot. ④ It also helps students avoid headaches in the afternoon. ⑤ Therefore, students should carry a water bottle and drink regularly.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "충분한 물을 마시는 것은 학생에게 중요하다. ① 수업 중 뇌가 집중하도록 돕는다. ② 많은 만화 캐릭터는 노란 셔츠와 파란 바지를 입는다. ③ 날씨가 더울 때 체온을 일정하게 유지한다. ④ 또한 오후에 두통을 피하도록 돕는다. ⑤ 그러므로 학생들은 물병을 가지고 다니며 규칙적으로 마셔야 한다.",
+    "why": "글은 물을 마시는 것의 중요성을 말하는데 ②는 만화 캐릭터 옷 이야기라 관계가 없습니다.",
+    "optionNotes": [
+      "물의 중요성입니다.",
+      "정답(무관). 만화 캐릭터의 옷 이야기입니다.",
+      "물의 중요성입니다.",
+      "물의 중요성입니다.",
+      "결론입니다."
+    ],
+    "trap": "'yellow', 'blue' 같은 색 이야기가 낯설어 보이는 것이 단서입니다.",
+    "tip": "주제(물의 중요성)와 이어지지 않는 문장을 고르세요."
+  },
+  {
+    "id": "m2-13-36",
+    "level": "m2",
+    "set": "mock-13",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Some people believe that cold weather itself causes colds, and they wear thick scarves all winter.\n(A) People catch more colds in winter because they spend more time indoors, close to each other.\n(B) However, colds are caused by viruses, not by low temperatures themselves.\n(C) That is why opening the windows to change the air is still a good habit.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 1,
+    "translation": "어떤 사람들은 추운 날씨 자체가 감기를 일으킨다고 믿어 겨울 내내 두꺼운 목도리를 한다. (B) 그러나 감기는 낮은 기온 자체가 아니라 바이러스 때문에 생긴다. (A) 사람들이 겨울에 감기에 더 많이 걸리는 것은 실내에서 서로 가까이 더 많은 시간을 보내기 때문이다. (C) 그래서 공기를 바꾸려고 창문을 여는 것은 여전히 좋은 습관이다.",
+    "why": "(B) 'However'로 통념 반박 → (A) 겨울에 감기가 느는 이유 → (C) 'That is why'로 결론 순서입니다.",
+    "optionNotes": [
+      "(A)가 반박 없이 처음에 오면 'more colds'의 맥락이 약합니다.",
+      "정답. 반박 → 이유 → 결론.",
+      "(C)의 'That is why'가 이유 앞에 올 수 없습니다.",
+      "(C)가 처음에 오면 'That is why'의 근거가 없습니다.",
+      "(C)가 (B)보다 앞서면 근거가 없습니다."
+    ],
+    "trap": "(C)의 'That is why'는 (A)의 이유를 받는 결론입니다.",
+    "tip": "However → 이유 → That is why의 논리 순서를 확인하세요."
+  },
+  {
+    "id": "m2-13-37",
+    "level": "m2",
+    "set": "mock-13",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Octopuses are very good at escaping from small spaces, and they can squeeze through any hole larger than their beak.\n(A) In the morning, the keepers were amazed to find it back in its own tank.\n(B) It crossed the floor, climbed into the next tank, and ate some fish.\n(C) At an aquarium, one octopus slipped out of its tank at night.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 4,
+    "translation": "문어는 좁은 공간에서 탈출하는 데 매우 뛰어나며 부리보다 큰 구멍이면 어디든 비집고 지나갈 수 있다. (C) 한 수족관에서 문어 한 마리가 밤에 자기 수조에서 빠져나갔다. (B) 그것은 바닥을 가로질러 다음 수조로 올라가 물고기 몇 마리를 먹었다. (A) 아침에 사육사들은 그것이 자기 수조로 돌아와 있는 것을 보고 놀랐다.",
+    "why": "(C) 밤에 빠져나감 → (B) 다른 수조에서 먹음 → (A) 아침에 돌아와 있음 순서입니다.",
+    "optionNotes": [
+      "(A)의 'back'이 앞 사건 없이 올 수 없습니다.",
+      "(B)의 'It'이 가리킬 대상이 앞에 없습니다.",
+      "(B)의 'It'이 가리킬 대상이 앞에 없습니다.",
+      "(A)가 (B)보다 앞서면 먹은 사건이 마지막이 됩니다.",
+      "정답. 탈출 → 이동 → 아침에 돌아옴."
+    ],
+    "trap": "(A)의 'back in its own tank'는 이동한 뒤의 결과입니다.",
+    "tip": "밤 → 이동 → 아침의 시간 흐름을 따라가세요."
+  },
+  {
+    "id": "m2-13-38",
+    "level": "m2",
+    "set": "mock-13",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nCustomers who bring their own cup get a ten percent discount.\n\n[글]\n( ① ) A new café in town uses only reusable cups. ( ② ) As a result, the café has reduced its waste by half. ( ③ ) Many customers say that they feel proud to take part in protecting the environment. ( ④ ) Other cafés in the neighborhood are beginning to follow this example. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "[주어진 문장] 자기 컵을 가져오는 손님은 10퍼센트 할인을 받는다. [글] 마을의 새 카페는 재사용 컵만 사용한다. 자기 컵을 가져오는 손님은 10퍼센트 할인을 받는다. 그 결과 카페는 쓰레기를 절반으로 줄였다. 많은 손님은 환경 보호에 참여하는 것이 자랑스럽다고 말한다. 동네의 다른 카페들도 이 사례를 따르기 시작하고 있다.",
+    "why": "재사용 컵 이야기 뒤에 할인 제도가 나오고, 뒤의 'As a result'가 그 결과를 말하므로 ②에 들어갑니다.",
+    "optionNotes": [
+      "카페가 소개되기 전이라 어색합니다.",
+      "정답. 재사용 컵 뒤에 할인이 나오고 'As a result'가 결과를 받습니다.",
+      "'As a result' 문장 뒤에 오면 원인이 결과 뒤에 나옵니다.",
+      "손님의 반응 뒤라 어색합니다.",
+      "결론 뒤라 어색합니다."
+    ],
+    "trap": "'As a result'가 이끄는 문장의 원인이 주어진 문장임을 확인하세요.",
+    "tip": "As a result 앞에는 그 원인이 되는 문장이 놓입니다."
+  },
+  {
+    "id": "m2-13-39",
+    "level": "m2",
+    "set": "mock-13",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nExperts therefore advise sleeping at least seven hours before an exam.\n\n[글]\n( ① ) Many students feel anxious before exams. ( ② ) Some of them study all night to review everything. ( ③ ) However, lack of sleep lowers the ability to remember and concentrate. ( ④ ) Students who followed this advice reported higher scores than those who stayed up. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "[주어진 문장] 그래서 전문가들은 시험 전에 적어도 일곱 시간은 자라고 조언한다. [글] 많은 학생이 시험 전에 불안해한다. 그들 중 일부는 모든 것을 복습하려고 밤새워 공부한다. 하지만 수면 부족은 기억력과 집중력을 떨어뜨린다. 그래서 전문가들은 시험 전에 적어도 일곱 시간은 자라고 조언한다. 이 조언을 따른 학생들은 밤을 새운 학생들보다 더 높은 점수를 보고했다.",
+    "why": "'therefore'는 앞의 수면 부족의 문제에 대한 결론이고, 뒤의 'this advice'가 가리키는 조언이 먼저 나와야 하므로 ④에 들어갑니다.",
+    "optionNotes": [
+      "문제가 나오기 전이라 'therefore'가 어색합니다.",
+      "밤샘 이야기만 나왔고 이유가 아직 없습니다.",
+      "수면 부족의 문제 앞이라 'therefore'가 어색합니다.",
+      "정답. 문제 뒤의 결론이며 'this advice'가 이를 받습니다.",
+      "'this advice'의 지시 대상이 앞에 없어집니다."
+    ],
+    "trap": "'this advice'가 가리키는 대상이 주어진 문장임을 놓치지 마세요.",
+    "tip": "지시어(this advice)가 가리키는 대상이 주어진 문장에 있는지 확인하세요."
+  },
+  {
+    "id": "m2-13-40",
+    "level": "m2",
+    "set": "mock-13",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Researchers asked two groups of visitors to find several places in an unfamiliar city. One group used a paper map, and the other group followed the directions on a smartphone. The next day, the visitors who had used the paper map could draw the route more accurately and remember more landmarks. The researchers said that reading a map forces people to think about where they are. Following directions does not.\n\n▶ Using a (A) can help people (B) a route better than simply following smartphone directions.",
+    "options": [
+      "(A) camera — (B) forget",
+      "(A) phone — (B) lose",
+      "(A) paper map — (B) remember and understand",
+      "(A) clock — (B) cross",
+      "(A) watch — (B) skip"
+    ],
+    "answer": 2,
+    "translation": "연구자들은 두 집단의 방문객에게 낯선 도시에서 여러 장소를 찾아보게 했다. 한 집단은 종이 지도를 사용했고 다른 집단은 스마트폰의 안내를 따랐다. 다음 날 종이 지도를 사용한 방문객은 경로를 더 정확하게 그리고 더 많은 랜드마크를 기억할 수 있었다. 연구자들은 지도를 읽으면 자신이 어디에 있는지 생각하게 되지만 안내를 따르는 것은 그렇지 않다고 말했다. ▶ 종이 지도를 사용하면 단순히 스마트폰 안내를 따를 때보다 경로를 더 잘 기억하고 이해하는 데 도움이 된다.",
+    "why": "종이 지도를 쓴 집단이 경로를 더 잘 기억했으므로 (A)는 paper map, (B)는 remember and understand입니다.",
+    "optionNotes": [
+      "camera와 forget은 글에 나오지 않습니다.",
+      "phone과 lose는 글과 반대입니다.",
+      "정답. 종이 지도가 경로를 기억하고 이해하도록 돕습니다.",
+      "clock과 cross는 글에 나오지 않습니다.",
+      "watch와 skip은 글에 나오지 않습니다."
+    ],
+    "trap": "스마트폰 집단과 종이 지도 집단의 결과를 혼동하지 마세요.",
+    "tip": "요약문은 결과가 좋은 집단의 수단과 효과를 짝지어 찾으세요."
+  }
+]

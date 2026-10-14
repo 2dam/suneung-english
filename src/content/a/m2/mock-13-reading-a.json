@@ -1,0 +1,337 @@
+[
+  {
+    "id": "m2-13-18",
+    "level": "m2",
+    "set": "mock-13",
+    "no": 18,
+    "type": "purpose",
+    "stem": "다음 글을 쓴 목적으로 가장 적절한 것은?",
+    "passage": "Dear Producer,\nMy name is Haeun Seo, and I have been a regular listener of your morning radio show for three years. My grandmother will turn eighty next Sunday. She loves old Korean songs, especially \"Spring Rain\" by Kim Yeonja. I would like to request this song for her birthday. It would be the best present for her. Thank you for your wonderful show.\nSincerely,\nHaeun Seo",
+    "options": [
+      "라디오 아침 방송의 진행자 자리에 지원하려고",
+      "방송 프로그램의 시간을 문의하려고",
+      "할머니의 노래 대회 참가를 신청하려고",
+      "방송 내용에 대해 항의하려고",
+      "할머니의 생신 선물로 노래를 신청하려고"
+    ],
+    "answer": 4,
+    "translation": "담당 프로듀서님께. 저는 서하은이며 3년 동안 귀 아침 라디오 쇼의 단골 청취자입니다. 우리 할머니는 다음 주 일요일에 여든 살이 되십니다. 할머니는 옛 한국 노래를, 특히 김연자의 '봄비'를 좋아하십니다. 할머니의 생신을 위해 이 노래를 신청하고 싶습니다. 그것은 할머니께 최고의 선물이 될 것입니다. 훌륭한 방송에 감사드립니다. 서하은 드림.",
+    "why": "'I would like to request this song for her birthday.'에서 생신 선물로 노래를 신청하는 글입니다.",
+    "optionNotes": [
+      "지원하는 글이 아닙니다.",
+      "방송 시간 문의가 아닙니다.",
+      "대회 참가 신청이 아닙니다.",
+      "항의하는 글이 아닙니다.",
+      "정답. 할머니의 생신 선물로 노래를 신청합니다."
+    ],
+    "trap": "'regular listener'만 보고 다른 목적을 고르지 마세요.",
+    "tip": "목적 문제는 'I would like to ~' 요청 문장을 찾으세요."
+  },
+  {
+    "id": "m2-13-19",
+    "level": "m2",
+    "set": "mock-13",
+    "no": 19,
+    "type": "mood",
+    "stem": "다음 글에 드러난 'I'의 심경 변화로 가장 적절한 것은?",
+    "passage": "While cleaning the attic, I found a small wooden box under old blankets. I was curious about what was inside, so I opened it carefully. There were dozens of black-and-white photos and a letter. The photos showed my grandfather as a young man, smiling next to a tiny shop. The letter said, \"I hope my grandchildren will know that hard work and kindness can build a life.\" I held the letter against my chest, and my eyes filled with tears.",
+    "options": [
+      "bored → angry and tired",
+      "jealous → proud",
+      "curious → touched",
+      "calm → ashamed",
+      "lonely → excited"
+    ],
+    "answer": 2,
+    "translation": "다락방을 청소하다가 나는 오래된 담요 밑에서 작은 나무 상자를 발견했다. 안에 무엇이 있는지 궁금해서 조심스럽게 열었다. 흑백 사진 수십 장과 편지가 있었다. 사진에는 작은 가게 옆에서 웃고 있는 젊은 시절의 할아버지가 있었다. 편지에는 \"내 손주들이 노력과 친절이 삶을 세울 수 있다는 것을 알았으면 좋겠다.\"라고 적혀 있었다. 나는 편지를 가슴에 대었고 눈에 눈물이 고였다.",
+    "why": "처음에는 상자 속이 궁금했다가(curious), 할아버지의 편지를 읽고 감동해 눈물을 흘렸습니다(touched).",
+    "optionNotes": [
+      "지루함에서 화남이 아닙니다.",
+      "질투에서 자랑스러움이 아닙니다.",
+      "정답. 궁금함에서 감동으로 변했습니다.",
+      "침착함에서 부끄러움이 아닙니다.",
+      "외로움에서 신남이 아닙니다."
+    ],
+    "trap": "마지막의 'tears'를 슬픔(sad)으로만 보지 마세요. 편지 내용이 감동을 줍니다.",
+    "tip": "처음의 호기심 표현과 마지막 신체 반응(tears)을 비교하세요."
+  },
+  {
+    "id": "m2-13-20",
+    "level": "m2",
+    "set": "mock-13",
+    "no": 20,
+    "type": "claim",
+    "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+    "passage": "Many families throw away clothes that no longer fit or are out of fashion. Yet most of those clothes are still in good condition. Producing a single cotton T-shirt requires thousands of liters of water. So throwing it away wastes more than a piece of cloth. Meanwhile, many people cannot afford warm clothes in winter. If we donate clothes instead of throwing them away, we can help others and protect the environment at the same time. So we should donate our old clothes rather than throwing them away.",
+    "options": [
+      "새 옷은 가능한 한 자주 사야 한다.",
+      "면 티셔츠는 환경에 해로우므로 입지 말아야 한다.",
+      "유행이 지난 옷은 집에 모두 보관해야 한다.",
+      "입지 않는 옷은 버리지 말고 기부해야 한다.",
+      "겨울옷은 해마다 새로 사야 한다."
+    ],
+    "answer": 3,
+    "translation": "많은 가정이 몸에 맞지 않거나 유행이 지난 옷을 버린다. 하지만 그런 옷의 대부분은 아직 상태가 좋다. 면 티셔츠 한 장을 만들려면 수천 리터의 물이 필요하므로 그것을 버리는 것은 천 조각 이상을 낭비하는 것이다. 한편 많은 사람은 겨울에 따뜻한 옷을 살 형편이 되지 않는다. 옷을 버리는 대신 기부하면 남을 돕고 동시에 환경을 보호할 수 있다. 그러므로 우리는 오래된 옷을 버리지 말고 기부해야 한다.",
+    "why": "마지막 문장 'we should donate our old clothes rather than throwing them away'가 필자의 주장입니다.",
+    "optionNotes": [
+      "새 옷을 사라는 내용은 글과 반대입니다.",
+      "입지 말아야 한다는 내용은 없습니다.",
+      "보관하라는 내용은 없습니다.",
+      "정답. 버리지 말고 기부해야 합니다.",
+      "해마다 새로 사라는 내용은 없습니다."
+    ],
+    "trap": "티셔츠 제작에 필요한 물 이야기는 근거일 뿐 주장이 아닙니다.",
+    "tip": "주장 문제는 'So we should ~' 문장을 찾으세요."
+  },
+  {
+    "id": "m2-13-21",
+    "level": "m2",
+    "set": "mock-13",
+    "no": 21,
+    "type": "implied",
+    "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "passage": "Jina hated going to the dentist, and she had put it off for months. But the pain in her tooth was getting worse. Finally, she decided to {u|bite the bullet} and make an appointment for the next day.",
+    "options": [
+      "bite hard on a piece of metal that she found in the kitchen",
+      "protect herself from danger",
+      "stay away from sweet food",
+      "force herself to do something unpleasant",
+      "buy a gift for her dentist"
+    ],
+    "answer": 3,
+    "translation": "지나는 치과에 가는 것을 싫어해서 몇 달 동안 미루었다. 하지만 이의 통증이 점점 심해지고 있었다. 마침내 그녀는 이를 악물고 다음 날로 예약을 잡기로 했다.",
+    "why": "싫어하던 치과에 가기로 결심했으므로 'bite the bullet'은 싫은 일을 억지로 해낸다는 뜻입니다.",
+    "optionNotes": [
+      "금속을 문다는 뜻이 아닙니다.",
+      "위험에서 몸을 지킨다는 뜻이 아닙니다.",
+      "단 음식을 피한다는 뜻이 아닙니다.",
+      "정답. 싫은 일을 억지로 해낸다는 뜻입니다.",
+      "선물을 산다는 뜻이 아닙니다."
+    ],
+    "trap": "'bite'와 'bullet'을 문자 그대로 해석하지 마세요.",
+    "tip": "관용 표현은 뒤 문장(make an appointment)에서 의미를 추론하세요."
+  },
+  {
+    "id": "m2-13-22",
+    "level": "m2",
+    "set": "mock-13",
+    "no": 22,
+    "type": "gist",
+    "stem": "다음 글의 요지로 가장 적절한 것은?",
+    "passage": "Many people find it hard to say no. They worry that others will be disappointed or think badly of them. As a result, they agree to everything and end up with too much to do. They feel tired, and they have no time left for the things that really matter. Learning to say no politely is not selfish. It protects your time and health, and it allows you to give your best to the things you truly choose.",
+    "options": [
+      "정중하게 거절하는 법을 배우는 것은 자신의 시간과 건강을 지키는 데 중요하다.",
+      "남이 부탁하면 자신의 시간이나 사정과 상관없이 언제나 모두 기꺼이 들어주어야 한다.",
+      "거절하는 사람은 이기적이다.",
+      "피곤할 때는 아무 일도 하지 않는 것이 좋다.",
+      "친구에게는 화를 내며 거절해야 한다."
+    ],
+    "answer": 0,
+    "translation": "많은 사람들은 거절하기를 어려워한다. 그들은 다른 사람이 실망하거나 자신을 나쁘게 생각할까 봐 걱정한다. 그 결과 모든 것에 동의하고 해야 할 일이 너무 많아진다. 그들은 피곤하고 정말 중요한 일을 위한 시간이 남지 않는다. 정중하게 거절하는 법을 배우는 것은 이기적인 것이 아니다. 그것은 자신의 시간과 건강을 지켜 주고 자신이 정말 선택한 일에 최선을 다하게 해 준다.",
+    "why": "정중하게 거절하는 것이 이기적이지 않고 시간과 건강을 지켜 준다는 것이 요지입니다.",
+    "optionNotes": [
+      "정답. 거절하는 법을 배우는 것이 시간과 건강을 지킵니다.",
+      "글과 반대입니다.",
+      "이기적이지 않다고 했습니다.",
+      "아무 일도 하지 않으라는 내용은 없습니다.",
+      "화를 내라는 내용은 없습니다."
+    ],
+    "trap": "앞부분의 고민(They worry ...)을 요지로 착각하지 마세요.",
+    "tip": "마지막 문장과 부정문('not selfish') 뒤가 요지를 담습니다."
+  },
+  {
+    "id": "m2-13-23",
+    "level": "m2",
+    "set": "mock-13",
+    "no": 23,
+    "type": "topic",
+    "stem": "다음 글의 주제로 가장 적절한 것은?",
+    "passage": "Birds have beaks of many shapes. A woodpecker's beak is hard and pointed, so it can drill into trees to find insects. A hummingbird's beak is long and thin, which is perfect for reaching deep into flowers to drink nectar. An eagle's beak is strong and curved, so it can tear meat. In each case, the shape of the beak is closely related to the kind of food the bird eats.",
+    "options": [
+      "why some birds migrate to warm countries in winter",
+      "how the shape of a bird's beak is related to the food it eats",
+      "how birds build their nests in tall trees",
+      "why some birds can mimic human voices",
+      "how birds raise their young after hatching"
+    ],
+    "answer": 1,
+    "translation": "새는 여러 모양의 부리를 가지고 있다. 딱따구리의 부리는 단단하고 뾰족해서 곤충을 찾으려고 나무에 구멍을 뚫을 수 있다. 벌새의 부리는 길고 가늘어 꽃 깊숙이 있는 꿀을 마시기에 알맞다. 독수리의 부리는 강하고 구부러져 고기를 찢을 수 있다. 각 경우에 부리의 모양은 그 새가 먹는 먹이의 종류와 밀접하게 관련되어 있다.",
+    "why": "새 부리의 모양과 먹이의 관계를 설명하는 글입니다.",
+    "optionNotes": [
+      "철새 이야기는 나오지 않습니다.",
+      "정답. 부리의 모양과 먹이의 관계입니다.",
+      "둥지는 나오지 않습니다.",
+      "흉내 내기는 나오지 않습니다.",
+      "새끼 양육은 나오지 않습니다."
+    ],
+    "trap": "예시(woodpecker, hummingbird, eagle)만 보고 한 새의 이야기를 고르지 마세요.",
+    "tip": "마지막 문장 'In each case'가 주제를 요약합니다."
+  },
+  {
+    "id": "m2-13-24",
+    "level": "m2",
+    "set": "mock-13",
+    "no": 24,
+    "type": "title",
+    "stem": "다음 글의 제목으로 가장 적절한 것은?",
+    "passage": "In some neighborhoods, a \"walking bus\" takes children to school every morning. A volunteer adult leads the group and walks along a fixed route. The leader picks up children at each \"bus stop\" at the same time. The children talk, sing, and look around as they walk. Parents feel safer, and the roads near the school have fewer cars. The children also get regular exercise before the day begins.",
+    "options": [
+      "The Walking Bus: A Safe and Fun Way to School",
+      "How to Drive a Big School Bus Safely in Heavy Traffic",
+      "Why Children Should Stay Home",
+      "The History of Public Transportation",
+      "Ten Rules for Crossing the Street"
+    ],
+    "answer": 0,
+    "translation": "일부 동네에서는 '걷는 버스'가 매일 아침 아이들을 학교로 데려간다. 자원봉사 어른이 무리를 이끌고 정해진 경로를 걸으며 각 '버스 정류장'에서 같은 시각에 아이들을 태운다. 아이들은 걸으면서 이야기하고 노래하고 주위를 둘러본다. 부모는 더 안심하고 학교 주변 도로는 차가 줄어든다. 아이들은 하루가 시작되기 전에 규칙적으로 운동도 한다.",
+    "why": "아이들이 어른과 함께 걸어서 등교하는 '걷는 버스'를 소개하므로 ①이 제목입니다.",
+    "optionNotes": [
+      "정답. 안전하고 즐겁게 학교에 가는 걷는 버스입니다.",
+      "버스 운전은 나오지 않습니다.",
+      "집에 있으라는 내용은 없습니다.",
+      "대중교통의 역사는 나오지 않습니다.",
+      "길 건너기 규칙은 나오지 않습니다."
+    ],
+    "trap": "'bus'가 들어간 ②③에 이끌리지 마세요.",
+    "tip": "제목은 핵심 대상(walking bus)과 이점(safe and fun)을 담으세요."
+  },
+  {
+    "id": "m2-13-25",
+    "level": "m2",
+    "set": "mock-13",
+    "no": 25,
+    "type": "chart",
+    "stem": "다음 도표의 내용과 일치하지 않는 것은?",
+    "chart": {
+      "title": "Daily Smartphone Use by Grade (hours)",
+      "unit": "hours",
+      "labels": [
+        "Grade 1",
+        "Grade 2",
+        "Grade 3"
+      ],
+      "series": [
+        {
+          "name": "Weekdays",
+          "values": [
+            2,
+            2.5,
+            3
+          ]
+        },
+        {
+          "name": "Weekends",
+          "values": [
+            3.5,
+            4,
+            4.5
+          ]
+        }
+      ]
+    },
+    "passage": "The graph shows how many hours students use smartphones each day. ① Weekday use increases as the grade gets higher. ② Students in every grade use their phones longer on weekends than on weekdays. ③ Grade 1 students use their phones for 3.5 hours on weekends. ④ Grade 3 students use their phones for two hours longer on weekends than on weekdays. ⑤ The difference between weekday and weekend use in Grade 2 is 1.5 hours.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "그래프는 학생들이 매일 스마트폰을 몇 시간 사용하는지 보여 준다. ① 평일 사용 시간은 학년이 높아질수록 늘어난다. ② 모든 학년에서 학생들은 평일보다 주말에 스마트폰을 더 오래 사용한다. ③ 1학년은 주말에 3.5시간 스마트폰을 사용한다. ④ 3학년은 평일보다 주말에 두 시간 더 오래 사용한다. ⑤ 2학년의 평일과 주말 사용 시간 차이는 1.5시간이다.",
+    "why": "3학년은 평일 3시간, 주말 4.5시간이므로 차이는 1.5시간입니다. 두 시간 더 오래라는 ④는 일치하지 않습니다.",
+    "optionNotes": [
+      "2, 2.5, 3시간으로 늘어납니다.",
+      "모든 학년에서 주말이 더 깁니다.",
+      "1학년 주말은 3.5시간입니다.",
+      "정답(불일치). 3학년의 차이는 1.5시간입니다.",
+      "2학년은 4 − 2.5 = 1.5시간입니다."
+    ],
+    "trap": "차이를 직접 계산하지 않으면 놓치기 쉽습니다.",
+    "tip": "차이를 묻는 보기는 두 값을 직접 빼서 확인하세요."
+  },
+  {
+    "id": "m2-13-26",
+    "level": "m2",
+    "set": "mock-13",
+    "no": 26,
+    "type": "match",
+    "stem": "Mina Choi에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Mina Choi is a fifteen-year-old girl from Jeonju who loves traditional Korean music. She began learning the gayageum, a Korean string instrument, at the age of nine. Every Saturday, she visits a nursing home near her house and plays the instrument for the residents. Last year, she won the second prize at a national traditional music contest for teenagers. She hopes to compose new songs that mix traditional and modern styles.",
+    "options": [
+      "아홉 살에 피아노를 배우기 시작했다.",
+      "전국 대회에서 1등을 차지했다.",
+      "매주 일요일 학교에서 친구들에게 연주해 준다.",
+      "현대 음악은 전혀 좋아하지 않는다.",
+      "매주 토요일 집 근처 요양원에서 어르신들께 가야금을 연주해 준다."
+    ],
+    "answer": 4,
+    "translation": "최미나는 전주 출신의 전통 음악을 사랑하는 열다섯 살 소녀이다. 그녀는 아홉 살에 한국의 현악기인 가야금을 배우기 시작했다. 매주 토요일 그녀는 집 근처 요양원을 방문해 어르신들께 연주해 준다. 작년에 그녀는 청소년 전국 전통 음악 대회에서 2등상을 받았다. 그녀는 전통과 현대 양식을 섞은 새로운 곡을 작곡하기를 바란다.",
+    "why": "'Every Saturday, she visits a nursing home near her house and plays the instrument for the residents.'와 일치합니다.",
+    "optionNotes": [
+      "가야금을 배웠습니다.",
+      "2등상을 받았습니다.",
+      "토요일에 요양원에서 연주합니다.",
+      "전통과 현대를 섞고 싶어 합니다.",
+      "정답. 매주 토요일 요양원에서 가야금을 연주해 줍니다."
+    ],
+    "trap": "등수(second/first)와 요일(Saturday/Sunday)을 바꾼 보기에 주의하세요.",
+    "tip": "일치 문제는 시기별·항목별 사실(악기, 방문, 수상, 꿈)을 대조하세요."
+  },
+  {
+    "id": "m2-13-27",
+    "level": "m2",
+    "set": "mock-13",
+    "no": 27,
+    "type": "notice",
+    "stem": "Neighborhood Soccer Tournament에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Neighborhood Soccer Tournament\nJoin us for a day of fun and sports!\nDate: Sunday, May 25\nTime: 9:00 a.m. – 5:00 p.m.\nPlace: Riverside Sports Park\nWho: Teams of 7 players aged 13 to 15\nFee: $35 per team\nRegistration: By May 15 at the community center\nPrize: Trophies and pizza coupons for the top three teams",
+    "options": [
+      "토요일에 열린다.",
+      "팀은 7명으로 구성된다.",
+      "개인 참가 신청도 가능하다.",
+      "참가비는 개인당 35달러이다.",
+      "상위 다섯 팀에게 상을 준다."
+    ],
+    "answer": 1,
+    "translation": "동네 축구 대회. 즐거운 운동의 하루에 함께하세요! 날짜: 5월 25일 일요일. 시간: 오전 9시~오후 5시. 장소: 강변 스포츠 공원. 대상: 13~15세 7명으로 구성된 팀. 참가비: 팀당 35달러. 접수: 5월 15일까지 주민센터에서. 상: 상위 세 팀에게 트로피와 피자 쿠폰.",
+    "why": "'Teams of 7 players aged 13 to 15'와 일치합니다.",
+    "optionNotes": [
+      "일요일에 열립니다.",
+      "정답. 팀은 7명으로 구성됩니다.",
+      "팀 단위로 참가합니다.",
+      "참가비는 팀당입니다.",
+      "상위 세 팀이 받습니다."
+    ],
+    "trap": "'per team'을 '개인당'으로 바꾼 ④에 주의하세요.",
+    "tip": "안내문은 항목(Who, Fee, Prize)별로 대조하세요."
+  },
+  {
+    "id": "m2-13-28",
+    "level": "m2",
+    "set": "mock-13",
+    "no": 28,
+    "type": "notice",
+    "stem": "Winter Wildlife Walk에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Winter Wildlife Walk\nDiscover animals and birds in the winter forest!\nDate: Saturday, January 18\nTime: 10:00 a.m. – 12:30 p.m.\nPlace: Hanbit Nature Reserve (meet at the visitor center)\nWho: Anyone aged 8 or older\nFee: $6 (hot tea is included)\nBring: Warm clothes, waterproof shoes, and binoculars (rental available for $2)\nNote: The walk will not be held in case of heavy snow.",
+    "options": [
+      "아무 연령이나 참가할 수 있다.",
+      "점심 식사가 제공된다.",
+      "집합 장소는 입구 주차장이다.",
+      "쌍안경은 반드시 현장에서 미리 구입해야 한다.",
+      "폭설이 오면 행사가 열리지 않는다."
+    ],
+    "answer": 4,
+    "translation": "겨울 야생 동물 탐방. 겨울 숲의 동물과 새를 만나 보세요! 날짜: 1월 18일 토요일. 시간: 오전 10시~낮 12시 30분. 장소: 한빛 자연 보호구역(방문자 센터에서 모임). 대상: 8세 이상 누구나. 참가비: 6달러(따뜻한 차 포함). 준비물: 따뜻한 옷, 방수 신발, 쌍안경(2달러에 대여 가능). 유의: 폭설이 오면 열리지 않습니다.",
+    "why": "'The walk will not be held in case of heavy snow.'와 일치합니다.",
+    "optionNotes": [
+      "8세 이상이 대상입니다.",
+      "따뜻한 차가 포함됩니다.",
+      "방문자 센터에서 모입니다.",
+      "2달러에 대여할 수 있습니다.",
+      "정답. 폭설이 오면 열리지 않습니다."
+    ],
+    "trap": "괄호 안의 정보(rental available)를 놓치면 ④를 고르기 쉽습니다.",
+    "tip": "괄호 안의 정보와 Note를 함께 확인하세요."
+  }
+]

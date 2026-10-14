@@ -1,0 +1,147 @@
+[
+  {
+    "id": "m2-13-41",
+    "level": "m2",
+    "set": "mock-13",
+    "no": 41,
+    "type": "long",
+    "group": "m2-13-g41",
+    "stem": "[41~42] 윗글의 제목으로 가장 적절한 것을 고르시오.",
+    "passage": "The Leaning Tower of Pisa began to {1|straighten} soon after its construction started. It was built on soft ground. The tower continued to lean for centuries, and by 1990 it was in danger of {2|falling}. Engineers carefully {3|removed} soil from under the high side, so the tower slowly moved back toward the vertical. After more than ten years of work, they succeeded in making it about forty centimeters straighter. Today the tower is {4|safe} for at least two hundred years. Visitors can {5|climb} it again.",
+    "options": [
+      "Why Italy Is So Famous for Its Delicious Food and Wine",
+      "The Tallest Towers in Europe",
+      "The Tower That Learned to Stand Straighter",
+      "How Soft Ground Is Used for Farming",
+      "The History of Italian Art"
+    ],
+    "answer": 2,
+    "translation": "피사의 사탑은 부드러운 땅에 지어졌기 때문에 건설이 시작된 직후 기울기 시작했다. 탑은 수백 년 동안 계속 기울어 1990년에는 쓰러질 위험에 처했다. 기술자들은 높은 쪽 아래의 흙을 조심스럽게 제거했고 탑은 서서히 수직 쪽으로 움직였다. 10년이 넘는 작업 끝에 그들은 탑을 약 40센티미터 더 곧게 만드는 데 성공했다. 오늘날 탑은 적어도 200년 동안 안전하며 방문객들은 다시 올라갈 수 있다.",
+    "why": "기울어진 탑을 기술자들이 더 곧게 바로잡은 이야기이므로 ③이 제목입니다.",
+    "optionNotes": [
+      "음식 이야기는 나오지 않습니다.",
+      "가장 높은 탑 이야기는 나오지 않습니다.",
+      "정답. 더 곧게 서게 된 탑 이야기입니다.",
+      "농사 이야기는 나오지 않습니다.",
+      "예술의 역사는 나오지 않습니다."
+    ],
+    "trap": "'soft ground'만 보고 ④를 고르지 마세요.",
+    "tip": "제목은 중심 대상(tower)과 변화(stand straighter)를 담으세요."
+  },
+  {
+    "id": "m2-13-42",
+    "level": "m2",
+    "set": "mock-13",
+    "no": 42,
+    "type": "long",
+    "group": "m2-13-g41",
+    "stem": "[41~42] 밑줄 친 ①~⑤ 중에서 문맥상 낱말의 쓰임이 적절하지 않은 것을 고르시오.",
+    "passage": "The Leaning Tower of Pisa began to {1|straighten} soon after its construction started. It was built on soft ground. The tower continued to lean for centuries, and by 1990 it was in danger of {2|falling}. Engineers carefully {3|removed} soil from under the high side, so the tower slowly moved back toward the vertical. After more than ten years of work, they succeeded in making it about forty centimeters straighter. Today the tower is {4|safe} for at least two hundred years. Visitors can {5|climb} it again.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "(41번 지문과 같은 글입니다.)",
+    "why": "부드러운 땅 때문에 건설 직후 탑이 기울기 시작했다고 해야 하므로 'straighten'이 아니라 'lean'이어야 합니다.",
+    "optionNotes": [
+      "정답(부적절). 땅이 부드러워 기울기 시작했으므로 lean이어야 합니다.",
+      "쓰러질 위험이라는 의미로 falling이 알맞습니다.",
+      "흙을 제거한다는 의미로 removed가 알맞습니다.",
+      "안전하다는 의미로 safe가 알맞습니다.",
+      "올라갈 수 있다는 의미로 climb이 알맞습니다."
+    ],
+    "trap": "'because it was built on soft ground'를 확인해야 합니다.",
+    "tip": "because 뒤의 원인과 결과 동사의 방향이 맞는지 확인하세요."
+  },
+  {
+    "id": "m2-13-43",
+    "level": "m2",
+    "set": "mock-13",
+    "no": 43,
+    "type": "long",
+    "group": "m2-13-g43",
+    "stem": "[43~45] 주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것을 고르시오.",
+    "passage": "(A) Joon wanted to try out for the school basketball team, but he was short, and some friends laughed at him. His uncle, a former player, saw his sad face. {1|He} said, \"Height is not everything. Come to the court with me.\"\n(B) After a month, Joon was quicker than most players. {2|He} could steal the ball easily.\n(C) That weekend, on the court, Joon's uncle taught him to dribble low and pass fast. {3|He} practiced until his hands turned red.\n(D) At the tryout, Joon made three quick steals. {4|He} was chosen for the team, and {5|he} jumped for joy.",
+    "options": [
+      "(B)-(D)-(C)",
+      "(C)-(B)-(D)",
+      "(C)-(D)-(B)",
+      "(D)-(B)-(C)",
+      "(D)-(C)-(B)"
+    ],
+    "answer": 1,
+    "translation": "(A) 준은 학교 농구팀 선발에 도전하고 싶었지만 키가 작아서 일부 친구들이 비웃었다. 전직 선수였던 삼촌이 그의 슬픈 얼굴을 보았다. 삼촌은 \"키가 전부는 아니란다. 나와 함께 코트에 가자.\"라고 말했다. (C) 그 주말 코트에서 준의 삼촌은 그에게 낮게 드리블하고 빠르게 패스하는 법을 가르쳤다. 준은 손이 빨개질 때까지 연습했다. (B) 한 달 뒤 준은 대부분의 선수보다 빨랐다. 그는 쉽게 공을 가로챌 수 있었다. (D) 선발 시험에서 준은 세 번 빠르게 스틸을 했다. 그는 팀에 뽑혔고 기뻐서 펄쩍 뛰었다.",
+    "why": "(A) 삼촌이 코트에 가자고 함 → (C) 그 주말에 연습 → (B) 한 달 뒤 빨라짐 → (D) 선발 시험 순서입니다.",
+    "optionNotes": [
+      "(B)의 한 달 뒤가 (C)의 연습보다 앞설 수 없습니다.",
+      "정답. 연습 → 한 달 뒤 → 선발 시험.",
+      "(D)가 (B)보다 앞서면 빨라지기 전에 선발됩니다.",
+      "(D)가 처음에 올 수 없습니다.",
+      "(D)가 처음에 올 수 없습니다."
+    ],
+    "trap": "(B)의 'After a month'는 (C)의 연습 이후입니다.",
+    "tip": "That weekend → After a month → At the tryout의 시간 흐름을 따라가세요."
+  },
+  {
+    "id": "m2-13-44",
+    "level": "m2",
+    "set": "mock-13",
+    "no": 44,
+    "type": "long",
+    "group": "m2-13-g43",
+    "stem": "[43~45] 밑줄 친 ①~⑤ 중에서 가리키는 대상이 나머지 넷과 다른 것을 고르시오.",
+    "passage": "(A) Joon wanted to try out for the school basketball team, but he was short, and some friends laughed at him. His uncle, a former player, saw his sad face. {1|He} said, \"Height is not everything. Come to the court with me.\"\n(B) After a month, Joon was quicker than most players. {2|He} could steal the ball easily.\n(C) That weekend, on the court, Joon's uncle taught him to dribble low and pass fast. {3|He} practiced until his hands turned red.\n(D) At the tryout, Joon made three quick steals. {4|He} was chosen for the team, and {5|he} jumped for joy.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "①의 He는 \"키가 전부는 아니란다.\"라고 말한 삼촌이고, 나머지 ②③④⑤는 모두 준을 가리킵니다.",
+    "optionNotes": [
+      "정답. He는 코트에 가자고 말한 삼촌입니다.",
+      "He는 쉽게 공을 가로챈 준입니다.",
+      "He는 손이 빨개질 때까지 연습한 준입니다.",
+      "He는 팀에 뽑힌 준입니다.",
+      "he는 기뻐서 펄쩍 뛴 준입니다."
+    ],
+    "trap": "앞 문장의 주어가 'His uncle'이므로 He도 삼촌입니다.",
+    "tip": "같은 성별의 두 인물이 나오면 직전 문장의 주어를 확인하세요."
+  },
+  {
+    "id": "m2-13-45",
+    "level": "m2",
+    "set": "mock-13",
+    "no": 45,
+    "type": "long",
+    "group": "m2-13-g43",
+    "stem": "[43~45] 윗글에 관한 내용으로 적절하지 않은 것을 고르시오.",
+    "passage": "(A) Joon wanted to try out for the school basketball team, but he was short, and some friends laughed at him. His uncle, a former player, saw his sad face. {1|He} said, \"Height is not everything. Come to the court with me.\"\n(B) After a month, Joon was quicker than most players. {2|He} could steal the ball easily.\n(C) That weekend, on the court, Joon's uncle taught him to dribble low and pass fast. {3|He} practiced until his hands turned red.\n(D) At the tryout, Joon made three quick steals. {4|He} was chosen for the team, and {5|he} jumped for joy.",
+    "options": [
+      "준은 키가 작아서 일부 친구들에게 비웃음을 당했다.",
+      "삼촌은 준에게 낮게 드리블하고 빠르게 패스하는 법을 가르쳤다.",
+      "한 달 뒤 준은 대부분의 선수보다 빨라졌다.",
+      "준은 선발 시험에서 세 번 스틸을 했다.",
+      "삼촌이 감독에게 부탁해 준은 실력과 상관없이 팀에 들어갈 수 있었다."
+    ],
+    "answer": 4,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "준은 선발 시험에서 자신의 실력으로 팀에 뽑혔으므로 삼촌의 부탁으로 들어갔다는 ⑤는 일치하지 않습니다.",
+    "optionNotes": [
+      "some friends laughed at him과 일치합니다.",
+      "taught him to dribble low and pass fast와 일치합니다.",
+      "quicker than most players와 일치합니다.",
+      "made three quick steals와 일치합니다.",
+      "정답(불일치). 준은 시험에서 실력으로 선발되었습니다."
+    ],
+    "trap": "삼촌이 도운 것은 연습뿐이므로 팀 선발에 영향을 주었다고 착각하지 마세요.",
+    "tip": "불일치 문제는 인물의 역할(uncle)을 과장한 보기를 찾으세요."
+  }
+]
