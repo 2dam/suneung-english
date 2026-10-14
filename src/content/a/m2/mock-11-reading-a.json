@@ -1,0 +1,337 @@
+[
+  {
+    "id": "m2-11-18",
+    "level": "m2",
+    "set": "mock-11",
+    "no": 18,
+    "type": "purpose",
+    "stem": "다음 글을 쓴 목적으로 가장 적절한 것은?",
+    "passage": "Dear Customer Service Team,\nI bought a pair of wireless earphones from your online shop last week. However, the right earphone does not make any sound. I have charged them fully and tried different devices, but the problem remains. I have attached my receipt and a short video. I would like to exchange the product for a new one. I look forward to your reply.\nSincerely,\nSumin Lee",
+    "options": [
+      "제품의 사용법을 문의하려고",
+      "배송이 늦어진 것에 항의하려고",
+      "불량 제품의 교환을 요청하려고",
+      "제품의 가격 할인을 요청하려고",
+      "이어폰 구입 후기를 남기려고"
+    ],
+    "answer": 2,
+    "translation": "고객 서비스 팀께. 저는 지난주 귀사의 온라인 상점에서 무선 이어폰을 샀습니다. 그런데 오른쪽 이어폰에서 소리가 전혀 나지 않습니다. 완전히 충전하고 다른 기기로도 시도했지만 문제가 계속됩니다. 영수증과 짧은 영상을 첨부했습니다. 새 제품으로 교환하고 싶습니다. 답변을 기다리겠습니다. 이수민 드림.",
+    "why": "'I would like to exchange the product for a new one'에서 불량 제품의 교환을 요청하는 글입니다.",
+    "optionNotes": [
+      "사용법 문의가 아닙니다.",
+      "배송 지연은 나오지 않습니다.",
+      "정답. 불량 이어폰의 교환을 요청합니다.",
+      "할인 요청이 아닙니다.",
+      "후기를 남기는 글이 아닙니다."
+    ],
+    "trap": "문제 상황에 대한 설명이 길지만 목적은 마지막의 요청입니다.",
+    "tip": "목적 문제는 'I would like to ~' 요청 문장을 찾으세요."
+  },
+  {
+    "id": "m2-11-19",
+    "level": "m2",
+    "set": "mock-11",
+    "no": 19,
+    "type": "mood",
+    "stem": "다음 글에 드러난 'I'의 심경 변화로 가장 적절한 것은?",
+    "passage": "I stood at the arrival gate of the airport, holding a sign with my sister's name. She had been studying abroad for three years. What if she had changed so much that I would not recognize her? My hands were damp, and I kept checking the gate. Then a tall woman with a familiar smile came out and ran toward me. I dropped the sign and hugged her. I could not stop laughing.",
+    "options": [
+      "bored → angry",
+      "jealous → grateful",
+      "lonely → surprised and shocked",
+      "anxious → delighted",
+      "calm → ashamed"
+    ],
+    "answer": 3,
+    "translation": "나는 공항 도착 게이트에 서서 언니의 이름이 적힌 팻말을 들고 있었다. 언니는 3년 동안 해외에서 공부했다. 언니가 너무 많이 변해서 내가 알아보지 못하면 어쩌지? 손이 축축했고 나는 계속 게이트를 확인했다. 그때 익숙한 미소를 가진 키 큰 여자가 나와서 내게 달려왔다. 나는 팻말을 떨어뜨리고 언니를 안았다. 웃음을 멈출 수 없었다.",
+    "why": "알아보지 못할까 봐 걱정하며 손이 축축했다가(anxious), 언니를 만나 안고 웃음을 멈추지 못할 만큼 기뻐했습니다(delighted).",
+    "optionNotes": [
+      "지루함에서 화남이 아닙니다.",
+      "질투에서 감사가 아닙니다.",
+      "외로움에서 놀람이 아닙니다.",
+      "정답. 불안에서 기쁨으로 변했습니다.",
+      "침착함에서 부끄러움이 아닙니다."
+    ],
+    "trap": "'dropped the sign'을 보고 surprised로 오해하지 마세요.",
+    "tip": "처음의 걱정(What if ~?)과 마지막 행동(hugged, laughing)을 비교하세요."
+  },
+  {
+    "id": "m2-11-20",
+    "level": "m2",
+    "set": "mock-11",
+    "no": 20,
+    "type": "claim",
+    "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+    "passage": "Many young people eat instant food because they do not know how to cook. Yet cooking is a basic life skill that helps people eat healthier and spend less money. It also teaches planning, patience, and creativity. Unfortunately, most schools treat it as an optional activity. Since every student will need to feed themselves one day, schools should teach cooking as a regular subject.",
+    "options": [
+      "학교는 요리를 정규 교과로 가르쳐야 한다.",
+      "학생은 매일 점심을 집에서 직접 만들어 학교에 와야 한다.",
+      "즉석식품의 판매를 금지해야 한다.",
+      "요리는 전문가만 배워야 한다.",
+      "급식 메뉴를 학생이 정해야 한다."
+    ],
+    "answer": 0,
+    "translation": "많은 젊은이들은 요리하는 법을 몰라서 즉석식품을 먹는다. 하지만 요리는 사람들이 더 건강하게 먹고 돈을 덜 쓰게 해 주는 기본적인 생활 기술이다. 또한 계획, 인내, 창의력을 가르쳐 준다. 안타깝게도 대부분의 학교는 이것을 선택 활동으로 취급한다. 모든 학생이 언젠가 스스로 먹을 것을 마련해야 하므로 학교는 요리를 정규 교과로 가르쳐야 한다.",
+    "why": "마지막 문장 'schools should teach cooking as a regular subject'가 필자의 주장입니다.",
+    "optionNotes": [
+      "정답. 요리를 정규 교과로 가르쳐야 합니다.",
+      "점심을 만들어 오라는 내용은 없습니다.",
+      "판매 금지는 나오지 않습니다.",
+      "전문가만 배우라는 내용은 글과 반대입니다.",
+      "급식 메뉴는 나오지 않습니다."
+    ],
+    "trap": "첫 문장의 현상(instant food)을 필자의 주장으로 오해하지 마세요.",
+    "tip": "주장 문제는 'Since ~, ... should ...' 문장을 찾으세요."
+  },
+  {
+    "id": "m2-11-21",
+    "level": "m2",
+    "set": "mock-11",
+    "no": 21,
+    "type": "implied",
+    "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "passage": "My cousin lives in Canada, and the tickets are very expensive. Because of this, we only meet {u|once in a blue moon}. The last time I saw her was three years ago, and I miss her a lot.",
+    "options": [
+      "very rarely, only after a long period of time",
+      "every morning before school begins",
+      "on every weekend during the summer",
+      "whenever the moon becomes blue",
+      "at night when it is quiet"
+    ],
+    "answer": 0,
+    "translation": "사촌은 캐나다에 살고 비행기 표가 매우 비싸다. 그래서 우리는 아주 드물게만 만난다. 내가 그녀를 마지막으로 본 것은 3년 전이고 나는 그녀가 많이 보고 싶다.",
+    "why": "3년 전에 마지막으로 만났다는 내용이므로 'once in a blue moon'은 아주 드물게라는 뜻입니다.",
+    "optionNotes": [
+      "정답. 아주 드물게 오랜 시간이 지난 뒤라는 뜻입니다.",
+      "매일 아침이라는 뜻이 아닙니다.",
+      "여름 주말마다라는 뜻이 아닙니다.",
+      "달이 파랗게 될 때마다라는 문자적 뜻이 아닙니다.",
+      "밤에라는 뜻이 아닙니다."
+    ],
+    "trap": "'blue moon'을 문자 그대로 해석하면 ④를 고르게 됩니다.",
+    "tip": "관용 표현은 뒤 문장(three years ago)에서 의미를 추론하세요."
+  },
+  {
+    "id": "m2-11-22",
+    "level": "m2",
+    "set": "mock-11",
+    "no": 22,
+    "type": "gist",
+    "stem": "다음 글의 요지로 가장 적절한 것은?",
+    "passage": "Many families are too busy to eat meals together. Yet studies show something clear. Children who share meals with their family regularly talk more about their day and feel closer to their parents. They also tend to eat more vegetables and fewer sweets. A shared meal does not have to be special. Even a simple dinner at the same table gives family members time to connect.",
+    "options": [
+      "아이들은 채소보다 단 음식을 더 좋아한다.",
+      "가족 식사는 반드시 오랜 시간을 들여 정성껏 만든 특별한 요리여야 한다.",
+      "바쁜 가족은 외식을 해야 한다.",
+      "가족과 함께 식사하면 대화가 늘고 건강한 식습관도 기를 수 있다.",
+      "식사 시간에는 대화를 하지 않는 것이 좋다."
+    ],
+    "answer": 3,
+    "translation": "많은 가족이 너무 바빠 함께 식사하지 못한다. 하지만 연구는 분명한 사실을 보여 준다. 가족과 정기적으로 식사를 함께하는 아이들은 하루에 대해 더 많이 이야기하고 부모와 더 가깝다고 느낀다. 또한 채소를 더 많이 먹고 단것을 덜 먹는 경향이 있다. 함께하는 식사가 특별할 필요는 없다. 같은 식탁에서 먹는 간단한 저녁도 가족이 연결될 시간을 준다.",
+    "why": "가족 식사가 대화를 늘리고 건강한 식습관을 길러 준다는 것이 요지입니다.",
+    "optionNotes": [
+      "단 음식을 덜 먹는 경향이라고 했습니다.",
+      "특별할 필요가 없다고 했습니다.",
+      "외식 이야기는 나오지 않습니다.",
+      "정답. 대화와 건강한 식습관에 도움이 됩니다.",
+      "대화를 나눈다고 했으므로 글과 반대입니다."
+    ],
+    "trap": "첫 문장의 'too busy'는 문제 상황일 뿐 요지가 아닙니다.",
+    "tip": "Yet 뒤의 연구 결과가 요지를 담습니다."
+  },
+  {
+    "id": "m2-11-23",
+    "level": "m2",
+    "set": "mock-11",
+    "no": 23,
+    "type": "topic",
+    "stem": "다음 글의 주제로 가장 적절한 것은?",
+    "passage": "Glass is made from one of the most common materials on Earth: sand. When sand is heated to about 1,700 degrees Celsius, it melts into a thick, glowing liquid. Workers add small amounts of other minerals to change its color or strength. Then the liquid is shaped by blowing air into it or pouring it into molds. As it cools, it becomes hard and clear.",
+    "options": [
+      "how sand is turned into glass",
+      "why windows break in cold weather",
+      "how bottles are recycled in cities",
+      "what makes glass colorful at night",
+      "where the best sand is found"
+    ],
+    "answer": 0,
+    "translation": "유리는 지구에서 가장 흔한 재료 중 하나인 모래로 만든다. 모래를 약 1,700도로 가열하면 걸쭉하고 빛나는 액체로 녹는다. 작업자들은 색이나 강도를 바꾸려고 소량의 다른 광물을 넣는다. 그다음 공기를 불어 넣거나 틀에 부어 모양을 만든다. 식으면서 단단하고 투명해진다.",
+    "why": "모래가 유리로 만들어지는 과정을 설명하는 글입니다.",
+    "optionNotes": [
+      "정답. 모래로 유리를 만드는 과정입니다.",
+      "창문이 깨지는 이유는 나오지 않습니다.",
+      "병 재활용은 나오지 않습니다.",
+      "밤의 색은 나오지 않습니다.",
+      "좋은 모래의 산지는 나오지 않습니다."
+    ],
+    "trap": "'colorful'이 나온다고 ④를 고르지 마세요. 색은 일부 설명일 뿐입니다.",
+    "tip": "주제는 글 전체를 아우르는 과정(how ~ is made)을 담은 보기입니다."
+  },
+  {
+    "id": "m2-11-24",
+    "level": "m2",
+    "set": "mock-11",
+    "no": 24,
+    "type": "title",
+    "stem": "다음 글의 제목으로 가장 적절한 것은?",
+    "passage": "In a mountain village in Colombia, the nearest library is a three-hour walk away. So a teacher named Luis loaded two donkeys with books and began visiting the villages around him. Children gather around his donkeys, choose books, and read them in the shade of trees. Luis leaves new books every week and collects the old ones. For many children, the donkeys are the only way they can meet stories.",
+    "options": [
+      "How to Raise Donkeys on a Farm",
+      "The Most Beautiful Mountains and Villages in Colombia Today",
+      "Books on Four Legs: A Teacher's Traveling Library",
+      "Why Children Should Walk to School",
+      "The History of Libraries in Latin America"
+    ],
+    "answer": 2,
+    "translation": "콜롬비아의 한 산골 마을에서 가장 가까운 도서관은 걸어서 세 시간 거리에 있다. 그래서 루이스라는 교사는 당나귀 두 마리에 책을 싣고 주변 마을을 방문하기 시작했다. 아이들은 당나귀 주위에 모여 책을 고르고 나무 그늘에서 읽는다. 루이스는 매주 새 책을 두고 오래된 책을 거두어 간다. 많은 아이에게 당나귀는 이야기를 만날 수 있는 유일한 방법이다.",
+    "why": "당나귀에 책을 싣고 다니는 교사의 이동 도서관 이야기이므로 ③이 제목입니다.",
+    "optionNotes": [
+      "당나귀 사육은 나오지 않습니다.",
+      "산의 아름다움은 나오지 않습니다.",
+      "정답. 네 발로 다니는 이동 도서관 이야기입니다.",
+      "걸어서 통학하는 이야기는 나오지 않습니다.",
+      "도서관의 역사는 나오지 않습니다."
+    ],
+    "trap": "'donkeys'가 들어간 ①에 이끌리지 마세요. 핵심은 이동 도서관입니다.",
+    "tip": "제목은 핵심 인물의 행동(traveling library)을 담으세요."
+  },
+  {
+    "id": "m2-11-25",
+    "level": "m2",
+    "set": "mock-11",
+    "no": 25,
+    "type": "chart",
+    "stem": "다음 도표의 내용과 일치하지 않는 것은?",
+    "chart": {
+      "title": "Average Sleep Hours by Grade",
+      "unit": "hours",
+      "labels": [
+        "Grade 1",
+        "Grade 2",
+        "Grade 3"
+      ],
+      "series": [
+        {
+          "name": "Weekdays",
+          "values": [
+            8,
+            7.5,
+            6.5
+          ]
+        },
+        {
+          "name": "Weekends",
+          "values": [
+            10,
+            9.5,
+            9
+          ]
+        }
+      ]
+    },
+    "passage": "The graph shows the average sleep hours of middle school students by grade. ① Weekday sleep decreases as the grade gets higher. ② Students in every grade sleep more on weekends than on weekdays. ③ Grade 3 has the largest difference between weekday and weekend sleep. ④ Grade 1 students sleep two hours more on weekends than on weekdays. ⑤ The difference between weekday and weekend sleep is larger in Grade 2 than in Grade 3.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "그래프는 중학생의 학년별 평균 수면 시간을 보여 준다. ① 평일 수면 시간은 학년이 높아질수록 줄어든다. ② 모든 학년에서 학생들은 평일보다 주말에 더 많이 잔다. ③ 평일과 주말 수면 시간의 차이는 3학년이 가장 크다. ④ 1학년은 평일보다 주말에 두 시간 더 잔다. ⑤ 평일과 주말 수면 시간의 차이는 3학년보다 2학년이 더 크다.",
+    "why": "차이는 1학년 2시간, 2학년 2시간, 3학년 2.5시간이므로 2학년이 3학년보다 크다는 ⑤는 일치하지 않습니다.",
+    "optionNotes": [
+      "8, 7.5, 6.5시간으로 줄어듭니다.",
+      "모든 학년에서 주말이 더 많습니다.",
+      "3학년의 차이는 2.5시간으로 가장 큽니다.",
+      "1학년은 10시간과 8시간으로 2시간 차이입니다.",
+      "정답(불일치). 2학년 차이는 2시간으로 3학년(2.5시간)보다 작습니다."
+    ],
+    "trap": "차이 값을 직접 계산하지 않으면 놓치기 쉽습니다.",
+    "tip": "차이를 묻는 보기는 학년별 두 값을 직접 빼서 비교하세요."
+  },
+  {
+    "id": "m2-11-26",
+    "level": "m2",
+    "set": "mock-11",
+    "no": 26,
+    "type": "match",
+    "stem": "Joon Park에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Joon Park is a fifteen-year-old student from Daegu. When he was twelve, he noticed that his grandfather, who has poor eyesight, often took the wrong bus. He decided to make an app that reads bus numbers aloud using a phone camera. He studied programming on the internet for a year and finished the app. Now more than ten thousand people with visual impairments use it, and Joon is working on adding subway information.",
+    "options": [
+      "열두 살에 프로그래밍 학원에 다녔다.",
+      "현재 버스 정보를 삭제하는 작업을 하고 있다.",
+      "앱은 만 명 이상이 쓰지만 이미 완성되어 더 이상 개선하지 않는다.",
+      "앱은 휴대전화 마이크로 버스 번호를 읽는다.",
+      "할아버지가 버스를 자주 잘못 타는 것을 보고 앱을 만들기로 했다."
+    ],
+    "answer": 4,
+    "translation": "박준은 대구에 사는 열다섯 살 학생이다. 그는 열두 살 때 시력이 나쁜 할아버지가 버스를 자주 잘못 타는 것을 알게 되었다. 그는 휴대전화 카메라로 버스 번호를 소리 내어 읽어 주는 앱을 만들기로 결심했다. 그는 1년 동안 인터넷으로 프로그래밍을 공부해 앱을 완성했다. 이제 만 명이 넘는 시각 장애인이 그 앱을 쓰고 있으며 준은 지하철 정보를 추가하는 작업을 하고 있다.",
+    "why": "'noticed that his grandfather ... often took the wrong bus. He decided to make an app'과 일치합니다.",
+    "optionNotes": [
+      "인터넷으로 프로그래밍을 공부했습니다.",
+      "지하철 정보를 추가하는 작업을 하고 있습니다.",
+      "지하철 정보를 추가하는 중이므로 개선을 계속합니다.",
+      "마이크가 아니라 카메라를 사용합니다.",
+      "정답. 할아버지가 버스를 자주 잘못 타는 것을 보고 앱을 만들기로 했습니다."
+    ],
+    "trap": "카메라(camera)를 마이크(microphone)로 바꾼 보기에 주의하세요.",
+    "tip": "일치 문제는 동기·방법·현재 작업을 하나씩 대조하세요."
+  },
+  {
+    "id": "m2-11-27",
+    "level": "m2",
+    "set": "mock-11",
+    "no": 27,
+    "type": "notice",
+    "stem": "Used Book Fair에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Used Book Fair\nBuy and sell your books!\nDate: Saturday, November 2\nTime: 10:00 a.m. – 3:00 p.m.\nPlace: Hanbit Middle School gym\nPrices: All books are one to three dollars.\nSelling: Bring up to ten books to the gym between 9:00 and 9:45 a.m.\nNote: Money earned from unsold books will be donated to the school library.",
+    "options": [
+      "일요일에 열린다.",
+      "모든 책은 10달러이다.",
+      "책은 행사 시간 후에 가져온다.",
+      "판매자는 오전 9시에서 9시 45분 사이에 책을 가져와야 한다.",
+      "팔리지 않은 책은 행사가 끝나면 모두 폐기되어 쓰레기로 버려진다."
+    ],
+    "answer": 3,
+    "translation": "중고 책 장터. 책을 사고파세요! 날짜: 11월 2일 토요일. 시간: 오전 10시~오후 3시. 장소: 한빛 중학교 체육관. 가격: 모든 책은 1~3달러. 판매: 오전 9시~9시 45분에 책을 최대 열 권까지 체육관에 가져오세요. 유의: 팔리지 않은 책으로 얻은 돈은 학교 도서관에 기부됩니다.",
+    "why": "'Bring up to ten books to the gym between 9:00 and 9:45 a.m.'와 일치합니다.",
+    "optionNotes": [
+      "토요일에 열립니다.",
+      "1~3달러입니다.",
+      "행사 시작 전에 가져옵니다.",
+      "정답. 오전 9시에서 9시 45분 사이입니다.",
+      "수익은 도서관에 기부됩니다."
+    ],
+    "trap": "행사 시간(10:00)과 접수 시간(9:00~9:45)을 혼동하기 쉽습니다.",
+    "tip": "안내문은 항목(Time, Prices, Selling, Note)별로 대조하세요."
+  },
+  {
+    "id": "m2-11-28",
+    "level": "m2",
+    "set": "mock-11",
+    "no": 28,
+    "type": "notice",
+    "stem": "Teen Volunteer Orientation에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Teen Volunteer Orientation\nWant to help your community? Join us!\nDate: Sunday, March 9\nTime: 2:00 p.m. – 4:00 p.m.\nPlace: Hanbit Community Center, Room 201\nWho: Students aged 13 to 17 who want to volunteer at hospitals, nursing homes, or animal shelters\nTopics: How to prepare for volunteer work, safety rules, and how to record your volunteer hours\nNote: Participants will receive a notebook for recording their hours.",
+    "options": [
+      "평일 저녁에 열린다.",
+      "병원, 양로원, 동물 보호소에서 봉사하고 싶은 13세에서 17세 학생이 대상이다.",
+      "참가자는 공책을 직접 가져와야 한다.",
+      "봉사 활동을 바로 시작하는 현장 행사이다.",
+      "성인만 참가할 수 있다."
+    ],
+    "answer": 1,
+    "translation": "청소년 봉사 오리엔테이션. 지역 사회를 돕고 싶나요? 함께하세요! 날짜: 3월 9일 일요일. 시간: 오후 2시~4시. 장소: 한빛 주민센터 201호. 대상: 병원, 양로원, 동물 보호소에서 봉사하고 싶은 13~17세 학생. 내용: 봉사 준비 방법, 안전 수칙, 봉사 시간 기록 방법. 유의: 참가자는 봉사 시간을 기록할 공책을 받습니다.",
+    "why": "'Who: Students aged 13 to 17 who want to volunteer at hospitals, nursing homes, or animal shelters'와 일치합니다.",
+    "optionNotes": [
+      "일요일 오후에 열립니다.",
+      "정답. 13세에서 17세 학생이 대상입니다.",
+      "공책은 받습니다.",
+      "봉사 준비와 안전 교육입니다.",
+      "학생이 대상입니다."
+    ],
+    "trap": "'Note'의 공책을 가져오는 것으로 오해하지 마세요.",
+    "tip": "Who와 Note 항목을 꼼꼼히 확인하세요."
+  }
+]

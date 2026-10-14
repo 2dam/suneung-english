@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m2-11-29",
+    "level": "m2",
+    "set": "mock-11",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Mount Fuji, which {1|is} the highest mountain in Japan, attracts millions of visitors every year. Many people {2|want} to see the sunrise from the top. Climbers must {3|prepare} warm clothes because the weather {4|change} quickly. In addition, they should drink plenty of water, {5|which} helps prevent headaches.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "일본에서 가장 높은 산인 후지산은 해마다 수백만 명의 방문객을 끌어들인다. 많은 사람이 정상에서 일출을 보고 싶어 한다. 날씨가 빠르게 변하므로 등반객은 따뜻한 옷을 준비해야 한다. 또한 물을 충분히 마셔야 하며, 이는 두통을 예방하는 데 도움이 된다.",
+    "why": "주어 'the weather'는 3인칭 단수이므로 동사는 'change'가 아니라 'changes'여야 합니다.",
+    "optionNotes": [
+      "선행사 Mount Fuji에 맞는 is입니다.",
+      "복수 주어 Many people에 맞는 want입니다.",
+      "조동사 must 뒤의 동사원형 prepare입니다.",
+      "정답(틀림). 단수 주어 the weather에 맞춰 changes여야 합니다.",
+      "앞 절 전체를 받는 계속적 용법의 which입니다."
+    ],
+    "trap": "바로 앞의 'warm clothes'에 이끌려 복수 동사를 맞다고 생각하기 쉽습니다.",
+    "tip": "because절의 주어(the weather)의 수를 확인하세요."
+  },
+  {
+    "id": "m2-11-30",
+    "level": "m2",
+    "set": "mock-11",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Recycling paper {1|wastes} many trees. It also {2|uses} much less energy than making new paper from trees. Schools can {3|collect} used paper in boxes and send it to recycling centers. This {4|reduces} the amount of garbage that ends up in landfills. Students can {5|help} by using both sides of each sheet of paper.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "종이를 재활용하면 많은 나무를 아낄 수 있다. 또한 나무로 새 종이를 만드는 것보다 훨씬 적은 에너지를 쓴다. 학교는 사용한 종이를 상자에 모아 재활용 센터로 보낼 수 있다. 이것은 매립지에 쌓이는 쓰레기의 양을 줄인다. 학생들은 종이의 양면을 사용하여 도울 수 있다.",
+    "why": "재활용은 나무를 '낭비한다(wastes)'가 아니라 '아낀다(saves)'여야 합니다.",
+    "optionNotes": [
+      "정답(부적절). 재활용은 나무를 아끼므로 saves여야 합니다.",
+      "에너지를 쓴다는 의미로 uses가 알맞습니다.",
+      "모은다는 의미로 collect가 알맞습니다.",
+      "줄인다는 의미로 reduces가 알맞습니다.",
+      "돕는다는 의미로 help가 알맞습니다."
+    ],
+    "trap": "'It also uses much less energy'와 비교하면 첫 문장도 긍정적이어야 합니다.",
+    "tip": "글 전체의 방향(재활용의 이점)과 낱말이 맞는지 확인하세요."
+  },
+  {
+    "id": "m2-11-31",
+    "level": "m2",
+    "set": "mock-11",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A good leader does not always speak the most. In many successful teams, the leader begins a meeting by asking members for their opinions. This helps quieter members share ideas that might be missed. They also feel more respected and work harder. Studies show that teams with such leaders solve problems faster. The best leaders are those who __________.",
+    "options": [
+      "give orders as loudly as possible",
+      "avoid meetings with their teams",
+      "always make decisions alone",
+      "never change their plans",
+      "listen carefully to others before making a decision"
+    ],
+    "answer": 4,
+    "translation": "좋은 지도자는 항상 가장 많이 말하지는 않는다. 많은 성공한 팀에서 지도자는 구성원들의 의견을 물으며 회의를 시작한다. 이는 조용한 구성원이 놓칠 수 있는 아이디어를 공유하도록 돕는다. 그들은 또 더 존중받는다고 느끼고 더 열심히 일한다. 연구에 따르면 이런 지도자가 있는 팀은 문제를 더 빨리 해결한다. 최고의 지도자는 결정을 내리기 전에 다른 사람의 말을 주의 깊게 듣는 사람이다.",
+    "why": "의견을 묻고 듣는 지도자가 더 잘 문제를 해결한다고 했으므로 결정 전에 다른 사람의 말을 주의 깊게 듣는다는 말이 알맞습니다.",
+    "optionNotes": [
+      "큰 소리로 명령한다는 내용은 글과 반대입니다.",
+      "회의를 피한다는 내용은 없습니다.",
+      "혼자 결정한다는 내용은 글과 반대입니다.",
+      "계획을 바꾸지 않는다는 내용은 없습니다.",
+      "정답. 결정을 내리기 전에 다른 사람의 말을 주의 깊게 듣습니다."
+    ],
+    "trap": "첫 문장의 'does not always speak the most'를 놓치면 ①을 고르기 쉽습니다.",
+    "tip": "앞 문장들의 공통 내용(asking opinions)이 빈칸의 단서입니다."
+  },
+  {
+    "id": "m2-11-32",
+    "level": "m2",
+    "set": "mock-11",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In some cultures, people feel uncomfortable with silence in a conversation and try to fill every pause. In others, such as Japan and Finland, silence is not a problem. A Finnish proverb says that it is better to say nothing than to say something unnecessary. During a meeting, a Japanese manager may stay quiet for a while to think about what has been said. For him, silence is __________.",
+    "options": [
+      "a sign of anger",
+      "a sign of boredom",
+      "a sign of laziness",
+      "a sign of illness",
+      "a sign of respect"
+    ],
+    "answer": 4,
+    "translation": "어떤 문화에서는 사람들이 대화 중의 침묵을 불편하게 느껴 모든 틈을 채우려 한다. 일본과 핀란드 같은 다른 문화에서는 침묵이 문제가 아니다. 핀란드 속담에는 불필요한 말을 하느니 아무 말도 하지 않는 것이 낫다는 말이 있다. 회의 중 일본인 관리자는 나온 이야기를 생각하려고 한동안 조용히 있을 수 있다. 그에게 침묵은 존중의 표시이다.",
+    "why": "말을 생각하며 조용히 있는 것은 상대에 대한 존중의 표시이므로 'a sign of respect'가 알맞습니다.",
+    "optionNotes": [
+      "화가 났다는 내용은 없습니다.",
+      "지루함이라는 내용은 없습니다.",
+      "게으름이라는 내용은 없습니다.",
+      "아프다는 내용은 없습니다.",
+      "정답. 생각하고 존중하는 침묵입니다."
+    ],
+    "trap": "서구 문화권의 관점에서 침묵을 부정적으로만 해석하지 마세요.",
+    "tip": "'to think about what has been said'가 빈칸의 단서입니다."
+  },
+  {
+    "id": "m2-11-33",
+    "level": "m2",
+    "set": "mock-11",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many people say that their best ideas come to them in the shower or while taking a walk. Scientists explain that this is not just a coincidence. Their minds feel relaxed. When our hands are busy with simple, repetitive tasks, our mind is not under pressure to focus on a particular problem. In that state, the brain __________.",
+    "options": [
+      "is free to wander and connect unrelated ideas",
+      "stops working completely for a short time",
+      "becomes unable to remember anything",
+      "feels tired and wants to sleep",
+      "works harder to solve each problem"
+    ],
+    "answer": 0,
+    "translation": "많은 사람들은 가장 좋은 아이디어가 샤워 중이나 산책 중에 떠오른다고 말한다. 과학자들은 이것이 단순한 우연이 아니라고 설명한다. 그들의 마음은 편안하다. 손이 단순하고 반복적인 일로 바쁠 때 정신은 특정 문제에 집중해야 한다는 압박에서 벗어난다. 그런 상태에서 뇌는 자유롭게 방황하며 관련 없는 생각들을 연결할 수 있다.",
+    "why": "집중의 압박이 없을 때 좋은 아이디어가 떠오른다고 했으므로 자유롭게 방황하며 생각을 연결한다는 말이 알맞습니다.",
+    "optionNotes": [
+      "정답. 자유롭게 방황하며 관련 없는 생각을 연결합니다.",
+      "완전히 멈춘다는 내용은 없습니다.",
+      "기억하지 못한다는 내용은 없습니다.",
+      "피곤하다는 내용은 없습니다.",
+      "더 열심히 일한다는 것은 압박이 없다는 말과 반대입니다."
+    ],
+    "trap": "⑤는 'not under pressure'와 반대되는 내용입니다.",
+    "tip": "'not under pressure to focus'가 빈칸의 방향을 알려 줍니다."
+  },
+  {
+    "id": "m2-11-34",
+    "level": "m2",
+    "set": "mock-11",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In the past, most zoos kept animals only for people's entertainment. Today, many zoos have changed their goals. They breed endangered species, such as pandas and tigers, and release some of them into the wild. They also teach visitors about the danger that these animals face. For a modern zoo, the main purpose is not entertainment but __________.",
+    "options": [
+      "decoration",
+      "competition",
+      "advertising",
+      "transportation",
+      "conservation"
+    ],
+    "answer": 4,
+    "translation": "과거에 대부분의 동물원은 사람들의 오락을 위해 동물을 가두어 두었다. 오늘날 많은 동물원은 목표를 바꾸었다. 판다와 호랑이 같은 멸종 위기종을 번식시키고 일부는 야생으로 돌려보낸다. 또 방문객에게 이 동물들이 처한 위험을 가르친다. 현대 동물원의 주된 목적은 오락이 아니라 보전이다.",
+    "why": "멸종 위기종을 번식시키고 방사한다는 내용이므로 목적은 보전(conservation)입니다.",
+    "optionNotes": [
+      "장식은 나오지 않습니다.",
+      "경쟁은 나오지 않습니다.",
+      "광고는 나오지 않습니다.",
+      "운송은 나오지 않습니다.",
+      "정답. 멸종 위기종의 보전입니다."
+    ],
+    "trap": "'not A but B'에서 B는 앞의 내용(breeding, releasing)을 요약한 말입니다.",
+    "tip": "'not A but B'에서 A(entertainment)와 반대되는 B를 찾으세요."
+  },
+  {
+    "id": "m2-11-35",
+    "level": "m2",
+    "set": "mock-11",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Reading aloud has many benefits for children. ① It improves their pronunciation and vocabulary. ② It helps children understand how sentences are formed. ③ Listening to a parent's voice also makes children feel safe and loved. ④ It encourages them to love books from an early age. ⑤ Many tourists visit the mountains in autumn to see the colorful leaves.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "소리 내어 읽기는 어린이에게 많은 이점이 있다. ① 발음과 어휘를 향상시킨다. ② 문장이 어떻게 이루어지는지 이해하는 데 도움이 된다. ③ 부모의 목소리를 듣는 것은 어린이가 안전하고 사랑받는다고 느끼게 한다. ④ 어릴 때부터 책을 좋아하도록 격려한다. ⑤ 많은 관광객이 단풍을 보러 가을에 산을 찾는다.",
+    "why": "글은 소리 내어 읽기의 이점을 말하는데 ⑤는 가을 단풍 관광 이야기라 관계가 없습니다.",
+    "optionNotes": [
+      "소리 내어 읽기의 이점입니다.",
+      "소리 내어 읽기의 이점입니다.",
+      "소리 내어 읽기의 이점입니다.",
+      "소리 내어 읽기의 이점입니다.",
+      "정답(무관). 단풍 관광 이야기입니다."
+    ],
+    "trap": "마지막 문장이라 결론으로 착각하기 쉽지만 주제와 무관합니다.",
+    "tip": "마지막 문장도 글의 주제와 이어지는지 확인하세요."
+  },
+  {
+    "id": "m2-11-36",
+    "level": "m2",
+    "set": "mock-11",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Many people believe that naturally talented people do not need to practice at all.\n(A) They break a hard skill into small parts and repeat each part until it feels natural, and they take their time.\n(B) However, top athletes and musicians usually practice for many hours every day of the year.\n(C) That is why their performance looks effortless to the audience.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 1,
+    "translation": "많은 사람들은 재능이 있는 사람은 연습할 필요가 없다고 믿는다. (B) 그러나 최고의 운동선수와 음악가는 대개 매일 여러 시간 연습한다. (A) 그들은 어려운 기술을 작은 부분으로 나누고 각 부분이 자연스러워질 때까지 반복한다. (C) 그래서 그들의 연기는 관객에게 힘들이지 않은 것처럼 보인다.",
+    "why": "(B) 'However'로 통념 반박 → (A) 'They'가 연습 방식 설명 → (C) 'That is why'로 결과 순서입니다.",
+    "optionNotes": [
+      "(A)의 'They'가 가리킬 대상이 앞에 없습니다.",
+      "정답. 반박 → 방식 → 결과.",
+      "(C)의 'That is why'가 근거 앞에 올 수 없습니다.",
+      "(C)의 'That is why'가 근거 앞에 올 수 없습니다.",
+      "(C)가 처음에 오면 'That is why'의 근거가 없습니다."
+    ],
+    "trap": "(C)의 'That is why'는 앞의 연습 방식에 대한 결과입니다.",
+    "tip": "However → They → That is why의 논리 순서를 확인하세요."
+  },
+  {
+    "id": "m2-11-37",
+    "level": "m2",
+    "set": "mock-11",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Hummingbirds are small, colorful birds, and they are the only birds that can fly backward.\n(A) This movement lets them hover in the air like a helicopter and even move backward.\n(B) To do this, they flap their wings about fifty times per second in a figure-eight pattern.\n(C) Scientists are now studying their wings to design small flying robots.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 1,
+    "translation": "벌새는 뒤로 날 수 있는 유일한 새이다. (B) 이를 위해 벌새는 초당 약 50번 8자 모양으로 날개를 퍼덕인다. (A) 이 움직임 덕분에 벌새는 헬리콥터처럼 공중에 떠 있고 심지어 뒤로 움직일 수 있다. (C) 과학자들은 이제 작은 비행 로봇을 설계하려고 벌새의 날개를 연구하고 있다.",
+    "why": "(B) 'To do this'로 방법 설명 → (A) 'This movement'로 효과 → (C) 응용 순서입니다.",
+    "optionNotes": [
+      "(A)의 'This movement'가 가리킬 동작이 앞에 없습니다.",
+      "정답. 방법 → 효과 → 응용.",
+      "(C)의 응용이 효과 설명 앞에 올 수 없습니다.",
+      "(C)의 응용이 처음에 올 수 없습니다.",
+      "(B)가 (A)보다 뒤에 오면 'This movement'가 가리킬 대상이 없습니다."
+    ],
+    "trap": "(B)의 'To do this'는 주어진 글의 'fly backward'를 가리킵니다.",
+    "tip": "To do this → This movement의 지시 관계를 따라가세요."
+  },
+  {
+    "id": "m2-11-38",
+    "level": "m2",
+    "set": "mock-11",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThis is why many hospitals now allow patients to meet therapy dogs for short visits.\n\n[글]\n( ① ) Spending time with animals can reduce stress. ( ② ) Studies show that petting a dog lowers heart rate and blood pressure. ( ③ ) Patients who meet therapy dogs also report feeling less lonely. ( ④ ) Hospital staff say that these visits make patients smile more often. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "[주어진 문장] 이런 이유로 많은 병원은 이제 환자가 치료견을 짧게 만나는 것을 허용한다. [글] 동물과 시간을 보내는 것은 스트레스를 줄일 수 있다. 연구에 따르면 개를 쓰다듬으면 심박수와 혈압이 낮아진다. 치료견을 만난 환자들은 또 덜 외롭다고 말한다. 이런 이유로 많은 병원은 이제 환자가 치료견을 짧게 만나는 것을 허용한다. 병원 직원들은 이런 방문이 환자들을 더 자주 웃게 한다고 말한다.",
+    "why": "'This is why'는 앞의 이점들에 대한 결론이고, 뒤의 'these visits'가 가리키는 방문이 먼저 나와야 하므로 ④에 들어갑니다.",
+    "optionNotes": [
+      "이점이 나오기 전이라 'This is why'가 어색합니다.",
+      "이점이 일부만 나왔습니다.",
+      "이점이 하나 더 남아 있습니다.",
+      "정답. 이점의 결론이며 뒤의 'these visits'가 이를 받습니다.",
+      "'these visits'가 가리킬 방문이 앞에 없어집니다."
+    ],
+    "trap": "④ 뒤 문장의 'these visits'가 주어진 문장의 'short visits'를 가리킨다는 점을 놓치기 쉽습니다.",
+    "tip": "This is why → these visits처럼 지시어로 이어지는 문장 쌍을 찾으세요."
+  },
+  {
+    "id": "m2-11-39",
+    "level": "m2",
+    "set": "mock-11",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nTo solve this problem, the city introduced bike-sharing stations.\n\n[글]\n( ① ) Traffic jams were a serious problem in the city center. ( ② ) As a result, about a fifth of commuters now ride bikes to work. ( ③ ) The air in the city has also become cleaner. ( ④ ) Many residents say that they feel healthier and happier. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "[주어진 문장] 이 문제를 해결하려고 시는 자전거 공유 정류장을 도입했다. [글] 시내 중심가에서 교통 체증은 심각한 문제였다. 이 문제를 해결하려고 시는 자전거 공유 정류장을 도입했다. 그 결과 통근자의 약 5분의 1이 이제 자전거로 출근한다. 도시의 공기도 더 깨끗해졌다. 많은 주민이 더 건강하고 행복해졌다고 말한다.",
+    "why": "'this problem'은 앞의 교통 체증을 가리키고 뒤의 'As a result'가 도입의 결과이므로 ②에 들어갑니다.",
+    "optionNotes": [
+      "'this problem'이 가리킬 문제가 앞에 없습니다.",
+      "정답. 문제 제시 뒤이며 'As a result'가 결과를 받습니다.",
+      "'As a result' 문장이 먼저 나오면 결과가 원인보다 앞섭니다.",
+      "이미 결과가 나온 뒤라 해결책 도입이 어색합니다.",
+      "마지막이라 해결책 도입이 어색합니다."
+    ],
+    "trap": "'As a result' 문장이 주어진 문장 뒤에 와야 합니다.",
+    "tip": "주어진 문장의 'this problem'이 가리키는 문제가 바로 앞에 있습니다."
+  },
+  {
+    "id": "m2-11-40",
+    "level": "m2",
+    "set": "mock-11",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Researchers asked two groups of adults to follow different routines for a week. One group wrote down three good things that happened each night. The other group wrote about their daily schedule. After six months, the first group reported being happier and less depressed, while the other group showed no change.\n\n▶ Writing down (A) things every night can (B) happiness.",
+    "options": [
+      "(A) bad — (B) lower",
+      "(A) boring — (B) delay",
+      "(A) expensive — (B) hide",
+      "(A) good — (B) increase",
+      "(A) hidden — (B) test"
+    ],
+    "answer": 3,
+    "translation": "연구자들은 두 집단의 성인에게 일주일 동안 서로 다른 습관을 따르게 했다. 한 집단은 매일 밤 일어난 좋은 일 세 가지를 적었다. 다른 집단은 일과를 적었다. 6개월 뒤 첫 번째 집단은 더 행복하고 덜 우울하다고 보고했고 다른 집단은 변화가 없었다. ▶ 매일 밤 좋은 일을 적는 것은 행복을 높일 수 있다.",
+    "why": "좋은 일을 적은 집단이 더 행복해졌으므로 (A)는 good, (B)는 increase입니다.",
+    "optionNotes": [
+      "bad와 lower는 글과 반대입니다.",
+      "boring과 delay는 글에 나오지 않습니다.",
+      "expensive와 hide는 글에 나오지 않습니다.",
+      "정답. 좋은 일을 적으면 행복이 높아집니다.",
+      "hidden과 test는 글에 나오지 않습니다."
+    ],
+    "trap": "(A)와 (B) 둘 다 글의 결과와 맞아야 합니다.",
+    "tip": "요약문은 원인(good things)과 결과(happier)를 짝지어 찾으세요."
+  }
+]
