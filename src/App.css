@@ -239,3 +239,6 @@ button:disabled { cursor: not-allowed; opacity: 0.5; }
 .course-switch button span { color: var(--muted); font-size: 0.8rem; }
 .course-switch button.on { border-color: var(--primary); background: var(--primary-soft); }
 .course-switch button.on strong { color: var(--primary); }
+
+/* PDF·인쇄 용지 */
+@page { size: A4; margin: 14mm; }

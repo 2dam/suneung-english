@@ -14,6 +14,10 @@ export default function PrintSheet({ job, onDone }) {
 
   useEffect(() => {
     document.body.classList.add('printing')
+    // PDF 내보내기용: 인쇄 창을 열지 않고 문서만 그린다(scripts/export-pdf.mjs).
+    if (job.static) {
+      return () => document.body.classList.remove('printing')
+    }
     const finish = () => {
       document.body.classList.remove('printing')
       onDone()
@@ -26,7 +30,7 @@ export default function PrintSheet({ job, onDone }) {
       window.removeEventListener('afterprint', finish)
       document.body.classList.remove('printing')
     }
-  }, [onDone])
+  }, [onDone, job.static])
 
   const showQuestions = mode === 'questions' || mode === 'both'
   const showAnswers = mode === 'answers' || mode === 'both'

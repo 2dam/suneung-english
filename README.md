@@ -71,3 +71,17 @@ npm run audio          # 듣기 음원 생성 (Azure Speech 키 필요, scripts/
    - `@`(루트) → Render가 알려 주는 A 레코드 값
    - `www` → `<서비스 이름>.onrender.com` (CNAME)
 4. 인증서는 Render가 자동 발급한다. 이후 `main`에 푸시하면 자동 배포된다.
+
+## PDF 내보내기
+
+모의고사를 문제지와 정답·해설 PDF로 저장한다(45문항이 모두 있는 회차만).
+
+```bash
+npm run build
+npx vite preview --port 4173      # 다른 터미널에서 실행해 둔다
+npm run pdf                        # → exports/pdf/<학년_코스>/…pdf
+npm run pdf -- --level m3 --mock 10   # 특정 학년·회차만
+```
+
+앱에 `?pdf=<코스>:<학년>:<회차>:<questions|answers>` 주소로 접속하면 인쇄용 문서만 그려지며,
+설치된 Chrome/Edge 헤드리스 모드가 그것을 PDF로 저장한다. `exports/`는 저장소에 올리지 않는다.

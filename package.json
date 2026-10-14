@@ -8,6 +8,7 @@
     "build": "node scripts/check-content.mjs && vite build",
     "check:content": "node scripts/check-content.mjs",
     "audio": "node scripts/make-audio.mjs",
+    "pdf": "node scripts/export-pdf.mjs",
     "preview": "vite preview"
   },
   "dependencies": {
