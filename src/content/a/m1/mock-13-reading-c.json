@@ -1,0 +1,147 @@
+[
+  {
+    "id": "m1-13-41",
+    "level": "m1",
+    "set": "mock-13",
+    "no": 41,
+    "type": "long",
+    "group": "m1-13-g41",
+    "stem": "[41~42] 윗글의 제목으로 가장 적절한 것을 고르시오.",
+    "passage": "Jun's family adopted a puppy from a shelter. The puppy was very {1|shy}. It hid under the sofa all day and did not eat. Jun sat near the sofa and {2|talked} to it softly every evening. After a week, the puppy came out and {3|licked} his hand. Soon it followed Jun everywhere. Now the puppy {4|barks} loudly when Jun comes home. Jun feels very {5|sad} when he plays with it.",
+    "options": [
+      "The Biggest and Strongest Dog in Town",
+      "How to Wash a Puppy",
+      "The Shy Puppy and the Boy",
+      "A Day at the Shelter",
+      "Why Dogs Bark at Night"
+    ],
+    "answer": 2,
+    "translation": "준의 가족은 보호소에서 강아지를 입양했다. 강아지는 매우 수줍어했다. 하루 종일 소파 아래에 숨어 있었고 먹지 않았다. 준은 매일 저녁 소파 근처에 앉아 강아지에게 부드럽게 말을 걸었다. 일주일 뒤 강아지는 나와서 그의 손을 핥았다. 곧 강아지는 어디든 준을 따라다녔다. 이제 강아지는 준이 집에 오면 크게 짖는다. 준은 강아지와 놀 때 매우 행복하다.",
+    "why": "수줍은 강아지가 준 덕분에 마음을 연 이야기이므로 ③이 제목입니다.",
+    "optionNotes": [
+      "가장 큰 개는 나오지 않습니다.",
+      "씻기는 방법은 나오지 않습니다.",
+      "정답. 수줍은 강아지와 소년의 이야기입니다.",
+      "보호소의 하루는 나오지 않습니다.",
+      "밤에 짖는 이유는 나오지 않습니다."
+    ],
+    "trap": "'shelter'가 나온다고 ④를 고르지 마세요.",
+    "tip": "이야기글의 제목은 주인공과 중심 사건을 담으세요."
+  },
+  {
+    "id": "m1-13-42",
+    "level": "m1",
+    "set": "mock-13",
+    "no": 42,
+    "type": "long",
+    "group": "m1-13-g41",
+    "stem": "[41~42] 밑줄 친 ①~⑤ 중에서 문맥상 낱말의 쓰임이 적절하지 않은 것을 고르시오.",
+    "passage": "Jun's family adopted a puppy from a shelter. The puppy was very {1|shy}. It hid under the sofa all day and did not eat. Jun sat near the sofa and {2|talked} to it softly every evening. After a week, the puppy came out and {3|licked} his hand. Soon it followed Jun everywhere. Now the puppy {4|barks} loudly when Jun comes home. Jun feels very {5|sad} when he plays with it.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "(41번 지문과 같은 글입니다.)",
+    "why": "강아지와 가까워져 놀고 있으므로 준은 '슬픈(sad)'이 아니라 '행복한(happy)' 기분이어야 합니다.",
+    "optionNotes": [
+      "수줍다는 의미로 shy가 알맞습니다.",
+      "말을 걸었다는 의미로 talked가 알맞습니다.",
+      "핥았다는 의미로 licked가 알맞습니다.",
+      "짖는다는 의미로 barks가 알맞습니다.",
+      "정답(부적절). 강아지와 놀 때는 행복해야 합니다."
+    ],
+    "trap": "앞에서 강아지가 수줍어했다는 내용에 이끌려 sad를 맞다고 생각하기 쉽습니다.",
+    "tip": "글의 흐름(강아지가 마음을 엶)에 맞는 감정인지 확인하세요."
+  },
+  {
+    "id": "m1-13-43",
+    "level": "m1",
+    "set": "mock-13",
+    "no": 43,
+    "type": "long",
+    "group": "m1-13-g43",
+    "stem": "[43~45] 주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것을 고르시오.",
+    "passage": "(A) Eun was making a birthday cake for her father for the first time. {1|She} mixed the flour and eggs, but the cake came out flat.\n(B) That evening, Eun's mother tasted a small piece. {2|She} smiled and said, \"It's delicious. Your father will love it.\"\n(C) Eun felt sad, but she tried again. {3|She} added more baking powder this time.\n(D) After an hour, the cake was soft and tall. {4|She} put strawberries on it, and {5|she} wrote \"Happy Birthday\" with cream.",
+    "options": [
+      "(B)-(D)-(C)",
+      "(C)-(B)-(D)",
+      "(C)-(D)-(B)",
+      "(D)-(B)-(C)",
+      "(D)-(C)-(B)"
+    ],
+    "answer": 2,
+    "translation": "(A) 은은 처음으로 아버지를 위해 생일 케이크를 만들고 있었다. 그녀는 밀가루와 달걀을 섞었지만 케이크는 납작하게 나왔다. (C) 은은 슬펐지만 다시 시도했다. 이번에는 베이킹파우더를 더 넣었다. (D) 한 시간 뒤 케이크는 부드럽고 높게 부풀었다. 그녀는 딸기를 올리고 크림으로 \"생일 축하해요\"라고 썼다. (B) 그날 저녁 은의 어머니가 작은 조각을 맛보았다. 그녀는 미소 지으며 말했다. \"맛있구나. 아버지가 좋아하실 거야.\"",
+    "why": "(A) 케이크가 납작함 → (C) 다시 시도 → (D) 케이크를 꾸밈 → (B) 그날 저녁 어머니가 맛봄 순서입니다.",
+    "optionNotes": [
+      "(B)의 저녁 장면이 처음에 올 수 없습니다.",
+      "(B)가 (D)보다 앞서면 케이크를 완성하기 전에 맛봅니다.",
+      "정답. 다시 시도 → 꾸밈 → 맛봄.",
+      "(D)가 (C)보다 앞설 수 없습니다.",
+      "(D)가 (C)보다 앞서면 다시 시도하기 전에 케이크를 꾸밉니다."
+    ],
+    "trap": "(B)의 'That evening'은 케이크를 완성한 뒤입니다.",
+    "tip": "tried again → After an hour → That evening의 시간 흐름을 따라가세요."
+  },
+  {
+    "id": "m1-13-44",
+    "level": "m1",
+    "set": "mock-13",
+    "no": 44,
+    "type": "long",
+    "group": "m1-13-g43",
+    "stem": "[43~45] 밑줄 친 ①~⑤ 중에서 가리키는 대상이 나머지 넷과 다른 것을 고르시오.",
+    "passage": "(A) Eun was making a birthday cake for her father for the first time. {1|She} mixed the flour and eggs, but the cake came out flat.\n(B) That evening, Eun's mother tasted a small piece. {2|She} smiled and said, \"It's delicious. Your father will love it.\"\n(C) Eun felt sad, but she tried again. {3|She} added more baking powder this time.\n(D) After an hour, the cake was soft and tall. {4|She} put strawberries on it, and {5|she} wrote \"Happy Birthday\" with cream.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "②의 She는 케이크를 맛보고 \"맛있구나.\"라고 말한 은의 어머니이고, 나머지 ①③④⑤는 모두 은을 가리킵니다.",
+    "optionNotes": [
+      "She는 밀가루와 달걀을 섞은 은입니다.",
+      "정답. She는 케이크를 맛보고 미소 지은 어머니입니다.",
+      "She는 베이킹파우더를 더 넣은 은입니다.",
+      "She는 딸기를 올린 은입니다.",
+      "she는 크림으로 글씨를 쓴 은입니다."
+    ],
+    "trap": "직전 문장의 주어가 Eun's mother이므로 She도 어머니입니다.",
+    "tip": "같은 성별의 두 인물이 나오면 직전 문장의 주어를 확인하세요."
+  },
+  {
+    "id": "m1-13-45",
+    "level": "m1",
+    "set": "mock-13",
+    "no": 45,
+    "type": "long",
+    "group": "m1-13-g43",
+    "stem": "[43~45] 윗글에 관한 내용으로 적절하지 않은 것을 고르시오.",
+    "passage": "(A) Eun was making a birthday cake for her father for the first time. {1|She} mixed the flour and eggs, but the cake came out flat.\n(B) That evening, Eun's mother tasted a small piece. {2|She} smiled and said, \"It's delicious. Your father will love it.\"\n(C) Eun felt sad, but she tried again. {3|She} added more baking powder this time.\n(D) After an hour, the cake was soft and tall. {4|She} put strawberries on it, and {5|she} wrote \"Happy Birthday\" with cream.",
+    "options": [
+      "은은 첫 번째 케이크가 완벽하게 부풀어서 두 번째 케이크는 만들지 않았다.",
+      "은은 아버지를 위해 케이크를 만들고 있었다.",
+      "은은 두 번째에는 베이킹파우더를 더 넣었다.",
+      "은은 딸기와 크림으로 케이크를 꾸몄다.",
+      "어머니는 케이크를 맛보고 맛있다고 말했다."
+    ],
+    "answer": 0,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "첫 번째 케이크가 납작하게 나와서 은은 다시 시도했으므로 ①은 일치하지 않습니다.",
+    "optionNotes": [
+      "정답(불일치). 첫 케이크가 납작해서 다시 만들었습니다.",
+      "making a birthday cake for her father와 일치합니다.",
+      "added more baking powder와 일치합니다.",
+      "put strawberries and wrote with cream과 일치합니다.",
+      "It's delicious와 일치합니다."
+    ],
+    "trap": "'came out flat'을 놓치면 첫 케이크가 성공했다고 착각합니다.",
+    "tip": "불일치 문제는 사건의 결과(flat)를 반대로 바꾼 보기를 찾으세요."
+  }
+]
