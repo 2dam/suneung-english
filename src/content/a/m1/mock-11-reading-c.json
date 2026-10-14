@@ -1,0 +1,147 @@
+[
+  {
+    "id": "m1-11-41",
+    "level": "m1",
+    "set": "mock-11",
+    "no": 41,
+    "type": "long",
+    "group": "m1-11-g41",
+    "stem": "[41~42] 윗글의 제목으로 가장 적절한 것을 고르시오.",
+    "passage": "Mr. Han had a small shop at the corner of the street. He {1|repaired} broken umbrellas for people. He did not ask for much money. One rainy day, a little girl came in with a broken umbrella and no {2|money}. Mr. Han {3|fixed} it and said, \"This one is free.\" The girl {4|thanked} him with a big smile. After that day, she visited the shop every week and helped him. Mr. Han felt very {5|angry} because he had a new friend.",
+    "options": [
+      "The Biggest and Oldest Shop in the Whole Town",
+      "How to Make an Umbrella",
+      "A Rainy Day at School",
+      "A Free Umbrella and a New Friend",
+      "The Girl Who Lost Her Money"
+    ],
+    "answer": 3,
+    "translation": "한 씨는 거리 모퉁이에서 작은 가게를 운영했다. 그는 사람들의 고장 난 우산을 고쳐 주었다. 그는 많은 돈을 요구하지 않았다. 비 오는 어느 날 한 어린 소녀가 고장 난 우산을 들고 돈 없이 들어왔다. 한 씨는 우산을 고쳐 주며 말했다. \"이건 공짜란다.\" 소녀는 환한 미소로 감사 인사를 했다. 그날 이후 소녀는 매주 가게를 찾아와 그를 도왔다. 한 씨는 새 친구가 생겨 매우 행복했다.",
+    "why": "우산을 공짜로 고쳐 준 일이 새로운 친구를 만들어 준 이야기이므로 ④가 제목입니다.",
+    "optionNotes": [
+      "가장 큰 가게는 나오지 않습니다.",
+      "우산 만드는 법은 나오지 않습니다.",
+      "학교는 나오지 않습니다.",
+      "정답. 공짜 우산과 새 친구 이야기입니다.",
+      "돈을 잃어버린 이야기가 아닙니다."
+    ],
+    "trap": "⑤는 'no money'를 '돈을 잃어버렸다'로 잘못 이해한 보기입니다.",
+    "tip": "이야기글의 제목은 사건(free umbrella)과 결과(new friend)를 담으세요."
+  },
+  {
+    "id": "m1-11-42",
+    "level": "m1",
+    "set": "mock-11",
+    "no": 42,
+    "type": "long",
+    "group": "m1-11-g41",
+    "stem": "[41~42] 밑줄 친 ①~⑤ 중에서 문맥상 낱말의 쓰임이 적절하지 않은 것을 고르시오.",
+    "passage": "Mr. Han had a small shop at the corner of the street. He {1|repaired} broken umbrellas for people. He did not ask for much money. One rainy day, a little girl came in with a broken umbrella and no {2|money}. Mr. Han {3|fixed} it and said, \"This one is free.\" The girl {4|thanked} him with a big smile. After that day, she visited the shop every week and helped him. Mr. Han felt very {5|angry} because he had a new friend.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "(41번 지문과 같은 글입니다.)",
+    "why": "새 친구가 생겼으므로 한 씨는 '화가 난(angry)'이 아니라 '행복한(happy)' 기분이어야 합니다.",
+    "optionNotes": [
+      "고쳤다는 의미로 repaired가 알맞습니다.",
+      "돈이 없었다는 의미로 money가 알맞습니다.",
+      "고쳐 주었다는 의미로 fixed가 알맞습니다.",
+      "감사했다는 의미로 thanked가 알맞습니다.",
+      "정답(부적절). 새 친구가 생겼으므로 happy여야 합니다."
+    ],
+    "trap": "'because he had a new friend'를 확인하지 않으면 놓치기 쉽습니다.",
+    "tip": "감정 낱말은 because 뒤의 이유와 맞는지 확인하세요."
+  },
+  {
+    "id": "m1-11-43",
+    "level": "m1",
+    "set": "mock-11",
+    "no": 43,
+    "type": "long",
+    "group": "m1-11-g43",
+    "stem": "[43~45] 주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것을 고르시오.",
+    "passage": "(A) Yuri was folding paper cranes for her grandmother. Her little sister Dami came in and looked at the colorful paper. {1|She} asked, \"Can I help you?\"\n(B) After an hour, Dami made her first crane. It was a little crooked. Yuri looked at it, and {2|she} laughed warmly.\n(C) Yuri smiled and showed Dami how to fold the first wing. {3|She} was patient and spoke slowly.\n(D) That night, Yuri put all the cranes in a box. {4|She} wrote \"From Yuri and Dami\" on the card, and {5|she} tied it with a ribbon.",
+    "options": [
+      "(B)-(D)-(C)",
+      "(C)-(B)-(D)",
+      "(C)-(D)-(B)",
+      "(D)-(B)-(C)",
+      "(D)-(C)-(B)"
+    ],
+    "answer": 1,
+    "translation": "(A) 유리는 할머니를 위해 종이학을 접고 있었다. 어린 동생 다미가 들어와 알록달록한 종이를 바라보았다. 다미는 \"도와줘도 돼?\"라고 물었다. (C) 유리는 미소 지으며 다미에게 첫 번째 날개를 접는 법을 보여 주었다. 유리는 참을성 있게 천천히 말해 주었다. (B) 한 시간 뒤 다미는 첫 번째 학을 만들었다. 그것은 조금 삐뚤었다. 유리는 그것을 보고 따뜻하게 웃었다. (D) 그날 밤 유리는 모든 학을 상자에 담았다. 그녀는 카드에 '유리와 다미가'라고 적고 리본으로 묶었다.",
+    "why": "(A) 다미가 도와주겠다고 함 → (C) 접는 법을 보여 줌 → (B) 한 시간 뒤 첫 학 → (D) 그날 밤 포장 순서입니다.",
+    "optionNotes": [
+      "(B)의 첫 학이 (C)의 가르침보다 앞설 수 없습니다.",
+      "정답. 가르침 → 첫 학 → 포장.",
+      "(D)가 (B)보다 앞서면 학을 완성하기 전에 포장합니다.",
+      "(D)의 포장이 처음에 올 수 없습니다.",
+      "(D)의 포장이 처음에 올 수 없습니다."
+    ],
+    "trap": "(D)의 'That night'는 이야기의 마지막 장면입니다.",
+    "tip": "showed → After an hour → That night의 시간 흐름을 따라가세요."
+  },
+  {
+    "id": "m1-11-44",
+    "level": "m1",
+    "set": "mock-11",
+    "no": 44,
+    "type": "long",
+    "group": "m1-11-g43",
+    "stem": "[43~45] 밑줄 친 ①~⑤ 중에서 가리키는 대상이 나머지 넷과 다른 것을 고르시오.",
+    "passage": "(A) Yuri was folding paper cranes for her grandmother. Her little sister Dami came in and looked at the colorful paper. {1|She} asked, \"Can I help you?\"\n(B) After an hour, Dami made her first crane. It was a little crooked. Yuri looked at it, and {2|she} laughed warmly.\n(C) Yuri smiled and showed Dami how to fold the first wing. {3|She} was patient and spoke slowly.\n(D) That night, Yuri put all the cranes in a box. {4|She} wrote \"From Yuri and Dami\" on the card, and {5|she} tied it with a ribbon.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "①의 She는 \"도와줘도 돼?\"라고 물은 다미이고, 나머지 ②③④⑤는 모두 유리를 가리킵니다.",
+    "optionNotes": [
+      "정답. She는 도와줘도 되냐고 물은 다미입니다.",
+      "she는 따뜻하게 웃은 유리입니다.",
+      "She는 참을성 있게 말한 유리입니다.",
+      "She는 카드에 이름을 쓴 유리입니다.",
+      "she는 리본으로 묶은 유리입니다."
+    ],
+    "trap": "앞 문장의 주어가 Dami(came in)이므로 She도 다미입니다. 뒤 문장과 혼동하지 마세요.",
+    "tip": "같은 성별의 두 인물이 나오면 직전 문장의 주어를 확인하세요."
+  },
+  {
+    "id": "m1-11-45",
+    "level": "m1",
+    "set": "mock-11",
+    "no": 45,
+    "type": "long",
+    "group": "m1-11-g43",
+    "stem": "[43~45] 윗글에 관한 내용으로 적절하지 않은 것을 고르시오.",
+    "passage": "(A) Yuri was folding paper cranes for her grandmother. Her little sister Dami came in and looked at the colorful paper. {1|She} asked, \"Can I help you?\"\n(B) After an hour, Dami made her first crane. It was a little crooked. Yuri looked at it, and {2|she} laughed warmly.\n(C) Yuri smiled and showed Dami how to fold the first wing. {3|She} was patient and spoke slowly.\n(D) That night, Yuri put all the cranes in a box. {4|She} wrote \"From Yuri and Dami\" on the card, and {5|she} tied it with a ribbon.",
+    "options": [
+      "유리는 할머니를 위해 종이학을 접고 있었다.",
+      "다미는 유리에게 도와줘도 되냐고 물었다.",
+      "다미가 만든 첫 번째 학은 조금 삐뚤었다.",
+      "유리는 다미가 학을 서툴게 접는다고 짜증을 내며 다미를 방에서 내보냈다.",
+      "유리는 카드에 두 사람의 이름을 적었다."
+    ],
+    "answer": 3,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "유리는 다미에게 접는 법을 참을성 있게 보여 주었으므로 짜증을 내며 내보냈다는 ④는 일치하지 않습니다.",
+    "optionNotes": [
+      "folding paper cranes for her grandmother와 일치합니다.",
+      "Can I help you?와 일치합니다.",
+      "It was a little crooked와 일치합니다.",
+      "정답(불일치). 유리는 참을성 있게 가르쳐 주었습니다.",
+      "From Yuri and Dami와 일치합니다."
+    ],
+    "trap": "'a little crooked'는 결과일 뿐 유리의 태도와 다릅니다.",
+    "tip": "불일치 문제는 인물의 태도(patient)를 반대로 바꾼 보기를 찾으세요."
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m1-11-29",
+    "level": "m1",
+    "set": "mock-11",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "My friends and I {1|go} camping every summer. Last year, we {2|went} to a mountain near Chuncheon. We {3|sees} many stars at night. In the morning, we {4|cooked} breakfast outside. It {5|was} a great trip.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "나와 내 친구들은 해마다 여름에 캠핑을 간다. 작년에 우리는 춘천 근처 산에 갔다. 우리는 밤에 많은 별을 보았다. 아침에는 밖에서 아침 식사를 요리했다. 멋진 여행이었다.",
+    "why": "'Last year'로 과거의 일을 말하므로 'sees'가 아니라 과거형 'saw'여야 합니다.",
+    "optionNotes": [
+      "복수 주어 My friends and I에 맞는 go입니다.",
+      "과거를 나타내는 went입니다.",
+      "정답(틀린 것). 과거 이야기이므로 saw여야 합니다.",
+      "과거형 cooked입니다.",
+      "과거형 was입니다."
+    ],
+    "trap": "첫 문장의 현재형(go)에 끌려 sees를 맞다고 생각하기 쉽습니다.",
+    "tip": "Last year 같은 시간 표현 뒤의 이야기는 과거 시제인지 확인하세요."
+  },
+  {
+    "id": "m1-11-30",
+    "level": "m1",
+    "set": "mock-11",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Today is the first day of winter vacation. I {1|woke} up late. I {2|ate} breakfast and {3|played} games with my brother. In the afternoon, we {4|read} books. In the evening, I felt {5|busy} because I had nothing to do all day.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "오늘은 겨울 방학 첫날이다. 나는 늦게 일어났다. 아침을 먹고 동생과 게임을 했다. 오후에는 책을 읽었다. 저녁에는 하루 종일 할 일이 없어서 지루했다.",
+    "why": "하루 종일 할 일이 없었다고 했으므로 'busy'가 아니라 'bored'여야 합니다.",
+    "optionNotes": [
+      "일어났다는 의미로 woke가 알맞습니다.",
+      "먹었다는 의미로 ate가 알맞습니다.",
+      "게임을 했다는 의미로 played가 알맞습니다.",
+      "책을 읽었다는 의미로 read가 알맞습니다.",
+      "정답(부적절). 할 일이 없었으므로 bored여야 합니다."
+    ],
+    "trap": "'because I had nothing to do'를 확인하지 않으면 놓치기 쉽습니다.",
+    "tip": "감정 낱말은 because 뒤의 이유와 맞는지 확인하세요."
+  },
+  {
+    "id": "m1-11-31",
+    "level": "m1",
+    "set": "mock-11",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Birds have light bodies and strong wings. Some birds can travel across the sea in a few days. Their bones are thin, and many of them are empty inside. This helps them __________ high in the sky.",
+    "options": [
+      "dig deep holes",
+      "sleep for many days",
+      "swim under water",
+      "run on the ground",
+      "fly"
+    ],
+    "answer": 4,
+    "translation": "새는 가벼운 몸과 튼튼한 날개를 가지고 있다. 어떤 새는 며칠 만에 바다를 건널 수도 있다. 뼈는 얇고 많은 뼈가 속이 비어 있다. 이것은 새가 하늘 높이 날도록 도와준다.",
+    "why": "가벼운 몸과 튼튼한 날개가 하늘 높이 나는 데 도움이 됩니다.",
+    "optionNotes": [
+      "땅을 파는 내용은 나오지 않습니다.",
+      "잠 이야기는 나오지 않습니다.",
+      "수영 이야기는 나오지 않습니다.",
+      "달리기 이야기는 나오지 않습니다.",
+      "정답. 하늘 높이 날도록 도와줍니다."
+    ],
+    "trap": "'bodies', 'bones'만 보고 다른 활동을 고르지 마세요.",
+    "tip": "마지막 문장의 'in the sky'가 단서입니다."
+  },
+  {
+    "id": "m1-11-32",
+    "level": "m1",
+    "set": "mock-11",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "People in different countries speak different languages. But a smile is the same everywhere. When you smile at someone, they know that you are friendly. A smile takes only a second, but it can make someone's day. You don't need __________ to say hello.",
+    "options": [
+      "money",
+      "words",
+      "a phone",
+      "a map",
+      "a gift"
+    ],
+    "answer": 1,
+    "translation": "다른 나라 사람들은 다른 언어를 말한다. 하지만 미소는 어디서나 같다. 누군가에게 미소 지으면 그들은 네가 친근하다는 것을 안다. 미소는 1초밖에 걸리지 않지만 누군가의 하루를 기쁘게 할 수 있다. 인사하는 데 말은 필요 없다.",
+    "why": "언어는 다르지만 미소는 같다고 했으므로 인사하는 데 말이 필요 없다는 내용이 알맞습니다.",
+    "optionNotes": [
+      "돈 이야기는 나오지 않습니다.",
+      "정답. 미소로 말 없이 인사할 수 있습니다.",
+      "전화 이야기는 나오지 않습니다.",
+      "지도 이야기는 나오지 않습니다.",
+      "선물 이야기는 나오지 않습니다."
+    ],
+    "trap": "'different languages'에서 반대 개념을 찾으세요.",
+    "tip": "But 뒤의 내용이 빈칸의 방향을 알려 줍니다."
+  },
+  {
+    "id": "m1-11-33",
+    "level": "m1",
+    "set": "mock-11",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Plants need light. If a plant is in a dark room, it becomes thin and pale. It tries to grow toward a little light. A plant in a sunny window grows green and strong. So plants need __________ to grow well.",
+    "options": [
+      "sunlight",
+      "sound and music",
+      "salt",
+      "paper",
+      "sand"
+    ],
+    "answer": 0,
+    "translation": "식물은 빛이 필요하다. 식물이 어두운 방에 있으면 가늘고 창백해진다. 식물은 작은 빛을 향해 자라려고 한다. 햇빛이 드는 창가의 식물은 푸르고 튼튼하게 자란다. 그래서 식물은 잘 자라기 위해 햇빛이 필요하다.",
+    "why": "어두운 방과 햇빛 드는 창가의 식물을 비교하므로 햇빛이 필요하다는 말이 알맞습니다.",
+    "optionNotes": [
+      "정답. 햇빛이 필요합니다.",
+      "소리 이야기는 나오지 않습니다.",
+      "소금 이야기는 나오지 않습니다.",
+      "종이 이야기는 나오지 않습니다.",
+      "모래 이야기는 나오지 않습니다."
+    ],
+    "trap": "'window'에서 다른 연상을 하지 마세요. 'light'가 핵심입니다.",
+    "tip": "첫 문장 'Plants need light'가 직접적인 단서입니다."
+  },
+  {
+    "id": "m1-11-34",
+    "level": "m1",
+    "set": "mock-11",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A long road starts with one step. If you only think about the end of the road, you may feel that it is too far. But if you walk one step and then another, you will arrive. So the best way to finish a big job is to __________.",
+    "options": [
+      "start with a small step and keep going every day",
+      "wait for a better day",
+      "ask a friend to do it",
+      "give up quickly",
+      "think about it all night"
+    ],
+    "answer": 0,
+    "translation": "긴 길도 한 걸음에서 시작한다. 길의 끝만 생각하면 너무 멀다고 느낄 수 있다. 하지만 한 걸음을 걷고 또 한 걸음을 걸으면 도착한다. 그래서 큰 일을 끝내는 가장 좋은 방법은 작은 걸음으로 시작해 매일 계속하는 것이다.",
+    "why": "한 걸음씩 걸으면 도착한다는 비유이므로 작은 걸음으로 시작해 계속한다는 말이 알맞습니다.",
+    "optionNotes": [
+      "정답. 작은 걸음으로 시작해 매일 계속합니다.",
+      "기다리라는 내용은 없습니다.",
+      "남에게 시키라는 내용은 없습니다.",
+      "포기하라는 내용은 글과 반대입니다.",
+      "생각만 하라는 내용은 글과 반대입니다."
+    ],
+    "trap": "'think about the end'를 방법으로 착각하지 마세요. 그것은 피해야 할 태도입니다.",
+    "tip": "비유(one step then another)의 결론이 빈칸입니다."
+  },
+  {
+    "id": "m1-11-35",
+    "level": "m1",
+    "set": "mock-11",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Walking the dog is good for both you and the dog. ① The dog gets exercise and fresh air. ② You can also get exercise by walking. ③ You can meet new friends in the park. ④ Walking together makes you and your dog closer. ⑤ The weather will be cloudy tomorrow.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "개를 산책시키는 것은 사람과 개 모두에게 좋다. ① 개는 운동과 신선한 공기를 얻는다. ② 사람도 걸으면서 운동할 수 있다. ③ 공원에서 새 친구를 만날 수 있다. ④ 함께 걸으면 사람과 개가 더 가까워진다. ⑤ 내일 날씨는 흐릴 것이다.",
+    "why": "글은 개 산책의 좋은 점을 말하는데 ⑤는 내일 날씨 이야기라 관계가 없습니다.",
+    "optionNotes": [
+      "산책의 좋은 점입니다.",
+      "산책의 좋은 점입니다.",
+      "산책의 좋은 점입니다.",
+      "산책의 좋은 점입니다.",
+      "정답(무관). 날씨 이야기입니다."
+    ],
+    "trap": "'walking'과 'weather'를 연결해 자연스럽다고 착각할 수 있습니다.",
+    "tip": "주제(개 산책의 좋은 점)와 이어지지 않는 문장을 고르세요."
+  },
+  {
+    "id": "m1-11-36",
+    "level": "m1",
+    "set": "mock-11",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Eun wanted to learn to ride a bike.\n(A) First, her father held the seat and walked beside her.\n(B) After a week, she could ride by herself in the park.\n(C) She fell down many times, but she did not give up.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "은은 자전거 타는 법을 배우고 싶었다. (A) 처음에 아버지가 안장을 잡고 그녀 옆에서 걸었다. (C) 그녀는 여러 번 넘어졌지만 포기하지 않았다. (B) 일주일 뒤 그녀는 공원에서 혼자 탈 수 있었다.",
+    "why": "(A) 'First' 아버지의 도움 → (C) 여러 번 넘어짐 → (B) 일주일 뒤 혼자 탐 순서입니다.",
+    "optionNotes": [
+      "정답. 도움 → 넘어짐 → 혼자 탐.",
+      "(B)의 결과가 처음에 올 수 없습니다.",
+      "(B)의 결과가 (C)보다 앞설 수 없습니다.",
+      "(C)가 (A)보다 앞서면 'First'가 어색합니다.",
+      "(B)가 마지막이어야 합니다."
+    ],
+    "trap": "(C)의 'did not give up'은 결과(B) 앞의 과정입니다.",
+    "tip": "First → 과정 → After a week의 순서를 따라가세요."
+  },
+  {
+    "id": "m1-11-37",
+    "level": "m1",
+    "set": "mock-11",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Ben's alarm did not ring this morning. He was sleeping deeply.\n(A) He ran to the bus stop without breakfast.\n(B) At school, he was so hungry that his stomach made noise in class.\n(C) He woke up thirty minutes late.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 3,
+    "translation": "벤의 알람이 오늘 아침 울리지 않았다. 그는 깊이 잠들어 있었다. (C) 그는 30분 늦게 일어났다. (A) 그는 아침을 먹지 못한 채 버스 정류장으로 달려갔다. (B) 학교에서 그는 너무 배고파서 수업 중에 배에서 소리가 났다.",
+    "why": "(C) 늦게 일어남 → (A) 아침을 못 먹고 달려감 → (B) 학교에서 배고픔 순서입니다.",
+    "optionNotes": [
+      "(A)가 (C)의 원인보다 앞설 수 없습니다.",
+      "(B)의 결과가 처음에 올 수 없습니다.",
+      "(B)의 결과가 (C)보다 앞설 수 없습니다.",
+      "정답. 늦잠 → 급히 감 → 배고픔.",
+      "(B)가 (A)보다 앞서면 아침을 거르기 전에 배가 고픕니다."
+    ],
+    "trap": "(B)의 'At school'은 이야기의 마지막 장면입니다.",
+    "tip": "원인(woke up late) → 행동 → 결과의 흐름을 확인하세요."
+  },
+  {
+    "id": "m1-11-38",
+    "level": "m1",
+    "set": "mock-11",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nShe looked in her bag first, but it was not there.\n\n[글]\n( ① ) Hana could not find her red scarf. ( ② ) Next, she checked the closet and the living room. ( ③ ) At last, she found it under her bed. ( ④ ) She was so happy that she jumped up. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "[주어진 문장] 그녀는 먼저 가방 안을 보았지만 그곳에 없었다. [글] 하나는 빨간 스카프를 찾을 수 없었다. 그녀는 먼저 가방 안을 보았지만 그곳에 없었다. 다음으로 그녀는 옷장과 거실을 확인했다. 마침내 그녀는 침대 밑에서 그것을 찾았다. 그녀는 너무 기뻐서 펄쩍 뛰었다.",
+    "why": "'first'로 시작하는 찾기의 첫 단계이고 뒤의 'Next'로 이어지므로 ②에 들어갑니다.",
+    "optionNotes": [
+      "'She'가 가리킬 하나가 나오기 전입니다.",
+      "정답. 첫 번째로 찾은 곳이며 'Next'로 이어집니다.",
+      "'At last' 뒤에 오면 이미 찾은 뒤입니다.",
+      "찾은 뒤라 어색합니다.",
+      "결말 뒤라 어색합니다."
+    ],
+    "trap": "'first'와 'Next'의 짝을 놓치기 쉽습니다.",
+    "tip": "first → Next → At last의 순서 표현을 확인하세요."
+  },
+  {
+    "id": "m1-11-39",
+    "level": "m1",
+    "set": "mock-11",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThat is why students love the school garden.\n\n[글]\n( ① ) Our school garden has many colorful flowers. ( ② ) Students can pick vegetables and eat them at lunch. ( ③ ) Bees and butterflies come to visit every day. ( ④ ) Sitting on the bench there makes everyone feel calm. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "[주어진 문장] 그래서 학생들은 학교 정원을 매우 좋아한다. [글] 우리 학교 정원에는 알록달록한 꽃이 많다. 학생들은 채소를 따서 점심에 먹을 수 있다. 벌과 나비가 매일 찾아온다. 그곳 벤치에 앉으면 모두가 마음이 편안해진다. 그래서 학생들은 학교 정원을 매우 좋아한다.",
+    "why": "'That is why'는 앞의 모든 이유를 정리하는 결론이므로 마지막인 ⑤에 들어갑니다.",
+    "optionNotes": [
+      "이유가 나오기 전이라 어색합니다.",
+      "이유가 일부만 나왔습니다.",
+      "이유가 더 이어집니다.",
+      "마지막 이유가 이어서 나와야 하는 위치가 아닙니다.",
+      "정답. 모든 이유 뒤의 결론입니다."
+    ],
+    "trap": "④도 가능해 보이지만 마지막 이유가 ④에 있으므로 결론은 그 뒤에 와야 합니다.",
+    "tip": "'That is why'는 이유를 모두 말한 뒤에 놓입니다."
+  },
+  {
+    "id": "m1-11-40",
+    "level": "m1",
+    "set": "mock-11",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A class tried \"quiet five minutes\" before each lesson. Students closed their eyes and breathed slowly. After a month, the students said that they could listen better in class. Their test scores also went up.\n\n▶ Taking a (A) break before class helps students (B).",
+    "options": [
+      "(A) loud — (B) sleep",
+      "(A) quiet — (B) concentrate better",
+      "(A) long — (B) run",
+      "(A) funny — (B) cry",
+      "(A) lunch — (B) shop"
+    ],
+    "answer": 1,
+    "translation": "한 반이 매 수업 전에 '조용한 5분'을 해 보았다. 학생들은 눈을 감고 천천히 숨을 쉬었다. 한 달 뒤 학생들은 수업을 더 잘 들을 수 있다고 말했다. 시험 점수도 올랐다. ▶ 수업 전에 조용한 휴식을 취하면 학생들이 더 잘 집중하는 데 도움이 된다.",
+    "why": "조용한 5분이 수업을 더 잘 듣게 했으므로 (A)는 quiet, (B)는 concentrate better입니다.",
+    "optionNotes": [
+      "loud와 sleep은 글과 맞지 않습니다.",
+      "정답. 조용한 휴식이 집중을 돕습니다.",
+      "long과 run은 글에 나오지 않습니다.",
+      "funny와 cry는 글에 나오지 않습니다.",
+      "lunch와 shop은 글에 나오지 않습니다."
+    ],
+    "trap": "'breathed slowly'만 보고 sleep을 고르지 마세요.",
+    "tip": "요약문은 활동(quiet five minutes)과 결과(listen better)를 짝지어 찾으세요."
+  }
+]
