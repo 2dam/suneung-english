@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m3-21-29",
+    "level": "m3",
+    "set": "mock-21",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "The marathon, {1|which} was held in the city center, attracted more than ten thousand runners. One of the runners, a seventy-year-old man, {2|were} cheered by the crowd all along the course. He said that he had started running only five years ago, {3|inspired} by his grandson. When asked about the secret of his stamina, he replied that {4|what} matters most is not speed but steady practice. Many young runners felt {5|encouraged} by his words.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "도심에서 열린 마라톤은 만 명이 넘는 주자를 끌어들였다. 주자 중 한 명인 일흔 살의 남자는 코스 내내 군중의 응원을 받았다. 그는 손자에게 영감을 받아 겨우 5년 전에 달리기를 시작했다고 말했다. 체력의 비결을 묻자 그는 가장 중요한 것은 속도가 아니라 꾸준한 연습이라고 답했다. 많은 젊은 주자가 그의 말에 힘을 얻었다.",
+    "why": "주어 'One of the runners'는 단수이므로 'were'가 아니라 'was'여야 합니다.",
+    "optionNotes": [
+      "계속적 용법의 관계대명사 which입니다.",
+      "정답(틀린 것). 단수 주어이므로 was여야 합니다.",
+      "분사구문 inspired by입니다.",
+      "명사절을 이끄는 what입니다.",
+      "감정의 수동 encouraged입니다."
+    ],
+    "trap": "가까이 있는 복수 명사(runners)에 이끌려 복수 동사를 쓰기 쉽습니다.",
+    "tip": "One of + 복수 명사의 동사는 'One'에 일치시킵니다."
+  },
+  {
+    "id": "m3-21-30",
+    "level": "m3",
+    "set": "mock-21",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Many parents worry that video games {1|harm} their children's development. However, some studies suggest that certain games can be {2|harmful}. For example, strategy games can improve problem-solving skills, and cooperative games can teach teamwork. The key is {3|moderation}. Experts recommend that children play for a limited time and take {4|regular} breaks. Parents should also {5|monitor} what games their children play and talk with them about it.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "많은 부모는 비디오 게임이 아이들의 발달을 해친다고 걱정한다. 그러나 일부 연구는 특정 게임이 유익할 수 있다고 시사한다. 예를 들어 전략 게임은 문제 해결 능력을 향상시키고 협동 게임은 팀워크를 가르칠 수 있다. 핵심은 절제이다. 전문가들은 아이들이 제한된 시간 동안만 놀고 규칙적으로 휴식을 취하라고 권한다. 부모는 또한 아이들이 어떤 게임을 하는지 주의 깊게 살피고 그것에 대해 이야기해야 한다.",
+    "why": "뒤 문장에서 게임이 문제 해결 능력과 팀워크를 길러 준다고 했으므로 'harmful(해로운)'이 아니라 'beneficial(유익한)'이어야 합니다.",
+    "optionNotes": [
+      "해친다는 의미로 harm이 알맞습니다.",
+      "정답(부적절). 유익할 수 있다는 흐름이므로 beneficial이어야 합니다.",
+      "절제라는 의미로 moderation이 알맞습니다.",
+      "규칙적이라는 의미로 regular가 알맞습니다.",
+      "살펴본다는 의미로 monitor가 알맞습니다."
+    ],
+    "trap": "'However'를 놓치면 앞 문장의 부정적 분위기에 맞춰 harmful을 그대로 받아들이게 됩니다.",
+    "tip": "However 뒤의 문장은 앞과 반대 방향이어야 합니다."
+  },
+  {
+    "id": "m3-21-31",
+    "level": "m3",
+    "set": "mock-21",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Imagine that you are standing at the top of a tall building and looking down at the street. The cars and people look tiny, and small problems on the ground seem unimportant from there. Psychologists call this effect \"psychological distance.\" When we look at a problem from a distance, we can think more clearly and make better decisions. This is why it often helps to ask yourself, \"How will this matter a year from now?\" Distance allows us to __________.",
+    "options": [
+      "avoid making any decision at all because the problem looks too big",
+      "feel more anxious about every small detail of the situation we face",
+      "blame other people for our mistakes and refuse to change our plans",
+      "ignore all the advice from friends and family members around us",
+      "see the situation as a whole instead of being trapped in details"
+    ],
+    "answer": 4,
+    "translation": "당신이 높은 건물 꼭대기에 서서 거리를 내려다보고 있다고 상상해 보라. 자동차와 사람은 작아 보이고 땅 위의 작은 문제들은 그곳에서는 중요하지 않게 보인다. 심리학자들은 이 효과를 \"심리적 거리\"라고 부른다. 문제를 멀리서 바라보면 더 명확하게 생각하고 더 나은 결정을 내릴 수 있다. 그래서 \"이것이 일 년 뒤에 얼마나 중요할까?\"라고 스스로에게 묻는 것이 도움이 되는 경우가 많다. 거리는 우리가 세부 사항에 갇히는 대신 상황을 전체로 볼 수 있게 해 준다.",
+    "why": "멀리서 보면 더 명확하게 생각한다고 했으므로 '세부 사항에 갇히지 않고 상황을 전체로 본다'가 알맞습니다.",
+    "optionNotes": [
+      "결정을 피한다는 내용은 글과 반대입니다.",
+      "더 불안해진다는 내용은 글과 반대입니다.",
+      "남을 탓한다는 내용은 없습니다.",
+      "조언을 무시한다는 내용은 없습니다.",
+      "정답. 세부 사항에서 벗어나 전체를 봅니다."
+    ],
+    "trap": "'tiny', 'unimportant'에 이끌려 부정적인 보기를 고르지 마세요.",
+    "tip": "앞 문장의 'think more clearly'가 빈칸의 단서입니다."
+  },
+  {
+    "id": "m3-21-32",
+    "level": "m3",
+    "set": "mock-21",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Some animals do not look for food directly. Instead, they build traps. The antlion larva digs a small cone-shaped hole in the sand and waits at the bottom. When an ant walks over the edge, the sand slides, and the ant falls to the bottom. The larva then catches its meal. The trap works without any effort from the larva. In this way, the antlion spends most of its life __________ and relies on its trap to bring food to it.",
+    "options": [
+      "traveling to distant lands and warm seas to find its prey",
+      "staying in one place without chasing its prey",
+      "teaching its young how to fly above the dry desert sand",
+      "fighting with other larvae every day for the best hunting place",
+      "looking for a new place to sleep during the long hot summer"
+    ],
+    "answer": 1,
+    "translation": "어떤 동물은 먹이를 직접 찾지 않는다. 대신 함정을 만든다. 개미귀신 유충은 모래에 작은 원뿔형 구멍을 파고 바닥에서 기다린다. 개미가 가장자리를 지나가면 모래가 미끄러지고 개미는 바닥으로 떨어진다. 그러면 유충은 먹이를 잡는다. 함정은 유충의 노력 없이도 작동한다. 이렇게 개미귀신은 일생의 대부분을 먹이를 쫓지 않고 한곳에 머무르며 보내고 함정이 먹이를 가져다주도록 한다.",
+    "why": "함정을 만들고 기다린다고 했으므로 '먹이를 쫓지 않고 한곳에 머무른다'가 알맞습니다.",
+    "optionNotes": [
+      "멀리 이동한다는 내용은 글과 반대입니다.",
+      "정답. 한곳에 머물며 기다립니다.",
+      "나는 법을 가르친다는 내용은 없습니다.",
+      "싸운다는 내용은 없습니다.",
+      "잠자리를 찾는다는 내용은 없습니다."
+    ],
+    "trap": "'does not look for food'를 보고 이동하는 보기를 고르지 마세요.",
+    "tip": "앞 문장의 'waits at the bottom'이 빈칸의 단서입니다."
+  },
+  {
+    "id": "m3-21-33",
+    "level": "m3",
+    "set": "mock-21",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "When we remember a past event, we often think that our memory is like a video recording. In fact, memory works more like a story that we rebuild each time we recall it. Because we fill in missing parts with our imagination or with what we have learned since, the memory can slowly change. Psychologists call this process reconstruction, and it happens every time we remember something. This is why two people who experienced the same event often remember it __________.",
+    "options": [
+      "in exactly the same way",
+      "for the same length of time",
+      "in different ways",
+      "better than a video recording",
+      "without any emotion"
+    ],
+    "answer": 2,
+    "translation": "과거의 일을 기억할 때 우리는 흔히 기억이 영상 녹화와 같다고 생각한다. 사실 기억은 떠올릴 때마다 다시 구성하는 이야기에 더 가깝다. 우리는 빠진 부분을 상상이나 그 후에 배운 것으로 채우기 때문에 기억은 서서히 바뀔 수 있다. 심리학자들은 이 과정을 재구성이라고 부르며 이는 우리가 무언가를 기억할 때마다 일어난다. 그래서 같은 사건을 경험한 두 사람이 그것을 서로 다르게 기억하는 경우가 많다.",
+    "why": "기억이 다시 구성되어 변할 수 있다고 했으므로 같은 사건도 '서로 다르게' 기억한다는 말이 알맞습니다.",
+    "optionNotes": [
+      "똑같이 기억한다는 내용은 글과 반대입니다.",
+      "기억의 길이는 나오지 않습니다.",
+      "정답. 서로 다르게 기억합니다.",
+      "영상보다 낫다는 내용은 없습니다.",
+      "감정이 없다는 내용은 없습니다."
+    ],
+    "trap": "'video recording'에 이끌려 'in exactly the same way'를 고르지 마세요.",
+    "tip": "In fact 뒤의 정정 내용(story we rebuild)이 빈칸의 단서입니다."
+  },
+  {
+    "id": "m3-21-34",
+    "level": "m3",
+    "set": "mock-21",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many people believe that talent alone decides success. However, studies of top performers in music and sports show a different pattern. The best performers did not always begin with the highest natural ability. What separated them from the rest was the kind of practice they did. They concentrated on their weakest skills, received feedback from coaches, and repeated difficult parts until they improved. Many of them practiced for several hours every day for many years. Therefore, long-term achievement depends less on natural talent than on __________.",
+    "options": [
+      "lucky chances that nobody can plan in advance",
+      "the opinions of the other people around us",
+      "the cost of the equipment that we use",
+      "deliberate practice that targets weaknesses and uses feedback",
+      "the time of day when we usually practice"
+    ],
+    "answer": 3,
+    "translation": "많은 사람은 재능만이 성공을 결정한다고 믿는다. 그러나 음악과 스포츠 분야의 최고 수행자에 관한 연구는 다른 양상을 보여 준다. 최고의 수행자들이 항상 가장 높은 타고난 능력으로 시작한 것은 아니었다. 그들을 나머지와 구분한 것은 그들이 한 연습의 종류였다. 그들은 가장 약한 기술에 집중하고 코치에게서 피드백을 받았으며 어려운 부분을 나아질 때까지 반복했다. 그들 중 다수는 여러 해 동안 매일 몇 시간씩 연습했다. 그러므로 장기적인 성취는 타고난 재능보다 약점을 겨냥하고 피드백을 활용하는 의도적인 연습에 달려 있다.",
+    "why": "약한 기술에 집중하고 피드백을 받으며 반복했다고 했으므로 '약점을 겨냥하고 피드백을 활용하는 의도적인 연습'이 알맞습니다.",
+    "optionNotes": [
+      "행운은 나오지 않습니다.",
+      "타인의 의견은 나오지 않습니다.",
+      "장비 비용은 나오지 않습니다.",
+      "정답. 약점을 겨냥한 의도적인 연습입니다.",
+      "연습 시간대는 나오지 않습니다."
+    ],
+    "trap": "'talent'와 대비되는 말을 'luck(①)'으로 오해하지 마세요.",
+    "tip": "앞 문장의 'concentrated on their weakest skills, received feedback'이 빈칸의 단서입니다."
+  },
+  {
+    "id": "m3-21-35",
+    "level": "m3",
+    "set": "mock-21",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Reading aloud to children has remarkable effects on their development. ① It expands their vocabulary much faster than ordinary conversation. ② Listening to stories also improves their ability to concentrate for longer periods. ③ Shared reading time strengthens the emotional bond between parent and child. ④ Many bookstores offer discounts on cooking books during the holiday season. ⑤ For these reasons, experts recommend that parents read to their children every day.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "아이들에게 소리 내어 읽어 주는 것은 발달에 놀라운 효과가 있다. ① 일반적인 대화보다 훨씬 빠르게 어휘를 늘려 준다. ② 이야기를 듣는 것은 더 오랫동안 집중하는 능력도 향상시킨다. ③ 함께 책을 읽는 시간은 부모와 아이 사이의 정서적 유대를 강화한다. ④ 많은 서점은 휴가철에 요리책을 할인해 준다. ⑤ 이런 이유로 전문가들은 부모가 매일 아이에게 책을 읽어 주라고 권한다.",
+    "why": "글은 소리 내어 읽어 주는 것의 효과를 말하는데 ④는 서점의 요리책 할인 이야기라 관계가 없습니다.",
+    "optionNotes": [
+      "읽어 주기의 효과입니다.",
+      "읽어 주기의 효과입니다.",
+      "읽어 주기의 효과입니다.",
+      "정답(무관). 서점의 요리책 할인 이야기입니다.",
+      "결론 문장입니다."
+    ],
+    "trap": "'books'가 나와 책과 관련된 문장으로 착각하기 쉽습니다.",
+    "tip": "주제(읽어 주기의 효과)와 이어지지 않는 문장을 고르세요."
+  },
+  {
+    "id": "m3-21-36",
+    "level": "m3",
+    "set": "mock-21",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "In 1999, a young Norwegian climber named Aron set off to reach the summit of a snowy mountain with his team. It was his first big climb.\n(A) After an hour of waiting, the weather cleared, and the team was able to continue to the top.\n(B) However, at 4,000 meters, a sudden storm covered the slope with thick fog, and no one could see the path.\n(C) The first few hours went smoothly, and everyone was in good spirits.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 4,
+    "translation": "1999년 노르웨이의 젊은 등반가 아론은 팀과 함께 눈 덮인 산의 정상에 오르려고 출발했다. 그것은 그의 첫 큰 등반이었다. (C) 처음 몇 시간은 순조로웠고 모두 기분이 좋았다. (B) 그러나 해발 4,000미터에서 갑자기 폭풍이 비탈을 짙은 안개로 덮어 아무도 길을 볼 수 없었다. (A) 한 시간 기다린 끝에 날씨가 개었고 팀은 정상까지 계속 올라갈 수 있었다.",
+    "why": "(C) 처음 순조로움 → (B) However 폭풍 → (A) 날씨가 개어 정상으로 순서입니다.",
+    "optionNotes": [
+      "(A)의 'the weather cleared'가 폭풍 전에 올 수 없습니다.",
+      "(B)의 However가 순조로움(C) 전에 올 수 없습니다.",
+      "(B)가 (C)보다 앞서면 However가 어색합니다.",
+      "(A)가 (B)보다 앞서면 날씨가 개기 전에 정상으로 갑니다.",
+      "정답. 순조로움 → 폭풍 → 개고 정상으로."
+    ],
+    "trap": "(B)의 'However'는 (C)의 순조로움과 대조됩니다.",
+    "tip": "However와 시간 표현(After an hour)으로 순서를 확인하세요."
+  },
+  {
+    "id": "m3-21-37",
+    "level": "m3",
+    "set": "mock-21",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "A bookstore owner in Tokyo tried an unusual experiment. He sold books wrapped in plain brown paper with only a few keywords written on the outside.\n(A) As a result, sales of some old titles rose sharply. The shop became famous for its \"blind date with a book\" shelf.\n(B) However, once they started choosing by keywords alone, they picked books they would never have chosen before. Some of them even discovered new favorites.\n(C) At first, many customers hesitated because they could not see the cover or the author's name.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 4,
+    "translation": "도쿄의 한 서점 주인은 특이한 실험을 시도했다. 그는 바깥쪽에 몇 개의 키워드만 적힌 평범한 갈색 종이로 포장한 책을 팔았다. (C) 처음에 많은 손님은 표지나 저자 이름을 볼 수 없어서 망설였다. (B) 그러나 키워드만으로 고르기 시작하자 그들은 전에는 결코 고르지 않았을 책을 골랐다. 그중 일부는 새로운 좋아하는 책을 발견하기도 했다. (A) 그 결과 일부 오래된 책의 판매가 급격히 늘었다. 그 가게는 \"책과의 소개팅\" 진열대로 유명해졌다.",
+    "why": "(C) 처음에 망설임 → (B) However 키워드로 고르며 새로운 책 발견 → (A) As a result 판매 증가 순서입니다.",
+    "optionNotes": [
+      "(A)의 'As a result'가 근거 없이 앞에 올 수 없습니다.",
+      "(B)의 'they'가 가리킬 손님(C)이 앞에 없습니다.",
+      "(B)가 (C)보다 앞서면 'once they started'의 주어가 없습니다.",
+      "(C)가 (A)보다 앞서도 (A)가 중간에 오면 결과가 먼저 나옵니다.",
+      "정답. 망설임 → 그러나 새 발견 → 결과."
+    ],
+    "trap": "(B)의 'they'는 (C)의 customers를 가리킵니다.",
+    "tip": "At first → However → As a result의 흐름을 따라가세요."
+  },
+  {
+    "id": "m3-21-38",
+    "level": "m3",
+    "set": "mock-21",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nIn other words, they use the stars as a map.\n\n[글]\n( ① ) Many birds migrate thousands of kilometers every year without getting lost. ( ② ) Scientists have discovered that some species keep track of the positions of stars at night and adjust their direction accordingly. ( ③ ) This is supported by experiments in planetariums, where birds changed their course when the artificial sky was rotated. ( ④ ) Young birds even learn the star patterns before their first migration. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 다시 말해 그들은 별을 지도로 사용한다. [글] 많은 새는 해마다 수천 킬로미터를 길을 잃지 않고 이동한다. 과학자들은 일부 종이 밤에 별의 위치를 파악하고 그에 따라 방향을 조정한다는 것을 발견했다. 다시 말해 그들은 별을 지도로 사용한다. 이것은 인공 하늘을 회전시키면 새가 경로를 바꾸는 천체투영관 실험으로 뒷받침된다. 어린 새는 첫 이동 전에 별 무늬를 배우기도 한다.",
+    "why": "'In other words'는 바로 앞 문장(별의 위치를 파악해 방향을 조정한다)을 바꾸어 말하고, 뒤의 'This is supported by experiments'가 그 내용을 받으므로 ③에 들어갑니다.",
+    "optionNotes": [
+      "앞 내용 없이 'In other words'가 어색합니다.",
+      "바꾸어 말할 내용이 아직 나오지 않았습니다.",
+      "정답. 별을 이용한 방향 조정을 바꾸어 말하고 'This is supported'로 이어집니다.",
+      "실험 설명 뒤라 'This is supported'의 대상이 사라집니다.",
+      "글의 끝이라 흐름이 어색합니다."
+    ],
+    "trap": "실험(③ 뒤 문장)이 별을 이용한 증거이므로 ④에 요약을 넣고 싶어지기 쉽습니다.",
+    "tip": "'This is supported by ~'는 바로 앞의 주장을 받는 표현입니다."
+  },
+  {
+    "id": "m3-21-39",
+    "level": "m3",
+    "set": "mock-21",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nHave you ever noticed how some people can read a room within seconds of entering it?\n\n[글]\n( ① ) This ability, often called emotional intelligence, is not a gift that only a few are born with. ( ② ) It involves noticing small signals such as tone of voice and facial expressions. ( ③ ) With practice, anyone can improve it. ( ④ ) For example, pausing to ask yourself how others feel is a simple but effective habit. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "[주어진 문장] 어떤 사람들은 방에 들어서자마자 몇 초 만에 분위기를 읽어 낸다는 것을 알아챈 적이 있나요? [글] 흔히 감성 지능이라 불리는 이 능력은 소수의 사람만 타고나는 선물이 아니다. 그것은 목소리의 톤이나 표정 같은 작은 신호를 알아채는 것을 포함한다. 연습하면 누구나 향상시킬 수 있다. 예를 들어 잠시 멈추고 다른 사람들이 어떻게 느끼는지 스스로 묻는 것은 간단하지만 효과적인 습관이다.",
+    "why": "질문으로 주제를 제시하고 'This ability'가 그 능력을 받으므로 글의 맨 앞인 ①에 들어갑니다.",
+    "optionNotes": [
+      "정답. 질문이 능력을 소개하고 'This ability'로 이어집니다.",
+      "'This ability'가 가리킬 대상이 먼저 나와야 합니다.",
+      "설명 도중이라 질문이 어색합니다.",
+      "예시 직전이라 질문이 어색합니다.",
+      "글의 끝이라 질문이 어색합니다."
+    ],
+    "trap": "질문 문장을 글 중간에 두면 'This ability'가 가리킬 대상이 사라집니다.",
+    "tip": "'This + 명사'가 가리키는 앞 문장을 찾으세요."
+  },
+  {
+    "id": "m3-21-40",
+    "level": "m3",
+    "set": "mock-21",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A study followed two groups of office workers who commuted to work every day. One group listened to music during their commute, while the other group read the news on their phones. After four weeks, the workers who listened to music reported feeling more relaxed when they arrived at work and showed higher productivity in the morning. In contrast, those who read the news reported feeling more anxious. The researchers concluded that how we spend our commute can influence our mood for the rest of the day.\n\n▶ Listening to (A) music during a commute can help people (B) their mood and productivity.",
+    "options": [
+      "(A) loud — (B) lower",
+      "(A) sad — (B) forget",
+      "(A) new — (B) hide",
+      "(A) relaxing — (B) improve",
+      "(A) foreign — (B) damage"
+    ],
+    "answer": 3,
+    "translation": "한 연구는 매일 통근하는 두 사무직 근로자 집단을 추적했다. 한 집단은 통근 중에 음악을 들었고 다른 집단은 휴대전화로 뉴스를 읽었다. 4주 뒤 음악을 들은 근로자들은 출근했을 때 더 편안하다고 했고 오전에 더 높은 생산성을 보였다. 반면 뉴스를 읽은 근로자들은 더 불안하다고 보고했다. 연구자들은 통근 시간을 어떻게 보내느냐가 그날의 나머지 시간 동안의 기분에 영향을 줄 수 있다고 결론지었다. ▶ 통근 중에 편안한 음악을 듣는 것은 사람들의 기분과 생산성을 향상시키는 데 도움이 될 수 있다.",
+    "why": "음악을 들은 집단이 더 편안하고 생산성이 높았으므로 (A)는 relaxing, (B)는 improve입니다.",
+    "optionNotes": [
+      "loud와 lower는 글과 반대입니다.",
+      "sad와 forget은 글에 나오지 않습니다.",
+      "new와 hide는 글에 나오지 않습니다.",
+      "정답. 편안한 음악이 기분과 생산성을 향상시킵니다.",
+      "foreign과 damage는 글과 반대입니다."
+    ],
+    "trap": "(A)가 맞아도 (B)가 반대인지 확인하세요.",
+    "tip": "요약문은 (A)와 (B)를 모두 글의 결과와 대조하세요."
+  }
+]
