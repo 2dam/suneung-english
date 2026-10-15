@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m3-15-29",
+    "level": "m3",
+    "set": "mock-15",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Having {1|been} informed of the delay, the passengers waited patiently in the lounge. Many of them {2|had} planned to attend a meeting, but they had no choice but to {3|reschedule} it. The airline offered free meals to {4|whom} had to wait more than three hours. Despite the inconvenience, most passengers {5|were} grateful for the clear explanation.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "지연을 통보받은 승객들은 휴게실에서 침착하게 기다렸다. 그들 중 많은 사람은 회의에 참석할 계획이었지만 일정을 다시 잡을 수밖에 없었다. 항공사는 세 시간 넘게 기다려야 했던 사람들에게 무료 식사를 제공했다. 불편에도 불구하고 대부분의 승객은 명확한 설명에 감사했다.",
+    "why": "전치사 to의 목적어이자 뒤 동사 'had'의 주어 역할을 하므로 'whom'이 아니라 'those who' 또는 'whoever'여야 합니다.",
+    "optionNotes": [
+      "완료 분사구문 Having been informed입니다.",
+      "과거 이전의 계획을 나타내는 had planned입니다.",
+      "'have no choice but to + 동사원형' 구문의 reschedule입니다.",
+      "정답(틀린 것). 주어 역할을 해야 하므로 whoever 또는 those who여야 합니다.",
+      "복수 주어 passengers에 맞는 were입니다."
+    ],
+    "trap": "전치사 뒤라고 해서 무조건 whom을 쓰면 뒤 동사의 주어가 사라집니다.",
+    "tip": "관계사 뒤에 동사가 바로 오면 주격이어야 하는지 확인하세요."
+  },
+  {
+    "id": "m3-15-30",
+    "level": "m3",
+    "set": "mock-15",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Some researchers argue that social media has {1|transformed} the way we communicate. It allows us to stay in touch with distant friends, but it can also {2|strengthen} face-to-face relationships, since people spend less time talking in person. Constantly comparing ourselves with others' carefully edited posts may {3|damage} our self-esteem. Therefore, it is {4|essential} to set limits on usage and to {5|maintain} a balance between online and offline life.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "일부 연구자들은 소셜 미디어가 우리의 의사소통 방식을 바꾸었다고 주장한다. 그것은 먼 곳의 친구들과 연락을 유지하게 해 주지만, 사람들이 직접 대화하는 시간이 줄어들기 때문에 대면 관계를 강화할 수도 있다. 다른 사람들의 공들여 편집한 게시물과 끊임없이 자신을 비교하는 것은 자존감을 해칠 수 있다. 그러므로 사용에 한계를 정하고 온라인과 오프라인 삶의 균형을 유지하는 것이 필수적이다.",
+    "why": "직접 대화하는 시간이 줄어든다고 했으므로 대면 관계를 '강화한다(strengthen)'가 아니라 '약화한다(weaken)'여야 합니다.",
+    "optionNotes": [
+      "바꾸었다는 의미로 transformed가 알맞습니다.",
+      "정답(부적절). 대면 시간이 줄므로 weaken이어야 합니다.",
+      "해친다는 의미로 damage가 알맞습니다.",
+      "필수적이라는 의미로 essential이 알맞습니다.",
+      "유지한다는 의미로 maintain이 알맞습니다."
+    ],
+    "trap": "'strengthen'이 'stay in touch'와 이어져 자연스러워 보이지만 이유절과 모순됩니다.",
+    "tip": "since 절(spend less time talking in person)의 결과와 동사의 방향을 확인하세요."
+  },
+  {
+    "id": "m3-15-31",
+    "level": "m3",
+    "set": "mock-15",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many people assume that creative ideas come from sudden flashes of inspiration. However, studies of successful inventors and artists reveal a different picture. Most of them worked on their projects for years, repeatedly testing, failing, and improving their ideas. Edison, for instance, is said to have tested thousands of materials before finding a suitable filament for the light bulb. Their breakthroughs did not appear out of nowhere; they were the result of accumulated effort and knowledge. Therefore, creativity is less about waiting for inspiration and more about __________.",
+    "options": [
+      "avoiding any form of failure",
+      "persistently working and learning from repeated attempts",
+      "copying the work of famous artists",
+      "trusting luck",
+      "working alone"
+    ],
+    "answer": 1,
+    "translation": "많은 사람은 창의적인 아이디어가 갑작스러운 영감의 번뜩임에서 나온다고 생각한다. 그러나 성공한 발명가와 예술가에 대한 연구는 다른 그림을 보여 준다. 그들 대부분은 수년 동안 프로젝트에 매달리며 아이디어를 반복해서 시험하고 실패하고 개선했다. 예를 들어 에디슨은 전구에 적합한 필라멘트를 찾기 전에 수천 가지 재료를 시험했다고 전해진다. 그들의 돌파구는 갑자기 나타난 것이 아니라 축적된 노력과 지식의 결과였다. 그러므로 창의성은 영감을 기다리는 것보다는 끈기 있게 노력하고 반복된 시도에서 배우는 것에 가깝다.",
+    "why": "수년간 시험하고 실패하고 개선했다고 했으므로 끈기 있게 노력하고 반복에서 배운다는 말이 알맞습니다.",
+    "optionNotes": [
+      "실패를 피한다는 내용은 글과 반대입니다.",
+      "정답. 끈기 있게 노력하며 반복된 시도에서 배웁니다.",
+      "모방은 나오지 않습니다.",
+      "운에 맡긴다는 내용은 글과 반대입니다.",
+      "혼자 일한다는 내용은 나오지 않습니다."
+    ],
+    "trap": "'inspiration'을 반대하는 글임을 놓치면 ④를 고르기 쉽습니다.",
+    "tip": "'less about A and more about B' 구문에서는 B가 필자의 주장입니다."
+  },
+  {
+    "id": "m3-15-32",
+    "level": "m3",
+    "set": "mock-15",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Language does more than describe the world; it shapes how we see it. For example, some languages have many words for different shades of blue, while others have only one. Speakers of the first group tend to distinguish between similar blues faster than those of the second group. This suggests that the vocabulary we have can __________ the way we perceive and categorize our experiences. Therefore, learning a new language may also give us a new way of seeing.",
+    "options": [
+      "completely replace",
+      "reverse",
+      "postpone",
+      "predict",
+      "influence"
+    ],
+    "answer": 4,
+    "translation": "언어는 세상을 묘사하는 것 이상을 한다. 언어는 우리가 세상을 보는 방식을 형성한다. 예를 들어 어떤 언어는 파랑의 여러 색조에 많은 단어를 가지고 있는 반면 다른 언어는 하나뿐이다. 첫 번째 집단의 화자는 비슷한 파랑을 두 번째 집단의 화자보다 더 빨리 구별하는 경향이 있다. 이는 우리가 가진 어휘가 경험을 인식하고 분류하는 방식에 영향을 줄 수 있음을 시사한다. 그러므로 새로운 언어를 배우는 것은 새로운 시각을 주기도 할 것이다.",
+    "why": "어휘가 많을수록 색을 더 빨리 구별한다고 했으므로 인식 방식에 '영향을 준다(influence)'가 알맞습니다.",
+    "optionNotes": [
+      "완전히 대체한다는 내용은 없습니다.",
+      "뒤집는다는 내용은 없습니다.",
+      "미룬다는 내용은 없습니다.",
+      "예측한다는 내용은 없습니다.",
+      "정답. 인식 방식에 영향을 줍니다."
+    ],
+    "trap": "'shapes'의 유사어를 찾으면 'replace'나 'reverse'처럼 강한 의미는 아닙니다.",
+    "tip": "첫 문장의 'shapes how we see it'이 빈칸의 의미를 알려 줍니다."
+  },
+  {
+    "id": "m3-15-33",
+    "level": "m3",
+    "set": "mock-15",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "When we describe a glass as half full or half empty, the amount of water is exactly the same. Our feelings about it, however, differ. This simple example shows how framing affects decisions. A medicine that \"saves 90 percent of patients\" sounds more appealing than one that \"fails to save 10 percent of patients.\" They mean exactly the same thing. This means that our judgments are often influenced not by the facts themselves but by the __________ in which they are presented.",
+    "options": [
+      "speed",
+      "location",
+      "volume",
+      "manner",
+      "language"
+    ],
+    "answer": 3,
+    "translation": "유리잔을 반이 차 있다고 말하든 반이 비어 있다고 말하든 물의 양은 완전히 같다. 그러나 그에 대한 우리의 느낌은 다르다. 이 간단한 예는 틀 짓기가 결정에 어떻게 영향을 주는지 보여 준다. '환자의 90퍼센트를 살리는' 약은 '환자의 10퍼센트를 살리지 못하는' 약보다 더 매력적으로 들린다. 하지만 둘은 정확히 같은 뜻이다. 이는 우리의 판단이 사실 자체가 아니라 그것이 제시되는 방식에 의해 영향을 받는 경우가 많음을 뜻한다.",
+    "why": "같은 사실이라도 표현하는 방식에 따라 판단이 달라진다고 했으므로 manner(방식)가 알맞습니다.",
+    "optionNotes": [
+      "속도는 나오지 않습니다.",
+      "위치는 나오지 않습니다.",
+      "양은 같다고 했으므로 맞지 않습니다.",
+      "정답. 사실이 제시되는 방식입니다.",
+      "언어는 방식의 일부일 뿐 포괄적이지 않습니다."
+    ],
+    "trap": "'language'도 그럴듯하지만 글 전체가 말하는 것은 틀 짓기의 방식입니다.",
+    "tip": "'not by A but by B' 구문에서 B가 글의 핵심입니다."
+  },
+  {
+    "id": "m3-15-34",
+    "level": "m3",
+    "set": "mock-15",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In Yellowstone National Park, wolves disappeared in the 1920s. Without their natural predator, the deer population grew rapidly and overgrazed the river banks, causing erosion. When wolves were reintroduced in 1995, the deer moved away from the rivers, and the vegetation recovered. Beavers and birds returned, and the rivers became more stable. Wolves are called a keystone species because their influence is far greater than their number would suggest. The case shows that removing a single species can __________ the whole ecosystem.",
+    "options": [
+      "improve",
+      "disrupt",
+      "protect",
+      "ignore",
+      "decorate"
+    ],
+    "answer": 1,
+    "translation": "옐로스톤 국립공원에서는 1920년대에 늑대가 사라졌다. 천적이 없어지자 사슴의 수가 급격히 늘어 강둑의 풀을 과도하게 뜯어 먹어 침식을 일으켰다. 1995년 늑대가 다시 도입되자 사슴은 강에서 멀어졌고 식생이 회복되었다. 비버와 새들이 돌아왔고 강은 더 안정되었다. 늑대는 수는 적지만 영향력이 훨씬 크기 때문에 핵심종이라 불린다. 이 사례는 한 종을 제거하는 것이 생태계 전체를 교란할 수 있음을 보여 준다.",
+    "why": "늑대가 사라지자 침식이 일어나는 등 생태계가 흔들렸다고 했으므로 교란한다(disrupt)가 알맞습니다.",
+    "optionNotes": [
+      "개선한다는 내용은 글과 반대입니다.",
+      "정답. 생태계 전체를 교란합니다.",
+      "보호한다는 내용은 글과 반대입니다.",
+      "무시한다는 내용은 없습니다.",
+      "장식한다는 내용은 없습니다."
+    ],
+    "trap": "늑대가 돌아온 뒤의 회복에 이끌려 긍정적인 동사를 고르지 마세요.",
+    "tip": "앞 문장(removing a single species)의 결과가 빈칸입니다."
+  },
+  {
+    "id": "m3-15-35",
+    "level": "m3",
+    "set": "mock-15",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Urban gardening is becoming increasingly popular in large cities. ① The first modern bicycle was invented in the early nineteenth century. ② Even a small balcony can provide enough space to grow herbs and vegetables. ③ Growing food at home reduces the need for transportation and packaging. ④ It also gives city dwellers a chance to connect with nature and relax after work. ⑤ For these reasons, many local governments now support rooftop and community gardens with funding and training programs.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "도시 텃밭 가꾸기는 대도시에서 점점 인기를 얻고 있다. ① 최초의 현대적인 자전거는 19세기 초에 발명되었다. ② 작은 발코니만으로도 허브와 채소를 기를 충분한 공간이 된다. ③ 집에서 식량을 기르면 운송과 포장의 필요가 줄어든다. ④ 또 도시 거주자에게 자연과 연결되고 퇴근 후 휴식할 기회를 준다. ⑤ 이런 이유로 많은 지방 정부가 이제 자금과 교육 프로그램으로 옥상 및 공동 정원을 지원한다.",
+    "why": "글은 도시 텃밭의 이점을 말하는데 ①은 자전거의 발명 이야기라 관계가 없습니다.",
+    "optionNotes": [
+      "정답(무관). 자전거의 발명 이야기입니다.",
+      "텃밭의 이점(공간)입니다.",
+      "텃밭의 이점(운송·포장 감소)입니다.",
+      "텃밭의 이점(자연과의 연결)입니다.",
+      "결론입니다."
+    ],
+    "trap": "'urban'과 '교통수단'을 연결해 자연스럽다고 착각하기 쉽습니다.",
+    "tip": "주제(도시 텃밭)와 이어지지 않는 문장을 고르세요."
+  },
+  {
+    "id": "m3-15-36",
+    "level": "m3",
+    "set": "mock-15",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Recent studies suggest that bilingual children often show stronger attention control than children who speak only one language.\n(A) Researchers explain that this is because bilinguals constantly switch between two languages, which trains the brain's control system. As a result, they ignore distractions more easily.\n(B) In one experiment, children were asked to ignore misleading information while solving a puzzle. Both groups were given the same task.\n(C) The bilingual group performed noticeably better. They made fewer mistakes and finished the puzzle faster.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 2,
+    "translation": "최근 연구들은 이중 언어 아동이 한 가지 언어만 하는 아동보다 주의 조절력이 더 강한 경우가 많다고 시사한다. (B) 한 실험에서 아이들은 퍼즐을 푸는 동안 잘못된 정보를 무시하라는 요청을 받았다. 두 집단 모두 같은 과제를 받았다. (C) 이중 언어 집단이 눈에 띄게 더 잘했다. 그들은 실수를 더 적게 했고 퍼즐을 더 빨리 끝냈다. (A) 연구자들은 이것이 이중 언어 사용자가 두 언어 사이를 끊임없이 전환하여 뇌의 조절 체계를 훈련시키기 때문이라고 설명한다. 그 결과 그들은 방해 요소를 더 쉽게 무시한다.",
+    "why": "(B) 실험 소개 → (C) 결과 → (A) 'this'로 결과의 이유 설명 순서입니다.",
+    "optionNotes": [
+      "(A)의 'this'가 가리킬 결과가 앞에 없습니다.",
+      "(A)의 'this'가 (C)의 결과보다 앞서 나옵니다.",
+      "정답. 실험 → 결과 → 이유.",
+      "(C)의 결과가 실험 소개 전에 올 수 없습니다.",
+      "(C)의 결과가 실험 소개 전에 올 수 없습니다."
+    ],
+    "trap": "(A)의 'this is because ~'는 (C)에서 말한 결과를 가리킵니다.",
+    "tip": "지시어(this)가 가리키는 결과가 앞에 있는지 확인하세요."
+  },
+  {
+    "id": "m3-15-37",
+    "level": "m3",
+    "set": "mock-15",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "When the ancient Egyptians built the pyramids, they faced the problem of moving enormous stone blocks across the desert.\n(A) Thus, a simple trick with water may have allowed relatively small teams to move enormous blocks over long distances.\n(B) A wall painting found in a tomb offers a clue. It shows workers pouring water on the sand in front of a sledge carrying a statue.\n(C) Recent experiments confirmed that wet sand is much firmer than dry sand. This reduces the force needed to pull a heavy load by about half.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 2,
+    "translation": "고대 이집트인들이 피라미드를 지을 때 그들은 거대한 돌덩이를 사막을 가로질러 옮기는 문제에 직면했다. (B) 무덤에서 발견된 벽화가 단서를 준다. 그림에는 일꾼들이 조각상을 실은 썰매 앞의 모래에 물을 붓는 모습이 나온다. (C) 최근 실험은 젖은 모래가 마른 모래보다 훨씬 단단하다는 것을 확인했다. 이는 무거운 짐을 끄는 데 필요한 힘을 약 절반으로 줄인다. (A) 따라서 물을 이용한 간단한 요령이 비교적 작은 팀이 거대한 돌덩이를 먼 거리까지 옮기게 했을 수 있다.",
+    "why": "(B) 벽화의 단서 → (C) 실험으로 확인 → (A) Thus, 결론 순서입니다.",
+    "optionNotes": [
+      "(A)의 'Thus'가 근거 없이 처음에 올 수 없습니다.",
+      "(A)의 'Thus'가 (C)의 근거보다 앞서 올 수 없습니다.",
+      "정답. 단서 → 확인 → 결론.",
+      "(C)의 'Recent experiments confirmed'가 확인할 단서보다 앞설 수 없습니다.",
+      "(C)가 처음에 올 수 없고 결론이 마지막이어야 합니다."
+    ],
+    "trap": "(C)의 'confirmed'는 (B)의 단서를 확인하는 내용입니다.",
+    "tip": "단서 → 확인(confirmed) → 결론(Thus)의 논리 흐름을 따라가세요."
+  },
+  {
+    "id": "m3-15-38",
+    "level": "m3",
+    "set": "mock-15",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nHowever, banning them completely may not be the best response.\n\n[글]\n( ① ) Many teachers worry that students use AI writing tools to avoid thinking for themselves. ( ② ) Instead, schools can teach students how to use such tools responsibly. ( ③ ) For example, students can ask a program to point out weak arguments in their drafts and then revise the text on their own. ( ④ ) In this way, the technology supports rather than replaces learning. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "[주어진 문장] 그러나 그것을 완전히 금지하는 것은 최선의 대응이 아닐 수 있다. [글] 많은 교사는 학생들이 스스로 생각하지 않으려고 AI 글쓰기 도구를 쓴다고 우려한다. 그러나 그것을 완전히 금지하는 것은 최선의 대응이 아닐 수 있다. 대신 학교는 그런 도구를 책임감 있게 사용하는 방법을 가르칠 수 있다. 예를 들어 학생들은 프로그램에게 초안의 약한 논거를 짚어 달라고 한 뒤 스스로 글을 고칠 수 있다. 이렇게 하면 기술은 학습을 대체하는 것이 아니라 뒷받침한다.",
+    "why": "'However, banning them ...'은 교사의 우려에 대한 반론이고, 뒤의 'Instead'가 금지의 대안을 제시하므로 ②에 들어갑니다.",
+    "optionNotes": [
+      "'them'이 가리킬 도구가 아직 나오지 않았습니다.",
+      "정답. 우려 뒤의 반론이고 'Instead'로 이어집니다.",
+      "'Instead' 문장 뒤라 금지에 대한 언급이 어색합니다.",
+      "예시 뒤라 흐름이 끊깁니다.",
+      "결론 뒤라 어색합니다."
+    ],
+    "trap": "'Instead'는 앞에 금지(banning)가 언급되어야 자연스럽습니다.",
+    "tip": "'However ~ Instead ~'의 대조 흐름이 만들어지는 위치를 찾으세요."
+  },
+  {
+    "id": "m3-15-39",
+    "level": "m3",
+    "set": "mock-15",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nImagine walking into a room and instantly forgetting why you came.\n\n[글]\n( ① ) This common experience, known as the \"doorway effect,\" has been studied by psychologists. ( ② ) In one study, participants who walked through a doorway forgot more information than those who stayed in the same room. ( ③ ) Researchers suggest that the brain treats a doorway as the end of an episode and stores the old memory away. ( ④ ) As a result, information from the previous room becomes harder to recall. ( ⑤ ) Simply returning to the original room can often bring the memory back.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "[주어진 문장] 방에 들어서자마자 왜 왔는지 곧바로 잊어버린 상황을 상상해 보라. [글] 이 흔한 경험은 '출입구 효과'로 알려져 있으며 심리학자들이 연구해 왔다. 한 연구에서 출입구를 통과한 참가자들은 같은 방에 머문 사람들보다 더 많은 정보를 잊었다. 연구자들은 뇌가 출입구를 하나의 에피소드의 끝으로 취급하고 이전 기억을 치워 둔다고 시사한다. 그 결과 이전 방의 정보는 떠올리기가 더 어려워진다. 원래의 방으로 돌아가기만 해도 기억이 되살아나는 경우가 많다.",
+    "why": "'This common experience'가 가리킬 대상(방에 들어서자마자 이유를 잊는 경험)이 먼저 나와야 하므로 ①에 들어갑니다.",
+    "optionNotes": [
+      "정답. 'This common experience'가 가리키는 경험을 먼저 제시합니다.",
+      "연구 사례 도중이라 'Imagine'이 어색합니다.",
+      "설명 도중이라 어색합니다.",
+      "결과 문장 앞이라 어색합니다.",
+      "결론 직전이라 어색합니다."
+    ],
+    "trap": "'Imagine ~' 문장은 흔히 글의 도입부에 놓입니다.",
+    "tip": "지시어(This common experience)가 가리키는 대상을 먼저 확인하세요."
+  },
+  {
+    "id": "m3-15-40",
+    "level": "m3",
+    "set": "mock-15",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In an experiment, office workers were asked to take two short walks outdoors each day for a month. Another group continued to work at their desks without breaks. At the end of the month, the walking group reported better concentration and fewer headaches. Their productivity, measured by the company, had actually increased by eight percent. The researchers concluded that taking time away from the desk did not reduce work output but improved it.\n\n▶ Taking regular (A) breaks can (B) both well-being and work performance.",
+    "options": [
+      "(A) uninterrupted — (B) damage",
+      "(A) silent — (B) delay",
+      "(A) long — (B) reduce",
+      "(A) late — (B) ignore",
+      "(A) walking — (B) improve"
+    ],
+    "answer": 4,
+    "translation": "한 실험에서 사무직 직원들은 한 달 동안 매일 두 번 짧게 야외에서 산책하라는 요청을 받았다. 다른 집단은 휴식 없이 책상에서 계속 일했다. 한 달 뒤 산책 집단은 집중력이 좋아지고 두통이 줄었다고 보고했다. 회사가 측정한 그들의 생산성은 실제로 8퍼센트 높아졌다. 연구자들은 책상에서 떨어져 있는 시간이 업무 성과를 줄이지 않고 오히려 높였다고 결론지었다. ▶ 규칙적인 산책 휴식은 웰빙과 업무 성과를 모두 향상시킬 수 있다.",
+    "why": "산책 휴식이 집중력과 생산성을 높였으므로 (A)는 walking, (B)는 improve입니다.",
+    "optionNotes": [
+      "uninterrupted와 damage는 글과 반대입니다.",
+      "silent와 delay는 글에 나오지 않습니다.",
+      "long과 reduce는 글에 나오지 않습니다.",
+      "late와 ignore는 글에 나오지 않습니다.",
+      "정답. 산책 휴식이 웰빙과 성과를 향상시킵니다."
+    ],
+    "trap": "(A)와 (B)가 모두 실험 결과와 맞아야 합니다.",
+    "tip": "요약문은 조작(walking breaks)과 결과(improve)를 짝지어 찾으세요."
+  }
+]

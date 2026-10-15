@@ -1,0 +1,333 @@
+[
+  {
+    "id": "m3-15-18",
+    "level": "m3",
+    "set": "mock-15",
+    "no": 18,
+    "type": "purpose",
+    "stem": "다음 글을 쓴 목적으로 가장 적절한 것은?",
+    "passage": "Dear residents,\nThe water supply to Building 3 will be shut off on Tuesday, March 12, from 10:00 a.m. to 2:00 p.m. This is necessary because the maintenance team will replace old water pipes in the basement. During this period, you will not be able to use water in your home, including the toilets and kitchens. We recommend that you store enough water for cooking and washing in advance. We apologize for any inconvenience and appreciate your understanding. If you have any questions, please contact the management office.\nManagement Office",
+    "options": [
+      "아파트 관리비 인상을 공지하려고",
+      "단수 일정을 알리고 사전 대비를 당부하려고",
+      "노후 배관 교체 공사를 맡을 업체를 입주민 중에서 모집하려고",
+      "입주민 설문 조사에 참여를 요청하려고",
+      "지하 주차장 이용 규칙을 설명하려고"
+    ],
+    "answer": 1,
+    "translation": "입주민 여러분께. 3동의 물 공급이 3월 12일 화요일 오전 10시부터 오후 2시까지 중단됩니다. 관리팀이 지하의 낡은 수도관을 교체해야 하기 때문입니다. 이 시간 동안에는 화장실과 부엌을 포함해 집에서 물을 사용할 수 없습니다. 요리와 세척에 필요한 물을 미리 받아 두시기를 권합니다. 불편을 드려 죄송하며 이해해 주셔서 감사합니다. 문의 사항이 있으시면 관리 사무소로 연락해 주세요. 관리 사무소.",
+    "why": "단수 일정과 이유를 알리고 물을 미리 받아 두라고 당부하는 글입니다.",
+    "optionNotes": [
+      "관리비 이야기는 나오지 않습니다.",
+      "정답. 단수 일정을 알리고 대비를 당부합니다.",
+      "업체 모집이 아닙니다.",
+      "설문은 나오지 않습니다.",
+      "주차장은 나오지 않습니다."
+    ],
+    "trap": "'replace old water pipes'는 단수의 이유일 뿐 글의 목적이 아닙니다.",
+    "tip": "목적 문제는 공지의 핵심 사실(일정)과 'We recommend ~' 요청을 함께 보세요."
+  },
+  {
+    "id": "m3-15-19",
+    "level": "m3",
+    "set": "mock-15",
+    "no": 19,
+    "type": "mood",
+    "stem": "다음 글에 드러난 Tae-min의 심경 변화로 가장 적절한 것은?",
+    "passage": "The class trip to the planetarium was the last thing Tae-min wanted to do on a Friday. He sat at the back with his phone, sure that it would be a boring lecture about stars. Then the lights went out, and the dome above him filled with thousands of glowing points. The guide's calm voice described how some of the stars had already died millions of years ago. Yet their light was still reaching Earth. Tae-min slowly put his phone in his pocket and leaned forward. By the end of the show, he was the first to raise his hand and ask a question.",
+    "options": [
+      "indifferent → fascinated",
+      "angry → calm",
+      "proud → ashamed",
+      "lonely → grateful",
+      "afraid → relieved"
+    ],
+    "answer": 0,
+    "translation": "천문관 현장 학습은 금요일에 태민이 가장 하고 싶지 않은 일이었다. 그는 휴대전화를 들고 뒷자리에 앉아 별에 대한 지루한 강의일 것이라고 확신했다. 그때 불이 꺼지고 머리 위 돔이 수천 개의 빛나는 점으로 가득 찼다. 안내자의 차분한 목소리는 어떤 별은 수백만 년 전에 이미 죽었다고 설명했다. 그러나 그 빛은 여전히 지구에 닿고 있다. 태민은 천천히 휴대전화를 주머니에 넣고 몸을 앞으로 기울였다. 공연이 끝날 무렵 그는 가장 먼저 손을 들고 질문했다.",
+    "why": "처음에는 무관심했지만(indifferent), 별빛 이야기에 매료되어(fascinated) 질문까지 했습니다.",
+    "optionNotes": [
+      "정답. 무관심에서 매료로 변했습니다.",
+      "화남에서 차분함이 아닙니다.",
+      "자랑스러움에서 부끄러움이 아닙니다.",
+      "외로움에서 고마움이 아닙니다.",
+      "두려움에서 안도가 아닙니다."
+    ],
+    "trap": "휴대전화를 보는 모습을 화(angry)로 오해하지 마세요.",
+    "tip": "처음의 태도(sure that it would be boring)와 마지막 행동(ask a question)을 비교하세요."
+  },
+  {
+    "id": "m3-15-20",
+    "level": "m3",
+    "set": "mock-15",
+    "no": 20,
+    "type": "claim",
+    "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+    "passage": "In a world of constant messages and notifications, listening has become a rare skill. Many of us wait for our turn to speak instead of truly hearing the other person. This habit damages trust, because people can feel when they are not being heard. In contrast, giving someone your full attention, without interrupting or checking your phone, makes them feel valued. Listening costs nothing but patience. Therefore, we should make an effort to listen carefully to others before we respond.",
+    "options": [
+      "대화할 때는 자신의 의견을 먼저 분명히 말해야 한다.",
+      "메시지 알림은 가능한 한 빨리 확인해야 한다.",
+      "타인의 말을 끝까지 주의 깊게 들어야 한다.",
+      "신뢰는 작은 선물을 통해 쌓아야 한다.",
+      "대화 중에도 휴대전화를 사용해도 무방하다."
+    ],
+    "answer": 2,
+    "translation": "끊임없는 메시지와 알림의 세상에서 경청은 드문 기술이 되었다. 우리 중 많은 사람은 상대방의 말을 제대로 듣는 대신 자기 차례를 기다린다. 이 습관은 신뢰를 해친다. 사람들은 자신의 말을 상대가 듣지 않고 있다는 것을 느낄 수 있기 때문이다. 반대로 끼어들거나 휴대전화를 확인하지 않고 온전한 관심을 기울이면 상대는 존중받는다고 느낀다. 경청은 인내심 외에는 아무것도 들지 않는다. 그러므로 우리는 반응하기 전에 다른 사람의 말을 주의 깊게 들으려 노력해야 한다.",
+    "why": "마지막 문장 'we should make an effort to listen carefully to others'가 필자의 주장입니다.",
+    "optionNotes": [
+      "자신이 먼저 말하는 것은 글과 반대입니다.",
+      "알림 확인은 문제로 지적됩니다.",
+      "정답. 상대의 말을 주의 깊게 들어야 합니다.",
+      "선물 이야기는 나오지 않습니다.",
+      "휴대전화 사용은 존중을 해친다고 합니다."
+    ],
+    "trap": "둘째 문장의 'wait for our turn'을 필자가 권하는 행동으로 오해하지 마세요.",
+    "tip": "In contrast와 Therefore가 이끄는 문장이 필자의 주장입니다."
+  },
+  {
+    "id": "m3-15-21",
+    "level": "m3",
+    "set": "mock-15",
+    "no": 21,
+    "type": "implied",
+    "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "passage": "Jin missed the last bus and had to walk home in the cold. At first, he felt unlucky. But on the way, he met an old friend he had not seen for years and discovered a new shortcut that saved him time every day. It turned out to be {u|a blessing in disguise}.",
+    "options": [
+      "a gift wrapped in a plain box",
+      "a small mistake that nobody notices",
+      "a very expensive thing in an old store",
+      "a plan that is made too late to work",
+      "something that seems bad at first but brings a good result"
+    ],
+    "answer": 4,
+    "translation": "진은 막차를 놓쳐서 추운 날 걸어서 집에 가야 했다. 처음에 그는 운이 없다고 느꼈다. 그러나 가는 길에 몇 년 동안 보지 못한 옛 친구를 만났고 매일 시간을 아껴 주는 새 지름길을 발견했다. 그것은 전화위복이었다.",
+    "why": "처음에는 불운해 보였지만 좋은 결과를 가져왔으므로 'a blessing in disguise'는 그런 일을 뜻합니다.",
+    "optionNotes": [
+      "평범한 상자에 싼 선물이라는 뜻이 아닙니다.",
+      "눈치채지 못하는 실수라는 뜻이 아닙니다.",
+      "비싼 물건이라는 뜻이 아닙니다.",
+      "너무 늦은 계획이라는 뜻이 아닙니다.",
+      "정답. 처음에는 나빠 보이지만 좋은 결과를 가져오는 일입니다."
+    ],
+    "trap": "'blessing'과 'disguise'를 문자 그대로 해석하지 마세요.",
+    "tip": "관용 표현은 'At first ~ But ~'의 대조 구조에서 의미를 확인하세요."
+  },
+  {
+    "id": "m3-15-22",
+    "level": "m3",
+    "set": "mock-15",
+    "no": 22,
+    "type": "gist",
+    "stem": "다음 글의 요지로 가장 적절한 것은?",
+    "passage": "People often say that money cannot buy happiness, but research shows a more detailed picture. Spending money on possessions brings only short-lived pleasure, as people quickly get used to new things. On the other hand, spending on experiences, such as trips or concerts, creates memories that people can enjoy again and again. Spending on others also increases happiness more than spending on oneself. Giving a gift or paying for a friend's meal is a good example. In other words, how we spend money matters more than how much we spend.",
+    "options": [
+      "돈이 많을수록 사람은 더 행복해진다.",
+      "물건을 사는 것이 가장 오래가는 즐거움을 준다.",
+      "여행 비용은 줄이는 것이 현명하다.",
+      "행복은 돈을 얼마나 쓰느냐보다 어떻게 쓰느냐에 더 달려 있다.",
+      "친구에게 선물을 받는 것이 행복의 조건이다."
+    ],
+    "answer": 3,
+    "translation": "사람들은 흔히 돈으로 행복을 살 수 없다고 말하지만 연구는 더 자세한 그림을 보여 준다. 물건에 돈을 쓰는 것은 잠깐의 즐거움만 주는데, 사람들은 새로운 것에 금방 익숙해지기 때문이다. 반면 여행이나 콘서트 같은 경험에 쓰는 돈은 사람들이 거듭 즐길 수 있는 추억을 만든다. 다른 사람을 위해 쓰는 것도 자신을 위해 쓰는 것보다 행복을 더 높인다. 선물을 주거나 친구의 식사비를 내는 것이 좋은 예이다. 다시 말해 우리가 돈을 얼마나 쓰느냐보다 어떻게 쓰느냐가 더 중요하다.",
+    "why": "마지막 문장 'how we spend money matters more than how much we spend'가 요지입니다.",
+    "optionNotes": [
+      "글과 맞지 않는 일반론입니다.",
+      "물건 구입은 짧은 즐거움만 준다고 합니다.",
+      "경험에 쓰는 돈이 추억을 만든다고 합니다.",
+      "정답. 돈을 어떻게 쓰느냐가 더 중요합니다.",
+      "선물을 주는 것이 행복을 높인다고 합니다."
+    ],
+    "trap": "세부 사례(trips, gifts)를 요지로 착각하지 마세요.",
+    "tip": "'In other words'로 시작하는 문장이 글 전체를 요약합니다."
+  },
+  {
+    "id": "m3-15-23",
+    "level": "m3",
+    "set": "mock-15",
+    "no": 23,
+    "type": "topic",
+    "stem": "다음 글의 주제로 가장 적절한 것은?",
+    "passage": "Bamboo is one of the fastest-growing plants on Earth. Some species can grow nearly one meter in a single day. This surprising speed is possible because bamboo first spends several years building an extensive underground root system. Once the roots are strong enough, the stalks shoot upward in just a few weeks. Because it regrows quickly after being cut, bamboo is regarded as a sustainable resource that can replace wood in construction and furniture. In addition, it absorbs large amounts of carbon dioxide while growing.",
+    "options": [
+      "why bamboo is used to make musical instruments in many Asian countries",
+      "how to cook delicious dishes using bamboo shoots",
+      "where the largest bamboo forests in the world are located",
+      "what makes bamboo harder than ordinary wood",
+      "how bamboo grows so fast and why it is valuable"
+    ],
+    "answer": 4,
+    "translation": "대나무는 지구에서 가장 빨리 자라는 식물 중 하나이다. 일부 종은 하루에 거의 1미터까지 자랄 수 있다. 이 놀라운 속도는 대나무가 먼저 몇 년 동안 넓은 지하 뿌리 체계를 만들기 때문에 가능하다. 뿌리가 충분히 튼튼해지면 줄기는 단 몇 주 만에 위로 솟아오른다. 잘려도 빨리 다시 자라기 때문에 대나무는 건축과 가구에서 목재를 대체할 수 있는 지속 가능한 자원으로 여겨진다. 또한 자라면서 많은 양의 이산화탄소를 흡수한다.",
+    "why": "대나무가 빨리 자라는 이유와 그 가치를 설명하는 글이므로 ⑤가 주제입니다.",
+    "optionNotes": [
+      "악기 제작은 나오지 않습니다.",
+      "요리는 나오지 않습니다.",
+      "분포 지역은 나오지 않습니다.",
+      "목재와의 단단함 비교는 나오지 않습니다.",
+      "정답. 대나무가 빨리 자라는 이유와 가치입니다."
+    ],
+    "trap": "'replace wood'만 보고 목재와의 비교(④)를 고르지 마세요.",
+    "tip": "주제는 글 전체의 두 축(성장 속도, 가치)을 함께 담은 보기를 고르세요."
+  },
+  {
+    "id": "m3-15-24",
+    "level": "m3",
+    "set": "mock-15",
+    "no": 24,
+    "type": "title",
+    "stem": "다음 글의 제목으로 가장 적절한 것은?",
+    "passage": "In the dry lands of northern Kenya, a camel carries more than water. Every week, a librarian leads a camel loaded with boxes of books to remote villages where there are no libraries. Children gather under trees and take turns reading aloud. For many of them, it is the first time they have held a book other than a school textbook. Teachers report that the program has improved reading scores in the villages it visits. Parents say that their children now ask for stories at night.",
+    "options": [
+      "Books on a Camel's Back: Bringing Reading to Remote Villages",
+      "Why Camels Can Survive Without Water for Many Weeks in the Desert Heat",
+      "How to Write a Good Reading Report",
+      "The Rising Cost of Printing Textbooks",
+      "A Guide to Planting Trees in Dry Lands"
+    ],
+    "answer": 0,
+    "translation": "케냐 북부의 건조한 땅에서는 낙타가 물 이상의 것을 나른다. 매주 사서가 책 상자를 실은 낙타를 이끌고 도서관이 없는 외딴 마을로 간다. 아이들은 나무 아래에 모여 번갈아 가며 소리 내어 읽는다. 그들 중 많은 아이에게 이것은 교과서 이외의 책을 처음 손에 쥐어 보는 경험이다. 교사들은 이 프로그램이 방문하는 마을의 읽기 점수를 높였다고 전한다. 부모들은 아이들이 이제 밤마다 이야기를 들려 달라고 한다고 말한다.",
+    "why": "낙타로 책을 외딴 마을에 전하는 프로그램을 소개하는 글이므로 ①이 제목입니다.",
+    "optionNotes": [
+      "정답. 낙타 등에 실어 외딴 마을에 독서를 전합니다.",
+      "낙타의 생존 능력은 나오지 않습니다.",
+      "독서 보고서 작성법은 나오지 않습니다.",
+      "교재 인쇄비는 나오지 않습니다.",
+      "식목은 나오지 않습니다."
+    ],
+    "trap": "'camel'과 'dry lands'가 나온다고 ②⑤를 고르지 마세요.",
+    "tip": "제목은 핵심 소재(books on camel)와 목적(reading to remote villages)을 담으세요."
+  },
+  {
+    "id": "m3-15-25",
+    "level": "m3",
+    "set": "mock-15",
+    "no": 25,
+    "type": "chart",
+    "stem": "다음 도표의 내용과 일치하지 않는 것은?",
+    "chart": {
+      "title": "Preferred Way to Commute (%)",
+      "unit": "%",
+      "labels": [
+        "Bus",
+        "Subway",
+        "Bike",
+        "Walk",
+        "Car"
+      ],
+      "series": [
+        {
+          "name": "Percent",
+          "values": [
+            30,
+            28,
+            12,
+            10,
+            20
+          ]
+        }
+      ]
+    },
+    "passage": "The graph shows how people in a city prefer to commute. ① Bus is the most preferred way. ② Subway and Car together account for more than half of the total. ③ Bike is 2 percentage points higher than Walk. ④ One fifth of the people prefer Car. ⑤ The percentage of Bus is more than twice that of Bike.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "그래프는 한 도시의 사람들이 선호하는 통근 방법을 보여 준다. ① 버스가 가장 선호되는 방법이다. ② 지하철과 자동차를 합하면 전체의 절반을 넘는다. ③ 자전거는 도보보다 2퍼센트포인트 높다. ④ 5분의 1의 사람들이 자동차를 선호한다. ⑤ 버스의 비율은 자전거의 두 배보다 많다.",
+    "why": "지하철 28%와 자동차 20%를 합하면 48%로 절반(50%)에 못 미치므로 ②는 일치하지 않습니다.",
+    "optionNotes": [
+      "버스 30%가 가장 높습니다.",
+      "정답(불일치). 28 + 20 = 48%로 절반이 안 됩니다.",
+      "자전거 12%는 도보 10%보다 2퍼센트포인트 높습니다.",
+      "자동차 20%는 5분의 1입니다.",
+      "버스 30%는 자전거 12%의 두 배(24%)보다 많습니다."
+    ],
+    "trap": "합이 50%에 근접하지만 넘지 않는다는 점을 놓치기 쉽습니다.",
+    "tip": "합계 비교는 두 값을 먼저 더한 뒤 기준과 비교하세요."
+  },
+  {
+    "id": "m3-15-26",
+    "level": "m3",
+    "set": "mock-15",
+    "no": 26,
+    "type": "match",
+    "stem": "Nadia Hassan에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Nadia Hassan is a young engineer who developed a low-cost water filter. Growing up in a village where clean water was scarce, she began experimenting with sand and charcoal at the age of fifteen. After three years of testing, she designed a filter that costs less than five dollars and can supply a family with clean water for a year. Her invention has been installed in more than two hundred households. She now works with a nonprofit organization to distribute the filters to more villages.",
+    "options": [
+      "그녀가 고안한 정수 필터는 한 가정에 1년간 깨끗한 물을 공급할 수 있다.",
+      "도시에서 자라 깨끗한 물이 얼마나 소중한지 전혀 알지 못했다고 말한다.",
+      "필터를 개발하는 데 3개월이 걸렸다.",
+      "발명품의 가격은 50달러가 넘는다.",
+      "비영리 단체의 도움을 받지 않고 혼자서 모든 마을에 필터를 직접 보급하고 있다."
+    ],
+    "answer": 0,
+    "translation": "나디아 하산은 저비용 정수 필터를 개발한 젊은 엔지니어이다. 깨끗한 물이 부족한 마을에서 자란 그녀는 열다섯 살에 모래와 숯으로 실험을 시작했다. 3년 동안 시험한 끝에 그녀는 5달러도 안 되는 비용으로 한 가정에 1년 동안 깨끗한 물을 공급할 수 있는 필터를 설계했다. 그녀의 발명품은 200가구가 넘는 곳에 설치되었다. 그녀는 현재 비영리 단체와 함께 더 많은 마을에 필터를 보급하고 있다.",
+    "why": "'can supply a family with clean water for a year'와 일치합니다.",
+    "optionNotes": [
+      "정답. 한 가정에 1년간 깨끗한 물을 공급할 수 있습니다.",
+      "깨끗한 물이 부족한 마을에서 자랐습니다.",
+      "3년 동안 시험했습니다.",
+      "5달러도 안 되는 가격입니다.",
+      "비영리 단체와 함께 보급합니다."
+    ],
+    "trap": "기간(three years/months)과 가격(five/fifty)을 바꾼 보기에 주의하세요.",
+    "tip": "일치 문제는 숫자 정보를 하나씩 대조하세요."
+  },
+  {
+    "id": "m3-15-27",
+    "level": "m3",
+    "set": "mock-15",
+    "no": 27,
+    "type": "notice",
+    "stem": "Community Garden Volunteer Day에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Community Garden Volunteer Day\nHelp us prepare the garden for spring!\nDate: Sunday, April 7\nTime: 9:00 a.m. – 1:00 p.m.\nPlace: Riverside Community Garden\nActivities: Planting seeds, building raised beds, and painting signs\nBring: Gloves and a water bottle (tools will be provided)\nFree: Lunch and vegetable seedlings to take home\nRegister: By April 3, by phone or at the garden office\nNote: Children under 12 must be accompanied by an adult.",
+    "options": [
+      "12세 미만의 어린이는 어른과 함께 와야 한다.",
+      "도구는 각자 가져와야 한다.",
+      "신청은 4월 7일까지 할 수 있다.",
+      "점심 도시락과 마실 물은 각자 집에서 준비해서 와야 한다.",
+      "행사는 오후에 시작한다."
+    ],
+    "answer": 0,
+    "translation": "마을 정원 자원봉사의 날. 봄을 맞아 정원을 준비하는 일을 도와주세요! 날짜: 4월 7일 일요일. 시간: 오전 9시~오후 1시. 장소: 리버사이드 마을 정원. 활동: 씨앗 심기, 높은 화단 만들기, 표지판 칠하기. 가져올 것: 장갑과 물병(도구는 제공됩니다). 무료: 점심과 집에 가져갈 채소 모종. 신청: 4월 3일까지 전화 또는 정원 사무실에서. 유의: 12세 미만 어린이는 어른과 동행해야 합니다.",
+    "why": "'Children under 12 must be accompanied by an adult.'와 일치합니다.",
+    "optionNotes": [
+      "정답. 12세 미만은 어른과 동행해야 합니다.",
+      "도구는 제공됩니다.",
+      "신청은 4월 3일까지입니다.",
+      "점심은 무료로 제공됩니다.",
+      "오전 9시에 시작합니다."
+    ],
+    "trap": "'Bring'(장갑, 물병)과 'Free'(점심)를 혼동하지 마세요.",
+    "tip": "안내문은 항목(Bring, Free, Register, Note)별로 대조하세요."
+  },
+  {
+    "id": "m3-15-28",
+    "level": "m3",
+    "set": "mock-15",
+    "no": 28,
+    "type": "notice",
+    "stem": "Digital Photography Course에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Digital Photography Course for Beginners\nDuration: Six weeks (every Wednesday, 7:00 p.m. – 9:00 p.m.)\nStarts: May 8\nPlace: Hanbit Arts Center, Studio 2\nFee: $90 (cameras are not included)\nRequirements: A digital camera or a smartphone with a good camera\nClass size: Limited to 12 students\nCancellation: A full refund is available if you cancel at least one week before the course starts.",
+    "options": [
+      "수업은 주말 오전에 진행된다.",
+      "수강료 90달러에는 수업에 필요한 카메라 대여료가 모두 포함되어 있다.",
+      "수강 인원에는 제한이 없다.",
+      "수업 시작 하루 전에 취소하더라도 수강료를 전액 환불받을 수 있다.",
+      "카메라가 없으면 성능이 좋은 스마트폰으로 수강할 수 있다."
+    ],
+    "answer": 4,
+    "translation": "초보자를 위한 디지털 사진 강좌. 기간: 6주(매주 수요일 오후 7시~9시). 시작: 5월 8일. 장소: 한빛 아트 센터 2번 스튜디오. 수강료: 90달러(카메라는 포함되지 않음). 준비물: 디지털 카메라 또는 성능 좋은 카메라가 달린 스마트폰. 인원: 12명으로 제한. 취소: 강좌 시작 최소 1주 전에 취소하면 전액 환불됩니다.",
+    "why": "'A digital camera or a smartphone with a good camera'와 일치합니다.",
+    "optionNotes": [
+      "수요일 저녁에 진행됩니다.",
+      "카메라는 포함되지 않습니다.",
+      "12명으로 제한됩니다.",
+      "최소 1주 전에 취소해야 전액 환불됩니다.",
+      "정답. 성능 좋은 카메라가 있는 스마트폰으로 수강할 수 있습니다."
+    ],
+    "trap": "환불 조건(at least one week before)을 놓치면 ④를 고르기 쉽습니다.",
+    "tip": "세부 조건(요일, 금액, 인원, 환불 기한)을 하나씩 대조하세요."
+  }
+]
