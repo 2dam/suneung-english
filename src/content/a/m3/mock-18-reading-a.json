@@ -1,0 +1,333 @@
+[
+  {
+    "id": "m3-18-18",
+    "level": "m3",
+    "set": "mock-18",
+    "no": 18,
+    "type": "purpose",
+    "stem": "다음 글을 쓴 목적으로 가장 적절한 것은?",
+    "passage": "Dear Council Members,\nI am the parent of two children who attend Hanbit Elementary School. I am writing to ask you to install a crosswalk with traffic lights on Elm Street, in front of the school's main gate. At present, hundreds of children cross this road every morning, but there are no signals, and cars often drive at high speed. Last month, a child was almost hit by a car. I believe that a crosswalk would greatly improve the safety of our children. Thank you for your attention to this urgent matter.\nSincerely,\nHyunju Park",
+    "options": [
+      "학교 앞 도로의 제한 속도를 크게 완화해 달라고 시의회에 요청하려고",
+      "학교 앞에 신호등이 있는 횡단보도를 설치해 달라고 요청하려고",
+      "교통사고의 책임을 묻기 위해 시청에 항의하려고",
+      "어린이 보호 구역을 폐지해 달라고 시의회에 건의하려고",
+      "새로운 초등학교의 건립을 제안하려고"
+    ],
+    "answer": 1,
+    "translation": "시의원님들께. 저는 한빛 초등학교에 다니는 두 아이의 학부모입니다. 학교 정문 앞 엘름 거리에 신호등이 있는 횡단보도를 설치해 달라고 요청하려고 글을 씁니다. 현재 매일 아침 수백 명의 어린이가 이 도로를 건너지만 신호가 없고 자동차는 흔히 빠른 속도로 달립니다. 지난달에는 한 아이가 차에 치일 뻔했습니다. 횡단보도가 우리 아이들의 안전을 크게 높일 것이라고 믿습니다. 이 시급한 문제에 관심을 가져 주셔서 감사합니다. 박현주 드림.",
+    "why": "학교 앞에 신호등이 있는 횡단보도를 설치해 달라고 요청하는 글입니다.",
+    "optionNotes": [
+      "제한 속도 완화가 아닙니다.",
+      "정답. 신호등이 있는 횡단보도 설치를 요청합니다.",
+      "책임을 묻는 항의가 아닙니다.",
+      "보호 구역 폐지가 아닙니다.",
+      "학교 건립이 아닙니다."
+    ],
+    "trap": "사고가 날 뻔한 일은 요청의 근거일 뿐 목적이 아닙니다.",
+    "tip": "목적 문제는 'I am writing to ask you to ~' 문장을 찾으세요."
+  },
+  {
+    "id": "m3-18-19",
+    "level": "m3",
+    "set": "mock-18",
+    "no": 19,
+    "type": "mood",
+    "stem": "다음 글에 드러난 Seojin의 심경 변화로 가장 적절한 것은?",
+    "passage": "On her first day at the nursing home, Seojin stood by the door and held a bunch of flowers tightly. Her hands were sweating, and she did not know what to say. A grandmother in a wheelchair smiled and waved her over. \"Come sit with me, dear,\" she said. Seojin sat down and began to read a poem. The grandmother closed her eyes and listened. When Seojin finished, the old woman took her hand and whispered, \"Nobody has read to me in years.\" Seojin felt a warm feeling fill her chest.",
+    "options": [
+      "bored → jealous",
+      "nervous → touched",
+      "proud → ashamed",
+      "irritated → embarrassed",
+      "lonely → amused"
+    ],
+    "answer": 1,
+    "translation": "양로원에서의 첫날 서진은 문 옆에 서서 꽃다발을 꼭 쥐고 있었다. 손에 땀이 났고 무슨 말을 해야 할지 몰랐다. 휠체어를 탄 할머니가 미소를 지으며 그녀에게 손짓했다. \"이리 와서 앉으렴.\" 할머니가 말했다. 서진은 앉아서 시를 읽기 시작했다. 할머니는 눈을 감고 들었다. 서진이 끝내자 할머니는 그녀의 손을 잡고 속삭였다. \"몇 년 동안 아무도 나에게 읽어 준 적이 없단다.\" 서진은 따뜻한 감정이 가슴을 채우는 것을 느꼈다.",
+    "why": "처음에는 긴장했지만(nervous), 할머니의 말에 마음이 따뜻해졌습니다(touched).",
+    "optionNotes": [
+      "지루함에서 질투가 아닙니다.",
+      "정답. 긴장에서 감동으로 변했습니다.",
+      "자랑스러움에서 부끄러움이 아닙니다.",
+      "짜증에서 당황이 아닙니다.",
+      "외로움에서 즐거움이 아닙니다."
+    ],
+    "trap": "'sweating'만 보고 계속 긴장했다고 판단하지 마세요.",
+    "tip": "처음의 신체 반응(sweating hands)과 마지막 감정(warm feeling)을 비교하세요."
+  },
+  {
+    "id": "m3-18-20",
+    "level": "m3",
+    "set": "mock-18",
+    "no": 20,
+    "type": "claim",
+    "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+    "passage": "In many cities, people have to buy bottled water when they are thirsty outdoors. This leads to millions of plastic bottles being thrown away each year. Public drinking fountains are a simple alternative that costs little to install and maintain. They also help low-income residents and tourists who cannot afford bottled drinks. Some cities have started to place fountains in parks, stations, and schools, and the response has been very positive. Therefore, cities should install more public drinking fountains to reduce plastic waste and ensure access to clean water for everyone.",
+    "options": [
+      "생수병은 반드시 재활용 통에 버려야 한다.",
+      "관광객에게 생수를 무료로 나눠 주어야 한다.",
+      "도시는 더 많은 공공 식수대를 설치해 플라스틱 쓰레기를 줄이고 누구나 깨끗한 물을 마실 수 있게 해야 한다.",
+      "학교에서는 음료를 판매하지 말아야 한다.",
+      "수돗물은 마시기에 안전하지 않다."
+    ],
+    "answer": 2,
+    "translation": "많은 도시에서 사람들은 야외에서 목이 마르면 생수를 사야 한다. 이는 해마다 수백만 개의 플라스틱 병이 버려지게 한다. 공공 식수대는 설치와 유지 비용이 적게 드는 간단한 대안이다. 그것은 생수를 살 여유가 없는 저소득 주민과 관광객에게도 도움이 된다. 일부 도시는 공원, 역, 학교에 식수대를 설치하기 시작했고 반응은 매우 긍정적이었다. 그러므로 도시는 플라스틱 쓰레기를 줄이고 모두가 깨끗한 물을 이용할 수 있도록 더 많은 공공 식수대를 설치해야 한다.",
+    "why": "마지막 문장 'cities should install more public drinking fountains'가 필자의 주장입니다.",
+    "optionNotes": [
+      "재활용 이야기는 나오지 않습니다.",
+      "무료 나눔은 나오지 않습니다.",
+      "정답. 공공 식수대를 더 설치해야 합니다.",
+      "학교 음료 판매는 나오지 않습니다.",
+      "수돗물 안전은 나오지 않습니다."
+    ],
+    "trap": "'bottled water'의 문제 제기를 해결책과 혼동하지 마세요.",
+    "tip": "Therefore로 시작하는 마지막 문장의 주체(cities)와 요구를 확인하세요."
+  },
+  {
+    "id": "m3-18-21",
+    "level": "m3",
+    "set": "mock-18",
+    "no": 21,
+    "type": "implied",
+    "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "passage": "The contractor promised to build the school quickly, but he decided to {u|cut corners} to save money. He used cheaper materials and skipped several safety checks, and soon cracks appeared in the walls.",
+    "options": [
+      "walk around the whole building in a circle before opening the school",
+      "design the building with round corners instead of sharp ones",
+      "ask the workers to take a short break",
+      "do something in the cheapest way and lower its quality",
+      "move the furniture into the corners"
+    ],
+    "answer": 3,
+    "translation": "건설업자는 학교를 빠르게 짓겠다고 약속했지만 돈을 아끼려고 날림으로 하기로 했다. 그는 더 싼 자재를 쓰고 여러 안전 점검을 건너뛰었으며 곧 벽에 금이 나타났다.",
+    "why": "싼 자재를 쓰고 점검을 건너뛰었다고 했으므로 'cut corners'는 질을 낮추며 싸게 한다는 뜻입니다.",
+    "optionNotes": [
+      "건물을 한 바퀴 돈다는 뜻이 아닙니다.",
+      "모서리를 둥글게 설계한다는 뜻이 아닙니다.",
+      "잠깐 쉬게 한다는 뜻이 아닙니다.",
+      "정답. 비용을 아끼려 질을 낮춘다는 뜻입니다.",
+      "가구를 옮긴다는 뜻이 아닙니다."
+    ],
+    "trap": "'corners'를 문자 그대로 해석하지 마세요.",
+    "tip": "관용 표현은 뒤 문장(cheaper materials, skipped checks)에서 의미를 확인하세요."
+  },
+  {
+    "id": "m3-18-22",
+    "level": "m3",
+    "set": "mock-18",
+    "no": 22,
+    "type": "gist",
+    "stem": "다음 글의 요지로 가장 적절한 것은?",
+    "passage": "Many students assume that the best way to remember something is to read it again and again. However, research shows that this strategy is not very effective. A better method is to test yourself by closing the book and trying to recall what you have learned. Retrieving information from memory strengthens the connections in the brain, making it easier to remember in the future. In one study, students who tested themselves remembered about 50 percent more than those who just re-read the text.",
+    "options": [
+      "시험 전날에는 일찍 자고 충분히 쉬는 것이 가장 중요하다고 알려져 있다.",
+      "반복해서 읽는 것보다 스스로 시험해 보는 것이 기억에 더 효과적이다.",
+      "책을 덮고 공부하면 집중이 흐트러진다.",
+      "암기는 아침에 하는 것이 가장 좋다.",
+      "교재를 여러 번 반복해서 읽으면 기억이 오래간다는 것이 연구로 증명되었다."
+    ],
+    "answer": 1,
+    "translation": "많은 학생은 무언가를 기억하는 가장 좋은 방법이 그것을 거듭 읽는 것이라고 가정한다. 그러나 연구에 따르면 이 전략은 그다지 효과적이지 않다. 더 좋은 방법은 책을 덮고 배운 것을 떠올려 보며 스스로 시험해 보는 것이다. 기억에서 정보를 꺼내는 것은 뇌의 연결을 강화하여 나중에 기억하기 쉽게 만든다. 한 연구에서 스스로 시험한 학생들은 본문을 다시 읽기만 한 학생들보다 약 50퍼센트 더 많이 기억했다.",
+    "why": "반복해서 읽는 것보다 스스로 떠올리며 시험하는 것이 더 효과적이라는 것이 요지입니다.",
+    "optionNotes": [
+      "수면 이야기는 나오지 않습니다.",
+      "정답. 스스로 시험해 보는 것이 더 효과적입니다.",
+      "집중 이야기는 나오지 않습니다.",
+      "시간대 이야기는 나오지 않습니다.",
+      "글에서 효과적이지 않다고 합니다."
+    ],
+    "trap": "첫 문장의 통념(read again and again)을 필자의 생각으로 착각하지 마세요.",
+    "tip": "However 뒤의 'A better method is ~' 문장이 요지입니다."
+  },
+  {
+    "id": "m3-18-23",
+    "level": "m3",
+    "set": "mock-18",
+    "no": 23,
+    "type": "topic",
+    "stem": "다음 글의 주제로 가장 적절한 것은?",
+    "passage": "Many people love the fresh smell that appears after a rainfall. This smell has a name: petrichor. It comes from oils released by plants during dry periods and from a chemical made by soil bacteria called geosmin. When raindrops hit the ground, they trap tiny air bubbles that burst and send these substances into the air. Humans are extremely sensitive to geosmin; we can detect it in very small amounts. Some scientists believe that this sensitivity may have helped our ancestors find water.",
+    "options": [
+      "why plants release oils during the rainy seasons of each year",
+      "how the weather forecast can be made more accurate",
+      "which kinds of bacteria are harmful to human health",
+      "what causes the fresh smell after rain and why we notice it",
+      "how raindrops form in the clouds"
+    ],
+    "answer": 3,
+    "translation": "많은 사람이 비가 온 뒤에 나는 신선한 냄새를 좋아한다. 이 냄새에는 '페트리코'라는 이름이 있다. 그것은 건조한 기간에 식물이 내놓는 기름과 토양 세균이 만드는 지오스민이라는 화학 물질에서 나온다. 빗방울이 땅에 떨어지면 아주 작은 공기 방울이 갇혔다가 터지면서 이 물질들을 공기 중으로 내보낸다. 인간은 지오스민에 매우 민감해서 아주 적은 양도 감지할 수 있다. 일부 과학자들은 이 민감성이 우리 조상이 물을 찾는 데 도움이 되었을 것이라고 믿는다.",
+    "why": "비 온 뒤 냄새의 원인과 사람이 그것을 잘 감지하는 이유를 설명하는 글입니다.",
+    "optionNotes": [
+      "식물이 기름을 내놓는 계절이 중심이 아닙니다.",
+      "일기 예보는 나오지 않습니다.",
+      "해로운 세균은 나오지 않습니다.",
+      "정답. 비 온 뒤 냄새의 원인과 민감성입니다.",
+      "구름 속 빗방울 형성은 나오지 않습니다."
+    ],
+    "trap": "'plants release oils'만 보고 ①을 고르지 마세요. 원인 중 하나일 뿐입니다.",
+    "tip": "주제는 글의 두 축(원인, 감지 이유)을 함께 담은 보기를 고르세요."
+  },
+  {
+    "id": "m3-18-24",
+    "level": "m3",
+    "set": "mock-18",
+    "no": 24,
+    "type": "title",
+    "stem": "다음 글의 제목으로 가장 적절한 것은?",
+    "passage": "In a small Dutch village, the post office has been given a second life as a place for conversation. Residents who live alone can sit in the \"chat corner\" and talk with volunteers over coffee. The idea started when the village noticed that many older people went days without speaking to anyone. Now, around forty people visit every week, and some have become close friends. The project has been so successful that three nearby villages are copying it.",
+    "options": [
+      "A Village Post Office Where Lonely Residents Find Company",
+      "How to Send a Package Overseas in One Day",
+      "The Long History of the Postal Service in the Netherlands from the Sixteenth Century Onward",
+      "Why Young People Are Leaving Rural Villages",
+      "A Guide to Making Dutch Coffee at Home"
+    ],
+    "answer": 0,
+    "translation": "네덜란드의 한 작은 마을에서는 우체국이 대화의 장소로 두 번째 삶을 얻었다. 혼자 사는 주민들은 '수다 코너'에 앉아 커피를 마시며 자원봉사자들과 이야기할 수 있다. 이 아이디어는 마을이 많은 노인이 며칠 동안 아무와도 말하지 않고 지낸다는 것을 알아차리면서 시작되었다. 이제 매주 약 마흔 명이 찾아오고 일부는 가까운 친구가 되었다. 이 프로젝트는 매우 성공적이어서 인근의 세 마을이 이를 따라 하고 있다.",
+    "why": "우체국이 외로운 주민들의 대화 공간이 된 이야기이므로 ①이 제목입니다.",
+    "optionNotes": [
+      "정답. 외로운 주민들이 동료를 찾는 우체국입니다.",
+      "해외 배송은 나오지 않습니다.",
+      "우편의 역사는 나오지 않습니다.",
+      "젊은이의 이주는 나오지 않습니다.",
+      "커피 만드는 법은 나오지 않습니다."
+    ],
+    "trap": "'post office', 'coffee'에 이끌려 부분 정보를 제목으로 고르지 마세요.",
+    "tip": "제목은 핵심 소재(post office)와 변화(place for companionship)를 담으세요."
+  },
+  {
+    "id": "m3-18-25",
+    "level": "m3",
+    "set": "mock-18",
+    "no": 25,
+    "type": "chart",
+    "stem": "다음 도표의 내용과 일치하지 않는 것은?",
+    "chart": {
+      "title": "Monthly Spending of a Teenager (%)",
+      "unit": "%",
+      "labels": [
+        "Food",
+        "Hobbies",
+        "Clothes",
+        "Transport",
+        "Savings"
+      ],
+      "series": [
+        {
+          "name": "Percent",
+          "values": [
+            30,
+            25,
+            15,
+            10,
+            20
+          ]
+        }
+      ]
+    },
+    "passage": "The graph shows how a teenager spends money each month. ① Food is the largest category. ② Hobbies and Clothes together account for 50 percent. ③ Savings is twice as high as Transport. ④ Clothes is 5 percentage points higher than Transport. ⑤ Food and Savings together make up half of the total.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "그래프는 한 십 대가 매달 돈을 어떻게 쓰는지 보여 준다. ① 식비가 가장 큰 항목이다. ② 취미와 옷을 합하면 50퍼센트이다. ③ 저축은 교통비의 두 배이다. ④ 옷은 교통비보다 5퍼센트포인트 높다. ⑤ 식비와 저축을 합하면 전체의 절반이다.",
+    "why": "취미 25%와 옷 15%를 합하면 40%이므로 50%라는 ②는 일치하지 않습니다.",
+    "optionNotes": [
+      "식비 30%가 가장 큽니다.",
+      "정답(불일치). 25 + 15 = 40%입니다.",
+      "20%는 10%의 두 배입니다.",
+      "15% - 10% = 5퍼센트포인트입니다.",
+      "30 + 20 = 50%입니다."
+    ],
+    "trap": "합이 50%라고 단정하지 말고 직접 더해 확인하세요.",
+    "tip": "합계 보기는 두 값을 직접 더해 확인하세요."
+  },
+  {
+    "id": "m3-18-26",
+    "level": "m3",
+    "set": "mock-18",
+    "no": 26,
+    "type": "match",
+    "stem": "Samira Okafor에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Dr. Samira Okafor is a Nigerian doctor who founded a mobile clinic that travels to remote villages. She decided to become a doctor at the age of twelve. Her younger brother had died of a treatable illness because the nearest hospital was too far away. After graduating from medical school in 2008, she worked in a city hospital for three years. Then she started the clinic with a single van and two nurses. Today the clinic has five vans and has treated more than 200,000 patients. She says that no one should die because of distance.",
+    "options": [
+      "도시 병원에서 십 년을 일한 뒤 이동 진료소를 시작했다.",
+      "열두 살에 의과 대학에 입학했다.",
+      "동생이 치료할 수 있는 병으로 세상을 떠난 일을 계기로 의사가 되기로 결심했다.",
+      "현재 이동 진료소는 승합차 한 대로 운영된다.",
+      "진료소는 지금까지 20만 명에 못 미치는 환자를 치료했다."
+    ],
+    "answer": 2,
+    "translation": "사마이라 오카포르 박사는 외딴 마을을 찾아가는 이동 진료소를 설립한 나이지리아의 의사이다. 그녀는 열두 살에 의사가 되기로 결심했다. 남동생이 가장 가까운 병원이 너무 멀어서 치료할 수 있는 병으로 세상을 떠났기 때문이다. 2008년 의과 대학을 졸업한 뒤 도시 병원에서 3년간 일했다. 그다음 승합차 한 대와 간호사 두 명으로 진료소를 시작했다. 오늘날 진료소는 승합차 다섯 대를 보유하고 20만 명이 넘는 환자를 치료했다. 그녀는 아무도 거리 때문에 죽어서는 안 된다고 말한다.",
+    "why": "'after her younger brother died of a treatable illness'와 일치합니다.",
+    "optionNotes": [
+      "도시 병원에서 3년 일했습니다.",
+      "열두 살에 의사가 되기로 결심했습니다.",
+      "정답. 동생의 죽음을 계기로 의사가 되기로 했습니다.",
+      "현재 승합차 다섯 대입니다.",
+      "20만 명이 넘는 환자를 치료했습니다."
+    ],
+    "trap": "나이(결심한 때/입학한 때)와 숫자(three/ten, one/five)를 바꾼 보기에 주의하세요.",
+    "tip": "일치 문제는 계기·기간·규모를 하나씩 대조하세요."
+  },
+  {
+    "id": "m3-18-27",
+    "level": "m3",
+    "set": "mock-18",
+    "no": 27,
+    "type": "notice",
+    "stem": "Photography Exhibition에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Photography Exhibition: Faces of the City\nWhere: Hanbit Gallery, 2nd floor\nWhen: October 3 – 27, 10:00 a.m. – 6:00 p.m. (closed on Mondays)\nAdmission: $6 (free for children under 12 and visitors over 65)\nSpecial event: Meet the photographer on Saturday, October 12, at 3:00 p.m.\nNote: Flash photography is not allowed. Large bags must be stored in the lockers.",
+    "options": [
+      "전시는 월요일에도 오전 열 시부터 오후 여섯 시까지 열린다.",
+      "12세 미만 어린이도 반드시 입장료 6달러를 내야 한다.",
+      "작가와의 만남은 일요일 오후에 열린다.",
+      "플래시를 터뜨려 사진을 마음껏 찍을 수 있다고 안내되어 있다.",
+      "65세가 넘는 관람객은 무료로 입장할 수 있다."
+    ],
+    "answer": 4,
+    "translation": "사진 전시회: 도시의 얼굴들. 장소: 한빛 갤러리 2층. 기간: 10월 3일~27일, 오전 10시~오후 6시(월요일 휴관). 입장료: 6달러(12세 미만 어린이와 65세 이상은 무료). 특별 행사: 10월 12일 토요일 오후 3시에 작가와의 만남. 유의: 플래시 촬영은 허용되지 않습니다. 큰 가방은 보관함에 넣어야 합니다.",
+    "why": "'free for children under 12 and visitors over 65'와 일치합니다.",
+    "optionNotes": [
+      "월요일은 휴관입니다.",
+      "12세 미만은 무료입니다.",
+      "토요일 오후입니다.",
+      "플래시 촬영은 허용되지 않습니다.",
+      "정답. 65세가 넘는 관람객은 무료입니다."
+    ],
+    "trap": "무료 대상(under 12, over 65)과 휴관일을 놓치기 쉽습니다.",
+    "tip": "안내문은 항목(When, Admission, Special event, Note)별로 대조하세요."
+  },
+  {
+    "id": "m3-18-28",
+    "level": "m3",
+    "set": "mock-18",
+    "no": 28,
+    "type": "notice",
+    "stem": "Community Bike Repair Workshop에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Community Bike Repair Workshop\nLearn to fix your own bike!\nDate: Every second Saturday, 2:00 p.m. – 5:00 p.m.\nPlace: Riverside Community Center, Garage\nWho: Anyone over 10 (children under 14 must be accompanied by an adult)\nFee: Free (materials cost $5 per person)\nBring: Your bicycle and any spare parts you have\nSign up: In person at the community center by the Thursday before\nNote: Helmets are required in the garage.",
+    "options": [
+      "매월 마지막 토요일에 열린다.",
+      "14세 미만이어도 어른 없이 혼자서 자유롭게 참가할 수 있다.",
+      "참가자는 자신의 자전거를 가져와야 한다.",
+      "재료비도 무료이다.",
+      "신청은 행사 당일 현장에서만 받으며 사전 신청은 불가능하다."
+    ],
+    "answer": 2,
+    "translation": "지역 자전거 수리 워크숍. 자신의 자전거를 고치는 법을 배우세요! 날짜: 매달 둘째 토요일 오후 2시~5시. 장소: 리버사이드 주민센터 차고. 대상: 10세 이상(14세 미만은 어른과 동행). 참가비: 무료(재료비는 1인당 5달러). 준비물: 자전거와 가지고 있는 여분의 부품. 신청: 그 전 목요일까지 주민센터에서 직접. 유의: 차고에서는 헬멧을 써야 합니다.",
+    "why": "'Bring: Your bicycle and any spare parts you have'와 일치합니다.",
+    "optionNotes": [
+      "매달 둘째 토요일입니다.",
+      "14세 미만은 어른과 동행해야 합니다.",
+      "정답. 자신의 자전거를 가져와야 합니다.",
+      "재료비는 1인당 5달러입니다.",
+      "그 전 목요일까지 신청합니다."
+    ],
+    "trap": "'Fee: Free'와 재료비를 혼동하지 마세요.",
+    "tip": "조건(요일, 연령, 비용, 신청 시기)을 보기와 하나씩 대조하세요."
+  }
+]

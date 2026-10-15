@@ -1,0 +1,147 @@
+[
+  {
+    "id": "m3-18-41",
+    "level": "m3",
+    "set": "mock-18",
+    "no": 41,
+    "type": "long",
+    "group": "m3-18-g41",
+    "stem": "[41~42] 윗글의 제목으로 가장 적절한 것을 고르시오.",
+    "passage": "In many countries, finding space for solar panels is a challenge. One solution is to place them on water. Floating solar farms are built on reservoirs and lakes, where no land is needed. The panels {1|produce} more electricity than those on land because the cool water keeps them from {2|overheating}. They also {3|increase} the evaporation of water, which is a great benefit in dry regions. Additionally, they {4|block} sunlight and slow the growth of algae, which keeps the water clean. Governments are now {5|investing} in such projects.",
+    "options": [
+      "Why Solar Panels Are Too Expensive for Most Families",
+      "How Reservoirs Are Built in Dry Regions",
+      "The Dangers of Algae in Lakes",
+      "Floating Solar Farms: Producing Clean Energy While Saving Water and Land",
+      "A History of Electricity in Rural Areas"
+    ],
+    "answer": 3,
+    "translation": "많은 나라에서 태양광 패널을 놓을 공간을 찾는 것은 어려운 일이다. 한 가지 해결책은 그것을 물 위에 놓는 것이다. 수상 태양광 발전소는 땅이 필요 없는 저수지와 호수에 건설된다. 차가운 물이 과열을 막아 주기 때문에 패널은 육지에 있는 것보다 더 많은 전기를 생산한다. 또 물의 증발을 증가시키는데 이는 건조한 지역에서 큰 이점이다. 게다가 햇빛을 막아 조류의 성장을 늦춰 물을 깨끗하게 유지한다. 정부는 이제 그런 프로젝트에 투자하고 있다.",
+    "why": "수상 태양광이 전기를 만들면서 물과 땅을 아낀다는 내용이므로 ④가 제목입니다.",
+    "optionNotes": [
+      "가격 이야기는 나오지 않습니다.",
+      "저수지 건설은 나오지 않습니다.",
+      "조류의 위험은 나오지 않습니다.",
+      "정답. 청정 에너지를 만들며 물과 땅을 아낍니다.",
+      "전력의 역사는 나오지 않습니다."
+    ],
+    "trap": "'water'가 나온다고 ②③을 고르지 마세요.",
+    "tip": "제목은 핵심 소재(floating solar farms)와 이점(clean energy, saving water and land)을 담으세요."
+  },
+  {
+    "id": "m3-18-42",
+    "level": "m3",
+    "set": "mock-18",
+    "no": 42,
+    "type": "long",
+    "group": "m3-18-g41",
+    "stem": "[41~42] 밑줄 친 ①~⑤ 중에서 문맥상 낱말의 쓰임이 적절하지 않은 것을 고르시오.",
+    "passage": "In many countries, finding space for solar panels is a challenge. One solution is to place them on water. Floating solar farms are built on reservoirs and lakes, where no land is needed. The panels {1|produce} more electricity than those on land because the cool water keeps them from {2|overheating}. They also {3|increase} the evaporation of water, which is a great benefit in dry regions. Additionally, they {4|block} sunlight and slow the growth of algae, which keeps the water clean. Governments are now {5|investing} in such projects.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "(41번 지문과 같은 글입니다.)",
+    "why": "건조한 지역에서 큰 이점이라고 했으므로 물의 증발을 '증가시킨다(increase)'가 아니라 '줄인다(reduce)'여야 합니다.",
+    "optionNotes": [
+      "생산한다는 의미로 produce가 알맞습니다.",
+      "과열이라는 의미로 overheating이 알맞습니다.",
+      "정답(부적절). 건조 지역의 이점이므로 reduce여야 합니다.",
+      "햇빛을 막는다는 의미로 block이 알맞습니다.",
+      "투자한다는 의미로 investing이 알맞습니다."
+    ],
+    "trap": "'a great benefit'을 보지 않으면 increase가 자연스러워 보입니다.",
+    "tip": "'which is a great benefit in dry regions'와 낱말의 방향을 확인하세요."
+  },
+  {
+    "id": "m3-18-43",
+    "level": "m3",
+    "set": "mock-18",
+    "no": 43,
+    "type": "long",
+    "group": "m3-18-g43",
+    "stem": "[43~45] 주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것을 고르시오.",
+    "passage": "(A) Jisoo had been playing the cello for five years, but he had never performed in front of an audience. When his teacher suggested a small concert at the community hall, Jisoo's father, who had listened to him practice every night, laughed with joy. {1|He} said, \"You have to do it!\"\n(B) Jisoo was not sure. {2|He} was afraid of making mistakes in front of strangers.\n(C) On the day of the concert, Jisoo's hands were shaking. But when he started playing, {3|he} forgot about the audience and felt the music flow through him.\n(D) His father sat beside him and said, \"Even professionals make mistakes.\" Jisoo thought about it for a long time, and {4|he} finally nodded. From that night, {5|he} practiced two hours every day.",
+    "options": [
+      "(B)-(D)-(C)",
+      "(C)-(B)-(D)",
+      "(C)-(D)-(B)",
+      "(D)-(B)-(C)",
+      "(D)-(C)-(B)"
+    ],
+    "answer": 0,
+    "translation": "(A) 지수는 5년 동안 첼로를 연주해 왔지만 청중 앞에서 연주한 적은 한 번도 없었다. 선생님이 주민회관에서 작은 연주회를 하자고 제안하자 매일 밤 그의 연습을 들어 온 지수의 아버지는 기뻐서 웃었다. 그는 말했다. \"꼭 해야 해!\" (B) 지수는 확신이 서지 않았다. 그는 낯선 사람들 앞에서 실수할까 봐 두려웠다. (D) 아버지는 그 옆에 앉아 말했다. \"전문가도 실수한단다.\" 지수는 오랫동안 생각하다가 마침내 고개를 끄덕였다. 그날 밤부터 그는 매일 두 시간씩 연습했다. (C) 연주회 날 지수의 손은 떨리고 있었다. 하지만 연주를 시작하자 그는 청중을 잊고 음악이 몸을 흐르는 것을 느꼈다.",
+    "why": "(A) 연주회 제안 → (B) 지수의 망설임 → (D) 아버지의 격려와 연습 → (C) 연주회 날 순서입니다.",
+    "optionNotes": [
+      "정답. 망설임 → 격려와 연습 → 연주회.",
+      "(C)의 연주회 날이 망설임 전에 올 수 없습니다.",
+      "(C)가 (D)보다 앞서면 연습 전에 연주회가 열립니다.",
+      "(D)의 격려가 망설임 전에 올 수 없습니다.",
+      "(D)가 (B)보다 앞서면 'Even professionals make mistakes'의 이유가 나오기 전입니다."
+    ],
+    "trap": "(D)의 아버지의 말은 (B)의 지수의 두려움에 대한 응답입니다.",
+    "tip": "제안 → 망설임 → 격려 → 연주회의 시간 흐름을 따라가세요."
+  },
+  {
+    "id": "m3-18-44",
+    "level": "m3",
+    "set": "mock-18",
+    "no": 44,
+    "type": "long",
+    "group": "m3-18-g43",
+    "stem": "[43~45] 밑줄 친 ①~⑤ 중에서 가리키는 대상이 나머지 넷과 다른 것을 고르시오.",
+    "passage": "(A) Jisoo had been playing the cello for five years, but he had never performed in front of an audience. When his teacher suggested a small concert at the community hall, Jisoo's father, who had listened to him practice every night, laughed with joy. {1|He} said, \"You have to do it!\"\n(B) Jisoo was not sure. {2|He} was afraid of making mistakes in front of strangers.\n(C) On the day of the concert, Jisoo's hands were shaking. But when he started playing, {3|he} forgot about the audience and felt the music flow through him.\n(D) His father sat beside him and said, \"Even professionals make mistakes.\" Jisoo thought about it for a long time, and {4|he} finally nodded. From that night, {5|he} practiced two hours every day.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "①의 He는 \"꼭 해야 해!\"라고 말한 지수의 아버지이고, 나머지 ②③④⑤는 모두 지수를 가리킵니다.",
+    "optionNotes": [
+      "정답. He는 \"꼭 해야 해!\"라고 말한 아버지입니다.",
+      "He는 망설이며 두려워한 지수입니다.",
+      "he는 청중을 잊고 몰입한 지수입니다.",
+      "he는 고개를 끄덕인 지수입니다.",
+      "he는 매일 연습한 지수입니다."
+    ],
+    "trap": "앞 문장의 주어가 Jisoo's father이므로 He도 아버지입니다.",
+    "tip": "앞 문장에서 주어가 바뀌는 지점(Jisoo's father ... He said)을 확인하세요."
+  },
+  {
+    "id": "m3-18-45",
+    "level": "m3",
+    "set": "mock-18",
+    "no": 45,
+    "type": "long",
+    "group": "m3-18-g43",
+    "stem": "[43~45] 윗글에 관한 내용으로 적절하지 않은 것을 고르시오.",
+    "passage": "(A) Jisoo had been playing the cello for five years, but he had never performed in front of an audience. When his teacher suggested a small concert at the community hall, Jisoo's father, who had listened to him practice every night, laughed with joy. {1|He} said, \"You have to do it!\"\n(B) Jisoo was not sure. {2|He} was afraid of making mistakes in front of strangers.\n(C) On the day of the concert, Jisoo's hands were shaking. But when he started playing, {3|he} forgot about the audience and felt the music flow through him.\n(D) His father sat beside him and said, \"Even professionals make mistakes.\" Jisoo thought about it for a long time, and {4|he} finally nodded. From that night, {5|he} practiced two hours every day.",
+    "options": [
+      "지수는 5년 동안 꾸준히 첼로를 연주해 왔지만 무대에 선 적은 없었다.",
+      "지수는 낯선 사람들 앞에서 연주하는 것이 하나도 두렵지 않았다.",
+      "아버지는 매일 밤 지수의 연습을 곁에서 오랫동안 들어 주었다.",
+      "지수는 그날 밤부터 매일 두 시간씩 빠짐없이 연습하기 시작했다.",
+      "지수는 연주를 시작하자 청중을 잊고 음악에 몰입했다."
+    ],
+    "answer": 1,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "지수는 낯선 사람들 앞에서 실수할까 봐 두려워했으므로 ②는 일치하지 않습니다.",
+    "optionNotes": [
+      "playing the cello for five years와 일치합니다.",
+      "정답(불일치). 지수는 두려워했습니다.",
+      "listened to him practice every night와 일치합니다.",
+      "practiced two hours every day와 일치합니다.",
+      "forgot about the audience와 일치합니다."
+    ],
+    "trap": "결말의 몰입을 처음의 감정으로 착각하지 마세요.",
+    "tip": "불일치 문제는 감정(afraid)을 반대로 바꾼 보기를 찾으세요."
+  }
+]

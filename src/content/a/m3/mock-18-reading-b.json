@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m3-18-29",
+    "level": "m3",
+    "set": "mock-18",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "The professor, {1|who} had been studying climate change for decades, {2|warned} that the situation was getting worse. She argued that governments should {3|invest} in renewable energy instead of {4|relying} on fossil fuels. If governments {5|will act} now, the damage can still be limited, but delay will make recovery much more difficult.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "수십 년 동안 기후 변화를 연구해 온 그 교수는 상황이 더 나빠지고 있다고 경고했다. 그녀는 정부가 화석 연료에 의존하는 대신 재생 에너지에 투자해야 한다고 주장했다. 정부가 지금 행동한다면 피해는 여전히 제한될 수 있지만 지체는 회복을 훨씬 더 어렵게 만들 것이다.",
+    "why": "조건을 나타내는 if절에서는 미래의 일도 현재 시제로 쓰므로 'will act'가 아니라 'act'여야 합니다.",
+    "optionNotes": [
+      "선행사 professor를 받는 관계대명사 who입니다.",
+      "과거 시제의 warned입니다.",
+      "should 뒤의 동사원형 invest입니다.",
+      "전치사 of 뒤의 동명사 relying입니다.",
+      "정답(틀린 것). 조건절이므로 act여야 합니다."
+    ],
+    "trap": "미래의 일이므로 will이 필요하다고 착각하기 쉽습니다.",
+    "tip": "if/when절에서는 현재 시제가 미래를 나타냅니다."
+  },
+  {
+    "id": "m3-18-30",
+    "level": "m3",
+    "set": "mock-18",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Many cities are trying to reduce traffic congestion by {1|encouraging} people to use public transportation. Some have introduced congestion charges that make driving into the city center more {2|expensive}. Others have built {3|dedicated} bus lanes to make buses faster. These measures have {4|improved} air quality in several cities. However, critics worry that low-income workers who cannot avoid driving may be {5|rewarded} unfairly by the charges.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "많은 도시는 사람들이 대중교통을 이용하도록 장려해 교통 혼잡을 줄이려고 한다. 일부는 도심으로 운전해 들어가는 것을 더 비싸게 만드는 혼잡 통행료를 도입했다. 다른 도시는 버스를 더 빠르게 하려고 전용 버스 차선을 만들었다. 이런 조치는 여러 도시의 공기 질을 개선했다. 그러나 비평가들은 운전을 피할 수 없는 저소득 노동자가 그 요금 때문에 부당하게 보상받을 수 있다고 우려한다.",
+    "why": "운전을 피할 수 없는 사람은 요금 때문에 불이익을 받는다는 맥락이므로 'rewarded'가 아니라 'punished'여야 합니다.",
+    "optionNotes": [
+      "장려한다는 의미로 encouraging이 알맞습니다.",
+      "비싸게 만든다는 의미로 expensive가 알맞습니다.",
+      "전용이라는 의미로 dedicated가 알맞습니다.",
+      "개선했다는 의미로 improved가 알맞습니다.",
+      "정답(부적절). 불이익을 받는다는 맥락이므로 punished여야 합니다."
+    ],
+    "trap": "'unfairly'와 어울려 보여 자연스럽다고 착각하기 쉽습니다.",
+    "tip": "'However, critics worry that ~'는 부정적인 결과를 뒤따릅니다."
+  },
+  {
+    "id": "m3-18-31",
+    "level": "m3",
+    "set": "mock-18",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Music can have a powerful effect on our emotions, even when we do not realize it. Studies show that slow music in a restaurant makes customers stay longer and eat more calmly, while fast music makes them eat faster. In shops, background music can influence what people buy. For example, when French music was played in a wine shop, customers were more likely to choose French wine. This suggests that our choices are often __________ by the environment without our awareness.",
+    "options": [
+      "protected",
+      "ignored",
+      "shaped",
+      "avoided",
+      "multiplied"
+    ],
+    "answer": 2,
+    "translation": "음악은 우리가 알아차리지 못할 때조차 감정에 강력한 영향을 줄 수 있다. 연구에 따르면 식당에서 느린 음악은 손님이 더 오래 머물며 차분하게 먹게 하고 빠른 음악은 더 빨리 먹게 한다. 가게에서는 배경 음악이 사람들이 무엇을 사는지에 영향을 줄 수 있다. 예를 들어 와인 가게에서 프랑스 음악이 나오자 손님들은 프랑스 와인을 고를 가능성이 더 높았다. 이는 우리의 선택이 우리가 인식하지 못하는 사이 환경에 의해 흔히 형성됨을 시사한다.",
+    "why": "음악이 선택에 영향을 준다고 했으므로 환경에 의해 '형성된다(shaped)'가 알맞습니다.",
+    "optionNotes": [
+      "보호된다는 내용은 없습니다.",
+      "무시된다는 내용은 없습니다.",
+      "정답. 환경에 의해 형성됩니다.",
+      "회피된다는 내용은 없습니다.",
+      "배가된다는 내용은 없습니다."
+    ],
+    "trap": "'influence'와 같은 방향의 낱말(shaped)을 찾아야 합니다.",
+    "tip": "예시(French music → French wine)가 빈칸의 단서입니다."
+  },
+  {
+    "id": "m3-18-32",
+    "level": "m3",
+    "set": "mock-18",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many people think of failure as the opposite of success. But entrepreneurs often describe their biggest failures as the most valuable experiences of their lives. A failed business teaches them how markets really work, which mistakes to avoid, and how to recover from setbacks. Many famous inventors failed hundreds of times before they succeeded. Their persistence is what finally changed the world. These lessons are difficult to learn from books alone. In this sense, failure is less a final result than a __________.",
+    "options": [
+      "reward",
+      "holiday",
+      "habit",
+      "teacher",
+      "punishment"
+    ],
+    "answer": 3,
+    "translation": "많은 사람은 실패를 성공의 반대라고 생각한다. 그러나 기업가들은 흔히 가장 큰 실패를 인생에서 가장 귀중한 경험이라고 묘사한다. 실패한 사업은 시장이 실제로 어떻게 돌아가는지, 어떤 실수를 피해야 하는지, 좌절에서 어떻게 회복하는지를 가르쳐 준다. 많은 유명한 발명가는 성공하기 전에 수백 번 실패했다. 그들의 끈기가 마침내 세상을 바꾸었다. 이런 교훈은 책만으로는 배우기 어렵다. 이런 의미에서 실패는 최종 결과라기보다 하나의 스승이다.",
+    "why": "실패에서 교훈을 배운다고 했으므로 실패는 최종 결과가 아니라 스승(teacher)입니다.",
+    "optionNotes": [
+      "보상이라는 내용은 없습니다.",
+      "휴가라는 내용은 없습니다.",
+      "습관이라는 내용은 없습니다.",
+      "정답. 교훈을 주는 스승입니다.",
+      "처벌이라는 내용은 글과 반대입니다."
+    ],
+    "trap": "'final result'와 대비되는 의미를 찾아야 합니다.",
+    "tip": "앞 문장(teaches them how markets work)이 빈칸의 단서입니다."
+  },
+  {
+    "id": "m3-18-33",
+    "level": "m3",
+    "set": "mock-18",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In the 1970s, a company in Sweden started to sell furniture in flat boxes that customers assemble at home. At first, many people found this inconvenient. But researchers later discovered that people who build a piece of furniture themselves value it more than an identical piece that was already assembled. This is known as the IKEA effect. The furniture company was surprised by this result. It suggests that effort increases our sense of __________ toward what we make.",
+    "options": [
+      "disappointment and regret",
+      "boredom",
+      "attachment",
+      "doubt",
+      "distance"
+    ],
+    "answer": 2,
+    "translation": "1970년대 스웨덴의 한 회사는 고객이 집에서 조립하는 납작한 상자의 가구를 팔기 시작했다. 처음에 많은 사람이 이것을 불편하게 여겼다. 그러나 연구자들은 나중에 가구를 직접 조립한 사람이 이미 조립된 똑같은 가구보다 그것을 더 가치 있게 여긴다는 것을 발견했다. 이것은 이케아 효과로 알려져 있다. 그 가구 회사는 이 결과에 놀랐다. 이는 노력이 우리가 만든 것에 대한 애착을 높인다는 것을 시사한다.",
+    "why": "직접 만든 가구를 더 가치 있게 여긴다고 했으므로 노력은 애착(attachment)을 높입니다.",
+    "optionNotes": [
+      "실망과 후회는 글과 반대입니다.",
+      "지루함은 나오지 않습니다.",
+      "정답. 노력이 애착을 높입니다.",
+      "의심은 나오지 않습니다.",
+      "거리감은 글과 반대입니다."
+    ],
+    "trap": "처음의 불편함(inconvenient)에 이끌려 부정적인 낱말을 고르지 마세요.",
+    "tip": "'value it more'이 빈칸의 단서입니다."
+  },
+  {
+    "id": "m3-18-34",
+    "level": "m3",
+    "set": "mock-18",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "The Great Barrier Reef is the largest coral reef system in the world. It has lost about half of its coral cover in the past three decades. Rising sea temperatures cause corals to expel the algae that give them color and food, a process called bleaching. Although corals can recover if temperatures drop quickly, repeated heatwaves leave them no time to heal. Scientists therefore warn that unless global warming is limited, even the most carefully protected reefs will not be able to __________.",
+    "options": [
+      "grow",
+      "attract tourists",
+      "change color",
+      "survive in the long term under rising temperatures",
+      "recover"
+    ],
+    "answer": 3,
+    "translation": "그레이트 배리어 리프는 세계에서 가장 큰 산호초 체계이다. 그곳은 지난 30년 동안 산호 덮개의 약 절반을 잃었다. 수온이 오르면 산호는 자신에게 색과 양분을 주는 조류를 내보내는데 이를 백화라고 한다. 수온이 빨리 내려가면 산호는 회복할 수 있지만 반복되는 폭염은 치유할 시간을 주지 않는다. 그러므로 과학자들은 지구 온난화를 제한하지 않으면 가장 세심하게 보호된 산호초조차 기온이 오르는 상황에서 장기적으로 살아남을 수 없을 것이라고 경고한다.",
+    "why": "반복되는 폭염이 회복할 시간을 주지 않는다고 했으므로 장기적으로 살아남지 못한다는 말이 알맞습니다.",
+    "optionNotes": [
+      "성장이라는 내용만으로는 글의 경고를 담지 못합니다.",
+      "관광객 이야기는 나오지 않습니다.",
+      "색 변화는 백화 현상의 설명일 뿐입니다.",
+      "정답. 기온이 오르는 상황에서 장기적으로 살아남지 못합니다.",
+      "회복은 일부 맞지만 경고의 핵심은 생존입니다."
+    ],
+    "trap": "'recover'가 글에 나오지만 빈칸은 더 넓은 의미의 생존입니다.",
+    "tip": "'unless ~' 조건과 연결되는 결론(survive)을 확인하세요."
+  },
+  {
+    "id": "m3-18-35",
+    "level": "m3",
+    "set": "mock-18",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Public speaking is often ranked among people's biggest fears. ① Preparing carefully can greatly reduce anxiety before a speech. ② Dolphins communicate with each other by using clicks and whistles. ③ Practicing in front of a mirror or a friend helps you notice your weak points. ④ Making eye contact with the audience makes you appear confident. ⑤ With enough practice, even nervous speakers can deliver a successful presentation.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "사람들 앞에서 말하기는 흔히 가장 큰 두려움 중 하나로 꼽힌다. ① 꼼꼼하게 준비하면 연설 전의 불안을 크게 줄일 수 있다. ② 돌고래는 딸깍거리는 소리와 휘파람 소리로 서로 의사소통한다. ③ 거울이나 친구 앞에서 연습하면 약점을 알아차리는 데 도움이 된다. ④ 청중과 눈을 맞추면 자신감 있어 보인다. ⑤ 충분히 연습하면 긴장한 연설자도 성공적인 발표를 할 수 있다.",
+    "why": "글은 발표 불안을 줄이는 방법을 말하는데 ②는 돌고래의 의사소통 이야기라 관계가 없습니다.",
+    "optionNotes": [
+      "발표 불안을 줄이는 방법입니다.",
+      "정답(무관). 돌고래의 의사소통 이야기입니다.",
+      "연습의 이점입니다.",
+      "청중과의 눈 맞춤입니다.",
+      "결론입니다."
+    ],
+    "trap": "'communicate'가 말하기와 연결되어 자연스럽다고 착각하기 쉽습니다.",
+    "tip": "주제(발표 불안 줄이기)와 이어지지 않는 문장을 고르세요."
+  },
+  {
+    "id": "m3-18-36",
+    "level": "m3",
+    "set": "mock-18",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Many people believe that the more choices they have, the happier they will be. Shopping websites and restaurant menus often offer dozens of options.\n(A) However, psychologists have found that too many options can actually make people anxious.\n(B) Therefore, limiting the number of choices may make decisions easier and more satisfying.\n(C) In one famous experiment, shoppers who were offered twenty-four kinds of jam were less likely to buy than those offered only six. The researchers repeated the study several times with similar results.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "많은 사람은 선택지가 많을수록 더 행복할 것이라고 믿는다. 쇼핑 웹사이트와 식당 메뉴는 흔히 수십 가지 선택지를 제공한다. (A) 그러나 심리학자들은 선택지가 너무 많으면 오히려 사람들을 불안하게 만들 수 있다는 것을 발견했다. (C) 한 유명한 실험에서 스물네 가지 잼을 제시받은 쇼핑객은 여섯 가지만 제시받은 쇼핑객보다 구매할 가능성이 낮았다. 연구자들은 비슷한 결과로 그 연구를 여러 번 반복했다. (B) 그러므로 선택지의 수를 제한하면 결정이 더 쉽고 만족스러워질 수 있다.",
+    "why": "(A) However 반론 → (C) 실험 예 → (B) Therefore 결론 순서입니다.",
+    "optionNotes": [
+      "정답. 반론 → 실험 → 결론.",
+      "(B)의 'Therefore'가 근거 없이 처음에 올 수 없습니다.",
+      "(B)의 'Therefore'가 근거 없이 처음에 올 수 없습니다.",
+      "(C)의 실험이 주장(A) 없이 처음에 올 수 없습니다.",
+      "(C)의 실험이 처음에 올 수 없습니다."
+    ],
+    "trap": "(C)의 실험은 (A)의 주장을 뒷받침하는 예입니다.",
+    "tip": "However → 예시 → Therefore의 논리 흐름을 따라가세요."
+  },
+  {
+    "id": "m3-18-37",
+    "level": "m3",
+    "set": "mock-18",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "When a new invention appears, people often fear that it will destroy existing jobs.\n(A) In the nineteenth century, many skilled textile workers in England even destroyed machines because they believed the machines would take away their work.\n(B) Today, similar concerns are being raised about artificial intelligence. History suggests that the outcome may be more complex.\n(C) In the long run, however, technology created many new kinds of jobs that no one had imagined. Entire industries appeared that did not exist before.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "새로운 발명이 나타나면 사람들은 흔히 그것이 기존의 일자리를 없앨 것이라고 두려워한다. (A) 19세기에 영국의 숙련된 섬유 노동자들은 기계가 자신의 일을 빼앗을 것이라고 믿어 기계를 부수기까지 했다. (C) 그러나 장기적으로 기술은 아무도 상상하지 못했던 많은 새로운 종류의 일자리를 만들어 냈다. 이전에는 존재하지 않던 산업 전체가 생겨났다. (B) 오늘날 인공지능에 대해서도 비슷한 우려가 제기되고 있다. 역사는 그 결과가 더 복잡할 수 있음을 시사한다.",
+    "why": "(A) 과거의 두려움 → (C) However 장기적 결과 → (B) Today 현재의 우려 순서입니다.",
+    "optionNotes": [
+      "정답. 과거의 두려움 → 장기적 결과 → 현재.",
+      "(B)의 'Today ... similar concerns'가 비교할 과거 없이 올 수 없습니다.",
+      "(B)의 'similar'가 비교할 대상 없이 올 수 없습니다.",
+      "(C)의 'however'가 대조할 내용 없이 올 수 없습니다.",
+      "(C)의 'however'가 처음에 올 수 없습니다."
+    ],
+    "trap": "(B)의 'similar concerns'는 (A)의 과거 두려움과 비교됩니다.",
+    "tip": "In the nineteenth century → In the long run → Today의 시간 흐름을 따라가세요."
+  },
+  {
+    "id": "m3-18-38",
+    "level": "m3",
+    "set": "mock-18",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThis is why scientists consider them an important indicator of ecosystem health.\n\n[글]\n( ① ) Frogs breathe and absorb water through their thin skin. ( ② ) Because of this, they are extremely sensitive to pollution and changes in the environment. ( ③ ) In many regions, frog populations have declined sharply over the past decades. ( ④ ) In other words, a decline in frogs is an early warning for the whole environment. ( ⑤ ) Protecting wetlands is therefore one of the best ways to help them.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "[주어진 문장] 이 때문에 과학자들은 개구리를 생태계 건강의 중요한 지표로 본다. [글] 개구리는 얇은 피부를 통해 숨 쉬고 물을 흡수한다. 이 때문에 그들은 오염과 환경 변화에 극도로 민감하다. 많은 지역에서 개구리 개체 수가 지난 수십 년 동안 급격히 줄었다. 이 때문에 과학자들은 개구리를 생태계 건강의 중요한 지표로 본다. 다시 말해 개구리의 감소는 환경 전체에 대한 조기 경보이다. 그러므로 습지를 보호하는 것은 그들을 돕는 가장 좋은 방법 중 하나이다.",
+    "why": "'This is why'는 앞의 원인(환경에 민감하고 개체 수가 줄어듦)에 대한 결론이고, 다음의 'In other words'가 이를 풀어 말하므로 ④에 들어갑니다.",
+    "optionNotes": [
+      "개구리 소개 전이라 'them'이 가리킬 대상이 없습니다.",
+      "민감성이 소개되기 전이라 이유가 부족합니다.",
+      "개체 수 감소가 나오기 전이라 'This'가 가리킬 원인이 부족합니다.",
+      "정답. 원인 뒤의 결론이고 'In other words'로 이어집니다.",
+      "'In other words' 문장 뒤라 'This is why'의 위치가 어색합니다."
+    ],
+    "trap": "⑤ 앞에서도 가능해 보이지만 'In other words'가 바로 앞 문장을 풀어 말하므로 given 문장이 먼저 와야 합니다.",
+    "tip": "'In other words'는 앞에서 말한 핵심 문장을 다시 설명합니다."
+  },
+  {
+    "id": "m3-18-39",
+    "level": "m3",
+    "set": "mock-18",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nAs a result, some countries now require food companies to display clear warnings on sugary drinks.\n\n[글]\n( ① ) Sugary drinks are one of the main causes of obesity in children. ( ② ) A single can of soda may contain more than ten teaspoons of sugar. ( ③ ) Studies link regular consumption to diabetes and tooth decay. ( ④ ) Yet many parents are unaware of how much sugar these drinks contain. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "[주어진 문장] 그 결과 일부 국가는 이제 식품 회사가 가당 음료에 명확한 경고문을 표시하도록 요구한다. [글] 가당 음료는 어린이 비만의 주요 원인 중 하나이다. 탄산음료 한 캔에는 설탕이 열 티스푼 넘게 들어 있을 수 있다. 연구들은 규칙적인 섭취를 당뇨병과 충치와 연결한다. 그러나 많은 부모는 이 음료에 설탕이 얼마나 들어 있는지 모른다. 그 결과 일부 국가는 이제 식품 회사가 가당 음료에 명확한 경고문을 표시하도록 요구한다.",
+    "why": "'As a result'는 앞에서 설명한 문제 상황에 대한 정책적 결과이므로 마지막인 ⑤에 들어갑니다.",
+    "optionNotes": [
+      "문제가 나오기 전이라 'As a result'가 어색합니다.",
+      "문제가 일부만 나왔습니다.",
+      "연구 사례가 아직 이어집니다.",
+      "'Yet' 문장 앞이라 부모의 무지에 대한 결과가 되지 않습니다.",
+      "정답. 모든 문제 설명 뒤의 결과입니다."
+    ],
+    "trap": "④ 앞에서도 가능해 보이지만 'Yet' 문장이 문제를 완성한 뒤에 결과가 나와야 합니다.",
+    "tip": "'As a result'는 원인(문제)이 완성된 뒤에 놓입니다."
+  },
+  {
+    "id": "m3-18-40",
+    "level": "m3",
+    "set": "mock-18",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Researchers tracked two groups of people who used the same walking path every day. One group listened to music with headphones, while the other group walked without any audio. At the end of the study, the group without audio reported noticing far more details around them. These included birds, trees, and the faces of other walkers. The researchers concluded that constant audio can make us less aware of our surroundings.\n\n▶ Listening to (A) while walking may reduce our (B) of the environment.",
+    "options": [
+      "(A) silence — (B) fear",
+      "(A) birds — (B) distance",
+      "(A) people — (B) respect",
+      "(A) news — (B) interest",
+      "(A) headphone music — (B) awareness"
+    ],
+    "answer": 4,
+    "translation": "연구자들은 매일 같은 산책로를 이용하는 두 집단을 추적했다. 한 집단은 헤드폰으로 음악을 들었고 다른 집단은 아무 소리 없이 걸었다. 연구가 끝날 무렵 소리 없이 걸은 집단은 주변의 훨씬 더 많은 세부 사항을 알아차렸다고 보고했다. 그것에는 새, 나무, 다른 보행자의 얼굴이 포함되었다. 연구자들은 끊임없는 소리가 우리를 주변에 덜 민감하게 만들 수 있다고 결론지었다. ▶ 걸으면서 헤드폰으로 음악을 들으면 환경에 대한 인식이 줄어들 수 있다.",
+    "why": "헤드폰 음악을 들은 집단이 주변을 덜 알아차렸으므로 (A)는 headphone music, (B)는 awareness입니다.",
+    "optionNotes": [
+      "silence와 fear는 글과 맞지 않습니다.",
+      "birds와 distance는 글과 맞지 않습니다.",
+      "people과 respect는 글에 나오지 않습니다.",
+      "news와 interest는 글에 나오지 않습니다.",
+      "정답. 헤드폰 음악이 환경 인식을 줄입니다."
+    ],
+    "trap": "(A)에 silence를 고르면 글과 반대입니다.",
+    "tip": "요약문은 조건(headphone music)과 결과(less aware)를 짝지어 찾으세요."
+  }
+]
