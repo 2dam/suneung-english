@@ -1,0 +1,333 @@
+[
+  {
+    "id": "m3-14-18",
+    "level": "m3",
+    "set": "mock-14",
+    "no": 18,
+    "type": "purpose",
+    "stem": "다음 글을 쓴 목적으로 가장 적절한 것은?",
+    "passage": "Dear Director Kim,\nI am a ninth-grade student who often uses the swimming pool at the Greenfield Community Center. I am writing to ask whether the pool could stay open until nine o'clock on weekends. At present, it closes at six, which is too early for students who have academic classes on Saturday afternoons. Many of my classmates feel the same way, and more than fifty of us have signed a petition. We believe that longer hours would help many students stay active and healthy. Thank you for considering our request.\nSincerely,\nDaniel Han",
+    "options": [
+      "수영장 시설 개선을 위한 기부를 권유하려고",
+      "수영장 운영 시간의 연장을 요청하려고",
+      "수영 강습 일정이 바뀐 것에 항의하려고",
+      "수영장 이용 규칙 위반을 신고하려고",
+      "새로운 수영 동아리 가입을 안내하려고"
+    ],
+    "answer": 1,
+    "translation": "김 관장님께. 저는 그린필드 주민센터 수영장을 자주 이용하는 중학교 3학년 학생입니다. 주말에 수영장을 밤 9시까지 열어 주실 수 있는지 여쭙고자 글을 씁니다. 현재는 6시에 문을 닫는데, 토요일 오후에 학원 수업이 있는 학생들에게는 너무 이릅니다. 많은 제 반 친구들이 같은 생각이고, 쉰 명이 넘는 학생이 청원서에 서명했습니다. 운영 시간이 길어지면 많은 학생이 활동적이고 건강하게 지낼 수 있다고 믿습니다. 저희의 요청을 검토해 주셔서 감사합니다. 한대니얼 드림.",
+    "why": "'ask whether the pool could stay open until nine o'clock on weekends'에서 운영 시간 연장을 요청하는 글입니다.",
+    "optionNotes": [
+      "기부 권유는 나오지 않습니다.",
+      "정답. 운영 시간 연장을 요청합니다.",
+      "강습 일정에 대한 항의가 아닙니다.",
+      "규칙 위반 신고가 아닙니다.",
+      "동아리 가입 안내가 아닙니다."
+    ],
+    "trap": "'petition'은 요청의 근거일 뿐입니다.",
+    "tip": "목적 문제는 'I am writing to ask ~' 문장을 찾으세요."
+  },
+  {
+    "id": "m3-14-19",
+    "level": "m3",
+    "set": "mock-14",
+    "no": 19,
+    "type": "mood",
+    "stem": "다음 글에 드러난 Min-seo의 심경 변화로 가장 적절한 것은?",
+    "passage": "Min-seo stared at the list on the notice board and could not find her name. She had practiced the songs for the school musical every night for two months. The pain in her chest was heavier than she had expected, and tears filled her eyes. As she turned to leave, the music teacher called her name. \"You have the best voice among all the students,\" she said. \"The main roles are already decided, but we need someone to learn the lead part in case anything happens. Would you do it?\" Min-seo wiped her eyes and nodded. For the first time that day, she felt a small light inside her.",
+    "options": [
+      "bored → angry",
+      "proud → ashamed",
+      "jealous → curious",
+      "calm → afraid",
+      "discouraged → hopeful"
+    ],
+    "answer": 4,
+    "translation": "민서는 게시판의 명단을 응시했지만 자신의 이름을 찾을 수 없었다. 그녀는 두 달 동안 매일 밤 학교 뮤지컬의 노래를 연습했다. 가슴의 통증은 예상보다 컸고 눈에는 눈물이 가득 찼다. 돌아서려는 순간 음악 선생님이 그녀의 이름을 불렀다. \"너는 모든 학생 중에서 가장 좋은 목소리를 가졌단다.\"라고 선생님이 말했다. \"주연은 이미 정해졌지만 만일을 대비해 주인공 역을 익혀 둘 사람이 필요해. 해 주겠니?\" 민서는 눈물을 닦고 고개를 끄덕였다. 그날 처음으로 그녀는 마음속에서 작은 빛을 느꼈다.",
+    "why": "명단에서 이름을 찾지 못해 낙담했다가(discouraged), 선생님의 제안으로 희망을 느꼈습니다(hopeful).",
+    "optionNotes": [
+      "지루함에서 화남이 아닙니다.",
+      "자랑스러움에서 부끄러움이 아닙니다.",
+      "질투에서 호기심이 아닙니다.",
+      "침착함에서 두려움이 아닙니다.",
+      "정답. 낙담에서 희망으로 변했습니다."
+    ],
+    "trap": "눈물(tears)만 보고 처음부터 끝까지 슬픈 이야기로 판단하지 마세요.",
+    "tip": "전환 신호(As she turned to leave, ... nodded)를 기준으로 앞뒤 감정을 비교하세요."
+  },
+  {
+    "id": "m3-14-20",
+    "level": "m3",
+    "set": "mock-14",
+    "no": 20,
+    "type": "claim",
+    "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+    "passage": "Many cities are filled with concrete buildings and wide roads, but very few trees. In summer, the temperature in these areas can be several degrees higher than in the surrounding countryside. Trees provide shade, release moisture, and absorb pollutants in the air. They also reduce noise and make streets more pleasant for walking. Of course, planting and maintaining trees costs money. However, the benefits for health and energy savings are much greater in the long run. Therefore, cities should plant more trees along their streets.",
+    "options": [
+      "도시의 도로를 더 넓게 확장해야 한다.",
+      "여름철에는 야외 활동을 금지해야 한다.",
+      "건물의 높이를 제한하는 법을 만들어야 한다.",
+      "도시는 도로변에 더 많은 나무를 심어야 한다.",
+      "나무를 심는 데 드는 비용을 모두 시민에게 부과해야 한다."
+    ],
+    "answer": 3,
+    "translation": "많은 도시는 콘크리트 건물과 넓은 도로로 가득하지만 나무는 거의 없다. 여름에 이런 지역의 기온은 주변 시골보다 몇 도 더 높을 수 있다. 나무는 그늘을 제공하고 수분을 내보내며 공기 중의 오염 물질을 흡수한다. 또 소음을 줄이고 거리를 걷기에 더 쾌적하게 만든다. 물론 나무를 심고 관리하는 데는 비용이 든다. 그러나 건강과 에너지 절약의 이익은 장기적으로 훨씬 크다. 그러므로 도시는 거리를 따라 더 많은 나무를 심어야 한다.",
+    "why": "마지막 문장 'cities should plant more trees along their streets'가 필자의 주장입니다.",
+    "optionNotes": [
+      "도로 확장은 문제의 원인으로 언급됩니다.",
+      "야외 활동 금지는 나오지 않습니다.",
+      "건물 높이 제한은 나오지 않습니다.",
+      "정답. 거리를 따라 나무를 더 심어야 합니다.",
+      "비용 부과는 나오지 않습니다."
+    ],
+    "trap": "'costs money'를 보고 ⑤를 고르지 마세요. 필자는 비용보다 이익이 크다고 주장합니다.",
+    "tip": "양보(Of course ~) 뒤의 However 문장과 결론(Therefore)을 연결해 보세요."
+  },
+  {
+    "id": "m3-14-21",
+    "level": "m3",
+    "set": "mock-14",
+    "no": 21,
+    "type": "implied",
+    "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "passage": "Everyone at the meeting knew that the project was far over budget and that the deadline was impossible to meet. Still, nobody mentioned it. The problem was {u|the elephant in the room}, and the silence made the atmosphere heavy.",
+    "options": [
+      "an actual animal brought into the meeting room for a presentation",
+      "a gift that nobody wanted to open",
+      "a problem that was already solved",
+      "an interesting idea that surprised everyone",
+      "an obvious problem that everyone avoids talking about"
+    ],
+    "answer": 4,
+    "translation": "회의에 있던 모든 사람은 프로젝트가 예산을 크게 초과했고 마감을 맞추는 것이 불가능하다는 것을 알고 있었다. 그럼에도 아무도 그것을 언급하지 않았다. 그 문제는 모두가 알지만 말하지 않는 문제였고 침묵은 분위기를 무겁게 만들었다.",
+    "why": "모두가 알지만 아무도 언급하지 않는 문제라고 했으므로 'the elephant in the room'은 그런 명백한 문제를 뜻합니다.",
+    "optionNotes": [
+      "실제 동물이라는 뜻이 아닙니다.",
+      "선물이라는 뜻이 아닙니다.",
+      "이미 해결된 문제라는 뜻이 아닙니다.",
+      "재미있는 아이디어라는 뜻이 아닙니다.",
+      "정답. 모두가 알지만 피하는 명백한 문제라는 뜻입니다."
+    ],
+    "trap": "'elephant'를 문자 그대로 해석하지 마세요.",
+    "tip": "관용 표현은 앞뒤 문장(nobody mentioned it)에서 의미를 확인하세요."
+  },
+  {
+    "id": "m3-14-22",
+    "level": "m3",
+    "set": "mock-14",
+    "no": 22,
+    "type": "gist",
+    "stem": "다음 글의 요지로 가장 적절한 것은?",
+    "passage": "We often think that being busy is a sign of success. However, studies show that people who never take breaks make more mistakes and feel more stressed. Our brains need time to rest in order to process information and generate new ideas. That is why many of the best ideas come when we take a walk or a shower, not when we stare at a screen for hours. Rest is not wasted time; it is an essential part of productive work. People who understand this plan their breaks as carefully as their tasks.",
+    "options": [
+      "바쁘게 사는 것이 성공의 가장 확실한 증거이다.",
+      "충분히 쉬는 것은 생산적인 일의 필수 요소이다.",
+      "좋은 아이디어는 화면을 오래 볼 때 떠오른다.",
+      "산책은 하루 중 아침에 하는 것이 가장 좋다.",
+      "실수를 줄이려면 작업 시간을 늘려야 한다."
+    ],
+    "answer": 1,
+    "translation": "우리는 흔히 바쁜 것이 성공의 표시라고 생각한다. 그러나 연구에 따르면 쉬지 않는 사람은 더 많은 실수를 하고 더 많은 스트레스를 느낀다. 우리의 뇌는 정보를 처리하고 새로운 아이디어를 만들어 내기 위해 쉴 시간이 필요하다. 그래서 가장 좋은 아이디어의 많은 수가 몇 시간 동안 화면을 응시할 때가 아니라 산책하거나 샤워할 때 떠오른다. 휴식은 낭비되는 시간이 아니라 생산적인 일의 필수적인 부분이다. 이를 아는 사람들은 휴식도 일만큼 신중하게 계획한다.",
+    "why": "휴식이 낭비가 아니라 생산적인 일의 필수 요소라는 것이 요지입니다.",
+    "optionNotes": [
+      "첫 문장에서 제시된 통념이며 글에서 반박됩니다.",
+      "정답. 휴식은 생산적인 일의 필수 요소입니다.",
+      "화면을 볼 때가 아니라 쉴 때 떠오른다고 합니다.",
+      "아침이라는 시간은 나오지 않습니다.",
+      "휴식이 실수를 줄인다는 내용과 반대입니다."
+    ],
+    "trap": "첫 문장의 통념(busy = success)을 필자의 생각으로 착각하지 마세요.",
+    "tip": "However 뒤의 문장과 세미콜론 문장이 요지를 담습니다."
+  },
+  {
+    "id": "m3-14-23",
+    "level": "m3",
+    "set": "mock-14",
+    "no": 23,
+    "type": "topic",
+    "stem": "다음 글의 주제로 가장 적절한 것은?",
+    "passage": "A particular smell can suddenly bring back a memory from many years ago, such as the scent of your grandmother's kitchen. Scientists explain that the part of the brain that processes smells is closely connected to the areas that handle emotion and memory. Unlike other senses, smells travel almost directly to these areas without much processing. As a result, odors often trigger memories that are emotional and vivid. These memories are often stronger than those triggered by sights or sounds. This is why many companies use specific scents in their stores to create positive feelings.",
+    "options": [
+      "why some people have a better sense of smell than others",
+      "how smells are closely linked to emotional memories",
+      "which scents are most popular in shopping stores",
+      "what causes people to lose their sense of smell",
+      "how to cook delicious meals using strong spices"
+    ],
+    "answer": 1,
+    "translation": "특정한 냄새는 할머니 부엌의 향기처럼 수년 전의 기억을 갑자기 되살릴 수 있다. 과학자들은 냄새를 처리하는 뇌 부위가 감정과 기억을 다루는 영역과 밀접하게 연결되어 있다고 설명한다. 다른 감각과 달리 냄새는 거의 처리 과정 없이 이 영역들로 곧바로 전달된다. 그 결과 냄새는 감정적이고 생생한 기억을 촉발하는 경우가 많다. 그 기억은 흔히 시각이나 청각이 불러일으키는 기억보다 강하다. 그래서 많은 회사가 긍정적인 감정을 만들기 위해 매장에서 특정한 향을 사용한다.",
+    "why": "냄새와 감정적인 기억의 밀접한 연결을 설명하는 글입니다.",
+    "optionNotes": [
+      "후각의 개인차는 나오지 않습니다.",
+      "정답. 냄새와 감정적 기억의 연결입니다.",
+      "인기 있는 향은 나오지 않습니다.",
+      "후각 상실의 원인은 나오지 않습니다.",
+      "요리법은 나오지 않습니다."
+    ],
+    "trap": "마지막 문장(stores)에만 이끌려 ③을 고르지 마세요. 예시일 뿐입니다.",
+    "tip": "주제는 글 전체를 아우르는 핵심 관계(smell–memory)를 담은 보기를 고르세요."
+  },
+  {
+    "id": "m3-14-24",
+    "level": "m3",
+    "set": "mock-14",
+    "no": 24,
+    "type": "title",
+    "stem": "다음 글의 제목으로 가장 적절한 것은?",
+    "passage": "In many cities, young people are gathering in cafés to read silently together. At these \"silent book clubs,\" nobody discusses the book. Members simply bring their own books, sit side by side for an hour or two, and read in peace. Organizers say the idea appeals to people who are tired of constant notifications and social pressure. Participants often report that reading with others makes it easier to concentrate and creates a sense of quiet companionship without the need to talk.",
+    "options": [
+      "Why Cafés Are Closing Down in Large Cities",
+      "The Best Books for Teenagers to Read Before Going to Bed Every Night",
+      "Reading Together in Silence: A New Way to Connect",
+      "How to Start a Business That Sells Coffee",
+      "Debating Books with Strangers"
+    ],
+    "answer": 2,
+    "translation": "많은 도시에서 젊은이들이 카페에 모여 함께 조용히 책을 읽고 있다. 이런 '조용한 독서 모임'에서는 아무도 책에 대해 토론하지 않는다. 회원들은 자신의 책을 가져와 한두 시간 나란히 앉아 평화롭게 읽을 뿐이다. 주최자들은 이 아이디어가 끊임없는 알림과 사회적 압박에 지친 사람들에게 호소력이 있다고 말한다. 참가자들은 다른 사람과 함께 읽으면 집중하기 쉽고 말할 필요 없이 조용한 동료애가 생긴다고 자주 말한다.",
+    "why": "말없이 함께 책을 읽으며 연결감을 느끼는 독서 모임을 소개하는 글이므로 ③이 제목입니다.",
+    "optionNotes": [
+      "카페 폐업은 나오지 않습니다.",
+      "잠자기 전 추천 도서는 나오지 않습니다.",
+      "정답. 침묵 속에서 함께 읽는 새로운 연결 방식입니다.",
+      "창업은 나오지 않습니다.",
+      "토론은 하지 않는다고 했습니다."
+    ],
+    "trap": "'cafés'가 나온다고 ①이나 ④를 고르지 마세요. 장소일 뿐입니다.",
+    "tip": "제목은 핵심 소재(silent reading)와 의미(connect)를 함께 담으세요."
+  },
+  {
+    "id": "m3-14-25",
+    "level": "m3",
+    "set": "mock-14",
+    "no": 25,
+    "type": "chart",
+    "stem": "다음 도표의 내용과 일치하지 않는 것은?",
+    "chart": {
+      "title": "Daily Screen Time of Teenagers by Purpose (minutes)",
+      "unit": "minutes",
+      "labels": [
+        "Study",
+        "Video",
+        "SNS",
+        "Games",
+        "Others"
+      ],
+      "series": [
+        {
+          "name": "Minutes",
+          "values": [
+            90,
+            120,
+            100,
+            60,
+            30
+          ]
+        }
+      ]
+    },
+    "passage": "The graph shows the average daily screen time of teenagers by purpose. ① Teenagers spend the most time watching videos. ② The time spent studying is 30 minutes shorter than that of watching videos. ③ Playing games takes more time than using SNS. ④ Others takes the least time. ⑤ The total time for SNS and games is longer than that for watching videos.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "그래프는 십 대의 목적별 하루 평균 화면 사용 시간을 보여 준다. ① 십 대는 영상 시청에 가장 많은 시간을 쓴다. ② 공부에 쓰는 시간은 영상 시청 시간보다 30분 짧다. ③ 게임을 하는 시간은 SNS 이용 시간보다 길다. ④ 기타가 가장 적은 시간을 차지한다. ⑤ SNS와 게임의 시간을 합하면 영상 시청 시간보다 길다.",
+    "why": "게임은 60분, SNS는 100분이므로 게임이 SNS보다 길다는 ③은 일치하지 않습니다.",
+    "optionNotes": [
+      "영상 120분이 가장 깁니다.",
+      "공부 90분은 영상 120분보다 30분 짧습니다.",
+      "정답(불일치). 게임(60)은 SNS(100)보다 짧습니다.",
+      "기타 30분이 가장 짧습니다.",
+      "100 + 60 = 160분으로 영상 120분보다 깁니다."
+    ],
+    "trap": "막대의 순서(SNS 다음 Games)에 이끌려 값을 반대로 읽기 쉽습니다.",
+    "tip": "합계 비교(⑤)는 두 값을 먼저 더한 뒤 비교하세요."
+  },
+  {
+    "id": "m3-14-26",
+    "level": "m3",
+    "set": "mock-14",
+    "no": 26,
+    "type": "match",
+    "stem": "Haruto Mori에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Haruto Mori, a Japanese architect, is known for designing buildings with recycled materials. Born in Osaka in 1975, he studied architecture in Spain and worked in Barcelona for six years before returning to Japan. His first major project, a library made from used shipping containers, won an international award in 2012. He believes that buildings should give back to nature rather than take from it. He now teaches at a university and also leads a small design studio of his own.",
+    "options": [
+      "스페인에서 태어나 일본으로 이주했다.",
+      "바르셀로나에서 12년 동안 일했다.",
+      "대학에서 가르치기만 하고 자신의 설계 사무소는 운영하지 않는다.",
+      "폐컨테이너로 만든 도서관으로 국제적인 상을 받았다.",
+      "건축물이 자연에서 많은 것을 가져올수록 좋다고 믿는다."
+    ],
+    "answer": 3,
+    "translation": "일본의 건축가 모리 하루토는 재활용 재료로 건물을 설계하는 것으로 유명하다. 1975년 오사카에서 태어난 그는 스페인에서 건축을 공부하고 일본으로 돌아오기 전 바르셀로나에서 6년간 일했다. 그의 첫 주요 프로젝트인 폐선적 컨테이너로 만든 도서관은 2012년 국제적인 상을 받았다. 그는 건물이 자연에서 가져가기보다 자연에 돌려주어야 한다고 믿는다. 그는 현재 대학에서 가르치며 자신의 작은 설계 사무소도 이끈다.",
+    "why": "'a library made from used shipping containers, won an international award in 2012'와 일치합니다.",
+    "optionNotes": [
+      "오사카에서 태어났습니다.",
+      "바르셀로나에서 6년 일했습니다.",
+      "자신의 설계 사무소도 이끕니다.",
+      "정답. 폐컨테이너 도서관으로 국제적인 상을 받았습니다.",
+      "자연에 돌려주어야 한다고 믿습니다."
+    ],
+    "trap": "숫자(six/twelve)와 장소(Osaka/Spain)를 바꾼 보기에 주의하세요.",
+    "tip": "일치 문제는 출생지·기간·수상 시기를 하나씩 대조하세요."
+  },
+  {
+    "id": "m3-14-27",
+    "level": "m3",
+    "set": "mock-14",
+    "no": 27,
+    "type": "notice",
+    "stem": "Film-Making Workshop에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Film-Making Workshop\nLearn how to plan, shoot, and edit a short film!\nDates: August 5 – 7, 10:00 a.m. – 4:00 p.m.\nPlace: Media Center, Room 301\nWho: Students in grades 7–9 (limited to 20 participants)\nFee: $15 (lunch included)\nApply: Online by July 25, on a first-come, first-served basis\nNote: Please bring your own smartphone or camera.",
+    "options": [
+      "참가자는 자신의 스마트폰이나 카메라를 가져와야 한다.",
+      "참가비 15달러에는 점심 값이 포함되지 않는다.",
+      "신청은 8월 5일까지 우편으로 받는다.",
+      "중학생 누구나 인원 제한 없이 신청만 하면 모두 참가할 수 있다.",
+      "워크숍은 일주일 동안 매일 진행된다."
+    ],
+    "answer": 0,
+    "translation": "영화 제작 워크숍. 단편 영화를 기획하고 촬영하고 편집하는 법을 배워 보세요! 날짜: 8월 5일~7일, 오전 10시~오후 4시. 장소: 미디어 센터 301호. 대상: 7~9학년 학생(20명 한정). 참가비: 15달러(점심 포함). 신청: 7월 25일까지 온라인으로 선착순. 유의: 자신의 스마트폰이나 카메라를 가져오세요.",
+    "why": "'Please bring your own smartphone or camera.'와 일치합니다.",
+    "optionNotes": [
+      "정답. 스마트폰이나 카메라를 가져와야 합니다.",
+      "점심이 포함되어 있습니다.",
+      "온라인으로 7월 25일까지 신청합니다.",
+      "20명으로 제한됩니다.",
+      "3일간 진행됩니다."
+    ],
+    "trap": "'lunch included'를 놓치면 ②를 고르기 쉽습니다.",
+    "tip": "안내문은 항목(Dates, Who, Fee, Apply, Note)별로 대조하세요."
+  },
+  {
+    "id": "m3-14-28",
+    "level": "m3",
+    "set": "mock-14",
+    "no": 28,
+    "type": "notice",
+    "stem": "Night Study Program에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Hanbit Public Library – Night Study Program\nOpen to: Middle and high school students with a library card\nDates: Every Tuesday and Thursday, November 4 – December 11\nHours: 6:00 p.m. – 10:00 p.m.\nPlace: Second-floor reading room\nRules: Seats cannot be reserved in advance (first come, first served). Only water is allowed; other food and drinks are not allowed.\nFree: Tea and snacks will be offered at 8:00 p.m.",
+    "options": [
+      "초등학생도 도서관 카드가 있으면 참여할 수 있다.",
+      "좌석은 미리 예약할 수 없고 선착순으로 이용한다.",
+      "운영 시간은 오후 6시부터 자정까지이다.",
+      "차와 간식은 오후 8시에 직접 구입해야 한다.",
+      "물을 포함한 모든 음식과 음료가 금지된다."
+    ],
+    "answer": 1,
+    "translation": "한빛 공공도서관 – 야간 자습 프로그램. 대상: 도서관 카드가 있는 중·고등학생. 날짜: 11월 4일~12월 11일 매주 화요일과 목요일. 시간: 오후 6시~10시. 장소: 2층 열람실. 규칙: 좌석은 미리 예약할 수 없습니다(선착순). 물만 허용되며 다른 음식과 음료는 허용되지 않습니다. 무료: 오후 8시에 차와 간식이 제공됩니다.",
+    "why": "'Seats cannot be reserved in advance (first come, first served).'와 일치합니다.",
+    "optionNotes": [
+      "중·고등학생만 대상입니다.",
+      "정답. 미리 예약할 수 없고 선착순입니다.",
+      "오후 10시까지입니다.",
+      "오후 8시에 무료로 제공됩니다.",
+      "물은 허용됩니다."
+    ],
+    "trap": "'Only water is allowed'를 놓치면 ⑤를 고르기 쉽습니다.",
+    "tip": "규칙 항목은 허용/금지 조건을 하나씩 대조하세요."
+  }
+]
