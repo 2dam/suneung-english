@@ -1,0 +1,333 @@
+[
+  {
+    "id": "m3-17-18",
+    "level": "m3",
+    "set": "mock-17",
+    "no": 18,
+    "type": "purpose",
+    "stem": "다음 글을 쓴 목적으로 가장 적절한 것은?",
+    "passage": "Dear Ms. Alvarez,\nI am writing to apply for the volunteer position at the Riverside Animal Shelter that was advertised on your website last week. I am sixteen years old, and I have taken care of dogs and cats at home for many years. I am available every Saturday morning and during school holidays. I am especially interested in helping with walking dogs and cleaning the cages. I have attached my résumé and a letter from my teacher. I would be happy to visit the shelter for an interview at your convenience.\nSincerely,\nJunho Kim",
+    "options": [
+      "동물 보호소의 자원봉사 모집 공고를 보고 지원 의사를 밝히려고",
+      "반려동물을 입양하는 방법을 문의하려고",
+      "보호소에서 일어난 사고를 신고하려고",
+      "동물 보호 단체에 후원금을 보내려고",
+      "보호소의 운영 시간 변경을 요청하려고"
+    ],
+    "answer": 0,
+    "translation": "알바레스 씨께. 지난주 귀 웹사이트에 게시된 리버사이드 동물 보호소의 자원봉사 직책에 지원하려고 글을 씁니다. 저는 열여섯 살이며 여러 해 동안 집에서 개와 고양이를 돌봐 왔습니다. 저는 매주 토요일 오전과 학교 방학 중에 시간이 됩니다. 특히 개를 산책시키고 우리를 청소하는 일을 돕고 싶습니다. 이력서와 선생님의 편지를 첨부했습니다. 편하신 때에 면접을 위해 보호소를 방문하겠습니다. 김준호 드림.",
+    "why": "자원봉사 모집 공고를 보고 지원 의사를 밝히는 글입니다.",
+    "optionNotes": [
+      "정답. 자원봉사 모집 공고를 보고 지원합니다.",
+      "입양 문의가 아닙니다.",
+      "사고 신고가 아닙니다.",
+      "후원금 이야기는 나오지 않습니다.",
+      "운영 시간 변경 요청이 아닙니다."
+    ],
+    "trap": "동물을 돌본 경험은 지원의 근거일 뿐 목적이 아닙니다.",
+    "tip": "목적 문제는 'I am writing to apply for ~' 같은 핵심 문장을 찾으세요."
+  },
+  {
+    "id": "m3-17-19",
+    "level": "m3",
+    "set": "mock-17",
+    "no": 19,
+    "type": "mood",
+    "stem": "다음 글에 드러난 Min-jae의 심경 변화로 가장 적절한 것은?",
+    "passage": "Min-jae had been waiting at the arrival gate for almost an hour. His mother had been working abroad for a year, and the video calls had never been enough. Every time the doors slid open, he stood on his toes and looked over the crowd, only to see strangers. His legs began to ache, and he kept checking the flight board. Then he saw her familiar yellow scarf. He ran across the hall and threw his arms around her, unable to speak, with tears of joy running down his cheeks.",
+    "options": [
+      "calm → annoyed",
+      "bored → proud",
+      "jealous → lonely",
+      "embarrassed → exhausted",
+      "impatient → overjoyed"
+    ],
+    "answer": 4,
+    "translation": "민재는 거의 한 시간 동안 도착장 입구에서 기다리고 있었다. 어머니는 1년 동안 외국에서 일했고 영상 통화로는 결코 충분하지 않았다. 문이 미끄러져 열릴 때마다 그는 발끝으로 서서 사람들 너머를 보았지만 낯선 사람들만 보았다. 다리가 아파 오기 시작했고 그는 계속 항공편 안내판을 확인했다. 그때 그는 익숙한 노란 스카프를 보았다. 그는 홀을 가로질러 달려가 어머니를 껴안았고 말을 잇지 못한 채 기쁨의 눈물이 뺨을 타고 흘렀다.",
+    "why": "오래 기다리며 초조해하다가(impatient), 어머니를 보고 매우 기뻐했습니다(overjoyed).",
+    "optionNotes": [
+      "침착함에서 짜증이 아닙니다.",
+      "지루함에서 자랑스러움이 아닙니다.",
+      "질투에서 외로움이 아닙니다.",
+      "당황에서 지침이 아닙니다.",
+      "정답. 초조함에서 큰 기쁨으로 변했습니다."
+    ],
+    "trap": "'tears'만 보고 슬픔으로 판단하지 마세요. 기쁨의 눈물입니다.",
+    "tip": "전환 신호(Then he saw ...)를 기준으로 앞뒤 감정을 비교하세요."
+  },
+  {
+    "id": "m3-17-20",
+    "level": "m3",
+    "set": "mock-17",
+    "no": 20,
+    "type": "claim",
+    "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+    "passage": "Many museums charge entrance fees that can be a burden for families with several children. As a result, many children from low-income households visit museums rarely, if ever. Yet research shows that early exposure to art and science stimulates curiosity and improves learning in school. Free access also encourages parents to share these experiences with their children. The cost to museums can be offset by government support. Therefore, the government should make museum admission free for children so that every child can enjoy cultural experiences.",
+    "options": [
+      "박물관은 입장 시간을 늘려 더 많은 관람객을 받아야 한다.",
+      "저소득층 가정은 박물관 정기권을 구입해야 한다.",
+      "박물관은 어린이를 위한 교육 프로그램을 폐지해야 한다.",
+      "학교는 학생들의 박물관 견학을 의무화해야 한다.",
+      "정부는 어린이의 박물관 입장료를 무료로 지원해 모든 아이가 문화를 경험할 수 있게 해야 한다."
+    ],
+    "answer": 4,
+    "translation": "많은 박물관은 자녀가 여러 명인 가정에 부담이 될 수 있는 입장료를 받는다. 그 결과 저소득 가정의 많은 어린이는 박물관을 거의 찾지 못한다. 그러나 연구에 따르면 예술과 과학을 일찍 접하면 호기심이 자극되고 학교 학습이 향상된다. 무료 입장은 부모가 이런 경험을 자녀와 나누도록 장려하기도 한다. 박물관의 비용은 정부 지원으로 보전할 수 있다. 그러므로 정부는 모든 아이가 문화 체험을 즐길 수 있도록 어린이의 박물관 입장을 무료로 해야 한다.",
+    "why": "마지막 문장 'the government should make museum admission free for children'이 필자의 주장입니다.",
+    "optionNotes": [
+      "입장 시간은 나오지 않습니다.",
+      "정기권은 나오지 않습니다.",
+      "교육 프로그램 폐지는 나오지 않습니다.",
+      "견학 의무화는 나오지 않습니다.",
+      "정답. 정부가 어린이 입장료를 지원해야 합니다."
+    ],
+    "trap": "'government support'를 학교 정책과 혼동하지 마세요.",
+    "tip": "Therefore로 시작하는 마지막 문장의 주체(the government)와 요구를 확인하세요."
+  },
+  {
+    "id": "m3-17-21",
+    "level": "m3",
+    "set": "mock-17",
+    "no": 21,
+    "type": "implied",
+    "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "passage": "To prepare for the final exam, Hana had to {u|burn the midnight oil} every night this week. She studied until two in the morning. Her eyes were red and tired when she arrived at school.",
+    "options": [
+      "work late into the night",
+      "light an oil lamp in the garden",
+      "waste her precious time on games",
+      "buy a lot of cooking oil",
+      "wake up early in the morning"
+    ],
+    "answer": 0,
+    "translation": "기말고사를 준비하기 위해 하나는 이번 주 매일 밤늦게까지 공부해야 했다. 그녀는 새벽 두 시까지 공부했다. 학교에 도착했을 때 눈이 빨갛고 피곤했다.",
+    "why": "새벽 두 시까지 공부했다고 했으므로 'burn the midnight oil'은 밤늦게까지 일하거나 공부한다는 뜻입니다.",
+    "optionNotes": [
+      "정답. 밤늦게까지 공부한다는 뜻입니다.",
+      "기름 등불을 켠다는 문자 그대로의 뜻이 아닙니다.",
+      "시간을 낭비한다는 뜻이 아닙니다.",
+      "식용유를 산다는 뜻이 아닙니다.",
+      "일찍 일어난다는 뜻이 아닙니다."
+    ],
+    "trap": "'oil'을 문자 그대로 해석하지 마세요.",
+    "tip": "관용 표현은 뒤 문장(studied until two in the morning)에서 의미를 확인하세요."
+  },
+  {
+    "id": "m3-17-22",
+    "level": "m3",
+    "set": "mock-17",
+    "no": 22,
+    "type": "gist",
+    "stem": "다음 글의 요지로 가장 적절한 것은?",
+    "passage": "Many people believe that multitasking makes them more productive. However, brain research shows that the brain does not actually do two tasks at once; it switches rapidly between them. Each switch costs time and mental energy, and it increases the chance of mistakes. In one study, people who were interrupted by messages took about 25 percent longer to finish a task. Therefore, focusing on one task at a time is a more efficient way to work.",
+    "options": [
+      "멀티태스킹은 업무 능력을 높이는 가장 좋은 방법이다.",
+      "뇌는 두 가지 일을 동시에 처리할 수 있다.",
+      "메시지는 업무 중에 즉시 확인해야 한다.",
+      "작업 시간을 늘리면 실수가 줄어든다.",
+      "한 번에 한 가지 일에 집중하는 것이 더 효율적이다."
+    ],
+    "answer": 4,
+    "translation": "많은 사람은 멀티태스킹이 자신을 더 생산적으로 만든다고 믿는다. 그러나 뇌 연구에 따르면 뇌는 실제로 두 가지 일을 동시에 하지 않고 그 사이를 빠르게 전환한다. 전환할 때마다 시간과 정신적 에너지가 들고 실수할 가능성도 커진다. 한 연구에서 메시지에 방해받은 사람들은 일을 끝내는 데 약 25퍼센트 더 오래 걸렸다. 그러므로 한 번에 한 가지 일에 집중하는 것이 더 효율적으로 일하는 방법이다.",
+    "why": "마지막 문장 'focusing on one task at a time is a more efficient way to work'가 요지입니다.",
+    "optionNotes": [
+      "첫 문장의 통념이며 글에서 반박됩니다.",
+      "글과 반대입니다.",
+      "메시지는 방해 요소로 나옵니다.",
+      "작업 시간과 실수의 관계는 나오지 않습니다.",
+      "정답. 한 번에 한 가지 일에 집중하는 것이 효율적입니다."
+    ],
+    "trap": "첫 문장의 통념(multitasking makes more productive)을 필자의 생각으로 착각하지 마세요.",
+    "tip": "However 이후와 Therefore 문장이 요지를 담습니다."
+  },
+  {
+    "id": "m3-17-23",
+    "level": "m3",
+    "set": "mock-17",
+    "no": 23,
+    "type": "topic",
+    "stem": "다음 글의 주제로 가장 적절한 것은?",
+    "passage": "Coral reefs around the world are dying because of rising temperatures and pollution. To reverse this trend, scientists have begun to grow small fragments of healthy coral in underwater nurseries. Once the fragments have grown large enough, divers attach them to damaged reefs. Some projects even select heat-resistant corals so that the new reefs can survive warmer seas. Although the method is slow and costly, early results suggest that restored reefs attract fish and recover their ecological functions.",
+    "options": [
+      "how scientists are helping damaged coral reefs recover by growing coral",
+      "why coral reefs attract tourists from all over the world every single year",
+      "which fish live only in warm tropical seas",
+      "how divers can avoid accidents under water",
+      "what pollutants harm coral reefs the most"
+    ],
+    "answer": 0,
+    "translation": "전 세계의 산호초는 수온 상승과 오염으로 죽어 가고 있다. 이 추세를 되돌리기 위해 과학자들은 수중 양식장에서 건강한 산호 조각을 키우기 시작했다. 조각이 충분히 자라면 잠수부가 그것을 손상된 산호초에 붙인다. 일부 프로젝트는 새로운 산호초가 더 따뜻한 바다에서 살아남도록 열에 강한 산호를 고르기도 한다. 이 방법은 느리고 비용이 많이 들지만 초기 결과는 복원된 산호초가 물고기를 끌어들이고 생태적 기능을 회복함을 시사한다.",
+    "why": "산호를 길러 손상된 산호초를 복원하는 방법을 설명하는 글입니다.",
+    "optionNotes": [
+      "정답. 산호를 길러 손상된 산호초를 복원하는 방법입니다.",
+      "관광객은 나오지 않습니다.",
+      "물고기의 서식지는 나오지 않습니다.",
+      "잠수 안전은 나오지 않습니다.",
+      "오염 물질은 나오지 않습니다."
+    ],
+    "trap": "'divers'가 나온다고 ④를 고르지 마세요.",
+    "tip": "주제는 글 전체가 설명하는 방법(growing coral to restore reefs)을 담으세요."
+  },
+  {
+    "id": "m3-17-24",
+    "level": "m3",
+    "set": "mock-17",
+    "no": 24,
+    "type": "title",
+    "stem": "다음 글의 제목으로 가장 적절한 것은?",
+    "passage": "A rural town in Germany decided to switch off half of its streetlights after midnight. The idea was first suggested by a group of high school students. Residents worried about safety at first, but statistics showed no increase in crime. The town saved thousands of euros each year, and astronomers reported that the Milky Way was visible for the first time in decades. Wildlife also benefited, as insects and birds were less confused by artificial light. Several nearby towns are now considering similar plans.",
+    "options": [
+      "Why Crime Rates Are Rising in Rural German Towns",
+      "The Best Places in Europe to Study Astronomy with Your Family During Holidays",
+      "Switching Off the Lights: A Town's Choice for Savings and Stars",
+      "How to Choose Energy-Saving Light Bulbs",
+      "A Brief History of Street Lighting"
+    ],
+    "answer": 2,
+    "translation": "독일의 한 시골 마을은 자정 이후 가로등의 절반을 끄기로 결정했다. 이 아이디어는 한 고등학생 모임이 처음 제안했다. 주민들은 처음에는 안전을 걱정했지만 통계는 범죄 증가가 없음을 보여 주었다. 마을은 해마다 수천 유로를 절약했고 천문학자들은 수십 년 만에 처음으로 은하수가 보였다고 전했다. 곤충과 새가 인공 불빛에 덜 혼란스러워해 야생동물도 이득을 보았다. 이제 인근의 여러 마을이 비슷한 계획을 고려하고 있다.",
+    "why": "가로등을 꺼서 비용을 아끼고 별을 볼 수 있게 된 이야기이므로 ③이 제목입니다.",
+    "optionNotes": [
+      "범죄 증가는 없었다고 합니다.",
+      "천문학 연구 장소는 나오지 않습니다.",
+      "정답. 가로등을 끄고 절약과 별을 얻은 이야기입니다.",
+      "전구 선택은 나오지 않습니다.",
+      "가로등의 역사는 나오지 않습니다."
+    ],
+    "trap": "'crime'이 나온다고 ①을 고르지 마세요. 범죄는 늘지 않았습니다.",
+    "tip": "제목은 핵심 결정(switch off lights)과 결과(savings, stars)를 담으세요."
+  },
+  {
+    "id": "m3-17-25",
+    "level": "m3",
+    "set": "mock-17",
+    "no": 25,
+    "type": "chart",
+    "stem": "다음 도표의 내용과 일치하지 않는 것은?",
+    "chart": {
+      "title": "Reasons for Learning a Second Language (%)",
+      "unit": "%",
+      "labels": [
+        "Career",
+        "Travel",
+        "Culture",
+        "Education",
+        "Friends"
+      ],
+      "series": [
+        {
+          "name": "Percent",
+          "values": [
+            34,
+            26,
+            16,
+            14,
+            10
+          ]
+        }
+      ]
+    },
+    "passage": "The graph shows why people learn a second language. ① Career is the most common reason. ② Travel accounts for more than a quarter of the total. ③ Culture is higher than Education. ④ Friends is exactly half of Culture. ⑤ Career and Travel together make up 60 percent.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "그래프는 사람들이 제2외국어를 배우는 이유를 보여 준다. ① 직업이 가장 흔한 이유이다. ② 여행은 전체의 4분의 1보다 많다. ③ 문화는 교육보다 높다. ④ 친구는 문화의 정확히 절반이다. ⑤ 직업과 여행을 합하면 60퍼센트이다.",
+    "why": "친구는 10%, 문화는 16%이므로 정확히 절반(8%)이 아니어서 ④는 일치하지 않습니다.",
+    "optionNotes": [
+      "직업 34%가 가장 높습니다.",
+      "여행 26%는 25%보다 많습니다.",
+      "문화 16%는 교육 14%보다 높습니다.",
+      "정답(불일치). 16의 절반은 8이므로 10%와 다릅니다.",
+      "34 + 26 = 60%입니다."
+    ],
+    "trap": "'exactly half'는 정확한 값을 요구하므로 계산해야 합니다.",
+    "tip": "배수·분수 표현은 정확한 값을 계산해 확인하세요."
+  },
+  {
+    "id": "m3-17-26",
+    "level": "m3",
+    "set": "mock-17",
+    "no": 26,
+    "type": "match",
+    "stem": "Ayumi Sato에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Ayumi Sato is a Japanese amateur astronomer. She gained attention at the age of seventeen when she discovered a new comet from her backyard. She had started observing the night sky at ten with a telescope that she assembled from a kit. Every night, she photographed the same area of the sky and compared the pictures to find tiny changes. Her discovery was confirmed by an international observatory, and the comet now carries her name. She is currently studying physics at university and hopes to work at a space agency.",
+    "options": [
+      "열 살에 대학 천문학과에 입학하여 전문적으로 천문학을 공부하기 시작했다.",
+      "국제 천문대에서 연구원으로 일하던 중 우연히 뒷마당에서 새로운 혜성을 발견했다.",
+      "매일 밤 같은 하늘 영역을 촬영해 사진을 비교하며 작은 변화를 찾았다.",
+      "이미 우주 기관에서 근무하고 있다.",
+      "그녀가 발견한 혜성은 다른 사람의 이름으로 불린다."
+    ],
+    "answer": 2,
+    "translation": "사토 아유미는 일본의 아마추어 천문학자이다. 그녀는 열일곱 살에 뒷마당에서 새로운 혜성을 발견해 주목받았다. 그녀는 열 살에 키트로 직접 조립한 망원경으로 밤하늘을 관찰하기 시작했다. 매일 밤 그녀는 하늘의 같은 영역을 촬영하고 사진을 비교해 작은 변화를 찾았다. 그녀의 발견은 국제 천문대에 의해 확인되었고 그 혜성에는 지금 그녀의 이름이 붙어 있다. 그녀는 현재 대학에서 물리학을 공부하고 있으며 우주 기관에서 일하기를 희망한다.",
+    "why": "'she photographed the same area of the sky and compared the pictures to find tiny changes'와 일치합니다.",
+    "optionNotes": [
+      "열 살에 망원경으로 관찰을 시작했습니다.",
+      "뒷마당에서 발견했습니다.",
+      "정답. 같은 하늘 영역을 촬영해 사진을 비교했습니다.",
+      "우주 기관에서 일하기를 희망하는 단계입니다.",
+      "혜성에는 그녀의 이름이 붙었습니다."
+    ],
+    "trap": "나이(ten/seventeen)와 장소(backyard/observatory)를 바꾼 보기에 주의하세요.",
+    "tip": "일치 문제는 시기·방법·현재 상태를 하나씩 대조하세요."
+  },
+  {
+    "id": "m3-17-27",
+    "level": "m3",
+    "set": "mock-17",
+    "no": 27,
+    "type": "notice",
+    "stem": "Winter Coding Camp에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Winter Coding Camp\nBuild your first app in five days!\nDates: January 6 – 10 (Mon–Fri), 9:00 a.m. – 12:00 p.m.\nPlace: Hanbit Library, Computer Lab\nWho: Students in grades 7 – 9 with no coding experience\nFee: $40 (laptops provided)\nApply: Online by December 20; limited to 25 students\nPrize: The best app will be presented at the school's spring fair.",
+    "options": [
+      "고등학생을 대상으로 한다.",
+      "참가자는 노트북을 가져와야 한다.",
+      "신청은 1월 6일까지 할 수 있다.",
+      "최고의 앱은 봄 학교 박람회에서 소개된다.",
+      "코딩 경험이 있는 학생만 참가할 수 있다."
+    ],
+    "answer": 3,
+    "translation": "겨울 코딩 캠프. 5일 만에 첫 앱을 만들어 보세요! 날짜: 1월 6일~10일(월~금), 오전 9시~낮 12시. 장소: 한빛 도서관 컴퓨터실. 대상: 코딩 경험이 없는 7~9학년 학생. 참가비: 40달러(노트북 제공). 신청: 12월 20일까지 온라인으로, 25명 한정. 상: 최고의 앱은 학교의 봄 박람회에서 소개됩니다.",
+    "why": "'The best app will be presented at the school's spring fair.'와 일치합니다.",
+    "optionNotes": [
+      "7~9학년 학생이 대상입니다.",
+      "노트북은 제공됩니다.",
+      "신청은 12월 20일까지입니다.",
+      "정답. 최고의 앱은 봄 박람회에서 소개됩니다.",
+      "코딩 경험이 없는 학생이 대상입니다."
+    ],
+    "trap": "신청 마감(December 20)과 캠프 시작일(January 6)을 혼동하지 마세요.",
+    "tip": "안내문은 항목(Who, Fee, Apply, Prize)별로 대조하세요."
+  },
+  {
+    "id": "m3-17-28",
+    "level": "m3",
+    "set": "mock-17",
+    "no": 28,
+    "type": "notice",
+    "stem": "Neighborhood Book Swap에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Neighborhood Book Swap\nDate: First Sunday of every month, 10:00 a.m. – 1:00 p.m.\nPlace: Maple Community Center, Hall B\nHow it works: Bring up to five books in good condition and receive a token for each book. Use your tokens to take home other books.\nNo books to bring? You may take one book for free. For additional books, please donate or pay one dollar each.\nNote: Textbooks and magazines are not accepted.",
+    "options": [
+      "매달 마지막 일요일에 열린다.",
+      "교과서와 잡지도 교환할 수 있다.",
+      "책을 가져오지 않으면 입장할 수 없다.",
+      "한 번에 열 권까지 가져올 수 있다.",
+      "책이 없어도 한 권은 무료로 가져갈 수 있지만 추가로 가져가려면 기부하거나 한 권에 1달러를 내야 한다."
+    ],
+    "answer": 4,
+    "translation": "동네 책 교환 행사. 날짜: 매달 첫째 일요일 오전 10시~오후 1시. 장소: 메이플 주민센터 B홀. 방법: 상태가 좋은 책을 최대 다섯 권 가져오면 책마다 토큰을 받습니다. 토큰으로 다른 책을 집에 가져가세요. 가져올 책이 없나요? 한 권은 무료로 가져갈 수 있습니다. 추가로 가져가려면 기부하거나 한 권에 1달러를 내 주세요. 유의: 교과서와 잡지는 받지 않습니다.",
+    "why": "'No books to bring? You may take one book for free. For additional books, please donate or pay one dollar each.'와 일치합니다.",
+    "optionNotes": [
+      "매달 첫째 일요일입니다.",
+      "교과서와 잡지는 받지 않습니다.",
+      "책이 없어도 한 권을 가져갈 수 있습니다.",
+      "최대 다섯 권까지입니다.",
+      "정답. 한 권은 무료이며 추가분은 기부 또는 1달러입니다."
+    ],
+    "trap": "'first Sunday'와 'last Sunday', 'five'와 'ten'을 바꾼 보기에 주의하세요.",
+    "tip": "조건(무료 한 권, 추가분)을 보기와 하나씩 대조하세요."
+  }
+]
