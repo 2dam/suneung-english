@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m2-19-29",
+    "level": "m2",
+    "set": "mock-19",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Having {1|finished} the exam, the students {2|were} allowed to leave the classroom. Some of them went to the cafeteria, {3|where} they discussed the answers. Others hurried home because they {4|had promised} to help their parents. The teacher, {5|surprising} by their energy, smiled and said that she was proud of them.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "시험을 마친 학생들은 교실을 나가도 된다는 허락을 받았다. 일부는 구내식당으로 가서 답을 이야기했다. 다른 학생들은 부모님을 돕겠다고 약속했기 때문에 서둘러 집에 갔다. 학생들의 에너지에 놀란 교사는 미소 지으며 그들이 자랑스럽다고 말했다.",
+    "why": "교사가 학생들의 에너지에 '놀란' 수동의 의미이므로 'surprising'이 아니라 'surprised'여야 합니다.",
+    "optionNotes": [
+      "완료 분사구문 Having finished입니다.",
+      "복수 주어 students에 맞는 were입니다.",
+      "장소를 받는 관계부사 where입니다.",
+      "과거 이전의 약속을 나타내는 had promised입니다.",
+      "정답(틀린 것). 감정을 느끼는 주체이므로 surprised여야 합니다."
+    ],
+    "trap": "주어(The teacher)가 놀라는 감정을 느끼므로 수동 의미의 과거분사가 필요합니다.",
+    "tip": "감정 분사는 감정을 느끼는 주체면 -ed, 일으키는 대상이면 -ing를 씁니다."
+  },
+  {
+    "id": "m2-19-30",
+    "level": "m2",
+    "set": "mock-19",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Honesty is often {1|valued} in friendships. If you tell the truth, even when it is difficult, people will {2|distrust} you more. On the other hand, lies can {3|damage} trust quickly. A sincere friend {4|admits} mistakes and {5|apologizes} when necessary.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "정직은 우정에서 흔히 소중하게 여겨진다. 어렵더라도 진실을 말하면 사람들은 당신을 더 불신할 것이다. 반면 거짓말은 신뢰를 빠르게 해칠 수 있다. 진실한 친구는 실수를 인정하고 필요할 때 사과한다.",
+    "why": "진실을 말하면 신뢰를 얻으므로 'distrust(불신하다)'가 아니라 'trust(신뢰하다)'여야 합니다.",
+    "optionNotes": [
+      "소중히 여긴다는 의미로 valued가 알맞습니다.",
+      "정답(부적절). 진실을 말하면 더 신뢰하므로 trust여야 합니다.",
+      "해친다는 의미로 damage가 알맞습니다.",
+      "인정한다는 의미로 admits가 알맞습니다.",
+      "사과한다는 의미로 apologizes가 알맞습니다."
+    ],
+    "trap": "'even when it is difficult'에 이끌려 부정적인 낱말이 맞다고 생각하기 쉽습니다.",
+    "tip": "On the other hand 앞뒤의 대조 구조에서 방향을 확인하세요."
+  },
+  {
+    "id": "m2-19-31",
+    "level": "m2",
+    "set": "mock-19",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "When we learn a new skill, our brain physically changes. Neurons form new connections, and the more we practice, the stronger these connections become. This is why a skill that once felt impossible can become automatic after enough repetition. Athletes, musicians, and typists all rely on this process. Scientists have seen these changes on brain scans. In short, practice reshapes the __________.",
+    "options": [
+      "brain itself",
+      "color of our skin",
+      "size of our shoes",
+      "speed of our heartbeat",
+      "length of our bones"
+    ],
+    "answer": 0,
+    "translation": "새로운 기술을 배울 때 우리의 뇌는 물리적으로 변한다. 뉴런은 새로운 연결을 만들고 연습할수록 이 연결은 더 강해진다. 그래서 한때 불가능해 보이던 기술도 충분히 반복하면 자동화될 수 있다. 운동선수, 음악가, 타자수 모두 이 과정에 의존한다. 과학자들은 뇌 촬영 영상에서 이러한 변화를 확인했다. 요컨대 연습은 뇌 자체를 다시 만든다.",
+    "why": "뉴런의 연결이 변한다고 했으므로 연습은 뇌 자체를 바꾼다는 말이 알맞습니다.",
+    "optionNotes": [
+      "정답. 연습은 뇌 자체를 바꿉니다.",
+      "피부색은 나오지 않습니다.",
+      "신발 크기는 나오지 않습니다.",
+      "심박수는 나오지 않습니다.",
+      "뼈의 길이는 나오지 않습니다."
+    ],
+    "trap": "운동선수가 나온다고 신체 부위를 고르지 마세요.",
+    "tip": "첫 문장의 'our brain physically changes'가 빈칸의 단서입니다."
+  },
+  {
+    "id": "m2-19-32",
+    "level": "m2",
+    "set": "mock-19",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Plants cannot move, so they have developed other ways to defend themselves. Some produce chemicals that taste bitter. Others have thorns on their stems. When a caterpillar chews a leaf, certain plants even release a smell that calls other insects to attack the caterpillar. Some plants even close their leaves when touched. In this way, plants can __________ without moving.",
+    "options": [
+      "protect themselves",
+      "travel to distant forests and gardens",
+      "make loud noises at night",
+      "change their color every season",
+      "sleep soundly in the sunshine"
+    ],
+    "answer": 0,
+    "translation": "식물은 움직일 수 없으므로 스스로를 지키는 다른 방법을 발달시켰다. 어떤 식물은 쓴맛이 나는 화학 물질을 만든다. 다른 식물은 줄기에 가시가 있다. 애벌레가 잎을 갉아 먹으면 일부 식물은 다른 곤충을 불러 애벌레를 공격하게 하는 냄새를 내보내기도 한다. 어떤 식물은 건드리면 잎을 오므리기도 한다. 이렇게 식물은 움직이지 않고도 스스로를 지킬 수 있다.",
+    "why": "쓴맛, 가시, 냄새로 방어한다고 했으므로 '스스로를 지킨다'가 알맞습니다.",
+    "optionNotes": [
+      "정답. 움직이지 않고 스스로를 지킵니다.",
+      "이동한다는 내용은 글과 반대입니다.",
+      "소리를 낸다는 내용은 없습니다.",
+      "계절마다 색이 바뀐다는 내용은 없습니다.",
+      "잔다는 내용은 없습니다."
+    ],
+    "trap": "'cannot move'와 반대되는 보기(travel)를 고르지 마세요.",
+    "tip": "앞 문장들의 방어 방법을 하나로 요약한 것이 빈칸입니다."
+  },
+  {
+    "id": "m2-19-33",
+    "level": "m2",
+    "set": "mock-19",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many people believe that more information always leads to better decisions. However, when we receive too much information, our brain becomes overloaded, and we find it harder to choose. This is sometimes called information overload. Experts recommend gathering only the key facts and setting a time limit for the decision. In other words, the best decisions often come from __________.",
+    "options": [
+      "random guesses",
+      "ignoring all facts",
+      "focusing on the most important information and limiting the amount",
+      "asking many strangers",
+      "waiting for years"
+    ],
+    "answer": 2,
+    "translation": "많은 사람은 더 많은 정보가 항상 더 나은 결정으로 이어진다고 믿는다. 그러나 너무 많은 정보를 받으면 뇌가 과부하되어 선택하기가 더 어려워진다. 이것은 정보 과부하라고 불리기도 한다. 전문가들은 핵심 사실만 모으고 결정에 시간 제한을 두라고 권한다. 다시 말해 최선의 결정은 흔히 가장 중요한 정보에 집중하고 양을 제한하는 데서 나온다.",
+    "why": "핵심 사실만 모으라고 했으므로 가장 중요한 정보에 집중하고 양을 제한한다는 말이 알맞습니다.",
+    "optionNotes": [
+      "무작위 추측은 글과 맞지 않습니다.",
+      "모든 사실을 무시한다는 내용은 글과 반대입니다.",
+      "정답. 중요한 정보에 집중하고 양을 제한합니다.",
+      "낯선 사람에게 묻는다는 내용은 없습니다.",
+      "수년을 기다린다는 내용은 없습니다."
+    ],
+    "trap": "'less information'을 'ignoring all facts'로 확대하지 마세요.",
+    "tip": "앞 문장의 'gathering only the key facts'가 빈칸의 단서입니다."
+  },
+  {
+    "id": "m2-19-34",
+    "level": "m2",
+    "set": "mock-19",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "The Great Wall of China was not built in a single period. Different dynasties added new sections over two thousand years. Its total length is more than twenty thousand kilometers. Some parts were made of stone, and others were made of packed earth. As a result, the wall is not one continuous structure but a __________ of many walls.",
+    "options": [
+      "mountain",
+      "river of stones and mud bricks",
+      "garden",
+      "museum",
+      "collection"
+    ],
+    "answer": 4,
+    "translation": "중국의 만리장성은 한 시기에 지어진 것이 아니다. 여러 왕조가 이천 년에 걸쳐 새로운 구간을 더했다. 총 길이는 이만 킬로미터가 넘는다. 어떤 부분은 돌로, 다른 부분은 다진 흙으로 만들어졌다. 그 결과 성벽은 하나의 연속된 구조물이 아니라 많은 성벽의 모음이다.",
+    "why": "여러 시기에 걸친 여러 구간이라고 했으므로 많은 성벽의 '모음(collection)'이 알맞습니다.",
+    "optionNotes": [
+      "산이라는 내용은 없습니다.",
+      "강이라는 내용은 없습니다.",
+      "정원이라는 내용은 없습니다.",
+      "박물관이라는 내용은 없습니다.",
+      "정답. 많은 성벽의 모음입니다."
+    ],
+    "trap": "'not one continuous structure but a ~'의 대비를 확인하세요.",
+    "tip": "'not A but B'에서 B는 A(하나의 연속된 구조물)와 반대되는 개념입니다."
+  },
+  {
+    "id": "m2-19-35",
+    "level": "m2",
+    "set": "mock-19",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Learning a new language becomes easier when you use it in daily life. ① Try labeling objects in your house with their names. ② Listening to songs in that language also helps. ③ Writing a short diary every day improves your vocabulary. ④ Speaking with native speakers builds confidence. ⑤ Many houses in the village were built with stone walls.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "새로운 언어는 일상에서 사용할 때 더 쉽게 배울 수 있다. ① 집 안의 물건에 이름표를 붙여 보아라. ② 그 언어로 된 노래를 듣는 것도 도움이 된다. ③ 매일 짧은 일기를 쓰면 어휘가 늘어난다. ④ 원어민과 이야기하면 자신감이 생긴다. ⑤ 그 마을의 많은 집은 돌담으로 지어졌다.",
+    "why": "글은 언어를 일상에서 배우는 방법을 말하는데 ⑤는 마을 집의 건축 이야기라 관계가 없습니다.",
+    "optionNotes": [
+      "언어 학습의 방법입니다.",
+      "언어 학습의 방법입니다.",
+      "언어 학습의 방법입니다.",
+      "언어 학습의 방법입니다.",
+      "정답(무관). 마을 집의 건축 이야기입니다."
+    ],
+    "trap": "마지막 문장이 새로운 이야기처럼 보여 결론으로 착각하기 쉽습니다.",
+    "tip": "주제(언어를 일상에서 배우기)와 이어지지 않는 문장을 고르세요."
+  },
+  {
+    "id": "m2-19-36",
+    "level": "m2",
+    "set": "mock-19",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "In the 1950s, a Swiss engineer went for a walk with his dog.\n(A) When they came back, he found small burrs stuck to his clothes and to the dog's fur.\n(B) This discovery inspired him to invent Velcro. It is now used in shoes, bags, and jackets.\n(C) Curious, he looked at them under a microscope. He saw tiny hooks that caught on the loops of the fabric.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "1950년대에 한 스위스 기술자가 개와 함께 산책을 나갔다. (A) 돌아왔을 때 그는 자기 옷과 개의 털에 작은 도깨비바늘이 붙어 있는 것을 발견했다. (C) 호기심이 생긴 그는 현미경으로 그것을 보았다. 그는 천의 고리에 걸리는 작은 갈고리를 보았다. (B) 이 발견은 그가 벨크로를 발명하도록 영감을 주었다. 벨크로는 지금 신발, 가방, 재킷에 쓰인다.",
+    "why": "(A) 도깨비바늘 발견 → (C) 'Curious,' 현미경 관찰 → (B) 'This discovery' 발명 순서입니다.",
+    "optionNotes": [
+      "정답. 발견 → 관찰 → 발명.",
+      "(B)의 'This discovery'가 가리킬 발견이 앞에 없습니다.",
+      "(B)의 'This discovery'가 가리킬 발견이 앞에 없습니다.",
+      "(C)의 'them'이 가리킬 대상이 앞에 없습니다.",
+      "(C)의 'them'이 가리킬 대상이 앞에 없습니다."
+    ],
+    "trap": "(C)의 'them'은 (A)에서 발견한 도깨비바늘입니다.",
+    "tip": "지시어(them, This discovery)가 가리키는 앞 문장을 확인하세요."
+  },
+  {
+    "id": "m2-19-37",
+    "level": "m2",
+    "set": "mock-19",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "The way we choose how much to eat is influenced by many things beyond hunger.\n(A) Therefore, using smaller plates can be a simple way to eat less without feeling hungry.\n(B) For example, people tend to eat more when food is served on larger plates.\n(C) This happens because a normal portion looks small on a big plate. So we serve ourselves more.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 2,
+    "translation": "우리가 얼마나 먹을지 정하는 방식은 배고픔 외의 많은 것에 영향을 받는다. (B) 예를 들어 사람들은 더 큰 접시에 음식이 담기면 더 많이 먹는 경향이 있다. (C) 이는 보통 양이 큰 접시에서는 작아 보이기 때문이다. 그래서 우리는 더 많이 담는다. (A) 그러므로 더 작은 접시를 쓰는 것은 배고프지 않게 덜 먹는 간단한 방법이 될 수 있다.",
+    "why": "(B) 예시 → (C) 'This happens because ~' 이유 → (A) Therefore 결론 순서입니다.",
+    "optionNotes": [
+      "(A)의 'Therefore'가 근거 없이 처음에 올 수 없습니다.",
+      "(A)의 'Therefore'가 근거 없이 처음에 올 수 없습니다.",
+      "정답. 예시 → 이유 → 결론.",
+      "(C)의 'This'가 가리킬 대상이 앞에 없습니다.",
+      "(C)의 'This'가 가리킬 대상이 앞에 없습니다."
+    ],
+    "trap": "(C)의 'This'는 (B)의 현상을 가리킵니다.",
+    "tip": "For example → This happens because → Therefore의 논리 흐름을 따라가세요."
+  },
+  {
+    "id": "m2-19-38",
+    "level": "m2",
+    "set": "mock-19",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThis is why scientists call the early years of life a critical period for language.\n\n[글]\n( ① ) Young children can learn any language they hear around them. ( ② ) They pick up sounds and grammar without formal lessons. ( ③ ) After puberty, however, learning a new language becomes much harder. ( ④ ) Because of this critical period, many adults keep a strong accent no matter how long they study. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "[주어진 문장] 이 때문에 과학자들은 생애 초기를 언어에 대한 결정적 시기라고 부른다. [글] 어린아이들은 주변에서 들리는 어떤 언어든 배울 수 있다. 그들은 정식 수업 없이 소리와 문법을 익힌다. 그러나 사춘기 이후에는 새 언어를 배우는 것이 훨씬 어려워진다. 이 때문에 과학자들은 생애 초기를 언어에 대한 결정적 시기라고 부른다. 이 결정적 시기 때문에 많은 성인은 아무리 오래 공부해도 강한 억양을 유지한다.",
+    "why": "'This is why'는 앞의 설명을 요약하는 결론이고, 뒤 문장의 'this critical period'가 이를 받으므로 ④에 들어갑니다.",
+    "optionNotes": [
+      "설명이 나오기 전이라 'This is why'가 어색합니다.",
+      "대조 설명이 나오기 전이라 요약이 이릅니다.",
+      "'however' 대조가 이어지는 도중이라 어색합니다.",
+      "정답. 설명을 요약하고 'this critical period'로 이어집니다.",
+      "'this critical period'가 가리킬 용어가 이미 나온 뒤라 어색합니다."
+    ],
+    "trap": "⑤ 앞에서도 가능해 보이지만 'this critical period'라는 용어가 먼저 소개되어야 합니다.",
+    "tip": "'this + 명사'가 앞서 정의된 용어를 가리키는지 확인하세요."
+  },
+  {
+    "id": "m2-19-39",
+    "level": "m2",
+    "set": "mock-19",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nHowever, this advantage disappears when members do not communicate.\n\n[글]\n( ① ) Working in a team can bring better results than working alone. ( ② ) Misunderstandings waste time and create conflicts. ( ③ ) Members may repeat the same work or leave important tasks undone. ( ④ ) Therefore, clear communication is the key to good teamwork. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "[주어진 문장] 그러나 구성원이 소통하지 않으면 이 이점은 사라진다. [글] 팀으로 일하면 혼자 일할 때보다 더 좋은 결과를 얻을 수 있다. 그러나 구성원이 소통하지 않으면 이 이점은 사라진다. 오해는 시간을 낭비하고 갈등을 만든다. 구성원은 같은 일을 반복하거나 중요한 일을 빼먹을 수 있다. 그러므로 명확한 소통이 좋은 팀워크의 열쇠이다.",
+    "why": "'this advantage'가 가리키는 대상(팀의 장점)이 ①에 나오고, 'However'로 대조한 뒤 문제를 설명하므로 ②에 들어갑니다.",
+    "optionNotes": [
+      "'this advantage'가 가리킬 장점이 아직 나오지 않았습니다.",
+      "정답. 장점 뒤의 'However'로 문제를 이끕니다.",
+      "오해를 설명한 뒤라 'However'가 어색합니다.",
+      "결론 직전이라 어색합니다.",
+      "결론 뒤라 어색합니다."
+    ],
+    "trap": "'Misunderstandings ~' 문장이 given 문장의 이유를 설명하므로 ③과 혼동하기 쉽습니다.",
+    "tip": "'However, this + 명사'는 바로 앞의 장점을 받아 대조합니다."
+  },
+  {
+    "id": "m2-19-40",
+    "level": "m2",
+    "set": "mock-19",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A city introduced a program in which residents could borrow tools from a neighborhood tool library instead of buying them. The tools included drills and ladders. After one year, the library had lent tools more than five thousand times. Residents saved money. The city also reported less waste because people no longer bought tools that they would use only once.\n\n▶ Sharing tools through a (A) can help people (B) money and reduce waste.",
+    "options": [
+      "(A) community library — (B) save",
+      "(A) shop — (B) spend",
+      "(A) factory — (B) lose",
+      "(A) school — (B) borrow",
+      "(A) bank — (B) waste"
+    ],
+    "answer": 0,
+    "translation": "한 도시는 주민이 도구를 사는 대신 동네 도구 도서관에서 빌릴 수 있는 프로그램을 도입했다. 도구에는 드릴과 사다리가 포함되었다. 1년 뒤 도서관은 도구를 5천 번 넘게 빌려주었다. 주민은 돈을 아꼈다. 도시는 또한 사람들이 한 번만 쓸 도구를 더 이상 사지 않아 쓰레기가 줄었다고 보고했다. ▶ 공동체 도서관을 통해 도구를 나누면 돈을 아끼고 쓰레기를 줄일 수 있다.",
+    "why": "도구 도서관에서 빌려 돈과 쓰레기를 줄였으므로 (A)는 community library, (B)는 save입니다.",
+    "optionNotes": [
+      "정답. 공동체 도서관의 공유가 돈을 아끼게 합니다.",
+      "shop과 spend는 글과 반대입니다.",
+      "factory와 lose는 글에 나오지 않습니다.",
+      "school과 borrow는 글에 나오지 않습니다.",
+      "bank와 waste는 글과 반대입니다."
+    ],
+    "trap": "(B)에 spend나 waste를 고르면 글과 반대입니다.",
+    "tip": "요약문은 수단(tool library)과 결과(save money, less waste)를 짝지어 찾으세요."
+  }
+]
