@@ -1,0 +1,147 @@
+[
+  {
+    "id": "m2-17-41",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 41,
+    "type": "long",
+    "group": "m2-17-g41",
+    "stem": "[41~42] 윗글의 제목으로 가장 적절한 것을 고르시오.",
+    "passage": "Scientists in Japan discovered a bacterium that can digest plastic. The bacteria were found at a waste recycling site, where they were {1|feeding} on plastic bottles. The microbes produce special enzymes that break plastic down into harmless parts. Researchers are now trying to make these enzymes work {2|slower}, so that they can be used in large recycling plants. If they succeed, the technology could {3|reduce} the amount of plastic waste in landfills and oceans. However, experts warn that it is not an excuse to {4|use} more plastic. Reducing consumption remains the {5|most} effective solution.",
+    "options": [
+      "Why Plastic Bottles Are Cheap to Make",
+      "A History of Recycling",
+      "How to Use Less Plastic at Home",
+      "A Plastic-Eating Bacterium and Its Hope for Reducing Waste",
+      "The Best Machines for Cleaning Rivers"
+    ],
+    "answer": 3,
+    "translation": "일본의 과학자들은 플라스틱을 소화할 수 있는 세균을 발견했다. 그 세균은 폐기물 재활용 시설에서 발견되었으며 그곳에서 플라스틱 병을 먹고 있었다. 이 미생물은 플라스틱을 무해한 조각으로 분해하는 특수한 효소를 만든다. 연구자들은 이제 이 효소가 대규모 재활용 시설에서 쓰일 수 있도록 더 느리게 작동하게 하려고 노력하고 있다. 성공하면 이 기술은 매립지와 바다의 플라스틱 쓰레기의 양을 줄일 수 있다. 그러나 전문가들은 이것이 플라스틱을 더 많이 쓸 구실이 아니라고 경고한다. 소비를 줄이는 것이 여전히 가장 효과적인 해결책이다.",
+    "why": "플라스틱을 분해하는 세균과 폐기물 감소에 대한 기대를 다룬 글이므로 ④가 제목입니다.",
+    "optionNotes": [
+      "제조 비용은 나오지 않습니다.",
+      "재활용의 역사는 나오지 않습니다.",
+      "가정에서 플라스틱을 덜 쓰는 법은 핵심이 아닙니다.",
+      "정답. 플라스틱을 먹는 세균과 폐기물 감소의 희망입니다.",
+      "강 청소 기계는 나오지 않습니다."
+    ],
+    "trap": "마지막 문장(Reducing consumption)에만 이끌려 ③을 고르지 마세요.",
+    "tip": "제목은 글 전체의 핵심 소재(bacterium)와 목적(reduce waste)을 담으세요."
+  },
+  {
+    "id": "m2-17-42",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 42,
+    "type": "long",
+    "group": "m2-17-g41",
+    "stem": "[41~42] 밑줄 친 ①~⑤ 중에서 문맥상 낱말의 쓰임이 적절하지 않은 것을 고르시오.",
+    "passage": "Scientists in Japan discovered a bacterium that can digest plastic. The bacteria were found at a waste recycling site, where they were {1|feeding} on plastic bottles. The microbes produce special enzymes that break plastic down into harmless parts. Researchers are now trying to make these enzymes work {2|slower}, so that they can be used in large recycling plants. If they succeed, the technology could {3|reduce} the amount of plastic waste in landfills and oceans. However, experts warn that it is not an excuse to {4|use} more plastic. Reducing consumption remains the {5|most} effective solution.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "(41번 지문과 같은 글입니다.)",
+    "why": "대규모 재활용 시설에서 쓰이려면 효소가 더 '빠르게(faster)' 작동해야 하므로 'slower'는 알맞지 않습니다.",
+    "optionNotes": [
+      "먹고 있었다는 의미로 feeding이 알맞습니다.",
+      "정답(부적절). 대규모 시설에는 faster여야 합니다.",
+      "줄일 수 있다는 의미로 reduce가 알맞습니다.",
+      "쓸 구실이 아니라는 의미로 use가 알맞습니다.",
+      "가장 효과적이라는 의미로 most가 알맞습니다."
+    ],
+    "trap": "'slower'가 안전하다는 느낌에 이끌려 맞다고 생각하기 쉽습니다.",
+    "tip": "목적(large recycling plants)과 비교 낱말의 방향을 확인하세요."
+  },
+  {
+    "id": "m2-17-43",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 43,
+    "type": "long",
+    "group": "m2-17-g43",
+    "stem": "[43~45] 주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것을 고르시오.",
+    "passage": "(A) Taeyang had never been on a plane. When his family planned a trip to Jeju, {1|he} was excited but also afraid of flying. He asked his grandfather, who used to be a pilot, for advice.\n(B) As the plane landed in Jeju, {2|he} looked out the window and smiled. He could see the blue sea and green hills under the sunshine.\n(C) His grandfather laughed gently. {3|He} explained that turbulence is like a bumpy road, and that the plane was designed to handle it.\n(D) Taeyang listened carefully. On the day of the flight, {4|he} remembered every word and breathed slowly. When the plane shook, {5|he} told himself, \"It's only a bumpy road.\"",
+    "options": [
+      "(B)-(D)-(C)",
+      "(C)-(B)-(D)",
+      "(C)-(D)-(B)",
+      "(D)-(B)-(C)",
+      "(D)-(C)-(B)"
+    ],
+    "answer": 2,
+    "translation": "(A) 태양은 비행기를 타 본 적이 없었다. 가족이 제주도 여행을 계획하자 그는 신이 났지만 비행이 두렵기도 했다. 그는 조종사였던 할아버지께 조언을 구했다. (C) 할아버지는 부드럽게 웃으셨다. 그는 난기류는 울퉁불퉁한 길과 같고 비행기는 그것을 견디도록 설계되었다고 설명했다. (D) 태양은 주의 깊게 들었다. 비행하는 날 그는 모든 말을 기억하며 천천히 숨을 쉬었다. 비행기가 흔들릴 때 그는 \"그냥 울퉁불퉁한 길일 뿐이야.\"라고 스스로에게 말했다. (B) 비행기가 제주에 착륙할 때 그는 창밖을 내다보며 미소 지었다. 햇살 아래 푸른 바다와 초록 언덕이 보였다.",
+    "why": "(A) 조언을 구함 → (C) 할아버지의 설명 → (D) 비행하는 날 → (B) 착륙 순서입니다.",
+    "optionNotes": [
+      "(B)의 착륙이 조언 직후에 올 수 없습니다.",
+      "(B)가 (D)보다 앞서면 비행 중 이야기 전에 착륙합니다.",
+      "정답. 설명 → 비행 → 착륙.",
+      "(D)가 (C)보다 앞서면 설명을 듣기 전에 그 말을 기억합니다.",
+      "(D)가 (C)보다 앞서면 'remembered every word'의 대상이 없습니다."
+    ],
+    "trap": "(D)의 'remembered every word'는 (C)의 할아버지의 설명입니다.",
+    "tip": "질문 → 조언 → 실행 → 결과의 시간 흐름을 따라가세요."
+  },
+  {
+    "id": "m2-17-44",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 44,
+    "type": "long",
+    "group": "m2-17-g43",
+    "stem": "[43~45] 밑줄 친 ①~⑤ 중에서 가리키는 대상이 나머지 넷과 다른 것을 고르시오.",
+    "passage": "(A) Taeyang had never been on a plane. When his family planned a trip to Jeju, {1|he} was excited but also afraid of flying. He asked his grandfather, who used to be a pilot, for advice.\n(B) As the plane landed in Jeju, {2|he} looked out the window and smiled. He could see the blue sea and green hills under the sunshine.\n(C) His grandfather laughed gently. {3|He} explained that turbulence is like a bumpy road, and that the plane was designed to handle it.\n(D) Taeyang listened carefully. On the day of the flight, {4|he} remembered every word and breathed slowly. When the plane shook, {5|he} told himself, \"It's only a bumpy road.\"",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "③의 He는 난기류가 울퉁불퉁한 길과 같다고 설명한 할아버지이고, 나머지 ①②④⑤는 모두 태양을 가리킵니다.",
+    "optionNotes": [
+      "he는 설레면서도 비행이 두려웠던 태양입니다.",
+      "he는 창밖을 보며 미소 지은 태양입니다.",
+      "정답. He는 난기류를 설명한 할아버지입니다.",
+      "he는 모든 말을 기억한 태양입니다.",
+      "he는 스스로에게 말한 태양입니다."
+    ],
+    "trap": "앞 문장의 주어가 His grandfather이므로 He도 할아버지입니다.",
+    "tip": "같은 성별의 두 인물이 나오면 직전 문장의 주어를 확인하세요."
+  },
+  {
+    "id": "m2-17-45",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 45,
+    "type": "long",
+    "group": "m2-17-g43",
+    "stem": "[43~45] 윗글에 관한 내용으로 적절하지 않은 것을 고르시오.",
+    "passage": "(A) Taeyang had never been on a plane. When his family planned a trip to Jeju, {1|he} was excited but also afraid of flying. He asked his grandfather, who used to be a pilot, for advice.\n(B) As the plane landed in Jeju, {2|he} looked out the window and smiled. He could see the blue sea and green hills under the sunshine.\n(C) His grandfather laughed gently. {3|He} explained that turbulence is like a bumpy road, and that the plane was designed to handle it.\n(D) Taeyang listened carefully. On the day of the flight, {4|he} remembered every word and breathed slowly. When the plane shook, {5|he} told himself, \"It's only a bumpy road.\"",
+    "options": [
+      "태양은 비행기를 타 본 적이 없었다.",
+      "태양의 할아버지는 조종사였다.",
+      "할아버지는 난기류가 울퉁불퉁한 길 같다고 설명했다.",
+      "태양은 비행 중 천천히 숨을 쉬었다.",
+      "태양은 비행기가 흔들리자 곧바로 승무원을 불렀다."
+    ],
+    "answer": 4,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "비행기가 흔들릴 때 태양은 스스로에게 말했을 뿐 승무원을 부르지 않았으므로 ⑤는 일치하지 않습니다.",
+    "optionNotes": [
+      "had never been on a plane과 일치합니다.",
+      "used to be a pilot과 일치합니다.",
+      "turbulence is like a bumpy road와 일치합니다.",
+      "breathed slowly와 일치합니다.",
+      "정답(불일치). 승무원을 부르지 않았습니다."
+    ],
+    "trap": "'shook'를 보고 도움을 요청했다고 단정하지 마세요.",
+    "tip": "불일치 문제는 글에 근거가 없는 행동(승무원을 부름)을 추가한 보기를 찾으세요."
+  }
+]

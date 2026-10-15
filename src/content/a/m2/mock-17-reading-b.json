@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m2-17-29",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "The man {1|whom} I met at the airport yesterday {2|were} an old friend of my father. He told me that he {3|had been} living abroad for twenty years. Surprisingly, he still remembered the name of the street where we {4|used to live}. I was so moved that I {5|could} hardly say a word.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "어제 공항에서 내가 만난 남자는 아버지의 오랜 친구였다. 그는 20년 동안 외국에서 살고 있다고 말했다. 놀랍게도 그는 우리가 살던 거리의 이름을 아직도 기억했다. 나는 너무 감동해서 한마디도 거의 할 수 없었다.",
+    "why": "주어는 'The man'으로 단수이므로 동사는 'were'가 아니라 'was'여야 합니다.",
+    "optionNotes": [
+      "목적격 관계대명사 whom입니다.",
+      "정답(틀린 것). 단수 주어에 맞춰 was여야 합니다.",
+      "과거 시점까지의 계속을 나타내는 had been입니다.",
+      "'used to + 동사원형' 구문입니다.",
+      "'so ~ that' 구문의 could입니다."
+    ],
+    "trap": "관계사절 속의 'I met'에 이끌려 복수로 오해하기 쉽습니다.",
+    "tip": "관계사절을 괄호로 묶고 주어와 동사의 수를 일치시키세요."
+  },
+  {
+    "id": "m2-17-30",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Sleep is {1|essential} for good health. During sleep, our bodies {2|repair} cells and the brain {3|organizes} memories. When we do not sleep enough, we feel tired and find it {4|easy} to concentrate. Over time, a lack of sleep can also {5|weaken} the immune system.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "수면은 좋은 건강에 필수적이다. 잠자는 동안 우리 몸은 세포를 회복시키고 뇌는 기억을 정리한다. 충분히 자지 못하면 우리는 피곤함을 느끼고 집중하기가 쉽다고 느낀다. 시간이 지나면 수면 부족은 면역 체계도 약하게 만들 수 있다.",
+    "why": "충분히 자지 못해 피곤하다고 했으므로 집중하기가 'easy(쉽다)'가 아니라 'difficult(어렵다)'여야 합니다.",
+    "optionNotes": [
+      "필수적이라는 의미로 essential이 알맞습니다.",
+      "회복시킨다는 의미로 repair가 알맞습니다.",
+      "정리한다는 의미로 organizes가 알맞습니다.",
+      "정답(부적절). 피곤하면 집중이 어려우므로 difficult여야 합니다.",
+      "약하게 한다는 의미로 weaken이 알맞습니다."
+    ],
+    "trap": "'find it easy to'의 구문만 보고 의미 방향을 확인하지 않기 쉽습니다.",
+    "tip": "앞 문장의 상태(tired)와 뒤 낱말의 방향이 맞는지 확인하세요."
+  },
+  {
+    "id": "m2-17-31",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many species of animals hibernate during winter. Bears, for example, eat a huge amount of food in autumn and then sleep in dens for months. During this period, their heart rate drops sharply, and they use stored fat for energy. This strategy allows them to survive when food is scarce. In other words, hibernation is a way to __________.",
+    "options": [
+      "grow taller before spring",
+      "avoid meeting other bears at all",
+      "protect their territory from many enemies in winter",
+      "save energy when food is hard to find",
+      "keep their fur clean"
+    ],
+    "answer": 3,
+    "translation": "많은 동물이 겨울 동안 겨울잠을 잔다. 예를 들어 곰은 가을에 엄청난 양의 음식을 먹고 몇 달 동안 굴에서 잔다. 이 기간 동안 심박수가 급격히 떨어지고 저장된 지방을 에너지로 쓴다. 이 전략은 먹이가 부족할 때 살아남게 해 준다. 다시 말해 겨울잠은 먹이를 구하기 어려울 때 에너지를 아끼는 방법이다.",
+    "why": "저장된 지방을 쓰며 먹이가 부족할 때 살아남는다고 했으므로 에너지를 아끼는 방법입니다.",
+    "optionNotes": [
+      "키가 큰다는 내용은 없습니다.",
+      "다른 곰을 피한다는 내용은 없습니다.",
+      "영역을 지킨다는 내용은 없습니다.",
+      "정답. 먹이를 구하기 어려울 때 에너지를 아낍니다.",
+      "털을 깨끗이 한다는 내용은 없습니다."
+    ],
+    "trap": "'sleep in dens'만 보고 영역 보호를 고르지 마세요.",
+    "tip": "앞 문장의 'use stored fat for energy'가 빈칸의 단서입니다."
+  },
+  {
+    "id": "m2-17-32",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Some companies now ask job applicants to complete a trial project instead of just an interview. Interviews show how well someone speaks. But they do not always reveal how well the person can actually work. A trial project lets the company see an applicant's real skills in action. In this way, employers can hire people based on __________ rather than on first impressions.",
+    "options": [
+      "luck",
+      "age",
+      "physical appearance",
+      "reputation among friends",
+      "performance"
+    ],
+    "answer": 4,
+    "translation": "일부 회사는 이제 구직자에게 면접만 보는 대신 시험 프로젝트를 완수하게 한다. 면접은 그 사람이 얼마나 말을 잘하는지 보여 준다. 하지만 실제로 얼마나 일을 잘하는지는 항상 드러내지는 않는다. 시험 프로젝트는 회사가 지원자의 실제 능력이 발휘되는 모습을 볼 수 있게 해 준다. 이렇게 고용주는 첫인상이 아니라 수행 능력에 근거해 사람을 채용할 수 있다.",
+    "why": "실제 능력을 보는 시험 프로젝트이므로 첫인상이 아니라 수행 능력(performance)에 근거합니다.",
+    "optionNotes": [
+      "운은 나오지 않습니다.",
+      "나이는 나오지 않습니다.",
+      "외모는 첫인상에 가깝습니다.",
+      "평판은 나오지 않습니다.",
+      "정답. 수행 능력에 근거해 채용합니다."
+    ],
+    "trap": "'first impressions'와 가까운 외모를 고르지 마세요.",
+    "tip": "'rather than'의 뒤(first impressions)와 반대되는 것을 찾으세요."
+  },
+  {
+    "id": "m2-17-33",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A bridge appears strong because of its steel, yet its real strength comes from its shape. Engineers use triangles in many structures because a triangle does not change shape when pressure is applied. Squares can be pushed into other shapes, but triangles stay rigid. That is why triangle patterns are often seen in bridges and towers. Good design can be as important as the __________ that is used.",
+    "options": [
+      "weight",
+      "material",
+      "color",
+      "price of the land",
+      "name"
+    ],
+    "answer": 1,
+    "translation": "다리는 강철 때문에 튼튼해 보이지만 진짜 강도는 모양에서 나온다. 삼각형은 압력이 가해져도 모양이 변하지 않기 때문에 엔지니어는 많은 구조물에 삼각형을 쓴다. 사각형은 다른 모양으로 눌릴 수 있지만 삼각형은 단단하게 유지된다. 그래서 다리와 탑에서 삼각형 무늬를 자주 볼 수 있다. 좋은 설계는 사용되는 재료만큼 중요할 수 있다.",
+    "why": "첫 문장에서 강철(재료)이 강해 보이지만 진짜 강도는 모양에서 나온다고 했으므로 재료(material)가 알맞습니다.",
+    "optionNotes": [
+      "무게는 나오지 않습니다.",
+      "정답. 설계는 재료만큼 중요합니다.",
+      "색은 나오지 않습니다.",
+      "땅값은 나오지 않습니다.",
+      "이름은 나오지 않습니다."
+    ],
+    "trap": "첫 문장의 'steel'과 이어지는 낱말을 찾아야 합니다.",
+    "tip": "'as important as the ~'의 빈칸은 앞에서 비교된 대상(steel)과 연결됩니다."
+  },
+  {
+    "id": "m2-17-34",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "The Japanese practice of \"forest bathing\" involves walking slowly through a forest. You pay attention to its sounds, smells, and sights. Research shows that after a short forest walk, people have lower stress hormones and lower blood pressure. You do not need to hike for hours or reach the top of a mountain. Even twenty minutes among trees can help you feel __________.",
+    "options": [
+      "lonely",
+      "very hungry and tired",
+      "calmer",
+      "taller",
+      "older"
+    ],
+    "answer": 2,
+    "translation": "일본의 '산림욕'은 숲속을 천천히 걷는 것이다. 소리, 냄새, 풍경에 주의를 기울인다. 연구에 따르면 짧은 숲 산책 뒤에 사람들은 스트레스 호르몬과 혈압이 낮아진다. 몇 시간 동안 걷거나 산 정상에 오를 필요는 없다. 나무 사이에서 20분만 보내도 더 차분해지는 데 도움이 된다.",
+    "why": "스트레스 호르몬과 혈압이 낮아진다고 했으므로 더 차분하게(calmer) 느끼게 합니다.",
+    "optionNotes": [
+      "외롭다는 내용은 없습니다.",
+      "배고프고 피곤하다는 내용은 없습니다.",
+      "정답. 더 차분해집니다.",
+      "키가 큰다는 내용은 없습니다.",
+      "나이가 든다는 내용은 없습니다."
+    ],
+    "trap": "'forest'에 이끌려 신체적 변화를 고르지 마세요.",
+    "tip": "앞 문장의 효과(lower stress, lower blood pressure)가 빈칸의 방향을 알려 줍니다."
+  },
+  {
+    "id": "m2-17-35",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Public libraries offer more than books. ① Many bakeries start baking at four in the morning. ② Some libraries lend tools, such as drills and sewing machines. ③ Others provide free classes in computer skills and languages. ④ Many also have quiet rooms where people can study or work. ⑤ For many communities, the library is a valuable shared resource.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "공공 도서관은 책 이상의 것을 제공한다. ① 많은 빵집은 새벽 4시에 빵을 굽기 시작한다. ② 일부 도서관은 드릴과 재봉틀 같은 도구를 빌려준다. ③ 다른 곳은 컴퓨터 기술과 언어에 대한 무료 수업을 제공한다. ④ 많은 도서관에는 사람들이 공부하거나 일할 수 있는 조용한 방도 있다. ⑤ 많은 지역 사회에서 도서관은 귀중한 공동 자원이다.",
+    "why": "글은 공공 도서관의 다양한 서비스를 말하는데 ①은 빵집 이야기라 관계가 없습니다.",
+    "optionNotes": [
+      "정답(무관). 빵집 이야기입니다.",
+      "도서관의 서비스입니다.",
+      "도서관의 서비스입니다.",
+      "도서관의 서비스입니다.",
+      "결론입니다."
+    ],
+    "trap": "첫 문장 바로 뒤라 도입처럼 보일 수 있습니다.",
+    "tip": "주제(도서관의 서비스)와 이어지지 않는 문장을 고르세요."
+  },
+  {
+    "id": "m2-17-36",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Many people think that napping is a sign of laziness.\n(A) NASA researchers, for example, tested pilots. Those who took a short nap performed much better on attention tests.\n(B) However, studies show that a short nap of about twenty minutes can improve alertness and memory.\n(C) Therefore, adding a brief nap to your day may be a smart way to boost your performance.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 1,
+    "translation": "많은 사람은 낮잠이 게으름의 표시라고 생각한다. (B) 그러나 연구에 따르면 약 20분의 짧은 낮잠은 각성도와 기억력을 높일 수 있다. (A) 예를 들어 NASA 연구자들은 조종사들을 검사했다. 짧은 낮잠을 잔 조종사가 주의력 검사에서 훨씬 더 좋은 성과를 냈다. (C) 그러므로 하루에 짧은 낮잠을 더하는 것은 성과를 높이는 현명한 방법일 수 있다.",
+    "why": "(B) However 반론 → (A) For example 예시 → (C) Therefore 결론 순서입니다.",
+    "optionNotes": [
+      "(A)의 'For example'이 일반적 진술 없이 올 수 없습니다.",
+      "정답. 반론 → 예시 → 결론.",
+      "(C)의 'Therefore'가 예시보다 앞설 수 없습니다.",
+      "(C)의 'Therefore'가 처음에 올 수 없습니다.",
+      "(C)의 'Therefore'가 처음에 올 수 없습니다."
+    ],
+    "trap": "(A)의 'for example'은 (B)의 주장에 대한 예시입니다.",
+    "tip": "However → For example → Therefore의 논리 흐름을 따라가세요."
+  },
+  {
+    "id": "m2-17-37",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Maps used to be made by hand, and every map was a work of art.\n(A) As a result, ordinary people could afford maps for the first time. Travel became much easier.\n(B) However, in the 1800s, new printing technology made it possible to produce maps in large numbers.\n(C) Today, digital maps on our phones update in real time. They guide us to any place within seconds.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 1,
+    "translation": "지도는 한때 손으로 만들어졌고 모든 지도가 하나의 예술 작품이었다. (B) 그러나 1800년대에 새로운 인쇄 기술이 지도를 대량으로 생산하는 것을 가능하게 했다. (A) 그 결과 일반 사람들이 처음으로 지도를 살 수 있게 되었다. 여행이 훨씬 쉬워졌다. (C) 오늘날 휴대전화의 디지털 지도는 실시간으로 갱신된다. 그것은 몇 초 안에 어느 곳이든 안내해 준다.",
+    "why": "(B) However 인쇄 기술 → (A) As a result 결과 → (C) Today 현재 순서입니다.",
+    "optionNotes": [
+      "(A)의 'As a result'가 원인(B) 없이 올 수 없습니다.",
+      "정답. 인쇄 기술 → 결과 → 현재.",
+      "(C)의 Today가 중간에 올 수 없습니다.",
+      "(C)의 Today가 처음에 올 수 없습니다.",
+      "(C)의 Today가 처음에 올 수 없습니다."
+    ],
+    "trap": "(A)의 'As a result'는 (B)의 원인이 먼저 있어야 합니다.",
+    "tip": "However → As a result → Today의 시간·인과 흐름을 따라가세요."
+  },
+  {
+    "id": "m2-17-38",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nIn fact, some of them can live for more than two hundred years.\n\n[글]\n( ① ) Giant tortoises move slowly, eat plants, and rest for most of the day. ( ② ) Scientists believe that this slow lifestyle helps them live longer. ( ③ ) Unfortunately, many species are now endangered because of hunting and habitat loss. ( ④ ) Conservation programs are trying to protect the remaining tortoises. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 사실 그중 일부는 200년 넘게 살 수도 있다. [글] 육지거북은 느리게 움직이고 식물을 먹으며 하루 대부분을 쉰다. 과학자들은 이 느린 생활 방식이 그들이 더 오래 살도록 돕는다고 믿는다. 사실 그중 일부는 200년 넘게 살 수도 있다. 안타깝게도 많은 종이 사냥과 서식지 손실로 멸종 위기에 처해 있다. 보전 프로그램이 남은 거북을 보호하려 노력하고 있다.",
+    "why": "'In fact'는 앞 문장(느린 생활 방식이 오래 살게 한다)을 구체적인 수치로 뒷받침하므로 ③에 들어갑니다.",
+    "optionNotes": [
+      "거북이 느리게 산다는 문장 앞이라 'some of them'이 어색합니다.",
+      "오래 산다는 주장 앞이라 뒷받침이 어색합니다.",
+      "정답. 오래 산다는 주장을 수치로 뒷받침합니다.",
+      "'Unfortunately' 이후의 위협 이야기와 맞지 않습니다.",
+      "보전 프로그램 뒤라 어색합니다."
+    ],
+    "trap": "'some of them'이 가리키는 대상이 앞 문장(tortoises)에 있어야 합니다.",
+    "tip": "'In fact'는 바로 앞 문장의 주장을 구체화합니다."
+  },
+  {
+    "id": "m2-17-39",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nIn short, a small amount of regular exercise is better than an occasional intense workout.\n\n[글]\n( ① ) Many people believe that they must exercise for hours to stay healthy. ( ② ) However, studies suggest that thirty minutes of moderate activity a day is enough. ( ③ ) Brisk walking, cycling, or swimming can all lower the risk of heart disease. ( ④ ) What matters most is doing it regularly, not how hard you work out on a single day. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "[주어진 문장] 요컨대 규칙적인 적은 양의 운동이 가끔 하는 격렬한 운동보다 낫다. [글] 많은 사람은 건강을 유지하려면 몇 시간씩 운동해야 한다고 믿는다. 그러나 연구에 따르면 하루 30분의 적당한 활동으로 충분하다. 빠르게 걷기, 자전거 타기, 수영은 모두 심장병의 위험을 낮출 수 있다. 가장 중요한 것은 하루에 얼마나 격렬히 운동하느냐가 아니라 규칙적으로 하는 것이다. 요컨대 규칙적인 적은 양의 운동이 가끔 하는 격렬한 운동보다 낫다.",
+    "why": "'In short'는 앞 내용을 요약하는 결론이므로 마지막인 ⑤에 들어갑니다.",
+    "optionNotes": [
+      "요약할 내용이 나오기 전입니다.",
+      "주장이 나오기 전이라 요약이 어색합니다.",
+      "예시 도중이라 어색합니다.",
+      "마지막 핵심 문장 앞이라 요약이 어색합니다.",
+      "정답. 모든 내용을 요약하는 결론입니다."
+    ],
+    "trap": "④ 뒤에도 가능해 보이지만 ④가 이미 핵심 문장이므로 요약은 그 뒤에 옵니다.",
+    "tip": "'In short'는 내용을 모두 전한 뒤에 놓입니다."
+  },
+  {
+    "id": "m2-17-40",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A company changed its meeting rules: all meetings had to be held standing up. After three months, the meetings were on average 34 percent shorter. Employees said that they made decisions more quickly. Sitting makes people relaxed and willing to talk for a long time. Standing makes them keep their points short.\n\n▶ Meetings held (A) tend to be (B) because people are less relaxed.",
+    "options": [
+      "(A) late — (B) longer",
+      "(A) online — (B) quieter",
+      "(A) standing — (B) shorter",
+      "(A) in a large room — (B) louder",
+      "(A) weekly — (B) easier"
+    ],
+    "answer": 2,
+    "translation": "한 회사가 회의 규칙을 바꾸어 모든 회의를 서서 하도록 했다. 3개월 뒤 회의는 평균 34퍼센트 짧아졌다. 직원들은 결정을 더 빨리 내린다고 말했다. 앉으면 사람들이 편안해져 오래 이야기하려 한다. 서면 요점을 짧게 하게 된다. ▶ 서서 하는 회의는 사람들이 덜 편안하기 때문에 더 짧아지는 경향이 있다.",
+    "why": "서서 하는 회의가 평균적으로 더 짧았으므로 (A)는 standing, (B)는 shorter입니다.",
+    "optionNotes": [
+      "late와 longer는 글과 반대입니다.",
+      "online과 quieter는 글에 나오지 않습니다.",
+      "정답. 서서 하는 회의가 더 짧아집니다.",
+      "in a large room과 louder는 글에 나오지 않습니다.",
+      "weekly와 easier는 글에 나오지 않습니다."
+    ],
+    "trap": "'less relaxed'라는 이유를 'quieter'와 혼동하지 마세요.",
+    "tip": "요약문은 조건(standing)과 결과(shorter)를 짝지어 찾으세요."
+  }
+]

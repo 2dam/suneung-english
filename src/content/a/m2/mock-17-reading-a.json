@@ -1,0 +1,333 @@
+[
+  {
+    "id": "m2-17-18",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 18,
+    "type": "purpose",
+    "stem": "다음 글을 쓴 목적으로 가장 적절한 것은?",
+    "passage": "Dear Mr. Lee,\nI am a ninth-grade student in your English class. I am applying to the Global Youth Leadership Camp, and the application requires a letter of recommendation from a teacher. I have enjoyed your class very much and have worked hard on the English debate team under your guidance. Would you be willing to write a recommendation letter for me? The deadline is March 20. I would be grateful for your help.\nSincerely,\nMinji Park",
+    "options": [
+      "캠프 참가 일정 변경을 문의하려고",
+      "영어 토론 대회 결과를 확인하려고",
+      "수업 시간에 있었던 일에 대해 정중하게 사과하려고",
+      "추천서 작성을 부탁하려고",
+      "캠프 참가비 납부 방법을 묻기 위해"
+    ],
+    "answer": 3,
+    "translation": "이 선생님께. 저는 선생님의 영어 수업을 듣는 중학교 3학년 학생입니다. 글로벌 청소년 리더십 캠프에 지원하려고 하는데 지원서에 교사의 추천서가 필요합니다. 저는 선생님의 수업이 매우 즐거웠고 선생님의 지도 아래 영어 토론 팀에서 열심히 활동했습니다. 저를 위해 추천서를 써 주실 수 있을까요? 마감은 3월 20일입니다. 도와주시면 감사하겠습니다. 박민지 드림.",
+    "why": "캠프 지원에 필요한 추천서를 써 달라고 부탁하는 글입니다.",
+    "optionNotes": [
+      "일정 변경 문의가 아닙니다.",
+      "대회 결과 확인이 아닙니다.",
+      "사과가 아닙니다.",
+      "정답. 추천서 작성을 부탁합니다.",
+      "참가비는 나오지 않습니다."
+    ],
+    "trap": "'English debate team'은 부탁의 근거일 뿐 목적이 아닙니다.",
+    "tip": "목적 문제는 'Would you be willing to ~?' 같은 요청 문장을 찾으세요."
+  },
+  {
+    "id": "m2-17-19",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 19,
+    "type": "mood",
+    "stem": "다음 글에 드러난 Hyun의 심경 변화로 가장 적절한 것은?",
+    "passage": "Hyun was sure that he would win the history quiz. He had studied hard for weeks, and he even felt a little proud as the teacher began to read the questions. But the first question was about a period that he had skipped. His smile disappeared. His palms became wet, and he could hear his heart beating loudly. He stared at the paper, trying to remember anything at all.",
+    "options": [
+      "bored → angry",
+      "confident → anxious",
+      "proud → grateful",
+      "calm → excited",
+      "lonely → embarrassed"
+    ],
+    "answer": 1,
+    "translation": "현은 역사 퀴즈에서 우승할 것이라고 확신했다. 몇 주 동안 열심히 공부했고 선생님이 문제를 읽기 시작할 때는 약간 자랑스럽기까지 했다. 그런데 첫 문제가 그가 건너뛴 시대에 관한 것이었다. 미소가 사라졌다. 손바닥이 축축해졌고 심장이 크게 뛰는 소리가 들렸다. 그는 무엇이든 기억하려고 애쓰며 종이를 응시했다.",
+    "why": "처음에는 우승을 확신했지만(confident), 모르는 문제가 나와 불안해졌습니다(anxious).",
+    "optionNotes": [
+      "지루함에서 화남이 아닙니다.",
+      "정답. 확신에서 불안으로 변했습니다.",
+      "자랑스러움에서 고마움이 아닙니다.",
+      "침착함에서 신남이 아닙니다.",
+      "외로움에서 당황이 아닙니다."
+    ],
+    "trap": "처음의 'proud'에 이끌려 ③을 고르지 마세요. 마지막 감정이 불안입니다.",
+    "tip": "전환 신호(But ...)를 기준으로 앞뒤 감정을 비교하세요."
+  },
+  {
+    "id": "m2-17-20",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 20,
+    "type": "claim",
+    "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+    "passage": "When children face a problem, many parents rush to solve it for them. Parents mean well, but this habit has a cost. Children who are never allowed to fail do not learn how to cope with difficulties. They may become anxious when they meet obstacles on their own later in life. A small failure at home is much safer than a big failure in the real world. Therefore, parents should let their children make mistakes and learn from them.",
+    "options": [
+      "부모는 아이가 스스로 실수하고 배울 기회를 주어야 한다.",
+      "부모는 아이의 모든 문제를 대신 해결해 주어야 한다.",
+      "아이는 어떤 경우에도 실패하지 않도록 부모에게 철저히 보호받아야 한다.",
+      "아이의 실수는 즉시 지적해서 고쳐 주어야 한다.",
+      "실패한 경험은 다른 사람에게 알리지 않는 것이 좋다."
+    ],
+    "answer": 0,
+    "translation": "아이들이 문제에 직면하면 많은 부모는 서둘러 대신 해결해 준다. 부모의 뜻은 선하지만 이 습관에는 대가가 따른다. 실패하는 것이 전혀 허용되지 않은 아이는 어려움에 대처하는 법을 배우지 못한다. 그들은 나중에 인생에서 혼자 장애물을 만났을 때 불안해할 수 있다. 집에서의 작은 실패가 현실 세계에서의 큰 실패보다 훨씬 안전하다. 그러므로 부모는 아이가 실수하고 그로부터 배우도록 허용해야 한다.",
+    "why": "마지막 문장 'parents should let their children make mistakes and learn from them'이 필자의 주장입니다.",
+    "optionNotes": [
+      "정답. 스스로 실수하고 배울 기회를 주어야 합니다.",
+      "글에서 문제로 지적되는 행동입니다.",
+      "글과 반대되는 내용입니다.",
+      "즉시 지적하라는 내용은 없습니다.",
+      "실패 경험의 공유는 나오지 않습니다."
+    ],
+    "trap": "'Parents mean well'을 필자의 주장으로 오해하지 마세요.",
+    "tip": "주장 문제는 'Therefore, ~ should ...' 문장을 찾으세요."
+  },
+  {
+    "id": "m2-17-21",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 21,
+    "type": "implied",
+    "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "passage": "My brother is very busy with his job. So he visits us only {u|once in a blue moon}. We are always happy to see him. Mom cooks his favorite dishes whenever he comes.",
+    "options": [
+      "very rarely",
+      "every day at noon",
+      "only on blue days",
+      "when the moon is full",
+      "whenever it is cold"
+    ],
+    "answer": 0,
+    "translation": "우리 형은 일 때문에 매우 바쁘다. 그래서 아주 드물게만 우리를 찾아온다. 우리는 형을 보면 늘 기쁘다. 엄마는 형이 올 때마다 형이 좋아하는 음식을 만드신다.",
+    "why": "일이 바빠 가끔만 온다고 했으므로 'once in a blue moon'은 아주 드물게라는 뜻입니다.",
+    "optionNotes": [
+      "정답. 아주 드물게라는 뜻입니다.",
+      "매일이라는 뜻이 아닙니다.",
+      "파란 날이라는 뜻이 아닙니다.",
+      "보름달일 때라는 뜻이 아닙니다.",
+      "추울 때마다라는 뜻이 아닙니다."
+    ],
+    "trap": "'blue moon'을 문자 그대로 해석하지 마세요.",
+    "tip": "관용 표현은 앞 문장(very busy, visits only)에서 의미를 확인하세요."
+  },
+  {
+    "id": "m2-17-22",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 22,
+    "type": "gist",
+    "stem": "다음 글의 요지로 가장 적절한 것은?",
+    "passage": "Many people think that learning a new language requires special talent. In reality, regular practice matters far more than talent. Studying for fifteen minutes every day is more effective than studying for three hours once a week. Short, frequent sessions help the brain store new words in long-term memory. Therefore, consistency is the key to success in language learning.",
+    "options": [
+      "언어 학습에는 반드시 특별한 재능이 있어야 하며 연습은 그다음이다.",
+      "일주일에 한 번 세 시간씩 몰아서 공부하는 것이 가장 효과적이다.",
+      "언어 학습에서는 짧더라도 꾸준히 학습하는 것이 가장 중요하다.",
+      "새 낱말은 한꺼번에 외우는 것이 좋다.",
+      "외국어는 어릴 때 시작해야 한다."
+    ],
+    "answer": 2,
+    "translation": "많은 사람은 새로운 언어를 배우는 데 특별한 재능이 필요하다고 생각한다. 사실 꾸준한 연습이 재능보다 훨씬 더 중요하다. 매일 15분씩 공부하는 것이 일주일에 한 번 세 시간씩 공부하는 것보다 더 효과적이다. 짧고 잦은 학습은 뇌가 새 낱말을 장기 기억에 저장하도록 돕는다. 그러므로 꾸준함이 언어 학습 성공의 열쇠이다.",
+    "why": "마지막 문장 'consistency is the key'가 요지입니다.",
+    "optionNotes": [
+      "첫 문장의 통념이며 글에서 반박됩니다.",
+      "글과 반대입니다.",
+      "정답. 짧더라도 꾸준히 학습하는 것이 중요합니다.",
+      "한꺼번에 외우라는 내용은 없습니다.",
+      "시작 시기는 나오지 않습니다."
+    ],
+    "trap": "첫 문장의 통념(special talent)을 필자의 생각으로 착각하지 마세요.",
+    "tip": "In reality 이후와 Therefore 문장이 요지를 담습니다."
+  },
+  {
+    "id": "m2-17-23",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 23,
+    "type": "topic",
+    "stem": "다음 글의 주제로 가장 적절한 것은?",
+    "passage": "At a crowded party, you can follow a single conversation even when many people are talking around you. Scientists call this the cocktail party effect. Your brain focuses on one voice and reduces the volume of the others. It does this by using clues such as the direction of the sound and the speaker's pitch. When someone mentions your name, however, you notice it immediately, even in the noise.",
+    "options": [
+      "how the brain focuses on one voice among many",
+      "why parties are so noisy",
+      "how to make friends at parties",
+      "what causes hearing loss in older people who work in noisy places",
+      "why people forget names easily"
+    ],
+    "answer": 0,
+    "translation": "붐비는 파티에서는 주변에서 많은 사람이 말하고 있어도 하나의 대화를 따라갈 수 있다. 과학자들은 이를 칵테일 파티 효과라고 부른다. 뇌는 하나의 목소리에 집중하고 나머지의 음량을 줄인다. 소리의 방향과 화자의 음높이 같은 단서를 이용해 그렇게 한다. 그러나 누군가 당신의 이름을 말하면 소음 속에서도 곧바로 알아차린다.",
+    "why": "뇌가 많은 소리 중 하나의 목소리에 집중하는 방식을 설명하는 글입니다.",
+    "optionNotes": [
+      "정답. 뇌가 많은 목소리 중 하나에 집중하는 방식입니다.",
+      "파티의 소음 이유는 나오지 않습니다.",
+      "친구 사귀기는 나오지 않습니다.",
+      "청력 손실은 나오지 않습니다.",
+      "이름을 잊는 이유는 나오지 않습니다."
+    ],
+    "trap": "마지막 문장의 '이름'에만 이끌려 ⑤를 고르지 마세요.",
+    "tip": "주제는 글 전체가 설명하는 현상(cocktail party effect)을 담으세요."
+  },
+  {
+    "id": "m2-17-24",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 24,
+    "type": "title",
+    "stem": "다음 글의 제목으로 가장 적절한 것은?",
+    "passage": "In a small English village, an old red phone booth is no longer used for calls. Instead, the villagers turned it into the smallest library in the country. Shelves hold about a hundred books, and anyone can borrow one or leave their own. There are no librarians or late fees; the system works on trust. Visitors say the tiny library has brought neighbors together.",
+    "options": [
+      "How Telephones Changed the Way English Villagers Communicate Over the Years",
+      "The History of the Red Phone Booth in London and Beyond Its Streets",
+      "Why English Villages Are Losing Their Residents Every Single Year",
+      "A Phone Booth Turned into a Tiny Library",
+      "Ten Rules for Borrowing Books Safely"
+    ],
+    "answer": 3,
+    "translation": "영국의 한 작은 마을에서 낡은 빨간 공중전화 부스는 더 이상 통화에 쓰이지 않는다. 대신 마을 주민들은 그것을 나라에서 가장 작은 도서관으로 바꾸었다. 선반에는 책 약 백 권이 있고 누구나 한 권을 빌리거나 자기 책을 놓고 갈 수 있다. 사서도 연체료도 없으며 이 제도는 신뢰로 운영된다. 방문객들은 이 작은 도서관이 이웃들을 가깝게 해 주었다고 말한다.",
+    "why": "공중전화 부스를 작은 도서관으로 바꾼 이야기이므로 ④가 제목입니다.",
+    "optionNotes": [
+      "전화기의 영향은 나오지 않습니다.",
+      "공중전화 부스의 역사는 나오지 않습니다.",
+      "주민 감소는 나오지 않습니다.",
+      "정답. 공중전화 부스를 작은 도서관으로 바꾼 이야기입니다.",
+      "열 가지 규칙은 나오지 않습니다."
+    ],
+    "trap": "'phone booth'가 나온다고 ①②를 고르지 마세요.",
+    "tip": "제목은 핵심 변화(phone booth → library)를 담으세요."
+  },
+  {
+    "id": "m2-17-25",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 25,
+    "type": "chart",
+    "stem": "다음 도표의 내용과 일치하지 않는 것은?",
+    "chart": {
+      "title": "Students' Favorite School Lunch (%)",
+      "unit": "%",
+      "labels": [
+        "Rice bowl",
+        "Noodles",
+        "Sandwich",
+        "Pizza",
+        "Salad"
+      ],
+      "series": [
+        {
+          "name": "Percent",
+          "values": [
+            30,
+            25,
+            20,
+            15,
+            10
+          ]
+        }
+      ]
+    },
+    "passage": "The graph shows the favorite school lunch of students. ① Noodles is the most popular lunch. ② Sandwich is chosen by 20 percent of the students. ③ Pizza and Salad together make up 25 percent. ④ Rice bowl is three times as popular as Salad. ⑤ Noodles is 5 percentage points higher than Sandwich.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "그래프는 학생들이 좋아하는 학교 점심을 보여 준다. ① 국수가 가장 인기 있는 점심이다. ② 샌드위치는 학생의 20퍼센트가 선택했다. ③ 피자와 샐러드를 합하면 25퍼센트이다. ④ 덮밥은 샐러드보다 세 배 인기가 있다. ⑤ 국수는 샌드위치보다 5퍼센트포인트 높다.",
+    "why": "가장 인기 있는 점심은 덮밥(30%)이므로 국수가 가장 인기 있다는 ①은 일치하지 않습니다.",
+    "optionNotes": [
+      "정답(불일치). 가장 인기 있는 점심은 덮밥입니다.",
+      "샌드위치는 20%입니다.",
+      "15 + 10 = 25%입니다.",
+      "30%는 10%의 세 배입니다.",
+      "25% - 20% = 5퍼센트포인트입니다."
+    ],
+    "trap": "두 번째로 높은 항목(Noodles)을 가장 높다고 착각하기 쉽습니다.",
+    "tip": "'가장 ~한' 보기는 모든 항목을 비교해 확인하세요."
+  },
+  {
+    "id": "m2-17-26",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 26,
+    "type": "match",
+    "stem": "Priya Nair에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Priya Nair is an Indian software engineer. She created an app that helps visually impaired people read signs in the street. She grew up in Chennai, where her grandfather lost his sight at the age of seventy. Seeing the difficulties he faced, she began to study how computers could describe the world with voice. After three years of development, her app was released in 2021. It has been downloaded more than a million times.",
+    "options": [
+      "시각 장애가 있는 할머니를 위해 앱을 만들었다.",
+      "앱을 개발하는 데 10년이 걸렸다.",
+      "앱은 아직 출시되지 않았다.",
+      "뭄바이에서 자랐다.",
+      "할아버지가 시력을 잃은 것을 계기로 소리로 세상을 설명하는 컴퓨터 연구를 시작했다."
+    ],
+    "answer": 4,
+    "translation": "프리야 나이르는 인도의 소프트웨어 엔지니어이다. 그녀는 시각 장애인이 거리의 표지판을 읽도록 돕는 앱을 만들었다. 그녀는 첸나이에서 자랐고 그곳에서 할아버지가 일흔에 시력을 잃었다. 할아버지가 겪는 어려움을 본 그녀는 컴퓨터가 음성으로 세상을 설명하는 방법을 연구하기 시작했다. 3년의 개발 끝에 그녀의 앱은 2021년에 출시되었다. 그 앱은 백만 번 넘게 내려받아졌다.",
+    "why": "'Seeing the difficulties he faced, she began to study how computers could describe the world with voice.'와 일치합니다.",
+    "optionNotes": [
+      "할아버지를 위한 것이며 할머니가 아닙니다.",
+      "3년이 걸렸습니다.",
+      "2021년에 출시되었습니다.",
+      "첸나이에서 자랐습니다.",
+      "정답. 할아버지의 실명을 계기로 연구를 시작했습니다."
+    ],
+    "trap": "가족 구성원(grandfather/grandmother)과 기간(three/ten)을 바꾼 보기에 주의하세요.",
+    "tip": "일치 문제는 인물·기간·시기를 하나씩 대조하세요."
+  },
+  {
+    "id": "m2-17-27",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 27,
+    "type": "notice",
+    "stem": "Autumn Photo Walk에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Autumn Photo Walk\nCapture the colors of the season!\nDate: Saturday, October 12\nTime: 9:00 a.m. – 12:00 p.m.\nMeeting Point: Fountain Square\nRoute: Along the river to Maple Hill (about 4 km)\nBring: Your camera or smartphone and comfortable shoes\nFee: Free (a hot drink will be given at the end)\nSign up: By October 9 at the community center\nNote: In case of heavy rain, the walk will be postponed to October 19.",
+    "options": [
+      "행사는 일요일에 열린다.",
+      "참가비는 5달러이다.",
+      "신청은 10월 12일까지 해야 한다.",
+      "카메라가 없으면 참가할 수 없다.",
+      "폭우가 내리면 행사는 10월 19일로 연기된다."
+    ],
+    "answer": 4,
+    "translation": "가을 사진 산책. 계절의 색을 담아 보세요! 날짜: 10월 12일 토요일. 시간: 오전 9시~낮 12시. 모이는 곳: 분수 광장. 코스: 강을 따라 메이플 언덕까지(약 4km). 준비물: 카메라나 스마트폰과 편한 신발. 참가비: 무료(마지막에 따뜻한 음료 제공). 신청: 10월 9일까지 주민센터에서. 유의: 폭우가 내리면 산책은 10월 19일로 연기됩니다.",
+    "why": "'In case of heavy rain, the walk will be postponed to October 19.'와 일치합니다.",
+    "optionNotes": [
+      "토요일에 열립니다.",
+      "무료입니다.",
+      "신청은 10월 9일까지입니다.",
+      "스마트폰으로도 참가할 수 있습니다.",
+      "정답. 폭우가 내리면 10월 19일로 연기됩니다."
+    ],
+    "trap": "행사일(October 12)과 신청 마감(October 9)을 혼동하지 마세요.",
+    "tip": "안내문은 항목(Date, Bring, Fee, Sign up, Note)별로 대조하세요."
+  },
+  {
+    "id": "m2-17-28",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 28,
+    "type": "notice",
+    "stem": "Hanbit Public Pool에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Hanbit Public Pool\nOpening hours: 6:00 a.m. – 9:00 p.m. (closed on Mondays)\nRules:\n1. Shower before entering the pool.\n2. Children under 10 must be accompanied by an adult.\n3. Swim caps are required for all swimmers.\n4. Food is not allowed on the pool deck.\nLockers: A $1 coin is required (returned after use).",
+    "options": [
+      "월요일에도 수영장을 운영한다.",
+      "10세 미만의 어린이는 혼자 입장해도 된다.",
+      "수영 모자는 원하는 사람만 쓰면 된다.",
+      "락커를 사용하려면 1달러 동전이 필요하다.",
+      "수영장 가장자리에서 음식을 먹을 수 있다."
+    ],
+    "answer": 3,
+    "translation": "한빛 공공 수영장. 운영 시간: 오전 6시~오후 9시(월요일 휴관). 규칙: 1. 입장 전에 샤워하세요. 2. 10세 미만 어린이는 어른과 함께해야 합니다. 3. 모든 수영객은 수영 모자를 써야 합니다. 4. 수영장 가장자리에서는 음식을 먹을 수 없습니다. 락커: 1달러 동전이 필요합니다(사용 후 반환).",
+    "why": "'Lockers: A $1 coin is required'와 일치합니다.",
+    "optionNotes": [
+      "월요일은 휴관입니다.",
+      "10세 미만은 어른과 함께해야 합니다.",
+      "모든 수영객이 수영 모자를 써야 합니다.",
+      "정답. 락커에는 1달러 동전이 필요합니다.",
+      "음식은 허용되지 않습니다."
+    ],
+    "trap": "금지·의무 규칙을 반대로 바꾼 보기에 주의하세요.",
+    "tip": "규칙 번호별 내용을 보기와 하나씩 대조하세요."
+  }
+]

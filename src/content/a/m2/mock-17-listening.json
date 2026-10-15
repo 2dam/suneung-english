@@ -1,0 +1,766 @@
+[
+  {
+    "id": "m2-17-01",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 1,
+    "type": "l-purpose",
+    "stem": "다음을 듣고, 남자가 하는 말의 목적으로 가장 적절한 것을 고르시오.",
+    "script": [
+      {
+        "speaker": "M",
+        "text": "Hello, students. This is Mr. Kang, the career counselor. Next Friday, we will hold a Career Mentoring Day. Ten professionals from our town, such as a nurse, a software developer, and a chef, will visit our school. You can choose two sessions and ask them questions about their jobs. Each session lasts thirty minutes. Please sign up on the school website by Wednesday. This is a great chance to learn about your future."
+      }
+    ],
+    "options": [
+      "진로 상담실의 위치 변경을 알리려고",
+      "직업 체험 비용을 안내하려고",
+      "학교 홈페이지 개편을 공지하려고",
+      "학부모 간담회 일정을 알리려고",
+      "지역 전문가와 함께하는 진로 멘토링 행사를 안내하려고"
+    ],
+    "answer": 4,
+    "translation": "안녕하세요, 학생 여러분. 진로 상담 교사 강 선생님입니다. 다음 주 금요일에 진로 멘토링 데이를 엽니다. 간호사, 소프트웨어 개발자, 요리사 등 우리 지역의 전문가 열 명이 학교를 방문합니다. 두 개의 세션을 골라 그들의 직업에 대해 질문할 수 있습니다. 각 세션은 30분입니다. 수요일까지 학교 웹사이트에서 신청하세요. 여러분의 미래를 알아볼 좋은 기회입니다.",
+    "why": "지역 전문가가 방문하는 진로 멘토링 행사의 내용과 신청 방법을 안내하는 방송입니다.",
+    "optionNotes": [
+      "상담실 위치는 나오지 않습니다.",
+      "체험 비용은 나오지 않습니다.",
+      "홈페이지 개편은 나오지 않습니다.",
+      "학부모 간담회는 나오지 않습니다.",
+      "정답. 진로 멘토링 행사를 안내합니다."
+    ],
+    "trap": "'sign up on the school website'만 듣고 홈페이지 개편으로 착각하지 마세요.",
+    "tip": "목적 문제는 행사 이름(Career Mentoring Day)과 신청 안내를 찾으세요."
+  },
+  {
+    "id": "m2-17-02",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 2,
+    "type": "l-opinion",
+    "stem": "대화를 듣고, 여자의 의견으로 가장 적절한 것을 고르시오.",
+    "script": [
+      {
+        "speaker": "M",
+        "text": "My parents say I can get a puppy if I promise to take care of it."
+      },
+      {
+        "speaker": "W",
+        "text": "I think having a pet teaches children responsibility. They have to feed it, walk it, and clean up after it every day."
+      },
+      {
+        "speaker": "M",
+        "text": "But isn't it a lot of work?"
+      },
+      {
+        "speaker": "W",
+        "text": "It is, but that's how they learn."
+      }
+    ],
+    "options": [
+      "강아지는 키우기가 어려우므로 처음부터 키우지 않는 것이 좋다.",
+      "반려동물은 비용이 많이 들어 부담스럽다.",
+      "반려동물을 키우면 책임감을 배울 수 있다.",
+      "아이들은 부모의 허락 없이 동물을 키울 수 있다.",
+      "산책은 하루에 한 번이면 충분하다."
+    ],
+    "answer": 2,
+    "translation": "남: 부모님이 내가 잘 돌보겠다고 약속하면 강아지를 키워도 된대. / 여: 나는 반려동물을 키우면 아이들이 책임감을 배운다고 생각해. 매일 먹이를 주고 산책시키고 뒤처리를 해야 하잖아. / 남: 하지만 일이 많지 않을까? / 여: 그렇지만 그렇게 배우는 거야.",
+    "why": "여자는 반려동물을 키우면 아이들이 책임감을 배운다고 말합니다.",
+    "optionNotes": [
+      "키우지 말라는 말은 없습니다.",
+      "비용 이야기는 나오지 않습니다.",
+      "정답. 책임감을 배울 수 있다고 합니다.",
+      "허락 이야기는 부모의 조건입니다.",
+      "산책 횟수는 나오지 않습니다."
+    ],
+    "trap": "남자의 걱정('a lot of work')을 여자의 의견으로 착각하지 마세요.",
+    "tip": "의견 문제는 'I think ~' 뒤의 내용을 확인하세요."
+  },
+  {
+    "id": "m2-17-03",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 3,
+    "type": "l-relation",
+    "stem": "대화를 듣고, 두 사람의 관계를 가장 잘 나타낸 것을 고르시오.",
+    "script": [
+      {
+        "speaker": "W",
+        "text": "Good evening. Do you have a reservation?"
+      },
+      {
+        "speaker": "M",
+        "text": "Yes, under the name Kim, for two nights."
+      },
+      {
+        "speaker": "W",
+        "text": "Here's your key. Breakfast is served from seven to ten on the second floor."
+      },
+      {
+        "speaker": "M",
+        "text": "Could I have a late checkout?"
+      },
+      {
+        "speaker": "W",
+        "text": "I'm afraid checkout is at eleven."
+      }
+    ],
+    "options": [
+      "항공사 직원 – 승객",
+      "호텔 직원 – 투숙객",
+      "은행원 – 고객",
+      "택시 기사 – 승객",
+      "사서 – 이용자"
+    ],
+    "answer": 1,
+    "translation": "여: 안녕하세요. 예약하셨나요? / 남: 네, 김이라는 이름으로 2박 예약했어요. / 여: 열쇠 여기 있습니다. 조식은 2층에서 7시부터 10시까지입니다. / 남: 체크아웃을 늦게 할 수 있을까요? / 여: 죄송하지만 체크아웃은 11시입니다.",
+    "why": "예약 확인, 열쇠 전달, 조식과 체크아웃 안내를 하므로 호텔 직원과 투숙객입니다.",
+    "optionNotes": [
+      "항공 이야기가 아닙니다.",
+      "정답. 객실과 조식, 체크아웃을 안내하는 호텔 직원과 투숙객입니다.",
+      "금융 내용이 없습니다.",
+      "운행 내용이 없습니다.",
+      "대출 내용이 없습니다."
+    ],
+    "trap": "'reservation'만 듣고 항공사 직원을 고르지 마세요.",
+    "tip": "관계 문제는 핵심 단어(key, breakfast, checkout)를 잡으세요."
+  },
+  {
+    "id": "m2-17-04",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 4,
+    "type": "l-picture",
+    "stem": "대화를 듣고, 그림에서 대화의 내용과 일치하지 않는 것을 고르시오.",
+    "picture": {
+      "title": "A park in autumn",
+      "items": [
+        {
+          "no": 1,
+          "emoji": "🍂",
+          "label": "a boy picking up leaves"
+        },
+        {
+          "no": 2,
+          "emoji": "👴",
+          "label": "an old man on a bench"
+        },
+        {
+          "no": 3,
+          "emoji": "🐿️",
+          "label": "two squirrels on a tree"
+        },
+        {
+          "no": 4,
+          "emoji": "🚴",
+          "label": "a girl riding a bicycle"
+        },
+        {
+          "no": 5,
+          "emoji": "⛲",
+          "label": "a fountain in the middle"
+        }
+      ]
+    },
+    "script": [
+      {
+        "speaker": "W",
+        "text": "The park is beautiful in autumn."
+      },
+      {
+        "speaker": "M",
+        "text": "A boy is picking up leaves."
+      },
+      {
+        "speaker": "W",
+        "text": "An old man is sitting on a bench."
+      },
+      {
+        "speaker": "M",
+        "text": "Two squirrels are on a tree."
+      },
+      {
+        "speaker": "W",
+        "text": "A girl is rollerblading near the pond."
+      },
+      {
+        "speaker": "M",
+        "text": "And there's a fountain in the middle."
+      }
+    ],
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "여: 가을 공원이 아름답네. / 남: 한 소년이 낙엽을 줍고 있어. / 여: 한 노인이 벤치에 앉아 있어. / 남: 나무 위에 다람쥐 두 마리가 있어. / 여: 한 소녀가 연못 근처에서 롤러블레이드를 타고 있어. / 남: 그리고 가운데에 분수가 있어.",
+    "why": "그림의 ④는 자전거를 타는 소녀이지만, 대화에서는 롤러블레이드를 타는 소녀(rollerblading)라고 말합니다.",
+    "optionNotes": [
+      "낙엽을 줍는 소년 — 일치합니다.",
+      "벤치의 노인 — 일치합니다.",
+      "나무 위의 다람쥐 두 마리 — 일치합니다.",
+      "정답(불일치). 그림은 자전거, 대화는 롤러블레이드입니다.",
+      "가운데의 분수 — 일치합니다."
+    ],
+    "trap": "'A girl is ~ing'로 인물이 같아서 동작의 차이를 놓치기 쉽습니다.",
+    "tip": "그림 문제는 인물의 동작(riding/rollerblading)을 정확히 대조하세요."
+  },
+  {
+    "id": "m2-17-05",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 5,
+    "type": "l-todo",
+    "stem": "대화를 듣고, 남자가 할 일로 가장 적절한 것을 고르시오.",
+    "script": [
+      {
+        "speaker": "W",
+        "text": "Dad, my friend's birthday party is on Saturday."
+      },
+      {
+        "speaker": "M",
+        "text": "What time does it start?"
+      },
+      {
+        "speaker": "W",
+        "text": "At three. Can you drive me there?"
+      },
+      {
+        "speaker": "M",
+        "text": "Sure. I need to go to the supermarket on Saturday morning anyway. So I'll buy a present at the gift shop next door."
+      }
+    ],
+    "options": [
+      "딸의 친구 생일 파티를 위해 집에서 음식을 준비한다",
+      "토요일 오전에 선물 가게에서 선물을 산다",
+      "딸을 학교에 데려다준다",
+      "딸의 친구들에게 파티 초대장을 우편으로 보낸다",
+      "슈퍼마켓에서 케이크를 만든다"
+    ],
+    "answer": 1,
+    "translation": "여: 아빠, 제 친구 생일 파티가 토요일이에요. / 남: 몇 시에 시작하니? / 여: 3시요. 데려다주실 수 있어요? / 남: 물론이지. 어차피 토요일 오전에 슈퍼마켓에 가야 해. 그래서 옆 선물 가게에서 선물을 살게.",
+    "why": "남자는 토요일 오전에 선물 가게에서 선물을 사겠다고 합니다.",
+    "optionNotes": [
+      "파티를 여는 사람은 딸의 친구입니다.",
+      "정답. 토요일 오전에 선물 가게에서 선물을 삽니다.",
+      "학교가 아니라 파티 장소입니다.",
+      "초대장 이야기는 나오지 않습니다.",
+      "케이크 이야기는 나오지 않습니다."
+    ],
+    "trap": "'drive me there'는 파티에 데려다주는 것이며 선물 구입과 구별해야 합니다.",
+    "tip": "할 일 문제는 'I'll ~' 뒤의 구체적인 행동과 장소를 찾으세요."
+  },
+  {
+    "id": "m2-17-06",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 6,
+    "type": "l-price",
+    "stem": "대화를 듣고, 남자가 지불할 금액을 고르시오.",
+    "script": [
+      {
+        "speaker": "M",
+        "text": "Two tickets for the six o'clock movie, please."
+      },
+      {
+        "speaker": "W",
+        "text": "Adult tickets are eighteen dollars each."
+      },
+      {
+        "speaker": "M",
+        "text": "And a large popcorn."
+      },
+      {
+        "speaker": "W",
+        "text": "That's eight dollars."
+      }
+    ],
+    "options": [
+      "$32",
+      "$36",
+      "$40",
+      "$44",
+      "$48"
+    ],
+    "answer": 3,
+    "translation": "남: 6시 영화 표 두 장 주세요. / 여: 어른 표는 한 장에 18달러예요. / 남: 그리고 팝콘 큰 것 하나요. / 여: 8달러예요.",
+    "why": "표 2장 36달러에 팝콘 8달러를 더하면 44달러입니다.",
+    "optionNotes": [
+      "계산이 맞지 않습니다.",
+      "팝콘 값을 빠뜨린 금액입니다.",
+      "계산이 맞지 않습니다.",
+      "정답. 36 + 8 = 44달러입니다.",
+      "계산이 맞지 않습니다."
+    ],
+    "trap": "팝콘 값을 빠뜨리면 36달러를 고르게 됩니다.",
+    "tip": "가격 문제는 항목별 수량과 단가를 하나씩 더하세요."
+  },
+  {
+    "id": "m2-17-07",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 7,
+    "type": "l-reason",
+    "stem": "대화를 듣고, 여자가 실내에서 선글라스를 쓰고 있는 이유를 고르시오.",
+    "script": [
+      {
+        "speaker": "M",
+        "text": "Why are you wearing sunglasses indoors, Mina?"
+      },
+      {
+        "speaker": "W",
+        "text": "My eyes are red because I stayed up late studying, and the light hurts."
+      },
+      {
+        "speaker": "M",
+        "text": "You should get some rest."
+      }
+    ],
+    "options": [
+      "눈이 너무 건조해서 아침마다 의사가 처방해 준 안약을 넣어서 선글라스를 쓰고 있어서",
+      "새로 산 패션 선글라스를 친구들에게 자랑하고 싶어서 일부러 쓰고 있어서",
+      "바깥이 너무 밝아서",
+      "친구와 내기를 해서",
+      "공부하느라 밤늦게까지 깨어 있어 눈이 충혈되고 빛이 눈부셔서"
+    ],
+    "answer": 4,
+    "translation": "남: 미나야, 왜 실내에서 선글라스를 쓰고 있어? / 여: 늦게까지 공부하느라 눈이 빨개졌고 빛이 눈부셔. / 남: 좀 쉬어야겠다.",
+    "why": "'My eyes are red because I stayed up late studying, and the light hurts.'가 이유입니다.",
+    "optionNotes": [
+      "안약 이야기는 나오지 않습니다.",
+      "패션 이야기는 나오지 않습니다.",
+      "바깥 밝기는 나오지 않습니다.",
+      "내기 이야기는 나오지 않습니다.",
+      "정답. 밤늦게 공부해 눈이 충혈되고 빛이 눈부십니다."
+    ],
+    "trap": "'indoors'에 이끌려 바깥의 밝기를 이유로 고르지 마세요.",
+    "tip": "이유 문제는 'because' 뒤의 내용을 찾으세요."
+  },
+  {
+    "id": "m2-17-08",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 8,
+    "type": "l-notmentioned",
+    "stem": "대화를 듣고, 운동 앱에 관해 언급되지 않은 것을 고르시오.",
+    "script": [
+      {
+        "speaker": "W",
+        "text": "Have you tried this fitness app?"
+      },
+      {
+        "speaker": "M",
+        "text": "Yes. It counts my steps every day."
+      },
+      {
+        "speaker": "W",
+        "text": "Does it do anything else?"
+      },
+      {
+        "speaker": "M",
+        "text": "It tracks my sleep and lets me set goals. It also sends a notification when I sit too long."
+      },
+      {
+        "speaker": "W",
+        "text": "That's useful."
+      }
+    ],
+    "options": [
+      "걸음 수 측정",
+      "수면 기록",
+      "목표 설정",
+      "오래 앉아 있을 때의 알림",
+      "친구와 운동 기록을 비교하는 기능"
+    ],
+    "answer": 4,
+    "translation": "여: 이 운동 앱 써 봤니? / 남: 응. 매일 걸음 수를 세 줘. / 여: 다른 기능도 있어? / 남: 수면을 기록하고 목표를 정하게 해 줘. 오래 앉아 있으면 알림도 보내. / 여: 유용하네.",
+    "why": "걸음 수, 수면 기록, 목표 설정, 알림은 나왔지만 친구와 기록을 비교하는 기능은 나오지 않았습니다.",
+    "optionNotes": [
+      "counts my steps로 언급되었습니다.",
+      "tracks my sleep으로 언급되었습니다.",
+      "set goals로 언급되었습니다.",
+      "sends a notification으로 언급되었습니다.",
+      "정답. 친구와 기록을 비교하는 기능은 나오지 않았습니다."
+    ],
+    "trap": "운동 앱이라서 친구와 비교하는 기능도 있을 것이라 착각하기 쉽습니다.",
+    "tip": "언급되지 않은 것 문제는 보기를 하나씩 지우며 들으세요."
+  },
+  {
+    "id": "m2-17-09",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 9,
+    "type": "l-match",
+    "stem": "다음을 듣고, 도서 박람회에 관한 내용과 일치하는 것을 고르시오.",
+    "script": [
+      {
+        "speaker": "M",
+        "text": "Hello, everyone. The school library will hold a book fair from Monday to Thursday next week. All books are fifty percent off, and each student can buy up to five books. Payment is available by cash or school card. Some of the proceeds will be used to buy new books for the library. Please bring a shopping bag."
+      }
+    ],
+    "options": [
+      "학생은 한 사람당 단 한 권의 책만 구입할 수 있다고 정해져 있다.",
+      "책은 정가에 판매된다.",
+      "수익의 일부는 도서관의 새 책을 사는 데 쓰인다.",
+      "결제는 학생 카드로만 할 수 있고 현금은 사용할 수 없다.",
+      "행사는 일주일 내내 열린다."
+    ],
+    "answer": 2,
+    "translation": "안녕하세요, 여러분. 학교 도서관이 다음 주 월요일부터 목요일까지 도서 박람회를 엽니다. 모든 책이 50퍼센트 할인되며 학생 한 명당 최대 다섯 권까지 살 수 있습니다. 결제는 현금이나 학생 카드로 가능합니다. 수익의 일부는 도서관의 새 책을 사는 데 쓰입니다. 장바구니를 가져오세요.",
+    "why": "'Some of the proceeds will be used to buy new books for the library.'와 일치합니다.",
+    "optionNotes": [
+      "최대 다섯 권까지입니다.",
+      "50% 할인됩니다.",
+      "정답. 수익의 일부는 새 책 구입에 쓰입니다.",
+      "현금이나 학생 카드로 가능합니다.",
+      "월요일부터 목요일까지입니다."
+    ],
+    "trap": "'fifty percent off'를 놓치면 ②를 고르기 쉽습니다.",
+    "tip": "일치 문제는 수량·할인·결제·기간을 구분해 들으세요."
+  },
+  {
+    "id": "m2-17-10",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 10,
+    "type": "l-chart",
+    "stem": "다음 도표를 보면서 대화를 듣고, 영화의 밤에 상영할 장르로 정해질 것을 고르시오.",
+    "chart": {
+      "title": "Votes for Movie Night",
+      "unit": "votes",
+      "labels": [
+        "Science Fiction",
+        "Drama",
+        "Comedy",
+        "Horror",
+        "Romance"
+      ],
+      "series": [
+        {
+          "name": "Votes",
+          "values": [
+            24,
+            16,
+            19,
+            12,
+            22
+          ]
+        }
+      ]
+    },
+    "script": [
+      {
+        "speaker": "M",
+        "text": "Which genre should we choose for the movie night?"
+      },
+      {
+        "speaker": "W",
+        "text": "It should have more than eighteen votes."
+      },
+      {
+        "speaker": "M",
+        "text": "Science fiction, comedy, and romance."
+      },
+      {
+        "speaker": "W",
+        "text": "We showed a comedy last month."
+      },
+      {
+        "speaker": "M",
+        "text": "And the romance movie isn't available."
+      },
+      {
+        "speaker": "W",
+        "text": "Then it's clear."
+      }
+    ],
+    "options": [
+      "Science Fiction",
+      "Drama",
+      "Comedy",
+      "Horror",
+      "Romance"
+    ],
+    "answer": 0,
+    "translation": "남: 영화의 밤에 어떤 장르를 골라야 할까? / 여: 18표보다 많이 받은 장르여야 해. / 남: SF, 코미디, 로맨스야. / 여: 코미디는 지난달에 상영했어. / 남: 그리고 로맨스 영화는 구할 수 없어. / 여: 그럼 분명하네.",
+    "why": "18표보다 많은 장르는 Science Fiction(24), Comedy(19), Romance(22)이고, 코미디와 로맨스가 제외되어 Science Fiction입니다.",
+    "optionNotes": [
+      "정답. 24표이고 제외 조건이 없습니다.",
+      "16표로 18표보다 많지 않습니다.",
+      "19표이지만 지난달에 상영했습니다.",
+      "12표로 18표보다 많지 않습니다.",
+      "22표이지만 영화를 구할 수 없습니다."
+    ],
+    "trap": "'more than eighteen'이므로 18표 이하인 장르는 해당되지 않습니다.",
+    "tip": "도표 문제는 숫자 조건 후 제외 조건을 하나씩 반영하세요."
+  },
+  {
+    "id": "m2-17-11",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 11,
+    "type": "l-response",
+    "stem": "대화를 듣고, 남자의 마지막 말에 대한 여자의 응답으로 가장 적절한 것을 고르시오.",
+    "script": [
+      {
+        "speaker": "W",
+        "text": "I'm planning a trip to Jeju this weekend."
+      },
+      {
+        "speaker": "M",
+        "text": "That's great. Have you booked your flight yet?"
+      }
+    ],
+    "options": [
+      "I like to travel with my family very much, especially to islands.",
+      "Yes, I booked it last night. It leaves at nine.",
+      "Jeju is a beautiful island in the south of Korea, famous for its beaches.",
+      "I'm going to bring a camera and a hat.",
+      "The weather is warm at the beach."
+    ],
+    "answer": 1,
+    "translation": "여: 이번 주말에 제주도로 여행을 갈 계획이야. / 남: 좋겠다. 비행기는 벌써 예약했니?",
+    "why": "비행기를 예약했는지 묻는 질문에 예약했다고 답하는 ②가 알맞습니다.",
+    "optionNotes": [
+      "여행 취향은 질문에 답하지 않습니다.",
+      "정답. 예약 여부에 답합니다.",
+      "섬의 위치는 질문에 답하지 않습니다.",
+      "준비물은 질문에 답하지 않습니다.",
+      "날씨는 질문에 답하지 않습니다."
+    ],
+    "trap": "'Jeju', 'trip'과 관련된 ①③④⑤에 이끌리지 마세요.",
+    "tip": "Have you ~ yet? 질문에는 완료 여부를 직접 답하는 응답을 고르세요."
+  },
+  {
+    "id": "m2-17-12",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 12,
+    "type": "l-response",
+    "stem": "대화를 듣고, 여자의 마지막 말에 대한 남자의 응답으로 가장 적절한 것을 고르시오.",
+    "script": [
+      {
+        "speaker": "W",
+        "text": "Sorry I'm late. The subway was delayed."
+      },
+      {
+        "speaker": "M",
+        "text": "No problem. The movie hasn't started yet."
+      },
+      {
+        "speaker": "W",
+        "text": "Did you buy the tickets already?"
+      }
+    ],
+    "options": [
+      "Yes, I got them online this morning. Let's go in.",
+      "I always take the bus to the movie theater near my house after school.",
+      "The subway is much faster than the bus during the morning rush hour.",
+      "The movie is about a dog and a boy.",
+      "No, I prefer to watch comedies."
+    ],
+    "answer": 0,
+    "translation": "여: 늦어서 미안해. 지하철이 지연됐어. / 남: 괜찮아. 영화는 아직 시작하지 않았어. / 여: 표는 벌써 샀니?",
+    "why": "표를 샀는지 묻는 질문에 샀다고 답하는 ①이 알맞습니다.",
+    "optionNotes": [
+      "정답. 표를 샀다고 답합니다.",
+      "교통수단은 질문에 답하지 않습니다.",
+      "지하철 비교는 질문에 답하지 않습니다.",
+      "영화 내용은 질문에 답하지 않습니다.",
+      "취향은 질문에 답하지 않습니다."
+    ],
+    "trap": "'subway', 'movie'가 반복된 ②③④에 이끌리지 마세요.",
+    "tip": "Did you ~ already? 질문에는 Yes/No로 시작하는 답을 고르세요."
+  },
+  {
+    "id": "m2-17-13",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 13,
+    "type": "l-response",
+    "stem": "대화를 듣고, 남자의 마지막 말에 대한 여자의 응답으로 가장 적절한 것을 고르시오.",
+    "script": [
+      {
+        "speaker": "M",
+        "text": "Hi, Sue. You look pale."
+      },
+      {
+        "speaker": "W",
+        "text": "I have a headache."
+      },
+      {
+        "speaker": "M",
+        "text": "Have you taken any medicine?"
+      }
+    ],
+    "options": [
+      "Not yet. I don't have any at home.",
+      "I have a headache every Monday.",
+      "My head is full of ideas now.",
+      "The doctor's office is next to the bank.",
+      "I like pale colors more than dark ones."
+    ],
+    "answer": 0,
+    "translation": "남: 안녕, 수. 안색이 안 좋아 보여. / 여: 머리가 아파. / 남: 약은 먹어 봤니?",
+    "why": "약을 먹었는지 묻는 질문에 아직이라고 답하는 ①이 알맞습니다.",
+    "optionNotes": [
+      "정답. 아직 먹지 않았고 약이 없다고 답합니다.",
+      "두통 빈도는 질문에 답하지 않습니다.",
+      "생각이 많다는 말은 질문에 답하지 않습니다.",
+      "병원 위치는 질문에 답하지 않습니다.",
+      "색 취향은 질문에 답하지 않습니다."
+    ],
+    "trap": "'headache', 'pale'이 반복된 ②⑤에 이끌리지 마세요.",
+    "tip": "Have you ~? 질문에는 완료 여부를 직접 답하는 응답을 고르세요."
+  },
+  {
+    "id": "m2-17-14",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 14,
+    "type": "l-response",
+    "stem": "대화를 듣고, 남자의 마지막 말에 대한 여자의 응답으로 가장 적절한 것을 고르시오.",
+    "script": [
+      {
+        "speaker": "W",
+        "text": "I'm worried about the science test tomorrow."
+      },
+      {
+        "speaker": "M",
+        "text": "Have you reviewed the notes?"
+      },
+      {
+        "speaker": "W",
+        "text": "Yes, but I still don't understand the last chapter."
+      },
+      {
+        "speaker": "M",
+        "text": "Why don't we study together after school?"
+      }
+    ],
+    "options": [
+      "The science teacher is very kind, and she always explains things well.",
+      "I already finished all of my homework and my math project last night.",
+      "My notes are in my bag.",
+      "The test is on the last chapter.",
+      "That would be great. Let's meet at the library at four."
+    ],
+    "answer": 4,
+    "translation": "여: 내일 과학 시험이 걱정돼. / 남: 노트는 복습했니? / 여: 응, 그런데 마지막 단원은 아직 이해가 안 돼. / 남: 방과 후에 같이 공부하는 게 어때?",
+    "why": "함께 공부하자는 제안을 수락하며 시간과 장소를 말하는 ⑤가 알맞습니다.",
+    "optionNotes": [
+      "선생님 이야기는 제안에 답하지 않습니다.",
+      "숙제 이야기는 제안에 답하지 않습니다.",
+      "노트의 위치는 제안에 답하지 않습니다.",
+      "시험 범위는 이미 말했습니다.",
+      "정답. 제안을 수락하며 약속을 정합니다."
+    ],
+    "trap": "'notes', 'last chapter'가 반복된 ③④에 이끌리지 마세요.",
+    "tip": "제안(Why don't we ~?)에는 수락/거절을 직접 말하는 응답을 고르세요."
+  },
+  {
+    "id": "m2-17-15",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 15,
+    "type": "l-situation",
+    "stem": "다음 상황 설명을 듣고, Haeun이 고객센터 직원에게 할 말로 가장 적절한 것을 고르시오.",
+    "script": [
+      {
+        "speaker": "N",
+        "text": "Haeun bought a pair of shoes online last week, but they are too small for her. She wants to exchange them for a larger size. She calls the customer service center. In this situation, what would Haeun most likely say to the staff?"
+      }
+    ],
+    "options": [
+      "Could you recommend some popular shoes for summer that are cheaper than these?",
+      "I'd like to know how much the delivery costs.",
+      "Hello, I'd like to exchange the shoes I bought last week for a larger size.",
+      "How long have you been working at this company?",
+      "Can I pay for the shoes in cash at the store if I visit next week?"
+    ],
+    "answer": 2,
+    "translation": "하은은 지난주에 온라인으로 신발을 샀는데 너무 작다. 그녀는 더 큰 사이즈로 교환하고 싶다. 그녀는 고객센터에 전화한다. 이 상황에서 하은이 직원에게 할 말로 가장 적절한 것은?",
+    "why": "산 신발을 더 큰 사이즈로 교환하고 싶다고 말하는 ③이 알맞습니다.",
+    "optionNotes": [
+      "인기 신발 추천은 상황과 무관합니다.",
+      "배송비 문의는 상황과 맞지 않습니다.",
+      "정답. 큰 사이즈로의 교환을 요청합니다.",
+      "근무 기간은 무관합니다.",
+      "현금 결제 문의는 무관합니다."
+    ],
+    "trap": "'shoes'가 나온다고 신발 추천이나 결제와 관련된 말을 고르지 마세요.",
+    "tip": "상황 문제는 지금 해야 할 말(교환 요청)을 먼저 찾으세요."
+  },
+  {
+    "id": "m2-17-16",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 16,
+    "type": "l-set",
+    "group": "m2-17-l16",
+    "stem": "[16~17] 다음을 듣고, 여자가 하는 말의 주제로 가장 적절한 것을 고르시오.",
+    "script": [
+      {
+        "speaker": "W",
+        "text": "Hello, students. The internet is useful, but it can also be dangerous. Here are some tips for staying safe online. First, never share your password with anyone. Second, don't click on links from strangers. Third, keep your personal information private, such as your address and phone number. Finally, tell an adult if something online makes you uncomfortable."
+      }
+    ],
+    "options": [
+      "인터넷으로 물건을 싸게 사는 방법을 알려 주는 요령",
+      "컴퓨터를 빠르게 사용하는 방법을 익히는 법",
+      "온라인 게임에서 이기는 방법을 소개하는 일",
+      "인터넷을 안전하게 사용하는 방법",
+      "웹사이트를 직접 만드는 방법을 가르치는 일"
+    ],
+    "answer": 3,
+    "translation": "안녕하세요, 학생 여러분. 인터넷은 유용하지만 위험할 수도 있습니다. 온라인에서 안전하게 지내는 몇 가지 요령을 알려 드릴게요. 첫째, 비밀번호를 누구와도 공유하지 마세요. 둘째, 낯선 사람이 보낸 링크를 누르지 마세요. 셋째, 주소와 전화번호 같은 개인 정보를 비공개로 유지하세요. 마지막으로 온라인에서 불편한 일이 있으면 어른에게 알리세요.",
+    "why": "비밀번호, 링크, 개인 정보, 불편한 상황 등 온라인에서 안전하게 지내는 방법을 소개합니다.",
+    "optionNotes": [
+      "쇼핑은 나오지 않습니다.",
+      "컴퓨터 속도는 나오지 않습니다.",
+      "게임은 나오지 않습니다.",
+      "정답. 인터넷을 안전하게 사용하는 방법입니다.",
+      "웹사이트 제작은 나오지 않습니다."
+    ],
+    "trap": "'internet'이 나온다고 부분적인 활용법을 고르지 마세요.",
+    "tip": "주제는 'Here are some tips for ~' 뒤를 확인하세요."
+  },
+  {
+    "id": "m2-17-17",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 17,
+    "type": "l-set",
+    "group": "m2-17-l16",
+    "stem": "[16~17] 언급되지 않은 것을 고르시오.",
+    "script": [
+      {
+        "speaker": "W",
+        "text": "Hello, students. The internet is useful, but it can also be dangerous. Here are some tips for staying safe online. First, never share your password with anyone. Second, don't click on links from strangers. Third, keep your personal information private, such as your address and phone number. Finally, tell an adult if something online makes you uncomfortable."
+      }
+    ],
+    "options": [
+      "게임 아이템을 친구에게 선물하기",
+      "비밀번호를 공유하지 않기",
+      "낯선 사람의 링크를 누르지 않기",
+      "주소와 전화번호를 비공개로 하기",
+      "불편한 일이 있으면 어른에게 알리기"
+    ],
+    "answer": 0,
+    "translation": "(16번과 같은 담화입니다.)",
+    "why": "비밀번호, 링크, 개인 정보, 어른에게 알리기는 나왔지만 게임 아이템 선물은 나오지 않았습니다.",
+    "optionNotes": [
+      "정답. 게임 아이템 선물은 나오지 않았습니다.",
+      "never share your password로 언급되었습니다.",
+      "don't click on links from strangers로 언급되었습니다.",
+      "keep your personal information private로 언급되었습니다.",
+      "tell an adult로 언급되었습니다."
+    ],
+    "trap": "온라인 이야기라 게임이 나왔을 것이라 착각하기 쉽습니다.",
+    "tip": "순서어(First, Second, Third, Finally)를 따라가며 보기와 대조하세요."
+  }
+]
