@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m2-20-29",
+    "level": "m2",
+    "set": "mock-20",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "The festival, {1|which} is held every autumn, attracts thousands of visitors. Many of them {2|comes} from other cities to enjoy the food and music. This year, the organizers decided {3|to add} a lantern parade. Everyone {4|was} excited about the new event. As a result, the town was {5|filled} with colorful lights.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "매년 가을에 열리는 그 축제는 수천 명의 방문객을 끌어들인다. 그들 중 많은 사람이 음식과 음악을 즐기기 위해 다른 도시에서 온다. 올해 주최 측은 등불 행렬을 추가하기로 했다. 모두가 새로운 행사에 들떠 있었다. 그 결과 마을은 알록달록한 불빛으로 가득 찼다.",
+    "why": "'Many of them'은 복수이므로 동사는 'comes'가 아니라 'come'이어야 합니다.",
+    "optionNotes": [
+      "계속적 용법의 관계대명사 which입니다.",
+      "정답(틀린 것). 복수 주어이므로 come이어야 합니다.",
+      "decide + to부정사입니다.",
+      "everyone은 단수이므로 was가 맞습니다.",
+      "be filled with 수동태입니다."
+    ],
+    "trap": "'them'이 가까이 있어 단수 취급하기 쉽지만 Many of them은 복수입니다.",
+    "tip": "Many of + 복수 명사는 복수 동사를 씁니다."
+  },
+  {
+    "id": "m2-20-30",
+    "level": "m2",
+    "set": "mock-20",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Our school library has recently been {1|renovated}. The old, dark room was replaced with a bright and {2|comfortable} space. There are now soft chairs and large windows. Students can borrow tablets as well as books. Because of these changes, the number of visitors has {3|increased} by almost fifty percent. Many students say they want to spend more time there, and the librarian is {4|delighted} about it. Unfortunately, the library is still too {5|spacious} for all the students, so some have to stand.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "우리 학교 도서관이 최근 새롭게 단장되었다. 낡고 어두운 방은 밝고 편안한 공간으로 바뀌었다. 이제는 푹신한 의자와 큰 창문이 있다. 학생들은 책뿐 아니라 태블릿도 빌릴 수 있다. 이런 변화 덕분에 방문객 수가 거의 50퍼센트 늘었다. 많은 학생이 그곳에서 더 많은 시간을 보내고 싶어 하고 사서는 기뻐한다. 안타깝게도 도서관은 아직 모든 학생이 쓰기에는 너무 좁아서 일부는 서 있어야 한다.",
+    "why": "일부가 서 있어야 한다고 했으므로 'spacious(넓은)'가 아니라 'small(좁은)'이어야 합니다.",
+    "optionNotes": [
+      "단장되었다는 의미로 renovated가 알맞습니다.",
+      "편안한 공간이라는 의미로 comfortable이 알맞습니다.",
+      "늘었다는 의미로 increased가 알맞습니다.",
+      "기뻐한다는 의미로 delighted가 알맞습니다.",
+      "정답(부적절). 서 있어야 하므로 small이어야 합니다."
+    ],
+    "trap": "'too ~ for'의 구조를 보고 spacious를 그대로 받아들이기 쉽습니다.",
+    "tip": "뒤 문장의 결과(some have to stand)와 어울리는지 확인하세요."
+  },
+  {
+    "id": "m2-20-31",
+    "level": "m2",
+    "set": "mock-20",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Some people think that talented people do not need to practice. However, great musicians and athletes usually practice for several hours every day. They also review their mistakes and try again until they improve. Some of them even start practicing before the sun comes up. Their success does not come from talent alone. It comes from __________.",
+    "options": [
+      "luck and money from their families",
+      "their famous teachers' names and schools",
+      "strong muscles and long, fast legs",
+      "repeated effort and practice",
+      "fast computers and new machines"
+    ],
+    "answer": 3,
+    "translation": "어떤 사람들은 재능 있는 사람은 연습이 필요 없다고 생각한다. 그러나 훌륭한 음악가와 운동선수는 대개 매일 몇 시간씩 연습한다. 그들은 실수를 검토하고 나아질 때까지 다시 시도한다. 그들 중 일부는 해가 뜨기 전에 연습을 시작하기도 한다. 그들의 성공은 재능만으로 오지 않는다. 그것은 반복된 노력과 연습에서 온다.",
+    "why": "매일 연습하고 실수를 되짚는다고 했으므로 '반복된 노력과 연습'이 알맞습니다.",
+    "optionNotes": [
+      "행운과 돈은 나오지 않습니다.",
+      "선생님의 이름은 나오지 않습니다.",
+      "근육은 나오지 않습니다.",
+      "정답. 반복된 노력과 연습입니다.",
+      "컴퓨터는 나오지 않습니다."
+    ],
+    "trap": "'athletes'가 나온다고 'strong muscles'를 고르지 마세요.",
+    "tip": "앞 문장의 practice, review, try again이 빈칸의 단서입니다."
+  },
+  {
+    "id": "m2-20-32",
+    "level": "m2",
+    "set": "mock-20",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In the past, people had to wait weeks to receive a letter from a friend in another country. Today, we can send a message and get an answer within seconds. This speed is wonderful, but it has a cost. People now expect immediate answers and become impatient when they have to wait. In other words, technology has changed not only how we communicate but also __________.",
+    "options": [
+      "how many letters we receive each year",
+      "how long we are willing to wait for an answer or a reply",
+      "where we buy our stamps",
+      "when the post office opens",
+      "what colors we use to write"
+    ],
+    "answer": 1,
+    "translation": "과거에 사람들은 다른 나라에 있는 친구의 편지를 받으려고 몇 주를 기다려야 했다. 오늘날에는 메시지를 보내고 몇 초 안에 답을 받을 수 있다. 이 속도는 훌륭하지만 대가가 있다. 사람들은 이제 즉각적인 답을 기대하고 기다려야 하면 조급해한다. 다시 말해 기술은 우리가 소통하는 방식뿐 아니라 우리가 기꺼이 기다리는 시간도 바꾸었다.",
+    "why": "즉각적인 답을 기대하고 기다리면 조급해한다고 했으므로 '기꺼이 기다리는 시간'이 알맞습니다.",
+    "optionNotes": [
+      "편지 수는 나오지 않습니다.",
+      "정답. 기꺼이 기다리는 시간입니다.",
+      "우표 구입은 나오지 않습니다.",
+      "우체국 시간은 나오지 않습니다.",
+      "글씨 색은 나오지 않습니다."
+    ],
+    "trap": "'letter'가 나온다고 우체국 관련 보기(③④)를 고르지 마세요.",
+    "tip": "not only A but also B에서 B는 앞 문장의 impatient와 연결됩니다."
+  },
+  {
+    "id": "m2-20-33",
+    "level": "m2",
+    "set": "mock-20",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "When we feel angry, our first reaction is often to say something we regret. Psychologists suggest a simple technique. Before answering, take a deep breath and count to ten. This short pause gives the emotional part of the brain time to calm down, and the thinking part can take control. As a result, we can respond in a more thoughtful way. In conflicts, a short silence can be __________.",
+    "options": [
+      "a powerful tool that helps us respond calmly and avoid hurting others",
+      "a waste of time that makes everyone nervous",
+      "a rule that only teachers need to follow",
+      "a habit that should be avoided",
+      "an excuse to stop talking forever"
+    ],
+    "answer": 0,
+    "translation": "화가 날 때 우리의 첫 반응은 종종 후회할 말을 하는 것이다. 심리학자들은 간단한 기법을 제안한다. 대답하기 전에 심호흡을 하고 열까지 세는 것이다. 이 짧은 멈춤은 뇌의 감정 부분이 진정할 시간을 주고 생각하는 부분이 통제할 수 있게 한다. 그 결과 우리는 더 신중하게 반응할 수 있다. 갈등 상황에서 짧은 침묵은 침착하게 반응하고 다른 사람을 해치지 않도록 돕는 강력한 도구가 될 수 있다.",
+    "why": "멈춤이 더 신중한 반응을 가능하게 한다고 했으므로 '침착하게 반응하게 돕는 강력한 도구'가 알맞습니다.",
+    "optionNotes": [
+      "정답. 침착한 반응을 돕는 강력한 도구입니다.",
+      "시간 낭비라는 내용은 글과 반대입니다.",
+      "교사만의 규칙이라는 내용은 없습니다.",
+      "피해야 할 습관이라는 내용은 글과 반대입니다.",
+      "영원히 대화를 멈춘다는 내용은 없습니다."
+    ],
+    "trap": "'silence'를 부정적인 침묵으로 오해하지 마세요.",
+    "tip": "As a result 앞의 효과(calm down, thoughtful)가 빈칸의 단서입니다."
+  },
+  {
+    "id": "m2-20-34",
+    "level": "m2",
+    "set": "mock-20",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A map is a flat picture of a round Earth, and this creates a problem. When mapmakers flatten the globe, some areas must be stretched. For example, Greenland looks as large as Africa on many maps, though Africa is about fourteen times bigger. Mapmakers have worked on this problem for hundreds of years. So every map shows the world in a slightly __________ way.",
+    "options": [
+      "perfect and complete",
+      "colorful and cheap",
+      "simple and short",
+      "distorted and incomplete",
+      "quiet and slow"
+    ],
+    "answer": 3,
+    "translation": "지도는 둥근 지구를 평평하게 그린 그림이고 이것은 문제를 만든다. 지도 제작자가 지구본을 평평하게 펴면 일부 지역은 늘어날 수밖에 없다. 예를 들어 그린란드는 많은 지도에서 아프리카만큼 커 보이지만 아프리카는 약 열네 배 더 크다. 지도 제작자들은 수백 년 동안 이 문제를 연구해 왔다. 그래서 모든 지도는 세계를 조금씩 왜곡되고 불완전하게 보여 준다.",
+    "why": "일부 지역이 늘어난다고 했으므로 '왜곡되고 불완전한' 방식으로 보여 준다는 말이 알맞습니다.",
+    "optionNotes": [
+      "완벽하다는 내용은 글과 반대입니다.",
+      "색과 가격은 나오지 않습니다.",
+      "단순하고 짧다는 내용은 나오지 않습니다.",
+      "정답. 왜곡되고 불완전한 방식입니다.",
+      "조용하고 느리다는 내용은 나오지 않습니다."
+    ],
+    "trap": "'flat'에서 단순함(simple)을 떠올리지 마세요.",
+    "tip": "예시(Greenland vs Africa)가 빈칸 내용을 구체화합니다."
+  },
+  {
+    "id": "m2-20-35",
+    "level": "m2",
+    "set": "mock-20",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Keeping a diary has many benefits for students. ① It helps you organize your thoughts and feelings. ② Writing regularly also improves your writing skills. ③ The Sun is about 150 million kilometers away from the Earth. ④ Looking back at old entries lets you see how much you have grown. ⑤ For these reasons, many teachers recommend that students write a diary every day.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "일기를 쓰는 것은 학생들에게 많은 이점이 있다. ① 생각과 감정을 정리하는 데 도움이 된다. ② 규칙적으로 글을 쓰면 글쓰기 실력도 는다. ③ 태양은 지구에서 약 1억 5천만 킬로미터 떨어져 있다. ④ 예전 일기를 되돌아보면 자신이 얼마나 성장했는지 알 수 있다. ⑤ 이런 이유로 많은 교사들은 학생들이 매일 일기를 쓰도록 권한다.",
+    "why": "글은 일기의 이점을 말하는데 ③은 태양과 지구의 거리 이야기라 관계가 없습니다.",
+    "optionNotes": [
+      "일기의 이점입니다.",
+      "일기의 이점입니다.",
+      "정답(무관). 태양과 지구의 거리 이야기입니다.",
+      "일기의 이점입니다.",
+      "결론 문장입니다."
+    ],
+    "trap": "숫자가 포함된 문장을 구체적 근거로 착각하기 쉽습니다.",
+    "tip": "주제(일기의 이점)와 이어지지 않는 문장을 고르세요."
+  },
+  {
+    "id": "m2-20-36",
+    "level": "m2",
+    "set": "mock-20",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Every winter, thousands of people visit a small town in the north to see the northern lights. The show usually begins after sunset and lasts for several hours.\n(A) These colors appear when particles from the Sun hit gases in the air.\n(B) Because of this, the lights are mostly seen near the poles.\n(C) The lights dance across the sky in green, pink, and purple.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 3,
+    "translation": "매년 겨울 수천 명의 사람이 북쪽의 작은 마을을 찾아 오로라를 본다. 쇼는 보통 해가 진 뒤에 시작해 몇 시간 동안 이어진다. (C) 빛은 초록, 분홍, 보라색으로 하늘을 가로질러 춤춘다. (A) 이 색은 태양에서 온 입자가 공기 중의 기체와 부딪힐 때 나타난다. (B) 이 때문에 빛은 주로 극지방 근처에서 보인다.",
+    "why": "(C) 빛의 모습 → (A) 'These colors' 원인 → (B) 'Because of this' 결과의 순서입니다.",
+    "optionNotes": [
+      "(A)의 'These colors'가 가리킬 대상이 앞에 없습니다.",
+      "(B)의 'Because of this'가 가리킬 원인이 앞에 없습니다.",
+      "(B)가 원인(A)보다 앞섭니다.",
+      "정답. 모습 → 원인 → 결과.",
+      "(B)가 (A)보다 앞서면 원인이 없습니다."
+    ],
+    "trap": "(A)의 'These colors'는 (C)의 green, pink, purple을 가리킵니다.",
+    "tip": "지시어(These colors, this)가 가리키는 앞 문장을 확인하세요."
+  },
+  {
+    "id": "m2-20-37",
+    "level": "m2",
+    "set": "mock-20",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Many students feel nervous before an important test. Their hearts beat fast, and they cannot think clearly.\n(A) Fortunately, there are simple ways to calm yourself down.\n(B) This tells your brain that there is no danger, so your heart begins to slow down.\n(C) For example, you can take slow, deep breaths for a minute with your eyes closed.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "많은 학생은 중요한 시험 전에 긴장한다. 심장이 빨리 뛰고 명확하게 생각하지 못한다. (A) 다행히도 마음을 가라앉히는 간단한 방법이 있다. (C) 예를 들어 눈을 감고 1분 동안 천천히 깊게 숨을 쉴 수 있다. (B) 이것은 뇌에 위험이 없다고 알려 주어 심장이 느려지기 시작한다.",
+    "why": "긴장 → (A) 간단한 방법이 있다 → (C) For example 구체적 예 → (B) 'This' 효과 순서입니다.",
+    "optionNotes": [
+      "정답. 방법 소개 → 예시 → 효과.",
+      "(B)의 'This'가 가리킬 행동이 앞에 없습니다.",
+      "(B)가 앞서면 가리킬 대상이 없습니다.",
+      "(C)의 'For example'이 소개 없이 먼저 올 수 없습니다.",
+      "(C)가 앞서면 예시가 방법 소개보다 먼저 나옵니다."
+    ],
+    "trap": "(B)의 'This'는 (C)의 심호흡 행동을 가리킵니다.",
+    "tip": "방법 소개 → For example → This 효과의 흐름을 따라가세요."
+  },
+  {
+    "id": "m2-20-38",
+    "level": "m2",
+    "set": "mock-20",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThis is why many doctors recommend drinking water before every meal.\n\n[글]\n( ① ) Water makes up about sixty percent of the human body. ( ② ) Without enough water, we feel tired and cannot concentrate. ( ③ ) Water also helps the stomach feel full, so we eat less. ( ④ ) In fact, studies show that people who drink water before meals eat fewer calories. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "[주어진 문장] 이 때문에 많은 의사들이 매 끼니 전에 물을 마시라고 권한다. [글] 물은 인체의 약 60퍼센트를 차지한다. 물이 충분하지 않으면 피곤하고 집중하기 어렵다. 물은 또한 위가 부른 느낌이 들게 하여 덜 먹게 한다. 실제로 연구에 따르면 식사 전에 물을 마시는 사람은 더 적은 열량을 섭취한다. 이 때문에 많은 의사들이 매 끼니 전에 물을 마시라고 권한다.",
+    "why": "앞의 연구 결과(식사 전 물 → 적은 열량)가 의사의 권고 이유이므로 ④에 들어갑니다.",
+    "optionNotes": [
+      "이유가 나오기 전이라 'This is why'가 어색합니다.",
+      "이유의 일부만 나온 상태입니다.",
+      "마지막 근거가 아직 나오지 않았습니다.",
+      "정답. 연구 결과를 이유로 받아 권고로 이어집니다.",
+      "글의 끝이라 이어질 내용이 없어 어색합니다."
+    ],
+    "trap": "⑤도 가능해 보이지만 ④의 연구 결과 뒤에 들어가야 흐름이 이어집니다.",
+    "tip": "'This is why'는 바로 앞 문장의 사실을 이유로 받습니다."
+  },
+  {
+    "id": "m2-20-39",
+    "level": "m2",
+    "set": "mock-20",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nFor this reason, many people consider it the best way to relax.\n\n[글]\n( ① ) Listening to music can change our mood within minutes. ( ② ) Slow, quiet songs lower our heart rate and make us feel calm. ( ③ ) Cheerful songs make us want to move and dance. ( ④ ) Music can also bring back happy memories from the past. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "[주어진 문장] 이런 이유로 많은 사람은 그것을 긴장을 푸는 가장 좋은 방법이라고 여긴다. [글] 음악을 들으면 몇 분 안에 기분이 바뀔 수 있다. 느리고 조용한 노래는 심박수를 낮추고 차분하게 한다. 경쾌한 노래는 몸을 움직이고 춤추고 싶게 한다. 음악은 과거의 행복한 기억을 되살리기도 한다. 이런 이유로 많은 사람은 그것을 긴장을 푸는 가장 좋은 방법이라고 여긴다.",
+    "why": "앞에서 음악의 여러 효과를 나열한 뒤 'For this reason'으로 결론을 내리므로 ⑤에 들어갑니다.",
+    "optionNotes": [
+      "이유가 나오기 전입니다.",
+      "효과가 하나만 나온 상태입니다.",
+      "효과가 두 개만 나온 상태입니다.",
+      "마지막 효과가 아직 남아 있습니다.",
+      "정답. 모든 이유를 정리하는 결론입니다."
+    ],
+    "trap": "④까지 읽으면 이미 이유가 충분해 보이지만 마지막 이유(memories)가 남아 있습니다.",
+    "tip": "'For this reason'은 앞의 이유들을 모두 받아 결론을 냅니다."
+  },
+  {
+    "id": "m2-20-40",
+    "level": "m2",
+    "set": "mock-20",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A study followed two groups of students for a semester. One group took notes by hand, and the other typed on laptops. At the end, both groups took the same test. The students who wrote by hand scored higher on questions that asked them to explain ideas. The researchers believe that handwriting is slower, so students must choose the main points and put them in their own words.\n\n▶ Students who took notes by (A) understood the ideas (B) than those who typed.",
+    "options": [
+      "(A) laptop — (B) worse",
+      "(A) listening — (B) faster",
+      "(A) computer — (B) earlier",
+      "(A) memory — (B) more slowly",
+      "(A) hand — (B) better"
+    ],
+    "answer": 4,
+    "translation": "한 연구는 두 학생 집단을 한 학기 동안 추적했다. 한 집단은 손으로 필기했고 다른 집단은 노트북으로 타자를 쳤다. 마지막에 두 집단은 같은 시험을 보았다. 손으로 쓴 학생들은 아이디어를 설명하라는 문제에서 더 높은 점수를 받았다. 연구자들은 손글씨가 더 느리므로 학생들이 핵심을 골라 자기 말로 바꿔야 한다고 생각한다. ▶ 손으로 필기한 학생들은 타자를 친 학생들보다 아이디어를 더 잘 이해했다.",
+    "why": "손으로 필기한 학생이 설명 문제에서 더 높은 점수를 받았으므로 (A)는 hand, (B)는 better입니다.",
+    "optionNotes": [
+      "laptop과 worse는 글과 반대입니다.",
+      "listening과 faster는 글에 나오지 않습니다.",
+      "computer와 earlier는 글에 나오지 않습니다.",
+      "memory와 more slowly는 글에 나오지 않습니다.",
+      "정답. 손으로 필기하면 더 잘 이해합니다."
+    ],
+    "trap": "손글씨가 '느리다'는 말에 이끌려 more slowly(④)를 고르지 마세요.",
+    "tip": "요약문은 비교 대상(hand vs typed)과 결과(scored higher)를 짝지으세요."
+  }
+]

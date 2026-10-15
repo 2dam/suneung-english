@@ -1,0 +1,333 @@
+[
+  {
+    "id": "m2-20-18",
+    "level": "m2",
+    "set": "mock-20",
+    "no": 18,
+    "type": "purpose",
+    "stem": "다음 글을 쓴 목적으로 가장 적절한 것은?",
+    "passage": "Dear Mr. Choi,\nMy name is Hana Lee from Class 2-4. I am writing about the school newsletter that came out last week. In the article about the science fair, my name was written as \"Hanna Lee.\" It is a small mistake, but I would like it to be corrected in the next issue. I also hope my classmates' names are spelled correctly. Thank you for your time.\nSincerely,\nHana Lee",
+    "options": [
+      "학교 신문에 잘못 적힌 이름을 다음 호에서 바로잡아 달라고 요청하려고",
+      "과학 박람회에 참가하기 위한 신청 방법과 제출해야 할 서류를 선생님께 문의하려고",
+      "교내 신문 동아리에 새 기자로 가입하고 싶다는 뜻을 최 선생님께 정중히 알리려고",
+      "과학 박람회의 수상 결과가 공정하지 않았다고 선생님께 강하게 항의하려고",
+      "새롭게 바뀐 학교 신문의 디자인과 기사 내용이 훌륭하다고 칭찬하려고"
+    ],
+    "answer": 0,
+    "translation": "최 선생님께. 저는 2학년 4반 이하나입니다. 지난주에 나온 학교 신문에 관해 씁니다. 과학 박람회 기사에서 제 이름이 \"Hanna Lee\"로 적혀 있었습니다. 작은 실수지만 다음 호에서 바로잡아 주셨으면 합니다. 제 반 친구들의 이름도 바르게 적히기를 바랍니다. 시간 내 주셔서 감사합니다. 이하나 드림.",
+    "why": "신문에 잘못 적힌 이름을 다음 호에서 정정해 달라고 요청하는 글입니다.",
+    "optionNotes": [
+      "정답. 이름의 정정을 요청합니다.",
+      "참가 신청은 나오지 않습니다.",
+      "동아리 가입은 나오지 않습니다.",
+      "수상 결과는 나오지 않습니다.",
+      "디자인 칭찬은 나오지 않습니다."
+    ],
+    "trap": "'science fair'가 나온다고 박람회 문의(②)로 착각하지 마세요.",
+    "tip": "목적 문제는 'I would like ~' 같은 요청 표현을 찾으세요."
+  },
+  {
+    "id": "m2-20-19",
+    "level": "m2",
+    "set": "mock-20",
+    "no": 19,
+    "type": "mood",
+    "stem": "다음 글에 드러난 Taeyang의 심경 변화로 가장 적절한 것은?",
+    "passage": "Taeyang stared at the school gate, where the list of winners would be posted. His palms were sweating, and he could hardly stand still. He had spent three months preparing for the English speech contest. When the teacher finally put up the paper, he closed his eyes for a second. Then he heard his friends shouting his name. He opened his eyes and found his name at the top. A big smile spread across his face, and he let out a long breath.",
+    "options": [
+      "bored → angry",
+      "proud → ashamed",
+      "worried → relieved and thankful",
+      "lonely → jealous",
+      "curious → disappointed"
+    ],
+    "answer": 2,
+    "translation": "태양은 수상자 명단이 붙을 학교 정문을 바라보았다. 손바닥에 땀이 나고 가만히 서 있기도 힘들었다. 그는 영어 말하기 대회를 석 달 동안 준비했다. 선생님이 마침내 종이를 붙이자 그는 잠깐 눈을 감았다. 그때 친구들이 그의 이름을 외치는 소리가 들렸다. 눈을 뜨자 맨 위에 그의 이름이 있었다. 얼굴에 큰 미소가 번졌고 그는 긴 숨을 내쉬었다.",
+    "why": "결과를 기다리며 걱정했다가(worried), 이름을 확인하고 안도했습니다(relieved).",
+    "optionNotes": [
+      "지루함에서 화남이 아닙니다.",
+      "자랑스러움에서 부끄러움이 아닙니다.",
+      "정답. 걱정에서 안도와 감사로 변했습니다.",
+      "외로움에서 질투가 아닙니다.",
+      "호기심에서 실망이 아닙니다."
+    ],
+    "trap": "'closed his eyes'만 보고 실망했다고 판단하지 마세요.",
+    "tip": "전환 신호(Then ...)를 기준으로 앞뒤 감정을 비교하세요."
+  },
+  {
+    "id": "m2-20-20",
+    "level": "m2",
+    "set": "mock-20",
+    "no": 20,
+    "type": "claim",
+    "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+    "passage": "Many people buy food only by looking at the front of the package. Bright colors and words such as \"natural\" or \"light\" can be misleading. The back of the package tells the real story. It lists the ingredients, the amount of sugar, and the number of calories. Reading this information takes only a few seconds, but it can help you make healthier choices. Therefore, we should check the labels on food packages before we buy them.",
+    "options": [
+      "건강을 위해 마트에서 파는 가공식품은 절대로 먹지 않아야 한다.",
+      "포장지의 화려한 색깔과 문구가 좋은 제품을 고르는 가장 확실한 기준이다.",
+      "음식은 가격이 비쌀수록 재료가 좋고 건강에도 더 좋다고 할 수 있다.",
+      "식품을 사기 전에 포장지의 성분 표시를 확인해야 한다.",
+      "칼로리가 낮은 식품만 골라 먹는 것이 건강을 지키는 가장 좋은 방법이다."
+    ],
+    "answer": 3,
+    "translation": "많은 사람은 포장지의 앞면만 보고 음식을 산다. 화려한 색깔과 \"천연\"이나 \"라이트\" 같은 말은 오해를 일으킬 수 있다. 진짜 이야기는 포장지 뒷면에 있다. 거기에는 성분, 설탕의 양, 칼로리가 적혀 있다. 이 정보를 읽는 데는 몇 초밖에 걸리지 않지만 더 건강한 선택을 하도록 도울 수 있다. 그러므로 우리는 식품을 사기 전에 포장지의 표시를 확인해야 한다.",
+    "why": "마지막 문장 'we should check the labels on food packages before we buy them'이 주장입니다.",
+    "optionNotes": [
+      "가공식품 금지는 나오지 않습니다.",
+      "색깔은 오해를 일으킨다고 했습니다.",
+      "가격 이야기는 나오지 않습니다.",
+      "정답. 사기 전에 성분 표시를 확인해야 합니다.",
+      "칼로리만 보라는 내용은 없습니다."
+    ],
+    "trap": "'calories'가 나온다고 칼로리만 따지라는 주장(⑤)으로 착각하지 마세요.",
+    "tip": "Therefore 뒤의 문장이 주장입니다."
+  },
+  {
+    "id": "m2-20-21",
+    "level": "m2",
+    "set": "mock-20",
+    "no": 21,
+    "type": "implied",
+    "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "passage": "I missed the bus and had to walk to school. On the way, I found a small bookstore I had never seen before. There, I found the book I had been looking for. The missed bus was {u|a blessing in disguise}.",
+    "options": [
+      "a gift wrapped in plain brown paper and given by a close friend",
+      "something that seems bad but turns out to be good",
+      "a person who hides his face behind a mask or a big hat",
+      "a problem that gets worse every day until nobody can solve it",
+      "an event that no one remembers after many years have passed"
+    ],
+    "answer": 1,
+    "translation": "나는 버스를 놓쳐서 학교까지 걸어가야 했다. 가는 길에 전에 본 적 없는 작은 서점을 발견했다. 거기서 내가 찾고 있던 책을 찾았다. 버스를 놓친 일은 전화위복이었다.",
+    "why": "버스를 놓친 나쁜 일이 결과적으로 좋은 일이 되었으므로 'a blessing in disguise'는 '겉보기에는 나쁘지만 결국 좋은 일'입니다.",
+    "optionNotes": [
+      "포장된 선물이라는 문자 그대로의 뜻이 아닙니다.",
+      "정답. 나빠 보이지만 결국 좋은 것입니다.",
+      "얼굴을 가린 사람이라는 뜻이 아닙니다.",
+      "더 나빠지는 문제라는 뜻이 아닙니다.",
+      "잊힌 사건이라는 뜻이 아닙니다."
+    ],
+    "trap": "'disguise'를 문자 그대로 해석하지 마세요.",
+    "tip": "관용 표현은 앞 문장의 사건과 결과(missed bus → found the book)로 의미를 추론하세요."
+  },
+  {
+    "id": "m2-20-22",
+    "level": "m2",
+    "set": "mock-20",
+    "no": 22,
+    "type": "gist",
+    "stem": "다음 글의 요지로 가장 적절한 것은?",
+    "passage": "Many people feel stressed in cities, where there are crowds, noise, and traffic. Researchers have found that spending just twenty minutes in a park can lower the level of stress hormones in the body. People do not even need to exercise; sitting quietly among the trees is enough. Green spaces also help people feel calmer and think more clearly. In short, a short time in nature can reduce stress.",
+    "options": [
+      "도시에서는 땅이 부족해서 새로운 공원을 만드는 것이 거의 불가능하다.",
+      "스트레스는 오랜 시간 열심히 운동하는 것으로만 풀 수 있다고 알려져 있다.",
+      "공원은 사람들이 쉽게 갈 수 있도록 교통이 편리한 곳에 지어야 한다.",
+      "나무를 많이 심으면 도시의 소음과 교통 체증이 완전히 없어진다.",
+      "자연 속에서 잠깐 시간을 보내는 것만으로 스트레스를 줄일 수 있다."
+    ],
+    "answer": 4,
+    "translation": "많은 사람은 사람이 붐비고 소음과 교통이 있는 도시에서 스트레스를 느낀다. 연구자들은 공원에서 단 20분만 보내도 몸속 스트레스 호르몬 수치가 낮아질 수 있다는 것을 발견했다. 운동을 할 필요도 없다. 나무 사이에 조용히 앉아 있는 것만으로 충분하다. 녹지는 사람들이 더 차분해지고 더 맑게 생각하도록 돕는다. 요컨대 자연 속에서 잠깐 보내는 시간은 스트레스를 줄일 수 있다.",
+    "why": "마지막 문장 'a short time in nature can reduce stress'가 요지입니다.",
+    "optionNotes": [
+      "공원 조성의 가능성은 나오지 않습니다.",
+      "운동이 필요 없다고 했습니다.",
+      "교통 편의는 나오지 않습니다.",
+      "소음을 완전히 없앤다는 내용은 없습니다.",
+      "정답. 자연 속의 짧은 시간이 스트레스를 줄입니다."
+    ],
+    "trap": "'exercise'를 필수 조건으로 착각하지 마세요. 필요 없다고 했습니다.",
+    "tip": "In short 문장이 요지를 담습니다."
+  },
+  {
+    "id": "m2-20-23",
+    "level": "m2",
+    "set": "mock-20",
+    "no": 23,
+    "type": "topic",
+    "stem": "다음 글의 주제로 가장 적절한 것은?",
+    "passage": "Cats use their tails to show how they feel. A tail held straight up usually means a cat is happy and friendly. A tail that moves quickly from side to side may mean the cat is angry or nervous. When a cat's tail becomes big and fluffy, the cat is frightened. If you watch the tail carefully, you can understand what your cat wants to say.",
+    "options": [
+      "why cats sleep for most of the day and stay awake at night",
+      "how cats show their feelings with their tails",
+      "what kind of food cats like best when they are very hungry",
+      "when cats start to hunt small animals such as mice and birds",
+      "where wild cats live in the world and what they eat there"
+    ],
+    "answer": 1,
+    "translation": "고양이는 꼬리로 기분을 나타낸다. 꼬리를 곧게 세우면 대개 기분이 좋고 친근하다는 뜻이다. 꼬리를 좌우로 빠르게 흔들면 화가 났거나 긴장했다는 뜻일 수 있다. 꼬리가 크고 부풀면 고양이는 겁을 먹은 것이다. 꼬리를 잘 살피면 고양이가 하고 싶은 말을 알 수 있다.",
+    "why": "고양이가 꼬리로 기분을 나타내는 방법을 설명하는 글입니다.",
+    "optionNotes": [
+      "수면은 나오지 않습니다.",
+      "정답. 꼬리로 감정을 나타내는 방법입니다.",
+      "먹이는 나오지 않습니다.",
+      "사냥은 나오지 않습니다.",
+      "서식지는 나오지 않습니다."
+    ],
+    "trap": "'cat'만 보고 일반적인 고양이 정보(①③)를 고르지 마세요.",
+    "tip": "주제는 반복되는 핵심(tail, feel)을 묶어 찾으세요."
+  },
+  {
+    "id": "m2-20-24",
+    "level": "m2",
+    "set": "mock-20",
+    "no": 24,
+    "type": "title",
+    "stem": "다음 글의 제목으로 가장 적절한 것은?",
+    "passage": "Crows are among the smartest birds. In one experiment, a crow found a short stick and used it to pull a longer stick out of a box. Then it used the longer stick to reach food that was far away. Scientists were surprised that the crow solved the problem in several steps. Other crows can even bend wires to make hooks. These birds show that animals can use tools in clever ways.",
+    "options": [
+      "Clever Crows: Birds That Use Tools to Solve Problems",
+      "How Crows Build Their Nests in Tall Trees Near the Rivers and Lakes",
+      "Why Crows Fly South Every Winter to Find Warmer Places and Food",
+      "The Colors of Feathers on Small Birds Living in Warm Countries",
+      "Feeding Wild Birds in Your Garden During the Cold Winter Months"
+    ],
+    "answer": 0,
+    "translation": "까마귀는 가장 영리한 새 중 하나이다. 한 실험에서 까마귀는 짧은 막대를 발견하고 그것으로 상자 안의 더 긴 막대를 끌어냈다. 그런 다음 긴 막대로 멀리 있는 먹이에 닿았다. 과학자들은 까마귀가 여러 단계로 문제를 해결한 것에 놀랐다. 다른 까마귀들은 철사를 구부려 갈고리를 만들기도 한다. 이 새들은 동물이 영리하게 도구를 쓸 수 있음을 보여 준다.",
+    "why": "까마귀가 도구를 사용해 문제를 해결한다는 내용이므로 ①이 제목입니다.",
+    "optionNotes": [
+      "정답. 도구로 문제를 해결하는 영리한 까마귀입니다.",
+      "둥지는 나오지 않습니다.",
+      "이동은 나오지 않습니다.",
+      "깃털 색은 나오지 않습니다.",
+      "먹이 주기는 나오지 않습니다."
+    ],
+    "trap": "'birds'만 보고 일반적인 새 이야기(②③)를 고르지 마세요.",
+    "tip": "제목은 핵심 소재(crows)와 행동(use tools)을 함께 담으세요."
+  },
+  {
+    "id": "m2-20-25",
+    "level": "m2",
+    "set": "mock-20",
+    "no": 25,
+    "type": "chart",
+    "stem": "다음 도표의 내용과 일치하지 않는 것은?",
+    "chart": {
+      "title": "Reasons for Volunteering (%)",
+      "unit": "%",
+      "labels": [
+        "Help others",
+        "Gain experience",
+        "Make friends",
+        "School requirement",
+        "Other"
+      ],
+      "series": [
+        {
+          "name": "Percent",
+          "values": [
+            38,
+            27,
+            18,
+            12,
+            5
+          ]
+        }
+      ]
+    },
+    "passage": "The graph shows why students volunteer. ① Helping others is the most common reason. ② Gaining experience is 9 percentage points higher than making friends. ③ School requirement is higher than making friends. ④ Helping others and gaining experience together make up 65 percent. ⑤ Other is the lowest of all.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "그래프는 학생들이 봉사 활동을 하는 이유를 보여 준다. ① 남을 돕는 것이 가장 흔한 이유이다. ② 경험을 쌓는 것은 친구를 사귀는 것보다 9퍼센트포인트 높다. ③ 학교 요구 사항은 친구 사귀기보다 높다. ④ 남을 돕는 것과 경험을 쌓는 것을 합하면 65퍼센트이다. ⑤ 기타가 가장 낮다.",
+    "why": "학교 요구 사항은 12%로 친구 사귀기 18%보다 낮으므로 ③은 일치하지 않습니다.",
+    "optionNotes": [
+      "38%가 가장 높습니다.",
+      "27 - 18 = 9퍼센트포인트입니다.",
+      "정답(불일치). 12%는 18%보다 낮습니다.",
+      "38 + 27 = 65%입니다.",
+      "5%가 가장 낮습니다."
+    ],
+    "trap": "'higher than'의 방향을 반대로 읽기 쉽습니다.",
+    "tip": "비교 보기는 두 수치를 직접 대조하세요."
+  },
+  {
+    "id": "m2-20-26",
+    "level": "m2",
+    "set": "mock-20",
+    "no": 26,
+    "type": "match",
+    "stem": "Mina Park에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Mina Park is a fifteen-year-old student who started a free tutoring club at her school. She noticed that some of her classmates could not afford private lessons. So she asked ten good students to help younger students after school. The club meets twice a week in the library. Now more than forty students take part. Mina says that teaching others also helps her learn.",
+    "options": [
+      "한 주에 두 번 도서관에서 모인다.",
+      "참가하는 학생들에게 한 달에 한 번씩 수업료를 받는다.",
+      "경험이 많은 교사 열 명이 방과 후에 학생들을 가르친다.",
+      "참가하는 학생은 모두 합해서 열 명 정도밖에 되지 않는다.",
+      "동아리는 학교가 쉬는 주말에만 도서관에서 운영된다."
+    ],
+    "answer": 0,
+    "translation": "박미나는 학교에서 무료 과외 동아리를 시작한 열다섯 살 학생이다. 그녀는 일부 반 친구들이 사교육을 받을 형편이 안 된다는 것을 알았다. 그래서 공부를 잘하는 학생 열 명에게 방과 후에 후배들을 도와 달라고 부탁했다. 동아리는 일주일에 두 번 도서관에서 모인다. 지금은 사십 명이 넘는 학생이 참여한다. 미나는 다른 사람을 가르치는 것이 자신이 배우는 데도 도움이 된다고 말한다.",
+    "why": "'The club meets twice a week in the library.'와 일치합니다.",
+    "optionNotes": [
+      "정답. 일주일에 두 번 도서관에서 모입니다.",
+      "무료 과외 동아리입니다.",
+      "교사가 아니라 학생 열 명입니다.",
+      "사십 명이 넘게 참여합니다.",
+      "방과 후에 일주일에 두 번 모입니다."
+    ],
+    "trap": "숫자(ten, forty)가 두 번 나오므로 대상을 구분하세요.",
+    "tip": "일치 문제는 빈도·장소·인원을 하나씩 대조하세요."
+  },
+  {
+    "id": "m2-20-27",
+    "level": "m2",
+    "set": "mock-20",
+    "no": 27,
+    "type": "notice",
+    "stem": "Eco Fair에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Hanbit Eco Fair\nDate: Saturday, October 12, 10:00 a.m. - 4:00 p.m.\nPlace: School Playground\nActivities: Flea market, upcycling workshop, and tree planting\nFee: Free (A small fee of $2 applies to the workshop.)\nNote: Bring your own bag, and plastic bags will not be provided.",
+    "options": [
+      "행사는 일요일 오전에만 열린다.",
+      "모든 활동에는 입장료를 내야 한다.",
+      "장소는 학교 체육관이다.",
+      "플라스틱 봉투는 입구에서 무료로 나누어 준다.",
+      "업사이클링 워크숍에 참가하려면 2달러를 내야 한다."
+    ],
+    "answer": 4,
+    "translation": "한빛 에코 페어. 날짜: 10월 12일 토요일 오전 10시~오후 4시. 장소: 학교 운동장. 활동: 벼룩시장, 업사이클링 워크숍, 나무 심기. 비용: 무료(워크숍은 2달러의 소액 참가비). 유의: 개인 가방을 가져오세요. 플라스틱 봉투는 제공되지 않습니다.",
+    "why": "'A small fee of $2 applies to the workshop.'과 일치합니다.",
+    "optionNotes": [
+      "토요일 오전 10시~오후 4시입니다.",
+      "입장은 무료이며 워크숍만 유료입니다.",
+      "장소는 운동장입니다.",
+      "플라스틱 봉투는 제공되지 않습니다.",
+      "정답. 워크숍에는 2달러의 참가비가 있습니다."
+    ],
+    "trap": "Fee: Free만 보고 모든 활동이 무료라고 착각하지 마세요.",
+    "tip": "안내문은 괄호 안의 예외 조건까지 확인하세요."
+  },
+  {
+    "id": "m2-20-28",
+    "level": "m2",
+    "set": "mock-20",
+    "no": 28,
+    "type": "notice",
+    "stem": "Art Class for Kids에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Art Class for Kids\nSchedule: Every Saturday, 10:00 a.m. - 12:00 p.m. (Oct. 5 - Nov. 23)\nPlace: Maple Community Center, Room 3\nAge: 8 to 12\nFee: $40 for the full course (all materials included)\nSign-up: Call 555-0147 or visit the front desk.",
+    "options": [
+      "수업은 일주일에 두 번 열린다.",
+      "수업 기간은 총 8주이다.",
+      "재료비는 별도로 내야 한다.",
+      "수강 대상은 열세 살 이상이다.",
+      "신청은 온라인으로만 받는다."
+    ],
+    "answer": 1,
+    "translation": "어린이 미술 수업. 일정: 매주 토요일 오전 10시~낮 12시(10월 5일~11월 23일). 장소: 메이플 주민센터 3호실. 연령: 8~12세. 비용: 전체 과정 40달러(모든 재료 포함). 신청: 555-0147로 전화하거나 안내 데스크를 방문하세요.",
+    "why": "10월 5일부터 11월 23일까지 매주 토요일이므로 총 8주입니다.",
+    "optionNotes": [
+      "매주 토요일 한 번입니다.",
+      "정답. 10월 5일부터 11월 23일까지 8주입니다.",
+      "모든 재료가 포함됩니다.",
+      "8~12세 대상입니다.",
+      "전화나 방문으로 신청합니다."
+    ],
+    "trap": "기간이 날짜로 주어져 주 수를 계산해야 합니다.",
+    "tip": "날짜 범위는 요일과 함께 횟수를 계산하세요."
+  }
+]
