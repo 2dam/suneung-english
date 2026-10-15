@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m3-20-29",
+    "level": "m3",
+    "set": "mock-20",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Last winter, our class volunteered at a nursing home, {1|where} we spent the afternoon with elderly residents. Some of them were so lonely that they {2|had been waiting} for visitors all week. A woman named Mrs. Kim taught us how {3|making} traditional paper flowers. We were surprised {4|to find} that her hands moved faster than ours. Before we left, she gave each of us a flower and asked us {5|to visit} again.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "지난겨울 우리 반은 요양원에서 봉사했고 그곳에서 어르신들과 함께 오후를 보냈다. 그들 중 일부는 너무 외로워서 일주일 내내 방문객을 기다려 왔다. 김 할머니라는 분이 우리에게 전통 종이꽃 만드는 법을 가르쳐 주셨다. 우리는 할머니의 손이 우리보다 빠르게 움직인다는 것을 알고 놀랐다. 떠나기 전에 할머니는 우리 각자에게 꽃을 하나씩 주고 다시 방문해 달라고 부탁하셨다.",
+    "why": "'how' 뒤에는 to부정사나 주어+동사가 와야 하므로 'making'이 아니라 'to make'여야 합니다.",
+    "optionNotes": [
+      "장소를 받는 관계부사 where입니다.",
+      "과거 이전부터 계속된 일을 나타내는 had been waiting입니다.",
+      "정답(틀린 것). how to make여야 합니다.",
+      "감정의 원인을 나타내는 to find입니다.",
+      "ask + 목적어 + to부정사입니다."
+    ],
+    "trap": "'taught us how'를 동명사로 이어 쓰기 쉽습니다.",
+    "tip": "의문사 + to부정사(how to make) 구조를 확인하세요."
+  },
+  {
+    "id": "m3-20-30",
+    "level": "m3",
+    "set": "mock-20",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Many people think that being busy is a sign of success. However, working without rest can {1|improve} our productivity. When we are tired, we make more mistakes and take longer to finish tasks. Studies show that taking regular breaks helps us {2|maintain} our focus. Some companies have even introduced a four-day workweek, and the results have been {3|encouraging}. Workers reported lower stress and higher satisfaction, while the companies' output {4|remained} the same. This suggests that working longer is not always the same as working {5|better}.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "많은 사람은 바쁜 것이 성공의 신호라고 생각한다. 그러나 쉬지 않고 일하면 생산성이 떨어질 수 있다. 피곤하면 더 많은 실수를 하고 일을 끝내는 데 더 오래 걸린다. 연구에 따르면 규칙적으로 휴식을 취하면 집중력을 유지하는 데 도움이 된다. 일부 회사는 주 4일 근무제를 도입하기도 했는데 결과는 고무적이었다. 직원들은 스트레스가 낮아지고 만족도가 높아졌다고 보고했으며 회사의 생산량은 그대로였다. 이는 더 오래 일하는 것이 항상 더 잘 일하는 것과 같지 않음을 시사한다.",
+    "why": "쉬지 않고 일하면 실수가 늘고 오래 걸린다고 했으므로 생산성을 'improve(향상시키다)'가 아니라 'reduce(떨어뜨리다)'여야 합니다.",
+    "optionNotes": [
+      "정답(부적절). 쉬지 않고 일하면 생산성이 떨어지므로 reduce여야 합니다.",
+      "집중력을 유지한다는 의미로 maintain이 알맞습니다.",
+      "고무적이었다는 의미로 encouraging이 알맞습니다.",
+      "그대로였다는 의미로 remained가 알맞습니다.",
+      "더 잘 일한다는 의미로 better가 알맞습니다."
+    ],
+    "trap": "'productivity'와 어울리는 improve가 자연스러워 보여 속기 쉽습니다.",
+    "tip": "However 뒤의 내용(tired → mistakes)과 방향이 맞는지 확인하세요."
+  },
+  {
+    "id": "m3-20-31",
+    "level": "m3",
+    "set": "mock-20",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Imagine a river that flows through a mountain valley. Over thousands of years, the water slowly cuts through the rock and creates a deep canyon. The water itself is soft, and it takes a long time to see any result. Yet its steady movement achieves what a sudden, powerful force could not. Many beautiful canyons around the world were formed in exactly this slow way. No one can see the change from one day to the next. This shows that persistence can sometimes accomplish more than __________.",
+    "options": [
+      "a single day of waiting and doing nothing at all",
+      "carrying heavy stones to the top of a hill",
+      "building a bridge across a wide river",
+      "the help of many friends and neighbors",
+      "a short burst of great strength"
+    ],
+    "answer": 4,
+    "translation": "산골짜기를 흐르는 강을 상상해 보라. 수천 년에 걸쳐 물은 서서히 바위를 깎아 깊은 협곡을 만든다. 물 자체는 부드러워서 어떤 결과든 보려면 오랜 시간이 걸린다. 그러나 그 꾸준한 움직임은 갑작스럽고 강력한 힘이 하지 못하는 일을 이룬다. 세계의 많은 아름다운 협곡이 바로 이렇게 느리게 만들어졌다. 하루하루의 변화는 아무도 볼 수 없다. 이는 끈기가 때로는 짧은 강한 힘의 폭발보다 더 많은 것을 이룰 수 있음을 보여 준다.",
+    "why": "꾸준한 움직임이 갑작스러운 힘이 못 하는 일을 이룬다고 했으므로 '짧은 강한 힘의 폭발'이 알맞습니다.",
+    "optionNotes": [
+      "아무것도 하지 않는 것은 글과 관계 없습니다.",
+      "돌을 나르는 이야기는 나오지 않습니다.",
+      "다리 건설은 나오지 않습니다.",
+      "친구의 도움은 나오지 않습니다.",
+      "정답. 갑작스럽고 강력한 힘과 대비됩니다."
+    ],
+    "trap": "'river'가 나온다고 다리(③)를 고르지 마세요.",
+    "tip": "앞 문장의 'a sudden, powerful force'가 빈칸의 단서입니다."
+  },
+  {
+    "id": "m3-20-32",
+    "level": "m3",
+    "set": "mock-20",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In the past, people who wanted to learn a language had to attend classes in person or study from heavy textbooks. Today, apps allow anyone to practice anywhere for a few minutes a day. This convenience has brought language learning to millions of people who would never have had the chance before. However, experts warn that apps cannot fully replace real conversation. Many learners complete hundreds of app lessons yet still feel nervous when speaking. To become fluent, learners still need __________.",
+    "options": [
+      "more colorful and expensive textbooks written by famous teachers",
+      "a faster internet connection and a larger screen at home",
+      "the latest smartphone model with a powerful camera and speaker",
+      "bigger vocabulary lists with thousands of difficult words",
+      "opportunities to speak with real people"
+    ],
+    "answer": 4,
+    "translation": "과거에 언어를 배우고 싶은 사람은 직접 수업에 참석하거나 무거운 교재로 공부해야 했다. 오늘날 앱은 누구나 어디서든 하루 몇 분씩 연습할 수 있게 한다. 이 편리함은 전에는 기회가 없었을 수백만 명에게 언어 학습을 가져다주었다. 그러나 전문가들은 앱이 실제 대화를 완전히 대체할 수 없다고 경고한다. 많은 학습자는 앱 수업을 수백 개 마치고도 말할 때는 여전히 긴장한다. 유창해지려면 학습자는 여전히 실제 사람들과 이야기할 기회가 필요하다.",
+    "why": "앱이 실제 대화를 대체할 수 없다고 했으므로 '실제 사람과 말할 기회'가 알맞습니다.",
+    "optionNotes": [
+      "교재는 나오지 않습니다.",
+      "인터넷 속도는 나오지 않습니다.",
+      "스마트폰 모델은 나오지 않습니다.",
+      "어휘 목록은 나오지 않습니다.",
+      "정답. 실제 대화의 기회가 필요합니다."
+    ],
+    "trap": "'apps'를 보고 기기 관련 보기(②③)를 고르지 마세요.",
+    "tip": "However 이후의 'cannot fully replace real conversation'이 빈칸의 단서입니다."
+  },
+  {
+    "id": "m3-20-33",
+    "level": "m3",
+    "set": "mock-20",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Anchoring is a mental habit in which the first number we see strongly influences our later judgments. For example, a shirt may be shown with an original price of $100 and a sale price of $60. We feel that we are getting a bargain, even if $60 is the shirt's normal price. Stores know this, so they often display a high \"original\" price. As consumers, we should be careful and ask ourselves whether the first number we see is __________.",
+    "options": [
+      "a fair and meaningful standard for judging value",
+      "an indication that the store is closing soon and everything must go",
+      "the only price that can be discounted by the manager of the store",
+      "too low for us to pay if we want to buy a good quality product",
+      "a number that never changes no matter how many times the store checks it"
+    ],
+    "answer": 0,
+    "translation": "앵커링은 우리가 처음 보는 숫자가 이후의 판단에 강하게 영향을 주는 정신적 습관이다. 예를 들어 셔츠가 원래 가격 100달러, 할인 가격 60달러로 표시될 수 있다. 60달러가 셔츠의 평소 가격이더라도 우리는 싸게 사고 있다고 느낀다. 가게들은 이를 알기 때문에 흔히 높은 \"원래\" 가격을 표시한다. 소비자로서 우리는 조심하며 처음 보는 숫자가 가치를 판단하는 공정하고 의미 있는 기준인지 스스로에게 물어야 한다.",
+    "why": "첫 숫자가 판단을 왜곡한다고 했으므로 그것이 '공정하고 의미 있는 기준인지' 물어야 합니다.",
+    "optionNotes": [
+      "정답. 공정하고 의미 있는 기준인지 따져 봐야 합니다.",
+      "폐점은 나오지 않습니다.",
+      "할인 대상은 나오지 않습니다.",
+      "낮아서 못 낸다는 내용은 없습니다.",
+      "변하지 않는 숫자라는 내용은 없습니다."
+    ],
+    "trap": "'price'가 나온다고 가격 관련 보기(③④)를 고르지 마세요.",
+    "tip": "예시 뒤의 결론에서 필자의 조언을 확인하세요."
+  },
+  {
+    "id": "m3-20-34",
+    "level": "m3",
+    "set": "mock-20",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "When a language dies, we lose more than words. Each language carries unique ways of describing the world, from the names of plants to the stories of ancestors. Today, about 7,000 languages are spoken, but linguists predict that nearly half may disappear by the end of the century. Some languages are now spoken by only a handful of elderly people. Once they are gone, the language is gone forever. When the last speaker of a language passes away, an entire __________ goes with that person.",
+    "options": [
+      "factory full of old machines",
+      "view of the world",
+      "library building with many shelves",
+      "sports team with many players",
+      "kitchen filled with delicious food"
+    ],
+    "answer": 1,
+    "translation": "언어가 사라질 때 우리는 단어 이상의 것을 잃는다. 각 언어는 식물의 이름에서 조상들의 이야기에 이르기까지 세상을 묘사하는 고유한 방식을 담고 있다. 오늘날 약 7,000개의 언어가 사용되지만 언어학자들은 금세기 말까지 거의 절반이 사라질 수 있다고 예측한다. 일부 언어는 이제 소수의 노인만 사용한다. 그들이 사라지면 그 언어도 영원히 사라진다. 한 언어의 마지막 화자가 세상을 떠나면 한 사람과 함께 세상을 바라보는 하나의 관점 전체가 사라진다.",
+    "why": "언어가 세상을 묘사하는 고유한 방식을 담는다고 했으므로 '세상을 바라보는 관점'이 알맞습니다.",
+    "optionNotes": [
+      "공장은 나오지 않습니다.",
+      "정답. 세상을 바라보는 관점입니다.",
+      "도서관 건물은 나오지 않습니다.",
+      "스포츠 팀은 나오지 않습니다.",
+      "부엌은 나오지 않습니다."
+    ],
+    "trap": "'plants', 'ancestors'를 보고 구체적 장소(library)를 고르지 마세요.",
+    "tip": "앞 문장의 'unique ways of describing the world'가 빈칸의 단서입니다."
+  },
+  {
+    "id": "m3-20-35",
+    "level": "m3",
+    "set": "mock-20",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Urban gardens are becoming increasingly popular in big cities. ① They provide fresh vegetables to people who live far from farms. ② Gardening also gives residents a chance to meet their neighbors and build a sense of community. ③ Plants on rooftops help to cool buildings and reduce the heat of the city. ④ The first subway in the world was opened in London in 1863. ⑤ For these reasons, many city governments now support urban gardening projects.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "도시 텃밭이 대도시에서 점점 인기를 얻고 있다. ① 농장에서 멀리 사는 사람들에게 신선한 채소를 제공한다. ② 원예는 주민들이 이웃을 만나고 공동체 의식을 쌓을 기회도 준다. ③ 옥상의 식물은 건물을 식히고 도시의 열을 줄이는 데 도움이 된다. ④ 세계 최초의 지하철은 1863년 런던에서 개통되었다. ⑤ 이런 이유로 많은 시 정부가 이제 도시 텃밭 사업을 지원한다.",
+    "why": "글은 도시 텃밭의 이점을 말하는데 ④는 지하철의 역사 이야기라 관계가 없습니다.",
+    "optionNotes": [
+      "도시 텃밭의 이점입니다.",
+      "도시 텃밭의 이점입니다.",
+      "도시 텃밭의 이점입니다.",
+      "정답(무관). 지하철의 역사 이야기입니다.",
+      "결론 문장입니다."
+    ],
+    "trap": "'city'가 나온다고 도시 이야기로 이어진다고 착각하기 쉽습니다.",
+    "tip": "주제(도시 텃밭의 이점)와 이어지지 않는 문장을 고르세요."
+  },
+  {
+    "id": "m3-20-36",
+    "level": "m3",
+    "set": "mock-20",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "For centuries, sailors faced a serious disease called scurvy. It weakened their bodies during long voyages and killed many of them.\n(A) In 1747, a Scottish doctor, James Lind, tested this idea by giving different foods to sick sailors.\n(B) After several days, the sailors who ate citrus fruits recovered. This led navies to supply citrus on ships for every long voyage.\n(C) At the time, no one knew what caused the disease. Some people thought that fresh food might help.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 3,
+    "translation": "수 세기 동안 선원들은 괴혈병이라는 심각한 병에 시달렸다. 이 병은 긴 항해 동안 그들의 몸을 약하게 했고 많은 사람의 목숨을 앗아갔다. (C) 당시에는 아무도 이 병의 원인을 몰랐다. 일부는 신선한 음식이 도움이 될 수 있다고 생각했다. (A) 1747년 스코틀랜드 의사 제임스 린드는 아픈 선원들에게 서로 다른 음식을 주어 이 생각을 시험했다. (B) 며칠 뒤 감귤류를 먹은 선원들은 회복했다. 이는 해군이 모든 긴 항해에 배에 감귤류를 공급하도록 이끌었다.",
+    "why": "(C) 당시 원인을 몰랐지만 신선한 음식이 도움일 수 있다는 생각 → (A) 'this idea' 시험 → (B) 결과 순서입니다.",
+    "optionNotes": [
+      "(A)의 'this idea'가 가리킬 내용이 앞에 없습니다.",
+      "(B)의 결과가 시험 전에 올 수 없습니다.",
+      "(B)가 (A)보다 앞섭니다.",
+      "정답. 생각 → 시험 → 결과.",
+      "(B)가 (A)보다 앞서면 시험 전에 결과가 나옵니다."
+    ],
+    "trap": "(A)의 'this idea'는 (C)의 '신선한 음식이 도움이 될 수 있다'는 생각입니다.",
+    "tip": "지시어(this idea)가 가리키는 앞 문장을 확인하세요."
+  },
+  {
+    "id": "m3-20-37",
+    "level": "m3",
+    "set": "mock-20",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Some people believe that talking to plants helps them grow faster. Gardeners often say that their flowers look healthier after a friendly chat.\n(A) However, scientists have found little evidence that human words directly affect plant growth.\n(B) That is why talking to plants may be good for people, though it does not really change the plants.\n(C) What does seem to matter is that people who talk to their plants also tend to water them and take care of them regularly.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "어떤 사람들은 식물에게 말을 걸면 더 빨리 자란다고 믿는다. 정원사들은 흔히 다정하게 말을 건 뒤 꽃이 더 건강해 보인다고 말한다. (A) 그러나 과학자들은 사람의 말이 식물의 성장에 직접 영향을 준다는 증거를 거의 찾지 못했다. (C) 중요해 보이는 것은 식물에게 말을 거는 사람이 규칙적으로 물을 주고 돌보는 경향도 있다는 점이다. (B) 그래서 식물에게 말을 거는 것은 사람에게는 좋을 수 있지만 식물을 실제로 바꾸지는 않는다.",
+    "why": "(A) However 반박 → (C) 'What does seem to matter' 실제 이유 → (B) 'That is why' 결론 순서입니다.",
+    "optionNotes": [
+      "정답. 반박 → 실제 이유 → 결론.",
+      "(B)의 'That is why'가 근거 없이 앞에 올 수 없습니다.",
+      "(B)가 앞서면 가리킬 이유가 없습니다.",
+      "(C)의 'What does seem to matter'가 반박(A) 없이 앞에 올 수 없습니다.",
+      "(C)가 앞서면 대조되는 내용이 없습니다."
+    ],
+    "trap": "(C)의 'What does seem to matter'는 (A)의 부정적 증거와 대비됩니다.",
+    "tip": "However → What does seem to matter → That is why의 흐름을 따라가세요."
+  },
+  {
+    "id": "m3-20-38",
+    "level": "m3",
+    "set": "mock-20",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nIn other words, a good night's sleep is just as important as studying itself.\n\n[글]\n( ① ) Many students stay up late to study before an exam. ( ② ) However, research shows that sleep helps the brain store what we have learned. ( ③ ) During deep sleep, the brain moves new information into long-term memory. ( ④ ) Students who sleep less than six hours tend to forget more of what they studied. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "[주어진 문장] 다시 말해 숙면은 공부 자체만큼 중요하다. [글] 많은 학생이 시험 전에 늦게까지 공부한다. 그러나 연구에 따르면 수면은 뇌가 배운 것을 저장하도록 돕는다. 깊은 잠을 자는 동안 뇌는 새로운 정보를 장기 기억으로 옮긴다. 여섯 시간 미만으로 자는 학생은 공부한 것을 더 많이 잊는 경향이 있다. 다시 말해 숙면은 공부 자체만큼 중요하다.",
+    "why": "앞의 근거를 요약하는 'In other words' 문장이므로 마지막인 ⑤에 들어갑니다.",
+    "optionNotes": [
+      "근거가 나오기 전입니다.",
+      "근거가 나오기 전입니다.",
+      "근거가 일부만 나왔습니다.",
+      "마지막 근거 뒤에 요약이 와야 합니다.",
+      "정답. 근거를 요약하는 결론입니다."
+    ],
+    "trap": "'However' 뒤에 놓고 싶어질 수 있지만 근거가 모두 나온 뒤여야 합니다.",
+    "tip": "'In other words'는 앞 내용을 바꾸어 말하는 요약 신호입니다."
+  },
+  {
+    "id": "m3-20-39",
+    "level": "m3",
+    "set": "mock-20",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThis surprising result shows how strongly our expectations shape our experiences.\n\n[글]\n( ① ) In one experiment, participants tasted two cups of the same wine, one labeled \"expensive\" and the other labeled \"cheap.\" ( ② ) Most participants said that the \"expensive\" wine tasted much better, although both cups contained exactly the same drink. ( ③ ) These expectations can even change the brain, since scans showed more activity in the pleasure centers when people drank the wine they believed was expensive. ( ④ ) Because of this, companies spend large amounts of money on attractive packaging and brand names. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 이 놀라운 결과는 우리의 기대가 경험을 얼마나 강하게 형성하는지 보여 준다. [글] 한 실험에서 참가자들은 \"비싼\"과 \"싼\"이라는 표시가 붙은 같은 와인 두 잔을 맛보았다. 대부분의 참가자는 두 잔이 정확히 같은 음료였음에도 \"비싼\" 와인이 훨씬 더 맛있다고 말했다. 이 놀라운 결과는 우리의 기대가 경험을 얼마나 강하게 형성하는지 보여 준다. 이러한 기대는 뇌를 바꾸기도 하는데, 스캔 결과 사람들이 비싸다고 믿은 와인을 마실 때 쾌감 중추의 활동이 더 많았다. 이 때문에 회사들은 매력적인 포장과 브랜드 이름에 많은 돈을 쓴다.",
+    "why": "'This surprising result'가 가리키는 결과(같은 와인인데 비싼 쪽이 더 맛있다고 함)가 ② 뒤에 나오고, ③의 'These expectations'가 주어진 문장의 expectations를 받으므로 ③에 들어갑니다.",
+    "optionNotes": [
+      "결과가 나오기 전이라 'This surprising result'가 어색합니다.",
+      "결과 문장 앞이라 'This surprising result'가 가리킬 대상이 없습니다.",
+      "정답. 결과 직후이고 뒤의 'These expectations'로 이어집니다.",
+      "'These expectations'가 가리킬 용어가 소개되기 전의 뒤 문장과 연결이 끊깁니다.",
+      "글의 끝이라 결과와 멀리 떨어집니다."
+    ],
+    "trap": "④에도 가능해 보이지만 ③의 'These expectations'가 given의 'our expectations'를 받습니다.",
+    "tip": "'This + 명사'와 'These + 명사'가 앞뒤로 연결되는 위치를 찾으세요."
+  },
+  {
+    "id": "m3-20-40",
+    "level": "m3",
+    "set": "mock-20",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Researchers asked two groups of students to take a memory test after learning a list of words. One group studied the list for thirty minutes and then took the test immediately. The other group studied for twenty minutes, took a short practice quiz, and then took the test. Surprisingly, the students who had taken the practice quiz remembered more words. Although the quiz group spent less time studying, the act of trying to recall information strengthened their memory.\n\n▶ Testing yourself with (A) quizzes can help you (B) information better than simply studying for a longer time.",
+    "options": [
+      "(A) difficult — (B) forget",
+      "(A) long — (B) ignore",
+      "(A) printed — (B) hide",
+      "(A) short practice — (B) remember",
+      "(A) random — (B) lose"
+    ],
+    "answer": 3,
+    "translation": "연구자들은 두 집단의 학생에게 단어 목록을 배운 뒤 기억 시험을 보게 했다. 한 집단은 30분 동안 목록을 공부한 뒤 바로 시험을 보았다. 다른 집단은 20분 동안 공부하고 짧은 연습 퀴즈를 푼 뒤 시험을 보았다. 놀랍게도 연습 퀴즈를 푼 학생들이 더 많은 단어를 기억했다. 퀴즈 집단은 공부 시간이 더 짧았지만 정보를 떠올리려는 행위가 기억을 강화했다. ▶ 짧은 연습 퀴즈로 스스로를 시험하면 단순히 더 오래 공부하는 것보다 정보를 더 잘 기억하는 데 도움이 된다.",
+    "why": "연습 퀴즈를 푼 집단이 더 많이 기억했으므로 (A)는 short practice, (B)는 remember입니다.",
+    "optionNotes": [
+      "difficult와 forget은 글과 반대입니다.",
+      "long과 ignore는 글에 나오지 않습니다.",
+      "printed와 hide는 글에 나오지 않습니다.",
+      "정답. 짧은 연습 퀴즈가 기억을 돕습니다.",
+      "random과 lose는 글에 나오지 않습니다."
+    ],
+    "trap": "'longer time'에 이끌려 long(②)을 고르지 마세요.",
+    "tip": "요약문은 실험의 변수(quiz)와 결과(remembered more)를 짝지으세요."
+  }
+]
