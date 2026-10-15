@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m2b-01-29",
+    "level": "m2",
+    "set": "mock-01",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Having {1|studying} abroad for three years, Minji returned to Korea last spring. She found it difficult {2|to adapt} to the fast pace of life there. Her old friends, most of {3|whom} had already started working, were busy with their own lives. At first, she felt as if she {4|were} a stranger in her own country. However, after joining a local volunteer group, she gradually began to feel {5|that} she belonged again.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "3년 동안 해외에서 공부한 민지는 지난봄 한국으로 돌아왔다. 그녀는 그곳의 빠른 생활 속도에 적응하기가 어렵다는 것을 알았다. 대부분이 이미 일을 시작한 그녀의 옛 친구들은 각자의 삶으로 바빴다. 처음에 그녀는 자기 나라에서 이방인이 된 것 같았다. 그러나 지역 봉사 단체에 가입한 뒤 그녀는 다시 소속감을 느끼기 시작했다.",
+    "why": "완료 분사구문은 'Having + p.p.' 형태이므로 'studying'이 아니라 'studied'여야 합니다.",
+    "optionNotes": [
+      "정답(틀린 것). Having studied여야 합니다.",
+      "find it difficult to adapt 구문입니다.",
+      "전치사 of 뒤의 목적격 관계대명사 whom입니다.",
+      "as if 가정법의 were입니다.",
+      "feel 뒤의 that절입니다."
+    ],
+    "trap": "Having 뒤에 -ing를 쓰는 것이 현재분사구문처럼 보여 속기 쉽습니다.",
+    "tip": "완료 분사구문은 Having + 과거분사입니다."
+  },
+  {
+    "id": "m2b-01-30",
+    "level": "m2",
+    "set": "mock-01",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Urban planners are increasingly {1|emphasizing} the importance of green spaces in cities. Parks and tree-lined streets not only make a city more attractive but also provide significant health benefits. For example, they reduce air pollution and {2|raise} the temperature during hot summers by offering shade. Moreover, residents who live near green spaces tend to exercise more and report lower levels of stress. Despite these advantages, many cities still {3|lack} sufficient parks because land prices are high. To solve this problem, some governments have {4|converted} unused rooftops and abandoned lots into small gardens, which are {5|accessible} to everyone.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "도시 계획가들은 도시 내 녹지 공간의 중요성을 점점 더 강조하고 있다. 공원과 가로수 길은 도시를 더 매력적으로 만들 뿐 아니라 상당한 건강상 이점도 준다. 예를 들어 공기 오염을 줄이고 그늘을 제공해 더운 여름의 기온을 낮춘다. 게다가 녹지 근처에 사는 주민들은 더 많이 운동하고 스트레스 수준이 낮다고 보고하는 경향이 있다. 이런 장점에도 땅값이 높아서 많은 도시는 여전히 공원이 부족하다. 이 문제를 해결하려고 일부 정부는 사용하지 않는 옥상과 버려진 빈터를 모두가 이용할 수 있는 작은 정원으로 바꾸었다.",
+    "why": "그늘을 제공해 여름 기온을 낮춘다는 흐름이므로 'raise(올리다)'가 아니라 'lower(낮추다)'여야 합니다.",
+    "optionNotes": [
+      "강조한다는 의미로 emphasizing이 알맞습니다.",
+      "정답(부적절). 그늘로 기온을 낮추므로 lower여야 합니다.",
+      "부족하다는 의미로 lack이 알맞습니다.",
+      "바꾸었다는 의미로 converted가 알맞습니다.",
+      "이용할 수 있다는 의미로 accessible이 알맞습니다."
+    ],
+    "trap": "앞의 reduce와 and로 연결된 동사의 방향이 같은지 확인하지 않기 쉽습니다.",
+    "tip": "and로 연결된 동사는 같은 방향(줄이다 + 낮추다)이어야 합니다."
+  },
+  {
+    "id": "m2b-01-31",
+    "level": "m2",
+    "set": "mock-01",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "When we think about being creative, we often imagine a sudden moment of inspiration. However, studies of famous inventors show a different picture. Thomas Edison, for example, tested thousands of materials before finding the right filament for the light bulb. Many artists also fill dozens of sketchbooks before producing a single masterpiece. These examples suggest that creativity does not appear out of nowhere; rather, it grows from __________. Even the most famous breakthroughs were built on countless small failures. In other words, the more we try and fail, the closer we get to a truly original idea.",
+    "options": [
+      "the careful avoidance of every possible mistake and risky attempt in daily life",
+      "a lucky coincidence that cannot be planned, predicted, or repeated by anyone",
+      "the natural talent that we are born with and cannot improve through any effort",
+      "strict rules that prevent any change and force everyone to follow the same method",
+      "patient experimentation and repeated trial and error"
+    ],
+    "answer": 4,
+    "translation": "창의적이 되는 것을 생각할 때 우리는 흔히 갑작스러운 영감의 순간을 상상한다. 그러나 유명한 발명가에 관한 연구는 다른 그림을 보여 준다. 예를 들어 토머스 에디슨은 전구에 알맞은 필라멘트를 찾기 전에 수천 가지 재료를 시험했다. 많은 예술가도 단 하나의 걸작을 만들기 전에 수십 권의 스케치북을 채운다. 이런 예는 창의성이 아무것도 없는 데서 나타나는 것이 아니라 끈기 있는 실험과 반복되는 시행착오에서 자란다는 것을 시사한다. 가장 유명한 돌파구조차 수많은 작은 실패 위에 세워졌다. 다시 말해 더 많이 시도하고 실패할수록 진정으로 독창적인 아이디어에 더 가까워진다.",
+    "why": "수천 번의 시험과 수십 권의 스케치북, 'try and fail'이라는 마지막 문장으로 보아 '끈기 있는 실험과 시행착오'가 알맞습니다.",
+    "optionNotes": [
+      "실수를 피하라는 내용은 글과 반대입니다.",
+      "우연이라는 내용은 글과 반대입니다.",
+      "타고난 재능이라는 내용은 나오지 않습니다.",
+      "엄격한 규칙은 나오지 않습니다.",
+      "정답. 끈기 있는 실험과 시행착오입니다."
+    ],
+    "trap": "첫 문장의 통념(sudden moment of inspiration)에 이끌리지 마세요.",
+    "tip": "In other words 뒤 문장(try and fail)이 빈칸 내용을 풀어 줍니다."
+  },
+  {
+    "id": "m2b-01-32",
+    "level": "m2",
+    "set": "mock-01",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Languages constantly borrow words from one another. English, for instance, uses \"kimono\" from Japanese, \"kindergarten\" from German, and \"safari\" from Swahili. Korean has also borrowed many words from English, such as \"computer\" and \"internet.\" Some people worry that these borrowed words may damage a language. However, linguists point out that borrowing is a natural process that shows how languages respond to the needs of their speakers. Even today, new words appear every year as technology and culture change. In this sense, a language is not a fixed system but a __________ one that keeps changing as people use it.",
+    "options": [
+      "perfectly closed and unchanging",
+      "living and flexible",
+      "simple and easy to learn",
+      "dead and forgotten",
+      "completely artificial and planned"
+    ],
+    "answer": 1,
+    "translation": "언어는 끊임없이 서로 단어를 빌려 온다. 예를 들어 영어는 일본어에서 \"kimono\"를, 독일어에서 \"kindergarten\"을, 스와힐리어에서 \"safari\"를 쓴다. 한국어도 \"computer\"와 \"internet\" 같은 많은 단어를 영어에서 빌려 왔다. 어떤 사람들은 이런 차용어가 언어를 해칠까 걱정한다. 그러나 언어학자들은 차용이 언어가 사용자의 필요에 반응하는 방식을 보여 주는 자연스러운 과정이라고 지적한다. 오늘날에도 기술과 문화가 변하면서 해마다 새로운 단어가 생겨난다. 이런 의미에서 언어는 고정된 체계가 아니라 사람들이 사용하면서 계속 변하는 살아 있고 유연한 체계이다.",
+    "why": "차용이 자연스러운 과정이고 계속 변한다고 했으므로 '살아 있고 유연한' 체계가 알맞습니다.",
+    "optionNotes": [
+      "고정된 체계라는 내용은 글과 반대입니다.",
+      "정답. 계속 변하는 살아 있고 유연한 체계입니다.",
+      "쉽다는 내용은 나오지 않습니다.",
+      "죽은 언어는 나오지 않습니다.",
+      "인위적이라는 내용은 나오지 않습니다."
+    ],
+    "trap": "'not a fixed system but a ~'의 대비를 보고 반대되는 형용사를 찾으세요.",
+    "tip": "'not A but B'에서 B는 A(fixed)와 반대 개념입니다."
+  },
+  {
+    "id": "m2b-01-33",
+    "level": "m2",
+    "set": "mock-01",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Fast fashion makes clothing so cheap that people can buy a new outfit for the price of a sandwich. This low price, however, hides the real cost. Producing a single cotton T-shirt requires thousands of liters of water, and the dyes used often pollute rivers near the factories. Moreover, because the clothes are not made to last, they end up in landfills after only a few wears. Few shoppers ever think about this hidden cost when they pay at the register. In short, the true price of an inexpensive shirt is paid not by the customer but by __________.",
+    "options": [
+      "the shop that sells it at a big discount during the end-of-season sale",
+      "the designer who created the pattern and the brand that advertises it",
+      "the person who wears it every day and washes it many times a week",
+      "the company that advertises it widely on television and on social media",
+      "the environment and the workers who make it"
+    ],
+    "answer": 4,
+    "translation": "패스트 패션은 옷을 아주 싸게 만들어서 샌드위치 값으로 새 옷 한 벌을 살 수 있게 한다. 그러나 이 낮은 가격은 진짜 비용을 숨긴다. 면 티셔츠 한 장을 만드는 데 수천 리터의 물이 필요하고, 사용되는 염료는 흔히 공장 근처 강을 오염시킨다. 게다가 옷은 오래가도록 만들어지지 않아서 몇 번 입은 뒤 매립지에 버려진다. 계산대에서 돈을 낼 때 이 숨은 비용을 생각하는 소비자는 거의 없다. 요컨대 값싼 셔츠의 진짜 값은 소비자가 아니라 환경과 그것을 만드는 노동자가 치른다.",
+    "why": "물 사용, 염료 오염, 매립지 문제를 들었으므로 '환경과 만드는 노동자'가 알맞습니다.",
+    "optionNotes": [
+      "가게는 나오지 않습니다.",
+      "디자이너는 나오지 않습니다.",
+      "착용자는 not A but B의 A에 해당합니다.",
+      "광고 회사는 나오지 않습니다.",
+      "정답. 환경과 노동자가 값을 치릅니다."
+    ],
+    "trap": "'customer'에 해당하는 보기(③)를 not A but B 구조에서 혼동하지 마세요.",
+    "tip": "'not A but B'에서 A는 소비자, B가 빈칸입니다."
+  },
+  {
+    "id": "m2b-01-34",
+    "level": "m2",
+    "set": "mock-01",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Anyone who has tried to learn a musical instrument knows how frustrating the early stage can be. The sounds are unpleasant, and progress seems painfully slow. Many beginners quit at this point and conclude that they have no talent. Yet music teachers often point out that the first months are simply a period when the brain and fingers are building new connections. The learners who continue through this uncomfortable stage are usually the ones who later play beautifully. Therefore, what separates successful learners from those who give up is not talent but __________.",
+    "options": [
+      "their willingness to keep going when progress is hard to see",
+      "their access to expensive instruments and private lessons from famous teachers",
+      "the age at which they began to play and the amount of time they have each day",
+      "the number of concerts they attend and the famous musicians they have met",
+      "their ability to read difficult music and to play complicated pieces very fast"
+    ],
+    "answer": 0,
+    "translation": "악기를 배우려고 해 본 사람은 초기 단계가 얼마나 답답할 수 있는지 안다. 소리는 듣기 싫고 진전은 고통스러울 만큼 느려 보인다. 많은 초보자가 이 시점에서 그만두고 자신에게 재능이 없다고 결론짓는다. 그러나 음악 교사들은 첫 몇 달이 뇌와 손가락이 새로운 연결을 만드는 시기일 뿐이라고 흔히 지적한다. 이 불편한 단계를 거쳐 계속하는 학습자들이 보통 나중에 아름답게 연주하는 사람들이다. 그러므로 성공하는 학습자와 포기하는 학습자를 가르는 것은 재능이 아니라 진전이 보이지 않을 때도 계속하려는 의지이다.",
+    "why": "불편한 초기 단계를 지나 계속하는 사람이 결국 잘하게 된다고 했으므로 '진전이 보이지 않아도 계속하려는 의지'가 알맞습니다.",
+    "optionNotes": [
+      "정답. 진전이 보이지 않아도 계속하려는 의지입니다.",
+      "비싼 악기는 나오지 않습니다.",
+      "시작 나이는 나오지 않습니다.",
+      "연주회 관람은 나오지 않습니다.",
+      "악보 읽기는 나오지 않습니다."
+    ],
+    "trap": "'talent'와 대비되는 말로 기술적 능력(⑤)을 고르지 마세요.",
+    "tip": "앞 문장의 'continue through this uncomfortable stage'가 빈칸의 단서입니다."
+  },
+  {
+    "id": "m2b-01-35",
+    "level": "m2",
+    "set": "mock-01",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Learning to cook offers more benefits than simply being able to prepare a meal. ① The average price of vegetables in supermarkets rose by about five percent last year. ② Cooking at home allows people to control the ingredients and avoid unhealthy additives. ③ It also helps them save money in the long run, since eating out is usually more expensive. ④ Furthermore, preparing meals with family members creates opportunities for conversation and bonding. ⑤ For these reasons, many schools now include basic cooking classes in their curriculum.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "요리를 배우는 것은 단순히 식사를 준비할 수 있게 되는 것 이상의 이점을 준다. ① 슈퍼마켓의 채소 평균 가격은 작년에 약 5퍼센트 올랐다. ② 집에서 요리하면 재료를 통제하고 건강에 해로운 첨가물을 피할 수 있다. ③ 또한 외식이 보통 더 비싸기 때문에 장기적으로 돈을 아끼는 데도 도움이 된다. ④ 게다가 가족과 함께 식사를 준비하면 대화와 유대의 기회가 생긴다. ⑤ 이런 이유로 많은 학교가 이제 기초 요리 수업을 교육과정에 포함한다.",
+    "why": "글은 요리를 배우는 이점을 말하는데 ①은 채소 가격 상승이라는 별개의 사실이라 흐름과 관계가 없습니다.",
+    "optionNotes": [
+      "정답(무관). 채소 가격 상승 이야기입니다.",
+      "요리의 이점입니다.",
+      "요리의 이점입니다.",
+      "요리의 이점입니다.",
+      "결론 문장입니다."
+    ],
+    "trap": "②③의 비용 이야기와 연결되어 보일 수 있지만 요리의 이점이 아닙니다.",
+    "tip": "주제(요리의 이점)와 이어지지 않는 문장을 고르세요."
+  },
+  {
+    "id": "m2b-01-36",
+    "level": "m2",
+    "set": "mock-01",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "In the early 1900s, many people in Europe believed that the cold, snowy peaks of the Alps could not be conquered in winter. Stories of avalanches and freezing winds made the idea seem even more dangerous.\n(A) Their success changed the image of winter mountaineering. Soon skiing and winter climbing became popular activities across the mountain regions of Europe.\n(B) The group, however, did not accept this belief. They prepared special equipment for the climb, including wider skis and warmer boots.\n(C) A small group of climbers from Austria decided to challenge the idea in 1911.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 4,
+    "translation": "1900년대 초 유럽의 많은 사람은 알프스의 춥고 눈 덮인 봉우리를 겨울에 정복할 수 없다고 믿었다. 눈사태와 얼어붙는 바람에 대한 이야기는 그 생각을 더욱 위험해 보이게 했다. (C) 오스트리아의 한 소규모 등반가 무리는 1911년 이 생각에 도전하기로 했다. (B) 그러나 그 무리는 이 믿음을 받아들이지 않았다. 그들은 등반을 위한 넓은 스키와 더 따뜻한 부츠를 포함한 특수 장비를 준비했다. (A) 그들의 성공은 겨울 등반의 이미지를 바꾸었다. 곧 스키와 겨울 등반이 유럽의 산악 지역 전역에서 인기 있는 활동이 되었다.",
+    "why": "(C) 도전하기로 결심 → (B) 'The group, however' 준비 → (A) 'Their success' 성공 후 변화 순서입니다.",
+    "optionNotes": [
+      "(A)의 'Their success'가 가리킬 대상이 앞에 없습니다.",
+      "(B)의 'The group'이 가리킬 대상이 앞에 없습니다.",
+      "(B)가 (C)보다 앞서면 'The group'이 가리킬 대상이 없습니다.",
+      "(A)가 (B)보다 앞서면 준비 전에 성공이 나옵니다.",
+      "정답. 도전 결심 → 준비 → 성공."
+    ],
+    "trap": "(B)의 'The group'은 (C)의 'a small group of climbers'를 가리킵니다.",
+    "tip": "정관사와 지시어(The group, Their success)가 가리키는 앞 문장을 확인하세요."
+  },
+  {
+    "id": "m2b-01-37",
+    "level": "m2",
+    "set": "mock-01",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Some people believe that being busy all the time is the key to success. They take pride in working late, skipping lunch, and answering messages even on weekends.\n(A) Many companies have therefore started to encourage short rest periods during the working day, and some even provide quiet rooms.\n(B) However, working without rest often leads to exhaustion and lower productivity. In the long run, it can even cause serious health problems that no promotion can repair.\n(C) In fact, studies show that employees who take regular breaks are more creative and more focused. They also make fewer mistakes than those who work nonstop.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 2,
+    "translation": "어떤 사람들은 항상 바쁜 것이 성공의 열쇠라고 믿는다. 그들은 늦게까지 일하고 점심을 거르고 주말에도 메시지에 답하는 것을 자랑스러워한다. (B) 그러나 쉬지 않고 일하면 흔히 탈진과 낮은 생산성으로 이어진다. 장기적으로는 어떤 승진으로도 되돌릴 수 없는 심각한 건강 문제까지 일으킬 수 있다. (C) 실제로 연구에 따르면 규칙적으로 쉬는 직원은 더 창의적이고 더 집중한다. 그들은 또한 쉬지 않고 일하는 사람보다 실수를 덜 한다. (A) 그래서 많은 회사가 근무 중 짧은 휴식 시간을 장려하기 시작했고 일부는 조용한 방을 제공하기도 한다.",
+    "why": "(B) However 반박 → (C) In fact 근거 → (A) therefore 결과 순서입니다.",
+    "optionNotes": [
+      "(A)의 'therefore'가 가리킬 이유가 앞에 없습니다.",
+      "(B)가 처음에 와도 (A)가 중간에 오면 결과가 근거보다 먼저 나옵니다.",
+      "정답. 반박 → 근거 → 결과.",
+      "(C)의 'In fact'가 근거할 주장이 앞에 없습니다.",
+      "(C)가 (B)보다 앞서면 'In fact'가 받을 반박이 없습니다."
+    ],
+    "trap": "(B)의 'However'는 주어진 글의 통념과 대조됩니다.",
+    "tip": "However → In fact → therefore의 논리 흐름을 따라가세요."
+  },
+  {
+    "id": "m2b-01-38",
+    "level": "m2",
+    "set": "mock-01",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThis is because our eyes take time to adjust to the sudden change in light.\n\n[글]\n( ① ) When we walk from a bright street into a dark movie theater, we can hardly see anything for a few moments. ( ② ) Then, slowly, shapes begin to appear, and soon we can find our seats. ( ③ ) Inside the eye, the pupils become larger to let in more light, and the light-sensitive cells gradually become more active. ( ④ ) Completely adapting to the dark can take up to thirty minutes. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "[주어진 문장] 이것은 우리 눈이 빛의 갑작스러운 변화에 적응하는 데 시간이 걸리기 때문이다. [글] 밝은 거리에서 어두운 영화관으로 걸어 들어가면 잠시 동안 거의 아무것도 볼 수 없다. 이것은 우리 눈이 빛의 갑작스러운 변화에 적응하는 데 시간이 걸리기 때문이다. 그러다 서서히 형체가 보이기 시작하고 곧 자리를 찾을 수 있다. 눈 안에서는 더 많은 빛을 받아들이도록 동공이 커지고 빛에 민감한 세포가 점차 더 활발해진다. 어둠에 완전히 적응하는 데는 최대 30분이 걸릴 수 있다.",
+    "why": "'This is because'는 바로 앞의 현상(거의 아무것도 볼 수 없다)의 이유를 설명하므로 ②에 들어갑니다.",
+    "optionNotes": [
+      "설명할 현상이 나오기 전입니다.",
+      "정답. 현상 직후에 이유를 설명합니다.",
+      "형체가 보이기 시작한 뒤라 이유 문장이 어색합니다.",
+      "눈 안의 작용을 이미 설명한 뒤라 어색합니다.",
+      "글의 끝이라 이유 문장이 어색합니다."
+    ],
+    "trap": "③의 눈 안의 작용 설명이 이유처럼 보여 ③을 고르기 쉽습니다.",
+    "tip": "'This is because'는 바로 앞 문장의 결과를 받아 이유를 설명합니다."
+  },
+  {
+    "id": "m2b-01-39",
+    "level": "m2",
+    "set": "mock-01",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nSuch a gap can make it difficult for children from low-income families to catch up.\n\n[글]\n( ① ) In many countries, children from wealthy families are more likely to attend high-quality schools and receive private tutoring. ( ② ) They also tend to have more books at home and more opportunities to travel and learn from new experiences. ( ③ ) As a result, the educational gap between rich and poor children begins early and grows wider over time. ( ④ ) To reduce this inequality, some governments provide free after-school programs for children who need extra support. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 이런 격차는 저소득 가정의 아이들이 따라잡기 어렵게 만들 수 있다. [글] 많은 나라에서 부유한 가정의 아이들은 질 높은 학교에 다니고 개인 교습을 받을 가능성이 더 높다. 그들은 또한 집에 책이 더 많고 여행하며 새로운 경험으로 배울 기회도 더 많은 경향이 있다. 그 결과 부유한 아이와 가난한 아이 사이의 교육 격차는 일찍 시작되어 시간이 지날수록 커진다. 이런 격차는 저소득 가정의 아이들이 따라잡기 어렵게 만들 수 있다. 이 불평등을 줄이려고 일부 정부는 추가 지원이 필요한 아이들을 위해 무료 방과 후 프로그램을 제공한다.",
+    "why": "'Such a gap'이 가리키는 격차가 ③의 'the educational gap'에서 언급되므로 ③ 바로 뒤에 들어갑니다.",
+    "optionNotes": [
+      "'Such a gap'이 가리킬 격차가 아직 나오지 않았습니다.",
+      "격차 자체가 아직 언급되지 않았습니다.",
+      "정답. 'the educational gap' 직후입니다.",
+      "해결책을 말한 뒤라 'Such a gap'과 연결이 끊깁니다.",
+      "글의 끝이라 어색합니다."
+    ],
+    "trap": "④의 해결책 앞에도 어울려 보이지만 'Such a gap'은 ③의 'gap'을 바로 받습니다.",
+    "tip": "'Such a + 명사'는 앞 문장에서 언급된 명사를 가리킵니다."
+  },
+  {
+    "id": "m2b-01-40",
+    "level": "m2",
+    "set": "mock-01",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Researchers asked two groups of students to learn a list of new words. One group studied the list over a single long session, while the other studied the same list in several short sessions spread over a week. When both groups were tested a month later, the second group remembered significantly more words. The researchers explained that revisiting information after a break forces the brain to recall it again. This strengthens the memory. Cramming, in contrast, may help in the short term, but the memory fades quickly.\n\n▶ Studying in several short sessions over a period of time is more (A) for long-term memory than studying everything in one session, because repeated (B) strengthens the memory.",
+    "options": [
+      "(A) harmful — (B) forgetting",
+      "(A) effective — (B) recall",
+      "(A) difficult — (B) sleeping",
+      "(A) expensive — (B) testing",
+      "(A) boring — (B) reading"
+    ],
+    "answer": 1,
+    "translation": "연구자들은 두 집단의 학생에게 새 단어 목록을 배우게 했다. 한 집단은 한 번의 긴 시간에 걸쳐 목록을 공부했고, 다른 집단은 같은 목록을 일주일에 걸쳐 여러 번의 짧은 시간으로 나누어 공부했다. 한 달 뒤 두 집단을 시험했을 때 두 번째 집단이 훨씬 더 많은 단어를 기억했다. 연구자들은 휴식 후에 정보를 다시 접하면 뇌가 그것을 다시 떠올리게 된다고 설명했다. 이것이 기억을 강화한다. 반면 벼락치기는 단기적으로는 도움이 될 수 있지만 기억이 빨리 사라진다. ▶ 일정 기간에 걸쳐 여러 번의 짧은 시간으로 공부하는 것은 반복된 떠올리기가 기억을 강화하기 때문에 한 번에 모든 것을 공부하는 것보다 장기 기억에 더 효과적이다.",
+    "why": "여러 번 나누어 공부한 집단이 더 많이 기억했고 반복된 떠올리기가 기억을 강화하므로 (A)는 effective, (B)는 recall입니다.",
+    "optionNotes": [
+      "harmful과 forgetting은 글과 반대입니다.",
+      "정답. 반복된 떠올리기가 기억을 강화해 더 효과적입니다.",
+      "difficult와 sleeping은 글에 나오지 않습니다.",
+      "expensive와 testing은 글의 요약과 맞지 않습니다.",
+      "boring과 reading은 글의 요약과 맞지 않습니다."
+    ],
+    "trap": "(A)가 맞아도 (B)가 글의 설명과 맞는지 확인하세요.",
+    "tip": "요약문은 결과(effective)와 원인(repeated recall)을 짝지어 찾으세요."
+  }
+]

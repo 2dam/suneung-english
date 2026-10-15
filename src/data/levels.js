@@ -40,7 +40,8 @@ export const LEVELS = [
     mockCount: 30,
     spec: {
       a: { readingWords: [55, 125], scriptWords: 100, avgSentence: 15, maxSentence: 21 },
-      b: { readingWords: [85, 160], scriptWords: 125, avgSentence: 18, maxSentence: 26 },
+      // B코스 중2 = EBS 「중학 수능특강 영어 유형+실전」(중3용) 수준
+      b: { readingWords: [90, 165], scriptWords: 130, avgSentence: 18, maxSentence: 26 },
     },
   },
   {
@@ -52,7 +53,8 @@ export const LEVELS = [
     mockCount: 40,
     spec: {
       a: { readingWords: [75, 160], scriptWords: 125, avgSentence: 17, maxSentence: 26 },
-      b: { readingWords: [110, 190], scriptWords: 150, avgSentence: 20, maxSentence: 30 },
+      // B코스 중3 = EBS 고1·고2 1학기 교재(수능특강 계열 입문~학력평가) 수준
+      b: { readingWords: [120, 200], scriptWords: 160, avgSentence: 21, maxSentence: 32 },
     },
   },
 ]

@@ -1,0 +1,343 @@
+[
+  {
+    "id": "m3b-01-18",
+    "level": "m3",
+    "set": "mock-01",
+    "no": 18,
+    "type": "purpose",
+    "stem": "다음 글의 목적으로 가장 적절한 것은?",
+    "passage": "Dear Mr. Anderson,\nI am writing on behalf of the Hanbit High School Robotics Club to ask for your company's support. Our team of twelve students has qualified for the National Youth Robotics Championship, which will be held in Busan this August. Although we are proud of this achievement, the cost of transportation, accommodation, and the materials needed to improve our robot is beyond what our school budget can cover. We would be sincerely grateful if your company could sponsor part of these expenses. In return, we would be glad to display your company's logo on our team uniforms and robot and to present our project at your next community event. Attached are a detailed budget and a summary of our work. Thank you for considering our request.\nSincerely,\nMinseo Han, Team Leader",
+    "options": [
+      "로봇 대회 출전에 필요한 비용의 일부를 후원해 달라고 요청하려고",
+      "회사에서 개발한 신제품 로봇 기술과 부품에 대한 자세한 설명을 문의하려고",
+      "한빛고등학교 로봇 동아리의 신입 부원을 모집하는 일정과 방법을 회사에 알리려고",
+      "대회 주최 측이 대회 일정을 갑자기 변경한 것에 대해 회사에 정식으로 항의하려고",
+      "회사의 로봇 공장 견학 프로그램에 동아리 학생들이 참가할 수 있도록 신청하려고"
+    ],
+    "answer": 0,
+    "translation": "앤더슨 씨께. 저는 한빛고등학교 로봇 동아리를 대표하여 귀사의 지원을 요청하고자 글을 씁니다. 열두 명으로 이루어진 우리 팀은 올해 8월 부산에서 열리는 전국 청소년 로봇 대회에 출전 자격을 얻었습니다. 이 성과가 자랑스럽지만 교통비, 숙박비, 로봇을 개선하는 데 필요한 재료비는 학교 예산으로 감당할 수 있는 수준을 넘습니다. 귀사가 이 비용의 일부를 후원해 주신다면 진심으로 감사하겠습니다. 그 대가로 우리는 팀 유니폼과 로봇에 귀사의 로고를 표시하고 귀사의 다음 지역 행사에서 우리의 프로젝트를 발표하겠습니다. 자세한 예산과 활동 요약을 첨부했습니다. 요청을 고려해 주셔서 감사합니다. 한민서 드림.",
+    "why": "로봇 대회 출전 비용의 일부를 후원해 달라고 요청하는 글입니다.",
+    "optionNotes": [
+      "정답. 대회 출전 비용의 후원을 요청합니다.",
+      "기술 문의는 나오지 않습니다.",
+      "부원 모집은 나오지 않습니다.",
+      "일정 변경은 나오지 않습니다.",
+      "견학 신청은 나오지 않습니다."
+    ],
+    "trap": "로고 게시와 프로젝트 발표는 후원의 대가일 뿐 글의 목적이 아닙니다.",
+    "tip": "목적 문제는 'We would be grateful if ~' 같은 핵심 요청 문장을 찾으세요."
+  },
+  {
+    "id": "m3b-01-19",
+    "level": "m3",
+    "set": "mock-01",
+    "no": 19,
+    "type": "mood",
+    "stem": "다음 글에 드러난 Daeun의 심경 변화로 가장 적절한 것은?",
+    "passage": "Daeun's palms were damp as she walked into the debate hall. It was her first tournament, and her opponents were students who had competed for years. During the opening round, she kept glancing at her notes, afraid that her voice would crack. When the first rebuttal came, she felt her mind go blank, and for a moment she doubted that she belonged there at all. Then she remembered the advice from her coach: \"Listen to their argument, and answer one point at a time.\" She took a breath, wrote down three key words, and began to respond calmly. As her confidence grew, the words came more easily, and by the final round she was actually looking forward to her next turn to speak. When the judges announced the results, she had not won, but she walked out of the hall with her head held high, already planning how to prepare for the next tournament.",
+    "options": [
+      "nervous and doubtful → determined and hopeful",
+      "calm and confident → furious and disappointed at the judges",
+      "jealous of her opponents → thankful for the coach's harsh words",
+      "relaxed and cheerful → embarrassed by her own mistakes",
+      "indifferent to the result → frightened of the next tournament"
+    ],
+    "answer": 0,
+    "translation": "다은은 토론장에 들어서며 손바닥이 축축했다. 그것은 그녀의 첫 대회였고 상대는 수년간 경쟁해 온 학생들이었다. 첫 라운드 동안 그녀는 목소리가 갈라질까 봐 두려워서 계속 메모를 흘끗거렸다. 첫 반박이 나오자 머릿속이 하얘졌고 잠시 자신이 그곳에 있을 자격이 있는지 의심했다. 그때 코치의 조언이 떠올랐다. \"상대의 주장을 듣고 한 번에 한 가지씩 대답하라.\" 그녀는 숨을 쉬고 핵심어 세 개를 적은 뒤 차분하게 대답하기 시작했다. 자신감이 커지자 말이 더 쉽게 나왔고 결승 라운드에서는 다음 발언 순서가 실제로 기대되기까지 했다. 심사위원이 결과를 발표했을 때 그녀는 이기지 못했지만 고개를 들고 토론장을 걸어 나왔고 벌써 다음 대회를 준비할 방법을 계획하고 있었다.",
+    "why": "첫 대회에서 긴장하고 자신을 의심하다가(nervous and doubtful), 침착해지며 다음을 준비하려는 의지와 희망을 보입니다(determined and hopeful).",
+    "optionNotes": [
+      "정답. 긴장과 의심에서 의지와 희망으로 변했습니다.",
+      "침착함에서 격분이 아닙니다.",
+      "질투에서 감사가 아닙니다.",
+      "편안함에서 당황이 아닙니다.",
+      "무관심에서 두려움이 아닙니다."
+    ],
+    "trap": "결과가 우승이 아니라는 점에서 실망으로 끝났다고 판단하지 마세요.",
+    "tip": "전환 신호(Then she remembered ~)와 마지막 문장의 태도를 함께 보세요."
+  },
+  {
+    "id": "m3b-01-20",
+    "level": "m3",
+    "set": "mock-01",
+    "no": 20,
+    "type": "claim",
+    "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+    "passage": "Many cities respond to traffic jams by building wider roads and more highways. At first, this seems logical: more space should mean smoother traffic. However, experience shows that new roads quickly attract more cars, and congestion soon returns to the previous level. Public transportation, on the other hand, can move a large number of people using far less space, and it reduces air pollution and noise at the same time. Experts call this pattern induced demand, because more road space invites more driving. Cities that have invested in reliable subways and buses report not only shorter commuting times but also lower transport costs for residents. Therefore, rather than expanding roads for private cars, city governments should prioritize the development of efficient public transportation.",
+    "options": [
+      "도시의 교통 체증은 도로를 충분히 넓히고 새 고속도로를 지으면 영구적으로 해결된다.",
+      "대중교통의 운영비를 충당하기 위해 요금은 도시가 아니라 이용자가 전부 부담해야 한다.",
+      "도시 정부는 승용차를 위한 도로 확장보다 효율적인 대중교통 개발을 우선해야 한다.",
+      "도시의 교통 체증이 생기는 원인은 주로 일부 운전자들의 부주의한 운전 습관이다.",
+      "도시의 지하철은 버스보다 건설 비용과 운영비가 낮아 항상 더 경제적인 교통수단이다."
+    ],
+    "answer": 2,
+    "translation": "많은 도시는 교통 체증에 도로를 넓히고 고속도로를 더 짓는 것으로 대응한다. 처음에는 논리적으로 보인다. 공간이 더 많으면 교통이 더 원활해야 하기 때문이다. 그러나 경험상 새 도로는 곧 더 많은 자동차를 끌어들이고 혼잡은 금세 이전 수준으로 돌아온다. 반면 대중교통은 훨씬 적은 공간으로 많은 사람을 옮길 수 있으며 대기 오염과 소음도 줄인다. 전문가들은 이 패턴을 유발 수요라고 부르는데, 도로 공간이 늘면 운전이 더 늘기 때문이다. 믿을 만한 지하철과 버스에 투자한 도시는 통근 시간이 짧아졌을 뿐 아니라 주민의 교통비도 낮아졌다고 보고한다. 그러므로 도시 정부는 승용차를 위해 도로를 넓히기보다 효율적인 대중교통 개발을 우선해야 한다.",
+    "why": "마지막 문장 'city governments should prioritize the development of efficient public transportation'이 주장입니다.",
+    "optionNotes": [
+      "새 도로는 혼잡이 곧 돌아온다고 했습니다.",
+      "요금 부담 문제는 나오지 않습니다.",
+      "정답. 도로 확장보다 대중교통 개발을 우선해야 합니다.",
+      "운전자의 부주의는 나오지 않습니다.",
+      "지하철과 버스의 비교는 나오지 않습니다."
+    ],
+    "trap": "첫 부분의 통념(wider roads)을 필자의 주장으로 착각하지 마세요.",
+    "tip": "However, on the other hand 이후와 Therefore 문장이 주장입니다."
+  },
+  {
+    "id": "m3b-01-21",
+    "level": "m3",
+    "set": "mock-01",
+    "no": 21,
+    "type": "implied",
+    "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "passage": "Everyone at the family dinner knew that my uncle had lost his job last month, but nobody wanted to bring it up. People talked about the weather, the food, and the news, and the silence between sentences grew heavier. Finally, my mother put down her fork and said, \"We can't keep ignoring {u|the elephant in the room}. Let's talk about how we can help him.\" At first, my uncle looked surprised, but then he smiled with relief and thanked her.",
+    "options": [
+      "a large and heavy animal that has accidentally entered the house during a family dinner",
+      "an obvious and serious problem that everyone avoids talking about",
+      "a dish that was prepared by the family for a special occasion at the dining table",
+      "a guest who arrives late to a family meeting and makes everyone wait for the meal",
+      "a topic that is too difficult and complicated for young children to understand easily"
+    ],
+    "answer": 1,
+    "translation": "가족 저녁 식사에서 모두가 삼촌이 지난달 직장을 잃은 것을 알고 있었지만 아무도 그것을 꺼내고 싶어 하지 않았다. 사람들은 날씨와 음식, 뉴스를 이야기했고 문장 사이의 침묵은 점점 무거워졌다. 마침내 어머니가 포크를 내려놓고 말했다. \"우리는 방 안의 코끼리를 계속 외면할 수는 없어요. 어떻게 도울 수 있을지 이야기해 봐요.\" 처음에 삼촌은 놀란 표정이었지만 이내 안도하며 웃고 어머니께 감사했다.",
+    "why": "모두가 알지만 말하지 않던 삼촌의 실직 문제를 가리키므로 'the elephant in the room'은 모두가 외면하는 명백하고 심각한 문제를 뜻합니다.",
+    "optionNotes": [
+      "코끼리가 집에 들어왔다는 문자 그대로의 뜻이 아닙니다.",
+      "정답. 모두가 알지만 이야기를 피하는 심각한 문제입니다.",
+      "특별한 요리가 아닙니다.",
+      "늦게 도착한 손님이 아닙니다.",
+      "아이들이 이해하기 어려운 주제라는 뜻이 아닙니다."
+    ],
+    "trap": "'elephant'를 문자 그대로 해석하지 마세요.",
+    "tip": "관용 표현은 앞 문장(nobody wanted to bring it up)에서 의미를 추론하세요."
+  },
+  {
+    "id": "m3b-01-22",
+    "level": "m3",
+    "set": "mock-01",
+    "no": 22,
+    "type": "gist",
+    "stem": "다음 글의 요지로 가장 적절한 것은?",
+    "passage": "People often assume that happiness comes from achieving big goals, such as getting a promotion or winning a prize. However, psychologists have found that these big events affect our happiness for a surprisingly short time. We quickly adapt to new circumstances, and our mood returns to its usual level. In contrast, small, repeated pleasures, such as having a conversation with a friend, enjoying a favorite meal, or taking a walk in the sun, add up and make a lasting difference. Because these experiences are available every day, they are a more reliable source of well-being than rare victories. Therefore, instead of waiting for a single great success, we should learn to notice and appreciate the small positive moments in everyday life.",
+    "options": [
+      "승진이나 수상처럼 큰 목표를 이루는 것이 지속적인 행복을 얻기 위한 가장 확실하고 효과적인 방법이다.",
+      "일상 속의 작은 즐거움을 알아차리고 소중히 여기는 것이 지속적인 행복에 더 도움이 된다.",
+      "친구와의 대화는 음식이나 산책 같은 다른 어떤 활동보다 행복에 훨씬 더 큰 영향을 준다고 할 수 있다.",
+      "새로운 환경이나 상황에 완전히 적응하는 데는 보통 사람들이 생각하는 것보다 훨씬 오랜 시간이 걸린다.",
+      "성공을 이루는 것은 사람들의 장기적인 행복과 아무런 관련이 없으므로 추구할 필요가 없다."
+    ],
+    "answer": 1,
+    "translation": "사람들은 흔히 행복이 승진이나 수상 같은 큰 목표를 이루는 데서 온다고 생각한다. 그러나 심리학자들은 이런 큰 사건이 놀라울 만큼 짧은 시간만 행복에 영향을 준다는 것을 발견했다. 우리는 새로운 상황에 빠르게 적응하고 기분은 평소 수준으로 돌아간다. 반면 친구와의 대화, 좋아하는 음식 즐기기, 햇볕 아래 산책하기 같은 작고 반복되는 즐거움은 쌓여서 지속적인 차이를 만든다. 이런 경험은 매일 접할 수 있으므로 드문 승리보다 더 믿을 만한 행복의 원천이다. 그러므로 단 한 번의 큰 성공을 기다리기보다 일상의 작은 긍정적인 순간을 알아차리고 감사하는 법을 배워야 한다.",
+    "why": "큰 성공보다 일상의 작은 즐거움이 더 지속적인 행복의 원천이라는 것이 요지입니다.",
+    "optionNotes": [
+      "글에서 반박되는 통념입니다.",
+      "정답. 일상의 작은 즐거움을 소중히 여겨야 합니다.",
+      "친구와의 대화는 예시일 뿐입니다.",
+      "적응 시간은 나오지 않으며 오히려 빠르다고 합니다.",
+      "성공이 관련 없다는 내용은 없습니다."
+    ],
+    "trap": "예시(a conversation with a friend)를 요지로 일반화하지 마세요.",
+    "tip": "However와 Therefore 문장이 요지를 담습니다."
+  },
+  {
+    "id": "m3b-01-23",
+    "level": "m3",
+    "set": "mock-01",
+    "no": 23,
+    "type": "topic",
+    "stem": "다음 글의 주제로 가장 적절한 것은?",
+    "passage": "When you hear that a restaurant has a long line, you are more likely to want to eat there. When many people are reading a particular book, it seems more interesting to you. This tendency, known as the bandwagon effect, shows how strongly we are influenced by what others do. Marketers frequently use it by displaying the number of customers or the best-seller label. Politicians also use it when they announce that most voters support them. The problem is that people sometimes follow the crowd without examining whether the popular choice actually suits them. Researchers have shown that even a small number of people looking up at the sky can make passersby do the same. Recognizing this tendency helps us make more independent and thoughtful decisions.",
+    "options": [
+      "why restaurants with long lines outside usually serve poor food and charge very high prices",
+      "how best-selling authors become famous around the world and earn large amounts of money",
+      "what makes a political candidate successful in elections and popular among young voters",
+      "how others' choices influence our decisions and why we should be aware of it",
+      "where marketers find new customers for their products and how they decide on prices"
+    ],
+    "answer": 3,
+    "translation": "어떤 식당에 긴 줄이 있다는 말을 들으면 그곳에서 먹고 싶어질 가능성이 더 높다. 많은 사람이 특정한 책을 읽고 있으면 그 책이 더 흥미롭게 느껴진다. 편승 효과로 알려진 이 경향은 우리가 다른 사람의 행동에 얼마나 강하게 영향을 받는지 보여 준다. 마케터는 고객의 수나 베스트셀러 표시를 보여 주는 방식으로 이를 자주 이용한다. 정치인도 대다수의 유권자가 자신을 지지한다고 발표할 때 이를 이용한다. 문제는 사람들이 인기 있는 선택이 자신에게 실제로 맞는지 살피지 않고 다수를 따를 때가 있다는 것이다. 연구자들은 소수의 사람이 하늘을 올려다보기만 해도 행인들이 따라 한다는 것을 보여 주었다. 이 경향을 인식하면 더 독립적이고 신중한 결정을 내릴 수 있다.",
+    "why": "다른 사람의 선택이 우리의 결정에 미치는 영향과 이를 인식해야 하는 이유를 설명하는 글입니다.",
+    "optionNotes": [
+      "식당의 음식 품질은 나오지 않습니다.",
+      "작가의 유명세는 나오지 않습니다.",
+      "선거의 성공 요인은 나오지 않습니다.",
+      "정답. 타인의 선택이 결정에 미치는 영향과 인식의 중요성입니다.",
+      "마케터의 고객 발굴은 나오지 않습니다."
+    ],
+    "trap": "마케터·정치인은 편승 효과의 사례일 뿐 주제가 아닙니다.",
+    "tip": "주제는 반복되는 핵심 개념(bandwagon effect)과 결론(Recognizing ~)을 묶어 찾으세요."
+  },
+  {
+    "id": "m3b-01-24",
+    "level": "m3",
+    "set": "mock-01",
+    "no": 24,
+    "type": "title",
+    "stem": "다음 글의 제목으로 가장 적절한 것은?",
+    "passage": "For decades, scientists believed that the human brain stopped producing new cells after childhood. In the late 1990s, however, researchers discovered that adults can create new neurons in a region of the brain called the hippocampus, which is crucial for learning and memory. Further studies showed that this process, known as neurogenesis, is not fixed. Regular aerobic exercise, enough sleep, and mentally stimulating activities such as learning a new language can all increase the rate at which new neurons form. In contrast, long-term stress and a lack of sleep have been found to reduce it. These findings suggest that the brain is far more adaptable than we once thought and that our daily habits can actively shape its health throughout our lives.",
+    "options": [
+      "The Brain's Hidden Weakness: Why Memory Declines with Age",
+      "Learning a New Language in Childhood Versus Adulthood",
+      "Why Exercise Is More Important Than Studying for Exams",
+      "The Age at Which the Human Brain Stops Growing",
+      "A Changing Brain: How Daily Habits Can Keep Producing New Neurons in Adults"
+    ],
+    "answer": 4,
+    "translation": "수십 년 동안 과학자들은 인간의 뇌가 어린 시절이 지나면 새로운 세포를 만들지 않는다고 믿었다. 그러나 1990년대 후반 연구자들은 성인도 학습과 기억에 중요한 해마라는 뇌 영역에서 새로운 뉴런을 만들 수 있다는 것을 발견했다. 추가 연구는 신경 발생으로 알려진 이 과정이 고정되어 있지 않음을 보여 주었다. 규칙적인 유산소 운동, 충분한 수면, 새로운 언어를 배우는 것 같은 정신적으로 자극적인 활동은 모두 새 뉴런이 만들어지는 속도를 높일 수 있다. 반면 장기적인 스트레스와 수면 부족은 이를 줄이는 것으로 밝혀졌다. 이러한 발견은 뇌가 우리가 한때 생각했던 것보다 훨씬 더 적응력이 있으며 일상의 습관이 평생에 걸쳐 뇌의 건강을 적극적으로 만들 수 있음을 시사한다.",
+    "why": "성인의 뇌도 일상 습관에 따라 새로운 뉴런을 계속 만들 수 있다는 내용이므로 ⑤가 제목입니다.",
+    "optionNotes": [
+      "기억 감퇴의 약점이 아니라 적응력이 주제입니다.",
+      "언어 학습은 사례 중 하나일 뿐입니다.",
+      "운동과 공부의 비교는 나오지 않습니다.",
+      "뇌가 성장을 멈추는 나이는 나오지 않습니다.",
+      "정답. 습관이 성인의 뇌 뉴런 생성에 영향을 줍니다."
+    ],
+    "trap": "'new language'가 나온다고 언어 학습(②)을 고르지 마세요.",
+    "tip": "제목은 글 전체의 핵심 발견(neurogenesis)과 시사점(daily habits)을 담으세요."
+  },
+  {
+    "id": "m3b-01-25",
+    "level": "m3",
+    "set": "mock-01",
+    "no": 25,
+    "type": "chart",
+    "stem": "다음 도표의 내용과 일치하지 않는 것은?",
+    "chart": {
+      "title": "Share of Renewable Energy in Electricity Production (%)",
+      "unit": "%",
+      "labels": [
+        "Country A",
+        "Country B",
+        "Country C",
+        "Country D",
+        "Country E"
+      ],
+      "series": [
+        {
+          "name": "2010",
+          "values": [
+            12,
+            25,
+            8,
+            30,
+            15
+          ]
+        },
+        {
+          "name": "2020",
+          "values": [
+            28,
+            38,
+            20,
+            36,
+            24
+          ]
+        }
+      ]
+    },
+    "passage": "The graph compares the share of renewable energy in electricity production in five countries in 2010 and 2020. ① The share increased in all five countries during the period. ② Country A's share more than doubled between 2010 and 2020. ③ Country C had the largest increase in percentage points among the five countries. ④ Country D had the highest share in 2010, while Country B had the highest in 2020. ⑤ Country E's share in 2020 was 9 percentage points higher than that in 2010.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "그래프는 다섯 나라에서 2010년과 2020년 전력 생산에서 재생 에너지가 차지하는 비중을 비교한다. ① 이 기간에 다섯 나라 모두에서 비중이 증가했다. ② A국의 비중은 2010년과 2020년 사이에 두 배 이상이 되었다. ③ C국은 다섯 나라 중 백분율 포인트 기준으로 가장 큰 증가를 보였다. ④ 2010년에는 D국이, 2020년에는 B국이 비중이 가장 높았다. ⑤ E국의 2020년 비중은 2010년보다 9퍼센트포인트 높았다.",
+    "why": "증가폭은 A국 16, B국 13, C국 12, D국 6, E국 9이므로 가장 큰 증가는 A국이며 ③은 일치하지 않습니다.",
+    "optionNotes": [
+      "모든 나라에서 증가했습니다.",
+      "A국은 12%에서 28%로 두 배 넘게 늘었습니다.",
+      "정답(불일치). 가장 큰 증가는 A국(16퍼센트포인트)입니다.",
+      "2010년 D국 30%, 2020년 B국 38%가 가장 높습니다.",
+      "15%에서 24%로 9퍼센트포인트 증가했습니다."
+    ],
+    "trap": "끝값이 큰 나라(B)와 증가폭이 큰 나라(A)를 혼동하기 쉽습니다.",
+    "tip": "증가 폭 비교는 각 나라의 두 값을 빼서 확인하세요."
+  },
+  {
+    "id": "m3b-01-26",
+    "level": "m3",
+    "set": "mock-01",
+    "no": 26,
+    "type": "match",
+    "stem": "Katherine Johnson에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Katherine Johnson was an African American mathematician who played a crucial role in the early years of the American space program. Born in West Virginia in 1918, she showed exceptional talent in mathematics from a young age and entered college at the age of fifteen. She joined NASA's predecessor organization in 1953 and worked as one of the \"human computers\" who performed complex calculations by hand. Her calculations of the flight paths for early space missions were so reliable that astronaut John Glenn asked her to verify them. Before his orbital flight in 1962, he insisted that she check the electronic computer's results as well. She continued working at NASA until 1986 and contributed to the calculations for the Apollo moon missions. She received the Presidential Medal of Freedom in 2015, and her story inspired the film Hidden Figures.",
+    "options": [
+      "그녀는 열다섯 살에 대학을 졸업하고 곧바로 NASA에 입사했다.",
+      "1950년대에 수학 교사로 일하면서 우주 프로그램에 관한 책을 썼다.",
+      "전자 컴퓨터가 계산을 맡게 되면서 우주 프로그램에서 물러났다.",
+      "우주비행사 글렌은 그녀의 계산을 믿지 못해 전자 컴퓨터의 결과만 사용했다.",
+      "1962년 궤도 비행에 앞서 우주비행사 글렌의 요청으로 전자 컴퓨터가 낸 계산 결과를 직접 검증했다."
+    ],
+    "answer": 4,
+    "translation": "캐서린 존슨은 미국 우주 프로그램 초기에 중요한 역할을 한 아프리카계 미국인 수학자였다. 1918년 웨스트버지니아에서 태어난 그녀는 어릴 때부터 수학에 뛰어난 재능을 보였고 열다섯 살에 대학에 입학했다. 그녀는 1953년 NASA의 전신 조직에 들어가 복잡한 계산을 손으로 수행하는 \"인간 컴퓨터\" 중 한 명으로 일했다. 초기 우주 임무의 비행 경로에 대한 그녀의 계산은 매우 믿을 만해서 우주비행사 존 글렌은 그녀에게 그것을 검증해 달라고 요청했다. 1962년 궤도 비행 전에 그는 전자 컴퓨터의 결과도 그녀가 확인해야 한다고 고집했다. 그녀는 1986년까지 NASA에서 계속 일하며 아폴로 달 탐사 임무의 계산에 기여했다. 그녀는 2015년 대통령 자유 훈장을 받았으며 그녀의 이야기는 영화 '히든 피겨스'에 영감을 주었다.",
+    "why": "'astronaut John Glenn asked her to verify the electronic computer's results before his orbital flight in 1962'와 일치합니다.",
+    "optionNotes": [
+      "열다섯 살에 대학에 입학했고 1953년에 입사했습니다.",
+      "수학자로 일했고 책을 썼다는 내용은 없습니다.",
+      "물러났다는 내용은 없으며 오히려 검증을 맡았습니다.",
+      "글렌은 그녀의 검증을 요청했습니다.",
+      "정답. 글렌의 요청으로 전자 컴퓨터의 결과를 검증했습니다."
+    ],
+    "trap": "'entered college at fifteen'과 '입사 시기'를 혼동하지 마세요.",
+    "tip": "일치 문제는 연도·행위·인물 관계를 하나씩 대조하세요."
+  },
+  {
+    "id": "m3b-01-27",
+    "level": "m3",
+    "set": "mock-01",
+    "no": 27,
+    "type": "notice",
+    "stem": "Eco-Friendly Campus Challenge에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Eco-Friendly Campus Challenge\nOrganized by the Student Sustainability Council\nPeriod: October 7 - November 1 (4 weeks)\nWho can join: Teams of three to five students from any grade\nHow it works: Each team chooses one project to reduce waste or save energy at school, such as a recycling campaign or a lights-off reminder program. Progress will be recorded weekly using the official log sheet.\nEvaluation: Teams will be judged on creativity (30%), measurable impact (40%), and teamwork (30%).\nPrizes: The winning team receives a $200 gift card for school supplies, and the top three teams will be featured in the school newsletter.\nRegistration: Submit the application form to Room 105 by September 27. Late applications will not be accepted.",
+    "options": [
+      "팀은 세 명에서 다섯 명의 학생으로 구성해야 한다.",
+      "프로젝트는 반드시 학교의 재활용 캠페인이어야 하며 다른 주제는 인정되지 않는다.",
+      "평가에서는 창의성과 팀워크 중에서 팀워크가 가장 큰 비중을 차지한다.",
+      "우승 팀에게는 학용품 구입권이 아니라 현금 이백 달러가 부상으로 주어진다.",
+      "신청서는 9월 27일의 기한이 지난 뒤에도 사정을 설명하면 제출할 수 있다."
+    ],
+    "answer": 0,
+    "translation": "친환경 캠퍼스 챌린지. 주최: 학생 지속가능성 위원회. 기간: 10월 7일~11월 1일(4주). 참가 대상: 모든 학년의 학생 3~5명으로 구성된 팀. 방식: 각 팀은 재활용 캠페인이나 소등 알림 프로그램처럼 학교에서 쓰레기를 줄이거나 에너지를 절약하는 프로젝트 하나를 고릅니다. 진행 상황은 공식 기록지에 매주 기록합니다. 평가: 팀은 창의성(30%), 측정 가능한 영향(40%), 팀워크(30%)로 평가받습니다. 상품: 우승 팀은 학용품 구입용 200달러 상품권을 받고 상위 세 팀은 학교 소식지에 소개됩니다. 신청: 9월 27일까지 105호에 신청서를 제출하세요. 마감 후 신청은 받지 않습니다.",
+    "why": "'Teams of three to five students from any grade'와 일치합니다.",
+    "optionNotes": [
+      "정답. 세 명에서 다섯 명으로 구성합니다.",
+      "재활용 캠페인은 예시일 뿐입니다.",
+      "측정 가능한 영향이 40%로 가장 큽니다.",
+      "현금이 아니라 상품권입니다.",
+      "마감 후 신청은 받지 않습니다."
+    ],
+    "trap": "평가 비중(30·40·30)에서 가장 큰 항목을 혼동하지 마세요.",
+    "tip": "안내문은 숫자와 조건(예시, 상품 종류)을 보기와 정확히 대조하세요."
+  },
+  {
+    "id": "m3b-01-28",
+    "level": "m3",
+    "set": "mock-01",
+    "no": 28,
+    "type": "notice",
+    "stem": "City Youth Orchestra Audition에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "City Youth Orchestra - Audition Information\nEligibility: Students aged 13 to 18 who have played their instrument for at least three years\nAudition dates: Saturday, February 8 (strings and woodwinds) and Sunday, February 9 (brass and percussion)\nPlace: City Arts Center, Rehearsal Hall B\nWhat to prepare: One piece of your choice (up to three minutes) and one major scale\nApplication: Complete the online form at www.cityyouthorchestra.org by January 25. A non-refundable fee of $20 must be paid online.\nResults: Announced by email on February 15. Accepted members will rehearse every Saturday from 2:00 p.m. to 5:00 p.m. and perform in four concerts a year.",
+    "options": [
+      "오디션은 악기와 상관없이 모든 지원자가 일요일에만 한꺼번에 치른다.",
+      "지원자는 자신이 고른 사 분이 넘는 길이의 곡과 단음계 두 개를 준비해야 한다.",
+      "합격자는 매주 토요일 오후에 연습하고 연 네 번의 연주회에 참여한다.",
+      "지원서를 제출한 뒤에 합격하지 못해도 응시료를 전액 돌려받을 수 있다.",
+      "합격 결과는 오디션을 마친 직후 현장 게시판에서 바로 발표된다."
+    ],
+    "answer": 2,
+    "translation": "시립 청소년 오케스트라 오디션 안내. 자격: 해당 악기를 적어도 3년 이상 연주한 13~18세 학생. 오디션 날짜: 2월 8일 토요일(현악기와 목관악기), 2월 9일 일요일(금관악기와 타악기). 장소: 시립 예술 센터 B 연습실. 준비물: 직접 고른 곡 한 곡(최대 3분)과 장음계 하나. 신청: 1월 25일까지 www.cityyouthorchestra.org에서 온라인 양식을 작성. 환불되지 않는 20달러의 응시료를 온라인으로 납부해야 합니다. 결과: 2월 15일 이메일로 발표. 합격자는 매주 토요일 오후 2시부터 5시까지 연습하고 연 네 번의 연주회에서 연주합니다.",
+    "why": "'Accepted members will rehearse every Saturday ... and perform in four concerts a year.'와 일치합니다.",
+    "optionNotes": [
+      "토요일과 일요일 이틀입니다.",
+      "곡은 최대 3분입니다.",
+      "정답. 매주 토요일 연습하고 연 네 번 연주합니다.",
+      "응시료는 환불되지 않습니다.",
+      "결과는 2월 15일 이메일로 발표됩니다."
+    ],
+    "trap": "악기별 오디션 날짜와 연습 요일을 혼동하지 마세요.",
+    "tip": "안내문은 한정어(up to, non-refundable)를 놓치지 마세요."
+  }
+]

@@ -1,0 +1,798 @@
+[
+  {
+    "id": "m3b-01-01",
+    "level": "m3",
+    "set": "mock-01",
+    "no": 1,
+    "type": "l-purpose",
+    "stem": "다음을 듣고, 여자가 하는 말의 목적으로 가장 적절한 것을 고르시오.",
+    "script": [
+      {
+        "speaker": "W",
+        "text": "Good morning, everyone. This is Eunji Cho, the president of the student council. Many of you have told us that the transition to high school life feels overwhelming, especially during the first semester. To help with this, the council is launching a peer-mentoring program next month. Each first-year student will be matched with a second- or third-year mentor, who will meet them once a week to share study tips, talk about school activities, and answer any questions. Mentors have been selected through interviews and will receive training from our counselors. If you would like to participate as a mentee or as a mentor, please fill out the application form posted on the school's homepage by this Friday. We hope this program will make everyone's school life more comfortable and meaningful. Thank you."
+      }
+    ],
+    "options": [
+      "새 학기 선후배 멘토링 프로그램의 시작을 알리고 참여를 독려하려고",
+      "학생회장 선거의 후보 등록 절차와 선거 운동 규칙을 전교생에게 자세히 안내하려고",
+      "1학년 학생들의 학습 성취도 평가 결과와 보충 학습 일정을 학부모에게 발표하려고",
+      "교내 상담 교사의 새로운 근무 시간과 상담 예약 방법을 학생들에게 공지하려고",
+      "학교 홈페이지의 개편 내용과 새로 추가된 기능을 학생들에게 소개하려고"
+    ],
+    "answer": 0,
+    "translation": "안녕하세요, 여러분. 학생회장 조은지입니다. 많은 학생이 특히 첫 학기에 고등학교 생활에 적응하는 것이 벅차다고 말해 주었습니다. 이를 돕기 위해 학생회는 다음 달에 또래 멘토링 프로그램을 시작합니다. 1학년 학생 각자가 2, 3학년 멘토와 짝을 이루어 일주일에 한 번 만나 공부 요령을 나누고 학교 활동에 대해 이야기하며 질문에 답을 얻게 됩니다. 멘토는 면접을 통해 선발되었고 상담 교사에게 교육을 받을 것입니다. 멘티나 멘토로 참여하고 싶다면 이번 주 금요일까지 학교 홈페이지에 게시된 신청서를 작성해 주세요. 이 프로그램이 모두의 학교 생활을 더 편안하고 의미 있게 만들기를 바랍니다. 감사합니다.",
+    "why": "또래 멘토링 프로그램의 시작을 알리고 멘티·멘토 신청을 독려하는 방송입니다.",
+    "optionNotes": [
+      "정답. 멘토링 프로그램을 알리고 참여를 독려합니다.",
+      "선거는 나오지 않습니다.",
+      "평가 결과는 나오지 않습니다.",
+      "상담 교사의 근무 시간은 나오지 않습니다.",
+      "홈페이지는 신청서 게시 장소일 뿐입니다."
+    ],
+    "trap": "'counselors', 'homepage'가 나온다고 부수적인 정보를 목적으로 착각하지 마세요.",
+    "tip": "목적 문제는 'launching ~ program'과 참여 요청 문장을 확인하세요."
+  },
+  {
+    "id": "m3b-01-02",
+    "level": "m3",
+    "set": "mock-01",
+    "no": 2,
+    "type": "l-opinion",
+    "stem": "대화를 듣고, 남자의 의견으로 가장 적절한 것을 고르시오.",
+    "script": [
+      {
+        "speaker": "W",
+        "text": "Ryan, I heard you're planning to major in computer science because it pays well."
+      },
+      {
+        "speaker": "M",
+        "text": "Well, that's one reason, but I'm starting to doubt it."
+      },
+      {
+        "speaker": "W",
+        "text": "Why? Isn't it a safe choice?"
+      },
+      {
+        "speaker": "M",
+        "text": "Maybe, but my cousin chose it for the salary and now he feels bored at work every day. I don't think a high salary alone can make a career satisfying."
+      },
+      {
+        "speaker": "W",
+        "text": "So what do you think matters most?"
+      },
+      {
+        "speaker": "M",
+        "text": "I believe that finding work that matches your interests and values is more important than the money, because you'll spend most of your life doing it."
+      }
+    ],
+    "options": [
+      "높은 연봉이 장래의 직업을 선택할 때 가장 먼저 고려해야 할 중요한 기준이다.",
+      "전공은 개인의 취향보다 졸업 후의 취업률과 평균 소득으로 결정해야 한다.",
+      "진로를 정할 때는 경험이 많은 친척의 조언을 그대로 따르는 것이 현명하다.",
+      "직업은 자신의 흥미와 가치관에 맞아야 만족스럽다.",
+      "컴퓨터 관련 전공은 경쟁이 심해서 장래성이 없으므로 선택하지 않아야 한다."
+    ],
+    "answer": 3,
+    "translation": "여: 라이언, 연봉이 높다는 이유로 컴퓨터공학을 전공할 계획이라고 들었어. / 남: 그것도 한 가지 이유이긴 한데 점점 의심이 들어. / 여: 왜? 안전한 선택 아니야? / 남: 그럴 수도 있지만 내 사촌은 연봉 때문에 그것을 선택했는데 지금은 매일 일이 지루하다고 해. 높은 연봉만으로 직업이 만족스러워질 수는 없다고 생각해. / 여: 그럼 뭐가 가장 중요하다고 생각해? / 남: 자신의 흥미와 가치관에 맞는 일을 찾는 것이 돈보다 더 중요하다고 믿어. 인생의 대부분을 그 일을 하며 보낼 테니까.",
+    "why": "남자는 흥미와 가치관에 맞는 일이 돈보다 더 중요하다고 말합니다.",
+    "optionNotes": [
+      "남자가 의심하는 기준입니다.",
+      "취업률은 나오지 않습니다.",
+      "사촌의 사례는 반면교사입니다.",
+      "정답. 흥미와 가치관에 맞아야 합니다.",
+      "장래성이 없다는 말은 없습니다."
+    ],
+    "trap": "여자의 질문('Isn't it a safe choice?')이나 처음의 이유를 남자의 의견으로 착각하지 마세요.",
+    "tip": "의견 문제는 'I don't think ~', 'I believe ~' 뒤의 핵심 주장을 확인하세요."
+  },
+  {
+    "id": "m3b-01-03",
+    "level": "m3",
+    "set": "mock-01",
+    "no": 3,
+    "type": "l-relation",
+    "stem": "대화를 듣고, 두 사람의 관계를 가장 잘 나타낸 것을 고르시오.",
+    "script": [
+      {
+        "speaker": "M",
+        "text": "Thank you for coming on such short notice, Ms. Lee. As you know, the manuscript is due for printing next Friday."
+      },
+      {
+        "speaker": "W",
+        "text": "I know. I've revised the final chapter as you suggested, and I've also changed the title to something more engaging."
+      },
+      {
+        "speaker": "M",
+        "text": "That's great. The illustrations are almost complete, but our designer wants to discuss the cover with you."
+      },
+      {
+        "speaker": "W",
+        "text": "Of course. Could we also talk about the publicity plan? I'd like to have a book-signing event in my hometown."
+      },
+      {
+        "speaker": "M",
+        "text": "That's a good idea. Our marketing team can arrange it once the release date is fixed."
+      }
+    ],
+    "options": [
+      "신문 기자 – 인터뷰 대상 작가",
+      "서점 직원 – 책 구매 고객",
+      "도서관 사서 – 도서 대출 이용자",
+      "출판사 편집자 – 집필 작가",
+      "디자이너 – 광고주"
+    ],
+    "answer": 3,
+    "translation": "남: 갑작스러운 연락에도 와 주셔서 감사합니다, 이 선생님. 아시다시피 원고는 다음 주 금요일에 인쇄에 들어가야 합니다. / 여: 알고 있어요. 제안하신 대로 마지막 장을 수정했고 제목도 더 매력적인 것으로 바꿨어요. / 남: 좋습니다. 삽화는 거의 완성되었는데 디자이너가 표지에 대해 선생님과 논의하고 싶어 합니다. / 여: 물론이죠. 홍보 계획도 이야기할 수 있을까요? 제 고향에서 사인회를 열고 싶어요. / 남: 좋은 생각입니다. 출간일이 정해지면 마케팅 팀이 마련할 수 있습니다.",
+    "why": "원고 수정, 표지, 홍보 계획을 논의하므로 출판사 편집자와 집필 작가입니다.",
+    "optionNotes": [
+      "인터뷰가 아닙니다.",
+      "책 구매 이야기가 아닙니다.",
+      "대출 이야기가 아닙니다.",
+      "정답. 원고 출간을 협의하는 편집자와 작가입니다.",
+      "디자이너와 광고주의 관계가 아닙니다."
+    ],
+    "trap": "'designer'가 나온다고 ⑤를 고르지 마세요. 두 사람은 제3자를 언급합니다.",
+    "tip": "관계 문제는 manuscript, printing, publicity 같은 업무 단서를 종합하세요."
+  },
+  {
+    "id": "m3b-01-04",
+    "level": "m3",
+    "set": "mock-01",
+    "no": 4,
+    "type": "l-picture",
+    "stem": "대화를 듣고, 그림에서 대화의 내용과 일치하지 않는 것을 고르시오.",
+    "picture": {
+      "title": "At a community recycling center",
+      "items": [
+        {
+          "no": 1,
+          "emoji": "♻️",
+          "label": "a boy sorting plastic bottles into a blue bin"
+        },
+        {
+          "no": 2,
+          "emoji": "📰",
+          "label": "a woman carrying a stack of newspapers"
+        },
+        {
+          "no": 3,
+          "emoji": "📋",
+          "label": "a notice board with a schedule"
+        },
+        {
+          "no": 4,
+          "emoji": "🚲",
+          "label": "a bicycle parked next to the fence"
+        },
+        {
+          "no": 5,
+          "emoji": "🧤",
+          "label": "a worker wearing gloves and a helmet"
+        }
+      ]
+    },
+    "script": [
+      {
+        "speaker": "W",
+        "text": "Look at the recycling center. It's busier than I expected."
+      },
+      {
+        "speaker": "M",
+        "text": "A boy is putting glass bottles into a green bin."
+      },
+      {
+        "speaker": "W",
+        "text": "And a woman is carrying a stack of newspapers."
+      },
+      {
+        "speaker": "M",
+        "text": "There's a notice board with a schedule on it."
+      },
+      {
+        "speaker": "W",
+        "text": "I can see a bicycle parked next to the fence."
+      },
+      {
+        "speaker": "M",
+        "text": "Also, a worker is wearing gloves and a helmet."
+      }
+    ],
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "여: 재활용 센터를 봐. 생각보다 붐비네. / 남: 한 소년이 유리병을 초록색 통에 넣고 있어. / 여: 그리고 한 여자가 신문 더미를 나르고 있어. / 남: 일정표가 붙은 게시판이 있어. / 여: 울타리 옆에 자전거가 세워져 있는 게 보여. / 남: 또한 한 작업자가 장갑을 끼고 헬멧을 쓰고 있어.",
+    "why": "그림의 ①은 플라스틱병을 파란 통에 분류하는 소년이지만 대화에서는 유리병을 초록색 통에 넣는 소년이라고 합니다.",
+    "optionNotes": [
+      "정답(불일치). 그림은 플라스틱병·파란 통, 대화는 유리병·초록 통입니다.",
+      "신문 더미를 나르는 여자 — 일치합니다.",
+      "일정표가 붙은 게시판 — 일치합니다.",
+      "울타리 옆의 자전거 — 일치합니다.",
+      "장갑과 헬멧의 작업자 — 일치합니다."
+    ],
+    "trap": "같은 소년이라도 물건과 통의 색이 모두 달라질 수 있습니다.",
+    "tip": "그림 문제는 사람의 행동과 대상의 세부 특징(재질, 색)을 함께 대조하세요."
+  },
+  {
+    "id": "m3b-01-05",
+    "level": "m3",
+    "set": "mock-01",
+    "no": 5,
+    "type": "l-todo",
+    "stem": "대화를 듣고, 여자가 할 일로 가장 적절한 것을 고르시오.",
+    "script": [
+      {
+        "speaker": "M",
+        "text": "Mina, our hiking trip is this Saturday. Have you checked the weather forecast?"
+      },
+      {
+        "speaker": "W",
+        "text": "Yes, it says there might be showers in the afternoon, so I'm thinking of bringing a raincoat."
+      },
+      {
+        "speaker": "M",
+        "text": "Good idea. Also, I booked the shuttle bus, but I haven't contacted the mountain lodge about our lunch."
+      },
+      {
+        "speaker": "W",
+        "text": "I'll call them tomorrow morning and reserve a table for six."
+      },
+      {
+        "speaker": "M",
+        "text": "Great. I'll make a checklist of what everyone should bring and send it to the group chat tonight."
+      }
+    ],
+    "options": [
+      "남자가 이미 예약한 셔틀버스의 시간을 확인하고 탑승 인원을 다시 알려 준다",
+      "내일 오전에 산장에 전화해 여섯 명의 점심을 예약한다",
+      "모두가 가져와야 할 준비물 목록을 만들어서 오늘 밤 단체 채팅방에 보낸다",
+      "일기 예보를 한 번 더 확인한 뒤에 날씨가 나쁘면 하이킹 일정을 바꾼다",
+      "비가 올 것에 대비해 우비를 사러 가까운 아웃도어 매장에 직접 간다"
+    ],
+    "answer": 1,
+    "translation": "남: 미나야, 하이킹이 이번 토요일이야. 일기 예보 확인했니? / 여: 응, 오후에 소나기가 올 수도 있대서 우비를 가져갈까 해. / 남: 좋은 생각이야. 그리고 내가 셔틀버스는 예약했는데 점심에 대해서는 산장에 연락을 못 했어. / 여: 내일 아침에 전화해서 여섯 명 자리를 예약할게. / 남: 좋아. 나는 모두가 가져올 것의 목록을 만들어 오늘 밤 단체 채팅방에 보낼게.",
+    "why": "여자는 내일 아침에 산장에 전화해 여섯 명의 점심을 예약하겠다고 합니다.",
+    "optionNotes": [
+      "셔틀버스는 남자가 예약했습니다.",
+      "정답. 산장에 전화해 점심을 예약합니다.",
+      "목록을 보내는 사람은 남자입니다.",
+      "일기 예보 확인은 이미 했습니다.",
+      "우비는 이미 가져갈 생각입니다."
+    ],
+    "trap": "남자와 여자가 각각 맡은 일을 혼동하기 쉽습니다.",
+    "tip": "할 일 문제는 'I'll ~'을 말한 화자를 먼저 표시하세요."
+  },
+  {
+    "id": "m3b-01-06",
+    "level": "m3",
+    "set": "mock-01",
+    "no": 6,
+    "type": "l-price",
+    "stem": "대화를 듣고, 여자가 지불할 금액을 고르시오.",
+    "script": [
+      {
+        "speaker": "W",
+        "text": "Hello. I'd like to order two large pizzas and one salad for delivery."
+      },
+      {
+        "speaker": "M",
+        "text": "Large pizzas are 18 dollars each, and the salad is 8 dollars. Delivery is free for orders over 40 dollars."
+      },
+      {
+        "speaker": "W",
+        "text": "Do you have any promotions today?"
+      },
+      {
+        "speaker": "M",
+        "text": "Yes. If you pay with our mobile app, you get 10 percent off the total."
+      },
+      {
+        "speaker": "W",
+        "text": "I'll use the app. Oh, and could you add a 2-dollar bottle of lemonade, too?"
+      },
+      {
+        "speaker": "M",
+        "text": "Sure. I'll add it to the order."
+      }
+    ],
+    "options": [
+      "$46",
+      "$44",
+      "$41.4",
+      "$39.6",
+      "$36"
+    ],
+    "answer": 2,
+    "translation": "여: 안녕하세요. 큰 피자 두 판과 샐러드 하나를 배달 주문하고 싶어요. / 남: 큰 피자는 한 판에 18달러이고 샐러드는 8달러예요. 40달러 이상 주문 시 배달은 무료입니다. / 여: 오늘 할인 행사가 있나요? / 남: 네. 저희 모바일 앱으로 결제하시면 총액에서 10퍼센트 할인됩니다. / 여: 앱을 쓸게요. 아, 2달러짜리 레모네이드 한 병도 추가해 주시겠어요? / 남: 물론이죠. 주문에 추가할게요.",
+    "why": "피자 36달러, 샐러드 8달러, 레모네이드 2달러를 더한 46달러에서 10%를 깎은 41.4달러입니다.",
+    "optionNotes": [
+      "할인을 적용하지 않은 금액입니다.",
+      "레모네이드와 할인을 모두 빼먹은 금액입니다.",
+      "정답. 46 × 0.9 = 41.4달러입니다.",
+      "레모네이드를 빼고 할인만 적용한 금액입니다.",
+      "피자만의 금액입니다."
+    ],
+    "trap": "할인 후에 추가한 레모네이드도 총액에 포함되는 점을 놓치기 쉽습니다.",
+    "tip": "가격 문제는 최종 주문 내역으로 합계를 구한 뒤 할인율을 적용하세요."
+  },
+  {
+    "id": "m3b-01-07",
+    "level": "m3",
+    "set": "mock-01",
+    "no": 7,
+    "type": "l-reason",
+    "stem": "대화를 듣고, 여자가 교환 학생 프로그램에 지원하지 않기로 한 이유를 고르시오.",
+    "script": [
+      {
+        "speaker": "M",
+        "text": "Sora, I heard you decided not to apply for the exchange program. I thought you were really excited about it."
+      },
+      {
+        "speaker": "W",
+        "text": "I was, and I still am. But after looking at the details with my parents, I realized it wasn't realistic."
+      },
+      {
+        "speaker": "M",
+        "text": "Didn't you say you could get a scholarship?"
+      },
+      {
+        "speaker": "W",
+        "text": "The scholarship covers only the tuition. Housing, food, and transportation would cost far more than my family can afford."
+      },
+      {
+        "speaker": "M",
+        "text": "Couldn't you work part-time there?"
+      },
+      {
+        "speaker": "W",
+        "text": "That's the problem. The student visa doesn't allow it."
+      }
+    ],
+    "options": [
+      "프로그램의 일정이 학교의 기말고사 기간과 겹쳐서 시험을 치를 수 없어서",
+      "부모님이 외국에서 혼자 생활하는 것이 위험하다고 강하게 반대하셔서",
+      "장학금 심사에서 성적 기준을 충족하지 못해 탈락해서",
+      "국내의 다른 대학에서 먼저 입학 허가를 받아서 진학하기로 해서",
+      "장학금이 학비만 지원하고 생활비를 감당하기 어려워서"
+    ],
+    "answer": 4,
+    "translation": "남: 소라야, 교환 학생 프로그램에 지원하지 않기로 했다고 들었어. 정말 기대하는 줄 알았는데. / 여: 그랬고 지금도 그래. 하지만 부모님과 세부 사항을 살펴보니 현실적이지 않다는 걸 알았어. / 남: 장학금을 받을 수 있다고 하지 않았어? / 여: 장학금은 학비만 지원해. 주거, 식비, 교통비는 우리 가족이 감당할 수 있는 것보다 훨씬 많이 들 거야. / 남: 거기서 아르바이트를 할 수 있지 않아? / 여: 그게 문제야. 학생 비자로는 허용되지 않아.",
+    "why": "장학금이 학비만 지원하고 생활비는 감당할 수 없으며 아르바이트도 불가능하다고 말합니다.",
+    "optionNotes": [
+      "시험 기간은 나오지 않습니다.",
+      "부모님과 상의했지만 반대가 아니라 비용 문제를 확인한 것입니다.",
+      "장학금을 받을 수 있다고 했습니다.",
+      "입학 허가는 나오지 않습니다.",
+      "정답. 장학금이 학비만 지원하고 생활비를 감당하기 어렵습니다."
+    ],
+    "trap": "'after looking at the details with my parents'를 부모님의 반대로 착각하지 마세요.",
+    "tip": "이유 문제는 'But ~'와 'That's the problem' 뒤의 핵심 원인을 종합하세요."
+  },
+  {
+    "id": "m3b-01-08",
+    "level": "m3",
+    "set": "mock-01",
+    "no": 8,
+    "type": "l-notmentioned",
+    "stem": "대화를 듣고, 새로 생긴 메이커 스페이스에 관해 언급되지 않은 것을 고르시오.",
+    "script": [
+      {
+        "speaker": "W",
+        "text": "Have you visited the new maker space in the library yet?"
+      },
+      {
+        "speaker": "M",
+        "text": "Not yet. Where is it exactly?"
+      },
+      {
+        "speaker": "W",
+        "text": "It's on the third floor, next to the computer lab. They have 3D printers, laser cutters, and even a small sewing station."
+      },
+      {
+        "speaker": "M",
+        "text": "That sounds amazing. When is it open?"
+      },
+      {
+        "speaker": "W",
+        "text": "From three to seven on weekdays. You have to book a time slot on the school website first, and each slot lasts for two hours."
+      }
+    ],
+    "options": [
+      "위치",
+      "이용 비용",
+      "보유 장비",
+      "운영 시간",
+      "예약 방법"
+    ],
+    "answer": 1,
+    "translation": "여: 도서관에 새로 생긴 메이커 스페이스에 가 봤니? / 남: 아직. 정확히 어디에 있어? / 여: 3층 컴퓨터실 옆이야. 3D 프린터, 레이저 커터, 작은 재봉 코너도 있어. / 남: 대단하다. 언제 열려? / 여: 평일 3시부터 7시까지야. 먼저 학교 웹사이트에서 시간대를 예약해야 하고 한 번에 두 시간씩이야.",
+    "why": "위치, 장비, 운영 시간, 예약 방법은 나왔지만 이용 비용은 나오지 않았습니다.",
+    "optionNotes": [
+      "third floor로 언급되었습니다.",
+      "정답. 이용 비용은 나오지 않았습니다.",
+      "3D printers 등으로 언급되었습니다.",
+      "three to seven으로 언급되었습니다.",
+      "book on the school website로 언급되었습니다."
+    ],
+    "trap": "'each slot lasts for two hours'를 비용으로 착각하지 마세요.",
+    "tip": "언급되지 않은 것은 보기를 하나씩 지우며 들으세요."
+  },
+  {
+    "id": "m3b-01-09",
+    "level": "m3",
+    "set": "mock-01",
+    "no": 9,
+    "type": "l-match",
+    "stem": "다음을 듣고, Rooftop Farm Workshop에 관한 내용과 일치하는 것을 고르시오.",
+    "script": [
+      {
+        "speaker": "M",
+        "text": "Hello, listeners. If you've ever wanted to grow your own vegetables in the city, here's a chance to learn how. The Rooftop Farm Workshop will be held on the roof of the Greenville Community Center on the second Saturday of next month, from ten a.m. to noon. A professional urban farmer will teach participants how to prepare soil, plant seeds in containers, and use rainwater for irrigation. Everyone will take home a small box of seedlings. The workshop is free for residents of Greenville, while others must pay a ten-dollar fee. Since only thirty people can attend, early registration by phone or email is strongly recommended. Please wear comfortable clothes that can get dirty."
+      }
+    ],
+    "options": [
+      "참가자는 모종이 담긴 작은 상자를 집에 가져갈 수 있다.",
+      "워크숍은 그린빌 주민에게도 예외 없이 십 달러의 참가비를 받는다.",
+      "워크숍은 일 년 내내 매주 토요일 오후에 주민센터 옥상에서 열린다.",
+      "참가자는 선착순으로 최대 오십 명까지만 받으며 현장 등록은 불가능하다.",
+      "전화나 이메일로는 등록할 수 없고 행사 당일 현장에서만 신청할 수 있다."
+    ],
+    "answer": 0,
+    "translation": "안녕하세요, 청취자 여러분. 도시에서 직접 채소를 기르고 싶었던 적이 있다면 방법을 배울 기회가 있습니다. 옥상 농장 워크숍은 다음 달 둘째 토요일 오전 10시부터 정오까지 그린빌 주민센터 옥상에서 열립니다. 전문 도시 농부가 참가자들에게 흙을 준비하고 용기에 씨앗을 심고 빗물로 물을 주는 방법을 가르칩니다. 모든 참가자는 모종이 든 작은 상자를 집에 가져갑니다. 워크숍은 그린빌 주민에게는 무료이고 그 밖의 사람은 10달러의 참가비를 내야 합니다. 서른 명만 참석할 수 있으므로 전화나 이메일로 일찍 등록하기를 강력히 권장합니다. 더러워져도 되는 편한 옷을 입고 오세요.",
+    "why": "'Everyone will take home a small box of seedlings.'와 일치합니다.",
+    "optionNotes": [
+      "정답. 모종 상자를 가져갑니다.",
+      "주민은 무료입니다.",
+      "다음 달 둘째 토요일 오전입니다.",
+      "서른 명만 참석할 수 있습니다.",
+      "전화나 이메일로 등록할 수 있습니다."
+    ],
+    "trap": "'second Saturday'를 매주 토요일로 착각하지 마세요.",
+    "tip": "일치 문제는 빈도·대상·인원·방법을 구분해 들으세요."
+  },
+  {
+    "id": "m3b-01-10",
+    "level": "m3",
+    "set": "mock-01",
+    "no": 10,
+    "type": "l-chart",
+    "stem": "다음 도표를 보면서 대화를 듣고, 두 사람이 제안할 주말 활동으로 정해질 것을 고르시오.",
+    "chart": {
+      "title": "Preferred Ways to Spend Weekends (%)",
+      "unit": "%",
+      "labels": [
+        "Watching movies",
+        "Exercising",
+        "Volunteering",
+        "Gaming",
+        "Meeting friends"
+      ],
+      "series": [
+        {
+          "name": "Percent",
+          "values": [
+            25,
+            20,
+            14,
+            22,
+            19
+          ]
+        }
+      ]
+    },
+    "script": [
+      {
+        "speaker": "W",
+        "text": "For the school survey report, let's highlight an activity that is chosen by more than ten percent but less than twenty percent."
+      },
+      {
+        "speaker": "M",
+        "text": "That's volunteering and meeting friends."
+      },
+      {
+        "speaker": "W",
+        "text": "Meeting friends is already included in our social events section."
+      },
+      {
+        "speaker": "M",
+        "text": "Then volunteering is the one to feature."
+      },
+      {
+        "speaker": "W",
+        "text": "Exactly. Exercising is exactly twenty percent, so it doesn't qualify."
+      }
+    ],
+    "options": [
+      "Watching movies",
+      "Exercising",
+      "Volunteering",
+      "Gaming",
+      "Meeting friends"
+    ],
+    "answer": 2,
+    "translation": "여: 학교 설문 보고서에서 10퍼센트보다 많고 20퍼센트보다 적은 활동을 강조하자. / 남: 봉사 활동과 친구 만나기야. / 여: 친구 만나기는 이미 사교 행사 부분에 들어 있어. / 남: 그럼 봉사 활동을 소개하자. / 여: 맞아. 운동은 정확히 20퍼센트라서 해당하지 않아.",
+    "why": "10% 초과 20% 미만은 Volunteering(14)과 Meeting friends(19)이고, 친구 만나기는 이미 포함되어 있어 Volunteering입니다.",
+    "optionNotes": [
+      "25%로 20%보다 높습니다.",
+      "정확히 20%로 20% 미만이 아닙니다.",
+      "정답. 14%이고 제외 조건이 없습니다.",
+      "22%로 20%보다 높습니다.",
+      "19%이지만 이미 다른 부분에 포함되어 있습니다."
+    ],
+    "trap": "Exercising 20%는 '20퍼센트 미만' 조건을 만족하지 않습니다.",
+    "tip": "도표 문제는 경계값(정확히 20%)이 조건에 해당하는지 확인하세요."
+  },
+  {
+    "id": "m3b-01-11",
+    "level": "m3",
+    "set": "mock-01",
+    "no": 11,
+    "type": "l-response",
+    "stem": "대화를 듣고, 여자의 마지막 말에 대한 남자의 응답으로 가장 적절한 것을 고르시오.",
+    "script": [
+      {
+        "speaker": "M",
+        "text": "I've been offered an internship at a local newspaper, but it's unpaid."
+      },
+      {
+        "speaker": "W",
+        "text": "That's a little disappointing, but it could be valuable experience."
+      },
+      {
+        "speaker": "M",
+        "text": "My parents want me to work at a café instead so that I can earn some money."
+      },
+      {
+        "speaker": "W",
+        "text": "Why don't you ask the editor whether you could work part-time as an intern, and keep a weekend job at the café?"
+      }
+    ],
+    "options": [
+      "The café is open from nine to six every day, and it is located right next to the central subway station downtown.",
+      "Newspapers are usually delivered early in the morning by workers who start their shifts before the sun comes up.",
+      "I don't want to read newspapers anymore because I get all of my news from short videos on my phone.",
+      "My parents work at a newspaper company, so they can introduce me to some editors if I would like to meet them.",
+      "That's a great idea. I'll talk to the editor this week and see if there's a flexible schedule."
+    ],
+    "answer": 4,
+    "translation": "남: 지역 신문사에서 인턴 제안을 받았는데 무급이야. / 여: 조금 실망스럽겠지만 값진 경험이 될 수 있어. / 남: 부모님은 돈을 벌 수 있도록 대신 카페에서 일하길 원하셔. / 여: 편집장님께 시간제 인턴으로 일할 수 있는지 물어보고 주말에는 카페 일을 유지하는 건 어때?",
+    "why": "제안에 동의하며 구체적으로 실행하겠다고 하는 ⑤가 알맞습니다.",
+    "optionNotes": [
+      "카페 영업시간은 제안에 답하지 않습니다.",
+      "신문 배달은 제안에 답하지 않습니다.",
+      "신문을 읽지 않겠다는 말은 맥락과 맞지 않습니다.",
+      "부모님의 직장은 제안에 답하지 않습니다.",
+      "정답. 제안을 수락하고 실행 계획을 말합니다."
+    ],
+    "trap": "'newspaper'가 반복된 ②③④에 이끌리지 마세요.",
+    "tip": "제안(Why don't you ~?)에는 수락과 실행 계획을 말하는 응답을 고르세요."
+  },
+  {
+    "id": "m3b-01-12",
+    "level": "m3",
+    "set": "mock-01",
+    "no": 12,
+    "type": "l-response",
+    "stem": "대화를 듣고, 남자의 마지막 말에 대한 여자의 응답으로 가장 적절한 것을 고르시오.",
+    "script": [
+      {
+        "speaker": "W",
+        "text": "I've been skipping breakfast to lose weight, but I feel exhausted by noon."
+      },
+      {
+        "speaker": "M",
+        "text": "Have you thought about why that might be happening?"
+      },
+      {
+        "speaker": "W",
+        "text": "I guess my body isn't getting enough energy. Do you think I should change my diet?"
+      }
+    ],
+    "options": [
+      "No, I don't think so. You should skip lunch as well, because eating less during the day will help you lose weight much faster.",
+      "I think breakfast is a waste of time for most busy people, and you should spend that time sleeping or studying instead of eating.",
+      "You should exercise twice as much as before and also drink a lot of coffee in the morning, which will give you more energy.",
+      "Yes, I do. Skipping meals can slow your metabolism, so try eating a balanced breakfast and smaller portions later.",
+      "I don't know much about your friends, so I can't tell you whether they have the same problem with their health these days."
+    ],
+    "answer": 3,
+    "translation": "여: 체중을 줄이려고 아침을 거르고 있는데 정오쯤이면 기진맥진해. / 남: 왜 그런지 생각해 봤니? / 여: 몸이 충분한 에너지를 얻지 못하는 것 같아. 식단을 바꿔야 한다고 생각해?",
+    "why": "식단을 바꿔야 하는지 묻는 질문에 이유와 함께 구체적으로 조언하는 ④가 알맞습니다.",
+    "optionNotes": [
+      "점심을 거르라는 조언은 상황에 해롭습니다.",
+      "아침이 낭비라는 말은 조언이 아닙니다.",
+      "운동을 늘리라는 말은 질문에 답하지 않습니다.",
+      "정답. 긍정하며 이유와 방법을 말합니다.",
+      "친구 이야기는 질문과 관계가 없습니다."
+    ],
+    "trap": "짧고 단호한 보기에 이끌려 질문에 맞지 않는 응답을 고르지 마세요.",
+    "tip": "Do you think I should ~?에는 의견과 이유를 말하는 응답을 고르세요."
+  },
+  {
+    "id": "m3b-01-13",
+    "level": "m3",
+    "set": "mock-01",
+    "no": 13,
+    "type": "l-response",
+    "stem": "대화를 듣고, 남자의 마지막 말에 대한 여자의 응답으로 가장 적절한 것을 고르시오.",
+    "script": [
+      {
+        "speaker": "M",
+        "text": "Our team has been working on this project for three weeks, but we still haven't agreed on the topic."
+      },
+      {
+        "speaker": "W",
+        "text": "Have you tried voting?"
+      },
+      {
+        "speaker": "M",
+        "text": "We did, but it ended in a tie, and nobody wants to give in. What should we do?"
+      }
+    ],
+    "options": [
+      "The deadline for the project is next Monday.",
+      "You should ask the teacher to choose for you.",
+      "Why don't you list the pros and cons of each topic and evaluate them with clear criteria, such as feasibility and interest? That may help everyone accept the result.",
+      "Voting is a very old way to make decisions.",
+      "I think the topic is not interesting at all."
+    ],
+    "answer": 2,
+    "translation": "남: 우리 팀은 이 프로젝트를 3주 동안 해 왔는데 아직 주제에 합의하지 못했어. / 여: 투표해 봤니? / 남: 했는데 동점이었고 아무도 양보하려 하지 않아. 어떻게 해야 할까?",
+    "why": "해결 방법을 묻는 질문에 구체적인 기준과 방법을 제시하는 ③이 알맞습니다.",
+    "optionNotes": [
+      "마감일은 질문에 답하지 않습니다.",
+      "교사에게 맡기라는 말은 구체적인 해결책이 아닙니다.",
+      "정답. 구체적인 평가 기준과 방법을 제시합니다.",
+      "투표의 역사는 질문에 답하지 않습니다.",
+      "주제가 재미없다는 말은 해결책이 아닙니다."
+    ],
+    "trap": "짧은 보기에 이끌려 문제 해결과 무관한 응답을 고르지 마세요.",
+    "tip": "What should we do?에는 구체적인 해결 방법을 말하는 응답을 고르세요."
+  },
+  {
+    "id": "m3b-01-14",
+    "level": "m3",
+    "set": "mock-01",
+    "no": 14,
+    "type": "l-response",
+    "stem": "대화를 듣고, 여자의 마지막 말에 대한 남자의 응답으로 가장 적절한 것을 고르시오.",
+    "script": [
+      {
+        "speaker": "W",
+        "text": "My grandmother lives alone and refuses to move to the city, but I'm worried about her health."
+      },
+      {
+        "speaker": "M",
+        "text": "That must be difficult for you."
+      },
+      {
+        "speaker": "W",
+        "text": "How can I convince her without hurting her feelings?"
+      }
+    ],
+    "options": [
+      "Instead of pushing her, listen to why she wants to stay and suggest small steps first, like regular visits or a safety alarm, so that she feels respected.",
+      "You should move to the countryside.",
+      "Grandmothers are always stubborn.",
+      "The city is too noisy for old people.",
+      "I think you should stop worrying."
+    ],
+    "answer": 0,
+    "translation": "여: 할머니는 혼자 사시는데 도시로 이사하는 걸 거부하셔. 그런데 나는 할머니의 건강이 걱정돼. / 남: 너한테 힘들겠다. / 여: 할머니의 마음을 상하게 하지 않고 어떻게 설득할 수 있을까?",
+    "why": "마음을 상하지 않게 설득하는 방법을 묻는 질문에 구체적이고 배려 있는 방법을 제시하는 ①이 알맞습니다.",
+    "optionNotes": [
+      "정답. 존중하며 작은 단계부터 제안하는 방법입니다.",
+      "시골로 이사하라는 말은 현실적인 해결책이 아닙니다.",
+      "일반화된 말로 해결책이 아닙니다.",
+      "도시가 시끄럽다는 말은 설득 방법이 아닙니다.",
+      "걱정하지 말라는 말은 질문에 답하지 않습니다."
+    ],
+    "trap": "짧고 단정적인 보기에 이끌려 질문의 'without hurting her feelings'를 놓치지 마세요.",
+    "tip": "방법을 묻는 질문에는 조건(마음을 상하지 않게)을 만족하는 구체적 방법을 고르세요."
+  },
+  {
+    "id": "m3b-01-15",
+    "level": "m3",
+    "set": "mock-01",
+    "no": 15,
+    "type": "l-situation",
+    "stem": "다음 상황 설명을 듣고, Jisu가 Haneul에게 할 말로 가장 적절한 것을 고르시오.",
+    "script": [
+      {
+        "speaker": "N",
+        "text": "Jisu and her close friend Haneul had planned to run for student council together as a pair. However, Jisu has just heard from another classmate that Haneul told several people she would run alone. Jisu feels hurt and confused, but she does not want to ruin their friendship by accusing her. After school, she meets Haneul in the hallway. In this situation, what would Jisu most likely say to Haneul?"
+      }
+    ],
+    "options": [
+      "I can't believe you lied to everyone about our plan. I never want to talk to you again, and I'm going to tell the class what you did.",
+      "It doesn't matter to me at all. Just do whatever you want, and please don't ask me to help with your campaign or your posters.",
+      "Let's ask the others in our class whether they think I should run alone, too, since you obviously don't need my help anymore.",
+      "You must have a good reason, so I won't say anything about it to anyone, and I won't ask you about it for the rest of the year.",
+      "I heard that you might be running alone. I felt a bit hurt, so could we talk honestly about what you really want?"
+    ],
+    "answer": 4,
+    "translation": "지수와 친한 친구 하늘은 학생회 선거에 짝을 지어 함께 출마하기로 계획했다. 그런데 지수는 하늘이 여러 사람에게 혼자 출마할 거라고 말했다는 것을 다른 반 친구에게서 방금 들었다. 지수는 상처받고 혼란스럽지만 그녀를 비난해서 우정을 망치고 싶지는 않다. 방과 후 지수는 복도에서 하늘을 만난다. 이 상황에서 지수가 하늘에게 할 말로 가장 적절한 것은?",
+    "why": "비난하지 않고 자신의 감정을 솔직하게 표현하며 대화를 제안하는 ⑤가 알맞습니다.",
+    "optionNotes": [
+      "거짓말쟁이라고 비난하는 말은 우정을 해칩니다.",
+      "상관없다는 말은 감정을 숨깁니다.",
+      "다른 사람들에게 묻자는 말은 문제를 키웁니다.",
+      "아무 말도 하지 않겠다는 말은 문제를 해결하지 못합니다.",
+      "정답. 감정을 표현하며 솔직한 대화를 제안합니다."
+    ],
+    "trap": "②④처럼 감정을 감추는 말은 갈등을 해결하지 못합니다.",
+    "tip": "상황 문제는 감정 표현과 대화 제안이 함께 있는 말을 고르세요."
+  },
+  {
+    "id": "m3b-01-16",
+    "level": "m3",
+    "set": "mock-01",
+    "no": 16,
+    "type": "l-set",
+    "group": "m3b-01-l16",
+    "stem": "[16~17] 다음을 듣고, 남자가 하는 말의 주제로 가장 적절한 것을 고르시오.",
+    "script": [
+      {
+        "speaker": "M",
+        "text": "Good afternoon. Today I'd like to talk about why sleep is essential for learning. During the day, we take in a huge amount of information, but it's during sleep that the brain sorts out what to keep. In deep sleep, the brain moves new facts into long-term memory, while REM sleep helps connect new ideas with what we already know. That's why students who stay up all night before an exam often perform worse than those who study less but sleep well. Experts also say that sleeping less than seven hours can reduce attention and increase mistakes the next day. So, rather than sacrificing sleep, plan your study schedule so that you can get enough rest every night."
+      }
+    ],
+    "options": [
+      "시험 직전에 효과적으로 암기하는 방법",
+      "수면이 정보 정리와 장기 기억 형성에 필수적이어서 학습에 중요하다는 점",
+      "규칙적인 운동이 학습 능력에 주는 영향",
+      "공부 계획을 세울 때 피해야 할 습관",
+      "기억력을 높이는 음식"
+    ],
+    "answer": 1,
+    "translation": "안녕하세요. 오늘은 학습에 수면이 필수적인 이유를 이야기하려고 합니다. 낮 동안 우리는 엄청난 양의 정보를 받아들이지만, 무엇을 남길지 뇌가 정리하는 것은 잠자는 동안입니다. 깊은 수면에서 뇌는 새로운 사실을 장기 기억으로 옮기고, 렘수면은 새로운 생각을 이미 아는 것과 연결해 줍니다. 그래서 시험 전에 밤을 새우는 학생들은 적게 공부하더라도 잘 자는 학생들보다 성적이 나쁜 경우가 많습니다. 전문가들은 일곱 시간 미만으로 자면 다음 날 주의력이 떨어지고 실수가 늘 수 있다고 말합니다. 그러니 수면을 희생하기보다 매일 밤 충분히 쉴 수 있도록 공부 계획을 세우세요.",
+    "why": "수면이 정보를 정리하고 장기 기억으로 옮겨 학습에 필수적이라는 점을 설명합니다.",
+    "optionNotes": [
+      "암기법은 나오지 않습니다.",
+      "정답. 수면이 기억 형성과 학습에 필수적이라는 점입니다.",
+      "운동은 나오지 않습니다.",
+      "피해야 할 습관은 주제가 아닙니다.",
+      "음식은 나오지 않습니다."
+    ],
+    "trap": "'study schedule'만 듣고 공부 계획 이야기(④)로 착각하지 마세요.",
+    "tip": "주제는 첫 문장(why sleep is essential for learning)을 확인하세요."
+  },
+  {
+    "id": "m3b-01-17",
+    "level": "m3",
+    "set": "mock-01",
+    "no": 17,
+    "type": "l-set",
+    "group": "m3b-01-l16",
+    "stem": "[16~17] 언급되지 않은 것을 고르시오.",
+    "script": [
+      {
+        "speaker": "M",
+        "text": "Good afternoon. Today I'd like to talk about why sleep is essential for learning. During the day, we take in a huge amount of information, but it's during sleep that the brain sorts out what to keep. In deep sleep, the brain moves new facts into long-term memory, while REM sleep helps connect new ideas with what we already know. That's why students who stay up all night before an exam often perform worse than those who study less but sleep well. Experts also say that sleeping less than seven hours can reduce attention and increase mistakes the next day. So, rather than sacrificing sleep, plan your study schedule so that you can get enough rest every night."
+      }
+    ],
+    "options": [
+      "깊은 수면 중 새로운 정보가 장기 기억으로 옮겨진다.",
+      "렘수면은 새로운 생각을 기존 지식과 연결해 준다.",
+      "일곱 시간 미만의 수면은 집중력을 떨어뜨릴 수 있다.",
+      "낮잠을 자면 기억력이 두 배로 좋아진다.",
+      "시험 전날 밤샘은 성적에 불리할 수 있다."
+    ],
+    "answer": 3,
+    "translation": "(16번과 같은 담화입니다.)",
+    "why": "깊은 수면, 렘수면, 일곱 시간 미만의 수면, 밤샘은 나왔지만 낮잠의 효과는 나오지 않았습니다.",
+    "optionNotes": [
+      "In deep sleep ... long-term memory로 언급되었습니다.",
+      "REM sleep ... connect new ideas로 언급되었습니다.",
+      "less than seven hours로 언급되었습니다.",
+      "정답. 낮잠은 나오지 않았습니다.",
+      "stay up all night로 언급되었습니다."
+    ],
+    "trap": "수면 이야기라 낮잠 이야기도 나왔을 것이라 착각하기 쉽습니다.",
+    "tip": "보기 하나하나를 담화의 해당 문장과 대조하세요."
+  }
+]
