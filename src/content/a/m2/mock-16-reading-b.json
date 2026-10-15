@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m2-16-29",
+    "level": "m2",
+    "set": "mock-16",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "The new library, {1|which} opened last month, {2|have} already attracted more than ten thousand visitors. Many students say that it is {3|much} quieter than the old one. The building, designed by a famous architect, {4|is} equipped with comfortable seats and fast Wi-Fi. If you {5|visit} it, you will understand why it is so popular.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "지난달에 문을 연 새 도서관은 이미 만 명이 넘는 방문객을 끌어들였다. 많은 학생이 그곳이 옛 도서관보다 훨씬 더 조용하다고 말한다. 유명한 건축가가 설계한 그 건물에는 편안한 좌석과 빠른 와이파이가 갖춰져 있다. 그곳을 방문해 보면 왜 그렇게 인기가 많은지 이해하게 될 것이다.",
+    "why": "주어 'The new library'가 단수이므로 'have'가 아니라 'has'여야 합니다.",
+    "optionNotes": [
+      "계속적 용법의 관계대명사 which입니다.",
+      "정답(틀린 것). 단수 주어에 맞춰 has여야 합니다.",
+      "비교급을 강조하는 much입니다.",
+      "단수 주어 The building에 맞는 is입니다.",
+      "조건절에서 현재형으로 미래를 나타내는 visit입니다."
+    ],
+    "trap": "삽입절(which opened last month)에 이끌려 복수로 오해하기 쉽습니다.",
+    "tip": "삽입절을 지우고 주어와 동사의 수를 일치시키세요."
+  },
+  {
+    "id": "m2-16-30",
+    "level": "m2",
+    "set": "mock-16",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "People who live near the sea often have a {1|strong} connection to it. In the past, fishing was the main source of {2|income} for many coastal villages. However, in recent decades, the number of fish has {3|decreased} because of overfishing. As a result, many fishers have to travel much farther to find fish. This {4|reduces} their costs and makes their work harder. Governments are now introducing rules to {5|protect} fish populations.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "바다 근처에 사는 사람들은 흔히 바다와 강한 유대를 가진다. 과거에 어업은 많은 해안 마을의 주된 수입원이었다. 그러나 최근 수십 년 사이 남획으로 물고기의 수가 줄었다. 그 결과 많은 어부가 물고기를 찾기 위해 훨씬 더 멀리 가야 한다. 이는 비용을 줄이고 일을 더 힘들게 만든다. 정부는 이제 어족 자원을 보호하기 위한 규칙을 도입하고 있다.",
+    "why": "더 멀리 가야 해서 일이 힘들어진다고 했으므로 비용을 '줄인다(reduces)'가 아니라 '늘린다(increases)'여야 합니다.",
+    "optionNotes": [
+      "강한 유대라는 의미로 strong이 알맞습니다.",
+      "수입원이라는 의미로 income이 알맞습니다.",
+      "줄었다는 의미로 decreased가 알맞습니다.",
+      "정답(부적절). 더 멀리 가야 하므로 increases여야 합니다.",
+      "보호한다는 의미로 protect가 알맞습니다."
+    ],
+    "trap": "'reduces'가 'decreased'의 흐름과 이어져 자연스러워 보입니다.",
+    "tip": "which 앞의 상황(travel farther)이 비용에 미치는 방향을 확인하세요."
+  },
+  {
+    "id": "m2-16-31",
+    "level": "m2",
+    "set": "mock-16",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Our brains are built to notice change. When we move into a new house, the sounds of the neighborhood seem loud at first. After a few weeks, however, we hardly notice them. The same happens with a nice smell or a bright color. This tendency, called habituation, helps us ignore unimportant information. At the same time, it explains why something that once made us excited can eventually feel __________.",
+    "options": [
+      "dangerous",
+      "delicious",
+      "ordinary",
+      "expensive",
+      "painful"
+    ],
+    "answer": 2,
+    "translation": "우리의 뇌는 변화를 알아차리도록 만들어져 있다. 새 집으로 이사하면 동네의 소리는 처음에는 크게 들린다. 그러나 몇 주가 지나면 거의 알아차리지 못한다. 좋은 냄새나 밝은 색도 마찬가지이다. 습관화라고 불리는 이 경향은 중요하지 않은 정보를 무시하게 도와준다. 동시에 이것은 한때 우리를 설레게 했던 것이 결국 평범하게 느껴질 수 있는 이유를 설명해 준다.",
+    "why": "익숙해지면 알아차리지 못하게 된다는 내용이므로 한때 설레던 것도 결국 '평범하게(ordinary)' 느껴집니다.",
+    "optionNotes": [
+      "위험하다는 내용은 없습니다.",
+      "맛있다는 내용은 없습니다.",
+      "정답. 익숙해져 평범하게 느껴집니다.",
+      "비싸다는 내용은 없습니다.",
+      "고통스럽다는 내용은 없습니다."
+    ],
+    "trap": "'excited'와 반대되는 감정을 극단적인 낱말(painful)로 오해하지 마세요.",
+    "tip": "앞의 'hardly notice'와 이어지는 의미(익숙함)를 찾으세요."
+  },
+  {
+    "id": "m2-16-32",
+    "level": "m2",
+    "set": "mock-16",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Scientists have discovered that some trees can \"talk\" to each other through underground networks of fungi. When one tree is attacked by insects, it sends chemical signals through the network. Neighboring trees receive the signals. They start producing substances that make their leaves less tasty to insects. In this way, forests behave less like groups of individuals and more like a __________.",
+    "options": [
+      "crowd of strangers",
+      "garden",
+      "factory",
+      "community",
+      "museum"
+    ],
+    "answer": 3,
+    "translation": "과학자들은 일부 나무가 균류의 지하 네트워크를 통해 서로 '대화'할 수 있음을 발견했다. 한 나무가 곤충의 공격을 받으면 그 네트워크를 통해 화학 신호를 보낸다. 이웃 나무들은 신호를 받는다. 그들은 잎을 곤충에게 덜 맛있게 만드는 물질을 만들기 시작한다. 이렇게 숲은 개별 나무의 집단이라기보다 하나의 공동체처럼 행동한다.",
+    "why": "나무들이 서로 신호를 주고받으며 돕는다고 했으므로 공동체(community)가 알맞습니다.",
+    "optionNotes": [
+      "서로 모르는 사람들이라는 내용은 글과 반대입니다.",
+      "정원이라는 내용은 없습니다.",
+      "공장이라는 내용은 없습니다.",
+      "정답. 서로 돕는 공동체입니다.",
+      "박물관이라는 내용은 없습니다."
+    ],
+    "trap": "'groups of individuals'와 반대되는 의미를 찾아야 합니다.",
+    "tip": "'less like A and more like B'에서 B가 글의 핵심입니다."
+  },
+  {
+    "id": "m2-16-33",
+    "level": "m2",
+    "set": "mock-16",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Effective teachers do not simply give answers. Instead, they ask questions that make students think. A good question has no easy answer and encourages students to look at a problem from several angles. By working through such questions, students learn not only the content but also how to __________. This skill remains useful long after they have forgotten the specific facts.",
+    "options": [
+      "memorize",
+      "copy",
+      "reason",
+      "obey",
+      "forget"
+    ],
+    "answer": 2,
+    "translation": "효과적인 교사는 단순히 답을 주지 않는다. 대신 학생들이 생각하게 만드는 질문을 한다. 좋은 질문은 쉬운 답이 없고 학생들이 문제를 여러 각도에서 보도록 격려한다. 이런 질문을 풀어 가며 학생들은 내용뿐 아니라 논리적으로 생각하는 방법도 배운다. 이 능력은 구체적인 사실을 잊은 뒤에도 오랫동안 유용하다.",
+    "why": "학생들이 생각하게 만드는 질문을 통해 논리적으로 생각하는 법(reason)을 배운다는 말이 알맞습니다.",
+    "optionNotes": [
+      "암기는 글과 반대되는 방식입니다.",
+      "베끼기는 나오지 않습니다.",
+      "정답. 논리적으로 생각하는 법을 배웁니다.",
+      "복종은 나오지 않습니다.",
+      "잊는다는 내용은 글과 맞지 않습니다."
+    ],
+    "trap": "뒤 문장의 'forgotten the specific facts'에 이끌려 forget을 고르지 마세요.",
+    "tip": "앞 문장의 'ask questions that make students think'가 빈칸의 단서입니다."
+  },
+  {
+    "id": "m2-16-34",
+    "level": "m2",
+    "set": "mock-16",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Some cities have started to paint their rooftops white. A white roof reflects sunlight, so the building absorbs less heat. As a result, the temperature inside stays lower, and air conditioners do not have to work as hard. When many buildings do this, the whole city becomes cooler. It is a simple way to __________ energy consumption without using any new technology.",
+    "options": [
+      "increase",
+      "reduce",
+      "ignore",
+      "measure",
+      "celebrate"
+    ],
+    "answer": 1,
+    "translation": "일부 도시는 옥상을 흰색으로 칠하기 시작했다. 흰 지붕은 햇빛을 반사하므로 건물이 열을 덜 흡수한다. 그 결과 실내 온도가 더 낮게 유지되고 에어컨이 덜 열심히 작동해도 된다. 많은 건물이 이렇게 하면 도시 전체가 더 시원해진다. 이것은 새로운 기술을 쓰지 않고 에너지 소비를 줄이는 간단한 방법이다.",
+    "why": "에어컨이 덜 작동해도 된다고 했으므로 에너지 소비를 줄이는(reduce) 방법이 알맞습니다.",
+    "optionNotes": [
+      "늘린다는 내용은 글과 반대입니다.",
+      "정답. 에너지 소비를 줄입니다.",
+      "무시한다는 내용은 없습니다.",
+      "측정한다는 내용은 없습니다.",
+      "기념한다는 내용은 없습니다."
+    ],
+    "trap": "'consumption'과 어울리는 'increase'를 반사적으로 고르지 마세요.",
+    "tip": "앞 문장의 'air conditioners do not have to work as hard'가 단서입니다."
+  },
+  {
+    "id": "m2-16-35",
+    "level": "m2",
+    "set": "mock-16",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Tea has been enjoyed for thousands of years. ① Mount Everest is the highest mountain in the world. ② Legend says that it was discovered in China when leaves fell into a pot of boiling water. ③ From there, it spread to Japan, Europe, and the rest of the world. ④ Today, each region has developed its own way of preparing and drinking it. ⑤ Tea ceremonies in Japan are a famous example of this cultural variety.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "차는 수천 년 동안 즐겨져 왔다. ① 에베레스트산은 세계에서 가장 높은 산이다. ② 전설에 따르면 그것은 잎이 끓는 물이 담긴 냄비에 떨어졌을 때 중국에서 발견되었다. ③ 그곳에서 일본, 유럽, 그리고 세계 나머지 지역으로 퍼졌다. ④ 오늘날 각 지역은 그것을 준비하고 마시는 고유한 방식을 발전시켰다. ⑤ 일본의 다도는 이런 문화적 다양성의 유명한 예이다.",
+    "why": "글은 차의 역사와 확산을 말하는데 ①은 에베레스트산 이야기라 관계가 없습니다.",
+    "optionNotes": [
+      "정답(무관). 에베레스트산 이야기입니다.",
+      "차의 발견 전설입니다.",
+      "차의 확산입니다.",
+      "지역별 방식입니다.",
+      "다도의 예입니다."
+    ],
+    "trap": "첫 문장 바로 뒤라 도입 문장처럼 보일 수 있습니다.",
+    "tip": "주제(차의 역사와 확산)와 이어지지 않는 문장을 고르세요."
+  },
+  {
+    "id": "m2-16-36",
+    "level": "m2",
+    "set": "mock-16",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Many people believe that sharks are dangerous to humans and attack people on purpose.\n(A) Once it realizes its mistake, it usually swims away without causing further harm.\n(B) For example, a shark may confuse a surfer on a board with a seal, which is its natural prey.\n(C) In fact, only a few species have ever attacked people. Most attacks happen by mistake.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 4,
+    "translation": "많은 사람은 상어가 인간에게 위험하며 일부러 사람을 공격한다고 믿는다. (C) 사실 사람을 공격한 적이 있는 종은 소수이다. 대부분의 공격은 실수로 일어난다. (B) 예를 들어 상어는 보드 위의 서퍼를 자연스러운 먹이인 물범으로 착각할 수 있다. (A) 실수를 깨달으면 상어는 보통 더 이상의 해를 끼치지 않고 헤엄쳐 간다.",
+    "why": "(C) In fact로 통념 반박 → (B) For example 구체적 예 → (A) 'it'과 'its mistake'로 이어지는 결과 순서입니다.",
+    "optionNotes": [
+      "(A)의 'its mistake'가 가리킬 실수가 앞에 없습니다.",
+      "(B)의 'For example'이 일반적 진술 없이 올 수 없습니다.",
+      "(B)의 'For example'이 일반적 진술 없이 올 수 없습니다.",
+      "(A)가 (B)보다 앞서면 'its mistake'가 나오기 전입니다.",
+      "정답. 반박 → 예시 → 결과."
+    ],
+    "trap": "(A)의 'its mistake'는 (B)의 착각을 가리킵니다.",
+    "tip": "In fact → For example → 결과의 논리 흐름과 지시어를 확인하세요."
+  },
+  {
+    "id": "m2-16-37",
+    "level": "m2",
+    "set": "mock-16",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Last winter, our town was hit by a huge snowstorm.\n(A) Roads were blocked, and many elderly people were left alone in their homes without heating.\n(B) Their kind act spread through social media, and soon hundreds of volunteers joined them.\n(C) Hearing about this, a group of high school students organized a team. They went door to door to deliver food and blankets.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "지난겨울 우리 마을은 거대한 눈보라를 맞았다. (A) 도로가 막혔고 많은 노인이 난방 없이 집에 홀로 남겨졌다. (C) 이 소식을 들은 고등학생 한 무리가 팀을 꾸렸다. 그들은 집집마다 음식과 담요를 전달했다. (B) 그들의 선행은 소셜 미디어를 통해 퍼졌고 곧 수백 명의 자원봉사자가 합류했다.",
+    "why": "(A) 눈보라의 피해 → (C) 'Hearing about this' 학생들의 도움 → (B) 선행이 퍼져 자원봉사자 합류 순서입니다.",
+    "optionNotes": [
+      "정답. 피해 → 학생들의 도움 → 확산.",
+      "(B)의 'Their'가 가리킬 대상이 앞에 없습니다.",
+      "(B)의 'Their'가 가리킬 대상이 앞에 없습니다.",
+      "(C)의 'this'가 가리킬 상황이 앞에 없습니다.",
+      "(C)의 'this'가 가리킬 상황이 앞에 없습니다."
+    ],
+    "trap": "(C)의 'this'는 (A)의 노인들이 고립된 상황을 가리킵니다.",
+    "tip": "지시어(this, Their)가 가리키는 대상이 앞에 있는지 확인하세요."
+  },
+  {
+    "id": "m2-16-38",
+    "level": "m2",
+    "set": "mock-16",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThis is why experts recommend keeping a regular sleep schedule even on weekends.\n\n[글]\n( ① ) Our bodies have an internal clock that tells us when to sleep and wake up. ( ② ) This clock is sensitive to light and daily habits. ( ③ ) Sleeping late on weekends can shift the clock by a few hours. ( ④ ) Otherwise, many people feel tired and cannot focus on Monday morning. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "[주어진 문장] 이것이 전문가들이 주말에도 규칙적인 수면 일정을 유지하라고 권하는 이유이다. [글] 우리 몸에는 언제 자고 일어날지 알려 주는 체내 시계가 있다. 이 시계는 빛과 일상 습관에 민감하다. 주말에 늦게 자면 시계가 몇 시간 이동할 수 있다. 이것이 전문가들이 주말에도 규칙적인 수면 일정을 유지하라고 권하는 이유이다. 그렇지 않으면 많은 사람이 월요일 아침에 피곤하고 집중하지 못한다.",
+    "why": "'This is why'는 앞의 원인(시계가 이동함)에 대한 권고이고, 뒤의 'Otherwise'가 그렇지 않을 때의 결과를 말하므로 ④에 들어갑니다.",
+    "optionNotes": [
+      "체내 시계 소개 전이라 'This'가 가리킬 원인이 없습니다.",
+      "시계의 민감성만 나온 상태라 원인이 아직 없습니다.",
+      "원인 설명 문장 앞이라 어색합니다.",
+      "정답. 원인 뒤의 권고이고 'Otherwise'로 이어집니다.",
+      "'Otherwise'가 가리킬 권고가 이미 지나갔습니다."
+    ],
+    "trap": "⑤ 뒤에서도 가능해 보이지만 'Otherwise'는 권고 뒤에 나와야 합니다.",
+    "tip": "'Otherwise'는 바로 앞에 권고나 조건이 있어야 합니다."
+  },
+  {
+    "id": "m2-16-39",
+    "level": "m2",
+    "set": "mock-16",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThis steady growth is the power of compound interest.\n\n[글]\n( ① ) Saving a small amount every day may seem unimportant. ( ② ) After one year, one dollar a day adds up to more than three hundred dollars. ( ③ ) After ten years, with interest, the total can be much larger. ( ④ ) Therefore, starting to save early is more important than saving a large amount later. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "[주어진 문장] 이런 꾸준한 증가가 복리의 힘이다. [글] 매일 적은 금액을 저축하는 것은 중요하지 않아 보일 수 있다. 1년이 지나면 하루 1달러는 300달러가 넘는다. 10년이 지나면 이자가 붙어 총액이 훨씬 더 커질 수 있다. 이런 꾸준한 증가가 복리의 힘이다. 그러므로 일찍 저축을 시작하는 것이 나중에 많은 금액을 저축하는 것보다 더 중요하다.",
+    "why": "'This steady growth'는 ③에서 말한 금액의 증가를 가리키고, 'Therefore' 문장이 그 결론이므로 ④에 들어갑니다.",
+    "optionNotes": [
+      "증가 이야기가 나오기 전이라 'This'가 가리킬 대상이 없습니다.",
+      "첫 증가 사례만 나온 상태입니다.",
+      "10년 뒤의 증가가 나오기 전입니다.",
+      "정답. 증가를 설명하고 'Therefore'로 이어집니다.",
+      "결론 뒤라 'This steady growth'의 위치로 어색합니다."
+    ],
+    "trap": "'Therefore'는 원인 설명이 끝난 뒤에 나옵니다.",
+    "tip": "'This + 명사'는 바로 앞 문장의 내용을 가리킵니다."
+  },
+  {
+    "id": "m2-16-40",
+    "level": "m2",
+    "set": "mock-16",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Researchers observed two groups of volunteers who were learning a new skill. One group practiced for one long session. The other group practiced in several shorter sessions with rests in between. A week later, the second group remembered the skill much better. The researchers explained that the brain needs time between sessions to strengthen new connections.\n\n▶ Practice that is (A) into short sessions works better, because the brain needs time to (B) what it has learned.",
+    "options": [
+      "(A) crowded — (B) forget",
+      "(A) repeated — (B) ignore",
+      "(A) delayed — (B) reject",
+      "(A) shortened — (B) lose",
+      "(A) divided — (B) consolidate"
+    ],
+    "answer": 4,
+    "translation": "연구자들은 새로운 기술을 배우는 두 자원자 집단을 관찰했다. 한 집단은 한 번의 긴 시간 동안 연습했다. 다른 집단은 중간에 휴식을 두고 여러 번의 짧은 시간으로 나누어 연습했다. 일주일 뒤 두 번째 집단이 그 기술을 훨씬 더 잘 기억했다. 연구자들은 뇌가 새 연결을 강화하는 데 연습 사이의 시간이 필요하다고 설명했다. ▶ 연습을 휴식이 있는 짧은 시간으로 나누면 뇌가 배운 것을 공고히 할 시간이 생겨 학습이 더 효과적이다.",
+    "why": "짧게 나누어 연습한 집단이 더 잘 기억했으므로 (A)는 divided, (B)는 consolidate입니다.",
+    "optionNotes": [
+      "crowded와 forget은 글과 반대입니다.",
+      "repeated와 ignore는 글과 맞지 않습니다.",
+      "delayed와 reject는 글에 나오지 않습니다.",
+      "shortened와 lose는 글과 반대입니다.",
+      "정답. 나누어 연습해 뇌가 공고히 할 시간을 줍니다."
+    ],
+    "trap": "'shortened'는 연습 시간을 줄이는 것이 아니라 나누는 것이라 맞지 않습니다.",
+    "tip": "요약문은 조건(나누어 연습)과 이유(뇌가 연결을 강화)를 짝지어 찾으세요."
+  }
+]

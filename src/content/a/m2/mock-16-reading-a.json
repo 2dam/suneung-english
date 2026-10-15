@@ -1,0 +1,333 @@
+[
+  {
+    "id": "m2-16-18",
+    "level": "m2",
+    "set": "mock-16",
+    "no": 18,
+    "type": "purpose",
+    "stem": "다음 글을 쓴 목적으로 가장 적절한 것은?",
+    "passage": "Dear Ms. Wilson,\nI am writing about my reservation at the Seaside Hotel, confirmation number 4821. I booked a room for two nights, from July 10 to July 12. Unfortunately, my flight has been delayed by one day, so I will not be able to arrive until July 11. I would like to change my reservation to July 11 – 13 if possible. Could you please let me know whether a room is available on those dates? I look forward to your reply.\nSincerely,\nTom Baker",
+    "options": [
+      "호텔 객실 요금을 문의하려고",
+      "호텔 서비스에 대한 불만을 제기하려고",
+      "숙박 예약 날짜의 변경을 요청하려고",
+      "항공편 예약 취소를 요청하려고",
+      "호텔 직원 채용 정보를 문의하려고"
+    ],
+    "answer": 2,
+    "translation": "윌슨 씨께. 시사이드 호텔 예약(확인 번호 4821)에 관해 씁니다. 저는 7월 10일부터 12일까지 2박으로 객실을 예약했습니다. 안타깝게도 항공편이 하루 지연되어 7월 11일에야 도착할 수 있습니다. 가능하다면 예약을 7월 11일~13일로 변경하고 싶습니다. 해당 날짜에 객실이 있는지 알려 주시겠습니까? 답장을 기다리겠습니다. 톰 베이커 드림.",
+    "why": "항공편 지연으로 숙박 예약 날짜를 변경해 달라고 요청하는 글입니다.",
+    "optionNotes": [
+      "요금 문의가 아닙니다.",
+      "불만 제기가 아닙니다.",
+      "정답. 예약 날짜 변경을 요청합니다.",
+      "항공편 취소가 아니라 지연입니다.",
+      "채용 문의가 아닙니다."
+    ],
+    "trap": "항공편 지연(delayed)은 변경의 이유일 뿐 목적이 아닙니다.",
+    "tip": "목적 문제는 'I would like to ~' 문장을 찾으세요."
+  },
+  {
+    "id": "m2-16-19",
+    "level": "m2",
+    "set": "mock-16",
+    "no": 19,
+    "type": "mood",
+    "stem": "다음 글에 드러난 Min의 심경 변화로 가장 적절한 것은?",
+    "passage": "Min had spent the whole afternoon trying to fix his bike chain. His fingers were black with oil, and the chain kept slipping off. \"This is impossible!\" he shouted and almost threw the wrench. Then he remembered his grandfather's advice: \"Slow down and look carefully.\" He took a deep breath, found a bent link, and straightened it. The chain clicked into place. Min spun the pedal and smiled at the smooth sound.",
+    "options": [
+      "frustrated → satisfied",
+      "bored → sleepy",
+      "nervous → ashamed",
+      "lonely → extremely excited",
+      "proud → deeply disappointed"
+    ],
+    "answer": 0,
+    "translation": "민은 오후 내내 자전거 체인을 고치려고 애썼다. 손가락은 기름으로 까맣게 되었고 체인은 계속 빠졌다. \"이건 불가능해!\" 그는 소리치며 렌치를 던질 뻔했다. 그때 할아버지의 조언이 떠올랐다. \"천천히 하고 자세히 보렴.\" 그는 숨을 깊이 쉬고 휘어진 고리를 찾아 폈다. 체인이 딸깍 제자리에 들어갔다. 민은 페달을 돌려 보고 부드러운 소리에 미소 지었다.",
+    "why": "체인이 계속 빠져 답답해하다가(frustrated), 고친 뒤 만족했습니다(satisfied).",
+    "optionNotes": [
+      "정답. 답답함에서 만족으로 변했습니다.",
+      "지루함에서 졸림이 아닙니다.",
+      "긴장에서 부끄러움이 아닙니다.",
+      "외로움에서 신남이 아닙니다.",
+      "자랑스러움에서 실망이 아닙니다."
+    ],
+    "trap": "'shouted'만 보고 마지막까지 화가 난 상태로 판단하지 마세요.",
+    "tip": "전환점(Then he remembered ...)을 기준으로 앞뒤 감정을 비교하세요."
+  },
+  {
+    "id": "m2-16-20",
+    "level": "m2",
+    "set": "mock-16",
+    "no": 20,
+    "type": "claim",
+    "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+    "passage": "Many young people do not know how to manage money. They learn to use credit cards and online payments before they learn how to make a budget. As a result, some adults fall into debt in their twenties. Understanding savings, interest, and spending plans is as important as learning math or science. Therefore, schools should teach students how to manage money.",
+    "options": [
+      "학생은 받은 용돈을 한 푼도 쓰지 않고 모두 저축해야 한다.",
+      "신용카드 사용은 금지되어야 한다.",
+      "학교에서 돈을 관리하는 방법을 가르쳐야 한다.",
+      "수학과 과학 수업 시간을 늘려야 한다.",
+      "성인이 되어 스스로 돈을 벌기 전까지는 돈을 쓰지 말아야 한다."
+    ],
+    "answer": 2,
+    "translation": "많은 젊은이는 돈을 관리하는 방법을 모른다. 그들은 예산을 세우는 법을 배우기 전에 신용카드와 온라인 결제를 쓰는 법부터 배운다. 그 결과 일부 성인은 20대에 빚에 빠진다. 저축, 이자, 지출 계획을 이해하는 것은 수학이나 과학을 배우는 것만큼 중요하다. 그러므로 학교는 학생들에게 돈을 관리하는 방법을 가르쳐야 한다.",
+    "why": "마지막 문장 'schools should teach students how to manage money'가 필자의 주장입니다.",
+    "optionNotes": [
+      "저축 의무는 나오지 않습니다.",
+      "사용 금지는 나오지 않습니다.",
+      "정답. 학교가 돈 관리를 가르쳐야 합니다.",
+      "수업 시간 증가는 나오지 않습니다.",
+      "돈을 쓰지 말라는 내용은 아닙니다."
+    ],
+    "trap": "'as important as math'를 수학 수업 확대 주장으로 오해하지 마세요.",
+    "tip": "주장 문제는 'Therefore, ~ should ...' 문장을 찾으세요."
+  },
+  {
+    "id": "m2-16-21",
+    "level": "m2",
+    "set": "mock-16",
+    "no": 21,
+    "type": "implied",
+    "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "passage": "I wanted to buy the new smartphone, but it {u|costs an arm and a leg}. I looked at the price tag again. Then I decided to wait until the price goes down.",
+    "options": [
+      "makes you lose your hands",
+      "is difficult to carry",
+      "is available only in some countries",
+      "breaks easily when dropped",
+      "is extremely expensive"
+    ],
+    "answer": 4,
+    "translation": "나는 새 스마트폰을 사고 싶었지만 값이 엄청나게 비싸다. 가격표를 다시 보았다. 그리고 가격이 내려갈 때까지 기다리기로 했다.",
+    "why": "가격표를 보고 기다리기로 했다고 했으므로 'costs an arm and a leg'는 매우 비싸다는 뜻입니다.",
+    "optionNotes": [
+      "손을 잃는다는 문자 그대로의 뜻이 아닙니다.",
+      "휴대하기 어렵다는 뜻이 아닙니다.",
+      "일부 나라에서만 구한다는 뜻이 아닙니다.",
+      "잘 깨진다는 뜻이 아닙니다.",
+      "정답. 매우 비싸다는 뜻입니다."
+    ],
+    "trap": "'arm', 'leg'를 문자 그대로 해석하지 마세요.",
+    "tip": "관용 표현은 뒤 문장(price tag, wait until the price goes down)에서 의미를 확인하세요."
+  },
+  {
+    "id": "m2-16-22",
+    "level": "m2",
+    "set": "mock-16",
+    "no": 22,
+    "type": "gist",
+    "stem": "다음 글의 요지로 가장 적절한 것은?",
+    "passage": "Many people believe that they should only share good news on social media. However, researchers found that people who openly share their struggles often receive more support. They also feel closer to others. This is because honesty makes others feel safe to open up as well. Of course, there is no need to share everything. But showing a bit of vulnerability can build deeper relationships than a perfect image.",
+    "options": [
+      "솔직하게 어려움을 드러내는 것이 사람들과의 관계를 더 깊게 만들 수 있다.",
+      "소셜 미디어에서는 좋은 소식만 올려야 한다.",
+      "모든 개인 정보를 공개하는 것이 좋다.",
+      "완벽한 이미지가 인간관계를 좋게 한다.",
+      "어려움은 혼자 해결해야 한다."
+    ],
+    "answer": 0,
+    "translation": "많은 사람은 소셜 미디어에 좋은 소식만 공유해야 한다고 믿는다. 그러나 연구자들은 자신의 어려움을 진솔하게 나누는 사람이 흔히 더 많은 지지를 받는다는 것을 발견했다. 그들은 다른 사람과 더 가깝게 느끼기도 한다. 이는 솔직함이 다른 사람들도 마음을 열어도 안전하다고 느끼게 하기 때문이다. 물론 모든 것을 공유할 필요는 없다. 하지만 약간의 취약함을 보이는 것은 완벽한 이미지보다 더 깊은 관계를 만들 수 있다.",
+    "why": "솔직하게 어려움을 나누는 것이 더 깊은 관계를 만든다는 것이 요지입니다.",
+    "optionNotes": [
+      "정답. 솔직한 공개가 관계를 깊게 합니다.",
+      "첫 문장의 통념이며 글에서 반박됩니다.",
+      "모든 것을 공유할 필요는 없다고 합니다.",
+      "완벽한 이미지보다 솔직함이 낫다고 합니다.",
+      "글과 반대입니다."
+    ],
+    "trap": "첫 문장의 통념(only good news)을 필자의 생각으로 착각하지 마세요.",
+    "tip": "However 뒤의 문장과 결론 문장이 요지를 담습니다."
+  },
+  {
+    "id": "m2-16-23",
+    "level": "m2",
+    "set": "mock-16",
+    "no": 23,
+    "type": "topic",
+    "stem": "다음 글의 주제로 가장 적절한 것은?",
+    "passage": "In many parts of the world, wetlands are being drained to create farmland and cities. However, wetlands play an important role in nature. They store large amounts of rainwater, which reduces the damage of floods. They also filter pollutants from the water and provide homes for countless species of birds, fish, and plants. Because of these functions, scientists call wetlands \"nature's kidneys.\"",
+    "options": [
+      "how floods can be predicted with satellite images",
+      "why farmland needs more water in the dry season",
+      "which animals live only in cold wetlands",
+      "what kinds of pollutants come from big cities",
+      "the important roles that wetlands play in protecting nature and people"
+    ],
+    "answer": 4,
+    "translation": "세계 많은 지역에서 습지는 농지와 도시를 만들기 위해 물이 빠지고 있다. 그러나 습지는 자연에서 중요한 역할을 한다. 습지는 많은 양의 빗물을 저장해 홍수 피해를 줄인다. 또한 물에서 오염 물질을 걸러 내고 수많은 새, 물고기, 식물의 서식지가 된다. 이런 기능 때문에 과학자들은 습지를 '자연의 신장'이라고 부른다.",
+    "why": "습지가 자연과 사람을 보호하는 여러 역할을 한다는 내용이므로 ⑤가 주제입니다.",
+    "optionNotes": [
+      "홍수 예측은 나오지 않습니다.",
+      "농지의 물 필요는 나오지 않습니다.",
+      "추운 습지의 동물은 나오지 않습니다.",
+      "오염 물질의 종류는 나오지 않습니다.",
+      "정답. 습지의 중요한 역할입니다."
+    ],
+    "trap": "'floods'만 보고 ①을 고르지 마세요. 홍수는 습지 역할 중 하나입니다.",
+    "tip": "주제는 글 전체의 공통 내용(습지의 역할)을 포괄하는 보기를 고르세요."
+  },
+  {
+    "id": "m2-16-24",
+    "level": "m2",
+    "set": "mock-16",
+    "no": 24,
+    "type": "title",
+    "stem": "다음 글의 제목으로 가장 적절한 것은?",
+    "passage": "In a small town in Italy, people who walk to work receive a free cup of coffee. The idea began when the mayor noticed that morning traffic was making the air dirty and the streets noisy. Local cafés joined the project. Walkers only have to show an app that counts their steps. After six months, car use in the town center dropped by fifteen percent. Café owners reported more customers.",
+    "options": [
+      "Why Coffee Prices Are Rising Around the World Every Year",
+      "A Brief History of Italian Cafés in Rome, Milan, and Beyond",
+      "How to Make the Perfect Cup of Espresso at Home",
+      "The Dangers of Drinking Too Much Coffee",
+      "Walk to Work, Get a Free Coffee"
+    ],
+    "answer": 4,
+    "translation": "이탈리아의 한 작은 마을에서는 걸어서 출근하는 사람에게 무료 커피 한 잔을 준다. 이 아이디어는 시장이 아침 교통 체증이 공기를 더럽히고 거리를 시끄럽게 한다는 것을 알아차리면서 시작되었다. 지역 카페들이 프로젝트에 동참했다. 걷는 사람은 걸음 수를 세는 앱만 보여 주면 된다. 6개월 뒤 마을 중심부의 자동차 이용은 15퍼센트 줄었다. 카페 주인들은 손님이 늘었다고 전했다.",
+    "why": "걸어서 출근하면 무료 커피를 주는 프로젝트를 소개하는 글이므로 ⑤가 제목입니다.",
+    "optionNotes": [
+      "커피 가격 상승은 나오지 않습니다.",
+      "카페의 역사는 나오지 않습니다.",
+      "에스프레소 만드는 법은 나오지 않습니다.",
+      "커피의 위험은 나오지 않습니다.",
+      "정답. 걸어서 출근하면 무료 커피를 줍니다."
+    ],
+    "trap": "'coffee'가 나온다고 ①~④를 고르지 마세요.",
+    "tip": "제목은 글의 핵심 아이디어(walk → free coffee)를 담으세요."
+  },
+  {
+    "id": "m2-16-25",
+    "level": "m2",
+    "set": "mock-16",
+    "no": 25,
+    "type": "chart",
+    "stem": "다음 도표의 내용과 일치하지 않는 것은?",
+    "chart": {
+      "title": "Time Spent Online by Teenagers (hours/day)",
+      "unit": "hours",
+      "labels": [
+        "Study",
+        "Video",
+        "Games",
+        "SNS",
+        "Shopping"
+      ],
+      "series": [
+        {
+          "name": "Hours",
+          "values": [
+            2,
+            3.5,
+            2.5,
+            3,
+            0.5
+          ]
+        }
+      ]
+    },
+    "passage": "The graph shows how many hours teenagers spend online each day. ① Teenagers spend the most time watching videos. ② SNS takes one hour longer than Games. ③ Shopping takes the least time. ④ Study and Games together take 4.5 hours. ⑤ Video takes 1.5 hours longer than Study.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "그래프는 십 대가 하루에 온라인에서 보내는 시간을 보여 준다. ① 십 대는 영상 시청에 가장 많은 시간을 쓴다. ② SNS는 게임보다 한 시간 더 길다. ③ 쇼핑이 가장 적은 시간을 차지한다. ④ 공부와 게임을 합하면 4.5시간이다. ⑤ 영상은 공부보다 1.5시간 더 길다.",
+    "why": "SNS는 3시간, 게임은 2.5시간이므로 한 시간 더 길다는 ②는 일치하지 않습니다(0.5시간 차이).",
+    "optionNotes": [
+      "영상 3.5시간이 가장 깁니다.",
+      "정답(불일치). SNS는 게임보다 0.5시간 깁니다.",
+      "쇼핑 0.5시간이 가장 짧습니다.",
+      "2 + 2.5 = 4.5시간입니다.",
+      "3.5 - 2 = 1.5시간입니다."
+    ],
+    "trap": "소수(2.5, 3)의 차이를 1로 착각하기 쉽습니다.",
+    "tip": "차이를 묻는 보기는 두 값을 직접 빼서 확인하세요."
+  },
+  {
+    "id": "m2-16-26",
+    "level": "m2",
+    "set": "mock-16",
+    "no": 26,
+    "type": "match",
+    "stem": "Kenji Aoki에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Kenji Aoki is a Japanese chef who runs a small restaurant in Lima, Peru. He first went to Peru as an exchange student at the age of nineteen. Fascinated by local ingredients, he decided to stay and study cooking there. Today his restaurant is known for mixing Japanese techniques with Peruvian flavors. He says that food is a language that can connect people.",
+    "options": [
+      "열아홉 살에 일본에서 요리 학교를 졸업하고 곧바로 페루로 떠났다.",
+      "교환 학생으로 페루에 간 것을 계기로 그곳에서 요리를 공부했다.",
+      "식당을 일본 도쿄의 번화가에서 운영하며 현지 재료를 활용한다.",
+      "일본의 전통 방식으로만 요리하며 현지 재료는 쓰지 않는다.",
+      "음식은 사람들을 이어 주는 언어가 아니라고 생각한다."
+    ],
+    "answer": 1,
+    "translation": "아오키 겐지는 페루의 리마에서 작은 식당을 운영하는 일본인 요리사이다. 그는 열아홉 살에 교환 학생으로 처음 페루에 갔다. 현지 재료에 매료된 그는 그곳에 남아 요리를 공부하기로 했다. 오늘날 그의 식당은 일본의 기술과 페루의 맛을 섞는 것으로 알려져 있다. 그는 음식이 사람들을 이어 주는 언어라고 말한다.",
+    "why": "교환 학생으로 페루에 갔다가 남아 요리를 공부했다는 내용과 일치합니다.",
+    "optionNotes": [
+      "열아홉 살에 교환 학생으로 페루에 갔습니다.",
+      "정답. 교환 학생으로 페루에 가서 요리를 공부했습니다.",
+      "페루 리마에서 운영합니다.",
+      "일본 기술과 페루의 맛을 섞습니다.",
+      "음식이 언어라고 말합니다."
+    ],
+    "trap": "나이(nineteen)와 계기(exchange student)를 다른 사건과 연결하지 마세요.",
+    "tip": "일치 문제는 장소·나이·계기를 하나씩 대조하세요."
+  },
+  {
+    "id": "m2-16-27",
+    "level": "m2",
+    "set": "mock-16",
+    "no": 27,
+    "type": "notice",
+    "stem": "Neighborhood Flea Market에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Neighborhood Flea Market\nBring your used items and find great bargains!\nDate: Sunday, September 15\nTime: 10:00 a.m. – 4:00 p.m.\nPlace: Maple Park\nSellers: Register by September 10 (table fee: $5)\nItems: Used clothes, books, toys, and small furniture\nNot allowed: Food and live animals\nNote: Unsold items must be taken home.",
+    "options": [
+      "행사는 토요일에 열린다.",
+      "새 제품만 판매할 수 있다.",
+      "참가 신청은 9월 15일까지이다.",
+      "판매하지 못한 물건은 행사장에 두고 가도 된다.",
+      "살아 있는 동물은 판매할 수 없다."
+    ],
+    "answer": 4,
+    "translation": "동네 벼룩시장. 중고 물건을 가져와 좋은 물건을 싸게 구하세요! 날짜: 9월 15일 일요일. 시간: 오전 10시~오후 4시. 장소: 메이플 공원. 판매자: 9월 10일까지 등록(탁자 사용료 5달러). 품목: 중고 옷, 책, 장난감, 작은 가구. 금지: 음식과 살아 있는 동물. 유의: 팔리지 않은 물건은 집으로 가져가야 합니다.",
+    "why": "'Not allowed: Food and live animals'와 일치합니다.",
+    "optionNotes": [
+      "일요일에 열립니다.",
+      "중고 물건을 판매합니다.",
+      "판매자 등록은 9월 10일까지입니다.",
+      "팔리지 않은 물건은 가져가야 합니다.",
+      "정답. 살아 있는 동물은 판매할 수 없습니다."
+    ],
+    "trap": "등록 마감(September 10)과 행사일(September 15)을 혼동하지 마세요.",
+    "tip": "안내문은 항목(Date, Sellers, Items, Not allowed, Note)별로 대조하세요."
+  },
+  {
+    "id": "m2-16-28",
+    "level": "m2",
+    "set": "mock-16",
+    "no": 28,
+    "type": "notice",
+    "stem": "Pottery Class에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Pottery Class for Adults\nTerm: Five weeks (every Thursday, 6:30 p.m. – 8:30 p.m.)\nStarts: October 3\nPlace: Hanbit Community Center, Room B\nFee: $75 (clay and tools included)\nLimit: 10 students\nPlease note: Wear clothes that can get dirty. Aprons are available.\nCancel: Full refund until September 26",
+    "options": [
+      "수업은 주말 아침에 열린다.",
+      "재료비는 별도로 내야 한다.",
+      "수강 인원은 10명으로 제한된다.",
+      "앞치마는 직접 가져와야 한다.",
+      "9월 30일에 취소해도 전액 환불받을 수 있다."
+    ],
+    "answer": 2,
+    "translation": "성인 도예 수업. 기간: 5주(매주 목요일 오후 6시 30분~8시 30분). 시작: 10월 3일. 장소: 한빛 주민센터 B실. 수강료: 75달러(점토와 도구 포함). 인원: 10명 제한. 유의: 더러워져도 되는 옷을 입으세요. 앞치마는 대여할 수 있습니다. 취소: 9월 26일까지 전액 환불.",
+    "why": "'Limit: 10 students'와 일치합니다.",
+    "optionNotes": [
+      "목요일 저녁에 열립니다.",
+      "점토와 도구가 포함됩니다.",
+      "정답. 인원은 10명으로 제한됩니다.",
+      "앞치마는 준비되어 있습니다.",
+      "9월 26일까지만 전액 환불됩니다."
+    ],
+    "trap": "환불 기한(September 26)을 놓치면 ⑤를 고르기 쉽습니다.",
+    "tip": "세부 조건(요일, 금액, 인원, 환불 기한)을 하나씩 대조하세요."
+  }
+]
