@@ -1,0 +1,147 @@
+[
+  {
+    "id": "m1-17-41",
+    "level": "m1",
+    "set": "mock-17",
+    "no": 41,
+    "type": "long",
+    "group": "m1-17-g41",
+    "stem": "[41~42] 윗글의 제목으로 가장 적절한 것을 고르시오.",
+    "passage": "Today was my first day of ice skating. I put on my skates and held the wall. I {1|slowly} moved my feet. I fell down three times. But my brother {2|helped} me stand up each time. After an hour, I skated a few meters alone and felt {3|sad}. My brother {4|clapped} for me. I {5|smiled} all day.",
+    "options": [
+      "A Trip to the Zoo",
+      "My Favorite School Lunch",
+      "How to Cook Rice",
+      "My First Day on Ice Skates",
+      "The Long History of Skating in Europe and Asia"
+    ],
+    "answer": 3,
+    "translation": "오늘은 내가 처음으로 스케이트를 탄 날이었다. 나는 스케이트를 신고 벽을 잡았다. 천천히 발을 움직였다. 나는 세 번 넘어졌다. 하지만 오빠가 매번 일어나도록 도와주었다. 한 시간 뒤 나는 혼자서 몇 미터를 탔고 슬펐다. 오빠가 박수를 쳐 주었다. 나는 하루 종일 웃었다.",
+    "why": "처음 스케이트를 탄 하루를 이야기하므로 ④가 제목입니다.",
+    "optionNotes": [
+      "동물원은 나오지 않습니다.",
+      "급식은 나오지 않습니다.",
+      "요리는 나오지 않습니다.",
+      "정답. 처음 스케이트를 탄 날입니다.",
+      "스케이트의 역사는 나오지 않습니다."
+    ],
+    "trap": "'skating'이 나온다고 ⑤를 고르지 마세요. 역사 이야기가 아닙니다.",
+    "tip": "이야기글의 제목은 주인공의 경험(first day)을 담으세요."
+  },
+  {
+    "id": "m1-17-42",
+    "level": "m1",
+    "set": "mock-17",
+    "no": 42,
+    "type": "long",
+    "group": "m1-17-g41",
+    "stem": "[41~42] 밑줄 친 ①~⑤ 중에서 문맥상 낱말의 쓰임이 적절하지 않은 것을 고르시오.",
+    "passage": "Today was my first day of ice skating. I put on my skates and held the wall. I {1|slowly} moved my feet. I fell down three times. But my brother {2|helped} me stand up each time. After an hour, I skated a few meters alone and felt {3|sad}. My brother {4|clapped} for me. I {5|smiled} all day.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "(41번 지문과 같은 글입니다.)",
+    "why": "혼자서 몇 미터를 타는 데 성공했으므로 'sad(슬픈)'가 아니라 'happy(기쁜)'여야 합니다.",
+    "optionNotes": [
+      "천천히 움직였다는 의미로 slowly가 알맞습니다.",
+      "도와주었다는 의미로 helped가 알맞습니다.",
+      "정답(부적절). 성공했으므로 happy여야 합니다.",
+      "박수를 쳤다는 의미로 clapped가 알맞습니다.",
+      "웃었다는 의미로 smiled가 알맞습니다."
+    ],
+    "trap": "앞에서 세 번 넘어진 내용에 이끌려 sad가 맞다고 생각하기 쉽습니다.",
+    "tip": "사건(skated alone)과 감정이 자연스럽게 이어지는지 확인하세요."
+  },
+  {
+    "id": "m1-17-43",
+    "level": "m1",
+    "set": "mock-17",
+    "no": 43,
+    "type": "long",
+    "group": "m1-17-g43",
+    "stem": "[43~45] 주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것을 고르시오.",
+    "passage": "(A) Yuna wanted to join the school choir, but she was too shy to sing in front of people. {1|She} stood outside the music room every day and listened.\n(B) On the day of the concert, Yuna stood on the stage with the choir. The teacher looked at her. {2|She} smiled and gave her a thumbs-up.\n(C) Yuna sang a short song for the teacher. {3|She} was very nervous, but her voice was clear.\n(D) One afternoon, the music teacher opened the door and said, \"Come in.\" Yuna walked in slowly, and {4|she} took a deep breath. {5|She} was ready to sing.",
+    "options": [
+      "(B)-(D)-(C)",
+      "(C)-(B)-(D)",
+      "(C)-(D)-(B)",
+      "(D)-(B)-(C)",
+      "(D)-(C)-(B)"
+    ],
+    "answer": 4,
+    "translation": "(A) 유나는 학교 합창단에 들어가고 싶었지만 사람들 앞에서 노래하기에는 너무 수줍었다. 그녀는 매일 음악실 밖에 서서 듣곤 했다. (D) 어느 날 오후 음악 선생님이 문을 열고 말했다. \"들어오렴.\" 유나는 천천히 걸어 들어갔고 깊이 숨을 쉬었다. 그녀는 노래할 준비가 되었다. (C) 유나는 선생님 앞에서 짧은 노래를 불렀다. 그녀는 매우 긴장했지만 목소리는 맑았다. (B) 연주회 날 유나는 합창단과 함께 무대에 섰다. 선생님이 그녀를 바라보았다. 선생님은 미소 지으며 엄지를 들어 올렸다.",
+    "why": "(A) 밖에서 듣던 유나 → (D) 선생님이 들어오라고 함 → (C) 노래함 → (B) 연주회 날 순서입니다.",
+    "optionNotes": [
+      "(B)의 연주회가 처음에 올 수 없습니다.",
+      "(B)가 (C)보다 앞서면 노래하기 전에 연주회가 열립니다.",
+      "(B)가 (D)보다 앞서면 들어가기 전에 연주회가 열립니다.",
+      "(D)가 (B)보다 앞서면 (C) 노래보다 연주회가 먼저 나옵니다.",
+      "정답. 초대 → 노래 → 연주회."
+    ],
+    "trap": "(C)의 'for the teacher'는 (D)에서 들어간 뒤의 일입니다.",
+    "tip": "밖에서 듣기 → 초대 → 노래 → 연주회의 시간 흐름을 따라가세요."
+  },
+  {
+    "id": "m1-17-44",
+    "level": "m1",
+    "set": "mock-17",
+    "no": 44,
+    "type": "long",
+    "group": "m1-17-g43",
+    "stem": "[43~45] 밑줄 친 ①~⑤ 중에서 가리키는 대상이 나머지 넷과 다른 것을 고르시오.",
+    "passage": "(A) Yuna wanted to join the school choir, but she was too shy to sing in front of people. {1|She} stood outside the music room every day and listened.\n(B) On the day of the concert, Yuna stood on the stage with the choir. The teacher looked at her. {2|She} smiled and gave her a thumbs-up.\n(C) Yuna sang a short song for the teacher. {3|She} was very nervous, but her voice was clear.\n(D) One afternoon, the music teacher opened the door and said, \"Come in.\" Yuna walked in slowly, and {4|she} took a deep breath. {5|She} was ready to sing.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "②의 She는 미소 지으며 엄지를 들어 올린 음악 선생님이고, 나머지 ①③④⑤는 모두 유나를 가리킵니다.",
+    "optionNotes": [
+      "She는 음악실 밖에서 듣던 유나입니다.",
+      "정답. She는 미소 지은 선생님입니다.",
+      "She는 긴장했지만 맑은 목소리로 부른 유나입니다.",
+      "she는 깊이 숨을 쉰 유나입니다.",
+      "She는 노래할 준비가 된 유나입니다."
+    ],
+    "trap": "앞 문장의 주어가 The teacher이므로 She도 선생님입니다.",
+    "tip": "같은 성별의 두 인물이 나오면 직전 문장의 주어를 확인하세요."
+  },
+  {
+    "id": "m1-17-45",
+    "level": "m1",
+    "set": "mock-17",
+    "no": 45,
+    "type": "long",
+    "group": "m1-17-g43",
+    "stem": "[43~45] 윗글에 관한 내용으로 적절하지 않은 것을 고르시오.",
+    "passage": "(A) Yuna wanted to join the school choir, but she was too shy to sing in front of people. {1|She} stood outside the music room every day and listened.\n(B) On the day of the concert, Yuna stood on the stage with the choir. The teacher looked at her. {2|She} smiled and gave her a thumbs-up.\n(C) Yuna sang a short song for the teacher. {3|She} was very nervous, but her voice was clear.\n(D) One afternoon, the music teacher opened the door and said, \"Come in.\" Yuna walked in slowly, and {4|she} took a deep breath. {5|She} was ready to sing.",
+    "options": [
+      "유나는 학교 합창단에 꼭 들어가고 싶어 했지만 수줍음이 많았다.",
+      "유나는 매일 음악실 밖에 서서 합창단의 노래를 들었다.",
+      "선생님이 유나에게 들어오라고 말했다.",
+      "유나는 선생님 앞에서 노래하지 못하고 도망쳤다.",
+      "선생님은 연주회 날 유나에게 미소 지었다."
+    ],
+    "answer": 3,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "유나는 선생님 앞에서 짧은 노래를 불렀으므로 도망쳤다는 ④는 일치하지 않습니다.",
+    "optionNotes": [
+      "wanted to join the school choir와 일치합니다.",
+      "stood outside the music room and listened와 일치합니다.",
+      "said, \"Come in\"과 일치합니다.",
+      "정답(불일치). 유나는 노래를 불렀습니다.",
+      "smiled and gave her a thumbs-up과 일치합니다."
+    ],
+    "trap": "'too shy'라는 처음의 상태를 결과로 착각하지 마세요.",
+    "tip": "불일치 문제는 사건의 결과(sang)를 반대로 바꾼 보기를 찾으세요."
+  }
+]

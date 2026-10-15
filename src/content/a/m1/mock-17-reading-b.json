@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m1-17-29",
+    "level": "m1",
+    "set": "mock-17",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "My friends and I {1|likes} soccer. We {2|play} it on Saturdays. Our team {3|has} red uniforms. Tom {4|scores} many goals. I {5|am} the goalkeeper.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "내 친구들과 나는 축구를 좋아한다. 우리는 토요일마다 축구를 한다. 우리 팀은 빨간 유니폼을 가지고 있다. 톰은 많은 골을 넣는다. 나는 골키퍼이다.",
+    "why": "주어 'My friends and I'는 복수이므로 'likes'가 아니라 'like'여야 합니다.",
+    "optionNotes": [
+      "정답(틀린 것). 복수 주어이므로 like여야 합니다.",
+      "주어 We에 맞는 play입니다.",
+      "3인칭 단수 주어 Our team에 맞는 has입니다.",
+      "3인칭 단수 주어 Tom에 맞는 scores입니다.",
+      "주어 I에 맞는 am입니다."
+    ],
+    "trap": "'My friends and I'에서 I에 이끌려 단수로 오해하기 쉽습니다.",
+    "tip": "A and B 주어는 복수이므로 동사에 -s를 붙이지 않습니다."
+  },
+  {
+    "id": "m1-17-30",
+    "level": "m1",
+    "set": "mock-17",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "The library is a {1|quiet} place. People {2|read} books and {3|study} there. We should {4|talk} loudly there, because other people need to focus. Please {5|be} kind to others.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "도서관은 조용한 곳이다. 사람들은 그곳에서 책을 읽고 공부한다. 다른 사람들이 집중해야 하므로 우리는 그곳에서 크게 말해야 한다. 다른 사람에게 친절하게 대하자.",
+    "why": "다른 사람이 집중해야 한다고 했으므로 'loudly'가 아니라 'quietly'여야 합니다.",
+    "optionNotes": [
+      "조용한 곳이라는 의미로 quiet이 알맞습니다.",
+      "읽는다는 의미로 read가 알맞습니다.",
+      "공부한다는 의미로 study가 알맞습니다.",
+      "정답(부적절). 집중을 위해 조용히 말해야 하므로 quietly여야 합니다.",
+      "친절하라는 의미로 be가 알맞습니다."
+    ],
+    "trap": "'talk'는 그대로 두고 'loudly'를 눈여겨보지 않으면 놓치기 쉽습니다.",
+    "tip": "because 뒤의 이유(other people need to focus)와 부사의 방향을 확인하세요."
+  },
+  {
+    "id": "m1-17-31",
+    "level": "m1",
+    "set": "mock-17",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Rainbows appear when sunlight passes through water drops in the air. The drops split the light into many colors. That is why you can often see a rainbow when the sun comes out right after __________. You may see seven colors, from red to purple.",
+    "options": [
+      "rain",
+      "a long cold winter",
+      "a very loud sound",
+      "a night in the mountains",
+      "a big dinner"
+    ],
+    "answer": 0,
+    "translation": "무지개는 햇빛이 공기 속의 물방울을 통과할 때 나타난다. 물방울은 빛을 여러 색으로 나눈다. 그래서 비가 온 직후 해가 나올 때 무지개를 자주 볼 수 있다. 빨간색에서 보라색까지 일곱 가지 색을 볼 수 있다.",
+    "why": "물방울이 필요하므로 비가 온 직후 해가 나올 때 무지개를 볼 수 있습니다.",
+    "optionNotes": [
+      "정답. 비가 온 직후입니다.",
+      "겨울 이야기는 나오지 않습니다.",
+      "소리 이야기는 나오지 않습니다.",
+      "산에서의 밤은 나오지 않습니다.",
+      "저녁 식사는 나오지 않습니다."
+    ],
+    "trap": "무지개와 어울리는 'sun'에 이끌려 날씨와 무관한 보기를 고르지 마세요.",
+    "tip": "앞 문장의 'water drops'가 빈칸의 단서입니다."
+  },
+  {
+    "id": "m1-17-32",
+    "level": "m1",
+    "set": "mock-17",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Birds have many kinds of songs. Some songs are short, and some are long. Many birds sing early in the morning. Their songs tell other birds, \"This is my home. Please stay away.\" Singing also helps a bird find a partner. So birds sing to __________.",
+    "options": [
+      "dance",
+      "cook",
+      "sleep",
+      "swim",
+      "protect their home and find a partner"
+    ],
+    "answer": 4,
+    "translation": "새는 여러 종류의 노래를 가지고 있다. 어떤 노래는 짧고 어떤 노래는 길다. 많은 새는 이른 아침에 노래한다. 그들의 노래는 다른 새에게 \"여기는 내 집이야. 가까이 오지 마.\"라고 알린다. 노래는 새가 짝을 찾는 데도 도움이 된다. 그래서 새는 자기 집을 지키고 짝을 찾기 위해 노래한다.",
+    "why": "노래가 집을 지키고 짝을 찾는 데 도움이 된다고 했으므로 ⑤가 알맞습니다.",
+    "optionNotes": [
+      "춤춘다는 내용은 없습니다.",
+      "요리한다는 내용은 없습니다.",
+      "잔다는 내용은 없습니다.",
+      "헤엄친다는 내용은 없습니다.",
+      "정답. 집을 지키고 짝을 찾습니다."
+    ],
+    "trap": "'morning'에 이끌려 'sleep'을 고르지 마세요.",
+    "tip": "앞 문장의 두 이유(home, partner)를 합친 것이 빈칸입니다."
+  },
+  {
+    "id": "m1-17-33",
+    "level": "m1",
+    "set": "mock-17",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Teeth are covered by a hard layer called enamel. Sugar helps bacteria grow, and the bacteria make acid. The acid can make small holes in the enamel. So eating too much sugar is __________ for your teeth.",
+    "options": [
+      "good",
+      "helpful",
+      "bad",
+      "wonderful",
+      "great"
+    ],
+    "answer": 2,
+    "translation": "이는 법랑질이라는 단단한 층으로 덮여 있다. 설탕은 세균이 자라도록 돕고 세균은 산을 만든다. 산은 법랑질에 작은 구멍을 낼 수 있다. 그래서 설탕을 너무 많이 먹는 것은 치아에 나쁘다.",
+    "why": "산이 구멍을 낸다고 했으므로 설탕은 치아에 나쁘다(bad)는 말이 알맞습니다.",
+    "optionNotes": [
+      "좋다는 내용은 글과 반대입니다.",
+      "도움이 된다는 내용은 글과 반대입니다.",
+      "정답. 치아에 나쁩니다.",
+      "훌륭하다는 내용은 글과 반대입니다.",
+      "대단하다는 내용은 글과 반대입니다."
+    ],
+    "trap": "'sugar'가 맛있다는 일반 인식에 이끌려 긍정적 낱말을 고르지 마세요.",
+    "tip": "앞 문장의 결과(holes in the enamel)가 빈칸의 방향을 알려 줍니다."
+  },
+  {
+    "id": "m1-17-34",
+    "level": "m1",
+    "set": "mock-17",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Whales live in the sea, but they cannot breathe underwater. They have lungs like people. A whale must come up to the surface from time to time. At the surface, it blows air out of the hole on its head and takes a new breath. So whales must come up to __________.",
+    "options": [
+      "look for friends",
+      "eat",
+      "sing",
+      "play",
+      "breathe"
+    ],
+    "answer": 4,
+    "translation": "고래는 바다에 살지만 물속에서 숨을 쉴 수 없다. 사람처럼 폐가 있다. 고래는 가끔 수면으로 올라와야 한다. 수면에서 머리 위의 구멍으로 공기를 내뿜고 새 숨을 들이쉰다. 그래서 고래는 숨 쉬기 위해 올라와야 한다.",
+    "why": "폐가 있어 물속에서 숨을 쉴 수 없으므로 숨 쉬기 위해 수면으로 올라옵니다.",
+    "optionNotes": [
+      "친구를 찾는다는 내용은 없습니다.",
+      "먹기 위해서라는 내용은 없습니다.",
+      "노래한다는 내용은 없습니다.",
+      "논다는 내용은 없습니다.",
+      "정답. 숨을 쉬기 위해 올라옵니다."
+    ],
+    "trap": "고래가 노래한다는 상식에 이끌려 'sing'을 고르지 마세요.",
+    "tip": "앞 문장(new breath)이 빈칸의 단서입니다."
+  },
+  {
+    "id": "m1-17-35",
+    "level": "m1",
+    "set": "mock-17",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "A good morning routine makes your day better. ① Wake up at the same time every day. ② Wash your face and drink a glass of water. ③ My best friend lives near the park. ④ Eat a healthy breakfast. ⑤ Then you will feel ready for school.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "좋은 아침 습관은 하루를 더 좋게 만든다. ① 매일 같은 시간에 일어나자. ② 세수를 하고 물 한 잔을 마시자. ③ 내 가장 친한 친구는 공원 근처에 산다. ④ 건강한 아침을 먹자. ⑤ 그러면 학교에 갈 준비가 된 느낌이 들 것이다.",
+    "why": "글은 좋은 아침 습관을 말하는데 ③은 친구가 사는 곳 이야기라 관계가 없습니다.",
+    "optionNotes": [
+      "아침 습관입니다.",
+      "아침 습관입니다.",
+      "정답(무관). 친구가 사는 곳 이야기입니다.",
+      "아침 습관입니다.",
+      "결론입니다."
+    ],
+    "trap": "'My best friend'가 일상 이야기처럼 보여 자연스럽다고 착각할 수 있습니다.",
+    "tip": "주제(아침 습관)와 이어지지 않는 문장을 고르세요."
+  },
+  {
+    "id": "m1-17-36",
+    "level": "m1",
+    "set": "mock-17",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Sora wanted to make a pizza. She had all the ingredients on the kitchen table.\n(A) First, she put sauce on the dough with a big spoon.\n(B) Finally, she baked it for fifteen minutes.\n(C) Then she added cheese and tomatoes.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "소라는 피자를 만들고 싶었다. 재료는 모두 주방 식탁 위에 있었다. (A) 먼저 그녀는 큰 숟가락으로 반죽에 소스를 발랐다. (C) 그다음 치즈와 토마토를 올렸다. (B) 마지막으로 15분 동안 구웠다.",
+    "why": "(A) First 소스 → (C) Then 치즈와 토마토 → (B) Finally 굽기 순서입니다.",
+    "optionNotes": [
+      "정답. 소스 → 토핑 → 굽기.",
+      "(B)의 Finally가 처음에 올 수 없습니다.",
+      "(B)의 Finally가 처음에 올 수 없습니다.",
+      "(C)의 Then이 First보다 앞설 수 없습니다.",
+      "(C)의 Then이 First보다 앞서고 (B)가 중간에 옵니다."
+    ],
+    "trap": "(C)의 'Then'은 (A)의 'First' 뒤에 와야 합니다.",
+    "tip": "First → Then → Finally 같은 순서 표현을 따라가세요."
+  },
+  {
+    "id": "m1-17-37",
+    "level": "m1",
+    "set": "mock-17",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Ken found a lost puppy near the park.\n(A) Then he put up posters on the street.\n(B) First, he took the puppy home and gave it some water.\n(C) Two days later, the owner called him and thanked him.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 1,
+    "translation": "켄은 공원 근처에서 길 잃은 강아지를 발견했다. (B) 먼저 그는 강아지를 집으로 데려가 물을 주었다. (A) 그다음 거리에 포스터를 붙였다. (C) 이틀 뒤 주인이 전화해 그에게 감사했다.",
+    "why": "(B) First 데려와 돌봄 → (A) Then 포스터 → (C) 이틀 뒤 주인의 전화 순서입니다.",
+    "optionNotes": [
+      "(A)의 Then이 처음에 올 수 없습니다.",
+      "정답. 돌봄 → 포스터 → 주인의 전화.",
+      "(C)의 결과가 포스터 전에 올 수 없습니다.",
+      "(C)의 결과가 처음에 올 수 없습니다.",
+      "(C)의 결과가 처음에 올 수 없습니다."
+    ],
+    "trap": "(A)의 'Then'은 (B)의 'First' 뒤에 와야 합니다.",
+    "tip": "First → Then → Two days later의 시간 흐름을 따라가세요."
+  },
+  {
+    "id": "m1-17-38",
+    "level": "m1",
+    "set": "mock-17",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nSo the students decided to clean it together.\n\n[글]\n( ① ) The river near our school was dirty. ( ② ) There were bottles and cans in the water. ( ③ ) After three hours, the river looked clean again. ( ④ ) Everyone felt proud of their work. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 그래서 학생들은 함께 청소하기로 했다. [글] 우리 학교 근처 강은 더러웠다. 물속에 병과 캔이 있었다. 그래서 학생들은 함께 청소하기로 했다. 세 시간 뒤 강은 다시 깨끗해 보였다. 모두 자신들의 일을 자랑스러워했다.",
+    "why": "'So'는 앞의 문제(더러운 강)에 대한 결과이고 뒤에서 청소의 결과가 이어지므로 ③에 들어갑니다.",
+    "optionNotes": [
+      "문제가 나오기 전이라 'So'가 어색합니다.",
+      "문제가 일부만 나왔습니다.",
+      "정답. 문제의 결과이고 청소 결과로 이어집니다.",
+      "청소가 끝난 뒤라 어색합니다.",
+      "마지막 감정 뒤라 어색합니다."
+    ],
+    "trap": "④ 앞에서도 읽히지만 청소 결과 문장보다 먼저 나와야 합니다.",
+    "tip": "'So'로 시작하는 문장은 바로 앞 문장의 결과를 말합니다."
+  },
+  {
+    "id": "m1-17-39",
+    "level": "m1",
+    "set": "mock-17",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nBecause of this, many people enjoy picnics in spring.\n\n[글]\n( ① ) Spring weather is warm and sunny. ( ② ) Flowers bloom in parks and gardens. ( ③ ) The air smells fresh. ( ④ ) It is not too hot or too cold. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "[주어진 문장] 이 때문에 많은 사람이 봄에 소풍을 즐긴다. [글] 봄 날씨는 따뜻하고 화창하다. 공원과 정원에 꽃이 핀다. 공기에서 신선한 냄새가 난다. 너무 덥지도 춥지도 않다. 이 때문에 많은 사람이 봄에 소풍을 즐긴다.",
+    "why": "'Because of this'는 앞에서 나열한 모든 이유의 결론이므로 마지막인 ⑤에 들어갑니다.",
+    "optionNotes": [
+      "이유가 나오기 전이라 어색합니다.",
+      "이유가 일부만 나왔습니다.",
+      "이유가 더 이어집니다.",
+      "마지막 이유가 이어서 나와야 합니다.",
+      "정답. 모든 이유 뒤의 결론입니다."
+    ],
+    "trap": "④ 앞에서도 가능해 보이지만 마지막 이유가 ④에 있으므로 결론은 그 뒤입니다.",
+    "tip": "'Because of this'는 이유를 모두 말한 뒤에 놓입니다."
+  },
+  {
+    "id": "m1-17-40",
+    "level": "m1",
+    "set": "mock-17",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A school put a book box at the bus stop. Students read books while they waited for the bus. After a month, many students said that the waiting time felt short. They also said that they were less bored.\n\n▶ A book box at the bus stop helped students (A) the waiting time and feel (B).",
+    "options": [
+      "(A) forget — (B) angry",
+      "(A) hate — (B) tired",
+      "(A) enjoy — (B) less bored",
+      "(A) lose — (B) busy",
+      "(A) skip — (B) lonely"
+    ],
+    "answer": 2,
+    "translation": "한 학교가 버스 정류장에 책 상자를 두었다. 학생들은 버스를 기다리는 동안 책을 읽었다. 한 달 뒤 많은 학생이 기다리는 시간이 짧게 느껴진다고 말했다. 또 덜 지루하다고 말했다. ▶ 버스 정류장의 책 상자는 학생들이 기다리는 시간을 즐기고 덜 지루하게 느끼도록 도왔다.",
+    "why": "기다리는 시간이 짧게 느껴지고 덜 지루해졌으므로 (A)는 enjoy, (B)는 less bored입니다.",
+    "optionNotes": [
+      "forget과 angry는 글에 나오지 않습니다.",
+      "hate와 tired는 글과 반대입니다.",
+      "정답. 시간을 즐기고 덜 지루해집니다.",
+      "lose와 busy는 글에 나오지 않습니다.",
+      "skip과 lonely는 글에 나오지 않습니다."
+    ],
+    "trap": "(A)와 (B) 모두 글의 결과와 맞아야 합니다.",
+    "tip": "요약문은 결과 두 가지(short time, less bored)를 글에서 찾으세요."
+  }
+]
