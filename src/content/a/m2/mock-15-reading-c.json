@@ -1,0 +1,147 @@
+[
+  {
+    "id": "m2-15-41",
+    "level": "m2",
+    "set": "mock-15",
+    "no": 41,
+    "type": "long",
+    "group": "m2-15-g41",
+    "stem": "[41~42] 윗글의 제목으로 가장 적절한 것을 고르시오.",
+    "passage": "Every year, millions of tons of vegetables are thrown away simply because they look strange. Carrots that are bent or tomatoes with odd shapes taste exactly the same as perfect ones, but supermarkets often {1|reject} them. To reduce this waste, some companies now sell these \"ugly\" vegetables at a lower price. Customers {2|save} money, and farmers can sell more of their harvest. Thanks to this idea, a large amount of food is {3|saved} from becoming garbage. Experts say that changing our {4|standards} about appearance is as important as new technology. If shoppers {5|refuse} imperfect shapes, much less food will be wasted.",
+    "options": [
+      "Giving Imperfect Vegetables a Second Chance to Reach Our Tables",
+      "The Secret of Growing Tomatoes",
+      "A History of Supermarkets",
+      "How to Cook Carrots Quickly",
+      "Why Farmers Wake Up Early"
+    ],
+    "answer": 0,
+    "translation": "해마다 수백만 톤의 채소가 단지 모양이 이상하다는 이유로 버려진다. 휘어진 당근이나 모양이 이상한 토마토도 완벽한 것과 맛이 똑같지만 슈퍼마켓은 흔히 그것들을 거부한다. 이 낭비를 줄이기 위해 일부 회사는 이제 이런 '못생긴' 채소를 더 낮은 가격에 판다. 고객은 돈을 아끼고 농부는 수확물을 더 많이 팔 수 있다. 이 아이디어 덕분에 많은 양의 음식이 쓰레기가 되는 것을 면한다. 전문가들은 외모에 대한 우리의 기준을 바꾸는 것이 새로운 기술만큼 중요하다고 말한다. 쇼핑객이 불완전한 모양을 받아들이면 훨씬 적은 음식이 낭비될 것이다.",
+    "why": "못생긴 채소를 판매해 음식 낭비를 줄이는 아이디어를 설명하는 글이므로 ①이 제목입니다.",
+    "optionNotes": [
+      "정답. 못생긴 채소에 두 번째 기회를 주는 이야기입니다.",
+      "토마토 재배 비결은 나오지 않습니다.",
+      "슈퍼마켓의 역사는 나오지 않습니다.",
+      "당근 요리법은 나오지 않습니다.",
+      "농부의 기상 시간은 나오지 않습니다."
+    ],
+    "trap": "'Carrots', 'tomatoes'가 나온다고 ②④를 고르지 마세요.",
+    "tip": "제목은 글의 핵심 해결책(imperfect vegetables, second chance)을 담으세요."
+  },
+  {
+    "id": "m2-15-42",
+    "level": "m2",
+    "set": "mock-15",
+    "no": 42,
+    "type": "long",
+    "group": "m2-15-g41",
+    "stem": "[41~42] 밑줄 친 ①~⑤ 중에서 문맥상 낱말의 쓰임이 적절하지 않은 것을 고르시오.",
+    "passage": "Every year, millions of tons of vegetables are thrown away simply because they look strange. Carrots that are bent or tomatoes with odd shapes taste exactly the same as perfect ones, but supermarkets often {1|reject} them. To reduce this waste, some companies now sell these \"ugly\" vegetables at a lower price. Customers {2|save} money, and farmers can sell more of their harvest. Thanks to this idea, a large amount of food is {3|saved} from becoming garbage. Experts say that changing our {4|standards} about appearance is as important as new technology. If shoppers {5|refuse} imperfect shapes, much less food will be wasted.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "(41번 지문과 같은 글입니다.)",
+    "why": "쇼핑객이 모양을 받아들이면 음식 낭비가 줄어든다는 흐름이므로 'refuse'가 아니라 'accept'여야 합니다.",
+    "optionNotes": [
+      "거부한다는 의미로 reject가 알맞습니다.",
+      "아낀다는 의미로 save가 알맞습니다.",
+      "쓰레기가 되는 것을 면한다는 의미로 saved가 알맞습니다.",
+      "기준이라는 의미로 standards가 알맞습니다.",
+      "정답(부적절). 낭비가 줄어들려면 accept여야 합니다."
+    ],
+    "trap": "'imperfect shapes'만 보고 refuse를 자연스럽다고 판단하기 쉽습니다.",
+    "tip": "결과(much less food will be wasted)와 조건절의 동사 방향을 확인하세요."
+  },
+  {
+    "id": "m2-15-43",
+    "level": "m2",
+    "set": "mock-15",
+    "no": 43,
+    "type": "long",
+    "group": "m2-15-g43",
+    "stem": "[43~45] 주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것을 고르시오.",
+    "passage": "(A) Jisu had trained for months, but her swimming time did not improve. After practice, her coach, Ms. Ahn, watched her carefully for a long time. {1|She} then said, \"Your arms are strong, but your kicks are weak.\"\n(B) At the next meet, {2|she} won the race and broke her personal record. She ran to the coach, who was smiling proudly on the bench.\n(C) Jisu went to the pool at night and practiced her kicks. {3|She} felt discouraged at first, because the results did not change for two weeks.\n(D) One day, she suddenly noticed that she was moving faster in the water. {4|She} asked a teammate to time her, and {5|she} could hardly believe the number.",
+    "options": [
+      "(B)-(D)-(C)",
+      "(C)-(B)-(D)",
+      "(C)-(D)-(B)",
+      "(D)-(B)-(C)",
+      "(D)-(C)-(B)"
+    ],
+    "answer": 2,
+    "translation": "(A) 지수는 몇 달 동안 훈련했지만 수영 기록이 나아지지 않았다. 연습이 끝난 뒤 코치인 안 선생님은 오랫동안 그녀를 유심히 지켜보았다. 그녀는 그러고 나서 말했다. \"팔은 강한데 발차기가 약하구나.\" (C) 지수는 밤에 수영장에 가서 발차기를 연습했다. 처음에는 2주 동안 결과가 바뀌지 않아 낙담했다. (D) 어느 날 그녀는 물속에서 자신이 더 빨리 움직이고 있다는 것을 문득 알아챘다. 그녀는 팀 동료에게 시간을 재 달라고 부탁했고 그 숫자를 거의 믿을 수 없었다. (B) 다음 대회에서 그녀는 경주에서 우승했고 개인 최고 기록을 깼다. 그녀는 벤치에서 자랑스럽게 미소 짓고 있는 코치에게 달려갔다.",
+    "why": "(A) 코치의 조언 → (C) 밤 연습과 낙담 → (D) 변화를 알아챔 → (B) 대회 우승 순서입니다.",
+    "optionNotes": [
+      "(B)의 대회 우승이 조언 직후에 올 수 없습니다.",
+      "(B)가 (D)보다 앞서면 변화를 알아채기 전에 우승합니다.",
+      "정답. 연습 → 변화 확인 → 대회.",
+      "(D)의 변화가 연습 전에 올 수 없습니다.",
+      "(D)가 (C)보다 앞서면 연습하기 전에 변화가 일어납니다."
+    ],
+    "trap": "(D)의 'suddenly noticed'는 (C)의 연습 기간 이후에 일어납니다.",
+    "tip": "조언 → 연습 → 변화 → 대회의 인과 흐름을 따라가세요."
+  },
+  {
+    "id": "m2-15-44",
+    "level": "m2",
+    "set": "mock-15",
+    "no": 44,
+    "type": "long",
+    "group": "m2-15-g43",
+    "stem": "[43~45] 밑줄 친 ①~⑤ 중에서 가리키는 대상이 나머지 넷과 다른 것을 고르시오.",
+    "passage": "(A) Jisu had trained for months, but her swimming time did not improve. After practice, her coach, Ms. Ahn, watched her carefully for a long time. {1|She} then said, \"Your arms are strong, but your kicks are weak.\"\n(B) At the next meet, {2|she} won the race and broke her personal record. She ran to the coach, who was smiling proudly on the bench.\n(C) Jisu went to the pool at night and practiced her kicks. {3|She} felt discouraged at first, because the results did not change for two weeks.\n(D) One day, she suddenly noticed that she was moving faster in the water. {4|She} asked a teammate to time her, and {5|she} could hardly believe the number.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "①의 She는 \"팔은 강한데 발차기가 약하구나.\"라고 말한 코치 안 선생님이고, 나머지 ②③④⑤는 모두 지수를 가리킵니다.",
+    "optionNotes": [
+      "정답. She는 조언을 한 코치 안 선생님입니다.",
+      "she는 우승하고 기록을 깬 지수입니다.",
+      "She는 낙담한 지수입니다.",
+      "She는 시간을 재 달라고 부탁한 지수입니다.",
+      "she는 기록을 믿을 수 없었던 지수입니다."
+    ],
+    "trap": "앞 문장의 주어가 her coach이므로 She도 코치입니다.",
+    "tip": "주어가 바뀌는 지점(her coach ... She then said)을 확인하세요."
+  },
+  {
+    "id": "m2-15-45",
+    "level": "m2",
+    "set": "mock-15",
+    "no": 45,
+    "type": "long",
+    "group": "m2-15-g43",
+    "stem": "[43~45] 윗글에 관한 내용으로 적절하지 않은 것을 고르시오.",
+    "passage": "(A) Jisu had trained for months, but her swimming time did not improve. After practice, her coach, Ms. Ahn, watched her carefully for a long time. {1|She} then said, \"Your arms are strong, but your kicks are weak.\"\n(B) At the next meet, {2|she} won the race and broke her personal record. She ran to the coach, who was smiling proudly on the bench.\n(C) Jisu went to the pool at night and practiced her kicks. {3|She} felt discouraged at first, because the results did not change for two weeks.\n(D) One day, she suddenly noticed that she was moving faster in the water. {4|She} asked a teammate to time her, and {5|she} could hardly believe the number.",
+    "options": [
+      "지수는 몇 달 동안 열심히 훈련했지만 수영 기록이 거의 늘지 않았다.",
+      "안 코치는 지수의 발차기가 약하다고 말했다.",
+      "지수는 밤에 수영장에서 발차기를 연습했다.",
+      "지수는 연습을 시작하자마자 기록이 크게 줄어드는 것을 느꼈다.",
+      "지수는 다음 대회 경주에서 우승하며 자신의 개인 최고 기록을 깼다."
+    ],
+    "answer": 3,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "지수는 연습을 시작한 뒤 2주 동안 결과가 바뀌지 않아 낙담했으므로 ④는 일치하지 않습니다.",
+    "optionNotes": [
+      "trained for months와 일치합니다.",
+      "your kicks are weak와 일치합니다.",
+      "practiced her kicks와 일치합니다.",
+      "정답(불일치). 처음 2주 동안 결과가 바뀌지 않았습니다.",
+      "broke her personal record와 일치합니다."
+    ],
+    "trap": "(D)의 'moving faster'를 연습 초기의 상황으로 착각하지 마세요.",
+    "tip": "불일치 문제는 시간 순서(처음 vs 나중)를 바꾼 보기를 찾으세요."
+  }
+]

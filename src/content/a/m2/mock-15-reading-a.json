@@ -1,0 +1,333 @@
+[
+  {
+    "id": "m2-15-18",
+    "level": "m2",
+    "set": "mock-15",
+    "no": 18,
+    "type": "purpose",
+    "stem": "다음 글을 쓴 목적으로 가장 적절한 것은?",
+    "passage": "Dear Principal Jung,\nI am a ninth-grade student and a member of the Environment Club. I am writing to suggest that our cafeteria stop using disposable plastic trays. Every day, about six hundred trays are thrown away after a single use. Our club has calculated that this produces more than a ton of plastic waste each month. I would like to propose that the school buy reusable stainless steel trays instead. We are ready to help with the washing schedule. Thank you for considering our suggestion.\nSincerely,\nJiwon Lee",
+    "options": [
+      "급식 메뉴를 더 다양하게 바꿔 달라고 요청하려고",
+      "환경 동아리 가입을 권유하려고",
+      "일회용 식판 사용을 줄일 것을 건의하려고",
+      "급식비 인상에 항의하려고",
+      "교내 곳곳에 쓰레기통을 더 설치해 달라고 제안하려고"
+    ],
+    "answer": 2,
+    "translation": "정 교장 선생님께. 저는 중학교 3학년 학생이며 환경 동아리 회원입니다. 급식실이 일회용 플라스틱 식판 사용을 중단하도록 건의드리려고 글을 씁니다. 매일 약 600개의 식판이 한 번 쓰고 버려집니다. 저희 동아리가 계산한 바로는 매달 1톤이 넘는 플라스틱 쓰레기가 나옵니다. 대신 학교가 재사용할 수 있는 스테인리스 식판을 구입할 것을 제안드립니다. 설거지 일정은 저희가 돕겠습니다. 저희의 제안을 검토해 주셔서 감사합니다. 이지원 드림.",
+    "why": "일회용 플라스틱 식판 대신 재사용 식판을 쓰자고 건의하는 글입니다.",
+    "optionNotes": [
+      "메뉴 이야기는 나오지 않습니다.",
+      "동아리 소개는 자기소개일 뿐 목적이 아닙니다.",
+      "정답. 일회용 식판 사용을 줄일 것을 건의합니다.",
+      "급식비 이야기는 나오지 않습니다.",
+      "쓰레기통 설치는 나오지 않습니다."
+    ],
+    "trap": "'Environment Club'만 보고 동아리 가입 권유로 착각하지 마세요.",
+    "tip": "목적 문제는 'I am writing to suggest ~' 문장을 찾으세요."
+  },
+  {
+    "id": "m2-15-19",
+    "level": "m2",
+    "set": "mock-15",
+    "no": 19,
+    "type": "mood",
+    "stem": "다음 글에 드러난 Jina의 심경 변화로 가장 적절한 것은?",
+    "passage": "At the cafeteria, Jina realized that she had left her wallet at home. Her face turned red as the line behind her grew longer. \"I... I'm sorry. I'll just...\" she whispered. Then a girl from her class, Eunseo, stepped forward. \"Here, I've got it,\" she said, handing the money to the cashier. Jina felt tears coming to her eyes. \"Thank you so much. I'll pay you back tomorrow.\" \"No problem,\" Eunseo said with a smile.",
+    "options": [
+      "embarrassed → grateful",
+      "bored → sleepy",
+      "proud → jealous",
+      "calm → afraid",
+      "excited → angry"
+    ],
+    "answer": 0,
+    "translation": "식당에서 지나는 지갑을 집에 두고 왔다는 것을 깨달았다. 뒤에 선 줄이 길어지자 그녀의 얼굴이 빨개졌다. \"저... 죄송해요. 저는 그냥...\" 그녀는 속삭였다. 그때 같은 반 소녀 은서가 앞으로 나왔다. \"여기요, 제가 낼게요.\" 그녀는 계산원에게 돈을 건네며 말했다. 지나는 눈물이 맺히는 것을 느꼈다. \"정말 고마워. 내일 갚을게.\" \"괜찮아.\" 은서가 미소 지으며 말했다.",
+    "why": "지갑을 두고 와서 당황했다가(embarrassed), 은서가 돈을 내 주어 고마워했습니다(grateful).",
+    "optionNotes": [
+      "정답. 당황에서 고마움으로 변했습니다.",
+      "지루함에서 졸림이 아닙니다.",
+      "자랑스러움에서 질투가 아닙니다.",
+      "침착함에서 두려움이 아닙니다.",
+      "신남에서 화남이 아닙니다."
+    ],
+    "trap": "눈물(tears)만 보고 슬픔으로 판단하지 마세요. 고마움의 눈물입니다.",
+    "tip": "전환점(Then ... stepped forward)을 기준으로 앞뒤 감정을 비교하세요."
+  },
+  {
+    "id": "m2-15-20",
+    "level": "m2",
+    "set": "mock-15",
+    "no": 20,
+    "type": "claim",
+    "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+    "passage": "Many students say they cannot concentrate without music or videos playing in the background. However, research suggests that multitasking reduces the quality of learning. When the brain switches between tasks, it loses time and focus each time. As a result, students who study with their phones nearby take longer to finish and remember less. Therefore, students should put away distractions when they study.",
+    "options": [
+      "배경 음악은 학습에 반드시 도움이 되므로 항상 틀어 놓아야 한다.",
+      "휴대전화는 수업 시간에만 사용해야 한다.",
+      "공부 시간은 집중력이 떨어지더라도 가능한 한 길게 잡아야 한다.",
+      "여러 가지를 동시에 하는 능력은 길러야 한다.",
+      "공부할 때는 주의를 분산시키는 것을 치워야 한다."
+    ],
+    "answer": 4,
+    "translation": "많은 학생들은 배경에서 음악이나 영상이 나오지 않으면 집중할 수 없다고 말한다. 그러나 연구에 따르면 멀티태스킹은 학습의 질을 떨어뜨린다. 뇌가 과제 사이를 전환할 때마다 시간과 집중력을 잃는다. 그 결과 휴대전화를 가까이 두고 공부하는 학생은 끝내는 데 더 오래 걸리고 더 적게 기억한다. 그러므로 학생은 공부할 때 주의를 분산시키는 것을 치워야 한다.",
+    "why": "마지막 문장 'students should put away distractions when they study'가 필자의 주장입니다.",
+    "optionNotes": [
+      "글과 반대입니다.",
+      "사용 시기는 나오지 않습니다.",
+      "공부 시간 길이는 나오지 않습니다.",
+      "글에서 학습의 질을 떨어뜨린다고 합니다.",
+      "정답. 공부할 때 방해 요소를 치워야 합니다."
+    ],
+    "trap": "첫 문장의 학생들의 생각(music)을 필자의 주장으로 착각하지 마세요.",
+    "tip": "However 이후와 Therefore 문장이 필자의 주장입니다."
+  },
+  {
+    "id": "m2-15-21",
+    "level": "m2",
+    "set": "mock-15",
+    "no": 21,
+    "type": "implied",
+    "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "passage": "We were planning a surprise party for Grandma. But my little brother {u|spilled the beans} at breakfast, and she found out everything.",
+    "options": [
+      "dropped some vegetables on the floor while cooking breakfast",
+      "cooked a special meal for the whole family",
+      "revealed a secret by accident",
+      "refused to eat his breakfast again",
+      "made a gift using colorful paper"
+    ],
+    "answer": 2,
+    "translation": "우리는 할머니를 위한 깜짝 파티를 계획하고 있었다. 하지만 어린 남동생이 아침 식사 때 비밀을 누설했고 할머니는 모든 것을 알게 되었다.",
+    "why": "깜짝 파티가 들통났다고 했으므로 'spilled the beans'는 비밀을 실수로 말해 버렸다는 뜻입니다.",
+    "optionNotes": [
+      "콩을 떨어뜨린다는 문자 그대로의 뜻이 아닙니다.",
+      "요리했다는 뜻이 아닙니다.",
+      "정답. 실수로 비밀을 말했다는 뜻입니다.",
+      "식사를 거부했다는 뜻이 아닙니다.",
+      "선물을 만들었다는 뜻이 아닙니다."
+    ],
+    "trap": "'beans'를 문자 그대로 해석하지 마세요.",
+    "tip": "관용 표현은 뒤 문장(she found out everything)에서 의미를 확인하세요."
+  },
+  {
+    "id": "m2-15-22",
+    "level": "m2",
+    "set": "mock-15",
+    "no": 22,
+    "type": "gist",
+    "stem": "다음 글의 요지로 가장 적절한 것은?",
+    "passage": "Many people think that talent is the key to success. However, studies of top musicians show that the amount of focused practice is more important than natural ability. Those who practiced deliberately corrected their mistakes step by step. They improved faster than those who simply repeated the same pieces. This means that success depends less on being born gifted and more on how we practice.",
+    "options": [
+      "음악가가 되려면 일찍부터 악기를 배우기 시작해야 한다고 생각한다.",
+      "성공은 타고난 재능보다 의도적인 연습에 더 달려 있다.",
+      "재능이 있으면 별도로 연습하지 않아도 충분히 성공할 수 있다.",
+      "같은 곡을 반복해서 연습하는 것이 가장 좋다.",
+      "연습 시간은 길수록 항상 효과적이다."
+    ],
+    "answer": 1,
+    "translation": "많은 사람은 재능이 성공의 열쇠라고 생각한다. 그러나 최고 음악가들에 대한 연구는 집중된 연습의 양이 타고난 능력보다 더 중요함을 보여 준다. 의도적으로 연습한 사람들은 실수를 단계적으로 바로잡았다. 그들은 같은 곡을 단순히 반복한 사람들보다 더 빨리 향상되었다. 이는 성공이 타고난 재능보다 어떻게 연습하느냐에 더 달려 있음을 뜻한다.",
+    "why": "성공은 타고난 재능보다 연습 방식에 더 달려 있다는 것이 요지입니다.",
+    "optionNotes": [
+      "시작 시기는 나오지 않습니다.",
+      "정답. 재능보다 의도적인 연습이 중요합니다.",
+      "글과 반대입니다.",
+      "단순 반복은 덜 효과적이라고 합니다.",
+      "시간보다 방식이 중요하다고 합니다."
+    ],
+    "trap": "첫 문장의 통념(talent)을 필자의 주장으로 착각하지 마세요.",
+    "tip": "However 이후와 This means 문장이 요지를 담습니다."
+  },
+  {
+    "id": "m2-15-23",
+    "level": "m2",
+    "set": "mock-15",
+    "no": 23,
+    "type": "topic",
+    "stem": "다음 글의 주제로 가장 적절한 것은?",
+    "passage": "An octopus has eight arms, and each arm contains a large number of nerve cells. In fact, about two thirds of an octopus's neurons are located in its arms, not in its head. This allows each arm to taste, touch, and even make simple decisions on its own. For example, an arm can keep exploring a hole even while the brain is busy with something else. This unusual body system helps octopuses solve problems efficiently.",
+    "options": [
+      "why octopuses change their color to hide from their enemies in the sea",
+      "how octopuses breathe underwater without lungs",
+      "what octopuses eat in the deep sea",
+      "where octopuses lay their eggs",
+      "how octopus arms act with a degree of independence"
+    ],
+    "answer": 4,
+    "translation": "문어는 여덟 개의 다리를 가지고 있고 각 다리에는 많은 수의 신경 세포가 있다. 사실 문어 뉴런의 약 3분의 2는 머리가 아니라 다리에 있다. 이로 인해 각 다리는 스스로 맛보고 만지고 간단한 결정까지 내릴 수 있다. 예를 들어 다리 하나는 뇌가 다른 일로 바쁜 동안에도 구멍을 계속 탐색할 수 있다. 이 독특한 신체 체계는 문어가 문제를 효율적으로 해결하도록 돕는다.",
+    "why": "문어의 다리가 어느 정도 독립적으로 작동하는 방식을 설명하는 글입니다.",
+    "optionNotes": [
+      "보호색은 나오지 않습니다.",
+      "호흡은 나오지 않습니다.",
+      "먹이는 나오지 않습니다.",
+      "산란은 나오지 않습니다.",
+      "정답. 문어 다리가 독립적으로 작동하는 방식입니다."
+    ],
+    "trap": "'solve problems'만 보고 지능 전반으로 확대하지 마세요.",
+    "tip": "주제는 글 전체가 설명하는 구체적 현상(arms with neurons)을 담으세요."
+  },
+  {
+    "id": "m2-15-24",
+    "level": "m2",
+    "set": "mock-15",
+    "no": 24,
+    "type": "title",
+    "stem": "다음 글의 제목으로 가장 적절한 것은?",
+    "passage": "In the Swiss village of Zermatt, cars with gasoline engines are not allowed. Visitors leave their cars at the train station and travel in small electric taxis or on foot. As a result, the air is clean, and the streets are quiet enough to hear the sound of church bells. Despite the lack of cars, tourism has not declined. On the contrary, more people visit each year to enjoy the peaceful atmosphere.",
+    "options": [
+      "Why Swiss Trains Are Always Late in Winter and Summer",
+      "The Most Dangerous Mountains in Europe",
+      "How to Drive Safely on Snowy Roads",
+      "The History of Electric Cars in Asia",
+      "A Village Without Cars: Peace Attracts Visitors"
+    ],
+    "answer": 4,
+    "translation": "스위스의 체르마트 마을에서는 휘발유 엔진 자동차가 허용되지 않는다. 방문객은 기차역에 차를 두고 작은 전기 택시를 타거나 걸어서 이동한다. 그 결과 공기는 맑고 거리는 교회 종소리가 들릴 만큼 조용하다. 자동차가 없는데도 관광은 줄지 않았다. 오히려 평화로운 분위기를 즐기려는 사람들이 해마다 더 많이 찾아온다.",
+    "why": "자동차가 없는 마을의 평화로운 분위기가 방문객을 끈다는 내용이므로 ⑤가 제목입니다.",
+    "optionNotes": [
+      "기차 지연은 나오지 않습니다.",
+      "위험한 산은 나오지 않습니다.",
+      "눈길 운전은 나오지 않습니다.",
+      "전기차의 역사는 나오지 않습니다.",
+      "정답. 자동차 없는 마을과 평화로운 분위기입니다."
+    ],
+    "trap": "'electric taxis'만 보고 ④를 고르지 마세요.",
+    "tip": "제목은 핵심 소재(village without cars)와 결과(visitors)를 담으세요."
+  },
+  {
+    "id": "m2-15-25",
+    "level": "m2",
+    "set": "mock-15",
+    "no": 25,
+    "type": "chart",
+    "stem": "다음 도표의 내용과 일치하지 않는 것은?",
+    "chart": {
+      "title": "Reasons for Being Late to School (%)",
+      "unit": "%",
+      "labels": [
+        "Oversleeping",
+        "Traffic",
+        "Weather",
+        "Illness",
+        "Others"
+      ],
+      "series": [
+        {
+          "name": "Percent",
+          "values": [
+            38,
+            26,
+            16,
+            12,
+            8
+          ]
+        }
+      ]
+    },
+    "passage": "The graph shows the reasons why students are late to school. ① Oversleeping is the most common reason. ② Traffic accounts for more than a third of the total. ③ Weather is 4 percentage points higher than Illness. ④ Others is the smallest category. ⑤ Oversleeping and Traffic together account for more than half of the total.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "그래프는 학생들이 학교에 지각하는 이유를 보여 준다. ① 늦잠이 가장 흔한 이유이다. ② 교통은 전체의 3분의 1보다 많다. ③ 날씨는 질병보다 4퍼센트포인트 높다. ④ 기타가 가장 작은 항목이다. ⑤ 늦잠과 교통을 합하면 전체의 절반이 넘는다.",
+    "why": "교통은 26%로 전체의 3분의 1(약 33%)보다 적으므로 ②는 일치하지 않습니다.",
+    "optionNotes": [
+      "늦잠 38%가 가장 높습니다.",
+      "정답(불일치). 교통 26%는 3분의 1보다 적습니다.",
+      "날씨 16%는 질병 12%보다 4퍼센트포인트 높습니다.",
+      "기타 8%가 가장 작습니다.",
+      "38 + 26 = 64%로 절반이 넘습니다."
+    ],
+    "trap": "'a third'를 대략 30%로 착각해 26%와 비슷하다고 판단하기 쉽습니다.",
+    "tip": "분수 표현은 기준 값(약 33%)과 직접 비교하세요."
+  },
+  {
+    "id": "m2-15-26",
+    "level": "m2",
+    "set": "mock-15",
+    "no": 26,
+    "type": "match",
+    "stem": "Maria Gonzalez에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Maria Gonzalez, a nurse from Mexico, has worked in a children's hospital for fifteen years. She became interested in nursing when her little brother was treated for a serious illness at the age of seven. Last year, she started a program in which volunteers read stories to patients every Saturday. She believes that kindness can help children recover faster. She plans to expand the program to other hospitals next year.",
+    "options": [
+      "매주 토요일 환자들에게 이야기를 읽어 주는 프로그램을 시작했다.",
+      "스무 해 동안 어린이 병원에서 일했다.",
+      "어린 시절 자신이 크게 아파서 간호사의 꿈을 갖게 되었다고 밝혔다.",
+      "프로그램을 이미 여러 병원으로 확대했다.",
+      "의료 기술이 다른 어떤 것보다 중요하다고 믿으며 연구에 힘쓴다."
+    ],
+    "answer": 0,
+    "translation": "멕시코 출신의 간호사 마리아 곤살레스는 15년 동안 어린이 병원에서 일해 왔다. 그녀는 일곱 살 때 남동생이 심각한 병으로 치료받는 것을 보고 간호에 관심을 갖게 되었다. 작년에 그녀는 자원봉사자들이 매주 토요일 환자들에게 이야기를 읽어 주는 프로그램을 시작했다. 그녀는 친절이 아이들이 더 빨리 회복하도록 도울 수 있다고 믿는다. 그녀는 내년에 그 프로그램을 다른 병원으로 확대할 계획이다.",
+    "why": "'she started a program in which volunteers read stories to patients every Saturday'와 일치합니다.",
+    "optionNotes": [
+      "정답. 매주 토요일 이야기를 읽어 주는 프로그램을 시작했습니다.",
+      "15년 동안 일했습니다.",
+      "남동생이 치료받는 것을 보고 관심을 가졌습니다.",
+      "내년에 확대할 계획입니다.",
+      "친절이 회복에 도움이 된다고 믿습니다."
+    ],
+    "trap": "숫자(fifteen/twenty)와 대상(brother/herself)을 바꾼 보기에 주의하세요.",
+    "tip": "일치 문제는 기간·계기·계획(시제)을 하나씩 대조하세요."
+  },
+  {
+    "id": "m2-15-27",
+    "level": "m2",
+    "set": "mock-15",
+    "no": 27,
+    "type": "notice",
+    "stem": "Teen Volunteer Orientation에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Teen Volunteer Orientation\nWant to help your community?\nDate: Saturday, March 9\nTime: 2:00 p.m. – 4:00 p.m.\nPlace: City Hall, Room 205\nWho: Students aged 13 to 18\nBring: A notebook and a pen\nFree: Snacks and a volunteer T-shirt\nRegister: Online at www.cityvolunteer.org by March 6\nNote: Parents must sign the consent form for students under 16.",
+    "options": [
+      "오전에 시작한다.",
+      "16세 미만 학생은 부모의 동의서가 필요하다.",
+      "3월 9일까지 신청해야 한다.",
+      "간식과 음료는 각자 집에서 준비해서 가져와야 한다.",
+      "나이에 상관없이 누구나 참가할 수 있다."
+    ],
+    "answer": 1,
+    "translation": "청소년 봉사 오리엔테이션. 우리 지역사회를 돕고 싶나요? 날짜: 3월 9일 토요일. 시간: 오후 2시~4시. 장소: 시청 205호. 대상: 13~18세 학생. 가져올 것: 공책과 펜. 무료: 간식과 봉사자 티셔츠. 신청: 3월 6일까지 www.cityvolunteer.org에서 온라인으로. 유의: 16세 미만 학생은 부모가 동의서에 서명해야 합니다.",
+    "why": "'Parents must sign the consent form for students under 16.'과 일치합니다.",
+    "optionNotes": [
+      "오후 2시에 시작합니다.",
+      "정답. 16세 미만은 부모의 동의서가 필요합니다.",
+      "3월 6일까지 신청합니다.",
+      "간식은 무료로 제공됩니다.",
+      "13~18세 학생이 대상입니다."
+    ],
+    "trap": "신청 마감(March 6)과 행사일(March 9)을 혼동하지 마세요.",
+    "tip": "안내문은 항목(Time, Who, Free, Register, Note)별로 대조하세요."
+  },
+  {
+    "id": "m2-15-28",
+    "level": "m2",
+    "set": "mock-15",
+    "no": 28,
+    "type": "notice",
+    "stem": "Bike Parking Rules에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Bike Parking Rules at Hanbit Middle School\n1. Park your bike only in the marked area behind the gym.\n2. Lock your bike with your own lock. The school is not responsible for stolen bikes.\n3. Bikes left after 7:00 p.m. will be moved to the security office.\n4. Do not ride bikes inside the school grounds. Walk them to the parking area.",
+    "options": [
+      "자전거는 정문 앞 어디에나 세울 수 있다.",
+      "학교는 도난된 자전거에 책임을 지지 않는다.",
+      "오후 7시 이후에는 자전거를 세울 수 없다.",
+      "교내에서는 자전거를 타고 이동해도 된다.",
+      "잠금장치는 학교에서 빌려준다."
+    ],
+    "answer": 1,
+    "translation": "한빛 중학교 자전거 주차 규칙. 1. 체육관 뒤의 표시된 구역에만 자전거를 세우세요. 2. 자신의 자물쇠로 자전거를 잠그세요. 학교는 도난된 자전거에 책임을 지지 않습니다. 3. 오후 7시 이후에 남은 자전거는 경비실로 옮겨집니다. 4. 교내에서 자전거를 타지 마세요. 주차 구역까지 끌고 가세요.",
+    "why": "'The school is not responsible for stolen bikes.'와 일치합니다.",
+    "optionNotes": [
+      "체육관 뒤의 표시된 구역에만 세웁니다.",
+      "정답. 도난에 책임을 지지 않습니다.",
+      "7시 이후 남은 자전거는 경비실로 옮겨집니다.",
+      "교내에서는 끌고 가야 합니다.",
+      "자신의 자물쇠를 사용해야 합니다."
+    ],
+    "trap": "3번 규칙은 주차 금지가 아니라 남은 자전거의 이동입니다.",
+    "tip": "규칙 번호별 내용을 보기와 하나씩 대조하세요."
+  }
+]

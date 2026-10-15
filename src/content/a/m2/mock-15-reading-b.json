@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m2-15-29",
+    "level": "m2",
+    "set": "mock-15",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Not until the twentieth century {1|did} scientists understand what {2|causes} the northern lights. The lights appear when particles from the sun collide with gases in the air. The colors, {3|which} range from green to red, depend on the kind of gas. Some of the best places to watch them {4|is} in northern Norway. There, visitors can enjoy the sky {5|until} midnight.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "20세기가 되어서야 과학자들은 무엇이 오로라를 일으키는지 이해했다. 오로라는 태양에서 온 입자가 공기 중의 기체와 충돌할 때 나타난다. 초록색에서 빨간색까지 이르는 색깔은 기체의 종류에 따라 달라진다. 오로라를 보기에 가장 좋은 곳 중 일부는 노르웨이 북부에 있다. 그곳에서 방문객은 자정까지 하늘을 즐길 수 있다.",
+    "why": "주어 'Some of the best places'가 복수이므로 'is'가 아니라 'are'여야 합니다.",
+    "optionNotes": [
+      "Not until이 문두에 오면 도치가 일어나므로 did가 알맞습니다.",
+      "what의 동사로 단수 causes가 알맞습니다.",
+      "계속적 용법의 관계대명사 which입니다.",
+      "정답(틀린 것). 복수 주어에 맞춰 are여야 합니다.",
+      "자정까지 계속되는 의미의 until입니다."
+    ],
+    "trap": "바로 앞 명사 'them'과 뒤의 단수처럼 보이는 표현에 이끌려 수 일치를 놓치기 쉽습니다.",
+    "tip": "'Some of the + 복수 명사'는 복수 동사를 씁니다."
+  },
+  {
+    "id": "m2-15-30",
+    "level": "m2",
+    "set": "mock-15",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Some people believe that failure is the opposite of success. In fact, failure is often a {1|necessary} part of success. Famous inventors tried hundreds of times before finding a method that worked. Each failed attempt gave them new {2|information}. So they were able to {3|repeat} the same mistakes and move closer to the goal. In this way, failure is not the end but a {4|stepping} stone toward success. People who {5|accept} failure learn faster than those who fear it.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "어떤 사람들은 실패가 성공의 반대라고 믿는다. 사실 실패는 흔히 성공의 필수적인 부분이다. 유명한 발명가들은 효과가 있는 방법을 찾기 전에 수백 번 시도했다. 실패한 시도마다 그들에게 새로운 정보를 주었다. 그래서 그들은 같은 실수를 반복하며 목표에 더 가까워질 수 있었다. 이렇게 실패는 끝이 아니라 성공으로 가는 디딤돌이다. 실패를 받아들이는 사람은 두려워하는 사람보다 더 빨리 배운다.",
+    "why": "새 정보를 얻어 목표에 가까워졌다고 했으므로 같은 실수를 '반복한다(repeat)'가 아니라 '피한다(avoid)'여야 합니다.",
+    "optionNotes": [
+      "필수적이라는 의미로 necessary가 알맞습니다.",
+      "정보라는 의미로 information이 알맞습니다.",
+      "정답(부적절). 같은 실수를 피한다는 맥락이므로 avoid여야 합니다.",
+      "디딤돌이라는 의미로 stepping이 알맞습니다.",
+      "받아들인다는 의미로 accept가 알맞습니다."
+    ],
+    "trap": "'repeat'가 'tried hundreds of times'와 이어져 자연스러워 보입니다.",
+    "tip": "결과(move closer to the goal)와 앞 동사의 방향이 맞는지 확인하세요."
+  },
+  {
+    "id": "m2-15-31",
+    "level": "m2",
+    "set": "mock-15",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In many countries, people use paper maps less and less. Instead, they rely on apps that tell them exactly where to turn. This is convenient. However, researchers have found that people who always follow digital directions form a weaker mental picture of an area. Those who use paper maps form a clearer one. Because they only follow instructions without paying attention to their surroundings, they often cannot find their way without the app. In short, depending too much on technology can weaken our __________.",
+    "options": [
+      "taste in music",
+      "love for travel",
+      "memory of numbers",
+      "ability to understand our surroundings",
+      "desire to explore"
+    ],
+    "answer": 3,
+    "translation": "많은 나라에서 사람들은 종이 지도를 점점 덜 쓴다. 대신 어디서 돌아야 하는지 정확히 알려 주는 앱에 의존한다. 이것은 편리하다. 하지만 연구자들은 디지털 안내를 늘 따르는 사람이 지역에 대한 머릿속 그림을 더 약하게 형성한다는 것을 발견했다. 종이 지도를 쓰는 사람은 더 선명한 그림을 형성한다. 그들은 주변에 주의를 기울이지 않고 지시만 따르기 때문에 앱 없이는 길을 찾지 못하는 경우가 많다. 요컨대 기술에 지나치게 의존하면 주변을 이해하는 우리의 능력이 약해질 수 있다.",
+    "why": "앱에 의존하면 주변에 주의를 기울이지 않아 머릿속 지도가 약해진다고 했으므로 ④가 알맞습니다.",
+    "optionNotes": [
+      "음악 취향은 나오지 않습니다.",
+      "여행에 대한 애정은 나오지 않습니다.",
+      "숫자 기억은 나오지 않습니다.",
+      "정답. 주변을 이해하는 능력이 약해집니다.",
+      "탐험 욕구는 나오지 않습니다."
+    ],
+    "trap": "'find their way'와 관련해 'desire to explore'를 고르지 마세요.",
+    "tip": "앞 문장의 'weaker mental picture'가 빈칸의 단서입니다."
+  },
+  {
+    "id": "m2-15-32",
+    "level": "m2",
+    "set": "mock-15",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Scientists working in the Arctic found that rapidly melting ice is changing the chemistry of the ocean. Fresh water from melting glaciers mixes with salty seawater and lowers the salt level of the ocean. This change may __________ the marine food chain. Small organisms that live in salty water cannot survive in less salty areas. When these organisms disappear, the fish that eat them also lose their food.",
+    "options": [
+      "strengthen",
+      "ignore",
+      "decorate",
+      "imitate",
+      "disturb"
+    ],
+    "answer": 4,
+    "translation": "북극에서 일하는 과학자들은 빠르게 녹는 얼음이 바다의 화학적 성질을 바꾸고 있음을 발견했다. 녹는 빙하의 민물은 짠 바닷물과 섞여 바다의 염분 수준을 낮춘다. 이 변화는 해양 먹이 사슬을 교란할 수 있다. 짠물에 사는 작은 생물은 덜 짠 지역에서는 살 수 없다. 이 생물이 사라지면 그것을 먹는 물고기도 먹이를 잃는다.",
+    "why": "작은 생물이 사라져 물고기도 먹이를 잃는다고 했으므로 먹이 사슬을 '교란한다(disturb)'가 알맞습니다.",
+    "optionNotes": [
+      "강화한다는 내용은 글과 반대입니다.",
+      "무시한다는 내용은 없습니다.",
+      "장식한다는 내용은 없습니다.",
+      "모방한다는 내용은 없습니다.",
+      "정답. 먹이 사슬을 교란합니다."
+    ],
+    "trap": "'change'라는 낱말만 보고 긍정적인 동사를 고르지 마세요.",
+    "tip": "뒤 문장의 결과(lose their food)가 빈칸의 방향을 알려 줍니다."
+  },
+  {
+    "id": "m2-15-33",
+    "level": "m2",
+    "set": "mock-15",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Humor is not simply a way to make people laugh. In a tense meeting, a well-timed joke can ease the atmosphere and make people feel connected. Studies show that teams who laugh together are more willing to share ideas and admit mistakes. They also recover more quickly from disagreements. In other words, humor can serve as a bridge that helps people __________ each other.",
+    "options": [
+      "avoid",
+      "argue with",
+      "trust",
+      "compete with",
+      "ignore"
+    ],
+    "answer": 2,
+    "translation": "유머는 단순히 사람들을 웃게 하는 방법이 아니다. 긴장된 회의에서 적절한 때의 농담은 분위기를 누그러뜨리고 사람들이 연결되어 있다고 느끼게 할 수 있다. 연구에 따르면 함께 웃는 팀은 아이디어를 나누고 실수를 인정하려는 의지가 더 크다. 그들은 의견 충돌에서도 더 빨리 회복한다. 다시 말해 유머는 사람들이 서로를 신뢰하도록 돕는 다리 역할을 할 수 있다.",
+    "why": "서로 연결되고 아이디어를 나누며 실수를 인정한다고 했으므로 서로를 신뢰한다(trust)가 알맞습니다.",
+    "optionNotes": [
+      "피한다는 내용은 글과 반대입니다.",
+      "다툰다는 내용은 글과 반대입니다.",
+      "정답. 서로를 신뢰합니다.",
+      "경쟁한다는 내용은 없습니다.",
+      "무시한다는 내용은 글과 반대입니다."
+    ],
+    "trap": "'bridge'라는 비유가 부정적 동사와 어울리지 않음을 확인하세요.",
+    "tip": "앞 문장의 'feel connected, share ideas'가 빈칸의 단서입니다."
+  },
+  {
+    "id": "m2-15-34",
+    "level": "m2",
+    "set": "mock-15",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Cherry blossoms bloom for only about a week each spring. Their beauty is so short-lived. For this reason, people in Japan have long associated them with the idea that nothing lasts forever. Every spring, crowds gather under the trees to enjoy the flowers and to think about the __________ nature of life. Many people say that the blossoms teach them to value each moment.",
+    "options": [
+      "permanent",
+      "expensive",
+      "boring",
+      "fleeting",
+      "hidden"
+    ],
+    "answer": 3,
+    "translation": "벚꽃은 해마다 봄에 일주일 정도만 핀다. 그 아름다움은 매우 짧다. 그래서 일본 사람들은 오래전부터 벚꽃을 영원한 것은 없다는 생각과 연관 지어 왔다. 봄마다 사람들은 꽃을 즐기고 삶의 덧없는 본질을 생각하기 위해 나무 아래에 모인다. 많은 사람은 벚꽃이 그들에게 순간을 소중히 여기도록 가르친다고 말한다.",
+    "why": "아름다움이 짧다는 점에서 삶의 덧없는(fleeting) 본질을 생각한다는 말이 알맞습니다.",
+    "optionNotes": [
+      "영원한 것은 없다는 내용과 반대입니다.",
+      "비싸다는 내용은 없습니다.",
+      "지루하다는 내용은 없습니다.",
+      "정답. 덧없는 본질입니다.",
+      "숨겨져 있다는 내용은 없습니다."
+    ],
+    "trap": "'permanent'는 'nothing lasts forever'와 반대 의미입니다.",
+    "tip": "앞 문장의 'short-lived'가 빈칸의 단서입니다."
+  },
+  {
+    "id": "m2-15-35",
+    "level": "m2",
+    "set": "mock-15",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Learning a musical instrument benefits more than musical skill. ① It trains the brain to coordinate the eyes, ears, and hands at the same time. ② Many stores sell pianos at lower prices during the winter season. ③ Regular practice also teaches patience and discipline. ④ Moreover, performing in front of others builds confidence. ⑤ These skills can be used in many areas of life.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "악기를 배우는 것은 음악 실력 이상의 이점이 있다. ① 눈, 귀, 손을 동시에 조정하도록 뇌를 훈련시킨다. ② 많은 가게가 겨울철에 피아노를 더 낮은 가격에 판다. ③ 규칙적인 연습은 인내심과 규율도 가르친다. ④ 게다가 다른 사람들 앞에서 연주하면 자신감이 생긴다. ⑤ 이런 기술은 삶의 많은 영역에서 쓰일 수 있다.",
+    "why": "글은 악기 학습의 이점을 말하는데 ②는 피아노 가격 이야기라 관계가 없습니다.",
+    "optionNotes": [
+      "악기 학습의 이점입니다.",
+      "정답(무관). 피아노 가격 이야기입니다.",
+      "악기 학습의 이점입니다.",
+      "악기 학습의 이점입니다.",
+      "이점을 정리하는 문장입니다."
+    ],
+    "trap": "'piano'가 악기 이야기와 연결되어 자연스럽다고 착각할 수 있습니다.",
+    "tip": "주제(악기 학습의 이점)와 이어지지 않는 문장을 고르세요."
+  },
+  {
+    "id": "m2-15-36",
+    "level": "m2",
+    "set": "mock-15",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Every culture has its own way of greeting people, and these customs often reveal what the society values.\n(A) Meanwhile, in some islands of the Pacific, people greet each other by gently touching noses. This gesture expresses closeness and trust.\n(B) In many Western countries, a firm handshake is the standard way to say hello. It is usually combined with direct eye contact.\n(C) In Japan, on the other hand, a bow is more common. The depth of the bow shows how much respect the person wants to express.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 2,
+    "translation": "모든 문화에는 사람을 맞이하는 고유한 방식이 있으며, 이러한 관습은 사회가 무엇을 중시하는지 보여 주는 경우가 많다. (B) 많은 서양 국가에서는 힘 있는 악수가 인사의 표준 방식이다. 보통 직접적인 눈 맞춤과 함께 이루어진다. (C) 반면 일본에서는 절이 더 흔하다. 절의 깊이는 그 사람이 얼마나 존경을 표현하고 싶은지를 보여 준다. (A) 한편 태평양의 일부 섬에서는 사람들이 코를 살짝 맞대어 인사한다. 이 몸짓은 친밀감과 신뢰를 표현한다.",
+    "why": "(B) 서양의 악수 → (C) On the other hand 일본의 절 → (A) Meanwhile 태평양 섬의 코 맞대기 순서입니다.",
+    "optionNotes": [
+      "(A)의 'Meanwhile'이 첫 사례로 올 수 없습니다.",
+      "(A)가 먼저 오면 'Meanwhile'과 'on the other hand' 연결이 어긋납니다.",
+      "정답. 서양 → 일본 → 태평양 섬.",
+      "(C)의 'on the other hand'가 대조할 앞 사례 없이 올 수 없습니다.",
+      "(C)의 'on the other hand'가 대조할 앞 사례 없이 올 수 없습니다."
+    ],
+    "trap": "(C)의 'on the other hand'는 (B)의 악수와 대비됩니다.",
+    "tip": "연결어(Meanwhile, On the other hand)가 앞 사례를 전제하는지 확인하세요."
+  },
+  {
+    "id": "m2-15-37",
+    "level": "m2",
+    "set": "mock-15",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Penicillin, one of the most important medicines in history, was discovered by accident.\n(A) Curious, he studied the mold and realized that it produced a substance that killed bacteria. This was the beginning of penicillin.\n(B) However, it took more than a decade before other scientists turned it into a medicine that could be used on patients.\n(C) In 1928, Alexander Fleming returned from a holiday and found mold growing on a dish in his laboratory. He noticed that the bacteria around the mold had died.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 3,
+    "translation": "역사상 가장 중요한 약 중 하나인 페니실린은 우연히 발견되었다. (C) 1928년 알렉산더 플레밍은 휴가에서 돌아와 실험실의 접시에서 곰팡이가 자라고 있는 것을 발견했다. 그는 곰팡이 주변의 세균이 죽은 것을 알아챘다. (A) 호기심이 생긴 그는 곰팡이를 연구해 그것이 세균을 죽이는 물질을 만든다는 것을 깨달았다. 이것이 페니실린의 시작이었다. (B) 그러나 다른 과학자들이 그것을 환자에게 쓸 수 있는 약으로 만들기까지는 10년이 넘게 걸렸다.",
+    "why": "(C) 곰팡이 발견 → (A) 연구와 깨달음 → (B) However, 약으로 만드는 데 오래 걸림 순서입니다.",
+    "optionNotes": [
+      "(A)의 'the mold'가 가리킬 곰팡이가 앞에 없습니다.",
+      "(B)의 'it'이 가리킬 대상이 앞에 없습니다.",
+      "(B)의 'it'이 가리킬 대상이 앞에 없습니다.",
+      "정답. 발견 → 연구 → 약으로 개발.",
+      "(B)가 (A)보다 앞서면 페니실린의 시작 전에 개발 이야기가 나옵니다."
+    ],
+    "trap": "(A)의 'the mold'는 (C)에서 발견한 곰팡이를 가리킵니다.",
+    "tip": "정관사(the mold)와 However 문장의 연결을 확인하세요."
+  },
+  {
+    "id": "m2-15-38",
+    "level": "m2",
+    "set": "mock-15",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nFor these reasons, many cities are now building more cycling lanes.\n\n[글]\n( ① ) Cycling is good for our health because it strengthens the heart and muscles. ( ② ) It also reduces air pollution, since bicycles do not produce exhaust gas. ( ③ ) Moreover, bikes take up much less space than cars on the road. ( ④ ) Cyclists save money on fuel and parking as well. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "[주어진 문장] 이런 이유로 많은 도시가 이제 자전거 도로를 더 많이 만들고 있다. [글] 자전거 타기는 심장과 근육을 강화하므로 건강에 좋다. 또한 자전거는 배기가스를 내지 않으므로 대기 오염을 줄인다. 게다가 자전거는 도로에서 자동차보다 훨씬 적은 공간을 차지한다. 자전거를 타는 사람은 연료비와 주차비도 아낀다. 이런 이유로 많은 도시가 이제 자전거 도로를 더 많이 만들고 있다.",
+    "why": "'For these reasons'는 앞에서 나열한 모든 이유의 결론이므로 마지막인 ⑤에 들어갑니다.",
+    "optionNotes": [
+      "이유가 나오기 전이라 어색합니다.",
+      "이유가 일부만 나왔습니다.",
+      "이유가 더 이어집니다.",
+      "'as well'이 붙은 마지막 이유 앞이라 어색합니다.",
+      "정답. 모든 이유를 정리하는 결론입니다."
+    ],
+    "trap": "④ 앞에서도 가능해 보이지만 마지막 이유(as well)가 뒤에 있어야 결론이 성립합니다.",
+    "tip": "'For these reasons'는 이유 나열이 끝난 뒤에 놓입니다."
+  },
+  {
+    "id": "m2-15-39",
+    "level": "m2",
+    "set": "mock-15",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nHave you ever wondered why we yawn when we see someone else yawning?\n\n[글]\n( ① ) Scientists believe that this contagious yawning is connected to empathy. ( ② ) Studies show that people are more likely to catch a yawn from close friends and family than from strangers. ( ③ ) Children under four, who have not fully developed empathy, rarely show this behavior. ( ④ ) In other words, a yawn may be a quiet sign of emotional connection. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "[주어진 문장] 다른 사람이 하품하는 것을 보면 왜 우리도 하품하는지 궁금했던 적이 있는가? [글] 과학자들은 이 전염성 하품이 공감과 관련이 있다고 믿는다. 연구에 따르면 사람들은 낯선 사람보다 가까운 친구와 가족에게서 하품이 옮을 가능성이 더 높다. 공감 능력이 완전히 발달하지 않은 네 살 미만 어린이는 이런 행동을 거의 보이지 않는다. 다시 말해 하품은 감정적 연결의 조용한 신호일 수 있다.",
+    "why": "'this contagious yawning'이 가리킬 대상을 먼저 소개하는 도입 질문이므로 맨 앞인 ①에 들어갑니다.",
+    "optionNotes": [
+      "정답. 'this contagious yawning'이 가리키는 대상을 소개하는 도입입니다.",
+      "이미 하품 이야기가 소개된 뒤라 도입 질문이 어색합니다.",
+      "사례 설명 도중이라 어색합니다.",
+      "결론 직전이라 어색합니다.",
+      "마지막이라 도입 질문이 어색합니다."
+    ],
+    "trap": "질문 형태의 문장은 흔히 글의 도입부에 놓입니다.",
+    "tip": "지시어(this contagious yawning)로 시작하는 문장 앞에는 그 대상이 먼저 나와야 합니다."
+  },
+  {
+    "id": "m2-15-40",
+    "level": "m2",
+    "set": "mock-15",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Researchers gave two groups of students the same puzzle. One group worked alone, while the other group was told to work in pairs. The students who worked in pairs solved the puzzle faster and made fewer errors. Each person noticed mistakes that the other person missed. However, they also said that discussing took more time at first.\n\n▶ Working (A) can lead to better results, since partners can (B) each other's mistakes.",
+    "options": [
+      "(A) alone — (B) copy",
+      "(A) with a partner — (B) correct",
+      "(A) quickly — (B) hide",
+      "(A) silently — (B) forget",
+      "(A) at night — (B) repeat"
+    ],
+    "answer": 1,
+    "translation": "연구자들은 두 학생 집단에게 같은 퍼즐을 주었다. 한 집단은 혼자 작업했고 다른 집단은 짝을 지어 작업하라고 지시받았다. 짝과 작업한 학생들은 퍼즐을 더 빨리 풀었고 실수도 더 적게 했다. 한 사람이 놓친 실수를 다른 사람이 알아챘다. 그러나 그들은 처음에는 토론하는 데 시간이 더 걸렸다고도 말했다. ▶ 짝과 함께 작업하면 파트너가 서로의 실수를 바로잡을 수 있어 더 나은 결과를 낼 수 있다.",
+    "why": "짝과 작업한 학생이 서로의 실수를 알아채 더 잘 풀었으므로 (A)는 with a partner, (B)는 correct입니다.",
+    "optionNotes": [
+      "alone과 copy는 글과 맞지 않습니다.",
+      "정답. 짝과 함께 서로의 실수를 바로잡습니다.",
+      "quickly와 hide는 글과 맞지 않습니다.",
+      "silently와 forget은 글에 나오지 않습니다.",
+      "at night과 repeat은 글에 나오지 않습니다."
+    ],
+    "trap": "'faster'만 보고 (A)에 quickly를 고르지 마세요. 원인은 짝과의 작업입니다.",
+    "tip": "요약문은 실험 조건(pairs)과 결과 이유(noticed mistakes)를 짝지어 찾으세요."
+  }
+]
