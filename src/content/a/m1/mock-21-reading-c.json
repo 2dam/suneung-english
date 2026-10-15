@@ -1,0 +1,147 @@
+[
+  {
+    "id": "m1-21-41",
+    "level": "m1",
+    "set": "mock-21",
+    "no": 41,
+    "type": "long",
+    "group": "m1-21-g41",
+    "stem": "[41~42] 윗글의 제목으로 가장 적절한 것을 고르시오.",
+    "passage": "Our school has a small garden behind the gym. Last spring, our class started a garden project. Every day, we {1|ignored} the plants and pulled out the weeds. At first, the seeds were tiny, and nothing seemed to happen. But after two weeks, small green leaves appeared. We were so {2|excited}. In summer, the tomatoes {3|turned} red, and the sunflowers grew taller than us. We shared the vegetables with our teachers and neighbors. Working together made our class closer. Even shy students {4|talked} more with others. Now we are planning to {5|build} a bigger garden next year.",
+    "options": [
+      "Why Tomatoes Turn Red in Summer and Green in Spring",
+      "How to Clean the School Gym After a Big Sports Day",
+      "The Best Vegetables for Cooking a Warm Soup in Winter",
+      "A Wonderful Day at the City Zoo with My Close Friends",
+      "Our Class Garden: Growing Plants and Friendship"
+    ],
+    "answer": 4,
+    "translation": "우리 학교에는 체육관 뒤에 작은 정원이 있다. 지난봄 우리 반은 정원 프로젝트를 시작했다. 매일 우리는 식물에 물을 주고 잡초를 뽑았다. 처음에는 씨앗이 아주 작았고 아무 일도 일어나지 않는 것 같았다. 하지만 이 주 뒤 작은 초록 잎이 나왔다. 우리는 정말 신났다. 여름에는 토마토가 빨갛게 익었고 해바라기는 우리보다 더 크게 자랐다. 우리는 채소를 선생님과 이웃들과 나누었다. 함께 일하자 우리 반은 더 가까워졌다. 수줍음 많은 학생들도 다른 학생들과 더 많이 이야기했다. 이제 우리는 내년에 더 큰 정원을 만들 계획이다.",
+    "why": "학급 정원을 가꾸며 식물과 우정이 자란 이야기이므로 ⑤가 제목입니다.",
+    "optionNotes": [
+      "토마토의 색은 나오지 않습니다.",
+      "체육관 청소는 나오지 않습니다.",
+      "수프 재료는 나오지 않습니다.",
+      "동물원은 나오지 않습니다.",
+      "정답. 학급 정원과 우정입니다."
+    ],
+    "trap": "'tomatoes', 'gym'이 나온다고 ①②를 고르지 마세요.",
+    "tip": "제목은 글의 핵심 활동(garden)과 결과(friendship)를 담으세요."
+  },
+  {
+    "id": "m1-21-42",
+    "level": "m1",
+    "set": "mock-21",
+    "no": 42,
+    "type": "long",
+    "group": "m1-21-g41",
+    "stem": "[41~42] 밑줄 친 ①~⑤ 중에서 문맥상 낱말의 쓰임이 적절하지 않은 것을 고르시오.",
+    "passage": "Our school has a small garden behind the gym. Last spring, our class started a garden project. Every day, we {1|ignored} the plants and pulled out the weeds. At first, the seeds were tiny, and nothing seemed to happen. But after two weeks, small green leaves appeared. We were so {2|excited}. In summer, the tomatoes {3|turned} red, and the sunflowers grew taller than us. We shared the vegetables with our teachers and neighbors. Working together made our class closer. Even shy students {4|talked} more with others. Now we are planning to {5|build} a bigger garden next year.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "(41번 지문과 같은 글입니다.)",
+    "why": "매일 식물을 돌본다는 흐름이므로 'ignored(무시했다)'가 아니라 'watered(물을 주었다)'여야 합니다.",
+    "optionNotes": [
+      "정답(부적절). 식물에 물을 주어야 자라므로 watered여야 합니다.",
+      "신났다는 의미로 excited가 알맞습니다.",
+      "빨갛게 변했다는 의미로 turned가 알맞습니다.",
+      "이야기했다는 의미로 talked가 알맞습니다.",
+      "짓는다는 의미로 build가 알맞습니다."
+    ],
+    "trap": "'pulled out the weeds'가 있어 돌보는 행동이라는 점을 확인하세요.",
+    "tip": "뒤 문장의 결과(green leaves appeared)와 앞 동사가 이어지는지 확인하세요."
+  },
+  {
+    "id": "m1-21-43",
+    "level": "m1",
+    "set": "mock-21",
+    "no": 43,
+    "type": "long",
+    "group": "m1-21-g43",
+    "stem": "[43~45] 주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것을 고르시오.",
+    "passage": "(A) Sora took a ferry to her grandmother's island. At the port, {1|she} was waiting with a big smile and a straw hat.\n(B) That evening, they cooked tomato soup together. {2|She} added too much salt, and both of them laughed.\n(C) In the garden, Sora helped pick tomatoes. {3|She} had never seen such big ones.\n(D) The next morning, Sora woke up to the sound of waves. {4|She} walked to the beach and collected shells. {5|She} put the prettiest one in her pocket for her grandmother.",
+    "options": [
+      "(B)-(D)-(C)",
+      "(C)-(B)-(D)",
+      "(C)-(D)-(B)",
+      "(D)-(B)-(C)",
+      "(D)-(C)-(B)"
+    ],
+    "answer": 1,
+    "translation": "(A) 소라는 배를 타고 할머니의 섬에 갔다. 항구에서 할머니는 큰 미소를 짓고 밀짚모자를 쓴 채 기다리고 계셨다. (C) 정원에서 소라는 토마토 따는 것을 도왔다. 그녀는 그렇게 큰 토마토를 본 적이 없었다. (B) 그날 저녁 그들은 함께 토마토 수프를 끓였다. 소라가 소금을 너무 많이 넣어서 둘 다 웃었다. (D) 다음 날 아침 소라는 파도 소리에 잠에서 깼다. 그녀는 해변으로 걸어가 조개껍데기를 모았다. 그녀는 가장 예쁜 것을 할머니를 위해 주머니에 넣었다.",
+    "why": "(A) 도착 → (C) 정원에서 토마토 따기 → (B) 저녁에 수프 만들기 → (D) 다음 날 아침 해변 순서입니다.",
+    "optionNotes": [
+      "(B)의 수프가 토마토를 따기(C) 전에 올 수 없습니다.",
+      "정답. 도착 → 토마토 따기 → 수프 → 다음 날 아침.",
+      "(D)의 '다음 날 아침'이 저녁(B)보다 앞설 수 없습니다.",
+      "(D)가 처음에 오면 '다음 날'이 어색합니다.",
+      "(D)가 (B)보다 앞설 수 없습니다."
+    ],
+    "trap": "(B)의 'That evening'은 (C)의 같은 날 저녁을 가리킵니다.",
+    "tip": "시간 표현(That evening, The next morning)으로 순서를 확인하세요."
+  },
+  {
+    "id": "m1-21-44",
+    "level": "m1",
+    "set": "mock-21",
+    "no": 44,
+    "type": "long",
+    "group": "m1-21-g43",
+    "stem": "[43~45] 밑줄 친 ①~⑤ 중에서 가리키는 대상이 나머지 넷과 다른 것을 고르시오.",
+    "passage": "(A) Sora took a ferry to her grandmother's island. At the port, {1|she} was waiting with a big smile and a straw hat.\n(B) That evening, they cooked tomato soup together. {2|She} added too much salt, and both of them laughed.\n(C) In the garden, Sora helped pick tomatoes. {3|She} had never seen such big ones.\n(D) The next morning, Sora woke up to the sound of waves. {4|She} walked to the beach and collected shells. {5|She} put the prettiest one in her pocket for her grandmother.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "①의 she는 항구에서 미소를 짓고 기다리던 할머니이고, 나머지 ②③④⑤는 모두 소라를 가리킵니다.",
+    "optionNotes": [
+      "정답. she는 항구에서 기다리던 할머니입니다.",
+      "She는 소금을 넣은 소라입니다.",
+      "She는 토마토를 본 소라입니다.",
+      "She는 해변으로 걸어간 소라입니다.",
+      "She는 조개를 주머니에 넣은 소라입니다."
+    ],
+    "trap": "(A)의 첫 문장 주어(Sora)와 ①의 she를 같은 사람으로 착각하기 쉽습니다.",
+    "tip": "앞 문장의 장소(At the port)와 행동(waiting)을 한 사람으로 이어 보세요."
+  },
+  {
+    "id": "m1-21-45",
+    "level": "m1",
+    "set": "mock-21",
+    "no": 45,
+    "type": "long",
+    "group": "m1-21-g43",
+    "stem": "[43~45] 윗글에 관한 내용으로 적절하지 않은 것을 고르시오.",
+    "passage": "(A) Sora took a ferry to her grandmother's island. At the port, {1|she} was waiting with a big smile and a straw hat.\n(B) That evening, they cooked tomato soup together. {2|She} added too much salt, and both of them laughed.\n(C) In the garden, Sora helped pick tomatoes. {3|She} had never seen such big ones.\n(D) The next morning, Sora woke up to the sound of waves. {4|She} walked to the beach and collected shells. {5|She} put the prettiest one in her pocket for her grandmother.",
+    "options": [
+      "소라는 연락선을 타고 바다를 건너 할머니가 계신 작은 섬으로 갔다.",
+      "소라는 할머니의 정원에서 커다란 토마토를 여러 개 따는 것을 도왔다.",
+      "소라와 할머니는 저녁에 함께 토마토 수프를 만들면서 크게 웃었다.",
+      "소라는 다음 날 아침 파도 소리에 놀라 일찍 집으로 돌아갔다.",
+      "소라는 다음 날 아침 해변에서 예쁜 조개껍데기를 여러 개 모았다."
+    ],
+    "answer": 3,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "소라는 파도 소리에 잠에서 깨어 해변으로 걸어가 조개껍데기를 모았고, 집으로 돌아갔다는 내용은 없으므로 ④는 일치하지 않습니다.",
+    "optionNotes": [
+      "took a ferry와 일치합니다.",
+      "helped pick tomatoes와 일치합니다.",
+      "cooked tomato soup together와 일치합니다.",
+      "정답(불일치). 집으로 돌아갔다는 내용은 없습니다.",
+      "collected shells와 일치합니다."
+    ],
+    "trap": "'woke up to the sound of waves'를 놀라서 돌아간 것으로 오해하지 마세요.",
+    "tip": "불일치 문제는 글에 없는 행동(집으로 돌아감)을 찾으세요."
+  }
+]
