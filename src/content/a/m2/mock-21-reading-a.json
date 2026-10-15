@@ -1,0 +1,333 @@
+[
+  {
+    "id": "m2-21-18",
+    "level": "m2",
+    "set": "mock-21",
+    "no": 18,
+    "type": "purpose",
+    "stem": "다음 글을 쓴 목적으로 가장 적절한 것은?",
+    "passage": "Dear Customer Service,\nI bought a pair of wireless headphones from your online store on October 3. The order number is 48271. Unfortunately, the left speaker stopped working after only two days. I have followed the instructions in the manual, but the problem is still not solved. I would like to exchange them for a new pair or get a refund. I have attached a photo of the product and the receipt.\nSincerely,\nMinsu Kang",
+    "options": [
+      "새로운 헤드폰의 사양을 문의하려고",
+      "주문한 제품의 배송 지연에 대해 항의하려고",
+      "온라인 가게의 서비스를 칭찬하려고",
+      "고장 난 제품의 교환 또는 환불을 요청하려고",
+      "제품의 사용 설명서를 보내 달라고 부탁하려고"
+    ],
+    "answer": 3,
+    "translation": "고객 서비스 담당자께. 저는 10월 3일 귀사의 온라인 가게에서 무선 헤드폰을 샀습니다. 주문 번호는 48271입니다. 안타깝게도 이틀 만에 왼쪽 스피커가 작동하지 않았습니다. 설명서의 지침을 따랐지만 문제는 해결되지 않았습니다. 새 제품으로 교환하거나 환불받고 싶습니다. 제품 사진과 영수증을 첨부했습니다. 강민수 드림.",
+    "why": "고장 난 헤드폰의 교환 또는 환불을 요청하는 글입니다.",
+    "optionNotes": [
+      "사양 문의가 아닙니다.",
+      "배송 지연은 나오지 않습니다.",
+      "칭찬은 나오지 않습니다.",
+      "정답. 교환 또는 환불을 요청합니다.",
+      "설명서는 이미 따랐다고 했습니다."
+    ],
+    "trap": "'manual'이 나온다고 사용 설명서 요청(⑤)으로 착각하지 마세요.",
+    "tip": "목적 문제는 'I would like to ~' 같은 요청 표현을 찾으세요."
+  },
+  {
+    "id": "m2-21-19",
+    "level": "m2",
+    "set": "mock-21",
+    "no": 19,
+    "type": "mood",
+    "stem": "다음 글에 드러난 Yeji의 심경 변화로 가장 적절한 것은?",
+    "passage": "Yeji stood on the stage with a microphone in her shaking hand. It was her first time singing in front of the whole school. Her mouth was dry, and she was afraid she would forget the lyrics. She took a deep breath and began the first line. Her voice trembled at first, but soon it became strong and clear. When she finished the song, the whole hall clapped and cheered. Yeji smiled brightly, feeling proud of herself.",
+    "options": [
+      "nervous → confident and proud of herself",
+      "bored → angry",
+      "jealous → grateful",
+      "sad → disappointed",
+      "relieved → frightened"
+    ],
+    "answer": 0,
+    "translation": "예지는 떨리는 손에 마이크를 들고 무대 위에 서 있었다. 전교생 앞에서 노래하는 것은 처음이었다. 입이 마르고 가사를 잊을까 봐 두려웠다. 그녀는 깊게 숨을 쉬고 첫 구절을 시작했다. 처음에는 목소리가 떨렸지만 곧 강하고 또렷해졌다. 노래를 마치자 강당 전체가 박수와 환호를 보냈다. 예지는 자신이 자랑스러워 환하게 웃었다.",
+    "why": "무대에서 떨리고 두려웠다가(nervous), 노래를 마치고 자신감과 자랑스러움을 느꼈습니다.",
+    "optionNotes": [
+      "정답. 긴장에서 자신감과 자랑스러움으로 변했습니다.",
+      "지루함에서 화남이 아닙니다.",
+      "질투에서 감사가 아닙니다.",
+      "슬픔에서 실망이 아닙니다.",
+      "안도에서 두려움이 아닙니다."
+    ],
+    "trap": "앞부분의 두려움만 보고 끝까지 부정적이라고 판단하지 마세요.",
+    "tip": "전환 신호(soon it became strong ...)를 기준으로 앞뒤 감정을 비교하세요."
+  },
+  {
+    "id": "m2-21-20",
+    "level": "m2",
+    "set": "mock-21",
+    "no": 20,
+    "type": "claim",
+    "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+    "passage": "During vacation, many students stay up late and wake up at noon. Their meals are irregular, and they spend most of the day looking at screens. When school starts again, they feel exhausted and find it hard to concentrate. A regular routine, on the other hand, keeps the body and mind in good condition. Therefore, students should keep a regular daily routine even during vacation.",
+    "options": [
+      "방학에는 학교 공부를 완전히 잊고 쉬어야 한다.",
+      "늦게 일어나는 것이 건강에 더 좋다.",
+      "방학에는 하루 종일 화면을 보는 것이 도움이 된다.",
+      "학생들은 방학 동안에도 규칙적인 생활 습관을 유지해야 한다.",
+      "개학 직전에 생활 습관을 바꾸는 것이 효과적이다."
+    ],
+    "answer": 3,
+    "translation": "방학 동안 많은 학생이 늦게까지 깨어 있고 정오에 일어난다. 식사는 불규칙하고 하루의 대부분을 화면을 보며 보낸다. 학교가 다시 시작되면 그들은 몹시 피곤하고 집중하기 어렵다. 반면 규칙적인 일과는 몸과 마음을 좋은 상태로 유지해 준다. 그러므로 학생들은 방학 동안에도 규칙적인 일과를 유지해야 한다.",
+    "why": "마지막 문장 'students should keep a regular daily routine even during vacation'이 주장입니다.",
+    "optionNotes": [
+      "공부를 잊으라는 내용은 없습니다.",
+      "늦게 일어나는 것은 글에서 비판됩니다.",
+      "화면 사용은 부정적으로 서술됩니다.",
+      "정답. 방학에도 규칙적인 일과를 유지해야 합니다.",
+      "개학 직전에 바꾸라는 내용은 없습니다."
+    ],
+    "trap": "앞부분의 현상(stay up late)을 필자의 주장으로 착각하지 마세요.",
+    "tip": "On the other hand 이후와 Therefore 문장이 주장입니다."
+  },
+  {
+    "id": "m2-21-21",
+    "level": "m2",
+    "set": "mock-21",
+    "no": 21,
+    "type": "implied",
+    "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "passage": "At the first meeting of the club, everyone sat quietly. Then Mina told a funny story to {u|break the ice}. Soon, all the members were laughing and talking.",
+    "options": [
+      "to make a hole in the frozen lake and catch some fish",
+      "to ask people to leave the room before the meeting starts",
+      "to make people feel more relaxed at the start",
+      "to stop people from talking too much during the meeting",
+      "to show that she was angry at someone in the group"
+    ],
+    "answer": 2,
+    "translation": "동아리의 첫 모임에서 모두 조용히 앉아 있었다. 그때 미나가 어색함을 깨려고 재미있는 이야기를 했다. 곧 모든 회원이 웃으며 이야기하고 있었다.",
+    "why": "모두 조용히 앉아 있다가 이야기를 한 뒤 웃으며 이야기했으므로 'break the ice'는 어색한 분위기를 풀다는 뜻입니다.",
+    "optionNotes": [
+      "얼어붙은 호수에 구멍을 낸다는 문자 그대로의 뜻이 아닙니다.",
+      "나가 달라고 부탁한다는 뜻이 아닙니다.",
+      "정답. 시작할 때 어색한 분위기를 풀어 주는 것입니다.",
+      "말을 못 하게 한다는 뜻이 아닙니다.",
+      "화가 났다는 뜻이 아닙니다."
+    ],
+    "trap": "'ice'를 문자 그대로 해석하지 마세요.",
+    "tip": "관용 표현은 앞뒤 문맥(sat quietly → laughing)에서 의미를 추론하세요."
+  },
+  {
+    "id": "m2-21-22",
+    "level": "m2",
+    "set": "mock-21",
+    "no": 22,
+    "type": "gist",
+    "stem": "다음 글의 요지로 가장 적절한 것은?",
+    "passage": "Many students try to learn by reading the same page again and again. However, researchers have found that testing yourself is a much better method. When you try to recall the information without looking, your brain works harder and builds stronger memories. You can use flashcards or write down what you remember. As a result, students who test themselves usually score higher than those who just reread.",
+    "options": [
+      "스스로 시험해 보는 것이 같은 내용을 반복해서 읽는 것보다 효과적인 학습법이다.",
+      "플래시카드는 값이 비싸고 만드는 데 시간이 오래 걸려서 사용하지 않는 것이 좋다.",
+      "시험 점수는 공부한 시간이 길수록 항상 정확하게 비례해서 높아진다.",
+      "암기는 학습에서 가장 중요하지 않은 활동이므로 하지 않는 것이 좋다.",
+      "교과서는 한 번만 꼼꼼하게 읽어도 모든 내용을 기억하기에 충분하다."
+    ],
+    "answer": 0,
+    "translation": "많은 학생은 같은 페이지를 되풀이해서 읽으며 공부하려고 한다. 그러나 연구자들은 스스로를 시험해 보는 것이 훨씬 더 좋은 방법임을 발견했다. 보지 않고 정보를 떠올리려고 하면 뇌가 더 열심히 작동하고 더 강한 기억을 만든다. 플래시카드를 쓰거나 기억나는 것을 적어 볼 수 있다. 그 결과 스스로 시험해 본 학생은 보통 다시 읽기만 한 학생보다 높은 점수를 받는다.",
+    "why": "스스로 시험해 보는 것이 다시 읽기보다 효과적이라는 것이 요지입니다.",
+    "optionNotes": [
+      "정답. 스스로 시험해 보는 것이 더 효과적입니다.",
+      "플래시카드는 사용할 수 있는 방법으로 제시됩니다.",
+      "공부 시간 이야기는 나오지 않습니다.",
+      "암기의 중요도는 나오지 않습니다.",
+      "교과서를 한 번만 읽으라는 내용은 없습니다."
+    ],
+    "trap": "첫 문장의 방법(reading again and again)을 필자의 생각으로 착각하지 마세요.",
+    "tip": "However 이후와 As a result 문장이 요지를 담습니다."
+  },
+  {
+    "id": "m2-21-23",
+    "level": "m2",
+    "set": "mock-21",
+    "no": 23,
+    "type": "topic",
+    "stem": "다음 글의 주제로 가장 적절한 것은?",
+    "passage": "Octopuses are known as some of the smartest animals in the sea. They can open jars, escape from tanks, and use coconut shells as shelters. In experiments, they learned to solve puzzles to get food. Some octopuses even recognize individual human faces. Scientists are surprised because octopuses live alone and do not learn from their parents.",
+    "options": [
+      "why octopuses live in cold and deep water",
+      "how octopuses change their colors to hide",
+      "how clever octopuses are in solving problems and using tools",
+      "what octopuses eat during the night",
+      "where octopuses lay their eggs on the sea floor"
+    ],
+    "answer": 2,
+    "translation": "문어는 바다에서 가장 영리한 동물 중 하나로 알려져 있다. 문어는 병을 열고 수조에서 탈출하며 코코넛 껍데기를 은신처로 쓸 수 있다. 실험에서 문어는 먹이를 얻기 위해 퍼즐을 푸는 법을 배웠다. 일부 문어는 사람 얼굴을 개별적으로 알아보기도 한다. 과학자들은 문어가 혼자 살고 부모에게서 배우지 않는다는 점에서 놀란다.",
+    "why": "문어가 문제를 해결하고 도구를 사용하는 영리함을 설명하는 글입니다.",
+    "optionNotes": [
+      "서식 환경은 나오지 않습니다.",
+      "색 변화는 나오지 않습니다.",
+      "정답. 문제 해결과 도구 사용에서의 영리함입니다.",
+      "먹이는 나오지 않습니다.",
+      "산란은 나오지 않습니다."
+    ],
+    "trap": "'sea'만 보고 서식 환경이나 색 변화를 고르지 마세요.",
+    "tip": "주제는 사례들을 묶는 일반 진술(smartest animals)을 찾으세요."
+  },
+  {
+    "id": "m2-21-24",
+    "level": "m2",
+    "set": "mock-21",
+    "no": 24,
+    "type": "title",
+    "stem": "다음 글의 제목으로 가장 적절한 것은?",
+    "passage": "In Japan, many people travel by train, and trains are famous for arriving exactly on time. If a train is even one minute late, the company gives passengers a delay certificate. Workers wear white gloves and point at signals to avoid mistakes. At the end of each trip, the staff bow to the passengers. These small habits show how seriously the railway workers take their job.",
+    "options": [
+      "The Fastest and Most Comfortable Trains in the World Today",
+      "How to Buy a Cheap Train Ticket Online for Your Next Trip",
+      "Why Japanese Trains Are Often Late During the Rainy Season",
+      "Punctuality and Care: The Secret of Japanese Railways",
+      "The History of White Gloves and Uniforms Around the World"
+    ],
+    "answer": 3,
+    "translation": "일본에서는 많은 사람이 기차로 여행하며 기차는 정확히 제시간에 도착하는 것으로 유명하다. 기차가 1분만 늦어도 회사는 승객에게 지연 증명서를 준다. 직원들은 실수를 피하기 위해 흰 장갑을 끼고 신호를 가리킨다. 각 운행이 끝나면 직원들은 승객들에게 인사한다. 이런 작은 습관은 철도 직원들이 자기 일을 얼마나 진지하게 여기는지 보여 준다.",
+    "why": "정확한 시간과 세심한 습관이 일본 철도의 비결이라는 내용이므로 ④가 제목입니다.",
+    "optionNotes": [
+      "가장 빠른 기차는 나오지 않습니다.",
+      "표 구매는 나오지 않습니다.",
+      "늦는다는 내용은 글과 반대입니다.",
+      "정답. 정확함과 세심함이 일본 철도의 비결입니다.",
+      "흰 장갑의 역사는 나오지 않습니다."
+    ],
+    "trap": "'white gloves'만 보고 장갑의 역사(⑤)를 고르지 마세요.",
+    "tip": "제목은 글 전체를 포괄하는 표현을 고르세요."
+  },
+  {
+    "id": "m2-21-25",
+    "level": "m2",
+    "set": "mock-21",
+    "no": 25,
+    "type": "chart",
+    "stem": "다음 도표의 내용과 일치하지 않는 것은?",
+    "chart": {
+      "title": "How Teenagers Spend Free Time (%)",
+      "unit": "%",
+      "labels": [
+        "Watching videos",
+        "Playing games",
+        "Exercising",
+        "Reading",
+        "Meeting friends"
+      ],
+      "series": [
+        {
+          "name": "Percent",
+          "values": [
+            32,
+            24,
+            16,
+            12,
+            16
+          ]
+        }
+      ]
+    },
+    "passage": "The graph shows how teenagers spend their free time. ① Watching videos is the most common activity. ② Playing games is 8 percentage points lower than watching videos. ③ Exercising and meeting friends are the same. ④ Reading is one third of playing games. ⑤ Watching videos and playing games together make up more than 50 percent.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "그래프는 십 대가 여가 시간을 보내는 방법을 보여 준다. ① 동영상 보기가 가장 흔한 활동이다. ② 게임하기는 동영상 보기보다 8퍼센트포인트 낮다. ③ 운동하기와 친구 만나기는 같다. ④ 독서는 게임하기의 3분의 1이다. ⑤ 동영상 보기와 게임하기를 합하면 50퍼센트가 넘는다.",
+    "why": "독서 12%는 게임하기 24%의 절반이지 3분의 1(8%)이 아니므로 ④는 일치하지 않습니다.",
+    "optionNotes": [
+      "32%가 가장 높습니다.",
+      "32 - 24 = 8퍼센트포인트입니다.",
+      "16%로 같습니다.",
+      "정답(불일치). 12%는 24%의 절반입니다.",
+      "32 + 24 = 56%입니다."
+    ],
+    "trap": "'half'와 'one third'를 구분하지 않고 지나치기 쉽습니다.",
+    "tip": "분수·배수 표현은 두 수치를 직접 계산해 확인하세요."
+  },
+  {
+    "id": "m2-21-26",
+    "level": "m2",
+    "set": "mock-21",
+    "no": 26,
+    "type": "match",
+    "stem": "Dr. Amara Eze에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Dr. Amara Eze is a doctor who works in a small village in Nigeria. She grew up in the village and left to study medicine in a big city. After graduating, she returned because the village had no clinic. With donations from friends, she built a small clinic with three beds. Today, about forty patients visit every day, and she trains young villagers to become nurses.",
+    "options": [
+      "큰 도시에서 대형 병원을 열어 수많은 환자를 치료하고 있다.",
+      "마을에 이미 오래전부터 있던 병원에서 의사로 일하기 시작했다.",
+      "마을 사람들에게 건강한 요리와 식사 방법을 가르치고 있다.",
+      "하루에 열 명 정도의 환자가 꾸준히 그녀의 진료소를 방문한다.",
+      "친구들의 기부로 침대 세 개짜리 작은 진료소를 지었다."
+    ],
+    "answer": 4,
+    "translation": "아마라 에제 박사는 나이지리아의 작은 마을에서 일하는 의사이다. 그녀는 그 마을에서 자랐고 큰 도시로 의학을 공부하러 떠났다. 졸업 후 마을에 진료소가 없었기 때문에 돌아왔다. 친구들의 기부로 그녀는 침대 세 개의 작은 진료소를 지었다. 오늘날 하루에 약 사십 명의 환자가 방문하며 그녀는 젊은 마을 사람들이 간호사가 되도록 교육한다.",
+    "why": "'With donations from friends, she built a small clinic with three beds.'와 일치합니다.",
+    "optionNotes": [
+      "작은 마을에서 일합니다.",
+      "마을에는 진료소가 없었습니다.",
+      "간호사 교육을 합니다.",
+      "하루에 사십 명 정도가 방문합니다.",
+      "정답. 친구들의 기부로 작은 진료소를 지었습니다."
+    ],
+    "trap": "숫자(forty/ten)를 바꾼 보기에 주의하세요.",
+    "tip": "일치 문제는 장소·수·도움을 준 사람을 하나씩 대조하세요."
+  },
+  {
+    "id": "m2-21-27",
+    "level": "m2",
+    "set": "mock-21",
+    "no": 27,
+    "type": "notice",
+    "stem": "Hanbit Science Fair에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Hanbit Science Fair\nDate: Friday, November 8, 1:00 p.m. - 4:00 p.m.\nPlace: Science Building, 1st floor\nWho: Grade 1 to 3 students (Teams of two or three)\nTopic: Any topic about nature, technology, or health\nSubmission: Project proposal by October 25 to Mr. Seo\nPrize: Gold, Silver, and Bronze medals",
+    "options": [
+      "참가 팀은 두 명 또는 세 명으로 구성한다.",
+      "행사는 일요일 오후에 열린다.",
+      "프로젝트 계획서는 11월 8일까지 내야 한다.",
+      "주제는 기술에 관한 것으로 제한된다.",
+      "1등에게는 상금 100달러가 주어진다."
+    ],
+    "answer": 0,
+    "translation": "한빛 과학 박람회. 날짜: 11월 8일 금요일 오후 1시~4시. 장소: 과학관 1층. 대상: 1~3학년 학생(2~3명 팀). 주제: 자연, 기술, 건강에 관한 어떤 주제든. 제출: 10월 25일까지 서 선생님께 프로젝트 계획서. 상: 금·은·동 메달.",
+    "why": "'Teams of two or three'와 일치합니다.",
+    "optionNotes": [
+      "정답. 두 명 또는 세 명의 팀입니다.",
+      "금요일 오후에 열립니다.",
+      "계획서는 10월 25일까지입니다.",
+      "자연, 기술, 건강 중 어떤 주제든 가능합니다.",
+      "금·은·동 메달이 주어집니다."
+    ],
+    "trap": "계획서 마감(October 25)과 행사일(November 8)을 혼동하지 마세요.",
+    "tip": "안내문은 항목(Who, Submission, Prize)별로 대조하세요."
+  },
+  {
+    "id": "m2-21-28",
+    "level": "m2",
+    "set": "mock-21",
+    "no": 28,
+    "type": "notice",
+    "stem": "Online Course에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Online Coding Course for Beginners\nPeriod: July 1 - July 26 (4 weeks)\nTime: Monday to Friday, 10:00 a.m. - 11:30 a.m.\nPlatform: Zoom (A link will be sent by email.)\nFee: $50 (Textbook included)\nCertificate: Given to students who attend at least 15 sessions\nSign-up: By June 20 at www.codeforall.org",
+    "options": [
+      "수업은 일주일에 한 번 정해진 요일에만 열린다.",
+      "교재는 수강료와 별도로 학생이 직접 구입해야 한다.",
+      "수료증은 15회 이상 출석한 학생에게 준다.",
+      "수업은 점심시간 이후인 오후 시간에 진행된다.",
+      "신청은 수업이 시작되는 7월 1일까지 받는다."
+    ],
+    "answer": 2,
+    "translation": "초보자를 위한 온라인 코딩 강좌. 기간: 7월 1일~7월 26일(4주). 시간: 월~금 오전 10시~11시 30분. 플랫폼: 줌(링크는 이메일로 발송). 비용: 50달러(교재 포함). 수료증: 15회 이상 출석한 학생에게 수여. 신청: 6월 20일까지 www.codeforall.org에서.",
+    "why": "'Given to students who attend at least 15 sessions'와 일치합니다.",
+    "optionNotes": [
+      "월~금 매일 열립니다.",
+      "교재가 포함되어 있습니다.",
+      "정답. 15회 이상 출석한 학생에게 줍니다.",
+      "오전 10시~11시 30분입니다.",
+      "신청은 6월 20일까지입니다."
+    ],
+    "trap": "신청 마감(June 20)과 시작일(July 1)을 혼동하지 마세요.",
+    "tip": "수료 조건(at least)은 숫자와 한정어를 확인하세요."
+  }
+]
