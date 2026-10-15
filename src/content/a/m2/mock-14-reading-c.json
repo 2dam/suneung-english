@@ -1,0 +1,147 @@
+[
+  {
+    "id": "m2-14-41",
+    "level": "m2",
+    "set": "mock-14",
+    "no": 41,
+    "type": "long",
+    "group": "m2-14-g41",
+    "stem": "[41~42] 윗글의 제목으로 가장 적절한 것을 고르시오.",
+    "passage": "In many big cities, there is little land for farming. So some companies grow vegetables in tall buildings called vertical farms. Plants grow on shelves that are stacked from the floor to the ceiling. LED lights {1|replace} sunlight, and water is {2|wasted}, so almost nothing is lost. Because the farm is inside the city, vegetables {3|travel} only a short distance to shops and stay fresh. Some people worry about the high {4|electricity} cost, but new technologies are making vertical farms more {5|efficient} every year.",
+    "options": [
+      "The Hidden Danger of Polluted City Air for Young Children",
+      "Why Farmers Leave Their Villages",
+      "The History of Electric Lights",
+      "How to Keep Vegetables Fresh at Home",
+      "Vertical Farms: Growing Food Inside the City"
+    ],
+    "answer": 4,
+    "translation": "많은 대도시에는 농사지을 땅이 거의 없다. 그래서 일부 회사는 수직 농장이라 불리는 높은 건물에서 채소를 기른다. 식물은 바닥에서 천장까지 쌓은 선반에서 자란다. LED 조명이 햇빛을 대신하고 물은 낭비되어 거의 아무것도 잃지 않는다. 농장이 도시 안에 있으므로 채소는 가게까지 짧은 거리만 이동하고 신선하게 유지된다. 일부 사람들은 높은 전기 비용을 걱정하지만 새로운 기술이 수직 농장을 해마다 더 효율적으로 만들고 있다.",
+    "why": "도시의 건물 안에서 채소를 기르는 수직 농장을 소개하는 글이므로 ⑤가 제목입니다.",
+    "optionNotes": [
+      "대기 오염은 나오지 않습니다.",
+      "농부의 이주는 나오지 않습니다.",
+      "전등의 역사는 나오지 않습니다.",
+      "보관 방법은 나오지 않습니다.",
+      "정답. 도시 안에서 식량을 기르는 수직 농장입니다."
+    ],
+    "trap": "'LED lights'가 나온다고 ③을 고르지 마세요.",
+    "tip": "제목은 글의 핵심 소재(vertical farms)와 그 특징을 담으세요."
+  },
+  {
+    "id": "m2-14-42",
+    "level": "m2",
+    "set": "mock-14",
+    "no": 42,
+    "type": "long",
+    "group": "m2-14-g41",
+    "stem": "[41~42] 밑줄 친 ①~⑤ 중에서 문맥상 낱말의 쓰임이 적절하지 않은 것을 고르시오.",
+    "passage": "In many big cities, there is little land for farming. So some companies grow vegetables in tall buildings called vertical farms. Plants grow on shelves that are stacked from the floor to the ceiling. LED lights {1|replace} sunlight, and water is {2|wasted}, so almost nothing is lost. Because the farm is inside the city, vegetables {3|travel} only a short distance to shops and stay fresh. Some people worry about the high {4|electricity} cost, but new technologies are making vertical farms more {5|efficient} every year.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "(41번 지문과 같은 글입니다.)",
+    "why": "'almost nothing is lost'라고 했으므로 물은 '낭비되는(wasted)'이 아니라 '재활용되는(recycled)'이어야 합니다.",
+    "optionNotes": [
+      "햇빛을 대신한다는 의미로 replace가 알맞습니다.",
+      "정답(부적절). 거의 잃지 않는다는 맥락이므로 recycled여야 합니다.",
+      "이동한다는 의미로 travel이 알맞습니다.",
+      "전기 비용이라는 의미로 electricity가 알맞습니다.",
+      "더 효율적이라는 의미로 efficient가 알맞습니다."
+    ],
+    "trap": "'wasted'와 'lost'가 비슷한 의미라 자연스러워 보이지만 'almost nothing'과 모순됩니다.",
+    "tip": "앞뒤 절의 논리(so almost nothing is lost)와 낱말의 방향을 확인하세요."
+  },
+  {
+    "id": "m2-14-43",
+    "level": "m2",
+    "set": "mock-14",
+    "no": 43,
+    "type": "long",
+    "group": "m2-14-g43",
+    "stem": "[43~45] 주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것을 고르시오.",
+    "passage": "(A) Hana joined the school science club in March. At the first meeting, the teacher, Mr. Oh, gave each member a small plant and asked them to record its growth for a month. {1|He} said that the best record would be displayed in the hall.\n(B) After a month, she had thirty stars and a clear graph. {2|She} showed the notebook to Mr. Oh with a proud smile.\n(C) Mr. Oh was impressed and put her notebook on the display board in the hall. {3|She} felt that all her effort had been worth it.\n(D) At first, Hana often forgot to write in her notebook. {4|She} decided to put a small calendar beside the plant, and {5|she} marked every measurement with a star.",
+    "options": [
+      "(B)-(D)-(C)",
+      "(C)-(B)-(D)",
+      "(C)-(D)-(B)",
+      "(D)-(B)-(C)",
+      "(D)-(C)-(B)"
+    ],
+    "answer": 3,
+    "translation": "(A) 하나는 3월에 학교 과학 동아리에 가입했다. 첫 모임에서 오 선생님은 부원들에게 작은 식물을 하나씩 나눠 주고 한 달 동안 성장을 기록하라고 했다. 그는 가장 좋은 기록은 복도에 전시될 것이라고 말했다. (D) 처음에 하나는 공책에 쓰는 것을 자주 잊었다. 그녀는 식물 옆에 작은 달력을 두기로 했고 측정할 때마다 별 표시를 했다. (B) 한 달 뒤 그녀는 별 서른 개와 선명한 그래프를 갖게 되었다. 그녀는 자랑스러운 미소로 공책을 오 선생님께 보여 드렸다. (C) 오 선생님은 감명받아 그녀의 공책을 복도 전시판에 붙였다. 그녀는 모든 노력이 가치 있었다고 느꼈다.",
+    "why": "(A) 과제 제시 → (D) 처음의 실수와 개선 → (B) 한 달 뒤 결과 제출 → (C) 전시 순서입니다.",
+    "optionNotes": [
+      "(B)의 'After a month'가 (D)의 시작 전에 올 수 없습니다.",
+      "(C)의 전시가 (B)의 결과 제출 전에 올 수 없습니다.",
+      "(C)의 전시가 (B) 전에 오면 제출 전에 전시됩니다.",
+      "정답. 실수와 개선 → 결과 제출 → 전시.",
+      "(C)가 (B)보다 앞서면 노트를 보여 주기 전에 전시됩니다."
+    ],
+    "trap": "(B)의 'thirty stars'는 (D)에서 시작한 별 표시의 결과입니다.",
+    "tip": "At first → After a month → 전시의 시간 흐름을 따라가세요."
+  },
+  {
+    "id": "m2-14-44",
+    "level": "m2",
+    "set": "mock-14",
+    "no": 44,
+    "type": "long",
+    "group": "m2-14-g43",
+    "stem": "[43~45] 밑줄 친 ①~⑤ 중에서 가리키는 대상이 나머지 넷과 다른 것을 고르시오.",
+    "passage": "(A) Hana joined the school science club in March. At the first meeting, the teacher, Mr. Oh, gave each member a small plant and asked them to record its growth for a month. {1|He} said that the best record would be displayed in the hall.\n(B) After a month, she had thirty stars and a clear graph. {2|She} showed the notebook to Mr. Oh with a proud smile.\n(C) Mr. Oh was impressed and put her notebook on the display board in the hall. {3|She} felt that all her effort had been worth it.\n(D) At first, Hana often forgot to write in her notebook. {4|She} decided to put a small calendar beside the plant, and {5|she} marked every measurement with a star.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "①의 He는 기록이 전시될 것이라고 말한 오 선생님이고, 나머지 ②③④⑤는 모두 하나를 가리킵니다.",
+    "optionNotes": [
+      "정답. He는 기록이 전시될 것이라고 말한 오 선생님입니다.",
+      "She는 공책을 보여 드린 하나입니다.",
+      "She는 노력이 가치 있었다고 느낀 하나입니다.",
+      "She는 달력을 두기로 한 하나입니다.",
+      "she는 별 표시를 한 하나입니다."
+    ],
+    "trap": "①은 문장 앞에 나온 'the teacher, Mr. Oh'를 받습니다.",
+    "tip": "성별이 다른 인물이 나오면 대명사의 성별과 직전 주어를 확인하세요."
+  },
+  {
+    "id": "m2-14-45",
+    "level": "m2",
+    "set": "mock-14",
+    "no": 45,
+    "type": "long",
+    "group": "m2-14-g43",
+    "stem": "[43~45] 윗글에 관한 내용으로 적절하지 않은 것을 고르시오.",
+    "passage": "(A) Hana joined the school science club in March. At the first meeting, the teacher, Mr. Oh, gave each member a small plant and asked them to record its growth for a month. {1|He} said that the best record would be displayed in the hall.\n(B) After a month, she had thirty stars and a clear graph. {2|She} showed the notebook to Mr. Oh with a proud smile.\n(C) Mr. Oh was impressed and put her notebook on the display board in the hall. {3|She} felt that all her effort had been worth it.\n(D) At first, Hana often forgot to write in her notebook. {4|She} decided to put a small calendar beside the plant, and {5|she} marked every measurement with a star.",
+    "options": [
+      "하나는 식물 대신 곤충을 관찰했다.",
+      "오 선생님은 부원들에게 작은 식물을 나눠 주었다.",
+      "하나는 달력을 이용해 측정 기록을 관리했다.",
+      "하나는 한 달 뒤 선명한 그래프를 갖게 되었다.",
+      "오 선생님은 하나의 공책을 복도 전시판에 붙였다."
+    ],
+    "answer": 0,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "하나는 작은 식물의 성장을 기록했으므로 곤충을 관찰했다는 ①은 일치하지 않습니다.",
+    "optionNotes": [
+      "정답(불일치). 하나가 기록한 것은 식물의 성장입니다.",
+      "gave each member a small plant와 일치합니다.",
+      "put a small calendar beside the plant와 일치합니다.",
+      "thirty stars and a clear graph와 일치합니다.",
+      "put her notebook on the display board와 일치합니다."
+    ],
+    "trap": "과학 동아리라는 배경에서 곤충 관찰을 떠올려 일치한다고 착각하기 쉽습니다.",
+    "tip": "불일치 문제는 대상(plant)을 바꾼 보기를 찾으세요."
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m2-14-29",
+    "level": "m2",
+    "set": "mock-14",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "The old photos {1|taken} by my grandfather are now displayed in the city hall. People who {2|visits} the exhibition can see how our town {3|looked} fifty years ago. Some of the photos {4|are} very rare, and many visitors {5|are} surprised.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "할아버지가 찍으신 오래된 사진들이 지금 시청에 전시되어 있다. 전시를 방문하는 사람들은 우리 마을이 50년 전에 어떻게 보였는지 볼 수 있다. 일부 사진은 매우 희귀해서 많은 방문객이 놀란다.",
+    "why": "선행사 'People'이 복수이므로 관계대명사절의 동사는 'visits'가 아니라 'visit'이어야 합니다.",
+    "optionNotes": [
+      "'사진들이 찍힌'의 과거분사 taken이 알맞습니다.",
+      "정답(틀린 것). 선행사 People에 맞춰 visit이어야 합니다.",
+      "과거 시점(fifty years ago)에 맞는 looked입니다.",
+      "복수 주어 photos에 맞는 are입니다.",
+      "복수 주어 visitors에 맞는 are입니다."
+    ],
+    "trap": "관계대명사 바로 앞의 단수 명사(photos의 영향)에 이끌려 수 일치를 놓치기 쉽습니다.",
+    "tip": "관계대명사절의 동사는 선행사의 수에 일치시키세요."
+  },
+  {
+    "id": "m2-14-30",
+    "level": "m2",
+    "set": "mock-14",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Many people think that fast food is {1|cheap} and convenient. But eating it too often can be {2|harmful} to your health. Preparing meals at home lets you {3|control} what goes into your food. It may take more time at first. But in the long run cooking at home is usually more {4|expensive}, so you can save money. It can also make your diet {5|healthier}.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "많은 사람들은 패스트푸드가 저렴하고 편리하다고 생각한다. 하지만 너무 자주 먹으면 건강에 해로울 수 있다. 집에서 식사를 준비하면 음식에 무엇이 들어가는지 조절할 수 있다. 처음에는 시간이 더 걸릴 수 있다. 하지만 장기적으로는 집에서 요리하는 것이 보통 더 저렴해서 돈을 아낄 수 있다. 식단도 더 건강하게 만들 수 있다.",
+    "why": "돈을 아낄 수 있다고 했으므로 집에서 요리하는 것이 'expensive'가 아니라 'cheaper'여야 합니다.",
+    "optionNotes": [
+      "저렴하다는 의미로 cheap이 알맞습니다.",
+      "해롭다는 의미로 harmful이 알맞습니다.",
+      "조절한다는 의미로 control이 알맞습니다.",
+      "정답(부적절). 돈을 아낀다는 맥락이므로 cheaper여야 합니다.",
+      "더 건강하다는 의미로 healthier가 알맞습니다."
+    ],
+    "trap": "'more expensive'가 문법적으로 자연스러워 보이지만 뒤의 'save money'와 모순됩니다.",
+    "tip": "쉼표 뒤의 결과(so you can save money)와 앞 낱말이 이어지는지 확인하세요."
+  },
+  {
+    "id": "m2-14-31",
+    "level": "m2",
+    "set": "mock-14",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Elephants live in family groups led by the oldest female, called the matriarch. During long dry seasons, she remembers where water was found many years ago and leads the herd there. She also knows which sounds mean danger and which plants are safe to eat. Younger elephants watch her carefully and learn from her decisions. Because of this, the herd depends on her as __________.",
+    "options": [
+      "a toy for play",
+      "a slow traveler",
+      "a rival for food",
+      "a living map that guides the whole herd",
+      "a stranger to the group"
+    ],
+    "answer": 3,
+    "translation": "코끼리는 가장 나이 많은 암컷인 우두머리가 이끄는 가족 집단으로 산다. 긴 건기 동안 그녀는 오래전 물을 찾았던 곳을 기억해 무리를 그곳으로 이끈다. 그녀는 어떤 소리가 위험을 뜻하는지, 어떤 식물이 먹어도 안전한지도 안다. 어린 코끼리들은 그녀를 주의 깊게 지켜보며 그녀의 결정에서 배운다. 이 때문에 무리는 그녀를 무리 전체를 이끄는 살아 있는 지도로 삼는다.",
+    "why": "물이 있는 곳과 위험을 기억해 무리를 이끈다고 했으므로 '살아 있는 지도'가 알맞습니다.",
+    "optionNotes": [
+      "장난감 이야기는 없습니다.",
+      "느린 여행자라는 내용은 없습니다.",
+      "먹이 경쟁 상대라는 내용은 없습니다.",
+      "정답. 무리 전체를 이끄는 살아 있는 지도입니다.",
+      "낯선 존재라는 내용은 글과 반대입니다."
+    ],
+    "trap": "앞 문장들이 모두 우두머리의 역할을 설명한다는 점을 놓치지 마세요.",
+    "tip": "빈칸 앞의 구체적인 예들을 하나의 표현으로 요약하세요."
+  },
+  {
+    "id": "m2-14-32",
+    "level": "m2",
+    "set": "mock-14",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In one study, people who only imagined playing a short piece on the piano improved a lot. They improved almost as much as those who actually practiced it. Brain scans showed that similar areas of the brain became active in both groups. This suggests that the brain __________ imagined actions and real ones in a similar way. Many athletes use this method before a big match.",
+    "options": [
+      "ignores",
+      "hides",
+      "forgets",
+      "avoids",
+      "treats"
+    ],
+    "answer": 4,
+    "translation": "한 연구에서 짧은 곡을 연주하는 것을 상상하기만 한 사람들은 크게 향상되었다. 그들은 실제로 연습한 사람들만큼이나 향상되었다. 뇌 스캔은 두 집단 모두에서 뇌의 비슷한 부위가 활성화됨을 보여 주었다. 이는 뇌가 상상한 행동과 실제 행동을 비슷하게 다룬다는 것을 시사한다. 많은 운동선수가 큰 경기 전에 이 방법을 사용한다.",
+    "why": "비슷한 부위가 활성화되었다고 했으므로 상상과 실제를 비슷하게 '다룬다(treats)'가 알맞습니다.",
+    "optionNotes": [
+      "무시한다는 내용은 글과 반대입니다.",
+      "숨긴다는 내용은 없습니다.",
+      "잊는다는 내용은 없습니다.",
+      "피한다는 내용은 없습니다.",
+      "정답. 비슷하게 다룹니다."
+    ],
+    "trap": "'imagined'라는 낱말 때문에 부정적인 동사를 고르지 마세요.",
+    "tip": "앞 문장(similar areas became active)이 빈칸의 방향을 알려 줍니다."
+  },
+  {
+    "id": "m2-14-33",
+    "level": "m2",
+    "set": "mock-14",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Silence is not empty. In a conversation, a short pause gives listeners time to think about what they have just heard. Skilled speakers use pauses on purpose. Before an important point, they stop for a moment and look at the audience. People then lean forward and listen more closely. Beginners are often afraid of silence and fill every gap with words. In this way, a pause can __________ the message that follows.",
+    "options": [
+      "completely ignore",
+      "emphasize",
+      "forget",
+      "delay",
+      "weaken"
+    ],
+    "answer": 1,
+    "translation": "침묵은 비어 있지 않다. 대화에서 짧은 멈춤은 청자에게 방금 들은 것을 생각할 시간을 준다. 능숙한 연설가는 일부러 멈춤을 사용한다. 중요한 요점 앞에서 잠시 멈추고 청중을 바라본다. 그러면 사람들이 몸을 앞으로 기울이고 더 주의 깊게 듣는다. 초보자는 흔히 침묵을 두려워해 모든 틈을 말로 채운다. 이렇게 멈춤은 뒤따르는 메시지를 강조할 수 있다.",
+    "why": "멈춤 뒤에 사람들이 더 주의 깊게 듣는다고 했으므로 메시지를 강조한다(emphasize)가 알맞습니다.",
+    "optionNotes": [
+      "완전히 무시한다는 내용은 글과 반대입니다.",
+      "정답. 뒤따르는 메시지를 강조합니다.",
+      "잊게 한다는 내용은 없습니다.",
+      "지연시킨다는 내용은 없습니다.",
+      "약화한다는 내용은 글과 반대입니다."
+    ],
+    "trap": "'pause'의 일반적인 의미(중단)에 이끌려 부정적인 동사를 고르지 마세요.",
+    "tip": "멈춤 뒤의 청중의 반응(listen more closely)이 단서입니다."
+  },
+  {
+    "id": "m2-14-34",
+    "level": "m2",
+    "set": "mock-14",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Composting turns kitchen waste, such as fruit peels and coffee grounds, into rich soil. Instead of throwing food scraps into the trash, you put them in a special bin with dry leaves. After a few months, tiny organisms break the waste down. The result can be used in gardens. By composting at home, a family can __________ the amount of garbage sent to landfills.",
+    "options": [
+      "double",
+      "ignore",
+      "reduce",
+      "increase",
+      "hide"
+    ],
+    "answer": 2,
+    "translation": "퇴비 만들기는 과일 껍질과 커피 찌꺼기 같은 주방 쓰레기를 기름진 흙으로 바꾼다. 음식물 찌꺼기를 쓰레기통에 버리는 대신 마른 잎과 함께 특별한 통에 넣는다. 몇 달 뒤 작은 생물이 쓰레기를 분해한다. 그 결과물은 정원에서 쓸 수 있다. 집에서 퇴비를 만들면 가족은 매립지로 보내는 쓰레기의 양을 줄일 수 있다.",
+    "why": "음식물 쓰레기가 흙이 되므로 매립지로 보내는 쓰레기의 양을 줄일 수 있습니다.",
+    "optionNotes": [
+      "두 배로 한다는 내용은 글과 반대입니다.",
+      "무시한다는 내용은 없습니다.",
+      "정답. 쓰레기의 양을 줄입니다.",
+      "늘린다는 내용은 글과 반대입니다.",
+      "숨긴다는 내용은 없습니다."
+    ],
+    "trap": "'amount'와 어울리는 증가 동사(increase, double)를 반사적으로 고르지 마세요.",
+    "tip": "앞 문장의 과정(Instead of throwing ... trash)이 결과의 방향을 정합니다."
+  },
+  {
+    "id": "m2-14-35",
+    "level": "m2",
+    "set": "mock-14",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Cooking with children can teach them many useful skills. ① They learn to measure and count while following a recipe. ② They also practice patience as they wait for food to be ready. ③ Working together in the kitchen builds teamwork and confidence. ④ Children who help prepare meals are often more willing to try new foods. ⑤ Many airports now offer free Wi-Fi to travelers.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "아이들과 함께 요리하면 많은 유용한 기술을 가르칠 수 있다. ① 아이들은 조리법을 따르며 재고 세는 법을 배운다. ② 음식이 준비되기를 기다리며 인내심도 기른다. ③ 주방에서 함께 일하면 협동심과 자신감이 길러진다. ④ 식사 준비를 돕는 아이들은 새로운 음식을 먹어 보려는 의지가 더 큰 경우가 많다. ⑤ 많은 공항이 이제 여행객에게 무료 와이파이를 제공한다.",
+    "why": "글은 아이들과 요리할 때의 이점을 말하는데 ⑤는 공항 와이파이 이야기라 관계가 없습니다.",
+    "optionNotes": [
+      "요리의 이점입니다.",
+      "요리의 이점입니다.",
+      "요리의 이점입니다.",
+      "요리의 이점입니다.",
+      "정답(무관). 공항 와이파이 이야기입니다."
+    ],
+    "trap": "마지막 문장이 새로운 정보처럼 보여 결론으로 착각하기 쉽습니다.",
+    "tip": "주제(아이들과 요리의 이점)와 이어지지 않는 문장을 고르세요."
+  },
+  {
+    "id": "m2-14-36",
+    "level": "m2",
+    "set": "mock-14",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Every year, sea turtles return to the beach where they were born.\n(A) Once the eggs hatch, the baby turtles crawl toward the sea. They follow the bright moonlight on the water.\n(B) A mother turtle climbs up the beach and digs a deep hole in the sand. She lays about a hundred eggs in it.\n(C) She then covers the hole carefully with sand. After that, she goes back to the ocean without waiting.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 2,
+    "translation": "해마다 바다거북은 자신이 태어난 해변으로 돌아온다. (B) 어미 거북은 해변으로 올라가 모래에 깊은 구멍을 판다. 그 안에 약 백 개의 알을 낳는다. (C) 그런 다음 구멍을 모래로 조심스럽게 덮는다. 그 후 기다리지 않고 바다로 돌아간다. (A) 알이 부화하면 새끼 거북은 바다를 향해 기어간다. 그들은 물 위의 밝은 달빛을 따라간다.",
+    "why": "(B) 구멍을 파고 알을 낳음 → (C) 덮고 떠남 → (A) 부화 후 바다로 이동 순서입니다.",
+    "optionNotes": [
+      "(A)의 'the eggs'가 가리킬 알이 앞에 없습니다.",
+      "(A)가 (C)보다 앞서면 알을 덮기 전에 부화합니다.",
+      "정답. 알 낳기 → 덮고 떠남 → 부화.",
+      "(C)의 'She'가 가리킬 거북이 앞에 없습니다.",
+      "(C)의 'She'가 가리킬 거북이 앞에 없습니다."
+    ],
+    "trap": "(A)의 'the eggs'는 (B)에서 낳은 알을 가리킵니다.",
+    "tip": "정관사(the)와 대명사(She)가 가리키는 앞 문장을 확인하세요."
+  },
+  {
+    "id": "m2-14-37",
+    "level": "m2",
+    "set": "mock-14",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "A new student named Daniel joined our class last week.\n(A) Seeing this, I invited him to sit at our table during lunch. He looked a little surprised, but he smiled.\n(B) On the first day, he looked very nervous. He did not speak to anyone and ate his lunch alone.\n(C) Now he laughs with us and even shares his snacks. I am glad that I spoke to him first.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 1,
+    "translation": "지난주에 다니엘이라는 전학생이 우리 반에 왔다. (B) 첫날 그는 매우 긴장해 보였다. 그는 아무에게도 말하지 않았고 혼자 점심을 먹었다. (A) 이를 보고 나는 점심시간에 그를 우리 식탁에 앉도록 초대했다. 그는 조금 놀란 듯했지만 미소 지었다. (C) 이제 그는 우리와 웃고 간식도 나눈다. 내가 먼저 말을 걸어서 기쁘다.",
+    "why": "(B) 첫날의 모습 → (A) 'Seeing this' 초대 → (C) 지금의 모습 순서입니다.",
+    "optionNotes": [
+      "(A)의 'this'가 가리킬 상황이 앞에 없습니다.",
+      "정답. 첫날 → 초대 → 지금.",
+      "(C)의 'Now'가 (A)보다 앞설 수 없습니다.",
+      "(C)의 'Now'가 처음에 올 수 없습니다.",
+      "(C)의 'Now'가 처음에 올 수 없습니다."
+    ],
+    "trap": "(A)의 'Seeing this'는 (B)의 혼자 점심 먹는 모습을 가리킵니다.",
+    "tip": "'On the first day → Seeing this → Now'의 시간 흐름을 따라가세요."
+  },
+  {
+    "id": "m2-14-38",
+    "level": "m2",
+    "set": "mock-14",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nIn fact, a single large old tree can store as much carbon as hundreds of young trees.\n\n[글]\n( ① ) Many people believe that old trees are weak and no longer useful. ( ② ) However, scientists have found that the opposite is true. ( ③ ) Old trees store a huge amount of carbon. ( ④ ) They also provide homes for birds, insects, and small mammals. ( ⑤ ) For this reason, cutting down an old forest is more harmful than most people imagine.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "[주어진 문장] 사실 큰 고목 한 그루는 어린 나무 수백 그루만큼의 탄소를 저장할 수 있다. [글] 많은 사람은 오래된 나무가 약하고 더는 쓸모없다고 믿는다. 그러나 과학자들은 그 반대가 사실임을 발견했다. 오래된 나무는 엄청난 양의 탄소를 저장한다. 사실 큰 고목 한 그루는 어린 나무 수백 그루만큼의 탄소를 저장할 수 있다. 또한 새, 곤충, 작은 포유류에게 보금자리를 제공한다. 이런 이유로 오래된 숲을 베는 것은 대부분의 사람이 생각하는 것보다 더 해롭다.",
+    "why": "'In fact'는 앞 문장(탄소를 저장한다)을 구체적으로 보충하므로 ③ 뒤인 ④에 들어갑니다.",
+    "optionNotes": [
+      "탄소 이야기가 나오기 전입니다.",
+      "탄소 이야기가 나오기 전입니다.",
+      "탄소 문장 앞이라 'In fact'의 연결 대상이 없습니다.",
+      "정답. 탄소 저장 문장을 구체적으로 보충합니다.",
+      "'homes' 이야기 뒤라 탄소 문장과 연결되지 않습니다."
+    ],
+    "trap": "⑤ 앞에서도 가능해 보이지만 'In fact'는 탄소 문장 바로 뒤에서 이어집니다.",
+    "tip": "'In fact'는 바로 앞 문장의 내용을 구체화합니다."
+  },
+  {
+    "id": "m2-14-39",
+    "level": "m2",
+    "set": "mock-14",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nBecause of this, many of them feel anxious and refuse to eat or sleep.\n\n[글]\n( ① ) Many children visit hospitals for treatment every year. ( ② ) The rooms are filled with strange machines and unfamiliar people. ( ③ ) To help them relax, some hospitals invite trained therapy dogs to visit the children. ( ④ ) Children who play with the dogs often smile more and talk more with the nurses. ( ⑤ ) Doctors say that this makes the treatment go more smoothly.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 이 때문에 많은 아이가 불안해하며 먹거나 자기를 거부한다. [글] 매년 많은 어린이가 치료를 위해 병원을 찾는다. 병실은 낯선 기계와 낯선 사람들로 가득하다. 이 때문에 많은 아이가 불안해하며 먹거나 자기를 거부한다. 아이들이 긴장을 풀도록 일부 병원은 훈련받은 치료견을 초대해 아이들을 방문하게 한다. 개와 노는 아이들은 더 자주 웃고 간호사와도 더 많이 이야기한다. 의사들은 이것이 치료를 더 순조롭게 한다고 말한다.",
+    "why": "'Because of this'는 앞의 원인(낯선 기계와 사람들)에 대한 결과이므로 ② 뒤인 ③에 들어갑니다.",
+    "optionNotes": [
+      "원인이 나오기 전입니다.",
+      "원인(strange machines)이 나오기 전이라 'this'가 가리킬 대상이 부족합니다.",
+      "정답. 낯선 환경이라는 원인 뒤에 결과가 이어집니다.",
+      "도움 방법이 나온 뒤라 어색합니다.",
+      "결과가 나온 뒤라 어색합니다."
+    ],
+    "trap": "'To help them relax'는 불안이라는 결과를 전제로 하므로 given 문장은 그 앞에 있어야 합니다.",
+    "tip": "'Because of this'는 바로 앞 문장이 원인일 때 놓입니다."
+  },
+  {
+    "id": "m2-14-40",
+    "level": "m2",
+    "set": "mock-14",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Researchers compared two groups of students in a lecture. One group took notes by hand, and the other group typed on laptops. The next day, the students who wrote by hand remembered the main ideas better. Typing is fast, so the laptop users copied almost every word without thinking. In contrast, the students who wrote by hand could not write everything. They had to choose and shorten the important points.\n\n▶ Students who took notes (A) remembered more, because writing slowly forced them to (B) the main ideas.",
+    "options": [
+      "(A) on laptops — (B) copy",
+      "(A) in a hurry — (B) forget",
+      "(A) without a pen — (B) ignore",
+      "(A) by hand — (B) summarize",
+      "(A) at night — (B) repeat"
+    ],
+    "answer": 3,
+    "translation": "연구자들은 강의에서 두 학생 집단을 비교했다. 한 집단은 손으로 필기했고 다른 집단은 노트북으로 타자를 쳤다. 다음 날 손으로 쓴 학생들이 주요 내용을 더 잘 기억했다. 타자는 빠르기 때문에 노트북 사용자는 생각 없이 거의 모든 단어를 베꼈다. 반면 손으로 쓴 학생들은 모든 것을 쓸 수 없었다. 그들은 중요한 점을 골라 줄여야 했다. ▶ 손으로 필기한 학생들은 천천히 쓰는 것이 주요 내용을 요약하게 했기 때문에 더 많이 기억했다.",
+    "why": "손으로 쓴 학생이 중요한 점을 골라 줄여야 했으므로 (A)는 by hand, (B)는 summarize입니다.",
+    "optionNotes": [
+      "노트북 사용자는 베끼기만 했습니다.",
+      "in a hurry와 forget은 글과 맞지 않습니다.",
+      "without a pen과 ignore는 글과 맞지 않습니다.",
+      "정답. 손으로 쓰며 요약하게 됩니다.",
+      "at night과 repeat은 글에 나오지 않습니다."
+    ],
+    "trap": "(A)에서 laptops를 고르면 '더 많이 기억했다'와 모순됩니다.",
+    "tip": "요약문은 결과(remembered more)를 낳은 집단과 원인을 짝지어 찾으세요."
+  }
+]

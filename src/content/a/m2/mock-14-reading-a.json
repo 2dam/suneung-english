@@ -1,0 +1,333 @@
+[
+  {
+    "id": "m2-14-18",
+    "level": "m2",
+    "set": "mock-14",
+    "no": 18,
+    "type": "purpose",
+    "stem": "다음 글을 쓴 목적으로 가장 적절한 것은?",
+    "passage": "Dear Mr. Brown,\nI am a student at Hanbit Middle School. Our class is planning a field trip to your science museum on June 12. There will be twenty-eight students and two teachers. I would like to ask whether we can get a group discount and whether a guide is available for our class. I would also like to know where we can eat lunch. I look forward to your reply.\nSincerely,\nJina Park",
+    "options": [
+      "단체 관람 할인과 안내 가능 여부를 문의하려고",
+      "박물관 소장품을 학교에 기증하겠다고 제안하려고",
+      "견학 일정 취소를 통보하려고",
+      "박물관 직원 채용 공고를 보고 지원하려고",
+      "분실물 습득 사실을 알리려고"
+    ],
+    "answer": 0,
+    "translation": "브라운 씨께. 저는 한빛 중학교 학생입니다. 저희 반은 6월 12일에 귀 과학 박물관으로 현장 체험학습을 갈 계획입니다. 학생 28명과 교사 2명이 갑니다. 단체 할인을 받을 수 있는지, 그리고 저희 반을 위한 안내자가 있는지 문의드리고 싶습니다. 점심을 먹을 수 있는 곳도 알고 싶습니다. 답장을 기다리겠습니다. 박지나 드림.",
+    "why": "단체 할인과 안내자 여부를 묻는 문의 편지입니다.",
+    "optionNotes": [
+      "정답. 할인과 안내 가능 여부를 문의합니다.",
+      "기증 제안은 나오지 않습니다.",
+      "취소 통보가 아닙니다.",
+      "채용 지원이 아닙니다.",
+      "분실물 이야기는 나오지 않습니다."
+    ],
+    "trap": "점심 장소 질문은 부수적인 문의입니다.",
+    "tip": "목적 문제는 'I would like to ask ~' 문장을 찾으세요."
+  },
+  {
+    "id": "m2-14-19",
+    "level": "m2",
+    "set": "mock-14",
+    "no": 19,
+    "type": "mood",
+    "stem": "다음 글에 드러난 Amy의 심경 변화로 가장 적절한 것은?",
+    "passage": "Amy had practiced the piano every day for three months. Now she sat in the dark hall, and her palms were wet. The judges were about to announce the winner. \"The first prize goes to ...\" The hall became silent. Amy held her breath and closed her eyes. \"Amy Choi!\" She opened her eyes and could not stop smiling. Her mother ran up to hug her.",
+    "options": [
+      "bored → annoyed",
+      "anxious → delighted",
+      "curious → disappointed",
+      "proud → embarrassed",
+      "relieved → jealous"
+    ],
+    "answer": 1,
+    "translation": "에이미는 석 달 동안 매일 피아노를 연습했다. 이제 그녀는 어두운 강당에 앉아 있었고 손바닥이 축축했다. 심사위원들이 우승자를 발표하려는 참이었다. \"1등상은 ...\" 강당이 조용해졌다. 에이미는 숨을 참고 눈을 감았다. \"에이미 최!\" 그녀는 눈을 뜨고 미소를 멈출 수 없었다. 어머니가 달려와 그녀를 안았다.",
+    "why": "결과를 기다리며 불안해하다가(anxious), 우승자로 호명되어 매우 기뻐했습니다(delighted).",
+    "optionNotes": [
+      "지루함에서 짜증이 아닙니다.",
+      "정답. 불안에서 기쁨으로 변했습니다.",
+      "호기심에서 실망이 아닙니다.",
+      "자랑스러움에서 당황이 아닙니다.",
+      "안도에서 질투가 아닙니다."
+    ],
+    "trap": "조용해진 장면(The hall became silent)만 보고 실망으로 판단하지 마세요.",
+    "tip": "처음의 신체 반응(wet palms)과 마지막 반응(smiling)을 비교하세요."
+  },
+  {
+    "id": "m2-14-20",
+    "level": "m2",
+    "set": "mock-14",
+    "no": 20,
+    "type": "claim",
+    "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+    "passage": "Today, news spreads faster than ever. A single post can be shared by thousands of people in a few minutes, but not all of it is true. Some posts are written only to get more clicks, and others contain only part of the story. If we believe the first thing we see, we may share false information without knowing it. So we should compare news from several sources before we decide what is true.",
+    "options": [
+      "사실을 판단하려면 여러 출처의 뉴스를 비교해서 읽어야 한다.",
+      "뉴스는 빠르게 공유할수록 좋다.",
+      "온라인 게시물은 읽지 않는 것이 좋다.",
+      "신문 기사만 믿어야 한다.",
+      "많이 공유된 소식이 가장 정확하다."
+    ],
+    "answer": 0,
+    "translation": "오늘날 뉴스는 그 어느 때보다 빠르게 퍼진다. 하나의 게시물이 몇 분 만에 수천 명에게 공유될 수 있지만 모두 사실은 아니다. 일부 게시물은 클릭 수를 늘리려고만 쓰이고, 다른 것은 이야기의 일부만 담고 있다. 처음 본 것을 믿으면 알지 못한 채 거짓 정보를 공유할 수 있다. 그러므로 무엇이 사실인지 판단하기 전에 여러 출처의 뉴스를 비교해야 한다.",
+    "why": "마지막 문장 'we should compare news from several sources'가 필자의 주장입니다.",
+    "optionNotes": [
+      "정답. 여러 출처를 비교해서 읽어야 합니다.",
+      "빠른 공유는 글에서 문제로 지적됩니다.",
+      "게시물을 읽지 말라는 내용은 없습니다.",
+      "신문만 믿으라는 내용은 없습니다.",
+      "공유 횟수와 정확성은 관계가 없다고 봅니다."
+    ],
+    "trap": "둘째 문장의 'shared by thousands'를 긍정으로 오해하지 마세요.",
+    "tip": "주장 문제는 'So we should ~' 문장을 찾으세요."
+  },
+  {
+    "id": "m2-14-21",
+    "level": "m2",
+    "set": "mock-14",
+    "no": 21,
+    "type": "implied",
+    "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "passage": "On the first day of class, nobody spoke, and the room felt tense. Then Ms. Kim said, \"Let's play a short game.\" The game helped us {u|break the ice}. Soon everyone was laughing and talking.",
+    "options": [
+      "to break a frozen lake so that people can skate safely",
+      "to cool a drink with ice quickly",
+      "to make a cold room warmer",
+      "to hide a mistake from others",
+      "to make an awkward situation relaxed"
+    ],
+    "answer": 4,
+    "translation": "수업 첫날 아무도 말하지 않았고 교실은 긴장되어 있었다. 그때 김 선생님이 \"짧은 게임을 해 봅시다.\"라고 말했다. 그 게임은 어색한 분위기를 깨는 데 도움이 되었다. 곧 모두가 웃고 이야기했다.",
+    "why": "게임 후 모두가 웃고 이야기했으므로 'break the ice'는 어색한 분위기를 풀다라는 뜻입니다.",
+    "optionNotes": [
+      "얼음을 깬다는 문자 그대로의 뜻이 아닙니다.",
+      "음료를 식힌다는 뜻이 아닙니다.",
+      "방을 따뜻하게 한다는 뜻이 아닙니다.",
+      "실수를 숨긴다는 뜻이 아닙니다.",
+      "정답. 어색한 분위기를 풀어 준다는 뜻입니다."
+    ],
+    "trap": "'ice'를 문자 그대로 해석하지 마세요.",
+    "tip": "관용 표현은 뒤 문장(laughing and talking)에서 의미를 확인하세요."
+  },
+  {
+    "id": "m2-14-22",
+    "level": "m2",
+    "set": "mock-14",
+    "no": 22,
+    "type": "gist",
+    "stem": "다음 글의 요지로 가장 적절한 것은?",
+    "passage": "Many people write New Year's resolutions, but few keep them. Researchers say that the problem is often not a lack of will but a lack of clarity. People who write down specific goals, such as \"run twice a week,\" are much more likely to succeed. People who only keep vague goals in their heads often fail. Writing also helps you check your progress and adjust your plan.",
+    "options": [
+      "새해 결심은 매년 같은 목표로 세우는 것이 가장 효과적이다.",
+      "결심을 지키지 못하는 것은 의지가 약해서이다.",
+      "구체적인 목표를 글로 적으면 달성 가능성이 높아진다.",
+      "목표는 머릿속에만 두는 것이 좋다.",
+      "운동은 일주일에 두 번만 하면 충분하다."
+    ],
+    "answer": 2,
+    "translation": "많은 사람이 새해 결심을 쓰지만 지키는 사람은 적다. 연구자들은 문제가 의지 부족이 아니라 명확함의 부족인 경우가 많다고 말한다. '일주일에 두 번 달리기'처럼 구체적인 목표를 적는 사람은 성공할 가능성이 훨씬 높다. 막연한 목표를 머릿속에만 두는 사람은 흔히 실패한다. 글로 쓰면 진행 상황을 확인하고 계획을 조정하는 데도 도움이 된다.",
+    "why": "구체적인 목표를 적는 사람이 성공 가능성이 높다는 것이 요지입니다.",
+    "optionNotes": [
+      "같은 목표 반복은 나오지 않습니다.",
+      "의지 부족이 아니라 명확함 부족이라고 합니다.",
+      "정답. 구체적인 목표를 적으면 성공 가능성이 높아집니다.",
+      "글과 반대입니다.",
+      "운동은 예시일 뿐입니다."
+    ],
+    "trap": "예시('run twice a week')를 요지로 착각하지 마세요.",
+    "tip": "'not A but B' 구문에서는 B와 이어지는 해결책이 요지입니다."
+  },
+  {
+    "id": "m2-14-23",
+    "level": "m2",
+    "set": "mock-14",
+    "no": 23,
+    "type": "topic",
+    "stem": "다음 글의 주제로 가장 적절한 것은?",
+    "passage": "Scientists have long wondered why zebras have stripes. Recent experiments suggest that the stripes may protect them from biting flies. Flies find it hard to land on striped surfaces, because the pattern confuses their eyesight as they approach. In tests, horses wearing striped coats were bitten far less than horses wearing plain coats. This is important because biting flies can spread serious diseases among animals.",
+    "options": [
+      "why zebras run faster than horses in the wild and across the plains",
+      "where zebras find water in dry seasons",
+      "how stripes may protect zebras from flies",
+      "what zebras eat during the rainy season",
+      "how horses and zebras became friends"
+    ],
+    "answer": 2,
+    "translation": "과학자들은 오랫동안 얼룩말에게 줄무늬가 있는 이유를 궁금해했다. 최근 실험은 줄무늬가 물어뜯는 파리로부터 얼룩말을 보호할 수 있음을 시사한다. 파리는 줄무늬 표면에 앉기 어려워하는데, 접근할 때 무늬가 시각을 혼란스럽게 하기 때문이다. 실험에서 줄무늬 옷을 입힌 말은 무늬 없는 옷을 입은 말보다 훨씬 적게 물렸다. 이는 물어뜯는 파리가 동물들 사이에 심각한 질병을 퍼뜨릴 수 있어 중요하다.",
+    "why": "줄무늬가 파리로부터 얼룩말을 보호할 수 있다는 실험 결과를 설명하는 글입니다.",
+    "optionNotes": [
+      "달리기 속도는 나오지 않습니다.",
+      "물을 찾는 방법은 나오지 않습니다.",
+      "정답. 줄무늬가 파리로부터 보호할 수 있습니다.",
+      "먹이는 나오지 않습니다.",
+      "말과 얼룩말의 우정은 나오지 않습니다."
+    ],
+    "trap": "'horses'가 나온다고 ⑤를 고르지 마세요. 말은 실험 비교 대상일 뿐입니다.",
+    "tip": "주제는 글 전체가 설명하는 현상과 이유를 담은 보기를 고르세요."
+  },
+  {
+    "id": "m2-14-24",
+    "level": "m2",
+    "set": "mock-14",
+    "no": 24,
+    "type": "title",
+    "stem": "다음 글의 제목으로 가장 적절한 것은?",
+    "passage": "In a busy subway station in Seoul, commuters can buy books from a vending machine. Instead of snacks, the machine offers novels, poetry, and children's books at low prices. The idea started with a local bookstore owner. He noticed that many people wanted to read but had no time to visit shops. Now thousands of books are sold from the machines every month. Some commuters read them during their ride home.",
+    "options": [
+      "The Long History of Printing Presses in Korea and Japan Around the World",
+      "Books from a Vending Machine for Busy Commuters",
+      "A Healthy Snack for Your Subway Ride",
+      "Why Bookstores Are Closing Everywhere",
+      "Tips for Reading Faster"
+    ],
+    "answer": 1,
+    "translation": "서울의 붐비는 지하철역에서 통근자들은 자판기에서 책을 살 수 있다. 과자 대신 그 기계는 소설, 시, 어린이책을 저렴한 가격에 제공한다. 이 아이디어는 한 동네 서점 주인에게서 시작되었다. 그는 책을 읽고 싶어 하지만 서점에 갈 시간이 없는 사람이 많다는 것을 알아차렸다. 이제 매달 수천 권의 책이 그 기계에서 팔린다. 일부 통근자는 집으로 가는 길에 읽는다.",
+    "why": "바쁜 통근자를 위한 책 자판기를 소개하는 글이므로 ②가 제목입니다.",
+    "optionNotes": [
+      "인쇄의 역사는 나오지 않습니다.",
+      "정답. 바쁜 통근자를 위한 책 자판기입니다.",
+      "건강 간식은 나오지 않습니다.",
+      "서점이 문을 닫는 이유는 나오지 않습니다.",
+      "빨리 읽는 법은 나오지 않습니다."
+    ],
+    "trap": "'Instead of snacks'를 보고 ③을 고르지 마세요.",
+    "tip": "제목은 핵심 소재(vending machine)와 대상(commuters)을 함께 담으세요."
+  },
+  {
+    "id": "m2-14-25",
+    "level": "m2",
+    "set": "mock-14",
+    "no": 25,
+    "type": "chart",
+    "stem": "다음 도표의 내용과 일치하지 않는 것은?",
+    "chart": {
+      "title": "How Students Spend Weekends (%)",
+      "unit": "%",
+      "labels": [
+        "Sports",
+        "Games",
+        "Reading",
+        "Hobby class",
+        "Others"
+      ],
+      "series": [
+        {
+          "name": "Percent",
+          "values": [
+            35,
+            25,
+            15,
+            10,
+            15
+          ]
+        }
+      ]
+    },
+    "passage": "The graph shows how middle school students in a city spend their weekends. ① Sports is the most popular activity. ② Games is 10 percentage points higher than Reading. ③ Reading is higher than Hobby class. ④ Others accounts for 15 percent. ⑤ The percentage of Hobby class is twice that of Others.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "그래프는 한 도시의 중학생들이 주말을 보내는 방법을 보여 준다. ① 운동이 가장 인기 있는 활동이다. ② 게임은 독서보다 10퍼센트포인트 높다. ③ 독서는 취미 수업보다 높다. ④ 기타는 15퍼센트를 차지한다. ⑤ 취미 수업의 비율은 기타의 두 배이다.",
+    "why": "취미 수업은 10%, 기타는 15%이므로 취미 수업이 기타의 두 배라는 ⑤는 일치하지 않습니다.",
+    "optionNotes": [
+      "운동 35%가 가장 높습니다.",
+      "게임 25%는 독서 15%보다 10퍼센트포인트 높습니다.",
+      "독서 15%는 취미 수업 10%보다 높습니다.",
+      "기타는 15%입니다.",
+      "정답(불일치). 취미 수업(10)은 기타(15)의 두 배가 아닙니다."
+    ],
+    "trap": "'twice'의 기준이 어느 쪽인지 확인하세요.",
+    "tip": "배수 표현은 두 값의 비를 직접 계산해 확인하세요."
+  },
+  {
+    "id": "m2-14-26",
+    "level": "m2",
+    "set": "mock-14",
+    "no": 26,
+    "type": "match",
+    "stem": "Elena Ruiz에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Dr. Elena Ruiz is a marine biologist who studies coral reefs in the Pacific Ocean. She grew up in a small town far from the sea. But she became interested in the ocean after watching a documentary at the age of ten. She now spends about half the year on research boats. In her free time, she visits schools and gives talks about how to protect the ocean.",
+    "options": [
+      "바다 가까운 마을에서 자랐다.",
+      "대학에서 다큐멘터리를 보고 처음 바다에 관심을 갖게 되었다.",
+      "일 년 내내 연구선에서 지낸다.",
+      "산호초 연구 결과를 책으로 출판했다.",
+      "학교를 찾아가 바다 보호에 관한 강연을 한다."
+    ],
+    "answer": 4,
+    "translation": "엘레나 루이스 박사는 태평양의 산호초를 연구하는 해양 생물학자이다. 그녀는 바다에서 멀리 떨어진 작은 마을에서 자랐다. 하지만 열 살 때 다큐멘터리를 보고 바다에 관심을 갖게 되었다. 그녀는 이제 일 년의 절반 정도를 연구선에서 보낸다. 여가 시간에는 학교를 방문해 바다를 보호하는 방법에 관한 강연을 한다.",
+    "why": "'she visits schools and gives talks about how to protect the ocean'과 일치합니다.",
+    "optionNotes": [
+      "바다에서 먼 마을에서 자랐습니다.",
+      "열 살 때 다큐멘터리를 보고 관심을 가졌습니다.",
+      "일 년의 절반을 연구선에서 보냅니다.",
+      "출판 이야기는 나오지 않습니다.",
+      "정답. 학교에서 바다 보호에 관해 강연합니다."
+    ],
+    "trap": "나이(ten)와 시기(college)를 바꾼 ②에 주의하세요.",
+    "tip": "일치 문제는 시기·양(half the year)·장소를 하나씩 대조하세요."
+  },
+  {
+    "id": "m2-14-27",
+    "level": "m2",
+    "set": "mock-14",
+    "no": 27,
+    "type": "notice",
+    "stem": "Neighborhood Clean-Up Day에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Neighborhood Clean-Up Day\nLet's make our town shine!\nDate: Saturday, April 20\nTime: 9:00 a.m. – 12:00 p.m.\nMeeting Point: Central Park main gate\nBring: Work gloves (garbage bags will be provided)\nFree: T-shirts and lunch for all volunteers\nRegister: By April 15 at the community center\nNote: The event will be canceled if it rains.",
+    "options": [
+      "참가하는 자원봉사자에게는 티셔츠와 점심이 무료로 제공된다.",
+      "행사는 오후에 시작한다.",
+      "쓰레기 봉투는 직접 가져와야 한다.",
+      "등록 마감일은 4월 20일이다.",
+      "비가 와도 행사는 열린다."
+    ],
+    "answer": 0,
+    "translation": "동네 청소의 날. 우리 마을을 빛나게 합시다! 날짜: 4월 20일 토요일. 시간: 오전 9시~낮 12시. 모이는 곳: 중앙 공원 정문. 가져올 것: 작업용 장갑(쓰레기봉투는 제공됩니다). 무료: 모든 자원봉사자에게 티셔츠와 점심. 등록: 4월 15일까지 주민센터에서. 유의: 비가 오면 행사는 취소됩니다.",
+    "why": "'Free: T-shirts and lunch for all volunteers'와 일치합니다.",
+    "optionNotes": [
+      "정답. 티셔츠와 점심이 무료로 제공됩니다.",
+      "오전 9시에 시작합니다.",
+      "쓰레기봉투는 제공됩니다.",
+      "등록 마감은 4월 15일입니다.",
+      "비가 오면 취소됩니다."
+    ],
+    "trap": "'Bring'의 장갑과 제공되는 봉투를 혼동하지 마세요.",
+    "tip": "안내문은 항목(Time, Bring, Free, Register, Note)별로 대조하세요."
+  },
+  {
+    "id": "m2-14-28",
+    "level": "m2",
+    "set": "mock-14",
+    "no": 28,
+    "type": "notice",
+    "stem": "Community Garden Rules에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Community Garden Rules\n1. Water your plot in the morning or evening, not at noon.\n2. Do not use chemical pesticides.\n3. Write your name in the logbook before taking vegetables.\n4. Keep the paths clear. Do not leave tools on them.\n5. Dogs are not allowed in the garden.",
+    "options": [
+      "채소를 가져가기 전에 이름을 장부에 적어야 한다.",
+      "물은 한낮에 주는 것이 가장 좋다.",
+      "화학 농약을 사용해도 된다.",
+      "반려견을 데리고 들어올 수 있다.",
+      "정원 길에 사용한 도구를 그대로 놓아 두어도 된다."
+    ],
+    "answer": 0,
+    "translation": "시민 정원 규칙. 1. 구획에는 한낮이 아니라 아침이나 저녁에 물을 주세요. 2. 화학 농약을 사용하지 마세요. 3. 채소를 가져가기 전에 장부에 이름을 적으세요. 4. 길을 비워 두세요. 길에 도구를 두지 마세요. 5. 정원에 개는 들어올 수 없습니다.",
+    "why": "'Write your name in the logbook before taking vegetables.'와 일치합니다.",
+    "optionNotes": [
+      "정답. 채소를 가져가기 전에 이름을 적습니다.",
+      "한낮이 아니라 아침이나 저녁입니다.",
+      "화학 농약은 사용할 수 없습니다.",
+      "개는 들어올 수 없습니다.",
+      "길에 도구를 두면 안 됩니다."
+    ],
+    "trap": "금지 규칙(Do not)을 허용으로 바꾼 보기에 주의하세요.",
+    "tip": "규칙 번호별 내용을 보기와 하나씩 대조하세요."
+  }
+]
