@@ -1,0 +1,333 @@
+[
+  {
+    "id": "m1-18-18",
+    "level": "m1",
+    "set": "mock-18",
+    "no": 18,
+    "type": "purpose",
+    "stem": "다음 글을 쓴 목적으로 가장 적절한 것은?",
+    "passage": "Dear students,\nThe school bazaar will be held on June 8 in the gym. We need things to sell, such as books, toys, and clothes. Please bring items that you do not use anymore to the student council room by June 5. All the money will be given to an animal shelter.\nStudent Council",
+    "options": [
+      "교내 바자회에서 팔 물건을 가져오라고 안내하려고",
+      "동물 보호소에서 일할 자원봉사자를 학생 중에서 모집하려고",
+      "체육관 사용 규칙을 설명하려고",
+      "학생회 임원 선거에 나갈 후보자를 학급별로 추천받으려고",
+      "새 학용품의 구입 장소를 알려 주려고"
+    ],
+    "answer": 0,
+    "translation": "학생 여러분께. 학교 바자회가 6월 8일 체육관에서 열립니다. 책, 장난감, 옷 같은 판매할 물건이 필요합니다. 더 이상 쓰지 않는 물건을 6월 5일까지 학생회실로 가져다주세요. 모든 수익금은 동물 보호소에 전달됩니다. 학생회.",
+    "why": "바자회에서 팔 물건을 6월 5일까지 가져와 달라고 안내하는 글입니다.",
+    "optionNotes": [
+      "정답. 바자회에 쓸 물건을 가져오라고 안내합니다.",
+      "자원봉사자 모집이 아닙니다.",
+      "체육관 규칙은 나오지 않습니다.",
+      "임원 후보는 나오지 않습니다.",
+      "학용품 구입은 나오지 않습니다."
+    ],
+    "trap": "'animal shelter'는 수익금의 사용처일 뿐입니다.",
+    "tip": "목적 문제는 'Please bring ~' 문장에서 요청 내용을 찾으세요."
+  },
+  {
+    "id": "m1-18-19",
+    "level": "m1",
+    "set": "mock-18",
+    "no": 19,
+    "type": "mood",
+    "stem": "다음 글에 드러난 'I'의 심경 변화로 가장 적절한 것은?",
+    "passage": "That morning, nobody said \"Happy birthday\" to me. My friends passed by, and my teacher only talked about the test. I felt lonely and walked home slowly. When I opened my front door, the lights suddenly turned on. \"Surprise!\" My friends, my parents, and my cousin were all there. There was a big cake with my name on it. I laughed and cried at the same time.",
+    "options": [
+      "angry → sleepy",
+      "proud → ashamed",
+      "bored → terrified",
+      "excited → disappointed",
+      "lonely → delighted"
+    ],
+    "answer": 4,
+    "translation": "그날 아침 아무도 나에게 \"생일 축하해\"라고 말하지 않았다. 친구들은 그냥 지나갔고 선생님은 시험 이야기만 하셨다. 나는 외로움을 느끼며 천천히 집으로 걸어갔다. 현관문을 열자 갑자기 불이 켜졌다. \"깜짝이야!\" 친구들, 부모님, 사촌이 모두 거기 있었다. 내 이름이 적힌 큰 케이크가 있었다. 나는 웃으면서 동시에 울었다.",
+    "why": "처음에는 아무도 축하해 주지 않아 외로웠지만(lonely), 깜짝 파티에 기뻐했습니다(delighted).",
+    "optionNotes": [
+      "화남에서 졸림이 아닙니다.",
+      "자랑스러움에서 부끄러움이 아닙니다.",
+      "지루함에서 공포가 아닙니다.",
+      "신남에서 실망은 순서가 반대입니다.",
+      "정답. 외로움에서 기쁨으로 변했습니다."
+    ],
+    "trap": "마지막의 'cried'를 슬픔으로 오해하지 마세요. 기쁨의 눈물입니다.",
+    "tip": "처음의 감정(lonely)과 마지막 장면(Surprise!)을 비교하세요."
+  },
+  {
+    "id": "m1-18-20",
+    "level": "m1",
+    "set": "mock-18",
+    "no": 20,
+    "type": "claim",
+    "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+    "passage": "Last Saturday, I saw a lot of trash in the park. Many people walked by without looking. But the park is for everyone, and dirty places can make animals sick. Picking up one piece of trash takes only a few seconds. So we should pick up trash when we see it.",
+    "options": [
+      "공원에서는 음식을 먹으면 안 된다.",
+      "공원에서 쓰레기를 보면 모른 척하지 말고 직접 주워서 쓰레기통에 버려야 한다.",
+      "공원은 토요일에만 청소해야 한다.",
+      "동물은 공원에 들어올 수 없다.",
+      "쓰레기는 가방에 담아 집에 가져가야 한다."
+    ],
+    "answer": 1,
+    "translation": "지난 토요일 나는 공원에서 많은 쓰레기를 보았다. 많은 사람이 쳐다보지도 않고 지나갔다. 하지만 공원은 모두를 위한 곳이고 더러운 곳은 동물을 아프게 할 수 있다. 쓰레기 하나를 줍는 데는 몇 초밖에 걸리지 않는다. 그러므로 우리는 쓰레기를 보면 주워야 한다.",
+    "why": "마지막 문장 'we should pick up trash when we see it'이 필자의 주장입니다.",
+    "optionNotes": [
+      "음식 이야기는 나오지 않습니다.",
+      "정답. 쓰레기를 보면 직접 주워야 합니다.",
+      "토요일 청소는 나오지 않습니다.",
+      "동물 출입은 나오지 않습니다.",
+      "집에 가져가라는 내용은 없습니다."
+    ],
+    "trap": "'dirty places can make animals sick'는 근거일 뿐 주장이 아닙니다.",
+    "tip": "주장 문제는 'So we should ~' 문장을 찾으세요."
+  },
+  {
+    "id": "m1-18-21",
+    "level": "m1",
+    "set": "mock-18",
+    "no": 21,
+    "type": "implied",
+    "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "passage": "It was {u|raining cats and dogs} when I left school, so I opened my umbrella. In a few minutes, my socks were wet.",
+    "options": [
+      "raining very heavily",
+      "snowing a little",
+      "very sunny",
+      "windy and cold",
+      "cloudy and dry"
+    ],
+    "answer": 0,
+    "translation": "학교를 나설 때 비가 억수같이 쏟아져서 나는 우산을 폈다. 몇 분 뒤 내 양말이 젖었다.",
+    "why": "우산을 폈는데도 양말이 젖었으므로 'raining cats and dogs'는 비가 매우 많이 온다는 뜻입니다.",
+    "optionNotes": [
+      "정답. 비가 매우 많이 온다는 뜻입니다.",
+      "눈이 조금 온다는 뜻이 아닙니다.",
+      "햇빛이 강하다는 뜻이 아닙니다.",
+      "바람 부는 날씨라는 뜻이 아닙니다.",
+      "흐리고 건조하다는 뜻이 아닙니다."
+    ],
+    "trap": "'cats and dogs'를 동물로 해석하지 마세요.",
+    "tip": "관용 표현은 뒤 문장(my socks were wet)에서 의미를 확인하세요."
+  },
+  {
+    "id": "m1-18-22",
+    "level": "m1",
+    "set": "mock-18",
+    "no": 22,
+    "type": "gist",
+    "stem": "다음 글의 요지로 가장 적절한 것은?",
+    "passage": "Many students are afraid to ask questions in class. They think others will laugh at them. But asking questions helps you understand the lesson better. It also shows the teacher that you are interested. Other students often have the same question, so they will be happy that you asked.",
+    "options": [
+      "수업 시간에는 조용히 있어야 한다.",
+      "선생님은 수업 중에 학생들이 하는 질문을 대체로 싫어한다.",
+      "친구의 질문에 웃으면 안 된다.",
+      "질문하면 이해에도 도움이 되고 다른 학생에게도 이롭다.",
+      "질문은 수업이 완전히 끝난 뒤에 선생님께만 해야 한다."
+    ],
+    "answer": 3,
+    "translation": "많은 학생은 수업 중 질문하기를 두려워한다. 그들은 다른 사람들이 비웃을 것이라고 생각한다. 하지만 질문하면 수업을 더 잘 이해하는 데 도움이 된다. 또 선생님께 관심이 있음을 보여 준다. 다른 학생들도 같은 질문을 가진 경우가 많아서 당신이 질문한 것을 기뻐할 것이다.",
+    "why": "질문하면 이해에 도움이 되고 다른 학생에게도 이롭다는 것이 요지입니다.",
+    "optionNotes": [
+      "글과 반대입니다.",
+      "선생님은 관심을 좋게 봅니다.",
+      "웃음에 대한 주의가 아닙니다.",
+      "정답. 질문하면 이해에 도움이 되고 다른 학생에게도 이롭습니다.",
+      "수업 후에만 하라는 내용은 없습니다."
+    ],
+    "trap": "첫 문장('afraid to ask')을 요지로 착각하지 마세요.",
+    "tip": "But 뒤의 문장이 요지를 담습니다."
+  },
+  {
+    "id": "m1-18-23",
+    "level": "m1",
+    "set": "mock-18",
+    "no": 23,
+    "type": "topic",
+    "stem": "다음 글의 주제로 가장 적절한 것은?",
+    "passage": "Emperor penguins live in very cold places. The female lays one egg and goes to the sea to eat. The male puts the egg on his feet and covers it with a warm fold of skin. He does not eat for two months. When the female returns, they switch roles.",
+    "options": [
+      "how penguins catch fish in the ocean",
+      "why penguins cannot fly in the sky",
+      "how male penguins keep eggs warm in the cold",
+      "where penguins build their nests on the warm beaches in summer",
+      "what penguins eat in winter"
+    ],
+    "answer": 2,
+    "translation": "황제펭귄은 매우 추운 곳에 산다. 암컷은 알을 하나 낳고 먹이를 먹으러 바다로 간다. 수컷은 알을 자신의 발 위에 올리고 따뜻한 피부 주름으로 덮는다. 그는 두 달 동안 먹지 않는다. 암컷이 돌아오면 그들은 역할을 바꾼다.",
+    "why": "수컷 펭귄이 추위 속에서 알을 따뜻하게 지키는 방법을 설명하는 글입니다.",
+    "optionNotes": [
+      "물고기 잡기는 나오지 않습니다.",
+      "날지 못하는 이유는 나오지 않습니다.",
+      "정답. 수컷이 알을 따뜻하게 지키는 방법입니다.",
+      "따뜻한 해변은 나오지 않습니다.",
+      "겨울 먹이는 나오지 않습니다."
+    ],
+    "trap": "'sea', 'eat'만 보고 먹이를 주제로 고르지 마세요.",
+    "tip": "주제는 글 전체가 설명하는 'how' 질문을 찾으세요."
+  },
+  {
+    "id": "m1-18-24",
+    "level": "m1",
+    "set": "mock-18",
+    "no": 24,
+    "type": "title",
+    "stem": "다음 글의 제목으로 가장 적절한 것은?",
+    "passage": "Min collects old keys. He started with one key from his grandfather's house. Now he has more than a hundred keys from many countries. He cleans each key and writes where it came from. His friends bring him keys, too. He says every key has a story.",
+    "options": [
+      "A Broken Door",
+      "My Lunch Box",
+      "How to Open a Window",
+      "A Boy's Hobby of Collecting Old Keys from Around the World",
+      "Cleaning the Classroom"
+    ],
+    "answer": 3,
+    "translation": "민은 오래된 열쇠를 모은다. 그는 할아버지 집에서 가져온 열쇠 하나로 시작했다. 이제 그는 여러 나라에서 온 100개가 넘는 열쇠를 가지고 있다. 그는 각 열쇠를 닦고 어디서 왔는지 적어 둔다. 친구들도 그에게 열쇠를 가져다준다. 그는 모든 열쇠에 이야기가 있다고 말한다.",
+    "why": "오래된 열쇠를 모으는 취미를 소개하는 글이므로 ④가 제목입니다.",
+    "optionNotes": [
+      "고장 난 문은 나오지 않습니다.",
+      "도시락은 나오지 않습니다.",
+      "창문 여는 법은 나오지 않습니다.",
+      "정답. 오래된 열쇠를 모으는 소년의 취미입니다.",
+      "교실 청소는 나오지 않습니다."
+    ],
+    "trap": "'door', 'open'과 관련된 낱말에 이끌리지 마세요.",
+    "tip": "제목은 인물과 핵심 활동(collecting old keys)을 담으세요."
+  },
+  {
+    "id": "m1-18-25",
+    "level": "m1",
+    "set": "mock-18",
+    "no": 25,
+    "type": "chart",
+    "stem": "다음 도표의 내용과 일치하지 않는 것은?",
+    "chart": {
+      "title": "Steps per Day (thousands)",
+      "unit": "thousand steps",
+      "labels": [
+        "Ann",
+        "Bob",
+        "Cara",
+        "Dave",
+        "Eve"
+      ],
+      "series": [
+        {
+          "name": "Steps",
+          "values": [
+            6,
+            8,
+            5,
+            9,
+            7
+          ]
+        }
+      ]
+    },
+    "passage": "The graph shows how many steps five people walk a day. ① Dave walks the most. ② Cara walks the least. ③ Bob walks two thousand more steps than Ann. ④ Eve walks more than Bob. ⑤ Ann walks one thousand fewer steps than Eve.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "그래프는 다섯 사람이 하루에 몇 걸음을 걷는지 보여 준다. ① 데이브가 가장 많이 걷는다. ② 카라가 가장 적게 걷는다. ③ 밥은 앤보다 이천 걸음 더 걷는다. ④ 이브는 밥보다 더 많이 걷는다. ⑤ 앤은 이브보다 천 걸음 적게 걷는다.",
+    "why": "이브는 7천 걸음, 밥은 8천 걸음이므로 이브가 더 많이 걷는다는 ④는 일치하지 않습니다.",
+    "optionNotes": [
+      "데이브 9천 걸음이 가장 많습니다.",
+      "카라 5천 걸음이 가장 적습니다.",
+      "8 - 6 = 2천 걸음입니다.",
+      "정답(불일치). 이브(7)는 밥(8)보다 적게 걷습니다.",
+      "7 - 6 = 1천 걸음입니다."
+    ],
+    "trap": "밥(8)과 이브(7)의 숫자를 바꿔 읽기 쉽습니다.",
+    "tip": "비교 표현(more than)은 두 막대를 직접 비교해 확인하세요."
+  },
+  {
+    "id": "m1-18-26",
+    "level": "m1",
+    "set": "mock-18",
+    "no": 26,
+    "type": "match",
+    "stem": "Jiho에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Jiho is a thirteen-year-old boy who loves swimming. He started learning when he was seven. He practices at the city pool every Tuesday and Friday. Last year, he won a medal at a school contest. He dreams of joining the national team.",
+    "options": [
+      "열두 살이다.",
+      "열 살에 수영을 배우기 시작했다.",
+      "매주 월요일과 목요일에 연습한다.",
+      "작년에 전국 대회에서 금메달을 따고 국가 대표가 되었다.",
+      "작년에 학교 대회에서 메달을 땄다."
+    ],
+    "answer": 4,
+    "translation": "지호는 수영을 좋아하는 열세 살 소년이다. 그는 일곱 살 때 배우기 시작했다. 그는 매주 화요일과 금요일 시립 수영장에서 연습한다. 작년에 그는 학교 대회에서 메달을 땄다. 그는 국가 대표팀에 들어가는 것을 꿈꾼다.",
+    "why": "'Last year, he won a medal at a school contest.'와 일치합니다.",
+    "optionNotes": [
+      "열세 살입니다.",
+      "일곱 살에 시작했습니다.",
+      "화요일과 금요일에 연습합니다.",
+      "국가 대표를 꿈꾸는 단계입니다.",
+      "정답. 작년에 학교 대회에서 메달을 땄습니다."
+    ],
+    "trap": "나이(seven/ten)와 대회(school/national)를 바꾼 보기에 주의하세요.",
+    "tip": "일치 문제는 나이·요일·대회 수준을 하나씩 대조하세요."
+  },
+  {
+    "id": "m1-18-27",
+    "level": "m1",
+    "set": "mock-18",
+    "no": 27,
+    "type": "notice",
+    "stem": "Used Clothes Donation Week에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Used Clothes Donation Week\nDate: May 12 – 16\nPlace: The box in front of the school gate\nWhat to bring: Clean clothes and shoes\nNot accepted: Torn or dirty items\nWhere it goes: The children's center in our town\nQuestions: Ms. Kim, Room 105",
+    "options": [
+      "5월 12일 하루만 진행한다.",
+      "찢어지거나 더러운 물품은 받지 않는다.",
+      "교실로 직접 가져가야 한다.",
+      "모은 옷은 큰 병원 두 곳에 나누어 보낸다.",
+      "새 옷만 받는다."
+    ],
+    "answer": 1,
+    "translation": "헌 옷 기부 주간. 날짜: 5월 12일~16일. 장소: 학교 정문 앞 상자. 가져올 것: 깨끗한 옷과 신발. 받지 않는 것: 찢어지거나 더러운 물건. 전달처: 우리 마을 어린이 센터. 문의: 김 선생님, 105호.",
+    "why": "'Not accepted: Torn or dirty items'와 일치합니다.",
+    "optionNotes": [
+      "5월 12일부터 16일까지입니다.",
+      "정답. 찢어지거나 더러운 물품은 받지 않습니다.",
+      "정문 앞 상자에 넣습니다.",
+      "어린이 센터로 전달합니다.",
+      "깨끗한 옷과 신발을 받습니다."
+    ],
+    "trap": "'Where it goes'와 'Place'를 혼동하지 마세요.",
+    "tip": "안내문은 항목(Date, Place, Not accepted, Where it goes)별로 대조하세요."
+  },
+  {
+    "id": "m1-18-28",
+    "level": "m1",
+    "set": "mock-18",
+    "no": 28,
+    "type": "notice",
+    "stem": "Water Park Rules에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Water Park Rules\n1. Take a shower before you enter the pool.\n2. Wear a swimsuit and a swimming cap.\n3. Children under 7 must wear a life jacket.\n4. Do not run around the pool.\n5. Do not bring glass bottles.",
+    "options": [
+      "수영장에 들어가기 전에 샤워를 할 필요가 전혀 없다.",
+      "수영 모자는 쓰지 않아도 된다.",
+      "7세 미만 어린이는 구명조끼를 입어야 한다.",
+      "수영장 주변에서 뛰어다녀도 되지만 조심해야 한다.",
+      "유리병을 가져올 수 있다."
+    ],
+    "answer": 2,
+    "translation": "워터파크 규칙. 1. 수영장에 들어가기 전에 샤워하세요. 2. 수영복과 수영 모자를 착용하세요. 3. 7세 미만 어린이는 구명조끼를 입어야 합니다. 4. 수영장 주변에서 뛰지 마세요. 5. 유리병을 가져오지 마세요.",
+    "why": "'Children under 7 must wear a life jacket.'와 일치합니다.",
+    "optionNotes": [
+      "샤워를 해야 합니다.",
+      "수영 모자를 써야 합니다.",
+      "정답. 7세 미만은 구명조끼를 입어야 합니다.",
+      "뛰면 안 됩니다.",
+      "유리병은 가져오면 안 됩니다."
+    ],
+    "trap": "금지·의무 규칙을 반대로 바꾼 보기에 주의하세요.",
+    "tip": "규칙 번호별 내용을 보기와 하나씩 대조하세요."
+  }
+]

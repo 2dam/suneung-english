@@ -1,0 +1,147 @@
+[
+  {
+    "id": "m1-18-41",
+    "level": "m1",
+    "set": "mock-18",
+    "no": 41,
+    "type": "long",
+    "group": "m1-18-g41",
+    "stem": "[41~42] 윗글의 제목으로 가장 적절한 것을 고르시오.",
+    "passage": "Sora's grandmother lives on a farm. Every summer, Sora visits her. This year, she {1|helped} her grandmother pick tomatoes. The sun was very {2|hot}, so Sora felt {3|cold} and sweaty. They ate fresh tomatoes and {4|drank} cold water under a tree. Sora felt very {5|happy}.",
+    "options": [
+      "The Biggest Tomato in the World",
+      "How to Make Tomato Soup",
+      "A Cold Winter Morning",
+      "The History of Farms in Korea and Other Asian Countries",
+      "A Summer Day on Grandma's Farm"
+    ],
+    "answer": 4,
+    "translation": "소라의 할머니는 농장에 사신다. 여름마다 소라는 할머니를 찾아간다. 올해 그녀는 할머니가 토마토를 따는 것을 도왔다. 해가 매우 뜨거워서 소라는 춥고 땀이 났다. 그들은 나무 아래에서 신선한 토마토를 먹고 시원한 물을 마셨다. 소라는 매우 행복했다.",
+    "why": "여름에 할머니 농장에서 보낸 하루를 이야기하므로 ⑤가 제목입니다.",
+    "optionNotes": [
+      "가장 큰 토마토는 나오지 않습니다.",
+      "토마토 수프는 나오지 않습니다.",
+      "추운 겨울 아침은 나오지 않습니다.",
+      "농장의 역사는 나오지 않습니다.",
+      "정답. 여름날 할머니의 농장입니다."
+    ],
+    "trap": "'tomatoes'가 나온다고 ①②를 고르지 마세요.",
+    "tip": "이야기글의 제목은 시간·장소·인물을 담으세요."
+  },
+  {
+    "id": "m1-18-42",
+    "level": "m1",
+    "set": "mock-18",
+    "no": 42,
+    "type": "long",
+    "group": "m1-18-g41",
+    "stem": "[41~42] 밑줄 친 ①~⑤ 중에서 문맥상 낱말의 쓰임이 적절하지 않은 것을 고르시오.",
+    "passage": "Sora's grandmother lives on a farm. Every summer, Sora visits her. This year, she {1|helped} her grandmother pick tomatoes. The sun was very {2|hot}, so Sora felt {3|cold} and sweaty. They ate fresh tomatoes and {4|drank} cold water under a tree. Sora felt very {5|happy}.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "(41번 지문과 같은 글입니다.)",
+    "why": "해가 뜨거워서 땀이 났으므로 'cold'가 아니라 'hot'이어야 합니다.",
+    "optionNotes": [
+      "도왔다는 의미로 helped가 알맞습니다.",
+      "뜨겁다는 의미로 hot이 알맞습니다.",
+      "정답(부적절). 해가 뜨거워 땀이 났으므로 hot이어야 합니다.",
+      "마셨다는 의미로 drank가 알맞습니다.",
+      "행복했다는 의미로 happy가 알맞습니다."
+    ],
+    "trap": "'cold water'에 이끌려 cold가 맞다고 생각하기 쉽습니다.",
+    "tip": "원인(very hot sun)과 결과(sweaty)의 연결을 확인하세요."
+  },
+  {
+    "id": "m1-18-43",
+    "level": "m1",
+    "set": "mock-18",
+    "no": 43,
+    "type": "long",
+    "group": "m1-18-g43",
+    "stem": "[43~45] 주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것을 고르시오.",
+    "passage": "(A) Joon was afraid of speaking in front of his class. {1|He} always sat at the back and looked down.\n(B) On the day of the school play, Joon played the main role. The teacher watched from the side. {2|He} clapped loudly and smiled.\n(C) Joon practiced the lines every night. {3|He} also recorded his voice and listened to it.\n(D) One day, the teacher asked him to join the school play. Joon was surprised, but {4|he} said yes. {5|He} took the script home.",
+    "options": [
+      "(B)-(D)-(C)",
+      "(C)-(B)-(D)",
+      "(C)-(D)-(B)",
+      "(D)-(B)-(C)",
+      "(D)-(C)-(B)"
+    ],
+    "answer": 4,
+    "translation": "(A) 준은 반 친구들 앞에서 말하는 것이 두려웠다. 그는 늘 뒷자리에 앉아 아래를 보았다. (D) 어느 날 선생님이 그에게 학교 연극에 참여하라고 하셨다. 준은 놀랐지만 좋다고 했다. 그는 대본을 집으로 가져갔다. (C) 준은 매일 밤 대사를 연습했다. 그는 목소리를 녹음해 들어 보기도 했다. (B) 학교 연극 날 준은 주인공을 맡았다. 선생님은 옆에서 지켜보았다. 그는 크게 박수를 치며 미소 지었다.",
+    "why": "(A) 말하기를 두려워함 → (D) 연극 참여 제안 → (C) 연습 → (B) 연극 날 순서입니다.",
+    "optionNotes": [
+      "(B)의 연극 날이 처음에 올 수 없습니다.",
+      "(B)가 (D)보다 앞서면 제안 전에 연극이 열립니다.",
+      "(D)의 제안이 (C)의 연습보다 앞서야 합니다.",
+      "(B)가 (C)보다 앞서면 연습 전에 연극이 열립니다.",
+      "정답. 제안 → 연습 → 연극 날."
+    ],
+    "trap": "(C)의 'the lines'는 (D)에서 가져간 대본의 대사입니다.",
+    "tip": "제안 → 연습 → 공연의 시간 흐름을 따라가세요."
+  },
+  {
+    "id": "m1-18-44",
+    "level": "m1",
+    "set": "mock-18",
+    "no": 44,
+    "type": "long",
+    "group": "m1-18-g43",
+    "stem": "[43~45] 밑줄 친 ①~⑤ 중에서 가리키는 대상이 나머지 넷과 다른 것을 고르시오.",
+    "passage": "(A) Joon was afraid of speaking in front of his class. {1|He} always sat at the back and looked down.\n(B) On the day of the school play, Joon played the main role. The teacher watched from the side. {2|He} clapped loudly and smiled.\n(C) Joon practiced the lines every night. {3|He} also recorded his voice and listened to it.\n(D) One day, the teacher asked him to join the school play. Joon was surprised, but {4|he} said yes. {5|He} took the script home.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "②의 He는 옆에서 지켜보며 크게 박수를 친 선생님이고, 나머지 ①③④⑤는 모두 준을 가리킵니다.",
+    "optionNotes": [
+      "He는 뒷자리에 앉은 준입니다.",
+      "정답. He는 박수를 친 선생님입니다.",
+      "He는 목소리를 녹음한 준입니다.",
+      "he는 좋다고 말한 준입니다.",
+      "He는 대본을 가져간 준입니다."
+    ],
+    "trap": "앞 문장의 주어가 The teacher이므로 He도 선생님입니다.",
+    "tip": "같은 성별의 두 인물이 나오면 직전 문장의 주어를 확인하세요."
+  },
+  {
+    "id": "m1-18-45",
+    "level": "m1",
+    "set": "mock-18",
+    "no": 45,
+    "type": "long",
+    "group": "m1-18-g43",
+    "stem": "[43~45] 윗글에 관한 내용으로 적절하지 않은 것을 고르시오.",
+    "passage": "(A) Joon was afraid of speaking in front of his class. {1|He} always sat at the back and looked down.\n(B) On the day of the school play, Joon played the main role. The teacher watched from the side. {2|He} clapped loudly and smiled.\n(C) Joon practiced the lines every night. {3|He} also recorded his voice and listened to it.\n(D) One day, the teacher asked him to join the school play. Joon was surprised, but {4|he} said yes. {5|He} took the script home.",
+    "options": [
+      "준은 사람들 앞에서 말하는 것을 아주 좋아했다.",
+      "선생님이 준에게 학교 연극에 참여해 보라고 권했다.",
+      "준은 매일 밤 잠자기 전에 혼자 대사를 연습했다.",
+      "준은 연극에서 주인공을 맡았다.",
+      "선생님은 옆에서 박수를 쳤다."
+    ],
+    "answer": 0,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "준은 반 친구들 앞에서 말하는 것을 두려워했으므로 아주 좋아했다는 ①은 일치하지 않습니다.",
+    "optionNotes": [
+      "정답(불일치). 준은 말하기를 두려워했습니다.",
+      "asked him to join the school play와 일치합니다.",
+      "practiced the lines every night와 일치합니다.",
+      "played the main role과 일치합니다.",
+      "clapped loudly와 일치합니다."
+    ],
+    "trap": "결말에서의 성장 때문에 처음 상태를 잊지 마세요.",
+    "tip": "불일치 문제는 감정·태도(afraid)를 반대로 바꾼 보기를 찾으세요."
+  }
+]

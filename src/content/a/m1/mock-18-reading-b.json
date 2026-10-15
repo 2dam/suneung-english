@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m1-18-29",
+    "level": "m1",
+    "set": "mock-18",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "My dad {1|is} a bus driver. He {2|get} up at five every morning. He {3|drives} for eight hours. After work, he {4|reads} the newspaper. He {5|goes} to bed at ten.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "우리 아빠는 버스 기사이다. 그는 매일 아침 5시에 일어난다. 그는 여덟 시간 동안 운전한다. 일이 끝난 뒤 그는 신문을 읽는다. 그는 10시에 잠자리에 든다.",
+    "why": "주어 'He'는 3인칭 단수이므로 'get'이 아니라 'gets'여야 합니다.",
+    "optionNotes": [
+      "단수 주어 My dad에 맞는 is입니다.",
+      "정답(틀린 것). 3인칭 단수이므로 gets여야 합니다.",
+      "3인칭 단수 주어 He에 맞는 drives입니다.",
+      "3인칭 단수 주어 he에 맞는 reads입니다.",
+      "3인칭 단수 주어 He에 맞는 goes입니다."
+    ],
+    "trap": "get up은 구동사라서 동사 형태를 놓치기 쉽습니다.",
+    "tip": "3인칭 단수 주어의 현재 시제 동사는 -(e)s를 확인하세요."
+  },
+  {
+    "id": "m1-18-30",
+    "level": "m1",
+    "set": "mock-18",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Yesterday, I went to a flower shop with my mother. The shop was full of {1|colorful} flowers. We bought {2|red} roses for Grandma. The roses smelled {3|terrible}. We put them in a vase, and Grandma was very {4|happy}. She said, \"Thank you, my dear {5|granddaughter}.\"",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "어제 나는 어머니와 꽃가게에 갔다. 가게는 알록달록한 꽃으로 가득했다. 우리는 할머니께 드릴 빨간 장미를 샀다. 장미는 지독한 냄새가 났다. 우리는 그것을 꽃병에 꽂았고 할머니는 매우 기뻐하셨다. 할머니는 \"고맙구나, 사랑하는 손녀야.\"라고 말씀하셨다.",
+    "why": "할머니가 기뻐하셨으므로 장미 향은 'terrible(지독한)'이 아니라 'sweet(달콤한)'가 어울립니다.",
+    "optionNotes": [
+      "알록달록한 꽃이라는 의미로 colorful이 알맞습니다.",
+      "빨간 장미라는 의미로 red가 알맞습니다.",
+      "정답(부적절). 기뻐하셨으므로 sweet가 알맞습니다.",
+      "기뻐하셨다는 의미로 happy가 알맞습니다.",
+      "손녀라는 의미로 granddaughter가 알맞습니다."
+    ],
+    "trap": "'smelled' 뒤에 오는 형용사가 흐름과 맞는지 확인해야 합니다.",
+    "tip": "뒤 문장(Grandma was very happy)의 감정과 낱말의 방향을 확인하세요."
+  },
+  {
+    "id": "m1-18-31",
+    "level": "m1",
+    "set": "mock-18",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Bats cannot see well, but they find food in the dark. A bat makes a high sound. The sound hits an insect and comes back as an echo. By listening to the echo, the bat knows where the insect is. This is why bats are good at __________ at night.",
+    "options": [
+      "sleeping",
+      "hunting",
+      "painting",
+      "reading",
+      "cooking"
+    ],
+    "answer": 1,
+    "translation": "박쥐는 잘 보지 못하지만 어둠 속에서 먹이를 찾는다. 박쥐는 높은 소리를 낸다. 그 소리는 곤충에 부딪혀 메아리로 돌아온다. 메아리를 들으면 박쥐는 곤충이 어디에 있는지 안다. 그래서 박쥐는 밤에 사냥을 잘한다.",
+    "why": "소리로 곤충의 위치를 알아 먹이를 잡으므로 hunting이 알맞습니다.",
+    "optionNotes": [
+      "잠잔다는 내용은 없습니다.",
+      "정답. 밤에 먹이를 사냥합니다.",
+      "그림을 그린다는 내용은 없습니다.",
+      "읽는다는 내용은 없습니다.",
+      "요리한다는 내용은 없습니다."
+    ],
+    "trap": "'night'에 이끌려 sleeping을 고르지 마세요.",
+    "tip": "앞 문장의 'find food'가 빈칸의 단서입니다."
+  },
+  {
+    "id": "m1-18-32",
+    "level": "m1",
+    "set": "mock-18",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many homes have a thermometer. It is a thin tool with numbers on it. A thermometer measures __________. When it is hot, the number goes up. When it is cold, the number goes down. Doctors use it to check if you have a fever.",
+    "options": [
+      "how heavy a bag is when it is full",
+      "height",
+      "speed",
+      "temperature",
+      "time"
+    ],
+    "answer": 3,
+    "translation": "많은 집에 온도계가 있다. 그것은 숫자가 적힌 얇은 도구이다. 온도계는 온도를 잰다. 더우면 숫자가 올라간다. 추우면 숫자가 내려간다. 의사들은 열이 있는지 확인하는 데 그것을 쓴다.",
+    "why": "더우면 숫자가 올라가고 열을 확인한다고 했으므로 temperature가 알맞습니다.",
+    "optionNotes": [
+      "무게는 나오지 않습니다.",
+      "키는 나오지 않습니다.",
+      "속도는 나오지 않습니다.",
+      "정답. 온도를 잽니다.",
+      "시간은 나오지 않습니다."
+    ],
+    "trap": "'doctors'에 이끌려 다른 측정 항목을 고르지 마세요.",
+    "tip": "뒤 문장(hot/cold, fever)이 빈칸의 단서입니다."
+  },
+  {
+    "id": "m1-18-33",
+    "level": "m1",
+    "set": "mock-18",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Camels can live in the desert for many days without water. They store fat in their humps. When they need energy, the body uses the fat. So the hump is not a water tank, but a __________ of energy.",
+    "options": [
+      "toy",
+      "hat",
+      "bag",
+      "storage",
+      "restaurant"
+    ],
+    "answer": 3,
+    "translation": "낙타는 물 없이 사막에서 여러 날을 살 수 있다. 혹에 지방을 저장한다. 에너지가 필요하면 몸이 그 지방을 쓴다. 그래서 혹은 물탱크가 아니라 에너지 저장고이다.",
+    "why": "혹에 지방을 저장해 에너지로 쓴다고 했으므로 에너지 저장고(storage)가 알맞습니다.",
+    "optionNotes": [
+      "장난감이라는 내용은 없습니다.",
+      "모자라는 내용은 없습니다.",
+      "가방이라는 내용은 글에서 직접 나오지 않습니다.",
+      "정답. 에너지 저장고입니다.",
+      "식당이라는 내용은 없습니다."
+    ],
+    "trap": "'store'가 앞에 나왔으므로 storage와 이어집니다.",
+    "tip": "앞 문장의 'store fat'이 빈칸의 단서입니다."
+  },
+  {
+    "id": "m1-18-34",
+    "level": "m1",
+    "set": "mock-18",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Streets can be busy and dangerous. Before you cross the street, look both ways. Cars may come from the left or the right. A car can also come very fast. So you should always __________ before you cross.",
+    "options": [
+      "close your eyes and count to ten",
+      "stop and look",
+      "sing",
+      "jump",
+      "sleep"
+    ],
+    "answer": 1,
+    "translation": "거리는 붐비고 위험할 수 있습니다. 길을 건너기 전에 양쪽을 살펴보세요. 차는 왼쪽이나 오른쪽에서 올 수 있습니다. 차는 아주 빨리 올 수도 있습니다. 그래서 건너기 전에 항상 멈춰서 살펴야 합니다.",
+    "why": "양쪽을 살피라고 했으므로 멈춰서 살피는(stop and look) 것이 알맞습니다.",
+    "optionNotes": [
+      "눈을 감는다는 내용은 글과 반대입니다.",
+      "정답. 멈추어 살펴야 합니다.",
+      "노래한다는 내용은 없습니다.",
+      "뛴다는 내용은 없습니다.",
+      "잔다는 내용은 없습니다."
+    ],
+    "trap": "'close your eyes'는 'look both ways'와 반대입니다.",
+    "tip": "첫 문장(look both ways)이 빈칸의 단서입니다."
+  },
+  {
+    "id": "m1-18-35",
+    "level": "m1",
+    "set": "mock-18",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Reading before bed helps you sleep well. ① Reading makes your mind calm. ② A short story or a poem is enough. ③ Soft light is better than bright light. ④ You should put your phone away. ⑤ My cousin likes to play baseball on weekends.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "자기 전에 책을 읽으면 잘 자는 데 도움이 된다. ① 책을 읽으면 마음이 차분해진다. ② 짧은 이야기나 시면 충분하다. ③ 밝은 빛보다 부드러운 빛이 좋다. ④ 휴대전화는 치워 두어야 한다. ⑤ 내 사촌은 주말에 야구하는 것을 좋아한다.",
+    "why": "글은 자기 전 독서의 도움을 말하는데 ⑤는 사촌의 야구 이야기라 관계가 없습니다.",
+    "optionNotes": [
+      "자기 전 독서의 효과입니다.",
+      "자기 전 독서의 방법입니다.",
+      "자기 전 독서의 조건입니다.",
+      "자기 전 독서의 조건입니다.",
+      "정답(무관). 사촌의 야구 이야기입니다."
+    ],
+    "trap": "마지막 문장이 새로운 이야기처럼 보여 결론으로 착각하기 쉽습니다.",
+    "tip": "주제(자기 전 독서)와 이어지지 않는 문장을 고르세요."
+  },
+  {
+    "id": "m1-18-36",
+    "level": "m1",
+    "set": "mock-18",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Hana wanted to wash her dog. It was dirty after playing in the park.\n(A) Finally, she dried him with a towel.\n(B) Then she washed him gently with soap.\n(C) First, she filled a tub with warm water.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 4,
+    "translation": "하나는 강아지를 씻기고 싶었다. 강아지는 공원에서 놀고 나서 더러워졌다. (C) 먼저 그녀는 통에 따뜻한 물을 채웠다. (B) 그다음 비누로 부드럽게 씻겼다. (A) 마지막으로 수건으로 말려 주었다.",
+    "why": "(C) First 물 채우기 → (B) Then 씻기기 → (A) Finally 말리기 순서입니다.",
+    "optionNotes": [
+      "(A)의 Finally가 처음에 올 수 없습니다.",
+      "(A)의 Finally가 처음에 올 수 없습니다.",
+      "(B)의 Then이 First보다 앞설 수 없습니다.",
+      "(A)의 Finally가 중간에 올 수 없습니다.",
+      "정답. 물 채우기 → 씻기기 → 말리기."
+    ],
+    "trap": "(A)의 'Finally'는 마지막 단계입니다.",
+    "tip": "First → Then → Finally 같은 순서 표현을 따라가세요."
+  },
+  {
+    "id": "m1-18-37",
+    "level": "m1",
+    "set": "mock-18",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Tom wanted to send a letter to his friend in Canada.\n(A) First, he wrote a short letter on a clean sheet of paper.\n(B) At last, he dropped it in the mailbox in front of the post office.\n(C) Then he put it in an envelope and wrote the address.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "톰은 캐나다에 있는 친구에게 편지를 보내고 싶었다. (A) 먼저 그는 깨끗한 종이에 짧은 편지를 썼다. (C) 그다음 그것을 봉투에 넣고 주소를 썼다. (B) 마침내 우체국 앞 우체통에 넣었다.",
+    "why": "(A) First 편지 쓰기 → (C) Then 봉투에 넣고 주소 쓰기 → (B) At last 우체통에 넣기 순서입니다.",
+    "optionNotes": [
+      "정답. 쓰기 → 봉투 → 우체통.",
+      "(B)의 At last가 처음에 올 수 없습니다.",
+      "(B)의 At last가 처음에 올 수 없습니다.",
+      "(C)의 'it'이 가리킬 편지가 앞에 없습니다.",
+      "(C)의 'it'이 가리킬 편지가 앞에 없습니다."
+    ],
+    "trap": "(C)의 'it'은 (A)에서 쓴 편지를 가리킵니다.",
+    "tip": "First → Then → At last의 순서와 대명사(it)를 확인하세요."
+  },
+  {
+    "id": "m1-18-38",
+    "level": "m1",
+    "set": "mock-18",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nSo we should save it.\n\n[글]\n( ① ) Water is very important for all living things. ( ② ) But clean water is limited on Earth. ( ③ ) For example, turn off the tap while you brush your teeth. ( ④ ) Small actions can make a big difference. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 그러니 우리는 물을 아껴야 한다. [글] 물은 모든 생물에게 매우 중요하다. 하지만 깨끗한 물은 지구에서 한정되어 있다. 그러니 우리는 물을 아껴야 한다. 예를 들어 이를 닦는 동안 수도꼭지를 잠그자. 작은 행동이 큰 차이를 만들 수 있다.",
+    "why": "'So'는 앞의 문제(깨끗한 물이 한정됨)의 결과이고 뒤의 'For example'로 이어지므로 ③에 들어갑니다.",
+    "optionNotes": [
+      "문제가 나오기 전이라 'So'가 어색합니다.",
+      "문제가 나오기 전이라 'So'가 어색합니다.",
+      "정답. 문제의 결과이고 'For example'로 이어집니다.",
+      "예시 뒤라 'So'가 어색합니다.",
+      "결론 뒤라 어색합니다."
+    ],
+    "trap": "'For example' 문장이 given 문장의 내용을 구체화한다는 점을 확인하세요.",
+    "tip": "'So'로 시작하는 문장은 바로 앞 문장의 결과를 말합니다."
+  },
+  {
+    "id": "m1-18-39",
+    "level": "m1",
+    "set": "mock-18",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nDo you have trouble waking up in the morning?\n\n[글]\n( ① ) Here are three tips for you. ( ② ) First, go to bed early at night. ( ③ ) Second, put your alarm clock far from your bed. ( ④ ) Third, open the curtains right away. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "[주어진 문장] 아침에 일어나는 것이 힘든가? [글] 당신을 위한 세 가지 요령이 있다. 첫째, 밤에 일찍 자라. 둘째, 알람 시계를 침대에서 멀리 두어라. 셋째, 바로 커튼을 열어라.",
+    "why": "뒤의 'Here are three tips'가 질문에 대한 답을 이끌므로 맨 앞인 ①에 들어갑니다.",
+    "optionNotes": [
+      "정답. 요령을 이끄는 도입 질문입니다.",
+      "요령이 이미 시작된 뒤라 어색합니다.",
+      "요령 나열 도중이라 어색합니다.",
+      "요령 나열 도중이라 어색합니다.",
+      "마지막이라 도입 질문이 어색합니다."
+    ],
+    "trap": "'First' 문장 앞이라고 ②를 고르지 마세요. 'Here are three tips'가 먼저입니다.",
+    "tip": "질문 → Here are ~ 의 구조에서 질문은 맨 앞에 놓입니다."
+  },
+  {
+    "id": "m1-18-40",
+    "level": "m1",
+    "set": "mock-18",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A school asked students to stand up and stretch for one minute between classes. After two weeks, students said that they felt more awake. Teachers also said that students paid more attention in class.\n\n▶ A short (A) between classes helps students feel more (B).",
+    "options": [
+      "(A) stretch — (B) awake",
+      "(A) nap — (B) angry",
+      "(A) conversation — (B) lonely",
+      "(A) meal — (B) noisy",
+      "(A) game — (B) tired"
+    ],
+    "answer": 0,
+    "translation": "한 학교가 학생들에게 수업 사이에 1분 동안 일어나 스트레칭을 하게 했다. 2주 뒤 학생들은 더 정신이 맑다고 말했다. 교사들도 학생들이 수업에 더 집중한다고 말했다. ▶ 수업 사이의 짧은 스트레칭은 학생들이 더 정신이 맑다고 느끼게 돕는다.",
+    "why": "스트레칭이 학생들을 더 정신이 맑게 했으므로 (A)는 stretch, (B)는 awake입니다.",
+    "optionNotes": [
+      "정답. 스트레칭이 정신을 맑게 합니다.",
+      "nap과 angry는 글에 나오지 않습니다.",
+      "conversation과 lonely는 글에 나오지 않습니다.",
+      "meal과 noisy는 글에 나오지 않습니다.",
+      "game과 tired는 글과 반대입니다."
+    ],
+    "trap": "(A)와 (B) 모두 글의 결과와 맞아야 합니다.",
+    "tip": "요약문은 활동(stretch)과 결과(more awake)를 글에서 그대로 찾으세요."
+  }
+]
