@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m1-14-29",
+    "level": "m1",
+    "set": "mock-14",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "My cousin {1|lives} near the sea. She {2|swim} every morning. Her dog {3|runs} on the beach. Her parents {4|work} at a hotel. I {5|visit} them every summer.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "내 사촌은 바다 근처에 산다. 그녀는 매일 아침 수영한다. 그녀의 개는 해변에서 달린다. 그녀의 부모님은 호텔에서 일하신다. 나는 매년 여름 그들을 방문한다.",
+    "why": "주어 'She'는 3인칭 단수이므로 'swim'이 아니라 'swims'여야 합니다.",
+    "optionNotes": [
+      "3인칭 단수 주어 My cousin에 맞는 lives입니다.",
+      "정답(틀린 것). 3인칭 단수이므로 swims여야 합니다.",
+      "3인칭 단수 주어 Her dog에 맞는 runs입니다.",
+      "복수 주어 Her parents에 맞는 work입니다.",
+      "주어 I에 맞는 visit입니다."
+    ],
+    "trap": "앞 문장의 lives(-s)에 이끌려 She 뒤에도 같은 형태가 맞는다고 생각하기 쉽습니다.",
+    "tip": "일반동사 현재형은 주어가 3인칭 단수일 때 -(e)s를 확인하세요."
+  },
+  {
+    "id": "m1-14-30",
+    "level": "m1",
+    "set": "mock-14",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "It was a cold winter morning. I put on a {1|thick} coat and went outside. The snow was white and {2|soft}. My friends and I {3|made} a big snowman. The wind was very {4|warm}, and my fingers felt like ice. We drank {5|hot} chocolate afterward.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "추운 겨울 아침이었다. 나는 두꺼운 코트를 입고 밖으로 나갔다. 눈은 하얗고 부드러웠다. 친구들과 나는 큰 눈사람을 만들었다. 바람은 매우 따뜻했고 손가락은 얼음처럼 차가웠다. 우리는 그 후에 핫초코를 마셨다.",
+    "why": "손가락이 얼음처럼 차갑다고 했으므로 바람은 'warm'이 아니라 'cold'여야 합니다.",
+    "optionNotes": [
+      "두꺼운 코트라는 의미로 thick이 알맞습니다.",
+      "눈이 부드럽다는 의미로 soft가 알맞습니다.",
+      "눈사람을 만들었다는 의미로 made가 알맞습니다.",
+      "정답(부적절). 추운 날씨이므로 cold여야 합니다.",
+      "따뜻한 핫초코라는 의미로 hot이 알맞습니다."
+    ],
+    "trap": "'warm'이 단독으로는 자연스러워 보이지만 뒤의 'ice'와 모순됩니다.",
+    "tip": "쉼표 뒤의 설명(fingers felt like ice)이 앞 낱말의 방향을 정합니다."
+  },
+  {
+    "id": "m1-14-31",
+    "level": "m1",
+    "set": "mock-14",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Ants are very small, but they are strong. An ant can carry a leaf that is many times heavier than its body. Ants also work together to move big food to their nest. So an ant is small but very __________.",
+    "options": [
+      "lazy",
+      "careless",
+      "tall",
+      "strong",
+      "quiet"
+    ],
+    "answer": 3,
+    "translation": "개미는 매우 작지만 힘이 세다. 개미는 자기 몸보다 몇 배나 무거운 잎을 나를 수 있다. 개미는 또 큰 먹이를 둥지로 옮기기 위해 함께 일한다. 그래서 개미는 작지만 매우 힘이 세다.",
+    "why": "자기 몸보다 훨씬 무거운 잎을 나른다고 했으므로 strong이 알맞습니다.",
+    "optionNotes": [
+      "게으르다는 내용은 없습니다.",
+      "부주의하다는 내용은 없습니다.",
+      "키가 크다는 내용은 없습니다.",
+      "정답. 힘이 셉니다.",
+      "조용하다는 내용은 없습니다."
+    ],
+    "trap": "'small'과 반대되는 'tall'에 이끌리지 마세요. 키가 아니라 힘 이야기입니다.",
+    "tip": "앞 문장의 사실(carry a heavy leaf)이 빈칸의 단서입니다."
+  },
+  {
+    "id": "m1-14-32",
+    "level": "m1",
+    "set": "mock-14",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Germs on our hands can make us sick. They can go into our body when we eat or touch our face. Soap and water remove the germs. So washing your hands before meals helps you __________.",
+    "options": [
+      "feel hungry at night",
+      "get angry at friends",
+      "stay healthy",
+      "become sleepy at noon",
+      "grow taller quickly"
+    ],
+    "answer": 2,
+    "translation": "손에 있는 세균은 우리를 아프게 할 수 있다. 우리가 먹거나 얼굴을 만질 때 몸에 들어갈 수 있다. 비누와 물은 세균을 없앤다. 그래서 식사 전에 손을 씻으면 건강을 유지하는 데 도움이 된다.",
+    "why": "세균이 아프게 한다고 했으므로 손을 씻으면 건강을 유지하게 됩니다.",
+    "optionNotes": [
+      "배고픔 이야기는 없습니다.",
+      "화남 이야기는 없습니다.",
+      "정답. 세균을 없애 건강을 유지합니다.",
+      "졸림 이야기는 없습니다.",
+      "키 이야기는 없습니다."
+    ],
+    "trap": "'meals'만 보고 배고픔을 고르지 마세요.",
+    "tip": "앞 문장의 원인(germs make us sick)이 빈칸의 방향을 알려 줍니다."
+  },
+  {
+    "id": "m1-14-33",
+    "level": "m1",
+    "set": "mock-14",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Shin's team lost the soccer match. At first, he felt very sad. But his coach said, \"A loss is a chance to learn.\" Shin thought about his mistakes and practiced harder. So when you lose, it is important to __________.",
+    "options": [
+      "stop playing the game",
+      "blame your friends",
+      "think about what you can learn and try again",
+      "forget it at once",
+      "stay home all week"
+    ],
+    "answer": 2,
+    "translation": "신의 팀은 축구 경기에서 졌다. 처음에 그는 매우 슬펐다. 하지만 코치는 \"패배는 배울 기회야.\"라고 말했다. 신은 자신의 실수를 생각해 보고 더 열심히 연습했다. 그래서 졌을 때는 배울 수 있는 것을 생각하고 다시 시도하는 것이 중요하다.",
+    "why": "패배를 배울 기회로 보고 실수를 생각하며 더 연습했으므로 ③이 알맞습니다.",
+    "optionNotes": [
+      "그만두라는 내용은 글과 반대입니다.",
+      "친구를 탓하는 내용은 없습니다.",
+      "정답. 배울 것을 생각하고 다시 시도합니다.",
+      "잊으라는 내용은 글과 반대입니다.",
+      "집에 머물라는 내용은 없습니다."
+    ],
+    "trap": "처음의 'felt very sad'에 이끌려 부정적인 보기를 고르지 마세요.",
+    "tip": "코치의 말과 신의 행동이 빈칸의 단서입니다."
+  },
+  {
+    "id": "m1-14-34",
+    "level": "m1",
+    "set": "mock-14",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Honeybees dance to tell their friends where the flowers are. The direction and length of the dance show the way. Other bees watch the dance and fly to the flowers. So the dance is a way to __________ information.",
+    "options": [
+      "forget",
+      "hide",
+      "lose",
+      "buy",
+      "share"
+    ],
+    "answer": 4,
+    "translation": "꿀벌은 친구들에게 꽃이 어디에 있는지 알리려고 춤을 춘다. 춤의 방향과 길이가 길을 알려 준다. 다른 벌들은 춤을 보고 꽃으로 날아간다. 그래서 그 춤은 정보를 공유하는 방법이다.",
+    "why": "춤으로 꽃의 위치를 알려 준다고 했으므로 정보를 공유한다는 말이 알맞습니다.",
+    "optionNotes": [
+      "잊는다는 내용은 없습니다.",
+      "숨긴다는 내용은 글과 반대입니다.",
+      "잃는다는 내용은 없습니다.",
+      "산다는 내용은 없습니다.",
+      "정답. 정보를 공유합니다."
+    ],
+    "trap": "'dance'만 보고 오락 관련 낱말을 고르지 마세요.",
+    "tip": "앞 문장(tell their friends)이 빈칸의 의미를 알려 줍니다."
+  },
+  {
+    "id": "m1-14-35",
+    "level": "m1",
+    "set": "mock-14",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Drinking enough water is important for your body. ① My favorite color is blue. ② Water helps you think clearly. ③ It also keeps your skin healthy. ④ You need more water on a hot day. ⑤ So carry a water bottle with you.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "충분한 물을 마시는 것은 몸에 중요하다. ① 내가 좋아하는 색은 파란색이다. ② 물은 생각을 맑게 하는 데 도움이 된다. ③ 또한 피부를 건강하게 유지해 준다. ④ 더운 날에는 더 많은 물이 필요하다. ⑤ 그러니 물병을 가지고 다니자.",
+    "why": "글은 물을 마시는 것의 중요성을 말하는데 ①은 좋아하는 색 이야기라 관계가 없습니다.",
+    "optionNotes": [
+      "정답(무관). 좋아하는 색 이야기입니다.",
+      "물의 좋은 점입니다.",
+      "물의 좋은 점입니다.",
+      "물이 필요한 때입니다.",
+      "결론입니다."
+    ],
+    "trap": "'water'와 'blue'를 연결해 자연스럽다고 착각할 수 있습니다.",
+    "tip": "주제(물을 마시는 것의 중요성)와 이어지지 않는 문장을 고르세요."
+  },
+  {
+    "id": "m1-14-36",
+    "level": "m1",
+    "set": "mock-14",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Jisu wanted to grow a sunflower.\n(A) First, she filled a pot with soil and put a seed in it.\n(B) After a month, a tall sunflower bloomed.\n(C) Every morning, she gave it water and put the pot near the window.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "지수는 해바라기를 키우고 싶었다. (A) 먼저 그녀는 화분에 흙을 채우고 씨앗을 심었다. (C) 매일 아침 그녀는 물을 주고 화분을 창문 가까이에 두었다. (B) 한 달 뒤 키 큰 해바라기가 피었다.",
+    "why": "(A) First 씨앗 심기 → (C) 매일 물 주기 → (B) 한 달 뒤 꽃이 핌 순서입니다.",
+    "optionNotes": [
+      "정답. 심기 → 돌보기 → 꽃이 핌.",
+      "(B)의 결과가 처음에 올 수 없습니다.",
+      "(B)의 결과가 처음에 올 수 없습니다.",
+      "(C)의 'it'이 가리킬 씨앗이 앞에 없습니다.",
+      "(C)의 'it'이 가리킬 씨앗이 앞에 없습니다."
+    ],
+    "trap": "(C)의 'it'은 (A)에서 심은 씨앗(식물)을 가리킵니다.",
+    "tip": "First → 매일의 돌봄 → After a month의 시간 흐름을 따라가세요."
+  },
+  {
+    "id": "m1-14-37",
+    "level": "m1",
+    "set": "mock-14",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Ken was late for school. It was the day of an important test.\n(A) He ran into the classroom and sat down quietly.\n(B) He woke up late and missed the bus.\n(C) So he ran to school as fast as he could.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 2,
+    "translation": "켄은 학교에 늦었다. 그날은 중요한 시험이 있는 날이었다. (B) 그는 늦게 일어나 버스를 놓쳤다. (C) 그래서 그는 가능한 한 빨리 학교로 달려갔다. (A) 그는 교실로 뛰어 들어가 조용히 앉았다.",
+    "why": "(B) 늦잠과 버스를 놓침 → (C) So 학교로 달림 → (A) 교실에 도착함 순서입니다.",
+    "optionNotes": [
+      "(A)의 도착이 처음에 올 수 없습니다.",
+      "(A)가 (C)보다 앞서면 달려가기 전에 도착합니다.",
+      "정답. 원인 → 달림 → 도착.",
+      "(C)의 'So'가 원인 앞에 올 수 없습니다.",
+      "(C)의 'So'가 원인 앞에 올 수 없습니다."
+    ],
+    "trap": "(C)의 'So'는 (B)의 원인에 대한 결과를 이끕니다.",
+    "tip": "원인(missed the bus) → So 결과 → 도착의 흐름을 확인하세요."
+  },
+  {
+    "id": "m1-14-38",
+    "level": "m1",
+    "set": "mock-14",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nAs a result, the park became clean again.\n\n[글]\n( ① ) People used to leave trash in Green Park. ( ② ) A group of students decided to clean it. ( ③ ) Every Saturday, they picked up cans and bottles. ( ④ ) They also put up signs that said, \"Keep our park clean.\" ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "[주어진 문장] 그 결과 공원은 다시 깨끗해졌다. [글] 사람들은 그린 공원에 쓰레기를 버리곤 했다. 한 무리의 학생들이 그곳을 청소하기로 했다. 매주 토요일 그들은 캔과 병을 주웠다. 그들은 또 \"우리 공원을 깨끗하게 지킵시다\"라고 적힌 표지판을 세웠다. 그 결과 공원은 다시 깨끗해졌다.",
+    "why": "'As a result'는 학생들의 모든 노력(청소, 표지판)의 결과를 말하므로 마지막인 ⑤에 들어갑니다.",
+    "optionNotes": [
+      "노력이 나오기 전이라 결과가 어색합니다.",
+      "청소하기로 결정하기 전이라 어색합니다.",
+      "청소 활동이 아직 이어집니다.",
+      "'They also' 문장이 이어져야 합니다.",
+      "정답. 모든 노력의 결과입니다."
+    ],
+    "trap": "④ 앞에서도 가능해 보이지만 'They also ~' 문장이 이어져야 하므로 결과는 그 뒤에 와야 합니다.",
+    "tip": "'As a result'는 원인·노력을 모두 말한 뒤에 놓입니다."
+  },
+  {
+    "id": "m1-14-39",
+    "level": "m1",
+    "set": "mock-14",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nFor example, you can drink a glass of water as soon as you wake up.\n\n[글]\n( ① ) Small habits can make your morning better. ( ② ) Another good habit is to open the curtains and let the sunlight in. ( ③ ) The light tells your body that a new day has begun. ( ④ ) Then you will feel more awake. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "[주어진 문장] 예를 들어 일어나자마자 물 한 잔을 마실 수 있다. [글] 작은 습관이 아침을 더 좋게 만들 수 있다. 예를 들어 일어나자마자 물 한 잔을 마실 수 있다. 또 다른 좋은 습관은 커튼을 열어 햇빛이 들어오게 하는 것이다. 빛은 몸에 새로운 하루가 시작되었음을 알려 준다. 그러면 더 잠이 깬 느낌이 들 것이다.",
+    "why": "'For example'은 앞의 일반적인 말(작은 습관)의 예이고, 뒤의 'Another good habit'으로 이어지므로 ②에 들어갑니다.",
+    "optionNotes": [
+      "앞에 예를 들 문장이 없어 어색합니다.",
+      "정답. 작은 습관의 예이고 'Another'로 이어집니다.",
+      "'Another good habit' 문장 뒤라 첫 번째 예로 어색합니다.",
+      "빛의 효과 설명 뒤라 어색합니다.",
+      "결과 문장 뒤라 어색합니다."
+    ],
+    "trap": "'Another good habit'은 앞에 다른 습관이 이미 나왔음을 뜻합니다.",
+    "tip": "'For example'은 일반적인 문장 바로 뒤에 놓입니다."
+  },
+  {
+    "id": "m1-14-40",
+    "level": "m1",
+    "set": "mock-14",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A school started a \"No Phone Lunch\" rule. Students put their phones in a box before lunch. At first, they felt bored. But soon they began to talk with their friends more. After a month, many students said that they felt closer to their friends.\n\n▶ When students put away their phones at lunch, they can (A) more with friends and feel (B).",
+    "options": [
+      "(A) run — (B) tired",
+      "(A) cook — (B) angry",
+      "(A) study — (B) busy",
+      "(A) talk — (B) closer",
+      "(A) eat — (B) full"
+    ],
+    "answer": 3,
+    "translation": "한 학교가 '휴대전화 없는 점심' 규칙을 시작했다. 학생들은 점심 전에 휴대전화를 상자에 넣었다. 처음에는 지루해했다. 하지만 곧 친구들과 더 많이 이야기하기 시작했다. 한 달 뒤 많은 학생이 친구들과 더 가까워졌다고 느낀다고 말했다. ▶ 점심에 휴대전화를 치우면 친구들과 더 많이 이야기하고 더 가깝게 느낄 수 있다.",
+    "why": "학생들이 친구들과 더 이야기하고 더 가까워졌으므로 (A)는 talk, (B)는 closer입니다.",
+    "optionNotes": [
+      "run과 tired는 글에 나오지 않습니다.",
+      "cook과 angry는 글에 나오지 않습니다.",
+      "study와 busy는 글에 나오지 않습니다.",
+      "정답. 더 이야기하고 더 가깝게 느낍니다.",
+      "eat과 full은 글에 나오지 않습니다."
+    ],
+    "trap": "점심(lunch) 때문에 'eat'을 고르지 마세요.",
+    "tip": "요약문은 결과 두 가지(talk more, felt closer)를 글에서 찾으세요."
+  }
+]

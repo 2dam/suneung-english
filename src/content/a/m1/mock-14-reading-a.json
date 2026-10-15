@@ -1,0 +1,333 @@
+[
+  {
+    "id": "m1-14-18",
+    "level": "m1",
+    "set": "mock-14",
+    "no": 18,
+    "type": "purpose",
+    "stem": "다음 글을 쓴 목적으로 가장 적절한 것은?",
+    "passage": "Dear students,\nMany things are in the lost and found box now. There are jackets, water bottles, and umbrellas. Please come to the office and check the box by Friday. Unclaimed items will be given to a charity next week.\nOffice",
+    "options": [
+      "새 교복 디자인을 소개하려고",
+      "교내 동아리 가입을 권유하려고",
+      "급식실 이용 규칙이 바뀐 것을 설명하려고",
+      "도서관 휴관을 알리려고",
+      "분실물을 찾아가라고 안내하려고"
+    ],
+    "answer": 4,
+    "translation": "학생 여러분께. 지금 분실물 보관함에 많은 물건이 있습니다. 재킷, 물병, 우산이 있습니다. 금요일까지 사무실에 와서 보관함을 확인해 주세요. 찾아가지 않은 물건은 다음 주에 자선 단체에 기부됩니다. 사무실.",
+    "why": "분실물 보관함의 물건을 금요일까지 찾아가라고 안내하는 글입니다.",
+    "optionNotes": [
+      "교복 이야기는 나오지 않습니다.",
+      "동아리 이야기는 나오지 않습니다.",
+      "급식실 규칙은 나오지 않습니다.",
+      "휴관 이야기는 나오지 않습니다.",
+      "정답. 분실물을 찾아가라고 안내합니다."
+    ],
+    "trap": "'charity'는 찾아가지 않은 물건의 처리 방법일 뿐입니다.",
+    "tip": "목적 문제는 'Please ~' 문장에서 요청 내용을 찾으세요."
+  },
+  {
+    "id": "m1-14-19",
+    "level": "m1",
+    "set": "mock-14",
+    "no": 19,
+    "type": "mood",
+    "stem": "다음 글에 드러난 'I'의 심경 변화로 가장 적절한 것은?",
+    "passage": "I stood at the edge of the stage for the school play. My hands were cold, and my heart was beating fast. When it was my turn, I forgot my line. The room became very quiet. Then my friend whispered the first word. I remembered the line and said it. People clapped, and I let out a long breath.",
+    "options": [
+      "worried → relieved",
+      "bored → angry",
+      "proud → lonely",
+      "excited → jealous",
+      "sad → surprised"
+    ],
+    "answer": 0,
+    "translation": "나는 학교 연극을 위해 무대 가장자리에 서 있었다. 손은 차가웠고 심장은 빠르게 뛰었다. 내 차례가 되었을 때 나는 대사를 잊었다. 방 안이 매우 조용해졌다. 그때 친구가 첫 단어를 속삭여 주었다. 나는 대사가 기억나서 말했다. 사람들이 박수를 쳤고 나는 긴 숨을 내쉬었다.",
+    "why": "긴장하고 걱정하다가(worried), 박수를 받고 안도했습니다(relieved).",
+    "optionNotes": [
+      "정답. 걱정에서 안도로 변했습니다.",
+      "지루함에서 화남이 아닙니다.",
+      "자랑스러움에서 외로움이 아닙니다.",
+      "신남에서 질투가 아닙니다.",
+      "슬픔에서 놀람이 아닙니다."
+    ],
+    "trap": "조용해진 장면(The room became very quiet)만 보고 슬픔으로 판단하지 마세요.",
+    "tip": "처음의 긴장 표현(cold hands, heart beating fast)과 마지막 장면을 비교하세요."
+  },
+  {
+    "id": "m1-14-20",
+    "level": "m1",
+    "set": "mock-14",
+    "no": 20,
+    "type": "claim",
+    "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+    "passage": "Our school uses a lot of paper every day. For one box of paper, many trees are cut down. But many students use only one side of a sheet and throw the other side away. Using both sides of paper costs nothing. So we should use both sides of paper.",
+    "options": [
+      "종이는 양면을 모두 사용해야 한다.",
+      "새 공책은 매달 한 권씩 사야 한다.",
+      "수업 시간에는 컴퓨터를 사용하면 안 된다.",
+      "나무를 심는 행사를 더 자주 열어야 한다.",
+      "학교는 인쇄실 이용 시간을 늘려야 한다."
+    ],
+    "answer": 0,
+    "translation": "우리 학교는 매일 많은 종이를 사용한다. 종이 한 상자를 만들려면 많은 나무가 베어진다. 하지만 많은 학생이 종이의 한 면만 쓰고 다른 면은 버린다. 종이의 양면을 쓰는 데는 돈이 들지 않는다. 그러므로 우리는 종이의 양면을 써야 한다.",
+    "why": "마지막 문장 'we should use both sides of paper'가 필자의 주장입니다.",
+    "optionNotes": [
+      "정답. 종이의 양면을 사용해야 합니다.",
+      "새 공책 구입은 나오지 않습니다.",
+      "컴퓨터 사용은 나오지 않습니다.",
+      "나무 심기 행사는 나오지 않습니다.",
+      "인쇄실 이용 시간은 나오지 않습니다."
+    ],
+    "trap": "나무 이야기를 보고 ④를 고르지 마세요. 필자의 주장은 종이 사용 방법입니다.",
+    "tip": "주장 문제는 'So we should ~' 문장을 찾으세요."
+  },
+  {
+    "id": "m1-14-21",
+    "level": "m1",
+    "set": "mock-14",
+    "no": 21,
+    "type": "implied",
+    "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "passage": "The math quiz today was {u|a piece of cake}. I finished it in ten minutes. I got every answer right, and my teacher was happy.",
+    "options": [
+      "a small cake cut in pieces",
+      "a gift for a special day",
+      "something that is very easy to do",
+      "a hard problem to solve",
+      "a snack after dinner"
+    ],
+    "answer": 2,
+    "translation": "오늘 수학 퀴즈는 식은 죽 먹기였다. 나는 10분 만에 끝냈다. 모든 답이 맞았고 선생님은 기뻐하셨다.",
+    "why": "10분 만에 끝내고 모두 맞혔다고 했으므로 'a piece of cake'는 아주 쉬운 일이라는 뜻입니다.",
+    "optionNotes": [
+      "조각 케이크라는 뜻이 아닙니다.",
+      "특별한 날의 선물이라는 뜻이 아닙니다.",
+      "정답. 아주 쉬운 일이라는 뜻입니다.",
+      "어려운 문제라는 뜻이 아닙니다.",
+      "저녁 후 간식이라는 뜻이 아닙니다."
+    ],
+    "trap": "'cake'를 문자 그대로 해석하지 마세요.",
+    "tip": "관용 표현은 앞뒤 문장(finished in ten minutes)에서 의미를 확인하세요."
+  },
+  {
+    "id": "m1-14-22",
+    "level": "m1",
+    "set": "mock-14",
+    "no": 22,
+    "type": "gist",
+    "stem": "다음 글의 요지로 가장 적절한 것은?",
+    "passage": "Many students are shy when they speak English. They worry about making mistakes. But reading aloud can help. When you read aloud every day, you get used to English sounds. Your mouth also moves more easily. After a few weeks, you will speak with more confidence.",
+    "options": [
+      "영어 책은 너무 어렵지 않은 쉬운 것만 골라서 읽어야 한다.",
+      "영어는 큰 소리로 말하면 안 된다.",
+      "실수한 학생은 벌을 받아야 한다.",
+      "소리 내어 읽으면 영어 말하기에 자신감이 생긴다.",
+      "영어는 혼자 공부하지 않는 것이 좋다."
+    ],
+    "answer": 3,
+    "translation": "많은 학생이 영어로 말할 때 수줍어한다. 그들은 실수할까 봐 걱정한다. 하지만 소리 내어 읽기가 도움이 될 수 있다. 매일 소리 내어 읽으면 영어 소리에 익숙해진다. 입도 더 쉽게 움직인다. 몇 주 뒤에는 더 자신 있게 말하게 될 것이다.",
+    "why": "매일 소리 내어 읽으면 영어 말하기에 자신감이 생긴다는 것이 요지입니다.",
+    "optionNotes": [
+      "책의 난이도는 나오지 않습니다.",
+      "글과 반대입니다.",
+      "벌 이야기는 나오지 않습니다.",
+      "정답. 소리 내어 읽으면 자신감이 생깁니다.",
+      "혼자 공부 여부는 나오지 않습니다."
+    ],
+    "trap": "첫 문장의 'shy'를 요지로 착각하지 마세요.",
+    "tip": "But 뒤의 문장이 요지를 담습니다."
+  },
+  {
+    "id": "m1-14-23",
+    "level": "m1",
+    "set": "mock-14",
+    "no": 23,
+    "type": "topic",
+    "stem": "다음 글의 주제로 가장 적절한 것은?",
+    "passage": "Bees fly from flower to flower and collect sweet juice called nectar. They carry it back to the hive. There, other bees fan their wings to make the nectar thick. Then they store it in small wax rooms. After a few days, the nectar becomes honey.",
+    "options": [
+      "why bees sting people when they are angry",
+      "how bees make honey",
+      "where bees live in winter",
+      "what flowers need to grow well",
+      "how bees talk to people"
+    ],
+    "answer": 1,
+    "translation": "벌은 꽃에서 꽃으로 날아다니며 꿀물이라 불리는 달콤한 즙을 모은다. 그것을 벌집으로 가져온다. 그곳에서 다른 벌들이 날개를 부채질해 꿀물을 걸쭉하게 만든다. 그런 다음 작은 밀랍 방에 저장한다. 며칠 뒤 꿀물은 꿀이 된다.",
+    "why": "벌이 꿀물을 모아 꿀로 만드는 과정을 설명하는 글입니다.",
+    "optionNotes": [
+      "침을 쏘는 이유는 나오지 않습니다.",
+      "정답. 꿀을 만드는 과정입니다.",
+      "겨울 서식지는 나오지 않습니다.",
+      "꽃의 성장 조건은 나오지 않습니다.",
+      "사람과 대화하는 내용은 나오지 않습니다."
+    ],
+    "trap": "'flower'가 나온다고 ④를 고르지 마세요.",
+    "tip": "주제는 글 전체가 답하는 'how' 질문을 찾으세요."
+  },
+  {
+    "id": "m1-14-24",
+    "level": "m1",
+    "set": "mock-14",
+    "no": 24,
+    "type": "title",
+    "stem": "다음 글의 제목으로 가장 적절한 것은?",
+    "passage": "Our school has a small band of five students. They practice every Tuesday and Thursday after school. At first, the songs were hard, so they often made mistakes. But they helped each other and did not give up. Next month, they will play at the school concert for all students.",
+    "options": [
+      "A Wonderful Trip to the Big City with My Family",
+      "The Rules of the School Library",
+      "Our School Band Gets Ready for a Concert",
+      "Why We Need More Sleep",
+      "Ten Ways to Make a Paper Boat"
+    ],
+    "answer": 2,
+    "translation": "우리 학교에는 다섯 명의 학생으로 이루어진 작은 밴드가 있다. 그들은 방과 후 화요일과 목요일마다 연습한다. 처음에는 노래가 어려워서 자주 실수했다. 하지만 서로 도우며 포기하지 않았다. 다음 달 그들은 모든 학생 앞에서 학교 음악회에서 연주할 것이다.",
+    "why": "학교 밴드가 음악회를 준비하는 이야기이므로 ③이 제목입니다.",
+    "optionNotes": [
+      "도시 여행은 나오지 않습니다.",
+      "도서관 규칙은 나오지 않습니다.",
+      "정답. 학교 밴드의 음악회 준비 이야기입니다.",
+      "잠의 필요성은 나오지 않습니다.",
+      "종이배 접기는 나오지 않습니다."
+    ],
+    "trap": "'mistakes'만 보고 다른 제목을 고르지 마세요.",
+    "tip": "제목은 주인공(school band)과 핵심 사건(concert)을 담으세요."
+  },
+  {
+    "id": "m1-14-25",
+    "level": "m1",
+    "set": "mock-14",
+    "no": 25,
+    "type": "chart",
+    "stem": "다음 도표의 내용과 일치하지 않는 것은?",
+    "chart": {
+      "title": "Minutes of Homework (Sam)",
+      "unit": "minutes",
+      "labels": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri"
+      ],
+      "series": [
+        {
+          "name": "Minutes",
+          "values": [
+            30,
+            45,
+            60,
+            20,
+            40
+          ]
+        }
+      ]
+    },
+    "passage": "The graph shows how many minutes Sam spent on homework from Monday to Friday. ① Sam spent the most time on Wednesday. ② He spent 45 minutes on Tuesday. ③ He spent more time on Friday than on Tuesday. ④ Thursday is the day he spent the least time. ⑤ He spent 30 minutes on Monday.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "그래프는 샘이 월요일부터 금요일까지 숙제에 쓴 시간(분)을 보여 준다. ① 샘은 수요일에 가장 많은 시간을 썼다. ② 화요일에는 45분을 썼다. ③ 금요일에는 화요일보다 더 많은 시간을 썼다. ④ 목요일은 가장 적은 시간을 쓴 날이다. ⑤ 월요일에는 30분을 썼다.",
+    "why": "금요일은 40분, 화요일은 45분이므로 금요일에 더 많이 썼다는 ③은 일치하지 않습니다.",
+    "optionNotes": [
+      "수요일 60분이 가장 많습니다.",
+      "화요일은 45분입니다.",
+      "정답(불일치). 금요일(40분)은 화요일(45분)보다 적습니다.",
+      "목요일 20분이 가장 적습니다.",
+      "월요일은 30분입니다."
+    ],
+    "trap": "화요일(45)과 금요일(40)의 숫자를 바꿔 읽기 쉽습니다.",
+    "tip": "비교 표현(more ~ than)은 두 막대를 직접 비교해 확인하세요."
+  },
+  {
+    "id": "m1-14-26",
+    "level": "m1",
+    "set": "mock-14",
+    "no": 26,
+    "type": "match",
+    "stem": "Leo에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Leo is a twelve-year-old boy who lives in Busan. He loves cooking. Every Saturday, he makes breakfast for his family. Last month, he learned to bake bread from his grandmother. He wants to open a small bakery someday.",
+    "options": [
+      "열세 살이고 서울에 산다.",
+      "매일 아침 가족에게 요리해 준다.",
+      "친구에게 빵 만드는 법을 배웠다.",
+      "이미 작은 빵집을 열었다.",
+      "토요일마다 가족을 위해 아침 식사를 만든다."
+    ],
+    "answer": 4,
+    "translation": "리오는 부산에 사는 열두 살 소년이다. 그는 요리를 아주 좋아한다. 매주 토요일 그는 가족을 위해 아침을 만든다. 지난달에는 할머니께 빵 굽는 법을 배웠다. 그는 언젠가 작은 빵집을 열고 싶어 한다.",
+    "why": "'Every Saturday, he makes breakfast for his family.'와 일치합니다.",
+    "optionNotes": [
+      "열두 살이고 부산에 삽니다.",
+      "매일이 아니라 토요일마다입니다.",
+      "할머니께 배웠습니다.",
+      "언젠가 열고 싶어 하는 단계입니다.",
+      "정답. 토요일마다 가족을 위해 아침을 만듭니다."
+    ],
+    "trap": "요일(Saturday/every day)과 배운 사람(grandmother/friend)을 바꾼 보기에 주의하세요.",
+    "tip": "일치 문제는 보기의 핵심 단어를 하나씩 대조하세요."
+  },
+  {
+    "id": "m1-14-27",
+    "level": "m1",
+    "set": "mock-14",
+    "no": 27,
+    "type": "notice",
+    "stem": "Science Fair에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Science Fair\nShow your best project!\nDate: Thursday, May 9\nTime: 1:00 p.m. – 3:00 p.m.\nPlace: School gym\nBring: Your project and a name card\nPrize: The best project gets a medal.\nNote: Food and drinks are not allowed.",
+    "options": [
+      "행사는 체육관이 아니라 도서관에서 열린다.",
+      "참가자는 자기 작품과 이름표를 가져와야 한다.",
+      "오전 10시에 시작한다.",
+      "행사장 안에서 간식과 음료를 먹을 수 있다.",
+      "최우수상을 받은 학생은 새 책 한 권을 받는다."
+    ],
+    "answer": 1,
+    "translation": "과학 박람회. 최고의 작품을 보여 주세요! 날짜: 5월 9일 목요일. 시간: 오후 1시~3시. 장소: 학교 체육관. 가져올 것: 작품과 이름표. 상: 최고 작품은 메달을 받습니다. 유의: 음식과 음료는 허용되지 않습니다.",
+    "why": "'Bring: Your project and a name card'와 일치합니다.",
+    "optionNotes": [
+      "체육관에서 열립니다.",
+      "정답. 작품과 이름표를 가져옵니다.",
+      "오후 1시에 시작합니다.",
+      "음식과 음료는 허용되지 않습니다.",
+      "메달을 받습니다."
+    ],
+    "trap": "⑤도 안내문과 비슷해 보이지만 문제의 정답은 'Bring' 항목입니다.",
+    "tip": "안내문은 항목(Time, Place, Bring, Prize, Note)별로 대조하세요."
+  },
+  {
+    "id": "m1-14-28",
+    "level": "m1",
+    "set": "mock-14",
+    "no": 28,
+    "type": "notice",
+    "stem": "Swimming Class에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Swimming Class for Beginners\nTime: Monday and Wednesday, 4:00 p.m. – 5:00 p.m.\nFee: $20 per month\nBring: Swimsuit, swimming cap, and towel\nRegister: At the front desk by Friday\nNote: Children under 7 cannot join this class.",
+    "options": [
+      "수업은 주말에만 있다.",
+      "한 달 수강료는 30달러이다.",
+      "7세 미만도 참가할 수 있다.",
+      "수영복, 수영 모자, 수건을 가져와야 한다.",
+      "수업에 참가하려면 토요일까지 안내 데스크에서 등록해야 한다."
+    ],
+    "answer": 3,
+    "translation": "초보자 수영 수업. 시간: 월요일과 수요일 오후 4시~5시. 수강료: 한 달 20달러. 가져올 것: 수영복, 수영 모자, 수건. 등록: 금요일까지 안내 데스크에서. 유의: 7세 미만 어린이는 이 수업에 참가할 수 없습니다.",
+    "why": "'Bring: Swimsuit, swimming cap, and towel'과 일치합니다.",
+    "optionNotes": [
+      "월요일과 수요일에 있습니다.",
+      "수강료는 20달러입니다.",
+      "7세 미만은 참가할 수 없습니다.",
+      "정답. 수영복, 수영 모자, 수건을 가져옵니다.",
+      "금요일까지 등록합니다."
+    ],
+    "trap": "등록 마감 요일(Friday/Saturday)을 바꾼 ⑤에 주의하세요.",
+    "tip": "세부 정보(요일, 금액, 나이)는 숫자와 요일을 하나씩 대조하세요."
+  }
+]
