@@ -1,0 +1,147 @@
+[
+  {
+    "id": "m3b-02-41",
+    "level": "m3",
+    "set": "mock-02",
+    "no": 41,
+    "type": "long",
+    "group": "m3b-02-g41",
+    "stem": "[41~42] 윗글의 제목으로 가장 적절한 것을 고르시오.",
+    "passage": "Beneath the surface of the Pacific Ocean lies a vast plain covered with small, potato-shaped rocks called polymetallic nodules. These nodules contain metals such as nickel, cobalt, and manganese, which are essential for the batteries used in electric vehicles and renewable energy systems. As the demand for these metals {1|grows}, several companies are preparing to harvest the nodules from the seafloor. Supporters argue that deep-sea mining could {2|ease} the pressure on land-based mines, which often damage forests and displace local communities. However, scientists warn that the deep ocean is one of the least understood environments on Earth. Many of the animals that live there grow very slowly, so even a small disturbance could cause {3|temporary} harm that lasts for centuries. The mining machines also produce clouds of fine sediment that can {4|spread} over hundreds of kilometers and smother living organisms. Because the long-term effects remain {5|uncertain}, many experts call for a pause until more research has been completed. Others reply that delay would only prolong the damage caused by mining on land. Both sides agree on one point: a decision made without enough knowledge may be impossible to reverse.",
+    "options": [
+      "How Electric Vehicles Are Replacing Gasoline Cars Around the World",
+      "The Best Ways to Recycle the Batteries of Old Smartphones and Laptops",
+      "Why Land-Based Mines Will Soon Disappear from Every Continent",
+      "Treasure or Trouble? The Debate over Mining the Deep Sea",
+      "A Complete Guide to the Animals Living in the Pacific Ocean"
+    ],
+    "answer": 3,
+    "translation": "태평양의 표면 아래에는 다금속 단괴라는 작고 감자 모양의 돌로 뒤덮인 거대한 평원이 있다. 이 단괴에는 전기차와 재생 에너지 시스템의 배터리에 필수적인 니켈, 코발트, 망간 같은 금속이 들어 있다. 이 금속에 대한 수요가 커지면서 여러 회사가 해저에서 단괴를 채취할 준비를 하고 있다. 지지자들은 심해 채굴이 숲을 훼손하고 지역 공동체를 몰아내는 육지 광산의 부담을 덜어 줄 수 있다고 주장한다. 그러나 과학자들은 심해가 지구에서 가장 덜 알려진 환경 중 하나라고 경고한다. 그곳에 사는 많은 동물은 아주 천천히 자라므로 작은 교란도 수 세기 동안 이어지는 영구적인 피해를 낳을 수 있다. 채굴 기계는 또한 수백 킬로미터에 걸쳐 퍼져 생물을 질식시킬 수 있는 고운 퇴적물 구름을 만든다. 장기적 영향이 불확실하므로 많은 전문가는 더 많은 연구가 끝날 때까지 중단을 요구한다. 다른 이들은 지연이 육지 채굴이 일으키는 피해만 연장할 것이라고 답한다. 양측은 한 가지에 동의한다. 충분한 지식 없이 내린 결정은 되돌릴 수 없을지도 모른다는 것이다.",
+    "why": "심해 채굴의 이점과 위험을 둘러싼 논쟁을 다루므로 ④가 제목입니다.",
+    "optionNotes": [
+      "전기차 보급이 아니라 그 재료의 채굴이 주제입니다.",
+      "배터리 재활용은 나오지 않습니다.",
+      "육지 광산이 사라진다는 내용은 없습니다.",
+      "정답. 심해 채굴을 둘러싼 논쟁입니다.",
+      "해양 동물 안내는 나오지 않습니다."
+    ],
+    "trap": "'electric vehicles'가 나온다고 ①을 고르지 마세요. 채굴의 필요 배경일 뿐입니다.",
+    "tip": "제목은 글의 중심 쟁점(debate)과 대상(deep-sea mining)을 담으세요."
+  },
+  {
+    "id": "m3b-02-42",
+    "level": "m3",
+    "set": "mock-02",
+    "no": 42,
+    "type": "long",
+    "group": "m3b-02-g41",
+    "stem": "[41~42] 밑줄 친 ①~⑤ 중에서 문맥상 낱말의 쓰임이 적절하지 않은 것을 고르시오.",
+    "passage": "Beneath the surface of the Pacific Ocean lies a vast plain covered with small, potato-shaped rocks called polymetallic nodules. These nodules contain metals such as nickel, cobalt, and manganese, which are essential for the batteries used in electric vehicles and renewable energy systems. As the demand for these metals {1|grows}, several companies are preparing to harvest the nodules from the seafloor. Supporters argue that deep-sea mining could {2|ease} the pressure on land-based mines, which often damage forests and displace local communities. However, scientists warn that the deep ocean is one of the least understood environments on Earth. Many of the animals that live there grow very slowly, so even a small disturbance could cause {3|temporary} harm that lasts for centuries. The mining machines also produce clouds of fine sediment that can {4|spread} over hundreds of kilometers and smother living organisms. Because the long-term effects remain {5|uncertain}, many experts call for a pause until more research has been completed. Others reply that delay would only prolong the damage caused by mining on land. Both sides agree on one point: a decision made without enough knowledge may be impossible to reverse.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "(41번 지문과 같은 글입니다.)",
+    "why": "동물이 아주 천천히 자라므로 작은 교란도 수 세기 지속되는 피해를 낳는다는 흐름이므로 'temporary(일시적인)'가 아니라 'permanent(영구적인)'여야 합니다.",
+    "optionNotes": [
+      "수요가 커진다는 의미로 grows가 알맞습니다.",
+      "육지 광산의 압력을 덜어 준다는 의미로 ease가 알맞습니다.",
+      "정답(부적절). 수 세기 이어지는 피해이므로 permanent여야 합니다.",
+      "수백 킬로미터에 퍼진다는 의미로 spread가 알맞습니다.",
+      "장기적 영향이 불확실하다는 의미로 uncertain이 알맞습니다."
+    ],
+    "trap": "'harm that lasts for centuries'의 수식어와 어울리는 형용사의 의미를 확인해야 합니다.",
+    "tip": "관계절(that lasts for centuries)의 의미와 수식받는 명사의 수식어가 모순되지 않는지 확인하세요."
+  },
+  {
+    "id": "m3b-02-43",
+    "level": "m3",
+    "set": "mock-02",
+    "no": 43,
+    "type": "long",
+    "group": "m3b-02-g43",
+    "stem": "[43~45] 주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것을 고르시오.",
+    "passage": "(A) Nara had spent two years restoring an old fishing boat that she found abandoned in the harbor of her small hometown. On the morning of the town's summer festival, {1|she} finally pushed it into the water.\n(B) That evening, sitting on the pier with sore hands, {2|she} realized that the boat had never really been the point. What mattered was the patience and skill that she had gained over two years of work.\n(C) To her relief, the boat floated steadily. {3|She} climbed aboard, started the small engine, and sailed past the cheering crowd on the pier.\n(D) Halfway across the bay, the engine began to cough and then stopped completely. Nara's old neighbor, Mr. Baek, who had been following in his own boat, pulled alongside. {4|He} tossed her a rope and calmly showed her how to tow the boat back to the harbor, while {5|she} laughed at her own bad luck.",
+    "options": [
+      "(B)-(D)-(C)",
+      "(C)-(B)-(D)",
+      "(C)-(D)-(B)",
+      "(D)-(B)-(C)",
+      "(D)-(C)-(B)"
+    ],
+    "answer": 2,
+    "translation": "(A) 나라는 작은 고향 마을의 항구에 버려진 낡은 어선을 발견해 이 년 동안 복원했다. 마을 여름 축제 날 아침 그녀는 마침내 배를 물에 밀어 넣었다. (C) 안도하게도 배는 안정적으로 떴다. 그녀는 배에 올라 작은 엔진을 켜고 부두에서 환호하는 군중을 지나 항해했다. (D) 만의 중간쯤에서 엔진이 쿨럭거리더니 완전히 멈췄다. 자신의 배로 뒤따르던 나라의 이웃 백 씨가 옆으로 다가왔다. 그는 그녀에게 밧줄을 던지고 배를 항구로 끌고 가는 방법을 침착하게 알려 주었고 그동안 그녀는 자신의 불운에 웃었다. (B) 그날 저녁 부두에 앉아 아픈 손을 쥔 채 그녀는 그 배가 결코 핵심이 아니었음을 깨달았다. 중요한 것은 이 년의 작업 동안 얻은 인내와 기술이었다.",
+    "why": "(A) 배를 물에 띄움 → (C) 안정적으로 떠서 출항 → (D) 만 중간에서 엔진 고장과 이웃의 도움 → (B) 저녁의 깨달음 순서입니다.",
+    "optionNotes": [
+      "(B)의 저녁 깨달음이 출항 전에 올 수 없습니다.",
+      "(B)가 (D)보다 앞서면 사건 전에 깨달음이 나옵니다.",
+      "정답. 출항 → 고장과 도움 → 저녁의 깨달음.",
+      "(D)의 'the engine'이 가리킬 엔진이 (C)에서 먼저 나와야 합니다.",
+      "(D)가 (C)보다 앞서면 출항 전에 엔진이 고장 납니다."
+    ],
+    "trap": "(D)의 'the engine'은 (C)에서 나라가 켠 엔진입니다.",
+    "tip": "the engine, That evening 같은 정관사와 시간 표현을 단서로 삼으세요."
+  },
+  {
+    "id": "m3b-02-44",
+    "level": "m3",
+    "set": "mock-02",
+    "no": 44,
+    "type": "long",
+    "group": "m3b-02-g43",
+    "stem": "[43~45] 밑줄 친 ①~⑤ 중에서 가리키는 대상이 나머지 넷과 다른 것을 고르시오.",
+    "passage": "(A) Nara had spent two years restoring an old fishing boat that she found abandoned in the harbor of her small hometown. On the morning of the town's summer festival, {1|she} finally pushed it into the water.\n(B) That evening, sitting on the pier with sore hands, {2|she} realized that the boat had never really been the point. What mattered was the patience and skill that she had gained over two years of work.\n(C) To her relief, the boat floated steadily. {3|She} climbed aboard, started the small engine, and sailed past the cheering crowd on the pier.\n(D) Halfway across the bay, the engine began to cough and then stopped completely. Nara's old neighbor, Mr. Baek, who had been following in his own boat, pulled alongside. {4|He} tossed her a rope and calmly showed her how to tow the boat back to the harbor, while {5|she} laughed at her own bad luck.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "④의 He는 밧줄을 던지고 배를 끌고 가는 방법을 알려 준 이웃 백 씨이고, 나머지 ①②③⑤는 모두 나라를 가리킵니다.",
+    "optionNotes": [
+      "she는 배를 물에 민 나라입니다.",
+      "she는 저녁에 깨달은 나라입니다.",
+      "She는 배에 올라 출항한 나라입니다.",
+      "정답. He는 밧줄을 던진 백 씨입니다.",
+      "she는 자신의 불운에 웃은 나라입니다."
+    ],
+    "trap": "(D)에서 Nara, Mr. Baek, 그리고 대명사가 번갈아 나오므로 성별과 동작으로 구분하세요.",
+    "tip": "성별(he/she)과 동작의 주체(tossed her a rope)를 함께 확인하세요."
+  },
+  {
+    "id": "m3b-02-45",
+    "level": "m3",
+    "set": "mock-02",
+    "no": 45,
+    "type": "long",
+    "group": "m3b-02-g43",
+    "stem": "[43~45] 윗글에 관한 내용으로 적절하지 않은 것을 고르시오.",
+    "passage": "(A) Nara had spent two years restoring an old fishing boat that she found abandoned in the harbor of her small hometown. On the morning of the town's summer festival, {1|she} finally pushed it into the water.\n(B) That evening, sitting on the pier with sore hands, {2|she} realized that the boat had never really been the point. What mattered was the patience and skill that she had gained over two years of work.\n(C) To her relief, the boat floated steadily. {3|She} climbed aboard, started the small engine, and sailed past the cheering crowd on the pier.\n(D) Halfway across the bay, the engine began to cough and then stopped completely. Nara's old neighbor, Mr. Baek, who had been following in his own boat, pulled alongside. {4|He} tossed her a rope and calmly showed her how to tow the boat back to the harbor, while {5|she} laughed at her own bad luck.",
+    "options": [
+      "나라는 이 년 동안 마을 항구에 버려져 있던 낡은 어선을 포기하지 않고 꾸준히 손질하며 복원했다.",
+      "나라는 마을 여름 축제가 열리는 날 아침에 이 년 동안 복원한 배를 마침내 물에 띄웠다.",
+      "나라가 만의 한가운데쯤을 지날 때 엔진이 쿨럭거리다가 결국 완전히 멈추고 말았다.",
+      "이웃 백 씨는 자신의 배를 타고 멀리서 뒤따라오다가 엔진이 멈춘 나라의 배 옆으로 다가왔다.",
+      "나라는 백 씨의 도움을 받지 않고 혼자 힘으로 배를 항구로 끌고 왔다."
+    ],
+    "answer": 4,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "백 씨가 밧줄을 던지고 배를 끌고 가는 방법을 알려 주었으므로 도움을 받지 않았다는 ⑤는 일치하지 않습니다.",
+    "optionNotes": [
+      "spent two years restoring과 일치합니다.",
+      "On the morning of the festival ... pushed it into the water와 일치합니다.",
+      "the engine began to cough and then stopped와 일치합니다.",
+      "following in his own boat, pulled alongside와 일치합니다.",
+      "정답(불일치). 백 씨의 도움을 받았습니다."
+    ],
+    "trap": "'laughed at her own bad luck'을 혼자 해결했다는 의미로 오해하지 마세요.",
+    "tip": "불일치 문제는 인물의 행동(도움을 주고받음)을 반대로 바꾼 보기를 찾으세요."
+  }
+]

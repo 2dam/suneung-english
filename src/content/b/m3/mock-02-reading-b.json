@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m3b-02-29",
+    "level": "m3",
+    "set": "mock-02",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Scientists have long wondered why some people are naturally {1|better} at learning languages than others. A recent study suggests that the answer may lie in how the brain {2|processes} sounds. Researchers scanned the brains of fifty adults while they listened to unfamiliar speech. Those who later learned new vocabulary fastest were the ones whose brains showed {3|strongly} activity in the region linked to hearing. The researchers {4|point} out that this does not mean language ability is fixed, because the brain remains flexible throughout life. In fact, learners {5|who} practice regularly can improve their listening skills at any age.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "과학자들은 어떤 사람들이 다른 사람들보다 타고나게 언어를 더 잘 배우는 이유를 오랫동안 궁금해해 왔다. 최근 연구는 그 답이 뇌가 소리를 처리하는 방식에 있을지도 모른다고 시사한다. 연구자들은 낯선 말을 듣는 동안 성인 오십 명의 뇌를 촬영했고 나중에 새 어휘를 가장 빨리 배운 사람들은 청각과 관련된 영역에서 강한 활동을 보인 사람들이었다. 연구자들은 이것이 언어 능력이 고정되어 있다는 뜻은 아니라고 지적하는데, 뇌는 평생 유연하기 때문이다. 실제로 규칙적으로 연습하는 학습자는 어느 나이에도 듣기 실력을 향상시킬 수 있다.",
+    "why": "명사 'activity'를 수식하므로 부사 'strongly'가 아니라 형용사 'strong'이어야 합니다.",
+    "optionNotes": [
+      "be good at의 비교급 better입니다.",
+      "의문사 how 뒤의 절에서 주어 the brain에 맞는 processes입니다.",
+      "정답(틀린 것). 명사를 수식하므로 형용사 strong이어야 합니다.",
+      "주어 The researchers에 맞는 복수 동사 point입니다.",
+      "선행사 learners를 받는 주격 관계대명사 who입니다."
+    ],
+    "trap": "-ly로 끝나는 단어는 부사이므로 명사 앞에서는 쓸 수 없습니다.",
+    "tip": "수식받는 말이 명사인지 동사인지로 형용사·부사를 구분하세요."
+  },
+  {
+    "id": "m3b-02-30",
+    "level": "m3",
+    "set": "mock-02",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Plastic recycling is often described as a {1|simple} solution to the waste problem, but the reality is more complicated. Only about nine percent of all plastic ever produced has been recycled, mainly because different types of plastic must be {2|separated} before they can be processed. Even a small amount of food or another material can {3|contaminate} an entire batch, making it unusable. Furthermore, recycled plastic is often more expensive than new plastic, so companies have little {4|incentive} to buy it. For these reasons, many experts argue that recycling alone cannot solve the problem and that we must also {5|increase} the amount of plastic we produce.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "플라스틱 재활용은 흔히 쓰레기 문제의 간단한 해결책으로 묘사되지만 현실은 더 복잡하다. 지금까지 생산된 모든 플라스틱의 약 9퍼센트만이 재활용되었는데, 주된 이유는 서로 다른 종류의 플라스틱을 처리하기 전에 분리해야 하기 때문이다. 소량의 음식이나 다른 물질도 한 묶음 전체를 오염시켜 쓸 수 없게 만들 수 있다. 게다가 재활용 플라스틱은 새 플라스틱보다 비싼 경우가 많아 회사들은 그것을 살 유인이 거의 없다. 이런 이유로 많은 전문가는 재활용만으로는 문제를 해결할 수 없으며 우리가 생산하는 플라스틱의 양도 줄여야 한다고 주장한다.",
+    "why": "재활용만으로 해결할 수 없다는 흐름이므로 생산하는 플라스틱의 양을 'increase(늘리다)'가 아니라 'reduce(줄이다)'여야 합니다.",
+    "optionNotes": [
+      "'간단한 해결책'이라는 통념을 나타내는 simple이 알맞습니다.",
+      "종류별로 분리한다는 의미로 separated가 알맞습니다.",
+      "오염시킨다는 의미로 contaminate가 알맞습니다.",
+      "살 유인이 적다는 의미로 incentive가 알맞습니다.",
+      "정답(부적절). 쓰레기를 줄이는 방향이므로 reduce여야 합니다."
+    ],
+    "trap": "'we must also ~ the amount of plastic'에서 문제의 해결 방향(줄이기)을 확인해야 합니다.",
+    "tip": "전체 글의 결론(재활용만으로는 부족)과 마지막 동사의 방향이 맞는지 확인하세요."
+  },
+  {
+    "id": "m3b-02-31",
+    "level": "m3",
+    "set": "mock-02",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "For centuries, knowledge was preserved mainly in the memories of storytellers and in handwritten scrolls. When a library burned or an elder passed away, centuries of learning could vanish overnight. The invention of printing reduced this risk because multiple copies of a book could exist in many places at once. Today, digital storage has taken the idea even further, since a single file can be copied across the world in seconds. However, digital formats change quickly, and files that cannot be opened with new software may become unreadable within a few decades. Some archives have already lost many important recordings and documents for this very reason. This shows that preserving knowledge depends not only on making many copies but also on __________.",
+    "options": [
+      "making sure that every single copy of the files is stored in the same safe place for the whole century",
+      "keeping the means of reading the information accessible as technology changes",
+      "reducing the number of people who can have access to the files so that nobody can damage them",
+      "replacing old formats with newer ones without checking the contents of the files that are stored in them",
+      "teaching students to memorize everything by heart instead of relying on files and on computers at all"
+    ],
+    "answer": 1,
+    "translation": "수 세기 동안 지식은 주로 이야기꾼의 기억과 손으로 쓴 두루마리에 보존되었다. 도서관이 불타거나 어른이 세상을 떠나면 수 세기의 배움이 하룻밤에 사라질 수 있었다. 인쇄술의 발명은 한 책의 여러 사본이 여러 장소에 동시에 있을 수 있어 이 위험을 줄였다. 오늘날 디지털 저장은 한 파일이 몇 초 만에 전 세계로 복사될 수 있어 이 생각을 한층 더 밀고 나갔다. 그러나 디지털 형식은 빠르게 바뀌며 새 소프트웨어로 열 수 없는 파일은 몇십 년 안에 읽을 수 없게 될 수 있다. 이런 이유로 일부 기록 보관소는 이미 중요한 녹음 자료를 잃었다. 이는 지식을 보존하는 것이 많은 사본을 만드는 데만 달린 것이 아니라 기술이 바뀌어도 그 정보를 읽을 수단을 접근 가능하게 유지하는 데에도 달려 있음을 보여 준다.",
+    "why": "디지털 형식이 바뀌면 파일을 열 수 없게 될 수 있다고 했으므로 '기술이 바뀌어도 읽을 수단을 접근 가능하게 유지하는 것'이 알맞습니다.",
+    "optionNotes": [
+      "한곳에 보관하는 것은 사본을 여러 곳에 두는 인쇄의 이점과 반대입니다.",
+      "정답. 읽을 수단을 접근 가능하게 유지해야 합니다.",
+      "접근자를 줄이는 것은 글과 관계가 없습니다.",
+      "내용 확인 없이 형식을 바꾸는 것은 위험을 키웁니다.",
+      "암기를 가르치자는 말은 나오지 않습니다."
+    ],
+    "trap": "'not only A but also B'에서 A(copies)와 구별되는 B를 찾아야 합니다.",
+    "tip": "However 뒤의 문제(unreadable files)가 빈칸의 단서입니다."
+  },
+  {
+    "id": "m3b-02-32",
+    "level": "m3",
+    "set": "mock-02",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "When an emergency happens in a crowded place, you might expect that someone will immediately step in to help. Surprisingly, psychologists have found that people are less likely to act when more bystanders are present. This is known as the bystander effect. In a famous experiment, participants who believed they were alone with a person in distress helped almost every time, but only a small number acted when they believed that others were nearby. Each person assumes that someone else will take responsibility, so in the end no one does. Similar results have been found in many countries and in many different situations. Understanding this tendency can change our behavior, because once we realize that a crowd is no guarantee of help, we can decide to __________.",
+    "options": [
+      "leave the place quickly so that we do not become involved",
+      "wait for an official to tell us what we should do next",
+      "take the first step ourselves instead of waiting for someone else to act",
+      "assume that the person in distress is pretending",
+      "report the situation to the newspaper to find a witness"
+    ],
+    "answer": 2,
+    "translation": "붐비는 곳에서 비상 상황이 생기면 누군가 즉시 나서서 도울 것이라고 기대할 수 있다. 놀랍게도 심리학자들은 구경꾼이 더 많이 있을수록 사람들이 행동할 가능성이 낮아진다는 것을 발견했다. 이는 방관자 효과로 알려져 있다. 한 유명한 실험에서 어려움에 처한 사람과 자신만 있다고 믿은 참가자는 거의 매번 도왔지만 근처에 다른 사람이 있다고 믿었을 때는 소수만 행동했다. 각자 다른 누군가가 책임을 질 것이라고 가정하므로 결국 아무도 책임지지 않는다. 비슷한 결과가 여러 나라와 다양한 상황에서 발견되었다. 이 경향을 이해하면 행동이 바뀔 수 있는데, 군중이 도움을 보장하지 않는다는 것을 깨달으면 다른 누군가가 행동하기를 기다리는 대신 우리 스스로 첫걸음을 내딛기로 결정할 수 있기 때문이다.",
+    "why": "군중이 도움을 보장하지 않으므로 다른 사람을 기다리지 않고 스스로 먼저 행동하기로 결정할 수 있다는 내용이 알맞습니다.",
+    "optionNotes": [
+      "자리를 피한다는 내용은 글의 취지와 반대입니다.",
+      "관계자를 기다린다는 내용은 방관자 효과의 모습입니다.",
+      "정답. 스스로 먼저 행동하기로 결정합니다.",
+      "연기한다고 가정한다는 내용은 나오지 않습니다.",
+      "신문에 알린다는 내용은 나오지 않습니다."
+    ],
+    "trap": "실험 결과(others nearby → less help)를 행동의 해결책으로 혼동하지 마세요.",
+    "tip": "'once we realize ~'의 깨달음 뒤에 오는 행동이 빈칸입니다."
+  },
+  {
+    "id": "m3b-02-33",
+    "level": "m3",
+    "set": "mock-02",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Imagine that you have bought a ticket for a concert, but on the day of the event you feel sick and the weather is terrible. Many people go anyway, because they do not want the money to be wasted. Economists call this the sunk cost fallacy: the tendency to continue an action because of the resources already invested in it, even when continuing is no longer the best choice. The money for the ticket is gone whether you attend or not, so it should not affect your decision. Governments and companies fall into the same trap, continuing failed projects only because they have already spent so much. A rational person would therefore treat past spending as a fact that cannot be changed. In other words, a rational decision should depend on __________.",
+    "options": [
+      "how much money we have already invested in the project",
+      "whether other people have made the same decision before us",
+      "how long we have waited to make a final decision",
+      "how much we regret the choices that we made in the past",
+      "what we can gain or lose from now on, rather than what we have already spent"
+    ],
+    "answer": 4,
+    "translation": "콘서트 표를 샀는데 당일에 몸이 아프고 날씨도 끔찍하다고 상상해 보라. 많은 사람은 돈이 낭비되는 것을 원치 않아서 그래도 간다. 경제학자들은 이를 매몰 비용 오류라고 부른다. 계속하는 것이 더 이상 최선의 선택이 아닐 때에도 이미 투자한 자원 때문에 행동을 이어 가려는 경향이다. 표 값은 가든 안 가든 사라졌으므로 결정에 영향을 주어서는 안 된다. 정부와 기업도 같은 함정에 빠져 이미 너무 많이 썼다는 이유만으로 실패한 사업을 계속한다. 따라서 합리적인 사람은 과거의 지출을 바꿀 수 없는 사실로 취급할 것이다. 다시 말해 합리적인 결정은 우리가 이미 쓴 것이 아니라 지금부터 얻거나 잃을 수 있는 것에 달려 있어야 한다.",
+    "why": "이미 쓴 비용은 결정에 영향을 주어서는 안 된다고 했으므로 '지금부터 얻거나 잃을 것'이 알맞습니다.",
+    "optionNotes": [
+      "이미 투자한 금액이 결정에 영향을 준다는 것은 오류 그 자체입니다.",
+      "다른 사람의 결정은 나오지 않습니다.",
+      "기다린 시간은 나오지 않습니다.",
+      "과거 선택에 대한 후회는 나오지 않습니다.",
+      "정답. 지금부터 얻거나 잃을 것에 근거해야 합니다."
+    ],
+    "trap": "'sunk cost'가 나오는 보기(①)를 고르지 마세요. 오류의 원인입니다.",
+    "tip": "'it should not affect your decision'이 빈칸의 반대 개념을 알려 줍니다."
+  },
+  {
+    "id": "m3b-02-34",
+    "level": "m3",
+    "set": "mock-02",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Cities that lack open land are increasingly turning their attention to rooftops. Millions of square meters on top of apartments and office buildings remain unused, exposed to the sun and the rain. Covering these surfaces with plants creates what is known as a green roof. The layer of soil and vegetation absorbs rainwater, which reduces the risk of flooding in heavy storms. It also keeps buildings cooler in summer and warmer in winter, so owners can save on energy costs. In addition, insects and birds often make homes in these small gardens, which increases the biodiversity of the city. Some cities now even require new buildings to include a green roof. Rooftops, which were once nothing more than wasted space, can therefore become __________.",
+    "options": [
+      "productive environments that cool buildings, absorb rainwater, and provide homes for wildlife",
+      "dangerous places that residents should avoid during heavy rain",
+      "expensive spaces that only wealthy owners can afford to maintain",
+      "noisy areas where birds and insects disturb people in the buildings",
+      "empty surfaces that need nothing more than a layer of paint"
+    ],
+    "answer": 0,
+    "translation": "열린 땅이 부족한 도시들은 점점 옥상에 눈을 돌리고 있다. 아파트와 사무실 건물 위의 수백만 제곱미터는 햇빛과 비에 노출된 채 쓰이지 않고 있다. 이런 표면을 식물로 덮으면 녹색 지붕이라고 알려진 것이 만들어진다. 흙과 식물의 층은 빗물을 흡수하여 폭우 때 홍수 위험을 줄인다. 또한 건물을 여름에는 더 시원하게, 겨울에는 더 따뜻하게 유지해 주인이 에너지 비용을 절약할 수 있다. 게다가 곤충과 새가 이 작은 정원에 둥지를 트는 경우가 많아 도시의 생물 다양성이 높아진다. 일부 도시는 이제 새 건물에 녹색 지붕을 포함하도록 요구하기까지 한다. 한때 낭비된 공간에 불과했던 옥상은 따라서 건물을 식히고 빗물을 흡수하며 야생 동물에게 집을 제공하는 생산적인 환경이 될 수 있다.",
+    "why": "빗물 흡수, 냉난방 효과, 생물 다양성이라는 이점을 요약하므로 '건물을 식히고 빗물을 흡수하며 야생 동물의 집을 제공하는 생산적인 환경'이 알맞습니다.",
+    "optionNotes": [
+      "정답. 앞의 세 가지 이점을 요약합니다.",
+      "위험한 장소라는 내용은 글과 반대입니다.",
+      "비싸다는 내용은 나오지 않습니다.",
+      "소음 문제는 나오지 않습니다.",
+      "아무것도 필요 없는 빈 표면이라는 내용은 글과 반대입니다."
+    ],
+    "trap": "'wasted space'와 대비되는 개념을 찾아야 합니다.",
+    "tip": "앞 문장들의 이점(absorbs, cooler, biodiversity)을 한 문장으로 묶은 것이 빈칸입니다."
+  },
+  {
+    "id": "m3b-02-35",
+    "level": "m3",
+    "set": "mock-02",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Learning a musical instrument as a child has benefits that extend far beyond music itself. ① Practicing regularly teaches children discipline, since progress depends on steady effort rather than sudden talent. ② Reading music and coordinating both hands at the same time strengthen memory and concentration. ③ Playing in a group also develops teamwork, because each player must listen carefully to the others. ④ Studies have even found that children who study music perform better on some tests of language and mathematics. ⑤ The first piano with a modern keyboard was built in Italy at the beginning of the eighteenth century.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "어린 시절 악기를 배우는 것은 음악 자체를 훨씬 넘어서는 이점이 있다. ① 정기적으로 연습하면 진전이 갑작스러운 재능이 아니라 꾸준한 노력에 달려 있으므로 아이들은 규율을 배운다. ② 악보를 읽고 양손을 동시에 조율하는 것은 기억력과 집중력을 강화한다. ③ 합주는 각 연주자가 다른 사람의 소리를 주의 깊게 들어야 하므로 협동심도 기른다. ④ 연구는 음악을 배우는 아이들이 언어와 수학의 일부 시험에서 더 좋은 성적을 낸다는 것까지 발견했다. ⑤ 현대적 건반을 가진 첫 피아노는 18세기 초 이탈리아에서 만들어졌다.",
+    "why": "글은 악기 학습의 이점을 말하는데 ⑤는 피아노의 역사적 사실이라 흐름과 관계가 없습니다.",
+    "optionNotes": [
+      "규율이라는 이점입니다.",
+      "기억력과 집중력이라는 이점입니다.",
+      "협동심이라는 이점입니다.",
+      "학업 성취라는 이점입니다.",
+      "정답(무관). 피아노의 역사적 사실입니다."
+    ],
+    "trap": "'piano'가 악기 이야기와 연결되어 자연스러워 보일 수 있습니다.",
+    "tip": "주제(악기 학습의 이점)와 이어지지 않는 문장을 고르세요."
+  },
+  {
+    "id": "m3b-02-36",
+    "level": "m3",
+    "set": "mock-02",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "In the nineteenth century, many European cities struggled with a serious problem: crowded neighborhoods had no reliable source of clean drinking water. Many residents regularly fell ill, and thousands died in each outbreak.\n(A) This discovery convinced many scientists that water could carry disease, and it eventually led cities to build modern sewage and water-treatment systems.\n(B) His map showed that the cases clustered around a single public water pump, and when the authorities removed its handle, the number of new infections dropped sharply.\n(C) In 1854, a doctor in London named John Snow began to map the locations of cholera cases. He suspected that the disease was spreading through contaminated water rather than through the air, as most people believed at the time.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 4,
+    "translation": "19세기에 많은 유럽 도시는 심각한 문제로 고심했다. 붐비는 동네에 믿을 만한 깨끗한 식수원이 없었다. (C) 1854년 런던의 의사 존 스노는 콜레라 환자의 위치를 지도에 표시하기 시작했다. 그는 당시 대부분의 사람이 믿었던 것처럼 공기가 아니라 오염된 물을 통해 병이 퍼진다고 의심했다. (B) 그의 지도는 환자들이 한 공용 급수 펌프 주위에 몰려 있음을 보여 주었고, 당국이 펌프의 손잡이를 제거하자 새 감염자 수가 급격히 줄었다. (A) 이 발견은 많은 과학자에게 물이 질병을 옮길 수 있다고 확신하게 했고 결국 도시들이 현대적인 하수 및 정수 시스템을 짓도록 이끌었다.",
+    "why": "(C) 스노가 환자 위치를 지도에 표시 → (B) 'His map' 결과 → (A) 'This discovery' 영향 순서입니다.",
+    "optionNotes": [
+      "(A)의 'This discovery'가 가리킬 발견이 앞에 없습니다.",
+      "(B)의 'His map'이 가리킬 대상이 앞에 없습니다.",
+      "(B)가 (C)보다 앞서면 'His map'이 가리킬 대상이 없습니다.",
+      "(A)가 (B)보다 앞서면 발견 전에 영향이 나옵니다.",
+      "정답. 지도 작성 → 결과 → 영향."
+    ],
+    "trap": "(B)의 'His map'은 (C)에서 스노가 만들기 시작한 지도입니다.",
+    "tip": "소유격(His)과 지시어(This discovery)가 가리키는 앞 내용을 확인하세요."
+  },
+  {
+    "id": "m3b-02-37",
+    "level": "m3",
+    "set": "mock-02",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Many companies now use algorithms to screen job applications. They hope to make the process faster and fairer than decisions made by tired and sometimes biased human managers.\n(A) For example, one large company discovered that its tool consistently ranked male candidates higher. Most of the people it had hired in the past were men. The program had quietly learned to prefer them.\n(B) As a result, experts recommend that firms audit their systems regularly and keep humans involved in the final decision. This way, machines support rather than replace human judgment. Fairness, after all, requires constant attention from people.\n(C) However, algorithms learn from past data. If that data reflects old prejudices, the system may quietly repeat them while appearing perfectly objective.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 3,
+    "translation": "많은 회사는 이제 피곤하고 때로는 편향된 관리자의 결정보다 더 빠르고 공정한 과정을 기대하며 알고리즘으로 입사 지원서를 선별한다. (C) 그러나 알고리즘은 과거 데이터에서 배우며, 그 데이터가 오래된 편견을 반영하면 시스템은 완벽히 객관적으로 보이면서 조용히 그것을 되풀이할 수 있다. (A) 예를 들어 한 대기업은 과거에 채용한 사람 대부분이 남성이었기 때문에 자사의 도구가 일관되게 남성 지원자의 순위를 더 높게 매긴다는 것을 발견했다. (B) 그 결과 전문가들은 기업이 시스템을 정기적으로 점검하고 기계가 인간의 판단을 대체하지 않고 지원하도록 최종 결정에는 사람을 참여시키라고 권고한다.",
+    "why": "(C) However 문제 제기 → (A) For example 사례 → (B) As a result 권고 순서입니다.",
+    "optionNotes": [
+      "(A)의 'For example'이 앞의 주장 없이 올 수 없습니다.",
+      "(B)의 'As a result'가 가리킬 결과가 앞에 없습니다.",
+      "(B)가 앞서면 결과가 근거보다 먼저 나옵니다.",
+      "정답. 문제 제기 → 사례 → 권고.",
+      "(B)가 (A)보다 앞서면 사례 전에 권고가 나옵니다."
+    ],
+    "trap": "(A)의 'For example'은 (C)의 주장을 뒷받침하는 사례입니다.",
+    "tip": "However → For example → As a result의 논리 흐름을 따라가세요."
+  },
+  {
+    "id": "m3b-02-38",
+    "level": "m3",
+    "set": "mock-02",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThat is why many airlines now advise passengers to arrive at least two hours before international flights.\n\n[글]\n( ① ) Security screening at airports has become much more thorough over the past two decades. ( ② ) Every passenger must pass through a metal detector, and carry-on bags are scanned one by one. ( ③ ) During busy seasons, these checks alone can take more than an hour. ( ④ ) Those who ignore this advice often end up running through the terminal with their luggage. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "[주어진 문장] 그래서 많은 항공사는 이제 승객들에게 국제선 출발 적어도 두 시간 전에 도착하라고 권고한다. [글] 공항의 보안 검색은 지난 이십 년 동안 훨씬 철저해졌다. 모든 승객은 금속 탐지기를 통과해야 하고 기내 휴대 가방은 하나씩 검색된다. 바쁜 철에는 이런 검사만으로 한 시간이 넘게 걸릴 수 있다. 그래서 많은 항공사는 이제 승객들에게 국제선 출발 적어도 두 시간 전에 도착하라고 권고한다. 이 조언을 무시하는 사람들은 흔히 짐을 든 채 터미널을 뛰어다니게 된다.",
+    "why": "'That is why'는 앞의 이유(검색에 한 시간 넘게 걸림)를 받고, 뒤의 'this advice'가 이 권고를 가리키므로 ④에 들어갑니다.",
+    "optionNotes": [
+      "이유가 나오기 전입니다.",
+      "이유가 일부만 나왔습니다.",
+      "이유 문장 바로 뒤에 놓일 수 있지만 뒤의 'this advice'가 가리킬 권고가 아직 없습니다.",
+      "정답. 이유 직후이며 뒤의 'this advice'가 이 권고를 가리킵니다.",
+      "'this advice'가 가리킬 권고가 앞에 없어 어색합니다."
+    ],
+    "trap": "③ 뒤와 ④ 앞은 같은 위치입니다. 번호는 문장 사이의 공백을 기준으로 확인하세요.",
+    "tip": "'this + 명사'가 뒤에 있으면 그 명사를 처음 소개한 문장이 앞에 와야 합니다."
+  },
+  {
+    "id": "m3b-02-39",
+    "level": "m3",
+    "set": "mock-02",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nIn short, a good translation recreates the meaning and the feeling of a poem, not just its words.\n\n[글]\n( ① ) Translating a poem is far more difficult than translating a manual or a news article. ( ② ) A poem depends on rhythm, sound, and cultural references that rarely have exact equivalents in another language. ( ③ ) Translators therefore have to decide whether to preserve the literal meaning or the musical quality of the original. ( ④ ) Often, they sacrifice some words so that the overall feeling of the poem can survive. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "[주어진 문장] 요컨대 좋은 번역은 시의 단어뿐 아니라 의미와 느낌을 다시 만들어 낸다. [글] 시를 번역하는 것은 설명서나 뉴스 기사를 번역하는 것보다 훨씬 어렵다. 시는 다른 언어에서 정확한 대응어가 거의 없는 리듬, 소리, 문화적 언급에 의존한다. 그래서 번역가는 원문의 문자적 의미를 보존할지 음악적 성질을 보존할지 결정해야 한다. 흔히 그들은 시의 전체적인 느낌이 살아남도록 일부 단어를 희생한다. 요컨대 좋은 번역은 시의 단어뿐 아니라 의미와 느낌을 다시 만들어 낸다.",
+    "why": "'In short'는 앞 내용을 요약하는 결론이므로 글의 끝인 ⑤에 들어갑니다.",
+    "optionNotes": [
+      "요약할 내용이 나오기 전입니다.",
+      "시의 특징이 나오는 중입니다.",
+      "번역가의 결정이 나오는 중입니다.",
+      "마지막 설명 직전이라 요약이 이릅니다.",
+      "정답. 앞 내용을 요약하는 결론입니다."
+    ],
+    "trap": "④까지 읽으면 이미 결론처럼 보이지만 요약은 마지막에 와야 합니다.",
+    "tip": "'In short'는 앞 내용을 모아 정리하는 신호입니다."
+  },
+  {
+    "id": "m3b-02-40",
+    "level": "m3",
+    "set": "mock-02",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Researchers asked two groups of students to visit a museum. One group was told to photograph the objects they saw, while the other group was asked to simply look at them. The next day, both groups were tested on their memory of the objects. Surprisingly, the students who had taken photographs remembered fewer details than those who had only looked. The researchers explained that people who rely on a camera tend to hand the task of remembering over to the device, so their brains pay less attention to the actual experience. However, when students zoomed in on a specific part of an object before taking the picture, this negative effect disappeared.\n\n▶ Relying on a camera to (A) a moment can (B) our memory of it, unless we actively focus on its details.",
+    "options": [
+      "(A) capture — (B) weaken",
+      "(A) forget — (B) improve greatly",
+      "(A) describe — (B) replace completely",
+      "(A) create — (B) strengthen further",
+      "(A) avoid — (B) delay for years"
+    ],
+    "answer": 0,
+    "translation": "연구자들은 두 집단의 학생에게 박물관을 방문하게 했다. 한 집단은 본 물건의 사진을 찍으라고 했고 다른 집단은 그냥 보라고 했다. 다음 날 두 집단은 물건에 대한 기억을 시험받았다. 놀랍게도 사진을 찍은 학생들은 그냥 본 학생들보다 세부 사항을 더 적게 기억했다. 연구자들은 카메라에 의존하는 사람은 기억하는 일을 기기에 넘기는 경향이 있어서 그들의 뇌가 실제 경험에 더 적은 주의를 기울인다고 설명했다. 그러나 학생들이 사진을 찍기 전에 물건의 특정 부분을 확대해 보았을 때는 이 부정적인 효과가 사라졌다. ▶ 카메라에 의존해 순간을 담는 것은 우리가 세부 사항에 적극적으로 집중하지 않는 한 그것에 대한 기억을 약화시킬 수 있다.",
+    "why": "사진을 찍은 집단이 더 적게 기억했으므로 (A)는 capture, (B)는 weaken입니다.",
+    "optionNotes": [
+      "정답. 카메라로 담는 것이 기억을 약화시킵니다.",
+      "forget과 improve greatly는 글과 반대입니다.",
+      "describe와 replace completely는 글의 결과와 맞지 않습니다.",
+      "create와 strengthen further는 글과 반대입니다.",
+      "avoid와 delay for years는 글에 나오지 않습니다."
+    ],
+    "trap": "사진이 기억을 돕는다는 통념에 이끌려 improve가 들어간 보기를 고르지 마세요.",
+    "tip": "요약문은 실험 결과(photographed → remembered fewer)와 부정/긍정 방향을 맞추세요."
+  }
+]
