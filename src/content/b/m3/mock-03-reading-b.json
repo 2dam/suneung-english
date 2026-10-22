@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m3b-03-29",
+    "level": "m3",
+    "set": "mock-03",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "The Netherlands has more bicycles than people, and the country {1|is} famous for its cycling culture. This did not happen by chance. In the 1970s, thousands of children were killed in traffic accidents, which led citizens to demand safer streets. Not only {2|the government built} separate bike lanes, but it also redesigned intersections so that cyclists {3|could cross} them safely. Today, about a quarter of all trips in the country {4|are made} by bicycle, and in some cities the figure is more than half. Cycling keeps people healthy, reduces air pollution, and costs far less than driving. Many cities around the world now {5|look} to the Dutch example as they try to make their own streets more welcoming for cyclists.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "네덜란드는 사람보다 자전거가 더 많으며 자전거 문화로 유명하다. 이것은 우연히 일어난 일이 아니다. 1970년대에 수천 명의 아이들이 교통사고로 목숨을 잃었고, 이는 시민들이 더 안전한 거리를 요구하게 만들었다. 정부는 별도의 자전거 도로를 만들었을 뿐 아니라 자전거 이용자가 안전하게 건널 수 있도록 교차로도 다시 설계했다. 오늘날 이 나라 전체 이동의 약 4분의 1이 자전거로 이루어지며 일부 도시에서는 그 수치가 절반이 넘는다. 자전거 타기는 사람들을 건강하게 하고 대기 오염을 줄이며 운전보다 비용이 훨씬 적게 든다. 오늘날 세계의 많은 도시가 자신들의 거리를 자전거 이용자에게 더 친화적으로 만들려고 네덜란드의 사례를 참고한다.",
+    "why": "부정어구 'Not only'가 문장 앞에 오면 주어와 조동사가 도치되므로 'the government built'가 아니라 'did the government build'여야 합니다.",
+    "optionNotes": [
+      "주어 the country에 맞는 단수 동사 is입니다.",
+      "정답(틀린 것). Not only가 문두에 오면 도치되어 did the government build여야 합니다.",
+      "so that 절의 조동사 could cross입니다.",
+      "주어 trips에 맞는 복수 수동태 are made입니다.",
+      "주어 Many cities에 맞는 복수 동사 look입니다."
+    ],
+    "trap": "'Not only A but also B'에서 A가 문두에 오면 도치되는 점을 놓치기 쉽습니다.",
+    "tip": "Not only, Never, Hardly 같은 부정어구가 문장 앞에 오면 조동사가 주어 앞으로 나옵니다."
+  },
+  {
+    "id": "m3b-03-30",
+    "level": "m3",
+    "set": "mock-03",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Sleep is often treated as a luxury, but scientists regard it as a basic biological {1|necessity}. During sleep, the brain clears out harmful waste products and {2|strengthens} memories formed during the day. When people do not sleep enough, their attention and judgment {3|improve}, which makes mistakes more likely. Studies of drivers have shown that being awake for eighteen hours impairs reaction time as much as drinking alcohol. Long-term lack of sleep is also {4|linked} to heart disease and depression. Despite this evidence, many teenagers sleep far less than the recommended eight to ten hours, partly because of early school schedules and late-night screen use. Experts therefore urge families to treat sleep as a priority and to {5|maintain} regular bedtimes, even on weekends.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "수면은 흔히 사치로 취급되지만 과학자들은 그것을 기본적인 생물학적 필수 요소로 본다. 잠자는 동안 뇌는 해로운 노폐물을 치우고 낮 동안 형성된 기억을 강화한다. 사람들이 충분히 자지 못하면 주의력과 판단력이 나아져 실수를 하기 쉬워진다. 운전자에 대한 연구는 열여덟 시간 동안 깨어 있는 것이 술을 마신 것만큼 반응 시간을 해친다는 것을 보여 주었다. 장기적인 수면 부족은 또한 심장병과 우울증과 관련이 있다. 이 증거에도 불구하고 많은 십 대는 이른 학교 일정과 늦은 밤의 화면 사용 때문에 권장되는 8~10시간보다 훨씬 적게 잔다. 그래서 전문가들은 가족이 수면을 우선순위로 삼고 주말에도 규칙적인 취침 시간을 유지하라고 촉구한다.",
+    "why": "수면이 부족하면 주의력과 판단력이 '나빠져서' 실수가 늘어나므로 'improve'가 아니라 'decline(worsen)'이어야 합니다.",
+    "optionNotes": [
+      "수면이 필수 요소라는 의미로 necessity가 알맞습니다.",
+      "기억을 강화한다는 의미로 strengthens가 알맞습니다.",
+      "정답(부적절). 실수가 늘어나므로 decline이어야 합니다.",
+      "심장병과 관련이 있다는 의미로 linked가 알맞습니다.",
+      "규칙적인 취침 시간을 유지한다는 의미로 maintain이 알맞습니다."
+    ],
+    "trap": "'which makes mistakes more likely'와 improve가 논리적으로 충돌합니다.",
+    "tip": "결과 절(makes mistakes more likely)과 앞의 동사 방향이 일치하는지 확인하세요."
+  },
+  {
+    "id": "m3b-03-31",
+    "level": "m3",
+    "set": "mock-03",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "When we try to remember an event, we often feel that our memory works like a video camera that records everything exactly as it happened. In fact, memory is closer to a story that we rebuild each time we recall it. Psychologists have shown that small details, such as the wording of a question, can change what people remember. In one famous study, participants who watched a car accident were asked how fast the cars were going when they \"smashed\" into each other. Others were asked the same question with the word \"hit.\" The first group gave higher speed estimates and was more likely to remember broken glass that did not exist. This suggests that memory is not a fixed record but __________.",
+    "options": [
+      "a perfect copy of the past that remains exactly the same forever",
+      "a skill that improves only when we practice with a video camera",
+      "a talent that some people are born with and that others do not have",
+      "a process that is completely separate from language and words",
+      "a flexible reconstruction that can be shaped by later information"
+    ],
+    "answer": 4,
+    "translation": "어떤 사건을 기억하려 할 때 우리는 흔히 기억이 일어난 그대로 모든 것을 기록하는 비디오카메라처럼 작동한다고 느낀다. 사실 기억은 우리가 떠올릴 때마다 다시 짓는 이야기에 가깝다. 심리학자들은 질문의 표현 같은 작은 세부 사항이 사람들의 기억을 바꿀 수 있음을 보였다. 한 유명한 연구에서 자동차 사고를 본 참가자들은 차들이 서로 \"박살 났을\" 때 얼마나 빨리 달리고 있었는지 질문받았다. 다른 참가자들은 \"부딪쳤을\"이라는 단어를 넣은 같은 질문을 받았다. 첫 번째 집단은 더 높은 속도를 추정했고 존재하지 않았던 깨진 유리를 기억할 가능성이 더 높았다. 이것은 기억이 고정된 기록이 아니라 이후의 정보에 의해 형성될 수 있는 유연한 재구성임을 시사한다.",
+    "why": "질문 표현에 따라 기억이 달라졌으므로 기억은 '이후 정보에 의해 형성될 수 있는 유연한 재구성'입니다.",
+    "optionNotes": [
+      "고정된 기록이라는 통념으로 글이 반박합니다.",
+      "비디오카메라 연습은 나오지 않습니다.",
+      "타고난 재능이라는 내용은 나오지 않습니다.",
+      "언어와 단어가 기억에 영향을 주므로 글과 반대입니다.",
+      "정답. 이후 정보에 의해 달라지는 재구성입니다."
+    ],
+    "trap": "'video camera'가 나오는 보기(②)에 이끌리지 마세요. 첫 문장은 반박되는 통념입니다.",
+    "tip": "'not A but B'에서 A는 통념(fixed record)이고 B가 글의 결론입니다."
+  },
+  {
+    "id": "m3b-03-32",
+    "level": "m3",
+    "set": "mock-03",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In 1995, wolves were reintroduced into Yellowstone National Park after being absent for nearly seventy years. Scientists were surprised by the changes that followed. The wolves hunted deer, but even more important, their presence changed where the deer chose to graze. Deer avoided open valleys, where they could be easily attacked, so young trees along the rivers began to recover. The returning trees stabilized the riverbanks, and beavers and songbirds soon came back to the area. In some places, even the course of the rivers changed. Within two decades, the park had become healthier, greener, and richer in wildlife than many scientists had ever thought possible. Ecologists describe the wolf as a keystone species, because its influence on the whole ecosystem is __________.",
+    "options": [
+      "limited to the animals that it hunts directly in the valleys",
+      "almost exactly the same as that of every other animal in the park",
+      "much larger than its small number in the population would suggest",
+      "controlled completely by the amount of rain that falls in the area",
+      "noticeable only in the winter, when food becomes difficult to find"
+    ],
+    "answer": 2,
+    "translation": "1995년 늑대는 거의 칠십 년 동안 사라졌다가 옐로스톤 국립공원에 다시 도입되었다. 과학자들은 뒤따른 변화에 놀랐다. 늑대는 사슴을 사냥했지만 더 중요하게는 그들의 존재가 사슴이 풀을 뜯는 장소를 바꾸었다. 사슴은 쉽게 공격받을 수 있는 트인 계곡을 피했고 그래서 강을 따라 어린 나무들이 회복되기 시작했다. 돌아온 나무들은 강둑을 안정시켰고 비버와 명금류가 곧 그 지역으로 돌아왔다. 어떤 곳에서는 강의 흐름마저 바뀌었다. 20년 안에 공원은 많은 과학자가 가능하다고 생각했던 것보다 더 건강하고 푸르며 야생 동물이 풍부해졌다. 생태학자들은 늑대를 핵심종이라고 부르는데, 그것이 전체 생태계에 미치는 영향이 개체 수가 암시하는 것보다 훨씬 크기 때문이다.",
+    "why": "소수의 늑대가 사슴의 행동, 나무, 강둑, 다른 동물까지 바꾸었으므로 영향이 '개체 수가 암시하는 것보다 훨씬 크다'가 알맞습니다.",
+    "optionNotes": [
+      "직접 사냥하는 동물에 한정된다는 내용은 글과 반대입니다.",
+      "다른 동물과 같다면 핵심종이라 부르지 않습니다.",
+      "정답. 적은 수에 비해 영향이 훨씬 큽니다.",
+      "강수량에 좌우된다는 내용은 나오지 않습니다.",
+      "겨울에만 나타난다는 내용은 나오지 않습니다."
+    ],
+    "trap": "'hunted deer'에 이끌려 직접 사냥하는 동물에 한정(①)된다고 고르지 마세요.",
+    "tip": "연쇄적 사례(사슴 → 나무 → 강둑 → 동물)가 영향력의 크기를 뒷받침합니다."
+  },
+  {
+    "id": "m3b-03-33",
+    "level": "m3",
+    "set": "mock-03",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many people assume that creativity needs complete freedom. Give an artist unlimited time, money, and materials, they think, and the best work will follow. Yet history suggests the opposite. Consider the poet who must fit his feelings into the fourteen lines of a sonnet, the designer who has only three colors to use, and the engineer with a tiny budget. All of them are forced to think in unfamiliar ways. When the obvious solutions are closed off, the mind searches for new paths. Their work often feels more inventive than that of people with no limits at all. A famous children's author once wrote an entire book using only fifty different words, and it became a bestseller. These examples show that creativity often grows when __________.",
+    "options": [
+      "we accept clear limits and treat them as a challenge to find original solutions",
+      "we have no rules at all to follow",
+      "we copy the methods of earlier artists",
+      "we avoid taking any risks in our work",
+      "we spend as much money as possible"
+    ],
+    "answer": 0,
+    "translation": "많은 사람은 창의성에 완전한 자유가 필요하다고 가정한다. 예술가에게 무한한 시간, 돈, 재료를 주면 최고의 작품이 따라올 것이라고 생각한다. 그러나 역사는 그 반대를 시사한다. 자신의 감정을 소네트의 열네 줄에 맞춰야 하는 시인, 사용할 색이 세 가지뿐인 디자이너, 아주 적은 예산으로 일하는 엔지니어를 생각해 보라. 그들은 모두 낯선 방식으로 생각해야 한다. 뻔한 해결책이 막히면 마음은 새로운 길을 찾는다. 그들의 작품은 제약이 전혀 없는 사람들의 작품보다 더 독창적으로 느껴지는 경우가 많다. 한 유명한 동화 작가는 단 쉰 개의 서로 다른 단어만으로 책 한 권을 썼고 그 책은 베스트셀러가 되었다. 이 예들은 우리가 분명한 제약을 받아들이고 그것을 독창적인 해결책을 찾는 도전으로 삼을 때 창의성이 자라는 경우가 많음을 보여 준다.",
+    "why": "제약이 있을 때 새로운 길을 찾는 사례들이므로 '분명한 제약을 받아들이고 독창적인 해결책을 찾는 도전으로 삼을 때'가 알맞습니다.",
+    "optionNotes": [
+      "정답. 제약을 도전으로 삼을 때 창의성이 자랍니다.",
+      "규칙이 전혀 없다는 내용은 글과 반대입니다.",
+      "선배의 방법을 베낀다는 내용은 나오지 않습니다.",
+      "위험을 피한다는 내용은 나오지 않습니다.",
+      "돈을 많이 쓴다는 내용은 글과 반대입니다."
+    ],
+    "trap": "첫 문장의 통념(complete freedom)에 이끌려 ②를 고르지 마세요.",
+    "tip": "Yet 뒤의 반대 사례들(sonnet, three colors, tiny budget)이 빈칸의 단서입니다."
+  },
+  {
+    "id": "m3b-03-34",
+    "level": "m3",
+    "set": "mock-03",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Walk into a supermarket and you may find more than two hundred kinds of cookies. Such variety seems wonderful, but psychologists have found that too many options can make us less happy. Choice, it turns out, can be a burden. In a well-known experiment, shoppers were shown either six or twenty-four jars of jam. Although the larger display attracted more attention, shoppers who saw the smaller selection were about ten times more likely to buy a jar. When faced with too many choices, people feel anxious about making the wrong decision and tend to put it off. Even after choosing, they often wonder whether another option would have been better. This explains why a wider range of choices does not always lead to __________.",
+    "options": [
+      "a greater number of products being delivered to stores each week",
+      "greater satisfaction with the decisions that we finally make",
+      "lower prices for the goods that customers wish to buy at the shop",
+      "a stronger memory of the names of the brands that we see often",
+      "faster growth for the companies that sell a small number of popular items"
+    ],
+    "answer": 1,
+    "translation": "슈퍼마켓에 들어가면 이백 종류가 넘는 쿠키를 볼 수 있다. 이런 다양성은 멋져 보이지만 심리학자들은 선택지가 너무 많으면 우리가 덜 행복해질 수 있음을 발견했다. 선택은 알고 보면 부담이 될 수 있다. 한 유명한 실험에서 쇼핑객들에게 잼이 여섯 병 또는 스물네 병 진열되어 보여졌다. 더 큰 진열이 더 많은 관심을 끌었지만 적은 종류를 본 쇼핑객이 잼을 살 가능성은 약 열 배 높았다. 너무 많은 선택에 직면하면 사람들은 잘못된 결정을 할까 봐 불안해하고 결정을 미루는 경향이 있다. 선택한 뒤에도 그들은 다른 선택지가 더 나았을지 자주 궁금해한다. 이것이 더 폭넓은 선택이 항상 우리가 마침내 내리는 결정에 대한 더 큰 만족으로 이어지지는 않는 이유를 설명한다.",
+    "why": "선택지가 많으면 불안하고 후회하게 되므로 선택의 폭이 항상 '최종 결정에 대한 더 큰 만족'으로 이어지지는 않습니다.",
+    "optionNotes": [
+      "배송 물량은 나오지 않습니다.",
+      "정답. 더 큰 만족으로 이어지지 않는다는 내용입니다.",
+      "가격은 나오지 않습니다.",
+      "브랜드 기억은 나오지 않습니다.",
+      "기업 성장은 나오지 않습니다."
+    ],
+    "trap": "'does not always lead to' 뒤에 오는 것은 선택의 폭이 좋아 보이는 효과(만족)입니다.",
+    "tip": "앞 내용(anxious, wonder whether another option would have been better)에서 결과를 추론하세요."
+  },
+  {
+    "id": "m3b-03-35",
+    "level": "m3",
+    "set": "mock-03",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Learning to play a musical instrument offers benefits that extend far beyond music itself. ① Regular practice teaches children patience, because progress comes slowly and requires a great deal of repetition. ② Playing in a group also develops teamwork, since each member must listen carefully to the others and adjust the volume and speed accordingly. ③ Research has even shown that young people who study music tend to perform better in tasks involving memory and language. ④ The piano, which was invented in Italy around the year 1700, is made of more than ten thousand separate parts. ⑤ For all these reasons, many educators believe that music lessons should be part of every child's education.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "악기 연주를 배우는 것은 음악 자체를 훨씬 넘어서는 이점을 준다. ① 꾸준한 연습은 아이들에게 인내심을 가르치는데, 발전이 느리게 오고 많은 반복이 필요하기 때문이다. ② 합주는 또한 팀워크를 길러 주는데, 각 구성원이 다른 사람의 소리를 주의 깊게 듣고 그에 맞춰 음량과 속도를 조절해야 하기 때문이다. ③ 연구는 음악을 공부하는 젊은이들이 기억과 언어와 관련된 과제에서 더 잘 수행하는 경향이 있음을 보여 주기까지 했다. ④ 1700년경 이탈리아에서 발명된 피아노는 만 개가 넘는 개별 부품으로 이루어져 있다. ⑤ 이 모든 이유로 많은 교육자는 음악 수업이 모든 아이의 교육의 일부가 되어야 한다고 믿는다.",
+    "why": "글은 악기 연주의 이점을 말하는데 ④는 피아노의 발명과 부품 수에 관한 별개의 이야기라 관계가 없습니다.",
+    "optionNotes": [
+      "연습이 인내심을 길러 주는 이점입니다.",
+      "합주가 팀워크를 길러 주는 이점입니다.",
+      "음악이 기억·언어 과제에 주는 이점입니다.",
+      "정답(무관). 피아노의 역사와 구조 이야기입니다.",
+      "결론 문장입니다."
+    ],
+    "trap": "'instrument'와 관련된 소재(piano)라서 주제와 이어지는 것처럼 보일 수 있습니다.",
+    "tip": "주제(악기 연주의 이점)를 뒷받침하지 않는 정보성 문장을 고르세요."
+  },
+  {
+    "id": "m3b-03-36",
+    "level": "m3",
+    "set": "mock-03",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Long before the invention of electric refrigerators, people living in cold regions had already discovered that ice could keep food fresh for a long time.\n(A) However, this natural method had serious limits. Ice could be harvested only in the cold season, and the work was both dangerous and expensive for the workers who did it. Many families simply went without.\n(B) Every winter, workers cut large blocks of ice from frozen lakes and stored them in thick-walled ice houses, where layers of straw and sawdust protected them from melting for months.\n(C) In the nineteenth century, engineers solved this problem by inventing machines that could produce ice at any time of year. Soon even ordinary families could keep fresh milk and meat at home.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 1,
+    "translation": "전기 냉장고가 발명되기 훨씬 전에 추운 지역에 사는 사람들은 이미 얼음이 음식을 오랫동안 신선하게 유지할 수 있음을 알았다. (B) 매년 겨울 일꾼들은 얼어붙은 호수에서 큰 얼음덩이를 잘라 두꺼운 벽의 얼음 창고에 저장했고, 그곳에서 짚과 톱밥 층이 얼음이 몇 달 동안 녹지 않게 보호했다. (A) 그러나 이 자연적 방법에는 심각한 한계가 있었다. 얼음은 추운 계절에만 채취할 수 있었고 그 일은 일하는 사람들에게 위험하고 돈도 많이 들었다. 많은 가정은 그냥 얼음 없이 지냈다. (C) 19세기에 기술자들은 일 년 중 언제든 얼음을 만들 수 있는 기계를 발명하여 이 문제를 해결했다. 곧 평범한 가정도 집에서 신선한 우유와 고기를 보관할 수 있게 되었다.",
+    "why": "(B) 얼음 저장 방법 소개 → (A) 'this natural method'의 한계 → (C) 'this problem'을 해결한 기계 발명 순서입니다.",
+    "optionNotes": [
+      "(A)의 'this natural method'가 가리킬 방법이 앞에 나오지 않습니다.",
+      "정답. 방법 → 한계 → 해결.",
+      "(C)의 'this problem'이 가리킬 문제가 (A) 전에 나오지 않습니다.",
+      "(C)의 'this problem'이 가리킬 문제가 앞에 나오지 않습니다.",
+      "(C)의 'this problem'이 가리킬 문제가 앞에 나오지 않습니다."
+    ],
+    "trap": "(A)의 'this natural method'는 (B)에서 소개된 얼음 저장 방법입니다.",
+    "tip": "지시 표현(this natural method, this problem)이 가리키는 앞 내용을 확인하세요."
+  },
+  {
+    "id": "m3b-03-37",
+    "level": "m3",
+    "set": "mock-03",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Many people believe that adults learn new languages much more slowly than children, and they often use this idea as a reason not to try.\n(A) However, research shows that this belief is only partly true. Adults actually learn grammar rules and vocabulary faster at the beginning, because they can use reasoning and effective study strategies.\n(B) Therefore, the best learner depends on the goal. Adults may progress faster in reading and writing, whereas children are more likely to end up speaking like a native speaker.\n(C) Children, on the other hand, usually reach a higher level of pronunciation in the long run, since their brains are more flexible in processing unfamiliar sounds. Even a few years of early exposure can make a lasting difference to how natural they sound.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "많은 사람은 성인이 새로운 언어를 아이들보다 훨씬 느리게 배운다고 믿으며 흔히 이 생각을 시도하지 않을 이유로 사용한다. (A) 그러나 연구는 이 믿음이 부분적으로만 맞음을 보여 준다. 성인은 추론과 효과적인 학습 전략을 사용할 수 있기 때문에 처음에는 문법 규칙과 어휘를 사실 더 빨리 배운다. (C) 반면에 아이들은 뇌가 낯선 소리를 처리하는 데 더 유연하기 때문에 보통 장기적으로 더 높은 수준의 발음에 도달한다. 몇 년의 이른 노출만으로도 그들이 얼마나 자연스럽게 들리는지에 지속적인 차이를 만들 수 있다. (B) 그러므로 가장 잘 배우는 사람은 목표에 달려 있다. 성인은 읽기와 쓰기에서 더 빨리 발전할 수 있는 반면 아이들은 원어민처럼 말하게 될 가능성이 더 높다.",
+    "why": "(A) 'this belief'를 반박하며 성인의 장점 → (C) 'on the other hand'로 아이들의 장점 → (B) 'Therefore'로 결론 순서입니다.",
+    "optionNotes": [
+      "정답. 믿음 반박 → 대조 → 결론.",
+      "(B)의 'Therefore'가 요약할 내용이 앞에 없습니다.",
+      "(B)의 'Therefore'가 요약할 내용이 앞에 없습니다.",
+      "(C)의 'on the other hand'가 대조할 성인의 장점이 앞에 나오지 않습니다.",
+      "(C)의 'on the other hand'와 (B)의 'Therefore'가 앞의 설명 없이 먼저 옵니다."
+    ],
+    "trap": "(C)의 'on the other hand'는 (A)에서 말한 성인의 장점과 대조됩니다.",
+    "tip": "연결어(However, on the other hand, Therefore)로 논리 흐름을 따라가세요."
+  },
+  {
+    "id": "m3b-03-38",
+    "level": "m3",
+    "set": "mock-03",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nSurprisingly, the effect was just as strong when they walked on a treadmill facing a blank wall.\n\n[글]\n( ① ) To find out whether walking really helps people think, researchers at Stanford University asked participants to complete creative thinking tests, first while sitting and then while walking. ( ② ) The results were clear: the same people produced about sixty percent more original ideas when they walked than when they sat down at a desk. ( ③ ) The researchers therefore concluded that movement itself, rather than the scenery, frees the flow of ideas. ( ④ ) This finding is encouraging for anyone who feels stuck at a desk. ( ⑤ ) Even a short walk around the office may be enough to restart your thinking.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 놀랍게도 그들이 빈 벽을 마주한 러닝머신 위에서 걸을 때에도 그 효과는 똑같이 강했다. [글] 걷기가 정말 사람들이 생각하는 데 도움이 되는지 알아보려고 스탠퍼드 대학교의 연구자들은 참가자들에게 먼저 앉아서 그다음에 걸으면서 창의적 사고 검사를 하게 했다. 결과는 분명했다. 같은 사람들이 책상에 앉아 있을 때보다 걸을 때 독창적인 아이디어를 약 60퍼센트 더 많이 내놓았다. 그래서 연구자들은 경치가 아니라 움직임 자체가 생각의 흐름을 풀어 준다고 결론지었다. 이 발견은 책상에서 막힌 느낌이 드는 모든 사람에게 고무적이다. 사무실을 짧게 걷는 것만으로도 생각을 다시 시작하기에 충분할 수 있다.",
+    "why": "'the effect'는 앞 문장의 걷기 효과를 가리키고, 뒤의 'therefore concluded'는 러닝머신 결과에 근거한 결론이므로 ③에 들어갑니다.",
+    "optionNotes": [
+      "'the effect'가 가리킬 효과가 아직 나오지 않았습니다.",
+      "효과가 나오는 문장 앞이라 'the effect'가 가리킬 대상이 없습니다.",
+      "정답. 걷기 효과 뒤, 'therefore' 결론 앞입니다.",
+      "결론 뒤에 증거가 오면 'therefore'의 근거가 사라집니다.",
+      "글의 마지막이라 결론 뒤에 새 증거가 어색합니다."
+    ],
+    "trap": "②에 넣어도 효과를 말하는 것 같지만 'the effect'가 가리킬 결과(60%)가 먼저 필요합니다.",
+    "tip": "주어진 문장의 지시어(the effect)와 뒤 문장의 연결어(therefore)를 모두 확인하세요."
+  },
+  {
+    "id": "m3b-03-39",
+    "level": "m3",
+    "set": "mock-03",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nSuch efforts show that a brand is not merely a product label but a promise that customers choose to believe.\n\n[글]\n( ① ) Consider why many people are willing to pay more for a plain white T-shirt with a famous logo than for an identical shirt without one. ( ② ) The cloth, the stitching, and even the factory that produced them may be exactly the same. Without the logo, however, the shirt would look ordinary and be quickly forgotten. ( ③ ) What differs is the meaning that the logo carries in the buyer's mind, such as quality, status, or a sense of belonging. ( ④ ) Companies therefore spend enormous sums on advertising and design to build and protect that meaning over many years of careful work. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "[주어진 문장] 이런 노력은 브랜드가 단순한 상품 표시가 아니라 고객이 믿기로 선택하는 약속임을 보여 준다. [글] 왜 많은 사람이 유명한 로고가 있는 평범한 흰 티셔츠에 로고가 없는 똑같은 셔츠보다 더 기꺼이 돈을 내려는지 생각해 보라. 천, 바느질, 심지어 그것들을 만든 공장까지 완전히 같을 수 있다. 그러나 로고가 없다면 셔츠는 평범해 보이고 금방 잊힐 것이다. 다른 것은 로고가 구매자의 마음속에서 지니는 의미, 즉 품질, 지위, 소속감이다. 그래서 기업은 그 의미를 쌓고 지키려고 오랜 세월 세심한 작업을 하며 광고와 디자인에 막대한 돈을 쓴다.",
+    "why": "'Such efforts'는 바로 앞 문장의 기업들의 광고·디자인 투자를 가리키므로 글의 맨 끝인 ⑤에 들어갑니다.",
+    "optionNotes": [
+      "'Such efforts'가 가리킬 노력이 아직 나오지 않았습니다.",
+      "'Such efforts'가 가리킬 노력이 아직 나오지 않았습니다.",
+      "'Such efforts'가 가리킬 노력이 아직 나오지 않았습니다.",
+      "기업의 노력을 설명하는 문장 앞이라 'Such efforts'의 대상이 없습니다.",
+      "정답. 기업의 노력 뒤에 그 의미를 정리합니다."
+    ],
+    "trap": "결론 성격이라 중간(③)에 넣을 수 있다고 착각하기 쉽지만 'Such efforts'가 가리킬 대상이 필요합니다.",
+    "tip": "'Such + 명사'는 앞에서 이미 언급된 내용을 가리키므로 그 바로 뒤에 놓입니다."
+  },
+  {
+    "id": "m3b-03-40",
+    "level": "m3",
+    "set": "mock-03",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Researchers divided a class of 120 middle school students into two groups and gave each the same set of difficult puzzles. Students in the first group were told that only the fastest individual would receive a prize. Students in the second group were told that the whole team would be rewarded if everyone finished. Surprisingly, the second group completed the puzzles nearly twenty percent faster than the first. Members of the cooperative group shared strategies, explained their mistakes without embarrassment, and encouraged one another when the tasks became difficult. In contrast, students in the competitive group often kept useful tricks to themselves and became anxious when others finished first. Afterward, those in the cooperative group also reported that they enjoyed the activity more and wanted to try similar tasks again.\n\n▶ When students were encouraged to (A) with one another rather than compete, they solved the puzzles (B) and found the activity more enjoyable.",
+    "options": [
+      "(A) cooperate — (B) faster",
+      "(A) argue — (B) slower",
+      "(A) cooperate — (B) slower",
+      "(A) compete — (B) faster",
+      "(A) hesitate — (B) carelessly"
+    ],
+    "answer": 0,
+    "translation": "연구자들은 중학생 120명의 한 학급을 두 집단으로 나누고 각각에게 같은 어려운 퍼즐 묶음을 주었다. 첫 번째 집단의 학생들은 가장 빨리 푼 개인만 상을 받는다고 들었다. 두 번째 집단의 학생들은 모두가 끝내면 팀 전체가 보상을 받는다고 들었다. 놀랍게도 두 번째 집단은 첫 번째보다 퍼즐을 거의 20퍼센트 더 빨리 끝냈다. 협력 집단의 구성원들은 전략을 공유하고 부끄러워하지 않고 자신의 실수를 설명했으며 과제가 어려워지면 서로를 격려했다. 반면 경쟁 집단의 학생들은 유용한 요령을 혼자만 알고 있는 경우가 많았고 다른 사람이 먼저 끝내면 불안해했다. 이후 협력 집단은 활동을 더 즐겼고 비슷한 과제를 다시 해 보고 싶다고도 보고했다. ▶ 학생들이 서로 경쟁하는 대신 (A)하도록 격려받았을 때 그들은 퍼즐을 (B) 풀었고 활동을 더 즐겁게 여겼다.",
+    "why": "협력 집단이 퍼즐을 20% 더 빨리 풀고 더 즐겼으므로 (A)는 cooperate, (B)는 faster입니다.",
+    "optionNotes": [
+      "정답. 협력하면 더 빨리 풀었습니다.",
+      "argue와 slower는 글에 나오지 않습니다.",
+      "(B)가 slower로 글과 반대입니다.",
+      "(A)가 compete로 문장의 'rather than compete'와 모순됩니다.",
+      "hesitate와 carelessly는 글에 나오지 않습니다."
+    ],
+    "trap": "(A)를 맞혀도 (B)가 결과(더 빨리)와 일치하는지 확인하세요.",
+    "tip": "요약문의 'rather than compete'에서 (A)의 방향이 정해집니다."
+  }
+]
