@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m2b-08-29",
+    "level": "m2",
+    "set": "mock-08",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Elephants are the largest land animals, and they {1|have} a remarkable memory. An elephant can remember the paths to water holes that it visited decades ago. When a member of the group dies, the other elephants often stand quietly around the body, {2|touch} it gently with their trunks. Scientists believe that elephants {3|can recognize} dozens of other elephants by their voices. Young elephants learn important skills from older members of the herd, {4|which} is why older females, called matriarchs, {5|are} so important to the group.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "코끼리는 가장 큰 육상 동물이며 놀라운 기억력을 지니고 있다. 코끼리는 수십 년 전에 찾아간 물웅덩이로 가는 길을 기억할 수 있다. 무리의 한 구성원이 죽으면 다른 코끼리들은 코로 그 몸을 부드럽게 만지며 사체 주위에 조용히 서 있는 경우가 많다. 과학자들은 코끼리가 목소리로 수십 마리의 다른 코끼리를 알아볼 수 있다고 믿는다. 어린 코끼리는 무리의 나이 든 구성원에게서 중요한 기술을 배우는데 이것이 가모장이라 불리는 나이 든 암컷이 무리에게 그토록 중요한 이유이다.",
+    "why": "앞 절의 주어와 동시에 일어나는 동작을 나타내므로 분사구문 'touching'이어야 하며 'touch'는 틀립니다.",
+    "optionNotes": [
+      "복수 주어 they에 맞는 동사 have입니다.",
+      "정답(틀린 것). 동시 동작을 나타내는 분사구문이므로 touching이어야 합니다.",
+      "조동사 can 뒤의 recognize입니다.",
+      "앞 절 전체를 받는 관계대명사 which입니다.",
+      "복수 주어 females에 맞는 are입니다."
+    ],
+    "trap": "콤마 뒤에 동사 원형을 쓰면 접속사 없이 두 개의 동사가 이어져 틀립니다.",
+    "tip": "접속사 없이 동작을 덧붙이는 경우 현재분사(-ing)를 쓰세요."
+  },
+  {
+    "id": "m2b-08-30",
+    "level": "m2",
+    "set": "mock-08",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Washing your hands is one of the simplest ways to {1|prevent} disease. Germs spread easily from one person to another through touch, so it is {2|unnecessary} to wash your hands before eating or after using the bathroom. Doctors recommend scrubbing for at least twenty seconds with soap and warm water, {3|including} the backs of the hands and between the fingers. Hand sanitizers can be {4|useful} when water is not available, but they are not as effective as soap. If everyone washes their hands properly, many illnesses can be {5|avoided}.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "손을 씻는 것은 질병을 예방하는 가장 간단한 방법 중 하나이다. 세균은 접촉을 통해 한 사람에게서 다른 사람에게 쉽게 퍼지므로 식사 전이나 화장실을 쓴 뒤에 손을 씻는 것은 불필요하다. 의사들은 손등과 손가락 사이를 포함해 비누와 따뜻한 물로 적어도 이십 초 동안 문지르라고 권한다. 손 소독제는 물을 쓸 수 없을 때 유용할 수 있지만 비누만큼 효과적이지는 않다. 모든 사람이 손을 제대로 씻으면 많은 질병을 피할 수 있다.",
+    "why": "세균이 쉽게 퍼지므로 손을 씻는 것은 '불필요한(unnecessary)'이 아니라 '꼭 필요한(essential)'이어야 합니다.",
+    "optionNotes": [
+      "질병을 예방한다는 의미로 prevent가 알맞습니다.",
+      "정답(부적절). 세균이 쉽게 퍼지므로 essential이어야 합니다.",
+      "손등과 손가락 사이를 포함한다는 의미로 including이 알맞습니다.",
+      "물이 없을 때 유용하다는 의미로 useful이 알맞습니다.",
+      "질병을 피할 수 있다는 의미로 avoided가 알맞습니다."
+    ],
+    "trap": "'so'로 이어지는 결과가 앞 문장(Germs spread easily)의 이유와 맞는지 놓치기 쉽습니다.",
+    "tip": "so 앞의 이유와 뒤의 평가 낱말의 방향이 일치하는지 확인하세요."
+  },
+  {
+    "id": "m2b-08-31",
+    "level": "m2",
+    "set": "mock-08",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many students are told to stop drawing in the margins of their notebooks during class. Teachers once believed that it was a sign of boredom. However, research shows that doodling can actually help people remember. In one study, people who listened to a long, boring phone message and doodled recalled twenty-nine percent more details than those who did not. Doodling keeps the brain slightly active, which prevents it from daydreaming and drifting away from the message. It seems that a small, simple activity can help us __________. It also helps the hand and the mind stay awake.",
+    "options": [
+      "stay focused on a task that would bore us",
+      "finish a long task without taking any rest",
+      "forget the things that we do not need to know",
+      "learn to draw faster than most other students",
+      "avoid hearing the sounds of the people around us"
+    ],
+    "answer": 0,
+    "translation": "많은 학생이 수업 중에 공책 여백에 그림을 그리지 말라는 말을 듣는다. 교사들은 한때 그것을 지루함의 신호라고 믿었다. 그러나 연구는 낙서가 실제로 기억에 도움이 될 수 있음을 보여 준다. 한 연구에서 길고 지루한 전화 메시지를 들으며 낙서한 사람들은 그러지 않은 사람들보다 세부 사항을 29퍼센트 더 많이 기억했다. 낙서는 뇌를 약간 활동하게 유지해 뇌가 공상에 빠져 메시지에서 멀어지는 것을 막는다. 작고 단순한 활동이 지루할 수 있는 일에 계속 집중하도록 도울 수 있는 것 같다. 또한 손과 마음이 깨어 있게 해 준다.",
+    "why": "낙서가 공상을 막아 기억을 돕는다고 했으므로 '지루할 수 있는 일에 계속 집중하도록'이 알맞습니다.",
+    "optionNotes": [
+      "정답. 지루한 일에 계속 집중하게 돕습니다.",
+      "쉬지 않고 끝낸다는 내용은 나오지 않습니다.",
+      "잊어버린다는 내용은 글과 반대입니다.",
+      "그림을 빨리 그린다는 내용은 나오지 않습니다.",
+      "주변 소리를 피한다는 내용은 나오지 않습니다."
+    ],
+    "trap": "'doodling'에 이끌려 그림 실력(④)을 고르지 마세요.",
+    "tip": "which prevents it from daydreaming이 빈칸의 직접적 단서입니다."
+  },
+  {
+    "id": "m2b-08-32",
+    "level": "m2",
+    "set": "mock-08",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Researchers asked three groups of people to write a short note each week. The groups were chosen at random from the same school. One group wrote about things they were grateful for, another group wrote about daily annoyances, and the third group wrote about ordinary events. After ten weeks, the gratitude group reported feeling more optimistic about their lives, and they even exercised more than the other groups. This suggests that paying attention to the good things in our lives can __________. Writing a few lines each week takes only five minutes.",
+    "options": [
+      "make us forget all of our problems at once",
+      "prevent us from meeting new people at school",
+      "help us to finish our homework in half of the usual time",
+      "change the weather conditions around our homes",
+      "improve our mood and encourage healthier habits"
+    ],
+    "answer": 4,
+    "translation": "연구자들은 세 집단의 사람들에게 매주 짧은 글을 쓰게 했다. 집단은 같은 학교에서 무작위로 정해졌다. 한 집단은 감사한 일에 대해, 다른 집단은 일상의 짜증 나는 일에 대해, 세 번째 집단은 평범한 사건에 대해 썼다. 열 주 뒤 감사 집단은 자신의 삶에 대해 더 낙관적으로 느낀다고 보고했고 다른 집단보다 운동도 더 많이 했다. 이는 우리 삶의 좋은 일에 주의를 기울이는 것이 기분을 좋게 하고 더 건강한 습관까지 북돋울 수 있음을 시사한다. 매주 몇 줄을 쓰는 데는 오 분밖에 걸리지 않는다.",
+    "why": "감사 집단이 더 낙관적이고 운동도 더 했으므로 '기분을 좋게 하고 건강한 습관을 북돋운다'가 알맞습니다.",
+    "optionNotes": [
+      "문제를 한꺼번에 잊는다는 내용은 없습니다.",
+      "사람을 만나지 못하게 한다는 내용은 없습니다.",
+      "숙제 시간은 나오지 않습니다.",
+      "날씨는 나오지 않습니다.",
+      "정답. 기분과 건강한 습관을 개선합니다."
+    ],
+    "trap": "'optimistic'을 문제를 잊는 것(①)과 혼동하지 마세요.",
+    "tip": "After ten weeks 문장의 결과(optimistic, exercised more)가 빈칸의 단서입니다."
+  },
+  {
+    "id": "m2b-08-33",
+    "level": "m2",
+    "set": "mock-08",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Each year, a tree adds a new layer of wood, which appears as a ring in its trunk. In a year with plenty of rain, the ring is wide because the tree grows quickly. In a dry year, the ring is narrow. Scientists can also see signs of fires and insects in the rings. Scientists compare the rings of many trees to build a long record, and the oldest trees in the world have more than four thousand rings. By counting and measuring the rings, they can tell not only the age of the tree but also __________.",
+    "options": [
+      "the name of the person who planted it a long time ago",
+      "the color of the leaves that grew on it in autumn",
+      "the number of birds that lived in it each summer",
+      "what the weather was like in each year of its life",
+      "how many people walked past it during the whole decade"
+    ],
+    "answer": 3,
+    "translation": "해마다 나무는 새로운 나이테 층을 더하며 이는 줄기에 고리로 나타난다. 비가 많이 온 해에는 나무가 빨리 자라 고리가 넓다. 가문 해에는 고리가 좁다. 과학자들은 고리에서 화재와 곤충의 흔적도 볼 수 있다. 과학자들은 여러 나무의 고리를 비교해 긴 기록을 만들며 세계에서 가장 오래된 나무는 사천 개가 넘는 고리를 가지고 있다. 고리를 세고 재면 그들은 나무의 나이뿐 아니라 일생의 각 해에 날씨가 어땠는지도 알 수 있다.",
+    "why": "비가 많은 해와 가문 해의 고리 폭이 다르므로 '각 해의 날씨'를 알 수 있습니다.",
+    "optionNotes": [
+      "심은 사람은 나오지 않습니다.",
+      "잎 색은 나오지 않습니다.",
+      "새의 수는 나오지 않습니다.",
+      "정답. 해마다의 날씨를 알 수 있습니다.",
+      "지나간 사람 수는 나오지 않습니다."
+    ],
+    "trap": "'age of the tree'에 이끌려 다른 사실(①)을 고르지 마세요.",
+    "tip": "앞 문장들의 사례(rain, dry year)가 빈칸의 직접적 단서입니다."
+  },
+  {
+    "id": "m2b-08-34",
+    "level": "m2",
+    "set": "mock-08",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In many cultures, making eye contact while speaking is a sign of honesty and interest. People often decide in the first few seconds whether they like someone. Researchers found that people who look at the listener about sixty to seventy percent of the time are seen as more trustworthy. However, staring constantly feels uncomfortable, and avoiding the other person's eyes completely can look shy or dishonest. Cultures differ, and in some places a long stare is considered rude. The best approach is to keep a balance, which means __________. With practice, this balance feels natural.",
+    "options": [
+      "looking at the other person naturally and glancing away from time to time",
+      "staring at the other person's eyes without moving for the entire conversation",
+      "never looking at the other person's face until the conversation is finished",
+      "closing your eyes while the other person is speaking about something serious",
+      "looking at your phone as often as you can during a friendly talk"
+    ],
+    "answer": 0,
+    "translation": "많은 문화에서 말하는 동안 눈을 맞추는 것은 정직함과 관심의 표시이다. 사람들은 흔히 처음 몇 초 안에 상대가 마음에 드는지 결정한다. 연구자들은 듣는 사람을 시간의 약 60~70퍼센트 동안 바라보는 사람이 더 믿을 만하게 보인다는 것을 발견했다. 그러나 계속 쳐다보는 것은 불편하고 상대의 눈을 완전히 피하는 것은 수줍거나 부정직해 보일 수 있다. 문화마다 다르며 어떤 곳에서는 오래 쳐다보는 것이 무례하게 여겨진다. 가장 좋은 접근법은 균형을 유지하는 것으로 이는 상대를 자연스럽게 바라보고 가끔 시선을 돌리는 것을 뜻한다. 연습하면 이 균형은 자연스럽게 느껴진다.",
+    "why": "계속 쳐다보는 것도 피하는 것도 좋지 않으므로 균형은 '자연스럽게 바라보고 가끔 시선을 돌리는 것'입니다.",
+    "optionNotes": [
+      "정답. 자연스럽게 바라보고 가끔 시선을 돌립니다.",
+      "계속 쳐다보는 것은 불편하다고 했습니다.",
+      "완전히 피하는 것은 부정직해 보인다고 했습니다.",
+      "눈을 감는 내용은 나오지 않습니다.",
+      "휴대전화는 나오지 않습니다."
+    ],
+    "trap": "앞 문장의 '60~70퍼센트'를 항상 쳐다보라는 뜻으로 오해하지 마세요.",
+    "tip": "However 뒤의 두 극단(staring, avoiding)의 중간이 빈칸입니다."
+  },
+  {
+    "id": "m2b-08-35",
+    "level": "m2",
+    "set": "mock-08",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Learning to swim is an important life skill. ① It can save your life in an emergency, such as falling into deep water. ② Many swimming pools have started to use salt instead of chemicals to keep the water clean. ③ Swimming is also an excellent exercise that strengthens almost every muscle in the body. ④ In addition, it is a low-impact activity, so it is gentle on the joints. ⑤ For these reasons, schools in many countries include swimming lessons in their programs.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "수영을 배우는 것은 중요한 생존 기술이다. ① 깊은 물에 빠지는 것 같은 비상시에 목숨을 구할 수 있다. ② 많은 수영장은 물을 깨끗하게 유지하려고 화학 약품 대신 소금을 쓰기 시작했다. ③ 수영은 또한 몸의 거의 모든 근육을 강화하는 훌륭한 운동이다. ④ 게다가 충격이 적은 활동이어서 관절에 부담이 적다. ⑤ 이런 이유로 많은 나라의 학교가 수영 수업을 프로그램에 포함한다.",
+    "why": "글은 수영을 배우는 이점을 말하는데 ②는 수영장 수질 관리 방법이라는 별개의 이야기라 관계가 없습니다.",
+    "optionNotes": [
+      "생존에 도움이 되는 이점입니다.",
+      "정답(무관). 수영장의 수질 관리 방법입니다.",
+      "근육을 강화하는 이점입니다.",
+      "관절에 부담이 적은 이점입니다.",
+      "결론 문장입니다."
+    ],
+    "trap": "'swimming pools'가 나와 주제와 이어지는 것처럼 보일 수 있습니다.",
+    "tip": "주제(수영을 배우는 이점)를 뒷받침하지 않는 문장을 고르세요."
+  },
+  {
+    "id": "m2b-08-36",
+    "level": "m2",
+    "set": "mock-08",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Every language has some words that cannot be translated exactly into another language. This is true even for the best translators in the world.\n(A) Similarly, the Danish word \"hygge\" refers to the cozy feeling of spending a quiet evening with the people you love.\n(B) These words show that language reflects the values and experiences of the people who speak it.\n(C) For example, the Korean word \"jeong\" describes a deep feeling of connection and affection that has no single English equivalent. It is often used when people talk about close friends and family.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 3,
+    "translation": "모든 언어에는 다른 언어로 정확하게 옮길 수 없는 단어가 있다. 이는 세계 최고의 번역가에게도 마찬가지이다. (C) 예를 들어 한국어 \"정\"은 영어에 하나의 대응어가 없는 깊은 연결감과 애정을 나타낸다. 이 단어는 친한 친구와 가족을 말할 때 자주 쓰인다. (A) 마찬가지로 덴마크어 \"휘게\"는 사랑하는 사람들과 조용한 저녁을 보내는 아늑한 느낌을 가리킨다. (B) 이런 단어들은 언어가 그것을 말하는 사람들의 가치와 경험을 반영함을 보여 준다.",
+    "why": "(C) 'For example'로 첫 사례 → (A) 'Similarly'로 또 다른 사례 → (B) 'These words'로 결론 순서입니다.",
+    "optionNotes": [
+      "(A)의 'Similarly'가 비교할 첫 사례가 앞에 없습니다.",
+      "(B)의 'These words'가 가리킬 단어가 앞에 없습니다.",
+      "(B)의 'These words'가 가리킬 단어가 앞에 없습니다.",
+      "정답. 첫 사례 → 유사한 사례 → 결론.",
+      "(B)가 (A)보다 앞서면 두 번째 사례 전에 결론이 나옵니다."
+    ],
+    "trap": "(B)의 'These words'는 (C)와 (A)에서 소개된 두 단어를 가리킵니다.",
+    "tip": "For example → Similarly → These words의 논리 흐름을 따라가세요."
+  },
+  {
+    "id": "m2b-08-37",
+    "level": "m2",
+    "set": "mock-08",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Rainbows appear when sunlight passes through raindrops. They are one of the most beautiful sights in nature.\n(A) Each drop bends the light and splits it into its different colors, like a tiny prism. This is the same effect that a glass triangle produces.\n(B) To see a rainbow, you must stand with the sun behind you and the rain in front of you, in the early morning or late afternoon.\n(C) Because every color bends at a slightly different angle, the colors are separated and form a colorful band across the sky.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "무지개는 햇빛이 빗방울을 통과할 때 나타난다. 그것은 자연에서 가장 아름다운 광경 중 하나이다. (A) 각 빗방울은 빛을 굴절시키고 작은 프리즘처럼 여러 색으로 나눈다. 이는 유리 삼각기둥이 만드는 것과 같은 효과이다. (C) 모든 색이 조금씩 다른 각도로 굴절하기 때문에 색들이 분리되어 하늘을 가로지르는 색색의 띠를 이룬다. (B) 무지개를 보려면 해를 등지고 비를 앞에 두고 이른 아침이나 늦은 오후에 서야 한다.",
+    "why": "(A) 빗방울이 빛을 나눔 → (C) 'Because every color bends'로 이유 → (B) 무지개를 보는 방법 순서입니다.",
+    "optionNotes": [
+      "정답. 원리 → 이유 → 관찰 방법.",
+      "(A)의 'Each drop'이 가리킬 빗방울 설명 없이 관찰법이 먼저 나옵니다.",
+      "(B)가 먼저 오면 원리를 모른 채 방법이 나옵니다.",
+      "(C)의 'every color'가 가리킬 분리 설명이 앞에 없습니다.",
+      "(C)의 'every color'가 가리킬 분리 설명이 앞에 없습니다."
+    ],
+    "trap": "(C)의 'the colors are separated'는 (A)의 'splits it into its different colors'를 받습니다.",
+    "tip": "Each drop → every color → To see의 흐름(원리 → 방법)을 따라가세요."
+  },
+  {
+    "id": "m2b-08-38",
+    "level": "m2",
+    "set": "mock-08",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nTo everyone's surprise, the plan worked better than expected.\n\n[글]\n( ① ) The small town's only cinema was about to close because few people were buying tickets. ( ② ) A group of students decided to save it by organizing a weekly movie night with cheap tickets and free popcorn. ( ③ ) Within three months, the cinema was full every Friday, and the owner decided to keep it open. ( ④ ) The students were proud of what they had done for their town. ( ⑤ ) Now the cinema also shows student-made films once a month.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 모두의 놀랍게도 그 계획은 기대보다 더 잘 되었다. [글] 작은 마을의 하나뿐인 영화관은 표를 사는 사람이 거의 없어서 문을 닫으려 했다. 한 무리의 학생들이 싼 표와 무료 팝콘을 곁들인 주간 영화의 밤을 열어 영화관을 구하기로 했다. 석 달 안에 영화관은 금요일마다 가득 찼고 주인은 계속 열어 두기로 했다. 학생들은 마을을 위해 한 일을 자랑스러워했다. 이제 영화관은 한 달에 한 번 학생이 만든 영화도 상영한다.",
+    "why": "'the plan'은 앞 문장의 학생들의 계획을 가리키고 뒤의 석 달 안 성과로 이어지므로 ③에 들어갑니다.",
+    "optionNotes": [
+      "'the plan'이 가리킬 계획이 아직 나오지 않았습니다.",
+      "계획이 나오기 전이라 'the plan'이 어색합니다.",
+      "정답. 계획 뒤에 기대보다 잘 되었다고 말하고 성과가 이어집니다.",
+      "성과를 말한 뒤에 'To everyone's surprise'가 오면 흐름이 어색합니다.",
+      "마지막에 오면 결과를 반복하게 됩니다."
+    ],
+    "trap": "②에 넣어도 'the plan'이 가능해 보이지만 계획 설명이 먼저 있어야 합니다.",
+    "tip": "'the + 명사'는 앞에서 소개된 대상을 가리키므로 그 바로 뒤에 놓입니다."
+  },
+  {
+    "id": "m2b-08-39",
+    "level": "m2",
+    "set": "mock-08",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nBecause of these efforts, the river is now clean enough for children to swim in.\n\n[글]\n( ① ) Thirty years ago, the river in our city was so polluted that fish could not live in it. ( ② ) Then the city built new water treatment plants and banned factories from dumping waste into the water. ( ③ ) Volunteers also gathered every month to clear trash from the banks. ( ④ ) Slowly, birds and fish began to return to the river. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "[주어진 문장] 이러한 노력 덕분에 강은 이제 아이들이 수영할 수 있을 만큼 깨끗하다. [글] 삼십 년 전 우리 도시의 강은 너무 오염되어 물고기가 살 수 없었다. 그러자 도시는 새 정수 시설을 짓고 공장이 물에 폐기물을 버리는 것을 금지했다. 자원봉사자들도 매달 모여 강둑의 쓰레기를 치웠다. 서서히 새와 물고기가 강으로 돌아오기 시작했다.",
+    "why": "'these efforts'는 정수 시설, 폐기물 금지, 자원봉사자들의 노력을 모두 가리키고 결과를 말하므로 글의 맨 끝인 ⑤에 들어갑니다.",
+    "optionNotes": [
+      "'these efforts'가 가리킬 노력이 아직 나오지 않았습니다.",
+      "노력이 일부만 나왔고 자원봉사 설명이 아직 없습니다.",
+      "노력이 나오는 도중이라 'these efforts'가 불완전합니다.",
+      "새와 물고기가 돌아오는 설명 앞이라 결과 순서가 어긋납니다.",
+      "정답. 모든 노력과 변화 뒤에 현재의 결과를 말합니다."
+    ],
+    "trap": "④에 넣으면 새와 물고기가 돌아온 변화가 설명되기 전에 결과가 먼저 나옵니다.",
+    "tip": "'these + 명사'는 앞에서 나열된 내용을 모두 가리키므로 마지막에 놓입니다."
+  },
+  {
+    "id": "m2b-08-40",
+    "level": "m2",
+    "set": "mock-08",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Researchers asked one hundred students to take a creativity test, such as thinking of new uses for a common object. Half of them took the test after a ten-minute walk in a quiet park, while the others took it after sitting in a classroom. The students who had walked in the park produced about twenty percent more original ideas. The researchers explained that green spaces help people relax, and relaxed minds can make new connections between ideas. Many students in the park group also said that they felt calmer and happier.\n\n▶ Spending a short time in a (A) environment can (B) people's ability to think creatively.",
+    "options": [
+      "(A) noisy — (B) harm",
+      "(A) dark — (B) stop",
+      "(A) crowded — (B) lower",
+      "(A) peaceful natural — (B) improve",
+      "(A) indoor — (B) end"
+    ],
+    "answer": 3,
+    "translation": "연구자들은 학생 백 명에게 흔한 물건의 새로운 쓰임을 생각해 내는 것 같은 창의성 검사를 받게 했다. 그중 절반은 조용한 공원에서 10분 걸은 뒤 검사를 받았고 나머지는 교실에 앉아 있은 뒤 받았다. 공원을 걸은 학생들은 독창적인 아이디어를 약 20퍼센트 더 많이 냈다. 연구자들은 녹지가 사람들이 긴장을 풀도록 돕고 긴장이 풀린 마음은 아이디어들 사이에 새로운 연결을 만들 수 있다고 설명했다. 공원 집단의 많은 학생은 더 차분하고 행복하다고도 말했다. ▶ 평화로운 자연 환경에서 잠시 시간을 보내는 것은 사람들의 창의적으로 생각하는 능력을 (B)할 수 있다.",
+    "why": "조용한 공원을 걸은 학생들이 더 독창적이었으므로 (A)는 peaceful natural, (B)는 improve입니다.",
+    "optionNotes": [
+      "noisy와 harm은 글과 반대입니다.",
+      "dark와 stop은 글에 나오지 않습니다.",
+      "crowded와 lower는 글과 반대입니다.",
+      "정답. 평화로운 자연 환경이 창의성을 향상시킵니다.",
+      "indoor와 end는 글과 맞지 않습니다."
+    ],
+    "trap": "(A)가 맞아도 (B)가 결과(독창적 아이디어 증가)와 일치하는지 확인하세요.",
+    "tip": "요약문은 실험군의 조건(조용한 공원)과 결과(창의성 증가)를 짝지으세요."
+  }
+]
