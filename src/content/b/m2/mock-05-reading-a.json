@@ -1,0 +1,333 @@
+[
+  {
+    "id": "m2b-05-18",
+    "level": "m2",
+    "set": "mock-05",
+    "no": 18,
+    "type": "purpose",
+    "stem": "다음 글의 목적으로 가장 적절한 것은?",
+    "passage": "Dear Ms. Lee,\nI am Daniel Park from Class 3-B. I am writing to ask whether I can take a makeup test for the math exam on Tuesday. I had a high fever that morning, and my mother took me to the hospital instead of school. I have attached a doctor's note to this email. I studied hard for the exam, so I really want a chance to show what I have learned. I can take the test after school on any day this week. I would be very grateful if you could consider my request. Thank you for your time.\nSincerely,\nDaniel Park",
+    "options": [
+      "수학 숙제의 제출 기한을 며칠 연장해 달라고 요청하려고",
+      "병원 진단서를 발급받는 방법과 절차를 문의하려고",
+      "수학 시험의 출제 범위를 다시 알려 달라고 부탁하려고",
+      "결석으로 치르지 못한 수학 시험의 재시험을 요청하려고",
+      "진로 상담을 위한 면담 시간을 예약하려고"
+    ],
+    "answer": 3,
+    "translation": "이 선생님께. 저는 3학년 2반 박다니엘입니다. 화요일 수학 시험의 재시험을 볼 수 있는지 여쭙고자 씁니다. 그날 아침 열이 높아서 어머니께서 저를 학교 대신 병원에 데려가셨습니다. 이 이메일에 진단서를 첨부했습니다. 저는 시험을 위해 열심히 공부했기 때문에 배운 것을 보여 드릴 기회를 정말 원합니다. 이번 주 어느 날이든 방과 후에 시험을 볼 수 있습니다. 제 요청을 고려해 주시면 대단히 감사하겠습니다. 시간 내 주셔서 감사합니다. 박다니엘 드림.",
+    "why": "열 때문에 치르지 못한 수학 시험의 재시험을 요청하는 글입니다.",
+    "optionNotes": [
+      "숙제 기한 연장이 아닙니다.",
+      "진단서는 이미 첨부했습니다.",
+      "출제 범위 문의가 아닙니다.",
+      "정답. 재시험을 요청합니다.",
+      "면담 예약이 아닙니다."
+    ],
+    "trap": "'doctor's note'가 나온다고 진단서 발급 문의(②)로 착각하지 마세요.",
+    "tip": "목적 문제는 'I am writing to ask whether ~' 문장을 찾으세요."
+  },
+  {
+    "id": "m2b-05-19",
+    "level": "m2",
+    "set": "mock-05",
+    "no": 19,
+    "type": "mood",
+    "stem": "다음 글에 드러난 Yeri의 심경 변화로 가장 적절한 것은?",
+    "passage": "Yeri had practiced the cello every day for a year, but she did not pass the audition for the youth orchestra. When the results were posted, she read the list three times, hoping to find her name. It was not there. She walked home slowly, feeling that all her effort had been wasted. That evening, she found a note in her cello case. It was from her teacher: \"Your tone has improved so much. Try again next spring, and I will help you.\" Yeri read it again and again. Slowly, a small smile appeared on her face. She took out her cello and began to play.",
+    "options": [
+      "bored and careless → regretful and ashamed",
+      "discouraged and sad → hopeful and determined",
+      "calm and relaxed → frightened and worried",
+      "curious and cheerful → angry and annoyed",
+      "proud and confident → lonely and embarrassed"
+    ],
+    "answer": 1,
+    "translation": "예리는 일 년 동안 매일 첼로를 연습했지만 청소년 오케스트라 오디션에 합격하지 못했다. 결과가 게시되자 그녀는 자기 이름이 있기를 바라며 명단을 세 번 읽었다. 이름은 없었다. 그녀는 모든 노력이 헛되었다고 느끼며 천천히 집으로 걸어갔다. 그날 저녁 그녀는 첼로 케이스 안에서 쪽지를 발견했다. 선생님이 쓴 것이었다. \"네 음색이 정말 많이 좋아졌어. 내년 봄에 다시 도전해 보렴, 내가 도와줄게.\" 예리는 그것을 읽고 또 읽었다. 천천히 그녀의 얼굴에 작은 미소가 나타났다. 그녀는 첼로를 꺼내 연주하기 시작했다.",
+    "why": "낙방해 낙담하고 슬펐지만(discouraged and sad), 선생님의 쪽지를 읽고 희망과 의지를 얻었습니다(hopeful and determined).",
+    "optionNotes": [
+      "지루함과 부주의로 시작하지 않았습니다.",
+      "정답. 낙담에서 희망과 의지로 변했습니다.",
+      "차분함에서 두려움이 아닙니다.",
+      "호기심과 명랑함으로 시작하지 않았습니다.",
+      "자랑스러움으로 시작하지 않았습니다."
+    ],
+    "trap": "'wasted'라는 단어에서 끝나지 않고 쪽지 이후 감정 변화를 읽으세요.",
+    "tip": "전환 신호(That evening, found a note)를 기준으로 앞뒤 감정을 비교하세요."
+  },
+  {
+    "id": "m2b-05-20",
+    "level": "m2",
+    "set": "mock-05",
+    "no": 20,
+    "type": "claim",
+    "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+    "passage": "Every year, people around the world use hundreds of billions of plastic bottles, and most of them are thrown away after only one use. Many end up in rivers and oceans, where they harm animals and take hundreds of years to break down. One simple solution is to make clean drinking water easy to find. In cities where public drinking fountains are common, people carry reusable bottles and fill them for free. However, in many places fountains are rare, broken, or unclean, so people have no choice but to buy bottled water. Local governments should therefore install and maintain more public drinking fountains.",
+    "options": [
+      "플라스틱 병을 만드는 공장의 수를 줄이는 법을 제정해야 한다.",
+      "바다에 버려진 병은 시민들이 직접 수거해야 한다.",
+      "병물의 가격을 낮춰서 더 많은 사람이 사 마시도록 해야 한다.",
+      "지방 정부는 공공 식수대를 더 많이 설치하고 관리해야 한다.",
+      "재사용 병은 일회용 병보다 훨씬 더 비싸므로 구입을 피해야 한다."
+    ],
+    "answer": 3,
+    "translation": "매년 전 세계 사람들은 수천억 개의 플라스틱 병을 사용하며 그 대부분은 한 번 쓰고 버려진다. 많은 병이 강과 바다에 이르러 동물에게 해를 끼치고 분해되는 데 수백 년이 걸린다. 한 가지 간단한 해결책은 깨끗한 식수를 쉽게 찾을 수 있게 하는 것이다. 공공 식수대가 흔한 도시에서는 사람들이 재사용 병을 들고 다니며 무료로 채운다. 그러나 많은 곳에서 식수대는 드물거나 고장 났거나 불결해서 사람들은 병물을 살 수밖에 없다. 그러므로 지방 정부는 공공 식수대를 더 많이 설치하고 관리해야 한다.",
+    "why": "마지막 문장 'Local governments should therefore install and maintain more public drinking fountains.'가 주장입니다.",
+    "optionNotes": [
+      "공장 규제는 나오지 않습니다.",
+      "시민의 수거는 나오지 않습니다.",
+      "병물 가격 인하는 글과 반대입니다.",
+      "정답. 공공 식수대를 더 설치하고 관리해야 합니다.",
+      "재사용 병이 더 비싸다는 내용은 없습니다."
+    ],
+    "trap": "앞부분의 문제(플라스틱 폐기)를 해결책으로 착각하지 마세요.",
+    "tip": "'should therefore ~' 문장이 필자의 주장입니다."
+  },
+  {
+    "id": "m2b-05-21",
+    "level": "m2",
+    "set": "mock-05",
+    "no": 21,
+    "type": "implied",
+    "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "passage": "Minji and her friends had been planning a surprise party for Jaemin's birthday for two weeks. Everyone promised to keep it a secret. The day before the party, however, Minji's little brother, who had overheard everything, met Jaemin on the street. \"Are you excited about the party tomorrow?\" he asked happily. Jaemin looked puzzled and said, \"What party?\" Too late, the boy covered his mouth with both hands. He had {u|spilled the beans}. When Minji heard about it, she sighed, but she could not help laughing. Jaemin promised to act surprised the next day.",
+    "options": [
+      "dropped a bag of food on the road and made a mess",
+      "cooked a meal for a large number of guests at the party",
+      "revealed a secret by accident without meaning to do so",
+      "refused to keep a promise that he made to a friend",
+      "told a lie in order to protect another person's feelings"
+    ],
+    "answer": 2,
+    "translation": "민지와 친구들은 재민의 생일을 위한 깜짝 파티를 이 주 동안 계획해 왔다. 모두 비밀로 하기로 약속했다. 그런데 파티 전날 모든 것을 엿들은 민지의 남동생이 길에서 재민을 만났다. \"내일 파티 기대돼요?\" 하고 그가 기쁘게 물었다. 재민은 어리둥절한 얼굴로 \"무슨 파티?\" 하고 말했다. 너무 늦게 소년은 두 손으로 입을 가렸다. 그는 비밀을 누설한 것이었다. 민지는 그 소식을 듣고 한숨을 쉬었지만 웃음을 참을 수 없었다. 재민은 다음 날 놀란 척하겠다고 약속했다.",
+    "why": "남동생이 깜짝 파티 비밀을 무심코 말해 버렸으므로 'spilled the beans'는 비밀을 실수로 누설했다는 뜻입니다.",
+    "optionNotes": [
+      "음식을 쏟았다는 문자 그대로의 뜻이 아닙니다.",
+      "손님을 위해 요리했다는 뜻이 아닙니다.",
+      "정답. 비밀을 실수로 누설했습니다.",
+      "약속을 거부한 것이 아닙니다.",
+      "상대를 위한 거짓말이 아닙니다."
+    ],
+    "trap": "'beans'를 문자 그대로 해석하지 마세요.",
+    "tip": "관용 표현은 앞뒤 문맥(비밀 → What party? → covered his mouth)에서 의미를 추론하세요."
+  },
+  {
+    "id": "m2b-05-22",
+    "level": "m2",
+    "set": "mock-05",
+    "no": 22,
+    "type": "gist",
+    "stem": "다음 글의 요지로 가장 적절한 것은?",
+    "passage": "Many people believe that saving money is possible only for those who earn a lot. However, small amounts can grow into large sums if they are saved regularly over a long period. For example, if you save five dollars every day, you will have more than eighteen hundred dollars after one year. If you also put the money in an account that pays interest, the interest itself earns more interest, and the total grows faster each year. The most important thing is not the size of each deposit but the habit of saving every day. Starting early gives your money more time to grow.",
+    "options": [
+      "적은 금액이라도 꾸준히 오래 저축하면 큰돈으로 불어날 수 있다.",
+      "저축을 하려면 먼저 많은 수입을 올릴 수 있는 직업부터 구해야 한다.",
+      "이자율이 가장 높은 계좌를 찾는 것이 저축에서 가장 중요한 요소이다.",
+      "큰 금액을 한꺼번에 저축하는 것이 습관을 기르는 데 유리하다.",
+      "돈을 쓰기보다는 모든 소비를 완전히 끊는 것이 바람직하다."
+    ],
+    "answer": 0,
+    "translation": "많은 사람은 저축이 많이 버는 사람에게만 가능하다고 믿는다. 그러나 적은 금액도 오랜 기간 규칙적으로 저축하면 큰 금액으로 불어날 수 있다. 예를 들어 매일 5달러를 저축하면 일 년 뒤에는 1,800달러가 넘게 된다. 이자가 붙는 계좌에 넣으면 이자 자체가 또 이자를 낳아 총액은 해마다 더 빨리 늘어난다. 가장 중요한 것은 각 예금의 크기가 아니라 매일 저축하는 습관이다. 일찍 시작할수록 돈이 불어날 시간이 더 많아진다.",
+    "why": "가장 중요한 것은 예금의 크기가 아니라 꾸준한 저축 습관이라는 것이 요지입니다.",
+    "optionNotes": [
+      "정답. 꾸준한 소액 저축이 큰돈이 됩니다.",
+      "고소득 직업이 먼저라는 내용은 반박됩니다.",
+      "이자율이 가장 중요하다는 내용은 아닙니다.",
+      "큰 금액을 한꺼번에 저축하라는 내용은 글과 반대입니다.",
+      "소비를 완전히 끊으라는 내용은 없습니다."
+    ],
+    "trap": "이자 이야기에 이끌려 이자율(③)이 핵심이라고 착각하지 마세요.",
+    "tip": "'The most important thing is ~' 문장이 요지를 담습니다."
+  },
+  {
+    "id": "m2b-05-23",
+    "level": "m2",
+    "set": "mock-05",
+    "no": 23,
+    "type": "topic",
+    "stem": "다음 글의 주제로 가장 적절한 것은?",
+    "passage": "An octopus has no bones, yet it can squeeze through a hole no bigger than its eye. It also has about 500 million neurons. Two thirds of them are located in its arms, so each arm can sense and act almost on its own. In laboratories, octopuses have opened jars to get food and escaped from their tanks at night. In the wild, some carry coconut shells to use as shelters when danger appears. Scientists are amazed by these behaviors, because octopuses live only a few years and do not learn from their parents. Their intelligence seems to have evolved in a completely different way from ours.",
+    "options": [
+      "how octopuses use their intelligence and flexible bodies to survive",
+      "why coconut shells are used as bowls in many tropical countries",
+      "where octopuses lay their eggs after they find a mate",
+      "what kinds of food are best for keeping fish in a large tank",
+      "when scientists first discovered the bones of ancient sea animals on a beach"
+    ],
+    "answer": 0,
+    "translation": "문어는 뼈가 없지만 자기 눈보다 크지 않은 구멍을 비집고 지나갈 수 있다. 또한 약 5억 개의 뉴런이 있다. 그중 3분의 2가 다리에 있어서 각 다리가 거의 독자적으로 감각하고 행동할 수 있다. 실험실에서 문어는 먹이를 얻으려고 병을 열고 밤에 수조를 탈출했다. 야생에서 일부는 위험이 나타나면 은신처로 쓰려고 코코넛 껍데기를 가지고 다닌다. 과학자들은 문어가 몇 해밖에 살지 못하고 부모에게서 배우지 않는데도 이런 행동을 하기 때문에 놀란다. 문어의 지능은 우리와는 완전히 다른 방식으로 진화한 듯하다.",
+    "why": "뼈 없는 몸과 뛰어난 지능을 이용해 살아남는 문어의 모습을 소개합니다.",
+    "optionNotes": [
+      "정답. 문어의 지능과 유연한 몸이 생존에 쓰이는 방식입니다.",
+      "코코넛 그릇은 나오지 않습니다.",
+      "산란 장소는 나오지 않습니다.",
+      "수조 속 먹이는 나오지 않습니다.",
+      "뼈 화석의 발견은 나오지 않습니다."
+    ],
+    "trap": "'coconut shells'는 예시일 뿐 주제가 아닙니다.",
+    "tip": "주제는 반복되는 핵심(intelligence, arms, escape)을 묶어 찾으세요."
+  },
+  {
+    "id": "m2b-05-24",
+    "level": "m2",
+    "set": "mock-05",
+    "no": 24,
+    "type": "title",
+    "stem": "다음 글의 제목으로 가장 적절한 것은?",
+    "passage": "Sloths are famous for moving slowly, and many people think they are lazy. In fact, their slow life is a clever survival strategy. Sloths eat leaves, which provide very little energy, so they move slowly to save it. Their fur is home to green algae, which helps them blend into the trees and hide from eagles. They come down from the trees only about once a week, and they can also swim well when they need to cross a river. Their slow digestion lets them stay full for days. Rather than competing for speed, sloths have succeeded by doing less.",
+    "options": [
+      "Why Sloths Are the Laziest Animals on Earth",
+      "Sloths: Slow Living as a Clever Survival Strategy",
+      "How to Grow Algae on the Fur of Your Pet at Home",
+      "The Fastest Birds That Hunt Animals in the Rain Forest",
+      "A Guide to Crossing Rivers Safely During a Summer Trip"
+    ],
+    "answer": 1,
+    "translation": "나무늘보는 느리게 움직이는 것으로 유명하며 많은 사람은 그들이 게으르다고 생각한다. 사실 그들의 느린 삶은 영리한 생존 전략이다. 나무늘보는 에너지를 거의 주지 않는 잎을 먹으므로 에너지를 아끼려고 천천히 움직인다. 그들의 털에는 녹조류가 살아서 나무에 섞여 독수리로부터 숨는 데 도움이 된다. 그들은 일주일에 한 번쯤만 나무에서 내려오고 강을 건너야 할 때는 헤엄도 잘 친다. 느린 소화 덕분에 며칠 동안 배부른 상태를 유지한다. 속도를 두고 경쟁하는 대신 나무늘보는 덜 함으로써 성공했다.",
+    "why": "게으른 것이 아니라 느린 삶이 생존 전략이라는 내용이므로 ②가 제목입니다.",
+    "optionNotes": [
+      "게으르다는 통념은 글에서 반박됩니다.",
+      "정답. 느린 삶이 영리한 생존 전략입니다.",
+      "조류 기르기는 나오지 않습니다.",
+      "빠른 새는 나오지 않습니다.",
+      "강 건너기 안내는 나오지 않습니다."
+    ],
+    "trap": "통념(lazy)을 담은 ①에 이끌리지 마세요.",
+    "tip": "제목은 통념을 뒤집는 글의 핵심 주장을 담으세요."
+  },
+  {
+    "id": "m2b-05-25",
+    "level": "m2",
+    "set": "mock-05",
+    "no": 25,
+    "type": "chart",
+    "stem": "다음 도표의 내용과 일치하지 않는 것은?",
+    "chart": {
+      "title": "Weekly Time Spent on Hobbies by Age (hours)",
+      "unit": "h",
+      "labels": [
+        "Age 10",
+        "Age 12",
+        "Age 14",
+        "Age 16",
+        "Age 18"
+      ],
+      "series": [
+        {
+          "name": "Hours",
+          "values": [
+            9,
+            8,
+            6,
+            4,
+            3
+          ]
+        }
+      ]
+    },
+    "passage": "The graph shows the weekly time that young people spend on hobbies by age. ① The time spent on hobbies increases as age goes up. ② The time at age 10 is three times as long as that at age 18. ③ The time at age 14 is 2 hours shorter than that at age 12. ④ The time at age 16 is half as long as that at age 12. ⑤ Age 18 spends the shortest time on hobbies.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "그래프는 나이별로 청소년이 취미에 쓰는 주당 시간을 보여 준다. ① 취미에 쓰는 시간은 나이가 올라갈수록 늘어난다. ② 10세의 시간은 18세의 세 배이다. ③ 14세의 시간은 12세보다 2시간 짧다. ④ 16세의 시간은 12세의 절반이다. ⑤ 18세가 취미에 가장 짧은 시간을 쓴다.",
+    "why": "취미 시간은 9, 8, 6, 4, 3시간으로 나이가 올라갈수록 줄어드므로 ①은 일치하지 않습니다.",
+    "optionNotes": [
+      "정답(불일치). 나이가 올라갈수록 시간은 줄어듭니다.",
+      "9 ÷ 3 = 3배입니다.",
+      "8 - 6 = 2시간입니다.",
+      "4는 8의 절반입니다.",
+      "3시간으로 가장 짧습니다."
+    ],
+    "trap": "증가/감소 방향을 반대로 읽기 쉽습니다.",
+    "tip": "그래프 문제는 추세의 방향(증가/감소)을 먼저 확인하세요."
+  },
+  {
+    "id": "m2b-05-26",
+    "level": "m2",
+    "set": "mock-05",
+    "no": 26,
+    "type": "match",
+    "stem": "Florence Nightingale에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Florence Nightingale was born in 1820 in Italy to a wealthy British family. Although her parents expected her to marry, she decided to become a nurse, which was not considered a proper job for women at the time. In 1854, during the Crimean War, she led a group of thirty-eight nurses to a military hospital in Turkey. She found dirty rooms and a shortage of supplies, and she worked to improve the cleanliness of the hospital. As a result, the death rate among patients fell sharply. After returning home, she used charts and statistics to persuade the government to reform hospitals. In 1860, she opened a school for nurses in London.",
+    "options": [
+      "크림 전쟁 때 병원 위생을 개선해 사망률을 낮췄다.",
+      "부모의 기대에 따라 젊은 나이에 결혼하여 간호사가 되었다.",
+      "1854년에 열 명의 간호사와 함께 런던의 병원에서 일했다.",
+      "병원의 개혁을 설득하기 위해 도표나 통계를 사용하지 않았다.",
+      "1860년에 이탈리아에 최초의 간호 학교를 열었다."
+    ],
+    "answer": 0,
+    "translation": "플로렌스 나이팅게일은 1820년 이탈리아에서 부유한 영국 가문에 태어났다. 부모는 그녀가 결혼하기를 기대했지만 그녀는 당시 여성에게 적절한 직업으로 여겨지지 않던 간호사가 되기로 결심했다. 1854년 크림 전쟁 중 그녀는 서른여덟 명의 간호사를 이끌고 튀르키예의 군 병원으로 갔다. 그녀는 더러운 병실과 물자 부족을 발견했고 병원의 청결을 개선하려고 노력했다. 그 결과 환자 사망률이 급격히 떨어졌다. 귀국한 뒤 그녀는 도표와 통계를 이용해 정부가 병원을 개혁하도록 설득했다. 1860년 그녀는 런던에 간호사 학교를 열었다.",
+    "why": "'she worked to improve the cleanliness of the hospital. As a result, the death rate among patients fell sharply.'와 일치합니다.",
+    "optionNotes": [
+      "정답. 병원 위생을 개선해 사망률을 낮췄습니다.",
+      "결혼하지 않고 간호사가 되기로 했습니다.",
+      "서른여덟 명과 튀르키예의 병원으로 갔습니다.",
+      "도표와 통계를 이용했습니다.",
+      "간호 학교는 런던에 열었습니다."
+    ],
+    "trap": "숫자(38명)와 장소(튀르키예, 런던)를 혼동하지 마세요.",
+    "tip": "일치 문제는 숫자·장소·인과를 하나씩 대조하세요."
+  },
+  {
+    "id": "m2b-05-27",
+    "level": "m2",
+    "set": "mock-05",
+    "no": 27,
+    "type": "notice",
+    "stem": "Museum Night Walk에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Hanbit Museum Night Walk\nDate: Friday and Saturday, May 23 - 24, 7 p.m. - 10 p.m.\nPlace: Hanbit National Museum (Gate 2)\nProgram: Guided tours of the special exhibition, a live music performance in the garden, and a food truck area\nTickets: Free for children under 7; $5 for students; $8 for adults. Tickets can be bought online only.\nNotice: Flash photography is not allowed. Children under 12 must be accompanied by an adult.\nParking: Not available. Free shuttle buses run from Central Station every 20 minutes.",
+    "options": [
+      "입장권은 행사장 매표소에서도 구입할 수 있다.",
+      "12세 미만의 어린이는 보호자와 함께 와야 한다.",
+      "7세 미만의 어린이도 5달러를 내야 입장할 수 있다.",
+      "플래시를 터뜨려도 사진을 마음껏 찍을 수 있다.",
+      "박물관 주차장은 행사 기간에 무료로 개방된다."
+    ],
+    "answer": 1,
+    "translation": "한빛 박물관 야간 산책. 일시: 5월 23일 금요일, 24일 토요일 오후 7시~10시. 장소: 한빛 국립박물관(2번 출입구). 프로그램: 특별 전시 안내 투어, 정원의 라이브 음악 공연, 푸드 트럭 구역. 입장권: 7세 미만 어린이 무료, 학생 5달러, 성인 8달러. 입장권은 온라인으로만 구입할 수 있습니다. 유의: 플래시 촬영 금지. 12세 미만 어린이는 성인과 동행해야 합니다. 주차: 불가. 중앙역에서 20분마다 무료 셔틀버스 운행.",
+    "why": "'Children under 12 must be accompanied by an adult.'와 일치합니다.",
+    "optionNotes": [
+      "입장권은 온라인으로만 살 수 있습니다.",
+      "정답. 12세 미만은 성인 동반이 필요합니다.",
+      "7세 미만은 무료입니다.",
+      "플래시 촬영은 금지됩니다.",
+      "주차는 불가능합니다."
+    ],
+    "trap": "무료 연령(7세 미만)과 동반 연령(12세 미만)을 혼동하지 마세요.",
+    "tip": "안내문의 숫자(7세, 12세)가 가리키는 조건을 구분하세요."
+  },
+  {
+    "id": "m2b-05-28",
+    "level": "m2",
+    "set": "mock-05",
+    "no": 28,
+    "type": "notice",
+    "stem": "Beginner Guitar Class에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Hanbit Community Center Beginner Guitar Class\nFor: Adults and teens (age 14 or older); no experience needed\nSchedule: Wednesdays, 7 p.m. - 8:30 p.m., from June 4 to July 23 (8 weeks)\nClass size: 12 students\nFee: $80 (guitars are available for rent at $10 for the whole course)\nRegistration: In person at the center office or by phone until May 30. Payment is due on the first day of class.\nCancellation: A full refund is available until June 1.\nContact: 02-987-6543",
+    "options": [
+      "수강은 만 18세 이상의 성인만 신청할 수 있도록 제한된다.",
+      "수업은 매주 금요일 저녁 일곱 시부터 진행된다.",
+      "기타가 없어도 10달러에 수강 기간 동안 빌릴 수 있다.",
+      "수강료는 등록 마감일인 5월 30일까지 미리 내야 한다.",
+      "6월 1일이 지나도 수강료를 전액 환불받을 수 있다."
+    ],
+    "answer": 2,
+    "translation": "한빛 주민 센터 초급 기타 수업. 대상: 성인과 청소년(14세 이상), 경험 불필요. 일정: 6월 4일부터 7월 23일까지 매주 수요일 오후 7시~8시 30분(8주). 정원: 12명. 수강료: 80달러(기타는 전체 과정 동안 10달러에 대여 가능). 등록: 5월 30일까지 센터 사무실 방문 또는 전화. 납부는 첫 수업 날. 취소: 6월 1일까지 전액 환불 가능. 문의: 02-987-6543.",
+    "why": "'guitars are available for rent at $10 for the whole course'와 일치합니다.",
+    "optionNotes": [
+      "14세 이상이면 신청할 수 있습니다.",
+      "수업은 수요일에 진행됩니다.",
+      "정답. 10달러에 전체 과정 동안 대여할 수 있습니다.",
+      "납부는 첫 수업 날입니다.",
+      "환불은 6월 1일까지만 가능합니다."
+    ],
+    "trap": "등록 마감(5월 30일)과 납부일(첫 수업)을 혼동하지 마세요.",
+    "tip": "안내문은 Fee, Registration, Cancellation 항목을 하나씩 대조하세요."
+  }
+]

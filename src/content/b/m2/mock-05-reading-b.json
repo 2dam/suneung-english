@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m2b-05-29",
+    "level": "m2",
+    "set": "mock-05",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Emperor penguins live in Antarctica, where temperatures can fall below minus fifty degrees. To survive the extreme cold, they gather in large groups, {1|called} huddles. The penguins in the center are warm, while those on the edge are exposed to the freezing wind. Surprisingly, the penguins {2|take} turns, so every bird gets a chance to stay in the warm center. A huddle may contain thousands of birds, and its inside temperature can {3|reach} about 37 degrees. Scientists who studied the movements of the group found that the huddle slowly moves forward like a wave. Because the penguins {4|work} together, even the youngest chicks can survive the winter. This is a good example of how cooperation helps animals {5|survives} in difficult conditions.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "황제펭귄은 기온이 영하 50도 아래로 떨어질 수 있는 남극에서 산다. 극심한 추위에서 살아남으려고 그들은 허들이라 불리는 큰 무리로 모인다. 중앙의 펭귄들은 따뜻하지만 가장자리의 펭귄들은 차가운 바람에 노출된다. 놀랍게도 펭귄들은 차례를 바꾸어서 모든 새가 따뜻한 중앙에 있을 기회를 얻는다. 허들에는 수천 마리가 있을 수 있고 안쪽 온도는 약 37도에 이를 수 있다. 무리의 움직임을 연구한 과학자들은 허들이 파도처럼 천천히 앞으로 움직인다는 것을 발견했다. 펭귄들이 함께 힘을 모으기 때문에 가장 어린 새끼도 겨울을 날 수 있다. 이것은 협력이 동물들이 어려운 조건에서 살아남도록 어떻게 돕는지를 보여 주는 좋은 예이다.",
+    "why": "준사역동사 'help'는 목적어 뒤에 동사원형이나 to부정사를 쓰므로 'survives'가 아니라 'survive'여야 합니다.",
+    "optionNotes": [
+      "수동의 의미를 가진 과거분사 called입니다.",
+      "주어 penguins에 맞는 복수 동사 take입니다.",
+      "조동사 can 뒤의 동사원형 reach입니다.",
+      "접속사 because 절의 복수 동사 work입니다.",
+      "정답(틀린 것). help + 목적어 + 동사원형이므로 survive여야 합니다."
+    ],
+    "trap": "가까이 있는 단수 명사 cooperation에 이끌려 동사에 -s를 붙이기 쉽습니다.",
+    "tip": "help + 목적어 뒤에는 동사원형 또는 to부정사가 옵니다."
+  },
+  {
+    "id": "m2b-05-30",
+    "level": "m2",
+    "set": "mock-05",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Spending time in the sun is good for our bodies because it helps us produce vitamin D. However, too much sunlight can {1|damage} the skin and cause sunburn. Experts therefore advise people to wear sunscreen even on cloudy days, since up to eighty percent of ultraviolet rays can pass {2|through} clouds. It is {3|unnecessary} to apply sunscreen again after swimming or sweating a lot, because the cream washes off. Wearing a hat and sunglasses gives extra {4|protection}. In addition, staying in the shade between noon and three o'clock, when the sun is strongest, can {5|reduce} the risk of skin damage.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "햇볕을 쬐는 것은 비타민 D를 만드는 데 도움이 되므로 우리 몸에 좋다. 그러나 햇빛을 너무 많이 쬐면 피부가 손상되고 화상을 입을 수 있다. 그래서 전문가들은 흐린 날에도 자외선의 최대 80퍼센트가 구름을 통과할 수 있으므로 선크림을 바르라고 조언한다. 수영하거나 땀을 많이 흘린 뒤에는 크림이 씻겨 나가므로 선크림을 다시 바를 필요가 없다. 모자와 선글라스를 쓰면 추가적인 보호가 된다. 게다가 해가 가장 강한 정오부터 세 시 사이에 그늘에 있으면 피부 손상의 위험을 줄일 수 있다.",
+    "why": "수영이나 땀 뒤에는 크림이 씻겨 나가기 때문에 다시 바르는 것이 '불필요하다(unnecessary)'가 아니라 '필요하다(necessary)'여야 합니다.",
+    "optionNotes": [
+      "피부를 손상시킨다는 의미로 damage가 알맞습니다.",
+      "구름을 통과한다는 의미로 through가 알맞습니다.",
+      "정답(부적절). 크림이 씻겨 나가므로 necessary여야 합니다.",
+      "추가 보호라는 의미로 protection이 알맞습니다.",
+      "위험을 줄인다는 의미로 reduce가 알맞습니다."
+    ],
+    "trap": "because 절의 'the cream washes off'와 unnecessary가 충돌하는 점을 놓치기 쉽습니다.",
+    "tip": "because 절의 이유와 형용사의 방향이 일치하는지 확인하세요."
+  },
+  {
+    "id": "m2b-05-31",
+    "level": "m2",
+    "set": "mock-05",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Studies of brain scans show that professional musicians have a larger area in the part of the brain that controls finger movement. For example, the part of the brain connected to the left hand is much larger in violin players. Their brains also connect the left and right sides more strongly than the brains of non-musicians. Interestingly, these changes appear most clearly in people who started learning music before the age of seven. Researchers believe that young brains are very flexible, so they respond strongly to training. These findings surprised many scientists. This suggests that the brain __________.",
+    "options": [
+      "stops developing completely after the age of three years old",
+      "works best when it is kept quiet and away from music",
+      "needs a large amount of sleep for every single task",
+      "grows larger only when people eat a lot of healthy food",
+      "can change its structure through practice and experience"
+    ],
+    "answer": 4,
+    "translation": "뇌 스캔 연구는 전문 음악가가 손가락 움직임을 조절하는 뇌 부위가 더 크다는 것을 보여 준다. 예를 들어 바이올린 연주자는 왼손과 연결된 뇌 부위가 훨씬 더 크다. 그들의 뇌는 또한 비음악가의 뇌보다 좌우를 더 강하게 연결한다. 흥미롭게도 이런 변화는 일곱 살 전에 음악을 배우기 시작한 사람들에게서 가장 뚜렷하게 나타난다. 연구자들은 어린 뇌가 매우 유연해서 훈련에 강하게 반응한다고 믿는다. 이 발견은 많은 과학자를 놀라게 했다. 이는 뇌가 연습과 경험의 결과로 구조를 바꿀 수 있음을 시사한다.",
+    "why": "훈련을 받은 음악가의 뇌 구조가 달라졌으므로 '연습과 경험의 결과로 구조를 바꿀 수 있다'가 알맞습니다.",
+    "optionNotes": [
+      "세 살 이후 발달이 멈춘다는 내용은 없습니다.",
+      "음악과 떨어져 있어야 한다는 내용은 없습니다.",
+      "수면은 나오지 않습니다.",
+      "음식은 나오지 않습니다.",
+      "정답. 연습과 경험이 뇌 구조를 바꿉니다."
+    ],
+    "trap": "'age of seven'에 이끌려 발달이 멈춘다는 보기(①)를 고르지 마세요.",
+    "tip": "앞의 연구 결과(larger area, stronger connection)를 일반화한 말을 찾으세요."
+  },
+  {
+    "id": "m2b-05-32",
+    "level": "m2",
+    "set": "mock-05",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Psychologists have studied chess players for more than fifty years. Chess masters can remember the positions of dozens of pieces after glancing at a board for only five seconds. Beginners, in contrast, can usually remember only a few pieces. However, when the pieces are placed randomly on the board, their memory is no better than that of beginners. This shows that their skill does not come from a better general memory. Instead, years of play have taught them to recognize meaningful patterns. They do not memorize each piece one by one but __________.",
+    "options": [
+      "move the pieces quickly",
+      "trust their luck",
+      "count every square",
+      "copy a teacher",
+      "see groups of pieces as familiar shapes that they have met in earlier games"
+    ],
+    "answer": 4,
+    "translation": "심리학자들은 오십 년 넘게 체스 선수를 연구해 왔다. 체스 마스터는 판을 겨우 5초 보고도 수십 개 말의 위치를 기억할 수 있다. 반면 초보자는 보통 몇 개의 말만 기억할 수 있다. 그러나 말이 판 위에 무작위로 놓이면 그들의 기억력은 초보자와 다르지 않다. 이는 그들의 실력이 더 나은 일반 기억력에서 오지 않음을 보여 준다. 대신 수년간의 대국이 그들에게 의미 있는 패턴을 알아보도록 가르쳤다. 그들은 말을 하나하나 외우는 것이 아니라 이전 대국에서 만난 익숙한 모양으로 말의 무리를 본다.",
+    "why": "무작위 배치에서는 기억이 비슷하므로 의미 있는 패턴을 알아보는 능력이 핵심이며 '익숙한 모양으로 말의 무리를 본다'가 알맞습니다.",
+    "optionNotes": [
+      "말을 빨리 옮긴다는 내용은 없습니다.",
+      "운에 맡긴다는 내용은 없습니다.",
+      "모든 칸을 센다는 내용은 없습니다.",
+      "스승을 따라한다는 내용은 없습니다.",
+      "정답. 익숙한 모양으로 묶어서 봅니다."
+    ],
+    "trap": "'memory'에 이끌려 기억 방법을 단순 암기로 착각하지 마세요.",
+    "tip": "not A but B에서 A(one by one)와 대비되는 B를 찾으세요."
+  },
+  {
+    "id": "m2b-05-33",
+    "level": "m2",
+    "set": "mock-05",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many families own tools that they use only a few times a year, such as drills and ladders. A growing number of neighborhoods have created tool libraries, where residents can borrow what they need for free. Members save money, and fewer products need to be made and thrown away. Some libraries even lend sewing machines, camping gear, and kitchen tools. One member said that she saved more than one hundred dollars last year. Tool libraries also bring neighbors together and help them get to know one another. They show that the best way to use a resource is sometimes __________.",
+    "options": [
+      "to keep it locked at home so that no one else can touch it",
+      "to sell it to a stranger who lives in a distant city",
+      "to share it with others instead of owning it alone",
+      "to buy a more expensive one every time it is needed",
+      "to throw it away as soon as the first problem occurs"
+    ],
+    "answer": 2,
+    "translation": "많은 가정은 드릴과 사다리처럼 일 년에 몇 번만 쓰는 도구를 가지고 있다. 점점 더 많은 동네가 주민이 필요한 것을 무료로 빌릴 수 있는 도구 도서관을 만들었다. 회원은 돈을 아끼고 더 적은 제품이 만들어지고 버려져도 된다. 일부 도서관은 재봉틀, 캠핑 장비, 주방 도구까지 빌려준다. 한 회원은 작년에 100달러 넘게 아꼈다고 말했다. 도구 도서관은 또한 이웃을 모이게 하고 서로를 알게 한다. 이는 자원을 쓰는 가장 좋은 방법이 때로는 혼자 소유하는 대신 다른 사람과 나누는 것임을 보여 준다.",
+    "why": "도구 도서관은 소유하지 않고 나누어 쓰는 방식이므로 '혼자 소유하는 대신 다른 사람과 나누는 것'이 알맞습니다.",
+    "optionNotes": [
+      "집에 잠가 둔다는 내용은 글과 반대입니다.",
+      "낯선 사람에게 판다는 내용은 없습니다.",
+      "정답. 소유하는 대신 나누는 것입니다.",
+      "더 비싼 것을 산다는 내용은 글과 반대입니다.",
+      "문제가 생기면 버린다는 내용은 글과 반대입니다."
+    ],
+    "trap": "'own'과 'borrow'의 대비를 놓치지 마세요.",
+    "tip": "앞 문장들의 예시(borrow, save money)가 빈칸의 일반화를 뒷받침합니다."
+  },
+  {
+    "id": "m2b-05-34",
+    "level": "m2",
+    "set": "mock-05",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Dogs are very good at reading human feelings. In one study, dogs looked longer at a smiling face than at an angry one. They also approached crying people more quickly than people who were talking. Dogs can even tell the difference between happy and angry voices. Wolves, their wild relatives, do not show this skill as clearly. This ability is rare among animals. Researchers believe that thousands of years of living with humans have trained dogs to notice small changes in our faces and voices. This explains why dogs often respond to our moods by __________.",
+    "options": [
+      "ignoring us whenever we are busy with other work at home",
+      "barking at the strangers who walk past our house every day",
+      "running away when we speak in a loud voice to others",
+      "eating the food on the table when no one is looking at them",
+      "comforting us when we are sad and sharing our joy"
+    ],
+    "answer": 4,
+    "translation": "개는 인간의 감정을 읽는 데 매우 뛰어나다. 한 연구에서 개는 화난 얼굴보다 웃는 얼굴을 더 오래 보았다. 개는 또한 우는 사람에게 말하는 사람보다 더 빨리 다가갔다. 개는 행복한 목소리와 화난 목소리의 차이도 구별할 수 있다. 야생 친척인 늑대는 이 능력을 그만큼 뚜렷이 보이지 않는다. 이런 능력은 동물 중에서 드물다. 연구자들은 인간과 함께 산 수천 년이 개가 우리 얼굴과 목소리의 작은 변화를 알아차리도록 훈련시켰다고 믿는다. 이것이 개가 흔히 우리가 슬플 때는 위로하고 기쁠 때는 기쁨을 나눔으로써 우리의 기분에 반응하는 이유를 설명한다.",
+    "why": "개가 우는 사람에게 더 빨리 다가가고 웃는 얼굴을 오래 본다고 했으므로 '슬플 때 위로하고 기쁠 때 기쁨을 나눈다'가 알맞습니다.",
+    "optionNotes": [
+      "무시한다는 내용은 글과 반대입니다.",
+      "낯선 사람에게 짖는다는 내용은 없습니다.",
+      "도망간다는 내용은 없습니다.",
+      "음식을 먹는다는 내용은 없습니다.",
+      "정답. 기분에 맞춰 위로하고 기쁨을 나눕니다."
+    ],
+    "trap": "'dogs'에 관한 일반적 행동(짖기)을 끌어오지 마세요.",
+    "tip": "연구 결과(approached crying people)가 빈칸의 직접적 단서입니다."
+  },
+  {
+    "id": "m2b-05-35",
+    "level": "m2",
+    "set": "mock-05",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Keeping a diary offers several benefits for young people. ① Writing about your day helps you organize your thoughts and understand what happened. ② It can also reduce stress, because putting feelings into words makes them easier to handle. ③ Looking back at old entries shows how much you have grown over time. ④ In addition, daily writing improves your vocabulary and your ability to express ideas clearly. ⑤ The first pencils were made in England in the sixteenth century from a soft black mineral.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "일기를 쓰는 것은 젊은 사람들에게 여러 이점을 준다. ① 하루에 대해 쓰면 생각을 정리하고 무슨 일이 있었는지 이해하는 데 도움이 된다. ② 감정을 말로 옮기면 다루기 쉬워지므로 스트레스도 줄일 수 있다. ③ 지난 기록을 돌아보면 시간이 지나며 얼마나 성장했는지 알 수 있다. ④ 게다가 매일 쓰기는 어휘와 생각을 명확히 표현하는 능력을 향상시킨다. ⑤ 최초의 연필은 16세기 영국에서 부드러운 검은 광물로 만들어졌다.",
+    "why": "글은 일기 쓰기의 이점을 말하는데 ⑤는 연필의 역사라는 별개의 이야기라 관계가 없습니다.",
+    "optionNotes": [
+      "일기가 생각을 정리하는 이점입니다.",
+      "일기가 스트레스를 줄이는 이점입니다.",
+      "일기가 성장을 확인하게 하는 이점입니다.",
+      "일기가 표현력을 높이는 이점입니다.",
+      "정답(무관). 연필의 역사 이야기입니다."
+    ],
+    "trap": "'writing'과 관련된 소재(pencil)라서 주제와 이어지는 것처럼 보일 수 있습니다.",
+    "tip": "주제(일기의 이점)를 뒷받침하지 않는 문장을 고르세요."
+  },
+  {
+    "id": "m2b-05-36",
+    "level": "m2",
+    "set": "mock-05",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Have you ever wondered why the sky is blue during the day but turns red at sunset?\n(A) At sunset, however, sunlight must travel through much more air. Most of the blue light is scattered away, and only the red light reaches our eyes.\n(B) Sunlight looks white, but it is actually a mixture of all the colors of the rainbow, which we cannot see separately.\n(C) When it enters the atmosphere, the blue light is scattered in all directions much more than the red light. This is why the sky looks blue.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 2,
+    "translation": "낮에는 하늘이 파랗다가 해질 무렵에는 붉게 변하는 이유가 궁금했던 적이 있는가? (B) 햇빛은 하얗게 보이지만 사실 우리가 따로 볼 수 없는 무지개의 모든 색이 섞인 것이다. (C) 햇빛이 대기에 들어오면 파란빛이 붉은빛보다 훨씬 더 모든 방향으로 흩어진다. 이것이 하늘이 파랗게 보이는 이유이다. (A) 그러나 해질 무렵에는 햇빛이 훨씬 더 많은 공기를 지나야 한다. 파란빛 대부분은 흩어져 사라지고 붉은빛만 우리 눈에 닿는다.",
+    "why": "(B) 햇빛의 성분 → (C) 'it'(햇빛)이 대기에서 산란해 낮 하늘이 파랗다 → (A) 'however'로 해질 무렵 대조 순서입니다.",
+    "optionNotes": [
+      "(A)의 'however'와 'blue light'가 가리킬 설명이 앞에 없습니다.",
+      "(A)가 (C)의 설명 전에 오면 'however'로 대조할 낮의 설명이 없습니다.",
+      "정답. 성분 → 낮 → 해질 무렵.",
+      "(C)의 'it'이 가리킬 햇빛이 앞에 나오지 않습니다.",
+      "(C)의 'it'이 가리킬 햇빛이 앞에 나오지 않습니다."
+    ],
+    "trap": "(C)의 'it'은 (B)의 'Sunlight'를 가리킵니다.",
+    "tip": "it, however 같은 지시어와 연결어의 앞뒤 내용을 확인하세요."
+  },
+  {
+    "id": "m2b-05-37",
+    "level": "m2",
+    "set": "mock-05",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Many students think that cramming the night before an exam is the best way to study. They stay up all night repeating the same pages.\n(A) However, research shows that this method works only for the short term. The brain quickly forgets what it learned in a hurry.\n(B) Therefore, it is wiser to divide your study time into small parts and spread them over many days.\n(C) In contrast, students who study a little each day and review the material several times remember it for a much longer time. They can recall it even weeks after the test.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "많은 학생은 시험 전날 벼락치기를 하는 것이 최고의 공부법이라고 생각한다. 그들은 밤새 같은 쪽을 반복한다. (A) 그러나 연구는 이 방법이 단기간에만 통한다고 보여 준다. 뇌가 서둘러 배운 것을 빨리 잊어버리기 때문이다. (C) 반면 매일 조금씩 공부하고 자료를 여러 번 복습하는 학생은 훨씬 더 오래 기억한다. 시험 후 몇 주가 지나도 떠올릴 수 있다. (B) 그러므로 공부 시간을 작게 나누어 여러 날에 걸쳐 분산하는 것이 현명하다.",
+    "why": "(A) 'However'로 통념 반박 → (C) 'In contrast'로 분산 학습의 장점 → (B) 'Therefore'로 결론 순서입니다.",
+    "optionNotes": [
+      "정답. 반박 → 대조 → 결론.",
+      "(B)의 'Therefore'가 요약할 내용이 앞에 없습니다.",
+      "(B)의 'Therefore'가 요약할 내용이 앞에 없습니다.",
+      "(C)의 'In contrast'가 대조할 앞 내용이 없습니다.",
+      "(C)의 'In contrast'와 (B)의 'Therefore'가 앞의 설명 없이 먼저 옵니다."
+    ],
+    "trap": "(C)의 'In contrast'는 (A)의 벼락치기와 대조됩니다.",
+    "tip": "However → In contrast → Therefore의 논리 흐름을 따라가세요."
+  },
+  {
+    "id": "m2b-05-38",
+    "level": "m2",
+    "set": "mock-05",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThat is why the town decided to build a second bridge next to the old one.\n\n[글]\n( ① ) The only bridge connecting the small island to the mainland was built in 1960, when fewer than a thousand people lived there. ( ② ) Today, more than ten thousand residents live on the island, and thousands of them cross the bridge every morning. Traffic jams often last for more than two hours. ( ③ ) In addition, the old bridge needs repairs every year, and the cost keeps rising. ( ④ ) Construction began last spring, and it is expected to finish by the end of next year. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "[주어진 문장] 그래서 마을은 낡은 다리 옆에 두 번째 다리를 짓기로 결정했다. [글] 작은 섬을 본토와 연결하는 유일한 다리는 천 명도 안 되는 사람이 살던 1960년에 지어졌다. 오늘날 섬에는 만 명이 넘는 주민이 살고 그중 수천 명이 매일 아침 다리를 건넌다. 교통 체증은 두 시간 넘게 이어지는 일이 많다. 게다가 낡은 다리는 해마다 수리가 필요하고 비용은 계속 오른다. 공사는 지난봄에 시작되었고 내년 말에 끝날 것으로 예상된다.",
+    "why": "'That is why'는 앞의 여러 문제(교통 체증, 수리 비용)를 이유로 받고, 뒤의 공사 이야기로 이어지므로 ④에 들어갑니다.",
+    "optionNotes": [
+      "이유가 나오기 전이라 'That is why'가 어색합니다.",
+      "교통 체증 문제가 나오기 전에 결정이 먼저 나오면 어색합니다.",
+      "'In addition'이 앞 문제를 잇는 문장을 가르게 되어 흐름이 끊깁니다.",
+      "정답. 문제들을 이유로 받아 두 번째 다리 건설 결정으로 이어집니다.",
+      "공사 이야기가 끝난 뒤에 결정을 말하면 순서가 뒤집힙니다."
+    ],
+    "trap": "③에 넣으면 'In addition'으로 이어지는 문제 제시의 흐름이 끊어집니다.",
+    "tip": "That is why는 이유가 모두 나온 뒤, 결과를 설명하는 문장 앞에 놓입니다."
+  },
+  {
+    "id": "m2b-05-39",
+    "level": "m2",
+    "set": "mock-05",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nOne day, a neighbor tasted her cake at a party and asked if she could order one.\n\n[글]\n( ① ) Lena loved baking, but she had never sold her cakes to anyone. For years, she only made them for her family and friends on birthdays. ( ② ) Surprised, she said yes, and she baked the cake that weekend. ( ③ ) The neighbor shared photos of it on social media, and soon dozens of people were sending orders. ( ④ ) Lena had to buy a bigger oven and learn how to manage her time. ( ⑤ ) Now she runs a small online bakery from her kitchen.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "[주어진 문장] 어느 날 한 이웃이 파티에서 그녀의 케이크를 맛보고 하나 주문할 수 있느냐고 물었다. [글] 레나는 베이킹을 좋아했지만 케이크를 누구에게도 팔아 본 적이 없었다. 몇 년 동안 그녀는 생일에 가족과 친구를 위해서만 케이크를 만들었다. 놀란 그녀는 좋다고 답했고 그 주말에 케이크를 구웠다. 이웃은 그것의 사진을 소셜 미디어에 공유했고 곧 수십 명이 주문을 보내왔다. 레나는 더 큰 오븐을 사고 시간을 관리하는 법을 배워야 했다. 이제 그녀는 자기 부엌에서 작은 온라인 빵집을 운영한다.",
+    "why": "주어진 문장은 이웃의 주문 요청이고, 뒤의 'Surprised, she said yes'가 그 요청에 대한 반응이므로 ②에 들어갑니다.",
+    "optionNotes": [
+      "'her cake'의 'her'가 가리킬 Lena가 아직 나오지 않았습니다.",
+      "정답. 요청 뒤에 'Surprised, she said yes'가 이어집니다.",
+      "'Surprised, she said yes'에 해당하는 요청이 먼저 나와야 합니다.",
+      "주문이 쏟아진 뒤에 첫 요청이 나오면 순서가 뒤집힙니다.",
+      "결과를 말한 뒤에 첫 요청이 나오면 어색합니다."
+    ],
+    "trap": "③도 가능해 보이지만 'Surprised, she said yes'의 대상이 되는 요청이 먼저 있어야 합니다.",
+    "tip": "반응(Surprised, she said yes) 문장 앞에 자극(요청)이 있는지 확인하세요."
+  },
+  {
+    "id": "m2b-05-40",
+    "level": "m2",
+    "set": "mock-05",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Researchers asked forty adults to memorize fifty pairs of words in the morning. After that, half of the group took a ninety-minute nap, while the other half stayed awake and watched a video. In the afternoon, all participants were tested on the word pairs. The people who had napped remembered about twenty percent more pairs than those who had stayed awake. Brain scans showed that, during sleep, the brain was very active in the area that stores new information. The researchers explained that sleep gives the brain quiet time to organize and save what it has recently learned.\n\n▶ Napping after learning (A) people's ability to remember information, probably because the brain uses (B) time to store it.",
+    "options": [
+      "(A) weakened — (B) active",
+      "(A) ignored — (B) busy",
+      "(A) improved — (B) quiet",
+      "(A) delayed — (B) waking",
+      "(A) reduced — (B) lazy"
+    ],
+    "answer": 2,
+    "translation": "연구자들은 성인 마흔 명에게 아침에 오십 쌍의 단어를 외우게 했다. 그 뒤 집단의 절반은 90분 낮잠을 잤고 나머지 절반은 깨어서 영상을 보았다. 오후에 모든 참가자는 단어 쌍에 대한 시험을 받았다. 낮잠을 잔 사람들은 깨어 있던 사람들보다 약 20퍼센트 더 많은 쌍을 기억했다. 뇌 스캔은 수면 중에 뇌가 새로운 정보를 저장하는 영역에서 매우 활발했음을 보여 주었다. 연구자들은 수면이 뇌에게 최근 배운 것을 정리하고 저장할 조용한 시간을 준다고 설명했다. ▶ 학습 후 낮잠은 사람들의 정보 기억 능력을 (A)시켰는데, 이는 아마 뇌가 그것을 저장하는 데 (B) 시간을 쓰기 때문일 것이다.",
+    "why": "낮잠을 잔 사람들이 더 많이 기억했고 수면이 뇌에 조용한 시간을 주므로 (A)는 improved, (B)는 quiet입니다.",
+    "optionNotes": [
+      "weakened가 글과 반대입니다.",
+      "ignored와 busy는 글과 맞지 않습니다.",
+      "정답. 기억을 향상시키고 조용한 시간을 줍니다.",
+      "delayed와 waking은 글과 맞지 않습니다.",
+      "reduced가 글과 반대입니다."
+    ],
+    "trap": "(A)가 맞아도 (B)가 글의 설명(quiet time)과 맞는지 확인하세요.",
+    "tip": "요약문은 실험 결과(더 많이 기억)와 이유(조용한 시간)를 짝지으세요."
+  }
+]
