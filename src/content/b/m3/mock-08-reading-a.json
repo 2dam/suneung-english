@@ -1,0 +1,333 @@
+[
+  {
+    "id": "m3b-08-18",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 18,
+    "type": "purpose",
+    "stem": "다음 글의 목적으로 가장 적절한 것은?",
+    "passage": "Dear Customer Service Team,\nI am writing about the wireless headphones that I purchased from your online store on September 3 (order number 84217). When the package arrived, the right earphone did not produce any sound, even though I fully charged the device and followed the instructions in the manual. I have shopped at your store for several years, and this is the first time I have had such a problem. I contacted your chat service twice, and each time I was told to restart the headphones, which did not solve the problem. Because I bought them as a birthday gift for my brother, I would like to receive either a replacement or a full refund as soon as possible. I have attached photos of the product and the receipt. Thank you for your prompt attention to this matter.\nSincerely,\nHyejin Lee",
+    "options": [
+      "주문한 상품의 배송이 늦어지는 이유를 문의하려고",
+      "새로 구입한 제품의 사용 설명서를 다시 보내 달라고 부탁하려고",
+      "결함이 있는 제품의 교환이나 환불을 요청하려고",
+      "채팅 상담원의 불친절한 태도를 항의하려고",
+      "선물 포장 서비스를 신청하려고"
+    ],
+    "answer": 2,
+    "translation": "고객 서비스 팀께. 9월 3일 귀사의 온라인 상점에서 구입한 무선 헤드폰(주문 번호 84217)에 관해 씁니다. 상자가 도착했을 때 기기를 완전히 충전하고 설명서의 지시를 따랐는데도 오른쪽 이어폰에서 아무 소리도 나지 않았습니다. 저는 몇 년 동안 귀사의 상점에서 쇼핑해 왔는데 이런 문제는 처음입니다. 저는 채팅 상담에 두 번 연락했고 그때마다 헤드폰을 다시 시작하라는 말을 들었지만 문제는 해결되지 않았습니다. 남동생의 생일 선물로 샀기 때문에 가능한 한 빨리 교환이나 전액 환불을 받고 싶습니다. 제품 사진과 영수증을 첨부했습니다. 이 문제에 신속히 관심 가져 주셔서 감사합니다. 이혜진 드림.",
+    "why": "소리가 나지 않는 결함 제품의 교환이나 환불을 요청하는 글입니다.",
+    "optionNotes": [
+      "배송 지연이 아닙니다.",
+      "설명서는 이미 따랐다고 합니다.",
+      "정답. 교환 또는 환불을 요청합니다.",
+      "상담원 태도 항의가 아닙니다.",
+      "선물 포장 신청이 아닙니다."
+    ],
+    "trap": "'birthday gift'가 나온다고 선물 포장 신청(⑤)으로 착각하지 마세요.",
+    "tip": "목적 문제는 'I would like to receive ~' 같은 요구 문장을 찾으세요."
+  },
+  {
+    "id": "m3b-08-19",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 19,
+    "type": "mood",
+    "stem": "다음 글에 드러난 Ha-eun의 심경 변화로 가장 적절한 것은?",
+    "passage": "Ha-eun stood at the window of the empty living room, looking at the boxes stacked by the door. Tomorrow, her family would move to a city five hundred kilometers away because of her father's new job. She had spent her whole life in this neighborhood, and the thought of leaving her friends made her chest tight. She wondered whether anyone in the new school would talk to her. That evening, her friends surprised her with a farewell party and a scrapbook full of photos and messages. Reading them, she cried, but she also realized that real friendships do not end with distance. When she looked out at the stars that night, she felt a small spark of excitement about the new life that was waiting.",
+    "options": [
+      "bored and lazy → angry and tired",
+      "proud and cheerful → envious and bitter",
+      "sad and anxious about leaving → comforted and hopeful about a new beginning",
+      "curious and eager → frightened and lonely",
+      "calm and relaxed → ashamed and nervous"
+    ],
+    "answer": 2,
+    "translation": "하은은 빈 거실의 창가에 서서 문 옆에 쌓인 상자들을 바라보았다. 내일 그녀의 가족은 아버지의 새 일 때문에 오백 킬로미터 떨어진 도시로 이사한다. 그녀는 평생 이 동네에서 살았고 친구들을 떠난다는 생각에 가슴이 답답했다. 그녀는 새 학교에서 누가 말을 걸어 줄지 궁금했다. 그날 저녁 친구들이 송별 파티와 사진과 메시지로 가득한 스크랩북으로 그녀를 놀라게 했다. 그것을 읽으며 그녀는 울었지만 진정한 우정은 거리로 끝나지 않는다는 것도 깨달았다. 그날 밤 별을 내다보며 그녀는 기다리는 새 삶에 대한 작은 설렘을 느꼈다.",
+    "why": "처음에는 떠나는 것이 슬프고 불안했지만(sad and anxious), 친구들의 송별회 후 위로받고 새 출발에 희망을 느꼈습니다(comforted and hopeful).",
+    "optionNotes": [
+      "지루함에서 화남이 아닙니다.",
+      "자랑스러움에서 시기가 아닙니다.",
+      "정답. 슬픔과 불안에서 위로와 희망으로 변했습니다.",
+      "호기심에서 두려움이 아닙니다.",
+      "차분함에서 부끄러움이 아닙니다."
+    ],
+    "trap": "'she cried'를 슬픔으로만 해석하지 말고 이후의 깨달음과 연결하세요.",
+    "tip": "전환 신호(That evening, friends surprised her)를 기준으로 감정 변화를 읽으세요."
+  },
+  {
+    "id": "m3b-08-20",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 20,
+    "type": "claim",
+    "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+    "passage": "Every year, thousands of people die because no one nearby knows how to help them in the first few minutes of an emergency. When a person's heart stops, each minute without help reduces the chance of survival by about ten percent. An ambulance may take more than ten minutes to arrive, which is often too late. Unfortunately, only a small number of people in most countries have ever taken a first-aid course. In contrast, someone who has learned basic first aid, such as chest compressions and how to stop bleeding, can keep the person alive until professionals arrive. These skills can be learned in a single afternoon, and they are useful at home, at school, and on the street. Therefore, everyone should learn basic first aid so that they can save lives in an emergency.",
+    "options": [
+      "구급차의 도착 시간을 줄이기 위해 병원을 더 많이 지어야 한다.",
+      "집과 학교에서는 응급 상황이 거의 일어나지 않는다.",
+      "의료 전문가가 아니면 응급 처치를 시도해서는 안 된다.",
+      "누구나 응급 상황에서 생명을 구할 수 있도록 기초 응급 처치 방법을 배워 두어야 한다.",
+      "응급 처치 교육은 의과 대학에서만 받을 수 있어야 한다."
+    ],
+    "answer": 3,
+    "translation": "해마다 응급 상황의 처음 몇 분 동안 주변에 아무도 도울 줄 몰라서 수천 명이 목숨을 잃는다. 사람의 심장이 멈추면 도움 없이 보내는 1분마다 생존 확률이 약 10퍼센트씩 줄어든다. 구급차가 도착하는 데 10분 넘게 걸릴 수 있고 이는 흔히 너무 늦다. 안타깝게도 대부분의 나라에서 응급 처치 강좌를 들어 본 사람은 소수뿐이다. 반면 흉부 압박과 지혈법 같은 기초 응급 처치를 배운 사람은 전문가가 올 때까지 그 사람을 살려 둘 수 있다. 이런 기술은 한나절에 배울 수 있고 집, 학교, 길에서 유용하다. 그러므로 누구나 응급 상황에서 생명을 구할 수 있도록 기초 응급 처치를 배워야 한다.",
+    "why": "마지막 문장 'everyone should learn basic first aid'가 주장입니다.",
+    "optionNotes": [
+      "병원 건설은 나오지 않습니다.",
+      "집과 학교에서도 유용하다고 합니다.",
+      "전문가만 해야 한다는 것은 글과 반대입니다.",
+      "정답. 누구나 기초 응급 처치를 배워야 합니다.",
+      "의과 대학에서만 배운다는 것은 글과 반대입니다."
+    ],
+    "trap": "앞부분의 문제(구급차 지연)를 해결책(병원 건설)으로 확대하지 마세요.",
+    "tip": "Therefore, everyone should ~ 문장이 필자의 주장입니다."
+  },
+  {
+    "id": "m3b-08-21",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 21,
+    "type": "implied",
+    "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "passage": "Taeho had been looking for a limited edition comic book for weeks. A friend told him that a bookstore in the next city had one copy, so he took three buses and walked for an hour to find it. When he finally arrived, the clerk told him that the book had been sold the day before. Tired and hungry, Taeho realized that he had never called the store to check. The long journey turned out to be {u|a wild goose chase}, and he promised himself that he would always phone first next time. On the way home, he laughed at how serious he had been about it.",
+    "options": [
+      "a trip to see wild birds in their natural habitat during the spring",
+      "an exciting adventure that ends with a great prize for the winner",
+      "a competition to catch the largest bird in the area around a lake",
+      "a pointless search for something that cannot be found",
+      "a friendly race between two travelers on a long and dusty road"
+    ],
+    "answer": 3,
+    "translation": "태호는 몇 주 동안 한정판 만화책을 찾고 있었다. 친구가 옆 도시의 서점에 한 권이 있다고 알려 주어서 그는 버스를 세 번 타고 한 시간을 걸어 그것을 찾아갔다. 마침내 도착했을 때 점원은 그 책이 전날 팔렸다고 말했다. 지치고 배고픈 태호는 가게에 전화로 확인해 보지 않았음을 깨달았다. 그 긴 여정은 헛수고였고 그는 다음에는 반드시 먼저 전화하겠다고 다짐했다. 집에 오는 길에 그는 자신이 그 일에 얼마나 진지했는지 생각하며 웃었다.",
+    "why": "책을 찾아 먼 길을 갔지만 팔리고 없었으므로 'a wild goose chase'는 헛수고가 되는 쓸데없는 탐색을 뜻합니다.",
+    "optionNotes": [
+      "야생 조류 관찰 여행이 아닙니다.",
+      "상을 받는 모험이 아닙니다.",
+      "새를 잡는 대회가 아닙니다.",
+      "정답. 찾을 수 없는 것을 찾는 헛수고입니다.",
+      "여행자 간의 경주가 아닙니다."
+    ],
+    "trap": "'goose'를 문자 그대로 거위로 해석하지 마세요.",
+    "tip": "관용 표현은 글의 결과(책이 이미 팔림)에서 의미를 추론하세요."
+  },
+  {
+    "id": "m3b-08-22",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 22,
+    "type": "gist",
+    "stem": "다음 글의 요지로 가장 적절한 것은?",
+    "passage": "Most of us believe that we are good listeners, yet research suggests otherwise. While another person is speaking, our minds often race ahead, preparing what we will say next or judging what we are hearing. As a result, we miss important details, and the speaker feels ignored. For example, a friend may share a worry, but we interrupt with advice before they have finished. Real listening requires a different habit: staying with the speaker's words until the end, and asking questions to confirm that we understood. This simple effort makes people feel respected, and it strengthens trust in relationships. Even a short pause before answering shows that the words were heard. Good listening, in other words, is not a talent but a discipline that can be practiced.",
+    "options": [
+      "말을 잘하는 사람이 사람들의 마음을 얻는 데 유리하다.",
+      "상대의 말을 진정으로 듣는다는 것은 내 대답을 미리 준비하기보다 끝까지 집중하며 이해하려고 노력하는 것이다.",
+      "듣기 능력은 타고나는 것이므로 연습으로는 개선되지 않는다.",
+      "대화 중에는 상대의 말을 판단하며 듣는 것이 가장 효과적이다.",
+      "질문을 많이 하면 상대방이 불쾌하게 느끼므로 삼가야 한다."
+    ],
+    "answer": 1,
+    "translation": "우리 대부분은 자신이 잘 듣는 사람이라고 믿지만 연구는 그렇지 않다고 시사한다. 다른 사람이 말하는 동안 우리의 마음은 흔히 앞서 달려가 다음에 할 말을 준비하거나 듣는 것을 판단한다. 그 결과 우리는 중요한 세부 사항을 놓치고 말하는 사람은 무시당한다고 느낀다. 예를 들어 친구가 걱정을 털어놓아도 우리는 그가 끝내기 전에 조언으로 끼어든다. 진정한 듣기는 다른 습관을 요구한다. 끝까지 말하는 사람의 말에 머물고 이해했는지 확인하려고 질문하는 것이다. 이 단순한 노력은 사람들이 존중받는다고 느끼게 하고 관계의 신뢰를 강화한다. 대답하기 전의 짧은 멈춤조차 말을 들었음을 보여 준다. 다시 말해 잘 듣는 것은 재능이 아니라 연습할 수 있는 훈련이다.",
+    "why": "진정한 듣기는 대답을 준비하기보다 끝까지 집중해 이해하려는 노력이며 연습할 수 있는 훈련이라는 것이 요지입니다.",
+    "optionNotes": [
+      "말하기 능력은 나오지 않습니다.",
+      "정답. 끝까지 집중해 이해하려는 노력이 듣기입니다.",
+      "타고난 재능이 아니라 훈련이라고 합니다.",
+      "판단하며 듣는 것은 글에서 문제로 지적됩니다.",
+      "질문은 이해를 확인하는 좋은 방법으로 제시됩니다."
+    ],
+    "trap": "앞부분의 현상(마음이 앞서 달림)과 뒷부분의 해결책을 구분하세요.",
+    "tip": "In other words 문장과 콜론 뒤 설명이 요지를 담습니다."
+  },
+  {
+    "id": "m3b-08-23",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 23,
+    "type": "topic",
+    "stem": "다음 글의 주제로 가장 적절한 것은?",
+    "passage": "When we have a cold, food seems to lose its flavor. This happens because most of what we call taste actually comes from smell. The tongue can detect only five basic tastes: sweet, sour, salty, bitter, and umami. These tastes are detected by small buds that cover the surface of the tongue. The rich variety of flavors, such as strawberry or coffee, is created when aroma molecules travel from the mouth to the nose and are recognized by smell receptors. To test this, try pinching your nose while eating a piece of chocolate. You will notice that the flavor almost disappears until you release your nose. Without smell, a cup of coffee would seem simply bitter. This shows that the senses of smell and taste work together.",
+    "options": [
+      "why people often lose their appetite when they have a cold in winter and early spring",
+      "what kinds of foods contain the largest amounts of sweet and salty flavors",
+      "how the sense of smell contributes to the flavors that we taste",
+      "when the five basic tastes were first discovered by scientists in history",
+      "where smell receptors are located inside the human nose and brain"
+    ],
+    "answer": 2,
+    "translation": "감기에 걸리면 음식이 맛을 잃은 것 같다. 이는 우리가 맛이라고 부르는 것의 대부분이 사실 냄새에서 오기 때문이다. 혀는 단맛, 신맛, 짠맛, 쓴맛, 감칠맛의 다섯 가지 기본 맛만 감지할 수 있다. 이 맛들은 혀 표면을 덮은 작은 돌기가 감지한다. 딸기나 커피 같은 풍부하고 다양한 풍미는 향 분자가 입에서 코로 이동해 후각 수용체에 인식될 때 만들어진다. 이를 시험하려면 초콜릿을 먹으면서 코를 쥐어 보라. 코를 놓을 때까지 풍미가 거의 사라지는 것을 알게 될 것이다. 냄새가 없다면 커피 한 잔은 그저 쓰게만 느껴질 것이다. 이는 후각과 미각이 함께 작용함을 보여 준다.",
+    "why": "후각이 우리가 느끼는 풍미에 기여하는 방식을 설명합니다.",
+    "optionNotes": [
+      "식욕 감퇴가 아닙니다.",
+      "음식의 종류는 나오지 않습니다.",
+      "정답. 후각이 풍미에 기여하는 방식입니다.",
+      "기본 맛의 발견 시기는 나오지 않습니다.",
+      "수용체의 위치는 나오지 않습니다."
+    ],
+    "trap": "'cold'가 먼저 나온다고 감기와 식욕(①)으로 착각하지 마세요.",
+    "tip": "주제는 반복되는 핵심(smell, taste, flavor)을 묶어 찾으세요."
+  },
+  {
+    "id": "m3b-08-24",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 24,
+    "type": "title",
+    "stem": "다음 글의 제목으로 가장 적절한 것은?",
+    "passage": "In many remote villages, the nearest library may be hours away, which makes it difficult for children to borrow books. To solve this problem, several countries have created mobile libraries. Some of them use trucks, boats, or even animals to reach readers who cannot visit a building. In Kenya, camels carry boxes of books across the desert to nomadic communities. In Colombia, a man named Luis Soriano travels with two donkeys, Alfa and Beto, to bring books to children in the mountains. In Norway, a floating library visits small islands by boat. Children there wait for the boat to arrive with great excitement. Local volunteers often help to collect the books and to repair them. These unusual libraries show that creativity can bring knowledge to places that are hard to reach.",
+    "options": [
+      "How Camels and Donkeys Are Trained to Carry Heavy Loads Across the Desert",
+      "The Library That Travels: Bringing Books to Remote Places",
+      "Why Children in Cities Prefer Digital Books to Printed Books Today",
+      "A Short History of Boats That Were Used by Explorers in Northern Europe",
+      "Ten Ways to Build a Perfect Library in the Center of a Large City"
+    ],
+    "answer": 1,
+    "translation": "많은 외딴 마을에서는 가장 가까운 도서관이 몇 시간 거리에 있어서 아이들이 책을 빌리기 어렵다. 이 문제를 해결하려고 여러 나라가 이동 도서관을 만들었다. 그중 일부는 건물을 찾아올 수 없는 독자에게 닿으려고 트럭, 배, 심지어 동물을 이용한다. 케냐에서는 낙타가 책 상자를 싣고 사막을 건너 유목민 공동체에 간다. 콜롬비아에서는 루이스 소리아노라는 남자가 두 마리 당나귀 알파와 베토와 함께 다니며 산속 아이들에게 책을 가져다준다. 노르웨이에서는 떠다니는 도서관이 배로 작은 섬을 방문한다. 그곳의 아이들은 배가 오기를 큰 설렘으로 기다린다. 지역 자원봉사자들은 흔히 책을 모으고 고치는 일을 돕는다. 이 특이한 도서관들은 창의성이 닿기 어려운 곳에 지식을 가져다줄 수 있음을 보여 준다.",
+    "why": "낙타, 당나귀, 배를 이용해 외딴 곳에 책을 전하는 이동 도서관을 소개하므로 ②가 제목입니다.",
+    "optionNotes": [
+      "동물 훈련은 나오지 않습니다.",
+      "정답. 외딴 곳으로 책을 가져가는 이동 도서관입니다.",
+      "도시 아이들의 선호는 나오지 않습니다.",
+      "탐험선의 역사는 나오지 않습니다.",
+      "도서관 건설법은 나오지 않습니다."
+    ],
+    "trap": "'camels', 'donkeys'가 나온다고 동물 훈련(①)으로 확대하지 마세요.",
+    "tip": "제목은 핵심 소재(mobile libraries)와 의의(remote places)를 함께 담으세요."
+  },
+  {
+    "id": "m3b-08-25",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 25,
+    "type": "chart",
+    "stem": "다음 도표의 내용과 일치하지 않는 것은?",
+    "chart": {
+      "title": "Monthly Bicycle Sales at a Shop (units)",
+      "unit": "",
+      "labels": [
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul"
+      ],
+      "series": [
+        {
+          "name": "Units",
+          "values": [
+            120,
+            200,
+            260,
+            310,
+            280
+          ]
+        }
+      ]
+    },
+    "passage": "The graph shows the monthly sales of bicycles at a shop. ① Sales increased every month from March to July. ② Sales in April were 80 units higher than in March. ③ June had the highest sales of the five months. ④ Sales in July were 30 units lower than in June. ⑤ Sales in May were more than twice those in March.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "그래프는 한 가게의 월별 자전거 판매량을 보여 준다. ① 판매량은 3월부터 7월까지 매달 늘었다. ② 4월의 판매량은 3월보다 80대 많았다. ③ 6월이 다섯 달 중 판매량이 가장 많았다. ④ 7월의 판매량은 6월보다 30대 적었다. ⑤ 5월의 판매량은 3월의 두 배가 넘었다.",
+    "why": "7월(280대)은 6월(310대)보다 줄었으므로 매달 늘었다는 ①은 일치하지 않습니다.",
+    "optionNotes": [
+      "정답(불일치). 7월에는 감소했습니다.",
+      "200 - 120 = 80대입니다.",
+      "6월이 310대로 가장 많습니다.",
+      "310 - 280 = 30대입니다.",
+      "260은 120의 두 배(240)보다 큽니다."
+    ],
+    "trap": "전체 추세 문장은 끝까지 값을 확인하지 않으면 틀리기 쉽습니다.",
+    "tip": "every month 같은 전칭 표현은 모든 구간을 확인하세요."
+  },
+  {
+    "id": "m3b-08-26",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 26,
+    "type": "match",
+    "stem": "Rachel Carson에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Rachel Carson was born in 1907 on a farm in Pennsylvania, where she developed a deep love of nature. She studied biology and later became a marine biologist, writing popular books about the sea. Her careful writing made difficult science easy for ordinary readers to understand. In the 1950s, she became worried by reports that powerful pesticides such as DDT were killing birds and other wildlife. After four years of research, she published Silent Spring in 1962, which described a future spring without birdsong. Even while she was seriously ill, she continued to write and to speak in public. The chemical industry attacked her work, but many readers were persuaded, and the book started a movement to protect the environment. In 1972, the United States banned the use of DDT on farms.",
+    "options": [
+      "그녀의 책 『침묵의 봄』은 살충제의 위험을 알려 환경 보호 운동의 계기가 되었다.",
+      "농장에서 자랐지만 자연에는 관심이 없어 법학을 공부했다.",
+      "화학 산업계는 그녀의 연구를 환영하며 적극적으로 지원했다.",
+      "『침묵의 봄』은 1950년대가 시작될 무렵에 출간되었다.",
+      "DDT는 그녀가 책을 출간한 직후 전 세계에서 곧바로 전면 금지되었다고 알려져 있다."
+    ],
+    "answer": 0,
+    "translation": "레이첼 카슨은 1907년 펜실베이니아의 한 농장에서 태어났고 그곳에서 자연에 대한 깊은 사랑을 키웠다. 그녀는 생물학을 공부했고 나중에 해양 생물학자가 되어 바다에 관한 대중적인 책을 썼다. 그녀의 꼼꼼한 글은 어려운 과학을 일반 독자가 이해하기 쉽게 만들었다. 1950년대에 그녀는 DDT 같은 강력한 살충제가 새와 다른 야생 동물을 죽이고 있다는 보고에 걱정하게 되었다. 사 년의 연구 끝에 그녀는 1962년 새소리 없는 미래의 봄을 묘사한 『침묵의 봄』을 출간했다. 심하게 아픈 중에도 그녀는 계속 글을 쓰고 대중 앞에서 강연했다. 화학 산업계는 그녀의 연구를 공격했지만 많은 독자가 설득되었고 그 책은 환경을 보호하는 운동을 시작시켰다. 1972년 미국은 농장에서 DDT 사용을 금지했다.",
+    "why": "'she published Silent Spring in 1962 ~ the book started a movement to protect the environment'와 일치합니다.",
+    "optionNotes": [
+      "정답. 책이 환경 보호 운동을 시작시켰습니다.",
+      "자연을 사랑했고 생물학을 공부했습니다.",
+      "화학 산업계는 공격했습니다.",
+      "1962년에 출간되었습니다.",
+      "미국이 1972년에 금지했습니다."
+    ],
+    "trap": "출간 연도(1962)와 금지 연도(1972)를 혼동하지 마세요.",
+    "tip": "일치 문제는 연도·반응·결과를 하나씩 대조하세요."
+  },
+  {
+    "id": "m3b-08-27",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 27,
+    "type": "notice",
+    "stem": "Community Garden Volunteer Day에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Hanbit Community Garden Spring Volunteer Day\nDate: Saturday, April 12, 9 a.m. - 1 p.m.\nPlace: Hanbit Community Garden, behind the library\nTasks: Preparing soil, planting seeds, and building wooden boxes for vegetables\nWho can join: Anyone aged 10 or older (children under 14 must come with a parent)\nWhat to bring: Work gloves and a water bottle. Tools and seeds are provided.\nLunch: A free lunch will be served to all volunteers at noon.\nRegistration: Sign up on the garden's website by April 9. Walk-ins are welcome if there is room.\nRain plan: If it rains heavily, the event will be moved to April 19.",
+    "options": [
+      "열 살 미만의 어린이도 혼자서 참가할 수 있다.",
+      "삽과 씨앗을 포함한 모든 도구를 참가자가 준비해야 한다.",
+      "점심은 참가자가 일정한 금액을 내고 사 먹어야 한다.",
+      "신청은 행사 당일 현장에서만 받는다.",
+      "폭우가 내리면 행사는 4월 19일로 연기된다."
+    ],
+    "answer": 4,
+    "translation": "한빛 공동 텃밭 봄맞이 자원봉사의 날. 일시: 4월 12일 토요일 오전 9시~오후 1시. 장소: 도서관 뒤 한빛 공동 텃밭. 활동: 흙 준비, 씨앗 심기, 채소용 나무 상자 만들기. 참가 자격: 10세 이상 누구나(14세 미만은 부모와 함께). 준비물: 작업용 장갑과 물병. 도구와 씨앗은 제공됩니다. 점심: 낮 12시에 모든 자원봉사자에게 무료 점심이 제공됩니다. 신청: 4월 9일까지 텃밭 웹사이트에서 신청. 자리가 있으면 현장 참가도 환영합니다. 우천 시: 폭우가 오면 행사는 4월 19일로 옮겨집니다.",
+    "why": "'If it rains heavily, the event will be moved to April 19.'와 일치합니다.",
+    "optionNotes": [
+      "10세 이상이 대상입니다.",
+      "도구와 씨앗은 제공됩니다.",
+      "점심은 무료입니다.",
+      "웹사이트로 미리 신청할 수 있습니다.",
+      "정답. 폭우 시 4월 19일로 옮겨집니다."
+    ],
+    "trap": "참가 자격(10세 이상)과 보호자 동반(14세 미만)을 혼동하지 마세요.",
+    "tip": "안내문의 What to bring, Lunch, Rain plan 항목을 하나씩 대조하세요."
+  },
+  {
+    "id": "m3b-08-28",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 28,
+    "type": "notice",
+    "stem": "Chess Club Open Tournament에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Hanbit Chess Club Open Tournament\nDate: Sunday, May 18, 10 a.m. - 5 p.m.\nPlace: Hanbit Community Center, Hall 2\nDivisions: Beginner (rating under 1000), Intermediate (1000 - 1500), and Advanced (over 1500)\nFormat: Five rounds; each player has 25 minutes per game\nEntry fee: $10 (students: $5). The fee includes lunch.\nRegistration: Online by May 11. Late entries cost an extra $3.\nPrizes: Trophies for the top three players in each division\nNote: Players should bring their own chess clocks if possible.",
+    "options": [
+      "대회는 일요일과 월요일의 이틀 동안 열린다.",
+      "초급부는 레이팅이 1500 이상인 선수들이 참가한다.",
+      "참가비에는 점심 식사가 포함되어 있다.",
+      "마감 후에 늦게 신청해도 추가 요금은 없다.",
+      "각 부문의 우승자 한 명에게만 트로피를 준다."
+    ],
+    "answer": 2,
+    "translation": "한빛 체스 동아리 오픈 대회. 일시: 5월 18일 일요일 오전 10시~오후 5시. 장소: 한빛 주민 센터 2홀. 부문: 초급(레이팅 1000 미만), 중급(1000~1500), 고급(1500 초과). 방식: 5라운드, 한 판당 선수당 25분. 참가비: 10달러(학생 5달러). 참가비에는 점심 포함. 신청: 5월 11일까지 온라인. 늦은 신청은 3달러 추가. 상: 각 부문 상위 3명에게 트로피. 유의: 가능하면 개인 체스 시계를 가져오세요.",
+    "why": "'The fee includes lunch.'와 일치합니다.",
+    "optionNotes": [
+      "대회는 일요일 하루입니다.",
+      "초급부는 레이팅 1000 미만입니다.",
+      "정답. 참가비에 점심이 포함됩니다.",
+      "늦은 신청은 3달러가 추가됩니다.",
+      "각 부문 상위 3명에게 트로피를 줍니다."
+    ],
+    "trap": "학생 참가비(5달러)와 늦은 신청 추가금(3달러)을 혼동하지 마세요.",
+    "tip": "안내문의 Entry fee, Registration, Prizes 항목을 하나씩 대조하세요."
+  }
+]

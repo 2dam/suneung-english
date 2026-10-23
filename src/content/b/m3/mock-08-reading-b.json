@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m3b-08-29",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "The Rosetta Stone, {1|discovered} in Egypt in 1799, is one of the most famous objects in the British Museum. The stone is covered with the same text written in three scripts, {2|one of which} is ancient Greek. Because scholars could read Greek, they used it as a key to understand the Egyptian hieroglyphs, {3|which} had been a mystery for centuries. It took the French scholar Jean-François Champollion more than twenty years {4|to decode} them. He first noticed that the names of kings were enclosed in oval shapes, and this clue helped him to match the symbols with sounds. Only after his success {5|scholars were able} to read the writing of ancient Egypt.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "1799년 이집트에서 발견된 로제타석은 대영 박물관에서 가장 유명한 유물 중 하나이다. 이 돌에는 세 가지 문자로 쓰인 같은 글이 새겨져 있고 그중 하나가 고대 그리스어이다. 학자들은 그리스어를 읽을 수 있었기 때문에 수 세기 동안 수수께끼였던 이집트 상형 문자를 이해하는 열쇠로 그것을 이용했다. 프랑스 학자 장 프랑수아 샹폴리옹이 그것을 해독하는 데는 이십 년이 넘게 걸렸다. 그는 왕의 이름이 타원형 안에 둘러싸여 있음을 먼저 알아챘고 이 단서가 기호와 소리를 맞추는 데 도움이 되었다. 그의 성공 이후에야 학자들은 고대 이집트의 문자를 읽을 수 있게 되었다.",
+    "why": "Only after ~가 문장 앞에 오면 주어와 조동사가 도치되므로 'scholars were able'이 아니라 'were scholars able'이어야 합니다.",
+    "optionNotes": [
+      "수동 관계의 과거분사 discovered입니다.",
+      "전치사 + 관계대명사 one of which입니다.",
+      "앞 명사 hieroglyphs를 부연하는 which입니다.",
+      "It takes + 시간 + to부정사입니다.",
+      "정답(틀린 것). Only after ~ 뒤에는 were scholars able로 도치해야 합니다."
+    ],
+    "trap": "Only + 부사구가 문장 앞에 오면 도치된다는 규칙을 놓치기 쉽습니다.",
+    "tip": "Only after/when/by ~가 문두에 오면 조동사가 주어 앞으로 나옵니다."
+  },
+  {
+    "id": "m3b-08-30",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "A comfortable bedroom can greatly {1|damage} the quality of your sleep. Experts recommend keeping the room cool, because a lower body temperature helps us fall asleep. Heavy curtains can block outside light, which {2|disturbs} the body's internal clock. It is also wise to keep electronic devices out of the bedroom, since the blue light from screens {3|delays} the release of melatonin, the hormone that makes us sleepy. A quiet environment is equally {4|important}, so some people use earplugs or soft background sounds. By making small changes to your room, you can {5|enjoy} deeper and more refreshing sleep every night.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "편안한 침실은 수면의 질을 크게 해칠 수 있다. 전문가들은 낮은 체온이 잠드는 것을 돕기 때문에 방을 시원하게 유지하라고 권한다. 두꺼운 커튼은 몸의 체내 시계를 방해하는 바깥 빛을 막을 수 있다. 화면의 푸른 빛이 졸음을 일으키는 호르몬 멜라토닌의 분비를 늦추므로 전자 기기를 침실 밖에 두는 것도 현명하다. 조용한 환경도 똑같이 중요해서 일부 사람은 귀마개나 잔잔한 배경음을 쓴다. 방에 작은 변화를 줌으로써 매일 밤 더 깊고 상쾌한 잠을 즐길 수 있다.",
+    "why": "뒤 문장들이 수면에 도움이 되는 환경을 설명하므로 수면의 질을 '해친다(damage)'가 아니라 '향상시킨다(improve)'여야 합니다.",
+    "optionNotes": [
+      "정답(부적절). 환경 조성의 목적이므로 improve여야 합니다.",
+      "체내 시계를 방해하는 빛이라는 의미로 disturbs가 알맞습니다.",
+      "멜라토닌 분비를 늦춘다는 의미로 delays가 알맞습니다.",
+      "조용한 환경이 중요하다는 의미로 important가 알맞습니다.",
+      "깊은 잠을 즐긴다는 의미로 enjoy가 알맞습니다."
+    ],
+    "trap": "주어가 'A comfortable bedroom'이라는 긍정적 표현이라는 점을 놓치기 쉽습니다.",
+    "tip": "주어의 평가(comfortable)와 동사의 방향이 일치하는지 확인하세요."
+  },
+  {
+    "id": "m3b-08-31",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Researchers found that about forty percent of our daily actions are not deliberate decisions but habits. Brushing your teeth after breakfast or checking your phone when you wake up are common examples. A habit forms when an action is repeated in the same situation until the brain connects the two. After that, the behavior begins automatically, without much thought. Because it saves energy, the brain prefers to run on routines whenever it can. Such a link can last for many years. This is why changing a habit is difficult, and willpower alone is rarely enough. A smoker, for example, may light a cigarette every time he finishes a meal, even when he wants to quit. A more effective approach is to keep the situation the same but change __________.",
+    "options": [
+      "the action that follows it",
+      "the time at which we wake up",
+      "the place where we live",
+      "the people we talk to",
+      "the amount of money we spend"
+    ],
+    "answer": 0,
+    "translation": "연구자들은 우리 일상 행동의 약 40퍼센트가 신중한 결정이 아니라 습관임을 발견했다. 아침 식사 후 양치질을 하거나 일어나자마자 휴대전화를 확인하는 것이 흔한 예이다. 습관은 뇌가 같은 상황과 행동을 연결할 때까지 그 행동이 같은 상황에서 반복될 때 형성된다. 그 뒤로 행동은 많은 생각 없이 자동으로 시작된다. 에너지를 아껴 주므로 뇌는 가능할 때마다 루틴으로 움직이기를 좋아한다. 이런 연결은 여러 해 동안 이어질 수 있다. 이 때문에 습관을 바꾸는 것이 어렵고 의지력만으로는 거의 충분하지 않다. 예를 들어 흡연자는 끊고 싶을 때도 식사를 마칠 때마다 담배에 불을 붙일 수 있다. 더 효과적인 접근법은 상황은 그대로 두되 그 상황 뒤에 따르는 행동을 바꾸는 것이다.",
+    "why": "상황과 행동이 연결된 것이 습관이므로 상황은 두고 뒤따르는 행동을 바꾸는 것이 효과적입니다.",
+    "optionNotes": [
+      "정답. 상황 뒤에 따르는 행동을 바꿉니다.",
+      "일어나는 시간은 나오지 않습니다.",
+      "사는 곳은 나오지 않습니다.",
+      "대화 상대는 나오지 않습니다.",
+      "소비 금액은 나오지 않습니다."
+    ],
+    "trap": "'keep the situation the same'과 대비되는 바꿀 대상을 찾아야 합니다.",
+    "tip": "습관 = 상황 + 행동의 연결이라는 정의에서 빈칸을 추론하세요."
+  },
+  {
+    "id": "m3b-08-32",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many people believe that others notice every small mistake they make, such as a stain on a shirt. For instance, we may worry for hours about a bad haircut or a mistake in a speech. In an experiment, students were asked to wear an embarrassing T-shirt into a room full of strangers. The students guessed that about half of the people would notice it, but in fact fewer than a quarter did. Most people were too busy thinking about themselves to look carefully at someone else. Researchers repeated the experiment with different clothes and found similar results. Psychologists call this the spotlight effect, because we feel as if a bright light were shining on us. Knowing about this effect can make everyday embarrassment feel much smaller. It means that we tend to overestimate __________.",
+    "options": [
+      "how quickly strangers forget our names after they meet us",
+      "how many friends we are able to make during a party",
+      "the amount of time that we need to prepare for a speech",
+      "how much attention other people pay to us",
+      "the difficulty of the questions in a school exam"
+    ],
+    "answer": 3,
+    "translation": "많은 사람은 다른 사람들이 셔츠의 얼룩 같은 자신의 작은 실수를 모두 알아챈다고 믿는다. 예를 들어 우리는 어색한 머리 모양이나 연설 중의 실수를 몇 시간씩 걱정하기도 한다. 한 실험에서 학생들은 낯선 사람으로 가득한 방에 창피한 티셔츠를 입고 들어가도록 요청받았다. 학생들은 사람의 절반쯤이 그것을 알아챌 것이라고 짐작했지만 실제로는 4분의 1도 안 되는 사람이 알아챘다. 대부분은 자기 생각에 너무 바빠 다른 사람을 자세히 볼 겨를이 없었다. 연구자들은 다른 옷으로 실험을 반복했고 비슷한 결과를 얻었다. 심리학자들은 마치 밝은 빛이 우리를 비추는 것처럼 느끼기 때문에 이것을 스포트라이트 효과라 부른다. 이 효과를 알면 일상의 창피함이 훨씬 작게 느껴질 수 있다. 이는 우리가 다른 사람이 우리에게 기울이는 관심의 정도를 과대평가하는 경향이 있다는 뜻이다.",
+    "why": "학생들은 절반이 알아챌 것이라 짐작했지만 실제로는 4분의 1 미만이었으므로 '다른 사람이 우리에게 기울이는 관심의 정도'를 과대평가합니다.",
+    "optionNotes": [
+      "이름을 잊는 속도는 나오지 않습니다.",
+      "친구를 사귀는 수는 나오지 않습니다.",
+      "발표 준비 시간은 나오지 않습니다.",
+      "정답. 남이 우리에게 주는 관심의 정도입니다.",
+      "시험 문제 난이도는 나오지 않습니다."
+    ],
+    "trap": "'embarrassing T-shirt'에 이끌려 창피함과 관련된 다른 상황을 고르지 마세요.",
+    "tip": "실험 결과(half vs fewer than a quarter)의 차이가 빈칸의 직접적 단서입니다."
+  },
+  {
+    "id": "m3b-08-33",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In a large experiment, researchers left more than seventeen thousand wallets in cities around the world. Each wallet contained a name and contact information, and some contained more money than others. The wallets were handed to workers at banks, hotels, and offices, who could easily find the owner's address. Surprisingly, wallets that contained more money were more likely to be returned. This result was the opposite of what most economists had predicted. The results were similar in almost every country that was tested. The researchers believe that people felt worse about keeping a larger sum, because it made them think of themselves as thieves. This suggests that honesty is influenced not only by the amount of money involved but also by __________.",
+    "options": [
+      "the neighborhood in which the lost wallet was found",
+      "how we see ourselves as moral people",
+      "the number of people who are looking at us",
+      "the color and the size of the wallet itself",
+      "how long it takes to walk to the owner's house"
+    ],
+    "answer": 1,
+    "translation": "한 대규모 실험에서 연구자들은 전 세계 도시에 만 칠천 개가 넘는 지갑을 두었다. 각 지갑에는 이름과 연락처가 들어 있었고 어떤 지갑에는 다른 지갑보다 돈이 더 많았다. 지갑은 은행, 호텔, 사무실의 직원에게 전달되었고 그들은 주인의 주소를 쉽게 찾을 수 있었다. 놀랍게도 돈이 더 많이 든 지갑이 더 돌려질 가능성이 높았다. 이 결과는 대부분의 경제학자가 예측한 것과 반대였다. 결과는 시험한 거의 모든 나라에서 비슷했다. 연구자들은 사람들이 더 큰 액수를 가지는 것을 더 나쁘게 느꼈다고 믿는데 그것이 자신을 도둑으로 여기게 만들기 때문이다. 이는 정직이 관련된 돈의 액수뿐 아니라 우리가 자신을 도덕적인 사람으로 보는 방식에도 영향을 받음을 시사한다.",
+    "why": "더 큰 돈을 가지면 자신을 도둑으로 생각하게 되므로 정직은 '자신을 도덕적인 사람으로 보는 방식'에도 영향을 받습니다.",
+    "optionNotes": [
+      "지갑을 발견한 동네는 나오지 않습니다.",
+      "정답. 자신을 도덕적인 사람으로 보는 방식입니다.",
+      "지켜보는 사람의 수는 나오지 않습니다.",
+      "지갑의 색과 크기는 나오지 않습니다.",
+      "주인 집까지의 거리는 나오지 않습니다."
+    ],
+    "trap": "돈이 많을수록 돌려줄 가능성이 높다는 역설적 결과를 놓치지 마세요.",
+    "tip": "not only A but also B에서 B는 앞 문장(thought of themselves as thieves)의 원인을 일반화한 말입니다."
+  },
+  {
+    "id": "m3b-08-34",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Open-plan offices were designed to encourage communication, but studies show that employees in them actually talk less. Many companies in the 2000s removed walls and private rooms to save space and to make teams work more closely. Without walls, people feel observed, so they avoid private conversations and send messages instead. One study found that face-to-face conversation fell by about seventy percent after workers moved into an open space. Email use, in contrast, rose sharply. Noise also makes it hard to concentrate, and many workers wear headphones to protect their focus. Some companies have therefore returned to smaller rooms and quiet corners. Managers also learned that workers who can choose where to work feel more satisfied. This outcome shows that a design created with good intentions can __________.",
+    "options": [
+      "always bring only positive results to everyone who uses it, without exception",
+      "become cheaper to build after it has been used for years",
+      "make people feel more comfortable in any kind of space",
+      "produce the opposite of the effect that was originally hoped for",
+      "reduce the amount of work that is done in an organization"
+    ],
+    "answer": 3,
+    "translation": "개방형 사무실은 의사소통을 장려하려고 설계되었지만 연구들은 그곳의 직원들이 실제로는 덜 이야기한다고 보여 준다. 2000년대에 많은 회사가 공간을 아끼고 팀이 더 가깝게 일하게 하려고 벽과 개인실을 없앴다. 벽이 없으면 사람들이 관찰당한다고 느껴서 사적인 대화를 피하고 대신 메시지를 보낸다. 한 연구에 따르면 직원들이 개방된 공간으로 옮긴 뒤 대면 대화는 약 70퍼센트 줄었다. 반면 이메일 사용은 크게 늘었다. 소음 때문에 집중하기도 어려워서 많은 직원이 집중을 지키려고 헤드폰을 쓴다. 그래서 일부 회사는 더 작은 방과 조용한 구석으로 돌아갔다. 관리자들은 또한 일할 곳을 고를 수 있는 직원이 더 만족한다는 것을 알게 되었다. 이 결과는 좋은 의도로 만든 설계가 원래 기대했던 효과와 정반대의 결과를 낳을 수 있음을 보여 준다.",
+    "why": "의사소통을 늘리려던 설계가 오히려 대화를 줄였으므로 '원래 기대한 효과와 정반대의 결과를 낳을 수 있다'가 알맞습니다.",
+    "optionNotes": [
+      "항상 긍정적이라는 내용은 글과 반대입니다.",
+      "건설 비용은 나오지 않습니다.",
+      "모든 공간에서 편안하다는 내용은 글과 반대입니다.",
+      "정답. 기대와 정반대의 효과를 낳았습니다.",
+      "업무량 감소는 나오지 않습니다."
+    ],
+    "trap": "좋은 의도(good intentions)에 이끌려 긍정적 결과(①)를 고르지 마세요.",
+    "tip": "앞 문장들의 결과(talk less)와 설계 의도(encourage communication)의 대비를 확인하세요."
+  },
+  {
+    "id": "m3b-08-35",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Traveling to unfamiliar places broadens the mind in several ways. ① The invention of the airplane in 1903 changed the way people crossed long distances. ② Meeting people from different cultures teaches us to respect other ways of life. ③ Solving small problems, such as finding a way in a new city, builds confidence and flexibility. ④ Travel also gives us a new perspective on our own country and daily habits. ⑤ For these reasons, many educators encourage young people to travel and explore the world.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "낯선 곳으로 여행하는 것은 여러 방식으로 마음을 넓혀 준다. ① 1903년 비행기의 발명은 사람들이 먼 거리를 건너는 방식을 바꾸었다. ② 다른 문화의 사람들을 만나면 다른 삶의 방식을 존중하는 법을 배운다. ③ 새 도시에서 길을 찾는 것 같은 작은 문제를 해결하면 자신감과 유연성이 길러진다. ④ 여행은 또한 우리 나라와 일상 습관에 대한 새로운 관점을 준다. ⑤ 이런 이유로 많은 교육자가 젊은이들에게 여행하며 세계를 탐험하라고 권한다.",
+    "why": "글은 여행이 마음을 넓히는 점을 말하는데 ①은 비행기 발명이라는 별개의 이야기라 관계가 없습니다.",
+    "optionNotes": [
+      "정답(무관). 비행기 발명에 관한 이야기입니다.",
+      "다른 문화에 대한 존중이라는 이점입니다.",
+      "자신감과 유연성이라는 이점입니다.",
+      "새로운 관점이라는 이점입니다.",
+      "결론 문장입니다."
+    ],
+    "trap": "'long distances'와 연결되어 여행과 관련 있어 보이는 소재일 뿐 이점이 아닙니다.",
+    "tip": "주제(여행이 마음을 넓히는 점)를 뒷받침하지 않는 문장을 고르세요."
+  },
+  {
+    "id": "m3b-08-36",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "In 2007, a mobile phone company in Kenya launched a payment service called M-Pesa, which allowed customers to handle money using only their phones. The idea was simple, but it was new at the time.\n(A) As a result, the service spread quickly, and today a majority of adults in Kenya use it every week. Other countries in Africa and Asia have since copied the idea.\n(B) Before then, millions of Kenyans had no bank account, and sending money to relatives in the countryside was slow, expensive, and risky. Some people even carried large amounts of cash across dangerous roads.\n(C) With M-Pesa, anyone with a basic mobile phone could send money instantly by text message, even without a bank. Agents in small shops could also exchange cash for electronic money.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 2,
+    "translation": "2007년 케냐의 한 이동통신 회사는 고객이 휴대전화만으로 돈을 다룰 수 있게 하는 엠페사라는 결제 서비스를 시작했다. 아이디어는 단순했지만 당시에는 새로웠다. (B) 그 전에는 수백만 명의 케냐인이 은행 계좌가 없었고 시골의 친척에게 돈을 보내는 일은 느리고 비싸고 위험했다. 일부는 많은 현금을 들고 위험한 길을 가기도 했다. (C) 엠페사를 이용하면 기본 휴대전화를 가진 누구나 은행 없이도 문자 메시지로 즉시 돈을 보낼 수 있었다. 작은 가게의 대리점에서는 현금을 전자 화폐로 바꿔 주기도 했다. (A) 그 결과 이 서비스는 빠르게 퍼졌고 오늘날 케냐 성인의 대다수가 매주 이용한다. 이후 아프리카와 아시아의 다른 나라들도 그 아이디어를 따라 했다.",
+    "why": "(B) 'Before then'으로 이전의 불편 → (C) 'With M-Pesa'로 해결 → (A) 'As a result'로 결과 순서입니다.",
+    "optionNotes": [
+      "(A)의 'As a result'가 이어질 원인이 앞에 없습니다.",
+      "(A)가 (C) 앞에 오면 해결책 전에 결과가 나옵니다.",
+      "정답. 이전의 불편 → 해결 → 결과.",
+      "(C)의 'With M-Pesa'가 대조할 이전의 불편이 앞에 없습니다.",
+      "(C) 뒤에 (B)가 오면 'Before then'의 기준 시점이 어긋납니다."
+    ],
+    "trap": "(B)의 'Before then'은 주어진 글의 2007년을 가리킵니다.",
+    "tip": "Before then → With M-Pesa → As a result의 시간·인과 흐름을 따라가세요."
+  },
+  {
+    "id": "m3b-08-37",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Cuttlefish are famous for their ability to change the color of their skin in less than a second. They use this ability to hide and to communicate.\n(A) This allows the animal to blend into the sea floor to hide from predators or to send a bright warning to rivals. It uses the same system for two purposes. Scientists are studying this skin to design new materials that change color.\n(B) When these muscles relax or tighten, the sacs shrink or expand. The color of the skin then changes in an instant.\n(C) The skin of a cuttlefish contains thousands of tiny sacs filled with colored liquid. Each sac is controlled by a small muscle. Some of these sacs are smaller than a grain of sand.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 4,
+    "translation": "갑오징어는 1초도 안 되어 피부색을 바꾸는 능력으로 유명하다. 이들은 이 능력을 숨거나 의사소통하는 데 쓴다. (C) 갑오징어의 피부에는 색이 있는 액체로 채워진 수천 개의 작은 주머니가 있다. 각 주머니는 작은 근육이 조절한다. 이 주머니 중 일부는 모래알보다 작다. (B) 이 근육이 이완하거나 수축하면 주머니가 줄거나 늘어난다. 그러면 피부색이 순식간에 바뀐다. (A) 이를 통해 동물은 해저에 섞여 포식자로부터 숨거나 경쟁자에게 밝은 경고를 보낼 수 있다. 같은 체계를 두 가지 목적에 쓰는 것이다. 과학자들은 색이 변하는 새 소재를 설계하려고 이 피부를 연구하고 있다.",
+    "why": "(C) 주머니와 근육 구조 소개 → (B) 'these muscles'로 작동 원리 → (A) 'This allows'로 활용 순서입니다.",
+    "optionNotes": [
+      "(A)의 'This'가 가리킬 원리가 앞에 없습니다.",
+      "(B)의 'these muscles'가 가리킬 근육이 앞에 나오지 않습니다.",
+      "(B)의 'these muscles'가 가리킬 근육이 앞에 나오지 않습니다.",
+      "(A)의 활용이 원리(B) 설명 전에 오면 'This'가 불분명합니다.",
+      "정답. 구조 → 원리 → 활용."
+    ],
+    "trap": "(B)의 'these muscles'는 (C)에서 소개된 small muscle을 가리킵니다.",
+    "tip": "these, This 같은 지시어가 가리키는 앞 내용을 확인하세요."
+  },
+  {
+    "id": "m3b-08-38",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThanks to this new rule, the number of traffic accidents in the town has fallen by half.\n\n[글]\n( ① ) In 2018, a small town in Spain lowered the speed limit in its center to thirty kilometers per hour. ( ② ) Drivers complained at first, saying that it would make every trip much longer. ( ③ ) However, the average journey time increased by only a few minutes, because cars no longer had to stop and start so often. ( ④ ) Pedestrians began to feel safer, and more people started walking and cycling to work. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "[주어진 문장] 이 새로운 규칙 덕분에 마을의 교통사고 건수는 절반으로 줄었다. [글] 2018년 스페인의 한 작은 마을은 중심가의 제한 속도를 시속 30킬로미터로 낮추었다. 운전자들은 처음에는 모든 이동이 훨씬 오래 걸릴 것이라고 불평했다. 그러나 차가 더는 그렇게 자주 서고 출발할 필요가 없었기 때문에 평균 이동 시간은 몇 분밖에 늘지 않았다. 보행자들은 더 안전하다고 느끼기 시작했고 더 많은 사람이 걷거나 자전거로 출근하기 시작했다.",
+    "why": "'this new rule'은 앞에서 소개된 제한 속도 인하를 가리키고 그 결과를 정리하므로 글의 끝인 ⑤에 들어갑니다.",
+    "optionNotes": [
+      "'this new rule'이 가리킬 규칙이 아직 나오지 않았습니다.",
+      "불평 이야기 앞이라 결과를 말하기엔 이릅니다.",
+      "'However' 문장 앞에서 사고 감소를 말하면 흐름이 끊깁니다.",
+      "보행자 변화 설명 앞이라 결과가 먼저 나오게 됩니다.",
+      "정답. 변화들을 설명한 뒤 최종 결과를 말합니다."
+    ],
+    "trap": "④에 넣어도 사고 감소가 가능해 보이지만 보행자의 변화까지 설명한 뒤 결과를 정리하는 것이 자연스럽습니다.",
+    "tip": "'this new rule'은 규칙이 소개된 뒤 모든 변화가 설명된 후에 결과를 말하는 문장 위치입니다."
+  },
+  {
+    "id": "m3b-08-39",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nA famous conductor in the audience was deeply moved by her performance.\n\n[글]\n( ① ) Mina grew up in a village that had no music school. ( ② ) She taught herself to play the violin by watching videos on her father's old phone. ( ③ ) At fifteen, she performed at a local festival with a violin that she had borrowed from a neighbor. ( ④ ) He arranged a scholarship for her, and she moved to the capital to study at a music academy. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "[주어진 문장] 청중 속의 유명한 지휘자가 그녀의 연주에 깊이 감동했다. [글] 미나는 음악 학원이 없는 마을에서 자랐다. 그녀는 아버지의 낡은 휴대전화로 영상을 보며 독학으로 바이올린을 배웠다. 열다섯 살에 그녀는 이웃에게서 빌린 바이올린으로 지역 축제에서 연주했다. 그는 그녀를 위해 장학금을 마련해 주었고 그녀는 수도로 가서 음악원에서 공부했다.",
+    "why": "주어진 문장의 'her performance'는 앞 문장의 축제 연주를 가리키고, 뒤의 'He'가 지휘자를 받으므로 ④에 들어갑니다.",
+    "optionNotes": [
+      "'her'가 가리킬 Mina가 아직 나오지 않았습니다.",
+      "연주 이야기가 나오기 전이라 'her performance'가 어색합니다.",
+      "'her performance'가 연주를 말한 문장 앞에 올 수 없습니다.",
+      "정답. 연주 직후 지휘자가 감동하고 'He'가 이어집니다.",
+      "결과(장학금과 진학) 뒤에 오면 'He'의 지시 대상이 어긋납니다."
+    ],
+    "trap": "④의 'He'가 가리킬 남성 인물이 앞에 있어야 한다는 점을 놓치지 마세요.",
+    "tip": "대명사(He)가 가리킬 대상은 바로 앞 문장에 소개되어야 합니다."
+  },
+  {
+    "id": "m3b-08-40",
+    "level": "m3",
+    "set": "mock-08",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Researchers asked ninety students to study a chapter on history under three different conditions. One group studied in silence, another listened to quiet instrumental music, and the third listened to pop songs with lyrics. After the study session, all students took a test on the chapter. The test contained twenty questions, and the three groups had similar grades before the experiment. The silence group and the instrumental group scored almost the same. However, the students who listened to songs with lyrics scored about thirty percent lower. The researchers explained that the brain processes the words of a song in the same area that it uses for a textbook. As a result, the two tasks compete with each other.\n\n▶ Listening to music with (A) while studying (B) students' test scores.",
+    "options": [
+      "(A) silence — (B) improved",
+      "(A) instruments — (B) lowered",
+      "(A) lyrics — (B) lowered",
+      "(A) lyrics — (B) improved",
+      "(A) noise — (B) ignored"
+    ],
+    "answer": 2,
+    "translation": "연구자들은 학생 구십 명에게 세 가지 다른 조건에서 역사 단원을 공부하게 했다. 한 집단은 조용히 공부했고 다른 집단은 잔잔한 연주곡을 들었으며 세 번째 집단은 가사가 있는 대중가요를 들었다. 공부 시간이 끝난 뒤 모든 학생이 그 단원에 대한 시험을 쳤다. 시험은 스무 문항이었고 세 집단은 실험 전에 비슷한 성적이었다. 조용한 집단과 연주곡 집단은 거의 같은 점수를 받았다. 그러나 가사가 있는 노래를 들은 학생들은 약 30퍼센트 낮은 점수를 받았다. 연구자들은 뇌가 교과서를 처리하는 영역에서 노래의 단어도 처리한다고 설명했다. 그 결과 두 과제가 서로 경쟁한다. ▶ 공부하는 동안 (A)가 있는 음악을 듣는 것은 학생들의 시험 점수를 (B)했다.",
+    "why": "가사가 있는 노래를 들은 학생의 점수가 낮았으므로 (A)는 lyrics, (B)는 lowered입니다.",
+    "optionNotes": [
+      "silence와 improved는 글과 맞지 않습니다.",
+      "instruments와 lowered는 연주곡 집단의 결과와 맞지 않습니다.",
+      "정답. 가사가 있는 음악은 점수를 낮췄습니다.",
+      "improved가 글과 반대입니다.",
+      "noise와 ignored는 글에 나오지 않습니다."
+    ],
+    "trap": "(A)는 연주곡이 아니라 가사가 있는 음악이라는 점을 확인하세요.",
+    "tip": "요약문은 조건(가사)과 결과(점수 하락)를 짝지으세요."
+  }
+]
