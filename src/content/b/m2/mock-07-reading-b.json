@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m2b-07-29",
+    "level": "m2",
+    "set": "mock-07",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Giraffes are the tallest animals in the world, and their long necks {1|help} them reach leaves high in the trees. A giraffe's heart, {2|which} is about sixty centimeters long, pumps blood all the way up to its brain. Surprisingly, giraffes sleep only about thirty minutes a day, usually {3|taking} short naps while standing. Newborn giraffes are already about 1.8 meters tall, and within an hour they {4|stands} up and walk. Giraffes are not easy to find in the wild, so many visitors are {5|surprised} to see them in person.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "기린은 세계에서 키가 가장 큰 동물이며 긴 목은 나무 높은 곳의 잎에 닿는 데 도움이 된다. 길이가 약 60센티미터인 기린의 심장은 피를 뇌까지 끌어올린다. 놀랍게도 기린은 하루에 약 삼십 분만 자며 보통 서서 짧은 낮잠을 잔다. 갓 태어난 기린은 이미 키가 약 1.8미터이며 한 시간 안에 일어나 걷는다. 기린은 야생에서 찾기 쉽지 않아서 많은 방문객이 직접 보면 놀란다.",
+    "why": "주어 'they(newborn giraffes)'는 복수이므로 'stands'가 아니라 'stand'여야 합니다.",
+    "optionNotes": [
+      "주어 necks에 맞는 복수 동사 help입니다.",
+      "계속적 용법의 관계대명사 which입니다.",
+      "주어와 능동 관계인 분사 taking입니다.",
+      "정답(틀린 것). 복수 주어 they에는 stand가 와야 합니다.",
+      "감정을 느끼는 사람이 주어이므로 과거분사 surprised입니다."
+    ],
+    "trap": "앞 문장의 단수 명사에 이끌려 동사에 -s를 붙이기 쉽습니다.",
+    "tip": "등위 접속사 and로 연결된 동사는 같은 주어(they)의 수에 일치시키세요."
+  },
+  {
+    "id": "m2b-07-30",
+    "level": "m2",
+    "set": "mock-07",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Taking the bus or subway instead of driving has many benefits. First, it is {1|cheaper} than owning a car, because you do not have to pay for fuel, parking, or repairs. Second, public transportation {2|increases} traffic jams, since many people share one vehicle. Third, it produces less pollution per passenger. In addition, riding the bus gives you time to read or rest, rather than concentrating on the road. Many cities are therefore trying to make public transportation more {3|comfortable} and convenient. Some offer free transfers between buses and subways, and others add late-night lines to {4|serve} people who work at night. As more people choose public transportation, the air in the city becomes {5|cleaner}.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "운전 대신 버스나 지하철을 타는 것은 많은 이점이 있다. 첫째, 연료비, 주차비, 수리비를 내지 않아도 되므로 자동차를 소유하는 것보다 더 싸다. 둘째, 많은 사람이 한 대의 차량을 함께 쓰므로 대중교통은 교통 체증을 늘린다. 셋째, 승객 한 명당 오염이 더 적다. 게다가 버스를 타면 도로에 집중하는 대신 책을 읽거나 쉴 시간이 생긴다. 그래서 많은 도시가 대중교통을 더 편안하고 편리하게 만들려고 노력한다. 일부는 버스와 지하철 사이의 무료 환승을 제공하고 다른 곳은 밤에 일하는 사람들을 위해 심야 노선을 추가한다. 더 많은 사람이 대중교통을 선택할수록 도시의 공기는 더 깨끗해진다.",
+    "why": "많은 사람이 한 대의 차량을 함께 쓰므로 교통 체증을 '늘리는(increases)'이 아니라 '줄이는(reduces)'이어야 합니다.",
+    "optionNotes": [
+      "비용이 덜 든다는 의미로 cheaper가 알맞습니다.",
+      "정답(부적절). 차량을 공유하면 체증이 줄므로 reduces여야 합니다.",
+      "편안하게 만든다는 의미로 comfortable이 알맞습니다.",
+      "심야 노선이 사람들에게 서비스를 제공한다는 의미로 serve가 알맞습니다.",
+      "공기가 깨끗해진다는 의미로 cleaner가 알맞습니다."
+    ],
+    "trap": "'since many people share one vehicle'이라는 이유가 증가와 충돌합니다.",
+    "tip": "since 절의 이유와 동사의 방향이 일치하는지 확인하세요."
+  },
+  {
+    "id": "m2b-07-31",
+    "level": "m2",
+    "set": "mock-07",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many drivers rely on GPS to find their way. Researchers asked participants to walk through a new city using either a paper map or a GPS device. They also made fewer mistakes when they had to find their way back. Later, the people who used the map drew more accurate maps of the area from memory. The GPS users simply followed instructions, so they paid little attention to their surroundings. Some of them could not even remember the streets that they had just walked along. This suggests that relying on GPS too much may weaken our ability to __________.",
+    "options": [
+      "understand and remember the layout of the places where we travel",
+      "drive fast",
+      "read books",
+      "speak clearly",
+      "sleep well"
+    ],
+    "answer": 0,
+    "translation": "많은 운전자는 길을 찾을 때 GPS에 의존한다. 연구자들은 참가자들에게 종이 지도나 GPS 장치를 사용해 새로운 도시를 걷게 했다. 그들은 돌아오는 길을 찾을 때도 실수를 덜 했다. 나중에 지도를 사용한 사람들이 기억을 바탕으로 그 지역의 더 정확한 지도를 그렸다. GPS 사용자들은 단지 지시를 따랐기 때문에 주변에 거의 주의를 기울이지 않았다. 그들 중 일부는 방금 걸었던 거리조차 기억하지 못했다. 이는 GPS에 너무 의존하면 우리가 여행하는 장소의 배치를 이해하고 기억하는 능력이 약해질 수 있음을 시사한다.",
+    "why": "GPS 사용자는 주변에 주의를 기울이지 않아 지도를 덜 정확히 그렸으므로 '장소의 배치를 이해하고 기억하는 능력'이 약해질 수 있습니다.",
+    "optionNotes": [
+      "정답. 장소의 배치를 이해하고 기억하는 능력입니다.",
+      "운전 속도는 나오지 않습니다.",
+      "독서는 나오지 않습니다.",
+      "말하기는 나오지 않습니다.",
+      "수면은 나오지 않습니다."
+    ],
+    "trap": "'drive'가 앞에 나온다고 운전 관련 보기(②)를 고르지 마세요.",
+    "tip": "실험 결과(map users drew more accurate maps)가 빈칸의 직접적 단서입니다."
+  },
+  {
+    "id": "m2b-07-32",
+    "level": "m2",
+    "set": "mock-07",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Some people enjoy horror movies even though they feel fear while watching. Psychologists explain that the fear takes place in a safe setting. The viewer knows that nothing can truly harm them, so the body's fear response, such as a faster heartbeat, is felt as excitement. Roller coasters work in the same way, and even a scary story can feel exciting. When the movie ends, the viewer also feels relief, which is a pleasant feeling. Many people even say that they feel more energetic after watching a scary film. Thus, people enjoy being scared because __________.",
+    "options": [
+      "they believe that the actors in the movie are in real danger every day",
+      "they want to forget the movie as quickly as they possibly can after it",
+      "they can learn how to produce horror movies without spending much money",
+      "they are not afraid of anything that happens in daily life at home",
+      "they can feel strong emotions without being in real danger"
+    ],
+    "answer": 4,
+    "translation": "일부 사람들은 보는 동안 두려움을 느끼는데도 공포 영화를 즐긴다. 심리학자들은 두려움이 안전한 환경에서 일어난다고 설명한다. 시청자는 어떤 것도 자신을 진짜로 해칠 수 없음을 알기 때문에 빨라진 심장 박동 같은 몸의 공포 반응이 흥분으로 느껴진다. 롤러코스터도 같은 방식으로 작동하며 무서운 이야기조차 신나게 느껴질 수 있다. 영화가 끝나면 시청자는 안도감도 느끼는데 이는 유쾌한 느낌이다. 많은 사람은 무서운 영화를 본 뒤 더 활기차다고 말하기까지 한다. 그러므로 사람들은 실제 위험에 처하지 않고 강한 감정을 느낄 수 있기 때문에 겁먹는 것을 즐긴다.",
+    "why": "안전한 환경에서 두려움이 흥분과 안도감으로 느껴지므로 '실제 위험 없이 강한 감정을 느낄 수 있기 때문'이 알맞습니다.",
+    "optionNotes": [
+      "배우가 실제 위험에 처한다는 내용은 없습니다.",
+      "영화를 빨리 잊고 싶다는 내용은 없습니다.",
+      "제작법을 배운다는 내용은 없습니다.",
+      "일상에서 두려움이 없다는 내용은 없습니다.",
+      "정답. 안전한 곳에서 강한 감정을 느낍니다."
+    ],
+    "trap": "'fear'에 이끌려 실제 위험(①)이라는 보기를 고르지 마세요.",
+    "tip": "앞 문장들의 핵심(safe setting, nothing can truly harm them)이 빈칸의 단서입니다."
+  },
+  {
+    "id": "m2b-07-33",
+    "level": "m2",
+    "set": "mock-07",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Each year, millions of birds fly thousands of kilometers between their summer and winter homes. How do they find their way? Scientists have discovered that birds can sense the Earth's magnetic field, which works like an invisible map. They also use the sun during the day and the stars at night. Some birds even travel across oceans without stopping, and young birds can do this on their first trip. In one experiment, birds placed in a room with a changed magnetic field flew in the wrong direction. This shows that birds find their way by __________.",
+    "options": [
+      "following the same road that cars use between cities every year",
+      "asking other birds that have already traveled to the destination",
+      "looking only at the shape of the mountains in front of them",
+      "remembering the smell of the food that they ate on the way",
+      "using natural signs from the sky and the Earth"
+    ],
+    "answer": 4,
+    "translation": "해마다 수백만 마리의 새가 여름 서식지와 겨울 서식지 사이 수천 킬로미터를 날아간다. 새들은 어떻게 길을 찾을까? 과학자들은 새가 보이지 않는 지도처럼 작동하는 지구의 자기장을 감지할 수 있음을 발견했다. 새는 또한 낮에는 태양을, 밤에는 별을 이용한다. 일부 새는 쉬지 않고 바다를 건너기도 하며 어린 새도 첫 여행에서 이를 해낼 수 있다. 한 실험에서 자기장이 바뀐 방에 놓인 새들은 엉뚱한 방향으로 날아갔다. 이는 새가 하늘과 지구의 자연적 신호를 이용해 길을 찾음을 보여 준다.",
+    "why": "자기장, 태양, 별을 이용하므로 '하늘과 지구의 자연적 신호를 이용한다'가 알맞습니다.",
+    "optionNotes": [
+      "자동차 도로는 나오지 않습니다.",
+      "다른 새에게 묻는다는 내용은 없습니다.",
+      "산의 모양만 본다는 내용은 없습니다.",
+      "냄새는 나오지 않습니다.",
+      "정답. 자기장, 태양, 별 등 자연적 신호입니다."
+    ],
+    "trap": "'map'이 나온다고 지형(③)만 본다고 오해하지 마세요.",
+    "tip": "나열된 단서(magnetic field, sun, stars)를 일반화한 말을 찾으세요."
+  },
+  {
+    "id": "m2b-07-34",
+    "level": "m2",
+    "set": "mock-07",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "When students make a mistake and then see the right answer, they remember the correct information longer than students who never made the mistake. Teachers used to avoid errors in the classroom. However, research shows that struggling for a moment prepares the brain to absorb the answer. This finding was a surprise to many teachers. In one study, students who guessed the meaning of new words before learning them remembered more words a week later. This means that making mistakes can be a useful part of learning, as long as the student __________.",
+    "options": [
+      "never checks the answer",
+      "looks at the correct answer afterward and thinks about why the first answer was wrong",
+      "avoids all hard questions",
+      "copies a friend",
+      "stops studying"
+    ],
+    "answer": 1,
+    "translation": "학생이 실수를 한 뒤 정답을 보면 실수를 한 적이 없는 학생보다 정확한 정보를 더 오래 기억한다. 교사들은 예전에 교실에서 오류를 피하게 했다. 그러나 연구는 잠깐 애쓰는 것이 뇌가 답을 흡수할 준비를 시킨다는 것을 보여 준다. 이 발견은 많은 교사에게 놀라움이었다. 한 연구에서 새 단어를 배우기 전에 뜻을 추측한 학생들이 일주일 뒤 더 많은 단어를 기억했다. 이는 학생이 나중에 정답을 보고 처음 답이 왜 틀렸는지 생각하는 한 실수가 학습의 유용한 부분이 될 수 있음을 뜻한다.",
+    "why": "실수 뒤 정답을 확인할 때 기억이 오래가므로 '나중에 정답을 보고 처음 답이 왜 틀렸는지 생각한다면'이 알맞습니다.",
+    "optionNotes": [
+      "답을 확인하지 않는다는 내용은 글과 반대입니다.",
+      "정답. 정답을 확인하고 이유를 생각합니다.",
+      "어려운 문제를 피한다는 내용은 글과 반대입니다.",
+      "친구의 답을 베낀다는 내용은 없습니다.",
+      "공부를 멈춘다는 내용은 글과 반대입니다."
+    ],
+    "trap": "'make mistakes'만 보고 실수를 그냥 두어도 된다고 오해하지 마세요.",
+    "tip": "as long as 조건절은 앞의 일반화가 성립하는 조건을 말합니다."
+  },
+  {
+    "id": "m2b-07-35",
+    "level": "m2",
+    "set": "mock-07",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Joining a school club has several benefits. ① You can make friends who share your interests. ② Many schools have a cafeteria where students can buy lunch at a low price. ③ Clubs also give you chances to develop leadership skills, such as planning events and leading meetings. ④ In addition, working toward a common goal teaches teamwork and responsibility. ⑤ For these reasons, students are encouraged to join at least one club during their school years.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "학교 동아리에 가입하는 것은 여러 이점이 있다. ① 관심사가 같은 친구를 사귈 수 있다. ② 많은 학교에는 학생들이 싼 값에 점심을 살 수 있는 식당이 있다. ③ 동아리는 또한 행사 기획이나 회의 진행 같은 리더십 기술을 키울 기회를 준다. ④ 게다가 공동의 목표를 향해 노력하는 것은 협동심과 책임감을 가르친다. ⑤ 이런 이유로 학생들은 재학 중 적어도 하나의 동아리에 가입하도록 권장된다.",
+    "why": "글은 동아리의 이점을 말하는데 ②는 학교 식당의 점심 가격이라는 별개의 이야기라 관계가 없습니다.",
+    "optionNotes": [
+      "친구를 사귀는 이점입니다.",
+      "정답(무관). 식당의 점심 가격 이야기입니다.",
+      "리더십을 키우는 이점입니다.",
+      "협동심과 책임감을 키우는 이점입니다.",
+      "결론 문장입니다."
+    ],
+    "trap": "'school'과 관련된 소재라서 주제와 이어지는 것처럼 보일 수 있습니다.",
+    "tip": "주제(동아리의 이점)를 뒷받침하지 않는 문장을 고르세요."
+  },
+  {
+    "id": "m2b-07-36",
+    "level": "m2",
+    "set": "mock-07",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Have you ever wondered why leaves change color in autumn? The change happens every year, but few people know the reason.\n(A) Then the yellow and orange colors that were hidden all along finally become visible, and the forest looks like a painting.\n(B) During summer, leaves are green because they contain a large amount of chlorophyll, which helps plants make food from sunlight and gives them their green color.\n(C) In autumn, the days become shorter, and the trees stop making chlorophyll, so the green color slowly disappears. This usually happens in October in Korea.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 2,
+    "translation": "가을에 나뭇잎이 왜 색이 변하는지 궁금했던 적이 있는가? 그 변화는 해마다 일어나지만 이유를 아는 사람은 드물다. (B) 여름에는 잎이 식물이 햇빛으로 양분을 만들도록 돕고 잎에 초록색을 주는 엽록소를 많이 지니고 있어서 초록색이다. (C) 가을에는 낮이 짧아지고 나무가 엽록소를 만드는 것을 멈추어서 초록색이 서서히 사라진다. 한국에서는 보통 10월에 일어난다. (A) 그러면 줄곧 숨어 있던 노란색과 주황색이 마침내 드러나 숲은 한 폭의 그림처럼 보인다.",
+    "why": "(B) 여름의 초록색 → (C) 가을에 엽록소가 사라짐 → (A) 'Then'으로 숨은 색이 드러남 순서입니다.",
+    "optionNotes": [
+      "(A)의 'Then'이 이어질 앞 사건이 없습니다.",
+      "(A)가 (C) 전에 오면 엽록소가 사라지기 전에 색이 드러납니다.",
+      "정답. 여름 → 엽록소 감소 → 숨은 색 드러남.",
+      "(C)의 'In autumn'이 여름 설명 전에 오면 대비가 사라집니다.",
+      "(C)의 'In autumn'이 여름 설명 전에 오면 대비가 사라집니다."
+    ],
+    "trap": "(A)의 'Then'은 (C)의 초록색이 사라진 뒤를 가리킵니다.",
+    "tip": "During summer → In autumn → Then의 시간 흐름을 따라가세요."
+  },
+  {
+    "id": "m2b-07-37",
+    "level": "m2",
+    "set": "mock-07",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Sharks are often described as dangerous animals, but they are much more afraid of humans than we are of them. This surprising fact comes from many studies of shark behavior.\n(A) In fact, sharks attack fewer than a hundred people each year, and only a small number of these attacks are fatal. Most bites happen when a shark mistakes a surfer for a seal.\n(B) Therefore, it is the sharks, not people, who need our protection.\n(C) On the other hand, humans kill about a hundred million sharks every year, mostly for their fins.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "상어는 흔히 위험한 동물로 묘사되지만 그들은 우리가 그들을 두려워하는 것보다 훨씬 더 인간을 두려워한다. 이 놀라운 사실은 상어 행동에 관한 많은 연구에서 나왔다. (A) 사실 상어는 해마다 백 명도 안 되는 사람을 공격하고 이 공격 중 일부만 치명적이다. 대부분의 물림은 상어가 서퍼를 바다표범으로 착각할 때 일어난다. (C) 반면 인간은 해마다 약 일억 마리의 상어를 주로 지느러미를 얻으려고 죽인다. (B) 그러므로 우리의 보호가 필요한 것은 사람이 아니라 상어이다.",
+    "why": "(A) 'In fact'로 상어의 공격 수 → (C) 'On the other hand'로 인간이 죽이는 수 → (B) 'Therefore'로 결론 순서입니다.",
+    "optionNotes": [
+      "정답. 사실 → 대조 → 결론.",
+      "(B)의 'Therefore'가 요약할 내용이 앞에 없습니다.",
+      "(B)의 'Therefore'가 요약할 내용이 앞에 없습니다.",
+      "(C)의 'On the other hand'가 대조할 앞 내용이 없습니다.",
+      "(C) 뒤에 (B)가 오고 (A)가 마지막에 오면 결론 뒤에 근거가 나옵니다."
+    ],
+    "trap": "(C)의 'On the other hand'는 (A)의 상어가 사람을 공격하는 수와 대조됩니다.",
+    "tip": "In fact → On the other hand → Therefore의 논리 흐름을 따라가세요."
+  },
+  {
+    "id": "m2b-07-38",
+    "level": "m2",
+    "set": "mock-07",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nHe was shocked to see elderly residents traveling for hours by boat just to get their medicine.\n\n[글]\n( ① ) Dr. Kim worked at a big hospital in Seoul, and he was so busy that he rarely had time for himself. ( ② ) One summer, he visited a small island village that had no doctor. ( ③ ) After returning to Seoul, he could not stop thinking about the people whom he had met there. ( ④ ) The following year, he moved to the island and opened a small clinic. ( ⑤ ) Today, the villagers say that his clinic has made the island a much safer place to live.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 그는 어르신들이 약을 구하려고 몇 시간씩 배를 타고 다니는 것을 보고 충격을 받았다. [글] 김 박사는 서울의 큰 병원에서 일했고 너무 바빠서 자신을 위한 시간이 거의 없었다. 어느 여름 그는 의사가 없는 작은 섬마을을 방문했다. 서울로 돌아온 뒤 그는 그곳에서 만난 사람들을 계속 생각했다. 이듬해 그는 섬으로 이사해 작은 진료소를 열었다. 오늘날 주민들은 그의 진료소가 섬을 훨씬 더 안전하게 살 수 있는 곳으로 만들었다고 말한다.",
+    "why": "주어진 문장은 섬마을을 방문한 장면(의사가 없는 마을)을 구체화하고, 뒤의 'After returning ~ thinking about the people'로 이어지므로 ③에 들어갑니다.",
+    "optionNotes": [
+      "'He'가 가리킬 Dr. Kim이 방문하기 전이라 어색합니다.",
+      "마을을 방문했다는 내용이 나오기 전에 충격을 받는 장면이 먼저 나옵니다.",
+      "정답. 방문 직후 본 광경을 말하고 이후 계속 생각하는 흐름입니다.",
+      "돌아와 생각한 뒤에 충격이 나오면 순서가 어긋납니다.",
+      "진료소를 연 뒤에 충격이 나오면 인과가 뒤집힙니다."
+    ],
+    "trap": "④에 넣으면 이사를 결심하는 이유가 뒤에 나와 인과가 거꾸로 됩니다.",
+    "tip": "시간 흐름(방문 → 충격 → 귀환 → 이사)을 따라 위치를 정하세요."
+  },
+  {
+    "id": "m2b-07-39",
+    "level": "m2",
+    "set": "mock-07",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThanks to this support, her company grew into a successful business within five years.\n\n[글]\n( ① ) Eun-ji started a small company that made bags from old advertising banners. ( ② ) At first, she sold them only to her friends and relatives. ( ③ ) Then a local newspaper wrote an article about her unusual idea. ( ④ ) Soon, a bank offered her a loan with a very low interest rate, and a design school sent students to help her create new products. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "[주어진 문장] 이 지원 덕분에 그녀의 회사는 오 년 안에 성공적인 사업으로 성장했다. [글] 은지는 오래된 광고 현수막으로 가방을 만드는 작은 회사를 시작했다. 처음에 그녀는 가방을 친구와 친척에게만 팔았다. 그러다 지역 신문이 그녀의 특이한 아이디어에 관한 기사를 썼다. 곧 한 은행이 아주 낮은 이자의 대출을 제안했고 디자인 학교는 새 제품을 만드는 것을 돕도록 학생들을 보냈다.",
+    "why": "'this support'는 은행 대출과 디자인 학교의 도움을 가리키므로 글의 맨 끝인 ⑤에 들어갑니다.",
+    "optionNotes": [
+      "'this support'가 가리킬 지원이 아직 나오지 않았습니다.",
+      "지원이 나오기 전이라 'this support'가 어색합니다.",
+      "지원이 나오기 전이라 'this support'가 어색합니다.",
+      "지원 내용을 설명하는 문장 앞이라 'this support'의 대상이 없습니다.",
+      "정답. 지원 내용 뒤에 그 결과를 말합니다."
+    ],
+    "trap": "④도 가능해 보이지만 'this support'는 ④의 구체적 지원이 나온 뒤에 와야 합니다.",
+    "tip": "'this + 명사'는 앞에서 구체적으로 설명된 내용 바로 뒤에 놓입니다."
+  },
+  {
+    "id": "m2b-07-40",
+    "level": "m2",
+    "set": "mock-07",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A middle school asked students to put their phones in a basket during lunch for one month. At first, many students complained. However, after a week, the cafeteria became much noisier in a good way, because students began to talk to one another. Teachers noticed that students who usually ate alone were joining conversations. In a survey at the end of the month, most students said that they felt happier and less stressed after lunch. Several students even asked to keep the rule after the experiment ended.\n\n▶ When students put away their phones at lunch, they (A) more with one another, and their (B) improved.",
+    "options": [
+      "(A) argued — (B) hunger",
+      "(A) played — (B) eyesight",
+      "(A) studied — (B) speed",
+      "(A) talked — (B) mood",
+      "(A) walked — (B) height"
+    ],
+    "answer": 3,
+    "translation": "한 중학교는 학생들에게 한 달 동안 점심시간에 휴대전화를 바구니에 넣게 했다. 처음에는 많은 학생이 불평했다. 그러나 일주일이 지나자 학생들이 서로 이야기하기 시작해서 급식실이 좋은 의미로 훨씬 시끄러워졌다. 교사들은 보통 혼자 먹던 학생들이 대화에 끼는 것을 알아챘다. 한 달 끝의 설문 조사에서 대부분의 학생은 점심 후에 더 행복하고 스트레스가 덜하다고 말했다. 몇몇 학생은 실험이 끝난 뒤에도 규칙을 유지해 달라고 요청하기까지 했다. ▶ 학생들이 점심에 휴대전화를 치우자 서로 더 많이 (A)했고 그들의 (B)이 좋아졌다.",
+    "why": "학생들이 서로 더 많이 이야기하고(talked) 기분이 좋아졌으므로(mood) (A)는 talked, (B)는 mood입니다.",
+    "optionNotes": [
+      "argued와 hunger는 글에 나오지 않습니다.",
+      "played와 eyesight는 글에 나오지 않습니다.",
+      "studied와 speed는 글에 나오지 않습니다.",
+      "정답. 대화가 늘고 기분이 좋아졌습니다.",
+      "walked와 height는 글에 나오지 않습니다."
+    ],
+    "trap": "(A)가 맞아도 (B)가 결과(행복, 스트레스 감소)와 일치하는지 확인하세요.",
+    "tip": "요약문은 원인(휴대전화 치우기)과 결과(대화 증가, 기분 개선)를 짝지으세요."
+  }
+]

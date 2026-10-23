@@ -1,0 +1,333 @@
+[
+  {
+    "id": "m2b-07-18",
+    "level": "m2",
+    "set": "mock-07",
+    "no": 18,
+    "type": "purpose",
+    "stem": "다음 글의 목적으로 가장 적절한 것은?",
+    "passage": "Dear Mr. Han,\nMy name is Jiwoo Choi, and I am a seventh-grade student in Class 4. I am writing to apply for membership in the school radio club. I have loved listening to the radio since I was a child, and I often imagine myself as a program host. Last year, I read the morning news aloud in my elementary school, and my teachers praised my clear voice. I am also willing to learn how to use the equipment and to help with the lunchtime broadcast. I hope you will give me a chance to join the club.\nSincerely,\nJiwoo Choi",
+    "options": [
+      "방송반에 가입하고 싶다는 뜻을 밝히며 부원으로 받아 달라고 지원하려고",
+      "방송반의 점심 방송 시간을 바꿔 달라고 건의하려고",
+      "초등학교 시절의 뉴스 방송 경험을 소개하려고",
+      "라디오 방송 장비의 수리를 요청하려고",
+      "다음 학기 방송반 행사를 안내하려고"
+    ],
+    "answer": 0,
+    "translation": "한 선생님께. 제 이름은 최지우이고 1학년 4반 학생입니다. 학교 방송반 가입을 지원하려고 씁니다. 저는 어릴 때부터 라디오 듣기를 좋아했고 자주 제가 프로그램 진행자가 된 모습을 상상합니다. 작년에 초등학교에서 아침 뉴스를 소리 내어 읽었고 선생님들이 제 또렷한 목소리를 칭찬해 주셨습니다. 저는 또한 장비 사용법을 배우고 점심 방송을 돕고 싶습니다. 선생님께서 제게 동아리에 가입할 기회를 주시기를 바랍니다. 최지우 드림.",
+    "why": "방송반에 가입하고 싶다는 뜻을 밝히며 지원하는 글입니다.",
+    "optionNotes": [
+      "정답. 방송반 가입을 지원합니다.",
+      "방송 시간 변경 건의가 아닙니다.",
+      "경험 소개는 지원의 근거일 뿐입니다.",
+      "장비 수리 요청이 아닙니다.",
+      "행사 안내가 아닙니다."
+    ],
+    "trap": "과거 경험(뉴스 낭독)이 나온다고 경험 소개(③)가 목적이라 착각하지 마세요.",
+    "tip": "목적 문제는 'I am writing to apply for ~' 문장을 찾으세요."
+  },
+  {
+    "id": "m2b-07-19",
+    "level": "m2",
+    "set": "mock-07",
+    "no": 19,
+    "type": "mood",
+    "stem": "다음 글에 드러난 Hajun의 심경 변화로 가장 적절한 것은?",
+    "passage": "Hajun was carrying his lunch tray across the crowded cafeteria when his foot caught on a bag. The tray flew out of his hands, and rice, soup, and kimchi landed on the floor with a loud crash. The whole room went quiet, and Hajun's face turned bright red. He wanted to run out of the room. But then a girl at the next table laughed kindly and said, \"That was the most dramatic landing I've ever seen!\" Soon his friends were helping him clean up. Hajun began to laugh as well, and the embarrassment slowly faded.",
+    "options": [
+      "excited and proud → bored and tired",
+      "embarrassed and ashamed → relieved and glad",
+      "angry and bitter → calm and satisfied",
+      "lonely and sad → surprised and frightened",
+      "curious and hopeful → disappointed and upset"
+    ],
+    "answer": 1,
+    "translation": "하준은 붐비는 급식실을 가로질러 점심 식판을 나르다가 발이 가방에 걸렸다. 식판이 손에서 날아가 밥, 국, 김치가 큰 소리와 함께 바닥에 떨어졌다. 방 전체가 조용해졌고 하준의 얼굴은 새빨개졌다. 그는 방에서 달아나고 싶었다. 그러나 그때 옆 탁자의 한 소녀가 다정하게 웃으며 말했다. \"내가 본 것 중 가장 극적인 착지였어!\" 곧 친구들이 그가 치우는 것을 도왔다. 하준도 웃기 시작했고 창피함이 서서히 사라졌다.",
+    "why": "처음에는 창피하고 부끄러웠지만(embarrassed and ashamed), 친구들의 도움과 농담 덕분에 안도하고 재미있어했습니다(relieved and amused).",
+    "optionNotes": [
+      "들뜸에서 지루함이 아닙니다.",
+      "정답. 창피함에서 안도와 즐거움으로 변했습니다.",
+      "분노에서 만족이 아닙니다.",
+      "외로움에서 두려움이 아닙니다.",
+      "호기심에서 실망이 아닙니다."
+    ],
+    "trap": "'went quiet'과 'face turned red'를 분노로 해석하지 마세요.",
+    "tip": "전환 신호(But then a girl ~ laughed kindly)를 기준으로 감정 변화를 읽으세요."
+  },
+  {
+    "id": "m2b-07-20",
+    "level": "m2",
+    "set": "mock-07",
+    "no": 20,
+    "type": "claim",
+    "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+    "passage": "Many young adults leave home without knowing how to cook anything more than instant noodles. As a result, they depend on fast food and delivery meals, which are often expensive and unhealthy. Cooking, however, is a practical skill that can be learned at an early age. In a cooking class, students learn about nutrition, plan a budget, and practice working with others. They also feel proud when they finish a dish by themselves. Some people say that school time should be used only for academic subjects. But a basic life skill that supports health for decades deserves a place in the curriculum. Therefore, schools should teach students how to cook.",
+    "options": [
+      "학교 급식을 중단하고 배달 음식을 학생들에게 허용해야 한다.",
+      "학교는 학생들에게 요리하는 법을 가르쳐야 한다.",
+      "수업 시간은 오직 학문 과목에만 사용해야 한다.",
+      "요리는 대학에 진학한 뒤 배우는 것이 가장 효과적이다.",
+      "인스턴트 라면은 건강에 좋으므로 자주 먹는 것이 바람직하다."
+    ],
+    "answer": 1,
+    "translation": "많은 청년이 인스턴트 라면 이상의 요리를 할 줄 모른 채 집을 떠난다. 그 결과 그들은 흔히 비싸고 건강에 좋지 않은 패스트푸드와 배달 음식에 의존한다. 그러나 요리는 어릴 때 배울 수 있는 실용적인 기술이다. 요리 수업에서 학생들은 영양을 배우고 예산을 세우고 다른 사람과 일하는 연습을 한다. 또한 혼자 힘으로 요리를 완성하면 자랑스러워한다. 어떤 사람들은 학교 시간을 학문 과목에만 써야 한다고 말한다. 그러나 수십 년 동안 건강을 뒷받침하는 기본적인 생활 기술은 교육과정에 자리를 가질 자격이 있다. 그러므로 학교는 학생들에게 요리하는 법을 가르쳐야 한다.",
+    "why": "마지막 문장 'schools should teach students how to cook'이 주장입니다.",
+    "optionNotes": [
+      "급식 중단은 나오지 않습니다.",
+      "정답. 학교가 요리를 가르쳐야 합니다.",
+      "필자가 반박하는 견해입니다.",
+      "대학에서 배우자는 내용은 없습니다.",
+      "라면이 건강에 좋다는 내용은 없습니다."
+    ],
+    "trap": "'Some people say ~' 뒤의 견해는 필자가 반박하는 반대 의견입니다.",
+    "tip": "'Therefore, ~ should ~' 문장이 필자의 주장입니다."
+  },
+  {
+    "id": "m2b-07-21",
+    "level": "m2",
+    "set": "mock-07",
+    "no": 21,
+    "type": "implied",
+    "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "passage": "Minho had been saving money for a new laptop for months. When he finally went to the electronics store, he found one that he loved, but the price tag made his eyes grow wide. \"This model must {u|cost an arm and a leg},\" he whispered. The salesperson smiled and explained that the laptop had the latest processor and a very bright screen. Minho thought about it for a while. Then he decided to buy a cheaper model instead, and he saved the rest of his money for later.",
+    "options": [
+      "to be extremely expensive and difficult to afford for most people",
+      "to hurt oneself badly while playing sports",
+      "to be cheap and easy to buy",
+      "to be popular among teenagers",
+      "to be made of strong materials"
+    ],
+    "answer": 0,
+    "translation": "민호는 몇 달 동안 새 노트북을 사려고 돈을 모아 왔다. 마침내 전자 제품 매장에 갔을 때 마음에 드는 것을 찾았지만 가격표를 보고 눈이 휘둥그레졌다. \"이 모델은 엄청나게 비쌀 거야.\" 하고 그가 속삭였다. 판매원은 미소 지으며 그 노트북에 최신 프로세서와 매우 밝은 화면이 있다고 설명했다. 민호는 잠시 생각했다. 그러고는 대신 더 싼 모델을 사기로 결정했고 남은 돈은 나중을 위해 아꼈다.",
+    "why": "가격표를 보고 놀랐고 더 싼 모델을 사기로 했으므로 'cost an arm and a leg'는 몹시 비싸다는 뜻입니다.",
+    "optionNotes": [
+      "정답. 매우 비싸서 사기 어렵다는 뜻입니다.",
+      "문자 그대로 다치는 것이 아닙니다.",
+      "싸다는 뜻과 반대입니다.",
+      "인기가 많다는 뜻이 아닙니다.",
+      "튼튼한 재료라는 뜻이 아닙니다."
+    ],
+    "trap": "'arm and leg'를 문자 그대로 신체 부위로 해석하지 마세요.",
+    "tip": "관용 표현은 앞뒤 문맥(price tag, cheaper model)에서 의미를 추론하세요."
+  },
+  {
+    "id": "m2b-07-22",
+    "level": "m2",
+    "set": "mock-07",
+    "no": 22,
+    "type": "gist",
+    "stem": "다음 글의 요지로 가장 적절한 것은?",
+    "passage": "Spending time in a garden has been shown to reduce stress. In one study, participants did a stressful task and then spent thirty minutes either gardening or reading indoors. The gardeners' stress levels dropped more quickly, and they reported a better mood. Many people find this result surprising and encouraging. Researchers believe that touching soil, seeing green, and caring for living things help the mind to relax. You do not need a large yard. Even a few pots on a balcony can be enough. The key is to spend regular time with plants.",
+    "options": [
+      "큰 정원이 없으면 식물을 키우는 것에서 어떤 효과도 기대할 수 없다.",
+      "책을 읽는 것은 스트레스를 줄이는 데 전혀 도움이 되지 않는다.",
+      "정원 가꾸기는 힘든 일을 마친 뒤에만 시도하는 것이 좋다.",
+      "식물을 가꾸는 활동은 스트레스를 줄이는 데 도움이 된다.",
+      "발코니에는 화분을 최소한 열 개 이상 놓아야 효과가 있다."
+    ],
+    "answer": 3,
+    "translation": "정원에서 시간을 보내는 것이 스트레스를 줄인다는 것이 밝혀졌다. 한 연구에서 참가자들은 스트레스를 주는 과제를 한 뒤 삼십 분 동안 정원을 가꾸거나 실내에서 책을 읽었다. 정원을 가꾼 사람들의 스트레스 수준은 더 빨리 떨어졌고 기분이 더 좋다고 보고했다. 많은 사람이 이 결과를 놀랍고 고무적이라고 여긴다. 연구자들은 흙을 만지고 초록을 보고 살아 있는 것을 돌보는 일이 마음이 쉬도록 돕는다고 믿는다. 큰 마당이 필요하지는 않다. 발코니의 화분 몇 개로도 충분할 수 있다. 핵심은 식물과 규칙적으로 시간을 보내는 것이다.",
+    "why": "식물을 가꾸는 활동이 스트레스를 줄이는 데 도움이 된다는 것이 요지입니다.",
+    "optionNotes": [
+      "큰 마당이 필요하지 않다는 내용과 반대입니다.",
+      "독서가 도움이 안 된다는 내용은 없습니다.",
+      "힘든 일 뒤에만 하라는 내용은 아닙니다.",
+      "정답. 식물 가꾸기는 스트레스 감소에 도움이 됩니다.",
+      "화분 개수는 나오지 않습니다."
+    ],
+    "trap": "실험 설계(책 읽기와 비교)를 요지로 착각하지 마세요.",
+    "tip": "주제문(Spending time in a garden ~ reduce stress)과 마지막 문장을 함께 확인하세요."
+  },
+  {
+    "id": "m2b-07-23",
+    "level": "m2",
+    "set": "mock-07",
+    "no": 23,
+    "type": "topic",
+    "stem": "다음 글의 주제로 가장 적절한 것은?",
+    "passage": "Traditional Korean houses used ondol, a floor heating system. Hot smoke from the kitchen fire traveled through channels under a stone floor, warming the room from below. Because heat rises, the whole room became warm, and the stone floor kept the heat for hours after the fire went out. Ondol was efficient because it used the same fire for both cooking and heating. Today, modern homes use hot water pipes instead of smoke, but the basic idea remains the same. Many foreigners are impressed by the comfort of a warm floor in winter.",
+    "options": [
+      "why Korean houses were built with large windows facing south in the old days",
+      "how ondol heats Korean homes through the floor",
+      "where stones for traditional floors were collected in the mountains",
+      "what kinds of food were cooked on the kitchen fire in the winter",
+      "when modern pipes were first invented by engineers in foreign countries"
+    ],
+    "answer": 1,
+    "translation": "전통 한국 집은 바닥 난방 방식인 온돌을 사용했다. 부엌 불에서 나온 뜨거운 연기가 돌바닥 아래의 통로를 지나며 방을 아래에서 데웠다. 열은 위로 올라가므로 방 전체가 따뜻해졌고 돌바닥은 불이 꺼진 뒤에도 몇 시간 동안 열을 간직했다. 온돌은 같은 불을 요리와 난방 모두에 쓰기 때문에 효율적이었다. 오늘날 현대 주택은 연기 대신 온수 배관을 쓰지만 기본 원리는 같다. 많은 외국인이 겨울의 따뜻한 바닥이 주는 편안함에 감동한다.",
+    "why": "온돌이 바닥을 통해 집을 데우는 방식을 설명합니다.",
+    "optionNotes": [
+      "남향 창은 나오지 않습니다.",
+      "정답. 온돌이 바닥으로 난방하는 방식입니다.",
+      "돌의 채취지는 나오지 않습니다.",
+      "요리 메뉴는 나오지 않습니다.",
+      "배관의 발명 시기는 나오지 않습니다."
+    ],
+    "trap": "'kitchen fire'가 나온다고 요리(④)로 확대하지 마세요.",
+    "tip": "주제는 반복되는 핵심(ondol, floor, heat)을 묶어 찾으세요."
+  },
+  {
+    "id": "m2b-07-24",
+    "level": "m2",
+    "set": "mock-07",
+    "no": 24,
+    "type": "title",
+    "stem": "다음 글의 제목으로 가장 적절한 것은?",
+    "passage": "Japan has about four million vending machines, which means there is roughly one for every thirty people. They sell not only drinks and snacks but also umbrellas, fresh eggs, and even hot meals. Many machines are placed in remote areas, so travelers can buy a warm can of coffee on a cold mountain road. Companies keep them clean and filled even in bad weather. The machines also serve people who work late at night, when shops are closed. Their convenience shows how technology can fit into everyday life in a natural way.",
+    "options": [
+      "Why Japanese Students Never Get Hungry During Long School Days",
+      "How to Repair a Broken Vending Machine Without Any Special Tools",
+      "The Secret History of Coffee Beans Grown on Remote Mountain Roads",
+      "Japan's Vending Machines: Convenience on Every Corner",
+      "Ten Rules for Keeping Cities Clean and Free of All Kinds of Trash"
+    ],
+    "answer": 3,
+    "translation": "일본에는 약 사백만 대의 자동판매기가 있는데 이는 대략 서른 명당 한 대라는 뜻이다. 그것들은 음료와 간식뿐 아니라 우산, 신선한 달걀, 심지어 따뜻한 식사까지 판다. 많은 기계가 외진 곳에 놓여 있어서 여행자는 추운 산길에서 따뜻한 캔 커피를 살 수 있다. 회사들은 나쁜 날씨에도 기계를 깨끗하고 가득 채워 둔다. 기계는 또한 가게가 닫힌 밤늦게 일하는 사람들에게도 도움이 된다. 그 편리함은 기술이 일상생활에 어떻게 어우러질 수 있는지를 보여 준다.",
+    "why": "다양한 물건을 파는 일본의 자동판매기가 모퉁이마다 편리함을 준다는 내용이므로 ④가 제목입니다.",
+    "optionNotes": [
+      "학생의 배고픔은 나오지 않습니다.",
+      "수리법은 나오지 않습니다.",
+      "커피콩의 역사는 나오지 않습니다.",
+      "정답. 일본 자동판매기의 편리함입니다.",
+      "도시 청결 규칙은 나오지 않습니다."
+    ],
+    "trap": "'coffee'와 'mountain road'가 나온다고 커피콩(③)으로 확대하지 마세요.",
+    "tip": "제목은 핵심 소재(vending machines)와 특징(convenience)을 함께 담으세요."
+  },
+  {
+    "id": "m2b-07-25",
+    "level": "m2",
+    "set": "mock-07",
+    "no": 25,
+    "type": "chart",
+    "stem": "다음 도표의 내용과 일치하지 않는 것은?",
+    "chart": {
+      "title": "Number of Visitors to a City Park by Month",
+      "unit": "",
+      "labels": [
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul"
+      ],
+      "series": [
+        {
+          "name": "Visitors",
+          "values": [
+            1200,
+            1800,
+            2400,
+            3000,
+            2100
+          ]
+        }
+      ]
+    },
+    "passage": "The graph shows the number of visitors to a city park by month. ① June has the most visitors. ② The number of visitors in May is 600 more than in April. ③ The number of visitors in July is 600 more than in April. ④ March has the fewest visitors. ⑤ The number of visitors in June is 900 more than in July.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "그래프는 한 도시 공원의 월별 방문객 수를 보여 준다. ① 6월에 방문객이 가장 많다. ② 5월의 방문객 수는 4월보다 600명 많다. ③ 7월의 방문객 수는 4월보다 600명 많다. ④ 3월에 방문객이 가장 적다. ⑤ 6월의 방문객 수는 7월보다 900명 많다.",
+    "why": "7월은 2,100명, 4월은 1,800명으로 300명 차이이므로 ③은 일치하지 않습니다.",
+    "optionNotes": [
+      "6월이 3,000명으로 가장 많습니다.",
+      "2,400 - 1,800 = 600명입니다.",
+      "정답(불일치). 2,100 - 1,800 = 300명입니다.",
+      "3월이 1,200명으로 가장 적습니다.",
+      "3,000 - 2,100 = 900명입니다."
+    ],
+    "trap": "세 자릿수 차이는 직접 계산하지 않으면 틀리기 쉽습니다.",
+    "tip": "차이를 나타내는 표현은 두 값을 직접 빼서 확인하세요."
+  },
+  {
+    "id": "m2b-07-26",
+    "level": "m2",
+    "set": "mock-07",
+    "no": 26,
+    "type": "match",
+    "stem": "Maria Montessori에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Maria Montessori was born in Italy in 1870 and became one of the first women in the country to earn a medical degree. At first, she worked with children who had learning difficulties and noticed that they learned best by touching and using real objects. In 1907, she opened a school in Rome called the Casa dei Bambini, or Children's House. There, she provided child-sized furniture and let children choose their own activities. She believed that children learn most effectively when they follow their own interests. Her method spread around the world, and thousands of Montessori schools exist today.",
+    "options": [
+      "영국에서 태어났으며 교사 자격증을 받는 것으로 학업을 끝냈다.",
+      "아이들이 만지지 못하게 하고 듣기만 하도록 수업을 진행했다.",
+      "어른용 가구를 그대로 쓰도록 하여 아이들이 빨리 적응하게 했다.",
+      "그녀의 교육 방법은 오늘날 이탈리아에서만 쓰이고 있다.",
+      "1907년 로마에 아이들이 스스로 활동을 고르는 학교를 열었다."
+    ],
+    "answer": 4,
+    "translation": "마리아 몬테소리는 1870년 이탈리아에서 태어났고 그 나라에서 의학 학위를 받은 최초의 여성 중 한 명이 되었다. 처음에 그녀는 학습 곤란이 있는 아이들과 일했고 아이들이 만지고 실제 물건을 사용할 때 가장 잘 배운다는 것을 알아챘다. 1907년 그녀는 로마에 '어린이의 집'이라는 뜻의 카사 데이 밤비니라는 학교를 열었다. 그곳에서 그녀는 아이 크기의 가구를 제공했고 아이들이 스스로 활동을 고르게 했다. 그녀는 아이들이 자신의 관심을 따를 때 가장 효과적으로 배운다고 믿었다. 그녀의 방법은 전 세계로 퍼졌고 오늘날 수천 개의 몬테소리 학교가 있다.",
+    "why": "'In 1907, she opened a school in Rome ~ let children choose their own activities.'와 일치합니다.",
+    "optionNotes": [
+      "이탈리아에서 태어나 의학 학위를 받았습니다.",
+      "만지고 실제 물건을 쓰는 것을 중시했습니다.",
+      "아이 크기의 가구를 제공했습니다.",
+      "전 세계로 퍼졌습니다.",
+      "정답. 1907년 로마에 학교를 열었습니다."
+    ],
+    "trap": "출생 국가(이탈리아)와 학교를 연 도시(로마)를 혼동하지 마세요.",
+    "tip": "일치 문제는 연도·장소·방법을 하나씩 대조하세요."
+  },
+  {
+    "id": "m2b-07-27",
+    "level": "m2",
+    "set": "mock-07",
+    "no": 27,
+    "type": "notice",
+    "stem": "Used Book Market에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Hanbit Used Book Market\nDate: Saturday, April 12, 10 a.m. - 3 p.m.\nPlace: Hanbit Park, near the fountain\nSellers: Students may sell up to 20 books. Each seller should register online by April 5.\nPrices: Sellers choose their own prices, from 1 to 5 dollars per book.\nSpecial: Students who bring five or more books to donate will receive a free bookmark.\nNotice: If it rains, the market will be held in the school gym.\nContact: 02-345-6789",
+    "options": [
+      "판매자는 책을 서른 권까지 팔 수 있다.",
+      "모든 책의 가격은 3달러로 정해져 있다.",
+      "비가 오면 시장은 학교 체육관에서 열린다.",
+      "기부하는 학생에게만 책 한 권을 선물로 준다.",
+      "행사는 일요일 오전에 한 번만 열린다."
+    ],
+    "answer": 2,
+    "translation": "한빛 중고 책 시장. 일시: 4월 12일 토요일 오전 10시~오후 3시. 장소: 분수 근처 한빛 공원. 판매자: 학생은 책을 20권까지 팔 수 있습니다. 판매자는 4월 5일까지 온라인으로 등록해야 합니다. 가격: 판매자가 한 권당 1~5달러 중에서 직접 가격을 정합니다. 특별: 기부할 책을 다섯 권 이상 가져오는 학생은 책갈피를 무료로 받습니다. 유의: 비가 오면 시장은 학교 체육관에서 열립니다. 문의: 02-345-6789.",
+    "why": "'If it rains, the market will be held in the school gym.'과 일치합니다.",
+    "optionNotes": [
+      "20권까지 팔 수 있습니다.",
+      "판매자가 1~5달러 중에서 직접 정합니다.",
+      "정답. 비가 오면 체육관에서 열립니다.",
+      "책을 다섯 권 이상 기부하면 책갈피를 줍니다.",
+      "행사는 토요일입니다."
+    ],
+    "trap": "기부 혜택(책갈피)과 책 선물을 혼동하지 마세요.",
+    "tip": "안내문의 Sellers, Prices, Special 항목을 하나씩 대조하세요."
+  },
+  {
+    "id": "m2b-07-28",
+    "level": "m2",
+    "set": "mock-07",
+    "no": 28,
+    "type": "notice",
+    "stem": "Swimming Lessons에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Hanbit Swimming Lessons for Beginners\nFor: Children aged 8 - 12 who cannot swim yet\nSchedule: Tuesdays and Thursdays, 4 p.m. - 5 p.m., from May 6 to June 26 (16 lessons)\nPlace: Hanbit Sports Center indoor pool\nClass size: 8 students per class\nFee: $120 for all 16 lessons. Swim caps are provided free of charge.\nRegistration: Online or at the center by April 25. Payment is due at registration.\nNote: Students must bring their own swimsuit and towel. Parents may watch from the viewing area.",
+    "options": [
+      "수업은 월요일과 수요일 오후에 열린다.",
+      "신청은 센터에 직접 방문해서만 할 수 있다.",
+      "수강료는 첫 수업 날에 내면 된다.",
+      "수영 모자는 무료이지만 수영복과 수건은 가져와야 한다.",
+      "학부모는 수영장 안에서 아이를 가까이 지켜볼 수 있다."
+    ],
+    "answer": 3,
+    "translation": "한빛 초보자 수영 강습. 대상: 아직 수영을 못 하는 8~12세 어린이. 일정: 5월 6일부터 6월 26일까지 매주 화요일과 목요일 오후 4시~5시(16회). 장소: 한빛 스포츠센터 실내 수영장. 정원: 반당 8명. 수강료: 16회 전체 120달러. 수영 모자는 무료로 제공. 등록: 4월 25일까지 온라인 또는 센터 방문. 납부는 등록할 때. 유의: 수영복과 수건은 직접 가져와야 합니다. 학부모는 관람석에서 볼 수 있습니다.",
+    "why": "'Swim caps are provided free ~ Students must bring their own swimsuit and towel.'과 일치합니다.",
+    "optionNotes": [
+      "화요일과 목요일입니다.",
+      "온라인 또는 방문으로 신청할 수 있습니다.",
+      "납부는 등록할 때 합니다.",
+      "정답. 모자는 무료, 수영복과 수건은 직접 준비합니다.",
+      "학부모는 관람석에서 볼 수 있습니다."
+    ],
+    "trap": "등록(4월 25일)과 수업 시작(5월 6일)의 날짜를 혼동하지 마세요.",
+    "tip": "안내문의 Fee, Registration, Note 항목을 하나씩 대조하세요."
+  }
+]
