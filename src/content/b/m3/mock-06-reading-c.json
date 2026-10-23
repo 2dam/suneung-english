@@ -1,0 +1,147 @@
+[
+  {
+    "id": "m3b-06-41",
+    "level": "m3",
+    "set": "mock-06",
+    "no": 41,
+    "type": "long",
+    "group": "m3b-06-g41",
+    "stem": "[41~42] 윗글의 제목으로 가장 적절한 것을 고르시오.",
+    "passage": "Today, the number zero seems so natural that we rarely think about it. For most of history, however, the idea of treating \"nothing\" as a number seemed {1|sensible}, and many cultures had no symbol for it at all. In ancient Rome, for example, numbers were written with letters, and calculations were slow and difficult. In India, mathematicians in the fifth century began to use a dot or a small circle as a placeholder, and later they {2|treated} zero as a number with its own rules. Arab scholars learned this system and {3|spread} it to Europe, where merchants at first distrusted it because it could be easily altered to change the value of a payment. Gradually, however, people realized that the new system made calculations far simpler than Roman numerals. Today, zero is essential to everything from banking to computer science. Without it, modern mathematics and technology would have been {4|impossible}. The story of zero shows that great ideas often {5|face} strong resistance before they are finally accepted.",
+    "options": [
+      "How Merchants in Ancient Rome Calculated the Prices of Their Goods",
+      "From Nothing to Everything: The Long Journey of the Number Zero",
+      "Why Arab Scholars Refused to Share Their Mathematics with Europe",
+      "The Easiest Methods for Teaching Roman Numerals to Young Children",
+      "A Complete Guide to Using Calculators in Banking and Computer Science"
+    ],
+    "answer": 1,
+    "translation": "오늘날 숫자 0은 너무 자연스러워서 우리는 그것에 대해 거의 생각하지 않는다. 그러나 역사의 대부분 동안 \"아무것도 없음\"을 숫자로 다룬다는 생각은 합리적으로 보였고 많은 문화에는 그것을 나타내는 기호가 전혀 없었다. 예를 들어 고대 로마에서는 숫자를 문자로 썼고 계산은 느리고 어려웠다. 인도에서는 5세기 수학자들이 점이나 작은 원을 자리 표시로 쓰기 시작했고 나중에는 0을 자체 규칙을 가진 숫자로 다루었다. 아랍 학자들은 이 체계를 배워 유럽으로 퍼뜨렸는데 유럽에서 상인들은 처음에 그것이 지불 금액의 가치를 바꾸도록 쉽게 고쳐질 수 있어서 불신했다. 그러나 점차 사람들은 새 체계가 로마 숫자보다 계산을 훨씬 간단하게 만든다는 것을 깨달았다. 오늘날 0은 은행업부터 컴퓨터 과학까지 모든 것에 필수적이다. 그것이 없었다면 현대 수학과 기술은 불가능했을 것이다. 0의 이야기는 위대한 아이디어가 마침내 받아들여지기 전에 흔히 강한 저항에 부딪힌다는 것을 보여 준다.",
+    "why": "기호가 없던 0이 여러 문화를 거쳐 받아들여지고 필수가 된 긴 과정을 다루므로 ②가 제목입니다.",
+    "optionNotes": [
+      "로마 상인의 계산은 일부 배경일 뿐입니다.",
+      "정답. 0이 받아들여진 긴 여정입니다.",
+      "아랍 학자가 공유를 거부했다는 내용은 글과 반대입니다.",
+      "로마 숫자 교육법은 나오지 않습니다.",
+      "계산기 사용법은 나오지 않습니다."
+    ],
+    "trap": "'Roman numerals'가 나온다고 로마 숫자(④)나 로마 상인(①)으로 확대하지 마세요.",
+    "tip": "제목은 글 전체의 흐름(기원 → 전파 → 수용)을 담으세요."
+  },
+  {
+    "id": "m3b-06-42",
+    "level": "m3",
+    "set": "mock-06",
+    "no": 42,
+    "type": "long",
+    "group": "m3b-06-g41",
+    "stem": "[41~42] 밑줄 친 ①~⑤ 중에서 문맥상 낱말의 쓰임이 적절하지 않은 것을 고르시오.",
+    "passage": "Today, the number zero seems so natural that we rarely think about it. For most of history, however, the idea of treating \"nothing\" as a number seemed {1|sensible}, and many cultures had no symbol for it at all. In ancient Rome, for example, numbers were written with letters, and calculations were slow and difficult. In India, mathematicians in the fifth century began to use a dot or a small circle as a placeholder, and later they {2|treated} zero as a number with its own rules. Arab scholars learned this system and {3|spread} it to Europe, where merchants at first distrusted it because it could be easily altered to change the value of a payment. Gradually, however, people realized that the new system made calculations far simpler than Roman numerals. Today, zero is essential to everything from banking to computer science. Without it, modern mathematics and technology would have been {4|impossible}. The story of zero shows that great ideas often {5|face} strong resistance before they are finally accepted.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "(41번 지문과 같은 글입니다.)",
+    "why": "많은 문화에 0의 기호가 없었다고 했으므로 아무것도 없음을 숫자로 다루는 생각은 '합리적으로(sensible)'가 아니라 '이상하게(strange)' 보였어야 합니다.",
+    "optionNotes": [
+      "정답(부적절). 기호가 없었으므로 strange여야 합니다.",
+      "0을 숫자로 다루었다는 의미로 treated가 알맞습니다.",
+      "유럽으로 퍼뜨렸다는 의미로 spread가 알맞습니다.",
+      "없었다면 불가능했다는 의미로 impossible이 알맞습니다.",
+      "저항에 부딪힌다는 의미로 face가 알맞습니다."
+    ],
+    "trap": "'many cultures had no symbol for it'가 부정적 평가를 가리킨다는 점을 놓치기 쉽습니다.",
+    "tip": "뒤 절(had no symbol)과 형용사의 방향이 일치하는지 확인하세요."
+  },
+  {
+    "id": "m3b-06-43",
+    "level": "m3",
+    "set": "mock-06",
+    "no": 43,
+    "type": "long",
+    "group": "m3b-06-g43",
+    "stem": "[43~45] 주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것을 고르시오.",
+    "passage": "(A) Seoyeon sang in the school choir, and {1|she} had been practicing for weeks for the spring concert. On the morning of the performance, however, she woke up with a sore throat and a terrible feeling that she would ruin everything.\n(B) That afternoon, Seoyeon stood on the stage with trembling knees. When the music began, {2|she} took a deep breath and remembered her grandfather's words. Her voice was a little rough at the beginning, but it grew stronger with every line, and soon she forgot her fear.\n(C) At breakfast, her grandfather noticed her worried face. {3|He} put down his spoon and told her about the time when he had forgotten his lines in front of a hundred people. \"I laughed at myself, and the audience laughed with me,\" he said. \"A mistake is only a disaster if you let it stop you.\"\n(D) At the end of the concert, the audience stood and applauded for a long time. Seoyeon looked for her grandfather in the crowd and found him smiling in the third row. {4|She} waved at him, and {5|she} mouthed the words, \"Thank you.\"",
+    "options": [
+      "(B)-(D)-(C)",
+      "(C)-(B)-(D)",
+      "(C)-(D)-(B)",
+      "(D)-(B)-(C)",
+      "(D)-(C)-(B)"
+    ],
+    "answer": 1,
+    "translation": "(A) 서연은 학교 합창단에서 노래했고 봄 연주회를 위해 몇 주 동안 연습해 왔다. 그러나 공연 날 아침 그녀는 목이 아프고 모든 것을 망칠 것 같은 끔찍한 느낌으로 잠에서 깼다. (C) 아침 식사 때 할아버지가 그녀의 걱정스러운 얼굴을 알아챘다. 그는 숟가락을 내려놓고 백 명 앞에서 대사를 잊었던 때의 이야기를 들려주었다. \"나는 내 자신을 비웃었고 관객도 나와 함께 웃었단다.\" 하고 그가 말했다. \"실수는 그것이 너를 멈추게 놔둘 때만 재앙이란다.\" (B) 그날 오후 서연은 무릎을 떨며 무대에 섰다. 음악이 시작되자 그녀는 숨을 깊이 들이쉬고 할아버지의 말씀을 떠올렸다. 처음에는 목소리가 약간 거칠었지만 한 줄 한 줄 더 강해졌고 곧 그녀는 두려움을 잊었다. (D) 연주회가 끝나자 관객은 일어나 오랫동안 박수를 쳤다. 서연은 관객 속에서 할아버지를 찾았고 세 번째 줄에서 미소 짓는 그를 발견했다. 그녀는 그에게 손을 흔들었고 \"고맙습니다.\"라고 입 모양으로 말했다.",
+    "why": "(A) 공연 날 아침의 걱정 → (C) 아침 식사 때 할아버지의 조언 → (B) 오후 무대에서 조언을 떠올림 → (D) 공연 후 감사 순서입니다.",
+    "optionNotes": [
+      "(B)의 무대가 아침의 걱정 직후에 올 수 없고 조언이 먼저입니다.",
+      "정답. 조언 → 무대 → 공연 후 감사.",
+      "(D)의 공연 후 장면이 무대 전에 올 수 없습니다.",
+      "(D)가 처음에 오면 공연이 끝난 뒤에 걱정이 나오게 됩니다.",
+      "(D)가 (B)보다 앞서면 공연이 끝난 뒤에 무대 장면이 나옵니다."
+    ],
+    "trap": "(B)의 'her grandfather's words'는 (C)에서 들은 조언을 가리킵니다.",
+    "tip": "'her grandfather's words'처럼 앞에서 나온 내용을 받는 표현으로 순서를 잡으세요."
+  },
+  {
+    "id": "m3b-06-44",
+    "level": "m3",
+    "set": "mock-06",
+    "no": 44,
+    "type": "long",
+    "group": "m3b-06-g43",
+    "stem": "[43~45] 밑줄 친 ①~⑤ 중에서 가리키는 대상이 나머지 넷과 다른 것을 고르시오.",
+    "passage": "(A) Seoyeon sang in the school choir, and {1|she} had been practicing for weeks for the spring concert. On the morning of the performance, however, she woke up with a sore throat and a terrible feeling that she would ruin everything.\n(B) That afternoon, Seoyeon stood on the stage with trembling knees. When the music began, {2|she} took a deep breath and remembered her grandfather's words. Her voice was a little rough at the beginning, but it grew stronger with every line, and soon she forgot her fear.\n(C) At breakfast, her grandfather noticed her worried face. {3|He} put down his spoon and told her about the time when he had forgotten his lines in front of a hundred people. \"I laughed at myself, and the audience laughed with me,\" he said. \"A mistake is only a disaster if you let it stop you.\"\n(D) At the end of the concert, the audience stood and applauded for a long time. Seoyeon looked for her grandfather in the crowd and found him smiling in the third row. {4|She} waved at him, and {5|she} mouthed the words, \"Thank you.\"",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "③의 He는 숟가락을 내려놓고 이야기를 들려준 할아버지이고, 나머지 ①②④⑤는 모두 서연을 가리킵니다.",
+    "optionNotes": [
+      "she는 합창 연습을 한 서연입니다.",
+      "she는 숨을 깊이 들이쉰 서연입니다.",
+      "정답. He는 이야기를 들려준 할아버지입니다.",
+      "She는 손을 흔든 서연입니다.",
+      "she는 입 모양으로 감사를 전한 서연입니다."
+    ],
+    "trap": "(C)에서 Seoyeon과 grandfather가 번갈아 나오므로 성별(he/she)로 구분하세요.",
+    "tip": "성별과 동작의 주체(put down his spoon)를 함께 확인하세요."
+  },
+  {
+    "id": "m3b-06-45",
+    "level": "m3",
+    "set": "mock-06",
+    "no": 45,
+    "type": "long",
+    "group": "m3b-06-g43",
+    "stem": "[43~45] 윗글에 관한 내용으로 적절하지 않은 것을 고르시오.",
+    "passage": "(A) Seoyeon sang in the school choir, and {1|she} had been practicing for weeks for the spring concert. On the morning of the performance, however, she woke up with a sore throat and a terrible feeling that she would ruin everything.\n(B) That afternoon, Seoyeon stood on the stage with trembling knees. When the music began, {2|she} took a deep breath and remembered her grandfather's words. Her voice was a little rough at the beginning, but it grew stronger with every line, and soon she forgot her fear.\n(C) At breakfast, her grandfather noticed her worried face. {3|He} put down his spoon and told her about the time when he had forgotten his lines in front of a hundred people. \"I laughed at myself, and the audience laughed with me,\" he said. \"A mistake is only a disaster if you let it stop you.\"\n(D) At the end of the concert, the audience stood and applauded for a long time. Seoyeon looked for her grandfather in the crowd and found him smiling in the third row. {4|She} waved at him, and {5|she} mouthed the words, \"Thank you.\"",
+    "options": [
+      "서연은 봄 연주회를 위해 몇 주 동안 합창 연습을 했고 공연 날 목이 아파서 걱정했다.",
+      "할아버지는 예전에 백 명 앞에서 대사를 잊었을 때 자신을 비웃었다는 이야기를 들려주었다.",
+      "서연은 무대에서 처음에는 목소리가 거칠었지만 점점 더 강해졌다.",
+      "서연은 연주회가 시작되자 무대에서 도망쳐 노래하지 않았다.",
+      "연주회가 끝난 뒤 서연은 세 번째 줄의 할아버지께 입 모양으로 감사 인사를 전했다."
+    ],
+    "answer": 3,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "서연은 할아버지의 말씀을 떠올리고 끝까지 노래했으므로 무대에서 도망쳐 노래하지 않았다는 ④는 일치하지 않습니다.",
+    "optionNotes": [
+      "practicing for weeks, sore throat과 일치합니다.",
+      "I laughed at myself와 일치합니다.",
+      "it grew stronger with every line과 일치합니다.",
+      "정답(불일치). 서연은 끝까지 노래했습니다.",
+      "mouthed the words, Thank you와 일치합니다."
+    ],
+    "trap": "무대에서 다리가 떨렸다는 내용을 도망쳤다는 뜻으로 오해하지 마세요.",
+    "tip": "불일치 문제는 인물의 행동(끝까지 노래함)을 반대로 바꾼 보기를 찾으세요."
+  }
+]

@@ -1,0 +1,333 @@
+[
+  {
+    "id": "m3b-06-18",
+    "level": "m3",
+    "set": "mock-06",
+    "no": 18,
+    "type": "purpose",
+    "stem": "다음 글의 목적으로 가장 적절한 것은?",
+    "passage": "To the Editor:\nMy name is Hana Lim, and I am a ninth-grade student at Hanbit Middle School. I am writing about the article \"Our School's Greatest Moments,\" which appeared in last week's issue of the school newspaper. The article states that our school's robotics team won first place in the national contest. In fact, the team won second place, and first place went to Daehan Middle School. As a proud member of the team, I know how hard everyone worked for this result, and I believe that it is important to report it accurately. I would appreciate it if you could publish a correction in the next issue. Thank you for your attention to this matter.\nSincerely,\nHana Lim",
+    "options": [
+      "로봇 동아리의 전국 대회 참가자를 새로 모집한다고 알리려고",
+      "학교 신문 편집부에 기자로 지원하고 싶다고 밝히려고",
+      "대회의 심사 기준이 공정하지 않았다고 항의하려고",
+      "학교 신문을 정기적으로 구독하는 방법을 문의하려고",
+      "지난 호 기사의 오류를 바로잡아 달라고 요청하려고"
+    ],
+    "answer": 4,
+    "translation": "편집자님께. 제 이름은 임하나이고 한빛중학교 3학년 학생입니다. 지난주 학교 신문에 실린 기사 \"우리 학교의 가장 빛나는 순간\"에 관해 씁니다. 기사는 우리 학교 로봇 동아리가 전국 대회에서 1등을 했다고 말합니다. 사실 팀은 2등을 했고 1등은 대한중학교에 돌아갔습니다. 팀원으로서 저는 모두가 이 결과를 위해 얼마나 열심히 노력했는지 알고 있으며 정확하게 보도하는 것이 중요하다고 믿습니다. 다음 호에 정정 기사를 실어 주시면 감사하겠습니다. 이 문제에 관심 가져 주셔서 감사합니다. 임하나 드림.",
+    "why": "기사에서 1등이라고 잘못 쓴 내용을 바로잡는 정정 기사를 실어 달라고 요청하는 글입니다.",
+    "optionNotes": [
+      "참가자 모집은 나오지 않습니다.",
+      "기자 지원은 나오지 않습니다.",
+      "심사 기준 항의가 아닙니다.",
+      "구독 문의는 나오지 않습니다.",
+      "정답. 기사의 오류 정정을 요청합니다."
+    ],
+    "trap": "'robotics team'과 'contest'가 나온다고 동아리 모집(①)으로 착각하지 마세요.",
+    "tip": "목적 문제는 'I would appreciate it if you could ~' 같은 요청 문장을 찾으세요."
+  },
+  {
+    "id": "m3b-06-19",
+    "level": "m3",
+    "set": "mock-06",
+    "no": 19,
+    "type": "mood",
+    "stem": "다음 글에 드러난 Joon의 심경 변화로 가장 적절한 것은?",
+    "passage": "Joon had been playing chess since he was seven, and he walked into the regional tournament as if the trophy already belonged to him. In the first round, his opponent was a small boy of about ten, whom Joon barely looked at. Within twenty minutes, however, Joon's queen was gone, and a few moves later he heard the quiet words, \"Checkmate.\" His face turned red, and his hands felt cold. He shook the boy's hand and walked out of the room in silence. On the bus home, he replayed every move in his head. By the time he reached his stop, he had decided to study the game again from the beginning, and he even smiled when he thought of the boy's clever opening.",
+    "options": [
+      "cheerful and relaxed → bored and sleepy",
+      "overconfident and carefree → shocked, then humble and eager to learn",
+      "nervous and shy → proud and delighted",
+      "curious and excited → envious and bitter",
+      "calm and satisfied → frightened and lonely"
+    ],
+    "answer": 1,
+    "translation": "준은 일곱 살 때부터 체스를 두어 왔고 우승 트로피가 이미 자기 것인 양 지역 대회에 들어섰다. 1회전에서 그의 상대는 열 살쯤 된 작은 소년이었고 준은 그를 거의 쳐다보지도 않았다. 그러나 이십 분 만에 준의 퀸이 사라졌고 몇 수 뒤 그는 조용한 \"체크메이트.\"라는 말을 들었다. 그의 얼굴은 빨개졌고 손은 차가워졌다. 그는 소년과 악수하고 말없이 방을 나왔다. 집으로 가는 버스에서 그는 머릿속으로 모든 수를 되짚었다. 내릴 정류장에 도착할 즈음 그는 이 게임을 처음부터 다시 공부하기로 결심했고 소년의 영리한 초반 수를 떠올리며 웃기까지 했다.",
+    "why": "처음에는 자만하고 여유로웠지만(overconfident and carefree), 패배에 충격을 받은 뒤 겸손해져 배우려는 마음을 먹었습니다(shocked, then humble and eager to learn).",
+    "optionNotes": [
+      "명랑함에서 지루함이 아닙니다.",
+      "정답. 자만에서 충격, 그리고 겸손과 배우려는 의지로 변했습니다.",
+      "긴장과 수줍음에서 기쁨이 아닙니다.",
+      "호기심에서 시기가 아닙니다.",
+      "만족에서 두려움이 아닙니다."
+    ],
+    "trap": "마지막에 웃는 모습을 단순한 기쁨으로 해석하지 말고 배우려는 의지와 연결하세요.",
+    "tip": "전환 신호(however, On the bus home)를 기준으로 감정 변화의 단계를 정리하세요."
+  },
+  {
+    "id": "m3b-06-20",
+    "level": "m3",
+    "set": "mock-06",
+    "no": 20,
+    "type": "claim",
+    "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+    "passage": "Many companies still require employees to work five days a week, but a growing number of experiments suggest that a four-day workweek can be better for everyone. In a trial involving more than sixty companies, employees who worked four days with no cut in pay reported less stress and better sleep. These results surprised many business leaders around the world. Surprisingly, productivity did not fall, and in some cases it increased, because workers used their time more carefully and avoided unnecessary meetings. Companies also benefited: fewer workers quit, and the cost of hiring new staff dropped. Critics worry about customer service, but the trial showed that careful scheduling can solve the problem. Therefore, companies should consider adopting a four-day workweek.",
+    "options": [
+      "직원들의 월급을 줄이는 대신 근무일을 더 늘려서 생산성을 높여야 한다.",
+      "기업은 주 4일 근무제를 도입하는 것을 진지하게 고려해야 한다.",
+      "불필요한 회의를 없애려면 모든 직원의 근무를 재택으로 바꿔야 한다.",
+      "고객 서비스를 위해 모든 가게는 일주일 내내 문을 열어야 한다.",
+      "직장인의 수면 시간은 법으로 정해서 엄격하게 관리해야 한다."
+    ],
+    "answer": 1,
+    "translation": "많은 기업이 여전히 직원에게 주 5일 근무를 요구하지만 점점 늘어나는 실험들은 주 4일 근무가 모두에게 더 나을 수 있음을 시사한다. 육십 개가 넘는 기업이 참여한 시험에서 임금 삭감 없이 나흘을 일한 직원들은 스트레스가 적고 잠을 더 잘 잔다고 보고했다. 이 결과는 전 세계의 많은 경영자를 놀라게 했다. 놀랍게도 생산성은 떨어지지 않았고 어떤 경우에는 올랐는데 직원들이 시간을 더 신중하게 쓰고 불필요한 회의를 피했기 때문이다. 기업도 이익을 얻었다. 그만두는 직원이 줄었고 새 직원을 채용하는 비용이 줄었다. 비판하는 이들은 고객 서비스를 걱정하지만 시험은 신중한 일정 조정으로 그 문제를 해결할 수 있음을 보여 주었다. 그러므로 기업은 주 4일 근무제 도입을 고려해야 한다.",
+    "why": "마지막 문장 'companies should consider adopting a four-day workweek'가 주장입니다.",
+    "optionNotes": [
+      "임금 삭감과 근무일 증가는 글과 반대입니다.",
+      "정답. 주 4일 근무제를 진지하게 고려해야 합니다.",
+      "재택 근무는 나오지 않습니다.",
+      "주 7일 영업은 나오지 않습니다.",
+      "수면 시간의 법적 관리는 나오지 않습니다."
+    ],
+    "trap": "앞부분의 현상(주 5일 요구)을 주장으로 착각하지 마세요.",
+    "tip": "Therefore 문장이 필자의 주장입니다."
+  },
+  {
+    "id": "m3b-06-21",
+    "level": "m3",
+    "set": "mock-06",
+    "no": 21,
+    "type": "implied",
+    "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "passage": "Social media has changed how small businesses find customers. Mina, who runs a tiny bakery, posted a photo of her strawberry cake last spring, and within a week, orders came from all over the city. However, the same attention brought problems. One angry customer wrote a harsh review after a delivery was delayed, and many people read it before Mina could respond. She realized that the online world can bring both fame and criticism very quickly. Looking back, she describes social media as {u|a double-edged sword}: it helped her business grow, but it also required constant care.",
+    "options": [
+      "a tool that is used only by soldiers who are fighting in a battle",
+      "a useful object that never breaks even after many years of use",
+      "a danger that appears only when people use it carelessly late at night",
+      "something that can bring both benefits and harm at the same time",
+      "a weapon that is kept in a museum so that visitors can see it"
+    ],
+    "answer": 3,
+    "translation": "소셜 미디어는 작은 사업체가 고객을 찾는 방식을 바꾸었다. 작은 빵집을 운영하는 미나는 지난봄 딸기 케이크 사진을 올렸고 일주일 만에 도시 곳곳에서 주문이 들어왔다. 그러나 같은 관심은 문제도 가져왔다. 배달이 늦어진 뒤 한 화난 고객이 가혹한 후기를 썼고 미나가 대응하기 전에 많은 사람이 그것을 읽었다. 그녀는 온라인 세계가 명성과 비난을 아주 빨리 함께 가져올 수 있음을 깨달았다. 돌이켜 보며 그녀는 소셜 미디어를 양날의 칼이라고 설명한다. 사업이 커지도록 도왔지만 끊임없는 관리도 필요로 했다.",
+    "why": "사업 성장과 가혹한 후기라는 장점과 단점이 함께 있었으므로 'a double-edged sword'는 이로움과 해로움을 함께 가져오는 것을 뜻합니다.",
+    "optionNotes": [
+      "문자 그대로 병사의 도구가 아닙니다.",
+      "고장 나지 않는 물건이라는 뜻이 아닙니다.",
+      "밤에만 위험하다는 뜻이 아닙니다.",
+      "정답. 이로움과 해로움을 함께 가져옵니다.",
+      "박물관의 무기라는 뜻이 아닙니다."
+    ],
+    "trap": "'sword'를 문자 그대로 무기로 해석하지 마세요.",
+    "tip": "관용 표현은 뒤의 콜론 설명(helped ~, but also required ~)에서 의미를 추론하세요."
+  },
+  {
+    "id": "m3b-06-22",
+    "level": "m3",
+    "set": "mock-06",
+    "no": 22,
+    "type": "gist",
+    "stem": "다음 글의 요지로 가장 적절한 것은?",
+    "passage": "Every January, millions of people make resolutions, such as exercising more or learning a language, yet most of them have given up by February. This is a very common experience. Psychologists argue that the problem lies in how the goals are set. A vague goal like \"I will exercise more\" leaves too many decisions to the moment, when we are tired or busy. In contrast, a specific plan, such as \"I will run for twenty minutes at the park after dinner on Mondays and Thursdays,\" links the action to a time and a place. In studies, people who made such plans were two to three times more likely to follow through. A good plan removes the need to decide again and again.",
+    "options": [
+      "막연한 결심보다 언제 어디서 무엇을 할지 구체적으로 계획해야 실천하기 쉽다.",
+      "새해 결심은 의지가 강한 사람만 지킬 수 있으므로 아주 쉬운 목표만 세워야 한다.",
+      "운동의 효과를 보려면 반드시 월요일과 목요일 저녁에 공원에서 달려야 한다.",
+      "목표를 이루지 못했을 때는 스스로를 엄격하게 꾸짖는 것이 실천에 도움이 된다.",
+      "한 번에 많은 결심을 세울수록 그중 하나라도 지킬 가능성이 커진다."
+    ],
+    "answer": 0,
+    "translation": "매년 1월에 수백만 명이 더 많이 운동하기나 언어 배우기 같은 결심을 하지만 대부분 2월이 되면 포기한다. 이것은 매우 흔한 경험이다. 심리학자들은 문제가 목표를 세우는 방식에 있다고 주장한다. \"더 운동할 거야.\" 같은 막연한 목표는 우리가 피곤하거나 바쁜 순간에 너무 많은 결정을 맡긴다. 반면 \"월요일과 목요일 저녁 식사 후 공원에서 이십 분 달릴 거야.\" 같은 구체적인 계획은 행동을 시간과 장소에 연결한다. 연구에서 이런 계획을 세운 사람들은 끝까지 실천할 가능성이 두세 배 높았다. 좋은 계획은 거듭 결정할 필요를 없애 준다.",
+    "why": "막연한 목표 대신 시간과 장소를 포함한 구체적 계획이 실천 가능성을 높인다는 것이 요지입니다.",
+    "optionNotes": [
+      "정답. 구체적인 계획이 실천 가능성을 높입니다.",
+      "쉬운 목표만 세우라는 내용은 아닙니다.",
+      "예시를 일반 규칙으로 확대한 오답입니다.",
+      "스스로 꾸짖는 내용은 나오지 않습니다.",
+      "많은 결심이 유리하다는 내용은 없습니다."
+    ],
+    "trap": "예시(Mondays and Thursdays, park)를 일반 규칙으로 착각하지 마세요.",
+    "tip": "In contrast 뒤의 해결책이 요지를 담습니다."
+  },
+  {
+    "id": "m3b-06-23",
+    "level": "m3",
+    "set": "mock-06",
+    "no": 23,
+    "type": "topic",
+    "stem": "다음 글의 주제로 가장 적절한 것은?",
+    "passage": "In the pitch-dark of a cave, a bat flies at high speed without hitting a single wall. It does this by using echolocation. It is a remarkable ability for such a small animal. The bat sends out high-pitched sounds that are too high for humans to hear. When these sounds hit an object, such as an insect or a branch, they bounce back as echoes. By measuring how long an echo takes to return, the bat can tell how far away the object is, and the pattern of the echo reveals its size and shape. Some bats can detect an object as thin as a human hair. Engineers have copied this system to develop sonar and devices that help blind people sense obstacles.",
+    "options": [
+      "why bats sleep upside down in caves during the daytime hours",
+      "how engineers measure the thickness of a human hair in laboratories",
+      "how bats use sound echoes to find objects and move in the dark",
+      "where bats find insects to eat during the cold winter months",
+      "when blind people first began to use sonar devices in the world"
+    ],
+    "answer": 2,
+    "translation": "칠흑같이 어두운 동굴에서 박쥐는 벽 하나도 부딪치지 않고 빠른 속도로 난다. 이는 반향 정위를 사용하기 때문이다. 그렇게 작은 동물에게는 놀라운 능력이다. 박쥐는 사람이 듣기에는 너무 높은 고음을 내보낸다. 이 소리가 곤충이나 나뭇가지 같은 물체에 부딪히면 메아리가 되어 돌아온다. 메아리가 돌아오는 데 걸리는 시간을 재서 박쥐는 물체가 얼마나 멀리 있는지 알 수 있고 메아리의 양상은 그 크기와 모양을 알려 준다. 일부 박쥐는 사람의 머리카락만큼 가는 물체도 감지할 수 있다. 기술자들은 이 체계를 본떠 소나와 시각 장애인이 장애물을 감지하도록 돕는 장치를 개발했다.",
+    "why": "박쥐가 소리의 메아리로 물체를 찾아 어둠 속에서 움직이는 방식을 설명합니다.",
+    "optionNotes": [
+      "수면 자세는 나오지 않습니다.",
+      "머리카락 두께 측정은 나오지 않습니다.",
+      "정답. 메아리로 물체를 찾는 방식입니다.",
+      "겨울 먹이는 나오지 않습니다.",
+      "소나 장치의 첫 사용 시기는 나오지 않습니다."
+    ],
+    "trap": "'human hair'가 비교 대상으로 나온다고 머리카락(②)이 주제라 착각하지 마세요.",
+    "tip": "주제는 반복되는 핵심(echoes, sounds, bat)을 묶어 찾으세요."
+  },
+  {
+    "id": "m3b-06-24",
+    "level": "m3",
+    "set": "mock-06",
+    "no": 24,
+    "type": "title",
+    "stem": "다음 글의 제목으로 가장 적절한 것은?",
+    "passage": "People who sing in a choir often say that they feel happier after rehearsals, and science supports their experience. Many singers also say that they leave rehearsals with more energy than they had when they arrived. Group singing requires members to breathe together, which can lower heart rates and calm the body. In a large survey, choir members reported less loneliness and stress than people who did not sing in groups. Brain studies also show that singing activates areas related to memory and emotion, which may protect older adults from memory decline. Moreover, singing together creates a strong sense of belonging, because each voice becomes part of a single sound. For these reasons, community choirs are growing in popularity around the world.",
+    "options": [
+      "In Harmony: How Singing Together Improves Body and Mind",
+      "The Best Songs to Learn Before You Join a Famous Choir This Year",
+      "How Professional Singers Protect Their Voices During Long Concert Tours",
+      "Why Many Young People Prefer Listening to Music Alone at Home",
+      "A Short History of Church Music in Medieval European Cities"
+    ],
+    "answer": 0,
+    "translation": "합창단에서 노래하는 사람들은 연습 후 더 행복하다고 자주 말하며 과학이 그들의 경험을 뒷받침한다. 많은 가수는 도착했을 때보다 연습을 마치고 나갈 때 더 많은 에너지를 얻는다고도 말한다. 단체 노래는 구성원이 함께 숨 쉬어야 하므로 심박수를 낮추고 몸을 진정시킬 수 있다. 대규모 조사에서 합창단원은 단체로 노래하지 않는 사람들보다 외로움과 스트레스를 덜 느낀다고 보고했다. 뇌 연구도 노래가 기억과 감정에 관련된 영역을 활성화함을 보여 주며 이는 노인을 기억력 감퇴로부터 보호할 수 있다. 게다가 함께 노래하면 각 목소리가 하나의 소리의 일부가 되어 강한 소속감을 만든다. 이런 이유로 지역 합창단은 전 세계에서 인기를 얻고 있다.",
+    "why": "함께 노래하는 것이 몸과 마음에 이롭다는 내용이므로 ①이 제목입니다.",
+    "optionNotes": [
+      "정답. 함께 노래하는 것이 몸과 마음에 좋습니다.",
+      "합창단 가입 전에 배울 노래는 나오지 않습니다.",
+      "가수의 목소리 관리는 나오지 않습니다.",
+      "혼자 듣는 음악은 나오지 않습니다.",
+      "교회 음악의 역사는 나오지 않습니다."
+    ],
+    "trap": "'singers'가 나온다고 가수의 관리(③)나 노래 목록(②)으로 확대하지 마세요.",
+    "tip": "제목은 핵심 소재(singing together)와 효과(body and mind)를 함께 담으세요."
+  },
+  {
+    "id": "m3b-06-25",
+    "level": "m3",
+    "set": "mock-06",
+    "no": 25,
+    "type": "chart",
+    "stem": "다음 도표의 내용과 일치하지 않는 것은?",
+    "chart": {
+      "title": "Internet Users by Age Group (%)",
+      "unit": "%",
+      "labels": [
+        "Teens",
+        "20s",
+        "30s",
+        "40s",
+        "50s"
+      ],
+      "series": [
+        {
+          "name": "Percent",
+          "values": [
+            97,
+            99,
+            96,
+            92,
+            85
+          ]
+        }
+      ]
+    },
+    "passage": "The graph above shows the percentage of internet users by age group. ① The 20s group has the highest percentage among the five groups. ② The 50s group has the lowest percentage. ③ The percentage of the teens group is 5 percentage points higher than that of the 30s group. ④ The difference between the highest and the lowest percentages is 14 percentage points. ⑤ The percentage of the 40s group is lower than that of the 30s group but higher than that of the 50s group.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "위 그래프는 연령대별 인터넷 이용자 비율을 보여 준다. ① 20대가 다섯 집단 중 비율이 가장 높다. ② 50대가 비율이 가장 낮다. ③ 10대의 비율은 30대보다 5퍼센트포인트 높다. ④ 가장 높은 비율과 가장 낮은 비율의 차이는 14퍼센트포인트이다. ⑤ 40대의 비율은 30대보다 낮지만 50대보다는 높다.",
+    "why": "10대는 97%, 30대는 96%로 1퍼센트포인트 차이이므로 ③은 일치하지 않습니다.",
+    "optionNotes": [
+      "20대가 99%로 가장 높습니다.",
+      "50대가 85%로 가장 낮습니다.",
+      "정답(불일치). 97 - 96 = 1퍼센트포인트입니다.",
+      "99 - 85 = 14퍼센트포인트입니다.",
+      "96 > 92 > 85입니다."
+    ],
+    "trap": "수치가 비슷할 때 차이를 직접 계산하지 않으면 틀리기 쉽습니다.",
+    "tip": "차이를 나타내는 표현은 두 값을 직접 빼서 확인하세요."
+  },
+  {
+    "id": "m3b-06-26",
+    "level": "m3",
+    "set": "mock-06",
+    "no": 26,
+    "type": "match",
+    "stem": "Stephanie Kwolek에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Stephanie Kwolek was born in 1923 in Pennsylvania, and as a child she loved science and fashion design. After graduating from college, she took a job as a chemist at the DuPont company in 1946, planning to save money for medical school. She enjoyed the work so much that she stayed for forty years. In 1965, while searching for a light but strong fiber, she produced a liquid that was cloudy and thin, unlike the clear liquids she usually made. A technician hesitated to test it, but she persuaded him, and the resulting fiber turned out to be about five times stronger than steel of the same weight. This material, named Kevlar, is now used in bulletproof vests, helmets, and many other products that have saved thousands of lives.",
+    "options": [
+      "그녀가 개발한 용액으로 만든 섬유는 같은 무게의 강철보다 훨씬 강했으며 방탄복 같은 제품에 쓰여 수많은 생명을 구했다.",
+      "의과 대학에 진학하기 위해 곧바로 회사를 그만두었다.",
+      "투명하고 맑은 용액을 만들다가 이 섬유를 발견했다.",
+      "연구원이 시험에 즉시 동의해 주어 어려움이 없었다.",
+      "1923년에 듀폰사에서 일하기 시작했다."
+    ],
+    "answer": 0,
+    "translation": "스테파니 퀄렉은 1923년 펜실베이니아에서 태어났고 어릴 때 과학과 패션 디자인을 좋아했다. 대학을 졸업한 뒤 그녀는 1946년 의과 대학 학비를 모으려는 계획으로 듀폰사에서 화학자로 일하기 시작했다. 그녀는 그 일을 너무 좋아해서 사십 년 동안 머물렀다. 1965년 가볍지만 강한 섬유를 찾던 중 그녀는 자신이 보통 만들던 맑은 용액과 달리 흐리고 묽은 액체를 만들었다. 한 기술자가 시험하기를 주저했지만 그녀가 설득했고 그 결과 만들어진 섬유는 같은 무게의 강철보다 약 다섯 배 강한 것으로 드러났다. 케블라라고 이름 붙은 이 소재는 지금 방탄복, 헬멧 등 수천 명의 목숨을 구한 많은 제품에 쓰인다.",
+    "why": "'the resulting fiber ~ about five times stronger than steel ~ bulletproof vests ~ saved thousands of lives'와 일치합니다.",
+    "optionNotes": [
+      "정답. 강철보다 강한 섬유가 많은 생명을 구했습니다.",
+      "사십 년 동안 회사에 머물렀습니다.",
+      "흐리고 묽은 용액에서 발견했습니다.",
+      "기술자가 주저해서 설득해야 했습니다.",
+      "1946년에 입사했고 1923년은 출생 연도입니다."
+    ],
+    "trap": "출생 연도(1923)와 입사 연도(1946)를 혼동하지 마세요.",
+    "tip": "일치 문제는 연도·사건·결과를 하나씩 대조하세요."
+  },
+  {
+    "id": "m3b-06-27",
+    "level": "m3",
+    "set": "mock-06",
+    "no": 27,
+    "type": "notice",
+    "stem": "Short Story Contest에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Hanbit Library Short Story Contest\nWho can enter: Residents aged 13 and older (individual entries only)\nTheme: \"A Door That Was Never Opened\"\nLength: 1,500 - 3,000 words, written in Korean or English. Entries must be previously unpublished.\nSubmission: Email your story as a Word file to the library's contest address by August 31, 11:59 p.m. Only one story per person is accepted.\nJudging: A panel of three writers will choose ten finalists in September. Finalists will be notified by phone.\nAwards: First prize - $500; second prize - $300; third prize - $100. All finalists' stories will be posted on the library's website.",
+    "options": [
+      "13세 미만의 어린이도 팀을 이루어 참가할 수 있다.",
+      "작품은 반드시 한국어로만 써야 한다.",
+      "한 사람이 여러 편의 작품을 제출할 수 있다.",
+      "결선 진출자의 작품은 모두 홈페이지에 게시된다.",
+      "결선 진출자는 이메일로만 통보를 받는다."
+    ],
+    "answer": 3,
+    "translation": "한빛 도서관 단편 소설 공모전. 참가 자격: 만 13세 이상 주민(개인 출품만). 주제: \"한 번도 열리지 않은 문\". 분량: 1,500~3,000단어, 한국어 또는 영어. 이전에 발표되지 않은 작품이어야 함. 제출: 8월 31일 오후 11시 59분까지 워드 파일로 도서관 공모전 주소로 이메일 발송. 한 사람당 한 편만 접수. 심사: 작가 세 명이 9월에 열 명의 결선 진출자를 선정. 결선 진출자에게는 전화로 알림. 상: 1등 500달러, 2등 300달러, 3등 100달러. 모든 결선 진출자의 작품은 도서관 웹사이트에 게시됩니다.",
+    "why": "'All finalists' stories will be posted on the library's website.'와 일치합니다.",
+    "optionNotes": [
+      "13세 이상이며 개인 출품만 가능합니다.",
+      "한국어 또는 영어로 쓸 수 있습니다.",
+      "한 사람당 한 편만 접수합니다.",
+      "정답. 결선 진출자의 작품이 모두 게시됩니다.",
+      "결선 진출자에게는 전화로 알립니다."
+    ],
+    "trap": "상을 받는 사람과 결선 진출자 전체에게 해당하는 혜택을 구분하세요.",
+    "tip": "안내문의 Who, Length, Submission, Awards 항목을 하나씩 대조하세요."
+  },
+  {
+    "id": "m3b-06-28",
+    "level": "m3",
+    "set": "mock-06",
+    "no": 28,
+    "type": "notice",
+    "stem": "Weekend Farm Experience에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Hanbit Weekend Farm Experience for Families\nDates: Saturdays and Sundays in October (October 4 - 26), 10:00 a.m. - 3:00 p.m.\nPlace: Green Valley Farm (30 minutes by bus from Hanbit Station)\nActivities: Picking apples, feeding goats, and making cheese with the farm staff\nFee: $15 per adult and $10 per child; children under 4 are free. The fee includes lunch.\nReservation: Required. Call the farm or reserve on its website at least three days in advance. Walk-in visitors cannot join the cheese-making class.\nNotes: Wear comfortable shoes. In case of heavy rain, outdoor activities will be canceled and the fee will be fully refunded.",
+    "options": [
+      "프로그램은 10월 한 달 동안 평일에만 진행된다.",
+      "참가비에는 점심 식사가 포함되어 있지 않다.",
+      "예약하지 않고 방문해도 치즈 만들기에 참여할 수 있다.",
+      "네 살 미만의 어린이도 어린이 요금을 내야 한다.",
+      "폭우로 야외 활동이 취소되면 참가비를 전액 환불받는다."
+    ],
+    "answer": 4,
+    "translation": "한빛 가족 주말 농장 체험. 일시: 10월(4일~26일)의 토요일과 일요일 오전 10시~오후 3시. 장소: 그린밸리 농장(한빛역에서 버스로 30분). 활동: 사과 따기, 염소 먹이 주기, 농장 직원과 치즈 만들기. 비용: 어른 15달러, 어린이 10달러, 4세 미만 무료. 비용에는 점심 포함. 예약: 필수. 농장에 전화하거나 웹사이트에서 최소 3일 전까지 예약. 예약 없이 방문한 사람은 치즈 만들기 수업에 참여할 수 없습니다. 유의: 편한 신발을 신으세요. 폭우가 오면 야외 활동은 취소되고 비용은 전액 환불됩니다.",
+    "why": "'In case of heavy rain, outdoor activities will be canceled and the fee will be fully refunded.'와 일치합니다.",
+    "optionNotes": [
+      "토요일과 일요일에 진행됩니다.",
+      "참가비에 점심이 포함됩니다.",
+      "예약 없이는 치즈 만들기에 참여할 수 없습니다.",
+      "4세 미만은 무료입니다.",
+      "정답. 폭우로 취소되면 전액 환불됩니다."
+    ],
+    "trap": "무료 연령(4세 미만)과 요금 구분을 혼동하지 마세요.",
+    "tip": "안내문의 Fee, Reservation, Notes 항목을 하나씩 대조하세요."
+  }
+]
