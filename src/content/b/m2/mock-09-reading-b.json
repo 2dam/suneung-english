@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m2b-09-29",
+    "level": "m2",
+    "set": "mock-09",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Koalas look gentle and sleepy, but their life is not easy. They eat only eucalyptus leaves, {1|which is} poor in energy and hard to digest. Because of this, koalas sleep for about twenty hours a day to save energy. A baby koala, called a joey, stays in its mother's pouch for six months. After that, it {2|rides} on her back until it is about one year old. Koalas spend most of their time in trees, {3|where} they find both food and safety. Unfortunately, their forests are disappearing because of fires and new buildings. Many people are working hard {4|to protect} them, and some zoos have started special programs. If we do not act soon, we may {5|lose} this lovely animal forever.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "코알라는 순하고 졸려 보이지만 삶이 쉽지 않다. 그들은 에너지가 적고 소화하기 어려운 유칼립투스 잎만 먹는다. 이 때문에 코알라는 에너지를 아끼려고 하루에 약 스무 시간을 잔다. 조이라고 불리는 아기 코알라는 어미의 주머니에서 여섯 달을 지낸다. 그 뒤에는 약 한 살이 될 때까지 어미의 등에 탄다. 코알라는 대부분의 시간을 나무에서 보내며 그곳에서 먹이와 안전을 모두 얻는다. 안타깝게도 산불과 새 건물 때문에 그들의 숲이 사라지고 있다. 많은 사람이 그들을 보호하려고 열심히 일하고 있고 일부 동물원은 특별한 프로그램을 시작했다. 우리가 곧 행동하지 않으면 이 사랑스러운 동물을 영영 잃을 수도 있다.",
+    "why": "선행사 eucalyptus leaves가 복수이므로 관계대명사 뒤 동사는 'is'가 아니라 'are'여야 합니다.",
+    "optionNotes": [
+      "정답(틀린 것). 복수 선행사 leaves에 맞춰 which are여야 합니다.",
+      "주어 it에 맞는 3인칭 단수 현재형입니다.",
+      "장소(trees)를 선행사로 하는 관계부사 where입니다.",
+      "목적을 나타내는 to부정사입니다.",
+      "조동사 may 뒤의 동사원형입니다."
+    ],
+    "trap": "which 바로 앞의 단수처럼 보이는 단어에 이끌려 단수로 판단하기 쉽습니다.",
+    "tip": "관계대명사절의 동사는 선행사의 수에 일치시킵니다."
+  },
+  {
+    "id": "m2b-09-30",
+    "level": "m2",
+    "set": "mock-09",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Using a smartphone for a long time can {1|harm} your neck. When we look down at a screen, our head bends forward, which puts a lot of {2|pressure} on the neck. Doctors call this problem 'text neck.' Over time, it can cause pain in the neck and shoulders, and even headaches. Experts recommend holding the phone at eye level and {3|taking} a short break every thirty minutes. Simple stretching exercises can also {4|relieve} the pain. If you want to keep your neck healthy, it is a good idea to {5|increase} the time you spend looking down at your screen.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "스마트폰을 오래 사용하면 목에 해로울 수 있다. 화면을 내려다볼 때 머리가 앞으로 숙여져 목에 큰 압력이 가해진다. 의사들은 이 문제를 '거북목'이라고 부른다. 시간이 지나면 목과 어깨의 통증과 두통까지 일으킬 수 있다. 전문가들은 휴대전화를 눈높이로 들고 삼십 분마다 짧게 쉬라고 권한다. 간단한 스트레칭 운동도 통증을 덜어 줄 수 있다. 목을 건강하게 지키고 싶다면 화면을 내려다보는 시간을 줄이는 것이 좋다.",
+    "why": "목 건강을 지키려면 화면을 내려다보는 시간을 '늘리는(increase)' 것이 아니라 '줄이는(reduce)' 것이 알맞습니다.",
+    "optionNotes": [
+      "목에 해롭다는 의미로 harm이 알맞습니다.",
+      "목에 가해지는 압력이라는 의미로 pressure가 알맞습니다.",
+      "짧게 쉰다는 의미로 taking이 알맞습니다.",
+      "통증을 덜어 준다는 의미로 relieve가 알맞습니다.",
+      "정답(부적절). 건강을 위해서는 reduce여야 합니다."
+    ],
+    "trap": "'keep your neck healthy'의 방향을 놓치기 쉽습니다.",
+    "tip": "앞 문장의 조건(건강 유지)과 낱말의 방향이 일치하는지 확인하세요."
+  },
+  {
+    "id": "m2b-09-31",
+    "level": "m2",
+    "set": "mock-09",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Most people try to avoid boredom by checking their phones. However, scientists say that boredom is not always a bad thing. In one study, some people had to copy numbers from a phone book for fifteen minutes. Later, they thought of more creative uses for a plastic cup than those who did not. When we are bored, our minds start to wander, and they connect ideas that seem unrelated. This is why many great ideas come to us in the shower or on a long walk. So the next time you feel bored, do not rush to find something to do. Boredom may be __________.",
+    "options": [
+      "a sign that you must quit what you are doing",
+      "the main reason why people lose their friends",
+      "a problem that only young children experience",
+      "a chance for your mind to become creative",
+      "the best time to study for an important exam"
+    ],
+    "answer": 3,
+    "translation": "대부분의 사람은 휴대전화를 확인하며 지루함을 피하려 한다. 그러나 과학자들은 지루함이 항상 나쁜 것은 아니라고 말한다. 한 연구에서 일부 사람들은 전화번호부의 숫자를 십오 분 동안 베껴 써야 했다. 나중에 그들은 그렇지 않은 사람들보다 플라스틱 컵의 더 창의적인 쓰임을 떠올렸다. 지루하면 마음이 떠돌기 시작하고 관련 없어 보이는 생각들을 연결한다. 이 때문에 많은 훌륭한 아이디어가 샤워 중이나 긴 산책 중에 떠오른다. 그러니 다음에 지루하다고 느끼면 할 일을 찾으려고 서두르지 마라. 지루함은 마음이 창의적이 될 기회일 수도 있다.",
+    "why": "지루할 때 마음이 떠돌며 생각을 연결해 창의적인 아이디어가 나온다고 했으므로 '마음이 창의적이 될 기회'가 알맞습니다.",
+    "optionNotes": [
+      "하던 일을 그만두라는 신호라는 내용은 나오지 않습니다.",
+      "친구를 잃는 이유라는 내용은 나오지 않습니다.",
+      "어린아이만의 문제라는 내용은 나오지 않습니다.",
+      "정답. 마음이 창의적이 될 기회입니다.",
+      "시험 공부에 가장 좋은 때라는 내용은 나오지 않습니다."
+    ],
+    "trap": "'phone'이 나온다고 휴대전화 관련 선택지를 고르지 마세요.",
+    "tip": "빈칸 문장 앞의 So ~ 결론은 연구 결과(창의성)를 일반화한 말입니다."
+  },
+  {
+    "id": "m2b-09-32",
+    "level": "m2",
+    "set": "mock-09",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Imagine that you must remember ten random words, such as apple, river, chair, and cloud. This is difficult for most people. Now imagine linking the same words in a short story. A boy sits on a chair beside a river and eats an apple under a cloud. Suddenly, the words are easy to remember. Brain researchers explain that stories connect facts with images, feelings, and a clear order. Because of these links, the brain stores the information more deeply. So if you want to remember something important, try turning it into __________.",
+    "options": [
+      "a short story that you can picture in your mind",
+      "a long list that you read aloud again and again",
+      "a difficult puzzle that you cannot solve quickly",
+      "a quiet moment when you do not use your brain at all",
+      "a song with a fast beat that nobody has ever heard"
+    ],
+    "answer": 0,
+    "translation": "사과, 강, 의자, 구름 같은 무작위 단어 열 개를 외워야 한다고 상상해 보라. 대부분의 사람에게 이것은 어렵다. 이제 같은 단어들을 짧은 이야기로 연결한다고 상상해 보라. 한 소년이 구름 아래에서 사과를 먹으며 강가의 의자에 앉아 있다. 갑자기 그 단어들은 기억하기 쉬워진다. 뇌 연구자들은 이야기가 사실을 이미지, 감정, 분명한 순서와 연결한다고 설명한다. 이런 연결 덕분에 뇌는 정보를 더 깊이 저장한다. 그러니 중요한 것을 기억하고 싶다면 마음속에 그려 볼 수 있는 짧은 이야기로 바꿔 보라.",
+    "why": "단어를 이야기로 연결하면 기억하기 쉬워진다고 했으므로 '마음속에 그려 볼 수 있는 짧은 이야기'가 알맞습니다.",
+    "optionNotes": [
+      "정답. 그려 볼 수 있는 짧은 이야기로 바꿉니다.",
+      "반복해 읽는 목록은 글에 나오지 않습니다.",
+      "어려운 퍼즐은 글에 나오지 않습니다.",
+      "뇌를 쓰지 않는 순간은 글과 반대입니다.",
+      "노래는 글에 나오지 않습니다."
+    ],
+    "trap": "'list'를 반복하라는 선택지는 글의 방법과 반대입니다.",
+    "tip": "예시(단어 → 이야기)에서 결론의 방법을 추론하세요."
+  },
+  {
+    "id": "m2b-09-33",
+    "level": "m2",
+    "set": "mock-09",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Psychologists asked two groups of students to write for ten weeks. One group wrote about three things they were thankful for each week. The other group wrote about things that annoyed them. Each writing session lasted about ten minutes. At the end, the grateful group felt happier and exercised more, and they visited the doctor less often. The difference was clear after only a few weeks. The researchers explained that writing trained the students' attention. People usually notice problems first, because the brain is built to watch for danger. Gratitude changes this habit by teaching us to notice __________.",
+    "options": [
+      "the dangers that are hidden in our daily lives",
+      "the mistakes that other people make at school",
+      "the good things that are already around us",
+      "the sounds that we hear when we are asleep",
+      "the people who are richer than we are now"
+    ],
+    "answer": 2,
+    "translation": "심리학자들은 학생 두 집단에게 십 주 동안 글을 쓰게 했다. 한 집단은 매주 감사하는 세 가지에 대해 썼다. 다른 집단은 자신을 짜증 나게 하는 것들에 대해 썼다. 글쓰기는 한 번에 약 십 분 걸렸다. 마지막에 감사 집단은 더 행복했고 운동을 더 했으며 병원에 덜 갔다. 그 차이는 불과 몇 주 뒤에 분명해졌다. 연구자들은 글쓰기가 학생들의 주의를 훈련시켰다고 설명했다. 뇌는 위험을 살피도록 만들어져 있어서 사람들은 보통 문제를 먼저 알아챈다. 감사는 이미 우리 주변에 있는 좋은 것들을 알아채도록 가르쳐 이 습관을 바꾼다.",
+    "why": "사람은 문제를 먼저 알아채는 습관이 있는데 감사는 이를 바꿔 이미 주변에 있는 좋은 것들을 알아채게 합니다.",
+    "optionNotes": [
+      "위험에 주목하는 것은 기존 습관입니다.",
+      "다른 사람의 실수는 나오지 않습니다.",
+      "정답. 이미 주변에 있는 좋은 것들입니다.",
+      "잠잘 때 듣는 소리는 나오지 않습니다.",
+      "더 부유한 사람은 나오지 않습니다."
+    ],
+    "trap": "'danger'에 이끌려 위험을 알아챈다(①)고 고르지 마세요.",
+    "tip": "changes this habit 뒤에는 기존 습관과 대비되는 내용이 옵니다."
+  },
+  {
+    "id": "m2b-09-34",
+    "level": "m2",
+    "set": "mock-09",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Thomas Edison is said to have tested thousands of materials before he made a light bulb that worked. When a reporter asked how it felt to fail so many times, Edison replied that he had not failed at all. He said he had just found many ways that would not work. Each wrong attempt taught him something and removed one possibility. In schools, too, students often feel ashamed of wrong answers. But a mistake shows exactly which part of our understanding needs more work. This is why successful learners treat failure as __________.",
+    "options": [
+      "a punishment for people who do not try hard",
+      "proof that a goal is too difficult for anyone",
+      "useful information that guides us toward a better answer",
+      "something that we should hide from other people",
+      "a waste of time for people who are smart"
+    ],
+    "answer": 2,
+    "translation": "토머스 에디슨은 작동하는 전구를 만들기 전에 수천 가지 재료를 시험했다고 한다. 한 기자가 그렇게 많이 실패하니 기분이 어땠냐고 묻자 에디슨은 전혀 실패하지 않았다고 대답했다. 그는 작동하지 않을 많은 방법을 찾았을 뿐이라고 말했다. 틀린 시도 하나하나가 그에게 무언가를 가르쳐 주었고 가능성 하나를 없앴다. 학교에서도 학생들은 흔히 틀린 답을 부끄러워한다. 그러나 실수는 우리 이해의 어느 부분에 더 노력이 필요한지 정확히 보여 준다. 그래서 성공적인 학습자는 실패를 더 나은 답으로 이끄는 유용한 정보로 여긴다.",
+    "why": "에디슨의 일화와 실수가 보완할 부분을 알려 준다는 설명으로 보아 실패를 '더 나은 답으로 이끄는 유용한 정보'로 여깁니다.",
+    "optionNotes": [
+      "벌이라는 내용은 나오지 않습니다.",
+      "목표가 너무 어렵다는 증거라는 내용은 글과 반대입니다.",
+      "정답. 더 나은 답으로 이끄는 유용한 정보입니다.",
+      "숨겨야 한다는 내용은 글과 반대입니다.",
+      "시간 낭비라는 내용은 글과 반대입니다."
+    ],
+    "trap": "'ashamed'에 이끌려 숨겨야 할 것(④)을 고르지 마세요.",
+    "tip": "This is why 앞의 결론을 일반화한 문장이 빈칸의 단서입니다."
+  },
+  {
+    "id": "m2b-09-35",
+    "level": "m2",
+    "set": "mock-09",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Walking is one of the simplest exercises, and it has many benefits. ① It strengthens the heart and helps control weight. ② Walking outside in daylight also improves mood, because sunlight and fresh air reduce stress. ③ It requires no special equipment, so anyone can start at any time. ④ Many people find that a short walk after lunch helps them think more clearly in the afternoon. ⑤ Swimming became an Olympic sport for women in 1912.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "걷기는 가장 간단한 운동 중 하나이며 많은 이점이 있다. ① 걷기는 심장을 튼튼하게 하고 체중 조절을 돕는다. ② 낮에 밖에서 걷는 것은 햇빛과 신선한 공기가 스트레스를 줄여 주므로 기분도 좋아지게 한다. ③ 특별한 장비가 필요 없어서 누구나 언제든지 시작할 수 있다. ④ 많은 사람은 점심 후의 짧은 산책이 오후에 더 맑게 생각하도록 돕는다고 느낀다. ⑤ 수영은 1912년에 여자 올림픽 종목이 되었다.",
+    "why": "글은 걷기의 이점을 이야기하는데 ⑤는 수영이 올림픽 종목이 된 시기를 말하므로 관계가 없습니다.",
+    "optionNotes": [
+      "심장과 체중에 대한 이점입니다.",
+      "기분 개선이라는 이점입니다.",
+      "장비가 필요 없다는 이점입니다.",
+      "사고력 향상이라는 이점입니다.",
+      "정답(무관). 수영 이야기라 걷기와 관계가 없습니다."
+    ],
+    "trap": "'exercise'라는 큰 범주 때문에 운동 이야기(수영)도 관련 있다고 착각하기 쉽습니다.",
+    "tip": "주제(걷기의 이점)를 직접 뒷받침하지 않는 문장을 고르세요."
+  },
+  {
+    "id": "m2b-09-36",
+    "level": "m2",
+    "set": "mock-09",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "In 1941, a Swiss engineer named George de Mestral went for a walk in the mountains with his dog. They walked through fields of tall grass for hours.\n(A) There, he saw that each burr had hundreds of tiny hooks, and the hooks caught on the small loops in the cloth.\n(B) Inspired by this discovery, he spent almost ten years making a fastener with hooks and loops. He named it Velcro, and it is now used in shoes, bags, and even spacecraft.\n(C) When they got home, he found small burrs stuck all over his pants and the fur of his dog. He was curious and decided to look at one burr under a microscope.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 3,
+    "translation": "1941년 스위스 기술자 조르주 드 메스트랄은 개와 함께 산으로 산책하러 갔다. 그들은 몇 시간 동안 키 큰 풀밭을 걸었다. (C) 집에 돌아왔을 때 그는 바지와 개의 털에 작은 도깨비 열매가 잔뜩 붙어 있는 것을 발견했다. 그는 호기심이 생겨 열매 하나를 현미경으로 보기로 했다. (A) 거기서 그는 각 열매에 수백 개의 작은 갈고리가 있고 그 갈고리가 천의 작은 고리에 걸린다는 것을 보았다. (B) 이 발견에서 영감을 얻어 그는 거의 십 년 동안 갈고리와 고리로 된 잠금장치를 만들었다. 그는 그것을 벨크로라 이름 붙였고 지금은 신발, 가방, 심지어 우주선에도 쓰인다.",
+    "why": "(C) 도깨비 열매를 발견하고 현미경으로 봄 → (A) 'There'로 갈고리 구조 관찰 → (B) 'this discovery'로 벨크로 발명 순서입니다.",
+    "optionNotes": [
+      "(A)의 'There'가 가리킬 현미경이 앞에 나오지 않습니다.",
+      "(B)의 'this discovery'가 가리킬 발견이 앞에 없습니다.",
+      "(B)가 (A) 앞에 오면 발명의 계기가 빠집니다.",
+      "정답. 발견 → 관찰 → 발명 순서입니다.",
+      "(B)가 (A) 앞에 오면 'this discovery'가 어긋납니다."
+    ],
+    "trap": "(A)의 'There'는 (C)의 under a microscope를 가리킵니다.",
+    "tip": "There, this discovery 같은 지시어가 가리키는 앞 내용을 확인하세요."
+  },
+  {
+    "id": "m2b-09-37",
+    "level": "m2",
+    "set": "mock-09",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Octopuses are famous for their intelligence. Scientists around the world have studied how they think. They have no bones, but they have about five hundred million nerve cells.\n(A) In addition, researchers have seen some octopuses carry coconut shells across the sea floor and use them as shelters later.\n(B) For example, an octopus in an aquarium once learned to open a closed jar by turning the lid, just to reach the food inside.\n(C) Such behaviors show that octopuses can solve problems and even plan ahead, although their brains are very different from ours.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 1,
+    "translation": "문어는 지능으로 유명하다. 전 세계 과학자들이 그들이 어떻게 생각하는지 연구해 왔다. 그들은 뼈가 없지만 약 오억 개의 신경 세포를 가지고 있다. (B) 예를 들어 수족관의 한 문어는 안에 든 먹이를 얻으려고 뚜껑을 돌려 닫힌 병을 여는 법을 배웠다. (A) 게다가 연구자들은 일부 문어가 코코넛 껍데기를 해저에서 옮겨 나중에 은신처로 쓰는 것을 보았다. (C) 이런 행동은 문어의 뇌가 우리와 매우 다르지만 문제를 해결하고 앞서 계획까지 할 수 있음을 보여 준다.",
+    "why": "(B) 'For example'로 구체적 사례 → (A) 'In addition'으로 추가 사례 → (C) 'Such behaviors'로 결론 순서입니다.",
+    "optionNotes": [
+      "(A)의 'In addition'이 더할 앞 사례가 없습니다.",
+      "정답. 사례 → 추가 사례 → 결론.",
+      "(C)의 'Such behaviors'가 가리킬 행동이 (A) 앞에 없습니다.",
+      "(C)의 'Such behaviors'가 가리킬 행동이 앞에 없습니다.",
+      "(C)가 가장 앞에 오면 지시어가 어긋납니다."
+    ],
+    "trap": "(C)의 'Such behaviors'는 앞의 두 사례를 가리키므로 마지막에 와야 합니다.",
+    "tip": "For example → In addition → Such behaviors의 논리 흐름을 따라가세요."
+  },
+  {
+    "id": "m2b-09-38",
+    "level": "m2",
+    "set": "mock-09",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nDrones are not only toys; they are now helping to save lives.\n\n[글]\n( ① ) In Rwanda, drones carry blood and medicine to clinics in remote villages. ( ② ) The trip, which once took four hours by road, now takes only about twenty minutes. ( ③ ) This speed is very important, because patients who need blood cannot wait for a long time. ( ④ ) Doctors can order supplies by text message, and a drone drops them down by parachute. ( ⑤ ) Several other countries are now planning similar services.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "[주어진 문장] 드론은 장난감만이 아니라 이제는 생명을 구하는 데도 도움이 되고 있다. [글] 르완다에서는 드론이 외딴 마을의 진료소로 혈액과 약을 나른다. 한때 도로로 네 시간 걸리던 길이 이제는 약 이십 분밖에 걸리지 않는다. 혈액이 필요한 환자는 오래 기다릴 수 없으므로 이 속도는 매우 중요하다. 의사는 문자 메시지로 물품을 주문할 수 있고 드론이 낙하산으로 물품을 내려놓는다. 다른 여러 나라도 이제 비슷한 서비스를 계획하고 있다.",
+    "why": "주어진 문장은 드론이 생명을 구한다는 주제를 소개하므로 구체적 사례(르완다)를 들기 전인 ①에 들어갑니다.",
+    "optionNotes": [
+      "정답. 주제를 먼저 소개하고 사례가 이어집니다.",
+      "사례가 이미 시작된 뒤라 주제 소개로는 어색합니다.",
+      "속도의 중요성을 말하는 중간에 주제 소개가 끼어듭니다.",
+      "구체적 과정 설명 뒤에 주제를 소개하면 흐름이 끊깁니다.",
+      "마지막 문장 앞은 결론 위치라 주제 소개로 어색합니다."
+    ],
+    "trap": "'lives'와 'blood'가 연결된다고 ③에 넣지 마세요. 주제 소개는 글의 앞부분입니다.",
+    "tip": "주제를 소개하는 일반적 문장은 구체적 사례보다 앞에 옵니다."
+  },
+  {
+    "id": "m2b-09-39",
+    "level": "m2",
+    "set": "mock-09",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nYuri's grandmother lived in a village far from her family.\n\n[글]\n( ① ) She missed her grandchildren very much, so Yuri decided to teach her how to make video calls. ( ② ) At first, the grandmother pressed the wrong buttons and became frustrated. ( ③ ) Yuri wrote the steps on a big card and put it next to the phone. ( ④ ) After a week, the grandmother could call the family by herself. ( ⑤ ) Now they talk every evening and share what happened during the day.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "[주어진 문장] 유리의 할머니는 가족과 멀리 떨어진 마을에 사셨다. [글] 그녀는 손주들이 무척 보고 싶었고 그래서 유리는 할머니께 영상 통화 하는 법을 가르쳐 드리기로 했다. 처음에 할머니는 엉뚱한 버튼을 눌러 답답해하셨다. 유리는 큰 카드에 순서를 적어 전화기 옆에 두었다. 일주일 뒤 할머니는 혼자서 가족에게 전화할 수 있게 되었다. 이제 그들은 매일 저녁 이야기하며 그날 있었던 일을 나눈다.",
+    "why": "'She'가 가리키는 할머니가 먼저 소개되어야 하므로 주어진 문장은 ①에 들어갑니다.",
+    "optionNotes": [
+      "정답. 할머니를 소개한 뒤 'She'로 이어집니다.",
+      "'She'가 가리킬 대상이 먼저 나온 뒤라 소개 문장으로 어색합니다.",
+      "연습 과정 중간에 인물 소개가 끼어듭니다.",
+      "결과 직전에 인물 소개가 나오면 어색합니다.",
+      "마지막에 오면 이야기의 첫 소개가 빠집니다."
+    ],
+    "trap": "'her family'를 보고 뒤쪽 문장과 연결하지 마세요. ①의 'She'가 antecedent를 요구합니다.",
+    "tip": "대명사(She)가 처음 나오는 문장 앞에 그 대상을 소개하는 문장이 옵니다."
+  },
+  {
+    "id": "m2b-09-40",
+    "level": "m2",
+    "set": "mock-09",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In a famous experiment, researchers offered children a choice. They could eat one marshmallow right away, or wait for fifteen minutes and receive two. Some children ate the marshmallow immediately. Others closed their eyes, sang songs, or turned around to avoid looking at it. Years later, the researchers found that the children who had waited tended to have higher test scores and better health as adults. They explained that the ability to wait is not a gift that only some people are born with. Children can learn strategies, such as distracting themselves, that make waiting easier.\n\n▶ Children who could (A) their desires for a short time often reached (B) results later in life.",
+    "options": [
+      "(A) satisfy — (B) worse",
+      "(A) ignore — (B) similar",
+      "(A) delay — (B) better",
+      "(A) forget — (B) unclear",
+      "(A) share — (B) lower"
+    ],
+    "answer": 2,
+    "translation": "한 유명한 실험에서 연구자들은 아이들에게 선택권을 주었다. 마시멜로 하나를 바로 먹거나 십오 분을 기다려 두 개를 받을 수 있었다. 어떤 아이들은 마시멜로를 바로 먹었다. 다른 아이들은 눈을 감고 노래를 부르거나 보지 않으려고 돌아섰다. 몇 년 뒤 연구자들은 기다린 아이들이 어른이 되어 더 높은 시험 점수와 더 좋은 건강을 가지는 경향이 있음을 발견했다. 그들은 기다리는 능력이 일부 사람만 타고나는 재능이 아니라고 설명했다. 아이들은 스스로 주의를 돌리는 것 같은 기다리기 쉽게 하는 전략을 배울 수 있다. ▶ 짧은 시간 동안 욕구를 (A)할 수 있었던 아이들은 나중에 더 (B) 결과에 이르는 경우가 많았다.",
+    "why": "기다린(미룬) 아이들이 나중에 더 좋은 결과를 얻었으므로 (A)는 delay, (B)는 better입니다.",
+    "optionNotes": [
+      "satisfy는 바로 먹은 아이들의 행동에 가깝습니다.",
+      "ignore와 similar는 글과 맞지 않습니다.",
+      "정답. 욕구를 미룬 아이들이 더 좋은 결과를 얻었습니다.",
+      "forget과 unclear는 글에 나오지 않습니다.",
+      "share와 lower는 글에 나오지 않습니다."
+    ],
+    "trap": "(A)에 satisfy를 넣으면 바로 먹은 아이가 되어 결과와 어긋납니다.",
+    "tip": "요약문은 조건(기다림)과 결과(더 좋은 성과)를 짝지으세요."
+  }
+]
