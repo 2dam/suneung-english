@@ -1,0 +1,333 @@
+[
+  {
+    "id": "m2b-06-18",
+    "level": "m2",
+    "set": "mock-06",
+    "no": 18,
+    "type": "purpose",
+    "stem": "다음 글의 목적으로 가장 적절한 것은?",
+    "passage": "Dear Mr. Kim,\nMy name is Sujin Park, and I am the leader of the volunteer club at Hanbit Middle School. On December 12, our club will hold a charity dinner for the elderly people in our neighborhood. About eighty people are expected to attend. I am writing to ask whether your restaurant could donate some food for the event. We would be happy to put your restaurant's name on our poster and thank you in front of all the guests. I understand that you are busy, but even a small donation would mean a lot to us. I will visit your restaurant next week to hear your answer.\nSincerely,\nSujin Park",
+    "options": [
+      "이웃의 노인들을 위한 자선 저녁 행사에 쓸 음식을 기부해 줄 수 있는지 부탁하려고",
+      "식당의 예약 가능 여부를 문의하려고",
+      "동아리 행사 포스터의 제작을 의뢰하려고",
+      "식당 음식에 대한 환불을 요구하려고",
+      "식당 종업원 일자리에 지원하려고"
+    ],
+    "answer": 0,
+    "translation": "김 사장님께. 제 이름은 박수진이고 한빛중학교 봉사 동아리의 회장입니다. 12월 12일 우리 동아리는 이웃의 노인들을 위한 자선 저녁 식사를 엽니다. 약 여든 명이 참석할 것으로 예상됩니다. 귀하의 식당이 행사에 쓸 음식을 기부해 주실 수 있는지 여쭙고자 씁니다. 저희 포스터에 식당 이름을 넣고 모든 손님 앞에서 감사를 전하겠습니다. 바쁘신 줄 알지만 작은 기부라도 저희에게는 큰 의미가 있습니다. 답을 듣고자 다음 주에 식당을 방문하겠습니다. 박수진 드림.",
+    "why": "자선 저녁 행사에 쓸 음식을 기부해 달라고 부탁하는 글입니다.",
+    "optionNotes": [
+      "정답. 음식 기부를 부탁합니다.",
+      "예약 문의가 아닙니다.",
+      "포스터 제작 의뢰가 아닙니다.",
+      "환불 요구가 아닙니다.",
+      "일자리 지원이 아닙니다."
+    ],
+    "trap": "'poster'가 나온다고 제작 의뢰(③)로 착각하지 마세요.",
+    "tip": "목적 문제는 'I am writing to ask whether ~' 문장을 찾으세요."
+  },
+  {
+    "id": "m2b-06-19",
+    "level": "m2",
+    "set": "mock-06",
+    "no": 19,
+    "type": "mood",
+    "stem": "다음 글에 드러난 Jiho의 심경 변화로 가장 적절한 것은?",
+    "passage": "Jiho had never cooked a full meal before. Today was his mother's birthday, and he wanted to surprise her with spaghetti. His hands were shaking as he cut the onions, and he worried that he might burn the sauce. He checked the recipe again and again. When the door opened, he almost dropped the spoon. His mother walked in, smelled the sauce, and her eyes grew wide. \"Did you make this all by yourself?\" she asked. After the first bite, she smiled and said that it was the best spaghetti she had ever tasted. Jiho felt his chest fill with pride.",
+    "options": [
+      "bored and lazy → upset and angry",
+      "nervous and anxious → proud and delighted",
+      "jealous of his mother → ashamed of himself",
+      "calm and confident → disappointed and tired",
+      "curious and cheerful → frightened and lonely"
+    ],
+    "answer": 1,
+    "translation": "지호는 완전한 식사를 요리해 본 적이 한 번도 없었다. 오늘은 어머니의 생신이었고 그는 스파게티로 어머니를 놀라게 하고 싶었다. 양파를 썰 때 손이 떨렸고 소스를 태울까 봐 걱정했다. 그는 조리법을 계속 다시 확인했다. 문이 열렸을 때 그는 숟가락을 떨어뜨릴 뻔했다. 어머니가 들어와 소스 냄새를 맡더니 눈이 휘둥그레졌다. \"이걸 혼자 다 만들었니?\" 하고 어머니가 물었다. 첫 입을 먹은 뒤 어머니는 미소 지으며 지금까지 먹어 본 스파게티 중 최고라고 말했다. 지호는 가슴이 자부심으로 가득 차는 것을 느꼈다.",
+    "why": "처음에는 긴장하고 불안했지만(nervous and anxious), 어머니의 칭찬을 듣고 자랑스럽고 기뻤습니다(proud and delighted).",
+    "optionNotes": [
+      "지루함에서 화남이 아닙니다.",
+      "정답. 긴장과 불안에서 자부심과 기쁨으로 변했습니다.",
+      "질투에서 부끄러움이 아닙니다.",
+      "자신감에서 실망이 아닙니다.",
+      "호기심에서 두려움이 아닙니다."
+    ],
+    "trap": "'hands were shaking'만 보고 두려움이 계속된다고 오해하지 마세요.",
+    "tip": "전환 신호(After the first bite)를 기준으로 앞뒤 감정을 비교하세요."
+  },
+  {
+    "id": "m2b-06-20",
+    "level": "m2",
+    "set": "mock-06",
+    "no": 20,
+    "type": "claim",
+    "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+    "passage": "Many people buy food only by looking at the package design or the price. However, the label on the back tells us much more. It lists the ingredients in order of quantity, so the first item is the one that the product contains the most. It also shows the amount of sugar, salt, and fat. A drink that looks healthy may contain as much sugar as several chocolate bars. People with allergies must also check the label to avoid dangerous ingredients. Reading labels takes only a few seconds, but it protects our health. Therefore, we should always read food labels before we buy.",
+    "options": [
+      "포장 디자인이 예쁜 식품이 더 신선하므로 먼저 고르는 것이 좋다.",
+      "가격이 가장 싼 식품을 골라서 식비를 아끼는 것이 가장 중요하다.",
+      "초콜릿과 음료는 건강에 해로우므로 평생 먹지 않아야 한다.",
+      "알레르기가 없는 사람은 식품의 성분을 신경 쓸 필요가 전혀 없다.",
+      "식품을 사기 전에는 항상 표시를 읽어 보아야 한다."
+    ],
+    "answer": 4,
+    "translation": "많은 사람은 포장 디자인이나 가격만 보고 음식을 산다. 그러나 뒷면의 표시는 훨씬 많은 것을 알려 준다. 그것은 성분을 양의 순서대로 나열하므로 첫 번째 항목이 제품에 가장 많이 들어 있는 것이다. 또한 당, 소금, 지방의 양도 보여 준다. 건강해 보이는 음료가 초콜릿 바 여러 개만큼의 당을 함유할 수도 있다. 알레르기가 있는 사람은 위험한 성분을 피하려고 표시를 확인해야 한다. 표시를 읽는 데는 몇 초밖에 걸리지 않지만 우리 건강을 지켜 준다. 그러므로 우리는 사기 전에 항상 식품 표시를 읽어야 한다.",
+    "why": "마지막 문장 'we should always read food labels before we buy'가 주장입니다.",
+    "optionNotes": [
+      "디자인으로 고르라는 것은 글과 반대입니다.",
+      "가격만 보라는 것은 글과 반대입니다.",
+      "평생 먹지 말라는 내용은 없습니다.",
+      "알레르기가 없어도 당·소금·지방을 확인해야 합니다.",
+      "정답. 사기 전에 항상 표시를 읽어야 합니다."
+    ],
+    "trap": "앞부분의 현상(디자인과 가격만 봄)을 주장으로 착각하지 마세요.",
+    "tip": "'Therefore, we should ~' 문장이 필자의 주장입니다."
+  },
+  {
+    "id": "m2b-06-21",
+    "level": "m2",
+    "set": "mock-06",
+    "no": 21,
+    "type": "implied",
+    "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "passage": "Jin looked pale when he came into the classroom on Monday morning. He sat down slowly and rested his head on his arm. His friend Hana asked, \"Are you okay? You look terrible.\" Jin gave her a weak smile and said, \"I'm a little {u|under the weather}. I think I caught a cold over the weekend.\" Hana took out a tissue and a bottle of water from her bag and put them on his desk. \"Go see the school nurse,\" she said. \"You shouldn't stay in class like this.\" Jin nodded and thanked her.",
+    "options": [
+      "feeling slightly ill",
+      "standing outside in the rain without an umbrella",
+      "waiting for the weather forecast to change soon",
+      "enjoying a warm and sunny day with his friends",
+      "worried about the change of seasons this year"
+    ],
+    "answer": 0,
+    "translation": "월요일 아침 진이 교실에 들어왔을 때 그의 얼굴은 창백했다. 그는 천천히 앉아 팔에 머리를 기댔다. 친구 하나가 물었다. \"괜찮아? 몰골이 말이 아니야.\" 진은 힘없이 웃으며 말했다. \"몸이 좀 안 좋아. 주말에 감기에 걸린 것 같아.\" 하나는 가방에서 휴지와 물병을 꺼내 그의 책상 위에 놓았다. \"보건실에 가 봐.\" 하고 그녀가 말했다. \"이런 상태로 수업에 있으면 안 돼.\" 진은 고개를 끄덕이며 고마워했다.",
+    "why": "감기에 걸려 창백하고 힘이 없다고 했으므로 'under the weather'는 몸이 약간 안 좋다는 뜻입니다.",
+    "optionNotes": [
+      "정답. 몸이 약간 안 좋다는 뜻입니다.",
+      "비를 맞는다는 문자 그대로의 뜻이 아닙니다.",
+      "일기 예보를 기다린다는 뜻이 아닙니다.",
+      "화창한 날을 즐긴다는 뜻이 아닙니다.",
+      "계절 변화를 걱정한다는 뜻이 아닙니다."
+    ],
+    "trap": "'weather'를 날씨와 관련된 문자 그대로의 뜻으로 해석하지 마세요.",
+    "tip": "관용 표현은 뒤 문장(caught a cold)에서 의미를 추론하세요."
+  },
+  {
+    "id": "m2b-06-22",
+    "level": "m2",
+    "set": "mock-06",
+    "no": 22,
+    "type": "gist",
+    "stem": "다음 글의 요지로 가장 적절한 것은?",
+    "passage": "Many people who have trouble sleeping at night try drinking warm milk or avoiding their phones. However, research suggests that the answer may start in the morning. Our bodies have an internal clock that is set mainly by light. When we are exposed to bright sunlight soon after waking up, the clock becomes more stable. We then begin to feel sleepy at the right time in the evening. Studies show that people who spend thirty minutes outdoors in the morning fall asleep faster and sleep more deeply. You do not have to exercise. Even a short walk is enough.",
+    "options": [
+      "잠들기 전에 따뜻한 우유를 마시는 것이 숙면에 가장 효과적이다.",
+      "아침 햇빛이 몸의 시계를 안정시켜 밤 수면을 돕는다.",
+      "숙면을 위해서는 저녁에 격렬한 운동을 해야 한다.",
+      "휴대전화를 오래 사용할수록 몸의 시계가 더 정확해진다.",
+      "낮에 햇빛을 피하는 것이 밤 수면에 도움이 된다."
+    ],
+    "answer": 1,
+    "translation": "밤에 잠을 잘 이루지 못하는 많은 사람은 따뜻한 우유를 마시거나 휴대전화를 피해 보려 한다. 그러나 연구는 해답이 아침에서 시작될 수 있음을 시사한다. 우리 몸에는 주로 빛으로 맞춰지는 체내 시계가 있다. 깨어난 직후 밝은 햇빛에 노출되면 시계가 더 안정된다. 그러면 저녁에 알맞은 시간에 졸음이 오기 시작한다. 연구에 따르면 아침에 삼십 분 동안 바깥에서 보내는 사람은 더 빨리 잠들고 더 깊이 잔다. 운동할 필요는 없다. 짧은 산책이면 충분하다.",
+    "why": "아침의 햇빛이 체내 시계를 안정시켜 밤 수면에 도움이 된다는 것이 요지입니다.",
+    "optionNotes": [
+      "따뜻한 우유는 통념의 예시입니다.",
+      "정답. 아침 햇빛이 밤 수면을 돕습니다.",
+      "격렬한 운동은 나오지 않습니다.",
+      "휴대전화 사용이 도움이 된다는 내용은 없습니다.",
+      "햇빛을 피하라는 것은 글과 반대입니다."
+    ],
+    "trap": "앞부분의 통념(warm milk, avoiding phones)을 요지로 착각하지 마세요.",
+    "tip": "However 뒤의 새로운 주장이 요지입니다."
+  },
+  {
+    "id": "m2b-06-23",
+    "level": "m2",
+    "set": "mock-06",
+    "no": 23,
+    "type": "topic",
+    "stem": "다음 글의 주제로 가장 적절한 것은?",
+    "passage": "Hanbok, the traditional Korean clothing, was once worn every day, but today people wear it mostly on holidays and special occasions. In recent years, however, designers have started to change its shape and fabric to make it more comfortable. Modern hanbok often has shorter skirts and jackets, and it is made of light, washable materials. Some people wear it as casual clothing, mixing it with jeans or sneakers. Several famous actors and singers have worn modern hanbok on stage, which has made it popular among young people. These changes show that traditional clothing can stay alive by adapting to modern life.",
+    "options": [
+      "why traditional clothing is disappearing from the world very quickly",
+      "how hanbok has been adapted for modern daily life",
+      "where the fabric for hanbok is produced during every season",
+      "when young people began to wear jeans and sneakers everywhere",
+      "what kinds of food people eat on special holidays in Korea"
+    ],
+    "answer": 1,
+    "translation": "전통 한국 의복인 한복은 한때 매일 입었지만 오늘날 사람들은 주로 명절과 특별한 날에 입는다. 그러나 최근 몇 년 사이 디자이너들은 한복을 더 편하게 만들려고 모양과 천을 바꾸기 시작했다. 현대 한복은 흔히 더 짧은 치마와 저고리를 가지며 가볍고 빨 수 있는 소재로 만들어진다. 일부 사람들은 청바지나 운동화와 섞어 평상복으로 입는다. 여러 유명한 배우와 가수가 무대에서 현대 한복을 입어 젊은 사람들 사이에서 인기를 얻었다. 이런 변화는 전통 의복이 현대 생활에 적응함으로써 살아남을 수 있음을 보여 준다.",
+    "why": "한복이 현대 생활에 맞게 변화하고 있는 모습을 소개합니다.",
+    "optionNotes": [
+      "전통 의복의 소멸은 글과 반대입니다.",
+      "정답. 한복이 현대 생활에 적응한 방식입니다.",
+      "천의 생산지는 나오지 않습니다.",
+      "청바지의 유행은 예시일 뿐 주제가 아닙니다.",
+      "명절 음식은 나오지 않습니다."
+    ],
+    "trap": "예시(jeans and sneakers)를 주제로 확대하지 마세요.",
+    "tip": "주제는 마지막 문장(adapting to modern life)과 반복 핵심어(modern hanbok)를 묶어 찾으세요."
+  },
+  {
+    "id": "m2b-06-24",
+    "level": "m2",
+    "set": "mock-06",
+    "no": 24,
+    "type": "title",
+    "stem": "다음 글의 제목으로 가장 적절한 것은?",
+    "passage": "In some libraries, you can borrow something unusual: seeds. These places, called seed libraries, allow gardeners to take a packet of seeds for free, grow the plants, and return some seeds from the harvest. In this way, the collection keeps growing. Seed libraries help people to grow their own vegetables at low cost. They also protect old local varieties of plants that large companies no longer sell. Many libraries hold workshops where beginners learn how to plant and care for the seeds. For the members, the library is not just a place for books but a place where a community grows together.",
+    "options": [
+      "How to Write a Popular Book About Gardening for Beginners",
+      "The Most Expensive Vegetables You Can Buy in the World",
+      "Seed Libraries: Growing Plants and Community Through Sharing",
+      "Why Public Libraries Should Charge a Fee for Every Single Book",
+      "A Day in the Life of a Busy Farmer in the Countryside"
+    ],
+    "answer": 2,
+    "translation": "일부 도서관에서는 특이한 것을 빌릴 수 있는데 바로 씨앗이다. 씨앗 도서관이라 불리는 이런 곳에서는 정원사가 씨앗 봉지를 무료로 가져가 식물을 키우고 수확물에서 얻은 씨앗 일부를 돌려줄 수 있다. 이렇게 하면 소장품이 계속 늘어난다. 씨앗 도서관은 사람들이 낮은 비용으로 자기 채소를 기르도록 돕는다. 또한 대기업이 더 이상 팔지 않는 오래된 지역 품종을 보호한다. 많은 도서관은 초보자가 씨앗을 심고 돌보는 법을 배우는 워크숍을 연다. 회원들에게 도서관은 책을 위한 곳일 뿐 아니라 공동체가 함께 자라는 곳이다.",
+    "why": "씨앗을 나누며 식물과 공동체가 함께 자라는 씨앗 도서관을 소개하므로 ③이 제목입니다.",
+    "optionNotes": [
+      "책을 쓰는 법은 나오지 않습니다.",
+      "비싼 채소는 나오지 않습니다.",
+      "정답. 나눔으로 식물과 공동체를 기릅니다.",
+      "책값을 받자는 내용은 나오지 않습니다.",
+      "농부의 하루는 나오지 않습니다."
+    ],
+    "trap": "'library'와 'gardeners'가 함께 나온다고 원예 책(①)으로 착각하지 마세요.",
+    "tip": "제목은 핵심 소재(seed libraries)와 의의(community through sharing)를 함께 담으세요."
+  },
+  {
+    "id": "m2b-06-25",
+    "level": "m2",
+    "set": "mock-06",
+    "no": 25,
+    "type": "chart",
+    "stem": "다음 도표의 내용과 일치하지 않는 것은?",
+    "chart": {
+      "title": "Number of Club Members",
+      "unit": "",
+      "labels": [
+        "Sports",
+        "Music",
+        "Art",
+        "Science",
+        "Reading"
+      ],
+      "series": [
+        {
+          "name": "Members",
+          "values": [
+            30,
+            24,
+            18,
+            12,
+            6
+          ]
+        }
+      ]
+    },
+    "passage": "The graph shows the number of members in each school club. ① The Science club has the most members. ② The Music club has 6 more members than the Art club. ③ The Sports club has five times as many members as the Reading club. ④ The Reading club has the fewest members. ⑤ The number of Science club members is half that of the Music club.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "그래프는 각 학교 동아리의 회원 수를 보여 준다. ① 과학부가 회원이 가장 많다. ② 음악부는 미술부보다 회원이 6명 많다. ③ 운동부는 독서부보다 회원이 다섯 배 많다. ④ 독서부가 회원이 가장 적다. ⑤ 과학부의 회원 수는 음악부의 절반이다.",
+    "why": "운동부가 30명으로 가장 많고 과학부는 12명이므로 ①은 일치하지 않습니다.",
+    "optionNotes": [
+      "정답(불일치). 가장 많은 동아리는 운동부(30명)입니다.",
+      "24 - 18 = 6명입니다.",
+      "30 ÷ 6 = 5배입니다.",
+      "독서부가 6명으로 가장 적습니다.",
+      "12는 24의 절반입니다."
+    ],
+    "trap": "가장 많다/적다를 묻는 문장은 모든 항목의 값을 비교해야 합니다.",
+    "tip": "최상급 표현(the most/the fewest)은 전체 값을 훑어 확인하세요."
+  },
+  {
+    "id": "m2b-06-26",
+    "level": "m2",
+    "set": "mock-06",
+    "no": 26,
+    "type": "match",
+    "stem": "Hedy Lamarr에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Hedy Lamarr was born in Vienna, Austria, in 1914. She became a famous movie star in Hollywood after moving to the United States in the late 1930s. However, she was also a gifted inventor who spent her free time working on new ideas. During World War II, she wanted to help her adopted country, and she learned that the radio signals of torpedoes could be blocked by the enemy. Together with the composer George Antheil, she designed a system in which the signal jumps quickly between different frequencies. They received a patent for it in 1942. The navy did not use it at the time, but the same principle is now used in technologies such as Wi-Fi and Bluetooth.",
+    "options": [
+      "미국에서 태어나 영화배우가 된 뒤로는 발명을 포기했다.",
+      "제2차 세계 대전 중 해군에서 군인으로 복무했다.",
+      "작곡가와 함께 신호가 여러 주파수 사이를 빠르게 옮겨 다니는 통신 방식을 설계해 특허를 받았고 그 원리는 오늘날에도 쓰이고 있다.",
+      "그녀가 설계한 시스템은 당시 해군이 즉시 널리 사용했다.",
+      "특허는 1914년에 받았다."
+    ],
+    "answer": 2,
+    "translation": "헤디 라마는 1914년 오스트리아 빈에서 태어났다. 1930년대 후반 미국으로 건너간 뒤 그녀는 할리우드의 유명한 영화배우가 되었다. 그러나 그녀는 여가 시간에 새로운 아이디어를 연구하는 재능 있는 발명가이기도 했다. 제2차 세계 대전 중 그녀는 입양된 나라를 돕고 싶었고 어뢰의 무선 신호가 적에게 차단될 수 있다는 것을 알게 되었다. 작곡가 조지 앤타일과 함께 그녀는 신호가 서로 다른 주파수 사이를 빠르게 뛰어넘는 시스템을 설계했다. 그들은 1942년에 그것으로 특허를 받았다. 해군은 당시에 그것을 사용하지 않았지만 같은 원리가 지금은 와이파이와 블루투스 같은 기술에 쓰인다.",
+    "why": "'she designed a system in which the signal jumps ~ patent ~ the same principle is now used in Wi-Fi and Bluetooth'와 일치합니다.",
+    "optionNotes": [
+      "오스트리아에서 태어났고 발명도 계속했습니다.",
+      "군인으로 복무한 내용은 없습니다.",
+      "정답. 주파수 도약 방식을 설계해 특허를 받았고 지금도 쓰입니다.",
+      "해군은 당시 사용하지 않았습니다.",
+      "특허는 1942년에 받았습니다."
+    ],
+    "trap": "출생 연도(1914)와 특허 연도(1942)를 혼동하지 마세요.",
+    "tip": "일치 문제는 연도·장소·행위자를 하나씩 대조하세요."
+  },
+  {
+    "id": "m2b-06-27",
+    "level": "m2",
+    "set": "mock-06",
+    "no": 27,
+    "type": "notice",
+    "stem": "Science Quiz Night에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "Hanbit Science Quiz Night\nDate: Friday, November 7, 6:30 p.m. - 8:30 p.m.\nPlace: School Auditorium\nTeams: 3 - 4 students per team (students from grades 7 to 9)\nRegistration: Send your team name and members' names to the science teacher, Mr. Han, by November 3. Registration is free.\nRules: No phones or books are allowed during the quiz. Each round has ten questions, and teams have 30 seconds to answer each one.\nPrizes: The winning team receives science kits, and every participant gets a snack set.",
+    "options": [
+      "한 팀은 두 명의 학생으로 구성된다.",
+      "참가하려면 일정한 참가비를 내야 한다.",
+      "신청은 퀴즈가 열리는 11월 7일까지 받는다.",
+      "퀴즈 중에는 휴대전화와 책을 쓸 수 없다.",
+      "간식 세트는 우승팀에게만 제공된다."
+    ],
+    "answer": 3,
+    "translation": "한빛 과학 퀴즈의 밤. 일시: 11월 7일 금요일 오후 6시 30분~8시 30분. 장소: 학교 강당. 팀: 팀당 3~4명(7~9학년 학생). 신청: 11월 3일까지 팀 이름과 팀원 이름을 과학 교사 한 선생님께 보내세요. 신청은 무료입니다. 규칙: 퀴즈 중에는 휴대전화나 책을 쓸 수 없습니다. 각 라운드에는 열 문제가 있고 팀은 문제당 30초 안에 답해야 합니다. 상: 우승팀은 과학 키트를 받고 모든 참가자는 간식 세트를 받습니다.",
+    "why": "'No phones or books are allowed during the quiz.'와 일치합니다.",
+    "optionNotes": [
+      "팀은 3~4명입니다.",
+      "신청은 무료입니다.",
+      "신청 마감은 11월 3일입니다.",
+      "정답. 휴대전화와 책을 사용할 수 없습니다.",
+      "모든 참가자가 간식 세트를 받습니다."
+    ],
+    "trap": "신청 마감(11월 3일)과 행사일(11월 7일)을 혼동하지 마세요.",
+    "tip": "안내문은 날짜, 비용, 상 항목을 보기와 정확히 대조하세요."
+  },
+  {
+    "id": "m2b-06-28",
+    "level": "m2",
+    "set": "mock-06",
+    "no": 28,
+    "type": "notice",
+    "stem": "School Garden Club에 관한 다음 안내문의 내용과 일치하는 것은?",
+    "passage": "School Garden Club Is Looking for New Members!\nWho: Students in grades 7 - 9 who like plants and the outdoors\nActivities: Growing vegetables and flowers in the school garden, making compost, and selling vegetables at the school festival\nMeetings: Every Tuesday and Thursday after school (4:00 p.m. - 5:00 p.m.)\nApply: Fill out the form outside Room 105 by March 14. Interviews are not required.\nNotes: Bring a hat and work gloves. Members can take home some of the vegetables they grow.\nContact: Ms. Choi (Room 105)",
+    "options": [
+      "모임은 매주 월요일과 수요일 방과 후에 열린다.",
+      "신청한 학생은 반드시 면접을 따로 보아야 한다.",
+      "활동은 모두 교실 안에서만 이루어지며 야외 활동은 없다.",
+      "회원은 기른 채소의 일부를 집에 가져갈 수 있다.",
+      "수확한 채소는 전부 학교에 기부해야 한다고 한다."
+    ],
+    "answer": 3,
+    "translation": "학교 텃밭 동아리가 새 회원을 모집합니다! 대상: 식물과 야외 활동을 좋아하는 7~9학년 학생. 활동: 학교 텃밭에서 채소와 꽃 키우기, 퇴비 만들기, 학교 축제에서 채소 판매. 모임: 매주 화요일과 목요일 방과 후(오후 4시~5시). 신청: 3월 14일까지 105호 앞에서 양식 작성. 면접은 필요 없습니다. 유의: 모자와 작업용 장갑을 가져오세요. 회원은 직접 기른 채소 일부를 집에 가져갈 수 있습니다. 문의: 최 선생님(105호).",
+    "why": "'Members can take home some of the vegetables they grow.'와 일치합니다.",
+    "optionNotes": [
+      "모임은 화요일과 목요일입니다.",
+      "면접은 필요 없습니다.",
+      "활동은 텃밭에서 이루어집니다.",
+      "정답. 기른 채소 일부를 집에 가져갈 수 있습니다.",
+      "일부는 가져갈 수 있고 일부는 판매합니다."
+    ],
+    "trap": "채소를 판매한다는 내용을 전부 기부한다고 오해하지 마세요.",
+    "tip": "안내문의 Meetings, Apply, Notes 항목을 하나씩 대조하세요."
+  }
+]
