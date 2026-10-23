@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m3b-09-29",
+    "level": "m3",
+    "set": "mock-09",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Tardigrades, also known as water bears, are tiny animals {1|that} are less than one millimeter long. Despite their size, they are among the toughest creatures on Earth. When the environment becomes too dry, a tardigrade pulls in its legs and loses almost all the water in its body, {2|entering} a state that scientists call cryptobiosis. In this state, it can survive for years, even if it is exposed to extreme cold, heat, or radiation. Once water returns, the animal comes back to life as if nothing {3|had happened}. Researchers are studying how tardigrades protect their cells, hoping that the discovery will help {4|preserving} medicines and even the cells of astronauts during long journeys. Some scientists also suggest that the special proteins {5|found} in these animals could one day make human medicine more stable and easier to carry.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "곰벌레라고도 알려진 완보동물은 길이가 1밀리미터도 안 되는 작은 동물이다. 크기에도 불구하고 그들은 지구에서 가장 강인한 생물 중 하나이다. 환경이 너무 건조해지면 완보동물은 다리를 오므리고 몸속의 물을 거의 모두 잃으며 과학자들이 크립토비오시스라고 부르는 상태에 들어간다. 이 상태에서는 극단적인 추위, 열 또는 방사선에 노출되어도 몇 년 동안 살아남을 수 있다. 물이 돌아오면 그 동물은 아무 일도 없었던 것처럼 되살아난다. 연구자들은 완보동물이 세포를 어떻게 보호하는지 연구하고 있으며 이 발견이 의약품과 장거리 여행 중 우주 비행사의 세포를 보존하는 데 도움이 되기를 바란다. 일부 과학자들은 또한 이 동물에서 발견된 특별한 단백질이 언젠가 인간의 의약품을 더 안정적이고 운반하기 쉽게 만들 수 있다고 말한다.",
+    "why": "help는 목적어 없이 동사원형이나 to부정사를 취하므로 'help preserving'이 아니라 'help preserve'(또는 help to preserve)여야 합니다.",
+    "optionNotes": [
+      "animals를 수식하는 주격 관계대명사 that입니다.",
+      "분사구문으로 앞 동작의 결과를 나타냅니다.",
+      "과거완료형이 as if 가정 속의 시제로 알맞습니다.",
+      "정답(틀린 것). help 뒤에는 preserve가 와야 합니다.",
+      "proteins를 수식하는 과거분사 found입니다."
+    ],
+    "trap": "전치사 뒤에서 동명사를 써야 한다는 규칙을 help에도 적용하는 실수를 하기 쉽습니다.",
+    "tip": "help + (to)동사원형의 구조를 기억하세요."
+  },
+  {
+    "id": "m3b-09-30",
+    "level": "m3",
+    "set": "mock-09",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "More people are choosing a minimalist lifestyle, which means owning {1|fewer} things than the average person. They believe that too many possessions can make life {2|complicated}, because every object needs to be cleaned, stored, and repaired. By getting rid of unnecessary items, minimalists say they have more time and energy for what truly {3|matters} to them, such as relationships and hobbies. They also tend to spend less money, since they think carefully before buying anything. However, minimalism does not mean {4|buying} useful items just to own as little as possible. It means keeping only the items that are useful or meaningful. In this sense, the goal is not emptiness, but a life with more {5|freedom} and focus.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "더 많은 사람이 미니멀리스트 생활 방식을 택하고 있는데 이는 보통 사람보다 더 적은 물건을 소유한다는 뜻이다. 그들은 모든 물건을 닦고 보관하고 수리해야 하기 때문에 너무 많은 소유물이 삶을 복잡하게 만들 수 있다고 믿는다. 불필요한 물건을 없앰으로써 미니멀리스트는 관계와 취미처럼 자신에게 정말 중요한 것에 쓸 시간과 에너지가 더 생긴다고 말한다. 그들은 무엇이든 사기 전에 신중히 생각하기 때문에 돈도 덜 쓰는 경향이 있다. 그러나 미니멀리즘이 가능한 한 적게 소유하려고 유용한 물건을 버리는 것을 뜻하는 것은 아니다. 그것은 유용하거나 의미 있는 물건만 가지고 있는 것을 뜻한다. 이런 의미에서 목표는 비움이 아니라 더 많은 자유와 집중이 있는 삶이다.",
+    "why": "가능한 한 적게 소유하려고 하는 것이므로 유용한 물건을 '사는(buying)' 것이 아니라 '버리는(throwing away)' 것이 알맞습니다.",
+    "optionNotes": [
+      "더 적은 물건을 소유한다는 의미로 fewer가 알맞습니다.",
+      "물건이 많아 복잡하다는 의미로 complicated가 알맞습니다.",
+      "정말 중요한 것이라는 의미로 matters가 알맞습니다.",
+      "정답(부적절). 적게 소유하려고 사는 것은 모순이므로 throwing away여야 합니다.",
+      "자유와 집중이라는 의미로 freedom이 알맞습니다."
+    ],
+    "trap": "'as little as possible'과 호응하는 동사의 방향을 놓치기 쉽습니다.",
+    "tip": "낱말이 앞뒤의 논리(적게 소유)와 호응하는지 확인하세요."
+  },
+  {
+    "id": "m3b-09-31",
+    "level": "m3",
+    "set": "mock-09",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Most of us believe that more choice is always better. Imagine walking into a store that sells fifty kinds of jam. It feels exciting, but researchers have found that too many options can actually reduce satisfaction. In one famous study, shoppers who were offered twenty-four jams were less likely to buy anything than shoppers who saw only six. Even among those who did buy, the people who had seen many jams felt less sure about their choice later. The reason is that a large number of options raises our expectations and makes us imagine everything that we have given up. We begin to worry that a better choice was available somewhere on the shelf. Therefore, when there are too many choices, we tend to __________.",
+    "options": [
+      "enjoy shopping more and buy much larger quantities of it",
+      "feel less satisfied with the choice we finally make",
+      "make decisions faster because we have clearer goals",
+      "ask our friends to choose everything for us instead",
+      "ignore the prices and focus only on the colors of jars"
+    ],
+    "answer": 1,
+    "translation": "우리 대부분은 선택지가 많을수록 항상 더 좋다고 믿는다. 쉰 가지 종류의 잼을 파는 가게에 들어간다고 상상해 보라. 신나는 일이지만 연구자들은 선택지가 너무 많으면 오히려 만족도가 떨어질 수 있음을 발견했다. 한 유명한 연구에서 스물네 가지 잼을 본 쇼핑객은 여섯 가지만 본 쇼핑객보다 아무것도 사지 않을 가능성이 더 높았다. 물건을 산 사람들 중에서도 많은 잼을 본 사람들은 나중에 자신의 선택을 덜 확신했다. 그 이유는 선택지가 많으면 기대치가 올라가고 우리가 포기한 모든 것을 상상하게 되기 때문이다. 우리는 선반 어딘가에 더 나은 선택이 있었을까 봐 걱정하기 시작한다. 그러므로 선택지가 너무 많으면 우리는 결국 선택한 것에 덜 만족하는 경향이 있다.",
+    "why": "선택지가 많으면 포기한 것을 상상하며 걱정하게 되어 결국 선택에 덜 만족합니다.",
+    "optionNotes": [
+      "쇼핑을 더 즐기고 많이 산다는 내용은 글과 반대입니다.",
+      "정답. 최종 선택에 덜 만족합니다.",
+      "결정이 빨라진다는 내용은 나오지 않습니다.",
+      "친구에게 고르게 한다는 내용은 나오지 않습니다.",
+      "가격과 색상은 나오지 않습니다."
+    ],
+    "trap": "'exciting'에 이끌려 긍정적 결과(①)를 고르지 마세요.",
+    "tip": "앞의 연구 결과(less likely to buy, less sure)에서 결론을 추론하세요."
+  },
+  {
+    "id": "m3b-09-32",
+    "level": "m3",
+    "set": "mock-09",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Have you ever kept watching a boring movie only because you had already paid for the ticket? Economists call this the sunk cost fallacy. The money for the ticket is gone whether you stay or leave, so the only question that matters is whether the next hour will be enjoyable. But our minds find it painful to waste what we have invested, so we continue. This habit costs us time and energy. Companies keep funding projects that are clearly failing, and people stay in unhappy situations for the same reason. To make better decisions, we should learn to ask, \"If I were starting today, would I choose this?\" In other words, rational choices are based on __________, not on what we have already spent.",
+    "options": [
+      "how much money other people have spent in the past",
+      "the opinions of people who have watched it before",
+      "what we can gain or lose from now on",
+      "the total amount that we paid for similar items",
+      "how difficult it was to make our first decision"
+    ],
+    "answer": 2,
+    "translation": "이미 표값을 냈다는 이유만으로 지루한 영화를 계속 본 적이 있는가? 경제학자들은 이를 매몰 비용의 오류라고 부른다. 표값은 남든 떠나든 이미 사라졌으므로 중요한 질문은 다음 한 시간이 즐거울지 여부뿐이다. 그러나 우리 마음은 투자한 것을 낭비하는 것을 고통스럽게 여기므로 계속한다. 이 습관은 우리의 시간과 에너지를 소모시킨다. 기업은 분명히 실패하고 있는 프로젝트에 계속 자금을 대고 사람들은 같은 이유로 불행한 상황에 머문다. 더 나은 결정을 내리려면 \"오늘 시작한다면 이것을 선택할까?\"라고 묻는 법을 배워야 한다. 다시 말해 합리적인 선택은 우리가 이미 쓴 것이 아니라 지금부터 우리가 얻거나 잃을 수 있는 것에 기초한다.",
+    "why": "이미 쓴 비용이 아니라 앞으로 얻거나 잃을 것을 기준으로 해야 한다는 내용입니다.",
+    "optionNotes": [
+      "다른 사람이 쓴 돈은 나오지 않습니다.",
+      "다른 사람의 의견은 나오지 않습니다.",
+      "정답. 지금부터 얻거나 잃을 수 있는 것입니다.",
+      "비슷한 물건에 쓴 금액은 나오지 않습니다.",
+      "첫 결정의 난이도는 나오지 않습니다."
+    ],
+    "trap": "'what we have already spent'와 대조되는 내용을 찾으세요.",
+    "tip": "not A but B 구조에서 빈칸은 A와 반대되는 개념입니다."
+  },
+  {
+    "id": "m3b-09-33",
+    "level": "m3",
+    "set": "mock-09",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In a famous experiment from the 1960s, researchers told teachers that certain students had been identified by a special test as late bloomers who would soon make rapid progress. In fact, these students had been chosen at random. At the end of the year, however, the chosen students showed greater improvement in their scores than their classmates. Later analysis suggested that the teachers had unconsciously paid more attention to these students, smiled at them more often, and given them more detailed feedback. The students noticed this support and gained confidence, which led to better results. The researchers also noted that the effect was strongest among young children in the first and second grades, who are especially sensitive to adult approval. This study suggests that the expectations teachers hold can become __________.",
+    "options": [
+      "a mistake that students quickly learn to correct",
+      "a rule that every school should follow carefully",
+      "a force that shapes how the students actually perform",
+      "a habit that teachers inherit from their own parents and teachers",
+      "a reason why exams should be replaced by interviews"
+    ],
+    "answer": 2,
+    "translation": "1960년대의 한 유명한 실험에서 연구자들은 교사들에게 특별한 검사로 어떤 학생들이 곧 빠르게 성장할 대기만성형 학생으로 확인되었다고 말했다. 사실 이 학생들은 무작위로 뽑힌 것이었다. 그러나 학년 말에 뽑힌 학생들은 반 친구들보다 점수가 더 많이 향상되었다. 나중의 분석은 교사들이 무의식적으로 이 학생들에게 더 많은 관심을 기울이고 더 자주 미소 지으며 더 자세한 피드백을 주었음을 시사했다. 학생들은 이 지지를 알아채고 자신감을 얻었으며 이는 더 나은 결과로 이어졌다. 연구자들은 또한 그 효과가 어른의 인정에 특히 민감한 1, 2학년 어린아이들에게서 가장 강했다고 지적했다. 이 연구는 교사가 가진 기대가 학생들이 실제로 성취하는 모습을 만드는 힘이 될 수 있음을 시사한다.",
+    "why": "무작위로 뽑힌 학생들도 교사의 기대와 관심 덕분에 성적이 올랐으므로 기대는 실제 성취를 만드는 힘이 될 수 있습니다.",
+    "optionNotes": [
+      "학생이 고치는 실수라는 내용은 나오지 않습니다.",
+      "학교가 따라야 할 규칙이라는 내용은 나오지 않습니다.",
+      "정답. 학생의 실제 성취를 만드는 힘입니다.",
+      "교사의 습관 상속은 나오지 않습니다.",
+      "시험 대체는 나오지 않습니다."
+    ],
+    "trap": "'chosen at random'을 놓치고 학생의 원래 능력 때문이라고 오해하지 마세요.",
+    "tip": "실험 결과(무작위인데도 성적 향상)에서 결론을 추론하세요."
+  },
+  {
+    "id": "m3b-09-34",
+    "level": "m3",
+    "set": "mock-09",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Writers often fail to notice errors in their own writing, even after reading it several times. This happens because the brain already knows what the text is supposed to say. When we read our own words, our mind fills in missing letters and skips over mistakes, seeing what we meant to write instead of what is actually on the page. For example, a student may read an essay five times and still miss the same word written twice in a row. Proofreading someone else's work is therefore much easier. That is why editors suggest changing the way the text looks before proofreading, for example by using a different font or by reading it aloud. These changes make the familiar text feel new, and this forces the brain to __________.",
+    "options": [
+      "memorize the whole text without reading it once again",
+      "process each word more carefully instead of guessing",
+      "ignore the mistakes that do not change the meaning",
+      "recognize the writer's original intention more quickly",
+      "repeat the same errors in a more efficient way"
+    ],
+    "answer": 1,
+    "translation": "작가들은 여러 번 읽은 뒤에도 자기 글의 오류를 알아채지 못하는 경우가 많다. 이는 뇌가 글이 무슨 말을 해야 하는지 이미 알고 있기 때문에 일어난다. 우리가 자기 글을 읽을 때 마음은 빠진 글자를 채우고 실수를 건너뛰어 실제로 쓰인 것이 아니라 쓰려고 했던 것을 본다. 예를 들어 학생은 에세이를 다섯 번 읽고도 연속으로 두 번 쓰인 같은 단어를 놓칠 수 있다. 그래서 남의 글을 교정하는 것이 훨씬 쉽다. 그래서 편집자들은 교정을 보기 전에 다른 글꼴을 쓰거나 소리 내어 읽는 것처럼 글이 보이는 방식을 바꾸라고 제안한다. 이런 변화는 익숙한 글을 새롭게 느끼게 하고 이는 뇌가 추측하는 대신 각 단어를 더 신중하게 처리하도록 만든다.",
+    "why": "익숙한 글을 낯설게 만들면 뇌가 추측하지 않고 단어를 하나씩 더 신중하게 처리하게 됩니다.",
+    "optionNotes": [
+      "다시 읽지 않고 외운다는 내용은 나오지 않습니다.",
+      "정답. 추측 대신 각 단어를 신중하게 처리합니다.",
+      "의미가 같은 실수를 무시한다는 내용은 나오지 않습니다.",
+      "작가의 의도를 더 빨리 알아본다는 내용은 글과 반대입니다.",
+      "같은 오류를 반복한다는 내용은 글과 반대입니다."
+    ],
+    "trap": "'familiar text feel new'의 효과를 속도 향상(④)으로 오해하지 마세요.",
+    "tip": "방법(글꼴 바꾸기·소리 내어 읽기)의 목적이 빈칸의 단서입니다."
+  },
+  {
+    "id": "m3b-09-35",
+    "level": "m3",
+    "set": "mock-09",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Coral reefs cover less than one percent of the ocean floor. Yet they support about a quarter of all marine species, which makes them one of the most valuable ecosystems on Earth. ① Their complex structures provide shelter for small fish, crabs, and many other animals that would otherwise be eaten by larger predators. ② They also protect coastlines by reducing the force of waves during storms, so that nearby villages suffer less damage. ③ Millions of people depend on reefs for food and for the income that comes from fishing and tourism. ④ Unfortunately, rising sea temperatures cause corals to lose their color and sometimes die, which threatens everything that lives around them. ⑤ The deepest part of the ocean, the Mariana Trench, lies more than ten kilometers below the surface and is almost completely dark.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "산호초는 해저의 1퍼센트도 안 되는 면적을 차지한다. 그러나 모든 해양 생물종의 약 4분의 1을 부양하여 지구에서 가장 가치 있는 생태계 중 하나이다. ① 산호초의 복잡한 구조는 그렇지 않으면 더 큰 포식자에게 잡아먹힐 작은 물고기, 게, 그 밖의 많은 동물에게 은신처를 제공한다. ② 또한 폭풍 때 파도의 힘을 줄여 해안을 보호하므로 인근 마을의 피해가 줄어든다. ③ 수백만 명이 먹을거리와 어업 및 관광에서 나오는 소득을 산호초에 의존한다. ④ 안타깝게도 해수 온도 상승은 산호가 색을 잃고 때로는 죽게 하여 주변에 사는 모든 것을 위협한다. ⑤ 바다에서 가장 깊은 부분인 마리아나 해구는 수면 아래 10킬로미터가 넘는 곳에 있으며 거의 완전히 어둡다.",
+    "why": "글은 산호초의 가치와 위협을 말하는데 ⑤는 마리아나 해구라는 별개의 이야기이므로 관계가 없습니다.",
+    "optionNotes": [
+      "산호초가 은신처를 제공한다는 가치입니다.",
+      "해안 보호라는 가치입니다.",
+      "인간 생계에 대한 가치입니다.",
+      "산호초에 대한 위협입니다.",
+      "정답(무관). 깊은 바다에 관한 이야기입니다."
+    ],
+    "trap": "'ocean'이라는 같은 소재 때문에 관련 있다고 착각하기 쉽습니다.",
+    "tip": "주제(산호초의 가치와 위협)를 직접 뒷받침하지 않는 문장을 고르세요."
+  },
+  {
+    "id": "m3b-09-36",
+    "level": "m3",
+    "set": "mock-09",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "When potatoes first arrived in Europe from South America in the sixteenth century, most people refused to eat them. Many farmers even used them only as decorations in their gardens, admiring the flowers.\n(A) Within a few decades, potatoes spread across the continent. They became one of the most important foods for ordinary families and helped to protect them from famine in many countries.\n(B) To change this attitude, a French pharmacist named Antoine Parmentier held a dinner where every dish was made from potatoes. He invited famous guests such as scientists and politicians.\n(C) People believed that the plant was poisonous. One reason was that it belonged to the same family as the deadly nightshade. Another was that it grew underground, which seemed unnatural to them.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 4,
+    "translation": "감자가 16세기에 남미에서 유럽에 처음 도착했을 때 대부분의 사람들은 먹기를 거부했다. 많은 농부는 심지어 감자를 정원의 장식으로만 사용하며 꽃을 감상했다. (C) 사람들은 그 식물이 독이 있다고 믿었다. 한 가지 이유는 독성이 있는 가짓과 식물과 같은 과에 속한다는 것이었다. 또 하나는 땅속에서 자라는 것이 그들에게 부자연스러워 보였다는 것이었다. (B) 이 태도를 바꾸려고 프랑스의 약사 앙투안 파르망티에는 모든 요리를 감자로 만든 만찬을 열었다. 그는 과학자와 정치인 같은 유명한 손님들을 초대했다. (A) 몇십 년 안에 감자는 대륙 전역으로 퍼졌다. 감자는 일반 가정에 가장 중요한 음식 중 하나가 되어 여러 나라에서 기근에서 벗어나게 도왔다.",
+    "why": "(C) 사람들이 거부한 이유 → (B) 'this attitude'를 바꾸려는 시도 → (A) 'Within a few decades' 결과 순서입니다.",
+    "optionNotes": [
+      "(A)의 결과가 이유 설명 전에 나와 흐름이 어긋납니다.",
+      "(B)의 'this attitude'가 가리킬 태도의 이유가 앞에 없습니다.",
+      "(B)가 (C)보다 먼저 오면 'this attitude'가 불분명합니다.",
+      "(B)가 가장 뒤에 오면 변화의 계기가 결과 뒤에 놓입니다.",
+      "정답. 거부 이유 → 변화 시도 → 결과."
+    ],
+    "trap": "(B)의 'this attitude'는 (C)에서 설명한 거부감을 가리킵니다.",
+    "tip": "this attitude 같은 지시어가 가리키는 앞 내용을 확인하세요."
+  },
+  {
+    "id": "m3b-09-37",
+    "level": "m3",
+    "set": "mock-09",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Many people think that the best way to learn a language is to memorize long lists of vocabulary. This method seems efficient because it allows students to cover many words in a short time and to prepare for tests.\n(A) In contrast, words that are met in stories or conversations are linked to images, feelings, and situations. This makes them much easier to recall later.\n(B) For this reason, many language teachers now encourage their students to read short stories and talk with native speakers instead of relying on lists alone. Lists are useful only as a supplement.\n(C) However, researchers have found that words learned in isolation are quickly forgotten. Often, they disappear within a few days after the students have studied them for an exam.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 3,
+    "translation": "많은 사람이 언어를 배우는 가장 좋은 방법은 긴 어휘 목록을 외우는 것이라고 생각한다. 이 방법은 학생들이 짧은 시간에 많은 단어를 다루고 시험을 준비할 수 있게 해 주므로 효율적으로 보인다. (C) 그러나 연구자들은 따로 배운 단어가 빠르게 잊힌다는 것을 발견했다. 흔히 학생들이 시험공부를 한 지 며칠 안에 사라진다. (A) 반면 이야기나 대화에서 만난 단어는 이미지, 감정, 상황과 연결된다. 이는 나중에 떠올리기를 훨씬 쉽게 해 준다. (B) 이런 이유로 많은 언어 교사는 이제 학생들에게 목록에만 의존하기보다 짧은 이야기를 읽고 원어민과 대화하라고 권한다. 목록은 보충으로만 유용하다.",
+    "why": "(C) 'However'로 목록 암기의 한계 → (A) 'In contrast'로 대안 → (B) 'For this reason'으로 교사들의 권장 순서입니다.",
+    "optionNotes": [
+      "(A)의 'In contrast'가 대조할 앞 내용이 없습니다.",
+      "(B)의 'For this reason'이 가리킬 이유가 앞에 없습니다.",
+      "(B)가 가장 먼저 오면 이유가 제시되기 전에 결론이 나옵니다.",
+      "정답. 한계 → 대안 → 결론.",
+      "(B)가 (A) 앞에 오면 'For this reason'의 이유가 부족합니다."
+    ],
+    "trap": "(A)의 'In contrast'는 (C)에서 말한 isolation과 대비됩니다.",
+    "tip": "However → In contrast → For this reason의 논리 연결어를 따라가세요."
+  },
+  {
+    "id": "m3b-09-38",
+    "level": "m3",
+    "set": "mock-09",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nHowever, this popular explanation does not seem to be correct.\n\n[글]\n( ① ) Yawning is something that every person does, from babies before birth to elderly adults, and even many animals do it. ( ② ) Many people believe that we yawn because our body needs more oxygen, and that yawning brings extra air into the lungs. ( ③ ) In one experiment, volunteers who breathed air containing extra oxygen yawned just as often as those who breathed normal air. ( ④ ) Another theory suggests that yawning cools the brain by bringing in cooler air from outside. ( ⑤ ) Supporting this idea, people tend to yawn more often when the temperature is mild than when it is very hot.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 그러나 이 대중적인 설명은 옳지 않은 것 같다. [글] 하품은 태어나기 전의 아기부터 노인까지 모든 사람이 하는 일이고 많은 동물도 한다. 많은 사람은 몸에 산소가 더 필요해서 하품을 하고 하품이 폐에 여분의 공기를 들여온다고 믿는다. 한 실험에서 여분의 산소가 든 공기를 마신 자원자들은 보통 공기를 마신 사람들만큼 자주 하품했다. 다른 이론은 하품이 바깥의 더 찬 공기를 들여와 뇌를 식힌다고 제안한다. 이 생각을 뒷받침하듯 사람들은 기온이 매우 높을 때보다 온화할 때 더 자주 하품하는 경향이 있다.",
+    "why": "산소 부족 설명을 소개한 뒤 'However'로 그것이 옳지 않다고 말하고, 곧이어 반증 실험이 이어지므로 ③에 들어갑니다.",
+    "optionNotes": [
+      "'this popular explanation'이 가리킬 설명이 아직 나오지 않았습니다.",
+      "설명이 소개되기 전이라 'this popular explanation'이 어색합니다.",
+      "정답. 산소 설명 뒤에 반박하고 실험으로 이어집니다.",
+      "실험 뒤에 반박하면 'However'의 논리가 어긋납니다.",
+      "다른 이론을 설명한 뒤에는 반박 대상이 달라집니다."
+    ],
+    "trap": "'this popular explanation'은 산소 이론을 가리킨다는 점을 놓치지 마세요.",
+    "tip": "However 문장은 앞의 통념을 받아 반박한 뒤 근거가 이어지는 자리에 들어갑니다."
+  },
+  {
+    "id": "m3b-09-39",
+    "level": "m3",
+    "set": "mock-09",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nAs a result, harvests became smaller and smaller, and many families struggled to find enough food.\n\n[글]\n( ① ) For centuries, farmers in Europe planted wheat in the same field every year, and the soil slowly lost its nutrients. ( ② ) In the eighteenth century, some farmers discovered that growing beans or clover after wheat could restore the soil, because these plants return nitrogen to the ground. ( ③ ) They began to divide their land into several fields and to rotate the crops among them each year. ( ④ ) This method, known as crop rotation, allowed the land to stay productive without resting for a whole year. ( ⑤ ) It was one of the main reasons for the rapid growth of Europe's population during that period.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "[주어진 문장] 그 결과 수확량은 점점 줄었고 많은 가정이 충분한 식량을 구하느라 어려움을 겪었다. [글] 수 세기 동안 유럽의 농부들은 같은 밭에 해마다 밀을 심었고 흙은 서서히 양분을 잃었다. 18세기에 일부 농부는 밀 다음에 콩이나 클로버를 키우면 이 식물들이 땅에 질소를 돌려주기 때문에 흙을 회복시킬 수 있음을 발견했다. 그들은 땅을 여러 밭으로 나누고 해마다 작물을 돌려 가며 심기 시작했다. 윤작이라고 알려진 이 방법은 땅이 일 년 내내 쉬지 않고도 생산성을 유지하게 했다. 그것은 그 시기 유럽 인구의 급속한 증가의 주요 이유 중 하나였다.",
+    "why": "밀을 계속 심어 흙의 양분이 줄었다는 원인 뒤에 'As a result'로 수확량 감소가 이어지고, 이후 해결책이 나오므로 ②에 들어갑니다.",
+    "optionNotes": [
+      "'As a result'가 가리킬 원인이 아직 나오지 않았습니다.",
+      "정답. 흙의 양분 손실의 결과로 수확량이 줄었습니다.",
+      "해결책을 발견한 뒤에 수확량 감소가 나오면 흐름이 어긋납니다.",
+      "윤작 설명 뒤에 수확량 감소가 나오면 논리가 어긋납니다.",
+      "마지막 문장 앞은 결과 위치이므로 감소가 어색합니다."
+    ],
+    "trap": "주어진 문장의 'harvests became smaller'를 해결책 이후의 결과로 착각하지 마세요.",
+    "tip": "As a result는 원인 바로 뒤에 놓이며, 이후 해결책이 이어집니다."
+  },
+  {
+    "id": "m3b-09-40",
+    "level": "m3",
+    "set": "mock-09",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In one experiment, researchers asked participants to come up with new uses for a ping-pong ball, either in a tidy room or in a messy room. The participants in the messy room produced ideas that judges rated as more creative. In another part of the study, participants were offered a snack as they left. Those from the tidy room more often chose an apple, while those from the messy room more often chose a chocolate bar. The researchers explained that order encourages us to follow rules and traditions, which supports healthy habits, whereas disorder encourages us to break away from convention, which supports new ideas.\n\n▶ A (A) environment tends to lead to conventional and healthy choices, while a (B) one tends to inspire more creative ideas.",
+    "options": [
+      "(A) messy — (B) tidy",
+      "(A) tidy — (B) messy",
+      "(A) noisy — (B) quiet",
+      "(A) bright — (B) dark",
+      "(A) crowded — (B) empty"
+    ],
+    "answer": 1,
+    "translation": "한 실험에서 연구자들은 참가자들에게 탁구공의 새로운 쓰임을 정돈된 방이나 어질러진 방에서 생각해 내게 했다. 어질러진 방의 참가자들은 심사위원이 더 창의적이라고 평가한 아이디어를 내놓았다. 연구의 다른 부분에서 참가자들은 나갈 때 간식을 제안받았다. 정돈된 방에 있던 사람들은 사과를 더 자주 골랐고 어질러진 방에 있던 사람들은 초콜릿 바를 더 자주 골랐다. 연구자들은 질서가 규칙과 전통을 따르도록 장려하여 건강한 습관을 뒷받침하는 반면 무질서는 관습에서 벗어나도록 장려하여 새로운 아이디어를 뒷받침한다고 설명했다. ▶ (A) 환경은 전통적이고 건강한 선택으로 이끄는 경향이 있고 (B) 환경은 더 창의적인 아이디어를 불러일으키는 경향이 있다.",
+    "why": "정돈된 방은 사과 같은 건강한 선택으로, 어질러진 방은 더 창의적인 아이디어로 이어졌으므로 (A)는 tidy, (B)는 messy입니다.",
+    "optionNotes": [
+      "tidy와 messy가 서로 바뀌어 있습니다.",
+      "정답. 정돈된 환경은 건강한 선택, 어질러진 환경은 창의성입니다.",
+      "noisy와 quiet는 글에 나오지 않습니다.",
+      "bright와 dark는 글에 나오지 않습니다.",
+      "crowded와 empty는 글에 나오지 않습니다."
+    ],
+    "trap": "(A)와 (B)의 순서를 바꿔 넣지 않도록 결과(건강한 선택 / 창의성)와 짝지으세요.",
+    "tip": "요약문은 조건(방의 상태)과 결과(선택 / 창의성)를 짝지으세요."
+  }
+]
