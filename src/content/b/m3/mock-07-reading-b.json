@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m3b-07-29",
+    "level": "m3",
+    "set": "mock-07",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Venice, {1|built} on more than a hundred small islands, has no cars. People travel by boat or on foot through its narrow streets and canals. The city is slowly sinking, {2|which} makes flooding more frequent every year. To protect Venice, engineers have built a system of gates that rise from the seabed when the water level {3|reaches} a certain point. Critics argue that the system, which cost billions of dollars, {4|are} still not a perfect solution. Many residents also worry that too many tourists {5|are} pushing local people out of the city, because rents have risen sharply in the old districts.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "백 개가 넘는 작은 섬 위에 지어진 베네치아에는 자동차가 없다. 사람들은 좁은 길과 운하를 따라 배나 걸어서 이동한다. 도시는 서서히 가라앉고 있고 이는 해마다 침수를 더 잦게 한다. 베네치아를 보호하려고 기술자들은 수위가 일정 수준에 이르면 해저에서 올라오는 수문 체계를 만들었다. 비판하는 사람들은 수십억 달러가 든 그 체계가 여전히 완벽한 해결책이 아니라고 주장한다. 많은 주민은 또한 구시가지의 임대료가 급등했기 때문에 너무 많은 관광객이 지역 주민을 도시 밖으로 몰아내고 있다고 걱정한다.",
+    "why": "주어 'the system'은 단수이므로 'are'가 아니라 'is'여야 합니다.",
+    "optionNotes": [
+      "수동의 의미를 가진 과거분사 built입니다.",
+      "앞 절 전체를 받는 관계대명사 which입니다.",
+      "시간 부사절의 3인칭 단수 현재형 reaches입니다.",
+      "정답(틀린 것). 단수 주어 the system에는 is가 와야 합니다.",
+      "복수 주어 tourists에 맞는 are입니다."
+    ],
+    "trap": "가까이 있는 복수 명사(billions of dollars)에 이끌려 복수 동사를 쓰기 쉽습니다.",
+    "tip": "삽입절(which cost ~)을 건너뛰고 핵심 주어(the system)의 수를 확인하세요."
+  },
+  {
+    "id": "m3b-07-30",
+    "level": "m3",
+    "set": "mock-07",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "A hamburger and fries may be quick and tasty, but eating fast food too often can harm our health. These meals are usually high in salt, sugar, and fat, and low in {1|vitamins}. Over time, a diet that relies on them may {2|reduce} the risk of heart disease and diabetes. Because fast food is cheap and convenient, it is especially {3|popular} among busy students and workers. Nutrition experts therefore advise people to treat it as an occasional treat rather than a daily {4|habit}, and to choose healthier options such as salads or grilled dishes. Even small changes, such as drinking water instead of soda, can {5|improve} your overall diet and make you feel more energetic.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "햄버거와 감자튀김은 빠르고 맛있을 수 있지만 패스트푸드를 너무 자주 먹으면 건강을 해칠 수 있다. 이런 식사는 보통 염분, 당, 지방이 많고 비타민이 적다. 시간이 지나면 그것에 의존하는 식단은 심장병과 당뇨병의 위험을 줄일 수 있다. 패스트푸드는 싸고 편리하기 때문에 바쁜 학생과 직장인 사이에서 특히 인기가 있다. 그래서 영양 전문가들은 사람들에게 그것을 매일의 습관이 아니라 가끔의 별식으로 여기고 샐러드나 구운 요리 같은 더 건강한 선택지를 고르라고 조언한다. 소다 대신 물을 마시는 것 같은 작은 변화도 전반적인 식단을 개선하고 더 활기차게 느끼게 할 수 있다.",
+    "why": "첫 문장에서 패스트푸드가 건강을 해친다고 했으므로 심장병과 당뇨병의 위험을 '줄인다(reduce)'가 아니라 '높인다(increase)'여야 합니다.",
+    "optionNotes": [
+      "비타민이 적다는 의미로 vitamins가 알맞습니다.",
+      "정답(부적절). 건강을 해치므로 increase여야 합니다.",
+      "인기가 있다는 의미로 popular가 알맞습니다.",
+      "매일의 습관이라는 의미로 habit이 알맞습니다.",
+      "식단을 개선한다는 의미로 improve가 알맞습니다."
+    ],
+    "trap": "'diet that relies on them'만 보면 reduce도 가능해 보이지만 첫 문장의 주장과 충돌합니다.",
+    "tip": "글 전체의 주장(harm our health)과 동사의 방향이 일치하는지 확인하세요."
+  },
+  {
+    "id": "m3b-07-31",
+    "level": "m3",
+    "set": "mock-07",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Nostalgia, the warm feeling we have when remembering the past, was once considered a kind of illness. The word comes from Greek and means the pain of returning home. Modern research, however, shows that it can be good for us. People who recall happy memories feel less lonely and more optimistic about the future. In one experiment, participants who wrote about a nostalgic event reported stronger feelings of connection with others than those who wrote about an ordinary event. The effect was clear in people of every age. Researchers believe that nostalgia reminds us that our lives have meaning and that we are valued by people around us. Therefore, looking back at the past can __________. A moment spent remembering old friends may therefore be time well used.",
+    "options": [
+      "make us forget all of the happy moments that we have experienced",
+      "prevent us from making any new friends in the coming years",
+      "slow down the speed at which we learn new skills at school",
+      "cause us to feel more lonely than we did before remembering",
+      "give us the strength and confidence to move forward"
+    ],
+    "answer": 4,
+    "translation": "과거를 떠올릴 때 느끼는 따뜻한 감정인 향수는 한때 일종의 병으로 여겨졌다. 이 단어는 그리스어에서 왔고 집으로 돌아가는 아픔을 뜻한다. 그러나 현대 연구는 그것이 우리에게 이로울 수 있음을 보여 준다. 행복한 기억을 떠올리는 사람은 덜 외롭고 미래에 대해 더 낙관적이다. 한 실험에서 향수를 느끼게 하는 사건에 대해 쓴 참가자들은 평범한 사건에 대해 쓴 참가자들보다 다른 사람들과의 연결감을 더 강하게 보고했다. 그 효과는 모든 연령대의 사람에게서 분명했다. 연구자들은 향수가 우리의 삶에 의미가 있고 주변 사람들에게 소중하게 여겨진다는 것을 상기시킨다고 믿는다. 그러므로 과거를 돌아보는 것은 우리에게 앞으로 나아갈 힘과 자신감을 줄 수 있다. 그러므로 옛 친구를 떠올리며 보내는 순간은 잘 쓰인 시간일 수 있다.",
+    "why": "향수가 외로움을 줄이고 낙관을 높이므로 '앞으로 나아갈 힘과 자신감을 줄 수 있다'가 알맞습니다.",
+    "optionNotes": [
+      "행복한 순간을 잊게 한다는 내용은 글과 반대입니다.",
+      "새 친구를 막는다는 내용은 글과 반대입니다.",
+      "학습 속도는 나오지 않습니다.",
+      "더 외롭게 한다는 내용은 글과 반대입니다.",
+      "정답. 힘과 자신감을 줍니다."
+    ],
+    "trap": "과거를 돌아보는 것이 부정적이라는 첫 문장의 통념(illness)에 이끌리지 마세요.",
+    "tip": "However 뒤의 현대 연구 결과(less lonely, optimistic)가 빈칸의 단서입니다."
+  },
+  {
+    "id": "m3b-07-32",
+    "level": "m3",
+    "set": "mock-07",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many people believe that buying more things will make them happier. Advertisers encourage this belief by showing new products as the key to a better life. However, studies suggest that money spent on experiences, such as trips and concerts, brings longer-lasting happiness than money spent on objects. One reason is that we quickly get used to the things that we own, while memories of experiences remain fresh and can be enjoyed again and again. Weddings, family trips, and concerts are remembered for years after they end. Another reason is that experiences are often shared with others, which strengthens our relationships. In short, what makes us happiest is __________. People often realize this only later in life, so spending on shared experiences may be a wiser choice.",
+    "options": [
+      "what we do and whom we do it with rather than what we own",
+      "how much money we earn compared with our neighbors every year",
+      "the number of expensive objects that we keep inside our own house",
+      "the speed at which we can buy the newest products in the shops",
+      "the amount of time that we spend choosing a gift for ourselves"
+    ],
+    "answer": 0,
+    "translation": "많은 사람은 물건을 더 많이 사면 더 행복해질 것이라고 믿는다. 광고주들은 새 제품을 더 나은 삶의 열쇠로 보여 주며 이 믿음을 부추긴다. 그러나 연구들은 여행이나 음악회 같은 경험에 쓴 돈이 물건에 쓴 돈보다 더 오래가는 행복을 가져다준다고 시사한다. 한 가지 이유는 우리가 가진 물건에는 금세 익숙해지는 반면 경험의 기억은 생생하게 남아 거듭 즐길 수 있다는 것이다. 결혼식, 가족 여행, 음악회는 끝난 뒤에도 몇 년 동안 기억된다. 또 다른 이유는 경험이 흔히 다른 사람과 공유되어 관계를 강화한다는 것이다. 요컨대 우리를 가장 행복하게 하는 것은 우리가 가진 것이 아니라 우리가 무엇을 하고 누구와 함께 하느냐이다. 사람들은 흔히 이를 삶의 후반에야 깨달으므로 함께하는 경험에 쓰는 것이 더 현명한 선택일 수 있다.",
+    "why": "경험이 오래가는 행복과 관계 강화를 가져온다고 했으므로 '무엇을 소유했는지가 아니라 무엇을 하고 누구와 하는지'가 알맞습니다.",
+    "optionNotes": [
+      "정답. 경험과 함께하는 사람입니다.",
+      "이웃과의 소득 비교는 나오지 않습니다.",
+      "비싼 물건의 수는 글과 반대입니다.",
+      "새 제품을 사는 속도는 나오지 않습니다.",
+      "선물 고르는 시간은 나오지 않습니다."
+    ],
+    "trap": "첫 문장의 통념(buying more things)에 이끌려 소유 관련 보기를 고르지 마세요.",
+    "tip": "However 뒤의 연구 결과와 두 가지 이유가 빈칸을 뒷받침합니다."
+  },
+  {
+    "id": "m3b-07-33",
+    "level": "m3",
+    "set": "mock-07",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "When we are not focusing on any task, the brain does not simply rest. Scans show that a group of regions, known as the default mode network, becomes more active when we daydream. Scientists first noticed this when brain activity increased during rest. During this time, the brain connects memories, imagines the future, and thinks about other people's feelings. For example, many famous scientists say that their best ideas came during a walk. Researchers suggest that this activity is essential for creativity and for understanding ourselves. People who never allow their minds to wander often find it harder to solve problems in new ways. This means that moments of doing nothing are __________. Rest is therefore an important kind of work.",
+    "options": [
+      "a sign that the brain has completely stopped working for a while",
+      "the main reason why people lose their ability to remember names",
+      "not wasted but actively used by the brain for important work",
+      "harmful to our health and should be avoided as much as possible",
+      "useful only for people who are younger than twelve years old"
+    ],
+    "answer": 2,
+    "translation": "어떤 과제에도 집중하지 않을 때 뇌는 단순히 쉬지 않는다. 뇌 스캔은 기본 모드 네트워크라고 알려진 일련의 영역이 우리가 공상할 때 더 활발해짐을 보여 준다. 과학자들은 휴식 중에 뇌 활동이 늘어나는 것을 보고 이를 처음 알아챘다. 이때 뇌는 기억을 연결하고 미래를 상상하며 다른 사람의 감정을 생각한다. 예를 들어 많은 유명 과학자는 최고의 아이디어가 산책 중에 떠올랐다고 말한다. 연구자들은 이 활동이 창의성과 자기 이해에 필수적이라고 제안한다. 마음이 헤매는 것을 결코 허용하지 않는 사람은 새로운 방식으로 문제를 푸는 것이 더 어렵다고 느끼는 경우가 많다. 이는 아무것도 하지 않는 순간이 낭비되는 것이 아니라 뇌가 중요한 일을 하는 데 적극적으로 쓰인다는 뜻이다. 그러므로 휴식은 중요한 종류의 일이다.",
+    "why": "공상할 때도 뇌가 활발히 일하므로 '낭비되는 것이 아니라 뇌가 중요한 일에 적극적으로 쓴다'가 알맞습니다.",
+    "optionNotes": [
+      "뇌가 멈춘다는 내용은 글과 반대입니다.",
+      "이름 기억은 나오지 않습니다.",
+      "정답. 뇌가 중요한 일을 합니다.",
+      "건강에 해롭다는 내용은 글과 반대입니다.",
+      "어린 나이에만 유용하다는 내용은 없습니다."
+    ],
+    "trap": "'doing nothing'이라는 표현 때문에 뇌도 멈춘다고 오해하지 마세요.",
+    "tip": "첫 문장의 'does not simply rest'가 빈칸의 직접적 단서입니다."
+  },
+  {
+    "id": "m3b-07-34",
+    "level": "m3",
+    "set": "mock-07",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many years ago, a young woman was attacked in a large city, and newspapers reported that dozens of neighbors had heard her cries but did not call the police. This case became famous around the world. Psychologists later studied this kind of behavior and found a surprising pattern. When many people witness an emergency, each person feels less responsible, because they assume that someone else will help. This is called the bystander effect. The effect becomes stronger as the crowd grows larger, and teachers now use it to explain why speaking up matters. In experiments, volunteers who believed that they were alone with a person in trouble helped much more quickly. Experiments confirm that a person is more likely to offer help when he or she is __________.",
+    "options": [
+      "surrounded by a large crowd of strangers who are all watching quietly",
+      "unsure whether the situation is really serious or not for a long time",
+      "the only witness and cannot rely on anyone else to act",
+      "wearing a uniform that makes it easier for others to recognize",
+      "busy with an important task that must be finished within an hour"
+    ],
+    "answer": 2,
+    "translation": "여러 해 전 한 젊은 여성이 큰 도시에서 공격을 당했고 신문은 수십 명의 이웃이 그녀의 비명을 들었지만 경찰에 신고하지 않았다고 보도했다. 이 사건은 전 세계에서 유명해졌다. 심리학자들은 이후 이런 행동을 연구해 놀라운 양상을 발견했다. 많은 사람이 응급 상황을 목격하면 각자는 다른 누군가가 도울 것이라고 가정하기 때문에 책임을 덜 느낀다. 이것은 방관자 효과라고 한다. 이 효과는 군중이 커질수록 강해지며 교사들은 이제 이를 나서서 말하는 것이 왜 중요한지 설명하는 데 쓴다. 실험에서 곤경에 처한 사람과 자신만 있다고 믿은 자원자들이 훨씬 더 빨리 도왔다. 실험은 사람이 유일한 목격자이고 다른 누구에게도 의지할 수 없을 때 도움을 줄 가능성이 더 높음을 확인한다.",
+    "why": "다른 사람이 도울 것이라는 가정이 책임감을 줄이므로 '유일한 목격자이고 다른 사람에게 의지할 수 없을 때' 도움을 줄 가능성이 높습니다.",
+    "optionNotes": [
+      "큰 군중은 책임감을 줄입니다.",
+      "상황이 불확실할 때를 뒷받침하는 내용은 없습니다.",
+      "정답. 유일한 목격자일 때 도움을 줄 가능성이 높습니다.",
+      "제복은 나오지 않습니다.",
+      "바쁜 일은 나오지 않습니다."
+    ],
+    "trap": "'many people'이 도움을 줄 것이라는 직관과 반대 결과임을 놓치지 마세요.",
+    "tip": "앞 문장(volunteers who believed that they were alone)이 빈칸의 직접적 단서입니다."
+  },
+  {
+    "id": "m3b-07-35",
+    "level": "m3",
+    "set": "mock-07",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Meditation, even for a few minutes a day, can bring surprising benefits. ① It lowers stress by slowing the heart rate and relaxing the muscles. ② Regular practice also improves concentration, since it trains the mind to return to a single point of focus. ③ Many people report that they sleep better and feel calmer after meditating. ④ These benefits appear gradually, so patience is important at the beginning of the practice. ⑤ Modern smartphones contain more computing power than the computers that were used in the early space missions.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "하루에 몇 분만 해도 명상은 놀라운 이점을 가져올 수 있다. ① 명상은 심장 박동을 늦추고 근육을 이완시켜 스트레스를 낮춘다. ② 꾸준한 수련은 또한 마음이 하나의 집중점으로 돌아오도록 훈련하므로 집중력을 향상시킨다. ③ 많은 사람이 명상 후 더 잘 자고 더 차분해진다고 보고한다. ④ 이런 이점은 서서히 나타나므로 수련 초기에는 인내가 중요하다. ⑤ 현대 스마트폰은 초기 우주 임무에 쓰인 컴퓨터보다 더 큰 연산 능력을 지니고 있다.",
+    "why": "글은 명상의 이점을 말하는데 ⑤는 스마트폰의 연산 능력이라는 별개의 이야기라 관계가 없습니다.",
+    "optionNotes": [
+      "명상이 스트레스를 낮추는 이점입니다.",
+      "명상이 집중력을 높이는 이점입니다.",
+      "명상 후 수면과 차분함이 좋아지는 이점입니다.",
+      "이점이 서서히 나타난다는 설명입니다.",
+      "정답(무관). 스마트폰의 성능 이야기입니다."
+    ],
+    "trap": "결론처럼 마지막에 나온 문장이라 흐름에 맞는 것처럼 보일 수 있습니다.",
+    "tip": "주제(명상의 이점)와 이어지지 않는 문장을 고르세요."
+  },
+  {
+    "id": "m3b-07-36",
+    "level": "m3",
+    "set": "mock-07",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "The first modern Olympic Games were held in Athens, Greece, in 1896, and they were meant to bring the nations of the world together through sport. Pierre de Coubertin, a French educator, organized the event.\n(A) Over the following century, however, the number of participants grew steadily, and women were allowed to compete from 1900. New sports were added, and the Games also began to be held in different countries.\n(B) Only fourteen countries took part in that first event, and all of the athletes were men. They competed in only nine sports, including running, swimming, and wrestling.\n(C) Today, more than two hundred countries send athletes, and almost half of the competitors are women. The event is now watched by billions of people on television and online.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 1,
+    "translation": "최초의 근대 올림픽은 1896년 그리스 아테네에서 열렸으며 스포츠를 통해 세계의 나라들을 하나로 모으려는 취지였다. 프랑스 교육자 피에르 드 쿠베르탱이 이 행사를 조직했다. (B) 그 첫 대회에는 열네 나라만 참가했고 선수는 모두 남자였다. 그들은 달리기, 수영, 레슬링을 포함해 아홉 종목에서만 겨뤘다. (A) 그러나 이후 한 세기 동안 참가자 수는 꾸준히 늘었고 여성은 1900년부터 경기에 참가할 수 있었다. 새 종목이 추가되었고 올림픽은 여러 나라에서 열리기 시작했다. (C) 오늘날 이백 개가 넘는 나라가 선수를 보내고 경쟁자의 거의 절반이 여성이다. 이 행사는 이제 텔레비전과 온라인으로 수십억 명이 시청한다.",
+    "why": "(B) 첫 대회의 규모 → (A) 'however'로 이후의 성장 → (C) 'Today'로 현재 순서입니다.",
+    "optionNotes": [
+      "(A)의 'however'와 'the following century'가 가리킬 첫 대회 설명이 앞에 없습니다.",
+      "정답. 첫 대회 → 성장 → 오늘날.",
+      "(C)가 (A)보다 앞서면 성장 과정 전에 현재가 나옵니다.",
+      "(C)의 'Today'가 처음에 오면 시간 흐름이 어색합니다.",
+      "(C)의 'Today'가 처음에 오면 시간 흐름이 어색합니다."
+    ],
+    "trap": "(A)의 'however'는 (B)의 적은 참가국과 대조됩니다.",
+    "tip": "that first event → Over the following century → Today의 시간 흐름을 따라가세요."
+  },
+  {
+    "id": "m3b-07-37",
+    "level": "m3",
+    "set": "mock-07",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Many people think that adding more words to a presentation slide makes it more informative, so they fill every slide with long sentences. They believe that this will impress the audience.\n(A) As a result, they remember less of what the speaker says, and the presentation becomes harder to follow. The audience may leave the room with a vague impression but no clear message.\n(B) Research on attention shows the opposite: when a slide is full of text, listeners try to read it and stop listening to the speaker. This happens because the brain cannot do both tasks well at the same time.\n(C) Therefore, effective slides contain only a few key words and a clear image, leaving the explanation to the speaker.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 1,
+    "translation": "많은 사람은 발표 슬라이드에 단어를 더 많이 넣을수록 더 많은 정보를 준다고 생각해서 모든 슬라이드를 긴 문장으로 채운다. 그들은 이것이 청중에게 깊은 인상을 줄 것이라고 믿는다. (B) 주의에 관한 연구는 그 반대를 보여 준다. 슬라이드가 글로 가득 차 있으면 청중은 그것을 읽으려고 하고 발표자의 말을 듣지 않게 된다. 이는 뇌가 두 가지 과제를 동시에 잘 해낼 수 없기 때문에 일어난다. (A) 그 결과 그들은 발표자가 말하는 것을 덜 기억하고 발표는 따라가기 더 어려워진다. 청중은 막연한 인상만 안고 방을 나설 뿐 분명한 메시지는 얻지 못할 수 있다. (C) 그러므로 효과적인 슬라이드는 몇 개의 핵심어와 선명한 이미지만 담고 설명은 발표자에게 맡긴다.",
+    "why": "(B) 'the opposite'로 통념 반박 → (A) 'As a result'로 결과 → (C) 'Therefore'로 결론 순서입니다.",
+    "optionNotes": [
+      "(A)의 'As a result'가 이어질 원인이 앞에 없습니다.",
+      "정답. 반박 → 결과 → 결론.",
+      "(A)가 (C) 뒤에 오면 결론 뒤에 결과가 나옵니다.",
+      "(C)의 'Therefore'가 요약할 내용이 앞에 없습니다.",
+      "(C)의 'Therefore'가 요약할 내용이 앞에 없습니다."
+    ],
+    "trap": "(A)의 'they'는 (B)의 listeners를 가리킵니다.",
+    "tip": "the opposite → As a result → Therefore의 논리 흐름을 따라가세요."
+  },
+  {
+    "id": "m3b-07-38",
+    "level": "m3",
+    "set": "mock-07",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nInstead, he decided to use the money to build a library for the village where he was born.\n\n[글]\n( ① ) Mr. Park, a wealthy businessman, received a large prize for his charity work after many years of helping poor families. ( ② ) Everyone around him expected him to buy a bigger house or to take a long vacation abroad. ( ③ ) The library opened in 2015 and now serves more than three thousand children from nearby villages every year. ( ④ ) He says that the happiest moment of his life was watching the first child read a book there. ( ⑤ ) Today, he is planning to build two more libraries in other small towns.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 대신 그는 그 돈으로 자신이 태어난 마을에 도서관을 짓기로 했다. [글] 부유한 사업가인 박 씨는 여러 해 동안 가난한 가정을 도운 자선 활동으로 큰 상을 받았다. 주변의 모든 사람은 그가 더 큰 집을 사거나 해외로 긴 휴가를 떠날 것이라고 예상했다. 도서관은 2015년에 문을 열었고 이제 해마다 인근 마을의 삼천 명이 넘는 어린이에게 도움을 준다. 그는 자기 인생에서 가장 행복했던 순간이 그곳에서 첫 아이가 책을 읽는 모습을 지켜본 때라고 말한다. 오늘날 그는 다른 작은 마을에 도서관을 두 곳 더 지을 계획이다.",
+    "why": "앞 문장의 사람들의 예상(큰 집, 휴가)과 'Instead'로 대조되고, 뒤에 'The library'가 처음 나오므로 ③에 들어갑니다.",
+    "optionNotes": [
+      "'Instead'가 대조할 예상이 아직 나오지 않았습니다.",
+      "예상을 말하는 문장 앞에 'Instead'가 오면 대조할 대상이 없습니다.",
+      "정답. 사람들의 예상과 대조되고 도서관 이야기로 이어집니다.",
+      "'The library'가 이미 나온 뒤에 도서관을 짓기로 한 결정이 나오면 순서가 뒤집힙니다.",
+      "도서관 이야기가 끝난 뒤에 결정을 말하면 어색합니다."
+    ],
+    "trap": "'The library'가 정관사로 쓰인 문장 앞에 도서관이 처음 소개되어야 합니다.",
+    "tip": "Instead는 앞 문장의 예상과 대조될 때, 정관사 명사의 소개 문장은 그 앞에 둡니다."
+  },
+  {
+    "id": "m3b-07-39",
+    "level": "m3",
+    "set": "mock-07",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nBecause of this, early cars were available only to the wealthy.\n\n[글]\n( ① ) In the early 1900s, cars were built by hand, one at a time, in small workshops. ( ② ) Each car took many hours of skilled labor to complete, so it was extremely expensive. ( ③ ) In 1913, Henry Ford introduced the moving assembly line, which cut the time needed to build a car from twelve hours to about ninety minutes. ( ④ ) Prices fell sharply, and ordinary families could finally afford to buy their own cars. ( ⑤ ) The assembly line soon spread to other industries and changed the way goods were made all over the world.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 이 때문에 초기 자동차는 부유한 사람들만 구할 수 있었다. [글] 1900년대 초 자동차는 작은 작업장에서 한 대씩 손으로 만들어졌다. 한 대를 완성하는 데 숙련된 노동이 많은 시간 필요했으므로 매우 비쌌다. 1913년 헨리 포드는 움직이는 조립 라인을 도입했고 이는 자동차를 만드는 데 필요한 시간을 열두 시간에서 약 구십 분으로 줄였다. 가격은 급격히 떨어졌고 평범한 가정도 마침내 자기 자동차를 살 여유가 생겼다. 조립 라인은 곧 다른 산업으로 퍼졌고 전 세계에서 물건이 만들어지는 방식을 바꾸었다.",
+    "why": "'this'는 바로 앞의 '많은 숙련 노동 때문에 매우 비쌌다'를 가리키고 뒤의 조립 라인 도입과 대조되므로 ③에 들어갑니다.",
+    "optionNotes": [
+      "'this'가 가리킬 내용이 아직 나오지 않았습니다.",
+      "'this'가 가리킬 비싼 이유가 나오기 전이라 어색합니다.",
+      "정답. 비싼 이유 뒤에 결과를 말하고 조립 라인으로 이어집니다.",
+      "조립 라인 이야기 뒤에 초기 자동차 이야기가 오면 시간 순서가 어긋납니다.",
+      "마지막에 오면 시간 순서가 어긋납니다."
+    ],
+    "trap": "④에 넣으면 가격이 떨어진 뒤에 부유층 전용이라는 내용이 나와 모순됩니다.",
+    "tip": "Because of this는 원인 문장 바로 뒤에, 변화를 설명하는 문장 앞에 놓입니다."
+  },
+  {
+    "id": "m3b-07-40",
+    "level": "m3",
+    "set": "mock-07",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Researchers observed 150 students in a school where a new schedule had been introduced. After each lesson, half of the students took a five-minute break in which they stretched, walked in the corridor, or looked out of the window. The other half stayed at their desks and moved straight to the next lesson. At the end of the day, the students who had taken breaks scored fifteen percent higher on a short concentration test. Teachers also noticed that these students asked more questions and made fewer careless mistakes. Their results were also more stable across the afternoon. The researchers concluded that the brain needs short rests to keep its attention at a high level.\n\n▶ A short (A) between classes helped students (B) better in the next class.",
+    "options": [
+      "(A) break — (B) concentrate",
+      "(A) test — (B) forget",
+      "(A) lecture — (B) sleep",
+      "(A) meal — (B) argue",
+      "(A) game — (B) worry"
+    ],
+    "answer": 0,
+    "translation": "연구자들은 새 시간표가 도입된 학교에서 학생 150명을 관찰했다. 각 수업 후 학생의 절반은 몸을 풀거나 복도를 걷거나 창밖을 보는 5분의 쉬는 시간을 가졌다. 나머지 절반은 책상에 머물며 바로 다음 수업으로 넘어갔다. 하루가 끝날 때 쉬는 시간을 가진 학생들은 짧은 집중력 검사에서 15퍼센트 높은 점수를 받았다. 교사들은 또한 이 학생들이 질문을 더 많이 하고 부주의한 실수를 덜 한다는 것을 알아챘다. 그들의 결과는 오후 내내 더 안정적이기도 했다. 연구자들은 뇌가 주의를 높은 수준으로 유지하려면 짧은 휴식이 필요하다고 결론지었다. ▶ 수업 사이의 짧은 (A)은 학생들이 다음 수업에서 더 잘 (B)하도록 도왔다.",
+    "why": "쉬는 시간을 가진 학생이 집중력 검사에서 더 높은 점수를 받았으므로 (A)는 break, (B)는 concentrate입니다.",
+    "optionNotes": [
+      "정답. 짧은 휴식이 집중을 돕습니다.",
+      "test와 forget은 글과 맞지 않습니다.",
+      "lecture와 sleep은 글과 맞지 않습니다.",
+      "meal과 argue는 글과 맞지 않습니다.",
+      "game과 worry는 글과 맞지 않습니다."
+    ],
+    "trap": "(A)가 맞아도 (B)가 결과(집중력)와 일치하는지 확인하세요.",
+    "tip": "요약문은 실험 조건(쉬는 시간)과 결과(집중력 향상)를 짝지으세요."
+  }
+]
