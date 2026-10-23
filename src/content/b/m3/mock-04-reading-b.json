@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m3b-04-29",
+    "level": "m3",
+    "set": "mock-04",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Many of the buildings constructed by the ancient Romans are still standing today, while modern concrete structures often crumble within a hundred years. Roman concrete, {1|which} ingredients included volcanic ash and lime, has puzzled engineers for centuries. Recent research has revealed that the Romans mixed their materials at very high temperatures, {2|creating} small white lumps inside the concrete. When cracks appeared, water entering them {3|reacted} with these lumps and produced a substance that filled the gaps. In other words, the concrete was able to repair itself. Scientists now hope that a similar method {4|can be used} to make modern buildings last longer, which would reduce both costs and carbon emissions. It is surprising how much knowledge from ancient times {5|remains} to be rediscovered.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "고대 로마인이 지은 많은 건물은 오늘날에도 여전히 서 있는 반면 현대의 콘크리트 구조물은 백 년 안에 무너지는 경우가 많다. 재료에 화산재와 석회가 포함된 로마 콘크리트는 수 세기 동안 기술자들을 어리둥절하게 했다. 최근 연구는 로마인이 재료를 매우 높은 온도에서 섞어 콘크리트 안에 작은 흰 덩어리를 만들었음을 밝혔다. 균열이 생기면 그 안으로 들어간 물이 이 덩어리와 반응하여 틈을 메우는 물질을 만들었다. 다시 말해 콘크리트는 스스로를 수리할 수 있었다. 과학자들은 이제 비슷한 방법을 현대 건물이 더 오래 가도록 하는 데 쓸 수 있기를 바라는데, 그러면 비용과 탄소 배출이 모두 줄어들 것이다. 고대의 얼마나 많은 지식이 아직 다시 발견되기를 기다리고 있는지 놀랍다.",
+    "why": "뒤에 'ingredients'라는 명사가 이어지므로 소유를 나타내는 관계형용사 'whose'가 필요하며 'which'는 틀립니다.",
+    "optionNotes": [
+      "정답(틀린 것). 뒤에 명사가 이어지므로 whose여야 합니다.",
+      "결과를 나타내는 분사구문 creating입니다.",
+      "주어 water의 과거 동사 reacted입니다.",
+      "수동 조동사 구문 can be used입니다.",
+      "how much knowledge가 이끄는 절의 단수 동사 remains입니다."
+    ],
+    "trap": "which 뒤에 바로 명사(ingredients)가 오는 구조를 놓치기 쉽습니다.",
+    "tip": "관계대명사 뒤에 명사가 바로 이어지면 whose를 의심하세요."
+  },
+  {
+    "id": "m3b-04-30",
+    "level": "m3",
+    "set": "mock-04",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Coral reefs cover less than one percent of the ocean floor, yet they {1|support} about a quarter of all marine species. A single reef can shelter thousands of fish, crabs, and other creatures. This extraordinary diversity makes reefs {2|useless} for the health of the oceans and for the people who depend on fishing and tourism. However, rising sea temperatures cause corals to expel the algae that live in their tissue, a process known as bleaching. Without the algae, corals lose both their color and their main source of food, and many of them eventually {3|die}. Pollution and overfishing make the situation even {4|worse}. Scientists are therefore experimenting with heat-resistant corals and reef restoration, hoping to {5|preserve} these underwater cities for future generations.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "산호초는 해저의 1퍼센트도 안 되는 면적을 차지하지만 모든 해양 생물종의 약 4분의 1을 부양한다. 하나의 산호초가 수천 마리의 물고기, 게, 다른 생물에게 쉼터를 줄 수 있다. 이 놀라운 다양성은 산호초가 바다의 건강과 어업과 관광에 의존하는 사람들에게 쓸모없게 만든다. 그러나 해수 온도 상승은 산호가 조직에 사는 조류를 내보내게 하는데 이 과정을 백화라고 한다. 조류가 없으면 산호는 색과 주된 먹이 공급원을 모두 잃고 많은 산호가 결국 죽는다. 오염과 남획은 상황을 더욱 악화시킨다. 그래서 과학자들은 이 수중 도시를 미래 세대를 위해 보존하려고 내열성 산호와 산호초 복원을 실험하고 있다.",
+    "why": "산호초가 다양한 생물을 부양한다는 내용이므로 바다의 건강에 '쓸모없다'가 아니라 '필수적이다(essential)'여야 합니다.",
+    "optionNotes": [
+      "생물종을 부양한다는 의미로 support가 알맞습니다.",
+      "정답(부적절). 다양성은 바다 건강에 essential(필수적)해야 합니다.",
+      "결국 죽는다는 의미로 die가 알맞습니다.",
+      "상황을 악화시킨다는 의미로 worse가 알맞습니다.",
+      "미래 세대를 위해 보존한다는 의미로 preserve가 알맞습니다."
+    ],
+    "trap": "'makes reefs ___ for the health'의 앞 문장이 긍정적인 다양성이라는 점을 놓치기 쉽습니다.",
+    "tip": "앞 문장의 평가(extraordinary diversity)와 낱말의 방향이 일치하는지 확인하세요."
+  },
+  {
+    "id": "m3b-04-31",
+    "level": "m3",
+    "set": "mock-04",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In the 1920s, researchers at a factory near Chicago tried to find out whether better lighting would increase workers' productivity. To their surprise, productivity rose when the lighting was improved, but it also rose when the lighting was made dimmer. Eventually the researchers concluded that the workers were not responding to the lighting at all. They were responding to the fact that someone was paying close attention to them. The researchers had to rethink their entire experiment. The same pattern appeared in many later experiments with different groups. Companies and schools soon took notice of the finding. Known today as the Hawthorne effect, this finding suggests that people often change their behavior simply because __________. In other words, being watched can be a powerful motivator.",
+    "options": [
+      "they are given more money for completing exactly the same work",
+      "they are afraid of losing their jobs in the near future",
+      "they want to compete with workers from other factories nearby",
+      "they know that they are being observed or studied",
+      "they have to follow a new set of rules in their workplace"
+    ],
+    "answer": 3,
+    "translation": "1920년대 시카고 근처 한 공장의 연구자들은 더 나은 조명이 노동자의 생산성을 높일지 알아보려 했다. 놀랍게도 조명이 개선되었을 때 생산성이 올랐지만 조명이 더 어두워졌을 때도 올랐다. 결국 연구자들은 노동자들이 조명에 전혀 반응하지 않았다고 결론지었다. 그들은 누군가 자신에게 세심한 주의를 기울이고 있다는 사실에 반응하고 있었다. 연구자들은 실험 전체를 다시 생각해야 했다. 같은 양상이 이후 다른 집단을 대상으로 한 많은 실험에서도 나타났다. 기업과 학교는 곧 그 발견에 주목했다. 오늘날 호손 효과로 알려진 이 발견은 사람들이 단지 자신이 관찰되고 연구된다는 것을 알기 때문에 행동을 바꾸는 경우가 많음을 시사한다. 다시 말해 관찰받는다는 것은 강력한 동기가 될 수 있다.",
+    "why": "조명과 관계없이 누군가 주의를 기울인다는 사실에 반응했으므로 '관찰되고 있음을 알기 때문에'가 알맞습니다.",
+    "optionNotes": [
+      "돈을 더 받는다는 내용은 없습니다.",
+      "해고에 대한 두려움은 나오지 않습니다.",
+      "다른 공장과의 경쟁은 나오지 않습니다.",
+      "정답. 관찰받고 있음을 알기 때문입니다.",
+      "새 규칙은 나오지 않습니다."
+    ],
+    "trap": "'lighting'에 이끌려 작업 환경의 물리적 변화를 고르지 마세요.",
+    "tip": "They were responding to the fact that ~ 문장이 빈칸의 직접적 단서입니다."
+  },
+  {
+    "id": "m3b-04-32",
+    "level": "m3",
+    "set": "mock-04",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In 1928, Alexander Fleming returned from a vacation to find mold growing on a dish of bacteria that he had forgotten to clean. He worked in a small, untidy laboratory in London. Instead of throwing it away, he noticed that the bacteria around the mold had died. Many people would have ignored it. Curious, he studied the mold for weeks. This accidental observation led to the discovery of penicillin, the first widely used antibiotic, which later saved millions of lives. He shared a Nobel Prize for this work. Many scientific breakthroughs share this feature: they begin with a surprise. But a surprise alone is not enough, because countless researchers must have seen mold on a dish before. Fleming's discovery shows that chance favors only __________.",
+    "options": [
+      "the scientists who work in the largest and best-equipped laboratories",
+      "those whose minds are prepared to recognize its value",
+      "people who carefully avoid taking any risks in their work",
+      "researchers who follow the instructions of their teachers exactly",
+      "anyone who publishes a large number of papers every single year"
+    ],
+    "answer": 1,
+    "translation": "1928년 알렉산더 플레밍은 휴가에서 돌아와 치우는 것을 잊은 세균 접시에서 곰팡이가 자라고 있는 것을 발견했다. 그는 런던의 작고 어수선한 연구실에서 일했다. 그것을 버리는 대신 그는 곰팡이 주변의 세균이 죽었음을 알아챘다. 많은 사람은 그것을 무시했을 것이다. 호기심이 생긴 그는 몇 주 동안 곰팡이를 연구했다. 이 우연한 관찰은 최초로 널리 쓰인 항생제인 페니실린의 발견으로 이어졌고 페니실린은 이후 수백만 명의 목숨을 구했다. 그는 이 업적으로 노벨상을 공동 수상했다. 많은 과학적 돌파구는 이 특징을 공유한다. 놀라움으로 시작한다는 것이다. 그러나 놀라움만으로는 충분하지 않은데 수많은 연구자가 이전에도 접시 위의 곰팡이를 보았을 것이기 때문이다. 플레밍의 발견은 우연이 그 가치를 알아볼 준비가 된 마음을 가진 사람들에게만 유리하다는 것을 보여 준다.",
+    "why": "놀라움만으로는 충분하지 않고 많은 연구자가 곰팡이를 보았을 것이라고 했으므로 '그 가치를 알아볼 준비가 된 사람들'이 알맞습니다.",
+    "optionNotes": [
+      "큰 연구실을 가진 과학자라는 내용은 없습니다.",
+      "정답. 가치를 알아볼 준비가 된 사람에게 우연이 유리합니다.",
+      "위험을 피하는 사람이라는 내용은 글과 반대입니다.",
+      "지시를 정확히 따른다는 내용은 없습니다.",
+      "논문 수는 나오지 않습니다."
+    ],
+    "trap": "'a surprise alone is not enough'가 빈칸의 단서이며 우연 자체가 아니라 준비를 강조합니다.",
+    "tip": "But 뒤의 한계(alone is not enough)가 빈칸의 조건을 암시합니다."
+  },
+  {
+    "id": "m3b-04-33",
+    "level": "m3",
+    "set": "mock-04",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In a famous experiment, children were offered one marshmallow immediately or two if they waited fifteen minutes. The test was designed by a psychologist at Stanford University in the 1960s. Later studies found that the children who waited tended to have better test scores and healthier habits as adults. Many parents and teachers began to see patience as the key to success. Newspapers around the world reported these results with great excitement. However, a more recent study showed that family background strongly influenced who could wait. Children from unstable households had learned that promises are often broken, so taking the single marshmallow was a reasonable choice for them. This suggests that the ability to wait depends not only on willpower but also on __________.",
+    "options": [
+      "the experiences that teach a child to trust future rewards",
+      "the type of snack that the researcher decides to offer first",
+      "the number of other children who are waiting in the same room",
+      "the amount of time that adults spend talking with the child",
+      "the color and the size of the container that holds the sweets"
+    ],
+    "answer": 0,
+    "translation": "한 유명한 실험에서 아이들은 마시멜로 한 개를 바로 받거나 십오 분을 기다리면 두 개를 받을 수 있다고 제안받았다. 이 검사는 1960년대 스탠퍼드 대학교의 한 심리학자가 설계했다. 이후 연구들은 기다린 아이들이 성인이 되어 더 나은 시험 점수와 더 건강한 습관을 갖는 경향이 있음을 발견했다. 많은 부모와 교사는 인내심을 성공의 열쇠로 보기 시작했다. 전 세계 신문이 이 결과를 큰 흥분으로 보도했다. 그러나 더 최근의 연구는 가정 배경이 누가 기다릴 수 있는지에 강하게 영향을 미쳤음을 보여 주었다. 불안정한 가정의 아이들은 약속이 자주 깨진다는 것을 배웠기 때문에 마시멜로 한 개를 바로 먹는 것이 합리적인 선택이었다. 이는 기다리는 능력이 의지력뿐 아니라 아이가 미래의 보상을 믿도록 가르치는 경험에도 달려 있음을 시사한다.",
+    "why": "약속이 깨지는 경험을 한 아이는 기다리지 않는 것이 합리적이었으므로 '미래의 보상을 믿도록 가르치는 경험'이 알맞습니다.",
+    "optionNotes": [
+      "정답. 미래의 보상을 믿게 하는 경험입니다.",
+      "간식의 종류는 나오지 않습니다.",
+      "다른 아이의 수는 나오지 않습니다.",
+      "어른과의 대화 시간은 나오지 않습니다.",
+      "용기의 색과 크기는 나오지 않습니다."
+    ],
+    "trap": "'willpower'와 대비되는 환경적 요인을 찾아야 합니다.",
+    "tip": "not only A but also B에서 B는 앞 문장(promises are often broken)의 원인을 일반화한 말입니다."
+  },
+  {
+    "id": "m3b-04-34",
+    "level": "m3",
+    "set": "mock-04",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Studies show that birds living in cities sing at a higher pitch than their relatives in the countryside. Scientists in Europe, Asia, and North America have recorded similar patterns in more than twenty species. The reason is the constant low-frequency rumble of traffic, which can drown out the deeper notes of their songs. By raising the pitch, urban birds ensure that mates and rivals can still hear them. Some species have even been found to sing louder at rush hour and more quietly at night, when the streets are calm. Noise from airports and construction sites causes comparable changes. In some cities, the effect becomes clear within just a few generations. Such changes demonstrate that animals are capable of __________ in response to the conditions created by human activity.",
+    "options": [
+      "ignoring every unfamiliar sound completely until it disappears",
+      "moving to the countryside within a single season of the year",
+      "teaching their songs to the humans who live in the nearby areas",
+      "adjusting their behavior to cope with a changing environment",
+      "remaining silent for several months whenever they sense danger"
+    ],
+    "answer": 3,
+    "translation": "연구에 따르면 도시에 사는 새는 시골에 사는 친척보다 더 높은 음높이로 노래한다. 유럽, 아시아, 북미의 과학자들은 스무 종이 넘는 새에서 비슷한 양상을 기록했다. 그 이유는 노래의 낮은 음을 묻어 버릴 수 있는 교통의 끊임없는 저주파 소음 때문이다. 음높이를 높임으로써 도시의 새는 짝과 경쟁자가 여전히 자신의 소리를 들을 수 있게 한다. 일부 종은 출퇴근 시간에는 더 크게, 거리가 고요한 밤에는 더 조용히 노래하는 것으로까지 밝혀졌다. 공항과 공사장의 소음도 비슷한 변화를 일으킨다. 일부 도시에서는 불과 몇 세대 만에 그 효과가 뚜렷해진다. 이런 변화는 동물이 인간 활동이 만든 조건에 대응해 행동을 유연하게 조절할 수 있음을 보여 준다.",
+    "why": "새들이 소음에 맞춰 음높이와 크기를 바꾸므로 '변화하는 환경에 대처하려고 행동을 유연하게 조절하는 능력'이 알맞습니다.",
+    "optionNotes": [
+      "낯선 소리를 무시한다는 내용은 없습니다.",
+      "시골로 이동한다는 내용은 없습니다.",
+      "사람에게 노래를 가르친다는 내용은 없습니다.",
+      "정답. 환경에 맞춰 행동을 유연하게 조절합니다.",
+      "몇 달간 침묵한다는 내용은 없습니다."
+    ],
+    "trap": "'quietly at night'만 보고 침묵(⑤)과 혼동하지 마세요.",
+    "tip": "앞의 사례들(pitch를 높임, 시간대에 따라 크기 조절)을 일반화하세요."
+  },
+  {
+    "id": "m3b-04-35",
+    "level": "m3",
+    "set": "mock-04",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Laughter is more than a response to something funny, because it has real benefits for our health. ① When we laugh, our bodies release chemicals that reduce stress and create a general sense of well-being. ② Laughing together with others also strengthens social bonds, which helps people feel understood and supported by those around them. ③ Comedy clubs have become increasingly popular in large cities, and many of them stay open until midnight on weekends. ④ Some doctors even recommend laughter exercises to patients who are recovering from illness, because laughing can ease pain for a short time. ⑤ In short, finding reasons to laugh every day is a simple way to protect both the body and the mind.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "웃음은 우스운 것에 대한 반응 이상인데, 그것이 우리 건강에 실제 이점을 주기 때문이다. ① 웃을 때 우리 몸은 스트레스를 줄이고 전반적인 안녕감을 만드는 물질을 방출한다. ② 다른 사람들과 함께 웃는 것은 또한 사회적 유대를 강화하여 사람들이 주변 사람들에게 이해받고 지지받는다고 느끼게 돕는다. ③ 코미디 클럽은 대도시에서 점점 인기를 얻고 있으며 그중 다수는 주말에 자정까지 문을 연다. ④ 일부 의사는 웃음이 잠시 통증을 덜 수 있기 때문에 질병에서 회복 중인 환자에게 웃음 운동을 권하기까지 한다. ⑤ 요컨대 매일 웃을 이유를 찾는 것은 몸과 마음을 모두 지키는 간단한 방법이다.",
+    "why": "글은 웃음의 건강상 이점을 말하는데 ③은 코미디 클럽의 인기와 영업시간에 관한 별개의 이야기라 관계가 없습니다.",
+    "optionNotes": [
+      "웃음이 스트레스를 줄이는 이점입니다.",
+      "웃음이 유대를 강화하는 이점입니다.",
+      "정답(무관). 코미디 클럽의 인기와 영업시간 이야기입니다.",
+      "웃음이 통증을 덜어 주는 이점입니다.",
+      "결론 문장입니다."
+    ],
+    "trap": "'웃음'과 관련된 소재(comedy)라서 주제와 이어지는 것처럼 보일 수 있습니다.",
+    "tip": "주제(웃음의 건강상 이점)를 뒷받침하지 않는 정보성 문장을 고르세요."
+  },
+  {
+    "id": "m3b-04-36",
+    "level": "m3",
+    "set": "mock-04",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "In the early days of the internet, most websites were built simply to display information. Visitors could do little more than read what was on the screen, much like readers of a digital newspaper.\n(A) This change turned ordinary people from audiences into creators. It gave rise to platforms that now host billions of posts every single day.\n(B) Then, in the mid-2000s, a new generation of sites allowed users to post their own photos, videos, and opinions. Users could also respond to what others had shared.\n(C) However, the same freedom has made it harder to tell reliable information from rumors. Users must now judge carefully for themselves what they read and share. Many people feel overwhelmed by the sheer amount of content they see every day.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 1,
+    "translation": "인터넷 초기에 대부분의 웹사이트는 단지 정보를 보여 주려고 만들어졌다. 방문자는 마치 디지털 신문의 독자처럼 화면의 내용을 읽는 것 이상을 거의 할 수 없었다. (B) 그러다 2000년대 중반 새로운 세대의 사이트가 사용자가 자신의 사진, 영상, 의견을 올리게 해 주었다. 사용자는 다른 사람이 공유한 것에 반응할 수도 있었다. (A) 이 변화는 평범한 사람들을 청중에서 창작자로 바꾸었다. 그것은 지금 매일 수십억 개의 게시물을 담는 플랫폼을 탄생시켰다. (C) 그러나 같은 자유가 믿을 만한 정보와 소문을 구별하기 더 어렵게 만들었다. 사용자는 이제 읽고 공유하는 것을 스스로 신중하게 판단해야 한다. 많은 사람은 매일 접하는 엄청난 양의 콘텐츠에 압도당한다.",
+    "why": "(B) 'Then, in the mid-2000s'로 변화 소개 → (A) 'This change'의 결과 → (C) 'However, the same freedom'으로 부작용 순서입니다.",
+    "optionNotes": [
+      "(A)의 'This change'가 가리킬 변화가 앞에 없습니다.",
+      "정답. 변화 → 결과 → 부작용.",
+      "(C)의 'the same freedom'이 가리킬 자유가 (A) 전에 나오지 않습니다.",
+      "(C)의 'the same freedom'이 가리킬 자유가 앞에 없습니다.",
+      "(C)의 'the same freedom'이 가리킬 자유가 앞에 없습니다."
+    ],
+    "trap": "(A)의 'This change'는 (B)에서 소개된 사용자 게시 기능입니다.",
+    "tip": "This change, the same freedom 같은 지시 표현의 선행 내용을 확인하세요."
+  },
+  {
+    "id": "m3b-04-37",
+    "level": "m3",
+    "set": "mock-04",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Every autumn, salmon return from the ocean to the very river where they were born. They do so even after spending several years far away at sea. The journey can take several months.\n(A) As a result, salmon can travel hundreds of kilometers across open water. They still reach the exact stream where their lives began. This ability seems almost magical.\n(B) Each river has its own chemical signature, formed by the soil and plants along its banks. The fish can detect it even in tiny amounts.\n(C) Scientists believe that they find their way by using the smell of the water. They memorized it when they were young and still living in the stream. Experiments with salmon whose noses were blocked support this idea.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 4,
+    "translation": "매년 가을 연어는 여러 해 동안 바다 멀리에서 지낸 뒤에도 자신이 태어난 바로 그 강으로 돌아온다. 그 여정은 몇 달이 걸릴 수 있다. (C) 과학자들은 연어가 어렸을 때 아직 개울에 살면서 기억해 둔 물의 냄새를 이용해 길을 찾는다고 믿는다. 코가 막힌 연어를 대상으로 한 실험이 이 생각을 뒷받침한다. (B) 각 강은 둑을 따라 있는 흙과 식물이 만든 고유의 화학적 특징이 있고 물고기는 아주 적은 양이라도 그것을 감지할 수 있다. (A) 그 결과 연어는 탁 트인 바다를 수백 킬로미터 이동하고도 자기 삶이 시작된 정확한 개울에 도착할 수 있다. 이 능력은 거의 마법 같다.",
+    "why": "(C) 냄새로 길을 찾는다는 설명 → (B) 그 냄새(화학적 특징)의 원인 → (A) 'As a result'로 결과 순서입니다.",
+    "optionNotes": [
+      "(A)의 'As a result'가 가리킬 원인이 앞에 없습니다.",
+      "(B)의 'Each river'가 설명할 대상(냄새)이 앞에 나오지 않습니다.",
+      "(B)가 먼저 오면 화학적 특징이 무엇의 설명인지 알 수 없습니다.",
+      "(A)의 'As a result'가 (B)의 설명 전에 오면 원인이 부족합니다.",
+      "정답. 냄새 → 화학적 특징 → 결과."
+    ],
+    "trap": "(B)의 'chemical signature'는 (C)의 'the smell of the water'를 구체적으로 설명합니다.",
+    "tip": "As a result는 원인 설명이 모두 끝난 뒤에 놓입니다."
+  },
+  {
+    "id": "m3b-04-38",
+    "level": "m3",
+    "set": "mock-04",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nTo solve this problem, the townspeople installed three large mirrors on the mountainside above the town.\n\n[글]\n( ① ) A small town in Norway lies in a deep valley, and for almost two months every winter the surrounding mountains block the sunlight completely, which made many residents feel tired and sad. ( ② ) Controlled by computers, the mirrors turn slowly throughout the day and reflect the sunlight onto the town square. ( ③ ) Now residents gather in the square to enjoy the warmth and light, even in the darkest months. ( ④ ) The project has also become a tourist attraction that brings visitors from many countries every winter. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "[주어진 문장] 이 문제를 해결하려고 주민들은 마을 위 산비탈에 큰 거울 세 개를 설치했다. [글] 노르웨이의 한 작은 마을은 깊은 계곡에 있어서 매년 겨울 거의 두 달 동안 주변 산이 햇빛을 완전히 가려 많은 주민이 피곤하고 우울했다. 컴퓨터로 제어되는 거울은 하루 종일 천천히 돌며 햇빛을 마을 광장에 반사한다. 이제 주민들은 가장 어두운 달에도 광장에 모여 온기와 빛을 즐긴다. 이 사업은 또한 매년 겨울 여러 나라의 방문객을 끌어들이는 관광 명소가 되었다.",
+    "why": "'this problem'은 앞 문장의 햇빛이 차단되는 문제를 가리키고, 뒤 문장의 'the mirrors'는 주어진 문장에서 처음 소개되므로 ②에 들어갑니다.",
+    "optionNotes": [
+      "'this problem'이 가리킬 문제가 아직 나오지 않았습니다.",
+      "정답. 문제 제시 뒤에 해결책(거울)이 소개됩니다.",
+      "'the mirrors'가 먼저 나오면 정관사를 쓸 근거가 없어 순서가 어긋납니다.",
+      "거울 효과를 말한 뒤에 설치 사실이 나오면 순서가 뒤집힙니다.",
+      "글의 끝에서 해결책을 처음 소개하면 어색합니다."
+    ],
+    "trap": "③에 넣어도 해결책 이야기로 보이지만 ②의 'the mirrors'가 이미 정관사로 쓰였습니다.",
+    "tip": "정관사(the mirrors)가 처음 소개되는 위치와 지시어(this problem)를 함께 확인하세요."
+  },
+  {
+    "id": "m3b-04-39",
+    "level": "m3",
+    "set": "mock-04",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nSurprisingly, the effect was strongest among the patients who had stayed in the hospital the longest.\n\n[글]\n( ① ) Dr. Reyes planted a small garden on the roof of a hospital to see whether it could help patients recover. Over the next year, she recorded how many patients visited the garden and how they felt afterward. ( ② ) Patients who could spend time there needed less pain medication and left the hospital almost a day earlier than those who could not. ( ③ ) The researchers believe that fresh air, sunlight, and the sight of plants helped these patients relax. ( ④ ) Encouraged by these results, several other hospitals have started to build their own gardens. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 놀랍게도 그 효과는 병원에 가장 오래 머문 환자들에게서 가장 강했다. [글] 레예스 박사는 환자의 회복에 도움이 되는지 알아보려고 병원 옥상에 작은 정원을 가꾸었다. 이듬해 그녀는 얼마나 많은 환자가 정원을 찾았는지와 그 후 어떻게 느꼈는지를 기록했다. 그곳에서 시간을 보낼 수 있던 환자들은 진통제가 덜 필요했고 그러지 못한 환자들보다 거의 하루 일찍 퇴원했다. 연구자들은 맑은 공기, 햇빛, 식물을 보는 것이 이 환자들이 긴장을 푸는 데 도움이 되었다고 믿는다. 이러한 결과에 고무되어 몇몇 다른 병원도 자체 정원을 만들기 시작했다.",
+    "why": "'the effect'는 바로 앞 문장의 정원 효과(진통제 감소, 조기 퇴원)를 가리키고 이어서 효과의 원인 설명이 오므로 ③에 들어갑니다.",
+    "optionNotes": [
+      "'the effect'가 가리킬 효과가 아직 나오지 않았습니다.",
+      "효과가 나오기 전이라 'the effect'가 가리킬 대상이 없습니다.",
+      "정답. 효과를 말한 문장 바로 뒤에서 세부 효과를 덧붙입니다.",
+      "원인 설명 뒤에 효과의 세부 사항이 나오면 흐름이 거꾸로 됩니다.",
+      "글의 끝에서 새 효과를 덧붙이면 앞의 결론과 어긋납니다."
+    ],
+    "trap": "④에 넣어도 비슷해 보이지만 원인 설명은 효과를 말한 직후에 와야 합니다.",
+    "tip": "주어진 문장의 'the effect'는 효과를 먼저 설명한 문장 바로 뒤에 놓입니다."
+  },
+  {
+    "id": "m3b-04-40",
+    "level": "m3",
+    "set": "mock-04",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Researchers divided 200 office workers into two groups for a four-week study. Workers in the first group spent ten minutes of their lunch break walking in a nearby park, while those in the second group remained at their desks and ate while working. At the end of each week, all participants completed a questionnaire about their stress and took a short concentration test in the afternoon. The results were clear. Workers who walked in the park reported significantly lower stress levels, and they scored about fifteen percent higher on the concentration test. Many of them also said that they felt more cheerful when they returned to work. In contrast, the workers who stayed at their desks showed no meaningful change over the four weeks.\n\n▶ Taking a short walk in nature during the workday (A) workers' stress levels and (B) their afternoon concentration.",
+    "options": [
+      "(A) raised — (B) improved",
+      "(A) lowered — (B) weakened",
+      "(A) ignored — (B) maintained",
+      "(A) increased — (B) seriously damaged",
+      "(A) reduced — (B) improved"
+    ],
+    "answer": 4,
+    "translation": "연구자들은 사무직 노동자 200명을 4주 연구를 위해 두 집단으로 나누었다. 첫 번째 집단의 노동자들은 점심시간 중 십 분을 근처 공원에서 걷는 데 썼고 두 번째 집단은 책상에 머물며 일하면서 먹었다. 매주 말 모든 참가자는 스트레스에 관한 설문지를 작성하고 오후에 짧은 집중력 검사를 받았다. 결과는 분명했다. 공원에서 걸은 노동자들은 스트레스 수준이 상당히 낮다고 보고했고 집중력 검사에서 약 15퍼센트 더 높은 점수를 받았다. 그들 중 다수는 일터로 돌아갈 때 더 명랑했다고도 말했다. 반면 책상에 머문 노동자들은 4주 동안 의미 있는 변화를 보이지 않았다. ▶ 근무일 중 자연 속에서 잠깐 걷는 것은 노동자의 스트레스 수준을 (A)시키고 오후의 집중력을 (B)시켰다.",
+    "why": "공원에서 걸은 노동자는 스트레스가 낮아지고 집중력 점수가 올랐으므로 (A)는 reduced, (B)는 improved입니다.",
+    "optionNotes": [
+      "raised가 글과 반대입니다.",
+      "weakened가 글과 반대입니다.",
+      "ignored와 maintained는 글과 맞지 않습니다.",
+      "increased와 damaged는 글과 반대입니다.",
+      "정답. 스트레스를 줄이고 집중력을 높였습니다."
+    ],
+    "trap": "(B)가 맞아도 (A)가 결과(스트레스 감소)와 일치하는지 확인하세요.",
+    "tip": "요약문은 실험군의 두 결과(스트레스 ↓, 집중력 ↑)를 짝지으세요."
+  }
+]
