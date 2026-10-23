@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m3b-05-29",
+    "level": "m3",
+    "set": "mock-05",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Hummingbirds are the only birds that can fly backward, and their wings beat up to eighty times per second. To support such rapid movement, a hummingbird must eat {1|more than} half its body weight in nectar every day. It also has a remarkably fast heartbeat, {2|which} can exceed twelve hundred beats per minute. At night, when it cannot feed, the bird enters a state called torpor, {3|during which} its body temperature and heart rate drop sharply. This allows it to save energy until morning. Scientists studying these birds have discovered that {4|their} tongues work like tiny pumps, drawing nectar up with great efficiency. Hardly {5|a hummingbird sleeps} deeply, since staying alert to danger is essential.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "벌새는 뒤로 날 수 있는 유일한 새이며 날개가 초당 최대 80번 움직인다. 그런 빠른 움직임을 뒷받침하려고 벌새는 매일 체중의 절반이 넘는 꿀을 먹어야 한다. 또한 분당 1,200번을 넘을 수 있는 놀랄 만큼 빠른 심장 박동을 가지고 있다. 먹이를 구할 수 없는 밤에는 이 새가 토퍼라는 상태에 들어가는데 그동안 체온과 심장 박동이 급격히 떨어진다. 이것은 아침까지 에너지를 절약하게 해 준다. 이 새를 연구하는 과학자들은 그들의 혀가 작은 펌프처럼 작동하여 아주 효율적으로 꿀을 끌어올린다는 것을 발견했다. 위험을 경계하는 것이 필수적이므로 벌새는 좀처럼 깊이 자지 않는다.",
+    "why": "부정 부사 'Hardly'가 문장 앞에 오면 주어와 조동사가 도치되므로 'a hummingbird sleeps'가 아니라 'does a hummingbird sleep'이어야 합니다.",
+    "optionNotes": [
+      "비교 표현 more than입니다.",
+      "계속적 용법의 관계대명사 which입니다.",
+      "전치사 + 관계대명사 during which입니다.",
+      "명사 tongues를 수식하는 소유격 their입니다.",
+      "정답(틀린 것). Hardly가 문두에 오면 does a hummingbird sleep으로 도치되어야 합니다."
+    ],
+    "trap": "Hardly를 일반 부사처럼 보고 어순을 바꾸지 않기 쉽습니다.",
+    "tip": "Hardly, Never, Not only 같은 부정어구가 문두에 오면 조동사가 주어 앞에 옵니다."
+  },
+  {
+    "id": "m3b-05-30",
+    "level": "m3",
+    "set": "mock-05",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "In the past, anyone could look up at night and see thousands of stars. Today, however, artificial light has {1|brightened} the night sky so much that many city residents can see only a few dozen. This light pollution does not just hide the stars. It also {2|disturbs} the sleep of humans and the migration of birds. Some cities have therefore adopted shielded streetlights that point downward and {3|reduce} the amount of light escaping into the sky. Another approach is to designate dark-sky parks, where lighting is strictly {4|limited}. Visitors to such parks often say that seeing the Milky Way for the first time is a life-changing experience, and they are {5|eager} to return to the city.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "과거에는 누구나 밤에 올려다보면 수천 개의 별을 볼 수 있었다. 그러나 오늘날 인공 불빛이 밤하늘을 너무 밝혀서 많은 도시 주민은 몇십 개밖에 보지 못한다. 이 빛 공해는 별을 가릴 뿐 아니라 인간의 수면과 새의 이동도 방해한다. 그래서 일부 도시는 아래를 향하는 차폐형 가로등을 채택해 하늘로 새어 나가는 빛의 양을 줄인다. 또 다른 방법은 조명을 엄격히 제한하는 어두운 하늘 공원을 지정하는 것이다. 이런 공원의 방문객들은 은하수를 처음 보는 것이 인생을 바꾸는 경험이라고 자주 말하며 도시로 돌아가기를 열망한다.",
+    "why": "은하수를 본 경험이 인생을 바꿀 만큼 특별했다는 내용이므로 도시로 돌아가는 것을 '열망한다(eager)'가 아니라 '꺼린다(reluctant)'여야 합니다.",
+    "optionNotes": [
+      "밤하늘을 밝힌다는 의미로 brightened가 알맞습니다.",
+      "수면을 방해한다는 의미로 disturbs가 알맞습니다.",
+      "빛의 양을 줄인다는 의미로 reduce가 알맞습니다.",
+      "조명을 제한한다는 의미로 limited가 알맞습니다.",
+      "정답(부적절). 특별한 경험 뒤라 돌아가기를 꺼린다는 reluctant여야 합니다."
+    ],
+    "trap": "마지막 절이 앞 절의 감동과 이어지는 방향인지 놓치기 쉽습니다.",
+    "tip": "and로 이어진 절은 앞 절(life-changing experience)과 방향이 같은지 확인하세요."
+  },
+  {
+    "id": "m3b-05-31",
+    "level": "m3",
+    "set": "mock-05",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "When we hold a strong opinion, we tend to notice information that supports it and to ignore information that challenges it. This tendency is natural, and nearly everyone shows it. Psychologists call this confirmation bias. Scientists first described it in the 1960s. In one experiment, participants who strongly supported or opposed a city plan read the same two reports, one in favor of the plan and one against it. Afterward, both groups became more convinced of their original opinions. Some even said that the report they disliked had made them more certain. This happens because contradicting evidence feels uncomfortable, so we quietly search for reasons to doubt it. To reduce this bias, we should __________. Doing so is uncomfortable, but it leads to fairer judgments.",
+    "options": [
+      "avoid reading any reports about the topics that we care about deeply",
+      "discuss the issue only with people who already agree with our own views",
+      "make our final decisions as quickly as we possibly can without thinking",
+      "actively look for evidence that might prove our own opinions wrong",
+      "trust the opinion of the majority in every situation of our lives"
+    ],
+    "answer": 3,
+    "translation": "강한 의견을 가지면 우리는 그것을 뒷받침하는 정보는 알아채고 그것에 도전하는 정보는 무시하는 경향이 있다. 이 경향은 자연스러우며 거의 모든 사람이 보인다. 심리학자들은 이를 확증 편향이라 부른다. 과학자들은 1960년대에 이를 처음 기술했다. 한 실험에서 도시 계획을 강하게 지지하거나 반대하는 참가자들은 계획에 찬성하는 보고서와 반대하는 보고서, 두 개의 같은 보고서를 읽었다. 그 뒤 두 집단 모두 원래 의견을 더 확신하게 되었다. 일부는 자신이 싫어하는 보고서가 오히려 자기를 더 확신하게 했다고까지 말했다. 이는 반대되는 증거가 불편하게 느껴져서 우리가 그것을 의심할 이유를 조용히 찾기 때문에 일어난다. 이 편향을 줄이려면 우리는 자신의 의견이 틀렸음을 입증할 수 있는 증거를 적극적으로 찾아야 한다. 그렇게 하는 것은 불편하지만 더 공정한 판단으로 이어진다.",
+    "why": "불편한 반대 증거를 외면하는 것이 편향의 원인이므로 편향을 줄이려면 자신의 의견이 틀렸음을 입증할 증거를 적극적으로 찾아야 합니다.",
+    "optionNotes": [
+      "읽기를 피하는 것은 편향을 키웁니다.",
+      "같은 의견의 사람과만 토론하면 편향이 강해집니다.",
+      "빨리 결정하는 것은 해결책이 아닙니다.",
+      "정답. 반대 증거를 적극적으로 찾습니다.",
+      "다수의 의견을 따르는 것은 해결책이 아닙니다."
+    ],
+    "trap": "'discuss only with people who agree'는 편향을 강화하는 행동입니다.",
+    "tip": "원인(반대 증거를 외면)의 반대 행동이 해결책입니다."
+  },
+  {
+    "id": "m3b-05-32",
+    "level": "m3",
+    "set": "mock-05",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Research on problem solving shows that a team of talented people with similar backgrounds can be less effective than a more varied team. Companies and schools have long assumed the opposite. In one study, groups of randomly chosen individuals outperformed groups of experts on a difficult puzzle. The experts were highly skilled, but they kept suggesting similar solutions. The reason is that people with similar training tend to approach a problem in the same way, and therefore they get stuck in the same places. In contrast, people with different experiences offer unexpected ideas that others would never think of. This suggests that the key to creative teamwork is not simply individual ability but __________. Diverse teams are not always comfortable, but they are often more creative.",
+    "options": [
+      "the amount of time that members spend working together each day",
+      "the variety of perspectives that members bring to the problem",
+      "the number of experts who are officially assigned to the project",
+      "the strict rules that tell every member exactly what to do",
+      "the length of the reports that the team writes at the end"
+    ],
+    "answer": 1,
+    "translation": "문제 해결에 관한 연구는 비슷한 배경을 가진 재능 있는 사람들의 팀이 더 다양한 팀보다 덜 효과적일 수 있음을 보여 준다. 기업과 학교는 오랫동안 그 반대로 가정해 왔다. 한 연구에서 무작위로 고른 개인들의 집단이 어려운 퍼즐에서 전문가 집단보다 더 잘했다. 전문가들은 매우 숙련되었지만 비슷한 해결책만 계속 제시했다. 이유는 비슷한 훈련을 받은 사람들이 문제에 같은 방식으로 접근해 같은 곳에서 막히는 경향이 있기 때문이다. 반면 서로 다른 경험을 가진 사람들은 다른 사람이 결코 떠올리지 못할 뜻밖의 아이디어를 낸다. 이는 창의적인 협력의 열쇠가 단순한 개인의 능력이 아니라 구성원이 문제에 가져오는 관점의 다양성임을 시사한다. 다양한 팀은 항상 편안하지는 않지만 흔히 더 창의적이다.",
+    "why": "배경이 다른 사람들이 뜻밖의 아이디어를 내므로 핵심은 구성원들이 가져오는 관점의 다양성입니다.",
+    "optionNotes": [
+      "함께 일하는 시간은 나오지 않습니다.",
+      "정답. 구성원이 가져오는 관점의 다양성입니다.",
+      "전문가의 수는 글과 반대입니다.",
+      "엄격한 규칙은 나오지 않습니다.",
+      "보고서의 길이는 나오지 않습니다."
+    ],
+    "trap": "'experts'에 이끌려 전문가의 수(③)를 고르지 마세요. 전문가 집단이 오히려 졌습니다.",
+    "tip": "not A but B에서 A(individual ability)와 대비되는 B를 찾으세요."
+  },
+  {
+    "id": "m3b-05-33",
+    "level": "m3",
+    "set": "mock-05",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A large study of residents in a European capital found that people living within three hundred meters of a park reported lower stress and fewer symptoms of depression. Interestingly, the benefit did not depend on the size of the park or on how often people actually visited it. The pattern was similar across age groups and income levels. Even those who only saw trees from their windows showed improvements. Residents also said that they slept better on streets with more greenery. Researchers believe that natural scenery allows our attention to rest from the constant demands of city life. This suggests that the value of nature lies not only in what we do there but also in __________. Planners can therefore use even small gardens to improve city life.",
+    "options": [
+      "the amount of money that cities spend on planting trees",
+      "the number of sports facilities that are built around the park",
+      "the length of time that visitors stay inside the park each day",
+      "the information that guides provide about plants and animals",
+      "the quiet relief that simply being near it can provide"
+    ],
+    "answer": 4,
+    "translation": "유럽 한 수도의 주민을 대상으로 한 대규모 연구는 공원에서 300미터 이내에 사는 사람들이 더 낮은 스트레스와 더 적은 우울 증상을 보고했음을 발견했다. 흥미롭게도 그 이점은 공원의 크기나 사람들이 실제로 얼마나 자주 방문했는지에 달려 있지 않았다. 이 양상은 연령대와 소득 수준을 가리지 않고 비슷했다. 창문으로 나무를 보기만 한 사람들도 개선을 보였다. 주민들은 녹지가 더 많은 거리에서 더 잘 잔다고도 말했다. 연구자들은 자연 경관이 우리의 주의를 도시 생활의 끊임없는 요구로부터 쉬게 해 준다고 믿는다. 이는 자연의 가치가 우리가 그곳에서 하는 일에만 있는 것이 아니라 가까이 있는 것만으로도 얻을 수 있는 고요한 안도감에도 있음을 시사한다. 그러므로 계획가들은 작은 정원으로도 도시 생활을 개선할 수 있다.",
+    "why": "창문으로 나무를 보기만 해도 개선이 있었으므로 '가까이 있는 것만으로 얻는 고요한 안도감'이 알맞습니다.",
+    "optionNotes": [
+      "식재 비용은 나오지 않습니다.",
+      "운동 시설은 나오지 않습니다.",
+      "머무는 시간은 이점과 무관하다고 했습니다.",
+      "안내 정보는 나오지 않습니다.",
+      "정답. 가까이 있는 것만으로 얻는 안도감입니다."
+    ],
+    "trap": "'how often people visited'와 무관하다는 내용을 놓치지 마세요.",
+    "tip": "not only A but also B에서 B는 앞의 연구 결과(창밖의 나무만으로도 개선)를 일반화한 말입니다."
+  },
+  {
+    "id": "m3b-05-34",
+    "level": "m3",
+    "set": "mock-05",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many people enjoy listening to sad songs, which seems strange because sadness is usually an unpleasant emotion. Many listeners say that the songs make them feel understood rather than unhappy. Researchers suggest that sad music allows listeners to experience emotions safely. Brain scans show that sad music also activates the reward areas of the brain. Since the sorrow in a song is not caused by a real event in their lives, listeners can feel its beauty without suffering any actual loss. Some participants even reported feeling comforted, as if the music understood their feelings. Others said that crying while listening helped them to release tension. This explains why people often turn to sad songs when they are __________. In this way, sadness in music can become a source of strength.",
+    "options": [
+      "preparing for an important exam that they must pass this year",
+      "celebrating a happy event with their friends and family members",
+      "going through difficult times and in need of emotional comfort",
+      "looking for a new job in a city where they have never lived",
+      "trying to learn a foreign language as quickly as they can manage"
+    ],
+    "answer": 2,
+    "translation": "많은 사람이 슬픈 노래를 듣는 것을 즐기는데 슬픔은 보통 불쾌한 감정이어서 이상해 보인다. 많은 청취자는 그 노래가 자신을 불행하게 하기보다 이해받는 느낌을 준다고 말한다. 연구자들은 슬픈 음악이 청취자가 감정을 안전하게 경험하게 해 준다고 말한다. 뇌 스캔은 슬픈 음악이 뇌의 보상 영역도 활성화함을 보여 준다. 노래 속의 슬픔은 삶의 실제 사건에서 비롯된 것이 아니므로 청취자는 실제 상실을 겪지 않고 그 아름다움을 느낄 수 있다. 일부 참가자는 음악이 자신의 감정을 이해해 주는 것처럼 위로받는 느낌이 든다고 보고하기까지 했다. 다른 참가자들은 들으며 우는 것이 긴장을 푸는 데 도움이 되었다고 말했다. 이것이 사람들이 힘든 시기를 겪으며 정서적 위안이 필요할 때 흔히 슬픈 노래에 의지하는 이유를 설명한다. 이렇게 음악 속의 슬픔은 힘의 원천이 될 수 있다.",
+    "why": "슬픈 음악이 안전하게 감정을 경험하게 하고 위로를 주므로 '힘든 시기를 겪으며 정서적 위안이 필요할 때'가 알맞습니다.",
+    "optionNotes": [
+      "시험 준비는 나오지 않습니다.",
+      "행복한 일을 축하하는 상황과 반대입니다.",
+      "정답. 힘든 시기에 위안을 얻으려 듣습니다.",
+      "구직은 나오지 않습니다.",
+      "외국어 학습은 나오지 않습니다."
+    ],
+    "trap": "'enjoy'라는 단어에 이끌려 즐거운 상황(②)을 고르지 마세요.",
+    "tip": "comforted 같은 결과 표현이 빈칸의 직접적 단서입니다."
+  },
+  {
+    "id": "m3b-05-35",
+    "level": "m3",
+    "set": "mock-05",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Learning a second language has benefits that go far beyond communication. ① Bilingual people often show greater mental flexibility, because they constantly switch between two systems of words and rules. ② Studies also suggest that speaking two languages may delay the onset of memory-related diseases in old age. ③ Spanish is spoken as a first language by more than four hundred million people across many continents. ④ In addition, bilinguals tend to understand other cultures more deeply, which helps them to work well with diverse groups. ⑤ These advantages show that language learning is a worthwhile investment at any age.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "제2언어를 배우는 것은 의사소통을 훨씬 넘어서는 이점이 있다. ① 이중 언어 사용자는 두 가지 단어와 규칙 체계를 끊임없이 오가기 때문에 흔히 더 큰 정신적 유연성을 보인다. ② 연구들은 또한 두 언어를 말하는 것이 노년의 기억 관련 질환의 시작을 늦출 수 있음을 시사한다. ③ 스페인어는 여러 대륙에서 4억 명이 넘는 사람들이 모국어로 말한다. ④ 게다가 이중 언어 사용자는 다른 문화를 더 깊이 이해하는 경향이 있어서 다양한 집단과 잘 일하는 데 도움이 된다. ⑤ 이런 이점은 언어 학습이 어느 나이에든 가치 있는 투자임을 보여 준다.",
+    "why": "글은 제2언어 학습의 이점을 말하는데 ③은 스페인어 사용 인구라는 별개의 이야기라 관계가 없습니다.",
+    "optionNotes": [
+      "정신적 유연성이라는 이점입니다.",
+      "기억 질환 지연이라는 이점입니다.",
+      "정답(무관). 스페인어 사용 인구에 관한 이야기입니다.",
+      "문화 이해라는 이점입니다.",
+      "결론 문장입니다."
+    ],
+    "trap": "언어와 관련된 소재라서 주제와 이어지는 것처럼 보일 수 있습니다.",
+    "tip": "주제(제2언어 학습의 이점)를 뒷받침하지 않는 정보성 문장을 고르세요."
+  },
+  {
+    "id": "m3b-05-36",
+    "level": "m3",
+    "set": "mock-05",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "In 1900, New York City had more than one hundred thousand horses pulling carriages, wagons, and streetcars, and their waste created a serious problem for public health.\n(A) As a result, the problem that once seemed unsolvable disappeared almost overnight, although cars would later create a different kind of problem. Few people at the time could have imagined such a quick change.\n(B) Then, within a few years, the automobile arrived, and cars quickly replaced horses as the main form of transportation, so that by 1920 horses had almost disappeared from the streets.\n(C) Officials worried that, if the number of horses kept increasing, the streets would soon be buried under several meters of manure. Doctors warned that disease would spread, and newspapers predicted a disaster.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 4,
+    "translation": "1900년 뉴욕시에는 마차, 짐수레, 전차를 끄는 말이 십만 마리가 넘었고 그 배설물은 공중 보건에 심각한 문제를 일으켰다. (C) 관리들은 말의 수가 계속 늘면 거리가 곧 몇 미터의 분뇨에 파묻힐 것을 우려했다. 의사들은 질병이 퍼질 것이라고 경고했고 신문은 재앙을 예측했다. (B) 그러다 몇 년 안에 자동차가 등장했고 자동차는 곧 말을 주요 교통수단으로 대체하여 1920년이 되자 말은 거리에서 거의 사라졌다. (A) 그 결과 한때 해결할 수 없어 보이던 문제는 거의 하룻밤 사이에 사라졌는데, 자동차는 나중에 다른 종류의 문제를 일으키게 된다. 당시 사람들 중 그렇게 빠른 변화를 상상한 사람은 거의 없었다.",
+    "why": "(C) 문제에 대한 우려 → (B) 'Then'으로 자동차의 등장 → (A) 'As a result'로 문제의 해소 순서입니다.",
+    "optionNotes": [
+      "(A)의 'the problem'과 'As a result'가 가리킬 내용이 앞에 나오지 않습니다.",
+      "(B)의 'Then'이 이어질 앞 내용이 없고 우려보다 해결이 먼저 나옵니다.",
+      "(B)가 먼저 오면 문제가 커지는 우려 전에 해결이 나옵니다.",
+      "(A)의 'As a result'가 (B)의 자동차 등장 전에 오면 원인이 없습니다.",
+      "정답. 우려 → 자동차 등장 → 문제 해소."
+    ],
+    "trap": "(A)의 'As a result'는 (B)의 자동차 등장을 원인으로 받습니다.",
+    "tip": "Then → As a result 같은 연결어의 앞뒤 인과를 확인하세요."
+  },
+  {
+    "id": "m3b-05-37",
+    "level": "m3",
+    "set": "mock-05",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Honey never spoils, and archaeologists have found edible honey in ancient Egyptian tombs that is more than three thousand years old. This remarkable fact has puzzled many people for centuries.\n(A) Together, these properties make honey one of the few foods that can be stored almost forever, as long as the jar is kept sealed. That is why a sealed jar can last for generations.\n(B) The first reason is its chemistry. Honey contains very little water, so bacteria cannot grow in it, and the thick, sugary liquid pulls water out of any germs that happen to land there.\n(C) In addition, bees add an enzyme to the nectar they collect, and this enzyme produces small amounts of hydrogen peroxide, which kills many germs.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 2,
+    "translation": "꿀은 상하지 않으며 고고학자들은 삼천 년이 넘은 고대 이집트 무덤에서 먹을 수 있는 꿀을 발견했다. 이 놀라운 사실은 수 세기 동안 많은 사람을 어리둥절하게 했다. (B) 첫 번째 이유는 화학적 성질이다. 꿀은 수분이 매우 적어 세균이 자랄 수 없고 걸쭉한 설탕 액체가 그 위에 내려앉은 세균의 수분을 빼앗는다. (C) 게다가 벌은 모은 꿀에 효소를 더하는데 이 효소가 소량의 과산화수소를 만들어 많은 세균을 죽인다. (A) 이런 성질이 함께 작용해 꿀은 병을 밀봉해 두는 한 거의 영원히 보관할 수 있는 몇 안 되는 음식 중 하나가 된다. 그래서 밀봉된 병은 여러 세대 동안 보존될 수 있다.",
+    "why": "(B) 'The first reason'으로 첫 이유 → (C) 'In addition'으로 추가 이유 → (A) 'Together, these properties'로 종합 순서입니다.",
+    "optionNotes": [
+      "(A)의 'these properties'가 가리킬 성질이 앞에 나오지 않습니다.",
+      "(A)가 (C)보다 앞서면 두 번째 이유 전에 종합이 나옵니다.",
+      "정답. 첫 이유 → 추가 이유 → 종합.",
+      "(C)의 'In addition'이 더할 첫 이유가 앞에 나오지 않습니다.",
+      "(C)의 'In addition'이 더할 첫 이유가 앞에 나오지 않습니다."
+    ],
+    "trap": "(A)의 'these properties'는 (B)와 (C)에서 설명한 두 성질입니다.",
+    "tip": "The first reason → In addition → Together 같은 열거 표현을 따라가세요."
+  },
+  {
+    "id": "m3b-05-38",
+    "level": "m3",
+    "set": "mock-05",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nHow, then, do these butterflies find their way?\n\n[글]\n( ① ) Every autumn, millions of monarch butterflies fly from Canada to a small mountain forest in Mexico to spend the winter. ( ② ) The journey is nearly four thousand kilometers long, and it takes them about two months, crossing mountains, rivers, and busy highways. ( ③ ) Surprisingly, none of the butterflies that make this trip has ever been there before, because the ones that left in spring have long since died. ( ④ ) Scientists believe that they use the sun as a compass and an internal clock to keep their direction, and they may also sense the Earth's magnetic field. ( ⑤ ) This remarkable ability is still being studied today, and every discovery raises new questions.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "[주어진 문장] 그렇다면 이 나비들은 어떻게 길을 찾을까? [글] 매년 가을 수백만 마리의 제왕나비가 겨울을 나려고 캐나다에서 멕시코의 작은 산림으로 날아간다. 여정은 거의 4천 킬로미터에 달하고 산, 강, 붐비는 고속도로를 건너며 약 두 달이 걸린다. 놀랍게도 이 여행을 하는 나비 중 어느 것도 전에 그곳에 가 본 적이 없는데 봄에 떠난 나비들은 이미 오래전에 죽었기 때문이다. 과학자들은 나비가 태양을 나침반과 내부 시계로 이용해 방향을 유지하며 지구의 자기장도 감지할 수 있다고 믿는다. 이 놀라운 능력은 오늘날에도 연구되고 있으며 새로운 발견마다 새로운 질문이 생긴다.",
+    "why": "앞 문장에서 나비들이 한 번도 가 보지 않은 곳을 찾아간다는 놀라운 사실을 말했으므로 '그렇다면 어떻게 길을 찾을까?'라는 질문이 이어지고 뒤에 과학자들의 설명이 나오므로 ④에 들어갑니다.",
+    "optionNotes": [
+      "아직 놀라운 사실이 나오기 전이라 'then'이 어색합니다.",
+      "여정의 길이를 말한 직후에 방법을 묻기에는 앞 단서가 부족합니다.",
+      "'Surprisingly' 문장 앞에서 질문하면 뒤의 문장이 답이 되지 않아 어긋납니다.",
+      "정답. 놀라운 사실 뒤에 질문하고 과학자들의 설명이 이어집니다.",
+      "설명이 끝난 뒤에 질문하면 순서가 뒤집힙니다."
+    ],
+    "trap": "②나 ③에 넣어도 질문처럼 보이지만 바로 뒤 문장이 답이 되어야 합니다.",
+    "tip": "의문문 + then은 놀라운 사실 뒤에 오고 바로 뒤 문장이 그 답입니다."
+  },
+  {
+    "id": "m3b-05-39",
+    "level": "m3",
+    "set": "mock-05",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nAs a result, they keep working, and their grades gradually improve.\n\n[글]\n( ① ) Students who believe that intelligence can be developed through effort behave very differently from those who think that it is fixed from birth. ( ② ) When they fail a test, they ask themselves what they can do better next time, and they look for new study methods. ( ③ ) Students with a fixed mindset, on the other hand, often conclude that they are simply not smart enough, so they avoid challenges that might expose their weaknesses. ( ④ ) Fortunately, mindsets can be changed, for example by praising effort rather than talent. ( ⑤ )",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 그 결과 그들은 계속 노력하고 성적이 서서히 오른다. [글] 지능이 노력으로 발달할 수 있다고 믿는 학생들은 지능이 타고난 것이라고 생각하는 학생들과 매우 다르게 행동한다. 시험에서 실패하면 그들은 다음에 무엇을 더 잘할 수 있을지 스스로에게 묻고 새로운 공부 방법을 찾는다. 반면 고정 마인드셋을 가진 학생들은 자신이 단지 충분히 똑똑하지 않다고 결론짓는 경우가 많아서 약점을 드러낼 수 있는 도전을 피한다. 다행히 마인드셋은 바뀔 수 있는데 예를 들어 재능이 아니라 노력을 칭찬하는 것이다.",
+    "why": "주어진 문장은 성장 마인드셋 학생의 행동의 결과이고, 바로 뒤의 'on the other hand'가 고정 마인드셋 학생과 대조하므로 ③에 들어갑니다.",
+    "optionNotes": [
+      "'they keep working'의 원인이 되는 행동이 아직 나오지 않았습니다.",
+      "원인(실패 후 개선 방법 찾기)이 나오기 전이라 'As a result'가 어색합니다.",
+      "정답. 성장 마인드셋의 결과를 말한 뒤 'on the other hand'로 대조합니다.",
+      "대조 문장 뒤에 성장 마인드셋의 결과가 오면 어색합니다.",
+      "마인드셋을 바꾸는 방법 뒤에 오면 흐름이 끊깁니다."
+    ],
+    "trap": "④에 넣으면 'on the other hand'로 대조된 고정 마인드셋 학생의 이야기 뒤에 결과가 와서 주어(they)가 헷갈립니다.",
+    "tip": "As a result는 원인 바로 뒤에, 대조 연결어(on the other hand) 앞에 놓입니다."
+  },
+  {
+    "id": "m3b-05-40",
+    "level": "m3",
+    "set": "mock-05",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Researchers asked three groups of students to study the same chapter about the human heart. The first group simply re-read the chapter, the second group made summary notes, and the third group studied while expecting to teach the content to another student afterward. In the test one week later, the third group scored about twenty-five percent higher than the other two. Interviews showed that these students had tried to find clear examples, discovered gaps in their own understanding, and filled them before the teaching session. The researchers concluded that preparing to teach forces learners to organize their knowledge and to notice what they do not yet understand.\n\n▶ Teaching others (A) one's own understanding because it requires (B) knowledge in a clear form.",
+    "options": [
+      "(A) undermines — (B) concealing",
+      "(A) postpones — (B) forgetting",
+      "(A) substitutes — (B) duplicating",
+      "(A) strengthens — (B) organizing",
+      "(A) disregards — (B) memorizing"
+    ],
+    "answer": 3,
+    "translation": "연구자들은 세 집단의 학생에게 사람의 심장에 관한 같은 단원을 공부하게 했다. 첫 번째 집단은 단원을 다시 읽기만 했고, 두 번째 집단은 요약 노트를 만들었으며, 세 번째 집단은 나중에 다른 학생에게 내용을 가르칠 것을 예상하고 공부했다. 일주일 뒤 시험에서 세 번째 집단은 다른 두 집단보다 약 25퍼센트 높은 점수를 받았다. 인터뷰는 이 학생들이 명확한 예를 찾으려 했고 자신의 이해에 빈틈이 있음을 발견했으며 가르치기 전에 그것을 메웠음을 보여 주었다. 연구자들은 가르칠 준비를 하는 것이 학습자에게 지식을 정리하고 아직 이해하지 못한 것을 알아채도록 한다고 결론지었다. ▶ 다른 사람을 가르치는 것은 지식을 명확한 형태로 (B)해야 하므로 자신의 이해를 (A)한다.",
+    "why": "가르칠 준비가 지식을 정리하게 하고 이해의 빈틈을 알아채게 하므로 (A)는 strengthens, (B)는 organizing입니다.",
+    "optionNotes": [
+      "undermines와 concealing은 글과 반대입니다.",
+      "postpones와 forgetting은 글에 나오지 않습니다.",
+      "substitutes와 duplicating은 글에 나오지 않습니다.",
+      "정답. 이해를 강화하고 지식을 정리하게 합니다.",
+      "disregards와 memorizing은 글과 맞지 않습니다."
+    ],
+    "trap": "(A)가 맞아도 (B)가 글의 설명(organize their knowledge)과 일치하는지 확인하세요.",
+    "tip": "요약문은 결과(점수 상승)와 이유(지식 정리)를 짝지으세요."
+  }
+]
