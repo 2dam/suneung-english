@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m3b-10-29",
+    "level": "m3",
+    "set": "mock-10",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "The Sherpas are an ethnic group living in the mountains of Nepal, {1|where} they have lived for hundreds of years. Because they are used to high altitudes, many Sherpas work as guides for climbers {2|who wants} to reach the summit of Mount Everest. Their bodies have adapted to the thin air, which allows them to carry heavy loads with less effort than people from lower areas. Scientists studying Sherpas found that their cells use oxygen more efficiently {3|than} those of other people. Despite this skill, Sherpas face great danger every season, since avalanches can {4|bury} entire camps without warning. In recent years, many Sherpas have organized to demand better pay and insurance, hoping that their children will have {5|safer} choices in life.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "셰르파는 네팔의 산악 지대에 사는 민족 집단으로 그곳에서 수백 년 동안 살아왔다. 높은 고도에 익숙하기 때문에 많은 셰르파가 에베레스트산 정상에 오르려는 등반가의 안내인으로 일한다. 그들의 몸은 희박한 공기에 적응했고 이 덕분에 낮은 지대 사람들보다 적은 노력으로 무거운 짐을 나를 수 있다. 셰르파를 연구한 과학자들은 그들의 세포가 다른 사람들의 세포보다 산소를 더 효율적으로 쓴다는 것을 발견했다. 이런 기술에도 불구하고 눈사태가 경고 없이 야영지 전체를 묻을 수 있어서 셰르파는 시즌마다 큰 위험에 직면한다. 최근 몇 년 동안 많은 셰르파가 자녀가 더 안전한 삶의 선택지를 갖기를 바라며 더 나은 임금과 보험을 요구하려고 조직했다.",
+    "why": "선행사 climbers가 복수이므로 관계대명사 뒤 동사는 'wants'가 아니라 'want'여야 합니다.",
+    "optionNotes": [
+      "장소(Nepal)를 선행사로 하는 관계부사 where입니다.",
+      "정답(틀린 것). 복수 선행사 climbers에 맞춰 who want여야 합니다.",
+      "비교급 more efficiently 뒤의 than입니다.",
+      "조동사 can 뒤의 동사원형입니다.",
+      "명사 choices를 수식하는 형용사 비교급입니다."
+    ],
+    "trap": "who 바로 앞의 단어가 'climbers'임을 놓치고 단수로 쓰기 쉽습니다.",
+    "tip": "관계대명사절의 동사는 선행사의 수에 일치시킵니다."
+  },
+  {
+    "id": "m3b-10-30",
+    "level": "m3",
+    "set": "mock-10",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Noise in big cities is more than an annoyance; it can seriously {1|affect} our health. Long exposure to loud sounds raises blood pressure and increases stress hormones, even while we are asleep. Children who live near airports have been found to have {2|lower} reading scores than children who live in quieter areas, since noise makes it hard to concentrate. To deal with this problem, some cities have begun to {3|increase} traffic noise by planting trees and building barriers along highways. Engineers also design quieter road surfaces, which {4|absorb} the sound of tires. Residents can help as well by choosing {5|quieter} appliances and keeping the volume of music low, especially at night when most people are trying to rest.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "대도시의 소음은 성가심 이상이며 우리 건강에 심각한 영향을 줄 수 있다. 큰 소리에 오래 노출되면 잠자는 동안에도 혈압이 오르고 스트레스 호르몬이 늘어난다. 공항 근처에 사는 아이들은 소음이 집중을 어렵게 하기 때문에 조용한 지역에 사는 아이들보다 읽기 점수가 낮은 것으로 밝혀졌다. 이 문제에 대처하려고 일부 도시는 고속도로를 따라 나무를 심고 방음벽을 세워 교통 소음을 줄이기 시작했다. 기술자들은 또한 타이어 소리를 흡수하는 더 조용한 도로 표면을 설계한다. 주민들도 더 조용한 가전제품을 고르고 특히 대부분의 사람이 쉬려는 밤에 음악 소리를 낮춰서 도울 수 있다.",
+    "why": "나무를 심고 방음벽을 세우는 것은 교통 소음을 '늘리는(increase)' 것이 아니라 '줄이는(reduce)' 방법입니다.",
+    "optionNotes": [
+      "건강에 영향을 준다는 의미로 affect가 알맞습니다.",
+      "소음 때문에 점수가 낮다는 의미로 lower가 알맞습니다.",
+      "정답(부적절). 나무와 방음벽은 소음을 줄이므로 reduce여야 합니다.",
+      "타이어 소리를 흡수한다는 의미로 absorb가 알맞습니다.",
+      "더 조용한 가전제품이라는 의미로 quieter가 알맞습니다."
+    ],
+    "trap": "'To deal with this problem'의 목적을 놓치면 반대 의미를 놓칩니다.",
+    "tip": "문제 해결(대처)을 위한 행동이라는 맥락에서 낱말의 방향을 확인하세요."
+  },
+  {
+    "id": "m3b-10-31",
+    "level": "m3",
+    "set": "mock-10",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Why do projects almost always take longer than planned? Psychologists call this tendency the planning fallacy. When we make a plan, we usually imagine the best case, in which everything goes smoothly, and we ignore the delays that happened during similar tasks in the past. This habit can lead to missed deadlines and heavy stress. In one study, students estimated that they would finish their essays in about five days, but the average time they actually needed was seven. Even when they were asked to think about the worst case, their estimates improved only slightly. Researchers found that a more accurate method is to look at how long comparable tasks really took before. So to make realistic plans, we should rely on __________.",
+    "options": [
+      "the actual records of similar tasks that we have completed",
+      "our feelings about how confident we are today",
+      "the deadlines that our friends have given to us",
+      "the best-case scenario that we can possibly imagine",
+      "a careful guess made by someone who has never tried the task"
+    ],
+    "answer": 0,
+    "translation": "프로젝트는 왜 거의 항상 계획보다 오래 걸릴까? 심리학자들은 이 경향을 계획 오류라고 부른다. 계획을 세울 때 우리는 보통 모든 것이 순조롭게 진행되는 최상의 경우를 상상하고 과거 비슷한 일에서 있었던 지연은 무시한다. 이 습관은 놓친 마감과 심한 스트레스로 이어질 수 있다. 한 연구에서 학생들은 에세이를 약 닷새 안에 끝낼 것이라고 추정했지만 실제로 필요했던 평균 시간은 이레였다. 최악의 경우를 생각해 보라고 요청받았을 때도 추정은 약간만 나아졌다. 연구자들은 더 정확한 방법이 비슷한 일이 이전에 실제로 얼마나 걸렸는지 살펴보는 것임을 발견했다. 그러므로 현실적인 계획을 세우려면 우리는 지금까지 마친 비슷한 일의 실제 기록에 의존해야 한다.",
+    "why": "비슷한 일이 실제로 얼마나 걸렸는지 살펴보는 것이 더 정확하다고 했으므로 완료한 비슷한 일의 실제 기록에 의존해야 합니다.",
+    "optionNotes": [
+      "정답. 비슷한 일의 실제 기록입니다.",
+      "오늘의 자신감은 나오지 않습니다.",
+      "친구가 준 마감은 나오지 않습니다.",
+      "최상의 시나리오는 오류의 원인입니다.",
+      "해 본 적 없는 사람의 추측은 나오지 않습니다."
+    ],
+    "trap": "'best case'는 오류를 일으키는 방식이므로 고르지 마세요.",
+    "tip": "앞 문장(a more accurate method is to look at ~)이 빈칸의 직접적 단서입니다."
+  },
+  {
+    "id": "m3b-10-32",
+    "level": "m3",
+    "set": "mock-10",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "The sociologist Mark Granovetter asked people who had recently found new jobs how they had learned about them. Surprisingly, most people had heard about the job from acquaintances, not from close friends. The reason is that close friends usually move in the same circles as we do and know the same things. If one of them hears about a job, the others have usually heard about it, too. In contrast, acquaintances belong to different groups and have access to information that we have never heard of. Sociologists therefore call such casual connections weak ties, yet they can be more useful than strong ones when we need opportunities. Granovetter published his findings in 1973, and they are still widely quoted. In other words, the value of an acquaintance lies in __________.",
+    "options": [
+      "how often we spend time with them every week",
+      "the strong emotional support they give to us",
+      "their ability to keep our secrets safe for a very long time",
+      "the new information that comes from outside our circle",
+      "the gifts that they give to us on special days"
+    ],
+    "answer": 3,
+    "translation": "사회학자 마크 그래노베터는 최근 새 직장을 구한 사람들에게 그 일자리를 어떻게 알게 되었는지 물었다. 놀랍게도 대부분은 가까운 친구가 아니라 아는 사람을 통해 그 일자리에 대해 들었다. 그 이유는 가까운 친구들은 보통 우리와 같은 모임에서 움직이고 같은 것을 알기 때문이다. 그들 중 한 명이 일자리에 대해 들으면 나머지도 보통 들었다. 반면 아는 사람들은 다른 집단에 속해 있고 우리가 들어 본 적 없는 정보에 접근할 수 있다. 그래서 사회학자들은 이런 가벼운 관계를 약한 연결이라 부르지만 기회가 필요할 때는 강한 연결보다 더 유용할 수 있다. 그래노베터는 1973년에 연구 결과를 발표했고 지금도 널리 인용된다. 다시 말해 아는 사람의 가치는 우리 모임 밖에서 오는 새로운 정보에 있다.",
+    "why": "아는 사람은 다른 집단에 속해 있어 우리가 모르는 정보에 접근할 수 있으므로 가치는 모임 밖에서 오는 새로운 정보에 있습니다.",
+    "optionNotes": [
+      "만나는 빈도는 나오지 않습니다.",
+      "정서적 지원은 가까운 친구의 특징으로 암시될 뿐입니다.",
+      "비밀 유지는 나오지 않습니다.",
+      "정답. 모임 밖에서 오는 새로운 정보입니다.",
+      "선물은 나오지 않습니다."
+    ],
+    "trap": "'close friends'의 장점(정서적 지원)을 약한 연결의 가치로 착각하지 마세요.",
+    "tip": "In contrast 뒤의 내용이 약한 연결의 핵심 가치입니다."
+  },
+  {
+    "id": "m3b-10-33",
+    "level": "m3",
+    "set": "mock-10",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In the 1920s, a psychologist named Bluma Zeigarnik noticed that waiters in a restaurant could remember complicated orders perfectly while the meals were being served. Once the bills were paid, however, they forgot the details almost completely. She tested this idea in the laboratory by asking people to complete simple puzzles but interrupting some of them halfway. The puzzles included simple tasks such as making a small figure from clay or solving a short riddle. Later, the participants remembered the interrupted puzzles much better than the completed ones. According to her explanation, an unfinished task creates a kind of mental tension that keeps the information active in our memory, while a completed task releases that tension. This explains why a task left unfinished tends to __________.",
+    "options": [
+      "disappear from our memory almost immediately",
+      "become easier to complete the next day",
+      "stay on our mind until we finish it",
+      "make us feel proud of our hard work",
+      "turn into a task that someone else will do"
+    ],
+    "answer": 2,
+    "translation": "1920년대에 블루마 자이가르니크라는 심리학자는 식당의 종업원들이 음식이 나가는 동안에는 복잡한 주문을 완벽하게 기억하지만 계산이 끝나면 세부 사항을 거의 완전히 잊는다는 것을 알아챘다. 그녀는 사람들에게 간단한 퍼즐을 풀게 하되 일부는 도중에 중단시키는 방식으로 실험실에서 이 생각을 시험했다. 퍼즐에는 점토로 작은 형상을 만들거나 짧은 수수께끼를 푸는 것 같은 간단한 과제가 포함되었다. 나중에 참가자들은 중단된 퍼즐을 마친 퍼즐보다 훨씬 더 잘 기억했다. 그녀의 설명에 따르면 끝나지 않은 일은 정보를 기억 속에 활성 상태로 유지하는 일종의 정신적 긴장을 만들고 끝낸 일은 그 긴장을 풀어 준다. 이는 끝내지 못한 일이 끝낼 때까지 마음에 남아 있는 경향이 있는 이유를 설명한다.",
+    "why": "중단된 퍼즐을 더 잘 기억했으므로 끝나지 않은 일은 마칠 때까지 마음에 남는 경향이 있습니다.",
+    "optionNotes": [
+      "금방 사라진다는 것은 글과 반대입니다.",
+      "다음 날 더 쉬워진다는 내용은 나오지 않습니다.",
+      "정답. 끝낼 때까지 마음에 남습니다.",
+      "자랑스러움은 나오지 않습니다.",
+      "다른 사람의 일이 된다는 내용은 나오지 않습니다."
+    ],
+    "trap": "끝낸 일과 끝나지 않은 일의 기억 효과를 반대로 이해하지 마세요.",
+    "tip": "실험 결과(중단된 퍼즐을 더 잘 기억)에서 결론을 추론하세요."
+  },
+  {
+    "id": "m3b-10-34",
+    "level": "m3",
+    "set": "mock-10",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Antibiotics are medicines that kill bacteria, and they have saved millions of lives since the 1940s. However, they are often used when they are not needed, such as for colds, which are caused by viruses and cannot be cured by antibiotics. When bacteria are exposed to a drug again and again, the weakest ones die, but a few survive because they happen to be resistant. These survivors multiply and pass their resistance on, so the next infection is harder to treat. Farmers also give antibiotics to animals to make them grow faster, which adds to the problem. Doctors warn that if this trend continues, common infections could become deadly again. In other words, the very medicine that was designed to protect us can, if misused, __________.",
+    "options": [
+      "make our bodies produce more vitamins",
+      "cure every disease at a very low cost",
+      "help create stronger bacteria that no longer respond to treatment",
+      "change the taste of the food we eat",
+      "slow down the growth of dangerous viruses"
+    ],
+    "answer": 2,
+    "translation": "항생제는 세균을 죽이는 약으로 1940년대 이후 수백만 명의 목숨을 구했다. 그러나 감기처럼 바이러스가 일으켜 항생제로 낫지 않는 병에도 필요 없이 자주 쓰인다. 세균이 약에 거듭 노출되면 가장 약한 것은 죽지만 일부는 우연히 내성이 있어 살아남는다. 이 생존자들은 번식하여 내성을 물려주므로 다음 감염은 치료하기 더 어렵다. 농부들도 동물을 더 빨리 자라게 하려고 항생제를 먹여서 문제를 키운다. 의사들은 이 추세가 계속되면 흔한 감염이 다시 치명적이 될 수 있다고 경고한다. 다시 말해 우리를 보호하려고 만든 바로 그 약이 잘못 쓰이면 더 이상 치료에 반응하지 않는 더 강한 세균을 만드는 데 일조할 수 있다.",
+    "why": "남용하면 내성이 있는 세균이 살아남아 번식하므로 치료에 반응하지 않는 더 강한 세균을 만드는 데 일조합니다.",
+    "optionNotes": [
+      "비타민 생성은 나오지 않습니다.",
+      "모든 병을 낮은 비용으로 치료한다는 내용은 글과 반대입니다.",
+      "정답. 내성이 있는 더 강한 세균을 만드는 데 일조합니다.",
+      "음식의 맛은 나오지 않습니다.",
+      "바이러스 성장 억제는 글과 맞지 않습니다."
+    ],
+    "trap": "항생제가 바이러스에 듣는다고 오해하지 마세요. 글은 반대로 말합니다.",
+    "tip": "In other words 앞의 인과(반복 노출 → 내성 → 치료 어려움)가 빈칸의 단서입니다."
+  },
+  {
+    "id": "m3b-10-35",
+    "level": "m3",
+    "set": "mock-10",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Easter Island is famous for its giant stone statues, called moai, which attract thousands of visitors from around the world every year. ① About nine hundred of them were carved by the Rapa Nui people between the thirteenth and sixteenth centuries. ② Most were made from volcanic rock found in a single quarry, where many unfinished statues still lie today. ③ Scientists believe that the islanders moved the heavy statues by rocking them upright, as if the statues were walking. ④ Penguins living in Antarctica use their thick feathers and a layer of fat to stay warm in freezing temperatures. ⑤ Today, the statues are protected as a World Heritage site, and careful research continues to reveal how they were made.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "이스터섬은 모아이라고 불리는 거대한 석상으로 유명하며 해마다 전 세계에서 수천 명의 방문객을 끌어들인다. ① 그중 약 구백 개는 13세기에서 16세기 사이에 라파누이 사람들이 조각했다. ② 대부분은 한 채석장에서 나온 화산암으로 만들어졌으며 그곳에는 오늘날에도 미완성 석상이 많이 놓여 있다. ③ 과학자들은 섬 주민들이 석상을 세운 채 흔들어 마치 걷는 것처럼 무거운 석상을 옮겼다고 믿는다. ④ 남극에 사는 펭귄은 얼어붙는 기온에서 따뜻하게 지내려고 두꺼운 깃털과 지방층을 이용한다. ⑤ 오늘날 석상은 세계 유산으로 보호받고 있으며 신중한 연구는 석상이 어떻게 만들어졌는지 계속 밝히고 있다.",
+    "why": "글은 이스터섬의 석상을 이야기하는데 ④는 남극 펭귄의 체온 유지에 관한 별개의 이야기입니다.",
+    "optionNotes": [
+      "석상의 제작 시기와 제작자입니다.",
+      "석상의 재료와 채석장입니다.",
+      "석상의 운반 방법입니다.",
+      "정답(무관). 펭귄 이야기라 관계가 없습니다.",
+      "석상의 보호와 연구입니다."
+    ],
+    "trap": "'freezing temperatures'가 섬 날씨와 관련 있다고 착각하기 쉽습니다.",
+    "tip": "주제(이스터섬 석상)를 직접 뒷받침하지 않는 문장을 고르세요."
+  },
+  {
+    "id": "m3b-10-36",
+    "level": "m3",
+    "set": "mock-10",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "In 1928, a Scottish scientist named Alexander Fleming returned from a holiday to his messy laboratory. He was known among his colleagues as a brilliant but untidy researcher. Several dishes containing bacteria had been left on his desk during his absence.\n(A) Curious about this surprising result, he studied the mold carefully and found that it produced a substance that killed many harmful bacteria.\n(B) On one dish, he noticed that a patch of mold had formed and that the bacteria around it had been destroyed. He had almost thrown the dish away with the others, but something made him look closely.\n(C) He named the substance penicillin, and about a decade later, other scientists turned it into a medicine that saved millions of lives. The discovery changed medicine forever.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 1,
+    "translation": "1928년 스코틀랜드 과학자 알렉산더 플레밍은 휴가에서 돌아와 어질러진 실험실로 갔다. 그는 동료들 사이에서 뛰어나지만 정돈되지 않은 연구자로 알려져 있었다. 그가 없는 동안 세균이 든 접시 여러 개가 책상 위에 방치되어 있었다. (B) 접시 하나에서 그는 곰팡이 덩어리가 생겼고 그 주변의 세균이 죽어 있는 것을 알아챘다. 그는 하마터면 다른 접시들과 함께 버릴 뻔했지만 무언가가 그가 자세히 보게 했다. (A) 이 놀라운 결과가 궁금했던 그는 곰팡이를 주의 깊게 연구하여 그것이 많은 해로운 세균을 죽이는 물질을 만든다는 것을 알아냈다. (C) 그는 그 물질을 페니실린이라고 이름 붙였고 약 십 년 뒤 다른 과학자들이 그것을 수백만 명의 목숨을 구한 약으로 만들었다. 그 발견은 의학을 영원히 바꾸었다.",
+    "why": "(B) 접시에서 곰팡이와 죽은 세균을 발견 → (A) 'this surprising result'를 연구 → (C) 물질에 이름을 붙이고 약으로 개발되는 순서입니다.",
+    "optionNotes": [
+      "(A)의 'this surprising result'가 가리킬 결과가 앞에 없습니다.",
+      "정답. 발견 → 연구 → 명명과 약 개발.",
+      "(C)의 'the substance'가 가리킬 물질이 앞에 없습니다.",
+      "(C)의 'the substance'가 가리킬 물질이 앞에 없습니다.",
+      "(C)가 가장 앞에 오면 지시 대상이 불분명합니다."
+    ],
+    "trap": "(A)의 'this surprising result'는 (B)에서 발견한 현상을 가리킵니다.",
+    "tip": "this surprising result, the substance 같은 지시어가 가리키는 앞 내용을 확인하세요."
+  },
+  {
+    "id": "m3b-10-37",
+    "level": "m3",
+    "set": "mock-10",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Many successful people say that they learned more from failure than from success. Failure, they argue, provides information that success can never give. This idea may sound strange, but many stories support it.\n(A) Therefore, instead of fearing mistakes, we should analyze them carefully, because they point out exactly what we need to improve. Mistakes are not signs of weakness, but useful signposts on the way to success.\n(B) In the same way, a successful basketball player once explained that he missed thousands of shots during his career, and each miss taught him something about his technique. He often practiced alone in the gym until the lights were turned off.\n(C) For example, a famous inventor is said to have tested thousands of materials before he found one that worked, and he treated every unsuccessful trial as a lesson.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 4,
+    "translation": "성공한 많은 사람은 성공보다 실패에서 더 많이 배웠다고 말한다. 그들은 실패가 성공이 결코 줄 수 없는 정보를 준다고 주장한다. 이 생각이 이상하게 들릴 수 있지만 많은 이야기가 그것을 뒷받침한다. (C) 예를 들어 한 유명한 발명가는 작동하는 재료를 찾기 전에 수천 가지 재료를 시험했다고 하며 그는 실패한 시도마다 하나의 교훈으로 여겼다. (B) 마찬가지로 한 성공한 농구 선수는 선수 생활 동안 수천 번 슛을 놓쳤고 놓친 슛마다 자신의 기술에 대해 무언가를 가르쳐 주었다고 설명했다. 그는 체육관의 불이 꺼질 때까지 혼자 연습하곤 했다. (A) 그러므로 실수를 두려워하는 대신 우리는 그것을 주의 깊게 분석해야 하는데 실수가 우리가 개선해야 할 점을 정확히 알려 주기 때문이다. 실수는 약함의 표시가 아니라 성공으로 가는 길의 유용한 이정표이다.",
+    "why": "(C) 'For example'로 첫 사례 → (B) 'In the same way'로 비슷한 사례 → (A) 'Therefore'로 결론 순서입니다.",
+    "optionNotes": [
+      "(A)의 'Therefore'가 근거 없이 먼저 나옵니다.",
+      "(B)의 'In the same way'가 비교할 앞 사례가 없습니다.",
+      "(B)의 'In the same way'가 비교할 앞 사례가 없습니다.",
+      "(A)가 (B) 앞에 오면 결론 뒤에 사례가 나와 흐름이 어긋납니다.",
+      "정답. 사례 → 비슷한 사례 → 결론."
+    ],
+    "trap": "(B)의 'In the same way'는 (C)의 사례와 비교됩니다.",
+    "tip": "For example → In the same way → Therefore의 논리 연결어를 따라가세요."
+  },
+  {
+    "id": "m3b-10-38",
+    "level": "m3",
+    "set": "mock-10",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nUnfortunately, this advantage disappeared when the number of visitors grew too large.\n\n[글]\n( ① ) The island village of Haeri was once known only for its quiet beaches and small fishing boats. ( ② ) In the 1990s, tourists began to arrive, bringing money that was used to build new schools and roads. ( ③ ) Local people opened guesthouses and restaurants, and many young people who had left for the city returned home to work. ( ④ ) The beaches became crowded with litter, and house prices rose so high that residents could no longer afford them. ( ⑤ ) Today, the village limits the number of visitors per day in order to protect the island and its community.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "[주어진 문장] 안타깝게도 방문객 수가 너무 많아지자 이 이점은 사라졌다. [글] 섬마을 해리는 한때 조용한 해변과 작은 어선으로만 알려져 있었다. 1990년대에 관광객들이 오기 시작했고 그들이 가져온 돈은 새 학교와 도로를 짓는 데 쓰였다. 지역 주민들은 게스트하우스와 식당을 열었고 도시로 떠났던 많은 젊은이가 일하러 고향으로 돌아왔다. 해변은 쓰레기로 붐볐고 집값이 너무 올라 주민들이 더는 감당할 수 없게 되었다. 오늘날 마을은 섬과 공동체를 보호하려고 하루 방문객 수를 제한한다.",
+    "why": "관광의 이점을 설명한 뒤 'this advantage'가 사라졌다고 말하고, 곧이어 문제점(쓰레기, 집값)이 이어지므로 ④에 들어갑니다.",
+    "optionNotes": [
+      "'this advantage'가 가리킬 이점이 아직 나오지 않았습니다.",
+      "이점이 나오기 시작하기 전이라 'this advantage'가 어색합니다.",
+      "이점이 설명되는 도중이라 사라졌다고 말하기에는 이릅니다.",
+      "정답. 이점 설명 뒤에 그 이점이 사라졌다고 말하고 문제점이 이어집니다.",
+      "문제점이 모두 설명된 뒤라 연결이 어색합니다."
+    ],
+    "trap": "'this advantage'는 학교·도로·일자리 같은 이점을 모두 가리킵니다.",
+    "tip": "Unfortunately로 시작하는 문장은 긍정적 내용 뒤, 부정적 결과 앞에 놓입니다."
+  },
+  {
+    "id": "m3b-10-39",
+    "level": "m3",
+    "set": "mock-10",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nMost people do not realize how much the color of a room can influence their mood.\n\n[글]\n( ① ) For example, warm colors such as red and orange tend to raise energy levels and stimulate appetite. ( ② ) That is why many restaurants use these colors on their walls and menus. ( ③ ) In contrast, cool colors such as blue and green have a calming effect and can lower the heart rate. ( ④ ) Hospitals and offices therefore often choose these colors to reduce stress. ( ⑤ ) Choosing the right color for each space can make a real difference to people's well-being.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "[주어진 문장] 대부분의 사람은 방의 색깔이 기분에 얼마나 영향을 미칠 수 있는지 깨닫지 못한다. [글] 예를 들어 빨강이나 주황 같은 따뜻한 색은 에너지 수준을 높이고 식욕을 자극하는 경향이 있다. 그래서 많은 식당이 벽과 메뉴에 이 색을 쓴다. 반면 파랑이나 초록 같은 차가운 색은 진정 효과가 있어 심박수를 낮출 수 있다. 그래서 병원과 사무실은 스트레스를 줄이려고 흔히 이 색을 고른다. 각 공간에 알맞은 색을 고르는 것은 사람들의 행복에 실질적인 차이를 만들 수 있다.",
+    "why": "주어진 문장이 일반적 주제를 제시하고 이어서 'For example'로 구체적 예가 시작되므로 ①에 들어갑니다.",
+    "optionNotes": [
+      "정답. 주제 제시 뒤 'For example'로 예가 이어집니다.",
+      "따뜻한 색의 예가 시작된 뒤라 주제 소개로 어색합니다.",
+      "대조(In contrast) 직전에 주제 소개가 끼어듭니다.",
+      "차가운 색의 예가 시작된 뒤라 어색합니다.",
+      "결론 직전에 주제를 소개하면 흐름이 끊깁니다."
+    ],
+    "trap": "'For example'은 앞에 일반적 진술이 있어야 쓰입니다.",
+    "tip": "For example로 시작하는 문장 앞에는 그 예가 설명하는 일반적 진술이 옵니다."
+  },
+  {
+    "id": "m3b-10-40",
+    "level": "m3",
+    "set": "mock-10",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Researchers asked participants to solve creative problems in three settings: a silent room, a room with moderate background noise like that of a cafe, and a room with very loud noise. The experiment involved one hundred and twenty volunteers, who were randomly assigned to the three rooms. The participants in the moderate-noise room came up with the most creative solutions, while those in the silent room and the loud room performed worse. The researchers explained that moderate noise creates a mild difficulty in focusing, which encourages abstract thinking and new associations. However, when the noise is too loud, the brain becomes overwhelmed and cannot process information well, so creativity falls.\n\n▶ (A) background noise can (B) creativity, but too much noise reduces it.",
+    "options": [
+      "(A) Silent — (B) greatly improve",
+      "(A) Moderate — (B) improve",
+      "(A) Loud — (B) improve",
+      "(A) Moderate — (B) weaken",
+      "(A) Constant — (B) limit"
+    ],
+    "answer": 1,
+    "translation": "연구자들은 참가자들에게 조용한 방, 카페와 같은 적당한 배경 소음이 있는 방, 매우 시끄러운 방의 세 환경에서 창의적 문제를 풀게 했다. 실험에는 백이십 명의 자원자가 참여했고 세 방에 무작위로 배정되었다. 적당한 소음의 방에 있던 참가자들이 가장 창의적인 해결책을 내놓았고 조용한 방과 시끄러운 방의 참가자들은 성과가 더 나빴다. 연구자들은 적당한 소음이 집중에 약간의 어려움을 만들어 추상적 사고와 새로운 연상을 촉진한다고 설명했다. 그러나 소음이 너무 크면 뇌가 압도되어 정보를 잘 처리하지 못해 창의성이 떨어진다. ▶ (A) 배경 소음은 창의성을 (B)할 수 있지만 너무 많은 소음은 창의성을 줄인다.",
+    "why": "적당한(moderate) 소음이 창의성을 높이므로 (A)는 Moderate, (B)는 improve입니다.",
+    "optionNotes": [
+      "silent는 성과가 더 나빴던 환경입니다.",
+      "정답. 적당한 소음이 창의성을 높입니다.",
+      "loud는 창의성이 떨어지는 환경입니다.",
+      "weaken은 글과 반대입니다.",
+      "constant와 limit은 글에 나오지 않습니다."
+    ],
+    "trap": "요약문 뒤의 'too much noise reduces it'과 대비되는 (A)를 찾으세요.",
+    "tip": "요약문은 조건(적당한 소음)과 결과(창의성 향상)를 짝지으세요."
+  }
+]
