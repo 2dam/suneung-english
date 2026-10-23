@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m2b-10-29",
+    "level": "m2",
+    "set": "mock-10",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Penguins cannot fly, but they are excellent swimmers. Their bodies are covered with thick, waterproof feathers {1|that} keep them warm in icy water. Under the skin, a layer of fat gives {2|extra} protection against the cold. When the temperature drops, emperor penguins gather in large groups and take turns standing {3|on} the cold outer edge. In this way, every penguin has a chance to stay warm. A female lays one egg, and then {4|the male} keeps it on his feet for about two months. During this time, he eats nothing and loses much of his weight. When the chick is born, the mother returns with food, and the father is finally able {5|going} to the sea to eat.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "펭귄은 날지 못하지만 뛰어난 수영 선수이다. 그들의 몸은 얼음물에서 따뜻하게 지켜 주는 두껍고 방수가 되는 깃털로 덮여 있다. 피부 아래의 지방층은 추위에 대한 추가 보호를 준다. 기온이 떨어지면 황제펭귄은 큰 무리를 지어 차가운 바깥쪽 가장자리에 서는 일을 돌아가며 맡는다. 이렇게 하면 모든 펭귄이 따뜻하게 지낼 기회를 얻는다. 암컷이 알 하나를 낳으면 수컷이 약 두 달 동안 그것을 발 위에 둔다. 이 기간에 그는 아무것도 먹지 않고 체중이 많이 줄어든다. 새끼가 태어나면 어미가 먹이를 가지고 돌아오고 아비는 마침내 먹으러 바다에 갈 수 있다.",
+    "why": "be able 뒤에는 to부정사가 와야 하므로 'able going'이 아니라 'able to go'여야 합니다.",
+    "optionNotes": [
+      "feathers를 수식하는 주격 관계대명사 that입니다.",
+      "형용사 extra가 명사 protection을 수식합니다.",
+      "전치사 on 뒤의 명사구입니다.",
+      "주어 the male입니다.",
+      "정답(틀린 것). be able 뒤에는 to go가 와야 합니다."
+    ],
+    "trap": "전치사 to 뒤 동명사 규칙을 able to에도 잘못 적용하기 쉽습니다.",
+    "tip": "be able to + 동사원형의 구조를 기억하세요."
+  },
+  {
+    "id": "m2b-10-30",
+    "level": "m2",
+    "set": "mock-10",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Recycling paper saves trees and energy. To make one ton of new paper, about seventeen trees are {1|cut} down. Recycled paper, however, needs far {2|less} water and energy than new paper. It also keeps waste out of landfills, which {3|reduces} pollution. Paper can be recycled five to seven times before its fibers become too short to use. Therefore, it is important to {4|separate} paper from other garbage at home. Many schools collect old notebooks and newspapers each month, and a simple box in the classroom is enough to begin. If we want to protect forests, we should {5|waste} paper as much as we can.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "종이를 재활용하면 나무와 에너지를 아낀다. 새 종이 1톤을 만들려면 약 열일곱 그루의 나무를 베어야 한다. 그러나 재활용 종이는 새 종이보다 물과 에너지가 훨씬 적게 든다. 또한 쓰레기가 매립지로 가는 것을 막아 오염을 줄인다. 종이는 섬유가 너무 짧아 쓸 수 없게 되기 전에 다섯에서 일곱 번 재활용될 수 있다. 그러므로 집에서 종이를 다른 쓰레기와 분리하는 것이 중요하다. 많은 학교가 매달 헌 공책과 신문을 모으며 교실에 간단한 상자 하나면 시작하기에 충분하다. 숲을 보호하고 싶다면 가능한 한 종이를 아껴 써야 한다.",
+    "why": "숲을 보호하려면 종이를 '낭비하는(waste)' 것이 아니라 '아껴 쓰는(save)' 것이 알맞습니다.",
+    "optionNotes": [
+      "나무를 벤다는 의미로 cut이 알맞습니다.",
+      "물과 에너지가 적게 든다는 의미로 less가 알맞습니다.",
+      "오염을 줄인다는 의미로 reduces가 알맞습니다.",
+      "종이를 분리한다는 의미로 separate가 알맞습니다.",
+      "정답(부적절). 숲을 보호하려면 save여야 합니다."
+    ],
+    "trap": "'protect forests'의 방향을 놓치기 쉽습니다.",
+    "tip": "문장의 목적(숲 보호)과 동사의 방향이 일치하는지 확인하세요."
+  },
+  {
+    "id": "m2b-10-31",
+    "level": "m2",
+    "set": "mock-10",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In one study, university students took notes either by hand or on laptops during a lecture. Later, they were tested on what they had heard. The laptop users wrote down far more words, but the students who wrote by hand did better on questions about ideas. The reason is simple. Handwriting is slow, so students cannot record every word. Instead, they have to think about what is important and write it in their own words. Typing is fast enough to copy almost everything, so the brain does less work. This is why handwriting helps understanding: it forces us to __________.",
+    "options": [
+      "write faster than the teacher speaks",
+      "choose and summarize the main ideas instead of copying everything",
+      "memorize the shape of each letter",
+      "ask more questions in the classroom",
+      "use a bigger notebook every day"
+    ],
+    "answer": 1,
+    "translation": "한 연구에서 대학생들은 강의 중에 손으로 또는 노트북으로 필기했다. 나중에 그들은 들은 내용에 대한 시험을 쳤다. 노트북 사용자는 훨씬 더 많은 단어를 적었지만 손으로 쓴 학생들이 아이디어에 관한 문제를 더 잘 풀었다. 이유는 간단하다. 손글씨는 느려서 모든 단어를 기록할 수 없다. 대신 무엇이 중요한지 생각하고 자기 말로 써야 한다. 타자는 거의 모든 것을 베낄 만큼 빨라서 뇌가 일을 덜 한다. 이것이 손글씨가 이해에 도움이 되는 이유이다. 손글씨는 모든 것을 베끼는 대신 핵심을 골라 요약하게 만든다.",
+    "why": "손으로 쓰면 느려서 중요한 것을 골라 자기 말로 써야 하므로 핵심 아이디어를 선택하고 요약하게 됩니다.",
+    "optionNotes": [
+      "더 빨리 쓰는 것은 타자의 특징입니다.",
+      "정답. 모든 것을 베끼지 않고 핵심을 골라 요약합니다.",
+      "글자 모양 암기는 나오지 않습니다.",
+      "질문을 더 하는 것은 나오지 않습니다.",
+      "공책 크기는 나오지 않습니다."
+    ],
+    "trap": "'laptop users wrote more words'를 손글씨의 장점으로 오해하지 마세요.",
+    "tip": "앞 문장(Instead, they have to think about ~)이 빈칸의 직접적 단서입니다."
+  },
+  {
+    "id": "m2b-10-32",
+    "level": "m2",
+    "set": "mock-10",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many people believe that a camel's hump is full of water, but this is a myth. In fact, the hump is made of fat. When a camel cannot find food in the desert, its body breaks down this fat and turns it into energy. As a result, the hump becomes smaller and may even bend to one side. Camels survive without water for a long time in other ways. For example, they can drink more than a hundred liters in a few minutes, and their blood cells keep working when water is scarce. So the hump works like __________.",
+    "options": [
+      "a bag that holds fresh drinking water",
+      "a pillow that helps the camel sleep",
+      "a storehouse of energy for hard times",
+      "a filter that cleans the sand in the air",
+      "a radio that sends signals to other camels"
+    ],
+    "answer": 2,
+    "translation": "많은 사람이 낙타의 혹에 물이 가득하다고 믿지만 이는 잘못된 통념이다. 사실 혹은 지방으로 이루어져 있다. 낙타가 사막에서 먹이를 찾지 못하면 몸이 이 지방을 분해해 에너지로 바꾼다. 그 결과 혹이 작아지고 한쪽으로 기울기도 한다. 낙타는 다른 방식으로 오랫동안 물 없이 버틴다. 예를 들어 몇 분 만에 백 리터가 넘는 물을 마실 수 있고 혈구는 물이 부족할 때도 계속 기능한다. 그러니 혹은 어려운 시기를 위한 에너지 저장고처럼 작용한다.",
+    "why": "혹이 지방으로 이루어져 먹이가 없을 때 에너지로 바뀌므로 어려운 때를 위한 에너지 저장고와 같습니다.",
+    "optionNotes": [
+      "혹이 물이 아니라 지방이라고 했습니다.",
+      "베개는 나오지 않습니다.",
+      "정답. 어려운 때를 위한 에너지 저장고입니다.",
+      "필터는 나오지 않습니다.",
+      "무전기는 나오지 않습니다."
+    ],
+    "trap": "통념(혹 = 물주머니)에 이끌려 ①을 고르지 마세요.",
+    "tip": "In fact 이하의 사실을 빈칸의 비유로 연결하세요."
+  },
+  {
+    "id": "m2b-10-33",
+    "level": "m2",
+    "set": "mock-10",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "We usually think that we smile because we are happy. However, scientists suggest that it can work the other way around, too. In one experiment, volunteers held a pen between their teeth, which forced their faces into a smile shape without their knowing it. Then they read funny cartoons. These volunteers rated the cartoons as funnier than those who held the pen with their lips, which prevented smiling. The brain seems to read the position of our face muscles and uses it as a clue about our feelings. So smiling, even when you do not feel like it, may __________.",
+    "options": [
+      "make other people feel quite angry with you",
+      "hurt the muscles around your mouth",
+      "actually make you feel a little happier",
+      "change the color of your eyes slowly",
+      "help you forget the words you learned"
+    ],
+    "answer": 2,
+    "translation": "우리는 보통 행복해서 웃는다고 생각한다. 그러나 과학자들은 그 반대도 가능하다고 말한다. 한 실험에서 자원자들은 모르는 사이에 얼굴이 웃는 모양이 되도록 이 사이에 펜을 물었다. 그런 다음 웃긴 만화를 읽었다. 이 자원자들은 웃지 못하게 입술로 펜을 문 사람들보다 만화를 더 재미있다고 평가했다. 뇌는 얼굴 근육의 위치를 읽어 감정에 대한 단서로 쓰는 듯하다. 그러니 기분이 나지 않을 때에도 웃는 것은 실제로 기분을 조금 더 좋게 만들 수 있다.",
+    "why": "이 사이에 펜을 문 사람이 만화를 더 재미있다고 평가했으므로 웃는 얼굴이 실제 기분을 좋게 할 수 있습니다.",
+    "optionNotes": [
+      "다른 사람의 화를 돋운다는 내용은 나오지 않습니다.",
+      "입 근육이 다친다는 내용은 나오지 않습니다.",
+      "정답. 실제로 기분을 조금 더 좋게 만듭니다.",
+      "눈 색은 나오지 않습니다.",
+      "단어를 잊는다는 내용은 나오지 않습니다."
+    ],
+    "trap": "'prevented smiling'한 집단과 결과를 반대로 이해하지 마세요.",
+    "tip": "실험 결과(웃는 얼굴 → 더 재미있다고 평가)에서 결론을 추론하세요."
+  },
+  {
+    "id": "m2b-10-34",
+    "level": "m2",
+    "set": "mock-10",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "When a honeybee finds a good source of flowers, it returns to the hive and performs a special movement called the waggle dance. The angle of the dance shows the direction of the flowers compared with the sun, and the length of the dance shows the distance. Other bees watch carefully and then fly straight to the place. A good dance can bring dozens of workers to the same field. Without it, a hive would find far less food. Scientists were amazed when they discovered this, because it is one of the few animal languages that can describe a place. In short, honeybees dance __________.",
+    "options": [
+      "to scare away animals that come near the hive",
+      "to keep their bodies warm during cold nights",
+      "to choose which bee will become the queen",
+      "to share the location of food with the hive",
+      "to show off their beautiful colors to flowers"
+    ],
+    "answer": 3,
+    "translation": "꿀벌이 좋은 꽃밭을 발견하면 벌통으로 돌아와 꼬리춤이라는 특별한 움직임을 한다. 춤의 각도는 태양에 대한 꽃의 방향을 보여 주고 춤의 길이는 거리를 보여 준다. 다른 벌들은 주의 깊게 지켜본 뒤 곧장 그곳으로 날아간다. 좋은 춤은 수십 마리의 일벌을 같은 꽃밭으로 데려올 수 있다. 춤이 없다면 벌통은 훨씬 적은 먹이를 찾을 것이다. 과학자들은 이것을 발견했을 때 놀랐는데 장소를 설명할 수 있는 몇 안 되는 동물 언어 중 하나이기 때문이다. 요컨대 꿀벌은 먹이의 위치를 벌통에 알리려고 춤을 춘다.",
+    "why": "춤의 각도와 길이가 꽃의 방향과 거리를 알려 주므로 먹이의 위치를 벌통에 알리려고 춤을 춥니다.",
+    "optionNotes": [
+      "동물을 쫓는 내용은 나오지 않습니다.",
+      "체온 유지는 나오지 않습니다.",
+      "여왕벌 선택은 나오지 않습니다.",
+      "정답. 먹이의 위치를 알립니다.",
+      "꽃에게 보여 주는 것은 나오지 않습니다."
+    ],
+    "trap": "'dance'라는 말에 이끌려 과시(⑤)로 오해하지 마세요.",
+    "tip": "In short 앞의 설명(각도 = 방향, 길이 = 거리)이 빈칸의 단서입니다."
+  },
+  {
+    "id": "m2b-10-35",
+    "level": "m2",
+    "set": "mock-10",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Keeping a diary has many benefits for young people. ① Writing about your day helps you remember important events for a long time. ② It can also reduce stress, because putting worries into words makes them feel smaller. ③ Reading old entries lets you see how much you have grown over the years. ④ Many people also find that a diary improves their writing skills over time. ⑤ The first printing press was invented in the fifteenth century in Germany.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "일기를 쓰는 것은 청소년에게 많은 이점이 있다. ① 하루에 대해 쓰면 중요한 사건을 오래 기억하는 데 도움이 된다. ② 걱정을 말로 옮기면 더 작게 느껴지므로 스트레스도 줄일 수 있다. ③ 옛 일기를 읽으면 몇 년 동안 얼마나 성장했는지 볼 수 있다. ④ 많은 사람은 또한 일기가 시간이 지나면서 글쓰기 실력을 향상시킨다고 느낀다. ⑤ 최초의 인쇄기는 15세기 독일에서 발명되었다.",
+    "why": "글은 일기 쓰기의 이점을 이야기하는데 ⑤는 인쇄기의 발명이라 관계가 없습니다.",
+    "optionNotes": [
+      "기억에 대한 이점입니다.",
+      "스트레스 감소라는 이점입니다.",
+      "성장을 확인하는 이점입니다.",
+      "글쓰기 실력 향상이라는 이점입니다.",
+      "정답(무관). 인쇄기 이야기라 관계가 없습니다."
+    ],
+    "trap": "'writing'이라는 공통 소재 때문에 관련 있다고 착각하기 쉽습니다.",
+    "tip": "주제(일기 쓰기의 이점)를 직접 뒷받침하지 않는 문장을 고르세요."
+  },
+  {
+    "id": "m2b-10-36",
+    "level": "m2",
+    "set": "mock-10",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "The first traffic light was installed near the Parliament in London in 1868. However, it was very different from the lights that we see today.\n(A) At night, the pole used red and green gas lamps. One day, however, a lamp exploded and injured the officer.\n(B) It was a tall pole with two arms. A police officer had to move them by hand to tell drivers to stop or go.\n(C) After this accident, the idea was set aside for many years. Electric traffic lights appeared only in the early 1900s in the United States.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 1,
+    "translation": "최초의 신호등은 1868년 런던 의사당 근처에 설치되었다. 그러나 그것은 오늘날 우리가 보는 신호등과는 매우 달랐다. (B) 그것은 팔이 두 개 달린 높은 기둥이었다. 경찰관이 손으로 팔을 움직여 운전자에게 멈추거나 가라고 알려야 했다. (A) 밤에는 기둥에 붉은색과 초록색 가스등을 썼다. 그러나 어느 날 등이 폭발해 경찰관이 다쳤다. (C) 이 사고 뒤 그 아이디어는 오랫동안 보류되었다. 전기 신호등은 1900년대 초 미국에서야 나타났다.",
+    "why": "(B) 'It'으로 신호등의 모습 소개 → (A) 'At night'로 밤의 가스등과 사고 → (C) 'this accident'로 그 이후 순서입니다.",
+    "optionNotes": [
+      "(A)의 'the pole'이 가리킬 대상이 앞에 없습니다.",
+      "정답. 모습 → 사고 → 이후.",
+      "(C)의 'this accident'가 가리킬 사고가 앞에 없습니다.",
+      "(C)의 'this accident'가 가리킬 사고가 앞에 없습니다.",
+      "(C)가 가장 앞에 오면 'this accident'가 불분명합니다."
+    ],
+    "trap": "(C)의 'this accident'는 (A)의 폭발 사고를 가리킵니다.",
+    "tip": "the pole, this accident 같은 지시어가 가리키는 앞 내용을 확인하세요."
+  },
+  {
+    "id": "m2b-10-37",
+    "level": "m2",
+    "set": "mock-10",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Every spring, thousands of sea turtles return to the beach where they were born to lay their eggs. Some of them travel across the ocean for months to reach the same place.\n(A) Scientists believe that the turtles remember the magnetic field of that beach, which works like a map in their brains. The turtles can sense it even from far away.\n(B) Therefore, protecting the beaches from construction is essential, because turtles cannot easily find a new nesting place. Quiet and dark beaches are especially important.\n(C) Using this map, a turtle can cross thousands of kilometers of open sea without getting lost.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "해마다 봄이면 수천 마리의 바다거북이 알을 낳으려고 자신이 태어난 해변으로 돌아온다. 일부는 같은 곳에 닿으려고 몇 달 동안 바다를 건넌다. (A) 과학자들은 거북이 그 해변의 자기장을 기억하며 이것이 뇌 속의 지도처럼 작동한다고 믿는다. 거북은 먼 곳에서도 그것을 감지할 수 있다. (C) 이 지도를 이용해 거북은 길을 잃지 않고 수천 킬로미터의 망망대해를 건널 수 있다. (B) 그러므로 거북이 새 산란지를 쉽게 찾을 수 없기 때문에 해변을 개발로부터 보호하는 것이 필수이다. 조용하고 어두운 해변이 특히 중요하다.",
+    "why": "(A) 자기장이라는 지도 소개 → (C) 'this map'으로 이용 설명 → (B) 'Therefore'로 보호 필요성 순서입니다.",
+    "optionNotes": [
+      "정답. 지도 소개 → 활용 → 결론.",
+      "(B)의 'Therefore'가 앞의 이유 없이 나옵니다.",
+      "(B)의 'Therefore'가 앞의 이유 없이 나옵니다.",
+      "(C)의 'this map'이 가리킬 지도가 앞에 없습니다.",
+      "(C)의 'this map'이 가리킬 지도가 앞에 없습니다."
+    ],
+    "trap": "(C)의 'this map'은 (A)에서 비유한 magnetic field를 가리킵니다.",
+    "tip": "this map, Therefore 같은 지시어와 연결어가 가리키는 앞 내용을 확인하세요."
+  },
+  {
+    "id": "m2b-10-38",
+    "level": "m2",
+    "set": "mock-10",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nBy listening to these echoes, a dolphin can tell the size, shape, and distance of the object.\n\n[글]\n( ① ) Dolphins live in the sea, where the water is often dark and cloudy. ( ② ) To find food, they make clicking sounds that travel through the water. The sounds bounce back as echoes when they hit an object such as a fish. ( ③ ) Some dolphins can even find a small fish that is hidden under the sand. ( ④ ) Humans have copied this system to build sonar machines for ships. ( ⑤ ) Sonar helps ships measure the depth of the sea and avoid dangerous rocks.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 이 메아리를 들음으로써 돌고래는 물체의 크기, 모양, 거리를 알 수 있다. [글] 돌고래는 물이 흔히 어둡고 탁한 바다에 산다. 먹이를 찾으려고 돌고래는 물속으로 퍼지는 딸깍 소리를 낸다. 그 소리는 물고기 같은 물체에 부딪치면 메아리로 되돌아온다. 일부 돌고래는 모래 속에 숨은 작은 물고기까지 찾을 수 있다. 인간은 이 체계를 본떠 배를 위한 음파 탐지기를 만들었다. 음파 탐지기는 배가 바다의 깊이를 재고 위험한 바위를 피하도록 돕는다.",
+    "why": "'these echoes'는 앞 문장에서 소리가 메아리로 되돌아온다는 내용을 가리키므로 그 바로 뒤인 ③에 들어갑니다.",
+    "optionNotes": [
+      "'these echoes'가 가리킬 메아리가 아직 나오지 않았습니다.",
+      "메아리가 소개되기 전이라 'these echoes'가 어색합니다.",
+      "정답. 메아리 설명 직후에 그 활용을 설명합니다.",
+      "음파 탐지기 이야기로 넘어간 뒤라 어색합니다.",
+      "마지막 문장 앞은 탐지기 설명이라 어색합니다."
+    ],
+    "trap": "'size, shape, and distance'가 숨은 물고기(③)와 연결된다고 착각하지 마세요.",
+    "tip": "these echoes 같은 지시어는 그 대상이 나온 직후에 오는 문장입니다."
+  },
+  {
+    "id": "m2b-10-39",
+    "level": "m2",
+    "set": "mock-10",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nHowever, her disappointment did not last long.\n\n[글]\n( ① ) Soyoung had practiced for the speech contest for many weeks. ( ② ) On the day of the contest, she became so nervous that she forgot half of her lines. ( ③ ) She left the stage with tears in her eyes, sure that she had failed. ( ④ ) Her teacher told her that the judges liked her honest smile, and she received a special prize for courage. ( ⑤ ) Soyoung realized that a perfect speech was not the only way to succeed.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "[주어진 문장] 그러나 그녀의 실망은 오래가지 않았다. [글] 소영은 여러 주 동안 말하기 대회를 준비했다. 대회 날 그녀는 너무 긴장해서 대사의 절반을 잊어버렸다. 그녀는 실패했다고 확신하며 눈물을 글썽이며 무대를 떠났다. 선생님은 심사위원들이 그녀의 솔직한 미소를 좋아했다고 말했고 그녀는 용기상을 받았다. 소영은 완벽한 연설만이 성공하는 유일한 방법이 아님을 깨달았다.",
+    "why": "실패했다고 낙담한 내용 뒤에 'However'로 실망이 오래가지 않았다고 말하고, 곧이어 상을 받은 내용이 이어지므로 ④에 들어갑니다.",
+    "optionNotes": [
+      "'her disappointment'가 가리킬 실망이 아직 나오지 않았습니다.",
+      "실망의 원인이 나오기 전이라 어색합니다.",
+      "실망하는 장면과 함께 나오므로 반전의 위치가 아닙니다.",
+      "정답. 낙담 뒤 반전, 그다음 상을 받습니다.",
+      "마지막 깨달음 앞에 오면 반전의 근거가 빠집니다."
+    ],
+    "trap": "'disappointment'가 ③에서 처음 드러난다는 점을 놓치지 마세요.",
+    "tip": "However는 앞의 부정적 내용을 뒤집는 자리에 들어갑니다."
+  },
+  {
+    "id": "m2b-10-40",
+    "level": "m2",
+    "set": "mock-10",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A school in England started a gardening program. Students planted vegetables, watered them, and harvested them. After a year, researchers found that the students ate more vegetables at lunch than students in other schools. Teachers also reported that the students who had joined the program were more patient and cooperative. The students explained that they were proud of eating food that they had grown themselves. The researchers concluded that experiences such as growing food can change eating habits more effectively than lectures about nutrition.\n\n▶ Students who (A) food in a school garden tended to (B) more vegetables.",
+    "options": [
+      "(A) wasted — (B) refuse",
+      "(A) sold — (B) buy",
+      "(A) cooked — (B) avoid",
+      "(A) grew and harvested — (B) eat",
+      "(A) bought — (B) skip"
+    ],
+    "answer": 3,
+    "translation": "영국의 한 학교가 원예 프로그램을 시작했다. 학생들은 채소를 심고 물을 주고 수확했다. 일 년 뒤 연구자들은 이 학생들이 다른 학교 학생들보다 점심에 채소를 더 많이 먹는다는 것을 발견했다. 교사들은 또한 프로그램에 참여한 학생들이 더 인내심 있고 협력적이라고 보고했다. 학생들은 직접 기른 음식을 먹는 것이 자랑스럽다고 설명했다. 연구자들은 음식을 기르는 것 같은 경험이 영양에 대한 강의보다 식습관을 더 효과적으로 바꿀 수 있다고 결론지었다. ▶ 학교 텃밭에서 음식을 (A)한 학생들은 채소를 더 많이 (B)하는 경향이 있었다.",
+    "why": "텃밭에서 채소를 기르고 수확한 학생들이 채소를 더 많이 먹었으므로 (A)는 grew and harvested, (B)는 eat입니다.",
+    "optionNotes": [
+      "wasted와 refuse는 글과 반대입니다.",
+      "sold와 buy는 글에 나오지 않습니다.",
+      "cooked와 avoid는 글에 나오지 않습니다.",
+      "정답. 기르고 수확한 학생들이 더 많이 먹었습니다.",
+      "bought와 skip은 글에 나오지 않습니다."
+    ],
+    "trap": "(B)에 avoid나 skip을 넣으면 결과와 반대가 됩니다.",
+    "tip": "요약문은 경험(기르기)과 결과(더 많이 먹기)를 짝지으세요."
+  }
+]

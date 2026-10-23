@@ -1,0 +1,814 @@
+[
+  {
+    "id": "m2b-10-01",
+    "level": "m2",
+    "set": "mock-10",
+    "no": 1,
+    "type": "l-purpose",
+    "stem": "다음을 듣고, 여자가 하는 말의 목적으로 가장 적절한 것을 고르시오.",
+    "script": [
+      {
+        "speaker": "W",
+        "text": "Attention, students. This is Ms. Lee, the safety teacher. Tomorrow morning at ten twenty, our school will hold a fire drill. When you hear the alarm, stop what you are doing and leave your bags in the classroom. Cover your nose and mouth with a handkerchief, and walk quickly but calmly to the schoolyard. Do not run, and never use the elevator. Each class should line up in the yard, and your homeroom teacher will check the attendance. This drill may seem unnecessary, but it can save lives in a real emergency. Thank you for your cooperation."
+      }
+    ],
+    "options": [
+      "화재 예방을 위한 소방서 견학 신청을 받으려고",
+      "새로 바뀐 학교 급식 메뉴를 학생들에게 소개하려고",
+      "운동장 공사로 인해 달라진 등교 시간을 알리려고",
+      "내일 오전에 실시되는 화재 대피 훈련의 방법과 주의 사항을 안내하려고",
+      "교내 안전 포스터 공모전의 참가를 독려하려고"
+    ],
+    "answer": 3,
+    "translation": "학생 여러분께 알립니다. 안전 담당 이 선생님입니다. 내일 오전 10시 20분에 우리 학교는 화재 대피 훈련을 실시합니다. 경보가 울리면 하던 일을 멈추고 가방은 교실에 두세요. 손수건으로 코와 입을 가리고 빠르지만 침착하게 운동장으로 걸어가세요. 뛰지 말고 절대 엘리베이터를 이용하지 마세요. 각 반은 운동장에 줄을 서고 담임 선생님이 출석을 확인합니다. 이 훈련이 불필요해 보일 수 있지만 실제 비상 상황에서는 생명을 구할 수 있습니다. 협조해 주셔서 감사합니다.",
+    "why": "내일 실시되는 화재 대피 훈련의 방법과 주의 사항을 안내하는 방송입니다.",
+    "optionNotes": [
+      "소방서 견학은 나오지 않습니다.",
+      "급식 메뉴는 나오지 않습니다.",
+      "등교 시간은 나오지 않습니다.",
+      "정답. 화재 대피 훈련의 방법과 주의 사항을 안내합니다.",
+      "포스터 공모전은 나오지 않습니다."
+    ],
+    "trap": "'safety teacher'가 나온다고 안전 포스터 공모전(⑤)으로 착각하지 마세요.",
+    "tip": "목적 문제는 'Tomorrow ~, our school will hold ~' 같은 핵심 공지 문장을 확인하세요."
+  },
+  {
+    "id": "m2b-10-02",
+    "level": "m2",
+    "set": "mock-10",
+    "no": 2,
+    "type": "l-opinion",
+    "stem": "대화를 듣고, 여자의 의견으로 가장 적절한 것을 고르시오.",
+    "script": [
+      {
+        "speaker": "M",
+        "text": "Jena, are you reading an e-book on your tablet?"
+      },
+      {
+        "speaker": "W",
+        "text": "No, this is a paper book. I bought it at the bookstore yesterday."
+      },
+      {
+        "speaker": "M",
+        "text": "E-books are cheaper, and you can carry hundreds of them."
+      },
+      {
+        "speaker": "W",
+        "text": "That's true, but I get distracted by notifications on my tablet. With a paper book, I can focus on the story."
+      },
+      {
+        "speaker": "M",
+        "text": "Hmm, I never thought about that."
+      },
+      {
+        "speaker": "W",
+        "text": "I think paper books are better than e-books for concentrating on what we read."
+      }
+    ],
+    "options": [
+      "종이책이 전자책보다 집중해서 읽는 데 더 도움이 된다.",
+      "전자책은 가격이 싸서 모든 학생에게 필수이다.",
+      "독서는 하루에 한 시간 이상 하는 것이 좋다.",
+      "책을 읽을 때는 음악을 들으면서 읽는 것이 효과적이다.",
+      "도서관에서 책을 빌리는 것은 시간 낭비이다."
+    ],
+    "answer": 0,
+    "translation": "남: 제나야, 태블릿으로 전자책 읽고 있어? / 여: 아니, 이건 종이책이야. 어제 서점에서 샀어. / 남: 전자책이 더 싸고 수백 권을 들고 다닐 수 있잖아. / 여: 맞지만 태블릿에서는 알림 때문에 정신이 산만해져. 종이책이면 이야기에 집중할 수 있어. / 남: 음, 그건 생각해 본 적 없어. / 여: 나는 읽는 내용에 집중하는 데는 종이책이 전자책보다 낫다고 생각해.",
+    "why": "여자는 알림으로 산만해지는 전자책보다 종이책이 집중에 더 좋다고 말합니다.",
+    "optionNotes": [
+      "정답. 종이책이 집중에 더 도움이 됩니다.",
+      "남자가 말한 전자책의 장점입니다.",
+      "독서 시간은 나오지 않습니다.",
+      "음악은 나오지 않습니다.",
+      "도서관 대출은 나오지 않습니다."
+    ],
+    "trap": "남자가 말한 전자책의 장점(가격, 휴대성)을 여자의 의견으로 착각하지 마세요.",
+    "tip": "의견 문제는 'I think ~' 뒤의 핵심 주장을 확인하세요."
+  },
+  {
+    "id": "m2b-10-03",
+    "level": "m2",
+    "set": "mock-10",
+    "no": 3,
+    "type": "l-relation",
+    "stem": "대화를 듣고, 두 사람의 관계를 가장 잘 나타낸 것을 고르시오.",
+    "script": [
+      {
+        "speaker": "W",
+        "text": "Hello. What seems to be the problem with your dog?"
+      },
+      {
+        "speaker": "M",
+        "text": "Her name is Coco. She has been scratching her ears all week."
+      },
+      {
+        "speaker": "W",
+        "text": "Let me take a look. Hmm, there is some redness inside her ear. It may be an infection."
+      },
+      {
+        "speaker": "M",
+        "text": "Is it serious?"
+      },
+      {
+        "speaker": "W",
+        "text": "Not at all. I'll give you ear drops. Please apply them twice a day."
+      },
+      {
+        "speaker": "M",
+        "text": "Should I give her a bath?"
+      },
+      {
+        "speaker": "W",
+        "text": "Not for a few days. Please come back next Monday so that I can check her again."
+      }
+    ],
+    "options": [
+      "미용사 – 반려견을 맡긴 손님",
+      "동물원 사육사 – 관람객",
+      "펫숍 직원 – 강아지를 사려는 손님",
+      "약사 – 약을 받으러 온 환자",
+      "수의사 – 아픈 반려견을 데려온 보호자"
+    ],
+    "answer": 4,
+    "translation": "여: 안녕하세요. 강아지가 어디가 안 좋은가요? / 남: 이름은 코코예요. 일주일 내내 귀를 긁고 있어요. / 여: 한번 볼게요. 음, 귀 안쪽이 약간 붉네요. 감염일 수 있어요. / 남: 심각한가요? / 여: 전혀요. 귀약을 드릴게요. 하루에 두 번 발라 주세요. / 남: 목욕을 시켜도 될까요? / 여: 며칠은 안 돼요. 다시 확인할 수 있게 다음 주 월요일에 오세요.",
+    "why": "반려견의 귀 증상을 진찰하고 약을 처방하는 수의사와 보호자의 대화입니다.",
+    "optionNotes": [
+      "미용 상황이 아닙니다.",
+      "동물원 상황이 아닙니다.",
+      "강아지를 사는 상황이 아닙니다.",
+      "사람 환자가 아닙니다.",
+      "정답. 진찰하는 수의사와 보호자입니다."
+    ],
+    "trap": "'ear drops'가 나온다고 약사와 환자(④)로 착각하지 마세요.",
+    "tip": "관계 문제는 'infection', 'check her again' 같은 직업 단서를 찾으세요."
+  },
+  {
+    "id": "m2b-10-04",
+    "level": "m2",
+    "set": "mock-10",
+    "no": 4,
+    "type": "l-picture",
+    "stem": "대화를 듣고, 그림에서 대화의 내용과 일치하지 않는 것을 고르시오.",
+    "picture": {
+      "title": "At a school cafeteria",
+      "items": [
+        {
+          "no": 1,
+          "emoji": "🍱",
+          "label": "a boy carrying a lunch tray"
+        },
+        {
+          "no": 2,
+          "emoji": "🥗",
+          "label": "a girl choosing a salad"
+        },
+        {
+          "no": 3,
+          "emoji": "🧃",
+          "label": "a drink machine next to the door"
+        },
+        {
+          "no": 4,
+          "emoji": "👨‍🍳",
+          "label": "a cook wearing a white hat"
+        },
+        {
+          "no": 5,
+          "emoji": "🧽",
+          "label": "a boy wiping a table"
+        }
+      ]
+    },
+    "script": [
+      {
+        "speaker": "W",
+        "text": "The cafeteria is so busy at lunchtime."
+      },
+      {
+        "speaker": "M",
+        "text": "A boy is carrying a lunch tray."
+      },
+      {
+        "speaker": "W",
+        "text": "A girl is choosing a salad."
+      },
+      {
+        "speaker": "M",
+        "text": "There is a drink machine next to the door."
+      },
+      {
+        "speaker": "W",
+        "text": "A cook is wearing a white hat behind the counter."
+      },
+      {
+        "speaker": "M",
+        "text": "And a boy is reading a book at the table."
+      }
+    ],
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "여: 점심시간에 식당이 정말 붐비네. / 남: 한 소년이 점심 쟁반을 나르고 있어. / 여: 한 소녀가 샐러드를 고르고 있어. / 남: 문 옆에 음료 자판기가 있어. / 여: 요리사가 카운터 뒤에서 흰 모자를 쓰고 있어. / 남: 그리고 한 소년이 탁자에서 책을 읽고 있어.",
+    "why": "그림 속 소년은 탁자를 닦고 있는데 대화에서는 책을 읽고 있다고 했으므로 ⑤가 일치하지 않습니다.",
+    "optionNotes": [
+      "점심 쟁반을 나르는 소년이 일치합니다.",
+      "샐러드를 고르는 소녀가 일치합니다.",
+      "문 옆의 자판기가 일치합니다.",
+      "흰 모자를 쓴 요리사가 일치합니다.",
+      "정답(불일치). 탁자를 닦는 것이 아니라 책을 읽는다고 했습니다."
+    ],
+    "trap": "소년이 탁자 곁에 있다는 점은 같아서 놓치기 쉽습니다.",
+    "tip": "그림 문제는 인물의 동작(wiping / reading)을 정확히 확인하세요."
+  },
+  {
+    "id": "m2b-10-05",
+    "level": "m2",
+    "set": "mock-10",
+    "no": 5,
+    "type": "l-todo",
+    "stem": "대화를 듣고, 남자가 할 일로 가장 적절한 것을 고르시오.",
+    "script": [
+      {
+        "speaker": "W",
+        "text": "Dad's birthday party is this Saturday. Did you invite Aunt Mina?"
+      },
+      {
+        "speaker": "M",
+        "text": "Yes, I sent a text message to everyone yesterday."
+      },
+      {
+        "speaker": "W",
+        "text": "Great. I already bought balloons and decorations. Could you pick up the cake from the bakery on Friday after school?"
+      },
+      {
+        "speaker": "M",
+        "text": "Sure. Is it under my name?"
+      },
+      {
+        "speaker": "W",
+        "text": "No, it's under Park. And I'll clean the living room on Friday evening."
+      },
+      {
+        "speaker": "M",
+        "text": "Okay. I'll go to the bakery right after school on Friday."
+      }
+    ],
+    "options": [
+      "친구들에게 초대 문자 메시지를 보낸다",
+      "풍선과 생일 장식을 사 온다",
+      "빵집에서 주문한 케이크를 찾아온다",
+      "손님이 오기 전에 거실을 청소한다",
+      "생일 노래를 연습한다"
+    ],
+    "answer": 2,
+    "translation": "여: 아빠 생신 파티가 이번 토요일이야. 미나 이모는 초대했어? / 남: 응, 어제 모두에게 문자를 보냈어. / 여: 잘했어. 풍선이랑 장식은 내가 이미 샀어. 금요일에 학교 끝나고 빵집에서 케이크를 찾아올 수 있어? / 남: 물론이지. 내 이름으로 주문했어? / 여: 아니, 박 씨 이름으로 했어. 그리고 금요일 저녁에는 내가 거실을 청소할게. / 남: 알겠어. 금요일에 학교 끝나자마자 빵집에 갈게.",
+    "why": "초대와 장식은 이미 했거나 여자가 하고, 남자는 금요일에 빵집에서 케이크를 찾아오기로 합니다.",
+    "optionNotes": [
+      "초대 문자는 이미 보냈습니다.",
+      "장식은 여자가 이미 샀습니다.",
+      "정답. 케이크를 찾아옵니다.",
+      "거실 청소는 여자가 합니다.",
+      "생일 노래 연습은 나오지 않습니다."
+    ],
+    "trap": "이미 한 일(초대)과 여자가 할 일(장식, 청소)을 남자가 할 일로 착각하지 마세요.",
+    "tip": "할 일 문제는 'Could you ~?' 요청과 수락(Sure) 문장을 확인하세요."
+  },
+  {
+    "id": "m2b-10-06",
+    "level": "m2",
+    "set": "mock-10",
+    "no": 6,
+    "type": "l-price",
+    "stem": "대화를 듣고, 남자가 지불할 금액을 고르시오.",
+    "script": [
+      {
+        "speaker": "M",
+        "text": "I'd like two sandwiches and two orange juices, please."
+      },
+      {
+        "speaker": "W",
+        "text": "Sandwiches are six dollars each, and juices are three dollars each."
+      },
+      {
+        "speaker": "M",
+        "text": "Can I get a discount? I'm a student."
+      },
+      {
+        "speaker": "W",
+        "text": "Yes, students get two dollars off the total."
+      },
+      {
+        "speaker": "M",
+        "text": "Great. Here is my student ID."
+      },
+      {
+        "speaker": "W",
+        "text": "Thank you. Is it for here or to go?"
+      },
+      {
+        "speaker": "M",
+        "text": "To go, please."
+      }
+    ],
+    "options": [
+      "$16",
+      "$18",
+      "$14",
+      "$20",
+      "$15"
+    ],
+    "answer": 0,
+    "translation": "남: 샌드위치 두 개와 오렌지 주스 두 잔 주세요. / 여: 샌드위치는 개당 6달러이고 주스는 개당 3달러예요. / 남: 할인받을 수 있나요? 학생이에요. / 여: 네, 학생은 합계에서 2달러 할인돼요. / 남: 좋아요. 여기 학생증이요. / 여: 감사합니다. 드시고 가실 건가요, 포장인가요? / 남: 포장이요.",
+    "why": "샌드위치 12달러와 주스 6달러의 합계 18달러에서 학생 할인 2달러를 빼면 16달러입니다.",
+    "optionNotes": [
+      "정답. 18 - 2 = 16달러입니다.",
+      "할인을 적용하지 않은 금액입니다.",
+      "할인을 두 번 적용한 잘못된 금액입니다.",
+      "잘못된 계산입니다.",
+      "잘못된 계산입니다."
+    ],
+    "trap": "할인은 개당이 아니라 합계에서 2달러입니다.",
+    "tip": "가격 문제는 단가×개수 → 합산 → 할인 순서로 계산하세요."
+  },
+  {
+    "id": "m2b-10-07",
+    "level": "m2",
+    "set": "mock-10",
+    "no": 7,
+    "type": "l-reason",
+    "stem": "대화를 듣고, 여자가 늦은 이유를 고르시오.",
+    "script": [
+      {
+        "speaker": "M",
+        "text": "Jina, why are you so late? Did you miss the bus?"
+      },
+      {
+        "speaker": "W",
+        "text": "No, the bus was on time."
+      },
+      {
+        "speaker": "M",
+        "text": "Then did you oversleep?"
+      },
+      {
+        "speaker": "W",
+        "text": "No, I got up early, actually. On my way to the bus stop, I found a wallet on the street."
+      },
+      {
+        "speaker": "M",
+        "text": "Really? What did you do?"
+      },
+      {
+        "speaker": "W",
+        "text": "I took it to the police station so that the owner could find it."
+      },
+      {
+        "speaker": "M",
+        "text": "That was very kind of you."
+      }
+    ],
+    "options": [
+      "버스를 놓쳐서",
+      "늦잠을 자서",
+      "길에서 친구를 만나 오래 이야기해서",
+      "길에서 주운 지갑을 경찰서에 가져다주느라",
+      "집에 필요한 물건을 두고 와서 다시 돌아가느라"
+    ],
+    "answer": 3,
+    "translation": "남: 지나야, 왜 이렇게 늦었어? 버스를 놓쳤어? / 여: 아니, 버스는 정시에 왔어. / 남: 그럼 늦잠 잤어? / 여: 아니, 사실 일찍 일어났어. 버스 정류장으로 가는 길에 길에서 지갑을 발견했어. / 남: 정말? 어떻게 했어? / 여: 주인이 찾을 수 있게 경찰서에 가져다줬어. / 남: 정말 친절하다.",
+    "why": "여자는 길에서 주운 지갑을 경찰서에 가져다주느라 늦었다고 말합니다.",
+    "optionNotes": [
+      "버스는 정시에 왔습니다.",
+      "일찍 일어났다고 했습니다.",
+      "친구를 만났다는 말은 나오지 않습니다.",
+      "정답. 주운 지갑을 경찰서에 가져다주었습니다.",
+      "물건을 두고 왔다는 말은 나오지 않습니다."
+    ],
+    "trap": "남자가 제시한 이유(버스, 늦잠)를 여자의 이유로 착각하지 마세요.",
+    "tip": "이유 문제는 부정(No) 뒤에 나오는 마지막 긍정 이유를 찾으세요."
+  },
+  {
+    "id": "m2b-10-08",
+    "level": "m2",
+    "set": "mock-10",
+    "no": 8,
+    "type": "l-notmentioned",
+    "stem": "대화를 듣고, Club Fair에 관해 언급되지 않은 것을 고르시오.",
+    "script": [
+      {
+        "speaker": "M",
+        "text": "The Club Fair is on Friday, March 14, in the school gym."
+      },
+      {
+        "speaker": "W",
+        "text": "How can I join a club?"
+      },
+      {
+        "speaker": "M",
+        "text": "Visit the booths and fill out a form at the club you like. You may join up to two clubs."
+      },
+      {
+        "speaker": "W",
+        "text": "Are there any special events?"
+      },
+      {
+        "speaker": "M",
+        "text": "The music club will give out free snacks at its booth while it plays live music."
+      },
+      {
+        "speaker": "W",
+        "text": "That sounds wonderful. I'll be there."
+      }
+    ],
+    "options": [
+      "행사가 열리는 날짜",
+      "부스를 운영하는 동아리의 수",
+      "행사가 열리는 장소",
+      "한 학생이 가입할 수 있는 동아리 수",
+      "음악 동아리 부스의 무료 간식"
+    ],
+    "answer": 1,
+    "translation": "남: 동아리 박람회는 3월 14일 금요일에 학교 체육관에서 열려. / 여: 동아리에 어떻게 가입해? / 남: 부스를 돌아다니다가 마음에 드는 동아리에서 신청서를 작성하면 돼. 동아리는 최대 두 개까지 가입할 수 있어. / 여: 특별한 행사도 있어? / 남: 음악 동아리가 라이브 음악을 연주하면서 부스에서 무료 간식을 나눠 줄 거야. / 여: 멋지다. 나도 갈게.",
+    "why": "날짜, 장소, 가입 가능 수, 무료 간식은 나왔지만 부스를 운영하는 동아리의 수는 나오지 않았습니다.",
+    "optionNotes": [
+      "March 14로 언급되었습니다.",
+      "정답. 동아리의 수는 언급되지 않았습니다.",
+      "school gym으로 언급되었습니다.",
+      "up to two clubs로 언급되었습니다.",
+      "free snacks로 언급되었습니다."
+    ],
+    "trap": "'up to two clubs'의 two를 부스의 수로 착각하지 마세요.",
+    "tip": "언급 여부 문제는 숫자가 무엇을 가리키는지 확인하며 소거하세요."
+  },
+  {
+    "id": "m2b-10-09",
+    "level": "m2",
+    "set": "mock-10",
+    "no": 9,
+    "type": "l-match",
+    "stem": "School Recycling Day에 관한 다음 내용을 듣고, 일치하는 것을 고르시오.",
+    "script": [
+      {
+        "speaker": "W",
+        "text": "Hello, students. School Recycling Day will be held on Thursday, April 10, in the schoolyard. You may bring clean plastic bottles and cans from home. Each class will have its own collection box, so please put your items in the box of your class. The collected plastic bottles will be turned into flower pots for the school garden. The class that collects the most items will win a pizza party. Remember to wash and dry the items before you bring them. Thank you."
+      }
+    ],
+    "options": [
+      "행사는 체육관에서 열린다.",
+      "가져올 수 있는 것은 종이 상자뿐이다.",
+      "가장 많이 모은 학급은 영화 관람권을 받는다.",
+      "수거된 플라스틱 병은 학교 화단용 화분으로 다시 만들어진다.",
+      "학생 개인별로 상품을 받는다."
+    ],
+    "answer": 3,
+    "translation": "안녕하세요, 학생 여러분. 학교 재활용의 날이 4월 10일 목요일 운동장에서 열립니다. 집에서 깨끗한 플라스틱 병과 캔을 가져올 수 있습니다. 각 학급에 수거 상자가 있으니 자기 반 상자에 물건을 넣어 주세요. 수거된 플라스틱 병은 학교 화단의 화분으로 다시 만들어집니다. 가장 많이 모은 학급은 피자 파티를 받습니다. 가져오기 전에 물건을 씻고 말리는 것을 잊지 마세요. 감사합니다.",
+    "why": "수거된 플라스틱 병이 학교 화단용 화분으로 다시 만들어진다고 하므로 ④가 일치합니다.",
+    "optionNotes": [
+      "운동장에서 열립니다.",
+      "플라스틱 병과 캔을 가져옵니다.",
+      "피자 파티를 받습니다.",
+      "정답. 플라스틱 병이 화분으로 다시 만들어집니다.",
+      "학급 단위로 상을 받습니다."
+    ],
+    "trap": "학급 단위 상(피자 파티)과 개인별 상품을 혼동하지 마세요.",
+    "tip": "일치 문제는 장소·품목·상품·재활용 용도를 보기와 하나씩 대조하세요."
+  },
+  {
+    "id": "m2b-10-10",
+    "level": "m2",
+    "set": "mock-10",
+    "no": 10,
+    "type": "l-chart",
+    "stem": "다음 도표를 보면서 대화를 듣고, 두 사람이 발표에서 소개할 동물로 정해질 것을 고르시오.",
+    "chart": {
+      "title": "Pets Students Want to Keep (%)",
+      "unit": "%",
+      "labels": [
+        "Dog",
+        "Cat",
+        "Bird",
+        "Fish",
+        "Frog"
+      ],
+      "series": [
+        {
+          "name": "Percent",
+          "values": [
+            35,
+            28,
+            16,
+            12,
+            9
+          ]
+        }
+      ]
+    },
+    "script": [
+      {
+        "speaker": "W",
+        "text": "For our presentation, let's choose a pet whose percentage is higher than ten percent but lower than twenty percent."
+      },
+      {
+        "speaker": "M",
+        "text": "That means Bird and Fish."
+      },
+      {
+        "speaker": "W",
+        "text": "Another team is already presenting birds."
+      },
+      {
+        "speaker": "M",
+        "text": "Then we should choose the other one."
+      },
+      {
+        "speaker": "W",
+        "text": "Okay. That's our choice."
+      }
+    ],
+    "options": [
+      "Dog",
+      "Cat",
+      "Bird",
+      "Fish",
+      "Frog"
+    ],
+    "answer": 3,
+    "translation": "여: 발표에서는 비율이 10퍼센트보다 높고 20퍼센트보다 낮은 동물을 고르자. / 남: 그러면 새와 물고기야. / 여: 다른 팀이 이미 새를 발표해. / 남: 그럼 다른 걸 고르자. / 여: 좋아. 그게 우리 선택이야.",
+    "why": "10% 초과 20% 미만은 Bird(16)와 Fish(12)이고 Bird는 다른 팀이 발표하므로 Fish입니다.",
+    "optionNotes": [
+      "35%로 20%보다 높습니다.",
+      "28%로 20%보다 높습니다.",
+      "16%이지만 다른 팀이 발표하여 제외됩니다.",
+      "정답. 12%이고 제외 조건이 없습니다.",
+      "9%로 10%보다 낮습니다."
+    ],
+    "trap": "범위 조건에 드는 두 후보 중 제외 조건을 놓치지 마세요.",
+    "tip": "도표 문제는 범위 조건 후 제외 조건을 순서대로 적용하세요."
+  },
+  {
+    "id": "m2b-10-11",
+    "level": "m2",
+    "set": "mock-10",
+    "no": 11,
+    "type": "l-response",
+    "stem": "대화를 듣고, 여자의 마지막 말에 대한 남자의 응답으로 가장 적절한 것을 고르시오.",
+    "script": [
+      {
+        "speaker": "M",
+        "text": "Mina, you look worried. What's wrong?"
+      },
+      {
+        "speaker": "W",
+        "text": "I lost the library book that I borrowed last week, and it's due tomorrow."
+      }
+    ],
+    "options": [
+      "The library opens at nine o'clock on weekdays and Saturdays.",
+      "Tell the librarian about it and ask what you should do.",
+      "I read that book last month, and its ending was really boring.",
+      "You should buy a bigger bag because yours is too small.",
+      "Library fees are used to buy new computers for students."
+    ],
+    "answer": 1,
+    "translation": "남: 미나야, 걱정스러워 보여. 무슨 일이야? / 여: 지난주에 빌린 도서관 책을 잃어버렸는데 내일이 반납일이야.",
+    "why": "책을 잃어버려 걱정하는 말에 사서에게 말하고 어떻게 할지 물어보라고 조언하는 응답이 알맞습니다.",
+    "optionNotes": [
+      "개관 시간은 걱정에 대한 응답이 아닙니다.",
+      "정답. 사서에게 알리라는 조언입니다.",
+      "책 감상은 응답이 아닙니다.",
+      "가방 구입은 관련이 없습니다.",
+      "도서관 수수료 용도는 응답이 아닙니다."
+    ],
+    "trap": "'library'가 들린다고 같은 단어가 있는 문장(①⑤)을 고르지 마세요.",
+    "tip": "응답 문제는 곤란한 상황에는 해결책을 제안하는 문장을 고르세요."
+  },
+  {
+    "id": "m2b-10-12",
+    "level": "m2",
+    "set": "mock-10",
+    "no": 12,
+    "type": "l-response",
+    "stem": "대화를 듣고, 남자의 마지막 말에 대한 여자의 응답으로 가장 적절한 것을 고르시오.",
+    "script": [
+      {
+        "speaker": "W",
+        "text": "I'm planning to start jogging every morning, but I always give up after a few days."
+      },
+      {
+        "speaker": "M",
+        "text": "I know the feeling. How can I help?"
+      },
+      {
+        "speaker": "W",
+        "text": "I'm asking you! How can I keep going this time?"
+      }
+    ],
+    "options": [
+      "Jogging shoes are available at the sports store on Main Street.",
+      "I ran a marathon in Busan last year, and it was really hard.",
+      "You should stop exercising completely because it makes you tired.",
+      "Mornings are brighter in summer because the sun rises earlier.",
+      "Start with ten minutes a day and ask a friend to join you."
+    ],
+    "answer": 4,
+    "translation": "여: 매일 아침 조깅을 시작할 계획인데 늘 며칠 만에 포기해. / 남: 그 기분 알아. 어떻게 도와줄까? / 여: 너한테 묻는 거야! 이번에는 어떻게 계속할 수 있을까?",
+    "why": "계속하는 방법을 묻는 말에 하루 십 분부터 시작하고 친구와 함께하라고 조언하는 응답이 알맞습니다.",
+    "optionNotes": [
+      "운동화 판매처는 질문에 대한 답이 아닙니다.",
+      "마라톤 경험은 질문에 대한 답이 아닙니다.",
+      "운동을 그만두라는 말은 부적절합니다.",
+      "여름 아침의 밝기는 응답이 아닙니다.",
+      "정답. 계속하는 방법을 조언합니다."
+    ],
+    "trap": "'jogging'이 들린다고 같은 단어가 있는 문장(①②)을 고르지 마세요.",
+    "tip": "응답 문제는 How can I ~?에는 구체적인 방법으로 답하는 문장을 고르세요."
+  },
+  {
+    "id": "m2b-10-13",
+    "level": "m2",
+    "set": "mock-10",
+    "no": 13,
+    "type": "l-response",
+    "stem": "대화를 듣고, 여자의 마지막 말에 대한 남자의 응답으로 가장 적절한 것을 고르시오.",
+    "script": [
+      {
+        "speaker": "M",
+        "text": "Our class is going on a field trip to the folk village next week."
+      },
+      {
+        "speaker": "W",
+        "text": "Sounds fun. Do we need to bring our own lunch?"
+      },
+      {
+        "speaker": "M",
+        "text": "Yes, but please don't bring snacks with nuts, because one of our classmates is allergic."
+      },
+      {
+        "speaker": "W",
+        "text": "Got it. Should I tell the other students about it?"
+      }
+    ],
+    "options": [
+      "The folk village is about two hours away from our school.",
+      "No, I don't like nuts, so I won't eat any at lunch.",
+      "Yes, please post a message in our class chat.",
+      "The field trip was canceled because of the heavy rain yesterday.",
+      "Lunch boxes are sold at the convenience store near here."
+    ],
+    "answer": 2,
+    "translation": "남: 우리 반이 다음 주에 민속촌으로 현장 체험학습을 가. / 여: 재밌겠다. 점심은 직접 싸 가야 해? / 남: 응, 그런데 반 친구 한 명이 알레르기가 있으니 견과류가 든 간식은 가져오지 마. / 여: 알겠어. 다른 학생들에게도 알려 줄까?",
+    "why": "다른 학생들에게 알려 줄지 묻는 말에 반 단체 대화방에 올려 달라고 답하는 것이 알맞습니다.",
+    "optionNotes": [
+      "거리 설명은 질문에 대한 답이 아닙니다.",
+      "견과류를 싫어한다는 말은 질문에 대한 답이 아닙니다.",
+      "정답. 알려 달라고 답합니다.",
+      "체험학습 취소는 상황과 맞지 않습니다.",
+      "도시락 판매처는 질문에 대한 답이 아닙니다."
+    ],
+    "trap": "'nuts', 'lunch'가 들린다고 같은 단어가 있는 문장(②⑤)을 고르지 마세요.",
+    "tip": "응답 문제는 Should I ~?에는 Yes/No와 구체적 방법으로 답하는 문장을 고르세요."
+  },
+  {
+    "id": "m2b-10-14",
+    "level": "m2",
+    "set": "mock-10",
+    "no": 14,
+    "type": "l-response",
+    "stem": "대화를 듣고, 남자의 마지막 말에 대한 여자의 응답으로 가장 적절한 것을 고르시오.",
+    "script": [
+      {
+        "speaker": "W",
+        "text": "What are you doing on your laptop?"
+      },
+      {
+        "speaker": "M",
+        "text": "I want to start a blog about my hobbies. Do you have any advice for choosing a topic?"
+      }
+    ],
+    "options": [
+      "Blogs are popular among people who work at big companies in Seoul.",
+      "I'm saving money to buy a new laptop with a larger screen soon.",
+      "Choose something you enjoy, so you can write about it regularly.",
+      "My hobby is collecting old coins from different countries around the world.",
+      "You should write only about the things that other people like."
+    ],
+    "answer": 2,
+    "translation": "여: 노트북으로 뭐 하고 있어? / 남: 취미에 관한 블로그를 시작하고 싶어. 주제를 고르는 데 조언해 줄 수 있어?",
+    "why": "주제 선택에 대한 조언을 구하는 말에 좋아하는 것을 골라 꾸준히 쓰라고 답하는 것이 알맞습니다.",
+    "optionNotes": [
+      "블로그의 인기 계층은 질문에 대한 답이 아닙니다.",
+      "노트북 구입 계획은 질문에 대한 답이 아닙니다.",
+      "정답. 좋아하는 주제를 고르라는 조언입니다.",
+      "여자의 취미 소개는 질문에 대한 답이 아닙니다.",
+      "남이 좋아하는 것만 쓰라는 말은 부적절합니다."
+    ],
+    "trap": "'laptop', 'hobby'가 들린다고 같은 단어가 있는 문장(②④)을 고르지 마세요.",
+    "tip": "응답 문제는 조언을 구하는 질문에는 구체적인 조언으로 답하는 문장을 고르세요."
+  },
+  {
+    "id": "m2b-10-15",
+    "level": "m2",
+    "set": "mock-10",
+    "no": 15,
+    "type": "l-situation",
+    "stem": "다음 상황 설명을 듣고, Tom이 Haeun에게 할 말로 가장 적절한 것을 고르시오.",
+    "script": [
+      {
+        "speaker": "N",
+        "text": "Haeun lent her favorite book to her friend Tom last week. Today, Tom comes to return it. While he was carrying it in his bag, his water bottle leaked, and the cover of the book got wet and torn. Haeun has not noticed it yet. Tom feels very sorry and wants to apologize and offer a solution. In this situation, what would Tom most likely say to Haeun?"
+      }
+    ],
+    "options": [
+      "I'm really sorry about the book. Let me buy you a new copy.",
+      "This book was boring, so I didn't finish reading it at all.",
+      "Can I borrow another book from you without returning this one?",
+      "Your bag is too heavy, so you should carry fewer books.",
+      "I'll return the water bottle as soon as the library opens."
+    ],
+    "answer": 0,
+    "translation": "하은은 지난주에 가장 좋아하는 책을 친구 톰에게 빌려주었다. 오늘 톰이 책을 돌려주러 온다. 가방에 넣어 오는 동안 물병이 새서 책 표지가 젖고 찢어졌다. 하은은 아직 그것을 알아채지 못했다. 톰은 매우 미안해서 사과하고 해결책을 제안하고 싶다. 이 상황에서 톰이 하은에게 할 말로 가장 적절한 것은?",
+    "why": "책이 상한 것을 사과하며 새 책을 사 주겠다고 제안하는 ①이 알맞습니다.",
+    "optionNotes": [
+      "정답. 사과하고 해결책을 제안합니다.",
+      "책이 지루했다는 말은 상황과 맞지 않습니다.",
+      "다른 책을 빌려 달라는 말은 부적절합니다.",
+      "가방을 탓하는 말은 사과가 아닙니다.",
+      "물병 반납은 상황과 맞지 않습니다."
+    ],
+    "trap": "'apologize and offer a solution'이라는 두 조건을 모두 만족하는 말을 고르세요.",
+    "tip": "상황 문제는 인물의 의도(사과 + 해결책)에 맞는 표현을 고르세요."
+  },
+  {
+    "id": "m2b-10-16",
+    "level": "m2",
+    "set": "mock-10",
+    "no": 16,
+    "type": "l-set",
+    "group": "m2b-10-l16",
+    "stem": "[16~17] 다음을 듣고, 남자가 하는 말의 주제로 가장 적절한 것을 고르시오.",
+    "script": [
+      {
+        "speaker": "M",
+        "text": "Hello, class. Presentations are an important skill that you will use in school and in your future jobs. Many of you feel nervous about giving one, but with good preparation, anyone can do it well. Here are four tips. First, organize your ideas into three main points, because too much information can confuse the listeners. Second, make simple slides with large letters and a few pictures instead of long sentences. Third, practice aloud at least three times, ideally in front of your family or a mirror. Finally, look at your audience instead of reading from the screen, and speak slowly. If you make a small mistake, keep going calmly, because the audience rarely notices it. I wish you all good luck."
+      }
+    ],
+    "options": [
+      "컴퓨터로 슬라이드를 빠르게 만드는 방법",
+      "발표를 잘 준비하고 연습하는 요령",
+      "친구들과 토론할 때 지켜야 할 예절",
+      "시험 점수를 높이는 효과적인 암기법",
+      "글쓰기 대회에서 상을 받는 방법"
+    ],
+    "answer": 1,
+    "translation": "안녕하세요, 여러분. 발표는 학교와 앞으로의 직장에서 쓰게 될 중요한 기술입니다. 여러분 중 많은 학생이 발표를 긴장하지만 잘 준비하면 누구나 잘할 수 있습니다. 네 가지 요령을 알려 드립니다. 첫째, 정보가 너무 많으면 듣는 사람이 혼란스러울 수 있으므로 생각을 세 가지 요점으로 정리하세요. 둘째, 긴 문장 대신 큰 글씨와 몇 장의 사진으로 간단한 슬라이드를 만드세요. 셋째, 가족이나 거울 앞에서 적어도 세 번은 소리 내어 연습하세요. 마지막으로 화면을 읽지 말고 청중을 바라보며 천천히 말하세요. 작은 실수를 해도 청중은 거의 알아채지 못하니 침착하게 계속하세요. 모두에게 행운을 빕니다.",
+    "why": "요점 정리, 슬라이드 제작, 연습, 청중과의 눈 맞춤 등 발표를 준비하는 요령을 소개합니다.",
+    "optionNotes": [
+      "슬라이드 제작 속도는 나오지 않습니다.",
+      "정답. 발표를 준비하고 연습하는 요령입니다.",
+      "토론 예절은 나오지 않습니다.",
+      "암기법은 나오지 않습니다.",
+      "글쓰기 대회는 나오지 않습니다."
+    ],
+    "trap": "'slides'가 나온다고 슬라이드 제작법(①)으로 좁히지 마세요.",
+    "tip": "주제는 'Here are four tips' 같은 안내 문장을 확인하세요."
+  },
+  {
+    "id": "m2b-10-17",
+    "level": "m2",
+    "set": "mock-10",
+    "no": 17,
+    "type": "l-set",
+    "group": "m2b-10-l16",
+    "stem": "[16~17] 언급되지 않은 것을 고르시오.",
+    "script": [
+      {
+        "speaker": "M",
+        "text": "Hello, class. Presentations are an important skill that you will use in school and in your future jobs. Many of you feel nervous about giving one, but with good preparation, anyone can do it well. Here are four tips. First, organize your ideas into three main points, because too much information can confuse the listeners. Second, make simple slides with large letters and a few pictures instead of long sentences. Third, practice aloud at least three times, ideally in front of your family or a mirror. Finally, look at your audience instead of reading from the screen, and speak slowly. If you make a small mistake, keep going calmly, because the audience rarely notices it. I wish you all good luck."
+      }
+    ],
+    "options": [
+      "발표 내용을 세 가지 요점으로 정리하기",
+      "큰 글씨와 사진 몇 장으로 간단한 슬라이드 만들기",
+      "발표 전날 밤늦게까지 대본을 통째로 외우기",
+      "청중을 바라보며 천천히 말하기",
+      "작은 실수를 해도 침착하게 계속하기"
+    ],
+    "answer": 2,
+    "translation": "(16번과 같은 담화입니다.)",
+    "why": "요점 정리, 슬라이드, 청중 바라보기, 실수 시 침착하게 계속하기는 나왔지만 대본 암기는 나오지 않았습니다.",
+    "optionNotes": [
+      "three main points로 언급되었습니다.",
+      "large letters and a few pictures로 언급되었습니다.",
+      "정답. 대본 암기는 언급되지 않았습니다.",
+      "look at your audience와 speak slowly로 언급되었습니다.",
+      "keep going calmly로 언급되었습니다."
+    ],
+    "trap": "연습(practice)이 나왔다고 외우기까지 언급되었다고 착각하기 쉽습니다.",
+    "tip": "순서어(First~Finally)를 따라가며 보기와 대조하세요."
+  }
+]
