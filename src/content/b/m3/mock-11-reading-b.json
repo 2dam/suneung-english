@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m3b-11-29",
+    "level": "m3",
+    "set": "mock-11",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "The eruption of Krakatoa in 1883 was one of the most powerful volcanic events in recorded history. The explosion was so loud that it {1|was heard} more than four thousand kilometers away. Scientists believe that the dust from the eruption {2|were} carried around the world by the wind, and it blocked a part of the sunlight for months. As a result, sunsets in many countries turned a deep red, and the average temperature of the planet dropped by about one degree. The giant waves, {3|which} reached more than thirty meters in height, destroyed hundreds of coastal villages. Today, a new volcano called Anak Krakatau {4|rises} from the sea at the same place, and researchers closely watch {5|it} for signs of another eruption.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "1883년 크라카타우 화산 폭발은 기록된 역사에서 가장 강력한 화산 활동 중 하나였다. 폭발음이 너무 커서 사천 킬로미터 넘게 떨어진 곳에서도 들렸다. 과학자들은 폭발로 생긴 먼지가 바람을 타고 전 세계로 퍼져 몇 달 동안 햇빛 일부를 가렸다고 믿는다. 그 결과 많은 나라의 노을이 짙은 붉은색이 되었고 지구의 평균 기온이 약 1도 떨어졌다. 높이가 30미터를 넘은 거대한 파도는 수백 개의 해안 마을을 파괴했다. 오늘날 같은 자리에는 아낙 크라카타우라는 새 화산이 바다에서 솟아 있고 연구자들은 또 다른 폭발의 징후가 있는지 면밀히 지켜본다.",
+    "why": "주어 the dust가 단수(불가산 명사)이므로 동사는 'were'가 아니라 'was'여야 합니다.",
+    "optionNotes": [
+      "it과 주어의 수동 관계를 나타내는 was heard입니다.",
+      "정답(틀린 것). 단수 주어 the dust에는 was carried여야 합니다.",
+      "The giant waves를 부연하는 계속적 용법의 which입니다.",
+      "주어 a new volcano에 맞는 3인칭 단수 현재형입니다.",
+      "a new volcano를 가리키는 대명사 it입니다."
+    ],
+    "trap": "가까이에 있는 복수 명사(eruption이 아닌 world)에 이끌려 복수 동사를 쓰기 쉽습니다.",
+    "tip": "주어의 핵심 명사(the dust)를 찾아 동사의 수를 일치시키세요."
+  },
+  {
+    "id": "m3b-11-30",
+    "level": "m3",
+    "set": "mock-11",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "In many classrooms, students work in small groups to solve problems together. This approach has several {1|benefits}. First, students must explain their ideas to teammates, which {2|strengthens} their own understanding. Second, they learn how to listen to different opinions and {3|respect} them. Group work also prepares students for the workplace, where cooperation is often more important than individual talent. However, cooperative learning does not always succeed. If one student does all of the work while the others remain {4|passive}, the group cannot achieve its goal. Teachers therefore assign specific roles, such as leader, recorder, and presenter, to each member so that everyone is equally {5|ignored} in the final result.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "많은 교실에서 학생들은 작은 모둠을 이루어 함께 문제를 해결한다. 이 접근법에는 여러 이점이 있다. 첫째, 학생들은 팀원에게 자기 생각을 설명해야 하므로 자기 이해가 강화된다. 둘째, 다른 의견에 귀 기울이고 그것을 존중하는 법을 배운다. 모둠 활동은 또한 협력이 개인의 재능보다 더 중요한 경우가 많은 직장을 준비하게 해 준다. 그러나 협동 학습이 항상 성공하는 것은 아니다. 한 학생이 모든 일을 하고 나머지는 수동적으로 있으면 모둠은 목표를 이룰 수 없다. 그래서 교사는 리더, 기록자, 발표자 같은 구체적인 역할을 각 구성원에게 맡겨 모두가 최종 결과에 똑같이 책임을 지게 한다.",
+    "why": "역할을 나누는 목적은 모두가 결과에 똑같이 '책임지게(responsible)' 하는 것이지 '무시되게(ignored)' 하는 것이 아닙니다.",
+    "optionNotes": [
+      "여러 이점이 있다는 의미로 benefits가 알맞습니다.",
+      "이해가 강화된다는 의미로 strengthens가 알맞습니다.",
+      "다른 의견을 존중한다는 의미로 respect가 알맞습니다.",
+      "남은 학생들이 수동적이라는 의미로 passive가 알맞습니다.",
+      "정답(부적절). 모두가 책임져야 하므로 responsible이어야 합니다."
+    ],
+    "trap": "'assign specific roles'의 목적을 놓치면 반대 의미를 알아채기 어렵습니다.",
+    "tip": "앞 문장(한 명만 일하는 문제)의 해결책이라는 흐름에서 낱말의 방향을 확인하세요."
+  },
+  {
+    "id": "m3b-11-31",
+    "level": "m3",
+    "set": "mock-11",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A hotel wanted its guests to reuse their towels to save water. First, it placed a card in the bathrooms saying, \"Help save the environment by reusing your towels.\" About thirty-five percent of the guests followed the request. Then the hotel changed the message to, \"Most guests in this hotel reuse their towels at least once during their stay.\" This time, about forty-four percent of the guests complied. When the card said that most guests who stayed in that very room had reused their towels, the rate rose even higher. The reason is that we look for clues about the right behavior in the actions of people who are similar to us. In other words, people are influenced not only by arguments but also by __________.",
+    "options": [
+      "the price of the service that they buy",
+      "the strong feelings that they have about nature",
+      "what other people like them are actually doing",
+      "the instructions written in a large font",
+      "the advice given by experts on television"
+    ],
+    "answer": 2,
+    "translation": "한 호텔은 물을 아끼려고 손님들이 수건을 재사용하기를 원했다. 먼저 호텔은 욕실에 \"수건을 다시 사용하여 환경을 지켜 주세요.\"라고 쓴 카드를 두었다. 손님의 약 35퍼센트가 요청을 따랐다. 그다음 호텔은 문구를 \"이 호텔의 대부분의 손님은 머무는 동안 수건을 적어도 한 번 다시 씁니다.\"로 바꿨다. 이번에는 손님의 약 44퍼센트가 따랐다. 바로 그 방에 묵은 대부분의 손님이 수건을 재사용했다고 카드에 쓰자 비율은 더 높아졌다. 그 이유는 우리가 자신과 비슷한 사람들의 행동에서 올바른 행동에 대한 단서를 찾기 때문이다. 다시 말해 사람들은 논리뿐 아니라 자신과 비슷한 사람들이 실제로 하고 있는 것에도 영향을 받는다.",
+    "why": "'다른 손님들이 한다'는 문구가 더 효과적이었으므로 사람들은 자신과 비슷한 사람들이 실제로 하는 행동에 영향을 받습니다.",
+    "optionNotes": [
+      "서비스 가격은 나오지 않습니다.",
+      "자연에 대한 감정은 첫 문구의 방식이었으나 효과가 더 낮았습니다.",
+      "정답. 비슷한 사람들이 실제로 하는 행동입니다.",
+      "글자 크기는 나오지 않습니다.",
+      "전문가의 조언은 나오지 않습니다."
+    ],
+    "trap": "첫 번째 카드(환경을 지키자)의 방식이 가장 효과적이었다고 오해하지 마세요.",
+    "tip": "결과 수치(35% → 44% → 더 높음)의 변화 원인이 빈칸의 단서입니다."
+  },
+  {
+    "id": "m3b-11-32",
+    "level": "m3",
+    "set": "mock-11",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In one experiment, researchers gave people the same cookies with two different labels. Some were told that the cookies were organic, and others were told that they were ordinary. Afterward, the participants rated the organic cookies as healthier, lower in calories, and even tastier, although the cookies were identical. The participants were university students, and none of them knew the purpose of the study. Psychologists call this the halo effect. When something has one attractive feature, such as being labeled organic, our brains tend to spread the good impression to other, unrelated qualities. This process happens quickly and mostly without our awareness. Advertisers know this well, so they often highlight a single appealing feature. A single positive feature can make us judge __________.",
+    "options": [
+      "the price of the product more strictly",
+      "the opinions of other buyers more carefully than ever",
+      "everything else about a product more favorably",
+      "the quality of the packaging more harshly",
+      "the speed of the delivery more quickly"
+    ],
+    "answer": 2,
+    "translation": "한 실험에서 연구자들은 사람들에게 같은 쿠키를 두 가지 다른 표시로 주었다. 일부에게는 유기농 쿠키라고 했고 다른 사람들에게는 보통 쿠키라고 했다. 그 뒤 참가자들은 쿠키가 똑같았는데도 유기농 쿠키가 더 건강에 좋고 칼로리가 낮고 심지어 더 맛있다고 평가했다. 참가자들은 대학생이었고 아무도 연구의 목적을 몰랐다. 심리학자들은 이를 후광 효과라고 부른다. 유기농이라고 표시된 것처럼 어떤 대상에 매력적인 특징이 하나 있으면 우리 뇌는 그 좋은 인상을 관련 없는 다른 특성으로 퍼뜨리는 경향이 있다. 이 과정은 빠르게 일어나며 대부분 우리가 알아채지 못한다. 광고주들은 이를 잘 알아서 매력적인 특징 하나를 강조하는 경우가 많다. 하나의 긍정적인 특징은 우리가 제품의 다른 모든 면을 더 호의적으로 판단하게 만들 수 있다.",
+    "why": "유기농이라는 하나의 특징이 건강, 칼로리, 맛까지 좋게 평가하게 했으므로 제품의 다른 모든 면을 더 호의적으로 판단하게 합니다.",
+    "optionNotes": [
+      "가격은 나오지 않습니다.",
+      "다른 구매자의 의견은 나오지 않습니다.",
+      "정답. 다른 모든 면을 더 호의적으로 판단합니다.",
+      "포장 품질은 나오지 않습니다.",
+      "배송 속도는 나오지 않습니다."
+    ],
+    "trap": "'Advertisers'가 나온다고 광고 이야기(①④)로 오해하지 마세요.",
+    "tip": "후광 효과의 정의(좋은 인상이 다른 특성으로 퍼짐)가 빈칸의 단서입니다."
+  },
+  {
+    "id": "m3b-11-33",
+    "level": "m3",
+    "set": "mock-11",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Researchers studied more than a thousand decisions made by judges in a certain country. The judges were experienced and had worked in their positions for more than ten years. They found that right after a meal break, judges approved about sixty-five percent of the requests that came before them. This rate gradually dropped almost to zero just before the next break. After the break, it jumped back up. The cases were assigned randomly, so the difference was not caused by the cases themselves. The researchers also checked many other factors, such as the type of crime and the length of the sentence. This suggests that even highly trained professionals can be affected by tiredness and hunger without realizing it. Our decisions can be affected by __________.",
+    "options": [
+      "physical conditions that have nothing to do with the issue itself",
+      "the number of years we have spent in school",
+      "how much money other people earn every year",
+      "the weather forecast for the following week",
+      "the length of the documents that we are asked to read each morning"
+    ],
+    "answer": 0,
+    "translation": "연구자들은 어떤 나라 판사들이 내린 천 건이 넘는 결정을 연구했다. 판사들은 경력이 있었고 십 년 넘게 그 자리에서 일했다. 그들은 식사 휴식 직후 판사들이 자기 앞에 온 요청의 약 육십오 퍼센트를 승인했다. 이 비율은 다음 휴식 직전에는 거의 0까지 서서히 떨어진다는 것을 발견했다. 휴식 뒤에는 다시 올라갔다. 사건은 무작위로 배정되었으므로 그 차이는 사건 자체 때문이 아니었다. 연구자들은 또한 범죄의 종류와 형량 같은 다른 많은 요인도 확인했다. 이는 고도로 훈련받은 전문가도 모르는 사이에 피로와 배고픔의 영향을 받을 수 있음을 시사한다. 우리의 결정은 문제 자체와 아무 관련이 없는 신체 상태에 영향을 받을 수 있다.",
+    "why": "사건이 무작위로 배정되었는데도 식사 휴식 전후로 승인율이 달라졌으므로 결정은 문제 자체와 무관한 신체 상태에 영향을 받습니다.",
+    "optionNotes": [
+      "정답. 문제와 무관한 신체 상태입니다.",
+      "학교에 다닌 햇수는 나오지 않습니다.",
+      "타인의 소득은 나오지 않습니다.",
+      "일기 예보는 나오지 않습니다.",
+      "문서의 길이는 나오지 않습니다."
+    ],
+    "trap": "사건이 무작위로 배정되었다는 점을 놓치면 사건 자체의 차이라고 오해합니다.",
+    "tip": "'not caused by the cases themselves'가 빈칸의 직접적 단서입니다."
+  },
+  {
+    "id": "m3b-11-34",
+    "level": "m3",
+    "set": "mock-11",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In one experiment, participants were asked to assemble a simple wooden box from a kit, while others were given the same box already assembled. Afterward, they were asked how much they would pay for it. Those who built the box themselves were willing to pay about sixty-three percent more than the others. Researchers call this the IKEA effect. Building something gives us a sense of achievement, and that pride attaches itself to the object. Even a badly made box was valued highly by its maker. The more time they spent on the task, the more they valued the result. Interestingly, the effect disappeared when the participants failed to finish the task. So, we tend to value things more when we have __________.",
+    "options": [
+      "bought them at a discount from the store",
+      "received them as gifts from our relatives",
+      "put our own effort into making them",
+      "seen them on advertisements many times",
+      "kept them in a safe place for years"
+    ],
+    "answer": 2,
+    "translation": "한 실험에서 참가자들은 키트로 간단한 나무 상자를 직접 조립하게 했고 다른 사람들에게는 같은 상자를 이미 조립된 상태로 주었다. 그 뒤 그들은 그것에 얼마를 지불할 의향이 있는지 질문받았다. 상자를 직접 만든 사람들은 다른 사람들보다 약 육십삼 퍼센트 더 지불할 의향이 있었다. 연구자들은 이를 이케아 효과라고 부른다. 무언가를 만들면 성취감이 생기고 그 자부심이 대상에 붙는다. 서툴게 만든 상자도 만든 사람에게는 높이 평가되었다. 과제에 더 많은 시간을 들일수록 결과를 더 가치 있게 여겼다. 흥미롭게도 참가자들이 과제를 끝내지 못했을 때는 이 효과가 사라졌다. 그래서 우리는 스스로 노력을 들여 만든 것을 더 가치 있게 여기는 경향이 있다.",
+    "why": "직접 만든 사람이 더 높은 가격을 매겼으므로 스스로 노력을 들여 만든 것을 더 가치 있게 여깁니다.",
+    "optionNotes": [
+      "할인 구매는 나오지 않습니다.",
+      "선물은 나오지 않습니다.",
+      "정답. 노력을 들여 직접 만든 것입니다.",
+      "광고 노출은 나오지 않습니다.",
+      "보관 기간은 나오지 않습니다."
+    ],
+    "trap": "'failed to finish the task'는 효과가 사라진 조건이므로 결론과 혼동하지 마세요.",
+    "tip": "실험 결과(직접 만든 사람이 더 높게 평가)에서 결론을 추론하세요."
+  },
+  {
+    "id": "m3b-11-35",
+    "level": "m3",
+    "set": "mock-11",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Cooking at home has many benefits beyond saving money. ① It lets you control the amount of salt, sugar, and fat in your meals, which is difficult when you eat at restaurants. ② It can also reduce stress, because chopping and stirring give your mind a calm and steady rhythm. ③ Families who cook together often find that conversation comes more easily and that everyone feels closer. ④ Learning new recipes also introduces you to the cultures and traditions that created them. ⑤ The Great Wall of China is more than twenty thousand kilometers long when all of its branches are counted.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "집에서 요리하는 것은 돈을 아끼는 것 이상의 많은 이점이 있다. ① 식당에서 먹을 때는 어렵지만 식사에 들어가는 소금, 설탕, 지방의 양을 조절할 수 있다. ② 썰고 젓는 일이 마음에 차분하고 일정한 리듬을 주므로 스트레스도 줄일 수 있다. ③ 함께 요리하는 가족은 대화가 더 쉽게 이어지고 모두 더 가까워진다고 느끼는 경우가 많다. ④ 새로운 조리법을 배우면 그것을 만든 문화와 전통도 알게 된다. ⑤ 만리장성은 모든 갈래를 합치면 길이가 이만 킬로미터가 넘는다.",
+    "why": "글은 집에서 요리하는 이점을 이야기하는데 ⑤는 만리장성의 길이에 관한 별개의 이야기입니다.",
+    "optionNotes": [
+      "식사 성분을 조절하는 이점입니다.",
+      "스트레스 감소라는 이점입니다.",
+      "가족 대화라는 이점입니다.",
+      "문화를 알게 되는 이점입니다.",
+      "정답(무관). 만리장성 이야기라 관계가 없습니다."
+    ],
+    "trap": "'traditions'에서 문화 이야기로 이어지는 듯해 관련 있다고 착각하기 쉽습니다.",
+    "tip": "주제(집에서 요리하는 이점)를 직접 뒷받침하지 않는 문장을 고르세요."
+  },
+  {
+    "id": "m3b-11-36",
+    "level": "m3",
+    "set": "mock-11",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Vending machines seem like a modern invention, but the first one was made in the first century in Egypt. Its inventor was a mathematician and engineer named Hero of Alexandria, who was famous for building clever machines.\n(A) The coin fell onto a small tray attached to a lever, and the lever opened a valve. When the coin slid off, the weight of the tray closed the valve again.\n(B) Nearly two thousand years later, vending machines appeared in London selling postcards, and they soon spread around the world to sell drinks, snacks, and tickets.\n(C) It was a simple device that gave out a small amount of holy water when a coin was dropped into it, so that visitors to a temple could wash their hands.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 3,
+    "translation": "자판기는 현대의 발명품처럼 보이지만 최초의 자판기는 1세기 이집트에서 만들어졌다. 그 발명가는 영리한 기계를 만들기로 유명한 수학자이자 기술자인 알렉산드리아의 헤론이었다. (C) 그것은 동전을 넣으면 신전 방문객이 손을 씻을 수 있도록 소량의 성수를 내주는 간단한 장치였다. (A) 동전은 지렛대에 연결된 작은 접시 위에 떨어졌고 지렛대가 밸브를 열었다. 동전이 미끄러져 내리면 접시의 무게가 밸브를 다시 닫았다. (B) 거의 이천 년 뒤 런던에 엽서를 파는 자판기가 등장했고 곧 음료, 간식, 표를 파는 자판기로 전 세계에 퍼졌다.",
+    "why": "(C) 'It'이 가리키는 최초 자판기의 기능 → (A) 동전이 작동하는 원리 → (B) 'Nearly two thousand years later'의 후대 확산 순서입니다.",
+    "optionNotes": [
+      "(A)의 'The coin'이 가리킬 동전이 앞에 나오지 않습니다.",
+      "(B)의 후대 확산이 최초 자판기 설명 전에 나옵니다.",
+      "(B)가 먼저 오면 'two thousand years later'의 기준 시점이 어긋납니다.",
+      "정답. 기능 → 원리 → 후대 확산.",
+      "(B)가 (A) 앞에 오면 원리 설명이 시간 흐름과 어긋납니다."
+    ],
+    "trap": "(A)의 'The coin'은 (C)에서 말한 동전을 가리킵니다.",
+    "tip": "It, The coin, Nearly two thousand years later 같은 지시어와 시간 표현을 확인하세요."
+  },
+  {
+    "id": "m3b-11-37",
+    "level": "m3",
+    "set": "mock-11",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Giving honest feedback is difficult, but it is essential for anyone who wants to improve. Many people avoid it because they fear hurting others' feelings or causing an argument.\n(A) Finally, suggest specific ways to improve, so that the person leaves the conversation with a clear plan instead of just a feeling of failure. Ending with encouragement also helps.\n(B) One useful method is to begin with something that the person did well, which shows that you notice and appreciate their efforts. Honest praise makes the listener more open to the rest of your message.\n(C) After that, describe the problem clearly and calmly, focusing on the work itself rather than on the person who did it. Avoid words such as always or never, which sound like attacks.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 2,
+    "translation": "솔직한 피드백을 주는 것은 어렵지만 발전하고 싶은 사람에게는 필수이다. 많은 사람은 다른 사람의 기분을 상하게 하거나 다툼을 일으킬까 봐 두려워서 이를 피한다. (B) 한 가지 유용한 방법은 그 사람이 잘한 점으로 시작하는 것이며 이는 당신이 그 노력을 알아보고 인정함을 보여 준다. 진심 어린 칭찬은 듣는 사람이 나머지 메시지에 더 열린 마음을 갖게 한다. (C) 그다음 문제를 분명하고 차분하게 설명하되 그것을 한 사람이 아니라 결과물 자체에 초점을 맞추라. 공격처럼 들리는 항상이나 절대 같은 말은 피하라. (A) 마지막으로 구체적인 개선 방법을 제안해 그 사람이 대화를 마칠 때 실패감만이 아니라 분명한 계획을 갖게 하라. 격려로 끝내는 것도 도움이 된다.",
+    "why": "(B) 'One useful method'로 칭찬으로 시작 → (C) 'After that'으로 문제 설명 → (A) 'Finally'로 개선 제안 순서입니다.",
+    "optionNotes": [
+      "(A)의 'Finally'가 먼저 오면 단계 순서가 어긋납니다.",
+      "(A)가 (C) 앞에 오면 'Finally'가 중간에 놓입니다.",
+      "정답. 칭찬 → 문제 설명 → 개선 제안.",
+      "(C)의 'After that'이 가리킬 앞 단계가 없습니다.",
+      "(C)가 가장 앞에 오면 'After that'이 어긋납니다."
+    ],
+    "trap": "(C)의 'After that'은 (B)의 칭찬 단계를 가리킵니다.",
+    "tip": "One useful method → After that → Finally의 순서어를 따라가세요."
+  },
+  {
+    "id": "m3b-11-38",
+    "level": "m3",
+    "set": "mock-11",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nFor these reasons, many cities are now building more bike lanes and bike-sharing stations.\n\n[글]\n( ① ) Cycling is one of the healthiest and most enjoyable ways to travel around a city. ( ② ) It strengthens the heart and the leg muscles without putting much pressure on the joints, which makes it suitable for people of almost every age. ( ③ ) Unlike cars, bicycles produce no pollution, and they take up very little space on the road or when parked. ( ④ ) They are also cheap to own, because there is no need to buy fuel or expensive insurance, so a bicycle can save a family hundreds of dollars a year. ( ⑤ ) Some even lend bicycles to residents for free, hoping to make cycling part of everyday life.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "[주어진 문장] 이런 이유로 많은 도시가 이제 자전거 도로와 공유 자전거 거치대를 더 많이 짓고 있다. [글] 자전거 타기는 도시를 이동하는 가장 건강하고 즐거운 방법 중 하나이다. 관절에 큰 부담을 주지 않으면서 심장과 다리 근육을 튼튼하게 하므로 거의 모든 연령의 사람에게 알맞다. 자동차와 달리 자전거는 오염을 일으키지 않으며 도로나 주차 때 차지하는 공간도 매우 작다. 또한 연료나 비싼 보험을 살 필요가 없어서 소유하는 비용이 적고 자전거 하나로 한 가족이 해마다 수백 달러를 아낄 수 있다. 일부 도시는 자전거 타기를 일상의 일부로 만들려고 주민에게 자전거를 무료로 빌려주기도 한다.",
+    "why": "건강·환경·비용의 이점을 모두 설명한 뒤 'For these reasons'로 결론을 말하고, 이어서 도시들의 추가 사례가 나오므로 ⑤에 들어갑니다.",
+    "optionNotes": [
+      "'these reasons'가 가리킬 이유가 아직 나오지 않았습니다.",
+      "이유가 한 가지만 나온 뒤라 'these reasons'가 부족합니다.",
+      "이유가 두 가지만 나온 뒤라 비용의 이유가 빠집니다.",
+      "마지막 이유가 설명되는 도중이라 아직 이릅니다.",
+      "정답. 모든 이유를 설명한 뒤 결론이 나오고 사례가 이어집니다."
+    ],
+    "trap": "'many cities'가 마지막 문장의 'Some'(도시)과 이어진다는 점을 놓치지 마세요.",
+    "tip": "For these reasons는 모든 이유가 설명된 뒤에 놓입니다."
+  },
+  {
+    "id": "m3b-11-39",
+    "level": "m3",
+    "set": "mock-11",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nFor example, the same sentence can sound friendly or threatening, depending on the way it is spoken.\n\n[글]\n( ① ) The tone of voice can influence how we feel just as much as the words we hear. ( ② ) In one experiment, patients who heard instructions in a soft voice felt less anxious before surgery than those who heard exactly the same instructions in a sharp voice. ( ③ ) Doctors and nurses therefore receive training on how to speak calmly to frightened patients. ( ④ ) Parents also use this skill instinctively when they comfort a crying baby with a low, gentle voice. ( ⑤ ) Learning to control our tone is a valuable skill in daily life, as it can turn an argument into a conversation.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "[주어진 문장] 예를 들어 같은 문장도 말하는 방식에 따라 다정하게도 위협적으로도 들릴 수 있다. [글] 목소리의 어조는 우리가 듣는 말만큼이나 우리가 느끼는 방식에 영향을 줄 수 있다. 한 실험에서 부드러운 목소리로 지시를 들은 환자들은 수술 전에 똑같은 지시를 날카로운 목소리로 들은 환자들보다 덜 불안해했다. 그래서 의사와 간호사는 겁먹은 환자에게 차분하게 말하는 법에 대한 훈련을 받는다. 부모들도 우는 아기를 낮고 부드러운 목소리로 달랠 때 이 기술을 본능적으로 쓴다. 어조를 조절하는 법을 배우는 것은 말다툼을 대화로 바꿀 수 있어 일상에서 가치 있는 기술이다.",
+    "why": "어조가 느낌에 영향을 준다는 일반적 진술 뒤에 'For example'로 구체적 예를 들고, 이어서 실험이 나오므로 ②에 들어갑니다.",
+    "optionNotes": [
+      "'For example'이 설명할 일반적 진술이 아직 나오지 않았습니다.",
+      "정답. 일반적 진술 뒤에 예가 나오고 실험이 이어집니다.",
+      "실험 뒤에 예를 들면 흐름이 어긋납니다.",
+      "부모의 사례 앞에 오면 연결이 어색합니다.",
+      "결론 앞에 오면 'For example'이 어색합니다."
+    ],
+    "trap": "'the same sentence'가 ②의 'exactly the same instructions'와 연결된다는 점을 놓치지 마세요.",
+    "tip": "For example로 시작하는 문장 앞에는 그 예가 설명하는 일반적 진술이 옵니다."
+  },
+  {
+    "id": "m3b-11-40",
+    "level": "m3",
+    "set": "mock-11",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A mid-sized city replaced several signal-controlled intersections with roundabouts. The study lasted three years in total. After three years, the number of accidents causing serious injuries dropped by about seventy-five percent. Average waiting times also decreased, and fuel consumption fell because cars no longer had to stop and start repeatedly. Traffic engineers explained that the design of a roundabout forces vehicles to enter slowly and at a curved angle. As a result, even when collisions occur, they happen at low speeds and from shallow angles, which greatly reduces injuries. Although some drivers were confused at first, most became comfortable with the new system within a few months.\n\n▶ Replacing traffic signals with roundabouts (A) the severity of accidents because cars must (B) when entering them.",
+    "options": [
+      "(A) increased — (B) speed up",
+      "(A) ignored — (B) stop completely",
+      "(A) doubled — (B) turn off",
+      "(A) delayed — (B) change lanes",
+      "(A) reduced — (B) slow down"
+    ],
+    "answer": 4,
+    "translation": "한 중소 도시가 신호등이 있는 교차로 몇 곳을 회전 교차로로 바꿨다. 연구는 모두 삼 년 동안 진행되었다. 삼 년 뒤 심각한 부상을 일으키는 사고 건수가 약 칠십오 퍼센트 줄었다. 평균 대기 시간도 줄었고 차가 반복해서 서고 출발할 필요가 없어 연료 소비도 감소했다. 교통 기술자들은 회전 교차로의 설계가 차량이 천천히 곡선 각도로 진입하게 만든다고 설명했다. 그 결과 충돌이 일어나도 낮은 속도와 얕은 각도로 일어나 부상이 크게 줄어든다. 일부 운전자는 처음에 혼란스러워했지만 대부분은 몇 달 안에 새 체계에 익숙해졌다. ▶ 신호등을 회전 교차로로 바꾸면 차들이 진입할 때 (B)해야 하므로 사고의 심각성이 (A)된다.",
+    "why": "차가 천천히 진입해 사고의 심각성이 줄었으므로 (A)는 reduced, (B)는 slow down입니다.",
+    "optionNotes": [
+      "increased와 speed up은 글과 반대입니다.",
+      "ignored와 stop completely는 글에 나오지 않습니다.",
+      "doubled와 turn off는 글에 나오지 않습니다.",
+      "delayed와 change lanes는 글에 나오지 않습니다.",
+      "정답. 사고의 심각성이 줄고 차가 천천히 진입합니다."
+    ],
+    "trap": "수치(75% 감소)의 방향을 반대로 읽지 않도록 하세요.",
+    "tip": "요약문은 원인(천천히 진입)과 결과(사고 심각성 감소)를 짝지으세요."
+  }
+]
