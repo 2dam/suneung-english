@@ -1,0 +1,147 @@
+[
+  {
+    "id": "m2b-12-41",
+    "level": "m2",
+    "set": "mock-12",
+    "no": 41,
+    "type": "long",
+    "group": "m2b-12-g41",
+    "stem": "[41~42] 윗글의 제목으로 가장 적절한 것을 고르시오.",
+    "passage": "Today, a pencil is one of the cheapest and most common tools in the world, but its history is surprisingly interesting. In 1564, a huge amount of pure graphite was discovered in England. People soon found that the soft black material could leave clear marks on paper, but it also {1|broke} easily and made their hands dirty. To solve this problem, they wrapped the graphite in string or put it inside wooden sticks. Later, an inventor found that mixing graphite powder with clay made it possible to control the hardness of the lead. However, it also made the pencil {2|weaker}. By adding more clay, makers could produce harder pencils for fine lines, while less clay gave soft pencils for dark drawing. In 1858, a man in the United States attached a small rubber eraser to the end of a pencil. This {3|convenient} design is still common today. Many people use pencils because mistakes are easy to {4|correct}. A single pencil can draw a line about fifty kilometers long, and it can write about forty-five thousand words. This small tool has helped students, artists, and engineers {5|express} their ideas for hundreds of years.",
+    "options": [
+      "How a Simple Piece of Wood and Graphite Changed Writing and Drawing",
+      "The Best Ways to Sharpen Pencils Without Breaking Them",
+      "Why Computers Will Replace Pencils in Every Classroom",
+      "Famous Artists Who Used Only Colored Pens",
+      "How Rubber Trees Are Grown in Warm Countries"
+    ],
+    "answer": 0,
+    "translation": "오늘날 연필은 세계에서 가장 값싸고 흔한 도구 중 하나이지만 그 역사는 놀랍도록 흥미롭다. 1564년 영국에서 엄청난 양의 순수한 흑연이 발견되었다. 사람들은 곧 이 부드러운 검은 물질이 종이에 선명한 자국을 남길 수 있지만 쉽게 부러지고 손을 더럽힌다는 것을 알았다. 이 문제를 해결하려고 그들은 흑연을 끈으로 싸거나 나무 막대 안에 넣었다. 나중에 한 발명가는 흑연 가루를 점토와 섞으면 심의 단단함을 조절할 수 있게 된다는 것을 발견했다. 그러나 이는 연필을 더 약하게 만들기도 했다. 점토를 더 넣으면 가는 선을 위한 단단한 연필을, 덜 넣으면 진한 그림을 위한 무른 연필을 만들 수 있었다. 1858년 미국의 한 남자가 연필 끝에 작은 고무 지우개를 붙였다. 이 편리한 설계는 오늘날에도 흔하다. 실수를 쉽게 고칠 수 있어서 많은 사람이 연필을 쓴다. 연필 한 자루는 약 오십 킬로미터 길이의 선을 그릴 수 있고 약 사만 오천 단어를 쓸 수 있다. 이 작은 도구는 수백 년 동안 학생, 예술가, 기술자가 생각을 표현하도록 도왔다.",
+    "why": "흑연과 나무로 만든 연필의 발전 과정과 쓰임을 다루므로 ①이 제목으로 알맞습니다.",
+    "optionNotes": [
+      "정답. 연필이 쓰기와 그리기를 바꾼 역사입니다.",
+      "연필 깎는 법은 나오지 않습니다.",
+      "컴퓨터가 연필을 대체한다는 내용은 나오지 않습니다.",
+      "유명 화가의 펜은 나오지 않습니다.",
+      "고무나무 재배는 나오지 않습니다."
+    ],
+    "trap": "'rubber eraser'가 나온다고 고무나무(⑤)로 착각하지 마세요.",
+    "tip": "제목은 글 전체의 핵심(연필의 역사와 영향)을 담으세요."
+  },
+  {
+    "id": "m2b-12-42",
+    "level": "m2",
+    "set": "mock-12",
+    "no": 42,
+    "type": "long",
+    "group": "m2b-12-g41",
+    "stem": "[41~42] 밑줄 친 ①~⑤ 중에서 문맥상 낱말의 쓰임이 적절하지 않은 것을 고르시오.",
+    "passage": "Today, a pencil is one of the cheapest and most common tools in the world, but its history is surprisingly interesting. In 1564, a huge amount of pure graphite was discovered in England. People soon found that the soft black material could leave clear marks on paper, but it also {1|broke} easily and made their hands dirty. To solve this problem, they wrapped the graphite in string or put it inside wooden sticks. Later, an inventor found that mixing graphite powder with clay made it possible to control the hardness of the lead. However, it also made the pencil {2|weaker}. By adding more clay, makers could produce harder pencils for fine lines, while less clay gave soft pencils for dark drawing. In 1858, a man in the United States attached a small rubber eraser to the end of a pencil. This {3|convenient} design is still common today. Many people use pencils because mistakes are easy to {4|correct}. A single pencil can draw a line about fifty kilometers long, and it can write about forty-five thousand words. This small tool has helped students, artists, and engineers {5|express} their ideas for hundreds of years.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "(41번 지문과 같은 글입니다.)",
+    "why": "흑연에 점토를 섞은 것은 쉽게 부러지는 문제를 해결하려는 것이므로 연필이 '더 약해진다(weaker)'가 아니라 '더 튼튼해진다(stronger)'여야 합니다.",
+    "optionNotes": [
+      "쉽게 부러졌다는 의미로 broke가 알맞습니다.",
+      "정답(부적절). 점토는 연필을 더 강하게 하므로 stronger여야 합니다.",
+      "편리한 설계라는 의미로 convenient가 알맞습니다.",
+      "실수를 고친다는 의미로 correct가 알맞습니다.",
+      "생각을 표현한다는 의미로 express가 알맞습니다."
+    ],
+    "trap": "'solve this problem'의 맥락(부러짐)을 놓치기 쉽습니다.",
+    "tip": "앞 문장의 문제(쉽게 부러짐)와 해결 방향이 일치하는지 확인하세요."
+  },
+  {
+    "id": "m2b-12-43",
+    "level": "m2",
+    "set": "mock-12",
+    "no": 43,
+    "type": "long",
+    "group": "m2b-12-g43",
+    "stem": "[43~45] 주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것을 고르시오.",
+    "passage": "(A) Hyeji's bicycle chain broke on her way to school, and {1|she} had to push the bike to the nearest repair shop. The shop was small and old, and a man in a gray apron was fixing a wheel.\n(B) The man smiled and said, \"The chain is free today. Just promise to ride safely.\" {2|He} patted the seat of the bike and waved goodbye. Hyeji rode home slowly, feeling warm in her heart.\n(C) After school, Hyeji came back to the shop. {3|She} found her bicycle shining, with a new chain and clean wheels. She asked the man how much she owed him.\n(D) Hyeji explained the problem and asked how much it would cost. The man looked at the chain and said it would take an hour. She did not have enough time because of her first-period class, so {4|she} felt worried. The man said, \"Go to school. I'll fix it and keep it for you.\" {5|She} thanked him and ran to school.",
+    "options": [
+      "(B)-(D)-(C)",
+      "(C)-(B)-(D)",
+      "(C)-(D)-(B)",
+      "(D)-(B)-(C)",
+      "(D)-(C)-(B)"
+    ],
+    "answer": 4,
+    "translation": "(A) 혜지의 자전거 사슬이 등굣길에 끊어져 그녀는 가장 가까운 수리점까지 자전거를 밀고 가야 했다. 가게는 작고 낡았으며 회색 앞치마를 입은 남자가 바퀴를 고치고 있었다. (B) 남자는 미소 지으며 말했다. \"사슬은 오늘 무료란다. 안전하게 타겠다고 약속만 하렴.\" 그는 자전거 안장을 토닥이며 손을 흔들어 작별했다. 혜지는 마음이 따뜻해져서 천천히 집으로 자전거를 탔다. (C) 방과 후 혜지는 수리점에 다시 왔다. 그녀는 새 사슬과 깨끗한 바퀴로 반짝이는 자전거를 발견했다. 그녀는 남자에게 얼마를 드려야 하는지 물었다. (D) 혜지는 문제를 설명하고 비용이 얼마나 드는지 물었다. 남자는 사슬을 살펴보고 한 시간이 걸릴 것이라고 말했다. 그녀는 1교시 수업 때문에 시간이 충분하지 않아 걱정스러웠다. 남자가 말했다. \"학교에 가렴. 내가 고쳐서 맡아 두마.\" 그녀는 고맙다고 하고 학교로 달려갔다.",
+    "why": "(A) 수리점에 도착 → (D) 수리를 맡기고 등교 → (C) 방과 후 다시 방문 → (B) 무료라는 말과 귀가 순서입니다.",
+    "optionNotes": [
+      "(B)의 작별이 맡기기 전에 올 수 없습니다.",
+      "(C)의 방과 후가 맡기기(D) 전에 올 수 없습니다.",
+      "(C)의 방과 후가 맡기기(D) 전에 올 수 없습니다.",
+      "(B)의 귀가가 방과 후 방문(C) 전에 올 수 없습니다.",
+      "정답. 맡김 → 찾으러 옴 → 무료와 귀가."
+    ],
+    "trap": "(C)의 'After school'은 (D)에서 학교에 간 뒤를 가리킵니다.",
+    "tip": "등교 → After school → 귀가의 시간 흐름을 따라가세요."
+  },
+  {
+    "id": "m2b-12-44",
+    "level": "m2",
+    "set": "mock-12",
+    "no": 44,
+    "type": "long",
+    "group": "m2b-12-g43",
+    "stem": "[43~45] 밑줄 친 ①~⑤ 중에서 가리키는 대상이 나머지 넷과 다른 것을 고르시오.",
+    "passage": "(A) Hyeji's bicycle chain broke on her way to school, and {1|she} had to push the bike to the nearest repair shop. The shop was small and old, and a man in a gray apron was fixing a wheel.\n(B) The man smiled and said, \"The chain is free today. Just promise to ride safely.\" {2|He} patted the seat of the bike and waved goodbye. Hyeji rode home slowly, feeling warm in her heart.\n(C) After school, Hyeji came back to the shop. {3|She} found her bicycle shining, with a new chain and clean wheels. She asked the man how much she owed him.\n(D) Hyeji explained the problem and asked how much it would cost. The man looked at the chain and said it would take an hour. She did not have enough time because of her first-period class, so {4|she} felt worried. The man said, \"Go to school. I'll fix it and keep it for you.\" {5|She} thanked him and ran to school.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "②의 He는 안장을 토닥이고 손을 흔든 수리 기사이고, 나머지 ①③④⑤는 모두 혜지를 가리킵니다.",
+    "optionNotes": [
+      "she는 자전거를 민 혜지입니다.",
+      "정답. He는 수리 기사입니다.",
+      "She는 자전거를 발견한 혜지입니다.",
+      "she는 걱정한 혜지입니다.",
+      "She는 고맙다고 한 혜지입니다."
+    ],
+    "trap": "(B)에서 수리 기사와 혜지가 함께 나오므로 성별(He/She)로 구분하세요.",
+    "tip": "대명사가 가리키는 대상은 성별과 동작의 주체로 확인하세요."
+  },
+  {
+    "id": "m2b-12-45",
+    "level": "m2",
+    "set": "mock-12",
+    "no": 45,
+    "type": "long",
+    "group": "m2b-12-g43",
+    "stem": "[43~45] 윗글에 관한 내용으로 적절하지 않은 것을 고르시오.",
+    "passage": "(A) Hyeji's bicycle chain broke on her way to school, and {1|she} had to push the bike to the nearest repair shop. The shop was small and old, and a man in a gray apron was fixing a wheel.\n(B) The man smiled and said, \"The chain is free today. Just promise to ride safely.\" {2|He} patted the seat of the bike and waved goodbye. Hyeji rode home slowly, feeling warm in her heart.\n(C) After school, Hyeji came back to the shop. {3|She} found her bicycle shining, with a new chain and clean wheels. She asked the man how much she owed him.\n(D) Hyeji explained the problem and asked how much it would cost. The man looked at the chain and said it would take an hour. She did not have enough time because of her first-period class, so {4|she} felt worried. The man said, \"Go to school. I'll fix it and keep it for you.\" {5|She} thanked him and ran to school.",
+    "options": [
+      "혜지는 자전거 사슬이 끊어져 수리점까지 자전거를 밀고 갔다.",
+      "수리 기사는 혜지에게 학교에 먼저 가라고 했다.",
+      "혜지는 방과 후에 수리점에 다시 들렀다.",
+      "수리 기사는 수리비로 큰 금액을 요구했다.",
+      "혜지는 천천히 자전거를 타고 집에 갔다."
+    ],
+    "answer": 3,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "수리 기사는 사슬은 오늘 무료라고 말했으므로 큰 금액을 요구했다는 ④는 일치하지 않습니다.",
+    "optionNotes": [
+      "push the bike to the nearest repair shop과 일치합니다.",
+      "Go to school과 일치합니다.",
+      "came back to the shop과 일치합니다.",
+      "정답(불일치). 사슬은 무료라고 했습니다.",
+      "rode home slowly와 일치합니다."
+    ],
+    "trap": "'how much she owed him'을 실제 요구 금액으로 오해하지 마세요.",
+    "tip": "불일치 문제는 인물의 발언(The chain is free)을 보기와 대조하세요."
+  }
+]
