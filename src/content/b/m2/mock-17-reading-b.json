@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m2b-17-29",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "A volcano is an opening in the Earth's surface through which hot melted rock, called magma, comes out. Deep underground, magma {1|is} lighter than the surrounding rock, so it slowly rises. When it reaches the surface, it {2|flows} out as lava or explodes with ash and gas. The ash can travel thousands of kilometers, and it sometimes blocks the sunlight for months. Although volcanoes are dangerous, people have lived near them for thousands of years. This is because the soil around them is rich in minerals, {3|make} it excellent for farming. Today, scientists watch volcanoes {4|carefully} with special instruments, and they can warn people before an eruption. In this way, many lives {5|have been saved}.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "화산은 마그마라고 하는 뜨겁게 녹은 암석이 나오는 지표면의 틈이다. 땅속 깊은 곳에서 마그마는 주변 암석보다 가벼워서 천천히 올라온다. 지표에 닿으면 용암으로 흘러나오거나 재와 기체와 함께 폭발한다. 재는 수천 킬로미터를 날아갈 수 있고 때로는 몇 달 동안 햇빛을 가린다. 화산은 위험하지만 사람들은 수천 년 동안 화산 근처에 살아왔다. 이는 주변 토양에 광물이 풍부해서 농사짓기에 아주 좋기 때문이다. 오늘날 과학자들은 특수 장비로 화산을 주의 깊게 관찰하며 분화 전에 사람들에게 경고할 수 있다. 이렇게 해서 많은 생명이 구해졌다.",
+    "why": "주절의 내용 전체를 결과로 이어 주는 분사구문이어야 하므로 make가 아니라 making이어야 합니다.",
+    "optionNotes": [
+      "주어 magma에 맞는 be동사 is입니다.",
+      "주어 it에 맞는 단수 동사 flows입니다.",
+      "정답(틀린 것). 분사구문 making이어야 합니다.",
+      "동사 watch를 꾸미는 부사 carefully입니다.",
+      "주어 lives에 맞는 현재완료 수동태입니다."
+    ],
+    "trap": "콤마 뒤에 동사원형이 오면 절이 두 개 연결된 것으로 착각하기 쉽습니다.",
+    "tip": "접속사 없이 콤마로 이어지는 동사는 분사구문(-ing)으로 써야 합니다."
+  },
+  {
+    "id": "m2b-17-30",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Many students skip breakfast because they are in a hurry, but this is not a good habit. After a night of sleep, the body needs energy, and breakfast {1|provides} it. Students who eat breakfast {2|concentrate} better in the morning classes. A healthy breakfast does not have to be {3|complicated}: a bowl of yogurt with fruit, or a slice of bread with eggs, is enough. On the other hand, skipping breakfast can make you feel tired and {4|energetic} by ten o'clock, and you may eat too many snacks before lunch. Experts suggest that students prepare something simple the night before so that they can eat in a short time. A little {5|effort} in the evening can make the morning easier.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "많은 학생이 서두르느라 아침을 거르지만 이는 좋은 습관이 아니다. 밤에 자고 난 뒤 몸은 에너지가 필요하고 아침 식사가 그것을 제공한다. 아침을 먹는 학생은 오전 수업에서 더 잘 집중한다. 건강한 아침 식사가 복잡할 필요는 없다. 과일을 곁들인 요구르트 한 그릇이나 달걀을 곁들인 빵 한 조각이면 충분하다. 반면 아침을 거르면 열 시쯤 피곤하고 활기차게 느껴지며 점심 전에 간식을 너무 많이 먹을 수 있다. 전문가들은 짧은 시간에 먹을 수 있도록 전날 밤에 간단한 것을 준비하라고 제안한다. 저녁의 작은 노력이 아침을 더 수월하게 만들 수 있다.",
+    "why": "아침을 거르면 피곤하고 배고프게 느끼므로 tired와 함께 쓰이는 말로 '활기찬(energetic)'은 부적절합니다.",
+    "optionNotes": [
+      "에너지를 제공한다는 의미로 provides가 알맞습니다.",
+      "더 잘 집중한다는 의미로 concentrate가 알맞습니다.",
+      "복잡할 필요가 없다는 의미로 complicated가 알맞습니다.",
+      "정답(부적절). 피곤하다와 함께 쓰이려면 hungry여야 합니다.",
+      "작은 노력이라는 의미로 effort가 알맞습니다."
+    ],
+    "trap": "'tired and'로 이어지는 말이 같은 방향의 느낌인지 놓치기 쉽습니다.",
+    "tip": "and로 연결된 두 형용사는 의미의 방향이 같아야 합니다."
+  },
+  {
+    "id": "m2b-17-31",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Psychologists have studied what happens when people share good news. In one study, people kept a diary for several weeks. On days when they told others about a good event, such as passing a test or getting a gift, they reported feeling happier. They felt less happy on days when they kept the news to themselves. The listeners' positive reactions seemed to make the event feel more important and more memorable. Even writing the good news in a message to a friend had a similar effect. This suggests that happiness grows when it is __________.",
+    "options": [
+      "kept secret from everyone",
+      "shared with other people",
+      "forgotten as soon as possible",
+      "compared with other people's happiness",
+      "bought with a lot of money"
+    ],
+    "answer": 1,
+    "translation": "심리학자들은 사람들이 좋은 소식을 나눌 때 어떤 일이 일어나는지 연구했다. 한 연구에서 사람들은 몇 주 동안 일기를 썼다. 시험에 합격하거나 선물을 받는 것 같은 좋은 일을 다른 사람에게 말한 날에는 더 행복하다고 보고했다. 소식을 혼자 간직한 날에는 덜 행복했다. 듣는 사람들의 긍정적인 반응이 그 일을 더 중요하고 기억에 남게 느끼게 하는 것 같았다. 좋은 소식을 친구에게 보내는 메시지로 쓰는 것도 비슷한 효과를 냈다. 이는 행복이 다른 사람과 나눌 때 커진다는 것을 시사한다.",
+    "why": "좋은 소식을 다른 사람에게 말했을 때 더 행복했으므로 행복은 나눌 때 커집니다.",
+    "optionNotes": [
+      "혼자 간직했을 때는 덜 행복했습니다.",
+      "정답. 다른 사람과 나눌 때 행복이 커집니다.",
+      "잊으라는 내용은 나오지 않습니다.",
+      "타인과 비교하라는 내용은 나오지 않습니다.",
+      "돈으로 사는 것은 나오지 않습니다."
+    ],
+    "trap": "'kept the news to themselves'와 정답의 방향이 반대임을 놓치기 쉽습니다.",
+    "tip": "비교 대조(말한 날 vs 혼자 간직한 날)에서 결론을 추론하세요."
+  },
+  {
+    "id": "m2b-17-32",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many animals have colors and patterns that match their surroundings. A chameleon can change its skin color to look like a leaf or a branch. A stick insect looks exactly like a thin twig, and a flounder lies on the sea floor with a body that looks like sand. In cold places, the arctic fox has brown fur in summer and turns white in winter to match the snow. This natural disguise, called camouflage, makes it hard for enemies to see the animals. It also helps hunters get close to their prey without being noticed. Therefore, camouflage helps animals __________.",
+    "options": [
+      "grow faster than other animals",
+      "attract more mates every year",
+      "keep their bodies warm in winter",
+      "survive by blending into their surroundings and escaping from enemies",
+      "find food at the bottom of the ocean"
+    ],
+    "answer": 3,
+    "translation": "많은 동물은 주변과 어울리는 색과 무늬를 가지고 있다. 카멜레온은 피부색을 바꾸어 잎이나 가지처럼 보일 수 있다. 대벌레는 가는 잔가지와 똑같이 생겼고 가자미는 모래처럼 보이는 몸으로 바다 밑바닥에 누워 있다. 추운 곳에서 북극여우는 여름에는 갈색 털을 가졌다가 겨울에는 눈과 어울리게 흰색으로 변한다. 위장이라고 하는 이 자연스러운 변장은 적이 동물을 알아보기 어렵게 한다. 또 사냥꾼이 눈에 띄지 않고 먹이에 가까이 가도록 돕는다. 그러므로 위장은 동물이 주변에 섞여 적을 피함으로써 살아남도록 돕는다.",
+    "why": "위장은 적에게 잘 보이지 않게 하고 사냥도 돕는다고 했으므로 주변에 섞여 적을 피해 살아남게 돕습니다.",
+    "optionNotes": [
+      "성장 속도는 나오지 않습니다.",
+      "짝짓기는 나오지 않습니다.",
+      "체온 유지는 나오지 않습니다.",
+      "정답. 주변에 섞여 적을 피해 살아남게 돕습니다.",
+      "바다 밑 먹이 찾기는 나오지 않습니다."
+    ],
+    "trap": "'arctic fox'가 겨울에 흰색이 되는 부분만 보고 보온(③)과 연결하지 마세요.",
+    "tip": "여러 예시(카멜레온, 대벌레, 북극여우)의 공통점을 일반화하세요."
+  },
+  {
+    "id": "m2b-17-33",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Some programmers keep a rubber duck on their desk. When they get stuck, they explain the problem to the duck, line by line. Strangely, this often helps them find the mistake themselves. The reason is that explaining forces us to slow down and put our thoughts into clear words. While we are speaking, we notice steps that we skipped or ideas that do not fit together. This method works for students, too. If you are stuck on a math problem, try explaining it to a friend or even to a toy. Explaining a problem aloud can help us __________.",
+    "options": [
+      "forget about the problem completely",
+      "make the problem much harder",
+      "avoid asking for any help from teachers and friends in class",
+      "see the problem more clearly and find our own mistakes",
+      "finish all of our homework in one minute"
+    ],
+    "answer": 3,
+    "translation": "어떤 프로그래머들은 책상 위에 고무 오리를 둔다. 막히면 그들은 오리에게 문제를 한 줄씩 설명한다. 이상하게도 이것은 흔히 그들이 스스로 실수를 찾도록 돕는다. 이유는 설명하려면 속도를 늦추고 생각을 분명한 말로 옮겨야 하기 때문이다. 말하는 동안 우리는 건너뛴 단계나 서로 맞지 않는 생각을 알아챈다. 이 방법은 학생에게도 통한다. 수학 문제에서 막히면 친구에게, 심지어 인형에게 설명해 보라. 문제를 소리 내어 설명하는 것은 문제를 더 분명히 보고 스스로 실수를 찾도록 도울 수 있다.",
+    "why": "설명하면서 건너뛴 단계나 맞지 않는 생각을 알아채므로 문제를 더 분명히 보고 스스로 실수를 찾게 됩니다.",
+    "optionNotes": [
+      "문제를 잊게 한다는 내용은 나오지 않습니다.",
+      "문제가 더 어려워진다는 내용은 글과 반대입니다.",
+      "도움을 피하게 한다는 내용은 나오지 않습니다.",
+      "정답. 문제를 더 분명히 보고 실수를 찾게 됩니다.",
+      "숙제를 일 분에 끝낸다는 내용은 나오지 않습니다."
+    ],
+    "trap": "'rubber duck'만 보고 장난감과 관련된 엉뚱한 보기를 고르지 마세요.",
+    "tip": "방법의 이유(slow down, clear words, notice skipped steps)에서 결론을 추론하세요."
+  },
+  {
+    "id": "m2b-17-34",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In a strong storm, a tall oak tree may break because it is hard and stiff. A bamboo plant, on the other hand, bends with the wind and stands up again when the storm is over. Its stems are hollow and flexible, so the force of the wind passes over it. People are similar. Those who insist on only one way of doing things often feel broken when plans change. Those who can adjust their thinking and try new methods recover faster from failures and difficulties. This is why many teachers say that, in hard times, __________.",
+    "options": [
+      "being flexible is often stronger than being stiff",
+      "it is better to stay away from everyone",
+      "tall trees always survive storms better than short plants do",
+      "wind is the most dangerous enemy of every plant",
+      "plans should never be changed once they are made"
+    ],
+    "answer": 0,
+    "translation": "강한 폭풍에서는 키 큰 참나무가 딱딱하고 뻣뻣해서 부러질 수 있다. 반면 대나무는 바람에 휘어지고 폭풍이 지나가면 다시 일어선다. 줄기가 속이 비고 유연해서 바람의 힘이 그 위로 지나간다. 사람도 비슷하다. 한 가지 방식만 고집하는 사람은 계획이 바뀔 때 흔히 무너진 것처럼 느낀다. 생각을 조정하고 새 방법을 시도할 수 있는 사람은 실패와 어려움에서 더 빨리 회복한다. 이 때문에 많은 교사가 어려운 때에는 유연한 것이 뻣뻣한 것보다 흔히 더 강하다고 말한다.",
+    "why": "뻣뻣한 참나무는 부러지고 유연한 대나무는 다시 일어서므로 유연한 것이 뻣뻣한 것보다 더 강합니다.",
+    "optionNotes": [
+      "정답. 유연한 것이 뻣뻣한 것보다 더 강합니다.",
+      "멀리하라는 내용은 나오지 않습니다.",
+      "키 큰 나무가 낫다는 내용은 글과 반대입니다.",
+      "바람이 가장 위험하다는 내용은 나오지 않습니다.",
+      "계획을 바꾸지 말라는 내용은 글과 반대입니다."
+    ],
+    "trap": "참나무가 키가 크다는 점만 보고 강하다고 오해하지 마세요.",
+    "tip": "비유(참나무 vs 대나무)와 사람에 대한 설명을 연결해 결론을 추론하세요."
+  },
+  {
+    "id": "m2b-17-35",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "You do not need an expensive camera to take good photos. With a few simple tips, your smartphone can produce beautiful pictures. ① First, use natural light whenever possible, because soft sunlight makes colors look warmer and more natural. ② Hold your phone with both hands and keep your elbows close to your body so that the picture does not become blurry. ③ Giraffes have the longest necks of any animal in the world and can grow taller than five meters. ④ Try placing the main subject slightly to one side of the screen instead of the center, which makes the picture more interesting. ⑤ Finally, clean your lens with a soft cloth before shooting, since a dirty lens can make the picture look cloudy.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "좋은 사진을 찍는 데 비싼 카메라가 필요하지는 않다. 몇 가지 간단한 요령만 있으면 스마트폰으로도 아름다운 사진을 찍을 수 있다. ① 첫째, 부드러운 햇빛은 색을 더 따뜻하고 자연스럽게 보이게 하므로 가능하면 자연광을 써라. ② 사진이 흐려지지 않도록 두 손으로 휴대전화를 잡고 팔꿈치를 몸에 붙여라. ③ 기린은 세상에서 가장 긴 목을 가진 동물이며 5미터보다 크게 자랄 수 있다. ④ 주된 피사체를 화면 중앙이 아니라 약간 한쪽에 두어 보라. 그러면 사진이 더 흥미로워진다. ⑤ 마지막으로 찍기 전에 부드러운 천으로 렌즈를 닦아라. 더러운 렌즈는 사진이 흐려 보이게 할 수 있다.",
+    "why": "글은 스마트폰으로 사진을 잘 찍는 요령을 이야기하는데 ③은 기린의 목에 관한 별개의 이야기입니다.",
+    "optionNotes": [
+      "자연광을 쓰라는 요령입니다.",
+      "두 손으로 안정되게 잡으라는 요령입니다.",
+      "정답(무관). 기린 이야기라 관계가 없습니다.",
+      "피사체 위치에 관한 요령입니다.",
+      "렌즈를 닦으라는 요령입니다."
+    ],
+    "trap": "'longest', 'taller'처럼 크기를 말하는 표현이 사진의 구도와 관련 있다고 착각하기 쉽습니다.",
+    "tip": "각 문장이 '사진 잘 찍는 요령'을 뒷받침하는지 확인하세요."
+  },
+  {
+    "id": "m2b-17-36",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "In 1914, the explorer Ernest Shackleton set sail for Antarctica with a crew of twenty-seven men. Their goal was to cross the frozen continent on foot, which no one had ever done.\n(A) However, before they could land, their ship, the Endurance, was trapped in thick ice and slowly crushed.\n(B) Finally, Shackleton and five men sailed an open boat across the stormy ocean to find help. Thanks to them, every member of the crew was rescued.\n(C) The men escaped onto the ice, and for months they lived in tents, waiting for the ice to break.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "1914년 탐험가 어니스트 섀클턴은 스물일곱 명의 대원과 함께 남극을 향해 출항했다. 그들의 목표는 아무도 해 본 적 없는 얼어붙은 대륙을 걸어서 횡단하는 것이었다. (A) 그러나 그들이 상륙하기도 전에 배 인듀어런스호가 두꺼운 얼음에 갇혀 서서히 부서졌다. (C) 대원들은 얼음 위로 탈출했고 몇 달 동안 얼음이 깨지기를 기다리며 텐트에서 지냈다. (B) 마침내 섀클턴과 다섯 명은 도움을 구하려고 열린 보트로 폭풍우 치는 바다를 건넜다. 그들 덕분에 모든 대원이 구조되었다.",
+    "why": "(A) 'However'로 배가 얼음에 갇힘 → (C) 'The men'으로 얼음 위 생활 → (B) 'Finally'로 구조 순서입니다.",
+    "optionNotes": [
+      "정답. 배가 갇힘 → 얼음 위 생활 → 구조.",
+      "(B)의 'Finally'가 먼저 나올 수 없습니다.",
+      "(B)의 'Finally'가 가장 먼저 나올 수 없습니다.",
+      "(C)의 'The men escaped'가 가리킬 사건(배가 부서짐)이 앞에 없습니다.",
+      "(C)가 먼저 오면 왜 탈출했는지 알 수 없습니다."
+    ],
+    "trap": "(C)의 'escaped onto the ice'는 (A)에서 배가 부서진 상황을 전제로 합니다.",
+    "tip": "However → The men → Finally의 사건 순서와 연결어를 따라가세요."
+  },
+  {
+    "id": "m2b-17-37",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Have you ever wondered why your fingers become wrinkled after a long bath? For a long time, people believed that the skin simply absorbed water and swelled.\n(A) These wrinkles may have helped our ancestors hold wet objects, because they work like the treads of a tire.\n(B) However, scientists found that wrinkles are caused by the nerves, not by the water. The nerves tell the blood vessels in the fingers to become narrower, and the skin shrinks into wrinkles.\n(C) In one experiment, people with wrinkled fingers picked up wet marbles faster than those with smooth fingers.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 1,
+    "translation": "오래 목욕한 뒤 손가락이 쭈글쭈글해지는 이유가 궁금했던 적이 있는가? 오랫동안 사람들은 피부가 단지 물을 흡수해서 부푼다고 믿었다. (B) 그러나 과학자들은 주름이 물이 아니라 신경 때문에 생긴다는 것을 발견했다. 신경이 손가락의 혈관에 좁아지라고 알리고 피부는 쪼그라들어 주름이 된다. (A) 이 주름은 타이어의 홈처럼 작용하기 때문에 우리 조상이 젖은 물체를 잡는 데 도움이 되었을 수 있다. (C) 한 실험에서 손가락이 쭈글쭈글한 사람들은 매끈한 사람들보다 젖은 구슬을 더 빨리 집어 올렸다.",
+    "why": "(B) 'However'로 통념을 반박하며 원인 설명 → (A) 'These wrinkles'로 쓸모 → (C) 'In one experiment'로 증거 순서입니다.",
+    "optionNotes": [
+      "(A)의 'These wrinkles'가 가리킬 설명이 앞에 없습니다.",
+      "정답. 반박 → 쓸모 → 실험 증거.",
+      "(C)의 실험이 쓸모를 설명하기 전에 나오면 흐름이 어색합니다.",
+      "(C)의 실험이 먼저 오면 주름의 의미가 설명되지 않았습니다.",
+      "(C)가 먼저 오면 'wrinkled fingers'의 원인이 설명되지 않았습니다."
+    ],
+    "trap": "(A)의 'These wrinkles'는 (B)에서 설명한 주름을 가리킵니다.",
+    "tip": "However → These wrinkles → In one experiment의 흐름과 지시어를 확인하세요."
+  },
+  {
+    "id": "m2b-17-38",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nOur eyes are not as reliable as we think.\n\n[글]\n( ① ) For example, when two lines of the same length are drawn with arrows at their ends, one of them looks longer. ( ② ) In another famous test, viewers who were counting basketball passes failed to notice a person in a gorilla suit walking across the screen. ( ③ ) Our brain fills in missing information with past experience, and sometimes it fills it in wrongly. ( ④ ) For this reason, eyewitnesses can honestly remember things that never happened. ( ⑤ ) Knowing this can make us more careful about what we think we saw.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "[주어진 문장] 우리 눈은 우리가 생각하는 만큼 믿을 만하지 않다. [글] 예를 들어 같은 길이의 두 선 끝에 화살표를 그리면 하나가 더 길어 보인다. 또 다른 유명한 실험에서 농구 패스를 세던 관람객들은 고릴라 옷을 입은 사람이 화면을 가로질러 걷는 것을 알아채지 못했다. 우리 뇌는 부족한 정보를 과거 경험으로 채우고 때로는 잘못 채운다. 이 때문에 목격자는 일어나지 않은 일을 진심으로 기억할 수 있다. 이것을 알면 우리가 봤다고 생각하는 것에 더 신중해질 수 있다.",
+    "why": "'For example'로 시작하는 구체적 사례들 앞에 일반적인 주제문이 먼저 와야 하므로 ①에 들어갑니다.",
+    "optionNotes": [
+      "정답. 사례들 앞에 일반적인 주제문이 옵니다.",
+      "'For example'로 시작한 사례 뒤에 주제문이 오면 어색합니다.",
+      "뇌에 관한 설명 사이에 오면 흐름이 끊깁니다.",
+      "결론('For this reason') 앞에 오면 어색합니다.",
+      "마지막에 오면 결론 뒤라 어색합니다."
+    ],
+    "trap": "'For example'은 앞에 일반적인 진술이 있어야 쓸 수 있습니다.",
+    "tip": "For example로 시작하는 첫 문장 앞에는 주제문이 놓입니다."
+  },
+  {
+    "id": "m2b-17-39",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nAs a result, the village now has clean water all year.\n\n[글]\n( ① ) A small village in Kenya had no clean water for years, and children often got sick. ( ② ) In 2018, volunteers helped the villagers build a well and a small water tank. ( ③ ) Girls, who used to spend hours carrying water, can now go to school every day. ( ④ ) The villagers also started a small vegetable garden using the extra water. ( ⑤ ) Their story inspired neighboring villages to build their own wells.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 그 결과 마을에는 이제 일 년 내내 깨끗한 물이 있다. [글] 케냐의 한 작은 마을에는 몇 년 동안 깨끗한 물이 없었고 아이들이 자주 아팠다. 2018년에 자원봉사자들이 마을 사람들이 우물과 작은 물탱크를 짓도록 도왔다. 물을 나르느라 몇 시간을 쓰던 소녀들은 이제 매일 학교에 갈 수 있다. 마을 사람들은 여분의 물로 작은 채소밭도 시작했다. 그들의 이야기는 이웃 마을들이 자신들의 우물을 짓도록 영감을 주었다.",
+    "why": "우물과 물탱크를 지었다는 원인 뒤에 'As a result'로 깨끗한 물이 생겼다는 결과가 이어지므로 ③에 들어갑니다.",
+    "optionNotes": [
+      "원인(우물 건설)이 아직 나오지 않았습니다.",
+      "우물을 지었다는 원인을 말하는 문장 앞이라 결과가 이릅니다.",
+      "정답. 원인 뒤에 결과가 이어집니다.",
+      "결과가 이미 설명된 뒤라 어색합니다.",
+      "마지막에 오면 흐름이 끊깁니다."
+    ],
+    "trap": "'As a result'는 원인(우물을 지음)을 먼저 요구합니다.",
+    "tip": "As a result는 원인 직후에 놓입니다."
+  },
+  {
+    "id": "m2b-17-40",
+    "level": "m2",
+    "set": "mock-17",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Researchers in Japan studied how dogs and their owners affect each other. They found that when a dog gazed into its owner's eyes, the owner's level of a hormone called oxytocin rose. Oxytocin is known as the bonding hormone, because it is also released between mothers and their babies. Surprisingly, the dog's level rose, too. When owners gently talked to their dogs while looking at them, the effect was even stronger. The researchers explained that the shared eye contact creates a loop in which both partners produce more oxytocin, and this strengthens the bond between them. The same effect was not found in wolves raised by humans.\n\n▶ When dogs and owners look into each other's eyes, both (A) the hormone oxytocin, which (B) their bond.",
+    "options": [
+      "(A) produce more — (B) strengthens",
+      "(A) lose — (B) weakens",
+      "(A) avoid — (B) hides",
+      "(A) stop making — (B) completely breaks",
+      "(A) share equally — (B) cuts"
+    ],
+    "answer": 0,
+    "translation": "일본의 연구자들은 개와 주인이 서로에게 어떤 영향을 주는지 연구했다. 그들은 개가 주인의 눈을 바라볼 때 주인의 옥시토신이라는 호르몬 수치가 올라간다는 것을 발견했다. 옥시토신은 어머니와 아기 사이에서도 분비되기 때문에 유대 호르몬으로 알려져 있다. 놀랍게도 개의 수치도 올라갔다. 주인이 개를 바라보며 부드럽게 말을 걸자 효과는 더 강해졌다. 연구자들은 서로 눈을 맞추는 것이 두 파트너가 옥시토신을 더 많이 만드는 순환을 만들고 이것이 둘 사이의 유대를 강화한다고 설명했다. 같은 효과는 사람이 키운 늑대에게서는 발견되지 않았다. ▶ 개와 주인이 서로의 눈을 바라볼 때 둘 다 옥시토신 호르몬을 (A)하고, 이것은 그들의 유대를 (B)한다.",
+    "why": "눈을 맞추면 둘 다 옥시토신을 더 만들어 유대가 강해지므로 (A)는 produce more, (B)는 strengthens입니다.",
+    "optionNotes": [
+      "정답. 옥시토신을 더 만들고 유대를 강화합니다.",
+      "lose와 weakens는 글과 반대입니다.",
+      "avoid와 hides는 글에 나오지 않습니다.",
+      "stop making과 breaks는 글과 반대입니다.",
+      "share equally와 cuts는 글에 나오지 않습니다."
+    ],
+    "trap": "'wolves'에서 효과가 없었다는 마지막 문장을 개에게서도 효과가 없다는 뜻으로 오해하지 마세요.",
+    "tip": "요약문은 원인(눈 맞춤)과 결과(호르몬 증가와 유대 강화)를 짝지으세요."
+  }
+]
