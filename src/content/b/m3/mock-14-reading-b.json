@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m3b-14-29",
+    "level": "m3",
+    "set": "mock-14",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "The umbrella was invented about four thousand years ago, but originally it was used to protect people from the sun rather than the rain. In ancient China, Egypt, and India, only kings and nobles {1|were allowed} to carry them, because they were a symbol of power. Later, the Chinese began to cover paper umbrellas with wax, {2|which} made them waterproof. Europe, however, did not accept the umbrella for a long time; men considered it a woman's accessory, and carrying one {3|was} regarded as embarrassing. This changed in the eighteenth century, when an English traveler named Jonas Hanway began to carry an umbrella through the streets of London in all kinds of weather. At first, people laughed at him, but gradually they realized {4|how} useful the umbrella was. Today, millions of umbrellas {5|sells} every year around the world, and they come in countless colors and shapes.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "우산은 약 사천 년 전에 발명되었지만 원래는 비가 아니라 햇빛으로부터 사람을 보호하려고 쓰였다. 고대 중국, 이집트, 인도에서는 우산이 권력의 상징이었기 때문에 왕과 귀족만 들고 다닐 수 있었다. 나중에 중국인들은 종이 우산에 밀랍을 입혀 방수가 되게 했다. 그러나 유럽은 오랫동안 우산을 받아들이지 않았다. 남자들은 우산을 여자의 장신구로 여겼고 우산을 들고 다니는 것은 창피한 일로 여겨졌다. 이는 18세기에 영국 여행가 조너스 핸웨이가 날씨와 상관없이 런던 거리에서 우산을 들고 다니기 시작하면서 바뀌었다. 처음에 사람들은 그를 비웃었지만 점차 우산이 얼마나 유용한지 깨달았다. 오늘날 해마다 전 세계에서 수백만 개의 우산이 팔리며 셀 수 없이 다양한 색과 모양이 있다.",
+    "why": "우산은 '팔리는' 대상이므로 수동태 'are sold'여야 하며 'sells'는 틀렸습니다.",
+    "optionNotes": [
+      "수동태 were allowed입니다.",
+      "앞 절을 부연하는 계속적 용법의 which입니다.",
+      "주어 carrying one에 맞는 단수 수동태 was입니다.",
+      "realized의 목적어절을 이끄는 how입니다.",
+      "정답(틀린 것). 우산이 팔리는 것이므로 are sold여야 합니다."
+    ],
+    "trap": "능동과 수동을 구분하지 않고 동사를 쓰면 틀리기 쉽습니다.",
+    "tip": "주어가 동작의 대상이면 수동태(be + p.p.)를 씁니다."
+  },
+  {
+    "id": "m3b-14-30",
+    "level": "m3",
+    "set": "mock-14",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "The teenage brain is still developing. Scientists have found that the part of the brain that controls {1|planning} and self-control matures last, usually in the mid-twenties. Because of this, teenagers tend to {2|avoid} risks more than adults and may make decisions without thinking about the consequences. At the same time, the reward system of the brain is very {3|active} during adolescence, which makes new experiences and friends' approval especially exciting. This is not a flaw; it helps teenagers to explore the world and become {4|independent}. Adults can support teenagers by giving them clear rules, safe chances to try new things, and patient {5|guidance}. Understanding this helps parents and teachers respond with patience instead of anger.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "십대의 뇌는 아직 발달 중이다. 과학자들은 계획과 자제를 관장하는 뇌 부분이 보통 이십 대 중반에 가장 늦게 성숙한다는 것을 발견했다. 이 때문에 십대는 어른보다 위험을 더 감수하는 경향이 있고 결과를 생각하지 않고 결정을 내릴 수 있다. 동시에 청소년기에는 뇌의 보상 체계가 매우 활발해서 새로운 경험과 친구들의 인정이 특히 흥미진진하다. 이는 결함이 아니며 십대가 세상을 탐험하고 독립적이 되도록 돕는다. 어른들은 분명한 규칙, 새로운 것을 시도할 안전한 기회, 인내심 있는 지도를 주어 십대를 도울 수 있다. 이를 이해하면 부모와 교사가 화내는 대신 인내심을 갖고 대응하는 데 도움이 된다.",
+    "why": "결과를 생각하지 않고 결정을 내린다는 흐름이므로 위험을 '피하는(avoid)' 것이 아니라 '감수하는(take)' 경향이어야 합니다.",
+    "optionNotes": [
+      "계획을 관장한다는 의미로 planning이 알맞습니다.",
+      "정답(부적절). 결과를 생각하지 않는다는 흐름에는 take여야 합니다.",
+      "보상 체계가 활발하다는 의미로 active가 알맞습니다.",
+      "독립적이 된다는 의미로 independent가 알맞습니다.",
+      "인내심 있는 지도라는 의미로 guidance가 알맞습니다."
+    ],
+    "trap": "'tend to ... risks' 뒤의 'without thinking about the consequences'와의 호응을 놓치기 쉽습니다.",
+    "tip": "뒤 구절(결과를 생각하지 않고)과 낱말의 방향이 일치하는지 확인하세요."
+  },
+  {
+    "id": "m3b-14-31",
+    "level": "m3",
+    "set": "mock-14",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Have you ever bought something just because a store gave you a free sample? This is not an accident. In one study, restaurant customers who received a mint with their bill left bigger tips than those who did not. When the waiter gave two mints and said that the second one was a special gift, tips increased even more. Psychologists call this the rule of reciprocity: when someone does something nice for us, we feel a strong urge to return the favor. Even small gifts can create this feeling. The effect is strongest when the favor is unexpected. Marketers use this rule widely, from free samples to free trials. Understanding it helps us to recognize that our purchase may be driven by a feeling of __________.",
+    "options": [
+      "satisfaction with the price of the product",
+      "curiosity about how the item was made",
+      "fear that the product will soon be sold out",
+      "obligation to repay a kindness",
+      "pride in making a smart decision alone"
+    ],
+    "answer": 3,
+    "translation": "가게가 무료 샘플을 줬다는 이유만으로 무언가를 산 적이 있는가? 이것은 우연이 아니다. 한 연구에서 계산서와 함께 박하사탕을 받은 식당 손님들은 받지 않은 손님들보다 더 많은 팁을 남겼다. 종업원이 박하사탕 두 개를 주면서 두 번째는 특별한 선물이라고 말하자 팁은 더욱 늘었다. 심리학자들은 이를 상호성의 규칙이라고 부른다. 누군가 우리에게 잘해 주면 우리는 호의를 갚고 싶은 강한 충동을 느낀다. 작은 선물도 이런 느낌을 만들 수 있다. 그 효과는 호의가 뜻밖일 때 가장 강하다. 마케터들은 무료 샘플에서 무료 체험까지 이 규칙을 널리 이용한다. 이를 이해하면 우리의 구매가 친절을 갚아야 한다는 의무감에 이끌린 것일 수 있음을 알아차리는 데 도움이 된다.",
+    "why": "호의를 받으면 갚고 싶은 충동을 느끼는 상호성의 규칙이므로 구매는 친절을 갚아야 한다는 의무감에서 비롯될 수 있습니다.",
+    "optionNotes": [
+      "가격 만족은 나오지 않습니다.",
+      "제작 방식에 대한 호기심은 나오지 않습니다.",
+      "품절 걱정은 나오지 않습니다.",
+      "정답. 친절을 갚아야 한다는 의무감입니다.",
+      "혼자 결정했다는 자부심은 글과 맞지 않습니다."
+    ],
+    "trap": "'free sample'을 가격 만족(①)과 연결하지 마세요.",
+    "tip": "rule of reciprocity의 정의(return the favor)가 빈칸의 직접적 단서입니다."
+  },
+  {
+    "id": "m3b-14-32",
+    "level": "m3",
+    "set": "mock-14",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many people believe that students learn best when teaching matches their learning style, such as visual, auditory, or kinesthetic. Surveys show that more than ninety percent of teachers agree with this idea. However, careful experiments have not supported it. Many schools still organize lessons by learning styles. Teachers who understand the evidence can choose better methods. In one study, students who were taught using their preferred style did not perform better than those who were taught in another style. What matters more is that the method suits the material. For example, geometry is best learned with diagrams, no matter whether a student calls himself a visual learner or not. Music, on the other hand, must be heard. Therefore, effective teaching should be based on __________.",
+    "options": [
+      "the personal taste of each individual student",
+      "the length of the class and the school year",
+      "the nature of what is being taught",
+      "the number of students sitting in the classroom",
+      "the age and height of the teacher at school"
+    ],
+    "answer": 2,
+    "translation": "많은 사람은 시각형, 청각형, 체험형 같은 학습 유형에 맞춰 가르칠 때 학생이 가장 잘 배운다고 믿는다. 조사에 따르면 교사의 90퍼센트가 넘는 사람이 이 생각에 동의한다. 그러나 주의 깊은 실험은 이를 뒷받침하지 않았다. 많은 학교가 여전히 학습 유형에 따라 수업을 구성한다. 증거를 이해하는 교사는 더 나은 방법을 고를 수 있다. 한 연구에서 자신이 선호하는 유형으로 배운 학생들은 다른 유형으로 배운 학생들보다 더 잘하지 못했다. 더 중요한 것은 방법이 내용에 맞는다는 것이다. 예를 들어 기하는 학생이 자신을 시각형이라고 부르든 아니든 도형으로 배울 때 가장 잘 배운다. 반면 음악은 들어야 한다. 그러므로 효과적인 교육은 가르치는 내용의 성격에 바탕을 두어야 한다.",
+    "why": "학습 유형이 아니라 방법이 내용에 맞는 것이 더 중요하므로 효과적인 교육은 가르치는 내용의 성격에 바탕을 둡니다.",
+    "optionNotes": [
+      "학생의 개인 취향은 글이 반박합니다.",
+      "수업 길이는 나오지 않습니다.",
+      "정답. 가르치는 내용의 성격입니다.",
+      "학생 수는 나오지 않습니다.",
+      "교사의 나이와 키는 나오지 않습니다."
+    ],
+    "trap": "첫 문장의 통념(학습 유형에 맞추기)을 결론으로 착각하지 마세요.",
+    "tip": "What matters more is ~ 뒤의 문장이 빈칸의 직접적 단서입니다."
+  },
+  {
+    "id": "m3b-14-33",
+    "level": "m3",
+    "set": "mock-14",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In a famous experiment, people were asked to spin a wheel that was secretly set to stop at either ten or sixty-five. Then they were asked to estimate the percentage of African countries in the United Nations. Those who saw sixty-five gave much higher answers than those who saw ten, even though the number from the wheel had nothing to do with the question. Psychologists call this the anchoring effect: the first number we hear influences the judgments that follow. Sellers use it by showing a high original price before a discount, so that the discounted price seems like a bargain. The effect appeared even among experts such as real estate agents. This shows that our estimates are easily influenced by __________.",
+    "options": [
+      "irrelevant numbers that we happen to see first",
+      "the true facts that we have carefully learned at school",
+      "the opinions of the people around us at home",
+      "the weather and temperature in the room",
+      "the time of day when the question is asked"
+    ],
+    "answer": 0,
+    "translation": "한 유명한 실험에서 사람들은 몰래 10이나 65에서 멈추도록 설정된 룰렛을 돌리게 했다. 그다음 유엔 가입국 중 아프리카 국가의 비율을 추정하게 했다. 65를 본 사람들은 룰렛의 숫자가 질문과 아무 관련이 없는데도 10을 본 사람들보다 훨씬 높은 답을 내놓았다. 심리학자들은 이를 닻 내림 효과라고 부른다. 우리가 처음 듣는 숫자가 뒤따르는 판단에 영향을 준다. 판매자들은 할인 전에 높은 원래 가격을 보여 주어 할인가가 싸게 보이게 하는 방식으로 이를 이용한다. 이 효과는 부동산 중개인 같은 전문가들 사이에서도 나타났다. 이는 우리의 추정이 우연히 먼저 본 관련 없는 숫자에 쉽게 영향을 받음을 보여 준다.",
+    "why": "룰렛의 숫자는 질문과 관련이 없었는데도 답에 영향을 주었으므로 추정은 우연히 먼저 본 관련 없는 숫자에 영향을 받습니다.",
+    "optionNotes": [
+      "정답. 우연히 먼저 본 관련 없는 숫자입니다.",
+      "학교에서 배운 사실은 영향을 준 요소가 아닙니다.",
+      "주변 사람의 의견은 나오지 않습니다.",
+      "날씨와 온도는 나오지 않습니다.",
+      "질문 시간대는 나오지 않습니다."
+    ],
+    "trap": "'had nothing to do with the question'을 놓치고 실험 결과를 사실 지식 차이로 오해하지 마세요.",
+    "tip": "anchoring effect의 정의(the first number influences)가 빈칸의 단서입니다."
+  },
+  {
+    "id": "m3b-14-34",
+    "level": "m3",
+    "set": "mock-14",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Robots that look almost human can be disturbing. In the 1970s, a Japanese engineer made an interesting proposal. As a robot becomes more similar to a human, people feel more positive toward it, until a certain point at which it suddenly feels strange and unpleasant. He called this the uncanny valley. Small differences, such as stiff movements or lifeless eyes, make us notice that something is wrong. In experiments, people described very realistic robot faces as creepy, but they described cute and simple robot faces as friendly. This is why many designers choose cartoon-like shapes instead of realistic faces. Researchers continue to study this reaction, and the idea is still widely discussed today. Our reaction suggests that a robot that is almost, but not exactly, human can make us feel __________.",
+    "options": [
+      "relaxed because it looks cheerful",
+      "excited about buying one soon",
+      "sleepy during the daytime",
+      "uneasy because tiny differences from real humans become noticeable",
+      "angry at the engineer who built it"
+    ],
+    "answer": 3,
+    "translation": "거의 사람처럼 보이는 로봇은 불안하게 만들 수 있다. 1970년대에 한 일본 기술자는 흥미로운 제안을 했다. 로봇이 사람과 더 비슷해질수록 사람들이 더 긍정적으로 느끼다가 어느 지점에서 갑자기 낯설고 불쾌하게 느낀다고 제안했다. 그는 이를 불쾌한 골짜기라고 불렀다. 뻣뻣한 움직임이나 생기 없는 눈 같은 작은 차이가 무언가 잘못되었음을 알아채게 한다. 실험에서 사람들은 매우 사실적인 로봇 얼굴을 섬뜩하다고 표현했지만 귀엽고 단순한 로봇 얼굴은 친근하다고 표현했다. 이 때문에 많은 설계자는 사실적인 얼굴 대신 만화 같은 모양을 고른다. 연구자들은 이 반응을 계속 연구하고 있으며 이 개념은 오늘날에도 널리 논의된다. 이런 반응은 거의 사람 같지만 정확히는 아닌 로봇이 실제 사람과의 작은 차이가 눈에 띄어 불안하게 느끼게 할 수 있음을 시사한다.",
+    "why": "사람과 거의 같지만 작은 차이가 눈에 띄면 낯설고 불쾌해지므로 실제 사람과의 작은 차이가 눈에 띄어 불안하게 느끼게 합니다.",
+    "optionNotes": [
+      "편안함은 글과 반대입니다.",
+      "구입에 대한 들뜸은 나오지 않습니다.",
+      "졸음은 나오지 않습니다.",
+      "정답. 작은 차이가 눈에 띄어 불안해집니다.",
+      "기술자에 대한 화남은 나오지 않습니다."
+    ],
+    "trap": "'cute and simple robot faces'를 사실적 로봇의 반응으로 오해하지 마세요.",
+    "tip": "uncanny valley의 정의(strange and unpleasant)가 빈칸의 단서입니다."
+  },
+  {
+    "id": "m3b-14-35",
+    "level": "m3",
+    "set": "mock-14",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Cycling to school has several advantages for students. ① It provides regular exercise, which helps students to stay healthy and to concentrate better in class. ② The first modern bicycle with pedals was invented in France in the 1860s. ③ Cycling also saves money, since students do not need to pay bus fares or buy fuel. ④ In addition, it reduces traffic and air pollution around schools in the morning. ⑤ For these reasons, many schools now provide safe bicycle parking and encourage students to ride.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "자전거로 등교하는 것은 학생에게 여러 이점이 있다. ① 규칙적인 운동이 되어 학생들이 건강을 유지하고 수업 중 더 잘 집중하도록 돕는다. ② 페달이 달린 최초의 현대식 자전거는 1860년대 프랑스에서 발명되었다. ③ 자전거를 타면 학생들이 버스 요금을 내거나 연료를 살 필요가 없어서 돈도 아낀다. ④ 게다가 아침에 학교 주변의 교통량과 대기 오염을 줄인다. ⑤ 이런 이유로 많은 학교가 안전한 자전거 주차장을 제공하고 학생들이 타도록 장려한다.",
+    "why": "글은 자전거 등교의 이점을 이야기하는데 ②는 자전거 발명의 역사로 관계가 없습니다.",
+    "optionNotes": [
+      "건강과 집중이라는 이점입니다.",
+      "정답(무관). 자전거 발명 역사 이야기입니다.",
+      "비용 절약이라는 이점입니다.",
+      "교통과 오염 감소라는 이점입니다.",
+      "결론 문장입니다."
+    ],
+    "trap": "'bicycle'이라는 같은 소재 때문에 관련 있다고 착각하기 쉽습니다.",
+    "tip": "주제(자전거 등교의 이점)를 직접 뒷받침하지 않는 문장을 고르세요."
+  },
+  {
+    "id": "m3b-14-36",
+    "level": "m3",
+    "set": "mock-14",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "In 1969, humans landed on the moon for the first time. Millions of people watched the event on television. Many people around the world stayed up late to see it. The mission was the result of years of work by thousands of people.\n(A) They also set up scientific instruments and left a plaque with a message of peace for all of humankind. The instruments measured moonquakes and the distance between the Earth and the moon.\n(B) The astronauts of Apollo 11 spent about two and a half hours walking on the surface and collecting rocks and soil. One of them, Neil Armstrong, was the first person to step onto the surface.\n(C) Four days after the landing, they returned safely to Earth, and the world celebrated their success.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 1,
+    "translation": "1969년 인류는 처음으로 달에 착륙했다. 수백만 명이 그 사건을 텔레비전으로 지켜보았다. 세계 곳곳의 많은 사람이 그것을 보려고 밤늦게까지 깨어 있었다. 그 임무는 수천 명이 여러 해 동안 일한 결과였다. (B) 아폴로 11호의 우주비행사들은 약 두 시간 반 동안 표면을 걸으며 암석과 흙을 모았다. 그중 닐 암스트롱은 달 표면에 발을 디딘 최초의 인물이었다. (A) 그들은 또한 과학 장비를 설치하고 모든 인류를 위한 평화의 메시지가 담긴 명판을 남겼다. 이 장비는 월진과 지구와 달 사이의 거리를 측정했다. (C) 착륙 나흘 뒤 그들은 안전하게 지구로 돌아왔고 세계는 그들의 성공을 축하했다.",
+    "why": "(B) 달 표면 활동 소개 → (A) 'also'로 추가 활동 → (C) 'Four days after the landing'으로 귀환 순서입니다.",
+    "optionNotes": [
+      "(A)의 'They also'가 가리킬 앞 활동이 없습니다.",
+      "정답. 활동 → 추가 활동 → 귀환.",
+      "(C)의 귀환이 활동 설명 전에 나옵니다.",
+      "(C)가 가장 먼저 오면 'the landing' 뒤의 활동이 빠집니다.",
+      "(C)가 가장 먼저 오면 활동이 귀환 뒤에 나와 어긋납니다."
+    ],
+    "trap": "(A)의 'They also'는 (B)의 활동에 더하는 표현입니다.",
+    "tip": "also, Four days after 같은 첨가·시간 표현을 확인하세요."
+  },
+  {
+    "id": "m3b-14-37",
+    "level": "m3",
+    "set": "mock-14",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Coffee is one of the most popular drinks in the world, and billions of cups are consumed every day. According to a legend, its discovery began with a goat herder in Ethiopia more than a thousand years ago. Today, farmers grow coffee in more than seventy countries.\n(A) He noticed that his goats became unusually lively after eating the red berries of a certain plant. The goats jumped around and did not sleep all night.\n(B) The monks made a drink from the berries to stay awake during their evening prayers, and the habit gradually spread across the world.\n(C) Curious, he tried the berries himself and felt full of energy and surprised by how awake he felt, so he told the local monks about them.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "커피는 세계에서 가장 인기 있는 음료 중 하나이며 매일 수십억 잔이 소비된다. 전설에 따르면 그 발견은 천 년도 더 전에 에티오피아의 한 염소지기에서 시작되었다. 오늘날 농부들은 칠십 개국이 넘는 나라에서 커피를 재배한다. (A) 그는 염소들이 어떤 식물의 붉은 열매를 먹은 뒤 유난히 활발해진다는 것을 알아챘다. 염소들은 뛰어다니며 밤새 자지 않았다. (C) 호기심이 생긴 그는 직접 열매를 먹어 보았고 기운이 넘치고 얼마나 말똥말똥한지 놀라 지역 수도사들에게 그것에 대해 알렸다. (B) 수도사들은 저녁 기도 중 깨어 있으려고 그 열매로 음료를 만들었고 그 습관은 점차 전 세계로 퍼졌다.",
+    "why": "(A) 염소지기가 발견함 → (C) 'Curious'로 직접 먹어 봄 → (B) 'The monks'로 확산 순서입니다.",
+    "optionNotes": [
+      "정답. 발견 → 직접 시도 → 확산.",
+      "(B)의 'The monks'가 가리킬 대상이 앞에 없습니다.",
+      "(B)가 먼저 오면 수도사가 먼저 나와 흐름이 어긋납니다.",
+      "(C)의 'he'가 가리킬 인물이 (A) 없이 불분명합니다.",
+      "(C)가 먼저 오면 'the berries'의 설명이 빠집니다."
+    ],
+    "trap": "(C)의 'the berries'는 (A)의 붉은 열매를 가리킵니다.",
+    "tip": "he, the berries, The monks 같은 지시어가 가리키는 앞 내용을 확인하세요."
+  },
+  {
+    "id": "m3b-14-38",
+    "level": "m3",
+    "set": "mock-14",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nHowever, he did not give up and kept trying.\n\n[글]\n( ① ) Thomas opened a small bakery after leaving his job at a bank, because baking had always been his dream. ( ② ) His first loaves were too hard, and customers stopped coming to his shop after a few weeks. ( ③ ) He studied recipes every night and asked experienced bakers for advice. ( ④ ) After a year, his bread became so soft and tasty that people lined up outside his shop in the morning. ( ⑤ ) Today, he runs three bakeries in town and teaches young bakers.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 그러나 그는 포기하지 않고 계속 시도했다. [글] 토머스는 빵 굽기가 늘 꿈이었기 때문에 은행 일을 그만두고 작은 빵집을 열었다. 그의 첫 빵은 너무 딱딱했고 손님들은 몇 주 뒤 가게에 오지 않게 되었다. 그는 매일 밤 요리법을 공부하고 경험 많은 제빵사에게 조언을 구했다. 일 년 뒤 그의 빵은 너무 부드럽고 맛있어서 사람들이 아침마다 가게 밖에 줄을 섰다. 오늘날 그는 마을에서 빵집 세 곳을 운영하며 젊은 제빵사들을 가르친다.",
+    "why": "실패를 설명한 뒤 'However'로 반전하고, 곧이어 그가 노력한 내용이 나오므로 ③에 들어갑니다.",
+    "optionNotes": [
+      "'However'가 뒤집을 앞 내용(실패)이 아직 없습니다.",
+      "실패를 설명하는 문장 앞이라 반전이 이릅니다.",
+      "정답. 실패 뒤 반전, 이어서 노력이 나옵니다.",
+      "노력의 구체적 내용이 나온 뒤라 반전이 늦습니다.",
+      "결과를 모두 설명한 뒤라 어색합니다."
+    ],
+    "trap": "'kept trying'이 ③의 'He studied recipes'로 이어진다는 점을 놓치지 마세요.",
+    "tip": "However는 부정적 내용 뒤, 극복 노력 앞에 놓입니다."
+  },
+  {
+    "id": "m3b-14-39",
+    "level": "m3",
+    "set": "mock-14",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThanks to this education, the number of accidents involving children fell by half.\n\n[글]\n( ① ) Every year, many children were injured in traffic accidents near the elementary school in Sunrise Town. ( ② ) The principal asked police officers to visit the school and teach road safety. ( ③ ) Students learned how to cross the street and how to behave near buses. ( ④ ) Volunteers also stood at the crosswalks every morning to guide the children. ( ⑤ ) Parents say that they now feel much safer when their children walk to school.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "[주어진 문장] 이 교육 덕분에 어린이가 관련된 사고 건수는 절반으로 줄었다. [글] 해마다 선라이즈 마을의 초등학교 근처에서 많은 어린이가 교통사고로 다쳤다. 교장은 경찰관들에게 학교를 방문해 교통 안전을 가르쳐 달라고 요청했다. 학생들은 길을 건너는 법과 버스 근처에서 행동하는 법을 배웠다. 자원봉사자들도 매일 아침 횡단보도에 서서 아이들을 안내했다. 학부모들은 이제 아이들이 걸어서 등교할 때 훨씬 안전하게 느낀다고 말한다.",
+    "why": "교육과 안내 활동을 모두 설명한 뒤 'this education'으로 결과를 말하고, 이어서 학부모의 반응이 나오므로 ⑤에 들어갑니다.",
+    "optionNotes": [
+      "'this education'이 가리킬 교육이 아직 나오지 않았습니다.",
+      "교육을 요청하는 단계라 결과가 이릅니다.",
+      "교육 내용을 설명하는 단계라 결과가 이릅니다.",
+      "봉사자 설명 직전에 결과가 나오면 흐름이 어긋납니다.",
+      "정답. 모든 노력을 설명한 뒤 결과를 말하고 학부모 반응이 이어집니다."
+    ],
+    "trap": "'this education'은 ②③의 경찰 교육을 가리킵니다.",
+    "tip": "Thanks to this ~ 문장은 그 대상이 모두 설명된 뒤에 놓입니다."
+  },
+  {
+    "id": "m3b-14-40",
+    "level": "m3",
+    "set": "mock-14",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "The experiment lasted for two weeks in total. Researchers played French music on some days and German music on other days in the wine section of a supermarket. On the days when French music was playing, French wines made up seventy-seven percent of the wines sold, but on the days when German music was playing, German wines outsold French ones. When customers were asked afterward, most of them said that the music had not influenced their choice, and many did not even remember what kind of music had been playing. Shoppers were not asked about the music until they left the store. The researchers concluded that music can quietly shape our shopping decisions without our awareness.\n\n▶ (A) music in a store can quietly (B) what customers buy.",
+    "options": [
+      "(A) Extremely loud — (B) completely hide",
+      "(A) Background — (B) influence",
+      "(A) Sad — (B) stop",
+      "(A) Silent — (B) change",
+      "(A) Old — (B) predict"
+    ],
+    "answer": 1,
+    "translation": "실험은 모두 두 주 동안 진행되었다. 연구자들은 슈퍼마켓의 와인 코너에서 어떤 날은 프랑스 음악을, 다른 날은 독일 음악을 틀었다. 프랑스 음악이 나오던 날에는 팔린 와인의 77퍼센트가 프랑스 와인이었지만 독일 음악이 나오던 날에는 독일 와인이 프랑스 와인보다 더 많이 팔렸다. 나중에 고객들에게 물었을 때 대부분은 음악이 선택에 영향을 주지 않았다고 말했고 많은 사람은 어떤 음악이 나왔는지조차 기억하지 못했다. 쇼핑객들은 가게를 나갈 때까지 음악에 대해 질문받지 않았다. 연구자들은 음악이 우리도 모르는 사이에 쇼핑 결정을 은근히 좌우할 수 있다고 결론지었다. ▶ 매장의 (A) 음악은 고객이 무엇을 사는지를 은근히 (B)할 수 있다.",
+    "why": "배경 음악이 고객이 모르는 사이에 구매 선택에 영향을 주었으므로 (A)는 Background, (B)는 influence입니다.",
+    "optionNotes": [
+      "Extremely loud와 hide는 글에 나오지 않습니다.",
+      "정답. 배경 음악이 구매에 영향을 줍니다.",
+      "Sad와 stop은 글에 나오지 않습니다.",
+      "Silent는 음악이 없는 경우입니다.",
+      "Old와 predict는 글에 나오지 않습니다."
+    ],
+    "trap": "고객들이 영향을 부인한 말을 결과로 오해하지 마세요. 판매 데이터가 결과입니다.",
+    "tip": "요약문은 조건(배경 음악)과 결과(구매 선택에 영향)를 짝지으세요."
+  }
+]
