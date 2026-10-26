@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m2b-16-29",
+    "level": "m2",
+    "set": "mock-16",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Zebras are famous for their black and white stripes, and scientists have long wondered why they {1|have} them. One idea is that the stripes protect zebras from insects. Biting flies can carry diseases, but they {2|is} confused by the pattern and land less often on striped animals. Another idea is that stripes help zebras to stay cool, since the dark and light areas {3|create} small movements of air. Some scientists also believe that the pattern makes it harder for lions to pick out a single zebra from a moving group. Whatever the reason, every zebra has a {4|unique} pattern, just like human fingerprints. Baby zebras learn their mother's pattern {5|within} a few days of birth, so they can find her in a crowd.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "얼룩말은 검은색과 흰색 줄무늬로 유명하며 과학자들은 오랫동안 얼룩말이 왜 그것을 가지고 있는지 궁금해했다. 한 가지 생각은 줄무늬가 얼룩말을 곤충으로부터 보호한다는 것이다. 무는 파리는 병을 옮길 수 있지만 무늬에 혼란스러워해서 줄무늬 동물에게는 덜 자주 앉는다. 또 다른 생각은 어둡고 밝은 부분이 작은 공기 움직임을 만들어 줄무늬가 얼룩말의 몸을 시원하게 유지하도록 돕는다는 것이다. 일부 과학자들은 무늬가 사자가 움직이는 무리에서 한 마리를 골라내기 더 어렵게 만든다고도 믿는다. 이유가 무엇이든 모든 얼룩말은 사람의 지문처럼 고유한 무늬를 가지고 있다. 새끼 얼룩말은 태어난 지 며칠 안에 어미의 무늬를 배워서 무리 속에서 어미를 찾을 수 있다.",
+    "why": "주어 they(biting flies)는 복수이므로 is가 아니라 are여야 합니다.",
+    "optionNotes": [
+      "복수 주어 they에 맞는 동사원형 have입니다.",
+      "정답(틀린 것). 복수 주어 they에 맞춰 are여야 합니다.",
+      "복수 주어 areas에 맞는 동사원형 create입니다.",
+      "명사 pattern을 꾸미는 형용사 unique입니다.",
+      "기간을 나타내는 전치사 within입니다."
+    ],
+    "trap": "앞 절의 단수 명사 diseases/flies 때문에 복수·단수를 혼동하기 쉽습니다.",
+    "tip": "주어의 수(flies → they)를 먼저 확인하고 be동사를 일치시키세요."
+  },
+  {
+    "id": "m2b-16-30",
+    "level": "m2",
+    "set": "mock-16",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Every year, people around the world use hundreds of billions of plastic bottles. Most of them are thrown away, and some end up in the ocean, where they {1|harm} sea animals. Recycling can {2|reduce} this problem. When a bottle is recycled, it is cleaned, cut into small pieces, and melted. The melted plastic can become new bottles, bags, or even clothes. Recycling one bottle also saves energy, because making a new bottle from raw materials uses {3|more} energy than recycling. However, only a small part of all plastic is recycled today. To {4|decrease} the number of recycled bottles, we should separate them from other trash at home. If everyone makes this small effort, we can protect the {5|environment} together.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "해마다 전 세계 사람들은 수천억 개의 플라스틱 병을 쓴다. 그중 대부분은 버려지고 일부는 바다에 이르러 바다 동물에게 해를 끼친다. 재활용은 이 문제를 줄일 수 있다. 병이 재활용되면 씻고 작은 조각으로 자른 뒤 녹인다. 녹인 플라스틱은 새 병, 가방, 심지어 옷이 될 수 있다. 병 하나를 재활용하면 에너지도 절약되는데 원료로 새 병을 만드는 데는 재활용보다 더 많은 에너지가 들기 때문이다. 그러나 오늘날 모든 플라스틱 중 일부만 재활용된다. 재활용되는 병의 수를 줄이려면 집에서 병을 다른 쓰레기와 분리해야 한다. 모두가 이 작은 노력을 한다면 우리는 함께 환경을 지킬 수 있다.",
+    "why": "재활용을 늘리려고 병을 분리해야 하므로 재활용되는 병의 수를 '줄인다(decrease)'가 아니라 '늘린다(increase)'여야 합니다.",
+    "optionNotes": [
+      "바다 동물에게 해를 끼친다는 의미로 harm이 알맞습니다.",
+      "문제를 줄인다는 의미로 reduce가 알맞습니다.",
+      "새로 만들 때 에너지가 더 든다는 의미로 more가 알맞습니다.",
+      "정답(부적절). 병을 분리하는 목적은 재활용을 늘리는 것이므로 increase여야 합니다.",
+      "환경을 지킨다는 의미로 environment가 알맞습니다."
+    ],
+    "trap": "'we should separate them'이라는 행동의 목적 방향을 놓치기 쉽습니다.",
+    "tip": "행동(분리수거)의 목적과 동사의 방향이 일치하는지 확인하세요."
+  },
+  {
+    "id": "m2b-16-31",
+    "level": "m2",
+    "set": "mock-16",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Researchers have found that people who often read novels tend to understand other people's feelings better. When we read a story, we follow the characters' thoughts and emotions, and we imagine what it would be like to be in their place. This is similar to what we do in real life when we try to understand a friend. Psychologists call this ability empathy. Over time, the brain gets used to this kind of thinking, so readers become better at noticing how others feel. Readers of fiction often score higher on tests of empathy. In other words, reading stories can __________.",
+    "options": [
+      "train us to understand other people's feelings",
+      "make us forget our own feelings",
+      "keep us from talking to our friends",
+      "change the way that we write letters to friends",
+      "make books cheaper at the library"
+    ],
+    "answer": 0,
+    "translation": "연구자들은 소설을 자주 읽는 사람이 다른 사람의 감정을 더 잘 이해하는 경향이 있다는 것을 발견했다. 이야기를 읽을 때 우리는 등장인물의 생각과 감정을 따라가고 그들의 처지에 있다면 어떨지 상상한다. 이는 우리가 현실에서 친구를 이해하려 할 때 하는 것과 비슷하다. 심리학자들은 이 능력을 공감이라 부른다. 시간이 지나면서 뇌가 이런 사고에 익숙해져서 독자는 다른 사람이 어떻게 느끼는지 알아채는 데 더 능숙해진다. 소설 독자는 공감 검사에서 더 높은 점수를 받는 경우가 많다. 다시 말해 이야기를 읽는 것은 우리가 다른 사람의 감정을 이해하도록 훈련시킬 수 있다.",
+    "why": "소설을 읽으면 등장인물의 감정을 상상하는 사고에 익숙해져 다른 사람의 감정을 더 잘 이해하게 됩니다.",
+    "optionNotes": [
+      "정답. 다른 사람의 감정을 이해하도록 훈련시킵니다.",
+      "자신의 감정을 잊게 한다는 내용은 나오지 않습니다.",
+      "친구와 말하지 못하게 한다는 내용은 나오지 않습니다.",
+      "편지 쓰는 방식은 나오지 않습니다.",
+      "도서관 책 가격은 나오지 않습니다."
+    ],
+    "trap": "'books', 'friends' 같은 단어만 보고 도서관·편지(④⑤)와 연결하지 마세요.",
+    "tip": "앞 내용(감정을 상상하는 사고에 익숙해짐)을 일반화하면 빈칸이 나옵니다."
+  },
+  {
+    "id": "m2b-16-32",
+    "level": "m2",
+    "set": "mock-16",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many people think that summer is hot because the Earth is closer to the sun in that season. In fact, this is not true. The Earth is actually closest to the sun in January, when it is winter in the northern half of the world. The real reason for the seasons is the tilt of the Earth's axis. When the northern half is tilted toward the sun, the sunlight hits it more directly, and the days are longer, so it gets warmer. Six months later, the same half is tilted away from the sun, and it gets colder. So the seasons are caused by __________.",
+    "options": [
+      "the speed of the wind around the Earth",
+      "the changing distance between the Earth and the moon each month",
+      "the size of the sun in the sky",
+      "the number of clouds over the oceans",
+      "the angle at which the Earth is tilted toward the sun"
+    ],
+    "answer": 4,
+    "translation": "많은 사람은 여름에 지구가 태양에 더 가깝기 때문에 덥다고 생각한다. 사실 이는 사실이 아니다. 지구는 실제로 1월에 태양에 가장 가까우며 그때 북반구는 겨울이다. 계절의 진짜 이유는 지구 자전축의 기울기이다. 북반구가 태양 쪽으로 기울면 햇빛이 더 직접 닿고 낮이 더 길어서 더 따뜻해진다. 여섯 달 뒤 같은 반구는 태양에서 멀어지는 쪽으로 기울어 더 추워진다. 그래서 계절은 지구가 태양을 향해 기울어진 각도 때문에 생긴다.",
+    "why": "계절의 원인은 거리가 아니라 지구 자전축의 기울기이므로 태양을 향해 기울어진 각도입니다.",
+    "optionNotes": [
+      "바람의 속도는 나오지 않습니다.",
+      "달과의 거리는 나오지 않습니다.",
+      "태양의 크기는 나오지 않습니다.",
+      "구름의 수는 나오지 않습니다.",
+      "정답. 지구가 기울어진 각도 때문입니다."
+    ],
+    "trap": "첫 문장의 통념(태양과의 거리)을 정답으로 고르지 마세요.",
+    "tip": "'In fact', 'The real reason' 뒤에 필자의 결론이 나옵니다."
+  },
+  {
+    "id": "m2b-16-33",
+    "level": "m2",
+    "set": "mock-16",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "We often think that taste depends only on the tongue, but our eyes play a large part, too. In one experiment, people were given the same juice in two glasses. One juice was colored red, and the other was colored green. Most people said that the red juice tasted sweeter, even though both drinks were exactly the same. Restaurants know this and use colorful plates and bright garnishes to make dishes look more delicious. Chefs often spend a lot of time arranging the food on each plate. Our brain combines information from all senses, so what we see can strongly influence __________.",
+    "options": [
+      "how fast our food gets cold",
+      "the price of our meals at fancy restaurants",
+      "how tall we grow when we are young",
+      "the number of friends that we have",
+      "how we experience the taste of the food"
+    ],
+    "answer": 4,
+    "translation": "우리는 흔히 맛이 혀에만 달려 있다고 생각하지만 눈도 큰 역할을 한다. 한 실험에서 사람들은 같은 주스를 두 잔에 받았다. 한 주스는 빨갛게 물들였고 다른 주스는 초록으로 물들였다. 두 음료가 정확히 똑같았는데도 대부분의 사람은 빨간 주스가 더 달다고 말했다. 식당은 이를 알고 접시를 알록달록하게 쓰고 밝은 고명으로 음식이 더 맛있어 보이게 한다. 요리사들은 접시마다 음식을 배열하는 데 많은 시간을 쓰는 경우가 많다. 우리 뇌는 모든 감각의 정보를 결합하므로 우리가 보는 것은 음식의 맛을 경험하는 방식에 강하게 영향을 줄 수 있다.",
+    "why": "같은 주스도 색에 따라 맛이 다르게 느껴졌으므로 보는 것은 맛을 경험하는 방식에 영향을 줍니다.",
+    "optionNotes": [
+      "음식이 식는 속도는 나오지 않습니다.",
+      "식사 가격은 나오지 않습니다.",
+      "키 성장은 나오지 않습니다.",
+      "친구의 수는 나오지 않습니다.",
+      "정답. 맛을 경험하는 방식에 영향을 줍니다."
+    ],
+    "trap": "'restaurants'가 나온다고 식당 가격(②)과 연결하지 마세요.",
+    "tip": "실험 결과(색에 따라 맛이 달라짐)를 일반화하면 빈칸이 나옵니다."
+  },
+  {
+    "id": "m2b-16-34",
+    "level": "m2",
+    "set": "mock-16",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Ants are small, but together they can do amazing things. When an ant finds food, it leaves a trail of chemicals on the way back to the nest. Other ants follow this trail, and each one adds more chemicals, making the trail stronger. If the trail leads to a large piece of food, many ants carry it together. When a river blocks their way, some ants link their bodies to build a bridge for the others. No single ant plans these actions. Instead, each ant follows simple rules, and these rules help the whole group __________.",
+    "options": [
+      "compete with every other insect nearby",
+      "solve problems that one ant could not solve alone",
+      "sleep longer during the winter months",
+      "grow bigger than most of the other animals around them",
+      "avoid the light and stay under the ground"
+    ],
+    "answer": 1,
+    "translation": "개미는 작지만 함께하면 놀라운 일을 할 수 있다. 개미가 먹이를 찾으면 둥지로 돌아가는 길에 화학 물질의 흔적을 남긴다. 다른 개미들이 이 흔적을 따르고 각자 화학 물질을 더해 흔적을 더 강하게 만든다. 흔적이 큰 먹이로 이어지면 많은 개미가 함께 그것을 나른다. 강이 길을 막으면 일부 개미는 몸을 연결해 다른 개미들을 위한 다리를 만든다. 어떤 개미 한 마리도 이런 행동을 계획하지 않는다. 대신 각 개미는 간단한 규칙을 따르고 이 규칙은 집단 전체가 개미 한 마리가 혼자서는 풀 수 없는 문제를 풀도록 돕는다.",
+    "why": "먹이를 함께 나르고 다리를 만드는 등 한 마리로는 할 수 없는 일을 집단이 해내므로 혼자서는 풀 수 없는 문제를 풉니다.",
+    "optionNotes": [
+      "다른 곤충과 경쟁한다는 내용은 나오지 않습니다.",
+      "정답. 혼자서는 풀 수 없는 문제를 풉니다.",
+      "겨울잠은 나오지 않습니다.",
+      "크기는 나오지 않습니다.",
+      "땅속 생활은 나오지 않습니다."
+    ],
+    "trap": "'No single ant plans'를 개미가 아무 일도 못 한다는 뜻으로 오해하지 마세요.",
+    "tip": "예시(먹이 나르기, 다리 만들기)를 일반화하면 집단의 문제 해결이라는 결론이 나옵니다."
+  },
+  {
+    "id": "m2b-16-35",
+    "level": "m2",
+    "set": "mock-16",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Many students like to decorate their rooms with posters, but plants may be a better choice. Keeping a plant in your room has many benefits. ① The Great Wall of China is more than twenty thousand kilometers long. ② Plants take in carbon dioxide and give off oxygen, which makes the air fresher. ③ Caring for a plant every day also teaches children to be responsible. ④ Many people say that looking at green leaves helps them feel calm. ⑤ As a result, plants can make a room a more pleasant place to study.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "많은 학생이 포스터로 방을 꾸미기를 좋아하지만 식물이 더 나은 선택일 수 있다. 방에 식물을 두면 많은 이점이 있다. ① 만리장성은 길이가 이만 킬로미터가 넘는다. ② 식물은 이산화탄소를 흡수하고 산소를 내보내 공기를 더 신선하게 한다. ③ 매일 식물을 돌보는 것은 아이들에게 책임감도 가르친다. ④ 많은 사람은 초록 잎을 보면 마음이 차분해진다고 말한다. ⑤ 그 결과 식물은 방을 공부하기에 더 쾌적한 곳으로 만들 수 있다.",
+    "why": "글은 방에 식물을 두는 이점을 이야기하는데 ①은 만리장성의 길이에 관한 별개의 이야기입니다.",
+    "optionNotes": [
+      "정답(무관). 만리장성 이야기라 관계가 없습니다.",
+      "공기가 신선해지는 이점입니다.",
+      "책임감을 배우는 이점입니다.",
+      "마음이 차분해지는 이점입니다.",
+      "공부하기 쾌적해지는 이점입니다."
+    ],
+    "trap": "첫 문장 바로 뒤라서 소개 문장이라고 착각하기 쉽습니다.",
+    "tip": "각 문장이 '식물을 두는 이점'을 뒷받침하는지 확인하세요."
+  },
+  {
+    "id": "m2b-16-36",
+    "level": "m2",
+    "set": "mock-16",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "The sandwich is named after John Montagu, the Fourth Earl of Sandwich, who lived in England in the eighteenth century. He was a busy man with many hobbies.\n(A) One evening, he asked his servant to bring him some meat between two slices of bread. In this way, he could eat with one hand and keep playing.\n(B) Soon, other people at the party ordered \"the same as Sandwich,\" and the name spread to many countries.\n(C) He loved playing cards and often played for many hours without leaving the table, even at mealtimes.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 3,
+    "translation": "샌드위치는 18세기에 영국에 살았던 제4대 샌드위치 백작 존 몬터규의 이름에서 따온 것이다. 그는 취미가 많은 바쁜 사람이었다. (C) 그는 카드놀이를 매우 좋아해서 식사 시간에도 자리를 떠나지 않고 여러 시간 동안 하곤 했다. (A) 어느 날 저녁 그는 하인에게 빵 두 쪽 사이에 고기를 끼워 가져오게 했다. 이렇게 하면 한 손으로 먹으면서 계속 놀 수 있었다. (B) 곧 파티에 온 다른 사람들이 \"샌드위치와 같은 것으로\" 주문했고 그 이름은 여러 나라로 퍼졌다.",
+    "why": "(C) 카드놀이를 좋아함 → (A) 'One evening'에 한 손으로 먹을 음식을 부탁함 → (B) 'Soon'으로 이름이 퍼짐 순서입니다.",
+    "optionNotes": [
+      "(A)의 'he'와 카드놀이의 배경이 앞에 없습니다.",
+      "(B)의 'the same as Sandwich'가 가리킬 음식이 앞에 없습니다.",
+      "(B)가 먼저 오면 이름이 퍼지는 이유가 없습니다.",
+      "정답. 카드놀이 → 샌드위치 주문 → 이름이 퍼짐.",
+      "(B)가 (A)보다 먼저 올 수 없습니다."
+    ],
+    "trap": "(A)의 'keep playing'은 (C)의 카드놀이를 가리킵니다.",
+    "tip": "One evening → Soon의 시간 순서와 keep playing 같은 이어지는 단서를 확인하세요."
+  },
+  {
+    "id": "m2b-16-37",
+    "level": "m2",
+    "set": "mock-16",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Emperor penguins live in Antarctica, where the temperature can drop below minus forty degrees. The wind there is also very strong. Penguins cannot fly, and they have no place to hide from the weather.\n(A) Thanks to this teamwork, the whole group can stay warm even in the terrible cold and the strong wind.\n(B) To survive, they stand close together in a large group called a huddle. A huddle can include thousands of birds.\n(C) The penguins on the outside slowly move toward the center. Those in the middle move to the edge, so that everyone gets a turn to be warm.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 2,
+    "translation": "황제펭귄은 기온이 영하 40도 아래로 떨어질 수 있는 남극에 산다. 그곳의 바람도 매우 강하다. 펭귄은 날 수 없고 날씨를 피해 숨을 곳도 없다. (B) 살아남으려고 그들은 허들이라고 하는 큰 무리를 이루어 서로 가까이 붙어 선다. 허들에는 수천 마리가 있을 수 있다. (C) 바깥쪽의 펭귄은 천천히 가운데로 움직인다. 가운데에 있던 펭귄은 가장자리로 움직여서 모두가 따뜻할 차례를 갖는다. (A) 이 협동 덕분에 무리 전체는 끔찍한 추위와 강한 바람 속에서도 따뜻하게 지낼 수 있다.",
+    "why": "(B) 'To survive'로 무리 짓기 → (C) 'The penguins'로 자리 바꾸기 → (A) 'this teamwork'로 결과 순서입니다.",
+    "optionNotes": [
+      "(A)의 'this teamwork'가 가리킬 협동이 앞에 없습니다.",
+      "(A)가 (C)의 설명보다 먼저 올 수 없습니다.",
+      "정답. 무리 짓기 → 자리 바꾸기 → 결과.",
+      "(C)의 'The penguins'가 가리킬 무리 설명이 앞에 없습니다.",
+      "(C)가 먼저 오면 허들이 무엇인지 알 수 없습니다."
+    ],
+    "trap": "(A)의 'this teamwork'는 (C)의 자리 바꾸기를 가리킵니다.",
+    "tip": "To survive → The penguins → this teamwork의 흐름과 지시어를 확인하세요."
+  },
+  {
+    "id": "m2b-16-38",
+    "level": "m2",
+    "set": "mock-16",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nAs a result, the number of young visitors doubled within a year.\n\n[글]\n( ① ) Last year, a city museum made admission free for students under eighteen to attract more young people. ( ② ) Many of them came with their parents on weekends. ( ③ ) The museum also started special workshops for children on Saturday mornings. ( ④ ) These programs have been very popular with local families. ( ⑤ ) Now the museum plans to open a new exhibition hall next spring.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "[주어진 문장] 그 결과 한 해 만에 젊은 방문객 수가 두 배가 되었다. [글] 작년에 한 시립 박물관은 더 많은 젊은이를 끌려고 십팔 세 미만 학생의 입장을 무료로 했다. 그들 중 많은 이가 주말에 부모와 함께 왔다. 박물관은 토요일 오전에 어린이를 위한 특별 체험도 시작했다. 이 프로그램은 지역 가족에게 매우 인기가 있었다. 이제 박물관은 내년 봄에 새 전시관을 열 계획이다.",
+    "why": "무료 입장이라는 원인 뒤에 'As a result'로 방문객이 늘었다는 결과가 오고, 이어지는 'them'이 젊은 방문객을 가리키므로 ②에 들어갑니다.",
+    "optionNotes": [
+      "'As a result'가 이어질 원인이 아직 없습니다.",
+      "정답. 무료 입장의 결과로 방문객이 늘었고 'them'이 이어집니다.",
+      "'them'이 가리킬 방문객 설명 뒤에 와야 합니다.",
+      "프로그램 설명 뒤라 결과가 어색합니다.",
+      "마지막에 오면 흐름이 끊깁니다."
+    ],
+    "trap": "②의 'Many of them'이 주어진 문장의 young visitors를 가리킨다는 점을 놓치기 쉽습니다.",
+    "tip": "As a result는 원인 직후에, them 같은 대명사는 선행 명사 직후에 놓입니다."
+  },
+  {
+    "id": "m2b-16-39",
+    "level": "m2",
+    "set": "mock-16",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nSleep is not just a time when the body rests.\n\n[글]\n( ① ) For example, during sleep, the brain organizes what we learned during the day and stores it in memory. ( ② ) At the same time, the body repairs muscles and strengthens the immune system. ( ③ ) Children who sleep well also grow faster, because growth hormones are released at night. ( ④ ) For this reason, doctors say that teenagers need eight to ten hours of sleep. ( ⑤ ) Getting enough sleep is as important as eating well.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "[주어진 문장] 수면은 단지 몸이 쉬는 시간이 아니다. [글] 예를 들어 자는 동안 뇌는 낮에 배운 것을 정리해 기억에 저장한다. 동시에 몸은 근육을 회복하고 면역 체계를 강화한다. 잘 자는 아이는 밤에 성장 호르몬이 분비되기 때문에 더 빨리 자라기도 한다. 이런 이유로 의사들은 십대에게 여덟 시간에서 열 시간의 수면이 필요하다고 말한다. 충분히 자는 것은 잘 먹는 것만큼 중요하다.",
+    "why": "'For example'로 시작하는 구체적 사례들 앞에 주제문이 먼저 와야 하므로 ①에 들어갑니다.",
+    "optionNotes": [
+      "정답. 사례들 앞에 일반적인 주제문이 옵니다.",
+      "'For example'로 시작한 사례 뒤에 주제문이 오면 어색합니다.",
+      "성장 이야기 사이에 주제문이 오면 흐름이 끊깁니다.",
+      "결론('For this reason') 앞에 오면 어색합니다.",
+      "마지막에 오면 결론 뒤의 주제문이라 어색합니다."
+    ],
+    "trap": "'For example'은 앞에 일반적인 진술이 있어야 쓸 수 있습니다.",
+    "tip": "For example로 시작하는 문장 앞에는 일반적인 주제문이 먼저 놓입니다."
+  },
+  {
+    "id": "m2b-16-40",
+    "level": "m2",
+    "set": "mock-16",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A middle school built a small garden behind the gym, and students in the science club took care of it for one semester. They planted vegetables, watered them every morning, and wrote down how the plants changed each week. At the end of the semester, the school asked the students about their experience. Eighty percent of them said that science had become more fun for them. Their teachers noticed that they asked more questions in class, and their biology test scores rose by an average of ten points. Many students also said that they wanted to continue working in the garden next year.\n\n▶ Working in a school garden made students (A) in science and (B) their grades.",
+    "options": [
+      "(A) less interested — (B) lowered",
+      "(A) afraid — (B) forgot",
+      "(A) more interested — (B) improved",
+      "(A) less confident — (B) did not change",
+      "(A) tired — (B) avoided"
+    ],
+    "answer": 2,
+    "translation": "한 중학교가 체육관 뒤에 작은 정원을 만들었고 과학 동아리 학생들이 한 학기 동안 그것을 돌보았다. 그들은 채소를 심고 매일 아침 물을 주었으며 식물이 주마다 어떻게 변하는지 기록했다. 학기 말에 학교는 학생들에게 경험을 물었다. 그들 중 80퍼센트가 과학이 더 재미있어졌다고 말했다. 교사들은 그들이 수업에서 질문을 더 많이 한다는 것을 알아챘고 생물 시험 점수는 평균 10점 올랐다. 많은 학생이 내년에도 정원에서 계속 활동하고 싶다고 말했다. ▶ 학교 정원에서 활동한 것은 학생들이 과학에 (A)고 성적을 (B)하게 했다.",
+    "why": "정원 활동 후 과학이 더 재미있어지고 점수가 올랐으므로 (A)는 more interested, (B)는 improved입니다.",
+    "optionNotes": [
+      "less interested와 lowered는 글과 반대입니다.",
+      "afraid와 forgot은 글에 나오지 않습니다.",
+      "정답. 더 흥미를 느끼고 성적이 올랐습니다.",
+      "less confident와 did not change는 글과 반대입니다.",
+      "tired와 avoided는 글에 나오지 않습니다."
+    ],
+    "trap": "점수가 올랐다는 결과를 놓치고 변화 없음(④)을 고르지 마세요.",
+    "tip": "요약문은 활동(정원 가꾸기)과 결과(흥미와 성적 상승)를 짝지으세요."
+  }
+]
