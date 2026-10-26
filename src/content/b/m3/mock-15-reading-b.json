@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m3b-15-29",
+    "level": "m3",
+    "set": "mock-15",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "In spring and summer, leaves look green because they contain chlorophyll, a pigment {1|that} helps plants make food from sunlight. As autumn approaches and the days become shorter, trees stop producing chlorophyll. The green color slowly fades, {2|revealing} the yellow and orange pigments that were hidden underneath all along. Red leaves are a different story. Their color comes from a pigment called anthocyanin, {3|that} is produced only in autumn when sugar is trapped in the leaves. Some scientists believe that this pigment may protect the leaves from too much sunlight while the tree draws back its nutrients. Because the amount of sugar and the weather conditions differ from year to year, the colors of autumn leaves {4|are} never exactly the same. Bright, sunny days and cool nights tend to produce the most brilliant reds. Therefore, a beautiful autumn depends not only on the trees but also on {5|how} the weather behaves.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "봄과 여름에 잎이 초록으로 보이는 것은 햇빛으로 식물이 양분을 만들도록 돕는 색소인 엽록소가 들어 있기 때문이다. 가을이 다가오고 낮이 짧아지면 나무는 엽록소 생산을 멈춘다. 초록색이 서서히 사라지면서 줄곧 아래에 숨어 있던 노랑과 주황 색소가 드러난다. 빨간 잎은 사정이 다르다. 그 색은 안토시아닌이라는 색소에서 나오는데 이것은 잎에 당이 갇힐 때인 가을에만 만들어진다. 일부 과학자들은 이 색소가 나무가 영양분을 거둬들이는 동안 잎을 지나친 햇빛으로부터 보호할 수 있다고 믿는다. 당의 양과 날씨 조건이 해마다 다르기 때문에 가을 잎의 색은 결코 정확히 같지 않다. 화창한 낮과 서늘한 밤은 가장 선명한 빨강을 만드는 경향이 있다. 그러므로 아름다운 가을은 나무뿐 아니라 날씨가 어떻게 움직이는지에도 달려 있다.",
+    "why": "앞에 콤마가 있는 계속적 용법의 관계대명사로는 that을 쓸 수 없으므로 that이 아니라 which여야 합니다.",
+    "optionNotes": [
+      "제한적 용법의 관계대명사 that으로 올바릅니다.",
+      "분사구문 revealing으로 올바릅니다.",
+      "정답(틀린 것). 콤마 뒤 계속적 용법에는 which를 써야 합니다.",
+      "복수 주어 the colors에 맞는 are입니다.",
+      "전치사 on의 목적어로 쓰인 의문사 how입니다."
+    ],
+    "trap": "①의 that과 ③의 that이 똑같이 보여 모두 맞다고 착각하기 쉽습니다.",
+    "tip": "관계대명사 앞에 콤마가 있으면 that을 쓸 수 없고 which를 써야 합니다."
+  },
+  {
+    "id": "m3b-15-30",
+    "level": "m3",
+    "set": "mock-15",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Patients who receive a sugar pill often report feeling better, even though the pill contains no medicine. This is called the placebo effect. Doctors believe that it works because expectation can {1|influence} the body. When people believe that a treatment will help, the brain may release natural chemicals that reduce pain. The effect is surprisingly {2|strong}: in some experiments, fake surgery helped patients as much as real surgery. Interestingly, even when patients know that they are taking a placebo, many of them still feel {3|relief}. Researchers have also found that a caring doctor and a warm environment {4|weaken} the effect, and so the way a treatment is given matters as much as the treatment itself. Today, scientists are studying how to {5|use} this power safely and honestly.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "설탕 알약을 받은 환자는 그 알약에 약이 전혀 들어 있지 않은데도 기분이 나아졌다고 말하는 경우가 많다. 이것을 위약 효과라고 한다. 의사들은 기대가 몸에 영향을 줄 수 있기 때문에 이것이 작용한다고 믿는다. 사람들이 치료가 도움이 될 것이라고 믿으면 뇌가 통증을 줄이는 천연 화학 물질을 내보낼 수 있다. 그 효과는 놀랄 만큼 강해서 일부 실험에서는 가짜 수술이 진짜 수술만큼 환자에게 도움이 되었다. 흥미롭게도 환자가 위약을 먹고 있다는 것을 알 때에도 많은 환자가 여전히 안도감을 느낀다. 연구자들은 또 자상한 의사와 따뜻한 환경이 그 효과를 약화시킨다는 것을 발견했고 그래서 치료가 이루어지는 방식이 치료 자체만큼 중요하다. 오늘날 과학자들은 이 힘을 안전하고 정직하게 이용하는 방법을 연구하고 있다.",
+    "why": "자상한 의사와 따뜻한 환경이 치료 방식의 중요성을 높인다는 흐름이므로 효과를 '약화시킨다(weaken)'가 아니라 '강화한다(strengthen)'여야 합니다.",
+    "optionNotes": [
+      "기대가 몸에 영향을 준다는 의미로 influence가 알맞습니다.",
+      "가짜 수술이 진짜만큼 도움이 되었으므로 strong이 알맞습니다.",
+      "위약임을 알아도 안도감을 느낀다는 의미로 relief가 알맞습니다.",
+      "정답(부적절). 효과를 강화한다는 의미의 strengthen이어야 합니다.",
+      "이 힘을 이용한다는 의미로 use가 알맞습니다."
+    ],
+    "trap": "'matters as much as the treatment itself'와 이어지는 방향(효과 강화)을 놓치기 쉽습니다.",
+    "tip": "so 이하의 결론(방식이 치료만큼 중요)과 앞 내용의 방향이 일치하는지 확인하세요."
+  },
+  {
+    "id": "m3b-15-31",
+    "level": "m3",
+    "set": "mock-15",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In the 1960s, a psychologist told teachers that certain students had been identified by a test as likely to improve dramatically during the year. In fact, these students had been chosen at random. At the end of the year, however, many of them did show larger gains than their classmates. The researchers explained that the teachers had unconsciously given those students more attention, more encouraging feedback, and more chances to answer questions. The students, in turn, felt more confident and worked harder. These small differences in treatment were so subtle that the teachers themselves were not aware of them. Yet over many months, they made a real difference to the progress of the students. This finding shows that what we expect of others can __________.",
+    "options": [
+      "gradually turn into reality by changing the way we treat them",
+      "make them forget what they have studied",
+      "have no effect on their behavior at all",
+      "cause them to avoid questions in class",
+      "depend entirely on their test scores"
+    ],
+    "answer": 0,
+    "translation": "1960년대에 한 심리학자는 교사들에게 어떤 학생들이 검사에서 한 해 동안 크게 향상될 것으로 확인되었다고 말했다. 사실 이 학생들은 무작위로 뽑힌 것이었다. 그러나 학년 말에 그들 중 많은 학생이 반 친구들보다 더 큰 향상을 보였다. 연구자들은 교사들이 무의식적으로 그 학생들에게 더 많은 관심과 격려하는 피드백, 대답할 더 많은 기회를 주었다고 설명했다. 그 학생들은 차례로 더 자신감을 느끼고 더 열심히 공부했다. 이런 대우의 작은 차이는 너무 미묘해서 교사들 자신도 알지 못했다. 그러나 여러 달이 지나면서 그것은 학생들의 발전에 실질적인 차이를 만들었다. 이 발견은 우리가 다른 사람에게 거는 기대가 우리가 그들을 대하는 방식을 바꿈으로써 서서히 현실이 될 수 있음을 보여 준다.",
+    "why": "무작위로 뽑힌 학생들이 교사의 기대와 대우 변화 덕분에 실제로 향상되었으므로 기대는 대하는 방식을 바꿔 현실이 됩니다.",
+    "optionNotes": [
+      "정답. 대하는 방식을 바꿔 서서히 현실이 됩니다.",
+      "배운 것을 잊게 한다는 내용은 나오지 않습니다.",
+      "행동에 영향이 없다는 내용은 글과 반대입니다.",
+      "질문을 피하게 한다는 내용은 글과 반대입니다.",
+      "시험 점수에만 달렸다는 내용은 글과 반대입니다."
+    ],
+    "trap": "학생들이 무작위로 뽑혔다는 점을 놓치면 시험 점수(⑤)가 원인이라고 착각하기 쉽습니다.",
+    "tip": "실험의 인과 관계(기대 → 대우 변화 → 향상)를 한 문장으로 일반화하세요."
+  },
+  {
+    "id": "m3b-15-32",
+    "level": "m3",
+    "set": "mock-15",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Sea otters are small compared with whales and sharks, yet they play a crucial role in the kelp forests along the Pacific coast. Sea otters eat sea urchins, which feed on kelp. When otters were hunted almost to extinction, the sea urchin population exploded, and the urchins devoured the kelp forests, leaving barren areas. Scientists were surprised by how quickly the damage spread through the whole food web. Fish and other animals that depended on the kelp lost their homes. After otters were protected by law, their numbers recovered, and the kelp forests began to return. Seabirds, fish, and seals soon came back as well, and the coast became healthy again. Ecologists call such animals keystone species, because their influence on the ecosystem is __________.",
+    "options": [
+      "far greater than what their size or numbers would suggest",
+      "limited to the places where they build their nests",
+      "smaller than that of the animals they hunt",
+      "determined by how long they live in captivity",
+      "weaker in cold regions than in warm ones"
+    ],
+    "answer": 0,
+    "translation": "해달은 고래나 상어에 비하면 작지만 태평양 연안의 다시마 숲에서 결정적인 역할을 한다. 해달은 다시마를 먹는 성게를 먹는다. 해달이 거의 멸종할 때까지 사냥되자 성게의 수가 폭발적으로 늘었고 성게가 다시마 숲을 먹어 치워 황폐한 지역만 남았다. 과학자들은 피해가 먹이 그물 전체로 얼마나 빨리 퍼졌는지에 놀랐다. 다시마에 의존하던 물고기와 다른 동물들은 보금자리를 잃었다. 해달이 법으로 보호받은 뒤 그 수가 회복되었고 다시마 숲이 돌아오기 시작했다. 바닷새, 물고기, 물범도 곧 돌아왔고 해안은 다시 건강해졌다. 생태학자들은 이런 동물을 핵심종이라 부르는데 생태계에 미치는 영향이 크기나 수로 짐작할 수 있는 것보다 훨씬 크기 때문이다.",
+    "why": "작은 해달의 유무가 다시마 숲 전체에 큰 영향을 미쳤으므로 핵심종은 크기나 수에서 짐작하는 것보다 영향이 훨씬 큽니다.",
+    "optionNotes": [
+      "정답. 크기나 수에 비해 영향이 훨씬 큽니다.",
+      "둥지를 짓는 곳에 한정된다는 내용은 글과 반대입니다.",
+      "사냥감보다 영향이 작다는 내용은 글과 반대입니다.",
+      "사육 기간은 나오지 않습니다.",
+      "기후에 따른 영향 차이는 나오지 않습니다."
+    ],
+    "trap": "'small compared with whales'를 영향도 작다는 뜻으로 오해하지 마세요.",
+    "tip": "앞의 예시(해달의 감소 → 숲의 파괴)를 일반화하면 빈칸이 나옵니다."
+  },
+  {
+    "id": "m3b-15-33",
+    "level": "m3",
+    "set": "mock-15",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In a well-known experiment, a supermarket set up a tasting table with twenty-four varieties of jam on one day and only six varieties on another day. The larger display attracted more attention, and more shoppers stopped to taste. However, when it came to buying, the results were surprising. Only about three percent of the shoppers who saw twenty-four varieties bought a jar, compared with about thirty percent of those who saw six. Psychologists explain that too many options require us to compare many details, and we begin to worry that we may choose wrongly. Having to compare so much costs mental energy, and afterward we often feel less satisfied. So, having more choices does not always make us happier; it can sometimes __________.",
+    "options": [
+      "make shopping faster and more convenient for everyone in the store",
+      "make us feel stressed and less willing to decide",
+      "improve the quality of the products that we finally find",
+      "lower the price of the products in almost every store",
+      "help us remember all of the options that we saw"
+    ],
+    "answer": 1,
+    "translation": "한 유명한 실험에서 어느 슈퍼마켓은 어느 날에는 스물네 가지 잼을, 다른 날에는 여섯 가지 잼만 놓은 시식대를 차렸다. 더 큰 진열은 더 많은 관심을 끌었고 더 많은 손님이 맛을 보려고 멈췄다. 그러나 구매에 이르자 결과는 놀라웠다. 스물네 가지를 본 손님은 약 3퍼센트만 한 병을 샀지만, 여섯 가지를 본 손님은 약 30퍼센트가 샀다. 심리학자들은 선택지가 너무 많으면 많은 세부 사항을 비교해야 하고 잘못 고를까 걱정하기 시작한다고 설명한다. 그렇게 많이 비교하려면 정신적 에너지가 들고 그 뒤에 우리는 흔히 덜 만족한다. 그래서 선택지가 많다고 항상 더 행복해지는 것은 아니며 때로는 스트레스를 받고 결정하려는 마음이 줄어들 수 있다.",
+    "why": "선택지가 많으면 비교에 에너지가 들고 잘못 고를까 걱정되어 구매가 줄었으므로 스트레스를 받고 결정을 꺼리게 됩니다.",
+    "optionNotes": [
+      "쇼핑이 빨라진다는 내용은 글과 반대입니다.",
+      "정답. 스트레스를 받고 결정하려는 마음이 줄어듭니다.",
+      "제품의 질이 좋아진다는 내용은 나오지 않습니다.",
+      "가격이 낮아진다는 내용은 나오지 않습니다.",
+      "모든 선택지를 기억하게 돕는다는 내용은 나오지 않습니다."
+    ],
+    "trap": "진열이 큰 날 시식 손님이 더 많았다는 부분만 보고 긍정적인 보기(①③)를 고르지 마세요.",
+    "tip": "'However' 뒤의 구매 결과와 심리학자의 설명이 정답의 근거입니다."
+  },
+  {
+    "id": "m3b-15-34",
+    "level": "m3",
+    "set": "mock-15",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Today, we can look up almost any fact in a few seconds on our smartphones. This convenience has changed how we use our minds in everyday life. Researchers wondered how this easy access affects human memory. In one study, participants read a list of statements and typed them into a computer. Some were told that the computer would save what they typed, while others were told that it would be erased. Later, the participants who believed that the information was saved remembered far less of it. The researchers also found that people tended to remember which folder the information was stored in better than the information itself. These results suggest that when information is always easy to find, our brains tend to __________.",
+    "options": [
+      "keep track of where information is stored instead of the information itself",
+      "work harder to memorize every single detail that we read in the articles",
+      "refuse to use search tools for any important task",
+      "believe that everything we find on the internet is perfectly accurate and fair",
+      "lose the ability to recognize the faces of familiar people"
+    ],
+    "answer": 0,
+    "translation": "오늘날 우리는 스마트폰으로 거의 모든 사실을 몇 초 안에 찾아볼 수 있다. 이런 편리함은 우리가 일상에서 머리를 쓰는 방식을 바꾸어 놓았다. 연구자들은 이렇게 쉽게 접근할 수 있는 것이 인간의 기억에 어떤 영향을 주는지 궁금했다. 한 연구에서 참가자들은 문장 목록을 읽고 컴퓨터에 입력했다. 일부는 컴퓨터가 입력한 것을 저장할 것이라는 말을 들었고 다른 일부는 그것이 지워질 것이라는 말을 들었다. 나중에 정보가 저장된다고 믿은 참가자들은 그것을 훨씬 덜 기억했다. 연구자들은 또 사람들이 정보 자체보다 그 정보가 어느 폴더에 저장되었는지를 더 잘 기억하는 경향이 있다는 것도 발견했다. 이 결과는 정보를 늘 쉽게 찾을 수 있을 때 우리 뇌가 정보 자체 대신 그것이 어디에 저장되어 있는지를 기억해 두는 경향이 있음을 시사한다.",
+    "why": "정보가 저장된다고 믿으면 내용을 덜 기억하고 저장 위치를 더 잘 기억했으므로 뇌는 정보 자체보다 위치를 기억합니다.",
+    "optionNotes": [
+      "정답. 정보 자체 대신 저장된 위치를 기억합니다.",
+      "더 열심히 외운다는 내용은 글과 반대입니다.",
+      "검색 도구 사용 거부는 나오지 않습니다.",
+      "온라인 정보가 정확하다고 믿는다는 내용은 나오지 않습니다.",
+      "얼굴 인식 능력은 나오지 않습니다."
+    ],
+    "trap": "'which folder'를 정보 자체를 더 잘 기억한다는 뜻으로 거꾸로 읽지 마세요.",
+    "tip": "실험 결과(저장된다고 믿으면 덜 기억, 위치는 더 기억)를 한 문장으로 요약하세요."
+  },
+  {
+    "id": "m3b-15-35",
+    "level": "m3",
+    "set": "mock-15",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Students often ask whether they should take notes on a laptop or in a notebook. Although typing is faster, many studies suggest that taking notes by hand has important advantages. ① Because we cannot write as quickly as we type, we have to listen carefully and choose only the key ideas. ② This process of selecting and summarizing helps the brain understand the material more deeply and connect it with what we already know. ③ The physical movement of forming letters also seems to strengthen the memory of what is written. ④ In one experiment, students who wrote notes by hand performed better on conceptual questions than those who typed. ⑤ Fast typing speed is a skill that many companies list as a requirement for office jobs.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "학생들은 흔히 노트북으로 필기해야 하는지 공책에 필기해야 하는지 묻는다. 타자가 더 빠르지만 많은 연구는 손으로 필기하는 것이 중요한 이점을 가진다고 시사한다. ① 우리는 타자 칠 때만큼 빨리 쓸 수 없으므로 주의 깊게 듣고 핵심 아이디어만 골라야 한다. ② 이렇게 고르고 요약하는 과정은 뇌가 자료를 더 깊이 이해하고 이미 아는 것과 연결하도록 돕는다. ③ 글자를 만드는 신체 움직임도 쓴 내용의 기억을 강화하는 것으로 보인다. ④ 한 실험에서 손으로 필기한 학생들은 타자로 친 학생들보다 개념 문제에서 더 좋은 성적을 거두었다. ⑤ 빠른 타자 속도는 많은 회사가 사무직 요건으로 내거는 기술이다.",
+    "why": "글은 손으로 필기하는 것의 이점을 이야기하는데 ⑤는 사무직의 타자 속도 요건에 관한 별개의 이야기입니다.",
+    "optionNotes": [
+      "빨리 쓸 수 없어 핵심만 고르게 된다는 이점입니다.",
+      "선택하고 요약하는 과정의 이점입니다.",
+      "글자를 쓰는 움직임이 기억을 강화한다는 이점입니다.",
+      "실험으로 뒷받침하는 내용입니다.",
+      "정답(무관). 타자 속도 요건은 손 필기의 이점과 관계가 없습니다."
+    ],
+    "trap": "'typing'이 글에서 계속 언급되므로 주제와 관련 있다고 착각하기 쉽습니다.",
+    "tip": "각 문장이 '손으로 필기하는 것의 이점'을 뒷받침하는지 확인하세요."
+  },
+  {
+    "id": "m3b-15-36",
+    "level": "m3",
+    "set": "mock-15",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Kintsugi, which means \"golden joinery,\" is a traditional Japanese art of repairing broken pottery. According to a popular story, it began in the fifteenth century when a shogun sent his favorite broken tea bowl to China for repair.\n(A) Inspired by this experience, Japanese craftsmen developed a more beautiful method. They joined the pieces with lacquer mixed with gold powder, so that every crack became a shining line.\n(B) However, the bowl came back held together by ugly metal staples, and the shogun was disappointed with the result.\n(C) Today, kintsugi is admired not only as a skill but also as a philosophy. It teaches us to accept our flaws and to see beauty in imperfection, and it has inspired many modern designers.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 1,
+    "translation": "'금빛 이음'을 뜻하는 킨츠기는 깨진 도자기를 고치는 일본의 전통 예술이다. 널리 알려진 이야기에 따르면 그것은 15세기에 한 쇼군이 가장 아끼던 깨진 찻사발을 수리하라고 중국에 보내면서 시작되었다. (B) 그러나 사발은 보기 흉한 금속 꺾쇠로 붙어 돌아왔고 쇼군은 결과에 실망했다. (A) 이 경험에 영감을 받아 일본 장인들은 더 아름다운 방법을 개발했다. 그들은 금가루를 섞은 옻으로 조각을 이어서 모든 금이 빛나는 선이 되게 했다. (C) 오늘날 킨츠기는 기술로서뿐 아니라 철학으로서도 존경받는다. 그것은 우리의 흠을 받아들이고 불완전함에서 아름다움을 보도록 가르치며 많은 현대 디자이너에게 영감을 주었다.",
+    "why": "(B) 'However'로 수리 결과에 대한 실망 → (A) 'this experience'로 새 방법 개발 → (C) 'Today'로 오늘날의 평가 순서입니다.",
+    "optionNotes": [
+      "(A)의 'this experience'가 가리킬 경험이 앞에 없습니다.",
+      "정답. 실망스러운 수리 → 새 방법 → 오늘날.",
+      "(C)의 'Today'가 과정 설명보다 먼저 나올 수 없습니다.",
+      "(C)의 'Today'가 (A)보다 먼저 나올 수 없습니다.",
+      "(C)가 먼저 오면 'Today'의 기준 과거가 없습니다."
+    ],
+    "trap": "(A)의 'this experience'는 (B)의 실망스러운 수리 경험을 가리킵니다.",
+    "tip": "However, this experience, Today 같은 연결어와 지시어를 확인하세요."
+  },
+  {
+    "id": "m3b-15-37",
+    "level": "m3",
+    "set": "mock-15",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Goosebumps appear when tiny muscles at the base of each hair on your skin contract and pull the hair upright. Almost everyone has experienced them at some point, for example on a cold morning or while listening to a powerful song.\n(A) Humans have lost most of their body hair, so the reaction no longer helps us much. However, the nervous system still produces it when we feel cold, afraid, or deeply moved by music.\n(B) This reaction was very useful for our distant ancestors, who were covered with thick hair all over their bodies and lived in cold, dangerous places.\n(C) When they were cold, the raised hairs trapped a layer of warm air near the skin. When they were frightened, the hairs made them look larger to their enemies.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 2,
+    "translation": "소름은 피부의 각 털뿌리에 있는 작은 근육이 수축해 털을 곧추세울 때 나타난다. 거의 모든 사람이 살면서 한 번쯤 예를 들어 추운 아침이나 강렬한 노래를 들을 때 그것을 경험했다. (B) 이 반응은 온몸이 두꺼운 털로 덮여 있고 춥고 위험한 곳에서 살던 먼 조상들에게 매우 유용했다. (C) 그들이 추울 때는 곤두선 털이 피부 가까이에 따뜻한 공기층을 가두었다. 겁을 먹었을 때는 털이 적에게 그들을 더 커 보이게 했다. (A) 인간은 몸의 털 대부분을 잃어서 그 반응이 더는 우리에게 큰 도움이 되지 않는다. 그러나 신경계는 우리가 춥거나 두렵거나 음악에 깊이 감동할 때 여전히 그것을 만들어 낸다.",
+    "why": "(B) 'This reaction'으로 소름의 쓸모 → (C) 'they'로 조상들의 구체적 사례 → (A) 'Humans have lost'로 오늘날의 상황 순서입니다.",
+    "optionNotes": [
+      "(A)의 'the reaction'과 'no longer'가 가리킬 설명이 앞에 없습니다.",
+      "(A)가 (C)의 사례보다 먼저 나올 수 없습니다.",
+      "정답. 쓸모 → 사례 → 오늘날.",
+      "(C)의 'they'가 가리킬 조상이 앞에 없습니다.",
+      "(C)가 먼저 오면 'they'가 가리킬 대상이 없습니다."
+    ],
+    "trap": "(C)의 'they'는 (B)에서 소개한 먼 조상들을 가리킵니다.",
+    "tip": "This reaction → they → no longer의 지시어·시간 표현을 따라가세요."
+  },
+  {
+    "id": "m3b-15-38",
+    "level": "m3",
+    "set": "mock-15",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThanks to these properties, honey reportedly found in ancient Egyptian tombs was still safe to eat after thousands of years.\n\n[글]\n( ① ) Honey is one of the few foods that almost never spoil. ( ② ) This is because it contains very little water, and bacteria cannot grow in such a dry environment. ( ③ ) Honey is also slightly acidic, and bees add an enzyme that produces a small amount of hydrogen peroxide, which kills germs. ( ④ ) Of course, honey must be stored in a sealed container, because it can absorb moisture from the air and start to ferment. ( ⑤ ) Once that happens, the sugar turns into alcohol, and the honey can no longer be kept for a long time.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "[주어진 문장] 이런 특성 덕분에 고대 이집트 무덤에서 발견되었다고 전해지는 꿀은 수천 년이 지난 뒤에도 먹어도 안전했다. [글] 꿀은 거의 상하지 않는 몇 안 되는 식품 중 하나이다. 이는 꿀에 수분이 매우 적어서 세균이 그런 건조한 환경에서는 자랄 수 없기 때문이다. 꿀은 또 약간 산성이며 벌은 소량의 과산화수소를 만드는 효소를 더해 세균을 죽인다. 물론 꿀은 공기 중의 수분을 흡수해 발효하기 시작할 수 있으므로 밀폐 용기에 보관해야 한다. 그렇게 되면 당이 알코올로 변하고 꿀은 더는 오래 보관할 수 없다.",
+    "why": "수분이 적고 산성이며 효소가 있다는 특성을 모두 설명한 뒤에 'these properties'로 오래된 꿀의 사례가 이어지므로 ④에 들어갑니다.",
+    "optionNotes": [
+      "'these properties'가 가리킬 특성이 아직 나오지 않았습니다.",
+      "특성이 하나만 나온 상태라 'these properties'가 어색합니다.",
+      "특성 설명이 끝나기 전이라 흐름이 끊깁니다.",
+      "정답. 특성을 모두 설명한 뒤 사례가 나옵니다.",
+      "'that'이 가리킬 발효 설명 사이에 끼어 흐름이 끊깁니다."
+    ],
+    "trap": "'these properties'가 수분 부족과 산성·효소를 모두 가리킨다는 점을 놓치기 쉽습니다.",
+    "tip": "Thanks to these ~는 앞에 근거가 모두 제시된 뒤에 놓입니다."
+  },
+  {
+    "id": "m3b-15-39",
+    "level": "m3",
+    "set": "mock-15",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nIn this state, their metabolism falls to less than 0.01 percent of its normal level.\n\n[글]\n( ① ) When their environment dries out, tardigrades, tiny animals also known as water bears, pull in their legs, lose most of the water in their bodies, and curl into a dry ball. ( ② ) Because of this, they can remain dry for years, sometimes even for a decade, and return to life when water becomes available. ( ③ ) Scientists have even exposed them to the vacuum of space, and some of them survived the journey. ( ④ ) Because of these abilities, tardigrades have become a favorite subject of scientists, who are now studying how the animals protect their cells from damage caused by dryness and radiation. ( ⑤ ) This knowledge could lead to new ways of preserving medicines and human organs.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "[주어진 문장] 이 상태에서 그들의 신진대사는 정상 수준의 0.01퍼센트 미만으로 떨어진다. [글] 환경이 건조해지면 물곰이라고도 불리는 작은 동물인 완보동물은 다리를 접어 넣고 몸속 물 대부분을 잃은 채 마른 공처럼 몸을 만다. 이 때문에 그들은 수년, 때로는 십 년 동안도 마른 채로 지내다가 물이 생기면 다시 살아난다. 과학자들은 그들을 우주의 진공에 노출시키기도 했는데 일부는 그 여정에서 살아남았다. 이런 능력 때문에 완보동물은 과학자들이 가장 좋아하는 연구 대상이 되었고, 과학자들은 이 동물이 건조함과 방사선으로 인한 손상으로부터 세포를 어떻게 보호하는지 연구하고 있다. 이 지식은 의약품과 사람의 장기를 보존하는 새로운 방법으로 이어질 수 있다.",
+    "why": "몸을 말아 마른 공이 된 상태를 설명한 뒤 'In this state'가 이어져야 하고, 이어지는 'Because of this'의 원인이 되므로 ②에 들어갑니다.",
+    "optionNotes": [
+      "'this state'가 가리킬 상태가 아직 나오지 않았습니다.",
+      "정답. 마른 상태 설명 뒤, 'Because of this' 앞에 놓입니다.",
+      "우주 실험 이야기 앞이라 'this state'가 어색합니다.",
+      "연구 이야기 앞이라 'this state'가 어색합니다.",
+      "마지막에 오면 앞 문장과 연결되지 않습니다."
+    ],
+    "trap": "'Because of this'의 this가 신진대사 감소를 가리킨다는 점을 놓치지 마세요.",
+    "tip": "In this state는 상태를 설명한 문장 직후에, Because of this는 그 결과 앞에 놓입니다."
+  },
+  {
+    "id": "m3b-15-40",
+    "level": "m3",
+    "set": "mock-15",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Birds living in cities face a problem that their country cousins do not: constant noise. Traffic, construction, and crowds produce low-frequency sounds that cover the low notes of many birdsongs. Researchers who recorded great tits in the city and the forest found that city birds sang at a higher pitch than forest birds. As a result, their songs could be heard above the rumble of cars. Similar changes have been reported in other species. Some birds also sing louder, and others shift their singing to the quiet early morning or even to the night, when traffic is lighter. These adjustments help them attract mates and defend their territories. Scientists see them as evidence that animals can adapt their behavior quickly when their environment changes.\n\n▶ City birds have adapted their songs to (A) traffic noise, for example by singing at a (B) pitch.",
+    "options": [
+      "(A) ignore — (B) lower",
+      "(A) imitate — (B) softer",
+      "(A) increase — (B) steadier",
+      "(A) escape from — (B) slower",
+      "(A) overcome — (B) higher"
+    ],
+    "answer": 4,
+    "translation": "도시에 사는 새들은 시골의 사촌들이 겪지 않는 문제, 즉 끊임없는 소음에 직면한다. 교통, 공사, 군중은 많은 새소리의 낮은 음을 덮는 저주파 소리를 만들어 낸다. 도시와 숲에서 박새를 녹음한 연구자들은 도시의 새가 숲의 새보다 더 높은 음높이로 노래한다는 것을 발견했다. 그 결과 그 노래가 자동차의 웅웅거림 위로 들릴 수 있었다. 비슷한 변화가 다른 종에서도 보고되었다. 일부 새는 더 크게 노래하고 다른 새들은 교통이 한산한 조용한 이른 아침이나 밤으로 노래 시간을 옮긴다. 이런 조정은 새들이 짝을 유혹하고 영역을 지키도록 돕는다. 과학자들은 이를 동물이 환경이 변할 때 행동을 빠르게 적응시킬 수 있다는 증거로 본다. ▶ 도시의 새는 교통 소음을 (A)하도록 노래를 적응시켰는데, 예를 들어 더 (B) 음높이로 노래하는 것이다.",
+    "why": "도시의 새는 소음을 이겨 내려고 더 높은 음높이로 노래하므로 (A)는 overcome, (B)는 higher입니다.",
+    "optionNotes": [
+      "ignore와 lower는 글과 반대입니다.",
+      "imitate와 softer는 글에 나오지 않습니다.",
+      "increase와 steadier는 글에 나오지 않습니다.",
+      "escape from과 slower는 글에 나오지 않습니다.",
+      "정답. 소음을 이겨 내려고 더 높은 음높이로 노래합니다."
+    ],
+    "trap": "저주파 소음에 맞서려고 음높이를 낮췄다고 거꾸로 이해하지 마세요.",
+    "tip": "요약문은 원인(소음)과 적응(높은 음높이)을 짝지으세요."
+  }
+]
