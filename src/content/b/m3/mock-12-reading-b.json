@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m3b-12-29",
+    "level": "m3",
+    "set": "mock-12",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Auroras are colorful lights that appear in the sky near the poles. They {1|are caused} by particles from the sun that hit the Earth's atmosphere. Because the Earth's magnetic field guides these particles toward the poles, auroras are mostly seen in places such as Norway and Alaska. The particles hit gases like oxygen and nitrogen, {2|that make} them glow in different colors. Green is the most common color, while red appears at higher altitudes. Photographers travel thousands of kilometers to {3|capture} the display. The best time to see them is on clear, dark nights during winter, when the sky {4|is} free of clouds and city lights. If you ever have the chance, {5|it} is an experience you will never forget.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "오로라는 극지방 근처의 하늘에 나타나는 알록달록한 빛이다. 그것은 태양에서 온 입자가 지구 대기에 부딪쳐 생긴다. 지구의 자기장이 이 입자들을 극지방으로 이끌기 때문에 오로라는 주로 노르웨이와 알래스카 같은 곳에서 보인다. 입자는 산소와 질소 같은 기체에 부딪혀 그것들이 서로 다른 색으로 빛나게 한다. 초록색이 가장 흔한 색이고 붉은색은 더 높은 고도에서 나타난다. 사진작가들은 그 광경을 담으려고 수천 킬로미터를 여행한다. 그것을 보기에 가장 좋은 때는 하늘에 구름과 도시의 불빛이 없는 겨울의 맑고 어두운 밤이다. 기회가 있다면 그것은 결코 잊지 못할 경험이다.",
+    "why": "앞에 쉼표가 있는 계속적 용법이며 앞 절 전체를 받으므로 that이 아니라 'which'를 써야 합니다.",
+    "optionNotes": [
+      "수동태 are caused입니다.",
+      "정답(틀린 것). 계속적 용법에는 that을 쓸 수 없고 which를 써야 합니다.",
+      "목적을 나타내는 to부정사입니다.",
+      "시간 부사절 안의 주어 the sky에 맞는 is입니다.",
+      "가주어 it입니다."
+    ],
+    "trap": "관계대명사 that과 which를 계속적 용법에서도 바꿔 쓸 수 있다고 오해하기 쉽습니다.",
+    "tip": "쉼표 뒤 계속적 용법에는 that을 쓰지 않습니다."
+  },
+  {
+    "id": "m3b-12-30",
+    "level": "m3",
+    "set": "mock-12",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Some people believe that public libraries are {1|becoming} less important because of the internet. However, libraries have changed to meet new needs. Many now lend e-books, games, and even tools, and they offer free classes in coding and languages. For people who cannot afford a computer, libraries {2|reject} free internet access. Libraries also serve as safe spaces where people of all ages can meet, study, or relax. In some towns, the library is the only public place that is {3|open} to everyone. Librarians help visitors {4|evaluate} online information so that they can tell facts from rumors. As a result, libraries continue to play an important role in {5|strengthening} communities.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "일부 사람들은 인터넷 때문에 공공 도서관이 덜 중요해지고 있다고 믿는다. 그러나 도서관은 새로운 요구에 맞춰 변해 왔다. 많은 도서관이 이제 전자책, 게임, 심지어 공구까지 빌려주고 코딩과 언어에 관한 무료 강좌를 제공한다. 컴퓨터를 살 형편이 안 되는 사람들에게 도서관은 무료 인터넷 이용을 제공한다. 도서관은 또한 모든 연령의 사람이 만나고 공부하고 쉴 수 있는 안전한 공간 역할을 한다. 일부 마을에서는 도서관이 모두에게 열려 있는 유일한 공공장소이다. 사서들은 이용객이 사실과 소문을 구별할 수 있도록 온라인 정보를 평가하도록 돕는다. 그 결과 도서관은 공동체를 강화하는 데 계속 중요한 역할을 한다.",
+    "why": "컴퓨터가 없는 사람들에게 무료 인터넷을 '거절한다(reject)'가 아니라 '제공한다(provide)'가 문맥에 맞습니다.",
+    "optionNotes": [
+      "덜 중요해지고 있다는 의미로 becoming이 알맞습니다.",
+      "정답(부적절). 형편이 안 되는 사람에게 제공해야 하므로 provide여야 합니다.",
+      "모두에게 열려 있다는 의미로 open이 알맞습니다.",
+      "온라인 정보를 평가한다는 의미로 evaluate가 알맞습니다.",
+      "공동체를 강화한다는 의미로 strengthening이 알맞습니다."
+    ],
+    "trap": "'For people who cannot afford a computer'의 맥락(도움)을 놓치기 쉽습니다.",
+    "tip": "앞 구절(형편이 안 되는 사람들을 위해)의 방향과 동사의 의미가 일치하는지 확인하세요."
+  },
+  {
+    "id": "m3b-12-31",
+    "level": "m3",
+    "set": "mock-12",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Psychologist Carol Dweck has studied how people think about their own abilities. Her research began when she noticed that some children loved difficult puzzles while others avoided them. Some people have a fixed mindset: they believe that intelligence and talent are fixed traits that cannot change. Others have a growth mindset: they believe that abilities can be developed through effort and good strategies. These beliefs often affect how they behave at school and at work. In one study, students who were praised for their effort chose harder puzzles in the next round, while students who were praised for being smart chose easier ones to protect their image. When they failed, the growth group tried new strategies, but the other group lost interest. Thus, believing that ability can grow makes us __________.",
+    "options": [
+      "less interested in learning new things at school",
+      "more afraid of making mistakes in front of other people at school",
+      "quicker to give up when the work becomes difficult",
+      "better at hiding our weaknesses from other people",
+      "more willing to face challenges and learn from failure"
+    ],
+    "answer": 4,
+    "translation": "심리학자 캐럴 드웩은 사람들이 자신의 능력을 어떻게 생각하는지 연구해 왔다. 그녀의 연구는 어떤 아이들은 어려운 퍼즐을 좋아하고 다른 아이들은 피한다는 것을 알아챈 데서 시작되었다. 어떤 사람들은 고정 마인드셋을 가지고 있어서 지능과 재능이 바뀔 수 없는 고정된 특성이라고 믿는다. 다른 사람들은 성장 마인드셋을 가지고 있어서 능력이 노력과 좋은 전략으로 계발될 수 있다고 믿는다. 이런 믿음은 흔히 학교와 직장에서의 행동에 영향을 준다. 한 연구에서 노력을 칭찬받은 학생들은 다음 판에서 더 어려운 퍼즐을 골랐고 똑똑하다고 칭찬받은 학생들은 자신의 이미지를 지키려고 더 쉬운 퍼즐을 골랐다. 실패했을 때 성장 집단은 새 전략을 시도했지만 다른 집단은 흥미를 잃었다. 그러므로 능력이 자랄 수 있다고 믿으면 우리는 도전에 맞서고 실패에서 배우려는 의지가 더 커진다.",
+    "why": "노력을 칭찬받은 학생들이 어려운 퍼즐을 고르고 실패 후 새 전략을 시도했으므로 도전에 맞서고 실패에서 배우려는 의지가 커집니다.",
+    "optionNotes": [
+      "배움에 흥미를 잃는 쪽은 고정 마인드셋입니다.",
+      "실수를 더 두려워하는 쪽은 글과 맞지 않습니다.",
+      "쉽게 포기하는 쪽은 글과 맞지 않습니다.",
+      "약점을 숨기는 것은 나오지 않습니다.",
+      "정답. 도전에 맞서고 실패에서 배웁니다."
+    ],
+    "trap": "'protect their image'를 성장 마인드셋의 특징으로 착각하지 마세요.",
+    "tip": "두 집단 대비에서 성장 집단의 행동이 빈칸의 단서입니다."
+  },
+  {
+    "id": "m3b-12-32",
+    "level": "m3",
+    "set": "mock-12",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "The mimosa plant, also called the sensitive plant, folds its leaves when it is touched. It is native to tropical regions of Central and South America. In an experiment, scientists dropped plants from a small height again and again. The experiment was repeated with sixty plants to make sure that the result was reliable. At first, the leaves closed every time. After several drops, however, the plants stopped closing their leaves, as if they had learned that the fall was harmless. The plants still closed their leaves when touched in a different way, which shows that they were not simply tired. Surprisingly, the plants remembered this lesson for weeks. Because plants do not have brains, this result surprised many scientists. This suggests that some plants can __________.",
+    "options": [
+      "move from place to place when the weather changes",
+      "hear the sounds of animals that are walking nearby",
+      "grow faster when someone talks to them every day",
+      "learn from experience and adjust their behavior",
+      "produce fruit without any sunlight or water at all"
+    ],
+    "answer": 3,
+    "translation": "함수초라고도 불리는 미모사는 건드리면 잎을 접는다. 이 식물은 중앙아메리카와 남아메리카의 열대 지역이 원산지이다. 한 실험에서 과학자들은 식물을 낮은 높이에서 반복해서 떨어뜨렸다. 결과가 믿을 만한지 확인하려고 실험은 식물 육십 개로 반복되었다. 처음에는 매번 잎이 닫혔다. 그러나 몇 번 떨어뜨린 뒤 식물들은 마치 떨어지는 것이 해롭지 않다는 것을 배운 듯 잎을 닫지 않았다. 식물은 다른 방식으로 건드렸을 때는 여전히 잎을 닫았으며 이는 단순히 피곤해서가 아님을 보여 준다. 놀랍게도 식물은 이 교훈을 몇 주 동안 기억했다. 식물에게는 뇌가 없으므로 이 결과는 많은 과학자를 놀라게 했다. 이는 일부 식물이 경험에서 배우고 행동을 조정할 수 있음을 시사한다.",
+    "why": "떨어뜨림이 해롭지 않다는 것을 배운 듯 잎을 닫지 않았고 몇 주간 기억했으므로 경험에서 배워 행동을 조정할 수 있음을 시사합니다.",
+    "optionNotes": [
+      "이동은 나오지 않습니다.",
+      "동물 소리는 나오지 않습니다.",
+      "말을 걸면 빨리 자란다는 내용은 나오지 않습니다.",
+      "정답. 경험에서 배우고 행동을 조정합니다.",
+      "햇빛과 물 없이 열매를 맺는다는 내용은 나오지 않습니다."
+    ],
+    "trap": "'tired'라는 단어에 이끌려 피로(생리 현상)로 설명하지 마세요.",
+    "tip": "실험 결과(반복 후 반응 중단, 몇 주 기억)에서 결론을 추론하세요."
+  },
+  {
+    "id": "m3b-12-33",
+    "level": "m3",
+    "set": "mock-12",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Linguists had long argued about whether language affects thought. Russian has two separate basic words for blue: goluboy for light blue and siniy for dark blue. English speakers use only one word, blue. In one experiment, Russian speakers were faster at telling apart two shades of blue when one fell into the light category and the other into the dark category. English speakers showed no such advantage. When the Russian speakers were asked to memorize a series of numbers while doing the test, the advantage disappeared, which suggests that language was involved in the thinking process. The Russian speakers did not realize that they were using their language to help them. This implies that the words of our language can shape how we __________.",
+    "options": [
+      "pay for the goods that we buy in many different stores",
+      "choose the clothes that we wear to school",
+      "learn to walk before we learn to talk",
+      "feel about the weather in different seasons",
+      "perceive and distinguish the world around us"
+    ],
+    "answer": 4,
+    "translation": "언어학자들은 언어가 사고에 영향을 주는지를 두고 오랫동안 논쟁해 왔다. 러시아어에는 파랑을 뜻하는 별개의 기본 낱말이 두 개 있다. 밝은 파랑은 골루보이, 어두운 파랑은 시니이이다. 영어 화자는 파랑이라는 한 낱말만 쓴다. 한 실험에서 러시아어 화자는 두 가지 파란 색조 중 하나는 밝은 범주에, 다른 하나는 어두운 범주에 속할 때 이를 더 빨리 구별했다. 영어 화자에게는 그런 이점이 없었다. 러시아어 화자에게 검사를 하는 동안 숫자 열을 외우게 하자 이점이 사라졌는데 이는 언어가 사고 과정에 관여했음을 시사한다. 러시아어 화자들은 자신이 언어를 이용해 도움을 받고 있다는 것을 알아채지 못했다. 이는 우리 언어의 낱말이 우리가 주변 세계를 인지하고 구별하는 방식을 형성할 수 있음을 암시한다.",
+    "why": "색 이름의 차이가 색을 구별하는 속도에 영향을 주었으므로 언어는 우리가 세상을 인지하고 구별하는 방식을 형성할 수 있습니다.",
+    "optionNotes": [
+      "물건 값 지불은 나오지 않습니다.",
+      "옷 선택은 나오지 않습니다.",
+      "걷기와 말하기 순서는 나오지 않습니다.",
+      "날씨에 대한 느낌은 나오지 않습니다.",
+      "정답. 세상을 인지하고 구별하는 방식입니다."
+    ],
+    "trap": "'blue'가 색 이야기이므로 날씨(④)나 옷(②)처럼 색과 무관한 선택지를 고르지 마세요.",
+    "tip": "실험 결과(색 이름 차이 → 구별 속도 차이)에서 결론을 추론하세요."
+  },
+  {
+    "id": "m3b-12-34",
+    "level": "m3",
+    "set": "mock-12",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "When countries ask citizens to join an organ donation program, the results differ dramatically depending on how the question is asked. Researchers call this the default effect. In countries where people must actively choose to become donors, only about fifteen percent do so. In countries where everyone is automatically a donor unless they choose to leave, more than ninety percent remain donors. The people in both groups hold similar values. The difference arises because changing the default requires effort, thought, and the possibility of regret, and many people prefer to avoid these costs. Governments and companies sometimes use the default effect to guide people's choices, for example by pre-selecting a healthy menu. This shows that people tend to stick with __________.",
+    "options": [
+      "the opinions of their friends even when they are wrong",
+      "the choices that cost the most money to carry out",
+      "the default option even when other options exist",
+      "the plans that experts recommend on the news",
+      "the decisions that other countries have already made"
+    ],
+    "answer": 2,
+    "translation": "국가가 시민에게 장기 기증 프로그램 참여를 요청할 때 결과는 질문 방식에 따라 극적으로 달라진다. 연구자들은 이를 기본값 효과라고 부른다. 사람들이 적극적으로 기증자가 되기를 선택해야 하는 나라에서는 약 15퍼센트만이 그렇게 한다. 떠나기를 선택하지 않는 한 모두가 자동으로 기증자인 나라에서는 90퍼센트가 넘는 사람이 기증자로 남는다. 두 집단의 사람들은 비슷한 가치관을 지니고 있다. 그 차이는 기본값을 바꾸는 데 노력, 생각, 후회의 가능성이 필요하고 많은 사람이 이런 비용을 피하려 하기 때문에 생긴다. 정부와 기업은 때때로 건강한 메뉴를 미리 선택해 두는 것처럼 기본값 효과를 이용해 사람들의 선택을 이끈다. 이는 사람들이 다른 선택지가 있어도 기본 선택지를 그대로 따르는 경향이 있음을 보여 준다.",
+    "why": "자동 기증 국가에서 기증률이 훨씬 높으므로 사람들은 다른 선택지가 있어도 기본 선택지를 따르는 경향이 있습니다.",
+    "optionNotes": [
+      "친구의 의견은 나오지 않습니다.",
+      "비용이 큰 선택은 나오지 않습니다.",
+      "정답. 기본 선택지를 따릅니다.",
+      "전문가의 권고는 나오지 않습니다.",
+      "다른 나라의 결정은 나오지 않습니다."
+    ],
+    "trap": "두 집단의 가치관이 비슷하다는 점을 놓치고 가치관의 차이로 오해하지 마세요.",
+    "tip": "수치 대비(15% vs 90%)와 원인 설명(changing the default requires effort)이 빈칸의 단서입니다."
+  },
+  {
+    "id": "m3b-12-35",
+    "level": "m3",
+    "set": "mock-12",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Getting enough sleep is essential for both the body and the mind. ① During sleep, the body repairs muscles and strengthens the immune system, which protects us from illness. ② Sleep also helps the brain store the information that we learned during the day. ③ Many athletes win gold medals by training for several hours a day in the mountains. ④ People who sleep poorly are more likely to feel irritable and to make mistakes at school or at work. ⑤ Therefore, teenagers need about eight to ten hours of sleep each night to stay healthy and focused.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "충분히 자는 것은 몸과 마음 모두에 필수적이다. ① 잠자는 동안 몸은 근육을 회복하고 질병으로부터 우리를 보호하는 면역 체계를 강화한다. ② 수면은 또한 뇌가 낮 동안 배운 정보를 저장하도록 돕는다. ③ 많은 운동선수는 산에서 하루 몇 시간씩 훈련하여 금메달을 딴다. ④ 잠을 제대로 못 자는 사람은 짜증을 내고 학교나 직장에서 실수할 가능성이 더 높다. ⑤ 그러므로 십대는 건강하고 집중력을 유지하려면 밤마다 여덟에서 열 시간의 수면이 필요하다.",
+    "why": "글은 충분한 수면의 중요성을 이야기하는데 ③은 운동선수의 훈련에 관한 별개의 이야기입니다.",
+    "optionNotes": [
+      "수면 중 회복과 면역이라는 이점입니다.",
+      "기억 저장이라는 이점입니다.",
+      "정답(무관). 선수의 훈련 이야기라 관계가 없습니다.",
+      "수면 부족의 부정적 영향입니다.",
+      "결론 문장입니다."
+    ],
+    "trap": "'training'이 건강과 연결된다고 착각하기 쉽습니다.",
+    "tip": "주제(수면의 중요성)를 직접 뒷받침하지 않는 문장을 고르세요."
+  },
+  {
+    "id": "m3b-12-36",
+    "level": "m3",
+    "set": "mock-12",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "In the nineteenth century, many doctors did not wash their hands before examining patients, because the idea of germs was not yet widely accepted. In hospitals, mothers often died after giving birth.\n(A) A Hungarian doctor named Ignaz Semmelweis noticed that many more mothers died in the ward where doctors worked than in the ward run by midwives.\n(B) After this rule began, the number of deaths dropped sharply, although many colleagues rejected his idea for years. Today, hand washing is recognized as one of the simplest and most effective ways to prevent infection.\n(C) He suspected that doctors were carrying something harmful from the dead bodies they studied, so he ordered them to wash their hands with a chlorine solution. He kept careful records of each case.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "19세기에는 세균이라는 개념이 아직 널리 받아들여지지 않아서 많은 의사가 환자를 진찰하기 전에 손을 씻지 않았다. 병원에서는 산모가 출산 뒤 사망하는 경우가 많았다. (A) 헝가리 의사 이그나츠 제멜바이스는 의사들이 일하는 병동에서 조산사들이 운영하는 병동보다 훨씬 많은 산모가 죽는다는 것을 알아챘다. (C) 그는 의사들이 연구하는 시신에서 해로운 무언가를 옮기고 있다고 의심하여 염소 용액으로 손을 씻도록 명령했다. 그는 각 사례를 꼼꼼히 기록했다. (B) 이 규칙이 시작된 뒤 사망자 수가 급격히 줄었지만 많은 동료는 몇 년 동안 그의 생각을 거부했다. 오늘날 손 씻기는 감염을 막는 가장 간단하고 효과적인 방법 중 하나로 인정받는다.",
+    "why": "(A) 병동 간 사망률 차이를 발견 → (C) 원인을 의심하고 규칙 제정 → (B) 'this rule'이 시행된 결과 순서입니다.",
+    "optionNotes": [
+      "정답. 발견 → 대책 → 결과.",
+      "(B)의 'this rule'이 가리킬 규칙이 앞에 없습니다.",
+      "(B)의 'this rule'이 가리킬 규칙이 앞에 없습니다.",
+      "(C)의 'He'가 가리킬 인물이 앞에 없습니다.",
+      "(C)의 'He'가 가리킬 인물이 앞에 없습니다."
+    ],
+    "trap": "(B)의 'this rule'은 (C)에서 명령한 손 씻기를 가리킵니다.",
+    "tip": "He, this rule 같은 지시어가 가리키는 앞 내용을 확인하세요."
+  },
+  {
+    "id": "m3b-12-37",
+    "level": "m3",
+    "set": "mock-12",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Language and culture are closely connected. A single word can reflect an entire way of life. When something matters to a community, its language tends to describe it in great detail.\n(A) In the same way, Korean has separate words for rice plants, uncooked rice, and cooked rice, which reflects how important rice is in our diet. Foreign learners often find these distinctions surprising.\n(B) Therefore, learning a language means learning how its speakers see the world, and not just memorizing words. This is why translators often struggle to find perfect equivalents.\n(C) For example, the Inuit languages are said to have many words for different kinds of snow, because snow is central to their daily lives. Such words help speakers share detailed knowledge with each other.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 3,
+    "translation": "언어와 문화는 밀접하게 연결되어 있다. 낱말 하나가 삶의 방식 전체를 반영할 수 있다. 어떤 것이 공동체에 중요하면 그 언어는 그것을 매우 자세히 묘사하는 경향이 있다. (C) 예를 들어 이누이트 언어에는 눈이 그들의 일상생활의 중심이기 때문에 여러 종류의 눈을 가리키는 낱말이 많다고 한다. 이런 낱말은 화자들이 자세한 지식을 서로 나누도록 돕는다. (A) 마찬가지로 한국어에는 벼, 쌀, 밥을 가리키는 별개의 낱말이 있는데 이는 쌀이 우리 식생활에서 얼마나 중요한지를 반영한다. 외국인 학습자들은 이런 구별을 흔히 놀랍게 여긴다. (B) 그러므로 언어를 배우는 것은 낱말을 외우는 것만이 아니라 그 화자들이 세상을 보는 방식을 배우는 것이다. 이 때문에 번역가들은 흔히 완벽한 대응어를 찾느라 애쓴다.",
+    "why": "(C) 'For example'로 첫 사례 → (A) 'In the same way'로 비슷한 사례 → (B) 'Therefore'로 결론 순서입니다.",
+    "optionNotes": [
+      "(A)의 'In the same way'가 비교할 앞 사례가 없습니다.",
+      "(B)의 'Therefore'가 근거 없이 먼저 나옵니다.",
+      "(B)가 먼저 오면 결론이 사례보다 앞서 어색합니다.",
+      "정답. 사례 → 비슷한 사례 → 결론.",
+      "(B)가 (A) 앞에 오면 사례가 하나뿐인 채 결론이 나옵니다."
+    ],
+    "trap": "(A)의 'In the same way'는 (C)의 이누이트 예와 비교됩니다.",
+    "tip": "For example → In the same way → Therefore의 논리 연결어를 따라가세요."
+  },
+  {
+    "id": "m3b-12-38",
+    "level": "m3",
+    "set": "mock-12",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nAs a result, the village became famous throughout the country for its honey.\n\n[글]\n( ① ) The mountain village of Hasan had been quiet and poor for decades, and many young people had left for the city. ( ② ) In 2010, a few villagers began to keep bees on the hillside, where wild flowers bloomed from spring to autumn. ( ③ ) Their honey was so sweet and pure that shop owners in nearby cities began to order it regularly. ( ④ ) Tourists now visit every autumn to join the harvest and to taste the honey fresh from the hive. ( ⑤ ) Several families who had moved away have returned to the village to start their own beekeeping businesses.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "[주어진 문장] 그 결과 그 마을은 꿀로 전국에 유명해졌다. [글] 산골 마을 하산은 수십 년 동안 조용하고 가난했으며 많은 젊은이가 도시로 떠났다. 2010년 몇몇 마을 사람이 봄부터 가을까지 야생화가 피는 언덕에서 벌을 치기 시작했다. 그들의 꿀은 너무 달고 순수해서 인근 도시의 가게 주인들이 정기적으로 주문하기 시작했다. 이제 관광객들이 가을마다 수확에 참여하고 벌통에서 갓 나온 꿀을 맛보러 찾아온다. 떠났던 여러 가족이 자기 양봉 사업을 시작하려고 마을로 돌아왔다.",
+    "why": "꿀이 잘 팔리기 시작한 원인 뒤에 'As a result'로 마을이 유명해졌다는 결과가 나오고, 이어서 관광객 이야기가 나오므로 ④에 들어갑니다.",
+    "optionNotes": [
+      "'As a result'가 이어질 원인이 아직 없습니다.",
+      "원인이 나오기 전이라 결과가 이릅니다.",
+      "원인(꿀 주문)을 설명하는 도중이라 결과가 이릅니다.",
+      "정답. 원인 뒤에 결과(유명해짐)가 오고 관광객 이야기가 이어집니다.",
+      "결과 설명이 모두 끝난 뒤라 어색합니다."
+    ],
+    "trap": "'tourists'가 ④에 나오므로 유명해진 결과(주어진 문장)와 연결된다는 점을 놓치지 마세요.",
+    "tip": "As a result는 원인 바로 뒤에 놓이며 결과 설명이 이어집니다."
+  },
+  {
+    "id": "m3b-12-39",
+    "level": "m3",
+    "set": "mock-12",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThanks to these combined efforts, the river is now clean enough for fish to return.\n\n[글]\n( ① ) For decades, the Sunrise River had been heavily polluted by waste from nearby factories. ( ② ) In 2005, local citizens started a campaign to clean the riverbanks every weekend. ( ③ ) The city government joined them by building a water-treatment plant. ( ④ ) Factories were also required to treat their waste before releasing it into the river. ( ⑤ ) Children can now play in some parts of the river during summer, and birds nest along its banks again.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "[주어진 문장] 이런 노력이 합쳐진 덕분에 강은 이제 물고기가 돌아올 만큼 깨끗해졌다. [글] 수십 년 동안 선라이즈 강은 인근 공장의 폐기물로 심하게 오염되어 있었다. 2005년 지역 시민들이 매주 주말에 강둑을 청소하는 캠페인을 시작했다. 시 정부는 수질 정화 시설을 지어 그들과 함께했다. 공장들도 강에 폐기물을 배출하기 전에 처리하도록 요구받았다. 이제 아이들은 여름에 강의 일부에서 놀 수 있고 새들은 강둑에 다시 둥지를 튼다.",
+    "why": "시민, 정부, 공장의 노력을 모두 설명한 뒤 'these combined efforts'로 결과를 말하고, 이어서 아이들과 새의 모습이 나오므로 ⑤에 들어갑니다.",
+    "optionNotes": [
+      "'these combined efforts'가 가리킬 노력이 아직 나오지 않았습니다.",
+      "노력이 시작되는 단계라 결과가 이릅니다.",
+      "정부의 노력만 나온 단계라 combined가 어색합니다.",
+      "공장의 노력 설명이 끝나기 전이라 어색합니다.",
+      "정답. 모든 노력을 설명한 뒤 결과를 말합니다."
+    ],
+    "trap": "'combined efforts'는 시민·정부·공장 세 가지를 모두 가리킵니다.",
+    "tip": "Thanks to these combined efforts는 여러 노력이 모두 설명된 뒤에 놓입니다."
+  },
+  {
+    "id": "m3b-12-40",
+    "level": "m3",
+    "set": "mock-12",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Producing meat requires far more land, water, and energy than producing vegetables and grains. For example, raising cattle releases large amounts of methane, a gas that traps heat in the atmosphere about twenty-five times more effectively than carbon dioxide. A study of forty thousand households found that people who ate less meat produced significantly smaller carbon footprints. The researchers noted that even changing one meal a day can have a measurable effect when millions of people join in. They concluded that diet is one of the most powerful ways for individuals to help the environment. The study was published in a respected scientific journal, and participants also reported feeling healthier.\n\n▶ Eating less (A) can (B) the amount of greenhouse gases that people produce.",
+    "options": [
+      "(A) fruit — (B) increase",
+      "(A) rice — (B) double",
+      "(A) water — (B) waste",
+      "(A) bread — (B) ignore",
+      "(A) meat — (B) reduce"
+    ],
+    "answer": 4,
+    "translation": "고기를 생산하려면 채소와 곡물을 생산할 때보다 훨씬 많은 땅, 물, 에너지가 필요하다. 예를 들어 소를 키우면 대기에서 열을 가두는 효과가 이산화탄소보다 약 스물다섯 배 큰 기체인 메탄이 많이 나온다. 4만 가구를 대상으로 한 연구는 고기를 덜 먹는 사람들이 훨씬 적은 탄소 발자국을 만든다는 것을 발견했다. 연구자들은 수백만 명이 동참하면 하루 한 끼만 바꿔도 측정 가능한 효과가 있다고 지적했다. 그들은 식단이 개인이 환경을 돕는 가장 강력한 방법 중 하나라고 결론지었다. 이 연구는 저명한 과학 학술지에 실렸고 참가자들은 또한 더 건강하다고 느꼈다고 보고했다. ▶ (A)를 덜 먹으면 사람들이 만드는 온실가스의 양을 (B)할 수 있다.",
+    "why": "고기를 덜 먹으면 탄소 발자국이 줄어드므로 (A)는 meat, (B)는 reduce입니다.",
+    "optionNotes": [
+      "fruit와 increase는 글에 나오지 않습니다.",
+      "rice와 double은 글에 나오지 않습니다.",
+      "water와 waste는 글에 나오지 않습니다.",
+      "bread와 ignore는 글에 나오지 않습니다.",
+      "정답. 고기를 덜 먹으면 온실가스가 줄어듭니다."
+    ],
+    "trap": "(B)에 increase를 넣으면 글의 결론과 반대가 됩니다.",
+    "tip": "요약문은 원인(고기 소비 감소)과 결과(온실가스 감소)를 짝지으세요."
+  }
+]

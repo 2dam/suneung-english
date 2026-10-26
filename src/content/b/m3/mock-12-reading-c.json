@@ -1,0 +1,147 @@
+[
+  {
+    "id": "m3b-12-41",
+    "level": "m3",
+    "set": "mock-12",
+    "no": 41,
+    "type": "long",
+    "group": "m3b-12-g41",
+    "stem": "[41~42] 윗글의 제목으로 가장 적절한 것을 고르시오.",
+    "passage": "For thousands of years, people have used the wind to sail ships and to grind grain into flour. Today, modern wind turbines {1|convert} this natural force into electricity. A turbine has long blades that turn when the wind blows, and the spinning motion drives a generator. Wind power has several advantages. It produces no air pollution, and the wind itself is free and will never run out. A single large turbine can supply electricity to more than a thousand homes. However, wind power is not perfect. A turbine produces electricity only when the wind blows, so engineers must {2|ignore} ways to store the extra energy for calm days. Some people also complain that turbines are {3|noisy} and spoil the view of the countryside. Birds can be hurt when they fly into the blades, so developers now {4|choose} locations carefully and use radar to stop the blades when flocks approach. To take advantage of stronger and steadier winds, many countries are building offshore wind farms in the sea. Despite these challenges, wind power is {5|expanding} rapidly around the world, and several countries aim to produce most of their electricity from it within the next few decades.",
+    "options": [
+      "Harvesting the Wind: How Turbines Turn Breezes Into Power",
+      "Why Sailing Ships Were Faster Than Modern Cargo Ships",
+      "The Dangers of Living Near a Large Power Plant",
+      "How Birds Choose Their Winter Homes Every Year",
+      "Simple Ways to Save Money on Your Electricity Bill at Home"
+    ],
+    "answer": 0,
+    "translation": "수천 년 동안 사람들은 바람을 이용해 배를 움직이고 곡물을 갈아 가루로 만들었다. 오늘날 현대의 풍력 터빈은 이 자연의 힘을 전기로 바꾼다. 터빈에는 바람이 불면 도는 긴 날개가 있고 그 회전 운동이 발전기를 움직인다. 풍력에는 여러 장점이 있다. 대기 오염을 일으키지 않으며 바람 자체는 공짜이고 결코 고갈되지 않는다. 대형 터빈 하나는 천 가구가 넘는 집에 전기를 공급할 수 있다. 그러나 풍력이 완벽한 것은 아니다. 터빈은 바람이 불 때만 전기를 생산하므로 기술자들은 잔잔한 날을 위해 남는 에너지를 저장할 방법을 찾아야 한다. 일부 사람들은 또한 터빈이 시끄럽고 시골 경치를 해친다고 불평한다. 새들은 날개에 부딪히면 다칠 수 있어서 개발자들은 이제 입지를 신중하게 고르고 새 떼가 다가오면 날개를 멈추게 하는 레이더를 쓴다. 더 강하고 안정적인 바람을 이용하려고 많은 나라가 바다에 해상 풍력 단지를 짓고 있다. 이런 어려움에도 불구하고 풍력은 전 세계에서 빠르게 확대되고 있으며 여러 나라가 앞으로 수십 년 안에 전기의 대부분을 풍력으로 생산하는 것을 목표로 한다.",
+    "why": "바람의 힘을 전기로 바꾸는 풍력 터빈의 원리와 장단점을 다루므로 ①이 제목으로 알맞습니다.",
+    "optionNotes": [
+      "정답. 터빈이 바람을 전기로 바꾸는 이야기입니다.",
+      "범선과 화물선의 속도는 나오지 않습니다.",
+      "발전소의 위험은 나오지 않습니다.",
+      "새의 겨울 서식지는 나오지 않습니다.",
+      "전기 요금 절약은 나오지 않습니다."
+    ],
+    "trap": "'birds'가 나온다고 새 이야기(④)로 좁히지 마세요.",
+    "tip": "제목은 글 전체의 핵심(바람을 전기로 바꾸는 풍력)을 담으세요."
+  },
+  {
+    "id": "m3b-12-42",
+    "level": "m3",
+    "set": "mock-12",
+    "no": 42,
+    "type": "long",
+    "group": "m3b-12-g41",
+    "stem": "[41~42] 밑줄 친 ①~⑤ 중에서 문맥상 낱말의 쓰임이 적절하지 않은 것을 고르시오.",
+    "passage": "For thousands of years, people have used the wind to sail ships and to grind grain into flour. Today, modern wind turbines {1|convert} this natural force into electricity. A turbine has long blades that turn when the wind blows, and the spinning motion drives a generator. Wind power has several advantages. It produces no air pollution, and the wind itself is free and will never run out. A single large turbine can supply electricity to more than a thousand homes. However, wind power is not perfect. A turbine produces electricity only when the wind blows, so engineers must {2|ignore} ways to store the extra energy for calm days. Some people also complain that turbines are {3|noisy} and spoil the view of the countryside. Birds can be hurt when they fly into the blades, so developers now {4|choose} locations carefully and use radar to stop the blades when flocks approach. To take advantage of stronger and steadier winds, many countries are building offshore wind farms in the sea. Despite these challenges, wind power is {5|expanding} rapidly around the world, and several countries aim to produce most of their electricity from it within the next few decades.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "(41번 지문과 같은 글입니다.)",
+    "why": "바람이 불 때만 전기를 만드는 단점을 보완하려면 에너지를 저장할 방법을 '무시해야(ignore)' 하는 것이 아니라 '찾아야(find)' 합니다.",
+    "optionNotes": [
+      "바람을 전기로 바꾼다는 의미로 convert가 알맞습니다.",
+      "정답(부적절). 저장 방법을 찾아야 하므로 find여야 합니다.",
+      "시끄럽다는 의미로 noisy가 알맞습니다.",
+      "입지를 신중하게 고른다는 의미로 choose가 알맞습니다.",
+      "빠르게 확대된다는 의미로 expanding이 알맞습니다."
+    ],
+    "trap": "앞 문장의 단점(바람이 불 때만 생산)에 대한 해결 방향을 놓치기 쉽습니다.",
+    "tip": "문제점 뒤에는 그것을 해결하려는 행동이 옵니다."
+  },
+  {
+    "id": "m3b-12-43",
+    "level": "m3",
+    "set": "mock-12",
+    "no": 43,
+    "type": "long",
+    "group": "m3b-12-g43",
+    "stem": "[43~45] 주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것을 고르시오.",
+    "passage": "(A) Minjun had always been too shy to speak in front of the class, but {1|he} signed up for the school debate club after a teacher's encouragement. At the first meeting, the other members debated loudly, and he could not say a single word.\n(B) At the next meeting, the club leader, Ms. Seo, asked a question about school uniforms. Minjun slowly raised his hand. {2|She} nodded kindly and said, \"Go ahead.\" His voice trembled at first, but he finished all of his points clearly.\n(C) When he sat down, the whole room applauded. {3|He} felt a warm feeling spreading through his chest. For the first time, he understood that courage is not the absence of fear but the choice to speak anyway.\n(D) On the way home, Minjun felt ashamed and thought about quitting. The next day, he stayed after school and practiced alone in an empty classroom. He wrote his opinions on cards and read them aloud to the wall. {4|He} repeated this every day for two weeks, and gradually {5|he} could speak without his voice shaking.",
+    "options": [
+      "(B)-(D)-(C)",
+      "(C)-(B)-(D)",
+      "(C)-(D)-(B)",
+      "(D)-(B)-(C)",
+      "(D)-(C)-(B)"
+    ],
+    "answer": 3,
+    "translation": "(A) 민준은 늘 반 앞에서 말하기에는 너무 수줍어했지만 선생님의 격려를 받고 학교 토론 동아리에 가입했다. 첫 모임에서 다른 회원들은 큰 소리로 토론했고 그는 한마디도 하지 못했다. (B) 다음 모임에서 동아리 회장 서 선생님이 교복에 관한 질문을 했다. 민준은 천천히 손을 들었다. 그녀는 친절하게 고개를 끄덕이며 \"해 보렴.\" 하고 말했다. 그의 목소리는 처음에는 떨렸지만 모든 요점을 분명하게 마무리했다. (C) 그가 자리에 앉자 방 전체가 박수를 쳤다. 그는 따뜻한 느낌이 가슴에 퍼지는 것을 느꼈다. 처음으로 그는 용기가 두려움이 없는 것이 아니라 그럼에도 말하기로 하는 선택임을 이해했다. (D) 집에 가는 길에 민준은 부끄러워서 그만둘까 생각했다. 다음 날 그는 방과 후 남아 빈 교실에서 혼자 연습했다. 그는 자기 의견을 카드에 적어 벽을 향해 소리 내어 읽었다. 그는 이것을 이 주 동안 매일 반복했고 점차 목소리가 떨리지 않고 말할 수 있게 되었다.",
+    "why": "(A) 첫 모임에서 침묵 → (D) 혼자 연습 → (B) 다음 모임에서 발언 → (C) 박수와 깨달음 순서입니다.",
+    "optionNotes": [
+      "(B)의 발언이 연습(D) 전에 올 수 없습니다.",
+      "(C)의 박수가 가장 먼저 올 수 없습니다.",
+      "(C)의 박수가 발언(B) 전에 올 수 없습니다.",
+      "정답. 연습 → 발언 → 박수.",
+      "(C)의 박수가 발언(B) 전에 올 수 없습니다."
+    ],
+    "trap": "(B)의 'At the next meeting'은 (D)의 연습 이후를 가리킵니다.",
+    "tip": "On the way home → The next day → At the next meeting의 시간 흐름을 따라가세요."
+  },
+  {
+    "id": "m3b-12-44",
+    "level": "m3",
+    "set": "mock-12",
+    "no": 44,
+    "type": "long",
+    "group": "m3b-12-g43",
+    "stem": "[43~45] 밑줄 친 ①~⑤ 중에서 가리키는 대상이 나머지 넷과 다른 것을 고르시오.",
+    "passage": "(A) Minjun had always been too shy to speak in front of the class, but {1|he} signed up for the school debate club after a teacher's encouragement. At the first meeting, the other members debated loudly, and he could not say a single word.\n(B) At the next meeting, the club leader, Ms. Seo, asked a question about school uniforms. Minjun slowly raised his hand. {2|She} nodded kindly and said, \"Go ahead.\" His voice trembled at first, but he finished all of his points clearly.\n(C) When he sat down, the whole room applauded. {3|He} felt a warm feeling spreading through his chest. For the first time, he understood that courage is not the absence of fear but the choice to speak anyway.\n(D) On the way home, Minjun felt ashamed and thought about quitting. The next day, he stayed after school and practiced alone in an empty classroom. He wrote his opinions on cards and read them aloud to the wall. {4|He} repeated this every day for two weeks, and gradually {5|he} could speak without his voice shaking.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "②의 She는 친절하게 고개를 끄덕인 동아리 회장 서 선생님이고, 나머지 ①③④⑤는 모두 민준을 가리킵니다.",
+    "optionNotes": [
+      "he는 가입한 민준입니다.",
+      "정답. She는 서 선생님입니다.",
+      "He는 자리에 앉은 민준입니다.",
+      "He는 매일 연습한 민준입니다.",
+      "he는 떨지 않고 말하게 된 민준입니다."
+    ],
+    "trap": "(B)에서 민준과 서 선생님이 함께 나오므로 성별(He/She)로 구분하세요.",
+    "tip": "대명사가 가리키는 대상은 성별과 동작의 주체로 확인하세요."
+  },
+  {
+    "id": "m3b-12-45",
+    "level": "m3",
+    "set": "mock-12",
+    "no": 45,
+    "type": "long",
+    "group": "m3b-12-g43",
+    "stem": "[43~45] 윗글에 관한 내용으로 적절하지 않은 것을 고르시오.",
+    "passage": "(A) Minjun had always been too shy to speak in front of the class, but {1|he} signed up for the school debate club after a teacher's encouragement. At the first meeting, the other members debated loudly, and he could not say a single word.\n(B) At the next meeting, the club leader, Ms. Seo, asked a question about school uniforms. Minjun slowly raised his hand. {2|She} nodded kindly and said, \"Go ahead.\" His voice trembled at first, but he finished all of his points clearly.\n(C) When he sat down, the whole room applauded. {3|He} felt a warm feeling spreading through his chest. For the first time, he understood that courage is not the absence of fear but the choice to speak anyway.\n(D) On the way home, Minjun felt ashamed and thought about quitting. The next day, he stayed after school and practiced alone in an empty classroom. He wrote his opinions on cards and read them aloud to the wall. {4|He} repeated this every day for two weeks, and gradually {5|he} could speak without his voice shaking.",
+    "options": [
+      "민준은 선생님의 격려를 받고 토론 동아리에 가입했다.",
+      "민준은 첫 모임에서 자신 있게 의견을 발표했다.",
+      "민준은 방과 후에 빈 교실에서 혼자 연습했다.",
+      "민준은 다음 모임에서 손을 들고 의견을 말했다.",
+      "민준의 발표가 끝나자 모두가 박수를 쳤다."
+    ],
+    "answer": 1,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "첫 모임에서 민준은 한마디도 하지 못했으므로 자신 있게 발표했다는 ②는 일치하지 않습니다.",
+    "optionNotes": [
+      "after a teacher's encouragement와 일치합니다.",
+      "정답(불일치). 첫 모임에서는 한마디도 하지 못했습니다.",
+      "practiced alone in an empty classroom과 일치합니다.",
+      "raised his hand와 일치합니다.",
+      "the whole room applauded와 일치합니다."
+    ],
+    "trap": "다음 모임의 성공을 첫 모임의 모습으로 착각하지 마세요.",
+    "tip": "불일치 문제는 시점(첫 모임 vs 다음 모임)을 보기와 정확히 대조하세요."
+  }
+]
