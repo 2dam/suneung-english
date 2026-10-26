@@ -1,0 +1,333 @@
+[
+  {
+    "id": "m3b-16-18",
+    "level": "m3",
+    "set": "mock-16",
+    "no": 18,
+    "type": "purpose",
+    "stem": "다음 글의 목적으로 가장 적절한 것은?",
+    "passage": "Dear Customer Service Team,\nI purchased a wireless speaker (Model BX-20) from your online store on October 3, and my order number is 58213. When it arrived, I found that the left side did not produce any sound, and the speaker also turned off automatically after a few minutes. I followed the instructions in the manual to reset it, but the problem remained. Since I bought it only a week ago, I believe that the product was defective from the beginning. For this reason, I would like to request a full refund. I have attached photos of the product and a copy of the receipt. If necessary, I can send the speaker back at my own expense. I would appreciate a reply within a week.\nSincerely,\nHyunwoo Park",
+    "options": [
+      "주문한 제품의 배송 상태와 도착 예정일을 확인하려고",
+      "결함이 있는 제품의 환불을 요청하려고",
+      "제품 사용 설명서의 오류를 지적하려고",
+      "새로운 모델의 출시 일정을 문의하려고",
+      "배송 직원의 불친절을 항의하려고"
+    ],
+    "answer": 1,
+    "translation": "고객 서비스 팀께. 저는 10월 3일 귀사의 온라인 매장에서 무선 스피커(모델 BX-20)를 구입했고 주문 번호는 58213입니다. 도착했을 때 왼쪽에서 소리가 전혀 나지 않았고 스피커가 몇 분 뒤 저절로 꺼졌습니다. 설명서의 지시대로 초기화했지만 문제는 그대로였습니다. 구입한 지 일주일밖에 안 되었으므로 이 제품은 처음부터 결함이 있었다고 믿습니다. 이런 이유로 전액 환불을 요청하고자 합니다. 제품 사진과 영수증 사본을 첨부했습니다. 필요하다면 제 비용으로 스피커를 돌려보낼 수 있습니다. 일주일 안에 답변해 주시면 감사하겠습니다. 박현우 드림.",
+    "why": "소리가 나지 않고 저절로 꺼지는 결함이 있는 제품의 전액 환불을 요청하는 글입니다.",
+    "optionNotes": [
+      "배송 상태 확인은 나오지 않습니다.",
+      "정답. 결함이 있는 제품의 환불을 요청합니다.",
+      "설명서의 오류 지적은 나오지 않습니다.",
+      "새 모델 출시는 나오지 않습니다.",
+      "배송 직원 항의는 나오지 않습니다."
+    ],
+    "trap": "'manual', 'order number'가 나온다고 설명서나 배송 문의(③①)로 착각하지 마세요.",
+    "tip": "목적 문제는 'I would like to request ~' 같은 핵심 문장을 확인하세요."
+  },
+  {
+    "id": "m3b-16-19",
+    "level": "m3",
+    "set": "mock-16",
+    "no": 19,
+    "type": "mood",
+    "stem": "다음 글에 드러난 Sumin의 심경 변화로 가장 적절한 것은?",
+    "passage": "Sumin had spent two months writing a short story for the national youth writing contest. On the day of the announcement, she sat in the school auditorium with her hands pressed together so tightly that her fingers turned white. The host first read out the names of the third-place and second-place winners, and neither was hers. Her heart sank, and she told herself that she had never really had a chance. She was already thinking about how to hide her disappointment from her friends when the host said, \"And the grand prize goes to ... Sumin Lee!\" For a moment, she could not move. Her friends shook her shoulders, laughing and shouting, and only then did she stand up on shaky legs. Walking to the stage, she could hardly believe her ears, and a huge smile spread across her face.",
+    "options": [
+      "bored → annoyed",
+      "curious → embarrassed",
+      "anxious and doubtful → astonished and overjoyed",
+      "calm → frightened",
+      "jealous → regretful"
+    ],
+    "answer": 2,
+    "translation": "수민은 전국 청소년 글쓰기 대회에 낼 단편 소설을 쓰는 데 두 달을 썼다. 발표 날 그녀는 손가락이 하얗게 될 만큼 손을 꼭 모은 채 학교 강당에 앉아 있었다. 사회자는 먼저 3등과 2등 수상자의 이름을 불렀고 어느 쪽도 그녀가 아니었다. 가슴이 내려앉았고 그녀는 애초에 가능성이 없었다고 스스로에게 말했다. 그녀가 친구들에게 실망을 숨길 방법을 이미 생각하고 있을 때 사회자가 말했다. \"그리고 대상은 ... 이수민 학생입니다!\" 잠시 그녀는 움직일 수 없었다. 친구들이 웃고 소리치며 그녀의 어깨를 흔들었고 그제야 그녀는 떨리는 다리로 일어섰다. 무대로 걸어가면서 그녀는 자기 귀를 믿을 수 없었고 얼굴에 커다란 미소가 번졌다.",
+    "why": "수상 가능성이 없다고 불안해하고 의심했다가(anxious and doubtful) 대상을 받자 놀라고 크게 기뻐했으므로(astonished and overjoyed) ③이 알맞습니다.",
+    "optionNotes": [
+      "지루함에서 짜증이 아닙니다.",
+      "호기심에서 당황이 아닙니다.",
+      "정답. 불안과 의심에서 놀람과 큰 기쁨으로 변했습니다.",
+      "침착함에서 두려움이 아닙니다.",
+      "질투에서 후회가 아닙니다."
+    ],
+    "trap": "3등·2등 발표 때의 실망만 보고 끝까지 실망했다고 오해하지 마세요.",
+    "tip": "전환 신호(And the grand prize goes to ~)를 기준으로 앞뒤 감정을 비교하세요."
+  },
+  {
+    "id": "m3b-16-20",
+    "level": "m3",
+    "set": "mock-16",
+    "no": 20,
+    "type": "claim",
+    "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+    "passage": "Many cities face a difficult choice when an old building becomes unsafe or unprofitable: should they tear it down or save it? Demolition may seem like the quickest solution, but it often costs more than people expect. Old buildings carry the memories and identity of a community, and once they are gone, they can never be rebuilt in their original form. Moreover, demolition produces enormous amounts of waste, whereas reusing an existing structure saves materials and energy. Many successful projects prove that old buildings can find new life: an abandoned factory can become an art museum, and an old railway station can become a market. Such places also attract tourists who want to experience the history of a city. Therefore, instead of destroying old buildings without careful thought, cities should preserve them and give them new purposes.",
+    "options": [
+      "도시는 오래된 건물을 허물기보다 보존하고 새로운 용도로 활용해야 한다.",
+      "새 건물을 짓는 것이 항상 비용이 더 적게 든다.",
+      "관광객을 늘리려면 건물을 모두 현대식으로 바꿔야 한다.",
+      "역사적 건물은 개인이 소유하지 못하게 해야 한다.",
+      "도시의 인구를 줄이면 환경 문제가 해결된다."
+    ],
+    "answer": 0,
+    "translation": "많은 도시는 오래된 건물이 위험해지거나 수익이 나지 않게 되면 어려운 선택에 직면한다. 허물 것인가, 살릴 것인가? 철거는 가장 빠른 해법처럼 보일 수 있지만 흔히 사람들이 예상하는 것보다 비용이 더 든다. 오래된 건물은 공동체의 기억과 정체성을 담고 있어서 한번 사라지면 원래 모습으로 다시 지을 수 없다. 게다가 철거는 엄청난 양의 폐기물을 만드는 반면 기존 구조물을 재사용하면 재료와 에너지를 아낀다. 많은 성공 사례는 오래된 건물이 새 삶을 얻을 수 있음을 보여 준다. 버려진 공장은 미술관이 될 수 있고 오래된 기차역은 시장이 될 수 있다. 이런 곳은 도시의 역사를 경험하고 싶어 하는 관광객도 끌어들인다. 그러므로 신중한 생각 없이 오래된 건물을 부수는 대신 도시는 그것을 보존하고 새로운 용도를 주어야 한다.",
+    "why": "마지막 문장에서 도시는 오래된 건물을 보존하고 새로운 용도를 주어야 한다고 주장합니다.",
+    "optionNotes": [
+      "정답. 허물기보다 보존하고 새 용도로 활용해야 합니다.",
+      "새로 짓는 것이 항상 싸다는 말은 글과 반대입니다.",
+      "건물을 모두 현대식으로 바꾸자는 말은 글과 반대입니다.",
+      "소유 제한은 나오지 않습니다.",
+      "인구 감소는 나오지 않습니다."
+    ],
+    "trap": "'tourists'가 나온다고 관광객을 늘리려면 현대식으로 바꾸자(③)는 주장으로 오해하지 마세요.",
+    "tip": "주장 문제는 'Therefore, ~ should' 같은 결론 문장을 확인하세요."
+  },
+  {
+    "id": "m3b-16-21",
+    "level": "m3",
+    "set": "mock-16",
+    "no": 21,
+    "type": "implied",
+    "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "passage": "Jina's final exams were only three days away, and she was far behind in her studies. Every night that week, she was {u|burning the midnight oil} at her desk, with a cup of tea and a pile of notes. Her grandmother, who was worried about her, quietly left a plate of fruit by the door at midnight and again at two o'clock. Jina said thank you each time but never looked up from her book. On the morning of the exam, she looked tired but confident. \"I have gone through everything at least twice,\" she told her grandmother with a weak smile. When the results came out two weeks later, she had earned her highest scores of the year, and she promised her grandmother that she would never wait until the last minute again.",
+    "options": [
+      "cooking dinner for her family at night",
+      "using up too much electricity in her home every night",
+      "sleeping too early because she was tired",
+      "working or studying until very late at night",
+      "writing letters to her friends overseas"
+    ],
+    "answer": 3,
+    "translation": "지나의 기말시험은 사흘밖에 남지 않았고 그녀는 공부가 한참 뒤처져 있었다. 그 주 매일 밤 그녀는 차 한 잔과 노트 더미를 곁에 두고 책상에서 밤늦게까지 공부하고 있었다. 걱정이 된 할머니는 자정과 두 시에 조용히 문 옆에 과일 접시를 두었다. 지나는 그때마다 고맙다고 했지만 책에서 눈을 떼지 않았다. 시험 날 아침 그녀는 피곤해 보였지만 자신감이 있었다. \"적어도 두 번은 전부 훑었어요.\" 하고 그녀가 힘없는 미소로 할머니께 말했다. 이 주 뒤 결과가 나왔을 때 그녀는 올해 가장 높은 점수를 받았고 다시는 마지막 순간까지 미루지 않겠다고 할머니께 약속했다.",
+    "why": "밤마다 책상에서 공부했고 자정과 두 시에도 책에서 눈을 떼지 않았다는 설명이므로 'burning the midnight oil'은 밤늦게까지 공부한다는 뜻입니다.",
+    "optionNotes": [
+      "밤에 요리하는 것이 아닙니다.",
+      "전기를 낭비한다는 뜻이 아닙니다.",
+      "일찍 잔다는 뜻이 아닙니다.",
+      "정답. 밤늦게까지 일하거나 공부한다는 뜻입니다.",
+      "편지를 쓴다는 뜻이 아닙니다."
+    ],
+    "trap": "'oil'을 문자 그대로 기름이나 전기와 연결하지 마세요.",
+    "tip": "관용 표현은 앞뒤 문맥(at her desk, at midnight, two o'clock)에서 의미를 추론하세요."
+  },
+  {
+    "id": "m3b-16-22",
+    "level": "m3",
+    "set": "mock-16",
+    "no": 22,
+    "type": "gist",
+    "stem": "다음 글의 요지로 가장 적절한 것은?",
+    "passage": "Many people feel nervous before an important performance, such as giving a speech or taking an exam. The usual advice is to calm down, but research suggests another approach. In one study, researchers asked participants to sing a popular song in front of a stranger. Before singing, some participants were told to say, \"I am calm,\" while others were told to say, \"I am excited.\" The group that said they were excited gave better performances and received higher scores than those who tried to calm down. The researchers explained that anxiety and excitement are physically similar: both involve a fast heartbeat and high energy. It is much easier to turn one into the other than to calm down completely. Therefore, when we feel nervous, it may be more helpful to see the feeling as excitement.",
+    "options": [
+      "긴장되는 상황에서 불안을 설렘으로 받아들이면 수행이 나아질 수 있다.",
+      "긴장되는 상황에서는 흥분을 억누르고 마음을 가라앉히는 것이 가장 효과적이다.",
+      "노래 실력은 연습량에 비례해 꾸준히 향상된다.",
+      "무대 공포증은 타고난 성격이어서 고치기 어렵다.",
+      "발표 전에는 다른 사람의 조언을 듣지 않는 편이 좋다."
+    ],
+    "answer": 0,
+    "translation": "많은 사람은 연설을 하거나 시험을 치르는 것 같은 중요한 수행 전에 긴장한다. 흔한 조언은 마음을 가라앉히라는 것이지만 연구는 다른 접근을 시사한다. 한 연구에서 연구자들은 참가자들에게 낯선 사람 앞에서 인기 있는 노래를 부르게 했다. 노래 전에 일부 참가자에게는 \"나는 차분하다.\"라고 말하게 했고 다른 참가자에게는 \"나는 신난다.\"라고 말하게 했다. 신난다고 말한 집단이 마음을 가라앉히려 한 집단보다 더 나은 연주를 했고 더 높은 점수를 받았다. 연구자들은 불안과 설렘이 신체적으로 비슷하다고 설명했다. 둘 다 빠른 심장 박동과 높은 에너지를 수반한다. 하나를 다른 하나로 바꾸는 것이 완전히 가라앉히는 것보다 훨씬 쉽다. 그러므로 긴장될 때는 그 느낌을 설렘으로 보는 것이 더 도움이 될 수 있다.",
+    "why": "불안과 설렘은 신체 반응이 비슷하므로 긴장을 설렘으로 받아들이면 수행이 나아질 수 있다는 내용입니다.",
+    "optionNotes": [
+      "정답. 불안을 설렘으로 받아들이면 수행이 나아집니다.",
+      "통념이며 글이 반박합니다.",
+      "연습량은 나오지 않습니다.",
+      "타고난 성격이라는 말은 나오지 않습니다.",
+      "조언을 듣지 말라는 말은 나오지 않습니다."
+    ],
+    "trap": "첫 부분의 통념(마음을 가라앉히라)을 필자의 주장으로 착각하지 마세요.",
+    "tip": "요지는 'but research suggests', 'Therefore' 이후의 문장을 확인하세요."
+  },
+  {
+    "id": "m3b-16-23",
+    "level": "m3",
+    "set": "mock-16",
+    "no": 23,
+    "type": "topic",
+    "stem": "다음 글의 주제로 가장 적절한 것은?",
+    "passage": "After a long flight across several time zones, many travelers feel tired, hungry at strange hours, and unable to concentrate. This condition is known as jet lag. It occurs because the body's internal clock stays set to the time zone of home while the sun rises and sets according to the new place. The internal clock controls when we feel sleepy and awake, so a mismatch confuses the whole body. Experts say that the effects are usually stronger when traveling east than when traveling west. It is harder to fall asleep earlier than usual. To reduce jet lag, travelers can shift their sleep schedule by an hour or two a few days before leaving. After arriving, they should spend time in sunlight and avoid caffeine late in the day. With these simple steps, the body can adjust to the new time in a few days instead of a week.",
+    "options": [
+      "비행기 좌석을 고르는 요령",
+      "세계 표준시가 만들어진 역사",
+      "시차로 인한 피로의 원인과 줄이는 방법",
+      "해외 여행 경비를 효과적으로 줄이는 여러 가지 방법",
+      "공항 보안 검색의 절차"
+    ],
+    "answer": 2,
+    "translation": "여러 시간대를 가로지르는 긴 비행 뒤에 많은 여행자는 피곤하고 이상한 시간에 배가 고프며 집중하지 못한다. 이 상태는 시차증으로 알려져 있다. 그것은 해가 뜨고 지는 것은 새로운 곳에 따르는데 체내 시계는 집의 시간대에 맞춰져 있기 때문에 생긴다. 체내 시계는 우리가 언제 졸리고 깨어 있는지를 조절하므로 불일치는 몸 전체를 혼란스럽게 한다. 전문가들은 동쪽으로 여행할 때가 서쪽으로 여행할 때보다 영향이 대개 더 강하다고 말한다. 평소보다 일찍 잠들기가 더 어렵기 때문이다. 시차증을 줄이려면 여행자는 떠나기 며칠 전에 수면 일정을 한두 시간 옮길 수 있다. 도착한 뒤에는 햇빛을 쬐고 늦은 시간에 카페인을 피해야 한다. 이런 간단한 단계로 몸은 일주일 대신 며칠 안에 새로운 시간에 적응할 수 있다.",
+    "why": "시차증이 생기는 원인과 그것을 줄이는 방법을 설명하는 글입니다.",
+    "optionNotes": [
+      "좌석 선택은 나오지 않습니다.",
+      "표준시의 역사는 나오지 않습니다.",
+      "정답. 시차로 인한 피로의 원인과 줄이는 방법입니다.",
+      "여행 경비는 나오지 않습니다.",
+      "보안 검색은 나오지 않습니다."
+    ],
+    "trap": "'flight'가 나온다고 비행기·공항(①⑤)과 관련된 주제로 착각하지 마세요.",
+    "tip": "주제는 반복되는 핵심어(jet lag, internal clock)로 파악하세요."
+  },
+  {
+    "id": "m3b-16-24",
+    "level": "m3",
+    "set": "mock-16",
+    "no": 24,
+    "type": "title",
+    "stem": "다음 글의 제목으로 가장 적절한 것은?",
+    "passage": "A century ago, a library was mainly a quiet place to borrow books. Today, many libraries are changing to meet the needs of their communities. In addition to books, visitors can now borrow tools, musical instruments, and even board games. Some libraries have added workshops where teenagers can learn coding or design clothes, and others offer language classes for newcomers. Many provide free spaces for students to study and for neighbors to hold meetings. Librarians say that as information becomes available online, people need a place that offers more than information: a place to connect, create, and learn together. For this reason, libraries are no longer judged only by the number of books on their shelves but by the number of lives they touch. They are becoming the living rooms of their communities.",
+    "options": [
+      "Why Printed Books Will Probably Disappear Within the Next Ten Years",
+      "How to Find the Cheapest E-books on the Internet",
+      "The History of the World's Oldest Library",
+      "Beyond Books: How Libraries Are Becoming Community Hubs",
+      "Tips for Keeping Your Library Card Safe and Clean"
+    ],
+    "answer": 3,
+    "translation": "한 세기 전 도서관은 주로 책을 빌리는 조용한 장소였다. 오늘날 많은 도서관은 공동체의 필요에 맞추려고 변하고 있다. 방문객은 책 외에도 이제 공구, 악기, 심지어 보드게임도 빌릴 수 있다. 일부 도서관은 십대가 코딩을 배우거나 옷을 디자인할 수 있는 워크숍을 더했고 다른 곳은 새로 온 사람들을 위한 언어 수업을 제공한다. 많은 도서관은 학생들이 공부하고 이웃이 모임을 열 수 있는 무료 공간을 제공한다. 사서들은 정보가 온라인에서 이용 가능해지면서 사람들에게는 정보 이상을 제공하는 곳, 즉 함께 연결하고 창작하고 배우는 곳이 필요하다고 말한다. 이런 이유로 도서관은 더는 서가의 책 수만으로 평가되지 않고 영향을 주는 삶의 수로 평가된다. 도서관은 공동체의 거실이 되어 가고 있다.",
+    "why": "도서관이 책을 넘어 공동체의 중심 공간으로 변하는 모습을 설명하므로 ④가 제목으로 알맞습니다.",
+    "optionNotes": [
+      "종이책 소멸은 나오지 않습니다.",
+      "전자책 가격은 나오지 않습니다.",
+      "가장 오래된 도서관의 역사는 나오지 않습니다.",
+      "정답. 책을 넘어 공동체 공간이 되는 도서관입니다.",
+      "도서관 카드 관리는 나오지 않습니다."
+    ],
+    "trap": "'books', 'online'이 나온다고 종이책 소멸(①)이나 전자책(②)으로 착각하지 마세요.",
+    "tip": "제목은 글 전체의 핵심 변화(책 중심에서 공동체 중심으로)를 담으세요."
+  },
+  {
+    "id": "m3b-16-25",
+    "level": "m3",
+    "set": "mock-16",
+    "no": 25,
+    "type": "chart",
+    "stem": "다음 도표의 내용과 일치하지 않는 것은?",
+    "chart": {
+      "title": "Average Monthly Rainfall of City A (mm)",
+      "unit": "mm",
+      "labels": [
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct"
+      ],
+      "series": [
+        {
+          "name": "Rainfall",
+          "values": [
+            120,
+            300,
+            240,
+            150,
+            60
+          ]
+        }
+      ]
+    },
+    "passage": "The graph shows the average monthly rainfall of City A from June to October. ① July has the most rainfall. ② The rainfall in August is 60 mm less than that in July. ③ The rainfall in September is half of that in July. ④ The rainfall in October is one third of that in June. ⑤ The total rainfall of June and September is 270 mm.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "그래프는 A시의 6월부터 10월까지 월평균 강수량을 보여 준다. ① 7월의 강수량이 가장 많다. ② 8월의 강수량은 7월보다 60mm 적다. ③ 9월의 강수량은 7월의 절반이다. ④ 10월의 강수량은 6월의 3분의 1이다. ⑤ 6월과 9월의 강수량 합계는 270mm이다.",
+    "why": "10월은 60mm, 6월은 120mm이므로 3분의 1이 아니라 절반이어서 ④는 일치하지 않습니다.",
+    "optionNotes": [
+      "7월 300mm로 가장 많습니다.",
+      "300 - 240 = 60mm입니다.",
+      "150은 300의 절반입니다.",
+      "정답(불일치). 60은 120의 절반입니다.",
+      "120 + 150 = 270mm입니다."
+    ],
+    "trap": "배수 표현(one third)을 어림으로 넘기지 마세요.",
+    "tip": "그래프 문제는 분수·배수 표현을 직접 계산해 확인하세요."
+  },
+  {
+    "id": "m3b-16-26",
+    "level": "m3",
+    "set": "mock-16",
+    "no": 26,
+    "type": "match",
+    "stem": "Wangari Maathai에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Wangari Maathai was born in 1940 in a rural village in Kenya. She was one of the first Kenyan girls to attend university in the United States, where she studied biology. She later became the first woman in East and Central Africa to earn a doctorate. In 1977, she founded the Green Belt Movement, which encouraged rural women to plant trees to stop soil erosion, provide firewood, and earn a small income. The movement has planted tens of millions of trees. Her work inspired women across Africa. Because she also spoke out for democracy and human rights, she was sometimes arrested and beaten by the government at that time. In 2004, she became the first African woman to receive the Nobel Peace Prize. She died in 2011.",
+    "options": [
+      "미국에서 태어나 케냐로 건너와 환경 운동을 시작했다.",
+      "시골 여성들이 나무를 심어 토양 유실을 막고 소득을 얻도록 돕는 운동을 이끌었다.",
+      "노벨 평화상을 받은 뒤에야 녹색 띠 운동을 시작했다.",
+      "정부의 지지를 받으며 안전하게 활동했다.",
+      "박사 학위를 받기 전에 세상을 떠났다."
+    ],
+    "answer": 1,
+    "translation": "왕가리 마타이는 1940년 케냐의 한 시골 마을에서 태어났다. 그녀는 미국의 대학에 다닌 최초의 케냐 소녀들 중 한 명이었고 그곳에서 생물학을 공부했다. 그녀는 나중에 동아프리카와 중앙아프리카에서 박사 학위를 받은 최초의 여성이 되었다. 1977년 그녀는 그린벨트 운동을 창설했는데 이는 시골 여성들이 토양 유실을 막고 땔감을 마련하고 작은 소득을 얻도록 나무를 심게 장려했다. 이 운동은 수천만 그루의 나무를 심었다. 그녀의 활동은 아프리카 전역의 여성들에게 영감을 주었다. 그녀는 민주주의와 인권을 위해서도 목소리를 냈기 때문에 당시 정부에 의해 체포되고 구타당하기도 했다. 2004년 그녀는 노벨 평화상을 받은 최초의 아프리카 여성이 되었다. 그녀는 2011년에 세상을 떠났다.",
+    "why": "시골 여성들이 나무를 심어 토양 유실을 막고 소득을 얻도록 한 그린벨트 운동을 이끌었다고 했으므로 ②가 일치합니다.",
+    "optionNotes": [
+      "케냐에서 태어났고 미국에서는 공부했습니다.",
+      "정답. 여성들의 나무 심기 운동을 이끌었습니다.",
+      "1977년에 시작했고 노벨상은 2004년에 받았습니다.",
+      "정부에 체포되고 구타당하기도 했습니다.",
+      "박사 학위를 받은 최초의 여성이었습니다."
+    ],
+    "trap": "운동의 창설(1977)과 노벨상 수상(2004)의 순서를 뒤바꿔 이해하지 마세요.",
+    "tip": "일치 문제는 연도·업적·시련을 보기와 하나씩 대조하세요."
+  },
+  {
+    "id": "m3b-16-27",
+    "level": "m3",
+    "set": "mock-16",
+    "no": 27,
+    "type": "notice",
+    "stem": "Youth Writing Contest 안내문의 내용과 일치하는 것은?",
+    "passage": "Hanbit Library - Youth Writing Contest\nTheme: \"My Hometown\"\nWho can join: Students in Grades 7 to 9\nForm: An essay of 500 to 700 words\nHow to submit: Upload your essay on the library website by Friday, November 28.\nPrizes: 1st place - $100 book voucher / 2nd place - $50 book voucher\nResults: Announced on December 12 on the website\nNote: Only one entry per student. Works that have been published elsewhere cannot be accepted.",
+    "options": [
+      "응모 주제는 참가자가 자유롭게 정한다.",
+      "한 학생이 원하는 만큼 여러 작품을 응모할 수 있다.",
+      "응모는 우편으로만 받는다.",
+      "결과는 11월 28일에 발표된다.",
+      "이미 다른 곳에 발표된 작품은 응모할 수 없다."
+    ],
+    "answer": 4,
+    "translation": "한빛 도서관 – 청소년 글쓰기 대회. 주제: \"나의 고향\". 참가 대상: 7~9학년 학생. 형식: 500~700단어의 에세이. 제출 방법: 11월 28일 금요일까지 도서관 누리집에 에세이를 올리세요. 상: 1등 – 100달러 도서 상품권 / 2등 – 50달러 도서 상품권. 결과: 12월 12일 누리집에서 발표. 유의: 학생당 한 작품만 응모할 수 있습니다. 다른 곳에 발표된 작품은 받을 수 없습니다.",
+    "why": "'Works that have been published elsewhere cannot be accepted'와 일치합니다.",
+    "optionNotes": [
+      "주제가 정해져 있습니다.",
+      "학생당 한 작품만 응모할 수 있습니다.",
+      "누리집에 올려 제출합니다.",
+      "11월 28일은 제출 마감일입니다.",
+      "정답. 다른 곳에 발표된 작품은 받지 않습니다."
+    ],
+    "trap": "제출 마감(11월 28일)과 결과 발표(12월 12일)를 혼동하지 마세요.",
+    "tip": "안내문의 Theme, How to submit, Results, Note 항목을 하나씩 대조하세요."
+  },
+  {
+    "id": "m3b-16-28",
+    "level": "m3",
+    "set": "mock-16",
+    "no": 28,
+    "type": "notice",
+    "stem": "Night Camp 안내문의 내용과 일치하는 것은?",
+    "passage": "Hanbit Science Museum - Night Camp\nDate: Friday, November 14, 6 p.m. - Saturday, November 15, 9 a.m.\nWho can join: Students in Grades 5 to 7 (limited to 40 students)\nFee: $35 (dinner and breakfast are included)\nActivities: Star watching with telescopes, a planetarium show, and a glow-in-the-dark experiment\nWhat to bring: A sleeping bag and a flashlight\nRegistration: Online by November 5 (first come, first served)",
+    "options": [
+      "오후에 시작해서 같은 날 저녁에 끝난다.",
+      "모든 중학생이 참가할 수 있다.",
+      "침낭은 박물관에서 빌려준다.",
+      "참가비에는 저녁 식사와 아침 식사가 포함되어 있다.",
+      "신청은 행사 당일 박물관 현장에서 선착순으로만 받는다."
+    ],
+    "answer": 3,
+    "translation": "한빛 과학관 – 야간 캠프. 일시: 11월 14일 금요일 오후 6시~11월 15일 토요일 오전 9시. 참가 대상: 5~7학년 학생(40명 한정). 참가비: 35달러(저녁과 아침 식사 포함). 활동: 망원경으로 별 보기, 천체 투영관 상영, 야광 실험. 준비물: 침낭과 손전등. 신청: 11월 5일까지 온라인(선착순).",
+    "why": "'Fee: $35 (dinner and breakfast are included)'와 일치합니다.",
+    "optionNotes": [
+      "다음 날 아침에 끝납니다.",
+      "5~7학년만 참가할 수 있습니다.",
+      "침낭은 직접 가져와야 합니다.",
+      "정답. 저녁과 아침 식사가 포함됩니다.",
+      "11월 5일까지 온라인으로 신청합니다."
+    ],
+    "trap": "신청 마감(11월 5일)과 캠프 날짜(11월 14일)를 혼동하지 마세요.",
+    "tip": "안내문의 Date, Who, Fee, What to bring, Registration 항목을 하나씩 대조하세요."
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m3b-16-29",
+    "level": "m3",
+    "set": "mock-16",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Every night, we spend about two hours dreaming, although most of the dreams {1|are} forgotten soon after we wake up. Scientists have long tried to explain why we dream, and several theories exist. One theory suggests that dreaming helps the brain sort memories, {2|keeping} important ones and discarding unimportant ones. Another theory holds that dreams allow us to practice dealing with threats, which may have helped our ancestors survive. A third theory says that dreams are simply the brain's way of making sense of random signals {3|generated} during sleep. Whichever theory is correct, research shows that people who {4|is} deprived of dream-rich sleep have more difficulty with learning and mood. This suggests that dreaming serves a purpose, even though we may not be able to {5|fully} understand it yet.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "매일 밤 우리는 약 두 시간 동안 꿈을 꾸지만 대부분의 꿈은 깨어난 직후 곧 잊힌다. 과학자들은 오랫동안 우리가 왜 꿈을 꾸는지 설명하려 했고 여러 이론이 있다. 한 이론은 꿈이 뇌가 기억을 분류해 중요한 것은 간직하고 중요하지 않은 것은 버리도록 돕는다고 제안한다. 다른 이론은 꿈이 위협에 대처하는 연습을 하게 해 주며 이것이 우리 조상이 살아남는 데 도움이 되었을 수 있다고 본다. 세 번째 이론은 꿈이 단지 수면 중에 생성되는 무작위 신호를 뇌가 이해하려는 방식이라고 말한다. 어느 이론이 맞든 연구에 따르면 꿈이 풍부한 수면을 박탈당한 사람은 학습과 기분에 더 큰 어려움을 겪는다. 이는 우리가 아직 그것을 완전히 이해하지 못하더라도 꿈이 어떤 목적을 가짐을 시사한다.",
+    "why": "관계대명사절의 선행사 people은 복수이므로 is가 아니라 are여야 합니다.",
+    "optionNotes": [
+      "복수 주어 the dreams에 맞는 수동태 are입니다.",
+      "분사구문 keeping으로 올바릅니다.",
+      "signals를 꾸미는 과거분사 generated입니다.",
+      "정답(틀린 것). 선행사 people에 맞춰 are deprived여야 합니다.",
+      "동사 understand를 꾸미는 부사 fully입니다."
+    ],
+    "trap": "관계절 안에서 주어 who의 선행사(people)가 복수임을 놓치기 쉽습니다.",
+    "tip": "관계대명사의 동사는 선행사의 수에 일치시키세요."
+  },
+  {
+    "id": "m3b-16-30",
+    "level": "m3",
+    "set": "mock-16",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "As cities grow, fewer people have access to fresh, locally grown food. Urban farming offers a {1|promising} solution. On rooftops, in vacant lots, and even inside buildings, people are growing vegetables and herbs in the heart of the city. Because the food travels only a short distance, it stays fresh and requires less fuel for {2|transportation}. Urban farms also {3|provide} opportunities for neighbors to work together and learn about food. Moreover, plants help cool the air and absorb rainwater, which makes cities more {4|comfortable}. Of course, urban farming has limits: space is expensive, and the harvest is small compared with that of large rural farms. Therefore, urban farming should be seen as a {5|replacement} for traditional agriculture, not as a supplement to it.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "도시가 커지면서 신선한 지역 농산물을 접할 수 있는 사람이 줄어든다. 도시 농업은 유망한 해결책을 제공한다. 옥상, 빈 터, 심지어 건물 안에서도 사람들은 도시 한가운데에서 채소와 허브를 기르고 있다. 식품이 짧은 거리만 이동하므로 신선하게 유지되고 운송에 연료가 덜 든다. 도시 농장은 또한 이웃이 함께 일하고 식품에 대해 배울 기회를 제공한다. 게다가 식물은 공기를 식히고 빗물을 흡수해 도시를 더 쾌적하게 만든다. 물론 도시 농업에는 한계가 있다. 공간이 비싸고 수확량도 큰 시골 농장에 비하면 적다. 그러므로 도시 농업은 전통 농업을 보충하는 것이 아니라 전통 농업의 대체물로 보아야 한다.",
+    "why": "앞에서 한계를 설명했으므로 도시 농업은 전통 농업의 '대체물(replacement)'이 아니라 '보완물(supplement)'로 보아야 합니다.",
+    "optionNotes": [
+      "유망한 해결책이라는 의미로 promising이 알맞습니다.",
+      "연료가 덜 드는 운송이라는 의미로 transportation이 알맞습니다.",
+      "기회를 제공한다는 의미로 provide가 알맞습니다.",
+      "도시를 더 쾌적하게 만든다는 의미로 comfortable이 알맞습니다.",
+      "정답(부적절). 한계를 말한 뒤이므로 보완물을 뜻하는 supplement여야 합니다."
+    ],
+    "trap": "뒤의 'not as a supplement'와 짝을 이루는 말이 무엇인지 놓치기 쉽습니다.",
+    "tip": "Of course 뒤의 한계 설명이 Therefore 결론의 방향을 결정합니다."
+  },
+  {
+    "id": "m3b-16-31",
+    "level": "m3",
+    "set": "mock-16",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Imagine that you have paid ten dollars for a movie ticket, but after thirty minutes you realize that the film is boring. Many people would stay until the end because they have already paid. However, the ten dollars is gone whether you stay or leave. The only real question is how you want to spend the next two hours. Economists call this mistake the sunk cost fallacy: the tendency to continue an action because of the time, money, or effort already invested in it. The same trap appears in many areas of life, such as staying in a job that makes us unhappy or continuing a project that is clearly failing. In other words, to make better decisions, we should __________.",
+    "options": [
+      "spend even more money on whatever we have already bought in the past",
+      "avoid making any decisions that involve money",
+      "focus on future costs and benefits rather than past investments",
+      "ask friends to decide for us whenever it is possible",
+      "choose the cheapest option every time we go shopping"
+    ],
+    "answer": 2,
+    "translation": "영화표에 10달러를 냈는데 삼십 분 뒤 영화가 지루하다는 것을 깨달았다고 상상해 보자. 많은 사람은 이미 돈을 냈기 때문에 끝까지 남을 것이다. 그러나 남든 떠나든 10달러는 사라졌다. 진짜 질문은 앞으로의 두 시간을 어떻게 보내고 싶으냐뿐이다. 경제학자들은 이 실수를 매몰 비용 오류라고 부르는데, 이미 투입한 시간, 돈, 노력 때문에 행동을 계속하려는 경향이다. 같은 함정은 우리를 불행하게 하는 직장에 머물거나 명백히 실패하는 프로젝트를 계속하는 것처럼 삶의 많은 영역에서 나타난다. 다시 말해 더 나은 결정을 내리려면 과거의 투자보다 미래의 비용과 이익에 초점을 맞춰야 한다.",
+    "why": "이미 쓴 비용은 되돌릴 수 없으므로 과거의 투자가 아니라 앞으로의 비용과 이익에 초점을 맞춰야 합니다.",
+    "optionNotes": [
+      "과거에 산 것에 돈을 더 쓰자는 말은 글과 반대입니다.",
+      "돈이 얽힌 결정을 피하자는 말은 나오지 않습니다.",
+      "정답. 과거의 투자가 아니라 미래의 비용과 이익에 초점을 맞춥니다.",
+      "친구에게 결정을 맡기자는 말은 나오지 않습니다.",
+      "가장 싼 것을 고르자는 말은 나오지 않습니다."
+    ],
+    "trap": "'has already paid'라는 과거 투자를 근거로 삼는 것이 오류라는 점을 놓치기 쉽습니다.",
+    "tip": "예시(영화표)의 교훈을 일반화하면 빈칸이 나옵니다."
+  },
+  {
+    "id": "m3b-16-32",
+    "level": "m3",
+    "set": "mock-16",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Russian has two basic words for blue: goluboy for light blue and siniy for dark blue. English speakers use the same word, blue, for both, and add adjectives only when needed. Researchers wondered whether this difference affects how people see colors. This question has interested scientists for many decades. In an experiment, Russian and English speakers were shown three squares of blue and asked which two matched. Russian speakers identified the differences between light and dark blues faster, especially when the squares crossed the boundary between the two Russian words. The effect disappeared when the participants were asked to repeat random numbers while doing the task, which blocked their inner language. The researchers repeated the test several times with different groups. These results suggest that language can __________.",
+    "options": [
+      "prevent young children from learning a second language easily",
+      "influence the way people perceive and categorize the world",
+      "determine the color of the objects around us",
+      "make people forget words from their native tongue",
+      "slow down the speed at which people read"
+    ],
+    "answer": 1,
+    "translation": "러시아어에는 파랑을 뜻하는 기본 낱말이 두 개 있는데 밝은 파랑은 골루보이, 어두운 파랑은 시니이이다. 영어 화자는 둘 모두에 같은 낱말 blue를 쓰고 필요할 때만 형용사를 붙인다. 연구자들은 이 차이가 사람들이 색을 보는 방식에 영향을 주는지 궁금했다. 이 질문은 수십 년 동안 과학자들의 관심을 끌어 왔다. 한 실험에서 러시아어와 영어 화자에게 파란 사각형 세 개를 보여 주고 어느 두 개가 같은지 물었다. 러시아어 화자는 특히 사각형이 두 러시아어 낱말의 경계를 넘나들 때 밝은 파랑과 어두운 파랑의 차이를 더 빨리 알아냈다. 참가자에게 과제를 하는 동안 무작위 숫자를 반복하게 해서 속으로 하는 말을 막자 이 효과는 사라졌다. 연구자들은 다른 집단으로 이 시험을 여러 번 반복했다. 이 결과는 언어가 사람들이 세계를 지각하고 분류하는 방식에 영향을 줄 수 있음을 시사한다.",
+    "why": "언어가 색 구별 속도에 영향을 주었고 속으로 하는 말을 막자 효과가 사라졌으므로 언어는 세계를 지각하고 분류하는 방식에 영향을 줍니다.",
+    "optionNotes": [
+      "제2 언어 학습 방해는 나오지 않습니다.",
+      "정답. 지각과 분류 방식에 영향을 줍니다.",
+      "물체의 색을 결정한다는 내용은 나오지 않습니다.",
+      "모국어 낱말을 잊게 한다는 내용은 나오지 않습니다.",
+      "읽는 속도는 나오지 않습니다."
+    ],
+    "trap": "'blocked their inner language'를 언어를 잊게 한다는 뜻(④)으로 오해하지 마세요.",
+    "tip": "실험 결과(언어 차이 → 구별 속도 차이)를 일반화하면 빈칸이 나옵니다."
+  },
+  {
+    "id": "m3b-16-33",
+    "level": "m3",
+    "set": "mock-16",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Our bones and muscles become stronger when they face a reasonable amount of stress. Lifting weights creates tiny tears in the muscles, and as these heal, the muscles grow larger. In contrast, astronauts who spend months in space, where there is little gravity, lose bone density quickly. The same principle seems to apply to the mind. Children who are protected from every small difficulty often have trouble coping with larger problems later, while those who have successfully faced manageable challenges develop confidence and resilience. Of course, too much stress can cause damage, as an overloaded muscle may tear or a frightened child may be overwhelmed. The key is the balance. Too little challenge leaves us weak, but too much can break us. In other words, some stress can __________.",
+    "options": [
+      "teach us that effort is a waste of time",
+      "protect us from ever feeling anxious again",
+      "reduce the need for sleep and exercise",
+      "make us dependent on the help of others",
+      "make us stronger as long as it is not too severe"
+    ],
+    "answer": 4,
+    "translation": "우리 뼈와 근육은 적당한 양의 스트레스에 직면할 때 더 강해진다. 역기를 들면 근육에 아주 작은 찢어짐이 생기고 이것이 아물면서 근육이 커진다. 반대로 중력이 거의 없는 우주에서 몇 달을 보내는 우주 비행사는 골밀도를 빠르게 잃는다. 같은 원리가 마음에도 적용되는 것 같다. 작은 어려움조차 모두 막아 주는 환경에서 자란 아이들은 나중에 더 큰 문제에 대처하기 힘든 경우가 많은 반면, 감당할 만한 도전에 성공적으로 맞선 아이들은 자신감과 회복탄력성을 키운다. 물론 지나친 스트레스는 손상을 일으킬 수 있다. 과부하가 걸린 근육은 찢어질 수 있고 겁먹은 아이는 압도될 수 있다. 핵심은 균형이다. 도전이 너무 적으면 우리는 약해지고 너무 많으면 우리가 무너질 수 있다. 다시 말해 어떤 스트레스는 너무 심하지 않은 한 우리를 더 강하게 만들 수 있다.",
+    "why": "적당한 스트레스는 근육과 마음을 강하게 하지만 지나치면 해가 되므로 너무 심하지 않은 한 더 강하게 만듭니다.",
+    "optionNotes": [
+      "노력이 헛되다는 내용은 글과 반대입니다.",
+      "불안을 영원히 막아 준다는 내용은 나오지 않습니다.",
+      "수면과 운동이 덜 필요하다는 내용은 나오지 않습니다.",
+      "남에게 의존하게 한다는 내용은 나오지 않습니다.",
+      "정답. 너무 심하지 않은 한 더 강하게 만듭니다."
+    ],
+    "trap": "'too much stress can cause damage'만 보고 스트레스는 모두 해롭다고 오해하지 마세요.",
+    "tip": "'The key is the balance'라는 조건(적당함)이 정답에 반영됩니다."
+  },
+  {
+    "id": "m3b-16-34",
+    "level": "m3",
+    "set": "mock-16",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In a study of problem solving, researchers formed two types of groups: groups whose members shared similar backgrounds and groups whose members came from different backgrounds. Then they gave each group a difficult murder mystery to solve. The groups discussed the case together and then announced their answers. Surprisingly, the diverse groups performed better, even though their members said that the discussion felt less comfortable. The researchers explained that people who share a background tend to agree too quickly and stop asking questions, while people with different experiences challenge one another and examine the facts more carefully. This extra effort leads to more accurate conclusions. In short, a team with diverse members can perform well because the differences among them __________.",
+    "options": [
+      "encourage everyone to think more carefully and question assumptions",
+      "make the members less willing to share their own ideas with the others",
+      "reduce the time needed to reach an agreement",
+      "allow the group to avoid arguments completely",
+      "ensure that the strongest member always decides"
+    ],
+    "answer": 0,
+    "translation": "문제 해결에 관한 한 연구에서 연구자들은 두 유형의 집단을 만들었다. 구성원이 비슷한 배경을 공유하는 집단과 구성원이 서로 다른 배경에서 온 집단이었다. 그런 다음 각 집단에 풀어야 할 어려운 살인 미스터리를 주었다. 집단은 사건을 함께 토론한 뒤 답을 발표했다. 놀랍게도 다양한 집단이 구성원들이 토론이 덜 편안하게 느껴졌다고 말했는데도 더 좋은 성적을 거두었다. 연구자들은 배경을 공유하는 사람들은 너무 빨리 동의하고 질문을 멈추는 경향이 있는 반면, 서로 다른 경험을 가진 사람들은 서로에게 이의를 제기하고 사실을 더 신중하게 살펴본다고 설명했다. 이런 추가 노력이 더 정확한 결론으로 이어진다. 요컨대 다양한 구성원으로 이루어진 팀이 잘할 수 있는 것은 그들 사이의 차이가 모두가 더 신중하게 생각하고 가정에 의문을 제기하도록 북돋우기 때문이다.",
+    "why": "다양한 배경의 사람들은 서로 이의를 제기하며 사실을 신중히 살피므로, 차이가 더 신중한 사고와 가정에 대한 의문을 북돋웁니다.",
+    "optionNotes": [
+      "정답. 차이가 신중한 사고와 의문 제기를 북돋웁니다.",
+      "아이디어를 덜 나누게 한다는 내용은 나오지 않습니다.",
+      "합의 시간이 줄어든다는 내용은 글과 반대입니다.",
+      "논쟁을 완전히 피한다는 내용은 글과 반대입니다.",
+      "가장 강한 구성원이 결정한다는 내용은 나오지 않습니다."
+    ],
+    "trap": "토론이 덜 편안했다는 말을 성과가 나빴다는 뜻으로 오해하지 마세요.",
+    "tip": "'Surprisingly' 이후의 결과와 이유 설명이 정답의 근거입니다."
+  },
+  {
+    "id": "m3b-16-35",
+    "level": "m3",
+    "set": "mock-16",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Learning to play a musical instrument offers more than musical skills. Many parents encourage their children to start early, and research suggests that it is worth the effort. ① Practicing regularly teaches children discipline, because progress depends on steady effort rather than sudden talent or luck. ② Reading music and coordinating both hands also exercise the brain, and studies link musical training to better memory in both children and adults. ③ Digital pianos have become much cheaper in recent years thanks to new technology and mass production. ④ Playing in a band or an orchestra develops teamwork, since each player must listen carefully to the others. ⑤ Finally, performing in front of an audience builds self-confidence and reduces fear of public speaking later in life.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "악기를 배우는 것은 음악 실력 이상의 것을 준다. 많은 부모가 자녀가 일찍 시작하도록 권하며 연구는 그럴 만한 가치가 있음을 시사한다. ① 규칙적인 연습은 진전이 갑작스러운 재능이나 운이 아니라 꾸준한 노력에 달려 있으므로 아이들에게 자제력을 가르친다. ② 악보를 읽고 두 손을 조율하는 것은 뇌도 단련하며 연구는 음악 훈련이 아이와 어른 모두에게서 더 나은 기억과 관련이 있다고 말한다. ③ 디지털 피아노는 새로운 기술과 대량 생산 덕분에 최근 몇 년 사이 훨씬 싸졌다. ④ 밴드나 오케스트라에서 연주하면 각 연주자가 다른 사람의 소리를 주의 깊게 들어야 하므로 팀워크가 길러진다. ⑤ 마지막으로 청중 앞에서 공연하면 자신감이 생기고 나중에 사람들 앞에서 말하는 두려움이 줄어든다.",
+    "why": "글은 악기를 배우면 얻는 이점을 이야기하는데 ③은 디지털 피아노 가격에 관한 별개의 이야기입니다.",
+    "optionNotes": [
+      "자제력을 기른다는 이점입니다.",
+      "뇌를 단련하고 기억을 돕는다는 이점입니다.",
+      "정답(무관). 디지털 피아노 가격은 악기를 배우는 이점이 아닙니다.",
+      "팀워크를 기른다는 이점입니다.",
+      "자신감을 기른다는 이점입니다."
+    ],
+    "trap": "'piano'가 악기 이야기와 관련 있어 보여서 흐름에 맞는다고 착각하기 쉽습니다.",
+    "tip": "각 문장이 '악기를 배워서 얻는 이점'인지 확인하세요."
+  },
+  {
+    "id": "m3b-16-36",
+    "level": "m3",
+    "set": "mock-16",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "In 1928, Alexander Fleming returned to his laboratory in London after a two-week vacation. It was early September, and the building was quiet. He was known for being rather untidy, and before leaving, he had left several dishes of bacteria on his workbench.\n(A) He named the substance penicillin, and about a decade later, other scientists turned it into a medicine that has saved millions of lives.\n(B) Curious about this, he studied the mold and found that it produced a substance that killed many kinds of harmful bacteria. He repeated his experiments many times to be sure of the result.\n(C) When he examined the dishes, he noticed that one of them was covered with mold, and the bacteria around the mold had disappeared.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 4,
+    "translation": "1928년 알렉산더 플레밍은 2주간의 휴가를 마치고 런던의 실험실로 돌아왔다. 9월 초였고 건물은 조용했다. 그는 꽤 어수선한 사람으로 알려져 있었고 떠나기 전에 작업대 위에 세균 접시 여러 개를 두고 갔다. (C) 접시를 살펴보다가 그는 접시 하나가 곰팡이로 덮여 있고 곰팡이 주위의 세균이 사라졌다는 것을 알아챘다. (B) 이를 궁금해한 그는 곰팡이를 연구해 그것이 여러 종류의 해로운 세균을 죽이는 물질을 만든다는 것을 알아냈다. 그는 결과를 확신하려고 실험을 여러 번 되풀이했다. (A) 그는 그 물질을 페니실린이라고 이름 붙였고 약 십 년 뒤 다른 과학자들이 그것을 수백만 명의 생명을 구한 약으로 만들었다.",
+    "why": "(C) 'the dishes'로 곰팡이를 발견 → (B) 'Curious about this'로 곰팡이 연구 → (A) 'the substance'로 이름 붙이고 약으로 개발 순서입니다.",
+    "optionNotes": [
+      "(A)의 'the substance'가 가리킬 물질이 앞에 없습니다.",
+      "(B)의 'the mold'가 가리킬 곰팡이가 앞에 없습니다.",
+      "(B)의 'this'가 가리킬 발견이 앞에 없습니다.",
+      "(A)의 'the substance'가 (B)보다 먼저 나올 수 없습니다.",
+      "정답. 발견 → 연구 → 이름과 약 개발."
+    ],
+    "trap": "(A)의 'the substance'는 (B)에서 곰팡이가 만든 물질을 가리킵니다.",
+    "tip": "the dishes → this → the substance 같은 지시어를 따라가세요."
+  },
+  {
+    "id": "m3b-16-37",
+    "level": "m3",
+    "set": "mock-16",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "On a clear day, the sky above us looks blue, but sunlight itself looks white. Many children ask why this is so, and the answer lies in the way light travels through the atmosphere.\n(A) Sunlight actually contains all colors, and each color travels as a wave of a different length, from short violet waves to long red waves.\n(B) As a result, blue light reaches our eyes from every direction in the sky, which is why we see the sky as blue. At sunset, however, the sunlight passes through much more air, and most of the blue is scattered away, leaving red and orange.\n(C) Blue light has a short wavelength, so it is scattered by the gas molecules in the air much more strongly than red light.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "맑은 날 우리 위의 하늘은 파랗게 보이지만 햇빛 자체는 하얗게 보인다. 많은 아이가 왜 그런지 묻는데 답은 빛이 대기를 지나는 방식에 있다. (A) 햇빛은 사실 모든 색을 포함하며 각 색은 짧은 보라 파장에서 긴 빨강 파장까지 서로 다른 길이의 파동으로 이동한다. (C) 파랑 빛은 파장이 짧아서 공기 중의 기체 분자에 의해 빨강 빛보다 훨씬 강하게 산란된다. (B) 그 결과 파랑 빛은 하늘의 모든 방향에서 우리 눈에 닿으며 이 때문에 우리는 하늘을 파랗게 본다. 그러나 해질녘에는 햇빛이 훨씬 더 많은 공기를 지나 파랑 대부분이 흩어져 사라지고 빨강과 주황이 남는다.",
+    "why": "(A) 햇빛에 모든 색이 있음 → (C) 파랑 빛의 짧은 파장과 산란 → (B) 'As a result'로 하늘이 파랗게 보이는 결과 순서입니다.",
+    "optionNotes": [
+      "정답. 모든 색 → 파랑의 산란 → 결과.",
+      "(B)의 'As a result'가 이어질 원인이 앞에 없습니다.",
+      "(B)가 먼저 오면 원인 없이 결과가 나옵니다.",
+      "(C)의 'Blue light'를 설명하기 전에 색의 구성이 먼저 나와야 합니다.",
+      "(C)가 먼저 오면 파장 개념이 소개되지 않았습니다."
+    ],
+    "trap": "(B)의 'As a result'는 (C)의 산란을 원인으로 받습니다.",
+    "tip": "As a result는 원인 설명 직후에 놓입니다."
+  },
+  {
+    "id": "m3b-16-38",
+    "level": "m3",
+    "set": "mock-16",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nFor this reason, doctors increasingly recommend these devices to patients at risk of heart disease.\n\n[글]\n( ① ) Smartwatches are popular for tracking steps and sleep, but they are now becoming medical tools as well. ( ② ) Some models can measure heart rhythm using sensors on the wrist. ( ③ ) In a large study, thousands of participants wore such watches, and the devices detected irregular heartbeats in many people who had no symptoms. ( ④ ) Finding such problems early allows treatment to begin before serious damage occurs. ( ⑤ ) However, doctors also warn that a smartwatch cannot replace a proper medical examination.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "[주어진 문장] 이런 이유로 의사들은 심장 질환 위험이 있는 환자에게 이런 기기를 점점 더 많이 권한다. [글] 스마트워치는 걸음 수와 수면을 기록하는 것으로 인기가 있지만 이제 의료 도구도 되어 가고 있다. 일부 모델은 손목의 센서로 심장 박동을 측정할 수 있다. 한 대규모 연구에서 수천 명의 참가자가 이런 시계를 찼고 기기는 증상이 없는 많은 사람에게서 불규칙한 심장 박동을 감지했다. 이런 문제를 일찍 발견하면 심각한 손상이 생기기 전에 치료를 시작할 수 있다. 그러나 의사들은 스마트워치가 제대로 된 건강 검진을 대신할 수 없다고도 경고한다.",
+    "why": "조기 발견의 이점을 설명한 뒤 'For this reason'으로 의사들의 권고가 이어지고, 'However'로 한계를 말하는 문장이 오므로 ⑤에 들어갑니다.",
+    "optionNotes": [
+      "'For this reason'이 가리킬 이유가 아직 나오지 않았습니다.",
+      "센서 설명 직후라 이유가 부족합니다.",
+      "연구 결과만 있고 조기 발견의 이점이 아직 나오지 않았습니다.",
+      "조기 발견의 이점 앞이라 'For this reason'이 어색합니다.",
+      "정답. 조기 발견의 이점 뒤에 권고가 오고 'However'로 이어집니다."
+    ],
+    "trap": "마지막 문장의 'However'가 앞의 긍정적 권고에 대한 반론이라는 점을 놓치기 쉽습니다.",
+    "tip": "For this reason은 이유를 모두 설명한 뒤, However 앞에는 긍정적 내용이 옵니다."
+  },
+  {
+    "id": "m3b-16-39",
+    "level": "m3",
+    "set": "mock-16",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThis approach, however, has a serious weakness.\n\n[글]\n( ① ) Many students study by reading their notes again and again before an exam. ( ② ) This method is popular because it feels productive: the material soon looks familiar, and that familiarity gives a comforting sense of progress. ( ③ ) Familiarity is not the same as understanding, and students who rely on it often cannot recall the information when the questions are worded differently. ( ④ ) Research suggests that testing yourself, for example with practice questions, is far more effective. ( ⑤ ) Retrieving information from memory strengthens the connections that make it easier to remember next time.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 그러나 이 접근에는 심각한 약점이 있다. [글] 많은 학생은 시험 전에 필기를 읽고 또 읽으며 공부한다. 이 방법은 생산적으로 느껴지기 때문에 인기가 있다. 자료가 곧 익숙해 보이고 그 익숙함이 위안이 되는 진전의 느낌을 준다. 익숙함은 이해와 같지 않으며 그것에 의존하는 학생은 문제가 다르게 표현되면 정보를 떠올리지 못하는 경우가 많다. 연구는 예를 들어 연습 문제로 스스로를 시험하는 것이 훨씬 더 효과적임을 시사한다. 기억에서 정보를 꺼내는 것은 다음에 기억하기 더 쉽게 하는 연결을 강화한다.",
+    "why": "이 방법이 인기 있는 이유를 설명한 뒤 'However'로 약점을 제시하고, 이어서 그 약점을 설명하는 문장이 오므로 ③에 들어갑니다.",
+    "optionNotes": [
+      "방법의 장점을 설명하기 전이라 'However'가 어색합니다.",
+      "장점(인기 이유)을 설명하는 문장 앞이라 순서가 어긋납니다.",
+      "정답. 장점 설명 뒤 약점이 제시되고 이어서 약점을 설명합니다.",
+      "약점 설명이 끝난 뒤라 'serious weakness'를 소개하기엔 늦습니다.",
+      "마지막에 오면 흐름이 끊깁니다."
+    ],
+    "trap": "'This approach'가 ①의 공부 방법을 가리킨다는 점과 'however'의 위치를 함께 봐야 합니다.",
+    "tip": "However는 앞의 긍정적 내용(장점)에 대한 반대를 이끕니다."
+  },
+  {
+    "id": "m3b-16-40",
+    "level": "m3",
+    "set": "mock-16",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A school cafeteria wanted students to eat more fruit. Instead of giving lectures or making new rules, the staff changed small things. They moved the fruit from a dull corner to a bright basket next to the cash register, and they gave the fruit appealing names, such as \"power apples.\" Over the following month, fruit sales more than doubled, although the prices stayed the same. Meanwhile, the sales of cookies dropped slightly after they were moved to a less visible shelf. The staff did not forbid any food, and students could still choose whatever they wanted. The researchers concluded that small changes in how food is displayed can strongly influence what people choose, even without rules or lectures.\n\n▶ Changing how food is (A) at school influenced students' choices (B) any new rules.",
+    "options": [
+      "(A) priced — (B) because of",
+      "(A) displayed — (B) without",
+      "(A) cooked — (B) despite",
+      "(A) delivered — (B) along with",
+      "(A) wasted — (B) instead of"
+    ],
+    "answer": 1,
+    "translation": "한 학교 급식실은 학생들이 과일을 더 먹기를 바랐다. 강의를 하거나 새 규칙을 만드는 대신 직원들은 작은 것을 바꾸었다. 그들은 과일을 칙칙한 구석에서 계산대 옆의 밝은 바구니로 옮겼고 과일에 \"파워 사과\" 같은 매력적인 이름을 붙였다. 그다음 한 달 동안 가격은 그대로였는데도 과일 판매는 두 배 넘게 늘었다. 한편 쿠키는 눈에 덜 띄는 선반으로 옮긴 뒤 판매가 조금 줄었다. 직원들은 어떤 음식도 금지하지 않았고 학생들은 여전히 원하는 것을 고를 수 있었다. 연구자들은 음식이 진열되는 방식의 작은 변화가 규칙이나 강의 없이도 사람들의 선택에 강하게 영향을 줄 수 있다고 결론지었다. ▶ 학교에서 음식이 어떻게 (A)되는지를 바꾼 것은 새 규칙 (B) 학생들의 선택에 영향을 주었다.",
+    "why": "음식을 진열하는 방식만 바꾸어 새 규칙 없이 선택이 달라졌으므로 (A)는 displayed, (B)는 without입니다.",
+    "optionNotes": [
+      "priced와 because of는 글과 맞지 않습니다. 가격은 그대로였습니다.",
+      "정답. 진열 방식을 바꾸어 규칙 없이 선택에 영향을 주었습니다.",
+      "cooked와 despite는 글에 나오지 않습니다.",
+      "delivered와 along with는 글에 나오지 않습니다.",
+      "wasted와 instead of는 글에 나오지 않습니다."
+    ],
+    "trap": "가격이 아니라 진열 방식이 바뀌었다는 점을 놓치지 마세요.",
+    "tip": "요약문은 변화시킨 요인(진열 방식)과 결과(규칙 없이 선택이 바뀜)를 짝지으세요."
+  }
+]
