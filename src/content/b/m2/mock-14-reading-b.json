@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m2b-14-29",
+    "level": "m2",
+    "set": "mock-14",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Elephants are the largest land animals, and they live in family groups led by the oldest female. Elephants communicate {1|with} each other using low sounds that people cannot hear. These sounds can travel several kilometers through the ground, so other elephants {2|feel} them with their feet. A baby elephant can stand within an hour of birth, and it {3|follow} its mother soon after. Elephants love water and use their trunks {4|to spray} themselves on hot days. They also {5|remember} places where they found food many years ago. Because of their strong memory, the oldest elephants guide the group to water during long dry seasons.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "코끼리는 가장 큰 육상 동물이며 가장 나이 많은 암컷이 이끄는 가족 무리를 이루어 산다. 코끼리는 사람이 들을 수 없는 낮은 소리로 서로 의사소통한다. 이 소리는 땅을 통해 몇 킬로미터를 갈 수 있어서 다른 코끼리들이 발로 그것을 느낀다. 아기 코끼리는 태어나 한 시간 안에 설 수 있고 곧 어미를 따라간다. 코끼리는 물을 좋아하고 더운 날 코로 몸에 물을 뿌린다. 또한 여러 해 전에 먹이를 찾았던 장소를 기억한다. 강한 기억력 덕분에 가장 나이 많은 코끼리들이 긴 건기 동안 무리를 물이 있는 곳으로 이끈다.",
+    "why": "주어 it이 3인칭 단수이고 현재 시제이므로 'follow'가 아니라 'follows'여야 합니다.",
+    "optionNotes": [
+      "communicate with 구조의 with입니다.",
+      "주어 other elephants에 맞는 동사원형 feel입니다.",
+      "정답(틀린 것). 주어 it에 맞춰 follows여야 합니다.",
+      "목적을 나타내는 to부정사입니다.",
+      "주어 They에 맞는 동사원형 remember입니다."
+    ],
+    "trap": "and로 이어진 절의 주어(it)를 놓치고 앞 절의 동사 형태를 따라가기 쉽습니다.",
+    "tip": "절마다 주어를 확인해 동사의 수와 시제를 일치시키세요."
+  },
+  {
+    "id": "m2b-14-30",
+    "level": "m2",
+    "set": "mock-14",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Sleep is very important for teenagers. During sleep, the brain {1|stores} what we learned during the day. Teenagers need about nine hours of sleep, but many get less than seven. Lack of sleep makes it {2|hard} to concentrate and can cause bad moods. Using phones in bed {3|delays} sleep because the screen light tells the brain that it is still daytime. To sleep better, go to bed at a regular time and keep your room {4|dark} and quiet. A short walk in the evening also helps your body to relax. If you {5|ignore} these habits, you will feel more energetic every day.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "수면은 십대에게 매우 중요하다. 자는 동안 뇌는 낮에 배운 것을 저장한다. 십대는 약 아홉 시간의 수면이 필요하지만 많은 학생이 일곱 시간도 못 잔다. 수면 부족은 집중을 어렵게 하고 기분을 나쁘게 만들 수 있다. 침대에서 휴대전화를 쓰면 화면 빛이 뇌에 아직 낮이라고 알려 주기 때문에 잠이 늦어진다. 더 잘 자려면 규칙적인 시간에 자고 방을 어둡고 조용하게 유지하라. 저녁의 짧은 산책도 몸이 이완되도록 돕는다. 이런 습관을 따르면 매일 더 활기차게 지낼 것이다.",
+    "why": "활기차게 지내려면 이런 습관을 '무시하는(ignore)' 것이 아니라 '따르는(follow)' 것이 알맞습니다.",
+    "optionNotes": [
+      "배운 것을 저장한다는 의미로 stores가 알맞습니다.",
+      "집중하기 어렵다는 의미로 hard가 알맞습니다.",
+      "잠이 늦어진다는 의미로 delays가 알맞습니다.",
+      "어둡고 조용하게 유지한다는 의미로 dark가 알맞습니다.",
+      "정답(부적절). 습관을 따라야 하므로 follow여야 합니다."
+    ],
+    "trap": "'you will feel more energetic'과 호응하는 동사의 방향을 놓치기 쉽습니다.",
+    "tip": "결과(활기참)와 조건(습관)의 방향이 일치하는지 확인하세요."
+  },
+  {
+    "id": "m2b-14-31",
+    "level": "m2",
+    "set": "mock-14",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Benjamin Franklin once wanted to win the friendship of a man who disliked him. Instead of doing the man a favor, he asked him to lend a rare book. The man agreed, and afterward he became friendly with Franklin. Psychologists explain that when we help someone, our brain wants to explain why: \"I must like this person.\" Franklin later wrote about this surprising result in his autobiography. So receiving a favor is not the only way to build friendship. In fact, asking someone to do a small favor for you can make them feel __________.",
+    "options": [
+      "angry about the long time that they lost",
+      "unwilling to speak to you again",
+      "unable to remember your name later",
+      "jealous of your books and clothes",
+      "more positive toward you than before"
+    ],
+    "answer": 4,
+    "translation": "벤저민 프랭클린은 한때 자신을 싫어하는 남자의 우정을 얻고 싶었다. 그는 그 남자에게 호의를 베푸는 대신 귀한 책을 빌려 달라고 부탁했다. 남자는 승낙했고 그 뒤 프랭클린에게 친근해졌다. 심리학자들은 우리가 누군가를 도울 때 뇌가 이유를 설명하려 한다고 말한다. \"나는 이 사람을 좋아하는 게 틀림없어.\" 프랭클린은 나중에 이 놀라운 결과를 자서전에 썼다. 그러므로 호의를 받는 것만이 우정을 쌓는 유일한 방법은 아니다. 사실 누군가에게 작은 부탁을 하면 그 사람이 전보다 당신에게 더 긍정적으로 느끼게 할 수 있다.",
+    "why": "도움을 준 사람은 '내가 이 사람을 좋아하는 게 틀림없다'고 생각하게 되므로 부탁받은 사람은 전보다 더 긍정적으로 느낍니다.",
+    "optionNotes": [
+      "화가 난다는 내용은 글과 반대입니다.",
+      "다시 말하지 않으려 한다는 내용은 글과 반대입니다.",
+      "이름을 기억하지 못한다는 내용은 나오지 않습니다.",
+      "질투는 나오지 않습니다.",
+      "정답. 전보다 더 긍정적으로 느낍니다."
+    ],
+    "trap": "'a rare book'을 빌리는 부탁이 부담이라고 오해하지 마세요.",
+    "tip": "앞 내용(he became friendly)에서 결론을 추론하세요."
+  },
+  {
+    "id": "m2b-14-32",
+    "level": "m2",
+    "set": "mock-14",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A rainbow appears when sunlight shines on water drops in the air. When light enters a drop, it bends and splits into different colors, because each color bends by a different amount. The light then reflects off the back of the drop and leaves it. We see a rainbow when the sun is behind us and the drops are in front of us. This is why rainbows often appear after rain, while the sun is shining. This explains why a rainbow is a curved band of colors. In other words, water drops act like __________.",
+    "options": [
+      "tiny prisms that split sunlight into colors",
+      "mirrors that send light back to the sun",
+      "clouds that block the light completely",
+      "lenses that make the sky look larger",
+      "filters that turn colors into black and white"
+    ],
+    "answer": 0,
+    "translation": "무지개는 햇빛이 공기 중의 물방울에 비칠 때 나타난다. 빛이 물방울에 들어가면 꺾이고 여러 색으로 갈라지는데 각 색이 서로 다른 정도로 꺾이기 때문이다. 그다음 빛은 물방울의 뒷면에서 반사되어 나온다. 해가 우리 뒤에 있고 물방울이 우리 앞에 있을 때 무지개가 보인다. 이 때문에 무지개는 흔히 해가 비치는 동안 비가 온 뒤에 나타난다. 이는 무지개가 왜 곡선 모양의 색 띠인지 설명해 준다. 다시 말해 물방울은 햇빛을 여러 색으로 갈라 주는 작은 프리즘처럼 작용한다.",
+    "why": "물방울이 빛을 꺾어 여러 색으로 갈라 주므로 작은 프리즘과 같습니다.",
+    "optionNotes": [
+      "정답. 햇빛을 색으로 가르는 작은 프리즘입니다.",
+      "거울처럼 해로 되돌리는 것이 아닙니다.",
+      "빛을 완전히 막는 것이 아닙니다.",
+      "하늘을 크게 보이게 하는 것이 아닙니다.",
+      "색을 흑백으로 바꾸는 것이 아닙니다."
+    ],
+    "trap": "'reflects'만 보고 거울(②)을 고르지 마세요. 핵심은 색의 분리입니다.",
+    "tip": "In other words 앞의 설명(빛이 꺾이고 색으로 갈라짐)이 비유의 핵심입니다."
+  },
+  {
+    "id": "m2b-14-33",
+    "level": "m2",
+    "set": "mock-14",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Researchers say that we choose actions that need the least effort. To build a good habit, make it easy: put your running shoes by the door, or place a book on your pillow. To break a bad habit, add small obstacles: put your phone in another room, or delete the app. Even a delay of twenty seconds can make us give up. Small changes can build big habits over a long time. So changing our environment is often more effective than relying on willpower, because small changes in the environment can __________.",
+    "options": [
+      "make us forget all of our old habits",
+      "increase the price of the things that we usually buy",
+      "guide our behavior without us noticing it",
+      "reduce the number of hours in a day",
+      "teach us how to speak other languages"
+    ],
+    "answer": 2,
+    "translation": "연구자들은 우리가 가장 적은 노력이 드는 행동을 선택한다고 말한다. 좋은 습관을 들이려면 쉽게 만들어라. 운동화를 문 옆에 두거나 베개 위에 책을 놓아 두라. 나쁜 습관을 끊으려면 작은 장애물을 더하라. 휴대전화를 다른 방에 두거나 앱을 지워라. 이십 초의 지연만으로도 우리는 포기할 수 있다. 작은 변화가 오랜 시간이 지나면 큰 습관을 만들 수 있다. 그래서 환경을 바꾸는 것이 흔히 의지력에 의존하는 것보다 더 효과적인데 환경의 작은 변화가 우리가 알아채지 못하는 사이에 행동을 이끌 수 있기 때문이다.",
+    "why": "운동화를 문 옆에 두거나 앱을 지우는 것처럼 환경의 작은 변화가 우리도 모르게 행동을 이끕니다.",
+    "optionNotes": [
+      "오래된 습관을 모두 잊는다는 내용은 나오지 않습니다.",
+      "물건 가격은 나오지 않습니다.",
+      "정답. 알아채지 못하는 사이에 행동을 이끕니다.",
+      "하루 시간의 변화는 나오지 않습니다.",
+      "언어 학습은 나오지 않습니다."
+    ],
+    "trap": "'delete the app' 같은 예시를 가격이나 학습(①④⑤)과 연결하지 마세요.",
+    "tip": "예시(신발을 문 옆에, 앱 삭제)를 일반화하면 '환경이 행동을 이끈다'입니다."
+  },
+  {
+    "id": "m2b-14-34",
+    "level": "m2",
+    "set": "mock-14",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Psychologists asked students to write a letter of thanks to someone who had helped them. Many did not even send the letters. Some kept them in a drawer for months. Writing takes only about ten minutes, so anyone can try it. However, after writing, the students reported feeling happier for several weeks. When the letters were delivered, the receivers also felt joyful and surprised, because they had not known how much their help meant. The researchers said that expressing thanks in writing makes our feelings clearer and stronger. Therefore, writing a thank-you letter can __________.",
+    "options": [
+      "waste time that we could spend studying",
+      "make people forget what they were thankful for",
+      "cause trouble between the writer and the reader",
+      "take a long time to be delivered by mail",
+      "make both the writer and the reader feel happier and more connected"
+    ],
+    "answer": 4,
+    "translation": "심리학자들은 학생들에게 자신을 도와준 사람에게 감사 편지를 쓰게 했다. 많은 학생은 편지를 부치지도 않았다. 일부는 몇 달 동안 서랍에 넣어 두었다. 쓰는 데는 십 분밖에 걸리지 않아 누구나 해 볼 수 있다. 그러나 쓰고 난 뒤 학생들은 몇 주 동안 더 행복하다고 보고했다. 편지가 전달되자 받은 사람들도 자신의 도움이 얼마나 의미 있었는지 몰랐기 때문에 기쁘고 놀랐다. 연구자들은 글로 감사를 표현하면 우리 감정이 더 분명하고 강해진다고 말했다. 그러므로 감사 편지를 쓰는 것은 쓰는 사람과 읽는 사람 모두를 더 행복하고 더 연결되어 있다고 느끼게 할 수 있다.",
+    "why": "쓴 학생과 받은 사람 모두 기뻐했으므로 감사 편지는 둘 다 더 행복하고 연결되어 있다고 느끼게 합니다.",
+    "optionNotes": [
+      "공부 시간 낭비는 나오지 않습니다.",
+      "감사를 잊는다는 내용은 글과 반대입니다.",
+      "갈등은 나오지 않습니다.",
+      "배달 시간은 나오지 않습니다.",
+      "정답. 쓰는 사람과 읽는 사람 모두 더 행복해집니다."
+    ],
+    "trap": "'Many did not even send the letters'를 부정적 결과로 오해하지 마세요.",
+    "tip": "두 집단(쓴 사람, 받은 사람)의 반응을 합친 것이 빈칸의 답입니다."
+  },
+  {
+    "id": "m2b-14-35",
+    "level": "m2",
+    "set": "mock-14",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "There are several simple ways to stay focused while studying. ① First, put your phone in another room, because even a silent phone can distract you. ② Second, study in short blocks of about thirty minutes and take a five-minute break after each block. ③ Third, make a list of what you want to finish so that you can see your progress. ④ Keeping your desk tidy also helps you find your things quickly. ⑤ The Eiffel Tower was built in Paris in 1889 for a world fair.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "공부할 때 집중력을 유지하는 간단한 방법이 여럿 있다. ① 첫째, 소리를 꺼 둔 휴대전화조차 주의를 흩뜨릴 수 있으므로 휴대전화를 다른 방에 두라. ② 둘째, 약 삼십 분 단위로 짧게 공부하고 각 단위 뒤에 오 분씩 쉬라. ③ 셋째, 진행 상황을 볼 수 있도록 끝내고 싶은 일의 목록을 만들라. ④ 책상을 깔끔하게 하면 물건을 빨리 찾는 데도 도움이 된다. ⑤ 에펠탑은 1889년 만국 박람회를 위해 파리에 세워졌다.",
+    "why": "글은 공부할 때 집중하는 방법을 이야기하는데 ⑤는 에펠탑에 관한 별개의 이야기입니다.",
+    "optionNotes": [
+      "휴대전화를 치우라는 방법입니다.",
+      "짧게 공부하고 쉬라는 방법입니다.",
+      "목록을 만들라는 방법입니다.",
+      "책상을 정돈하라는 방법입니다.",
+      "정답(무관). 에펠탑 이야기라 관계가 없습니다."
+    ],
+    "trap": "'world fair'가 학습과 관련 있다고 착각하기 쉽습니다.",
+    "tip": "주제(집중하는 방법)를 직접 뒷받침하지 않는 문장을 고르세요."
+  },
+  {
+    "id": "m2b-14-36",
+    "level": "m2",
+    "set": "mock-14",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "The Statue of Liberty in New York was a gift from France to the United States. It was completed in 1886. It was designed to celebrate the friendship between the two countries.\n(A) When the boxes arrived in New York, it took four months to put the pieces together on a small island.\n(B) Today, the statue stands as a symbol of freedom, and millions of visitors come to see it every year.\n(C) To send it across the Atlantic Ocean, workers took the statue apart into 350 pieces and packed them in more than 200 boxes.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 3,
+    "translation": "뉴욕의 자유의 여신상은 프랑스가 미국에 준 선물이었다. 그것은 1886년에 완성되었다. 두 나라의 우정을 기념하려고 설계되었다. (C) 대서양을 건너 보내려고 일꾼들은 조각상을 350개 조각으로 해체해 200개가 넘는 상자에 담았다. (A) 상자들이 뉴욕에 도착하자 작은 섬에서 조각을 조립하는 데 넉 달이 걸렸다. (B) 오늘날 이 조각상은 자유의 상징으로 서 있고 해마다 수백만 명의 방문객이 보러 온다.",
+    "why": "(C) 'To send it'으로 운송 준비 → (A) 'the boxes arrived'로 도착 후 조립 → (B) 'Today'로 오늘날 순서입니다.",
+    "optionNotes": [
+      "(A)의 'the boxes'가 가리킬 상자가 앞에 없습니다.",
+      "(B)의 'Today'가 과정 설명 전에 먼저 나옵니다.",
+      "(B)가 먼저 오면 'Today'의 기준 과거가 없습니다.",
+      "정답. 운송 준비 → 조립 → 오늘날.",
+      "(B)가 (A) 앞에 오면 조립 과정이 뒤로 밀립니다."
+    ],
+    "trap": "(A)의 'the boxes'는 (C)에서 포장한 상자를 가리킵니다.",
+    "tip": "the boxes, Today 같은 지시어와 시간 표현을 확인하세요."
+  },
+  {
+    "id": "m2b-14-37",
+    "level": "m2",
+    "set": "mock-14",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Many people believe that goldfish have a memory of only three seconds. Goldfish can live for more than ten years. This is a common myth, and many people repeat it without checking.\n(A) In fact, scientists have trained goldfish to push a lever to get food at a certain time of day.\n(B) So the next time you hear this myth, you can explain that goldfish are smarter than they look.\n(C) The fish remembered the right time for several weeks, and they even learned to find their way through a simple maze.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "많은 사람은 금붕어의 기억력이 겨우 삼 초라고 믿는다. 금붕어는 십 년 넘게 살 수도 있다. 이는 흔한 잘못된 통념이며 많은 사람이 확인하지 않고 되풀이한다. (A) 사실 과학자들은 금붕어가 하루 중 정해진 시간에 먹이를 얻으려고 지렛대를 밀도록 훈련했다. (C) 물고기들은 올바른 시간을 몇 주 동안 기억했고 간단한 미로에서 길을 찾는 법도 배웠다. (B) 그러니 다음에 이 통념을 들으면 금붕어가 보이는 것보다 똑똑하다고 설명해 줄 수 있다.",
+    "why": "(A) 'In fact'로 반박 사실 → (C) 'The fish'로 결과 → (B) 'So'로 결론 순서입니다.",
+    "optionNotes": [
+      "정답. 반박 → 결과 → 결론.",
+      "(A)가 (B) 뒤에 오면 결론이 근거 없이 먼저 나옵니다.",
+      "(B)가 먼저 오면 결론이 근거보다 앞섭니다.",
+      "(C)의 'The fish'가 가리킬 실험이 앞에 없습니다.",
+      "(C)가 먼저 오면 'The fish'가 불분명합니다."
+    ],
+    "trap": "(C)의 'The fish'는 (A)에서 훈련받은 금붕어를 가리킵니다.",
+    "tip": "In fact → The fish ~ → So의 논리 흐름을 따라가세요."
+  },
+  {
+    "id": "m2b-14-38",
+    "level": "m2",
+    "set": "mock-14",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nAs a result, the number of late students dropped sharply.\n\n[글]\n( ① ) A middle school in Daegu changed its start time from 8:00 to 8:30. ( ② ) At first, some parents worried that students would have less time after school. ( ③ ) However, the students began to sleep thirty minutes longer every morning. ( ④ ) Teachers also noticed that students looked more cheerful in class. ( ⑤ ) Now the school plans to keep the new schedule.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "[주어진 문장] 그 결과 지각하는 학생 수가 급격히 줄었다. [글] 대구의 한 중학교는 시작 시간을 8시에서 8시 30분으로 바꾸었다. 처음에 일부 학부모는 학생들이 방과 후 시간이 줄어들까 봐 걱정했다. 그러나 학생들은 아침마다 삼십 분 더 자기 시작했다. 교사들은 또한 학생들이 수업에서 더 밝아 보인다는 것을 알아챘다. 이제 학교는 새 일정을 유지할 계획이다.",
+    "why": "더 오래 자기 시작했다는 원인 뒤에 'As a result'로 지각이 줄었다는 결과가 이어지므로 ④에 들어갑니다.",
+    "optionNotes": [
+      "'As a result'가 이어질 원인이 없습니다.",
+      "걱정을 말하는 단계라 결과가 이릅니다.",
+      "원인을 설명하는 문장 앞이라 결과가 이릅니다.",
+      "정답. 원인 뒤에 결과가 나옵니다.",
+      "결과를 다 설명한 뒤라 어색합니다."
+    ],
+    "trap": "'As a result'는 원인(더 오래 잠)을 먼저 요구합니다.",
+    "tip": "As a result는 원인 바로 뒤에 놓입니다."
+  },
+  {
+    "id": "m2b-14-39",
+    "level": "m2",
+    "set": "mock-14",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nBecause of this, the stars appear to move across the sky during the night.\n\n[글]\n( ① ) The Earth rotates once every twenty-four hours. ( ② ) In long-exposure photographs, the stars look like bright curved lines. ( ③ ) Only the North Star stays almost still, since it is located above the Earth's axis. ( ④ ) For centuries, sailors used it to find their way at sea. ( ⑤ ) Today, we use satellites for navigation, but the North Star still guides hikers.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "[주어진 문장] 이 때문에 별들은 밤 동안 하늘을 가로질러 움직이는 것처럼 보인다. [글] 지구는 스물네 시간에 한 번 자전한다. 노출 시간이 긴 사진에서 별들은 밝은 곡선처럼 보인다. 북극성만 지구의 축 위에 있어서 거의 가만히 있다. 수 세기 동안 선원들은 그것을 이용해 바다에서 길을 찾았다. 오늘날에는 위성을 항법에 쓰지만 북극성은 여전히 등산객을 안내한다.",
+    "why": "지구가 자전한다는 원인 뒤에 'Because of this'로 별이 움직이는 것처럼 보인다는 결과가 이어지고, 이어서 사진 이야기가 나오므로 ②에 들어갑니다.",
+    "optionNotes": [
+      "'this'가 가리킬 자전이 아직 나오지 않았습니다.",
+      "정답. 자전의 결과로 별이 움직여 보입니다.",
+      "북극성 설명 앞이라 어색합니다.",
+      "선원 이야기 앞이라 어색합니다.",
+      "마지막에 오면 원인-결과 연결이 어긋납니다."
+    ],
+    "trap": "'Because of this'의 this가 ①의 지구 자전을 가리킨다는 점을 놓치지 마세요.",
+    "tip": "Because of this는 원인 문장 직후에 놓입니다."
+  },
+  {
+    "id": "m2b-14-40",
+    "level": "m2",
+    "set": "mock-14",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A company tested walking meetings with its employees. Some teams held their meetings while walking outside, and other teams sat in a meeting room as usual. After a month, the managers compared the results. The employees who walked while they talked produced more creative ideas than those who sat. They also reported feeling more energetic and less stressed. Managers noticed that shy members spoke more freely while walking, because there was no need to sit face to face. Many teams decided to keep walking meetings once a week.\n\n▶ Holding meetings while (A) outside helped employees (B) more creative ideas.",
+    "options": [
+      "(A) sitting — (B) completely forget",
+      "(A) sleeping — (B) avoid",
+      "(A) arguing — (B) hide",
+      "(A) walking — (B) produce",
+      "(A) waiting — (B) lose"
+    ],
+    "answer": 3,
+    "translation": "한 회사가 직원들과 걷기 회의를 시험했다. 일부 팀은 밖에서 걸으며 회의를 했고 다른 팀은 평소처럼 회의실에 앉았다. 한 달 뒤 관리자들은 결과를 비교했다. 걸으며 이야기한 직원들은 앉아 있던 직원들보다 더 창의적인 아이디어를 냈다. 그들은 또한 더 활기차고 스트레스가 덜하다고 보고했다. 관리자들은 마주 보고 앉을 필요가 없어서 수줍은 구성원이 걸을 때 더 자유롭게 말한다는 것을 알아챘다. 많은 팀이 일주일에 한 번 걷기 회의를 하기로 했다. ▶ 밖에서 (A) 회의를 하는 것은 직원들이 더 창의적인 아이디어를 (B)하도록 도왔다.",
+    "why": "밖에서 걸으며 회의한 직원이 더 창의적인 아이디어를 냈으므로 (A)는 walking, (B)는 produce입니다.",
+    "optionNotes": [
+      "sitting과 forget은 글과 반대입니다.",
+      "sleeping과 avoid는 글에 나오지 않습니다.",
+      "arguing과 hide는 글에 나오지 않습니다.",
+      "정답. 걸으며 회의하면 아이디어를 더 낸다는 내용입니다.",
+      "waiting과 lose는 글에 나오지 않습니다."
+    ],
+    "trap": "앉은 팀과 걸은 팀의 결과를 서로 바꿔 이해하지 마세요.",
+    "tip": "요약문은 조건(걸으며 회의)과 결과(창의적 아이디어 증가)를 짝지으세요."
+  }
+]
