@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m2b-11-29",
+    "level": "m2",
+    "set": "mock-11",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Lighthouses were built to guide ships safely along dangerous coasts. At night, a powerful lamp at the top {1|sends} out a beam of light that can be seen from far away. Long ago, keepers had to climb the tower every few hours to {2|keep} the fire burning. They also had to clean the glass lenses, {3|that made} the light shine brightly. Life in a lighthouse was lonely, because the keepers lived far from towns. Today, most lighthouses are controlled by computers, so keepers are no longer needed. Still, many people visit them because they are beautiful and {4|full of} history. Some lighthouses have even been turned into small hotels, where guests can enjoy the sound of the sea {5|while} they sleep.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "등대는 위험한 해안을 따라 배를 안전하게 안내하려고 세워졌다. 밤에는 꼭대기의 강력한 등이 멀리서도 보이는 빛줄기를 내보낸다. 옛날에는 관리인이 불이 계속 타오르게 하려고 몇 시간마다 탑에 올라야 했다. 그들은 또한 유리 렌즈를 닦아야 했고 그래서 빛이 밝게 빛났다. 등대 생활은 관리인들이 마을에서 멀리 살았기 때문에 외로웠다. 오늘날 대부분의 등대는 컴퓨터로 제어되어 관리인이 더는 필요 없다. 그래도 많은 사람이 아름답고 역사로 가득해서 등대를 찾는다. 일부 등대는 심지어 작은 호텔로 바뀌어 손님이 잠자는 동안 바다 소리를 즐길 수 있다.",
+    "why": "앞에 쉼표가 있는 계속적 용법에서는 관계대명사 that을 쓸 수 없으므로 'that made'가 아니라 'which made'여야 합니다.",
+    "optionNotes": [
+      "주어 a powerful lamp에 맞는 3인칭 단수 현재형입니다.",
+      "목적을 나타내는 to부정사입니다.",
+      "정답(틀린 것). 계속적 용법에는 that을 쓸 수 없고 which를 써야 합니다.",
+      "형용사 full of가 and로 beautiful과 연결됩니다.",
+      "접속사 while입니다."
+    ],
+    "trap": "관계대명사 that과 which를 아무 때나 바꿔 쓸 수 있다고 오해하기 쉽습니다.",
+    "tip": "쉼표 뒤 계속적 용법에는 that을 쓰지 않습니다."
+  },
+  {
+    "id": "m2b-11-30",
+    "level": "m2",
+    "set": "mock-11",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "More than half of the world's people now live in cities. Cities {1|offer} more jobs, better schools, and more entertainment than the countryside. As a result, many young people {2|move} to cities each year. Many cities in Asia are growing fastest. However, rapid growth creates problems. Housing becomes {3|expensive}, and roads are filled with traffic. Air pollution also {4|decreases} as more cars and factories appear. To solve these problems, city planners build more public transport and parks, and they encourage people to {5|cycle} or walk instead of driving.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "이제 세계 인구의 절반 이상이 도시에 산다. 도시는 시골보다 더 많은 일자리, 더 좋은 학교, 더 많은 오락거리를 제공한다. 그 결과 해마다 많은 젊은이가 도시로 이사한다. 아시아의 많은 도시가 가장 빠르게 성장하고 있다. 그러나 빠른 성장은 문제를 만든다. 주택이 비싸지고 도로는 교통량으로 가득하다. 더 많은 자동차와 공장이 생기면서 대기 오염도 줄어든다. 이 문제를 해결하려고 도시 계획자들은 대중교통과 공원을 더 짓고 사람들이 운전 대신 자전거를 타거나 걷도록 장려한다.",
+    "why": "자동차와 공장이 늘어나면 대기 오염은 '줄어드는(decrease)' 것이 아니라 '늘어나는(increase)' 것입니다.",
+    "optionNotes": [
+      "더 많은 일자리를 제공한다는 의미로 offer가 알맞습니다.",
+      "도시로 이사한다는 의미로 move가 알맞습니다.",
+      "주택이 비싸진다는 의미로 expensive가 알맞습니다.",
+      "정답(부적절). 자동차와 공장이 늘면 오염은 increase해야 합니다.",
+      "운전 대신 자전거를 탄다는 의미로 cycle이 알맞습니다."
+    ],
+    "trap": "'However, rapid growth creates problems' 뒤의 부정적 흐름을 놓치기 쉽습니다.",
+    "tip": "문제점을 나열하는 흐름에서 낱말의 방향이 부정적인지 확인하세요."
+  },
+  {
+    "id": "m2b-11-31",
+    "level": "m2",
+    "set": "mock-11",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In an experiment, people tasted the same orange drink in different colors. When the drink was colored red, many said it tasted like cherry. When it was green, they said it tasted like lime, though the flavor was exactly the same. Researchers repeated the test with many different groups of volunteers and got similar results. This happens because our brains use sight together with taste to decide what we are eating. Chefs know this well, so they choose the colors of plates and ingredients carefully. The result of the experiment shows that __________.",
+    "options": [
+      "what we see can change how food tastes to us",
+      "people who cannot see taste food much better",
+      "red drinks are always sweeter than green ones",
+      "chefs should never decorate food with colors",
+      "the flavor of a drink depends on the cup's size"
+    ],
+    "answer": 0,
+    "translation": "한 실험에서 사람들은 같은 오렌지 음료를 다른 색으로 맛보았다. 음료가 붉은색이면 많은 사람이 체리 맛이라고 했다. 초록색이면 맛이 정확히 같은데도 라임 맛이라고 했다. 연구자들은 여러 다른 자원자 집단으로 시험을 반복했고 비슷한 결과를 얻었다. 이는 우리 뇌가 무엇을 먹는지 판단할 때 맛과 함께 시각을 이용하기 때문에 일어난다. 요리사들은 이를 잘 알아서 접시와 재료의 색을 신중하게 고른다. 실험 결과는 우리가 보는 것이 음식이 우리에게 어떤 맛으로 느껴지는지를 바꿀 수 있음을 보여 준다.",
+    "why": "같은 음료가 색에 따라 다른 맛으로 느껴졌으므로 보는 것이 맛을 바꿀 수 있습니다.",
+    "optionNotes": [
+      "정답. 보는 것이 맛을 바꿀 수 있습니다.",
+      "보지 못하는 사람이 더 잘 느낀다는 내용은 나오지 않습니다.",
+      "붉은 음료가 더 달다는 내용은 나오지 않습니다.",
+      "장식하지 말라는 내용은 글과 반대입니다.",
+      "컵 크기는 나오지 않습니다."
+    ],
+    "trap": "'flavor was exactly the same'을 놓치고 색과 맛이 무관하다고 오해하지 마세요.",
+    "tip": "실험 결과(같은 맛, 다른 반응)에서 결론을 추론하세요."
+  },
+  {
+    "id": "m2b-11-32",
+    "level": "m2",
+    "set": "mock-11",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Most people dislike the sound of their own voice on a recording. The reason is that, when we speak, we hear our voice in two ways: through the air and through the bones of our skull. The bone path adds deep, rich tones. On a recording, only the air path is captured, so the voice sounds higher and thinner than we expect. This is why many people feel surprised or even embarrassed when they hear a recording. Other people, however, have always heard this version. So the recorded voice that we dislike is actually __________.",
+    "options": [
+      "a voice that nobody else can hear",
+      "the voice that other people hear when we speak to them",
+      "a voice changed by the microphone",
+      "the same as our voice inside our head",
+      "a voice that is only found in recordings"
+    ],
+    "answer": 1,
+    "translation": "대부분의 사람은 녹음에 담긴 자기 목소리를 싫어한다. 그 이유는 말할 때 우리가 자기 목소리를 두 가지 방식, 즉 공기를 통해서와 두개골의 뼈를 통해서 듣기 때문이다. 뼈를 통한 경로는 깊고 풍부한 음색을 더한다. 녹음에서는 공기 경로만 담기므로 목소리가 우리가 기대하는 것보다 높고 얇게 들린다. 이 때문에 많은 사람이 녹음을 들으면 놀라거나 심지어 민망해한다. 하지만 다른 사람들은 늘 이 버전을 들어 왔다. 그러므로 우리가 싫어하는 녹음된 목소리는 사실 우리가 말할 때 다른 사람들이 듣는 목소리이다.",
+    "why": "다른 사람들은 늘 공기 경로로 전달되는 목소리를 들어 왔으므로 녹음된 목소리는 다른 사람이 듣는 목소리입니다.",
+    "optionNotes": [
+      "아무도 못 듣는다는 내용은 글과 반대입니다.",
+      "정답. 다른 사람이 듣는 목소리입니다.",
+      "마이크가 바꾼다는 내용은 나오지 않습니다.",
+      "머릿속 목소리와 같다는 내용은 글과 반대입니다.",
+      "녹음에만 있다는 내용은 글과 반대입니다."
+    ],
+    "trap": "'higher and thinner than we expect'를 마이크의 왜곡으로 오해하지 마세요.",
+    "tip": "However 이후의 문장이 빈칸의 직접적 단서입니다."
+  },
+  {
+    "id": "m2b-11-33",
+    "level": "m2",
+    "set": "mock-11",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Doodling while listening may look like not paying attention, but research suggests otherwise. In one study, people listened to a boring phone message and wrote down the names they heard. Some of them also doodled shapes on a paper. The shapes were simple, such as circles, squares, and triangles, and no one had to draw well. They were not told to remember anything. Later, the doodlers remembered about twenty-nine percent more information than the others. The reason is that doodling keeps the brain from daydreaming without using up much attention. So, simple drawing can actually __________.",
+    "options": [
+      "make us forget the messages we hear",
+      "show that we are not interested at all",
+      "lower our scores on most memory tests",
+      "waste time that we could use to sleep",
+      "help us stay focused on what we are listening to"
+    ],
+    "answer": 4,
+    "translation": "듣는 동안 낙서하는 것은 집중하지 않는 것처럼 보일 수 있지만 연구는 그렇지 않다고 시사한다. 한 연구에서 사람들은 지루한 전화 메시지를 듣고 들은 이름을 적었다. 일부는 종이에 도형을 끼적이기도 했다. 도형은 원, 네모, 세모처럼 단순했고 아무도 잘 그릴 필요가 없었다. 그들은 아무것도 기억하라는 말을 듣지 않았다. 나중에 낙서한 사람들은 다른 사람들보다 약 이십구 퍼센트 더 많은 정보를 기억했다. 그 이유는 낙서가 주의를 많이 쓰지 않으면서 뇌가 공상에 빠지는 것을 막기 때문이다. 그러니 단순한 그림 그리기는 실제로 우리가 듣는 것에 계속 집중하도록 도울 수 있다.",
+    "why": "낙서한 사람이 더 많이 기억했고 낙서가 공상을 막아 주므로 듣는 것에 집중하도록 돕습니다.",
+    "optionNotes": [
+      "잊게 한다는 내용은 글과 반대입니다.",
+      "흥미가 없다는 증거라는 내용은 글과 반대입니다.",
+      "점수를 낮춘다는 내용은 글과 반대입니다.",
+      "잠잘 시간을 낭비한다는 내용은 나오지 않습니다.",
+      "정답. 듣는 것에 집중하도록 돕습니다."
+    ],
+    "trap": "첫 문장의 통념(집중하지 않는 것처럼 보임)에 이끌리지 마세요.",
+    "tip": "연구 결과(낙서한 사람이 더 많이 기억)에서 결론을 추론하세요."
+  },
+  {
+    "id": "m2b-11-34",
+    "level": "m2",
+    "set": "mock-11",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many adults say that time passes faster than when they were children. One explanation is proportion. For a five-year-old, one year is one fifth of the whole life. For a fifty-year-old, one year is only one fiftieth. Because the same length of time becomes a smaller part of our experience, it feels shorter. Another explanation is that children have many new experiences, which make days feel long and full. As adults repeat the same routines, the days blur together. So as we grow older, each year seems shorter because it becomes __________.",
+    "options": [
+      "a heavier burden for the body to carry",
+      "more crowded with new experiences than before",
+      "a longer period according to the calendar",
+      "a smaller part of the life that we have lived",
+      "easier to remember in every small detail"
+    ],
+    "answer": 3,
+    "translation": "많은 어른이 어릴 때보다 시간이 더 빨리 흐른다고 말한다. 한 가지 설명은 비율이다. 다섯 살 아이에게 일 년은 인생 전체의 5분의 1이다. 쉰 살 사람에게 일 년은 겨우 50분의 1이다. 같은 길이의 시간이 우리 경험의 더 작은 부분이 되기 때문에 더 짧게 느껴진다. 또 다른 설명은 아이들은 새로운 경험이 많아 하루가 길고 알차게 느껴진다는 것이다. 어른이 같은 일상을 반복하면 하루하루가 뭉개진다. 그래서 나이가 들수록 매년이 우리가 살아온 삶의 더 작은 부분이 되어 더 짧게 느껴진다.",
+    "why": "같은 일 년이 살아온 삶에서 차지하는 비율이 작아지므로 더 짧게 느껴집니다.",
+    "optionNotes": [
+      "무거운 부담은 나오지 않습니다.",
+      "새 경험이 많아진다는 것은 글과 반대입니다.",
+      "달력상 더 길다는 내용은 글과 반대입니다.",
+      "정답. 살아온 삶의 더 작은 부분이 됩니다.",
+      "더 기억하기 쉽다는 내용은 글과 반대입니다."
+    ],
+    "trap": "'new experiences'를 어른의 상황으로 오해하지 마세요. 그것은 아이들의 경우입니다.",
+    "tip": "proportion 설명(1/5 vs 1/50)이 빈칸의 핵심 단서입니다."
+  },
+  {
+    "id": "m2b-11-35",
+    "level": "m2",
+    "set": "mock-11",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Learning to play a musical instrument benefits the brain in many ways. ① It improves memory, because musicians must remember long pieces of music. ② It also helps with concentration, since playing requires attention to notes, rhythm, and timing at once. ③ Children who practice regularly often learn to manage their time better. ④ Many famous paintings are displayed in museums around the world. ⑤ In addition, playing in a group teaches teamwork and listening skills.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "악기를 연주하는 법을 배우는 것은 여러 방식으로 뇌에 이롭다. ① 연주자는 긴 곡을 기억해야 하므로 기억력이 좋아진다. ② 또한 연주는 음, 리듬, 박자에 동시에 주의를 요구하므로 집중력에도 도움이 된다. ③ 규칙적으로 연습하는 아이들은 흔히 시간 관리를 더 잘하게 된다. ④ 많은 유명한 그림이 세계의 박물관에 전시되어 있다. ⑤ 게다가 합주는 팀워크와 듣기 기술을 가르친다.",
+    "why": "글은 악기 연주가 뇌에 이로운 점을 이야기하는데 ④는 그림 전시에 관한 이야기라 관계가 없습니다.",
+    "optionNotes": [
+      "기억력 향상이라는 이점입니다.",
+      "집중력 향상이라는 이점입니다.",
+      "시간 관리라는 이점입니다.",
+      "정답(무관). 그림 전시 이야기라 관계가 없습니다.",
+      "팀워크라는 이점입니다."
+    ],
+    "trap": "'music'과 '예술'이라는 큰 범주 때문에 그림 이야기도 관련 있다고 착각하기 쉽습니다.",
+    "tip": "주제(악기 연주의 이점)를 직접 뒷받침하지 않는 문장을 고르세요."
+  },
+  {
+    "id": "m2b-11-36",
+    "level": "m2",
+    "set": "mock-11",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Honeybees have an amazing way of keeping their hive at a comfortable temperature in winter. They cannot fly in the cold, so they stay inside the hive all winter.\n(A) After a while, they change places, so that no bee stays in the cold outer layer for too long.\n(B) When the temperature drops, the bees gather closely together and form a tight ball around the queen, who must stay warm.\n(C) The bees on the outside of the ball keep their wings still. Those in the center shiver their flight muscles to produce heat.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 2,
+    "translation": "꿀벌은 겨울에 벌통을 편안한 온도로 유지하는 놀라운 방법을 가지고 있다. 그들은 추위에서는 날 수 없어 겨울 내내 벌통 안에 머문다. (B) 기온이 떨어지면 벌들은 서로 바짝 모여 여왕벌 주위에 단단한 공 모양을 만든다. 여왕벌은 따뜻하게 지내야 한다. (C) 공의 바깥쪽에 있는 벌들은 날개를 가만히 둔다. 중앙의 벌들은 비행 근육을 떨어 열을 만든다. (A) 잠시 후 그들은 자리를 바꿔서 어떤 벌도 추운 바깥층에 너무 오래 머물지 않게 한다.",
+    "why": "(B) 모여서 공 모양을 만듦 → (C) 'the ball'의 바깥과 중앙의 역할 → (A) 'After a while'로 자리 교대 순서입니다.",
+    "optionNotes": [
+      "(A)의 'they change places'가 가리킬 대상이 앞에 없습니다.",
+      "(A)가 (C) 앞에 오면 바깥층의 역할 설명 없이 교대가 나옵니다.",
+      "정답. 모임 → 역할 분담 → 교대.",
+      "(C)의 'the ball'이 가리킬 공이 앞에 나오지 않습니다.",
+      "(C)의 'the ball'이 가리킬 공이 앞에 나오지 않습니다."
+    ],
+    "trap": "(C)의 'the ball'은 (B)에서 형성한 tight ball을 가리킵니다.",
+    "tip": "the ball, After a while 같은 지시어와 시간 표현을 확인하세요."
+  },
+  {
+    "id": "m2b-11-37",
+    "level": "m2",
+    "set": "mock-11",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Cities in the Netherlands have thousands of kilometers of bicycle lanes. Many of these lanes are completely separated from car roads.\n(A) This makes cycling safe, which encourages even young children to ride to school. Parents also feel calm when they see the safe lanes.\n(B) Other cities have begun to copy this model, hoping to reduce traffic jams and air pollution. Tourists often come just to see this system.\n(C) As a result, about a quarter of all trips in the country are made by bike, much more than in most other countries.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "네덜란드의 도시에는 수천 킬로미터의 자전거 도로가 있다. 이 도로 중 상당수는 자동차 도로와 완전히 분리되어 있다. (A) 이는 자전거 타기를 안전하게 만들어 어린아이들까지 자전거로 등교하도록 장려한다. 부모들도 안전한 도로를 보면 마음이 놓인다. (C) 그 결과 이 나라 전체 이동의 약 4분의 1이 자전거로 이루어지며 이는 대부분의 다른 나라보다 훨씬 많다. (B) 다른 도시들은 교통 체증과 대기 오염을 줄이기를 바라며 이 모델을 따라 하기 시작했다. 관광객들도 이 체계를 보려고 일부러 찾아온다.",
+    "why": "(A) 'This'로 분리 도로의 효과 → (C) 'As a result'로 자전거 이용 비율 → (B) 다른 도시의 모방 순서입니다.",
+    "optionNotes": [
+      "정답. 안전 → 결과(이용 비율) → 확산.",
+      "(B)의 'this model'이 가리킬 내용이 앞에 없습니다.",
+      "(B)의 'this model'이 가리킬 내용이 앞에 없습니다.",
+      "(C)의 'As a result'가 이어질 원인이 앞에 없습니다.",
+      "(C)가 (A) 앞에 오면 원인(안전)이 뒤로 밀립니다."
+    ],
+    "trap": "(A)의 'This'는 주어진 글의 분리된 자전거 도로를 가리킵니다.",
+    "tip": "This, As a result, this model 같은 지시어와 연결어의 연결을 확인하세요."
+  },
+  {
+    "id": "m2b-11-38",
+    "level": "m2",
+    "set": "mock-11",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nFew people know that the first computer mouse was made of wood.\n\n[글]\n( ① ) It was invented in 1964 by an American engineer named Douglas Engelbart. ( ② ) The wooden box had two wheels underneath and a single red button on top. ( ③ ) At the time, computers were used only by scientists, so nobody imagined that ordinary people would need such a device. ( ④ ) It became popular only in the 1980s, when personal computers entered homes and offices. ( ⑤ ) Today, wireless mice are small, light, and available in many colors.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "[주어진 문장] 최초의 컴퓨터 마우스가 나무로 만들어졌다는 것을 아는 사람은 거의 없다. [글] 그것은 1964년 미국 기술자 더글러스 엥겔바트가 발명했다. 나무 상자에는 아래에 바퀴 두 개와 위에 빨간 단추 하나가 있었다. 당시 컴퓨터는 과학자만 썼기 때문에 아무도 보통 사람이 그런 장치를 필요로 하리라고 상상하지 못했다. 그것은 개인용 컴퓨터가 가정과 사무실에 들어온 1980년대에야 대중화되었다. 오늘날 무선 마우스는 작고 가볍고 다양한 색으로 나온다.",
+    "why": "'It'이 가리키는 마우스가 먼저 소개되어야 하므로 주어진 문장은 ①에 들어갑니다.",
+    "optionNotes": [
+      "정답. 마우스를 소개한 뒤 'It'으로 이어집니다.",
+      "'It'이 가리킬 대상이 이미 나온 뒤라 소개로 어색합니다.",
+      "당시 상황 설명 중간이라 어색합니다.",
+      "대중화 설명 중간이라 어색합니다.",
+      "마지막에 오면 대명사의 지시 대상이 빠집니다."
+    ],
+    "trap": "'wooden box'가 ②에 나온다고 ②에 넣지 마세요. ①의 'It'이 먼저 지시 대상을 요구합니다.",
+    "tip": "대명사(It)가 처음 나오는 문장 앞에는 그 대상을 소개하는 문장이 옵니다."
+  },
+  {
+    "id": "m2b-11-39",
+    "level": "m2",
+    "set": "mock-11",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThat is why scientists recommend washing your hands for at least twenty seconds.\n\n[글]\n( ① ) Our hands touch many things every day, such as doorknobs, phones, and keyboards. ( ② ) These surfaces can carry germs that cause illnesses. ( ③ ) Soap breaks down the outer layer of germs, but it needs time to do so. ( ④ ) Singing a short song twice is an easy way to measure the time. ( ⑤ ) Dry your hands well afterward, because germs spread more easily on wet skin.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "[주어진 문장] 그래서 과학자들은 적어도 이십 초 동안 손을 씻으라고 권한다. [글] 우리 손은 매일 문손잡이, 휴대전화, 키보드 같은 많은 것을 만진다. 이런 표면은 질병을 일으키는 세균을 지닐 수 있다. 비누는 세균의 바깥층을 분해하지만 그러려면 시간이 필요하다. 짧은 노래를 두 번 부르는 것은 시간을 재는 쉬운 방법이다. 세균은 젖은 피부에서 더 쉽게 퍼지므로 씻은 뒤에는 손을 잘 말리세요.",
+    "why": "비누가 작용하는 데 시간이 필요하다는 이유 뒤에 'That is why'로 권장 시간을 말하고, 곧이어 시간을 재는 방법이 이어지므로 ④에 들어갑니다.",
+    "optionNotes": [
+      "'That is why'가 이어질 이유가 아직 나오지 않았습니다.",
+      "세균 이야기 직전이라 이유가 부족합니다.",
+      "이유(비누가 시간이 필요) 설명 도중이라 아직 이릅니다.",
+      "정답. 이유 뒤에 권장 시간이 나오고 측정 방법이 이어집니다.",
+      "마지막 건조 설명 앞이라 흐름이 어긋납니다."
+    ],
+    "trap": "'twenty seconds'와 ④의 'measure the time'이 이어진다는 점을 놓치지 마세요.",
+    "tip": "That is why는 원인 설명 직후에 놓입니다."
+  },
+  {
+    "id": "m2b-11-40",
+    "level": "m2",
+    "set": "mock-11",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Researchers followed two hundred children for two years. One group read aloud with an adult for twenty minutes every day, while the other group read silently alone. When the experiment ended, the children who read aloud had learned about twice as many new words as the others. The researchers explained that adults often stopped to explain difficult words and asked questions about the story. The children heard many new words in a meaningful context and talked about them. In contrast, the children who read alone often skipped words they did not understand.\n\n▶ Reading aloud with an adult (A) children's vocabulary because the children (B) many new words.",
+    "options": [
+      "(A) reduced — (B) completely avoided and ignored",
+      "(A) ignored — (B) forgot",
+      "(A) delayed — (B) skipped",
+      "(A) improved — (B) heard and discussed",
+      "(A) stopped — (B) hid"
+    ],
+    "answer": 3,
+    "translation": "연구자들은 2년 동안 아이 이백 명을 추적했다. 한 집단은 매일 이십 분씩 어른과 소리 내어 읽었고 다른 집단은 혼자 조용히 읽었다. 실험이 끝났을 때 소리 내어 읽은 아이들은 다른 아이들보다 약 두 배 많은 새 단어를 배웠다. 연구자들은 어른이 자주 멈춰 어려운 단어를 설명하고 이야기에 대해 질문했다고 설명했다. 아이들은 의미 있는 맥락에서 많은 새 단어를 듣고 그것에 대해 이야기했다. 반면 혼자 읽은 아이들은 이해하지 못하는 단어를 자주 건너뛰었다. ▶ 어른과 소리 내어 읽는 것은 아이들이 많은 새 단어를 (B)했기 때문에 어휘를 (A)했다.",
+    "why": "어른과 소리 내어 읽은 아이들이 새 단어를 듣고 이야기하며 어휘가 늘었으므로 (A)는 improved, (B)는 heard and discussed입니다.",
+    "optionNotes": [
+      "reduced와 avoided는 글과 반대입니다.",
+      "ignored와 forgot은 글에 나오지 않습니다.",
+      "delayed와 skipped는 혼자 읽은 집단의 모습입니다.",
+      "정답. 어휘가 향상되었고 단어를 듣고 이야기했습니다.",
+      "stopped와 hid는 글에 나오지 않습니다."
+    ],
+    "trap": "skipped는 혼자 읽은 아이들의 행동이므로 소리 내어 읽은 집단과 혼동하지 마세요.",
+    "tip": "요약문은 조건(어른과 읽기)과 결과(어휘 향상)를 짝지으세요."
+  }
+]
