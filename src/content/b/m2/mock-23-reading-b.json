@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m2b-23-29",
+    "level": "m2",
+    "set": "mock-23",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Kangaroos live in Australia, and they are famous for their strong legs. A kangaroo can {1|jump} up to nine meters in a single leap. When it moves slowly, it uses its tail as a fifth leg. Baby kangaroos, called joeys, are {2|born} very small, about the size of a jellybean. After birth, a joey crawls into its mother's pouch, where it drinks milk and {3|grows} for several months. Kangaroos cannot walk backward, so the kangaroo is a symbol of moving {4|forwarded} in Australia. They eat grass and {5|rest} in the shade during the hot afternoon.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "캥거루는 호주에 살며 튼튼한 다리로 유명하다. 캥거루는 한 번의 도약으로 최대 9미터까지 뛸 수 있다. 천천히 움직일 때는 꼬리를 다섯 번째 다리로 쓴다. 조이라고 불리는 아기 캥거루는 젤리빈 크기쯤으로 아주 작게 태어난다. 태어난 뒤 조이는 어미의 주머니로 기어 들어가 몇 달 동안 젖을 먹으며 자란다. 캥거루는 뒤로 걷지 못해서 호주에서는 앞으로 나아감의 상징이다. 그들은 풀을 먹고 더운 오후에는 그늘에서 쉰다.",
+    "why": "전치사 of 뒤에서 'moving forward(앞으로 나아가는 것)'처럼 부사 forward를 써야 하므로 forwarded는 틀렸습니다.",
+    "optionNotes": [
+      "조동사 can 뒤의 동사원형 jump입니다.",
+      "수동태 are born입니다.",
+      "drinks와 병렬되는 3인칭 단수 현재형 grows입니다.",
+      "정답(틀린 것). 부사 forward여야 합니다.",
+      "eat과 병렬되는 동사원형 rest입니다."
+    ],
+    "trap": "과거분사 forwarded를 수동의 의미로 착각하기 쉽습니다.",
+    "tip": "'moving forward'처럼 동명사 뒤에는 부사가 옵니다."
+  },
+  {
+    "id": "m2b-23-30",
+    "level": "m2",
+    "set": "mock-23",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "A community garden is a piece of land where neighbors grow vegetables and flowers together. People who live in apartments do not have their own yards, so the garden gives them a chance to {1|enjoy} nature. Members share tools and {2|exchange} seeds with each other. They also learn new skills, such as how to make compost from kitchen waste. Gardening together makes it easier to {3|meet} neighbors and become friends. The fresh vegetables are cheaper and healthier than those from stores. In some cities, empty lots that were once {4|dirty} have turned into beautiful gardens. However, these gardens can only survive if people {5|ignore} them carefully every day.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "공동체 텃밭은 이웃들이 함께 채소와 꽃을 기르는 땅이다. 아파트에 사는 사람들은 자기 마당이 없으므로 텃밭은 그들에게 자연을 즐길 기회를 준다. 회원들은 도구를 함께 쓰고 서로 씨앗을 교환한다. 또 부엌 쓰레기로 퇴비를 만드는 법 같은 새로운 기술도 배운다. 함께 가꾸면 이웃을 만나 친구가 되기가 더 쉽다. 신선한 채소는 가게의 것보다 싸고 더 건강에 좋다. 일부 도시에서는 한때 더러웠던 빈 터가 아름다운 텃밭으로 바뀌었다. 그러나 이 텃밭은 사람들이 매일 정성껏 돌봐야만 유지될 수 있다.",
+    "why": "텃밭이 유지되려면 매일 정성껏 '돌봐야(take care of)' 하므로 ignore는 부적절합니다.",
+    "optionNotes": [
+      "자연을 즐긴다는 의미로 enjoy가 알맞습니다.",
+      "씨앗을 교환한다는 의미로 exchange가 알맞습니다.",
+      "이웃을 만난다는 의미로 meet이 알맞습니다.",
+      "한때 더러웠던 빈 터라는 의미로 dirty가 알맞습니다.",
+      "정답(부적절). 정성껏 돌봐야 하므로 take care of여야 합니다."
+    ],
+    "trap": "'carefully'와 호응하지 않는 동사임을 놓치기 쉽습니다.",
+    "tip": "부사(carefully)와 동사의 의미가 어울리는지 확인하세요."
+  },
+  {
+    "id": "m2b-23-31",
+    "level": "m2",
+    "set": "mock-23",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many people think that summer happens because the Earth is closer to the Sun. This is not true. In fact, the Earth is closest to the Sun in January. Seasons happen because the Earth's axis is tilted. When the northern half of the Earth is tilted toward the Sun, it receives more direct sunlight, and it is summer there. At the same time, the southern half is tilted away, so it is winter. Six months later, the situation is reversed. This pattern repeats every year. The seasons change because the Earth __________.",
+    "options": [
+      "is tilted as it travels around the Sun",
+      "moves closer to the Moon",
+      "stops spinning in winter",
+      "gets bigger in summer",
+      "is covered by clouds"
+    ],
+    "answer": 0,
+    "translation": "많은 사람은 지구가 태양에 더 가까워서 여름이 된다고 생각한다. 이는 사실이 아니다. 사실 지구는 1월에 태양에 가장 가깝다. 계절이 생기는 것은 지구의 축이 기울어져 있기 때문이다. 지구의 북반구가 태양 쪽으로 기울면 더 직접적인 햇빛을 받아 그곳은 여름이 된다. 같은 때 남반구는 반대로 기울어 겨울이다. 여섯 달 뒤에는 상황이 뒤바뀐다. 이 패턴은 해마다 되풀이된다. 계절이 바뀌는 것은 지구가 태양 둘레를 도는 동안 기울어져 있기 때문이다.",
+    "why": "지구 축이 기울어져 있어서 반구마다 받는 햇빛이 달라 계절이 생깁니다.",
+    "optionNotes": [
+      "정답. 기울어진 채 태양 둘레를 돕니다.",
+      "달에 가까워지는 내용은 나오지 않습니다.",
+      "겨울에 자전을 멈춘다는 내용은 나오지 않습니다.",
+      "여름에 커진다는 내용은 나오지 않습니다.",
+      "구름은 나오지 않습니다."
+    ],
+    "trap": "'closer to the Sun'이라는 통념을 정답으로 착각하지 마세요. 글은 그것을 부정합니다.",
+    "tip": "'This is not true' 뒤의 설명이 정답의 근거입니다."
+  },
+  {
+    "id": "m2b-23-32",
+    "level": "m2",
+    "set": "mock-23",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In a forest, trees are not alone. Under the ground, fungi form thin threads that connect the roots of many trees. Scientists call this network the wood wide web. The threads are thinner than a human hair. Through it, a big old tree can send sugar to young trees that grow in the shade. A sick tree can also send chemical warnings to its neighbors so that they can prepare for danger. In this way, trees in a forest help one another survive. So, trees in a forest are able to __________.",
+    "options": [
+      "grow faster only when it is completely dark",
+      "make sounds with their leaves",
+      "talk to the birds every morning",
+      "share food through underground networks",
+      "move to a new place at night"
+    ],
+    "answer": 3,
+    "translation": "숲에서 나무는 혼자가 아니다. 땅속에서 곰팡이가 가는 실을 만들어 많은 나무의 뿌리를 연결한다. 과학자들은 이 망을 우드 와이드 웹이라고 부른다. 이 실은 사람 머리카락보다 가늘다. 이를 통해 크고 오래된 나무는 그늘에서 자라는 어린 나무에게 당을 보낼 수 있다. 아픈 나무는 이웃에게 화학적 경고를 보내 위험에 대비하게 할 수도 있다. 이렇게 숲의 나무들은 서로 살아남도록 돕는다. 그래서 숲의 나무들은 땅속 망을 통해 양분을 나눌 수 있다.",
+    "why": "곰팡이 실이 뿌리를 연결해 당과 경고를 주고받으므로 땅속 망을 통해 양분을 나눕니다.",
+    "optionNotes": [
+      "어둠에서만 빨리 자란다는 내용은 나오지 않습니다.",
+      "잎으로 소리를 낸다는 내용은 나오지 않습니다.",
+      "새와 말한다는 내용은 나오지 않습니다.",
+      "정답. 땅속 망을 통해 양분을 나눕니다.",
+      "밤에 이동한다는 내용은 나오지 않습니다."
+    ],
+    "trap": "'warnings'를 소리나 대화(②③)로 오해하지 마세요. 화학적 신호입니다.",
+    "tip": "앞 문장(send sugar)이 정답의 근거입니다."
+  },
+  {
+    "id": "m2b-23-33",
+    "level": "m2",
+    "set": "mock-23",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A rainbow appears after rain when the sun comes out. Sunlight looks white, but it is a mixture of many colors. When sunlight enters a raindrop, it bends. Each color bends by a slightly different amount, so the colors spread apart. The light then bounces off the back of the drop and exits, bending again. Millions of raindrops do this at the same time, and we see a big band of colors in the sky. To see a rainbow, the sun must be behind you and the rain in front of you. A rainbow forms because raindrops cause sunlight to be __________.",
+    "options": [
+      "turned completely black",
+      "made much hotter",
+      "hidden behind the thick clouds",
+      "separated into many colors",
+      "changed into snow"
+    ],
+    "answer": 3,
+    "translation": "무지개는 비가 온 뒤 해가 나올 때 나타난다. 햇빛은 하얗게 보이지만 여러 색이 섞인 것이다. 햇빛이 빗방울에 들어가면 꺾인다. 색마다 꺾이는 정도가 조금씩 달라서 색들이 갈라진다. 그다음 빛은 방울의 뒷면에서 튕겨 나오며 다시 꺾인다. 수백만 개의 빗방울이 동시에 이렇게 해서 우리는 하늘에서 색의 큰 띠를 본다. 무지개를 보려면 해가 뒤에, 비가 앞에 있어야 한다. 무지개가 생기는 것은 빗방울이 햇빛을 서로 다른 색으로 갈라지게 하기 때문이다.",
+    "why": "햇빛이 빗방울에서 꺾이며 색마다 갈라져 무지개가 되므로 서로 다른 색으로 갈라지게 합니다.",
+    "optionNotes": [
+      "검게 변한다는 내용은 나오지 않습니다.",
+      "뜨거워진다는 내용은 나오지 않습니다.",
+      "구름에 가려진다는 내용은 나오지 않습니다.",
+      "정답. 서로 다른 색으로 갈라집니다.",
+      "눈으로 변한다는 내용은 나오지 않습니다."
+    ],
+    "trap": "'sunlight looks white'를 결론(흰빛으로 남음)으로 오해하지 마세요.",
+    "tip": "원인(빗방울에서 꺾임) → 결과(색이 갈라짐)를 따라가세요."
+  },
+  {
+    "id": "m2b-23-34",
+    "level": "m2",
+    "set": "mock-23",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Some students say, \"I can't do math,\" when they face a hard problem. This sentence closes their minds. They stop trying before they even start. Researchers suggest adding one small word: \"yet.\" \"I can't do this yet\" means that you are still learning and that you will improve with effort. In an experiment, students who used this word spent more time on difficult problems and gave up less often. The word reminds us that skills grow with practice. It is a small word with a big power. So, when you feel stuck, remember that __________.",
+    "options": [
+      "everyone is born with the same skills",
+      "your abilities can grow if you keep trying and learning",
+      "hard problems should always be skipped",
+      "math is not important in daily life",
+      "other people will always do better than you"
+    ],
+    "answer": 1,
+    "translation": "일부 학생은 어려운 문제를 만나면 \"나는 수학을 못해.\"라고 말한다. 이 문장은 그들의 마음을 닫아 버린다. 그들은 시작하기도 전에 노력을 멈춘다. 연구자들은 작은 낱말 하나를 덧붙이라고 제안한다. \"아직\"이다. \"나는 이걸 아직 못해.\"는 아직 배우는 중이며 노력하면 나아질 것이라는 뜻이다. 한 실험에서 이 낱말을 쓴 학생들은 어려운 문제에 더 많은 시간을 쓰고 포기를 덜 했다. 이 낱말은 기술이 연습으로 자란다는 것을 상기시킨다. 그것은 큰 힘을 가진 작은 낱말이다. 그러니 막힌 것 같을 때는 계속 노력하고 배우면 능력이 자랄 수 있다는 것을 기억하라.",
+    "why": "'yet'은 노력하면 나아질 수 있다는 뜻이므로 계속 노력하고 배우면 능력이 자랄 수 있습니다.",
+    "optionNotes": [
+      "모두가 같은 능력을 갖고 태어난다는 내용은 나오지 않습니다.",
+      "정답. 노력하고 배우면 능력이 자랄 수 있습니다.",
+      "어려운 문제를 건너뛰라는 말은 글과 반대입니다.",
+      "수학이 중요하지 않다는 내용은 나오지 않습니다.",
+      "남이 늘 더 잘한다는 내용은 나오지 않습니다."
+    ],
+    "trap": "첫 문장의 'I can't do math'를 글의 결론으로 오해하지 마세요.",
+    "tip": "앞 문장(skills grow with practice)이 정답의 근거입니다."
+  },
+  {
+    "id": "m2b-23-35",
+    "level": "m2",
+    "set": "mock-23",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Sleeping well is important for students' health and learning. Here are some simple tips for getting a good night's sleep. ① The Great Wall of China is more than twenty thousand kilometers long. ② Go to bed and wake up at the same time every day, even on weekends. ③ Avoid drinking coffee or tea in the evening, because caffeine keeps you awake. ④ Turn off your phone and computer at least an hour before bed. ⑤ Keep your room dark, quiet, and cool so that you can fall asleep easily.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "잘 자는 것은 학생의 건강과 학습에 중요하다. 푹 자기 위한 몇 가지 간단한 요령이 있다. ① 만리장성은 길이가 이만 킬로미터가 넘는다. ② 주말에도 매일 같은 시각에 자고 일어나라. ③ 카페인이 잠을 쫓으므로 저녁에는 커피나 차를 마시지 마라. ④ 잠들기 최소 한 시간 전에는 휴대전화와 컴퓨터를 꺼라. ⑤ 쉽게 잠들 수 있도록 방을 어둡고 조용하며 서늘하게 유지하라.",
+    "why": "글은 잠을 잘 자는 요령을 이야기하는데 ①은 만리장성에 관한 별개의 이야기입니다.",
+    "optionNotes": [
+      "정답(무관). 만리장성 이야기라 관계가 없습니다.",
+      "같은 시각에 자고 일어나는 요령입니다.",
+      "카페인을 피하는 요령입니다.",
+      "기기를 끄는 요령입니다.",
+      "수면 환경을 만드는 요령입니다."
+    ],
+    "trap": "첫 번째 문장이라 소개처럼 보이지만 주제와 관계가 없습니다.",
+    "tip": "각 문장이 '잘 자는 요령'인지 확인하세요."
+  },
+  {
+    "id": "m2b-23-36",
+    "level": "m2",
+    "set": "mock-23",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "A kite is a toy that flies in the wind on a long string. Kites have a very long history.\n(A) The first kites were made in China more than two thousand years ago. They were made of silk and bamboo.\n(B) Today, people fly kites for fun in parks and at festivals all over the world, and some even hold kite contests. Some kites are shaped like fish or dragons.\n(C) At first, people used them for practical purposes, such as sending messages in war. Later, they became popular as toys for children.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "연은 긴 줄에 매달려 바람 속을 나는 장난감이다. 연은 매우 긴 역사를 가지고 있다. (A) 최초의 연은 이천 년도 더 전에 중국에서 만들어졌다. 비단과 대나무로 만들었다. (C) 처음에 사람들은 전쟁 중 메시지를 보내는 것 같은 실용적인 목적으로 연을 썼다. 나중에 연은 어린이의 장난감으로 인기를 얻었다. (B) 오늘날 사람들은 전 세계의 공원과 축제에서 재미로 연을 날리고 연날리기 대회를 열기도 한다. 어떤 연은 물고기나 용 모양이다.",
+    "why": "(A) 최초의 연 → (C) 'them'과 'At first ~ Later' 용도의 변화 → (B) 'Today' 오늘날 순서입니다.",
+    "optionNotes": [
+      "정답. 최초 → 용도의 변화 → 오늘날.",
+      "(B)의 'Today'가 과정보다 먼저 나올 수 없습니다.",
+      "(B)가 먼저 오면 'Today'의 기준 과거가 없습니다.",
+      "(C)의 'them'이 가리킬 연이 앞에 없습니다.",
+      "(C)가 먼저 오면 'them'이 불분명합니다."
+    ],
+    "trap": "(C)의 'them'은 (A)의 최초의 연을 가리킵니다.",
+    "tip": "first → them/At first → Today의 시간 표현과 지시어를 따라가세요."
+  },
+  {
+    "id": "m2b-23-37",
+    "level": "m2",
+    "set": "mock-23",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Minho wanted to buy a new pair of sneakers, but he did not have enough money. So he decided to find a way to earn some.\n(A) He walked around his neighborhood and asked the neighbors if he could wash their cars. Mr. Park said yes and gave him a bucket and a sponge.\n(B) After two weeks of washing cars, Minho finally had enough money. He bought the sneakers he wanted and felt proud.\n(C) First, he made a list of jobs that a middle school student could do, such as walking dogs and washing cars.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 3,
+    "translation": "민호는 새 운동화를 사고 싶었지만 돈이 충분하지 않았다. 그래서 그는 돈을 벌 방법을 찾기로 했다. (C) 먼저 그는 개 산책시키기와 세차하기처럼 중학생이 할 수 있는 일의 목록을 만들었다. (A) 그는 동네를 돌아다니며 이웃에게 세차를 해도 되는지 물었다. 박 씨는 좋다고 하며 양동이와 스펀지를 주었다. (B) 이 주 동안 세차한 뒤 민호는 마침내 돈이 충분해졌다. 그는 원하던 운동화를 사고 뿌듯해했다.",
+    "why": "(C) 할 수 있는 일의 목록 → (A) 그중 세차를 부탁하러 다님 → (B) 이 주 뒤 운동화 구입 순서입니다.",
+    "optionNotes": [
+      "(A)의 'washing cars'가 (C)의 목록에서 나오기 전에는 맥락이 부족합니다.",
+      "(B)의 결과가 (A)보다 먼저 올 수 없습니다.",
+      "(B)의 결과가 먼저 올 수 없습니다.",
+      "정답. 목록 → 부탁 → 결과.",
+      "(B)의 결과가 (A)보다 먼저 올 수 없습니다."
+    ],
+    "trap": "(A)의 'washing their cars'는 (C)에서 고른 일입니다.",
+    "tip": "First → He walked around → After two weeks의 순서를 따라가세요."
+  },
+  {
+    "id": "m2b-23-38",
+    "level": "m2",
+    "set": "mock-23",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nAs a result, less blood flows to the brain.\n\n[글]\n( ① ) After a big lunch, many people feel sleepy and find it hard to focus. ( ② ) During digestion, the body sends a lot of blood to the stomach and intestines. ( ③ ) Less oxygen means that our brain works more slowly. ( ④ ) Experts say that eating a lot of sugar or fat makes this feeling stronger. ( ⑤ ) To avoid sleepiness, it is better to eat smaller meals and to take a short walk afterward.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 그 결과 뇌로 가는 혈액이 줄어든다. [글] 점심을 많이 먹은 뒤에는 많은 사람이 졸리고 집중하기 어렵다. 소화하는 동안 몸은 많은 혈액을 위와 장으로 보낸다. 산소가 줄면 뇌가 더 느리게 작동한다. 전문가들은 당이나 지방을 많이 먹으면 이 느낌이 더 강해진다고 말한다. 졸음을 피하려면 식사량을 줄이고 식후에 잠깐 걷는 것이 좋다.",
+    "why": "혈액이 위와 장으로 간다는 원인 뒤에 'As a result'로 뇌로 가는 혈액이 줄고, 다음 문장이 산소 부족을 말하므로 ③에 들어갑니다.",
+    "optionNotes": [
+      "'As a result'의 원인이 아직 없습니다.",
+      "소화 중 혈액의 이동을 말하는 문장 앞이라 원인이 부족합니다.",
+      "정답. 혈액이 위로 간 결과 뇌로 가는 혈액이 줄고 산소 이야기가 이어집니다.",
+      "산소가 줄었다는 문장 뒤에 오면 순서가 어긋납니다.",
+      "해결책 앞에 오면 어색합니다."
+    ],
+    "trap": "'Less oxygen'은 주어진 문장의 'less blood'를 이어받는 내용입니다.",
+    "tip": "As a result는 원인 직후에 놓이고 뒤에 그 결과가 이어집니다."
+  },
+  {
+    "id": "m2b-23-39",
+    "level": "m2",
+    "set": "mock-23",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThese dams slow the water and make a pond behind them.\n\n[글]\n( ① ) Beavers cut down trees with their strong front teeth. ( ② ) They use the branches and mud to build dams across streams. ( ③ ) In the middle of the pond, they build their homes, called lodges. ( ④ ) The entrance of a lodge is under the water, so predators cannot enter easily. ( ⑤ ) Inside, it is warm and dry even in the cold winter.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 이 댐은 물을 느리게 하고 뒤에 연못을 만든다. [글] 비버는 튼튼한 앞니로 나무를 벤다. 그 가지와 진흙으로 개울을 가로질러 댐을 짓는다. 연못 한가운데에 그들은 롯지라고 하는 집을 짓는다. 롯지의 입구는 물속에 있어서 포식자가 쉽게 들어올 수 없다. 안은 추운 겨울에도 따뜻하고 건조하다.",
+    "why": "댐을 짓는다는 문장 뒤에 'These dams'가 이어지고, 다음 문장의 'the pond'가 주어진 문장에서 처음 나오므로 ③에 들어갑니다.",
+    "optionNotes": [
+      "'These dams'가 가리킬 댐이 아직 없습니다.",
+      "댐을 짓는다는 문장 앞이라 지시가 맞지 않습니다.",
+      "정답. 댐 뒤에 연못이 생기고 그 연못에 집을 짓습니다.",
+      "집을 지은 뒤에 연못이 나오면 어색합니다.",
+      "결론 앞에 오면 어색합니다."
+    ],
+    "trap": "③의 'the pond'가 주어진 문장에서 처음 소개된다는 점을 놓치기 쉽습니다.",
+    "tip": "정관사 the가 붙은 명사(the pond)는 앞에서 소개된 뒤에 나옵니다."
+  },
+  {
+    "id": "m2b-23-40",
+    "level": "m2",
+    "set": "mock-23",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A middle school asked one hundred students to help at a local nursing home once a week for two months. At first, many of them felt nervous and did not know what to say. However, they soon learned to listen to the older people's stories and to play board games with them. At the end of the program, a survey showed that most of the students felt happier and more confident than before. The older residents also said that they felt less lonely. One student said, \"I thought I was helping them, but they helped me too.\" The school decided to continue the program next year.\n\n▶ Spending time (A) others made both students and older people feel (B).",
+    "options": [
+      "(A) helping — (B) happier",
+      "(A) avoiding — (B) lonelier",
+      "(A) ignoring — (B) angrier",
+      "(A) blaming — (B) more nervous",
+      "(A) leaving — (B) more tired"
+    ],
+    "answer": 0,
+    "translation": "한 중학교가 백 명의 학생에게 두 달 동안 일주일에 한 번 지역 요양원에서 돕도록 요청했다. 처음에는 많은 학생이 긴장하고 무슨 말을 해야 할지 몰랐다. 그러나 곧 어르신들의 이야기를 듣고 보드게임을 함께 하는 법을 배웠다. 프로그램이 끝날 때 설문에서 대부분의 학생이 전보다 더 행복하고 자신감이 있다고 답했다. 어르신들도 덜 외롭다고 말했다. 한 학생은 \"내가 그분들을 돕는다고 생각했는데 그분들도 나를 도와주셨어요.\"라고 말했다. 학교는 내년에도 이 프로그램을 계속하기로 했다. ▶ 다른 사람들을 (A) 시간을 보내는 것은 학생과 어르신 모두를 (B) 느끼게 했다.",
+    "why": "요양원에서 어르신을 도우며 시간을 보낸 뒤 학생과 어르신 모두 더 행복해졌으므로 (A)는 helping, (B)는 happier입니다.",
+    "optionNotes": [
+      "정답. 돕는 시간이 모두를 더 행복하게 했습니다.",
+      "avoiding과 lonelier는 글과 반대입니다.",
+      "ignoring과 angrier는 글에 나오지 않습니다.",
+      "blaming과 more nervous는 글에 나오지 않습니다.",
+      "leaving과 more tired는 글에 나오지 않습니다."
+    ],
+    "trap": "처음의 긴장(nervous)을 최종 결과로 오해하지 마세요.",
+    "tip": "요약문은 활동(돕기)과 결과(더 행복)를 짝지으세요."
+  }
+]
