@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m2b-18-29",
+    "level": "m2",
+    "set": "mock-18",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Owls hunt at night, and they {1|has} special features that help them. Their large eyes collect even a small amount of light, so they can see in the dark. Their ears are placed at different heights on the head, {2|which} lets them find the exact position of a sound. When an owl flies, it makes almost no noise, because the edges of its feathers are soft. A mouse on the ground cannot hear the owl {3|coming}. Owls cannot move their eyes, so they turn their heads up to 270 degrees to {4|look} around. After catching a mouse, the owl swallows it whole and later {5|spits} out the bones in a small ball.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "부엉이는 밤에 사냥하며 그들을 돕는 특별한 특징이 있다. 큰 눈은 적은 양의 빛도 모아서 어둠 속에서 볼 수 있다. 귀는 머리의 서로 다른 높이에 달려 있어서 소리의 정확한 위치를 찾을 수 있다. 부엉이가 날 때는 깃털 가장자리가 부드러워서 거의 소리가 나지 않는다. 땅 위의 쥐는 부엉이가 오는 소리를 듣지 못한다. 부엉이는 눈을 움직일 수 없어서 주위를 보려고 머리를 270도까지 돌린다. 쥐를 잡은 뒤 부엉이는 통째로 삼키고 나중에 뼈를 작은 덩어리로 뱉어 낸다.",
+    "why": "주어 they는 복수이므로 has가 아니라 have여야 합니다.",
+    "optionNotes": [
+      "정답(틀린 것). 복수 주어 they에 맞춰 have여야 합니다.",
+      "앞 절 전체를 받는 계속적 용법의 관계대명사 which입니다.",
+      "지각동사 hear의 목적격 보어 coming입니다.",
+      "목적을 나타내는 to부정사 look입니다.",
+      "주어 the owl에 맞는 단수 동사 spits입니다."
+    ],
+    "trap": "주어 they를 앞 문장의 단수 owls와 혼동하기 쉽습니다.",
+    "tip": "주어의 수(they → 복수)를 먼저 확인하고 동사를 일치시키세요."
+  },
+  {
+    "id": "m2b-18-30",
+    "level": "m2",
+    "set": "mock-18",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Sunlight is good for our body because it helps us make vitamin D. However, too much sun can {1|harm} our skin. The sun's UV rays can cause sunburn, and over many years, they can lead to skin cancer. To protect yourself, put on sunscreen at least twenty minutes before you go outside. Do not forget to {2|apply} it again every two hours, especially after swimming. It is also a good idea to {3|expose} your skin to the sunlight at noon, when the UV rays are the strongest. Wearing a hat and sunglasses also helps. With these simple habits, you can enjoy the sun and keep your skin {4|healthy}. A little care today will {5|protect} your skin for the future.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "햇빛은 비타민 D를 만들도록 도와서 우리 몸에 좋다. 그러나 해를 너무 많이 쬐면 피부를 해칠 수 있다. 태양의 자외선은 햇볕에 타는 것을 일으킬 수 있고 여러 해가 지나면 피부암으로 이어질 수 있다. 자신을 보호하려면 밖에 나가기 최소 이십 분 전에 자외선 차단제를 바르라. 특히 수영한 뒤에는 두 시간마다 다시 바르는 것을 잊지 마라. 자외선이 가장 강한 정오의 햇빛에 피부를 노출하는 것도 좋은 생각이다. 모자와 선글라스를 쓰는 것도 도움이 된다. 이런 간단한 습관으로 햇빛을 즐기면서 피부를 건강하게 유지할 수 있다. 오늘의 작은 주의가 미래의 피부를 보호할 것이다.",
+    "why": "자외선이 가장 강한 정오에는 햇빛에 피부를 '노출하는(expose)' 것이 아니라 '피하는(avoid)' 것이 알맞습니다.",
+    "optionNotes": [
+      "피부를 해칠 수 있다는 의미로 harm이 알맞습니다.",
+      "다시 바른다는 의미로 apply가 알맞습니다.",
+      "정답(부적절). 가장 강한 햇빛은 피해야 하므로 avoid여야 합니다.",
+      "피부를 건강하게 유지한다는 의미로 healthy가 알맞습니다.",
+      "피부를 보호한다는 의미로 protect가 알맞습니다."
+    ],
+    "trap": "'It is a good idea to' 뒤의 행동이 앞 내용(보호)과 맞는지 놓치기 쉽습니다.",
+    "tip": "앞뒤 흐름(자외선이 가장 강함 → 피해야 함)을 기준으로 동사의 방향을 확인하세요."
+  },
+  {
+    "id": "m2b-18-31",
+    "level": "m2",
+    "set": "mock-18",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "It takes about twenty minutes for the brain to receive the message that the stomach is full. If you eat very fast, you may finish a large meal before the message arrives. As a result, you may eat more than your body needs. People who eat slowly, on the other hand, tend to feel satisfied with smaller meals. Chewing each bite well also helps the stomach digest food more easily. Many doctors therefore advise people to put down their forks between bites and to enjoy the taste. Eating slowly gives our brain enough time to __________.",
+    "options": [
+      "forget the taste of the food",
+      "make us feel hungry again",
+      "change the color and the smell of the food on the plate",
+      "finish the meal for us",
+      "tell us that we are already full"
+    ],
+    "answer": 4,
+    "translation": "뇌가 위가 가득 찼다는 신호를 받는 데는 약 이십 분이 걸린다. 매우 빨리 먹으면 신호가 오기 전에 많은 식사를 끝낼 수 있다. 그 결과 몸이 필요로 하는 것보다 더 많이 먹을 수 있다. 반면 천천히 먹는 사람은 더 적은 식사에도 만족하는 경향이 있다. 한 입 한 입 잘 씹는 것도 위가 음식을 더 쉽게 소화하도록 돕는다. 그래서 많은 의사가 한 입 사이에 포크를 내려놓고 맛을 즐기라고 조언한다. 천천히 먹는 것은 뇌에 우리가 이미 배부르다고 알려 줄 충분한 시간을 준다.",
+    "why": "뇌가 배부르다는 신호를 받는 데 시간이 걸리므로 천천히 먹으면 뇌가 이미 배부르다고 알려 줄 시간을 얻습니다.",
+    "optionNotes": [
+      "맛을 잊는다는 내용은 나오지 않습니다.",
+      "다시 배고프게 한다는 내용은 나오지 않습니다.",
+      "음식의 색과 냄새는 나오지 않습니다.",
+      "식사를 대신 끝내 준다는 내용은 나오지 않습니다.",
+      "정답. 이미 배부르다고 알려 줄 시간을 줍니다."
+    ],
+    "trap": "'finish a large meal before the message arrives'를 반대로 해석하지 마세요.",
+    "tip": "앞의 원인(20분 걸림)과 결론(천천히 먹기)을 연결해 빈칸을 추론하세요."
+  },
+  {
+    "id": "m2b-18-32",
+    "level": "m2",
+    "set": "mock-18",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "When someone smiles at us, we often smile back without thinking. Scientists believe that our brain automatically copies the expressions of the people around us. When our face copies a smile, the brain feels a little of the same happiness. In one study, people who saw smiling faces on a screen reported better moods than those who saw angry faces. A smile can also pass from person to person in a crowd, like a wave. This is why a cheerful teacher or classmate can brighten a whole room. In short, smiling can __________.",
+    "options": [
+      "make other people feel happier as well",
+      "cost us a lot of money and time every single day",
+      "make our eyes smaller than before",
+      "stop the rain from falling on us",
+      "help us understand math problems"
+    ],
+    "answer": 0,
+    "translation": "누군가 우리에게 미소 지으면 우리는 흔히 생각 없이 마주 웃는다. 과학자들은 우리 뇌가 주변 사람들의 표정을 자동으로 따라 한다고 믿는다. 얼굴이 미소를 따라 하면 뇌는 같은 행복을 조금 느낀다. 한 연구에서 화면에서 웃는 얼굴을 본 사람들은 화난 얼굴을 본 사람들보다 기분이 더 좋다고 보고했다. 미소는 군중 속에서 사람에게서 사람에게 파도처럼 전해질 수도 있다. 그래서 밝은 선생님이나 반 친구가 방 전체를 환하게 할 수 있다. 요컨대 미소는 다른 사람들도 더 행복하게 만들 수 있다.",
+    "why": "미소는 따라 하는 사람의 기분을 좋게 하고 군중에게 퍼지므로 다른 사람들도 더 행복하게 만듭니다.",
+    "optionNotes": [
+      "정답. 다른 사람들도 더 행복하게 만듭니다.",
+      "돈과 시간이 든다는 내용은 나오지 않습니다.",
+      "눈이 작아진다는 내용은 나오지 않습니다.",
+      "비를 막는다는 내용은 나오지 않습니다.",
+      "수학 이해는 나오지 않습니다."
+    ],
+    "trap": "'brighten a whole room'을 문자 그대로 조명과 연결하지 마세요.",
+    "tip": "예시(웃는 얼굴을 본 사람의 기분 개선)를 일반화하면 빈칸이 나옵니다."
+  },
+  {
+    "id": "m2b-18-33",
+    "level": "m2",
+    "set": "mock-18",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In summer, cities can be several degrees hotter than the countryside, because concrete and asphalt hold heat. Trees help to solve this problem. Their leaves give shade, so the ground and the buildings stay cooler. Trees also release water vapor from their leaves, which cools the air, just like sweat cools our body. On a hot day, the air under a tree can be up to five degrees cooler than the air in an open parking lot. For this reason, many cities plant trees along streets. So trees in a city can __________.",
+    "options": [
+      "make the streets hotter in the summer",
+      "lower the temperature around us on hot days",
+      "stop the sun from rising in the morning",
+      "increase the amount of concrete and asphalt in cities",
+      "keep people from walking outside at all"
+    ],
+    "answer": 1,
+    "translation": "여름에 도시는 콘크리트와 아스팔트가 열을 품기 때문에 시골보다 몇 도 더 더울 수 있다. 나무는 이 문제를 해결하도록 돕는다. 잎이 그늘을 만들어 땅과 건물이 더 시원하게 유지된다. 나무는 또 잎에서 수증기를 내보내는데 땀이 우리 몸을 식히듯 공기를 식힌다. 더운 날 나무 아래 공기는 트인 주차장의 공기보다 최대 5도 더 시원할 수 있다. 이런 이유로 많은 도시가 길을 따라 나무를 심는다. 그러니 도시의 나무는 더운 날 우리 주변의 온도를 낮출 수 있다.",
+    "why": "그늘과 수증기로 공기를 식히므로 나무는 더운 날 주변 온도를 낮춥니다.",
+    "optionNotes": [
+      "거리를 더 덥게 한다는 내용은 글과 반대입니다.",
+      "정답. 더운 날 주변 온도를 낮춥니다.",
+      "해가 뜨는 것을 막는다는 내용은 나오지 않습니다.",
+      "콘크리트를 늘린다는 내용은 글과 반대입니다.",
+      "걷지 못하게 한다는 내용은 나오지 않습니다."
+    ],
+    "trap": "첫 문장의 도시가 더운 이유(콘크리트)를 나무의 효과로 착각하지 마세요.",
+    "tip": "앞 내용(그늘, 수증기로 시원함)을 한 문장으로 요약하면 빈칸이 나옵니다."
+  },
+  {
+    "id": "m2b-18-34",
+    "level": "m2",
+    "set": "mock-18",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Do you want to remember what you studied? Try teaching it to someone else. When you prepare to teach, you must organize the information in your mind and find the main ideas. While explaining, you notice parts that you do not fully understand, and you go back to study them again. Researchers found that students who expected to teach a lesson remembered more details than students who studied only for a test. Teaching a friend or even your little brother makes the lesson clear and strong in your memory. So teaching others is also a way to __________.",
+    "options": [
+      "forget the information more quickly",
+      "learn the material better yourself",
+      "avoid studying for a test",
+      "waste a lot of valuable time on other things",
+      "make your friends angry at you"
+    ],
+    "answer": 1,
+    "translation": "공부한 것을 기억하고 싶은가? 다른 사람에게 가르쳐 보라. 가르칠 준비를 할 때는 머릿속 정보를 정리하고 요점을 찾아야 한다. 설명하는 동안 완전히 이해하지 못한 부분을 알아채고 다시 공부하러 돌아간다. 연구자들은 수업을 가르칠 것으로 예상한 학생들이 시험만을 위해 공부한 학생들보다 더 많은 세부 사항을 기억했다는 것을 발견했다. 친구나 심지어 남동생을 가르치면 수업이 기억 속에서 분명하고 강해진다. 그러니 다른 사람을 가르치는 것은 스스로 자료를 더 잘 배우는 방법이기도 하다.",
+    "why": "가르치려고 준비하고 설명하면서 이해가 깊어지므로 가르치는 것은 스스로 더 잘 배우는 방법입니다.",
+    "optionNotes": [
+      "더 빨리 잊는다는 내용은 글과 반대입니다.",
+      "정답. 스스로 자료를 더 잘 배우게 됩니다.",
+      "시험 공부를 피하는 방법이라는 내용은 나오지 않습니다.",
+      "시간 낭비라는 내용은 글과 반대입니다.",
+      "친구를 화나게 한다는 내용은 나오지 않습니다."
+    ],
+    "trap": "가르치는 대상(친구)에게 도움이 된다는 뜻으로만 읽지 마세요. 핵심은 가르치는 사람의 이득입니다.",
+    "tip": "연구 결과(가르칠 것으로 예상한 학생이 더 기억함)에서 결론을 추론하세요."
+  },
+  {
+    "id": "m2b-18-35",
+    "level": "m2",
+    "set": "mock-18",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "A messy desk can make it hard to study. Here are some simple ways to keep your desk neat and your mind clear. ① Put the things you use every day, such as pens and notebooks, within easy reach. ② Keep a small box for loose papers so that they do not pile up. ③ Pandas spend most of the day eating bamboo in the mountains of China. ④ At the end of each day, take two minutes to put everything back in its place. ⑤ A neat desk helps you find things quickly and stay focused on your work.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "어질러진 책상은 공부를 어렵게 만들 수 있다. 여기 책상을 깔끔하고 마음을 맑게 유지하는 몇 가지 간단한 방법이 있다. ① 펜과 공책처럼 매일 쓰는 물건은 손이 쉽게 닿는 곳에 두어라. ② 낱장의 종이가 쌓이지 않도록 작은 상자를 하나 두어라. ③ 판다는 하루 대부분을 중국의 산에서 대나무를 먹으며 보낸다. ④ 매일 끝날 때 이 분 동안 모든 것을 제자리에 되돌려 놓아라. ⑤ 깔끔한 책상은 물건을 빨리 찾고 공부에 집중하도록 돕는다.",
+    "why": "글은 책상을 깔끔하게 유지하는 방법을 이야기하는데 ③은 판다의 생활에 관한 별개의 이야기입니다.",
+    "optionNotes": [
+      "자주 쓰는 물건을 가까이 두라는 방법입니다.",
+      "종이를 상자에 모으라는 방법입니다.",
+      "정답(무관). 판다 이야기라 관계가 없습니다.",
+      "매일 정리하라는 방법입니다.",
+      "깔끔한 책상의 효과를 말합니다."
+    ],
+    "trap": "'mountains', 'bamboo' 같은 구체적 묘사가 흐름에 맞다고 착각하기 쉽습니다.",
+    "tip": "각 문장이 '책상을 깔끔하게 유지하는 방법'을 뒷받침하는지 확인하세요."
+  },
+  {
+    "id": "m2b-18-36",
+    "level": "m2",
+    "set": "mock-18",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "In 1799, French soldiers in Egypt found a large black stone near the town of Rosetta. It was covered with strange symbols that nobody could read at that time. For many years, scholars tried to read it without success. The stone had three kinds of writing on it.\n(A) Thanks to this discovery, people today can read the writings on the walls of ancient tombs and temples.\n(B) Scholars compared the Greek text with the other two, and after many years of work, they began to understand the ancient Egyptian writing.\n(C) One of them was Greek, which scholars could read easily.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 4,
+    "translation": "1799년 이집트에 있던 프랑스 군인들이 로제타 마을 근처에서 커다란 검은 돌을 발견했다. 그것은 당시 아무도 읽을 수 없는 이상한 기호로 덮여 있었다. 여러 해 동안 학자들은 그것을 읽으려 했지만 성공하지 못했다. 그 돌에는 세 종류의 글이 새겨져 있었다. (C) 그중 하나는 학자들이 쉽게 읽을 수 있는 그리스어였다. (B) 학자들은 그리스어 글을 나머지 둘과 비교했고 여러 해의 연구 끝에 고대 이집트 문자를 이해하기 시작했다. (A) 이 발견 덕분에 오늘날 사람들은 고대 무덤과 신전 벽의 글을 읽을 수 있다.",
+    "why": "(C) 'One of them'으로 그리스어 소개 → (B) 'the Greek text'로 비교와 해독 → (A) 'this discovery'로 결과 순서입니다.",
+    "optionNotes": [
+      "(A)의 'this discovery'가 가리킬 발견이 앞에 없습니다.",
+      "(B)의 'the Greek text'가 가리킬 그리스어가 앞에 없습니다.",
+      "(B)의 'the Greek text'를 소개한 글이 먼저 와야 합니다.",
+      "(A)의 'this discovery'가 해독 과정(B)보다 먼저 나올 수 없습니다.",
+      "정답. 그리스어 소개 → 비교와 해독 → 발견의 결과."
+    ],
+    "trap": "(B)의 'the Greek text'는 (C)에서 소개한 그리스어 글을 가리킵니다.",
+    "tip": "One of them → the Greek text → this discovery 같은 지시어를 따라가세요."
+  },
+  {
+    "id": "m2b-18-37",
+    "level": "m2",
+    "set": "mock-18",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Paper is one of the most useful inventions in history. It was invented in China about two thousand years ago. It is made from the fibers of plants, mostly from wood. People around the world use it every day for writing, drawing, and packing things.\n(A) Finally, the pulp is spread flat, dried, and pressed into thin sheets that we use for books and notebooks, and the sheets are often recycled.\n(B) Next, the pieces are mixed with water and turned into a soft, wet mixture called pulp.\n(C) First, workers cut trees and break the wood into small pieces.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 4,
+    "translation": "종이는 역사상 가장 유용한 발명품 중 하나이다. 그것은 약 이천 년 전 중국에서 발명되었다. 그것은 식물의 섬유, 주로 나무로 만든다. 전 세계 사람들이 글쓰기, 그림 그리기, 물건 포장에 매일 종이를 쓴다. (C) 먼저 일꾼들이 나무를 베어 목재를 작은 조각으로 부순다. (B) 다음으로 그 조각을 물과 섞어 펄프라고 하는 부드럽고 젖은 혼합물로 만든다. (A) 마지막으로 펄프를 평평하게 펴서 말리고 눌러 책과 공책에 쓰는 얇은 종이로 만들며 이 종이는 흔히 재활용된다.",
+    "why": "(C) 'First'로 나무를 조각냄 → (B) 'Next'로 펄프를 만듦 → (A) 'Finally'로 종이로 만듦 순서입니다.",
+    "optionNotes": [
+      "(A)의 'Finally'가 가장 먼저 나올 수 없습니다.",
+      "(B)의 'Next'가 'First'보다 앞설 수 없습니다.",
+      "(B)의 'Next'가 먼저 오면 'the pieces'가 가리킬 대상이 없습니다.",
+      "(A)의 'Finally'가 (B)보다 먼저 나올 수 없습니다.",
+      "정답. First → Next → Finally."
+    ],
+    "trap": "(B)의 'the pieces'는 (C)에서 부순 목재 조각을 가리킵니다.",
+    "tip": "First → Next → Finally 같은 순서 표현을 따라가세요."
+  },
+  {
+    "id": "m2b-18-38",
+    "level": "m2",
+    "set": "mock-18",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nBecause of this, many people now choose to buy used clothes.\n\n[글]\n( ① ) Making a single new T-shirt takes a lot of water and energy, and many clothes are thrown away after only a few uses. ( ② ) Second-hand shops are growing in number in many cities. ( ③ ) They sell good clothes at low prices. ( ④ ) Buying used clothes also reduces waste. ( ⑤ ) Some shops even give discounts when you bring your old clothes.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "[주어진 문장] 이 때문에 이제 많은 사람이 중고 옷을 사기로 한다. [글] 새 티셔츠 한 장을 만드는 데는 많은 물과 에너지가 들고 많은 옷이 몇 번 입고 버려진다. 중고 가게는 많은 도시에서 수가 늘고 있다. 그곳은 좋은 옷을 싼 가격에 판다. 중고 옷을 사면 쓰레기도 줄어든다. 일부 가게는 낡은 옷을 가져오면 할인도 해 준다.",
+    "why": "새 옷을 만드는 데 드는 자원과 낭비라는 이유 뒤에 'Because of this'로 중고 옷을 선택한다는 결과가 이어지므로 ②에 들어갑니다.",
+    "optionNotes": [
+      "'this'가 가리킬 이유가 아직 나오지 않았습니다.",
+      "정답. 이유 뒤에 결과가 이어집니다.",
+      "중고 가게 설명 뒤라 'this'가 어색합니다.",
+      "재활용 효과 설명 앞이라 흐름이 끊깁니다.",
+      "마지막에 오면 앞 문장과 연결되지 않습니다."
+    ],
+    "trap": "'Because of this'의 this가 ①의 자원 낭비를 가리킨다는 점을 놓치지 마세요.",
+    "tip": "Because of this는 원인 문장 직후에 놓입니다."
+  },
+  {
+    "id": "m2b-18-39",
+    "level": "m2",
+    "set": "mock-18",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThe students enjoyed the new game so much that they played it every day.\n\n[글]\n( ① ) In 1891, a teacher named James Naismith needed an indoor game for his students during the winter. ( ② ) He nailed two peach baskets to the walls of the gym and wrote thirteen simple rules. ( ③ ) The students had to throw a soccer ball into the baskets. ( ④ ) Soon, other schools began to ask for the rules. ( ⑤ ) Today, basketball is played by millions of people around the world.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "[주어진 문장] 학생들은 그 새 놀이가 너무 즐거워서 매일 그것을 했다. [글] 1891년 제임스 네이스미스라는 교사는 겨울 동안 학생들을 위한 실내 놀이가 필요했다. 그는 체육관 벽에 복숭아 바구니 두 개를 못으로 박고 열세 개의 간단한 규칙을 썼다. 학생들은 축구공을 바구니에 던져 넣어야 했다. 곧 다른 학교들이 규칙을 알려 달라고 하기 시작했다. 오늘날 농구는 전 세계 수백만 명이 즐긴다.",
+    "why": "학생들이 놀이를 매일 했다는 내용 뒤에 'Soon'으로 다른 학교가 규칙을 요청했다는 내용이 이어지므로 ④에 들어갑니다.",
+    "optionNotes": [
+      "'the new game'이 가리킬 놀이가 아직 소개되지 않았습니다.",
+      "놀이 규칙을 설명하기 전이라 'the new game'이 어색합니다.",
+      "놀이 방법 설명이 끝나기 전이라 흐름이 끊깁니다.",
+      "정답. 학생들이 즐긴 뒤 다른 학교가 규칙을 요청합니다.",
+      "마지막에 오면 'Soon'과 이어지지 않습니다."
+    ],
+    "trap": "'the new game'은 ③에서 설명한 농구를 가리킵니다.",
+    "tip": "the new game 같은 정관사 표현은 그것이 소개된 뒤에 놓입니다."
+  },
+  {
+    "id": "m2b-18-40",
+    "level": "m2",
+    "set": "mock-18",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A middle school tried a \"phone-free lunch\" for one month. Students put their phones in a box at the cafeteria door. At first, many students complained and felt bored. After a week, however, the cafeteria became louder, with more talking and laughter. Students said that they got to know their classmates better. Teachers also noticed fewer arguments over social media posts. In a survey at the end of the month, seventy percent of the students said that they felt more relaxed after lunch. Most of them wanted to continue.\n\n▶ When students put away their phones during lunch, they (A) with each other more and felt (B) afterwards.",
+    "options": [
+      "(A) slept — (B) tired",
+      "(A) talked and laughed — (B) more relaxed",
+      "(A) argued — (B) angry",
+      "(A) ate — (B) hungry",
+      "(A) studied — (B) bored"
+    ],
+    "answer": 1,
+    "translation": "한 중학교가 한 달 동안 \"휴대전화 없는 점심\"을 시도했다. 학생들은 급식실 문 앞의 상자에 휴대전화를 넣었다. 처음에는 많은 학생이 불평하고 지루해했다. 그러나 일주일 뒤 급식실은 더 많은 대화와 웃음으로 시끄러워졌다. 학생들은 반 친구들을 더 잘 알게 되었다고 말했다. 교사들은 소셜 미디어 게시물을 둘러싼 다툼도 줄었다고 알아챘다. 한 달 말의 설문에서 학생의 70퍼센트가 점심 뒤에 더 편안하다고 했다. 대부분이 계속하기를 원했다. ▶ 점심시간에 휴대전화를 치우자 학생들은 서로 더 많이 (A)했고 그 뒤에 (B) 느꼈다.",
+    "why": "휴대전화를 치우자 대화와 웃음이 늘고 점심 뒤에 더 편안했으므로 (A)는 talked and laughed, (B)는 more relaxed입니다.",
+    "optionNotes": [
+      "slept와 tired는 글에 나오지 않습니다.",
+      "정답. 대화와 웃음이 늘고 더 편안해졌습니다.",
+      "argued와 angry는 글과 반대입니다.",
+      "ate와 hungry는 글에 나오지 않습니다.",
+      "studied와 bored는 글과 반대입니다."
+    ],
+    "trap": "처음의 불평과 지루함(at first)을 최종 결과로 오해하지 마세요.",
+    "tip": "요약문은 행동 변화(휴대전화 치움)와 결과(대화 증가, 편안함)를 짝지으세요."
+  }
+]
