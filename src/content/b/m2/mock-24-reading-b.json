@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m2b-24-29",
+    "level": "m2",
+    "set": "mock-24",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Tea is the second most popular drink in the world after water. It was first {1|discovered} in China more than four thousand years ago. According to a legend, some leaves fell into the emperor's hot water, and the drink smelled wonderful. Today, there are many kinds of tea, such as green tea, black tea, and oolong tea. They all come from the same plant, but the way {2|they are} processed is different. People in many countries enjoy tea {3|while} talking with friends. Drinking tea regularly is known {4|helping} the heart. Tea is also cheap, and it is easy {5|to prepare}.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "차는 물 다음으로 세계에서 두 번째로 인기 있는 음료이다. 차는 사천 년도 더 전에 중국에서 처음 발견되었다. 전설에 따르면 몇몇 잎이 황제의 뜨거운 물에 떨어졌고 그 음료에서 훌륭한 향이 났다. 오늘날에는 녹차, 홍차, 우롱차 같은 여러 종류의 차가 있다. 모두 같은 식물에서 나오지만 가공되는 방식이 다르다. 많은 나라 사람들이 친구와 이야기하면서 차를 즐긴다. 차를 규칙적으로 마시는 것은 심장에 도움이 되는 것으로 알려져 있다. 차는 값도 싸고 준비하기도 쉽다.",
+    "why": "be known 뒤에는 to부정사가 와야 하므로 helping이 아니라 to help여야 합니다.",
+    "optionNotes": [
+      "수동태 was discovered입니다.",
+      "the way 뒤의 절 they are processed입니다.",
+      "접속사 while 뒤의 분사구문 talking입니다.",
+      "정답(틀린 것). is known to help여야 합니다.",
+      "형용사 easy 뒤의 to부정사 to prepare입니다."
+    ],
+    "trap": "'is known'을 진행의 의미로 착각해 -ing를 붙이기 쉽습니다.",
+    "tip": "be known to + 동사원형은 '~하는 것으로 알려져 있다'입니다."
+  },
+  {
+    "id": "m2b-24-30",
+    "level": "m2",
+    "set": "mock-24",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "In summer, the sun's ultraviolet rays can {1|damage} your skin. Sunscreen is a cream that protects your skin from these rays. The number on the bottle, called SPF, shows how well it can {2|increase} sunburn. A higher number means stronger protection. You should apply sunscreen about thirty minutes before going outside, and put on more every two hours. Even on cloudy days, the rays can pass through the clouds, so protection is {3|necessary}. Hats and sunglasses are also helpful. Because the damage from the sun builds up over many years, it is wise to develop the habit {4|early}. Protecting your skin now will help you stay {5|healthy} when you are older.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "여름에는 태양의 자외선이 피부를 손상할 수 있다. 자외선 차단제는 이 광선으로부터 피부를 보호하는 크림이다. 병에 적힌 숫자인 SPF는 그것이 햇볕 화상을 얼마나 잘 막을 수 있는지 보여 준다. 숫자가 높을수록 보호가 강하다. 밖에 나가기 약 삼십 분 전에 자외선 차단제를 바르고 두 시간마다 더 발라야 한다. 흐린 날에도 광선이 구름을 통과할 수 있어서 보호가 필요하다. 모자와 선글라스도 도움이 된다. 햇빛으로 인한 손상은 여러 해에 걸쳐 쌓이므로 일찍 습관을 들이는 것이 현명하다. 지금 피부를 보호하면 나이 들어서도 건강하게 지내는 데 도움이 될 것이다.",
+    "why": "자외선 차단제가 햇볕 화상을 '막는(prevent)' 정도를 보여 주므로 increase는 부적절합니다.",
+    "optionNotes": [
+      "피부를 손상한다는 의미로 damage가 알맞습니다.",
+      "정답(부적절). 자외선 차단제는 화상을 막는 것이므로 prevent여야 합니다.",
+      "흐린 날에도 필요하다는 의미로 necessary가 알맞습니다.",
+      "일찍 습관을 들이라는 의미로 early가 알맞습니다.",
+      "건강하게 지낸다는 의미로 healthy가 알맞습니다."
+    ],
+    "trap": "'how well it can ~'에 어떤 동사가 와야 하는지 자외선 차단제의 목적을 놓치기 쉽습니다.",
+    "tip": "자외선 차단제의 목적(화상 방지)과 동사의 방향이 일치하는지 확인하세요."
+  },
+  {
+    "id": "m2b-24-31",
+    "level": "m2",
+    "set": "mock-24",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "When you feel cold or scared, tiny bumps appear on your skin. These are called goosebumps. Each bump is made when a small muscle at the base of a hair pulls the hair upright. Long ago, our ancestors had much thicker body hair. When their hairs stood up, they trapped a layer of air near the skin, which kept them warm. Standing hair also made animals look bigger and scarier to enemies. Humans no longer have much body hair, but our bodies still react in the same way. Goosebumps are a leftover from the past, and they once helped our ancestors to __________.",
+    "options": [
+      "run much faster than their enemies",
+      "find food in the dark at night",
+      "keep warm and look bigger",
+      "hide quietly in the tall grass",
+      "send secret messages to their friends"
+    ],
+    "answer": 2,
+    "translation": "춥거나 무서울 때 피부에 작은 돌기가 생긴다. 이것을 소름이라고 한다. 각 돌기는 털뿌리의 작은 근육이 털을 곧추세울 때 만들어진다. 아주 오래전 우리 조상은 훨씬 두꺼운 체모를 가졌다. 털이 서면 피부 근처에 공기층이 갇혀 몸을 따뜻하게 했다. 서 있는 털은 동물을 적에게 더 크고 무섭게 보이게 하기도 했다. 인간은 더 이상 체모가 많지 않지만 우리 몸은 여전히 같은 방식으로 반응한다. 소름은 과거의 흔적이며 한때 조상이 따뜻하게 지내고 더 커 보이도록 도왔다.",
+    "why": "털이 서면 공기층이 갇혀 따뜻했고 동물이 더 크고 무섭게 보였으므로 따뜻함을 유지하고 더 커 보이게 했습니다.",
+    "optionNotes": [
+      "달리기 속도는 나오지 않습니다.",
+      "어둠 속 먹이 찾기는 나오지 않습니다.",
+      "정답. 따뜻함을 유지하고 더 커 보이게 했습니다.",
+      "숨기는 나오지 않습니다.",
+      "비밀 메시지는 나오지 않습니다."
+    ],
+    "trap": "'scared'가 나온다고 숨는 것(④)과 연결하지 마세요.",
+    "tip": "앞 문장(trapped air, look bigger)이 정답의 근거입니다."
+  },
+  {
+    "id": "m2b-24-32",
+    "level": "m2",
+    "set": "mock-24",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Hummingbirds are the only birds that can fly backward and hover in the air like a helicopter. A hummingbird beats its wings about fifty times in a second. This fast movement makes a humming sound, which is where the name comes from. Because flying like this uses a lot of energy, they must eat often. They drink sweet nectar from flowers every ten minutes or so. At night, when they cannot eat, they enter a deep sleep to save energy. Hummingbirds can stay in one place in the air because they __________.",
+    "options": [
+      "beat their wings very fast",
+      "float on warm air like small balloons",
+      "hold on to flowers with their claws",
+      "use their tails as a parachute",
+      "land on the leaves every second"
+    ],
+    "answer": 0,
+    "translation": "벌새는 뒤로 날 수 있고 헬리콥터처럼 공중에 떠 있을 수 있는 유일한 새이다. 벌새는 일 초에 약 오십 번 날개를 친다. 이 빠른 움직임이 윙윙 소리를 내며 이름이 거기서 나왔다. 이렇게 나는 것은 에너지를 많이 쓰기 때문에 자주 먹어야 한다. 십 분쯤마다 꽃에서 단 꿀을 마신다. 밤에 먹을 수 없을 때는 에너지를 아끼려고 깊은 잠에 든다. 벌새가 공중에 한 자리에 머물 수 있는 것은 날개를 매우 빠르게 치기 때문이다.",
+    "why": "일 초에 약 오십 번 날개를 쳐서 공중에 머물 수 있습니다.",
+    "optionNotes": [
+      "정답. 날개를 매우 빠르게 칩니다.",
+      "풍선처럼 떠 있다는 내용은 나오지 않습니다.",
+      "발톱으로 꽃을 잡는다는 내용은 나오지 않습니다.",
+      "꼬리를 낙하산으로 쓴다는 내용은 나오지 않습니다.",
+      "잎에 앉는다는 내용은 글과 반대입니다."
+    ],
+    "trap": "'hover'를 가만히 떠 있는 것(②)으로 오해하지 마세요.",
+    "tip": "앞 문장(beats its wings about fifty times)이 정답의 근거입니다."
+  },
+  {
+    "id": "m2b-24-33",
+    "level": "m2",
+    "set": "mock-24",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "The Moon does not make its own light. It shines because it reflects the light of the Sun. Half of the Moon is always lit by the Sun, but we cannot always see the lit half from Earth. As the Moon travels around the Earth for about a month, we see different amounts of its bright side. When the Moon is between the Earth and the Sun, we can hardly see it, and this is called a new moon. When the Earth is between them, the whole bright side faces us, and we see a full moon. The Moon seems to change its shape because __________.",
+    "options": [
+      "it grows larger and then smaller every night",
+      "clouds cover it every single week",
+      "the Sun turns off its light at times",
+      "it moves into the Earth's shadow every day",
+      "we see more or less of its lit side"
+    ],
+    "answer": 4,
+    "translation": "달은 스스로 빛을 내지 않는다. 태양빛을 반사하기 때문에 빛난다. 달의 절반은 늘 태양빛을 받지만 우리는 지구에서 그 밝은 절반을 항상 볼 수는 없다. 달이 한 달쯤 걸려 지구 둘레를 도는 동안 우리는 밝은 면의 다른 양을 본다. 달이 지구와 태양 사이에 있으면 거의 보이지 않으며 이를 삭이라고 한다. 지구가 그 둘 사이에 있으면 밝은 면 전체가 우리를 향해 보름달이 보인다. 달의 모양이 변해 보이는 것은 우리가 밝은 면을 더 많이 또는 더 적게 보기 때문이다.",
+    "why": "달이 지구 둘레를 돌며 우리에게 보이는 밝은 면의 양이 달라지기 때문입니다.",
+    "optionNotes": [
+      "달이 커졌다 작아진다는 내용은 나오지 않습니다.",
+      "구름은 나오지 않습니다.",
+      "태양이 불을 끈다는 내용은 나오지 않습니다.",
+      "그림자 이야기는 나오지 않습니다.",
+      "정답. 밝은 면을 더 많이 또는 적게 보기 때문입니다."
+    ],
+    "trap": "'Half of the Moon is always lit'을 보고 달 자체가 변한다(①)고 오해하지 마세요.",
+    "tip": "원인(공전) → 결과(보이는 밝은 면의 양이 달라짐)를 따라가세요."
+  },
+  {
+    "id": "m2b-24-34",
+    "level": "m2",
+    "set": "mock-24",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Have you ever played the telephone game? It is a simple but fun game. One person whispers a sentence to the next person, and the sentence is passed along a line. At the end, the last person says the sentence aloud, and it is usually very different from the original. For example, \"Tom has a red kite\" may become \"Tom ate a red cake.\" This happens because each person hears a little differently and adds or forgets some words. Rumors spread in the same way. Whenever a story is passed from one person to another, it __________.",
+    "options": [
+      "becomes much shorter and always more correct",
+      "changes a little each time it is passed on",
+      "stays exactly the same for a very long time",
+      "disappears completely after the second person",
+      "is turned into a famous song by the group"
+    ],
+    "answer": 1,
+    "translation": "전화 게임을 해 본 적이 있는가? 간단하지만 재미있는 게임이다. 한 사람이 다음 사람에게 문장을 속삭이면 그 문장이 줄을 따라 전달된다. 마지막 사람이 문장을 소리 내어 말하면 보통 원래와 아주 다르다. 예를 들어 \"톰은 빨간 연이 있다\"가 \"톰은 빨간 케이크를 먹었다\"로 바뀔 수 있다. 이는 각 사람이 조금씩 다르게 듣고 낱말을 더하거나 잊기 때문이다. 소문도 같은 방식으로 퍼진다. 이야기가 한 사람에게서 다른 사람에게 전달될 때마다 조금씩 변한다.",
+    "why": "전할 때마다 조금씩 다르게 듣고 낱말을 더하거나 잊어서 이야기가 변합니다.",
+    "optionNotes": [
+      "더 정확해진다는 내용은 글과 반대입니다.",
+      "정답. 전달될 때마다 조금씩 변합니다.",
+      "그대로 유지된다는 내용은 글과 반대입니다.",
+      "사라진다는 내용은 나오지 않습니다.",
+      "노래가 된다는 내용은 나오지 않습니다."
+    ],
+    "trap": "'always more correct'처럼 극단적인 표현에 끌리지 마세요.",
+    "tip": "예시(kite → cake)가 정답의 근거입니다."
+  },
+  {
+    "id": "m2b-24-35",
+    "level": "m2",
+    "set": "mock-24",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Houseplants make our rooms greener and fresher, but many people find it hard to keep them alive. Here are some basic tips for taking care of them. ① Put the plant near a window where it can get enough light. ② Water it only when the soil feels dry, because too much water can rot the roots. ③ Remove dead leaves regularly so that the plant can use its energy for new growth. ④ Honeybees communicate with each other by performing special dances. ⑤ Move the plant to a larger pot when its roots fill the whole pot.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "실내 식물은 방을 더 푸르고 상쾌하게 만들지만 많은 사람이 식물을 살려 두기 어려워한다. 다음은 식물을 돌보는 몇 가지 기본 요령이다. ① 빛을 충분히 받을 수 있는 창가에 식물을 두어라. ② 물이 너무 많으면 뿌리가 썩을 수 있으니 흙이 마른 느낌일 때만 물을 주어라. ③ 식물이 새 성장에 에너지를 쓸 수 있도록 죽은 잎을 정기적으로 떼어 내라. ④ 꿀벌은 특별한 춤을 추어 서로 소통한다. ⑤ 뿌리가 화분을 가득 채우면 식물을 더 큰 화분으로 옮겨라.",
+    "why": "글은 실내 식물을 돌보는 요령을 이야기하는데 ④는 꿀벌의 소통에 관한 별개의 이야기입니다.",
+    "optionNotes": [
+      "빛을 확보하는 요령입니다.",
+      "물을 주는 요령입니다.",
+      "죽은 잎을 떼는 요령입니다.",
+      "정답(무관). 꿀벌의 소통 이야기라 관계가 없습니다.",
+      "화분을 옮기는 요령입니다."
+    ],
+    "trap": "앞뒤가 모두 요령이므로 중간에 낀 별개 주제를 놓치기 쉽습니다.",
+    "tip": "각 문장이 '실내 식물 돌보기 요령'인지 확인하세요."
+  },
+  {
+    "id": "m2b-24-36",
+    "level": "m2",
+    "set": "mock-24",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Marco Polo was an Italian traveler who lived about seven hundred years ago. He spent twenty-four years traveling through Asia.\n(A) There, Marco met the emperor, Kublai Khan, who liked him and gave him a job. He worked for the emperor and traveled around the country.\n(B) At seventeen, he left Venice with his father and uncle, who were merchants. They traveled across deserts and mountains for more than three years until they reached China.\n(C) When he finally returned home, he wrote a book about his adventures. It introduced the people of Europe to the wonders of Asia.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 1,
+    "translation": "마르코 폴로는 약 칠백 년 전에 살았던 이탈리아의 여행가이다. 그는 이십사 년 동안 아시아를 여행했다. (B) 열일곱 살에 그는 상인이었던 아버지, 삼촌과 함께 베네치아를 떠났다. 그들은 중국에 이를 때까지 삼 년이 넘게 사막과 산을 가로질러 여행했다. (A) 그곳에서 마르코는 황제 쿠빌라이 칸을 만났고 황제는 그를 마음에 들어 해 일을 주었다. 그는 황제를 위해 일하며 나라 곳곳을 여행했다. (C) 마침내 집에 돌아왔을 때 그는 모험에 관한 책을 썼다. 그 책은 유럽 사람들에게 아시아의 경이로운 것들을 알렸다.",
+    "why": "(B) 베네치아를 떠나 중국에 도착 → (A) 'There'로 황제를 만남 → (C) 돌아와 책을 씀 순서입니다.",
+    "optionNotes": [
+      "(A)의 'There'가 가리킬 장소가 앞에 없습니다.",
+      "정답. 출발 → 도착한 곳에서의 일 → 귀국 후 책.",
+      "(C)의 귀국이 (A)보다 먼저 올 수 없습니다.",
+      "(C)의 귀국이 맨 앞에 올 수 없습니다.",
+      "(C)의 귀국이 맨 앞에 올 수 없습니다."
+    ],
+    "trap": "(A)의 'There'는 (B)의 마지막에 나온 China를 가리킵니다.",
+    "tip": "left → There → finally returned의 장소·시간 표현을 따라가세요."
+  },
+  {
+    "id": "m2b-24-37",
+    "level": "m2",
+    "set": "mock-24",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "My grandmother makes kimchi every November, and this year I helped her for the first time. We started early in the morning. It was harder than I expected.\n(A) After the cabbages were soft, we rinsed them and prepared the spicy red paste with garlic, ginger, and chili powder.\n(B) First, we washed the cabbages and cut them in half. Then my grandmother sprinkled salt between the leaves and left them for several hours.\n(C) Finally, we spread the paste on every leaf and packed the cabbages in jars. Grandmother tasted a piece and said it was perfect.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 1,
+    "translation": "할머니는 해마다 11월에 김치를 담그시는데 올해 나는 처음으로 할머니를 도왔다. 우리는 아침 일찍 시작했다. 생각보다 힘들었다. (B) 먼저 우리는 배추를 씻어 반으로 잘랐다. 그다음 할머니가 잎 사이에 소금을 뿌려 몇 시간 두셨다. (A) 배추가 숨이 죽은 뒤 우리는 그것을 헹구고 마늘, 생강, 고춧가루로 매운 빨간 양념을 준비했다. (C) 마지막으로 우리는 모든 잎에 양념을 바르고 배추를 통에 담았다. 할머니는 한 조각을 맛보시고 완벽하다고 말씀하셨다.",
+    "why": "(B) First, 씻고 소금에 절임 → (A) 'After the cabbages were soft'로 양념 준비 → (C) Finally, 양념 바르고 담음 순서입니다.",
+    "optionNotes": [
+      "(A)의 'the cabbages were soft'가 절이는 과정보다 먼저 올 수 없습니다.",
+      "정답. 절임 → 양념 준비 → 바르고 담기.",
+      "(C)의 Finally가 중간에 올 수 없습니다.",
+      "(C)의 Finally가 맨 앞에 올 수 없습니다.",
+      "(C)의 Finally가 맨 앞에 올 수 없습니다."
+    ],
+    "trap": "(A)의 'soft'는 (B)에서 소금에 절인 결과입니다.",
+    "tip": "First → After → Finally의 순서 표현을 따라가세요."
+  },
+  {
+    "id": "m2b-24-38",
+    "level": "m2",
+    "set": "mock-24",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nCats sleep much more than humans do.\n\n[글]\n( ① ) On average, a cat sleeps between twelve and sixteen hours a day, and some cats even sleep for up to twenty hours. ( ② ) They usually take many short naps instead of one long sleep at night. ( ③ ) This is because cats are hunters by nature. ( ④ ) In the wild, they need a lot of energy to chase and catch their prey. ( ⑤ ) Sleeping helps them save that energy for the hunt.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "[주어진 문장] 고양이는 인간보다 훨씬 많이 잔다. [글] 평균적으로 고양이는 하루에 열두 시간에서 열여섯 시간을 자고 어떤 고양이는 스무 시간까지 자기도 한다. 그들은 보통 밤에 한 번 길게 자는 대신 짧은 잠을 여러 번 잔다. 이는 고양이가 본래 사냥꾼이기 때문이다. 야생에서 그들은 먹이를 쫓아 잡으려면 많은 에너지가 필요하다. 잠은 그 에너지를 사냥을 위해 아끼도록 돕는다.",
+    "why": "일반적인 진술(고양이는 많이 잔다) 뒤에 구체적인 수치가 이어지므로 ①에 들어갑니다.",
+    "optionNotes": [
+      "정답. 일반적인 진술이 구체적인 수치보다 먼저 옵니다.",
+      "수치 설명 뒤에 오면 흐름이 어색합니다.",
+      "원인 설명 앞이라 어색합니다.",
+      "에너지 설명 앞이라 어색합니다.",
+      "결론 앞이라 어색합니다."
+    ],
+    "trap": "'This is because ~'의 This가 가리킬 현상(많이 잠)이 앞에 있어야 합니다.",
+    "tip": "주제문(Cats sleep much more)은 구체적 수치보다 앞에 놓입니다."
+  },
+  {
+    "id": "m2b-24-39",
+    "level": "m2",
+    "set": "mock-24",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nFor this reason, many people keep a spare key with a neighbor.\n\n[글]\n( ① ) Losing your house key can be a big problem, especially when no one is at home. ( ② ) You may not be able to enter your home, and you might have to call a locksmith, which costs a lot of money. ( ③ ) Others hide a spare key under a flowerpot, but this can be dangerous because thieves also know the trick. ( ④ ) A better idea is to use a digital door lock that opens with a number code. ( ⑤ ) It does not need a key, so you never have to worry about losing it.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 이런 이유로 많은 사람이 여분의 열쇠를 이웃에게 맡겨 둔다. [글] 특히 집에 아무도 없을 때 집 열쇠를 잃어버리면 큰 문제가 될 수 있다. 집에 들어가지 못하고 많은 돈이 드는 열쇠 수리공을 불러야 할 수도 있다. 다른 사람들은 여분의 열쇠를 화분 아래에 숨기는데 도둑도 그 수법을 알기 때문에 위험할 수 있다. 더 좋은 생각은 번호 코드로 열리는 디지털 도어락을 쓰는 것이다. 열쇠가 필요 없으므로 잃어버릴 걱정을 할 필요가 없다.",
+    "why": "열쇠를 잃어버리는 문제 뒤에 'For this reason'으로 해결책(이웃에게 맡김)이 이어지고, 다음 문장이 'Others'로 다른 방법을 말하므로 ③에 들어갑니다.",
+    "optionNotes": [
+      "'this reason'이 가리킬 문제가 아직 없습니다.",
+      "문제를 설명하는 도중에 해결책이 오면 어색합니다.",
+      "정답. 문제 뒤에 해결책이 이어지고 'Others'로 대비됩니다.",
+      "'Others'의 대비가 사라져 어색합니다.",
+      "결론 앞에 오면 어색합니다."
+    ],
+    "trap": "④의 'Others'는 '이웃에게 맡기는 사람'과 대비되는 사람들입니다.",
+    "tip": "Others는 앞에 Some/Many people 같은 대비 대상이 있어야 합니다."
+  },
+  {
+    "id": "m2b-24-40",
+    "level": "m2",
+    "set": "mock-24",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A city introduced a small fee of ten cents for each plastic bag at supermarkets. Before the fee, shoppers used about five hundred million bags a year. After one year, the number dropped by seventy percent. Many people began to bring their own cloth bags, and some stores sold reusable bags near the entrance. The city also found that fewer plastic bags were left on the streets and in the river. Shopkeepers said that the system was easy to follow, and most customers accepted it. Other cities have decided to follow the same example.\n\n▶ Adding a small (A) for plastic bags led people to use (B) of them.",
+    "options": [
+      "(A) fee — (B) fewer",
+      "(A) gift — (B) more",
+      "(A) prize — (B) all",
+      "(A) label — (B) many",
+      "(A) sign — (B) most"
+    ],
+    "answer": 0,
+    "translation": "한 도시가 슈퍼마켓의 비닐봉지마다 10센트의 작은 요금을 도입했다. 요금이 생기기 전 쇼핑객은 해마다 약 오억 장의 봉지를 썼다. 일 년 뒤 그 수는 70퍼센트 줄었다. 많은 사람이 자기 천 가방을 가져오기 시작했고 일부 가게는 입구 근처에서 재사용 가방을 팔았다. 도시는 길과 강에 버려진 비닐봉지도 줄었음을 알게 되었다. 가게 주인들은 제도가 따르기 쉽고 대부분의 손님이 받아들였다고 말했다. 다른 도시들도 같은 사례를 따르기로 했다. ▶ 비닐봉지에 작은 (A)을 붙이자 사람들이 그것을 (B) 쓰게 되었다.",
+    "why": "작은 요금을 도입하자 비닐봉지 사용이 70퍼센트 줄었으므로 (A)는 fee, (B)는 fewer입니다.",
+    "optionNotes": [
+      "정답. 작은 요금이 사용을 줄였습니다.",
+      "gift와 more는 글과 반대입니다.",
+      "prize와 all은 글에 나오지 않습니다.",
+      "label과 many는 글에 나오지 않습니다.",
+      "sign과 most는 글에 나오지 않습니다."
+    ],
+    "trap": "쇼핑객이 쓰던 양(오억 장)에 끌려 more/many를 고르지 마세요.",
+    "tip": "요약문은 도입한 제도(요금)와 결과(사용 감소)를 짝지으세요."
+  }
+]
