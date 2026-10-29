@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m3b-21-29",
+    "level": "m3",
+    "set": "mock-21",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Sleep is not just a time when the body rests; it is also a time when the brain {1|organizes} what we have learned during the day. During deep sleep, the brain moves new information from short-term memory to long-term memory. This is why students who sleep well {2|tend} to remember more than those who stay up all night. In one experiment, two groups studied the same list of words. One group slept for eight hours, and the other group {3|stay} awake. The next morning, the sleeping group recalled about twenty percent more words. Scientists believe that sleep also helps the brain {4|clear} away waste that builds up while we are awake. If you want to do well on tomorrow's test, it is better {5|to get} a good night's sleep than to study until dawn.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "잠은 몸이 쉬는 시간일 뿐 아니라 뇌가 낮 동안 배운 것을 정리하는 시간이기도 하다. 깊은 잠을 자는 동안 뇌는 새 정보를 단기 기억에서 장기 기억으로 옮긴다. 그래서 잘 자는 학생이 밤을 새우는 학생보다 더 많이 기억하는 경향이 있다. 한 실험에서 두 집단이 같은 단어 목록을 공부했다. 한 집단은 여덟 시간 잤고 다른 집단은 깨어 있었다. 다음 날 아침 잔 집단이 약 20퍼센트 더 많은 단어를 기억해 냈다. 과학자들은 잠이 또 뇌가 깨어 있는 동안 쌓이는 노폐물을 치우는 것도 돕는다고 믿는다. 내일 시험을 잘 보고 싶다면 새벽까지 공부하는 것보다 푹 자는 것이 더 낫다.",
+    "why": "앞 절의 과거 동사 slept와 병렬이므로 the other group stayed awake처럼 과거형이어야 해서 ③ stay는 틀렸습니다.",
+    "optionNotes": [
+      "관계절의 동사 organizes는 3인칭 단수 주어 brain과 맞습니다.",
+      "주어 students에 맞는 tend입니다.",
+      "정답(틀린 것). 과거 시제 slept와 병렬이므로 stayed여야 합니다.",
+      "help 뒤의 원형부정사 clear입니다.",
+      "가주어 it에 맞는 진주어 to get입니다."
+    ],
+    "trap": "'the other group'을 단수로 보고 3인칭 단수 현재형을 떠올리면 시제를 놓칩니다.",
+    "tip": "병렬 구조에서는 앞 절의 시제와 일치하는지 확인하세요."
+  },
+  {
+    "id": "m3b-21-30",
+    "level": "m3",
+    "set": "mock-21",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Many people think flying is the best way to travel long distances, but trains have important {1|advantages}. First, trains are much more energy efficient than planes, so they produce far less carbon dioxide per passenger. Second, stations are usually in the center of cities, so passengers do not have to {2|spend} a long time traveling to and from the airport. Third, train seats are more {3|uncomfortable}, and passengers can move freely, work, or enjoy the scenery. However, trains are not always the cheapest choice. In some countries, high-speed rail tickets cost more than low-cost flights, and the number of routes may be {4|limited}. Even so, many travelers choose trains because they value comfort and care about the {5|environment}.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "많은 사람은 비행기가 장거리를 이동하는 최선의 방법이라고 생각하지만 기차에는 중요한 장점이 있다. 첫째, 기차는 비행기보다 에너지 효율이 훨씬 높아서 승객 한 명당 이산화탄소를 훨씬 적게 배출한다. 둘째, 역은 보통 도시 중심에 있어서 승객이 공항을 오가며 오랜 시간을 쓰지 않아도 된다. 셋째, 기차 좌석은 더 편안하고 승객은 자유롭게 움직이고 일하거나 경치를 즐길 수 있다. 그러나 기차가 늘 가장 싼 선택인 것은 아니다. 일부 나라에서는 고속 열차표가 저가 항공권보다 비싸고 노선 수가 제한적일 수 있다. 그래도 많은 여행자는 편안함을 중시하고 환경을 걱정하기 때문에 기차를 택한다.",
+    "why": "기차의 장점을 나열하는 흐름이고 뒤에 '자유롭게 움직일 수 있다'고 하므로 uncomfortable이 아니라 comfortable이어야 합니다.",
+    "optionNotes": [
+      "장점을 소개하므로 advantages가 알맞습니다.",
+      "시간을 쓴다는 의미로 spend가 알맞습니다.",
+      "정답(부적절). 장점을 나열하는 흐름이므로 comfortable이어야 합니다.",
+      "노선이 제한적일 수 있다는 의미로 limited가 알맞습니다.",
+      "환경을 걱정한다는 의미로 environment가 알맞습니다."
+    ],
+    "trap": "뒤의 'However'와 혼동해 단점을 말하는 문장으로 착각하기 쉽습니다.",
+    "tip": "First, Second, Third로 이어지는 장점 나열의 방향이 일관되는지 확인하세요."
+  },
+  {
+    "id": "m3b-21-31",
+    "level": "m3",
+    "set": "mock-21",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "On social media, people usually post their happiest moments: vacations, birthday parties, and perfect meals. They rarely share bad days or boring afternoons. When we scroll through these posts, we tend to compare our own ordinary lives with the best moments of others. Psychologists call this upward social comparison. In one study, students who used social media for more than three hours a day reported feeling lonelier. They were also less satisfied with their lives than those who used it for less than one hour. The images online are carefully chosen and edited, and they show only a small part of reality. Therefore, the more we compare ourselves with what we see on social media, the more likely we are to __________.",
+    "options": [
+      "enjoy our daily lives with more satisfaction",
+      "feel unhappy about our own ordinary lives",
+      "learn how to take better photographs",
+      "make friends who live in other countries",
+      "spend less time with our smartphones"
+    ],
+    "answer": 1,
+    "translation": "소셜 미디어에서 사람들은 보통 가장 행복한 순간, 즉 휴가, 생일 파티, 완벽한 식사를 올린다. 나쁜 날이나 지루한 오후는 거의 공유하지 않는다. 이런 게시물을 넘겨 보면 우리는 자신의 평범한 삶을 남들의 가장 좋은 순간과 비교하는 경향이 있다. 심리학자들은 이를 상향 사회적 비교라고 부른다. 한 연구에서 하루 세 시간 넘게 소셜 미디어를 쓰는 학생은 한 시간 미만 쓰는 학생보다 더 외롭다고 답했다. 또 한 시간 미만 쓰는 학생보다 삶에 덜 만족했다. 온라인 이미지는 신중히 고르고 편집된 것이며 현실의 작은 부분만 보여 준다. 그러므로 소셜 미디어에서 보는 것과 우리 자신을 더 많이 비교할수록 우리는 자신의 평범한 삶에 대해 불행하게 느낄 가능성이 더 커진다.",
+    "why": "평범한 삶을 남들의 최고의 순간과 비교하면 외롭고 덜 만족하게 되므로 평범한 삶에 대해 불행하게 느끼기 쉽습니다.",
+    "optionNotes": [
+      "연구 결과와 반대입니다.",
+      "정답. 자신의 평범한 삶에 불만을 느끼기 쉽습니다.",
+      "사진 촬영 기술은 나오지 않습니다.",
+      "외국 친구는 나오지 않습니다.",
+      "사용 시간 감소는 나오지 않습니다."
+    ],
+    "trap": "사진이 편집된다는 내용을 사진 기술(③)과 연결하지 마세요.",
+    "tip": "연구 결과(lonelier, less satisfied)가 결론의 근거입니다."
+  },
+  {
+    "id": "m3b-21-32",
+    "level": "m3",
+    "set": "mock-21",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "By the 1920s, wolves had disappeared from Yellowstone National Park because people hunted them. Without wolves, the number of deer increased rapidly, and the deer ate so many young trees along the rivers that the riverbanks began to collapse. In 1995, scientists brought wolves back to the park. The wolves hunted deer, but, more importantly, they changed where the deer fed, because the deer avoided open valleys where they could be attacked. As a result, trees grew back along the rivers, and birds and beavers returned. The beavers built dams, which created new ponds for fish and other animals. Even the shape of the rivers changed. Scientists now call this chain of effects a trophic cascade. This shows that the return of just one predator can __________.",
+    "options": [
+      "make the national park much smaller than before",
+      "reduce the number of visitors every single year",
+      "bring balance back to an entire ecosystem, from plants to rivers",
+      "cause the deer to grow larger and stronger",
+      "stop young trees from growing along the water"
+    ],
+    "answer": 2,
+    "translation": "1920년대에 이르러 사람들이 사냥한 탓에 늑대가 옐로스톤 국립공원에서 사라졌다. 늑대가 없자 사슴의 수가 급격히 늘었고 사슴이 강을 따라 어린 나무를 너무 많이 먹어 강둑이 무너지기 시작했다. 1995년 과학자들은 늑대를 공원에 다시 데려왔다. 늑대는 사슴을 사냥했지만 더 중요하게는 사슴이 먹이를 먹는 장소를 바꾸었다. 사슴이 공격받을 수 있는 탁 트인 골짜기를 피했기 때문이다. 그 결과 강을 따라 나무가 다시 자랐고 새와 비버가 돌아왔다. 비버는 댐을 지었고 이것이 물고기와 다른 동물을 위한 새 연못을 만들었다. 강의 모양마저 변했다. 과학자들은 이제 이 연쇄 효과를 영양 단계 연쇄라고 부른다. 이는 단 하나의 포식자가 돌아오는 것이 식물에서 강에 이르기까지 생태계 전체에 균형을 되찾아 줄 수 있음을 보여 준다.",
+    "why": "늑대의 복귀가 나무, 새, 비버, 강의 모양까지 바꾸었으므로 생태계 전체의 균형을 되찾아 주었다는 결론이 알맞습니다.",
+    "optionNotes": [
+      "공원 면적은 나오지 않습니다.",
+      "방문객 수는 나오지 않습니다.",
+      "정답. 식물에서 강까지 생태계의 균형을 되찾아 줍니다.",
+      "사슴이 더 커진다는 내용은 나오지 않습니다.",
+      "나무가 다시 자랐다는 내용과 반대입니다."
+    ],
+    "trap": "사슴을 사냥한다는 부분만 보고 생태계에 해롭다고 오해하지 마세요.",
+    "tip": "결론은 모든 결과(나무, 새, 비버, 강)를 포괄하는 표현을 고르세요."
+  },
+  {
+    "id": "m3b-21-33",
+    "level": "m3",
+    "set": "mock-21",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many people try to change their lives with big resolutions, such as exercising for an hour every day, but most of them give up within a few weeks. They feel guilty and often decide that they simply lack willpower. Behavior scientists suggest a different approach: start so small that it feels almost too easy. For example, instead of promising to read for an hour, promise to read just one page every night. Because such a small task requires almost no effort or motivation, you can do it even on busy or tired days. Once the habit is firmly established, you will naturally want to do more. Over time, these tiny actions add up to big changes. In short, lasting change is more likely to come from __________.",
+    "options": [
+      "waiting for a perfect moment to begin something new",
+      "setting the hardest goal that you can possibly imagine",
+      "small steps repeated consistently each day",
+      "rewards that are given to us by other people",
+      "trying to do everything in our lives at the same time"
+    ],
+    "answer": 2,
+    "translation": "많은 사람이 하루 한 시간 운동하기 같은 큰 결심으로 삶을 바꾸려 하지만 대부분은 몇 주 안에 포기한다. 그들은 죄책감을 느끼고 단지 의지력이 부족하다고 결론짓기도 한다. 행동 과학자들은 다른 접근을 제안한다. 거의 너무 쉽게 느껴질 만큼 작게 시작하라는 것이다. 예를 들어 한 시간 읽겠다고 약속하는 대신 밤마다 한 쪽만 읽겠다고 약속하라. 그런 작은 일은 노력이나 동기가 거의 필요 없으므로 바쁘거나 피곤한 날에도 할 수 있다. 습관이 확고하게 자리 잡으면 자연스럽게 더 하고 싶어진다. 시간이 지나면 이 작은 행동들이 쌓여 큰 변화가 된다. 요컨대 지속적인 변화는 매일 꾸준히 반복되는 작은 걸음에서 나올 가능성이 더 크다.",
+    "why": "아주 작은 행동을 매일 반복해 쌓으면 큰 변화가 된다는 내용이므로 꾸준히 반복되는 작은 걸음이 알맞습니다.",
+    "optionNotes": [
+      "완벽한 시기를 기다린다는 내용은 나오지 않습니다.",
+      "가장 어려운 목표는 글과 반대입니다.",
+      "정답. 매일 꾸준히 반복되는 작은 걸음입니다.",
+      "남이 주는 보상은 나오지 않습니다.",
+      "모든 것을 동시에 하는 것은 글과 반대입니다."
+    ],
+    "trap": "'big changes'라는 표현만 보고 큰 목표(②)를 고르지 마세요.",
+    "tip": "예시(한 쪽만 읽기)가 결론의 근거입니다."
+  },
+  {
+    "id": "m3b-21-34",
+    "level": "m3",
+    "set": "mock-21",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Most of us think of listening as simply waiting for our turn to speak. In fact, good listening is an active skill. When we listen actively, we keep eye contact, nod to show that we are following, and avoid interrupting. Our body language tells the speaker that we truly care about the conversation. We also ask follow-up questions and repeat what we heard in our own words to make sure we understood correctly. Speakers who feel heard become more open and honest, so conflicts are solved more quickly. In contrast, if we are thinking about our reply while the other person is talking, we miss important details and the speaker feels ignored. Even a few seconds of undivided attention can make a big difference. Real listening, therefore, means __________.",
+    "options": [
+      "speaking louder than other people in the group",
+      "preparing an excellent reply while the other person is still talking",
+      "agreeing with everything that the speaker says without thinking",
+      "paying full attention and trying to understand the speaker",
+      "ending the conversation as quickly as we possibly can"
+    ],
+    "answer": 3,
+    "translation": "우리 대부분은 듣기를 그저 자기 말할 차례를 기다리는 것으로 생각한다. 사실 잘 듣기는 능동적인 기술이다. 능동적으로 들을 때 우리는 눈을 맞추고 따라가고 있음을 보이려고 고개를 끄덕이며 끼어들지 않는다. 우리의 몸짓은 우리가 대화를 진심으로 중요하게 여긴다는 것을 화자에게 알려 준다. 또 후속 질문을 하고 제대로 이해했는지 확인하려고 들은 것을 자기 말로 되풀이한다. 자신의 말이 들린다고 느끼는 화자는 더 열린 마음으로 솔직해져서 갈등이 더 빨리 해결된다. 반대로 상대가 말하는 동안 우리가 답할 말을 생각하고 있으면 중요한 세부 사항을 놓치고 화자는 무시당한다고 느낀다. 단 몇 초의 온전한 집중도 큰 차이를 만들 수 있다. 그러므로 진정한 듣기는 온전히 집중해 화자를 이해하려고 노력하는 것을 뜻한다.",
+    "why": "눈 맞춤, 끄덕임, 질문, 되풀이로 상대를 이해하려는 능동적 듣기이므로 온전히 집중해 이해하려는 것이 알맞습니다.",
+    "optionNotes": [
+      "큰 소리로 말하기는 듣기가 아닙니다.",
+      "답변을 미리 준비하는 것은 글에서 잘못이라고 한 내용입니다.",
+      "무조건 동의하는 것은 나오지 않습니다.",
+      "정답. 온전히 집중하고 이해하려는 것입니다.",
+      "대화를 빨리 끝내는 것은 나오지 않습니다."
+    ],
+    "trap": "'reply'를 준비하는 것(②)이 듣기라고 착각하지 마세요. 글에서는 그것을 반대 사례로 듭니다.",
+    "tip": "'In contrast' 앞뒤의 대조 구조에서 바람직한 쪽이 정답입니다."
+  },
+  {
+    "id": "m3b-21-35",
+    "level": "m3",
+    "set": "mock-21",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Volunteering benefits not only the people we help but also ourselves. Studies show that there are at least four reasons to give our time to others. ① Helping others gives us a sense of purpose, which improves our mental health and reduces stress. ② Volunteers learn practical skills such as teamwork, planning, and communication that they can use in school and later at work. ③ By working together toward a shared goal, volunteers meet people from different backgrounds and build lasting friendships. ④ Honey never spoils because it contains very little water and has a natural acid that stops bacteria from growing. ⑤ Volunteer experience also looks impressive on school and job applications, because it shows responsibility and kindness.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "자원봉사는 우리가 돕는 사람들뿐 아니라 우리 자신에게도 이롭다. 연구에 따르면 시간을 남에게 내어줄 이유는 적어도 네 가지가 있다. ① 남을 돕는 것은 삶의 목적의식을 주어 정신 건강을 개선하고 스트레스를 줄인다. ② 봉사자는 학교와 나중의 직장에서 쓸 수 있는 팀워크, 계획, 의사소통 같은 실용적 기술을 배운다. ③ 공통의 목표를 향해 함께 일하면서 봉사자는 다양한 배경의 사람들을 만나 오래가는 우정을 쌓는다. ④ 꿀은 수분이 매우 적고 세균의 번식을 막는 천연 산이 있어서 상하지 않는다. ⑤ 봉사 경험은 책임감과 친절함을 보여 주므로 학교와 직장 지원서에서도 인상적으로 보인다.",
+    "why": "글은 자원봉사의 이점을 이야기하는데 ④는 꿀이 상하지 않는 이유에 관한 별개의 이야기입니다.",
+    "optionNotes": [
+      "정신 건강이라는 봉사의 이점입니다.",
+      "실용적 기술이라는 봉사의 이점입니다.",
+      "우정이라는 봉사의 이점입니다.",
+      "정답(무관). 꿀이 상하지 않는 이유라 관계가 없습니다.",
+      "지원서에서의 이점입니다."
+    ],
+    "trap": "네 번째 이유처럼 순서상 자연스럽게 놓여 있어도 내용이 다르면 무관한 문장입니다.",
+    "tip": "각 문장이 '자원봉사의 이점'인지 확인하세요."
+  },
+  {
+    "id": "m3b-21-36",
+    "level": "m3",
+    "set": "mock-21",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Sticky notes are now found in almost every office and classroom, but they were invented by accident. In 1968, a scientist named Spencer Silver was trying to make a very strong glue at the company 3M.\n(A) Years later, his colleague Art Fry became annoyed because the paper bookmarks in his hymn book kept falling out. He remembered Silver's weak glue and realized it would be perfect for a bookmark that stayed in place without damaging the page. In 1980, the notes went on sale across the United States and soon became a huge success.\n(B) Instead, he made a glue that was so weak that it barely held two sheets of paper together. It was considered a failure, and for years no one could find a use for it.\n(C) Silver, however, believed that his strange glue must be useful for something, so he kept telling his coworkers about it at meetings and seminars.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 2,
+    "translation": "포스트잇은 이제 거의 모든 사무실과 교실에서 볼 수 있지만 우연히 발명되었다. 1968년 스펜서 실버라는 과학자가 3M 회사에서 아주 강한 접착제를 만들려 하고 있었다. (B) 그 대신 그는 종이 두 장을 겨우 붙일 만큼 약한 접착제를 만들었다. 그것은 실패로 여겨졌고 여러 해 동안 아무도 쓸모를 찾지 못했다. (C) 그러나 실버는 자신의 이상한 접착제가 분명 어딘가에 쓸모가 있다고 믿어서 회의와 세미나에서 동료들에게 계속 이야기했다. (A) 몇 년 뒤 그의 동료 아트 프라이는 찬송가책의 종이 책갈피가 자꾸 떨어져서 짜증이 났다. 그는 실버의 약한 접착제를 떠올리고 그것이 페이지를 상하게 하지 않으면서 제자리에 붙어 있는 책갈피에 완벽하다는 것을 깨달았다. 1980년 그 쪽지는 미국 전역에서 판매되었고 곧 큰 성공을 거두었다.",
+    "why": "(B) 'Instead'로 약한 접착제를 만든 결과 → (C) 'however'로 실버의 믿음 → (A) 'Years later'로 프라이의 활용 순서입니다.",
+    "optionNotes": [
+      "(A)는 몇 년 뒤의 일이라 마지막에 와야 합니다.",
+      "(B)의 Instead가 주어진 글 다음에 바로 이어지는데 (A)가 사이에 오면 흐름이 끊깁니다.",
+      "정답. 약한 접착제 → 실버의 믿음 → 몇 년 뒤의 활용.",
+      "(C)의 'his strange glue'가 가리킬 대상이 앞에 없습니다.",
+      "(C)가 먼저 오면 'his strange glue'가 불분명합니다."
+    ],
+    "trap": "(B)의 'Instead'는 주어진 글의 '아주 강한 접착제'와 대비되는 결과입니다.",
+    "tip": "Instead → however → Years later의 연결어를 따라가세요."
+  },
+  {
+    "id": "m3b-21-37",
+    "level": "m3",
+    "set": "mock-21",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Have you ever wondered why the sky is blue? The answer lies in how sunlight travels through the atmosphere before it reaches our eyes.\n(A) As a result, when we look up, we see blue light coming at us from every part of the sky. At sunset, the light must pass through much more air, so most of the blue light is scattered away, and the sky turns red and orange.\n(B) When this light enters the atmosphere, it collides with tiny gas molecules. Blue light has a short wavelength, so it is scattered in all directions much more strongly than red light.\n(C) Sunlight looks white, but it is actually a mixture of all the colors of the rainbow. Each color travels as a wave of a different length.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 4,
+    "translation": "하늘이 왜 파란지 궁금했던 적이 있는가? 답은 햇빛이 우리 눈에 닿기 전에 대기를 통과하는 방식에 있다. (C) 햇빛은 하얗게 보이지만 사실은 무지개의 모든 색이 섞인 것이다. 각 색은 서로 다른 길이의 파동으로 이동한다. (B) 이 빛이 대기에 들어가면 아주 작은 기체 분자와 충돌한다. 파란빛은 파장이 짧아서 붉은빛보다 모든 방향으로 훨씬 더 강하게 흩어진다. (A) 그 결과 우리가 올려다보면 하늘 모든 곳에서 파란빛이 우리에게 온다. 해질 무렵에는 빛이 훨씬 더 많은 공기를 지나야 해서 파란빛 대부분이 흩어져 사라지고 하늘은 붉고 주황색이 된다.",
+    "why": "(C) 햇빛의 구성 → (B) 'this light'가 대기와 충돌 → (A) 'As a result' 하늘이 파랗게 보임 순서입니다.",
+    "optionNotes": [
+      "(A)의 결과가 원인보다 먼저 나올 수 없습니다.",
+      "(B)의 'this light'가 가리킬 빛이 앞에 없습니다.",
+      "(B)가 먼저 오면 'this light'가 불분명합니다.",
+      "(A)의 결과가 (B)의 원인보다 먼저 나올 수 없습니다.",
+      "정답. 햇빛의 구성 → 대기와의 충돌 → 결과."
+    ],
+    "trap": "(B)의 'this light'는 (C)의 햇빛을 가리킵니다.",
+    "tip": "this light → As a result의 지시어와 연결어를 따라가세요."
+  },
+  {
+    "id": "m3b-21-38",
+    "level": "m3",
+    "set": "mock-21",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThat is why more and more cities are investing in bike-sharing programs.\n\n[글]\n( ① ) Bike-sharing systems, which first appeared in Europe decades ago, allow people to rent a bicycle at one station and return it at another station near their destination. ( ② ) Users can unlock a bike with a smartphone app, and the first thirty minutes are usually very cheap, so short trips cost almost nothing. ( ③ ) For cities, fewer cars on the road means less traffic, less noise, and cleaner air. ( ④ ) Studies also show that people who ride bikes regularly are healthier, happier, and less stressed than those who do not. ( ⑤ ) Last year alone, more than fifty new programs started in cities around the world, from small towns to huge capitals.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "[주어진 문장] 그래서 점점 더 많은 도시가 자전거 공유 프로그램에 투자하고 있다. [글] 수십 년 전 유럽에서 처음 나타난 자전거 공유 체계는 사람들이 한 정거장에서 자전거를 빌려 목적지 근처의 다른 정거장에 반납하게 해 준다. 이용자는 스마트폰 앱으로 자전거의 잠금을 풀 수 있고 처음 30분은 보통 아주 저렴해서 짧은 이동에는 거의 돈이 들지 않는다. 도시의 입장에서는 도로의 자동차가 줄면 교통 체증과 소음이 줄고 공기가 더 깨끗해진다. 연구에 따르면 자전거를 규칙적으로 타는 사람은 그렇지 않은 사람보다 더 건강하고 행복하며 스트레스를 덜 받는다. 작년 한 해에만 작은 마을에서 대도시에 이르기까지 전 세계 도시에서 오십 개가 넘는 새 프로그램이 시작되었다.",
+    "why": "여러 이점을 설명한 뒤 'That is why'로 도시들의 투자가 이어지고, 다음 문장이 투자의 구체적 사례이므로 ⑤에 들어갑니다.",
+    "optionNotes": [
+      "'That'이 가리킬 이유가 아직 없습니다.",
+      "앱 이용 설명 앞이라 이릅니다.",
+      "이점을 말하는 도중이라 이유가 부족합니다.",
+      "건강 이점의 설명 중에 끼어 흐름이 끊깁니다.",
+      "정답. 이점 뒤에 투자가 이어지고 사례가 나옵니다."
+    ],
+    "trap": "④의 건강 이점 뒤에도 어울려 보이지만, 바로 뒤의 'Last year alone ~'은 투자의 사례여야 합니다.",
+    "tip": "That is why는 이유(이점) 직후에 놓이고, 뒤에 그 결과의 사례가 이어집니다."
+  },
+  {
+    "id": "m3b-21-39",
+    "level": "m3",
+    "set": "mock-21",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nMany students feel nervous when they have to speak in front of the whole class.\n\n[글]\n( ① ) Some of them are afraid that their opinions might sound silly or wrong to their classmates, so they prefer to stay silent. ( ② ) Others worry about making mistakes in front of so many people and being laughed at afterward. ( ③ ) Teachers can help these students by offering small-group discussions before a whole-class discussion, because talking to three or four peers feels much less frightening. ( ④ ) In a small group, students share ideas with only a few peers and gain confidence step by step as they notice that no one laughs at them. ( ⑤ ) Eventually, they feel much more comfortable speaking up in front of the entire class, even when the topic is difficult.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "[주어진 문장] 많은 학생은 반 전체 앞에서 말해야 할 때 긴장한다. [글] 그중 일부는 자신의 의견이 반 친구들에게 어리석거나 틀리게 들릴까 봐 두려워서 조용히 있는 편을 택한다. 다른 학생들은 그렇게 많은 사람 앞에서 실수하고 나중에 웃음거리가 될까 봐 걱정한다. 교사는 학급 전체 토론에 앞서 소집단 토론을 제공함으로써 이런 학생들을 도울 수 있는데 서너 명의 또래에게 말하는 것은 훨씬 덜 무섭게 느껴지기 때문이다. 소집단에서 학생들은 몇 명의 또래와만 생각을 나누고 아무도 자신을 비웃지 않는다는 것을 알아채면서 단계적으로 자신감을 얻는다. 결국 그들은 주제가 어려울 때에도 학급 전체 앞에서 말하는 것이 훨씬 더 편해진다.",
+    "why": "'Some of them'이 가리키는 '긴장하는 학생들'이 먼저 소개되어야 하므로 주어진 문장은 ①에 들어갑니다.",
+    "optionNotes": [
+      "정답. 'Some of them'이 가리킬 대상을 먼저 소개합니다.",
+      "'Some of them'이 가리킬 대상이 앞에 없습니다.",
+      "두 가지 두려움을 설명한 뒤에 오면 어색합니다.",
+      "해결책 설명 도중이라 흐름이 끊깁니다.",
+      "결론 앞에 오면 어색합니다."
+    ],
+    "trap": "'Others worry ~'는 'Some ~'과 짝이므로 둘 사이를 끊을 수 없습니다.",
+    "tip": "Some of them / Others 같은 대명사의 앞에는 지시 대상이 먼저 나와야 합니다."
+  },
+  {
+    "id": "m3b-21-40",
+    "level": "m3",
+    "set": "mock-21",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In an experiment, researchers asked one group of people to build simple furniture boxes from kits. A second group received the same boxes already assembled. Afterward, both groups were asked how much they would pay for the box. People who had built the box themselves offered about sixty-three percent more than those who received it fully assembled. The researchers call this tendency the effort effect. Even when the boxes looked clumsy, the builders still valued them highly, because the effort made them feel proud of and attached to what they had created. The effect also appears in cooking, crafts, and even software projects, which suggests that giving people a chance to take part in making something can make them love it more.\n\n▶ People tend to (A) things more highly when they have (B) their own effort in creating them.",
+    "options": [
+      "(A) ignore — (B) saved",
+      "(A) dislike — (B) wasted",
+      "(A) lend — (B) avoided",
+      "(A) value — (B) invested",
+      "(A) sell — (B) borrowed"
+    ],
+    "answer": 3,
+    "translation": "한 실험에서 연구자들은 한 집단에게 키트로 간단한 가구 상자를 조립하게 했다. 두 번째 집단은 같은 상자를 이미 조립된 상태로 받았다. 그런 다음 두 집단 모두에게 그 상자에 얼마를 낼지 물었다. 직접 상자를 만든 사람들은 완전히 조립된 상자를 받은 사람들보다 약 63퍼센트 더 높은 금액을 불렀다. 연구자들은 이 경향을 노력 효과라고 부른다. 상자가 서툴러 보여도 만든 사람들은 여전히 높이 평가했는데 노력 때문에 자신이 만든 것에 자부심과 애착을 느꼈기 때문이다. 이 효과는 요리, 공예, 심지어 소프트웨어 프로젝트에서도 나타나며 무언가를 만드는 데 참여할 기회를 주면 사람들이 그것을 더 사랑하게 될 수 있음을 시사한다. ▶ 사람들은 자신의 노력을 (B) 만든 것을 더 높게 (A) 경향이 있다.",
+    "why": "직접 만든 상자에 더 높은 값을 매겼으므로 자신의 노력을 투자한(invested) 것을 더 높이 평가한다(value)는 요약이 알맞습니다.",
+    "optionNotes": [
+      "ignore와 saved는 글과 맞지 않습니다.",
+      "dislike와 wasted는 글과 반대입니다.",
+      "lend와 avoided는 글에 나오지 않습니다.",
+      "정답. 노력을 투자한 것을 더 높이 평가합니다.",
+      "sell과 borrowed는 글에 나오지 않습니다."
+    ],
+    "trap": "'clumsy'라는 표현을 보고 부정적 평가(dislike)라고 오해하지 마세요.",
+    "tip": "요약문은 실험 결과(직접 만들면 더 높이 평가)를 일반화하세요."
+  }
+]
