@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m2b-21-29",
+    "level": "m2",
+    "set": "mock-21",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Only female mosquitoes bite people. They need the protein in blood to produce eggs. Mosquitoes find people by {1|sensing} the carbon dioxide that we breathe out. They can also {2|smell} sweat and body heat from several meters away. Some people are bitten {3|more} often than others because their skin gives off a different mix of chemicals. When a mosquito bites, it injects a little saliva {4|to stop} the blood from clotting. This saliva is what makes the bite itchy. To avoid bites, you can wear long sleeves, use mosquito nets, and {5|empties} standing water around your house, since mosquitoes lay eggs in water.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "암컷 모기만 사람을 문다. 암컷은 알을 낳으려고 피 속의 단백질이 필요하다. 모기는 우리가 내쉬는 이산화탄소를 감지해서 사람을 찾는다. 또 몇 미터 떨어진 곳에서도 땀과 체온을 냄새로 알아챌 수 있다. 어떤 사람은 피부가 내보내는 화학 물질의 조합이 달라서 다른 사람보다 더 자주 물린다. 모기는 물 때 피가 굳지 않도록 약간의 침을 주입한다. 이 침이 물린 곳을 가렵게 만든다. 물리지 않으려면 긴소매 옷을 입고 모기장을 쓰며 집 주변에 고인 물을 비울 수 있는데 모기가 물에 알을 낳기 때문이다.",
+    "why": "you can 뒤에 병렬로 연결된 동사는 동사원형이어야 하므로 empties가 아니라 empty여야 합니다.",
+    "optionNotes": [
+      "전치사 by 뒤의 동명사 sensing입니다.",
+      "조동사 can 뒤의 동사원형 smell입니다.",
+      "부사 more가 often을 꾸밉니다.",
+      "목적을 나타내는 to부정사입니다.",
+      "정답(틀린 것). can에 이어지는 병렬 동사이므로 empty여야 합니다."
+    ],
+    "trap": "앞의 'wear', 'use'와 병렬인데 3인칭 단수형으로 착각하기 쉽습니다.",
+    "tip": "조동사 뒤에 병렬되는 동사는 모두 동사원형으로 씁니다."
+  },
+  {
+    "id": "m2b-21-30",
+    "level": "m2",
+    "set": "mock-21",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "In winter, food is scarce, so some animals sleep through the cold season. This long sleep is called hibernation. Before winter, a bear eats a huge amount of food and {1|gains} a thick layer of fat. During hibernation, its heart rate {2|slows} down from about fifty beats a minute to ten, and its body temperature drops a little. The bear does not eat, drink, or go to the toilet for months, because its body {3|wastes} the stored fat as energy. In spring, the bear wakes up thin and hungry. A mother bear can even give birth and {4|nurse} her cubs during hibernation. Scientists study hibernating bears to learn how to {5|protect} human muscles and bones during long periods of rest.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "겨울에는 먹이가 부족해서 일부 동물은 추운 계절 내내 잠을 잔다. 이 긴 잠을 동면이라고 한다. 겨울이 되기 전에 곰은 엄청난 양의 먹이를 먹고 두꺼운 지방층을 얻는다. 동면하는 동안 심장 박동은 분당 약 오십 번에서 열 번으로 느려지고 체온은 조금 떨어진다. 곰은 몇 달 동안 먹지도 마시지도 화장실에 가지도 않는데 몸이 저장된 지방을 에너지로 낭비하기 때문이다. 봄에 곰은 마르고 배고픈 채 깨어난다. 어미 곰은 동면 중에 새끼를 낳고 젖을 먹이기도 한다. 과학자들은 동면하는 곰을 연구해 오래 쉬는 동안 사람의 근육과 뼈를 보호하는 방법을 알아내려 한다.",
+    "why": "몇 달 동안 먹지 않아도 되는 이유는 저장된 지방을 에너지로 '쓰기(use)' 때문이므로 '낭비한다(waste)'는 부적절합니다.",
+    "optionNotes": [
+      "지방층을 얻는다는 의미로 gains가 알맞습니다.",
+      "심장 박동이 느려진다는 의미로 slows가 알맞습니다.",
+      "정답(부적절). 저장된 지방을 에너지로 쓰므로 uses여야 합니다.",
+      "새끼에게 젖을 먹인다는 의미로 nurse가 알맞습니다.",
+      "근육과 뼈를 보호한다는 의미로 protect가 알맞습니다."
+    ],
+    "trap": "먹지 않고도 견딘다는 'because'와 호응하는 동사의 방향을 놓치기 쉽습니다.",
+    "tip": "because 절의 이유가 결과(먹지 않아도 됨)를 설명할 수 있는 동사를 고르세요."
+  },
+  {
+    "id": "m2b-21-31",
+    "level": "m2",
+    "set": "mock-21",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many children find it hard to read aloud in front of others because they are afraid of making mistakes. Some schools have found a creative solution: reading programs in which children read stories aloud to dogs. In these programs, children sit next to a calm dog and read a book. Teachers say that the children become more confident and read more fluently over time. Dogs do not laugh or correct them. They simply sit close by and seem to enjoy the sound of the child's voice. This makes children feel safe enough to practice again and again. Reading aloud to a dog helps children because the dog __________.",
+    "options": [
+      "listens quietly without judging their mistakes",
+      "reads the story faster than they can",
+      "teaches them how to run quickly",
+      "barks loudly whenever they make even a small error",
+      "gives them homework each evening"
+    ],
+    "answer": 0,
+    "translation": "많은 아이는 실수할까 두려워서 다른 사람 앞에서 소리 내어 읽기를 어려워한다. 일부 학교는 창의적인 해결책을 찾았는데 아이들이 개에게 이야기를 소리 내어 읽어 주는 독서 프로그램이다. 이 프로그램에서 아이들은 차분한 개 옆에 앉아 책을 읽는다. 교사들은 아이들이 시간이 지나며 더 자신감을 갖고 더 유창하게 읽는다고 말한다. 개는 웃거나 고쳐 주지 않는다. 그저 가까이 앉아 아이의 목소리를 즐기는 것 같다. 이는 아이들이 거듭 연습해도 될 만큼 안전하다고 느끼게 한다. 개에게 소리 내어 읽어 주는 것은 개가 실수를 판단하지 않고 조용히 들어 주기 때문에 아이들에게 도움이 된다.",
+    "why": "개는 웃거나 고쳐 주지 않고 조용히 곁에 있어 아이들이 안전하다고 느끼므로 실수를 판단하지 않고 조용히 들어 줍니다.",
+    "optionNotes": [
+      "정답. 실수를 판단하지 않고 조용히 들어 줍니다.",
+      "개가 대신 읽는다는 내용은 나오지 않습니다.",
+      "달리기는 나오지 않습니다.",
+      "실수에 짖는다는 내용은 글과 반대입니다.",
+      "숙제는 나오지 않습니다."
+    ],
+    "trap": "'dogs'가 나온다고 개와 관련된 엉뚱한 보기(③④)를 고르지 마세요.",
+    "tip": "앞 문장(개는 웃거나 고쳐 주지 않음)이 정답의 근거입니다."
+  },
+  {
+    "id": "m2b-21-32",
+    "level": "m2",
+    "set": "mock-21",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Stars look like they are twinkling, but in space they shine steadily. The twinkling happens because starlight must pass through Earth's atmosphere before it reaches our eyes. The air is always moving, and different layers have different temperatures. As a result, the light bends many times on its way down, and the star appears to shake or change brightness. Planets do not twinkle as much because they look like tiny disks, not points of light. Astronauts in space see steady stars because there is no air around them. So stars twinkle because __________.",
+    "options": [
+      "they are turning their own lights on and off all the time",
+      "the air around the Earth bends their light",
+      "clouds move in front of them every second",
+      "they move quickly across the sky",
+      "the moon reflects them at night"
+    ],
+    "answer": 1,
+    "translation": "별은 반짝이는 것처럼 보이지만 우주에서는 꾸준히 빛난다. 반짝임은 별빛이 우리 눈에 닿기 전에 지구 대기를 지나야 하기 때문에 생긴다. 공기는 늘 움직이고 층마다 온도가 다르다. 그 결과 빛은 내려오는 동안 여러 번 꺾이고 별은 흔들리거나 밝기가 변하는 것처럼 보인다. 행성은 점이 아니라 작은 원반처럼 보이므로 그만큼 반짝이지 않는다. 우주에 있는 우주비행사는 주변에 공기가 없어서 꾸준한 별을 본다. 그래서 별이 반짝이는 것은 지구를 둘러싼 공기가 별빛을 꺾기 때문이다.",
+    "why": "별빛이 지구 대기를 지나며 여러 번 꺾이기 때문에 반짝여 보입니다.",
+    "optionNotes": [
+      "별이 스스로 켜고 끈다는 내용은 글과 반대입니다.",
+      "정답. 공기가 별빛을 꺾기 때문입니다.",
+      "구름은 나오지 않습니다.",
+      "별이 빨리 움직인다는 내용은 나오지 않습니다.",
+      "달의 반사는 나오지 않습니다."
+    ],
+    "trap": "'Astronauts see steady stars'를 놓치면 별 자체가 깜박인다고 오해합니다.",
+    "tip": "원인(대기를 지남) → 결과(빛이 꺾임 → 반짝임)를 따라가세요."
+  },
+  {
+    "id": "m2b-21-33",
+    "level": "m2",
+    "set": "mock-21",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "If we read news from only one source, we see only one point of view. Different news organizations may choose different facts, and they may describe the same event with different words. For example, one report may focus on the cost of a new law, while another may focus on its benefits. Neither report is necessarily false, but each shows only a part of the story. By comparing several sources, we can notice what is missing in one report and what is emphasized in another. This helps us to separate facts from opinions. So reading news from various sources __________.",
+    "options": [
+      "wastes time and makes us tired",
+      "makes news stories easier to forget",
+      "teaches us how to write headlines",
+      "gives us a more balanced and complete picture of what is happening",
+      "proves that all news is false"
+    ],
+    "answer": 3,
+    "translation": "한 곳의 뉴스만 읽으면 한 가지 관점만 보게 된다. 서로 다른 언론사는 서로 다른 사실을 고를 수 있고 같은 사건을 다른 말로 서술할 수 있다. 예를 들어 한 보도는 새 법의 비용에 초점을 맞추고 다른 보도는 이점에 초점을 맞출 수 있다. 어느 쪽도 반드시 거짓은 아니지만 각각은 이야기의 일부만 보여 준다. 여러 출처를 비교하면 한 보도에서 빠진 것과 다른 보도에서 강조된 것을 알아챌 수 있다. 이는 사실과 의견을 구분하도록 돕는다. 그러므로 다양한 출처의 뉴스를 읽는 것은 일어나고 있는 일에 대한 더 균형 잡히고 완전한 그림을 준다.",
+    "why": "여러 출처를 비교하면 빠진 부분을 알아챌 수 있으므로 더 균형 잡히고 완전한 그림을 줍니다.",
+    "optionNotes": [
+      "시간 낭비라는 내용은 나오지 않습니다.",
+      "잊기 쉽다는 내용은 나오지 않습니다.",
+      "머리기사 쓰는 법은 나오지 않습니다.",
+      "정답. 더 균형 잡히고 완전한 그림을 줍니다.",
+      "모든 뉴스가 거짓이라는 내용은 글과 반대입니다."
+    ],
+    "trap": "'Neither report is necessarily false'를 모든 뉴스가 거짓이라는 뜻(⑤)으로 오해하지 마세요.",
+    "tip": "앞의 설명(일부만 보여 줌 → 비교하면 빠진 것을 알 수 있음)에서 결론을 추론하세요."
+  },
+  {
+    "id": "m2b-21-34",
+    "level": "m2",
+    "set": "mock-21",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Most solids are denser than their liquids, so they sink. Water is special. When water freezes, its molecules form a structure with more space between them. So ice takes up about nine percent more space than the same amount of liquid water. This makes ice lighter than liquid water. That is why ice floats in a glass. This property is very important for life. If ice sank, lakes would freeze from the bottom to the top, and fish would die. Instead, ice forms on the surface, and the water below stays liquid. So ice floats because it is __________.",
+    "options": [
+      "heavier than liquid water",
+      "less dense than liquid water",
+      "colder than the air around it",
+      "made of salt instead of water",
+      "pushed up by hot air coming from below"
+    ],
+    "answer": 1,
+    "translation": "대부분의 고체는 액체보다 밀도가 높아서 가라앉는다. 물은 특별하다. 물이 얼면 분자가 사이에 더 많은 공간을 두는 구조를 이룬다. 그래서 얼음은 같은 양의 액체 물보다 약 9퍼센트 더 많은 공간을 차지한다. 이 때문에 얼음은 액체 물보다 가볍다. 그래서 컵 속에서 얼음이 뜬다. 이 성질은 생명에게 매우 중요하다. 얼음이 가라앉으면 호수가 바닥에서부터 위로 얼어 물고기가 죽을 것이다. 대신 얼음은 표면에 생기고 아래 물은 액체로 남는다. 그래서 얼음이 뜨는 것은 액체 물보다 밀도가 낮기 때문이다.",
+    "why": "얼음은 같은 양의 물보다 부피가 커서 밀도가 낮으므로 뜹니다.",
+    "optionNotes": [
+      "더 무겁다는 내용은 글과 반대입니다.",
+      "정답. 액체 물보다 밀도가 낮습니다.",
+      "주변 공기보다 차갑다는 내용은 이유가 아닙니다.",
+      "소금은 나오지 않습니다.",
+      "뜨거운 공기는 나오지 않습니다."
+    ],
+    "trap": "'colder'가 얼음에 맞는 말이지만 뜨는 이유는 밀도임을 놓치지 마세요.",
+    "tip": "인과 관계(얼면 부피가 늘어남 → 밀도가 낮아짐 → 뜸)를 따라가세요."
+  },
+  {
+    "id": "m2b-21-35",
+    "level": "m2",
+    "set": "mock-21",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "A library can be a great place to study and explore, but many students do not know how to use it well. Here are some tips for making the most of your visit. ① Ask the librarian for help when you cannot find a book, because librarians know the collection very well. ② Use the computer catalog to search for books by title, author, or subject. ③ Choose a quiet corner for studying, and keep your voice low so that others can concentrate. ④ Borrow books for up to two weeks, and return them on time so that others can read them too. ⑤ The Pacific Ocean covers about one third of the Earth's surface.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "도서관은 공부하고 탐구하기에 훌륭한 장소가 될 수 있지만 많은 학생은 그것을 잘 이용하는 법을 모른다. 방문을 최대한 활용하는 몇 가지 요령이 있다. ① 책을 찾을 수 없으면 사서는 소장 자료를 매우 잘 알고 있으니 도움을 청하라. ② 컴퓨터 목록으로 제목, 저자, 주제별로 책을 검색하라. ③ 공부할 조용한 구석을 고르고 다른 사람이 집중할 수 있도록 목소리를 낮춰라. ④ 책은 최대 이 주 동안 빌릴 수 있으며 다른 사람도 읽을 수 있도록 제때 반납하라. ⑤ 태평양은 지구 표면의 약 삼분의 일을 덮고 있다.",
+    "why": "글은 도서관을 잘 이용하는 요령을 이야기하는데 ⑤는 태평양에 관한 별개의 이야기입니다.",
+    "optionNotes": [
+      "사서에게 도움을 청하라는 요령입니다.",
+      "검색을 이용하라는 요령입니다.",
+      "조용히 공부하라는 요령입니다.",
+      "제때 반납하라는 요령입니다.",
+      "정답(무관). 태평양 이야기라 관계가 없습니다."
+    ],
+    "trap": "마지막 문장이라 결론처럼 보이지만 주제와 관계가 없습니다.",
+    "tip": "각 문장이 '도서관을 잘 이용하는 요령'인지 확인하세요."
+  },
+  {
+    "id": "m2b-21-36",
+    "level": "m2",
+    "set": "mock-21",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "The umbrella was first invented to protect people from the sun, not from the rain. In ancient Egypt and China, only rich or royal families used them. They were usually made of paper or silk. Servants often held them above the heads of their masters.\n(A) Later, the Chinese began to cover the paper with wax, which kept the rain off.\n(B) Today, people use umbrellas in all kinds of weather, and they are made from light fabrics and metal frames.\n(C) Thanks to this change, umbrellas could be used in rainy weather, and they spread to Europe through travelers.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "우산은 비가 아니라 햇빛으로부터 사람을 보호하려고 처음 발명되었다. 고대 이집트와 중국에서는 부유하거나 왕족인 가문만 그것을 썼다. 우산은 보통 종이나 비단으로 만들었다. 하인들이 흔히 주인의 머리 위로 우산을 받쳐 들었다. (A) 나중에 중국인들은 종이에 밀랍을 입히기 시작했고 그것이 비를 막아 주었다. (C) 이 변화 덕분에 우산은 비 오는 날씨에도 쓸 수 있게 되었고 여행자들을 통해 유럽으로 퍼졌다. (B) 오늘날 사람들은 모든 날씨에 우산을 쓰며 우산은 가벼운 천과 금속 틀로 만들어진다.",
+    "why": "(A) 'Later'로 밀랍 입히기 → (C) 'this change'로 비 오는 날 사용과 확산 → (B) 'Today'로 오늘날 순서입니다.",
+    "optionNotes": [
+      "정답. 밀랍 → 변화의 결과 → 오늘날.",
+      "(B)의 'Today'가 과정보다 먼저 나올 수 없습니다.",
+      "(B)가 먼저 오면 'Today'의 기준 과거가 없습니다.",
+      "(C)의 'this change'가 가리킬 변화가 앞에 없습니다.",
+      "(C)가 먼저 오면 'this change'가 불분명합니다."
+    ],
+    "trap": "(C)의 'this change'는 (A)에서 밀랍을 입힌 변화를 가리킵니다.",
+    "tip": "Later → this change → Today의 시간 표현과 지시어를 따라가세요."
+  },
+  {
+    "id": "m2b-21-37",
+    "level": "m2",
+    "set": "mock-21",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "The Moon is slowly moving away from the Earth. The distance between the two is about 384,000 kilometers, and it is changing. Scientists have measured this carefully for many years.\n(A) That is about the speed at which our fingernails grow, and it means that billions of years ago the Moon looked much bigger in the sky.\n(B) They bounce laser beams off mirrors that astronauts left on the Moon in the 1960s and 1970s.\n(C) By measuring how long the light takes to return, they found that the Moon moves about 3.8 centimeters farther away every year.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 2,
+    "translation": "달은 지구에서 천천히 멀어지고 있다. 둘 사이의 거리는 약 384,000킬로미터이며 변하고 있다. 과학자들은 여러 해 동안 이를 세심하게 측정해 왔다. (B) 그들은 1960~70년대에 우주비행사가 달에 남긴 거울에 레이저 빔을 쏘아 반사시킨다. (C) 빛이 돌아오는 데 걸리는 시간을 재서 그들은 달이 해마다 약 3.8센티미터씩 더 멀어진다는 것을 알아냈다. (A) 이는 우리 손톱이 자라는 속도와 비슷하며 수십억 년 전에는 달이 하늘에서 훨씬 더 커 보였다는 뜻이다.",
+    "why": "(B) 'They'로 측정 방법 → (C) 'the light'로 측정 결과 → (A) 'That'으로 결과의 의미 순서입니다.",
+    "optionNotes": [
+      "(A)의 'That'이 가리킬 속도가 앞에 없습니다.",
+      "(A)가 (C)의 결과보다 먼저 나올 수 없습니다.",
+      "정답. 측정 방법 → 결과 → 의미.",
+      "(C)의 'the light'가 가리킬 빛이 앞에 없습니다.",
+      "(C)가 먼저 오면 'the light'가 불분명합니다."
+    ],
+    "trap": "(A)의 'That is about the speed'는 (C)의 연간 이동 거리를 가리킵니다.",
+    "tip": "They → the light → That의 지시어를 따라가세요."
+  },
+  {
+    "id": "m2b-21-38",
+    "level": "m2",
+    "set": "mock-21",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThat is why many schools now teach students how to spot false information online.\n\n[글]\n( ① ) On the internet, anyone can post anything at any time. ( ② ) Some posts look professional but are completely false. ( ③ ) False stories can spread faster than true ones because they are often surprising. ( ④ ) Many people believe them because they do not check the source of the information. ( ⑤ ) Students who learn to check facts become more careful readers.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "[주어진 문장] 그래서 많은 학교가 이제 학생들에게 온라인에서 거짓 정보를 알아보는 법을 가르친다. [글] 인터넷에서는 누구나 언제든 무엇이든 올릴 수 있다. 어떤 게시물은 전문적으로 보이지만 완전히 거짓이다. 거짓 이야기는 흔히 놀랍기 때문에 사실보다 더 빨리 퍼질 수 있다. 많은 사람은 정보의 출처를 확인하지 않아서 그것을 믿는다. 사실을 확인하는 법을 배운 학생은 더 신중한 독자가 된다.",
+    "why": "사람들이 출처를 확인하지 않아 거짓을 믿는다는 이유 뒤에 'That is why'로 학교의 교육이 이어지고, 다음 문장이 그 교육의 효과를 말하므로 ⑤에 들어갑니다.",
+    "optionNotes": [
+      "'That'이 가리킬 이유가 아직 없습니다.",
+      "거짓 게시물을 말하기 전이라 이릅니다.",
+      "거짓이 퍼지는 이유 설명 앞이라 흐름이 끊깁니다.",
+      "출처 확인을 말하는 문장 앞이라 이유가 부족합니다.",
+      "정답. 이유 뒤에 교육이 이어지고 효과가 나옵니다."
+    ],
+    "trap": "⑤의 'Students who learn to check facts'가 주어진 문장의 교육을 이어받는다는 점을 놓치기 쉽습니다.",
+    "tip": "That is why는 이유 직후에 놓입니다."
+  },
+  {
+    "id": "m2b-21-39",
+    "level": "m2",
+    "set": "mock-21",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nMany animals use tools.\n\n[글]\n( ① ) For example, crows bend wires into hooks to pull food out of narrow tubes. ( ② ) Sea otters use stones to break open hard shells. ( ③ ) Chimpanzees strip leaves from sticks and use them to fish for termites. ( ④ ) Elephants use branches to scratch their backs. ( ⑤ ) These examples show that intelligence is not unique to humans.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "[주어진 문장] 많은 동물이 도구를 쓴다. [글] 예를 들어 까마귀는 철사를 갈고리 모양으로 구부려 좁은 관에서 먹이를 꺼낸다. 해달은 돌을 이용해 단단한 껍데기를 깬다. 침팬지는 막대에서 잎을 훑어 내고 그것으로 흰개미를 낚는다. 코끼리는 나뭇가지로 등을 긁는다. 이 예들은 지능이 인간만의 것이 아님을 보여 준다.",
+    "why": "'For example'로 시작하는 구체적 사례들 앞에 일반적인 주제문이 먼저 와야 하므로 ①에 들어갑니다.",
+    "optionNotes": [
+      "정답. 사례들 앞에 일반적인 주제문이 옵니다.",
+      "'For example' 사례 뒤에 오면 어색합니다.",
+      "침팬지 사례 앞에 오면 흐름이 끊깁니다.",
+      "코끼리 사례 앞에 오면 흐름이 끊깁니다.",
+      "결론 앞에 오면 어색합니다."
+    ],
+    "trap": "'For example'은 앞에 일반적인 진술이 있어야 쓸 수 있습니다.",
+    "tip": "For example로 시작하는 첫 문장 앞에는 주제문이 놓입니다."
+  },
+  {
+    "id": "m2b-21-40",
+    "level": "m2",
+    "set": "mock-21",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A middle school tried a \"mix-it-up lunch\" for one month. Every Wednesday, students were asked to sit with classmates they did not usually talk to. A card on each table gave a fun question to answer together. At first, many students felt awkward and stayed quiet. After two weeks, however, they began to laugh and share stories. At the end of the month, a survey showed that seventy percent of the students had made at least one new friend. Teachers also noticed fewer groups of students excluding others. The school decided to continue the program every semester.\n\n▶ Sitting with (A) classmates at lunch helped students make (B) friends.",
+    "options": [
+      "(A) familiar — (B) fewer",
+      "(A) sleepy — (B) angrier",
+      "(A) noisy — (B) stricter",
+      "(A) different — (B) more",
+      "(A) tired — (B) better"
+    ],
+    "answer": 3,
+    "translation": "한 중학교가 한 달 동안 \"섞어 앉기 점심\"을 시도했다. 수요일마다 학생들은 평소 이야기하지 않던 반 친구와 앉도록 요청받았다. 각 탁자의 카드에는 함께 대답할 재미있는 질문이 있었다. 처음에 많은 학생이 어색해하며 조용히 있었다. 그러나 이 주 뒤에는 웃으며 이야기를 나누기 시작했다. 한 달 말 설문에서 학생의 70퍼센트가 적어도 한 명의 새 친구를 사귀었다. 교사들은 다른 학생을 따돌리는 무리도 줄었다고 알아챘다. 학교는 이 프로그램을 매 학기 계속하기로 했다. ▶ 점심에 (A) 반 친구와 앉은 것은 학생들이 (B) 친구를 사귀도록 도왔다.",
+    "why": "평소 이야기하지 않던 다른 반 친구와 앉아 새 친구를 더 많이 사귀었으므로 (A)는 different, (B)는 more입니다.",
+    "optionNotes": [
+      "familiar와 fewer는 글과 반대입니다.",
+      "sleepy와 angrier는 글에 나오지 않습니다.",
+      "noisy와 stricter는 글에 나오지 않습니다.",
+      "정답. 다른 친구와 앉아 더 많은 친구를 사귀었습니다.",
+      "tired와 better는 글에 나오지 않습니다."
+    ],
+    "trap": "처음의 어색함(at first)을 최종 결과로 오해하지 마세요.",
+    "tip": "요약문은 방법(다른 친구와 앉기)과 결과(새 친구 증가)를 짝지으세요."
+  }
+]
