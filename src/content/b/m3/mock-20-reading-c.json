@@ -1,0 +1,147 @@
+[
+  {
+    "id": "m3b-20-41",
+    "level": "m3",
+    "set": "mock-20",
+    "no": 41,
+    "type": "long",
+    "group": "m3b-20-g41",
+    "stem": "[41~42] 윗글의 제목으로 가장 적절한 것을 고르시오.",
+    "passage": "In the third century BC, the Greek rulers of Egypt built a library in the city of Alexandria that aimed to collect all the knowledge of the world. Ships entering the harbor were searched, and any books on board were copied; the originals were kept in the library, while the owners received the copies. At its height, the library may have held hundreds of thousands of scrolls. Scholars from many countries came to {1|study} there, and they made important advances in mathematics, geography, and medicine. For example, Eratosthenes calculated the size of the Earth with surprising accuracy. The end of the library remains a mystery. Many people believe that it was destroyed in a single fire, but historians now think that its decline was a {2|gradual} process. A series of wars, budget cuts, and political changes slowly {3|increased} its collection and its importance. By the time the last scholars left, little of its former glory remained. Although the library itself is gone, its spirit {4|survives} in modern libraries and universities. The story reminds us that knowledge must be {5|protected}.",
+    "options": [
+      "The Rise and Fall of the Great Library of Alexandria in Ancient Egypt",
+      "How to Organize a Small Library at Home",
+      "The Life of Ancient Greek Scholars in Athens",
+      "Why Fires Are Dangerous for Old Buildings",
+      "A Guide to Visiting Museums in Egypt"
+    ],
+    "answer": 0,
+    "translation": "기원전 3세기 이집트의 그리스인 통치자들은 알렉산드리아시에 세상의 모든 지식을 모으는 것을 목표로 한 도서관을 지었다. 항구에 들어오는 배는 수색을 받았고 배에 실린 책은 모두 필사되었다. 원본은 도서관에 보관되고 주인은 사본을 받았다. 전성기에 도서관은 수십만 개의 두루마리를 소장했을 수 있다. 여러 나라의 학자들이 그곳에서 공부하러 왔고 수학, 지리학, 의학에서 중요한 진전을 이루었다. 예를 들어 에라토스테네스는 놀라운 정확도로 지구의 크기를 계산했다. 도서관의 종말은 여전히 수수께끼이다. 많은 사람은 그것이 한 번의 화재로 파괴되었다고 믿지만 역사가들은 이제 그 쇠퇴가 점진적인 과정이었다고 생각한다. 일련의 전쟁, 예산 삭감, 정치적 변화가 서서히 소장품과 중요성을 늘렸다. 마지막 학자들이 떠날 무렵에는 예전의 영광이 거의 남아 있지 않았다. 도서관 자체는 사라졌지만 그 정신은 현대의 도서관과 대학에 살아 있다. 이 이야기는 지식을 지켜야 한다는 것을 상기시킨다.",
+    "why": "알렉산드리아 도서관의 번영과 쇠퇴를 다루므로 ①이 제목으로 알맞습니다.",
+    "optionNotes": [
+      "정답. 알렉산드리아 도서관의 흥망을 다룹니다.",
+      "집에서 도서관 정리하는 법은 나오지 않습니다.",
+      "아테네 학자들의 삶은 나오지 않습니다.",
+      "화재의 위험은 중심 내용이 아닙니다.",
+      "이집트 박물관 안내는 나오지 않습니다."
+    ],
+    "trap": "'fire'가 나온다고 화재의 위험(④)이 주제라고 착각하지 마세요.",
+    "tip": "제목은 글 전체의 흐름(번영 → 쇠퇴)을 담으세요."
+  },
+  {
+    "id": "m3b-20-42",
+    "level": "m3",
+    "set": "mock-20",
+    "no": 42,
+    "type": "long",
+    "group": "m3b-20-g41",
+    "stem": "[41~42] 밑줄 친 ①~⑤ 중에서 문맥상 낱말의 쓰임이 적절하지 않은 것을 고르시오.",
+    "passage": "In the third century BC, the Greek rulers of Egypt built a library in the city of Alexandria that aimed to collect all the knowledge of the world. Ships entering the harbor were searched, and any books on board were copied; the originals were kept in the library, while the owners received the copies. At its height, the library may have held hundreds of thousands of scrolls. Scholars from many countries came to {1|study} there, and they made important advances in mathematics, geography, and medicine. For example, Eratosthenes calculated the size of the Earth with surprising accuracy. The end of the library remains a mystery. Many people believe that it was destroyed in a single fire, but historians now think that its decline was a {2|gradual} process. A series of wars, budget cuts, and political changes slowly {3|increased} its collection and its importance. By the time the last scholars left, little of its former glory remained. Although the library itself is gone, its spirit {4|survives} in modern libraries and universities. The story reminds us that knowledge must be {5|protected}.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "(41번 지문과 같은 글입니다.)",
+    "why": "쇠퇴를 설명하는 문맥이므로 전쟁과 예산 삭감은 소장품과 중요성을 서서히 '늘린(increased)' 것이 아니라 '줄인(reduced)' 것입니다.",
+    "optionNotes": [
+      "공부하러 왔다는 의미로 study가 알맞습니다.",
+      "점진적인 과정이라는 의미로 gradual이 알맞습니다.",
+      "정답(부적절). 쇠퇴를 설명하므로 reduced여야 합니다.",
+      "정신이 살아 있다는 의미로 survives가 알맞습니다.",
+      "지식을 지켜야 한다는 의미로 protected가 알맞습니다."
+    ],
+    "trap": "'decline'과 이어지는 문장의 동사 방향(감소)을 놓치기 쉽습니다.",
+    "tip": "앞 문장(decline was gradual)과 방향이 일치하는 동사를 고르세요."
+  },
+  {
+    "id": "m3b-20-43",
+    "level": "m3",
+    "set": "mock-20",
+    "no": 43,
+    "type": "long",
+    "group": "m3b-20-g43",
+    "stem": "[43~45] 주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것을 고르시오.",
+    "passage": "(A) Jiyu was nervous about her first piano recital. For months, {1|she} had practiced a difficult piece by Chopin, but a week before the recital, her hands began to shake whenever she sat at the piano. She wanted to cancel the performance.\n(B) On the day of the recital, Jiyu walked onto the stage. {2|She} took a deep breath and remembered her grandfather's story. She placed her hands on the keys. In the middle of the piece, she made a small mistake, but she kept going.\n(C) When the last note faded, the audience stood and applauded. {3|She} bowed and looked for her grandfather in the front row. He was wiping his eyes with a handkerchief and giving her a thumbs-up.\n(D) That evening, Jiyu's grandfather noticed her gloomy face. He sat beside her on the sofa. {4|He} told her that he had once forgotten his lines in front of a thousand people when he was a young actor. \"I was so ashamed,\" he laughed, \"but the audience clapped anyway.\" {5|She} listened with wide eyes and slowly began to smile.",
+    "options": [
+      "(B)-(D)-(C)",
+      "(C)-(B)-(D)",
+      "(C)-(D)-(B)",
+      "(D)-(B)-(C)",
+      "(D)-(C)-(B)"
+    ],
+    "answer": 3,
+    "translation": "(A) 지유는 첫 피아노 연주회가 긴장되었다. 몇 달 동안 그녀는 쇼팽의 어려운 곡을 연습해 왔지만 연주회 일주일 전부터 피아노 앞에 앉을 때마다 손이 떨리기 시작했다. 그녀는 연주를 취소하고 싶었다. (B) 연주회 날 지유는 무대에 올랐다. 그녀는 심호흡을 하고 할아버지의 이야기를 떠올렸다. 그녀는 건반 위에 손을 올렸다. 곡 중간에 그녀는 작은 실수를 했지만 계속했다. (C) 마지막 음이 사라지자 관객이 일어나 박수를 쳤다. 그녀는 인사하고 앞줄의 할아버지를 찾았다. 그는 손수건으로 눈을 닦으며 그녀에게 엄지를 치켜들고 있었다. (D) 그날 저녁 지유의 할아버지는 그녀의 어두운 얼굴을 알아챘다. 그는 소파에서 그녀 곁에 앉았다. 그는 젊은 배우였을 때 천 명 앞에서 대사를 잊은 적이 있다고 말했다. \"정말 창피했단다.\" 하고 그가 웃으며 말했다. \"그래도 관객들은 박수를 쳤지.\" 그녀는 눈을 크게 뜨고 들으며 서서히 미소 짓기 시작했다.",
+    "why": "(A) 연주회가 두려워 취소하고 싶어 함 → (D) 할아버지의 이야기를 듣고 웃음 → (B) 연주회 날 이야기를 떠올리며 연주함 → (C) 박수를 받음 순서입니다.",
+    "optionNotes": [
+      "(B)의 연주회가 (D)의 격려보다 먼저 올 수 없습니다.",
+      "(C)의 박수가 가장 먼저 올 수 없습니다.",
+      "(C)의 박수가 (B)의 연주보다 먼저 올 수 없습니다.",
+      "정답. 할아버지의 이야기 → 연주회 날 → 박수.",
+      "(C)의 박수가 (B)의 연주보다 먼저 올 수 없습니다."
+    ],
+    "trap": "(B)의 'her grandfather's story'는 (D)에서 들은 할아버지의 이야기를 가리킵니다.",
+    "tip": "That evening → On the day of the recital → When the last note faded의 시간 흐름을 따라가세요."
+  },
+  {
+    "id": "m3b-20-44",
+    "level": "m3",
+    "set": "mock-20",
+    "no": 44,
+    "type": "long",
+    "group": "m3b-20-g43",
+    "stem": "[43~45] 밑줄 친 ①~⑤ 중에서 가리키는 대상이 나머지 넷과 다른 것을 고르시오.",
+    "passage": "(A) Jiyu was nervous about her first piano recital. For months, {1|she} had practiced a difficult piece by Chopin, but a week before the recital, her hands began to shake whenever she sat at the piano. She wanted to cancel the performance.\n(B) On the day of the recital, Jiyu walked onto the stage. {2|She} took a deep breath and remembered her grandfather's story. She placed her hands on the keys. In the middle of the piece, she made a small mistake, but she kept going.\n(C) When the last note faded, the audience stood and applauded. {3|She} bowed and looked for her grandfather in the front row. He was wiping his eyes with a handkerchief and giving her a thumbs-up.\n(D) That evening, Jiyu's grandfather noticed her gloomy face. He sat beside her on the sofa. {4|He} told her that he had once forgotten his lines in front of a thousand people when he was a young actor. \"I was so ashamed,\" he laughed, \"but the audience clapped anyway.\" {5|She} listened with wide eyes and slowly began to smile.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "④의 He는 젊은 배우였을 때 대사를 잊은 적이 있다고 말한 할아버지이고, 나머지 ①②③⑤는 모두 지유를 가리킵니다.",
+    "optionNotes": [
+      "she는 곡을 연습한 지유입니다.",
+      "She는 심호흡을 한 지유입니다.",
+      "She는 인사한 지유입니다.",
+      "정답. He는 이야기를 들려준 할아버지입니다.",
+      "She는 눈을 크게 뜨고 들은 지유입니다."
+    ],
+    "trap": "(D)에서 지유와 할아버지가 함께 나오므로 성별(He/She)로 구분하세요.",
+    "tip": "대명사는 성별과 동작의 주체(누가 말했고 누가 들었는가)로 확인하세요."
+  },
+  {
+    "id": "m3b-20-45",
+    "level": "m3",
+    "set": "mock-20",
+    "no": 45,
+    "type": "long",
+    "group": "m3b-20-g43",
+    "stem": "[43~45] 윗글에 관한 내용으로 적절하지 않은 것을 고르시오.",
+    "passage": "(A) Jiyu was nervous about her first piano recital. For months, {1|she} had practiced a difficult piece by Chopin, but a week before the recital, her hands began to shake whenever she sat at the piano. She wanted to cancel the performance.\n(B) On the day of the recital, Jiyu walked onto the stage. {2|She} took a deep breath and remembered her grandfather's story. She placed her hands on the keys. In the middle of the piece, she made a small mistake, but she kept going.\n(C) When the last note faded, the audience stood and applauded. {3|She} bowed and looked for her grandfather in the front row. He was wiping his eyes with a handkerchief and giving her a thumbs-up.\n(D) That evening, Jiyu's grandfather noticed her gloomy face. He sat beside her on the sofa. {4|He} told her that he had once forgotten his lines in front of a thousand people when he was a young actor. \"I was so ashamed,\" he laughed, \"but the audience clapped anyway.\" {5|She} listened with wide eyes and slowly began to smile.",
+    "options": [
+      "지유는 쇼팽의 어려운 곡을 몇 달 동안 연습했다.",
+      "지유의 할아버지는 젊었을 때 대사를 잊은 적이 있다고 말했다.",
+      "지유는 연주회 날 할아버지의 이야기를 떠올렸다.",
+      "연주가 끝나자 관객들이 일어서서 박수를 쳤다.",
+      "지유는 연주 도중 작은 실수를 하자 연주를 멈추고 처음부터 다시 시작했다."
+    ],
+    "answer": 4,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "지유는 작은 실수를 했지만 계속 연주했으므로 멈추고 처음부터 다시 시작했다는 ⑤는 일치하지 않습니다.",
+    "optionNotes": [
+      "practiced a difficult piece by Chopin과 일치합니다.",
+      "forgotten his lines와 일치합니다.",
+      "remembered her grandfather's story와 일치합니다.",
+      "the audience stood and applauded와 일치합니다.",
+      "정답(불일치). 실수를 했지만 계속 연주했습니다."
+    ],
+    "trap": "'a small mistake'만 보고 연주를 중단했다고 오해하지 마세요.",
+    "tip": "불일치 문제는 but 뒤의 행동(kept going)을 보기와 대조하세요."
+  }
+]

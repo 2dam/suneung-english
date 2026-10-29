@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m3b-20-29",
+    "level": "m3",
+    "set": "mock-20",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Johannes Gutenberg, a German goldsmith, {1|invented} the printing press around 1440. Before then, each book had to be copied by hand, which took months and made books so expensive that only the rich could afford them. Gutenberg's machine used movable metal letters that {2|was} arranged into words, covered with ink, and pressed onto paper. This allowed workers to print hundreds of pages in a single day. Within fifty years, millions of books {3|had been} printed across Europe. As books became cheaper, more people learned to read, and new ideas spread quickly. Historians consider the printing press one of the most {4|important} inventions in history because it helped to change science, religion, and politics. Without it, the modern world {5|would look} very different.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "독일의 금세공인 요하네스 구텐베르크는 1440년경 인쇄기를 발명했다. 그 전에는 모든 책을 손으로 베껴야 했는데 몇 달이 걸렸고 책이 너무 비싸서 부자만 살 수 있었다. 구텐베르크의 기계는 낱말로 배열하고 잉크를 바르고 종이에 눌러 찍는 움직이는 금속 활자를 사용했다. 이로써 일꾼들은 하루에 수백 쪽을 인쇄할 수 있었다. 오십 년 안에 유럽 전역에서 수백만 권의 책이 인쇄되었다. 책이 싸지자 더 많은 사람이 읽는 법을 배웠고 새로운 생각이 빠르게 퍼졌다. 역사가들은 인쇄기가 과학, 종교, 정치를 바꾸는 데 도움이 되었기 때문에 역사상 가장 중요한 발명품 중 하나라고 본다. 그것이 없었다면 현대 세계는 매우 달라 보일 것이다.",
+    "why": "선행사 letters는 복수이므로 관계절의 동사는 was가 아니라 were여야 합니다.",
+    "optionNotes": [
+      "과거의 사실을 나타내는 invented입니다.",
+      "정답(틀린 것). 복수 선행사 letters에 맞춰 were arranged여야 합니다.",
+      "과거 이전의 시점을 나타내는 과거완료 수동태입니다.",
+      "최상급 구문 one of the most 뒤의 형용사 important입니다.",
+      "가정법 과거의 would look입니다."
+    ],
+    "trap": "관계절 직전의 명사 'metal letters'가 복수임을 놓치기 쉽습니다.",
+    "tip": "관계대명사 that의 동사는 선행사의 수에 일치시키세요."
+  },
+  {
+    "id": "m3b-20-30",
+    "level": "m3",
+    "set": "mock-20",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Ocean currents are like rivers inside the sea. They move huge amounts of water around the globe and {1|affect} the climate of nearby land. For example, the Gulf Stream carries warm water from the tropics to the North Atlantic, which keeps the winters in western Europe much {2|milder} than in other places at the same latitude. Currents also {3|carry} nutrients that feed fish and other sea life, which is why fishing is often good where two currents meet. Sailors have used currents for thousands of years to {4|shorten} their journeys. Today, scientists use satellites and floating sensors to measure them. If the Gulf Stream slowed down, Europe's winters could become much {5|warmer}, and this would have serious effects on farming and cities.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "해류는 바다 속의 강과 같다. 그것은 엄청난 양의 물을 지구 곳곳으로 옮기고 인근 육지의 기후에 영향을 준다. 예를 들어 멕시코 만류는 열대의 따뜻한 물을 북대서양으로 나르는데 이는 서유럽의 겨울을 같은 위도의 다른 곳보다 훨씬 온화하게 유지한다. 해류는 또 물고기와 다른 바다 생물을 먹이는 영양분을 나르며 그래서 두 해류가 만나는 곳에서 어업이 잘되는 경우가 많다. 선원들은 수천 년 동안 항해를 단축하려고 해류를 이용했다. 오늘날 과학자들은 위성과 떠다니는 센서로 그것을 측정한다. 멕시코 만류가 느려지면 유럽의 겨울은 훨씬 더 따뜻해질 수 있고 이는 농업과 도시에 심각한 영향을 줄 것이다.",
+    "why": "멕시코 만류가 따뜻한 물을 날라 겨울이 온화하므로 만류가 느려지면 겨울은 더 '따뜻해지는(warmer)' 것이 아니라 더 '추워질(colder)' 것입니다.",
+    "optionNotes": [
+      "기후에 영향을 준다는 의미로 affect가 알맞습니다.",
+      "겨울이 온화하다는 의미로 milder가 알맞습니다.",
+      "영양분을 나른다는 의미로 carry가 알맞습니다.",
+      "항해를 단축한다는 의미로 shorten이 알맞습니다.",
+      "정답(부적절). 따뜻한 물이 줄면 더 추워지므로 colder여야 합니다."
+    ],
+    "trap": "만류가 따뜻한 물을 나른다는 앞의 설명과 '느려지면'의 결과 방향을 놓치기 쉽습니다.",
+    "tip": "원인(따뜻한 물 공급)이 줄면 결과(온화함)도 줄어드는 방향이어야 합니다."
+  },
+  {
+    "id": "m3b-20-31",
+    "level": "m3",
+    "set": "mock-20",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Have you ever been sure that you could finish your homework in an hour, only to find that it took three? Many students experience this before exams. Psychologists call this the planning fallacy. In one study, students were asked to predict when they would finish their senior thesis. On average, they estimated thirty-four days, but the actual average was fifty-six days. Even when they were reminded of past projects that took longer than expected, they believed that this time would be different. We tend to imagine the best-case scenario and ignore the problems that might appear. A helpful tip is to look at how long similar tasks took in the past and to add extra time. In short, we usually __________.",
+    "options": [
+      "plan more carefully when we work in groups",
+      "finish most of our tasks much faster than experts predict",
+      "underestimate the time that a task will actually take",
+      "forget what we have promised to other people",
+      "prefer difficult tasks to easy ones"
+    ],
+    "answer": 2,
+    "translation": "한 시간이면 숙제를 끝낼 수 있다고 확신했는데 실제로는 세 시간이 걸린 적이 있는가? 많은 학생이 시험 전에 이를 겪는다. 심리학자들은 이를 계획 오류라고 부른다. 한 연구에서 학생들에게 졸업 논문을 언제 끝낼지 예측하게 했다. 평균적으로 그들은 34일을 예상했지만 실제 평균은 56일이었다. 예상보다 오래 걸렸던 과거 프로젝트를 상기시켜 주어도 그들은 이번에는 다를 것이라고 믿었다. 우리는 가장 좋은 경우를 상상하고 생길 수 있는 문제를 무시하는 경향이 있다. 도움이 되는 요령은 비슷한 일이 과거에 얼마나 걸렸는지 보고 여유 시간을 더하는 것이다. 요컨대 우리는 보통 일이 실제로 걸릴 시간을 과소평가한다.",
+    "why": "학생들이 예상(34일)보다 실제(56일)가 훨씬 오래 걸렸으므로 우리는 보통 일이 실제로 걸릴 시간을 과소평가합니다.",
+    "optionNotes": [
+      "집단에서 더 신중하다는 내용은 나오지 않습니다.",
+      "전문가보다 빨리 끝낸다는 내용은 글과 반대입니다.",
+      "정답. 걸릴 시간을 과소평가합니다.",
+      "약속을 잊는다는 내용은 나오지 않습니다.",
+      "어려운 일을 선호한다는 내용은 나오지 않습니다."
+    ],
+    "trap": "예상 일수(34일)와 실제 일수(56일)의 대소를 반대로 읽지 마세요.",
+    "tip": "실험 결과(예상보다 오래 걸림)를 일반화하면 빈칸이 나옵니다."
+  },
+  {
+    "id": "m3b-20-32",
+    "level": "m3",
+    "set": "mock-20",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "There are about seven thousand languages in the world, but nearly half of them are in danger of disappearing. Some languages are spoken by fewer than ten people today. Experts say that, on average, one language dies every two weeks, usually when its last elderly speakers pass away and the children learn a more widely used language instead. Many of the endangered languages belong to small indigenous communities. These languages contain words for local plants, animals, and weather patterns that no other language has, and they carry songs, stories, and traditional medicine that were never written down. This loss is happening faster than at any time in history. Linguists are recording the speakers and teaching the languages to children, but time is short. Therefore, when a language disappears, __________.",
+    "options": [
+      "a country can save money on education and public services",
+      "a unique way of understanding the world, along with a community's knowledge, is lost",
+      "people can communicate more easily in one common language",
+      "other languages become harder to learn for beginners",
+      "new words are created more quickly in nearby communities"
+    ],
+    "answer": 1,
+    "translation": "세계에는 약 칠천 개의 언어가 있지만 그중 거의 절반이 사라질 위험에 처해 있다. 일부 언어는 오늘날 열 명도 안 되는 사람이 쓴다. 전문가들은 평균적으로 이 주마다 언어 하나가 사라진다고 말하는데 보통 마지막 고령 화자가 세상을 떠나고 아이들이 대신 더 널리 쓰이는 언어를 배울 때 그렇다. 위기에 처한 언어의 상당수는 소규모 토착 공동체의 것이다. 이 언어에는 다른 언어에 없는 지역 식물, 동물, 날씨 양상을 가리키는 낱말이 있고 한 번도 기록된 적 없는 노래, 이야기, 전통 의학이 담겨 있다. 이런 손실은 역사상 어느 때보다 빠르게 일어나고 있다. 언어학자들은 화자를 녹음하고 아이들에게 그 언어를 가르치지만 시간이 부족하다. 그러므로 언어가 사라질 때 세상을 이해하는 고유한 방식이 공동체의 지식과 함께 사라진다.",
+    "why": "언어에는 고유한 낱말과 이야기, 전통 지식이 담겨 있으므로 언어가 사라지면 세상을 이해하는 고유한 방식과 공동체의 지식이 함께 사라집니다.",
+    "optionNotes": [
+      "교육 예산 절약은 나오지 않습니다.",
+      "정답. 고유한 이해 방식과 공동체의 지식이 사라집니다.",
+      "공통어 소통 용이성은 나오지 않습니다.",
+      "다른 언어 학습 난이도는 나오지 않습니다.",
+      "새 낱말 창조는 나오지 않습니다."
+    ],
+    "trap": "'widely used language'를 배우는 것이 이득이라는 주장으로 오해하지 마세요.",
+    "tip": "앞의 설명(고유한 낱말, 노래, 전통 의학)을 한 문장으로 요약하면 빈칸이 나옵니다."
+  },
+  {
+    "id": "m3b-20-33",
+    "level": "m3",
+    "set": "mock-20",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Do you want people to like you more? Try asking them questions. Researchers analyzed conversations between strangers who met for the first time, for example in speed dating and online chats. They found that people who asked more follow-up questions, such as \"What happened next?\" or \"How did you feel?\", were liked more by their partners. The reason is that follow-up questions show that we are really listening, and they make the other person feel understood. Most people, however, do not ask enough questions, because they worry about seeming nosy or want to talk about themselves. Asking a simple question about what someone just said costs nothing, and it makes a conversation warmer and more interesting. In short, in a conversation, asking questions can __________.",
+    "options": [
+      "make us appear less intelligent",
+      "bring the conversation to a quick end",
+      "prevent other people from sharing their own ideas with us",
+      "make the other person like us more",
+      "show that we know all the answers"
+    ],
+    "answer": 3,
+    "translation": "사람들이 당신을 더 좋아하기를 바라는가? 그들에게 질문해 보라. 연구자들은 처음 만난 낯선 사람들의 대화를, 예를 들어 소개팅과 온라인 채팅에서 분석했다. 그들은 \"그다음에 어떻게 됐어요?\"나 \"기분이 어땠어요?\" 같은 후속 질문을 더 많이 한 사람들이 상대에게 더 호감을 얻는다는 것을 발견했다. 이유는 후속 질문이 우리가 정말 듣고 있음을 보여 주고 상대가 이해받는다고 느끼게 하기 때문이다. 그러나 대부분의 사람은 참견하는 것처럼 보일까 걱정하거나 자기 이야기를 하고 싶어서 충분히 질문하지 않는다. 누군가 방금 한 말에 대한 간단한 질문은 비용이 들지 않으며 대화를 더 따뜻하고 흥미롭게 한다. 요컨대 대화에서 질문하는 것은 상대가 우리를 더 좋아하게 만들 수 있다.",
+    "why": "후속 질문을 더 많이 한 사람이 상대에게 더 호감을 얻었으므로 질문은 상대가 우리를 더 좋아하게 만들 수 있습니다.",
+    "optionNotes": [
+      "덜 똑똑해 보인다는 내용은 나오지 않습니다.",
+      "대화를 끝낸다는 내용은 글과 반대입니다.",
+      "상대의 이야기를 막는다는 내용은 글과 반대입니다.",
+      "정답. 상대가 우리를 더 좋아하게 만들 수 있습니다.",
+      "모든 답을 안다는 것은 나오지 않습니다."
+    ],
+    "trap": "'nosy'에 대한 걱정을 질문의 부정적 결과로 오해하지 마세요.",
+    "tip": "연구 결과(후속 질문 → 호감)를 일반화하면 빈칸이 나옵니다."
+  },
+  {
+    "id": "m3b-20-34",
+    "level": "m3",
+    "set": "mock-20",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "When we have too little of something, such as time or money, our mind starts to focus on that shortage. Imagine that you have an important deadline tomorrow and only three hours left. You will probably think about the deadline all the time, even when you are doing something else. Researchers call this a scarcity effect. In one experiment, people who were worried about paying their bills did worse on thinking tests than people who were not. This was not because they were less intelligent but because part of their mind was busy with money problems. The effect appeared in many countries. The more mental space the shortage takes up, the less is left for other matters, including planning for the future. Thus, scarcity can __________.",
+    "options": [
+      "make us relax and forget our problems",
+      "improve our ability to plan for the future",
+      "capture our attention so strongly that we neglect other concerns",
+      "help us notice new opportunities around us",
+      "make our decisions faster and always better than before in every case"
+    ],
+    "answer": 2,
+    "translation": "시간이나 돈 같은 무언가가 너무 부족하면 마음은 그 부족에 집중하기 시작한다. 내일 중요한 마감이 있는데 세 시간밖에 남지 않았다고 상상해 보자. 아마 다른 일을 할 때도 내내 마감을 생각할 것이다. 연구자들은 이를 결핍 효과라고 부른다. 한 실험에서 공과금을 낼 걱정이 있는 사람들은 그렇지 않은 사람들보다 사고력 시험에서 더 못했다. 이는 지능이 낮아서가 아니라 마음의 일부가 돈 문제로 바빴기 때문이다. 이 효과는 여러 나라에서 나타났다. 부족이 차지하는 정신적 공간이 클수록 미래 계획을 포함한 다른 문제에 쓸 공간이 줄어든다. 따라서 결핍은 우리의 주의를 너무 강하게 사로잡아 다른 걱정거리를 소홀히 하게 할 수 있다.",
+    "why": "부족이 정신적 공간을 차지해 다른 문제에 쓸 공간이 줄어들므로 결핍은 주의를 사로잡아 다른 걱정거리를 소홀히 하게 합니다.",
+    "optionNotes": [
+      "문제를 잊게 한다는 내용은 글과 반대입니다.",
+      "미래 계획 능력이 향상된다는 내용은 글과 반대입니다.",
+      "정답. 주의를 사로잡아 다른 걱정거리를 소홀히 하게 합니다.",
+      "새 기회를 알아챈다는 내용은 나오지 않습니다.",
+      "결정이 더 빠르고 좋아진다는 내용은 나오지 않습니다."
+    ],
+    "trap": "'not because they were less intelligent'를 능력 저하가 없다는 뜻으로 오해하지 마세요.",
+    "tip": "실험 결과(걱정이 있는 사람의 낮은 성적)와 설명에서 결론을 추론하세요."
+  },
+  {
+    "id": "m3b-20-35",
+    "level": "m3",
+    "set": "mock-20",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Keeping a diary may seem old-fashioned, but it offers surprising benefits. Even five minutes of writing before bed can make a difference. ① Putting your feelings into words helps you understand your emotions and reduces stress, especially after a difficult day. ② Writing about daily events also trains your memory, and years later, a diary lets you relive moments that you would have forgotten. ③ In addition, writing regularly improves your vocabulary and helps you organize your thoughts clearly. ④ Honeybees communicate the location of flowers to each other through a special dance. ⑤ Finally, by reading old entries, you can see how you have grown and what really matters to you.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "일기를 쓰는 것은 구식처럼 보일 수 있지만 놀라운 이점이 있다. 자기 전 단 오 분의 글쓰기도 차이를 만들 수 있다. ① 감정을 말로 옮기면 자신의 감정을 이해하고 특히 힘든 하루 뒤 스트레스가 줄어든다. ② 일상의 일을 쓰는 것은 기억력도 훈련하고 몇 년 뒤 일기는 잊었을 순간을 다시 겪게 해 준다. ③ 게다가 규칙적으로 쓰면 어휘가 늘고 생각을 분명히 정리하게 된다. ④ 꿀벌은 특별한 춤으로 꽃의 위치를 서로에게 알린다. ⑤ 마지막으로 지난 기록을 읽으면 자신이 얼마나 성장했고 무엇이 정말 중요한지 알 수 있다.",
+    "why": "글은 일기를 쓰는 이점을 이야기하는데 ④는 꿀벌의 춤에 관한 별개의 이야기입니다.",
+    "optionNotes": [
+      "감정 이해와 스트레스 감소라는 이점입니다.",
+      "기억력 훈련이라는 이점입니다.",
+      "어휘와 생각 정리라는 이점입니다.",
+      "정답(무관). 꿀벌의 춤은 일기의 이점과 관계가 없습니다.",
+      "성장 확인이라는 이점입니다."
+    ],
+    "trap": "'communicate'라는 말이 글쓰기와 관련 있어 보여 흐름에 맞는다고 착각하기 쉽습니다.",
+    "tip": "각 문장이 '일기를 쓰는 이점'을 뒷받침하는지 확인하세요."
+  },
+  {
+    "id": "m3b-20-36",
+    "level": "m3",
+    "set": "mock-20",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "In 1886, a pharmacist named John Pemberton in Atlanta tried to create a new medicine for headaches. He mixed a sweet syrup from several plants. He hoped that it would also help people to feel less tired. At that time, pharmacies often made and sold cold drinks to attract customers.\n(A) Customers loved the taste, and soon the drink became more popular than the medicine itself, especially in summer.\n(B) He sold the syrup at a local pharmacy, where it was mixed with soda water to make a refreshing drink for hot afternoons.\n(C) Today, the drink is sold in more than two hundred countries, and its name is known all over the world, although the original recipe is still kept as a secret.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 1,
+    "translation": "1886년 애틀랜타의 약사 존 펨버턴은 두통을 위한 새 약을 만들려 했다. 그는 여러 식물로 달콤한 시럽을 섞었다. 그는 그것이 사람들이 덜 피곤하게 느끼도록도 돕기를 바랐다. 당시 약국은 손님을 끌려고 차가운 음료를 만들어 파는 경우가 많았다. (B) 그는 그 시럽을 지역 약국에서 팔았는데 거기서 시럽을 탄산수와 섞어 더운 오후를 위한 상쾌한 음료를 만들었다. (A) 손님들은 그 맛을 매우 좋아했고 곧 그 음료는 약 자체보다 특히 여름에 더 인기를 얻었다. (C) 오늘날 그 음료는 이백 개가 넘는 나라에서 팔리며 원래의 제조법은 여전히 비밀로 지켜지지만 그 이름은 전 세계에 알려져 있다.",
+    "why": "(B) 시럽을 음료로 팖 → (A) 'Customers'로 인기를 얻음 → (C) 'Today'로 오늘날 순서입니다.",
+    "optionNotes": [
+      "(A)의 'the drink'가 가리킬 음료가 앞에 없습니다.",
+      "정답. 음료로 팖 → 인기 → 오늘날.",
+      "(C)의 'Today'가 중간 과정보다 먼저 나올 수 없습니다.",
+      "(C)가 먼저 오면 'the drink'가 불분명합니다.",
+      "(C)가 먼저 오면 'Today'의 기준 과거가 없습니다."
+    ],
+    "trap": "(A)의 'the drink'는 (B)에서 만든 음료를 가리킵니다.",
+    "tip": "the syrup → the drink → Today의 지시어와 시간 표현을 따라가세요."
+  },
+  {
+    "id": "m3b-20-37",
+    "level": "m3",
+    "set": "mock-20",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Twice a day, the sea rises and falls along most coasts. These movements, called tides, are caused mainly by the moon. Few people notice it, but the pull is strong enough to move the oceans. Fishermen and sailors have used tide tables for centuries to plan their work.\n(A) The moon's gravity pulls the water on the side of the Earth closest to it, creating a bulge of water. On the opposite side, another bulge forms.\n(B) When the coastline moves out of the bulge, the water level falls, and low tide occurs about six hours later, as the Earth continues to turn.\n(C) As the Earth rotates, a given coastline passes through this bulge, and the sea level there rises, which we call high tide.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "하루에 두 번 대부분의 해안에서 바다가 높아졌다 낮아진다. 조석이라고 불리는 이 움직임은 주로 달 때문에 생긴다. 알아채는 사람은 드물지만 그 끌어당김은 바다를 움직일 만큼 강하다. 어부와 선원은 수 세기 동안 일을 계획하려고 조석표를 써 왔다. (A) 달의 중력은 지구에서 달에 가장 가까운 쪽의 물을 끌어당겨 물이 불룩한 부분을 만든다. 반대쪽에도 또 다른 불룩한 부분이 생긴다. (C) 지구가 자전하면서 어떤 해안이 이 불룩한 부분을 지나고 그곳의 해수면이 올라가는데 이를 밀물이라 한다. (B) 해안이 불룩한 부분에서 벗어나면 수위가 내려가고 지구가 계속 자전하면서 약 여섯 시간 뒤 썰물이 일어난다.",
+    "why": "(A) 달의 중력이 물을 끌어당김 → (C) 'this bulge'로 밀물 → (B) 'When the coastline moves out'으로 썰물 순서입니다.",
+    "optionNotes": [
+      "정답. 중력 → 밀물 → 썰물.",
+      "(B)가 먼저 오면 'the bulge'가 소개되지 않았습니다.",
+      "(B)가 먼저 오면 원인 설명이 뒤로 밀립니다.",
+      "(C)의 'this bulge'가 가리킬 대상이 앞에 없습니다.",
+      "(C)가 먼저 오면 'this bulge'가 불분명합니다."
+    ],
+    "trap": "(C)의 'this bulge'는 (A)에서 만들어진 불룩한 물을 가리킵니다.",
+    "tip": "a bulge → this bulge → out of the bulge의 지시어를 따라가세요."
+  },
+  {
+    "id": "m3b-20-38",
+    "level": "m3",
+    "set": "mock-20",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nSurprisingly, most customers praised the change and began to bring their own bags.\n\n[글]\n( ① ) A supermarket in Sweden removed all plastic bags from its checkout counters. ( ② ) The managers feared that customers would be upset and shop elsewhere. ( ③ ) Within a year, the store had saved more than two million bags. ( ④ ) Other stores in the city began to follow this example. ( ⑤ ) Now many shops in the country charge a small fee for bags.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 놀랍게도 대부분의 손님이 그 변화를 칭찬하며 자기 가방을 가져오기 시작했다. [글] 스웨덴의 한 슈퍼마켓이 계산대에서 모든 비닐봉지를 없앴다. 관리자들은 손님들이 화가 나서 다른 곳에서 쇼핑할까 봐 걱정했다. 일 년 안에 그 가게는 이백만 개가 넘는 봉지를 아꼈다. 도시의 다른 가게들이 이 사례를 따르기 시작했다. 이제 그 나라의 많은 가게가 봉지에 작은 요금을 받는다.",
+    "why": "관리자들의 걱정 뒤에 'Surprisingly'로 반대의 결과가 나오고, 이어서 일 년 동안 아낀 봉지 수가 나오므로 ③에 들어갑니다.",
+    "optionNotes": [
+      "걱정을 말하기 전이라 'Surprisingly'가 어색합니다.",
+      "걱정을 설명하는 문장 앞이라 반전이 이릅니다.",
+      "정답. 걱정 뒤에 뜻밖의 반응이 이어집니다.",
+      "봉지를 아낀 결과 뒤라 반전이 어색합니다.",
+      "마지막에 오면 흐름이 끊깁니다."
+    ],
+    "trap": "'Surprisingly'는 앞의 걱정과 반대되는 결과를 이끕니다.",
+    "tip": "Surprisingly는 예상과 반대되는 내용 앞에 놓이므로 먼저 예상(걱정)이 제시되어야 합니다."
+  },
+  {
+    "id": "m3b-20-39",
+    "level": "m3",
+    "set": "mock-20",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nHowever, the experiment had one important limitation.\n\n[글]\n( ① ) Researchers tested whether a new teaching method could improve students' math scores. ( ② ) They taught half of a class with the new method and the other half in the traditional way. ( ③ ) After one semester, the students taught with the new method scored ten percent higher. ( ④ ) Only forty students took part, so the result may not apply to all schools. ( ⑤ ) More research with larger groups is needed to confirm the finding.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "[주어진 문장] 그러나 그 실험에는 한 가지 중요한 한계가 있었다. [글] 연구자들은 새로운 교수법이 학생들의 수학 점수를 높일 수 있는지 시험했다. 그들은 학급의 절반은 새 방법으로, 나머지 절반은 전통적인 방식으로 가르쳤다. 한 학기 뒤 새 방법으로 배운 학생들은 점수가 10퍼센트 더 높았다. 참가한 학생은 마흔 명뿐이어서 그 결과가 모든 학교에 적용되지 않을 수 있다. 결과를 확인하려면 더 큰 집단으로 더 많은 연구가 필요하다.",
+    "why": "실험 결과(점수 향상)를 말한 뒤 'However'로 한계를 소개하고 이어서 그 한계를 설명하므로 ④에 들어갑니다.",
+    "optionNotes": [
+      "'the experiment'가 소개되기 전이라 어색합니다.",
+      "실험 방법을 설명하는 중간이라 흐름이 끊깁니다.",
+      "결과를 말하기 전이라 'However'가 어색합니다.",
+      "정답. 결과 뒤 'However'로 한계를 소개하고 이어서 설명합니다.",
+      "한계를 설명한 뒤 한계를 소개하면 중복됩니다."
+    ],
+    "trap": "'However'는 앞의 긍정적 결과에 대한 반전이므로 결과가 먼저 나와야 합니다.",
+    "tip": "However는 앞의 긍정적 내용에 대한 반대이므로 결과를 말한 뒤에 놓입니다."
+  },
+  {
+    "id": "m3b-20-40",
+    "level": "m3",
+    "set": "mock-20",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Plants cannot run away from their enemies, but they have clever ways to defend themselves. When a caterpillar begins to chew on a leaf, the plant releases chemical compounds into the air. Neighboring plants detect these chemicals and begin to produce substances that taste bad to insects before they are attacked. Some plants also release chemicals that attract wasps, which lay their eggs inside the caterpillars and kill them. Scientists have recorded this kind of chemical communication in tomatoes, corn, and wild sagebrush. Although plants have no ears or voices, they seem to \"talk\" to each other through the air, sending messages that help their neighbors to survive. Farmers have begun to use this knowledge.\n\n▶ When attacked by insects, plants (A) chemicals that (B) neighboring plants.",
+    "options": [
+      "(A) absorb — (B) harm",
+      "(A) hide — (B) ignore",
+      "(A) store — (B) confuse",
+      "(A) drink — (B) attract",
+      "(A) release — (B) warn"
+    ],
+    "answer": 4,
+    "translation": "식물은 적에게서 도망칠 수 없지만 스스로를 방어하는 영리한 방법이 있다. 애벌레가 잎을 씹기 시작하면 식물은 화학 화합물을 공기 중으로 내보낸다. 이웃 식물은 이 화학 물질을 감지하고 공격받기도 전에 곤충에게 맛이 없는 물질을 만들기 시작한다. 일부 식물은 애벌레 안에 알을 낳아 죽이는 말벌을 끌어들이는 화학 물질도 내보낸다. 과학자들은 토마토, 옥수수, 야생 쑥에서 이런 종류의 화학적 의사소통을 기록했다. 식물은 귀도 목소리도 없지만 공기를 통해 서로에게 \"말하는\" 것 같으며 이웃이 살아남도록 돕는 메시지를 보낸다. 농부들은 이 지식을 활용하기 시작했다. ▶ 곤충에게 공격받으면 식물은 이웃 식물에게 (B)하는 화학 물질을 (A)한다.",
+    "why": "공격받은 식물이 화학 물질을 내보내 이웃 식물에게 위험을 알리므로 (A)는 release, (B)는 warn입니다.",
+    "optionNotes": [
+      "absorb와 harm은 글과 맞지 않습니다.",
+      "hide와 ignore는 글과 맞지 않습니다.",
+      "store와 confuse는 글에 나오지 않습니다.",
+      "drink와 attract는 글과 맞지 않습니다.",
+      "정답. 화학 물질을 내보내 이웃에게 경고합니다."
+    ],
+    "trap": "말벌을 끌어들이는 부분(attract)을 이웃 식물에 대한 행동으로 혼동하지 마세요.",
+    "tip": "요약문은 행동(화학 물질 방출)과 목적(이웃에게 경고)을 짝지으세요."
+  }
+]
