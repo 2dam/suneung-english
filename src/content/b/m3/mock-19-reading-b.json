@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m3b-19-29",
+    "level": "m3",
+    "set": "mock-19",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Tea is the second most consumed drink in the world after water. According to a Chinese legend, it was discovered around 2700 BC when leaves from a wild tree {1|fell} into the boiling water of Emperor Shennong. The emperor tasted the drink and found it {2|refreshing}. For centuries, tea was used as medicine in China, and later it spread to Japan and Korea along with Buddhism. Europeans did not know about tea until the sixteenth century, when traders {3|began} bringing it from Asia. Soon, it became so popular in Britain that people started to drink it with milk and sugar, and afternoon tea became a daily tradition. Today, different cultures have developed their own ways of enjoying tea, and each style {4|are} connected to local customs and tastes. Whether hot or cold, tea continues to bring people {5|together}.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "차는 물 다음으로 세계에서 가장 많이 소비되는 음료이다. 중국의 전설에 따르면 그것은 기원전 약 2700년에 야생 나무의 잎이 신농 황제의 끓는 물에 떨어졌을 때 발견되었다. 황제는 그 음료를 맛보고 상쾌하다고 느꼈다. 수 세기 동안 차는 중국에서 약으로 쓰였고 나중에 불교와 함께 일본과 한국으로 퍼졌다. 유럽인들은 16세기 상인들이 아시아에서 차를 들여오기 시작할 때까지 차에 대해 알지 못했다. 곧 차는 영국에서 너무 인기를 얻어 사람들이 우유와 설탕을 넣어 마시기 시작했고 오후의 차는 매일의 전통이 되었다. 오늘날 서로 다른 문화는 차를 즐기는 저마다의 방식을 발전시켰고 각 방식은 지역의 관습과 취향에 연결되어 있다. 뜨겁든 차갑든 차는 계속 사람들을 하나로 모은다.",
+    "why": "주어 each style은 단수이므로 are가 아니라 is여야 합니다.",
+    "optionNotes": [
+      "과거 시제의 동사 fell입니다.",
+      "find의 목적격 보어 형용사 refreshing입니다.",
+      "과거의 시점을 나타내는 began입니다.",
+      "정답(틀린 것). 단수 주어 each style에 맞춰 is여야 합니다.",
+      "bring의 목적어를 보충하는 부사 together입니다."
+    ],
+    "trap": "앞에 복수 명사 cultures가 있어 each style까지 복수로 착각하기 쉽습니다.",
+    "tip": "each + 단수 명사는 단수 동사를 씁니다."
+  },
+  {
+    "id": "m3b-19-30",
+    "level": "m3",
+    "set": "mock-19",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Bamboo is the fastest-growing plant on Earth; some species can grow almost a meter in a single day. Unlike trees, bamboo does not need to be replanted after it is cut, because it keeps {1|growing} from its roots. It is also {2|strong}: some kinds are stronger than steel in terms of the weight they can carry. For these reasons, people have used bamboo to build houses, bridges, and furniture for thousands of years. Bamboo forests also absorb large amounts of carbon dioxide and release more oxygen than many trees of the same size. Because of these environmental {3|benefits}, bamboo is now used for products such as straws, toothbrushes, and clothes. However, we should be careful, since clearing natural forests to plant bamboo can {4|harm} wildlife. To get the full benefit, bamboo should be harvested in a way that is {5|harmful} to the environment.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "대나무는 지구상에서 가장 빨리 자라는 식물로 어떤 종은 하루에 거의 1미터까지 자랄 수 있다. 나무와 달리 대나무는 뿌리에서 계속 자라기 때문에 베어 낸 뒤 다시 심을 필요가 없다. 또 튼튼해서 어떤 종류는 견딜 수 있는 무게로 따지면 강철보다 강하다. 이런 이유로 사람들은 수천 년 동안 대나무로 집, 다리, 가구를 지어 왔다. 대나무 숲은 또 많은 양의 이산화탄소를 흡수하고 같은 크기의 많은 나무보다 더 많은 산소를 내놓는다. 이런 환경적 이점 때문에 대나무는 이제 빨대, 칫솔, 옷 같은 제품에 쓰인다. 그러나 대나무를 심으려고 자연림을 없애면 야생 동물에게 해를 끼칠 수 있으므로 조심해야 한다. 이점을 충분히 얻으려면 대나무는 환경에 해로운 방식으로 수확해야 한다.",
+    "why": "이점을 충분히 얻으려면 환경에 '해로운(harmful)' 방식이 아니라 '해롭지 않은(friendly)' 방식으로 수확해야 합니다.",
+    "optionNotes": [
+      "뿌리에서 계속 자란다는 의미로 growing이 알맞습니다.",
+      "강철보다 강하다는 의미로 strong이 알맞습니다.",
+      "환경적 이점이라는 의미로 benefits가 알맞습니다.",
+      "야생 동물에게 해를 끼친다는 의미로 harm이 알맞습니다.",
+      "정답(부적절). 환경에 해롭지 않은 방식이어야 하므로 friendly여야 합니다."
+    ],
+    "trap": "앞에서 조심하라고 한 흐름(자연림 파괴의 위험)과 결론의 방향을 놓치기 쉽습니다.",
+    "tip": "To get the full benefit 뒤에는 이점을 지키는 방향의 표현이 와야 합니다."
+  },
+  {
+    "id": "m3b-19-31",
+    "level": "m3",
+    "set": "mock-19",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In the early twentieth century, a French engineer asked people to pull a rope as hard as they could, first alone and then in groups. He expected that the total force would increase with the number of people. However, the results were surprising. A group of eight people pulled with only about half of the combined strength that the eight members would have shown individually. Later experiments with shouting, clapping, and even brainstorming produced similar results. Psychologists call this tendency social loafing. In a group, each person's contribution is less visible, and people may assume that others will do the work. In a team of eight, this loss can be large. Teachers and managers try to reduce it by giving each member a clear role. In short, people often __________.",
+    "options": [
+      "put in less effort when they are part of a group",
+      "work much harder because they feel that they are watched by others",
+      "enjoy tasks more when they do them alone",
+      "refuse to cooperate with strangers in all cases",
+      "lose the ability to recognize their own mistakes"
+    ],
+    "answer": 0,
+    "translation": "20세기 초 한 프랑스 기술자는 사람들에게 처음에는 혼자서, 그다음에는 집단으로 밧줄을 최대한 세게 당기게 했다. 그는 총 힘이 사람 수에 따라 늘 것이라고 예상했다. 그러나 결과는 놀라웠다. 여덟 명의 집단은 여덟 명이 각자 보였을 힘을 합친 것의 절반 정도로만 당겼다. 소리 지르기, 박수 치기, 심지어 아이디어 모으기를 한 이후의 실험도 비슷한 결과를 냈다. 심리학자들은 이 경향을 사회적 태만이라고 부른다. 집단에서는 각자의 기여가 덜 드러나고 사람들은 다른 사람이 일할 것이라고 여길 수 있다. 여덟 명의 팀에서는 이런 손실이 클 수 있다. 교사와 관리자는 각 구성원에게 분명한 역할을 주어 이를 줄이려 한다. 요컨대 사람들은 집단의 일원일 때 흔히 노력을 덜 한다.",
+    "why": "집단이 개인의 힘을 합친 것보다 약하게 당겼으므로 사람들은 집단의 일원일 때 노력을 덜 하는 경향이 있습니다.",
+    "optionNotes": [
+      "정답. 집단에서는 노력을 덜 합니다.",
+      "더 열심히 한다는 내용은 글과 반대입니다.",
+      "혼자 하는 것을 더 즐긴다는 내용은 나오지 않습니다.",
+      "모든 경우 협력을 거부한다는 내용은 나오지 않습니다.",
+      "실수를 알아보지 못한다는 내용은 나오지 않습니다."
+    ],
+    "trap": "'expected that the total force would increase'는 실험 전 기대임을 놓치지 마세요.",
+    "tip": "'However' 이후의 실험 결과와 명칭(social loafing)이 정답의 근거입니다."
+  },
+  {
+    "id": "m3b-19-32",
+    "level": "m3",
+    "set": "mock-19",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In 1906, the scientist Francis Galton visited a country fair where visitors could guess the weight of an ox. About eight hundred people took part, and most were ordinary farmers and townspeople, not experts. Galton collected the guesses and calculated their average. To his surprise, the average was 1,197 pounds, while the true weight was 1,198 pounds, which was closer than the guess of any single expert. He found the result so interesting that he published it in a famous scientific journal. Why does this happen? Each person's guess contains errors, as expected, but the errors go in different directions, so they cancel each other out when averaged. This works only when people make their guesses independently, without being influenced by one another. Thus, __________.",
+    "options": [
+      "experts are always less accurate than ordinary people",
+      "a large crowd gives better answers only when its members first talk with each other for a long time",
+      "the average of many independent guesses can be more accurate than a single expert's guess",
+      "farmers are better at judging weight than scientists",
+      "guessing is a poor way to measure anything"
+    ],
+    "answer": 2,
+    "translation": "1906년 과학자 프랜시스 골턴은 방문객이 소의 무게를 맞히는 시골 장터를 찾았다. 약 팔백 명이 참가했고 대부분은 전문가가 아니라 평범한 농부와 마을 사람이었다. 골턴은 추측을 모아 평균을 계산했다. 놀랍게도 평균은 1,197파운드였고 실제 무게는 1,198파운드로 어느 한 전문가의 추측보다 가까웠다. 그는 이 결과가 너무 흥미로워서 유명한 과학 학술지에 발표했다. 왜 이런 일이 생길까? 각 사람의 추측에는 예상대로 오차가 있지만 오차는 서로 다른 방향으로 가서 평균을 내면 서로 상쇄된다. 이는 사람들이 서로의 영향을 받지 않고 독립적으로 추측할 때만 통한다. 따라서 독립적인 많은 추측의 평균은 한 전문가의 추측보다 더 정확할 수 있다.",
+    "why": "독립적인 많은 추측의 오차가 상쇄되어 평균이 전문가의 추측보다 정확했으므로 독립적인 많은 추측의 평균은 한 전문가의 추측보다 더 정확할 수 있습니다.",
+    "optionNotes": [
+      "전문가가 항상 덜 정확하다는 일반화는 글에 없습니다.",
+      "서로 오래 이야기해야 한다는 내용은 글과 반대입니다.",
+      "정답. 독립적인 추측의 평균이 더 정확할 수 있습니다.",
+      "농부가 더 낫다는 내용은 나오지 않습니다.",
+      "추측이 쓸모없다는 내용은 글과 반대입니다."
+    ],
+    "trap": "'any single expert'를 '모든 전문가'로 확대 해석하지 마세요.",
+    "tip": "마지막 조건(independently)까지 반영한 선택지를 고르세요."
+  },
+  {
+    "id": "m3b-19-33",
+    "level": "m3",
+    "set": "mock-19",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In a grassland experiment, scientists planted plots with one, four, eight, or sixteen species of plants. When a severe drought struck, the plots with many species lost fewer of their plants and recovered faster. The reason is that different plants respond differently to stress: when some species suffer in dry weather, others are able to survive and fill the gaps. Scientists call this the insurance effect. In plots with only one species, once the plant was damaged, nothing was left to take its place. The same principle applies to forests, oceans, and even farms. A field with several crops is less likely to be completely destroyed by one disease than a field with a single crop. This suggests that biodiversity matters, because __________.",
+    "options": [
+      "a few strong species are all an ecosystem needs",
+      "an ecosystem with many different species can recover from damage more easily",
+      "small animals are less important than large ones",
+      "disasters never affect natural environments",
+      "human activity has no effect on nature"
+    ],
+    "answer": 1,
+    "translation": "한 초원 실험에서 과학자들은 식물 한 종, 네 종, 여덟 종, 열여섯 종을 심은 구획을 만들었다. 심한 가뭄이 닥치자 종이 많은 구획은 식물을 덜 잃고 더 빨리 회복했다. 이유는 서로 다른 식물이 스트레스에 다르게 반응하기 때문이다. 일부 종이 건조한 날씨에 고통받을 때 다른 종은 살아남아 빈틈을 채울 수 있다. 과학자들은 이를 보험 효과라고 부른다. 한 종만 있는 구획은 그 식물이 손상되면 그 자리를 대신할 것이 남지 않았다. 같은 원리는 숲, 바다, 심지어 농장에도 적용된다. 여러 작물이 있는 밭은 한 작물만 있는 밭보다 한 가지 병에 완전히 망가질 가능성이 적다. 이는 생물 다양성이 중요함을 시사하는데 다양한 종이 있는 생태계는 손상에서 더 쉽게 회복할 수 있기 때문이다.",
+    "why": "종이 많은 구획이 가뭄에서 더 빨리 회복했으므로 다양한 종이 있는 생태계는 손상에서 더 쉽게 회복합니다.",
+    "optionNotes": [
+      "소수의 강한 종으로 충분하다는 내용은 글과 반대입니다.",
+      "정답. 다양한 종이 있는 생태계가 더 쉽게 회복합니다.",
+      "작은 동물이 덜 중요하다는 내용은 나오지 않습니다.",
+      "재난이 영향을 주지 않는다는 내용은 글과 반대입니다.",
+      "인간 활동의 영향은 나오지 않습니다."
+    ],
+    "trap": "한 종만 있는 구획이 손상되면 대체할 것이 없었다는 설명을 놓치기 쉽습니다.",
+    "tip": "실험 결과(종이 많을수록 회복이 빠름)를 일반화하면 빈칸이 나옵니다."
+  },
+  {
+    "id": "m3b-19-34",
+    "level": "m3",
+    "set": "mock-19",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Why do we sometimes start to enjoy a song that we disliked at first? In the 1960s, the psychologist Robert Zajonc showed people unfamiliar symbols, such as Chinese characters, for different numbers of times. Later, he asked how much they liked each symbol. The symbols they had seen more often received higher ratings, even though the participants could not read them. Similar results appeared with faces, sounds, and brand names. Researchers have repeated the experiment in many countries and found the same pattern. Zajonc explained that familiar things feel safe, so our brain treats them more positively. This is also why advertisers repeat their messages so often, even on the radio and on television. Psychologists call this the mere exposure effect: repeated contact tends to __________.",
+    "options": [
+      "make people forget what they saw",
+      "turn familiar things into boring ones at once in all cases",
+      "make strangers appear more dangerous",
+      "increase our liking for what is familiar",
+      "reduce our interest in new songs"
+    ],
+    "answer": 3,
+    "translation": "처음에는 싫어했던 노래가 왜 가끔 좋아지기 시작할까? 1960년대에 심리학자 로버트 자이언스는 사람들에게 한자 같은 낯선 기호를 서로 다른 횟수로 보여 주었다. 나중에 그는 각 기호를 얼마나 좋아하는지 물었다. 참가자들이 읽을 수 없는데도 더 자주 본 기호가 더 높은 점수를 받았다. 비슷한 결과가 얼굴, 소리, 상표 이름에서도 나타났다. 연구자들은 여러 나라에서 실험을 되풀이했고 같은 양상을 발견했다. 자이언스는 익숙한 것은 안전하게 느껴져서 우리 뇌가 그것을 더 긍정적으로 대한다고 설명했다. 광고주가 라디오와 텔레비전에서까지 메시지를 그렇게 자주 반복하는 이유도 이것이다. 심리학자들은 이를 단순 노출 효과라고 부르는데 반복된 접촉은 익숙한 것에 대한 우리의 호감을 높이는 경향이 있다.",
+    "why": "더 자주 본 기호가 더 높은 점수를 받았으므로 반복된 접촉은 익숙한 것에 대한 호감을 높입니다.",
+    "optionNotes": [
+      "잊게 한다는 내용은 나오지 않습니다.",
+      "곧바로 지루해진다는 내용은 글과 반대입니다.",
+      "낯선 사람이 위험해 보인다는 내용은 나오지 않습니다.",
+      "정답. 익숙한 것에 대한 호감이 커집니다.",
+      "새 노래에 대한 흥미가 줄어든다는 내용은 나오지 않습니다."
+    ],
+    "trap": "'unfamiliar symbols'라는 실험 소재 때문에 낯선 것을 싫어한다고 오해하지 마세요.",
+    "tip": "실험 결과(더 자주 본 것이 더 높은 점수)를 일반화하면 빈칸이 나옵니다."
+  },
+  {
+    "id": "m3b-19-35",
+    "level": "m3",
+    "set": "mock-19",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Walking to school instead of taking a car or a bus has many benefits for students. It costs nothing, and it can become one of the best parts of the day. ① First, daily walking keeps the body active and helps students to stay healthy and to sleep better at night. ② The Great Pyramid of Giza was built about 4,500 years ago for the pharaoh Khufu. ③ Walking also gives students time to relax and organize their thoughts before the school day begins. ④ In addition, walking with friends is a pleasant way to talk and strengthen friendships. ⑤ Finally, because fewer cars are on the road, walking reduces traffic and air pollution around the school.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "자동차나 버스를 타는 대신 걸어서 등교하는 것은 학생들에게 많은 이점이 있다. 돈이 들지 않고 하루 중 가장 좋은 시간 중 하나가 될 수 있다. ① 첫째, 매일 걷는 것은 몸을 활동적으로 유지하고 학생들이 건강을 유지하고 밤에 더 잘 자도록 돕는다. ② 기자의 대피라미드는 약 4,500년 전 파라오 쿠푸를 위해 지어졌다. ③ 걷기는 또 학생들에게 학교생활이 시작되기 전에 긴장을 풀고 생각을 정리할 시간을 준다. ④ 게다가 친구들과 함께 걷는 것은 이야기하며 우정을 쌓는 즐거운 방법이다. ⑤ 마지막으로 도로의 차가 줄어들므로 걷기는 학교 주변의 교통과 대기 오염을 줄인다.",
+    "why": "글은 걸어서 등교하는 이점을 이야기하는데 ②는 피라미드에 관한 별개의 이야기입니다.",
+    "optionNotes": [
+      "건강에 관한 이점입니다.",
+      "정답(무관). 피라미드 이야기라 관계가 없습니다.",
+      "마음을 정리할 시간이라는 이점입니다.",
+      "친구와의 우정이라는 이점입니다.",
+      "교통과 대기 오염을 줄인다는 이점입니다."
+    ],
+    "trap": "구체적 연도와 숫자가 있어 설득력 있는 정보처럼 보이지만 주제와 무관합니다.",
+    "tip": "각 문장이 '걸어서 등교하는 이점'을 뒷받침하는지 확인하세요."
+  },
+  {
+    "id": "m3b-19-36",
+    "level": "m3",
+    "set": "mock-19",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "The first marathon runner is said to be a Greek soldier named Pheidippides. According to legend, he was sent from the battlefield of Marathon to Athens to announce a great victory. The story, told by later writers, is not completely certain, but it has fascinated people for centuries.\n(A) He ran about forty kilometers without stopping, and when he arrived, he shouted \"We have won!\" and then collapsed.\n(B) Today, the marathon is run over 42.195 kilometers, and millions of people around the world take part in it every year, from professional athletes to beginners.\n(C) To honor this story, the organizers of the first modern Olympic Games in 1896 included a long-distance race of a similar length, which became the most popular event of the Games.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "최초의 마라톤 주자는 페이디피데스라는 그리스 군인이라고 한다. 전설에 따르면 그는 마라톤 전장에서 아테네로 보내져 큰 승리를 알렸다. 후대 작가들이 전한 이 이야기는 완전히 확실하지는 않지만 수 세기 동안 사람들을 매료시켜 왔다. (A) 그는 쉬지 않고 약 40킬로미터를 달렸고 도착했을 때 \"우리가 이겼다!\"라고 외친 뒤 쓰러졌다. (C) 이 이야기를 기리려고 1896년 최초의 근대 올림픽 조직자들은 비슷한 길이의 장거리 경주를 포함시켰고 그것은 올림픽에서 가장 인기 있는 종목이 되었다. (B) 오늘날 마라톤은 42.195킬로미터로 치러지며 전문 선수부터 초보자까지 전 세계 수백만 명이 해마다 참가한다.",
+    "why": "(A) 'He'로 페이디피데스의 달리기 → (C) 'this story'로 올림픽 경주 → (B) 'Today'로 오늘날 순서입니다.",
+    "optionNotes": [
+      "정답. 전설의 달리기 → 올림픽 포함 → 오늘날.",
+      "(B)의 'Today'가 이야기 설명보다 먼저 나올 수 없습니다.",
+      "(B)가 먼저 오면 'Today'의 기준 과거가 없습니다.",
+      "(C)의 'this story'가 가리킬 이야기가 앞에 없습니다.",
+      "(C)가 먼저 오면 'this story'가 불분명합니다."
+    ],
+    "trap": "(C)의 'this story'는 (A)의 달리기 이야기를 가리킵니다.",
+    "tip": "He → this story → Today의 지시어와 시간 표현을 따라가세요."
+  },
+  {
+    "id": "m3b-19-37",
+    "level": "m3",
+    "set": "mock-19",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Pizza was originally a simple food for poor people in Naples, Italy. Workers ate it quickly because it was cheap and easy to carry. A simple dish like this seemed unimportant to the rich. For centuries, no one outside Naples paid attention to it.\n(A) The queen enjoyed it so much that the pizza was named after her, and it soon became popular across Italy and the world, and it remains a favorite today.\n(B) In 1889, a baker named Raffaele Esposito was asked to make a special pizza for Queen Margherita, who was visiting the city for the first time.\n(C) He topped the pizza with tomatoes, mozzarella cheese, and basil, whose colors matched the red, white, and green of the Italian flag.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 2,
+    "translation": "피자는 원래 이탈리아 나폴리의 가난한 사람들을 위한 단순한 음식이었다. 노동자들은 싸고 들고 다니기 쉬워서 그것을 빨리 먹었다. 이런 소박한 음식은 부자들에게는 중요하지 않아 보였다. 수 세기 동안 나폴리 밖의 누구도 그것에 주목하지 않았다. (B) 1889년 제빵사 라파엘레 에스포지토는 이 도시를 처음 방문한 마르게리타 여왕을 위해 특별한 피자를 만들어 달라는 부탁을 받았다. (C) 그는 피자 위에 토마토, 모차렐라 치즈, 바질을 올렸는데 그 색은 이탈리아 국기의 빨강, 하양, 초록과 맞았다. (A) 여왕은 그것을 너무 좋아해서 피자에 그녀의 이름이 붙었고 곧 이탈리아와 세계에서 인기를 얻었으며 오늘날에도 사랑받고 있다.",
+    "why": "(B) 여왕을 위한 피자 부탁 → (C) 'He'로 재료 선택 → (A) 'The queen'으로 반응과 명명 순서입니다.",
+    "optionNotes": [
+      "(A)의 'it'과 'her'가 가리킬 대상이 앞에 없습니다.",
+      "(A)가 (C)의 설명보다 먼저 나올 수 없습니다.",
+      "정답. 부탁 → 재료 선택 → 여왕의 반응.",
+      "(C)의 'He'가 가리킬 제빵사가 앞에 없습니다.",
+      "(C)가 먼저 오면 'He'가 누구인지 알 수 없습니다."
+    ],
+    "trap": "(C)의 'He'는 (B)에서 소개한 제빵사 에스포지토를 가리킵니다.",
+    "tip": "a baker → He → The queen의 지시어를 따라가세요."
+  },
+  {
+    "id": "m3b-19-38",
+    "level": "m3",
+    "set": "mock-19",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nBecause of this, the number of tigers in the wild has fallen by more than ninety percent.\n\n[글]\n( ① ) Over the past hundred years, forests where tigers live have been cut down for farms and cities, and poachers have hunted them for their skins. ( ② ) Today, fewer than six thousand tigers remain in the wild. ( ③ ) Many countries have created protected areas and banned tiger hunting. ( ④ ) As a result, the number of tigers in some regions has begun to rise. ( ⑤ ) Experts say that continued efforts are needed to save the species.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "[주어진 문장] 이 때문에 야생 호랑이의 수는 90퍼센트 넘게 줄었다. [글] 지난 백 년 동안 호랑이가 사는 숲은 농장과 도시를 위해 베어졌고 밀렵꾼들은 가죽을 얻으려고 호랑이를 사냥했다. 오늘날 야생에는 호랑이가 육천 마리도 남지 않았다. 많은 나라가 보호 구역을 만들고 호랑이 사냥을 금지했다. 그 결과 일부 지역에서는 호랑이 수가 늘기 시작했다. 전문가들은 이 종을 구하려면 계속 노력해야 한다고 말한다.",
+    "why": "서식지 파괴와 밀렵이라는 원인 뒤에 'Because of this'로 개체 수 감소가 이어지고, 이어서 현재의 수를 말하므로 ②에 들어갑니다.",
+    "optionNotes": [
+      "'this'가 가리킬 원인이 아직 나오지 않았습니다.",
+      "정답. 원인 뒤에 감소라는 결과가 이어집니다.",
+      "현재의 수를 말한 뒤라 감소 이야기가 어색합니다.",
+      "보호 노력의 결과 앞에 오면 흐름이 끊깁니다.",
+      "마지막에 오면 앞 문장과 연결되지 않습니다."
+    ],
+    "trap": "'Because of this'의 this가 ①의 서식지 파괴와 밀렵임을 놓치기 쉽습니다.",
+    "tip": "Because of this는 원인 문장 직후에 놓입니다."
+  },
+  {
+    "id": "m3b-19-39",
+    "level": "m3",
+    "set": "mock-19",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nAs a result, many cities now ban cars from their historic centers on weekends.\n\n[글]\n( ① ) Historic city centers were built for walking, not for cars. ( ② ) Narrow streets fill up with traffic, and exhaust fumes damage old buildings. ( ③ ) Noise and crowded roads also make the area unpleasant for visitors. ( ④ ) These problems become worse in summer when tourists arrive. ( ⑤ ) Studies show that when cars are removed, shops see more customers, because people stay longer and walk more freely.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "[주어진 문장] 그 결과 많은 도시가 이제 주말에 역사적 중심지에서 자동차를 금지한다. [글] 역사적인 도심은 자동차가 아니라 걷기 위해 만들어졌다. 좁은 길은 차로 가득 차고 배기가스는 오래된 건물을 손상시킨다. 소음과 붐비는 도로는 방문객에게 그 지역을 불쾌하게 만들기도 한다. 이런 문제는 관광객이 오는 여름에 더 심해진다. 연구에 따르면 자동차를 없애면 사람들이 더 오래 머물고 더 자유롭게 걸어서 상점에 손님이 더 많아진다.",
+    "why": "여러 문제를 설명한 뒤 'As a result'로 도시들의 조치가 이어지고, 다음 문장의 'when cars are removed'가 그 조치를 전제하므로 ⑤에 들어갑니다.",
+    "optionNotes": [
+      "'As a result'가 이어질 원인이 앞에 없습니다.",
+      "문제 설명이 시작되기 전이라 결과가 이릅니다.",
+      "소음 문제를 설명하기 전이라 결과가 이릅니다.",
+      "'These problems'가 가리킬 문제 설명 바로 뒤에 다른 문장이 끼면 어색합니다.",
+      "정답. 문제 뒤에 조치가 오고 효과 연구가 이어집니다."
+    ],
+    "trap": "④의 'These problems'는 바로 앞 문장들의 문제를 가리키므로 그 사이에 문장을 넣을 수 없습니다.",
+    "tip": "As a result는 원인 직후에, 지시어 These ~는 지시 대상 바로 뒤에 놓입니다."
+  },
+  {
+    "id": "m3b-19-40",
+    "level": "m3",
+    "set": "mock-19",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Researchers asked students to read a long article either on paper or on a screen and then answer questions about it. The students who read on paper scored higher on questions that required understanding of the main idea and the order of events. They also said that it was easier to remember where information was located on the page, such as the top of the left page, which helped them recall it later. In contrast, the students who read on screens tended to skim quickly and read less carefully. However, there was no clear difference between the two groups for short texts. The researchers concluded that for long and difficult texts, paper may help readers to focus and to build a clear mental picture.\n\n▶ For long texts, students who read on (A) understood the content (B) than those who read on a screen.",
+    "options": [
+      "(A) paper — (B) worse",
+      "(A) a screen — (B) better",
+      "(A) a printed page — (B) more deeply",
+      "(A) paper — (B) equally",
+      "(A) a phone — (B) slower"
+    ],
+    "answer": 2,
+    "translation": "연구자들은 학생들에게 긴 글을 종이나 화면으로 읽고 그것에 관한 질문에 답하게 했다. 종이로 읽은 학생들은 요지와 사건의 순서를 이해해야 하는 질문에서 더 높은 점수를 받았다. 그들은 또 왼쪽 페이지 위쪽처럼 정보가 쪽의 어디에 있었는지 기억하기가 더 쉬워서 나중에 떠올리는 데 도움이 되었다고 말했다. 반면 화면으로 읽은 학생들은 빠르게 훑어보고 덜 주의 깊게 읽는 경향이 있었다. 그러나 짧은 글에서는 두 집단 사이에 뚜렷한 차이가 없었다. 연구자들은 길고 어려운 글에서는 종이가 독자가 집중하고 분명한 머릿속 그림을 만드는 데 도움이 될 수 있다고 결론지었다. ▶ 긴 글에서 (A)로 읽은 학생들은 화면으로 읽은 학생들보다 내용을 (B) 이해했다.",
+    "why": "긴 글에서 종이로 읽은 학생들이 더 높은 이해도를 보였으므로 (A)는 a printed page, (B)는 more deeply입니다.",
+    "optionNotes": [
+      "worse는 글과 반대입니다.",
+      "a screen과 better는 글과 반대입니다.",
+      "정답. 종이로 읽은 학생이 더 깊이 이해했습니다.",
+      "equally는 긴 글에서는 글과 맞지 않습니다.",
+      "a phone과 slower는 글에 나오지 않습니다."
+    ],
+    "trap": "짧은 글에서는 차이가 없었다는 말을 긴 글의 결과로 오해하지 마세요.",
+    "tip": "요약문은 조건(긴 글)과 결과(종이가 더 깊은 이해)를 짝지으세요."
+  }
+]
