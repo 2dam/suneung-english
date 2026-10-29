@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m3b-23-29",
+    "level": "m3",
+    "set": "mock-23",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "{1|Locating} off the northeastern coast of Australia, the Great Barrier Reef is the largest living structure on Earth. It stretches for more than two thousand kilometers and can even be seen from space. The reef is made of billions of tiny animals called corals, which {2|provide} shelter for thousands of species of fish, turtles, and sharks. Corals depend on algae {3|living} inside their bodies, and the algae give them food and their bright colors. When the ocean becomes too warm, the corals push the algae out and turn white, a process {4|called} bleaching. If the water cools down soon enough, corals can recover. Otherwise, they die, and the whole community of sea life {5|suffers}.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "호주 북동부 해안에서 떨어진 곳에 위치한 대보초는 지구에서 가장 큰 생물 구조물이다. 이천 킬로미터가 넘게 뻗어 있고 우주에서도 보인다. 이 산호초는 산호라고 불리는 수십억 마리의 작은 동물로 이루어져 있으며 산호는 수천 종의 물고기, 거북, 상어에게 보금자리를 제공한다. 산호는 몸속에 사는 조류에 의존하며 조류는 먹이와 선명한 색을 준다. 바다가 너무 따뜻해지면 산호는 조류를 내보내고 하얗게 변하는데 이 과정을 백화라고 한다. 물이 곧 식으면 산호는 회복할 수 있다. 그렇지 않으면 죽고 해양 생물 공동체 전체가 고통받는다.",
+    "why": "분사구문의 의미상 주어 the Great Barrier Reef는 '위치해 있는' 것이므로 수동의 과거분사 Located여야 합니다.",
+    "optionNotes": [
+      "정답(틀린 것). 수동의 의미이므로 Located여야 합니다.",
+      "관계절의 복수 동사 provide입니다.",
+      "algae를 수식하는 현재분사 living입니다.",
+      "a process를 수식하는 과거분사 called입니다.",
+      "단수 주어 community에 맞는 suffers입니다."
+    ],
+    "trap": "능동의 -ing를 쓰고 싶어지지만 '위치해 있다'는 수동의 의미입니다.",
+    "tip": "분사구문은 주어와의 관계(능동/수동)로 현재분사와 과거분사를 구분하세요."
+  },
+  {
+    "id": "m3b-23-30",
+    "level": "m3",
+    "set": "mock-23",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Many students feel that there are never enough hours in a day. However, the problem is often not the amount of time but how we {1|use} it. A simple way to improve is to write down everything you need to do and put the tasks in order of {2|importance}. Start with the most important one while your mind is fresh. It also helps to break a large task into smaller steps, which makes it feel less {3|overwhelming}. Avoid multitasking, because switching between tasks can {4|improve} your focus and cause more mistakes. Finally, schedule breaks. Short rests keep your energy high, so you can continue to {5|perform} well until the end of the day.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "많은 학생이 하루에 시간이 충분하지 않다고 느낀다. 그러나 문제는 흔히 시간의 양이 아니라 우리가 그것을 쓰는 방식이다. 개선하는 간단한 방법은 해야 할 일을 모두 적고 중요도 순으로 순서를 매기는 것이다. 정신이 맑을 때 가장 중요한 일부터 시작하라. 큰 일을 작은 단계로 나누는 것도 도움이 되는데 그러면 덜 벅차게 느껴진다. 과제 사이를 오가면 집중을 해치고 더 많은 실수를 일으킬 수 있으므로 멀티태스킹을 피하라. 마지막으로 휴식을 계획하라. 짧은 휴식은 에너지를 높게 유지해 주므로 하루가 끝날 때까지 계속 잘 해낼 수 있다.",
+    "why": "과제를 오가면 집중을 '해치고' 실수를 더 일으킨다는 흐름이므로 improve는 부적절합니다.",
+    "optionNotes": [
+      "시간을 쓰는 방식이라는 의미로 use가 알맞습니다.",
+      "중요도 순으로 순서를 매긴다는 의미로 importance가 알맞습니다.",
+      "덜 벅차게 느껴진다는 의미로 overwhelming이 알맞습니다.",
+      "정답(부적절). 집중을 해친다는 흐름이므로 harm/damage여야 합니다.",
+      "잘 해낸다는 의미로 perform이 알맞습니다."
+    ],
+    "trap": "뒤의 'cause more mistakes'와 호응하는 방향을 놓치기 쉽습니다.",
+    "tip": "'and cause more mistakes'와 같은 방향의 부정적 의미인지 확인하세요."
+  },
+  {
+    "id": "m3b-23-31",
+    "level": "m3",
+    "set": "mock-23",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In 1968, researchers asked students to discuss personal problems through an intercom. The experiment was designed to see how people react in emergencies. During the discussion, one of the students pretended to have a seizure and called for help. When the real participant believed that he or she was the only listener, almost everyone left the room quickly to get help. But when participants believed that four other people were also listening, fewer than half reacted. Even a small number of extra bystanders made people hesitate. This is known as the bystander effect. Similar results have been found in many other countries. The more people there are, the more each person feels that responsibility is shared. In an emergency, individuals in a crowd tend to __________.",
+    "options": [
+      "run to the scene as fast as possible",
+      "record the event with their phones for a news report",
+      "ask the police for permission before helping",
+      "feel angry at the person who needs help",
+      "assume that someone else will take action"
+    ],
+    "answer": 4,
+    "translation": "1968년 연구자들은 학생들에게 인터폰으로 개인적인 문제를 토론하게 했다. 이 실험은 사람들이 응급 상황에서 어떻게 반응하는지 보려고 설계되었다. 토론 중 학생 중 한 명이 발작을 일으키는 척하며 도움을 청했다. 진짜 참가자가 자신이 유일한 청취자라고 믿었을 때는 거의 모두 도움을 구하려고 재빨리 방을 나갔다. 그러나 다른 네 명도 듣고 있다고 믿었을 때는 절반도 안 되는 사람이 반응했다. 소수의 추가 방관자만 있어도 사람들은 망설였다. 이를 방관자 효과라고 한다. 비슷한 결과가 다른 많은 나라에서도 발견되었다. 사람이 많을수록 각 사람은 책임이 나뉜다고 더 느낀다. 응급 상황에서 군중 속의 개인은 다른 누군가가 나설 것이라고 가정하는 경향이 있다.",
+    "why": "사람이 많을수록 책임이 나뉜다고 느껴 반응하지 않았으므로 다른 사람이 나설 것이라고 가정합니다.",
+    "optionNotes": [
+      "서둘러 달려간다는 내용은 글과 반대입니다.",
+      "촬영 이야기는 나오지 않습니다.",
+      "허락을 구한다는 내용은 나오지 않습니다.",
+      "화를 낸다는 내용은 나오지 않습니다.",
+      "정답. 다른 누군가가 나설 것이라고 가정합니다."
+    ],
+    "trap": "혼자일 때의 반응(방을 나감)을 군중의 반응으로 착각하지 마세요.",
+    "tip": "실험 결과(다른 사람이 있으면 반응이 줄어듦)가 결론의 근거입니다."
+  },
+  {
+    "id": "m3b-23-32",
+    "level": "m3",
+    "set": "mock-23",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Most people cannot remember anything before the age of three or four, even though they experienced many things as babies. Scientists call this infantile amnesia. This phenomenon exists in every culture. In the early years, the brain grows rapidly, and the hippocampus, which is responsible for storing memories, is not yet fully developed. Young children also lack the language skills needed to organize their experiences into stories. Without words to describe what happened, memories may be difficult to store and retrieve later. Experiments show that three-year-olds can describe events from last week, but they often forget the same events a year later. Some researchers believe that the constant creation of new brain cells also overwrites old memories. We cannot recall our earliest years mainly because __________.",
+    "options": [
+      "we did not experience anything important at that age",
+      "the parts of the brain that store memories are still growing at that age",
+      "our parents have hidden all the photos of us",
+      "babies sleep for the whole day without waking",
+      "we simply get tired of old memories over time"
+    ],
+    "answer": 1,
+    "translation": "대부분의 사람은 아기 때 많은 것을 경험했는데도 세 살이나 네 살 이전의 것은 아무것도 기억하지 못한다. 과학자들은 이를 유아기 기억상실이라고 부른다. 이 현상은 모든 문화에 존재한다. 초기에는 뇌가 빠르게 자라며 기억 저장을 맡는 해마도 아직 완전히 발달하지 않았다. 어린아이는 경험을 이야기로 정리하는 데 필요한 언어 능력도 부족하다. 일어난 일을 설명할 낱말이 없으면 기억을 저장하고 나중에 꺼내기 어려울 수 있다. 실험에 따르면 세 살 아이는 지난주의 일을 말할 수 있지만 일 년 뒤에는 같은 일을 흔히 잊는다. 일부 연구자들은 새로운 뇌세포가 계속 생기는 것도 오래된 기억을 덮어쓴다고 믿는다. 우리가 가장 어린 시절을 떠올리지 못하는 것은 주로 그 나이에 기억을 저장하는 뇌 부위가 아직 자라고 있기 때문이다.",
+    "why": "해마가 아직 완전히 발달하지 않아 기억을 저장하기 어렵기 때문입니다.",
+    "optionNotes": [
+      "중요한 경험이 없었다는 내용은 나오지 않습니다.",
+      "정답. 기억을 저장하는 뇌 부위가 아직 자라고 있습니다.",
+      "사진은 나오지 않습니다.",
+      "하루 종일 잔다는 내용은 나오지 않습니다.",
+      "기억에 싫증이 난다는 내용은 나오지 않습니다."
+    ],
+    "trap": "'did not experience'를 고르면 첫 문장(experienced many things)과 모순됩니다.",
+    "tip": "원인(해마 미발달, 언어 부족)을 한 문장으로 요약한 선택지를 고르세요."
+  },
+  {
+    "id": "m3b-23-33",
+    "level": "m3",
+    "set": "mock-23",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In Japan, there is a traditional way of seeing the world called wabi-sabi. The idea is closely connected to Zen Buddhism, which teaches people to appreciate the present moment. Instead of admiring things that are perfect and brand new, wabi-sabi values simple objects that show the marks of time. A cracked tea bowl, a worn wooden table, or a garden covered with moss can all be beautiful. The art of kintsugi is a famous example. Craftspeople even repair broken pottery with gold, so that the cracks become part of the design. This idea encourages people to accept change and stop worrying about perfection. Many designers today use the idea to create warm and simple spaces. In a world full of polished images, wabi-sabi teaches us to __________.",
+    "options": [
+      "throw away anything that is broken",
+      "buy a new version every year",
+      "avoid objects that look too simple",
+      "find beauty in things that are old, simple, and imperfect",
+      "hide our mistakes from other people"
+    ],
+    "answer": 3,
+    "translation": "일본에는 와비사비라는 전통적인 세상을 보는 방식이 있다. 이 생각은 순간을 소중히 여기라고 가르치는 선불교와 깊이 관련되어 있다. 완벽하고 새것인 것을 감탄하는 대신 와비사비는 시간의 흔적을 보여 주는 소박한 물건을 소중히 여긴다. 금이 간 찻사발, 닳은 나무 탁자, 이끼로 덮인 정원은 모두 아름다울 수 있다. 킨츠기 기술이 유명한 예이다. 장인들은 깨진 도자기를 금으로 수리하여 금이 디자인의 일부가 되게 하기도 한다. 이 생각은 사람들이 변화를 받아들이고 완벽함에 대한 걱정을 그치도록 북돋운다. 오늘날 많은 디자이너가 이 생각을 활용해 따뜻하고 소박한 공간을 만든다. 다듬어진 이미지로 가득한 세상에서 와비사비는 우리에게 낡고 소박하고 불완전한 것에서 아름다움을 찾으라고 가르친다.",
+    "why": "금이 가거나 닳은 소박한 물건에서도 아름다움을 보라는 내용이므로 ④가 알맞습니다.",
+    "optionNotes": [
+      "깨진 것을 버리라는 내용은 글과 반대입니다.",
+      "해마다 새것을 사라는 내용은 글과 반대입니다.",
+      "소박한 물건을 피하라는 내용은 글과 반대입니다.",
+      "정답. 낡고 소박하고 불완전한 것에서 아름다움을 찾습니다.",
+      "실수를 숨기라는 내용은 나오지 않습니다."
+    ],
+    "trap": "'repair'를 보고 깨진 것은 버리면 된다(①)고 반대로 생각하지 마세요.",
+    "tip": "글 전체의 핵심 가치(불완전함의 아름다움)를 담은 선택지를 고르세요."
+  },
+  {
+    "id": "m3b-23-34",
+    "level": "m3",
+    "set": "mock-23",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "At a supermarket, a researcher set up a table with jam samples. The experiment was repeated in several stores with similar results. On one day, the table offered twenty-four kinds of jam, and on another day, it offered only six. The big display attracted more visitors, but only three percent of them bought a jar. At the small display, thirty percent of the visitors made a purchase. The researcher explained that too many options make the decision difficult, and people worry about choosing the wrong one. Shoppers often walked away without buying anything. They simply felt overwhelmed. Even after buying, they may feel less satisfied because they imagine what they missed. However, more options do not always make us happier; too many choices can __________.",
+    "options": [
+      "make shopping faster and easier",
+      "leave us anxious and unsure",
+      "lower the price of every item",
+      "improve our memory of the products",
+      "help us find the perfect choice immediately"
+    ],
+    "answer": 1,
+    "translation": "한 슈퍼마켓에서 연구자가 잼 시식대를 설치했다. 이 실험은 여러 가게에서 되풀이되었고 비슷한 결과가 나왔다. 어느 날은 스물네 종의 잼을 내놓았고 다른 날은 여섯 종만 내놓았다. 큰 진열대는 더 많은 방문객을 끌었지만 그중 3퍼센트만 한 병을 샀다. 작은 진열대에서는 방문객의 30퍼센트가 구매했다. 연구자는 선택지가 너무 많으면 결정이 어려워지고 사람들이 잘못된 것을 고를까 걱정한다고 설명했다. 쇼핑객들은 흔히 아무것도 사지 않고 떠났다. 그저 압도되었던 것이다. 산 뒤에도 놓친 것을 상상해서 덜 만족할 수 있다. 그러나 선택지가 많다고 항상 더 행복해지는 것은 아니다. 너무 많은 선택은 우리를 불안하고 결정에 확신이 없게 만들 수 있다.",
+    "why": "선택지가 너무 많으면 결정이 어려워지고 구매 후에도 덜 만족하므로 불안하고 확신이 없게 만듭니다.",
+    "optionNotes": [
+      "쇼핑이 쉬워진다는 내용은 글과 반대입니다.",
+      "정답. 불안하고 결정에 확신이 없게 만듭니다.",
+      "가격은 나오지 않습니다.",
+      "기억력은 나오지 않습니다.",
+      "즉시 완벽한 선택을 한다는 내용은 글과 반대입니다."
+    ],
+    "trap": "큰 진열대가 더 많은 방문객을 끌었다는 점을 긍정적 결과로 오해하지 마세요.",
+    "tip": "실험 결과(구매율 3% vs 30%)가 결론의 근거입니다."
+  },
+  {
+    "id": "m3b-23-35",
+    "level": "m3",
+    "set": "mock-23",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Learning to play a musical instrument offers more than just the joy of making music. Research shows that it can improve many skills that are useful in daily life. ① Mount Everest, the highest mountain in the world, is located on the border between Nepal and China. ② Practicing an instrument strengthens memory, because players must remember notes, rhythms, and finger positions. ③ Playing music also improves concentration, since the player must read the score and listen carefully at the same time. ④ Playing in a band or an orchestra teaches teamwork, because every member must listen to the others and adjust. ⑤ Finally, finishing a difficult piece after weeks of practice builds patience and self-confidence.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "악기 연주를 배우는 것은 음악을 만드는 즐거움 이상을 준다. 연구에 따르면 그것은 일상생활에 유용한 많은 능력을 향상할 수 있다. ① 세계에서 가장 높은 산인 에베레스트 산은 네팔과 중국의 국경에 있다. ② 악기를 연습하면 음표, 리듬, 손가락 위치를 기억해야 하므로 기억력이 강해진다. ③ 음악을 연주하면 악보를 읽으면서 동시에 주의 깊게 들어야 하므로 집중력도 좋아진다. ④ 밴드나 오케스트라에서 연주하면 모든 단원이 다른 사람의 소리를 듣고 맞추어야 하므로 팀워크를 배운다. ⑤ 마지막으로 몇 주의 연습 끝에 어려운 곡을 끝내면 인내심과 자신감이 길러진다.",
+    "why": "글은 악기 연주의 이점을 이야기하는데 ①은 에베레스트 산에 관한 별개의 이야기입니다.",
+    "optionNotes": [
+      "정답(무관). 에베레스트 산 이야기라 관계가 없습니다.",
+      "기억력이라는 이점입니다.",
+      "집중력이라는 이점입니다.",
+      "팀워크라는 이점입니다.",
+      "인내심과 자신감이라는 이점입니다."
+    ],
+    "trap": "첫 번째 문장이라 소개처럼 보이지만 주제와 관계가 없습니다.",
+    "tip": "각 문장이 '악기 연주의 이점'인지 확인하세요."
+  },
+  {
+    "id": "m3b-23-36",
+    "level": "m3",
+    "set": "mock-23",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "The stethoscope, which doctors use to listen to the heart and lungs, was invented by accident in 1816. A French doctor named René Laennec was examining a young woman with a heart problem.\n(A) He rolled a sheet of paper into a tube, placed one end on her chest, and put the other against his ear. To his surprise, he could hear her heartbeat much more clearly than before.\n(B) Encouraged by this discovery, Laennec made a wooden tube, which became the first stethoscope. Over time, its design was improved, and today doctors all over the world use it every day.\n(C) In those days, doctors usually put their ears directly against a patient's chest. He felt uncomfortable doing this with a young woman, so he looked for another way to listen.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 3,
+    "translation": "의사가 심장과 폐 소리를 듣는 데 쓰는 청진기는 1816년 우연히 발명되었다. 르네 라에네크라는 프랑스 의사가 심장 문제가 있는 젊은 여성을 진찰하고 있었다. (C) 당시 의사들은 보통 환자의 가슴에 귀를 직접 갖다 댔다. 그는 젊은 여성에게 그렇게 하는 것이 불편해서 듣는 다른 방법을 찾았다. (A) 그는 종이 한 장을 말아 관으로 만들고 한쪽 끝을 그녀의 가슴에, 다른 쪽을 자신의 귀에 대었다. 놀랍게도 그는 전보다 훨씬 더 분명하게 그녀의 심장 소리를 들을 수 있었다. (B) 이 발견에 힘입어 라에네크는 나무 관을 만들었고 그것이 최초의 청진기가 되었다. 시간이 지나며 설계는 개선되었고 오늘날 전 세계 의사들이 매일 그것을 쓴다.",
+    "why": "(C) 불편해서 다른 방법을 찾음 → (A) 종이 관으로 들어 봄 → (B) 'this discovery'로 나무 관 제작 순서입니다.",
+    "optionNotes": [
+      "(A)의 'He'와 'a tube'가 나오는 이유가 앞에 없습니다.",
+      "(B)의 'this discovery'가 가리킬 발견이 앞에 없습니다.",
+      "(B)가 먼저 오면 'this discovery'가 불분명합니다.",
+      "정답. 방법 찾기 → 종이 관 → 최초의 청진기.",
+      "(B)가 (A)보다 먼저 올 수 없습니다."
+    ],
+    "trap": "(B)의 'this discovery'는 (A)의 종이 관 발견을 가리킵니다.",
+    "tip": "another way → a tube → this discovery의 흐름과 지시어를 따라가세요."
+  },
+  {
+    "id": "m3b-23-37",
+    "level": "m3",
+    "set": "mock-23",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Many people think of chocolate as a modern treat, but its history goes back more than three thousand years. It began in Central America, where people discovered the cacao tree.\n(A) The Spanish brought cacao to Europe in the sixteenth century, and they added sugar to make the drink sweeter. It soon became fashionable among the rich.\n(B) The ancient Maya and Aztecs ground cacao beans and mixed them with water and spices to make a bitter drink. They believed it was a gift from the gods. It was a luxury that only priests and rulers could enjoy.\n(C) In 1847, a British company made the first solid chocolate bar, and chocolate finally became available to ordinary people everywhere. Today, it is enjoyed in nearly every country in the world.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 1,
+    "translation": "많은 사람은 초콜릿을 현대의 간식이라고 생각하지만 그 역사는 삼천 년도 더 거슬러 올라간다. 그것은 사람들이 카카오 나무를 발견한 중앙아메리카에서 시작되었다. (B) 고대 마야인과 아즈텍인은 카카오 콩을 갈아 물과 향신료에 섞어 쓴 음료를 만들었다. 그들은 그것이 신들의 선물이라고 믿었다. 그것은 사제와 통치자만 누릴 수 있는 사치품이었다. (A) 스페인 사람들은 16세기에 카카오를 유럽으로 가져와 음료를 더 달게 하려고 설탕을 넣었다. 그것은 곧 부유층 사이에서 유행하게 되었다. (C) 1847년 한 영국 회사가 최초의 고체 초콜릿 바를 만들었고 초콜릿은 마침내 어디서나 보통 사람들이 구할 수 있게 되었다. 오늘날 그것은 세계 거의 모든 나라에서 즐겨진다.",
+    "why": "(B) 고대 중앙아메리카의 쓴 음료 → (A) 유럽으로 건너가 설탕을 넣음 → (C) 고체 초콜릿과 대중화 순서입니다.",
+    "optionNotes": [
+      "(A)의 'the drink'와 'cacao'의 맥락이 (B)에서 먼저 나와야 합니다.",
+      "정답. 중앙아메리카 → 유럽 → 고체 초콜릿.",
+      "(C)가 (A)보다 먼저 올 수 없습니다.",
+      "(C)의 현대적 결과가 맨 앞에 올 수 없습니다.",
+      "(C)의 현대적 결과가 맨 앞에 올 수 없습니다."
+    ],
+    "trap": "(A)의 'the drink'는 (B)에서 만든 쓴 음료를 가리킵니다.",
+    "tip": "고대 → 16세기 → 1847년 → 오늘날의 시간 순서를 따라가세요."
+  },
+  {
+    "id": "m3b-23-38",
+    "level": "m3",
+    "set": "mock-23",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nMost of them come from larger plastic items that break apart over time, as well as from synthetic clothes that release tiny fibers when they are washed.\n\n[글]\n( ① ) Scientists have found tiny pieces of plastic in almost every part of the ocean, from the surface to the deepest trenches. ( ② ) These pieces, called microplastics, are smaller than five millimeters, so they are almost impossible to see with the naked eye. ( ③ ) Fish and seabirds often mistake them for food, so the plastic enters the food chain. ( ④ ) Researchers have even detected microplastics in table salt and drinking water. ( ⑤ ) Experts warn that reducing the amount of plastic we use is the only way to stop the problem from growing.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 그 대부분은 시간이 지나 부서진 더 큰 플라스틱 물건에서, 그리고 세탁할 때 아주 작은 섬유를 내보내는 합성 섬유 옷에서 나온다. [글] 과학자들은 해수면부터 가장 깊은 해구까지 바다의 거의 모든 곳에서 작은 플라스틱 조각을 발견했다. 마이크로플라스틱이라고 불리는 이 조각은 5밀리미터보다 작아서 맨눈으로 보기가 거의 불가능하다. 물고기와 바닷새는 종종 그것을 먹이로 착각해서 플라스틱이 먹이 사슬로 들어간다. 연구자들은 소금과 식수에서도 마이크로플라스틱을 검출했다. 전문가들은 우리가 쓰는 플라스틱의 양을 줄이는 것이 문제가 커지는 것을 막는 유일한 방법이라고 경고한다.",
+    "why": "마이크로플라스틱을 정의한 문장 뒤에 'Most of them'으로 그 기원을 설명하고, 다음 문장의 'them'이 이를 이어받으므로 ③에 들어갑니다.",
+    "optionNotes": [
+      "'them'이 가리킬 마이크로플라스틱이 아직 소개되지 않았습니다.",
+      "마이크로플라스틱의 정의 중간이라 흐름이 끊깁니다.",
+      "정답. 정의 뒤에 기원을 설명하고 다음 문장으로 이어집니다.",
+      "물고기의 오인 설명 뒤에 오면 'them'이 어색합니다.",
+      "결론 앞에 오면 어색합니다."
+    ],
+    "trap": "④⑤의 'them'이 가리키는 대상을 따라가면 ③이 마이크로플라스틱 소개 직후임을 알 수 있습니다.",
+    "tip": "Most of them 같은 대명사 표현은 지시 대상이 소개된 직후에 놓입니다."
+  },
+  {
+    "id": "m3b-23-39",
+    "level": "m3",
+    "set": "mock-23",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nNot all stress is harmful to us.\n\n[글]\n( ① ) In small amounts, stress can actually help us perform better by sharpening our attention and giving us extra energy. ( ② ) Before an important exam, for example, a little nervousness makes students study harder and focus more carefully. ( ③ ) However, when stress continues for a long time without any rest, it can seriously damage our health. ( ④ ) Long-term stress has been linked to headaches, sleep problems, and a weakened immune system. ( ⑤ ) Therefore, the key is to balance effort with proper rest and to find healthy ways to relax.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "[주어진 문장] 모든 스트레스가 우리에게 해로운 것은 아니다. [글] 적은 양의 스트레스는 주의를 날카롭게 하고 추가 에너지를 주어 실제로 우리가 더 잘 해내도록 도울 수 있다. 예를 들어 중요한 시험 전에는 약간의 긴장이 학생들이 더 열심히 공부하고 더 주의 깊게 집중하게 한다. 그러나 스트레스가 아무 휴식 없이 오래 계속되면 건강을 심각하게 해칠 수 있다. 장기적인 스트레스는 두통, 수면 문제, 약해진 면역 체계와 관련이 있다. 그러므로 핵심은 노력과 적절한 휴식의 균형을 맞추고 건강하게 쉬는 방법을 찾는 것이다.",
+    "why": "스트레스가 모두 해로운 것은 아니라는 일반적 진술 뒤에 'In small amounts'로 구체적 이점이 이어지므로 ①에 들어갑니다.",
+    "optionNotes": [
+      "정답. 일반적 진술 뒤에 작은 스트레스의 이점이 이어집니다.",
+      "'In small amounts'의 설명 뒤에 오면 흐름이 어색합니다.",
+      "However 앞에 오면 대조 구조가 깨집니다.",
+      "장기 스트레스의 해로움 설명 중에 끼면 어색합니다.",
+      "결론 앞에 오면 어색합니다."
+    ],
+    "trap": "'However'는 앞의 긍정적 내용과 대조되므로 주어진 문장이 그 뒤에 올 수 없습니다.",
+    "tip": "주제문('Not all ~')은 구체적 설명보다 앞에 놓입니다."
+  },
+  {
+    "id": "m3b-23-40",
+    "level": "m3",
+    "set": "mock-23",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Researchers compared two groups of university students who watched the same lecture. One group took notes on laptops, while the other group wrote notes by hand. Later, both groups took a test on the lecture. The laptop users wrote more words, because typing is faster than writing. However, they often copied the lecture word for word without thinking. The handwriters could not write everything, so they had to listen carefully and summarize the main points in their own words. As a result, the handwriters scored higher on questions that required understanding the ideas. The researchers concluded that the slower process of writing by hand helps people think about and organize information.\n\n▶ Taking notes (A) helps students understand better because it forces them to (B) the main ideas.",
+    "options": [
+      "(A) quickly — (B) copy",
+      "(A) by hand — (B) ignore",
+      "(A) on laptops — (B) memorize",
+      "(A) at night — (B) change",
+      "(A) by hand — (B) summarize"
+    ],
+    "answer": 4,
+    "translation": "연구자들은 같은 강의를 본 대학생 두 집단을 비교했다. 한 집단은 노트북으로 필기했고 다른 집단은 손으로 필기했다. 나중에 두 집단 모두 강의에 관한 시험을 보았다. 노트북 사용자는 타자가 쓰기보다 빨라서 더 많은 단어를 적었다. 그러나 그들은 흔히 생각 없이 강의를 그대로 베꼈다. 손으로 쓴 학생들은 모든 것을 적을 수 없어서 주의 깊게 듣고 요점을 자기 말로 요약해야 했다. 그 결과 손으로 쓴 학생들이 아이디어의 이해를 요구하는 문제에서 더 높은 점수를 받았다. 연구자들은 손으로 쓰는 더 느린 과정이 사람들이 정보를 생각하고 정리하도록 돕는다고 결론지었다. ▶ (A) 필기하는 것은 학생들이 요점을 (B)하게 하므로 더 잘 이해하도록 돕는다.",
+    "why": "손으로 필기하면 요점을 자기 말로 요약해야 하므로 이해가 높아집니다. (A)는 by hand, (B)는 summarize입니다.",
+    "optionNotes": [
+      "quickly와 copy는 글과 반대입니다.",
+      "(A)는 맞지만 ignore가 글과 반대입니다.",
+      "on laptops와 memorize는 글에 나오지 않습니다.",
+      "at night와 change는 글에 나오지 않습니다.",
+      "정답. 손으로 필기하면 요점을 요약하게 됩니다."
+    ],
+    "trap": "(A)가 같은 ②를 고르지 말고 (B)까지 글과 맞는지 확인하세요.",
+    "tip": "요약문은 실험 결과(손필기 집단이 더 높음)와 그 이유를 짝지으세요."
+  }
+]
