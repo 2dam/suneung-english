@@ -1,0 +1,333 @@
+[
+  {
+    "id": "m3b-18-18",
+    "level": "m3",
+    "set": "mock-18",
+    "no": 18,
+    "type": "purpose",
+    "stem": "다음 글의 목적으로 가장 적절한 것은?",
+    "passage": "Dear Apartment Management Office,\nMy name is Eunhye Lim, and I live in apartment 502. I am writing to ask for your help with a noise problem. For the past two weeks, I have heard loud footsteps and the sound of furniture moving in the apartment above mine, number 602, almost every night between eleven p.m. and one a.m. Because of this, I have been waking up in the middle of the night, and it is affecting my studies. I tried to speak with the residents of 602 in person, but nobody answered the door. I would appreciate it if the office could notify them of this problem and remind them of the quiet hours stated in the building rules. Thank you for your understanding.\nSincerely,\nEunhye Lim",
+    "options": [
+      "아파트 관리비 고지서의 오류를 지적하려고",
+      "주차장 이용 규칙을 문의하려고",
+      "위층의 야간 소음 문제를 해결해 달라고 관리 사무소에 요청하려고",
+      "이사 간다는 사실을 이웃에게 알리려고",
+      "엘리베이터 수리 일정을 확인하려고"
+    ],
+    "answer": 2,
+    "translation": "아파트 관리 사무소 귀중. 제 이름은 임은혜이며 502호에 삽니다. 소음 문제에 도움을 요청하려고 이 글을 씁니다. 지난 이 주 동안 거의 매일 밤 11시에서 새벽 1시 사이에 제 집 위층인 602호에서 쿵쿵거리는 발소리와 가구를 옮기는 소리가 들렸습니다. 이 때문에 저는 한밤중에 깨고 있으며 이것이 제 공부에 영향을 주고 있습니다. 602호 거주자를 직접 만나 이야기하려 했지만 아무도 문을 열어 주지 않았습니다. 사무소에서 그들에게 이 문제를 알리고 건물 규칙에 정해진 조용한 시간을 상기시켜 주시면 감사하겠습니다. 이해해 주셔서 감사합니다. 임은혜 드림.",
+    "why": "위층에서 나는 야간 소음 문제를 관리 사무소가 해결해 달라고 요청하는 글입니다.",
+    "optionNotes": [
+      "관리비는 나오지 않습니다.",
+      "주차장은 나오지 않습니다.",
+      "정답. 위층의 야간 소음 문제의 해결을 요청합니다.",
+      "이사는 나오지 않습니다.",
+      "엘리베이터는 나오지 않습니다."
+    ],
+    "trap": "'furniture moving'이 나온다고 이사(④)로 착각하지 마세요.",
+    "tip": "목적 문제는 'I am writing to ask for ~', 'I would appreciate it if ~' 같은 핵심 문장을 확인하세요."
+  },
+  {
+    "id": "m3b-18-19",
+    "level": "m3",
+    "set": "mock-18",
+    "no": 19,
+    "type": "mood",
+    "stem": "다음 글에 드러난 Seoyun의 심경 변화로 가장 적절한 것은?",
+    "passage": "Seoyun was fourteen years old, and she had never learned to ride a bicycle. Whenever her friends rode along the river, she watched from the bench with an envious heart. One Saturday, her father took her to the empty park path and held the back of her seat. \"I'll be right behind you,\" he said. Her hands were shaking on the handlebars, and every wobble made her heart jump. She fell twice and scraped her knee. But on the third try, the bicycle moved smoothly, and the wind rushed past her face. \"Dad, look!\" she shouted. When she turned around, she saw her father far behind, waving with a grin. She was riding alone! Her fear melted into excitement, and she rode to the end of the path with a proud smile.",
+    "options": [
+      "bored → annoyed",
+      "jealous → ashamed",
+      "relaxed and comfortable → disappointed and upset",
+      "frightened and hesitant → thrilled and proud",
+      "curious → indifferent"
+    ],
+    "answer": 3,
+    "translation": "서윤은 열네 살이었고 자전거 타는 법을 배운 적이 없었다. 친구들이 강변을 따라 달릴 때마다 그녀는 부러운 마음으로 벤치에서 지켜보았다. 어느 토요일 아버지는 그녀를 빈 공원 길로 데려가 안장 뒤를 잡아 주었다. \"바로 뒤에 있을게.\" 하고 그가 말했다. 그녀의 손은 핸들 위에서 떨렸고 휘청거릴 때마다 가슴이 철렁했다. 그녀는 두 번 넘어져 무릎이 까졌다. 그러나 세 번째 시도에서 자전거가 부드럽게 나아갔고 바람이 얼굴을 스쳤다. \"아빠, 보세요!\" 하고 그녀가 외쳤다. 돌아보니 아버지는 한참 뒤에서 씩 웃으며 손을 흔들고 있었다. 그녀는 혼자 타고 있었다! 두려움이 설렘으로 녹았고 그녀는 자랑스러운 미소로 길 끝까지 달렸다.",
+    "why": "떨리고 망설였지만(frightened and hesitant) 혼자 타는 데 성공하자 짜릿하고 자랑스러웠으므로(thrilled and proud) ④가 알맞습니다.",
+    "optionNotes": [
+      "지루함에서 짜증이 아닙니다.",
+      "질투에서 부끄러움이 아닙니다.",
+      "편안함에서 실망이 아닙니다.",
+      "정답. 두려움과 망설임에서 짜릿함과 자랑스러움으로 변했습니다.",
+      "호기심에서 무관심이 아닙니다."
+    ],
+    "trap": "처음의 부러움(envious)만 보고 질투가 중심 감정이라고 오해하지 마세요.",
+    "tip": "전환점(on the third try, she was riding alone)을 기준으로 앞뒤 감정을 비교하세요."
+  },
+  {
+    "id": "m3b-18-20",
+    "level": "m3",
+    "set": "mock-18",
+    "no": 20,
+    "type": "claim",
+    "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+    "passage": "Many teenagers receive an allowance or earn money from part-time jobs, but few of them have learned how to manage it. As a result, they often spend all of their money on snacks and games within a few days and end up asking their parents for more. Learning to manage money is not simply a matter of saving. It involves making a budget, distinguishing needs from wants, and thinking about the future. Students who learn these skills early are less likely to fall into debt as adults. Unfortunately, financial education is rarely included in regular school classes. Teachers often say that there is no time, and parents assume that their children will learn it naturally. However, such skills do not develop automatically. Therefore, schools should teach students how to manage their allowance wisely.",
+    "options": [
+      "청소년은 용돈을 받지 않는 것이 바람직하다.",
+      "아르바이트는 학업에 방해가 되므로 금지해야 한다.",
+      "저축을 많이 할수록 어른이 되어서 더 행복하다.",
+      "금융 교육은 부모가 가정에서 전담해야 한다.",
+      "학교에서 학생들에게 용돈을 계획적으로 관리하는 방법을 가르쳐야 한다."
+    ],
+    "answer": 4,
+    "translation": "많은 십대는 용돈을 받거나 아르바이트로 돈을 벌지만 그것을 관리하는 법을 배운 학생은 드물다. 그 결과 그들은 며칠 만에 간식과 게임에 돈을 모두 쓰고 결국 부모에게 더 달라고 한다. 돈 관리를 배우는 것은 단순히 저축의 문제가 아니다. 그것은 예산을 세우고 필요한 것과 원하는 것을 구별하며 미래를 생각하는 일을 포함한다. 이런 기술을 일찍 배운 학생은 성인이 되어 빚에 빠질 가능성이 더 낮다. 안타깝게도 금융 교육은 정규 수업에 거의 포함되지 않는다. 교사들은 흔히 시간이 없다고 말하고 부모들은 아이들이 자연스럽게 배울 것이라고 가정한다. 그러나 그런 기술은 저절로 발달하지 않는다. 그러므로 학교는 학생들에게 용돈을 현명하게 관리하는 방법을 가르쳐야 한다.",
+    "why": "마지막 문장에서 학교가 학생들에게 용돈을 현명하게 관리하는 방법을 가르쳐야 한다고 주장합니다.",
+    "optionNotes": [
+      "용돈을 받지 말자는 말은 나오지 않습니다.",
+      "아르바이트 금지는 나오지 않습니다.",
+      "저축과 행복의 관계는 나오지 않습니다.",
+      "부모에게 맡기자는 말은 글과 반대입니다.",
+      "정답. 학교에서 용돈 관리법을 가르쳐야 합니다."
+    ],
+    "trap": "'parents assume'를 필자의 주장으로 착각해 ④를 고르지 마세요.",
+    "tip": "주장 문제는 'However', 'Therefore, ~ should' 같은 결론 문장을 확인하세요."
+  },
+  {
+    "id": "m3b-18-21",
+    "level": "m3",
+    "set": "mock-18",
+    "no": 21,
+    "type": "implied",
+    "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "passage": "After the heavy rain, the city engineer, Mr. Han, inspected the old water pipes under Main Street. He found three leaks and a cracked pipe near the school. The mayor sighed with relief and said, \"Good. Now we can fix them and move on.\" But Mr. Han shook his head. \"I'm afraid these problems are just {u|the tip of the iceberg},\" he said. \"The pipes in this district are over sixty years old. If we check the other streets, we will probably find many more.\" The next month, the city examined the rest of the system and discovered more than two hundred damaged spots. The mayor admitted that the engineer had been right and approved a large budget to replace the whole network.",
+    "options": [
+      "only a small, visible part of a much larger problem",
+      "a frozen object floating in a cold sea",
+      "a very dangerous accident caused by ice",
+      "the best part of a difficult plan",
+      "the last chance to avoid trouble"
+    ],
+    "answer": 0,
+    "translation": "폭우가 지난 뒤 시의 기술자 한 씨가 중앙로 아래의 오래된 수도관을 점검했다. 그는 세 군데의 누수와 학교 근처의 금이 간 관을 발견했다. 시장은 안도의 한숨을 쉬며 말했다. \"좋아요. 이제 고치고 넘어가면 되겠군요.\" 그러나 한 씨는 고개를 저었다. \"이 문제들은 빙산의 일각에 불과할 것 같습니다.\" 하고 그가 말했다. \"이 지역의 관은 육십 년이 넘었습니다. 다른 거리를 점검하면 아마 훨씬 더 많이 찾게 될 겁니다.\" 다음 달 시는 나머지 설비를 조사해 이백 군데가 넘는 손상 부위를 발견했다. 시장은 기술자가 옳았음을 인정하고 전체 관로를 교체할 큰 예산을 승인했다.",
+    "why": "발견된 문제 외에도 훨씬 더 많은 손상이 있었으므로 'the tip of the iceberg'는 훨씬 더 큰 문제의 눈에 보이는 작은 일부라는 뜻입니다.",
+    "optionNotes": [
+      "정답. 훨씬 더 큰 문제의 눈에 보이는 작은 일부라는 뜻입니다.",
+      "문자 그대로 바다의 얼음이 아닙니다.",
+      "얼음 사고가 아닙니다.",
+      "계획의 가장 좋은 부분이 아닙니다.",
+      "마지막 기회가 아닙니다."
+    ],
+    "trap": "'iceberg'를 문자 그대로 얼음과 관련지어 해석하지 마세요.",
+    "tip": "관용 표현은 뒤 문장(many more, two hundred damaged spots)에서 의미를 추론하세요."
+  },
+  {
+    "id": "m3b-18-22",
+    "level": "m3",
+    "set": "mock-18",
+    "no": 22,
+    "type": "gist",
+    "stem": "다음 글의 요지로 가장 적절한 것은?",
+    "passage": "Many people think that volunteering benefits only the people who receive help. However, research shows that volunteers benefit as well. A study of adults found that those who volunteered regularly felt happier and had lower levels of stress than those who did not. Helping others gives people a sense of purpose and connects them with their community. Volunteers also tend to be more physically active, since many activities involve walking, lifting, or working outdoors. In one long-term study, older adults who volunteered lived longer on average than those who did not. These benefits do not depend on how much time is spent; even two hours a week can make a difference. Therefore, volunteering is a gift to others and also a gift to ourselves.",
+    "options": [
+      "남을 돕는 봉사 활동은 봉사자 자신의 행복과 건강에도 도움이 된다.",
+      "봉사 활동은 시간이 많은 사람만 할 수 있다.",
+      "봉사 활동은 대가를 받아야 지속될 수 있다.",
+      "봉사 활동은 학업 성적을 올리는 데 가장 빠르고 효과적인 방법이다.",
+      "봉사 활동의 효과는 단기간에 사라진다."
+    ],
+    "answer": 0,
+    "translation": "많은 사람은 봉사 활동이 도움을 받는 사람에게만 이득이 된다고 생각한다. 그러나 연구는 봉사자도 이득을 얻는다고 보여 준다. 한 성인 연구에서 정기적으로 봉사한 사람은 그렇지 않은 사람보다 더 행복하고 스트레스 수준이 낮았다. 남을 돕는 것은 사람들에게 목적의식을 주고 공동체와 연결해 준다. 봉사자는 걷기, 들어 올리기, 야외 활동이 많아서 신체 활동도 더 많은 경향이 있다. 한 장기 연구에서 봉사한 노인은 그렇지 않은 노인보다 평균적으로 더 오래 살았다. 이런 이점은 쓴 시간의 양에 달려 있지 않다. 일주일에 두 시간만으로도 차이를 만들 수 있다. 그러므로 봉사 활동은 남에게 주는 선물이자 우리 자신에게 주는 선물이다.",
+    "why": "봉사 활동은 도움받는 사람뿐 아니라 봉사자의 행복과 건강에도 도움이 된다는 내용입니다.",
+    "optionNotes": [
+      "정답. 봉사자 자신의 행복과 건강에도 도움이 됩니다.",
+      "시간이 많은 사람만 할 수 있다는 말은 글과 반대입니다.",
+      "대가는 나오지 않습니다.",
+      "학업 성적은 나오지 않습니다.",
+      "효과가 사라진다는 말은 나오지 않습니다."
+    ],
+    "trap": "첫 문장의 통념(도움받는 사람에게만 이득)을 필자의 주장으로 착각하지 마세요.",
+    "tip": "요지는 'However' 이후와 'Therefore' 문장을 확인하세요."
+  },
+  {
+    "id": "m3b-18-23",
+    "level": "m3",
+    "set": "mock-18",
+    "no": 23,
+    "type": "topic",
+    "stem": "다음 글의 주제로 가장 적절한 것은?",
+    "passage": "On summer nights, fireflies flash their lights like tiny stars. Their glow is one of the most beautiful sights in nature. This light is produced inside their bodies by a chemical reaction. A substance called luciferin combines with oxygen and an enzyme, and energy is released as light with almost no heat. This is why firefly light is called cold light. Fireflies use their lights to communicate. Males flash a particular pattern while flying, and females on the ground reply with their own pattern. Each species has its own code, so a firefly can find a partner of the same kind. Some species also use their light to warn predators that they taste bad. Unfortunately, light pollution and the loss of wetlands are reducing firefly populations around the world.",
+    "options": [
+      "반딧불이의 서식지가 파괴되는 현황",
+      "밤에 활동하는 곤충의 종류와 그들의 생활 방식",
+      "곤충이 겨울을 나는 방법",
+      "전구를 발명한 과정",
+      "반딧불이가 빛을 내는 원리와 그 목적"
+    ],
+    "answer": 4,
+    "translation": "여름밤 반딧불이는 작은 별처럼 빛을 깜박인다. 그 빛은 자연에서 가장 아름다운 광경 중 하나이다. 이 빛은 화학 반응으로 몸속에서 만들어진다. 루시페린이라는 물질이 산소와 효소와 결합하면 열이 거의 없이 에너지가 빛으로 방출된다. 그래서 반딧불이의 빛을 차가운 빛이라고 한다. 반딧불이는 빛으로 의사소통한다. 수컷은 날면서 특정한 패턴으로 깜박이고 땅에 있는 암컷은 자신의 패턴으로 답한다. 종마다 자기만의 암호가 있어서 반딧불이는 같은 종의 짝을 찾을 수 있다. 일부 종은 빛으로 포식자에게 맛이 없다고 경고하기도 한다. 안타깝게도 빛 공해와 습지의 감소가 전 세계에서 반딧불이의 수를 줄이고 있다.",
+    "why": "반딧불이가 빛을 내는 원리와 의사소통·경고라는 목적을 설명하는 글입니다.",
+    "optionNotes": [
+      "서식지 파괴는 일부일 뿐입니다.",
+      "곤충 일반의 종류는 나오지 않습니다.",
+      "겨울나기는 나오지 않습니다.",
+      "전구 발명은 나오지 않습니다.",
+      "정답. 빛을 내는 원리와 목적입니다."
+    ],
+    "trap": "마지막 문장의 개체 수 감소를 글 전체의 주제(①)로 착각하지 마세요.",
+    "tip": "주제는 글 전체를 아우르는 핵심(원리 + 목적)을 담은 선택지를 고르세요."
+  },
+  {
+    "id": "m3b-18-24",
+    "level": "m3",
+    "set": "mock-18",
+    "no": 24,
+    "type": "title",
+    "stem": "다음 글의 제목으로 가장 적절한 것은?",
+    "passage": "A handful of healthy soil contains more living organisms than there are people on Earth. Earthworms, insects, fungi, and billions of microscopic bacteria all live and work together in the ground. Earthworms dig tunnels that let air and water reach plant roots. Fungi form networks that carry nutrients between plants. Bacteria break down dead leaves and animals and turn them into food for new plants. Without this hidden community, nothing would grow, and the food we eat would not exist. However, soil is being damaged by heavy farming, chemicals, and construction. Scientists say that it can take hundreds of years to form just a few centimeters of fertile soil. For this reason, we should take better care of the ground we walk on.",
+    "options": [
+      "How to Build the Tallest Building in the World",
+      "Why Farmers Wake Up Early in the Morning",
+      "The Dangers of Walking Barefoot on the Beach",
+      "Soil: The Hidden World Beneath Our Feet",
+      "A Complete Guide to Buying Winter Boots Online"
+    ],
+    "answer": 3,
+    "translation": "건강한 흙 한 줌에는 지구상의 사람 수보다 더 많은 생물이 들어 있다. 지렁이, 곤충, 균류, 수십억 마리의 미세한 세균이 모두 땅속에서 함께 살며 일한다. 지렁이는 터널을 파서 공기와 물이 식물 뿌리에 닿게 한다. 균류는 식물 사이에 영양분을 나르는 그물망을 만든다. 세균은 죽은 잎과 동물을 분해해 새 식물의 양분으로 바꾼다. 이 숨은 공동체가 없다면 아무것도 자라지 못하고 우리가 먹는 음식도 없을 것이다. 그러나 흙은 집약적 농업, 화학 물질, 건설로 손상되고 있다. 과학자들은 비옥한 흙 몇 센티미터가 만들어지는 데 수백 년이 걸릴 수 있다고 말한다. 이런 이유로 우리는 우리가 걷는 땅을 더 잘 돌봐야 한다.",
+    "why": "발밑 흙 속의 숨은 생물 세계를 설명하므로 ④가 제목으로 알맞습니다.",
+    "optionNotes": [
+      "건물 높이는 나오지 않습니다.",
+      "농부의 기상은 나오지 않습니다.",
+      "맨발 걷기는 나오지 않습니다.",
+      "정답. 발밑 흙의 숨은 세계입니다.",
+      "겨울 부츠 구입은 나오지 않습니다."
+    ],
+    "trap": "'ground we walk on'이 나온다고 맨발·신발(③⑤)과 관련지어 생각하지 마세요.",
+    "tip": "제목은 글 전체의 핵심 대상(흙)과 내용(숨은 세계)을 담으세요."
+  },
+  {
+    "id": "m3b-18-25",
+    "level": "m3",
+    "set": "mock-18",
+    "no": 25,
+    "type": "chart",
+    "stem": "다음 도표의 내용과 일치하지 않는 것은?",
+    "chart": {
+      "title": "Visitors to Hanbit Museum by Month (hundreds)",
+      "unit": "",
+      "labels": [
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov"
+      ],
+      "series": [
+        {
+          "name": "Visitors",
+          "values": [
+            30,
+            45,
+            20,
+            35,
+            10
+          ]
+        }
+      ]
+    },
+    "passage": "The graph shows the number of visitors to Hanbit Museum from July to November. ① September has the fewest visitors. ② August has the most visitors. ③ October has 15 hundred more visitors than September. ④ The number for July is three times that for November. ⑤ The total number of visitors in September and November is the same as that in July.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "그래프는 7월부터 11월까지 한빛 박물관의 방문객 수를 보여 준다. ① 9월의 방문객이 가장 적다. ② 8월의 방문객이 가장 많다. ③ 10월은 9월보다 1,500명 더 많은 방문객이 있다. ④ 7월의 수는 11월의 세 배이다. ⑤ 9월과 11월 방문객의 합은 7월과 같다.",
+    "why": "방문객이 가장 적은 달은 11월(10백 명)이고 9월은 20백 명이므로 ①은 일치하지 않습니다.",
+    "optionNotes": [
+      "정답(불일치). 가장 적은 달은 11월입니다.",
+      "8월 45로 가장 많습니다.",
+      "35 - 20 = 15입니다.",
+      "30은 10의 세 배입니다.",
+      "20 + 10 = 30으로 7월과 같습니다."
+    ],
+    "trap": "인접한 달 두 개만 비교하고 '가장 적은'을 판단하지 마세요.",
+    "tip": "그래프 문제는 '가장 ~한' 표현을 모든 항목과 비교해 확인하세요."
+  },
+  {
+    "id": "m3b-18-26",
+    "level": "m3",
+    "set": "mock-18",
+    "no": 26,
+    "type": "match",
+    "stem": "Amelia Earhart에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Amelia Earhart was born in 1897 in Kansas, in the United States. She became interested in flying at the age of twenty-three, when she took her first ride in an airplane. She worked hard to pay for flying lessons and bought her first plane at twenty-four. In 1932, she became the first woman to fly alone across the Atlantic Ocean, and the trip took her about fifteen hours. Three years later, she became the first person to fly alone from Hawaii to California. Earhart also encouraged other women to pursue careers in aviation and helped found an organization for female pilots. In 1937, she tried to fly around the world, but her plane disappeared over the Pacific Ocean, and she was never found.",
+    "options": [
+      "비행 학교를 마친 뒤에 곧바로 군대의 조종사로 오랫동안 근무했다.",
+      "하와이에서 캘리포니아까지 동행과 함께 비행했다.",
+      "세계 일주 비행을 성공한 뒤 은퇴했다.",
+      "1932년 여성으로서 처음으로 대서양을 혼자 횡단했다.",
+      "어린 시절부터 조종사가 되는 것이 꿈이었다."
+    ],
+    "answer": 3,
+    "translation": "어밀리아 에어하트는 1897년 미국 캔자스에서 태어났다. 그녀는 스물세 살에 처음 비행기를 탔을 때 비행에 관심을 갖게 되었다. 그녀는 비행 수업료를 마련하려고 열심히 일했고 스물네 살에 첫 비행기를 샀다. 1932년 그녀는 여성으로서 처음으로 대서양을 혼자 횡단했고 그 여행은 약 열다섯 시간이 걸렸다. 삼 년 뒤 그녀는 하와이에서 캘리포니아까지 혼자 비행한 최초의 사람이 되었다. 에어하트는 다른 여성들이 항공 분야에서 경력을 쌓도록 격려했고 여성 조종사들의 단체를 세우는 것을 도왔다. 1937년 그녀는 세계 일주 비행을 시도했지만 그녀의 비행기는 태평양 위에서 사라졌고 그녀는 끝내 발견되지 않았다.",
+    "why": "1932년 여성으로서 처음으로 대서양을 혼자 횡단했다고 하므로 ④가 일치합니다.",
+    "optionNotes": [
+      "군 조종사 근무는 나오지 않습니다.",
+      "하와이에서 캘리포니아까지 혼자 비행했습니다.",
+      "세계 일주 비행 중 실종되었습니다.",
+      "정답. 1932년 최초로 대서양을 혼자 횡단했습니다.",
+      "스물세 살에 처음 비행에 관심을 갖게 되었습니다."
+    ],
+    "trap": "'first woman'(대서양)과 'first person'(하와이)의 범위를 혼동하지 마세요.",
+    "tip": "일치 문제는 연도·업적·실종 같은 세부 내용을 보기와 하나씩 대조하세요."
+  },
+  {
+    "id": "m3b-18-27",
+    "level": "m3",
+    "set": "mock-18",
+    "no": 27,
+    "type": "notice",
+    "stem": "Winter Concert 안내문의 내용과 일치하는 것은?",
+    "passage": "Hanbit Youth Orchestra - Winter Concert\nDate: Saturday, December 13, 6 p.m. (doors open at 5:30 p.m.)\nPlace: Hanbit Arts Center Concert Hall\nProgram: Works by Beethoven and Dvorak, and a new piece by a student composer\nTickets: $10 for adults / $5 for students / Free for children under 7\nSpecial event: Before the concert, children can try playing instruments in the lobby from 4:30 p.m.\nNote: Food and drinks are not allowed in the hall. Latecomers can enter during the intermission only.",
+    "options": [
+      "공연은 오전에 시작한다.",
+      "7세 미만 어린이도 입장권을 사야 한다.",
+      "공연 전에 로비에서 악기를 체험해 볼 수 있다.",
+      "공연장에서 간단한 음식을 먹을 수 있다.",
+      "늦게 온 관객은 공연 중 언제든 자유롭게 입장할 수 있다."
+    ],
+    "answer": 2,
+    "translation": "한빛 청소년 오케스트라 – 겨울 음악회. 일시: 12월 13일 토요일 오후 6시(5시 30분 입장 시작). 장소: 한빛 아트센터 콘서트홀. 프로그램: 베토벤과 드보르자크의 작품, 학생 작곡가의 신곡. 입장권: 성인 10달러 / 학생 5달러 / 7세 미만 어린이 무료. 특별 행사: 공연 전 4시 30분부터 로비에서 어린이가 악기를 체험해 볼 수 있습니다. 유의: 공연장에서는 음식과 음료가 허용되지 않습니다. 늦은 관객은 중간 휴식 시간에만 입장할 수 있습니다.",
+    "why": "'Before the concert, children can try playing instruments in the lobby'와 일치합니다.",
+    "optionNotes": [
+      "오후 6시에 시작합니다.",
+      "7세 미만은 무료입니다.",
+      "정답. 공연 전에 로비에서 악기를 체험할 수 있습니다.",
+      "음식과 음료는 허용되지 않습니다.",
+      "늦은 관객은 중간 휴식 시간에만 입장할 수 있습니다."
+    ],
+    "trap": "입장 시작 시각(5시 30분)과 악기 체험 시작 시각(4시 30분)을 혼동하지 마세요.",
+    "tip": "안내문의 Date, Tickets, Special event, Note 항목을 하나씩 대조하세요."
+  },
+  {
+    "id": "m3b-18-28",
+    "level": "m3",
+    "set": "mock-18",
+    "no": 28,
+    "type": "notice",
+    "stem": "Summer Exchange Program 안내문의 내용과 일치하는 것은?",
+    "passage": "Hanbit Middle School - Summer Exchange Program in Canada\nPeriod: July 20 - August 3 (two weeks)\nWho can join: Students in Grades 8 and 9 (limited to 15 students)\nFee: $2,500 (flight, host family stay, and school activities included)\nAccommodation: Students will stay with local host families.\nApplication: Submit the form and a short essay to the international office by May 16.\nSelection: Based on the essay and an interview; results on May 23\nInformation session: Thursday, May 8, 4 p.m., Room 301",
+    "options": [
+      "프로그램은 한 달 동안 진행된다.",
+      "7학년 학생도 지원할 수 있다.",
+      "참가비에 항공권이 포함되지 않아 따로 구입해야 한다.",
+      "선발은 추첨으로 이루어진다.",
+      "참가자는 현지 가정에서 머문다."
+    ],
+    "answer": 4,
+    "translation": "한빛 중학교 – 캐나다 여름 교환 프로그램. 기간: 7월 20일~8월 3일(2주). 참가 대상: 8~9학년 학생(15명 한정). 참가비: 2,500달러(항공권, 홈스테이, 학교 활동 포함). 숙소: 학생들은 현지 가정에서 머뭅니다. 신청: 5월 16일까지 신청서와 짧은 에세이를 국제 교류실에 제출. 선발: 에세이와 면접을 바탕으로 하며 결과는 5월 23일. 설명회: 5월 8일 목요일 오후 4시, 301호.",
+    "why": "'Students will stay with local host families'와 일치합니다.",
+    "optionNotes": [
+      "2주 동안 진행됩니다.",
+      "8~9학년만 지원할 수 있습니다.",
+      "참가비에 항공권이 포함됩니다.",
+      "에세이와 면접으로 선발합니다.",
+      "정답. 현지 가정에서 머뭅니다."
+    ],
+    "trap": "신청 마감(5월 16일), 결과 발표(5월 23일), 설명회(5월 8일)를 혼동하지 마세요.",
+    "tip": "안내문의 Period, Who, Fee, Accommodation, Selection 항목을 하나씩 대조하세요."
+  }
+]
