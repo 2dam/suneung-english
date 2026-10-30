@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m3b-26-29",
+    "level": "m3",
+    "set": "mock-26",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "The Titanic, {1|which} was the largest ship in the world, sank on its first voyage in 1912. People believed that it was unsinkable, so it carried too few lifeboats, enough for only about half of the passengers. On the night of April 14, the ship hit an iceberg in the North Atlantic. Within three hours, the Titanic broke apart and sank, {2|killing} more than fifteen hundred people. Investigations later showed that the crew had received several warnings about ice but {3|had not slowed} the ship. After this tragedy, new safety rules required that every ship carry enough lifeboats for everyone on board. It also became compulsory for ships {4|keep} their radios on at all times. The disaster {5|reminds} us how dangerous overconfidence can be.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "세계에서 가장 큰 배였던 타이태닉호는 1912년 첫 항해에서 침몰했다. 사람들은 그 배가 가라앉지 않는다고 믿어서 구명보트를 너무 적게 실었고 승객의 절반 정도에게만 충분했다. 4월 14일 밤 배는 북대서양에서 빙산에 부딪혔다. 세 시간 안에 타이태닉호는 부서져 가라앉았고 천오백 명이 넘는 사람이 죽었다. 이후 조사는 선원들이 얼음에 대한 경고를 여러 번 받았지만 배의 속도를 줄이지 않았음을 보여 주었다. 이 비극 뒤에 새 안전 규칙은 모든 배가 탑승자 모두를 위한 충분한 구명보트를 싣도록 요구했다. 배가 늘 무선 통신기를 켜 두는 것도 의무가 되었다. 이 참사는 지나친 자신감이 얼마나 위험할 수 있는지 상기시킨다.",
+    "why": "가주어 it ~ for A to부정사 구조이므로 for ships keep이 아니라 for ships to keep이어야 합니다.",
+    "optionNotes": [
+      "선행사 The Titanic을 받는 계속적 용법의 관계대명사 which입니다.",
+      "결과를 나타내는 분사구문 killing입니다.",
+      "과거완료 had not slowed입니다.",
+      "정답(틀린 것). for ships to keep이어야 합니다.",
+      "단수 주어 disaster에 맞는 reminds입니다."
+    ],
+    "trap": "앞의 'required that every ship carry'(가정법 현재)와 헷갈려 동사원형을 쓰기 쉽습니다.",
+    "tip": "가주어 it ~ for A to부정사 구조를 확인하세요."
+  },
+  {
+    "id": "m3b-26-30",
+    "level": "m3",
+    "set": "mock-26",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Minimalism is a lifestyle in which people choose to own fewer things. Instead of {1|buying} items they do not need, minimalists keep only what they truly use or love. Supporters say that a simple home is easier to clean and {2|organize}. They also spend less money and create less waste. Many minimalists report feeling calmer, because there are fewer objects to {3|distract} their attention. However, minimalism does not mean living with nothing. It is not about following strict rules, but about {4|ignoring} what really matters to you. Whether you choose to own ten items or a thousand, the main idea is to be {5|intentional} about your choices. It is a way of making room for what is important in your life.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "미니멀리즘은 더 적은 물건을 소유하기로 선택하는 생활 방식이다. 필요하지 않은 물건을 사는 대신 미니멀리스트는 정말 쓰거나 좋아하는 것만 가진다. 지지자들은 단순한 집이 청소하고 정리하기 더 쉽다고 말한다. 또 돈을 덜 쓰고 쓰레기를 덜 만든다. 많은 미니멀리스트는 주의를 흩뜨리는 물건이 적어서 더 차분해진다고 한다. 그러나 미니멀리즘은 아무것도 없이 사는 것을 뜻하지 않는다. 엄격한 규칙을 따르는 것이 아니라 자신에게 정말 중요한 것을 무시하는 것이다. 열 개를 갖든 천 개를 갖든 핵심은 선택에 의도를 가지는 것이다. 그것은 삶에서 중요한 것을 위한 공간을 만드는 방법이다.",
+    "why": "미니멀리즘은 자신에게 정말 중요한 것을 '알아내는(identifying)' 것이므로 ignoring은 부적절합니다.",
+    "optionNotes": [
+      "필요하지 않은 물건을 산다는 의미로 buying이 알맞습니다.",
+      "정리하기 쉽다는 의미로 organize가 알맞습니다.",
+      "주의를 흩뜨린다는 의미로 distract가 알맞습니다.",
+      "정답(부적절). 중요한 것을 알아내는 것이므로 identifying이어야 합니다.",
+      "의도를 가진다는 의미로 intentional이 알맞습니다."
+    ],
+    "trap": "'It is not about ~, but about ~' 구문에서 뒤 내용이 긍정이어야 함을 놓치기 쉽습니다.",
+    "tip": "not A but B에서 B가 글의 핵심 가치(중요한 것을 알아냄)와 일치하는지 확인하세요."
+  },
+  {
+    "id": "m3b-26-31",
+    "level": "m3",
+    "set": "mock-26",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Imagine that you have bought a movie ticket for twelve dollars, but after twenty minutes, you realize that the film is boring. Many people continue to watch because they do not want to waste the money they have already spent. This is called the sunk cost fallacy. The money is gone whether you leave or stay, so the only question that matters is how to spend the rest of your time well. A similar thing happens when people keep waiting for a bus that is late, thinking that it must come soon. Yet we tend to continue with projects, relationships, and jobs simply because we have already invested time and effort in them. To make better decisions, we should focus on __________.",
+    "options": [
+      "the money that we have already spent in the past",
+      "the opinions of all the people around us",
+      "what will be best for us from now on",
+      "the amount of effort that we put in before",
+      "how to avoid every kind of change completely"
+    ],
+    "answer": 2,
+    "translation": "영화표를 12달러에 샀는데 이십 분 뒤 영화가 지루하다는 것을 깨달았다고 상상해 보라. 많은 사람은 이미 쓴 돈을 낭비하고 싶지 않아서 계속 본다. 이를 매몰 비용 오류라고 한다. 떠나든 남든 돈은 이미 사라졌으므로 중요한 질문은 남은 시간을 어떻게 잘 쓸지뿐이다. 비슷한 일은 늦은 버스가 곧 올 것이라 생각하며 계속 기다리는 사람들에게도 일어난다. 그런데 우리는 이미 시간과 노력을 들였다는 이유만으로 프로젝트, 관계, 일을 계속하는 경향이 있다. 더 나은 결정을 내리려면 지금부터 우리에게 가장 좋은 것에 집중해야 한다.",
+    "why": "이미 쓴 돈은 돌아오지 않으므로 지금부터 무엇이 가장 좋은지에 집중해야 합니다.",
+    "optionNotes": [
+      "이미 쓴 돈에 집중하는 것이 오류입니다.",
+      "타인의 의견은 나오지 않습니다.",
+      "정답. 지금부터 무엇이 가장 좋은지에 집중합니다.",
+      "과거에 들인 노력은 오류의 원인입니다.",
+      "변화를 피한다는 내용은 나오지 않습니다."
+    ],
+    "trap": "과거에 들인 노력(④)이 결정의 기준이 아님을 놓치지 마세요.",
+    "tip": "'the only question that matters' 뒤의 내용이 정답의 근거입니다."
+  },
+  {
+    "id": "m3b-26-32",
+    "level": "m3",
+    "set": "mock-26",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Have you ever yawned right after seeing someone else yawn? Contagious yawning is common in humans, and it also occurs in dogs and chimpanzees. In one experiment, volunteers watched a video of people yawning, and then they yawned about once a minute. Scientists believe that it is related to empathy. People tend to yawn more when others close to them yawn, such as family and friends, than when strangers do. Children under four years old do not usually catch yawns, because their ability to understand others' feelings is still developing. Some researchers suggest that mirror neurons in the brain, which become active when we watch others perform an action, may be involved. We yawn after seeing others yawn because we __________.",
+    "options": [
+      "are always very tired in the afternoon",
+      "unconsciously respond to those around us",
+      "need more oxygen than the people next to us",
+      "want to show that we are bored with the topic",
+      "are trying to keep ourselves from falling asleep"
+    ],
+    "answer": 1,
+    "translation": "다른 사람이 하품하는 것을 본 직후 하품한 적이 있는가? 전염되는 하품은 사람에게 흔하고 개와 침팬지에게도 나타난다. 한 실험에서 자원자들은 사람들이 하품하는 영상을 보고 나서 일 분에 한 번쯤 하품했다. 과학자들은 그것이 공감과 관련 있다고 믿는다. 사람들은 낯선 사람이 하품할 때보다 가족이나 친구처럼 가까운 사람이 하품할 때 더 많이 따라 한다. 네 살 미만 아이들은 남의 감정을 이해하는 능력이 아직 발달 중이어서 보통 하품이 옮지 않는다. 일부 연구자들은 남이 어떤 행동을 하는 것을 볼 때 활성화되는 뇌의 거울 뉴런이 관여할 수 있다고 제안한다. 우리가 남의 하품을 보고 하품하는 것은 주변 사람들의 행동과 감정에 무의식적으로 반응하기 때문이다.",
+    "why": "공감과 거울 뉴런과 관련되어 주변 사람의 행동과 감정에 무의식적으로 반응하기 때문입니다.",
+    "optionNotes": [
+      "오후 피로는 나오지 않습니다.",
+      "정답. 주변 사람의 행동과 감정에 무의식적으로 반응합니다.",
+      "산소 필요량은 나오지 않습니다.",
+      "지루함은 나오지 않습니다.",
+      "잠을 막으려는 것은 나오지 않습니다."
+    ],
+    "trap": "하품이 졸리거나 지루한 상태라는 통념(①④)을 정답으로 착각하지 마세요.",
+    "tip": "공감, 거울 뉴런 같은 핵심어가 정답의 근거입니다."
+  },
+  {
+    "id": "m3b-26-33",
+    "level": "m3",
+    "set": "mock-26",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Russian has two different words for light blue and dark blue, while English uses one word, blue, for both. Researchers tested how quickly Russian and English speakers could tell two shades of blue apart. Russian speakers were faster when the two colors belonged to different categories, such as light blue and dark blue. English speakers showed no such difference. In another study, people who spoke languages with many words for colors sorted them faster. This suggests that the words we have in our language can influence how we see and categorize the world. It does not mean that English speakers cannot see the difference, but their brains may not react in the same way. In short, the language we speak can __________.",
+    "options": [
+      "change the actual color of our eyes",
+      "make us forget our native language",
+      "affect how our brains perceive and group the things around us",
+      "decide which sports we are able to play",
+      "stop us from learning any new languages"
+    ],
+    "answer": 2,
+    "translation": "러시아어에는 밝은 파랑과 어두운 파랑을 가리키는 두 개의 다른 낱말이 있지만 영어는 둘 모두에 파랑이라는 한 낱말을 쓴다. 연구자들은 러시아어와 영어 화자가 두 가지 파랑 색조를 얼마나 빨리 구별하는지 시험했다. 러시아어 화자는 두 색이 밝은 파랑과 어두운 파랑처럼 서로 다른 범주에 속할 때 더 빨랐다. 영어 화자에게는 그런 차이가 없었다. 다른 연구에서는 색을 나타내는 낱말이 많은 언어를 쓰는 사람이 색을 더 빨리 분류했다. 이는 우리 언어에 있는 낱말이 우리가 세상을 보고 분류하는 방식에 영향을 줄 수 있음을 시사한다. 영어 화자가 차이를 볼 수 없다는 뜻은 아니지만 뇌가 같은 방식으로 반응하지 않을 수 있다. 요컨대 우리가 쓰는 언어는 우리 뇌가 주변 사물을 인식하고 묶는 방식에 영향을 줄 수 있다.",
+    "why": "언어의 낱말이 색을 구별하는 속도에 영향을 주었으므로 뇌가 사물을 인식하고 묶는 방식에 영향을 줍니다.",
+    "optionNotes": [
+      "눈의 색은 나오지 않습니다.",
+      "모국어를 잊는다는 내용은 나오지 않습니다.",
+      "정답. 사물을 인식하고 묶는 방식에 영향을 줍니다.",
+      "운동은 나오지 않습니다.",
+      "새 언어 학습은 나오지 않습니다."
+    ],
+    "trap": "'cannot see the difference'가 아님을 놓치면 극단적인 선택지에 끌립니다.",
+    "tip": "실험 결과(범주가 다를 때 더 빠름)가 결론의 근거입니다."
+  },
+  {
+    "id": "m3b-26-34",
+    "level": "m3",
+    "set": "mock-26",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "When an elephant dies, other elephants in the herd often gather around the body. They touch it gently with their trunks, stand quietly for hours, and sometimes cover it with leaves and branches. Researchers have observed elephants returning to the bones of dead relatives years later and touching them with their feet and trunks. A herd once stayed beside a dying member for several days without eating, which surprised many scientists. Their behavior was recorded on video. Elephants also comfort a distressed member of the herd by touching it softly and making low sounds. Because their brains have areas that are similar to those that process emotions in humans, many scientists believe that elephants experience feelings such as sadness. These behaviors suggest that elephants __________.",
+    "options": [
+      "have no memory of their own relatives at all",
+      "can feel emotions like humans do",
+      "avoid the bodies of other dead animals completely",
+      "live alone throughout most of their long lives",
+      "react only to very loud noises in their area"
+    ],
+    "answer": 1,
+    "translation": "코끼리가 죽으면 무리의 다른 코끼리들이 흔히 사체 둘레에 모인다. 그들은 코로 부드럽게 만지고 몇 시간 동안 조용히 서 있으며 때로는 잎과 가지로 덮기도 한다. 연구자들은 코끼리가 몇 해 뒤 죽은 친척의 뼈로 돌아와 발과 코로 만지는 것을 관찰했다. 한 무리는 죽어 가는 구성원 곁에 먹지도 않고 며칠 동안 머물러 많은 과학자를 놀라게 했다. 그들의 행동은 영상으로 기록되었다. 코끼리는 괴로워하는 무리의 구성원을 부드럽게 만지고 낮은 소리를 내어 위로하기도 한다. 뇌에 사람의 감정을 처리하는 부위와 비슷한 영역이 있어서 많은 과학자는 코끼리가 슬픔 같은 감정을 느낀다고 믿는다. 이런 행동은 코끼리가 사람과 비슷한 감정을 느낄 수 있음을 시사한다.",
+    "why": "사체를 돌보고 뼈를 찾아오며 동료를 위로하는 행동이 감정 처리 부위와 관련되므로 사람과 비슷한 감정을 느낀다고 볼 수 있습니다.",
+    "optionNotes": [
+      "친척을 기억하지 못한다는 내용은 글과 반대입니다.",
+      "정답. 사람과 비슷한 감정을 느낄 수 있습니다.",
+      "다른 동물의 사체를 피한다는 내용은 나오지 않습니다.",
+      "혼자 산다는 내용은 글과 반대입니다.",
+      "큰 소리에만 반응한다는 내용은 나오지 않습니다."
+    ],
+    "trap": "'bones of dead relatives'를 보고 기억하지 못한다(①)고 반대로 이해하지 마세요.",
+    "tip": "관찰 사례들이 가리키는 공통 결론을 고르세요."
+  },
+  {
+    "id": "m3b-26-35",
+    "level": "m3",
+    "set": "mock-26",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Every year, a large amount of edible food ends up in the trash, which wastes money and harms the environment. Fortunately, there are simple ways to reduce food waste at home. ① Plan your meals before shopping so that you buy only what you really need. ② Store food properly by placing older items at the front of the refrigerator so that they are used first. ③ Use leftovers to make new dishes, such as fried rice or soup. ④ The Mona Lisa is displayed at the Louvre Museum in Paris, where millions of people see it each year. ⑤ Put vegetable scraps in a compost bin instead of throwing them away.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "해마다 먹을 수 있는 많은 음식이 쓰레기통에 들어가는데 이는 돈을 낭비하고 환경을 해친다. 다행히 집에서 음식물 쓰레기를 줄이는 간단한 방법이 있다. ① 정말 필요한 것만 사도록 장 보기 전에 식단을 계획하라. ② 오래된 것을 먼저 쓰도록 냉장고 앞쪽에 두어 음식을 제대로 보관하라. ③ 볶음밥이나 국 같은 새 요리를 만드는 데 남은 음식을 써라. ④ 모나리자는 파리의 루브르 박물관에 전시되어 있고 해마다 수백만 명이 본다. ⑤ 채소 껍질은 버리지 말고 퇴비통에 넣어라.",
+    "why": "글은 음식물 쓰레기를 줄이는 방법을 이야기하는데 ④는 모나리자에 관한 별개의 이야기입니다.",
+    "optionNotes": [
+      "식단을 계획하는 방법입니다.",
+      "보관을 잘하는 방법입니다.",
+      "남은 음식을 활용하는 방법입니다.",
+      "정답(무관). 모나리자 이야기라 관계가 없습니다.",
+      "퇴비로 만드는 방법입니다."
+    ],
+    "trap": "앞뒤가 모두 방법이므로 중간에 낀 별개 주제를 놓치기 쉽습니다.",
+    "tip": "각 문장이 '음식물 쓰레기 줄이기 방법'인지 확인하세요."
+  },
+  {
+    "id": "m3b-26-36",
+    "level": "m3",
+    "set": "mock-26",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "The potato chip is one of the world's favorite snacks, yet it began as a kitchen joke. In 1853, a customer at a restaurant in New York kept sending back his fried potatoes.\n(A) Over the next decades, companies started to produce chips in bags and sell them in stores. Today, they come in dozens of flavors in countries around the world.\n(B) He complained that the slices were too thick and soggy. The chef, George Crum, became annoyed and decided to teach him a lesson by slicing the potatoes as thin as paper and frying them until they were crisp.\n(C) To his surprise, the customer loved them. Soon, other guests began to order the crispy potatoes, and they became a popular item on the menu.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 2,
+    "translation": "감자칩은 세계에서 가장 사랑받는 간식 중 하나이지만 부엌의 장난으로 시작되었다. 1853년 뉴욕의 한 식당에서 손님이 튀긴 감자를 계속 돌려보냈다. (B) 그는 조각이 너무 두껍고 눅눅하다고 불평했다. 요리사 조지 크럼은 짜증이 나서 교훈을 주려고 감자를 종이처럼 얇게 썰어 바삭해질 때까지 튀겼다. (C) 놀랍게도 손님은 그것을 아주 좋아했다. 곧 다른 손님들도 바삭한 감자를 주문하기 시작했고 그것은 메뉴의 인기 품목이 되었다. (A) 이후 수십 년 동안 회사들은 칩을 봉지에 담아 생산하고 가게에서 팔기 시작했다. 오늘날에는 전 세계에서 수십 가지 맛으로 나온다.",
+    "why": "(B) 불평하는 손님과 얇게 튀긴 감자 → (C) 'To his surprise' 손님이 좋아함 → (A) 이후 수십 년 뒤 대량 생산 순서입니다.",
+    "optionNotes": [
+      "(A)의 오늘날이 맨 앞에 올 수 없습니다.",
+      "(A)의 'chips'가 가리킬 대상이 (C) 없이 불분명합니다.",
+      "정답. 불평 → 놀라운 반응 → 대량 생산.",
+      "(C)의 'To his surprise'가 앞의 행동 없이 올 수 없습니다.",
+      "(C)가 맨 앞에 올 수 없습니다."
+    ],
+    "trap": "(C)의 'the customer'는 주어진 글에서 소개된 불평하는 손님입니다.",
+    "tip": "complained → To his surprise → Over the next decades의 사건 순서를 따라가세요."
+  },
+  {
+    "id": "m3b-26-37",
+    "level": "m3",
+    "set": "mock-26",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "My town holds a small flea market in the park every spring. This year, I decided to sell some of my old toys and books for the first time. I wanted to earn some pocket money.\n(A) By afternoon, I had sold almost everything and earned fifty dollars. I used the money to buy a gift for my little sister. I also felt proud of myself.\n(B) Early on Sunday morning, my father helped me carry the boxes to the park and set up a table. At first, few people stopped, but I called out to the visitors politely.\n(C) On the previous weekend, I sorted through my room and picked out about thirty items. I cleaned each of them and attached a price tag.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 4,
+    "translation": "우리 동네는 해마다 봄에 공원에서 작은 벼룩시장을 연다. 올해 나는 처음으로 낡은 장난감과 책 일부를 팔기로 했다. 나는 용돈을 조금 벌고 싶었다. (C) 그 전 주말에 나는 방을 정리해 서른 개쯤을 골랐다. 하나하나 닦고 가격표를 붙였다. (B) 일요일 이른 아침 아버지가 상자를 공원으로 나르고 탁자를 차리는 것을 도와주셨다. 처음에는 멈추는 사람이 거의 없었지만 나는 방문객에게 공손히 소리쳐 불렀다. (A) 오후가 되자 나는 거의 모두 팔아 오십 달러를 벌었다. 그 돈으로 여동생에게 줄 선물을 샀다. 나는 스스로가 뿌듯하기도 했다.",
+    "why": "(C) 그 전 주말에 물건을 고르고 준비 → (B) 일요일 아침 장터에 차림 → (A) 오후에 판매 완료와 수익 순서입니다.",
+    "optionNotes": [
+      "(A)의 결과가 맨 앞에 올 수 없습니다.",
+      "(B)의 일요일 아침이 준비 과정 없이 앞에 올 수 없습니다.",
+      "(B)가 맨 앞에 오면 'the boxes'의 준비 맥락이 빠집니다.",
+      "(A)의 결과가 (B)의 장터보다 먼저 올 수 없습니다.",
+      "정답. 준비 → 장터 → 판매 결과."
+    ],
+    "trap": "(B)의 'the boxes'는 (C)에서 정리한 물건을 담은 상자를 가리킵니다.",
+    "tip": "previous weekend → Early on Sunday → By afternoon의 시간 순서를 따라가세요."
+  },
+  {
+    "id": "m3b-26-38",
+    "level": "m3",
+    "set": "mock-26",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nFor this reason, many countries have begun to set up protected areas and ban construction in them.\n\n[글]\n( ① ) Wetlands, such as marshes and swamps, are often seen as useless land. ( ② ) In fact, they act like giant sponges that absorb water during heavy rains and reduce floods. ( ③ ) They also filter pollutants from the water, providing cleaner water for nearby cities. ( ④ ) In addition, wetlands are home to many rare birds, fish, and plants, yet more than a third of the world's wetlands have disappeared since 1970. ( ⑤ ) Now, scientists and governments are working together to save the wetlands that remain.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "[주어진 문장] 이런 이유로 많은 나라가 보호 구역을 설정하고 그곳에서의 건설을 금지하기 시작했다. [글] 습지, 즉 늪과 소택지는 흔히 쓸모없는 땅으로 여겨진다. 사실 습지는 큰비가 올 때 물을 흡수해 홍수를 줄이는 거대한 스펀지처럼 작용한다. 또 물에서 오염 물질을 걸러 주변 도시에 더 깨끗한 물을 공급한다. 게다가 습지는 많은 희귀한 새, 물고기, 식물의 서식지인데도 1970년 이후 세계 습지의 3분의 1 이상이 사라졌다. 이제 과학자와 정부는 남아 있는 습지를 구하려고 함께 노력하고 있다.",
+    "why": "습지의 가치와 감소를 설명한 뒤 'For this reason'으로 보호 구역 설정이 이어지고, 다음 문장이 구체적 협력을 말하므로 ⑤에 들어갑니다.",
+    "optionNotes": [
+      "'this reason'이 가리킬 이유가 아직 없습니다.",
+      "습지의 가치를 말하기 전이라 이릅니다.",
+      "정화 기능 설명 앞이라 이유가 부족합니다.",
+      "감소 설명이 같은 문장에 있어 앞에 둘 수 없습니다.",
+      "정답. 이유 뒤에 보호 조치가 이어지고 협력이 나옵니다."
+    ],
+    "trap": "'For this reason'은 습지의 가치와 감소를 모두 설명한 직후에 놓입니다.",
+    "tip": "For this reason은 이유가 모두 제시된 직후에 놓이고 그 결과가 이어집니다."
+  },
+  {
+    "id": "m3b-26-39",
+    "level": "m3",
+    "set": "mock-26",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nNot every fear is a bad thing.\n\n[글]\n( ① ) In fact, fear has helped humans survive for thousands of years. ( ② ) When we sense danger, our heart beats faster, and our muscles prepare us to run or fight. ( ③ ) This quick reaction protects us from harm before we even have time to think. ( ④ ) However, when fear becomes too strong, it can stop us from trying new and valuable things. ( ⑤ ) The key is to listen to our fear without letting it control our decisions.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "[주어진 문장] 모든 두려움이 나쁜 것은 아니다. [글] 사실 두려움은 수천 년 동안 인간이 살아남도록 도왔다. 위험을 감지하면 심장이 더 빨리 뛰고 근육이 달리거나 싸울 준비를 한다. 이 빠른 반응은 생각할 시간도 갖기 전에 해로움으로부터 우리를 지킨다. 그러나 두려움이 너무 강해지면 새롭고 가치 있는 일을 시도하지 못하게 할 수 있다. 핵심은 두려움이 우리의 결정을 지배하게 두지 않으면서 그것에 귀를 기울이는 것이다.",
+    "why": "일반적인 진술(모든 두려움이 나쁜 것은 아님) 뒤에 'In fact'로 구체적 설명이 이어지므로 ①에 들어갑니다.",
+    "optionNotes": [
+      "정답. 일반적 진술 뒤에 'In fact'로 설명이 이어집니다.",
+      "구체적 반응 설명 뒤에 오면 순서가 어긋납니다.",
+      "결과 설명 뒤에 오면 어색합니다.",
+      "However 앞에 오면 대조 구조가 깨집니다.",
+      "결론 앞에 오면 어색합니다."
+    ],
+    "trap": "'In fact'는 앞의 일반적 진술을 구체적으로 뒷받침하는 문장 앞에 놓입니다.",
+    "tip": "주제문은 구체적 설명(In fact ~)보다 앞에 놓입니다."
+  },
+  {
+    "id": "m3b-26-40",
+    "level": "m3",
+    "set": "mock-26",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A bakery was losing customers because a new supermarket had opened nearby and sold bread at lower prices. The owner could not compete on price, so he decided to focus on quality. He started to bake bread with local ingredients and invited customers to watch the baking process through a glass window. He also wrote the names of the farmers on each loaf's label. Customers were attracted by the stories behind the bread, and many were willing to pay more. Other bakeries in the town soon began to copy his idea, but he did not mind, because he believed that quality would always win. Within a year, sales were higher than before the supermarket opened.\n\n▶ By offering (A) rather than lower prices, the bakery was able to (B) its customers.",
+    "options": [
+      "(A) speed — (B) lose",
+      "(A) value — (B) attract",
+      "(A) waste — (B) ignore",
+      "(A) noise — (B) avoid",
+      "(A) luck — (B) forget"
+    ],
+    "answer": 1,
+    "translation": "한 빵집은 근처에 새 슈퍼마켓이 문을 열어 더 싼 값에 빵을 팔아서 손님을 잃고 있었다. 주인은 가격으로 경쟁할 수 없어서 품질에 집중하기로 했다. 그는 지역 재료로 빵을 굽기 시작했고 손님이 유리창을 통해 빵 굽는 과정을 보게 했다. 또 빵마다 라벨에 농부들의 이름을 적었다. 손님들은 빵 뒤의 이야기에 끌렸고 많은 사람이 더 높은 값을 낼 의향이 있었다. 마을의 다른 빵집들이 곧 그의 아이디어를 따라 하기 시작했지만 그는 품질이 늘 이긴다고 믿어서 개의치 않았다. 일 년 안에 매출은 슈퍼마켓이 문을 열기 전보다 높아졌다. ▶ 더 낮은 가격보다 (A)를 제공함으로써 빵집은 손님을 (B)할 수 있었다.",
+    "why": "품질과 이야기라는 가치를 제공해 손님을 끌었으므로 (A)는 value, (B)는 attract입니다.",
+    "optionNotes": [
+      "speed와 lose는 글과 반대입니다.",
+      "정답. 가치를 제공해 손님을 끌었습니다.",
+      "waste와 ignore는 글에 나오지 않습니다.",
+      "noise와 avoid는 글에 나오지 않습니다.",
+      "luck과 forget은 글에 나오지 않습니다."
+    ],
+    "trap": "처음의 손님 감소를 최종 결과로 오해하지 마세요.",
+    "tip": "요약문은 전략(품질과 이야기)과 결과(손님 유치)를 짝지으세요."
+  }
+]
