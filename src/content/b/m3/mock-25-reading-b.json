@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m3b-25-29",
+    "level": "m3",
+    "set": "mock-25",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Easter Island, {1|located} in the Pacific Ocean, is famous for its giant stone statues called moai. There are almost nine hundred of them, and some are taller than a three-story building. Their faces look out toward the villages, as if to protect the people. The islanders carved the statues from volcanic rock and then moved them across the island, {2|which} is about sixteen kilometers long. How they did this remains a mystery. One theory is that they {3|rocked} the statues from side to side so that they appeared to walk. Another theory says that logs were used {4|rolling} the heavy figures. Whatever the method, the work required great teamwork, and it shows how {5|determined} the islanders were. Visitors from all over the world travel there to see them.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "태평양에 있는 이스터 섬은 모아이라고 불리는 거대한 석상으로 유명하다. 거의 구백 개나 있으며 일부는 삼 층 건물보다 높다. 그들의 얼굴은 사람들을 보호하려는 듯 마을 쪽을 바라본다. 섬 주민들은 화산암으로 석상을 조각한 뒤 길이가 약 16킬로미터인 섬 곳곳으로 옮겼다. 그들이 어떻게 그렇게 했는지는 수수께끼로 남아 있다. 한 이론은 석상이 걷는 것처럼 보이도록 좌우로 흔들며 옮겼다고 본다. 다른 이론은 무거운 석상을 굴리는 데 통나무를 썼다고 한다. 방법이 무엇이든 그 일은 대단한 협동이 필요했고 섬 주민이 얼마나 단호했는지 보여 준다. 전 세계에서 방문객이 석상을 보러 그곳으로 간다.",
+    "why": "목적을 나타내는 to부정사가 와야 하므로 'were used to roll(굴리는 데 쓰였다)'처럼 rolling이 아니라 to roll이어야 합니다.",
+    "optionNotes": [
+      "수동의 의미를 가진 과거분사 located입니다.",
+      "섬을 선행사로 하는 관계대명사 which입니다.",
+      "과거 시제의 rocked입니다.",
+      "정답(틀린 것). 목적의 to부정사 to roll이어야 합니다.",
+      "간접의문문의 형용사 determined입니다."
+    ],
+    "trap": "'be used + -ing'(~하는 데 익숙하다)와 'be used + to부정사'(~하는 데 쓰이다)를 혼동하기 쉽습니다.",
+    "tip": "수동태 be used 뒤의 to부정사는 '~하는 데 쓰이다'의 목적을 나타냅니다."
+  },
+  {
+    "id": "m3b-25-30",
+    "level": "m3",
+    "set": "mock-25",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Teenagers are often described as {1|careful} risk-takers, but science offers a more positive view. During adolescence, the brain's reward system is very active, which makes new experiences feel exciting. This explains why teens are eager to try new activities, make new friends, and {2|explore} ideas. Meanwhile, the part of the brain that controls impulses is still {3|developing}, so teens sometimes make hasty decisions. However, the same brain features also make teenagers quick learners who can {4|adapt} to new situations easily. Researchers say that this period is one of the most important times for learning. Parents and teachers can help by {5|encouraging} healthy ways to take risks, such as sports, music, or volunteering.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "십대는 흔히 조심스러운 모험가로 묘사되지만 과학은 더 긍정적인 시각을 제공한다. 청소년기에는 뇌의 보상 체계가 매우 활발해서 새로운 경험이 신나게 느껴진다. 이는 십대가 새로운 활동을 해 보고 새 친구를 사귀고 생각을 탐구하고 싶어 하는 이유를 설명한다. 한편 충동을 조절하는 뇌 부위는 아직 발달 중이어서 십대는 가끔 성급한 결정을 내린다. 그러나 같은 뇌의 특징은 십대가 새로운 상황에 쉽게 적응할 수 있는 빠른 학습자가 되게도 한다. 연구자들은 이 시기가 학습에 가장 중요한 시기 중 하나라고 말한다. 부모와 교사는 운동, 음악, 봉사처럼 건강하게 위험을 감수하는 방법을 북돋아 도울 수 있다.",
+    "why": "뒤에서 성급한 결정과 모험을 즐기는 모습을 이야기하므로 '조심스러운(careful)'이 아니라 '대담한(bold)' 모험가여야 합니다.",
+    "optionNotes": [
+      "정답(부적절). 모험을 즐기는 모습과 맞지 않아 bold여야 합니다.",
+      "생각을 탐구한다는 의미로 explore가 알맞습니다.",
+      "아직 발달 중이라는 의미로 developing이 알맞습니다.",
+      "새 상황에 적응한다는 의미로 adapt가 알맞습니다.",
+      "건강한 방법을 북돋운다는 의미로 encouraging이 알맞습니다."
+    ],
+    "trap": "'risk-takers'와 반대되는 낱말임을 놓치기 쉽습니다.",
+    "tip": "risk-takers와 어울리는 수식어(대담한)인지 의미 방향을 확인하세요."
+  },
+  {
+    "id": "m3b-25-31",
+    "level": "m3",
+    "set": "mock-25",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "People often say that ostriches bury their heads in the sand when they are afraid. This is a popular myth. Ostriches are the largest birds in the world, and this misunderstanding has been repeated in cartoons and stories for many years. In fact, ostriches never do this. When danger comes near, they either run away at speeds of up to seventy kilometers per hour or lie flat on the ground to hide. The myth probably began because ostriches dig holes in the ground to lay their eggs. Several times a day, they put their heads down into the hole to turn the eggs. From a distance, it looks as if their heads have disappeared into the sand. In reality, ostriches put their heads into holes in order to __________.",
+    "options": [
+      "escape from hungry lions",
+      "look for water under the ground",
+      "listen to sounds from far away",
+      "turn their eggs over",
+      "hide from the hot sun"
+    ],
+    "answer": 3,
+    "translation": "사람들은 타조가 무서울 때 머리를 모래에 묻는다고 흔히 말한다. 이는 널리 퍼진 근거 없는 믿음이다. 타조는 세계에서 가장 큰 새이며 이 오해는 만화와 이야기에서 여러 해 동안 되풀이되었다. 사실 타조는 절대 그러지 않는다. 위험이 가까워지면 시속 칠십 킬로미터까지 달려서 도망치거나 땅에 납작 엎드려 숨는다. 이 믿음은 타조가 알을 낳으려고 땅에 구멍을 파기 때문에 생겼을 것이다. 하루에 몇 번 타조는 알을 굴리려고 구멍 속으로 머리를 숙인다. 멀리서 보면 머리가 모래 속으로 사라진 것처럼 보인다. 실제로 타조는 알을 굴리고 돌보려고 구멍에 머리를 넣는다.",
+    "why": "구멍에 머리를 넣는 것은 알을 굴리려는 행동이므로 알을 돌보려는 것입니다.",
+    "optionNotes": [
+      "사자를 피하려는 것이 아닙니다.",
+      "물을 찾는 내용은 나오지 않습니다.",
+      "멀리서 나는 소리는 나오지 않습니다.",
+      "정답. 알을 굴리고 돌보려고 합니다.",
+      "햇볕을 피하는 내용은 나오지 않습니다."
+    ],
+    "trap": "통념(무서워서 머리를 묻는다)을 결론으로 착각하지 마세요. 글은 그것을 부정합니다.",
+    "tip": "'In fact', 'In reality' 뒤의 설명이 정답의 근거입니다."
+  },
+  {
+    "id": "m3b-25-32",
+    "level": "m3",
+    "set": "mock-25",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many office workers and students spend more than eight hours a day sitting. Researchers have found that sitting for long periods is harmful to our health. When we sit, our muscles hardly move, and the body burns fewer calories. Blood flows more slowly through the legs, and the risk of heart problems goes up. Surprisingly, this danger remains even for people who exercise for an hour every day. To reduce the risk, experts advise standing up and walking for a few minutes every hour. Even a short walk helps the blood to flow again. A study of more than a hundred thousand adults supported this finding, and some companies now provide standing desks for their employees. In short, sitting for too long can __________.",
+    "options": [
+      "improve our memory a great deal",
+      "increase the risk of heart disease and weight gain even for people who exercise regularly",
+      "make our muscles grow much bigger",
+      "help us burn more calories than walking",
+      "lower our blood pressure to a safe level"
+    ],
+    "answer": 1,
+    "translation": "많은 회사원과 학생이 하루 여덟 시간 넘게 앉아서 보낸다. 연구자들은 오래 앉아 있는 것이 건강에 해롭다는 것을 발견했다. 앉아 있으면 근육이 거의 움직이지 않고 몸은 열량을 덜 태운다. 다리의 혈액이 더 느리게 흐르고 심장 문제의 위험이 올라간다. 놀랍게도 이 위험은 날마다 한 시간 운동하는 사람에게도 남아 있다. 위험을 줄이려고 전문가들은 한 시간마다 일어나 몇 분 걸으라고 조언한다. 짧은 산책도 혈액이 다시 흐르도록 돕는다. 십만 명이 넘는 성인을 대상으로 한 연구가 이 발견을 뒷받침했고 일부 회사는 이제 직원들에게 서서 쓰는 책상을 제공한다. 요컨대 너무 오래 앉아 있으면 규칙적으로 운동하는 사람에게도 심장병과 체중 증가의 위험을 높일 수 있다.",
+    "why": "오래 앉아 있으면 운동하는 사람에게도 심장 문제 위험이 남는다고 했으므로 ②가 알맞습니다.",
+    "optionNotes": [
+      "기억력 향상은 나오지 않습니다.",
+      "정답. 운동하는 사람에게도 심장병과 체중 증가의 위험을 높입니다.",
+      "근육이 커진다는 내용은 글과 반대입니다.",
+      "열량을 더 태운다는 내용은 글과 반대입니다.",
+      "혈압이 낮아진다는 내용은 나오지 않습니다."
+    ],
+    "trap": "'exercise'가 나온다고 운동하면 안전하다고 단정하지 마세요. 'Surprisingly' 뒤가 핵심입니다.",
+    "tip": "앞 문장들(열량 감소, 혈류 감소, 위험 상승)을 포괄하는 결론을 고르세요."
+  },
+  {
+    "id": "m3b-25-33",
+    "level": "m3",
+    "set": "mock-25",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A company asked two teams to solve the same difficult problem. One team consisted of five engineers with similar training, while the other team included an engineer, a designer, a teacher, an accountant, and a nurse. At first, the second team argued more and seemed less efficient. In the end, however, it came up with a more creative solution that customers liked better. The experiment was repeated in several companies with similar results, and members of the diverse team also learned new skills from one another. The company concluded that people with different backgrounds bring different experiences and ideas. When they combine them, they can find answers that no single group would imagine. A diverse team performs better because its members can __________.",
+    "options": [
+      "agree with one another much more quickly",
+      "avoid every kind of disagreement completely",
+      "view a problem from many different angles",
+      "finish all of their work in half the time",
+      "copy the ideas of famous experts easily"
+    ],
+    "answer": 2,
+    "translation": "한 회사가 두 팀에게 같은 어려운 문제를 풀게 했다. 한 팀은 비슷한 훈련을 받은 기술자 다섯 명으로 구성되었고 다른 팀은 기술자, 디자이너, 교사, 회계사, 간호사로 이루어졌다. 처음에는 두 번째 팀이 더 많이 다투고 덜 효율적으로 보였다. 그러나 결국 그 팀은 고객이 더 좋아한 더 창의적인 해결책을 내놓았다. 이 실험은 여러 회사에서 되풀이되어 비슷한 결과가 나왔고 다양한 팀의 구성원들은 서로에게서 새 기술도 배웠다. 회사는 배경이 다른 사람들이 서로 다른 경험과 생각을 가져온다고 결론지었다. 그것들을 결합하면 어떤 한 집단도 상상하지 못할 답을 찾을 수 있다. 다양한 팀이 더 잘하는 것은 구성원이 문제를 여러 다른 각도에서 볼 수 있기 때문이다.",
+    "why": "배경이 다른 사람들이 서로 다른 경험과 생각을 결합하므로 문제를 여러 각도에서 볼 수 있습니다.",
+    "optionNotes": [
+      "더 빨리 동의한다는 내용은 글과 반대입니다.",
+      "갈등을 피한다는 내용은 글과 반대입니다.",
+      "정답. 문제를 여러 각도에서 볼 수 있습니다.",
+      "시간이 절반이라는 내용은 나오지 않습니다.",
+      "전문가를 베낀다는 내용은 나오지 않습니다."
+    ],
+    "trap": "처음에 더 많이 다퉜다는 부분을 결론으로 착각하지 마세요.",
+    "tip": "however 이후 결과와 회사의 결론이 정답의 근거입니다."
+  },
+  {
+    "id": "m3b-25-34",
+    "level": "m3",
+    "set": "mock-25",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In an experiment, researchers gave people two glasses of the same wine. They told the participants that one was from an expensive bottle and the other from a cheap bottle. Most people said that the \"expensive\" wine tasted better, and brain scans showed more activity in the area linked to pleasure. The wines were exactly the same. In another version, people were given the same cheap chocolate, but some were told it came from a famous brand. Their ratings were higher for the one with the brand name. Marketers know this well and spend a lot of money on beautiful packaging. This result suggests that taste is not only about our tongues. Price tags, packaging, and descriptions all influence how we experience food. In other words, our enjoyment is shaped partly by __________.",
+    "options": [
+      "what we expect before we even taste it",
+      "the temperature of the room where we eat",
+      "the color of the glass that we are holding",
+      "how quickly we finish the whole drink",
+      "the weather outside the building today"
+    ],
+    "answer": 0,
+    "translation": "한 실험에서 연구자들은 사람들에게 같은 포도주를 두 잔 주었다. 참가자들에게 한 잔은 비싼 병에서, 다른 한 잔은 싼 병에서 나왔다고 말했다. 대부분의 사람은 \"비싼\" 포도주가 더 맛있다고 했고 뇌 촬영에서는 즐거움과 관련된 영역의 활동이 더 많이 나타났다. 포도주는 똑같았다. 다른 버전에서는 사람들에게 같은 싼 초콜릿을 주되 일부에게는 유명 브랜드 제품이라고 말했다. 브랜드 이름이 붙은 쪽의 평가가 더 높았다. 마케터들은 이를 잘 알아서 아름다운 포장에 많은 돈을 쓴다. 이 결과는 맛이 혀만의 문제가 아님을 시사한다. 가격표, 포장, 설명이 모두 우리가 음식을 경험하는 방식에 영향을 준다. 다시 말해 우리의 즐거움은 부분적으로 맛보기 전에 우리가 기대하는 것에 의해 형성된다.",
+    "why": "같은 포도주가 가격 정보에 따라 다르게 느껴졌으므로 즐거움은 맛보기 전의 기대에 영향받습니다.",
+    "optionNotes": [
+      "정답. 맛보기 전의 기대입니다.",
+      "방의 온도는 나오지 않습니다.",
+      "잔의 색은 나오지 않습니다.",
+      "마시는 속도는 나오지 않습니다.",
+      "바깥 날씨는 나오지 않습니다."
+    ],
+    "trap": "실험 설계(두 잔)에 끌려 잔의 색(③)과 연결하지 마세요.",
+    "tip": "실험 결과(같은 포도주인데 더 비싸다고 하면 더 맛있다고 함)가 결론의 근거입니다."
+  },
+  {
+    "id": "m3b-25-35",
+    "level": "m3",
+    "set": "mock-25",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Walking is one of the simplest and cheapest forms of exercise, and it offers many benefits for both the body and the mind. Doctors often recommend walking for at least thirty minutes a day. ① Regular walking strengthens the heart and helps to keep blood pressure at a healthy level. ② It also improves mood, because physical activity releases chemicals in the brain that reduce stress. ③ Many writers and thinkers say that walking helps them come up with creative ideas. ④ Weight-bearing exercise like walking makes the bones stronger as people grow older. ⑤ The first photograph in history was taken in France in 1826.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "걷기는 가장 간단하고 값싼 운동 중 하나이며 몸과 마음 모두에 많은 이점을 준다. 의사들은 하루에 적어도 삼십 분 걷기를 권하는 경우가 많다. ① 규칙적으로 걸으면 심장이 튼튼해지고 혈압을 건강한 수준으로 유지하는 데 도움이 된다. ② 신체 활동이 뇌에서 스트레스를 줄이는 물질을 내보내기 때문에 기분도 좋아진다. ③ 많은 작가와 사상가는 걷기가 창의적인 생각을 떠올리는 데 도움이 된다고 말한다. ④ 걷기 같은 체중 부하 운동은 나이가 들수록 뼈를 더 튼튼하게 한다. ⑤ 역사상 최초의 사진은 1826년 프랑스에서 찍혔다.",
+    "why": "글은 걷기의 이점을 이야기하는데 ⑤는 최초의 사진에 관한 별개의 이야기입니다.",
+    "optionNotes": [
+      "심장과 혈압이라는 걷기의 이점입니다.",
+      "기분 개선이라는 걷기의 이점입니다.",
+      "창의성이라는 걷기의 이점입니다.",
+      "뼈를 튼튼하게 한다는 걷기의 이점입니다.",
+      "정답(무관). 최초의 사진 이야기라 관계가 없습니다."
+    ],
+    "trap": "마지막 문장이라 결론처럼 보이지만 주제와 관계가 없습니다.",
+    "tip": "각 문장이 '걷기의 이점'인지 확인하세요."
+  },
+  {
+    "id": "m3b-25-36",
+    "level": "m3",
+    "set": "mock-25",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Antibiotics have saved millions of lives, yet the first one was discovered by chance. In 1928, a Scottish scientist named Alexander Fleming returned to his laboratory after a summer holiday.\n(A) However, it took more than ten years before other scientists learned how to produce penicillin in large amounts. By the end of World War II, it was saving thousands of soldiers.\n(B) On his desk, he found a dish of bacteria that he had forgotten to clean. A mold had arrived by accident and grown on it, and around the mold, the bacteria were dead.\n(C) Fleming realized that something produced by the mold was killing the bacteria. He kept the dish and studied it carefully for several weeks. He named this substance penicillin and published his findings.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 2,
+    "translation": "항생제는 수백만 명의 생명을 구했지만 최초의 항생제는 우연히 발견되었다. 1928년 알렉산더 플레밍이라는 스코틀랜드 과학자가 여름휴가를 마치고 실험실로 돌아왔다. (B) 책상 위에서 그는 청소하는 것을 잊은 세균 접시를 발견했다. 곰팡이가 우연히 들어와 그 위에서 자랐고 곰팡이 둘레의 세균은 죽어 있었다. (C) 플레밍은 곰팡이가 만든 무언가가 세균을 죽이고 있음을 깨달았다. 그는 접시를 보관하며 몇 주 동안 꼼꼼히 연구했다. 그는 이 물질을 페니실린이라 이름 짓고 연구 결과를 발표했다. (A) 그러나 다른 과학자들이 페니실린을 대량 생산하는 법을 알아내기까지 십 년이 넘게 걸렸다. 제2차 세계 대전이 끝날 무렵 그것은 수천 명의 군인을 살리고 있었다.",
+    "why": "(B) 접시에서 곰팡이와 죽은 세균을 발견 → (C) 물질을 깨닫고 이름 짓기 → (A) 'However'로 대량 생산까지 걸린 시간 순서입니다.",
+    "optionNotes": [
+      "(A)의 'it'이 가리킬 페니실린이 앞에 없습니다.",
+      "(A)가 먼저 오면 'penicillin'의 맥락이 빠집니다.",
+      "정답. 발견 → 깨달음 → 대량 생산.",
+      "(C)의 'the mold'가 가리킬 곰팡이가 앞에 없습니다.",
+      "(C)가 먼저 오면 'the mold'가 불분명합니다."
+    ],
+    "trap": "(C)의 'the mold'는 (B)에서 나온 곰팡이를 가리킵니다.",
+    "tip": "he found → realized → However it took의 사건 순서를 따라가세요."
+  },
+  {
+    "id": "m3b-25-37",
+    "level": "m3",
+    "set": "mock-25",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Every year in Spain, thousands of people gather in a small town to throw tomatoes at each other. The festival, called La Tomatina, has a fascinating history.\n(A) Eventually, the town officially accepted the event as a festival. Today, trucks bring over a hundred tons of tomatoes, and visitors from around the world take part.\n(B) The next year, the young men repeated the fight on purpose, and this time they brought their own tomatoes. The police stopped them, but people kept coming back to join the fun.\n(C) According to the most popular story, it began in 1945 during a parade, when a fight broke out among some young men. They grabbed tomatoes from a nearby vegetable stand and started to throw them.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 4,
+    "translation": "해마다 스페인에서는 수천 명이 작은 마을에 모여 서로에게 토마토를 던진다. 토마티나라는 이 축제는 흥미로운 역사를 가지고 있다. (C) 가장 널리 알려진 이야기에 따르면 그것은 1945년 퍼레이드 중 몇몇 젊은이들 사이에 싸움이 벌어지면서 시작되었다. 그들은 근처 채소 가판대에서 토마토를 집어 던지기 시작했다. (B) 이듬해 젊은이들은 일부러 싸움을 되풀이했고 이번에는 자기 토마토를 가져왔다. 경찰이 막았지만 사람들은 재미를 함께하려고 계속 돌아왔다. (A) 결국 마을은 그 행사를 공식 축제로 받아들였다. 오늘날에는 트럭들이 백 톤이 넘는 토마토를 싣고 오고 전 세계에서 방문객이 참여한다.",
+    "why": "(C) 1945년의 시작 → (B) 이듬해 되풀이 → (A) 공식 축제가 된 오늘날 순서입니다.",
+    "optionNotes": [
+      "(A)의 결과가 맨 앞에 올 수 없습니다.",
+      "(B)의 'the next year'가 기준 연도 없이 앞에 올 수 없습니다.",
+      "(B)가 먼저 오면 'the fight'가 불분명합니다.",
+      "(A)가 (B)보다 먼저 올 수 없습니다.",
+      "정답. 시작 → 이듬해 되풀이 → 공식 축제."
+    ],
+    "trap": "(B)의 'the next year'는 (C)의 1945년 다음 해입니다.",
+    "tip": "1945 → The next year → Eventually/Today의 시간 순서를 따라가세요."
+  },
+  {
+    "id": "m3b-25-38",
+    "level": "m3",
+    "set": "mock-25",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nSurprisingly, this tiny change had a huge effect.\n\n[글]\n( ① ) Cleaners at Amsterdam's main airport were struggling with dirty men's restrooms, so an engineer suggested painting a small picture of a fly in each urinal. ( ② ) Men aimed at the fly, and the amount of spilled liquid fell by about eighty percent. ( ③ ) This idea is an example of a \"nudge,\" a small change in design that guides people's behavior without forcing them. ( ④ ) Nudges do not remove choices or change prices. ( ⑤ ) They are now used in schools, hospitals, and cities around the world to encourage healthy and responsible habits.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "[주어진 문장] 놀랍게도 이 작은 변화는 엄청난 효과를 냈다. [글] 암스테르담 주요 공항의 청소부들은 지저분한 남자 화장실로 애를 먹고 있었고 그래서 한 기술자가 소변기마다 작은 파리 그림을 그리자고 제안했다. 남자들은 파리를 겨냥했고 흘리는 양이 약 80퍼센트 줄었다. 이 아이디어는 사람들을 강요하지 않고 행동을 이끄는 작은 설계 변화인 \"넛지\"의 예이다. 넛지는 선택지를 없애거나 가격을 바꾸지 않는다. 그것은 이제 학교, 병원, 전 세계 도시에서 건강하고 책임감 있는 습관을 북돋우는 데 쓰인다.",
+    "why": "파리 그림이라는 작은 변화를 소개한 뒤 주어진 문장이 놀라운 효과를 말하고, 다음 문장이 구체적 수치를 제시하므로 ②에 들어갑니다.",
+    "optionNotes": [
+      "'this tiny change'가 가리킬 변화가 아직 없습니다.",
+      "정답. 작은 변화 직후에 놀라운 효과를 말하고 수치가 이어집니다.",
+      "수치를 설명한 뒤에 오면 효과 소개가 뒤바뀝니다.",
+      "넛지의 정의 뒤라 'this tiny change'의 지시가 어색합니다.",
+      "결론 앞에 오면 어색합니다."
+    ],
+    "trap": "'this tiny change'는 ①의 파리 그림을 가리킵니다.",
+    "tip": "this tiny change 같은 표현은 변화가 소개된 직후에 놓입니다."
+  },
+  {
+    "id": "m3b-25-39",
+    "level": "m3",
+    "set": "mock-25",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThat is why many experts recommend reading a physical book before bed.\n\n[글]\n( ① ) Many people check their phones in bed, but the blue light from screens can disturb sleep. ( ② ) It reduces the amount of melatonin, the hormone that makes us feel sleepy. ( ③ ) As a result, falling asleep takes longer, and the quality of sleep drops. ( ④ ) In contrast, reading a paper book under a soft lamp does not have this effect on the body. ( ⑤ ) Studies show that people who read a book for twenty minutes before bed fall asleep faster than those who use a phone.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "[주어진 문장] 그래서 많은 전문가가 자기 전에 종이책을 읽으라고 권한다. [글] 많은 사람이 침대에서 휴대전화를 확인하지만 화면의 푸른 빛은 잠을 방해할 수 있다. 그것은 졸리게 하는 호르몬인 멜라토닌의 양을 줄인다. 그 결과 잠드는 데 더 오래 걸리고 수면의 질이 떨어진다. 반대로 부드러운 등 아래에서 종이책을 읽는 것은 몸에 이런 영향을 주지 않는다. 연구에 따르면 자기 전에 이십 분 책을 읽은 사람이 휴대전화를 쓴 사람보다 더 빨리 잠든다.",
+    "why": "화면의 문제와 종이책의 무해함을 대비한 뒤 'That is why'로 전문가의 권고가 이어지고, 다음 문장이 연구 결과로 뒷받침하므로 ⑤에 들어갑니다.",
+    "optionNotes": [
+      "'That'이 가리킬 이유가 아직 없습니다.",
+      "멜라토닌 설명 앞이라 이릅니다.",
+      "화면의 문제를 설명하는 도중이라 이릅니다.",
+      "종이책의 장점이 나오기 전이라 이유가 부족합니다.",
+      "정답. 이유 뒤에 권고가 오고 연구 결과가 이어집니다."
+    ],
+    "trap": "④ 바로 뒤에 놓아도 그럴듯하지만 다음 문장의 연구 결과가 권고를 뒷받침해야 합니다.",
+    "tip": "That is why는 이유가 모두 제시된 직후에 놓입니다."
+  },
+  {
+    "id": "m3b-25-40",
+    "level": "m3",
+    "set": "mock-25",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A company allowed half of its employees to work from home for nine months, while the other half continued to work in the office. At the end of the study, the people who worked from home completed more tasks and took fewer breaks. They also reported feeling less stressed because they avoided long commutes. However, many of them said they felt lonely and missed talking with colleagues. Fewer of them were promoted during the study, probably because managers saw them less often. Managers also said that meetings were harder to organize. The company concluded that working from home can improve productivity but also has social costs, and it recommended a mix of both.\n\n▶ Working from home can (A) productivity, but it may also cause (B) among workers.",
+    "options": [
+      "(A) lower — (B) overwork",
+      "(A) lower — (B) friendship",
+      "(A) ignore — (B) happiness",
+      "(A) raise — (B) loneliness",
+      "(A) hide — (B) humor"
+    ],
+    "answer": 3,
+    "translation": "한 회사가 직원의 절반이 아홉 달 동안 집에서 일하게 하고 나머지 절반은 계속 사무실에서 일하게 했다. 연구가 끝날 때 집에서 일한 사람들은 더 많은 일을 끝내고 쉬는 시간은 덜 가졌다. 그들은 긴 출퇴근을 피해 스트레스를 덜 받는다고도 답했다. 그러나 많은 사람이 외롭고 동료와 이야기하는 것이 그립다고 말했다. 관리자가 그들을 덜 보기 때문인지 연구 동안 승진한 사람도 적었다. 관리자들은 회의를 조직하기도 더 어려워졌다고 말했다. 회사는 재택근무가 생산성을 높일 수 있지만 사회적 비용도 있다고 결론지었고 둘을 섞을 것을 권했다. ▶ 재택근무는 생산성을 (A)지만 직원들 사이에 (B)도 일으킬 수 있다.",
+    "why": "재택근무가 생산성을 높이지만 외로움을 느끼게 하므로 (A)는 raise, (B)는 loneliness입니다.",
+    "optionNotes": [
+      "lower와 overwork는 글과 반대입니다.",
+      "lower와 friendship은 글과 반대입니다.",
+      "ignore와 happiness는 글과 맞지 않습니다.",
+      "정답. 생산성을 높이지만 외로움을 일으킵니다.",
+      "hide와 humor는 글에 나오지 않습니다."
+    ],
+    "trap": "스트레스가 줄었다는 긍정적 결과만 보고 사회적 비용을 놓치지 마세요.",
+    "tip": "요약문은 'improve ~ but also has social costs'를 그대로 반영하세요."
+  }
+]
