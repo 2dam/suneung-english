@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m2b-29-29",
+    "level": "m2",
+    "set": "mock-29",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Spiders make webs to catch their food. A web is made of silk, which comes from {1|special} parts of the spider's body. The silk is very thin, but it is {2|stronger} than steel of the same thickness. Some webs are round, and others look like flat sheets. When an insect touches the web, the spider feels the movement and {3|runs} to catch it. Spiders do not get stuck in their own webs. They walk on only the tips of their legs, and the legs {4|is} covered with a special oil. Scientists are now studying spider silk {5|to make} light and strong materials for the future.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "거미는 먹이를 잡으려고 거미줄을 친다. 거미줄은 거미 몸의 특별한 부분에서 나오는 명주실로 만들어진다. 명주실은 매우 가늘지만 같은 굵기의 강철보다 더 강하다. 어떤 거미줄은 둥글고 다른 것은 납작한 천처럼 보인다. 곤충이 거미줄에 닿으면 거미는 움직임을 느끼고 잡으러 달려간다. 거미는 자기 거미줄에 걸리지 않는다. 거미는 다리 끝으로만 걷고 다리가 특별한 기름으로 덮여 있다. 과학자들은 이제 미래를 위한 가볍고 강한 물질을 만들려고 거미줄을 연구하고 있다.",
+    "why": "주어 the legs가 복수이므로 is가 아니라 are여야 합니다.",
+    "optionNotes": [
+      "parts를 꾸미는 형용사 special입니다.",
+      "비교급 stronger than입니다.",
+      "현재형 동사 feels와 병렬인 runs입니다.",
+      "정답(틀린 것). 복수 주어 the legs에는 are여야 합니다.",
+      "목적을 나타내는 to부정사 to make입니다."
+    ],
+    "trap": "바로 앞의 단수 명사 'a special oil'에 동사를 맞추기 쉽습니다.",
+    "tip": "주어의 수(legs)를 확인해 be동사를 고르세요."
+  },
+  {
+    "id": "m2b-29-30",
+    "level": "m2",
+    "set": "mock-29",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Water is {1|essential} for our bodies. About sixty percent of the human body is water. We should drink water {2|rarely} during the day, not only when we feel thirsty. If we do not drink enough water, we may feel tired and have headaches. Water also helps us to keep our body temperature {3|stable}. On hot days or after exercise, we lose more water through sweat, so we need to {4|drink} more. Carrying a water bottle can make it easier to {5|remember} to drink. Small sips throughout the day are better than a large amount at once.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "물은 우리 몸에 필수적이다. 사람 몸의 약 60퍼센트는 물이다. 우리는 목마를 때만이 아니라 하루 동안 물을 드물게 마셔야 한다. 물을 충분히 마시지 않으면 피곤하고 두통이 생길 수 있다. 물은 또 체온을 안정되게 유지하도록 돕는다. 더운 날이나 운동 뒤에는 땀으로 물을 더 많이 잃으므로 더 많이 마셔야 한다. 물병을 들고 다니면 마시는 것을 기억하기가 쉬워진다. 하루 동안 조금씩 자주 마시는 것이 한꺼번에 많이 마시는 것보다 낫다.",
+    "why": "목마를 때만이 아니라 하루 동안 '자주(regularly)' 마셔야 하므로 rarely는 부적절합니다.",
+    "optionNotes": [
+      "몸에 필수적이라는 의미로 essential이 알맞습니다.",
+      "정답(부적절). 자주 마셔야 하므로 regularly여야 합니다.",
+      "체온이 안정된다는 의미로 stable이 알맞습니다.",
+      "더 많이 마신다는 의미로 drink가 알맞습니다.",
+      "마시는 것을 기억한다는 의미로 remember가 알맞습니다."
+    ],
+    "trap": "뒤의 'not only when we feel thirsty'를 놓치면 rarely가 어색하지 않게 보입니다.",
+    "tip": "마지막 문장(small sips throughout the day)과 방향이 일치하는지 확인하세요."
+  },
+  {
+    "id": "m2b-29-31",
+    "level": "m2",
+    "set": "mock-29",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "On a summer night, you may see tiny lights flying over a field. These lights come from fireflies. A firefly has a special part in its body that makes light without heat. Fireflies do not flash for fun. Each kind has its own pattern of flashes, such as two short flashes or one long flash. A male flies and flashes his pattern, and a female of the same kind answers with her own flash. In this way, fireflies __________. Sadly, bright city lights make this signal hard to see, and the number of fireflies is going down.",
+    "options": [
+      "find partners of the same kind in the dark",
+      "warn other insects about a dangerous storm",
+      "keep their bodies warm on cold nights",
+      "show farmers where good soil is",
+      "call birds to come and eat them"
+    ],
+    "answer": 0,
+    "translation": "여름밤에 들판 위를 나는 작은 불빛들을 볼 수 있다. 이 불빛은 반딧불이에서 나온다. 반딧불이의 몸에는 열 없이 빛을 내는 특별한 부분이 있다. 반딧불이는 재미로 깜빡이는 것이 아니다. 종마다 두 번의 짧은 불빛이나 한 번의 긴 불빛 같은 고유한 깜빡임 패턴이 있다. 수컷이 날며 자기 패턴으로 깜빡이면 같은 종의 암컷이 자기 불빛으로 답한다. 이렇게 반딧불이는 어둠 속에서 같은 종의 짝을 찾는다. 슬프게도 밝은 도시의 불빛은 이 신호를 보기 어렵게 해서 반딧불이의 수가 줄고 있다.",
+    "why": "수컷이 패턴으로 깜빡이면 같은 종의 암컷이 답하므로 어둠 속에서 같은 종의 짝을 찾습니다.",
+    "optionNotes": [
+      "정답. 같은 종의 짝을 어둠 속에서 찾습니다.",
+      "폭풍 경고는 나오지 않습니다.",
+      "체온 유지는 나오지 않습니다.",
+      "농부는 나오지 않습니다.",
+      "새를 부른다는 내용은 나오지 않습니다."
+    ],
+    "trap": "'without heat'를 보고 체온(③)과 관련지으면 안 됩니다.",
+    "tip": "앞 문장(a female of the same kind answers)이 정답의 근거입니다."
+  },
+  {
+    "id": "m2b-29-32",
+    "level": "m2",
+    "set": "mock-29",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "When we eat, our stomach sends a message to the brain that it is full. However, this message takes about twenty minutes to arrive. If we eat very fast, we may finish a big meal before the message comes, and then we feel too full later. People who eat quickly are more likely to eat more than they need. On the other hand, people who eat slowly chew their food well and enjoy the taste. They also put down their spoons between bites. Doctors often give this advice to people who want to keep a healthy weight. As a result, they __________.",
+    "options": [
+      "feel hungry again soon after dinner",
+      "do not enjoy the taste of the food",
+      "get tired of chewing before the meal ends",
+      "take food away from other people's plates",
+      "feel full before they eat too much"
+    ],
+    "answer": 4,
+    "translation": "우리가 먹을 때 위는 배가 부르다는 메시지를 뇌에 보낸다. 그러나 이 메시지가 도착하는 데는 약 이십 분이 걸린다. 매우 빨리 먹으면 메시지가 오기 전에 많은 식사를 끝내 버려서 나중에 너무 배가 부르다. 빨리 먹는 사람은 필요한 것보다 더 많이 먹기 쉽다. 반면 천천히 먹는 사람은 음식을 잘 씹고 맛을 즐긴다. 그들은 한 입 사이사이에 숟가락을 내려놓기도 한다. 의사들은 건강한 체중을 유지하고 싶은 사람에게 이 조언을 자주 한다. 그 결과 그들은 너무 많이 먹기 전에 배부름을 느낀다.",
+    "why": "천천히 먹으면 배부르다는 메시지가 도착할 시간이 있어 너무 많이 먹기 전에 배부름을 느낍니다.",
+    "optionNotes": [
+      "금방 다시 배고프다는 내용은 나오지 않습니다.",
+      "맛을 즐긴다고 했으므로 글과 반대입니다.",
+      "씹기에 지친다는 내용은 나오지 않습니다.",
+      "남의 접시는 나오지 않습니다.",
+      "정답. 너무 많이 먹기 전에 배부름을 느낍니다."
+    ],
+    "trap": "'enjoy the taste'를 근거로 맛(②)을 고르지 마세요.",
+    "tip": "As a result 뒤는 앞 설명(slowly → message arrives)의 결과입니다."
+  },
+  {
+    "id": "m2b-29-33",
+    "level": "m2",
+    "set": "mock-29",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "If you cut down a tree and look at the top of the trunk, you will see many circles. These circles are called tree rings. A tree grows one new ring every year, so you can find the age of a tree by counting its rings. The rings also give us other information. A wide ring means that the tree grew a lot in that year, because there was enough rain and sunshine. A thin ring shows that the weather was dry or cold. Tree rings are useful because they __________.",
+    "options": [
+      "tell us a tree's age and the weather of the past",
+      "show how many animals lived in the forest long ago",
+      "make the wood stronger than iron",
+      "help the tree to drink more water in winter",
+      "change color when the season changes"
+    ],
+    "answer": 0,
+    "translation": "나무를 베어 줄기 윗부분을 보면 많은 동그라미가 보인다. 이 동그라미를 나이테라고 한다. 나무는 해마다 새 테를 하나씩 만드므로 나이테를 세어 나무의 나이를 알 수 있다. 나이테는 다른 정보도 준다. 넓은 테는 비와 햇빛이 충분해서 그해에 나무가 많이 자랐음을 뜻한다. 얇은 테는 날씨가 건조하거나 추웠음을 보여 준다. 나이테가 유용한 것은 나무의 나이와 과거의 날씨를 알려 주기 때문이다.",
+    "why": "나이테를 세면 나이를 알 수 있고 폭으로 과거의 날씨를 알 수 있으므로 나무의 나이와 과거의 날씨를 알려 줍니다.",
+    "optionNotes": [
+      "정답. 나무의 나이와 과거의 날씨를 알려 줍니다.",
+      "동물의 수는 나오지 않습니다.",
+      "나무가 강해진다는 내용은 나오지 않습니다.",
+      "겨울 물 흡수는 나오지 않습니다.",
+      "색 변화는 나오지 않습니다."
+    ],
+    "trap": "'wide ring', 'thin ring'을 나무의 힘(③)과 연결하지 마세요.",
+    "tip": "앞에서 나열한 두 정보(age, weather)를 모두 담은 선택지를 고르세요."
+  },
+  {
+    "id": "m2b-29-34",
+    "level": "m2",
+    "set": "mock-29",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Young sunflowers turn their faces to follow the sun from east to west during the day. At night, they turn back to the east and wait for the next morning. Scientists call this movement heliotropism. It happens because the stem grows faster on the shaded side, so the flower bends toward the light. Plants that follow the sun grow bigger than plants that do not. Farmers in many countries grow sunflowers for their seeds and oil. When sunflowers are fully grown, they stop moving and stay facing east. Young sunflowers follow the sun because they want to __________.",
+    "options": [
+      "hide from hungry insects in the evening",
+      "keep their petals dry on rainy days",
+      "make the soil warm for other plants",
+      "look at the farmers working in the field",
+      "catch as much light as possible"
+    ],
+    "answer": 4,
+    "translation": "어린 해바라기는 낮 동안 동쪽에서 서쪽으로 해를 따라 얼굴을 돌린다. 밤에는 동쪽으로 다시 돌아가 다음 아침을 기다린다. 과학자들은 이 움직임을 굴광성이라 부른다. 이는 그늘진 쪽의 줄기가 더 빨리 자라서 꽃이 빛 쪽으로 휘기 때문에 일어난다. 해를 따라가는 식물은 그렇지 않은 식물보다 더 크게 자란다. 많은 나라의 농부들이 씨앗과 기름을 얻으려고 해바라기를 기른다. 해바라기가 다 자라면 움직임을 멈추고 동쪽을 향한 채로 있는다. 어린 해바라기가 해를 따라가는 것은 자라기 위해 가능한 한 많은 빛을 받으려는 것이다.",
+    "why": "해를 따라가는 식물이 더 크게 자라므로 자라기 위해 가능한 한 많은 빛을 받으려는 것입니다.",
+    "optionNotes": [
+      "곤충을 피한다는 내용은 나오지 않습니다.",
+      "꽃잎을 말린다는 내용은 나오지 않습니다.",
+      "토양을 데운다는 내용은 나오지 않습니다.",
+      "농부는 나오지 않습니다.",
+      "정답. 자라기 위해 가능한 한 많은 빛을 받으려는 것입니다."
+    ],
+    "trap": "'stay facing east'를 이유로 착각하지 마세요.",
+    "tip": "'grow bigger'가 빛을 많이 받는 목적의 근거입니다."
+  },
+  {
+    "id": "m2b-29-35",
+    "level": "m2",
+    "set": "mock-29",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Giving a presentation can be scary, but a few tips can help you do well. ① Last year, our school bought new computers for the library. ② Practice your speech several times before the day. ③ Look at your audience, not just at your notes. ④ Speak slowly and clearly so that everyone can understand. ⑤ Finally, smile and take a deep breath before you start.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "발표를 하는 것은 무서울 수 있지만 몇 가지 요령이 잘하는 데 도움이 된다. ① 작년에 우리 학교는 도서관에 새 컴퓨터를 샀다. ② 당일 전에 연설을 여러 번 연습하라. ③ 메모만 보지 말고 청중을 보라. ④ 모두가 이해할 수 있도록 천천히 또렷하게 말하라. ⑤ 마지막으로 시작하기 전에 미소 짓고 심호흡을 하라.",
+    "why": "글은 발표를 잘하는 요령을 이야기하는데 ①은 도서관 컴퓨터에 관한 별개의 이야기입니다.",
+    "optionNotes": [
+      "정답(무관). 도서관 컴퓨터 이야기라 관계가 없습니다.",
+      "연습하라는 요령입니다.",
+      "청중을 보라는 요령입니다.",
+      "천천히 말하라는 요령입니다.",
+      "심호흡하라는 요령입니다."
+    ],
+    "trap": "첫 문장 바로 뒤라 자연스럽게 이어진다고 착각하기 쉽습니다.",
+    "tip": "각 문장이 '발표 요령'인지 확인하세요."
+  },
+  {
+    "id": "m2b-29-36",
+    "level": "m2",
+    "set": "mock-29",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Sticky notes are used in offices and classrooms around the world, but they began as a mistake.\n(A) Several years later, a coworker named Art Fry found a use for it. He sang in a church choir, and his bookmarks kept falling out of his songbook. He thought the weak glue could keep bookmarks in place.\n(B) Soon the company sold small yellow notes made with this glue. People loved them, and today they are sold in many colors and shapes.\n(C) In 1968, a scientist at a company called 3M tried to make a very strong glue. Instead, he made a weak glue that could stick to paper and be removed easily. At first, nobody knew how to use it.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 3,
+    "translation": "붙임쪽지는 전 세계 사무실과 교실에서 쓰이지만 실수로 시작되었다. (C) 1968년 3M이라는 회사의 한 과학자가 매우 강한 풀을 만들려 했다. 대신 그는 종이에 붙었다가 쉽게 떼어지는 약한 풀을 만들었다. 처음에는 아무도 그것을 어떻게 쓸지 몰랐다. (A) 몇 년 뒤 동료 아트 프라이가 쓸모를 찾았다. 그는 교회 합창단에서 노래했는데 책갈피가 노래책에서 자꾸 떨어졌다. 그는 약한 풀이 책갈피를 제자리에 붙여 둘 수 있다고 생각했다. (B) 곧 회사는 이 풀로 만든 작은 노란 쪽지를 팔았다. 사람들은 그것을 좋아했고 오늘날 여러 색과 모양으로 팔린다.",
+    "why": "(C) 약한 풀이 만들어진 계기 → (A) 'Several years later' 쓸모를 찾음 → (B) 'Soon' 쪽지가 판매됨 순서입니다.",
+    "optionNotes": [
+      "(A)의 'it'이 가리킬 풀이 먼저 소개되어야 합니다.",
+      "(B)의 'this glue'가 가리킬 풀이 먼저 소개되어야 합니다.",
+      "(B)가 먼저 올 수 없습니다.",
+      "정답. 풀의 탄생 → 쓸모 발견 → 판매.",
+      "(B)가 (A)보다 먼저 올 수 없습니다."
+    ],
+    "trap": "(A)의 'it'은 (C)에서 만든 약한 풀을 가리킵니다.",
+    "tip": "In 1968 → Several years later → Soon의 시간 표현을 따라가세요."
+  },
+  {
+    "id": "m2b-29-37",
+    "level": "m2",
+    "set": "mock-29",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "On Saturday, Haeun went hiking with her father. It was her first time to climb a mountain, and she was full of energy.\n(A) After the rest, she felt stronger, and soon they reached the top. The whole town looked as small as toys, and she was proud of herself.\n(B) At first, the road was easy, and she enjoyed the cool air. But after an hour, the path became steep, and her legs began to hurt.\n(C) She wanted to stop, but her father pointed to a small bird on a rock and said, \"Take a short rest and enjoy the view.\" They sat down, drank some water, and ate apples.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 2,
+    "translation": "토요일에 하은은 아버지와 등산을 갔다. 산을 오르는 것은 처음이었고 그녀는 에너지가 넘쳤다. (B) 처음에는 길이 쉬워서 서늘한 공기를 즐겼다. 하지만 한 시간 뒤 길이 가팔라졌고 다리가 아프기 시작했다. (C) 그녀는 멈추고 싶었지만 아버지가 바위 위의 작은 새를 가리키며 말했다. \"잠깐 쉬면서 경치를 즐기자.\" 그들은 앉아서 물을 마시고 사과를 먹었다. (A) 쉬고 나니 힘이 났고 곧 그들은 정상에 도착했다. 마을 전체가 장난감처럼 작게 보였고 그녀는 스스로가 자랑스러웠다.",
+    "why": "(B) 길이 가팔라져 다리가 아픔 → (C) 잠깐 쉬자는 아버지 → (A) 'After the rest' 정상에 도착함 순서입니다.",
+    "optionNotes": [
+      "(A)의 'After the rest'가 쉬는 장면보다 먼저 올 수 없습니다.",
+      "(A)가 먼저 올 수 없습니다.",
+      "정답. 힘들어짐 → 휴식 → 정상.",
+      "(C)의 'She wanted to stop'은 힘든 상황 뒤에 나옵니다.",
+      "(C)가 먼저 올 수 없습니다."
+    ],
+    "trap": "(A)의 'After the rest'는 (C)의 휴식을 가리킵니다.",
+    "tip": "At first → But after an hour → After the rest의 흐름을 따라가세요."
+  },
+  {
+    "id": "m2b-29-38",
+    "level": "m2",
+    "set": "mock-29",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nHowever, sleep is also just as important for learning as studying.\n\n[글]\n( ① ) Many students study late at night before an exam. ( ② ) They believe that more hours of study will give them better results. ( ③ ) Without enough sleep, the brain cannot store new information well. ( ④ ) Tired students often forget what they have studied and make careless mistakes. ( ⑤ ) So getting a good night's sleep is a smart way to prepare for a test.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 그러나 수면도 공부만큼 학습에 중요하다. [글] 많은 학생이 시험 전에 밤늦게까지 공부한다. 그들은 공부 시간이 길수록 결과가 더 좋아질 것이라고 믿는다. 잠이 충분하지 않으면 뇌는 새 정보를 잘 저장하지 못한다. 피곤한 학생은 공부한 내용을 잊고 부주의한 실수를 하는 경우가 많다. 그래서 숙면은 시험을 준비하는 현명한 방법이다.",
+    "why": "공부 시간이 길수록 좋다는 믿음 뒤에 'However'로 수면의 중요성을 말하고, 다음 문장이 그 이유를 설명하므로 ③에 들어갑니다.",
+    "optionNotes": [
+      "'However'가 대비할 앞 내용이 없습니다.",
+      "믿음을 설명하는 문장 앞이라 대비할 내용이 부족합니다.",
+      "정답. 믿음 뒤에 대비가 오고 이유가 이어집니다.",
+      "수면 부족의 영향 설명 도중에 끼면 흐름이 끊깁니다.",
+      "결론 직전에 끼면 이유 설명이 빠집니다."
+    ],
+    "trap": "'Without enough sleep' 앞에 수면이 주제로 먼저 제시되어야 합니다.",
+    "tip": "However는 앞 내용과 반대되는 내용을 이끄는 위치에 놓입니다."
+  },
+  {
+    "id": "m2b-29-39",
+    "level": "m2",
+    "set": "mock-29",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nFor example, turning off the tap while you brush your teeth can save many liters of water.\n\n[글]\n( ① ) Every day we use a lot of water at home. ( ② ) However, clean water is limited, so we must save it. ( ③ ) There are some easy ways to do this. ( ④ ) Taking a short shower instead of a long bath also helps. ( ⑤ ) Small actions like these protect our water for the future.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "[주어진 문장] 예를 들어 양치질하는 동안 수도꼭지를 잠그면 많은 리터의 물을 아낄 수 있다. [글] 우리는 날마다 집에서 많은 물을 쓴다. 그러나 깨끗한 물은 한정되어 있으므로 아껴야 한다. 이를 위한 쉬운 방법이 몇 가지 있다. 긴 목욕 대신 짧은 샤워를 하는 것도 도움이 된다. 이런 작은 행동이 미래를 위해 우리의 물을 지킨다.",
+    "why": "쉬운 방법이 있다는 말 뒤에 'For example'로 구체적 예가 오고, 다음 문장이 'also'로 다른 방법을 더하므로 ④에 들어갑니다.",
+    "optionNotes": [
+      "'For example'의 앞 진술이 아직 없습니다.",
+      "물을 아껴야 한다는 이유를 말하기 전이라 이릅니다.",
+      "쉬운 방법이 있다는 말 직후이지만 다음 문장의 'also'가 이을 예가 빠집니다.",
+      "정답. 방법 뒤에 예가 오고 'also'로 이어집니다.",
+      "결론 직전에 끼면 흐름이 맞지 않습니다."
+    ],
+    "trap": "③ 바로 뒤도 그럴듯하지만 'also'가 가리킬 예가 필요합니다.",
+    "tip": "also는 앞에 같은 종류의 예가 먼저 나온 뒤에 쓰입니다."
+  },
+  {
+    "id": "m2b-29-40",
+    "level": "m2",
+    "set": "mock-29",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Plastic bags are cheap and light, so stores give them out for free. However, we use a plastic bag for only about twenty minutes, but it can stay on the earth for hundreds of years. Many bags end up in rivers and seas, where animals mistake them for food and get sick. To solve this problem, some countries ask shoppers to pay a small fee for plastic bags. As a result, many people began to carry their own cloth bags. In one city, the number of plastic bags fell by more than half in only one year. Cloth bags can be used hundreds of times.\n\n▶ Using (A) bags instead of plastic ones helps to (B) the amount of waste.",
+    "options": [
+      "(A) tiny — (B) hide",
+      "(A) heavy — (B) raise",
+      "(A) reusable — (B) reduce",
+      "(A) colorful — (B) store",
+      "(A) paper — (B) forget"
+    ],
+    "answer": 2,
+    "translation": "비닐봉지는 싸고 가벼워서 가게들이 공짜로 나눠 준다. 그러나 우리는 비닐봉지를 겨우 이십 분쯤 쓰지만 그것은 지구에 수백 년 동안 남아 있을 수 있다. 많은 봉지가 강과 바다로 흘러가 동물이 먹이로 착각해 병이 난다. 이 문제를 해결하려고 일부 나라는 쇼핑객에게 비닐봉지에 작은 요금을 내게 한다. 그 결과 많은 사람이 자기 천 가방을 들고 다니기 시작했다. 한 도시에서는 비닐봉지의 수가 일 년 만에 절반 넘게 줄었다. 천 가방은 수백 번 쓸 수 있다. ▶ 비닐봉지 대신 (A) 가방을 쓰면 쓰레기의 양을 (B)하는 데 도움이 된다.",
+    "why": "재사용할 수 있는 천 가방을 쓰면 쓰레기의 양이 줄어들므로 (A)는 reusable, (B)는 reduce입니다.",
+    "optionNotes": [
+      "tiny와 hide는 글과 맞지 않습니다.",
+      "heavy와 raise는 글과 맞지 않습니다.",
+      "정답. 재사용 가방이 쓰레기를 줄입니다.",
+      "colorful과 store는 글과 맞지 않습니다.",
+      "paper와 forget은 글과 맞지 않습니다."
+    ],
+    "trap": "가방의 재료(cloth)에만 주목해 paper(⑤)를 고르지 마세요.",
+    "tip": "요약문은 대상의 특징(reusable)과 결과(reduce)를 짝지으세요."
+  }
+]
