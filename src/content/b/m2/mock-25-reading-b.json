@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m2b-25-29",
+    "level": "m2",
+    "set": "mock-25",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Giant pandas live in the mountain forests of China. They spend most of the day {1|eating} bamboo, and an adult panda can eat up to twelve kilograms every day. Although pandas belong to the bear family, they {2|rarely} eat meat. Baby pandas are born very small, about the size of a stick of butter, and they {3|is} blind for the first month. Their mothers take care of them with great patience. Pandas are in danger because their forests are being cut down. Thanks to protected areas, the number of wild pandas has {4|increased} in recent years. This shows that we can {5|save} an endangered animal if we try.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "자이언트 판다는 중국의 산림에 산다. 하루의 대부분을 대나무를 먹으며 보내고 다 큰 판다는 날마다 최대 12킬로그램을 먹을 수 있다. 판다는 곰과에 속하지만 고기는 거의 먹지 않는다. 아기 판다는 버터 한 조각 크기 정도로 아주 작게 태어나고 첫 한 달 동안은 앞을 보지 못한다. 어미들은 큰 인내심으로 새끼를 돌본다. 판다는 숲이 베어지고 있어서 위험에 처해 있다. 보호 구역 덕분에 최근 몇 년간 야생 판다의 수가 늘었다. 이는 우리가 노력하면 멸종 위기 동물을 구할 수 있음을 보여 준다.",
+    "why": "주어 they(Baby pandas)는 복수이므로 is가 아니라 are여야 합니다.",
+    "optionNotes": [
+      "spend 시간 + -ing 구문의 eating입니다.",
+      "빈도부사 rarely입니다.",
+      "정답(틀린 것). 복수 주어에 맞게 are여야 합니다.",
+      "현재완료 has increased의 과거분사입니다.",
+      "조동사 can 뒤의 동사원형 save입니다."
+    ],
+    "trap": "앞의 'born very small'에 이끌려 단수로 착각하기 쉽습니다.",
+    "tip": "주어의 수(복수 they)와 be동사의 형태가 일치하는지 확인하세요."
+  },
+  {
+    "id": "m2b-25-30",
+    "level": "m2",
+    "set": "mock-25",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Washing your hands is one of the simplest ways to {1|prevent} disease. Germs on your hands can {2|leave} your body through your mouth, nose, or eyes. To wash properly, wet your hands with clean water and rub them with soap for at least twenty seconds. Many people forget to clean between their fingers and under their nails, which is where germs hide. Then rinse well and dry your hands with a clean towel. You should always wash your hands before eating and after using the toilet. During flu season, washing your hands often is especially {3|important}. Doctors say that this simple habit can {4|reduce} the number of colds by about twenty percent, so teach children this habit as {5|early} as possible.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "손을 씻는 것은 질병을 예방하는 가장 간단한 방법 중 하나이다. 손에 있는 세균은 입, 코, 눈을 통해 몸으로 들어올 수 있다. 제대로 씻으려면 깨끗한 물로 손을 적시고 비누로 적어도 이십 초 동안 문질러라. 많은 사람이 세균이 숨는 곳인 손가락 사이와 손톱 밑을 씻는 것을 잊는다. 그다음 잘 헹구고 깨끗한 수건으로 말려라. 식사 전과 화장실에 다녀온 뒤에는 늘 손을 씻어야 한다. 독감 철에는 손을 자주 씻는 것이 특히 중요하다. 의사들은 이 간단한 습관이 감기 횟수를 약 20퍼센트 줄일 수 있다고 하니 아이들에게 이 습관을 가능한 한 일찍 가르쳐라.",
+    "why": "세균은 입, 코, 눈을 통해 몸으로 '들어오므로(enter)' leave는 부적절합니다.",
+    "optionNotes": [
+      "질병을 예방한다는 의미로 prevent가 알맞습니다.",
+      "정답(부적절). 몸에 들어온다는 의미이므로 enter여야 합니다.",
+      "특히 중요하다는 의미로 important가 알맞습니다.",
+      "감기 횟수를 줄인다는 의미로 reduce가 알맞습니다.",
+      "가능한 한 일찍이라는 의미로 early가 알맞습니다."
+    ],
+    "trap": "'through your mouth, nose, or eyes'를 보고 몸을 빠져나가는 통로로 오해하기 쉽습니다.",
+    "tip": "세균이 질병을 일으키는 방향(몸 안으로)과 동사가 일치하는지 확인하세요."
+  },
+  {
+    "id": "m2b-25-31",
+    "level": "m2",
+    "set": "mock-25",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "When you are cold, your body begins to shiver. Babies and adults both shiver in cold weather. Shivering may feel uncomfortable, but it is actually a clever way to protect you. Your brain senses that your body temperature is dropping and sends signals to your muscles. The muscles then contract and relax very quickly. This movement uses energy, and energy produces heat. Even though you cannot control shivering, it can raise your body temperature by several degrees. Once you are warm again, the shaking stops. So you shiver because your body is __________.",
+    "options": [
+      "making heat by moving the muscles quickly to keep you warm",
+      "afraid of the outside air",
+      "getting ready to sleep",
+      "losing energy in the muscles",
+      "trying to cool itself down"
+    ],
+    "answer": 0,
+    "translation": "추우면 몸이 떨리기 시작한다. 아기도 어른도 추운 날씨에는 떤다. 떨림은 불편할 수 있지만 사실 당신을 보호하는 영리한 방법이다. 뇌는 체온이 떨어지는 것을 감지하고 근육에 신호를 보낸다. 그러면 근육이 매우 빠르게 수축하고 이완한다. 이 움직임은 에너지를 쓰고 에너지는 열을 만든다. 떨림을 조절할 수는 없지만 체온을 몇 도 올릴 수 있다. 다시 따뜻해지면 떨림은 멈춘다. 그러니 당신이 떠는 것은 몸이 근육을 빠르게 움직여 열을 만들어 따뜻하게 하려 하기 때문이다.",
+    "why": "근육이 빠르게 수축·이완하며 에너지를 써서 열을 만들어 체온을 올립니다.",
+    "optionNotes": [
+      "정답. 근육을 빠르게 움직여 열을 만듭니다.",
+      "공기를 무서워한다는 내용은 나오지 않습니다.",
+      "잠들 준비는 나오지 않습니다.",
+      "에너지를 잃는다는 내용은 열을 만든다는 내용과 반대입니다.",
+      "열을 식히려는 것은 글과 반대입니다."
+    ],
+    "trap": "'uncomfortable'을 보고 몸에 해롭다고 오해하지 마세요.",
+    "tip": "앞 문장(energy produces heat)이 정답의 근거입니다."
+  },
+  {
+    "id": "m2b-25-32",
+    "level": "m2",
+    "set": "mock-25",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many people think that a camel's hump stores water, but this is a myth. In fact, the hump is filled with fat. When a camel cannot find food for a long time, its body breaks down the fat and turns it into energy. As the fat is used, the hump becomes smaller and may even fall to one side. Camels can also drink more than a hundred liters of water in a few minutes, and they lose very little water through sweat. These features help camels survive in hot deserts for days without eating or drinking. A camel's hump is a storage place for __________.",
+    "options": [
+      "fresh drinking water for the long journey",
+      "fresh air for breathing in the desert",
+      "fat that can be turned into energy",
+      "sand to protect the camel from the heat",
+      "milk for the baby camels in the herd"
+    ],
+    "answer": 2,
+    "translation": "많은 사람이 낙타의 혹이 물을 저장한다고 생각하지만 이는 근거 없는 믿음이다. 사실 혹은 지방으로 가득 차 있다. 낙타가 오랫동안 먹이를 찾지 못하면 몸은 지방을 분해해 에너지로 바꾼다. 지방이 쓰이면 혹은 작아지고 한쪽으로 쓰러지기도 한다. 낙타는 몇 분 안에 백 리터가 넘는 물을 마실 수 있고 땀으로 물을 거의 잃지 않는다. 이런 특징은 낙타가 먹거나 마시지 않고도 뜨거운 사막에서 며칠 동안 살아남도록 돕는다. 낙타의 혹은 에너지로 바뀔 수 있는 지방을 저장하는 곳이다.",
+    "why": "혹은 지방으로 가득 차 있고 이것이 에너지로 바뀌므로 지방 저장고입니다.",
+    "optionNotes": [
+      "물을 저장한다는 것은 근거 없는 믿음이라고 했습니다.",
+      "공기는 나오지 않습니다.",
+      "정답. 에너지로 바뀔 수 있는 지방입니다.",
+      "모래는 나오지 않습니다.",
+      "젖은 나오지 않습니다."
+    ],
+    "trap": "첫 문장의 통념(물 저장)을 결론으로 착각하지 마세요.",
+    "tip": "'In fact' 뒤의 사실이 정답의 근거입니다."
+  },
+  {
+    "id": "m2b-25-33",
+    "level": "m2",
+    "set": "mock-25",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Some people think that sign language is just a set of gestures that copies spoken words. This is not true. Sign languages, such as Korean Sign Language or American Sign Language, are complete languages. They have their own grammar and vocabulary, and they use facial expressions and body movements to show meaning. Deaf people can use sign language to tell jokes, discuss science, and write poems. Also, sign languages from different countries are not the same, just as spoken languages differ. So sign language is a real language because it __________.",
+    "options": [
+      "is easier to learn than any other language in the world",
+      "has the same signs in every country around the world",
+      "can be understood by everyone without any learning",
+      "has its own grammar and vocabulary",
+      "uses only the movements of the hands and nothing else"
+    ],
+    "answer": 3,
+    "translation": "일부 사람들은 수어가 말을 흉내 낸 몸짓의 모음일 뿐이라고 생각한다. 이는 사실이 아니다. 한국 수어나 미국 수어 같은 수어는 완전한 언어이다. 수어는 고유한 문법과 어휘를 가지고 있으며 얼굴 표정과 몸의 움직임으로 의미를 나타낸다. 청각 장애인은 수어로 농담을 하고 과학을 토론하고 시를 쓸 수 있다. 또 말이 다르듯이 나라마다 수어도 같지 않다. 그래서 수어는 음성 언어처럼 고유한 문법과 어휘를 가지고 있기 때문에 진짜 언어이다.",
+    "why": "수어는 고유한 문법과 어휘를 가지고 있어 음성 언어처럼 완전한 언어입니다.",
+    "optionNotes": [
+      "가장 쉽다는 내용은 나오지 않습니다.",
+      "나라마다 다르다고 했습니다.",
+      "배우지 않고 이해할 수 있다는 내용은 나오지 않습니다.",
+      "정답. 고유한 문법과 어휘를 가집니다.",
+      "표정과 몸의 움직임도 쓰입니다."
+    ],
+    "trap": "'gestures'라는 통념을 정답으로 착각하지 마세요. 글은 그것을 부정합니다.",
+    "tip": "'This is not true' 뒤의 설명이 정답의 근거입니다."
+  },
+  {
+    "id": "m2b-25-34",
+    "level": "m2",
+    "set": "mock-25",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Chopping an onion often makes our eyes water. It is a common problem in kitchens. When we cut an onion, its cells are broken, and chemicals inside mix together. They form a gas that rises into the air. When the gas touches our eyes, it mixes with the water on the surface and turns into a mild acid. Our eyes feel a stinging, so the brain tells the tear glands to wash it away. Chilling the onion in the refrigerator before cutting slows the chemical reaction and reduces tears. We cry when cutting onions because they __________.",
+    "options": [
+      "release a gas that irritates our eyes",
+      "make us feel sad when we think about food",
+      "contain a lot of water in their thick skin",
+      "are covered with sharp hairs on the outside",
+      "are grown in dirty soil under the ground"
+    ],
+    "answer": 0,
+    "translation": "양파를 썰면 눈물이 나는 경우가 많다. 부엌에서 흔한 문제이다. 양파를 자르면 세포가 터져서 안의 물질이 섞인다. 그 물질이 공기 중으로 올라가는 기체를 만든다. 이 기체가 눈에 닿으면 표면의 물과 섞여 약한 산이 된다. 눈이 따끔거려서 뇌는 눈물샘에 그것을 씻어 내라고 한다. 썰기 전에 양파를 냉장고에서 차게 하면 화학 반응이 느려져 눈물이 줄어든다. 양파를 썰 때 우는 것은 양파가 눈을 자극하는 기체를 내보내기 때문이다.",
+    "why": "양파를 자르면 생기는 기체가 눈을 자극해 눈물이 납니다.",
+    "optionNotes": [
+      "정답. 눈을 자극하는 기체를 내보내기 때문입니다.",
+      "슬퍼서 우는 것이 아닙니다.",
+      "껍질의 물은 나오지 않습니다.",
+      "털은 나오지 않습니다.",
+      "흙은 나오지 않습니다."
+    ],
+    "trap": "'cry'라는 단어에 이끌려 감정 때문(②)이라고 생각하지 마세요.",
+    "tip": "원인(기체가 눈에 닿음) → 결과(자극 → 눈물)를 따라가세요."
+  },
+  {
+    "id": "m2b-25-35",
+    "level": "m2",
+    "set": "mock-25",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Packing a healthy lunch box can be easy if you follow some simple steps. A good lunch gives you energy for the whole afternoon. ① Include a main dish such as rice, sandwiches, or pasta. ② Add fresh vegetables and fruit to get enough vitamins. ③ Use an ice pack to keep the food cold in summer. ④ Wrap the food tightly so that it does not spill in your bag. ⑤ The Pacific Ocean is deeper than any other ocean on Earth.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "몇 가지 간단한 단계를 따르면 건강한 도시락을 싸는 것은 쉬울 수 있다. 좋은 점심은 오후 내내 쓸 에너지를 준다. ① 밥, 샌드위치, 파스타 같은 주 요리를 넣어라. ② 비타민을 충분히 얻도록 신선한 채소와 과일을 더하라. ③ 여름에는 음식을 차게 유지하려고 아이스팩을 써라. ④ 가방에서 새지 않도록 음식을 단단히 싸라. ⑤ 태평양은 지구의 다른 어떤 바다보다 깊다.",
+    "why": "글은 도시락을 싸는 요령을 이야기하는데 ⑤는 태평양에 관한 별개의 이야기입니다.",
+    "optionNotes": [
+      "주 요리를 넣는 요령입니다.",
+      "채소와 과일을 더하는 요령입니다.",
+      "아이스팩을 쓰는 요령입니다.",
+      "단단히 싸는 요령입니다.",
+      "정답(무관). 태평양 이야기라 관계가 없습니다."
+    ],
+    "trap": "마지막 문장이라 결론처럼 보이지만 주제와 관계가 없습니다.",
+    "tip": "각 문장이 '도시락 싸는 요령'인지 확인하세요."
+  },
+  {
+    "id": "m2b-25-36",
+    "level": "m2",
+    "set": "mock-25",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Bubble gum is a popular treat that children love to blow into big bubbles. It was invented by accident in 1928.\n(A) A young accountant named Walter Diemer was experimenting with gum recipes at a candy company. He did not expect to create anything new.\n(B) To make the gum easy to recognize, he added pink color because it was the only dye available. Pink is still the typical color of bubble gum today.\n(C) One day, he mixed a new batch of gum that was softer and stretchier than normal gum. When he tested it, he found that it could form large bubbles.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "풍선껌은 아이들이 큰 방울로 부는 것을 좋아하는 인기 간식이다. 그것은 1928년에 우연히 발명되었다. (A) 월터 디머라는 젊은 회계사가 사탕 회사에서 껌 조리법을 실험하고 있었다. 그는 새로운 것을 만들 줄은 예상하지 못했다. (C) 어느 날 그는 보통 껌보다 더 부드럽고 잘 늘어나는 새 껌 한 판을 섞었다. 시험해 보니 큰 방울을 만들 수 있었다. (B) 껌을 알아보기 쉽게 하려고 그는 유일하게 구할 수 있는 염료였던 분홍색을 더했다. 분홍색은 오늘날에도 풍선껌의 전형적인 색이다.",
+    "why": "(A) 실험 중이던 디머 → (C) 어느 날 새 껌과 큰 방울 → (B) 분홍색을 더함 순서입니다.",
+    "optionNotes": [
+      "정답. 실험 → 발견 → 분홍색.",
+      "(B)의 'the gum'이 가리킬 껌이 앞에 없습니다.",
+      "(B)가 먼저 오면 'the gum'이 불분명합니다.",
+      "(C)의 'he'가 가리킬 인물이 앞에 없습니다.",
+      "(C)가 먼저 오면 'he'가 불분명합니다."
+    ],
+    "trap": "(C)의 'he'는 (A)의 월터 디머를 가리킵니다.",
+    "tip": "인물 소개 → One day → 결과의 순서를 따라가세요."
+  },
+  {
+    "id": "m2b-25-37",
+    "level": "m2",
+    "set": "mock-25",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Tomorrow is Parents' Day, and Hana wants to make a card for her mother. She wants it to be special. She has never made one by herself before.\n(A) Next, she cut out small flowers from pink paper and glued them around the heart. Inside the card, she wrote a letter to her mother.\n(B) Finally, she put the card in an envelope and hid it in her bag. She could not wait to see her mother's smile.\n(C) First, she folded a piece of colored paper in half and drew a big heart on the front.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 3,
+    "translation": "내일은 어버이날이고 하나는 어머니께 드릴 카드를 만들고 싶다. 그녀는 그것이 특별하기를 바란다. 하나는 전에 혼자 카드를 만들어 본 적이 없다. (C) 먼저 그녀는 색종이를 반으로 접고 앞면에 큰 하트를 그렸다. (A) 다음으로 그녀는 분홍색 종이에서 작은 꽃을 오려 하트 둘레에 붙였다. 카드 안쪽에는 어머니께 쓰는 편지를 썼다. (B) 마지막으로 그녀는 카드를 봉투에 넣어 가방에 숨겼다. 어머니의 미소를 빨리 보고 싶었다.",
+    "why": "(C) First, 접고 하트 그리기 → (A) Next, 꽃 붙이고 편지 쓰기 → (B) Finally, 봉투에 넣기 순서입니다.",
+    "optionNotes": [
+      "(A)의 'the heart'가 가리킬 하트가 앞에 없습니다.",
+      "(B)의 Finally가 맨 앞에 올 수 없습니다.",
+      "(B)의 Finally가 맨 앞에 올 수 없습니다.",
+      "정답. 하트 그리기 → 꽃과 편지 → 봉투.",
+      "(B)가 (A)보다 먼저 올 수 없습니다."
+    ],
+    "trap": "(A)의 'the heart'는 (C)에서 그린 하트를 가리킵니다.",
+    "tip": "First → Next → Finally의 순서 표현을 따라가세요."
+  },
+  {
+    "id": "m2b-25-38",
+    "level": "m2",
+    "set": "mock-25",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nBecause of this, many parents are looking for ways to limit their children's screen time.\n\n[글]\n( ① ) Children today spend more time in front of screens than ever before. ( ② ) Experts say that too much screen time can cause problems with sleep and eyesight. ( ③ ) Some children also have less time for outdoor play and conversations with their families. ( ④ ) A recent survey showed that the average student watches screens for more than five hours a day. ( ⑤ ) Setting clear rules, such as no phones during meals, can help.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "[주어진 문장] 이 때문에 많은 부모가 자녀의 화면 시청 시간을 제한할 방법을 찾고 있다. [글] 오늘날 아이들은 어느 때보다 많은 시간을 화면 앞에서 보낸다. 전문가들은 화면 시간이 너무 길면 수면과 시력에 문제가 생길 수 있다고 말한다. 일부 아이들은 바깥 놀이와 가족과의 대화 시간도 줄어든다. 최근 조사에 따르면 평균적인 학생은 하루 다섯 시간 넘게 화면을 본다. 식사 중 휴대전화 금지 같은 분명한 규칙을 세우는 것이 도움이 될 수 있다.",
+    "why": "문제들을 설명한 뒤 'Because of this'로 부모들의 노력이 이어지고, 다음 문장이 구체적 방법이므로 ⑤에 들어갑니다.",
+    "optionNotes": [
+      "'this'가 가리킬 문제가 아직 없습니다.",
+      "수면·시력 문제를 말하기 전이라 이릅니다.",
+      "문제를 나열하는 도중에 해결 노력이 오면 어색합니다.",
+      "조사 결과 앞이라 문제가 다 제시되지 않았습니다.",
+      "정답. 문제 뒤에 부모들의 노력이 이어지고 규칙이 나옵니다."
+    ],
+    "trap": "④의 조사 결과도 문제의 근거이므로 그 뒤에 해결책이 오는 것이 자연스럽습니다.",
+    "tip": "Because of this는 문제나 원인이 모두 소개된 직후에 놓입니다."
+  },
+  {
+    "id": "m2b-25-39",
+    "level": "m2",
+    "set": "mock-25",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThis habit not only wastes water but also costs extra money.\n\n[글]\n( ① ) Many people leave the tap running while they brush their teeth. ( ② ) A running tap can waste up to ten liters of water in just two minutes. ( ③ ) Turning off the tap while brushing is a simple way to save water. ( ④ ) Using a cup to rinse your mouth uses even less. ( ⑤ ) Small habits like these can make a big difference.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "[주어진 문장] 이 습관은 물을 낭비할 뿐 아니라 추가 비용도 든다. [글] 많은 사람이 양치하는 동안 수도꼭지를 틀어 놓는다. 틀어 놓은 수도꼭지는 단 이 분 만에 최대 10리터의 물을 낭비할 수 있다. 양치하는 동안 수도꼭지를 잠그는 것은 물을 아끼는 간단한 방법이다. 컵으로 입을 헹구면 물이 더 적게 든다. 이런 작은 습관이 큰 차이를 만들 수 있다.",
+    "why": "수도꼭지를 틀어 놓는 습관을 소개한 뒤 'This habit'가 이를 가리키고, 다음 문장이 낭비되는 양을 구체적으로 말하므로 ②에 들어갑니다.",
+    "optionNotes": [
+      "'This habit'가 가리킬 습관이 아직 없습니다.",
+      "정답. 습관을 소개한 뒤 낭비를 말하고 수치가 이어집니다.",
+      "잠그는 방법을 말하는 문장 뒤라 'This habit'의 지시가 어색합니다.",
+      "컵으로 헹구는 방법 앞이라 흐름이 어색합니다.",
+      "결론 앞이라 어색합니다."
+    ],
+    "trap": "'This habit'가 가리키는 것은 수도꼭지를 틀어 놓는 습관입니다.",
+    "tip": "This habit 같은 표현은 습관이 소개된 직후에 놓입니다."
+  },
+  {
+    "id": "m2b-25-40",
+    "level": "m2",
+    "set": "mock-25",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A teacher divided her class into two groups before a math quiz. She praised the first group for their effort and told them they were smart. She said nothing special to the second group. When the results came out, the praised group scored ten percent higher. They also tried harder problems on the next quiz. The teacher explained that praise makes students feel confident and motivated. However, she added that praise should be sincere and specific, such as \"You worked hard on this problem.\" Empty praise does not have the same effect.\n\n▶ (A) praise can make students feel more (B) and perform better.",
+    "options": [
+      "(A) Harsh — (B) nervous",
+      "(A) Empty — (B) tired",
+      "(A) Rare — (B) lonely",
+      "(A) Loud — (B) angry",
+      "(A) Sincere — (B) confident"
+    ],
+    "answer": 4,
+    "translation": "한 교사가 수학 퀴즈 전에 반을 두 집단으로 나누었다. 그녀는 첫 번째 집단의 노력을 칭찬하고 똑똑하다고 말해 주었다. 두 번째 집단에는 특별한 말을 하지 않았다. 결과가 나오자 칭찬받은 집단이 10퍼센트 더 높은 점수를 받았다. 그들은 다음 퀴즈에서 더 어려운 문제도 시도했다. 교사는 칭찬이 학생을 자신감 있고 의욕적으로 만든다고 설명했다. 하지만 칭찬은 \"이 문제를 열심히 풀었구나.\"처럼 진심 어리고 구체적이어야 한다고 덧붙였다. 빈 칭찬은 같은 효과가 없다. ▶ (A) 칭찬은 학생들을 더 (B) 느끼게 하고 더 잘하게 할 수 있다.",
+    "why": "진심 어리고 구체적인 칭찬이 자신감을 높여 성적을 올렸으므로 (A)는 Sincere, (B)는 confident입니다.",
+    "optionNotes": [
+      "Harsh와 nervous는 글과 반대입니다.",
+      "Empty는 효과가 없다고 했습니다.",
+      "Rare와 lonely는 글에 나오지 않습니다.",
+      "Loud와 angry는 글에 나오지 않습니다.",
+      "정답. 진심 어린 칭찬이 자신감을 줍니다."
+    ],
+    "trap": "마지막 문장의 'Empty praise'를 긍정적 효과로 오해하지 마세요.",
+    "tip": "요약문은 칭찬의 조건(진심, 구체적)과 결과(자신감)를 짝지으세요."
+  }
+]
