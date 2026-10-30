@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m3b-29-29",
+    "level": "m3",
+    "set": "mock-29",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "The platypus is one of the strangest animals on Earth. It {1|lay} eggs, but it also feeds its babies with milk, which makes it a rare kind of mammal. Its bill looks like a duck's, its tail is like a beaver's, and its feet are {2|webbed} for swimming. The platypus hunts underwater with its eyes, ears, and nose all {3|closed}. Instead, it finds food by sensing the tiny electric signals that small animals {4|produce} when they move. Male platypuses also have a sharp spur on their back legs, from which they can release venom. When scientists first saw a platypus specimen in 1799, they thought it was a joke, {5|because} it seemed to be made of several different animals.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "오리너구리는 지구에서 가장 이상한 동물 중 하나이다. 알을 낳지만 새끼에게 젖도 먹이므로 드문 종류의 포유류이다. 부리는 오리의 것 같고 꼬리는 비버의 것 같으며 발은 헤엄치도록 물갈퀴가 있다. 오리너구리는 눈, 귀, 코를 모두 닫은 채 물속에서 사냥한다. 대신 작은 동물이 움직일 때 만들어 내는 미세한 전기 신호를 감지해 먹이를 찾는다. 수컷 오리너구리는 뒷다리에 날카로운 며느리발톱이 있어서 독을 내보낼 수 있다. 과학자들이 1799년 처음 오리너구리 표본을 보았을 때 여러 다른 동물로 만들어진 것처럼 보였기 때문에 농담이라고 생각했다.",
+    "why": "주어 It이 3인칭 단수이고 현재 사실을 말하므로 lay가 아니라 lays여야 합니다.",
+    "optionNotes": [
+      "정답(틀린 것). 3인칭 단수 현재형 lays여야 합니다.",
+      "feet을 설명하는 과거분사 webbed입니다.",
+      "with + 목적어 + 과거분사 구문에서 closed입니다.",
+      "복수 주어 animals에 맞는 produce입니다.",
+      "이유를 나타내는 접속사 because입니다."
+    ],
+    "trap": "뒤의 'but it also feeds'를 보고 앞 동사도 맞는다고 착각하기 쉽습니다.",
+    "tip": "주어가 3인칭 단수인 현재 시제 문장은 동사에 -s가 붙는지 확인하세요."
+  },
+  {
+    "id": "m3b-29-30",
+    "level": "m3",
+    "set": "mock-29",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Every year, about one third of the food produced in the world is thrown away. This is a serious {1|waste} of water, energy, and money. Food waste also {2|harms} the environment, because rotting food in landfills releases a gas that warms the planet. Fortunately, there are simple ways to help. Before you go shopping, check what you already have at home and make a list. Buy only what you really {3|need}. To {4|increase} waste at home, store leftovers in clean containers and eat them within a few days. Fruits that look a little strange are usually just as tasty as perfect ones, so do not {5|reject} them. Small changes in our kitchens can add up to a big difference.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "해마다 전 세계에서 생산되는 식량의 약 삼 분의 일이 버려진다. 이는 물, 에너지, 돈의 심각한 낭비이다. 음식물 쓰레기는 매립지에서 썩는 음식이 지구를 따뜻하게 하는 기체를 내보내므로 환경도 해친다. 다행히 도울 수 있는 간단한 방법이 있다. 장을 보러 가기 전에 집에 이미 있는 것을 확인하고 목록을 만들어라. 정말 필요한 것만 사라. 집에서 쓰레기를 늘리려면 남은 음식을 깨끗한 용기에 보관하고 며칠 안에 먹어라. 조금 이상하게 생긴 과일도 대개 완벽한 것만큼 맛있으니 거부하지 마라. 부엌의 작은 변화가 모여 큰 차이를 만들 수 있다.",
+    "why": "남은 음식을 보관해 먹는 것은 쓰레기를 '줄이는(reduce)' 방법이므로 increase는 부적절합니다.",
+    "optionNotes": [
+      "낭비라는 의미로 waste가 알맞습니다.",
+      "환경을 해친다는 의미로 harms가 알맞습니다.",
+      "필요한 것만 산다는 의미로 need가 알맞습니다.",
+      "정답(부적절). 쓰레기를 줄이는 방법이므로 reduce여야 합니다.",
+      "이상한 과일을 거부하지 말라는 의미로 reject가 알맞습니다."
+    ],
+    "trap": "앞 문장의 'there are simple ways to help'와 방향이 같은 낱말을 놓치기 쉽습니다.",
+    "tip": "방법을 제시하는 흐름에서 목적(쓰레기 감소)과 낱말의 방향이 일치하는지 확인하세요."
+  },
+  {
+    "id": "m3b-29-31",
+    "level": "m3",
+    "set": "mock-29",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Have you ever yawned just because someone near you yawned? This is called contagious yawning, and it happens even when you only see a yawn on a screen or read about it. Scientists have found that people are more likely to catch a yawn from close friends and family members than from strangers. Children under four rarely catch yawns, because the ability to understand other people's feelings develops later. Dogs can also catch yawns from their owners. Some scientists think that yawning also helps to cool the brain, but this idea is still debated. Researchers believe that contagious yawning is connected to empathy. The closer we feel to someone, the more easily we yawn with that person. Contagious yawning suggests that our brains are __________.",
+    "options": [
+      "afraid of unfamiliar sounds in the dark",
+      "designed only for sleeping at night",
+      "too tired to understand what others say",
+      "tuned to connect with the people near us",
+      "unable to remember the faces of strangers"
+    ],
+    "answer": 3,
+    "translation": "가까이에 있는 누군가가 하품했다는 이유만으로 하품한 적이 있는가? 이것을 전염성 하품이라 하며 화면에서 하품을 보거나 그것에 대해 읽기만 해도 일어난다. 과학자들은 사람들이 낯선 사람보다 가까운 친구와 가족에게서 하품이 옮기 쉽다는 것을 발견했다. 네 살 미만의 아이들은 다른 사람의 감정을 이해하는 능력이 나중에 발달하기 때문에 하품이 거의 옮지 않는다. 개도 주인에게서 하품이 옮을 수 있다. 일부 과학자는 하품이 뇌를 식히는 데도 도움이 된다고 생각하지만 이 생각은 아직 논란이 있다. 연구자들은 전염성 하품이 공감과 관련이 있다고 믿는다. 누군가와 가깝다고 느낄수록 그 사람과 더 쉽게 함께 하품한다. 전염성 하품은 우리 뇌가 가까이 있는 사람들과 연결되도록 맞춰져 있음을 시사한다.",
+    "why": "가까운 사람일수록 하품이 잘 옮고 공감과 관련이 있으므로 뇌는 가까운 사람들과 연결되도록 맞춰져 있습니다.",
+    "optionNotes": [
+      "어둠 속의 소리는 나오지 않습니다.",
+      "잠만을 위한 설계는 나오지 않습니다.",
+      "남의 말을 이해하기엔 너무 피곤하다는 내용은 나오지 않습니다.",
+      "정답. 가까운 사람들과 연결되도록 맞춰져 있습니다.",
+      "낯선 사람의 얼굴 기억은 나오지 않습니다."
+    ],
+    "trap": "하품이라는 소재 때문에 수면이나 피로(②③)를 고르지 마세요.",
+    "tip": "empathy와 closeness에 관한 서술이 정답의 근거입니다."
+  },
+  {
+    "id": "m3b-29-32",
+    "level": "m3",
+    "set": "mock-29",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In the past, people compared themselves only with neighbors and classmates. Today, social media shows us the best moments of thousands of people: perfect trips, delicious meals, and happy faces. When we compare our ordinary days with their highlights, we often feel that our own life is not good enough. Surveys show that many young people feel worse after looking at social media for a long time. Psychologists call this the comparison trap. However, a photo shows only a tiny part of a person's life, and no one posts their failures or boring afternoons. A healthier way is to compare yourself with who you were yesterday or last year. Progress measured against your own past is real and encouraging. To escape the trap, we should __________.",
+    "options": [
+      "measure our growth against our own past",
+      "delete every photo on our phones and never post again",
+      "spend more time looking at other people's perfect trips",
+      "stop caring about how we feel about our own lives",
+      "ask our friends to show us all of their failures"
+    ],
+    "answer": 0,
+    "translation": "과거에 사람들은 이웃과 반 친구하고만 자신을 비교했다. 오늘날 소셜 미디어는 완벽한 여행, 맛있는 식사, 행복한 얼굴 같은 수천 명의 가장 좋은 순간을 보여 준다. 우리의 평범한 날을 그들의 하이라이트와 비교하면 우리 삶이 충분히 좋지 않다고 느끼는 경우가 많다. 조사에 따르면 많은 젊은이가 오랫동안 소셜 미디어를 본 뒤 기분이 더 나빠진다. 심리학자들은 이것을 비교의 덫이라 부른다. 그러나 사진은 한 사람의 삶의 아주 작은 부분만 보여 주고 아무도 자신의 실패나 지루한 오후를 올리지 않는다. 더 건강한 방법은 어제나 작년의 자신과 비교하는 것이다. 자신의 과거와 견주어 잰 발전은 진짜이고 힘이 된다. 덫에서 벗어나려면 다른 사람보다는 자신의 과거와 견주어 성장을 재야 한다.",
+    "why": "더 건강한 방법은 어제나 작년의 자신과 비교하는 것이므로 다른 사람이 아니라 자신의 과거와 견주어 성장을 재야 합니다.",
+    "optionNotes": [
+      "정답. 자신의 과거와 견주어 성장을 잽니다.",
+      "사진을 지우라는 내용은 나오지 않습니다.",
+      "남의 여행을 더 보라는 내용은 글과 반대입니다.",
+      "자기 감정을 무시하라는 내용은 나오지 않습니다.",
+      "친구의 실패를 보여 달라는 내용은 나오지 않습니다."
+    ],
+    "trap": "'compare'가 반복되어도 비교 대상이 달라짐(남 → 과거의 나)을 놓치지 마세요.",
+    "tip": "'A healthier way is ~' 문장이 정답의 직접 근거입니다."
+  },
+  {
+    "id": "m3b-29-33",
+    "level": "m3",
+    "set": "mock-29",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "When heavy rain floods the land, fire ants face a serious danger. Instead of running away alone, thousands of ants hold onto each other's legs and jaws and form a living raft. The ants at the bottom stay under water, while others sit on top and stay dry. Because their bodies have a special waxy coating, air bubbles are trapped between them, and the raft floats. The ants take turns, so the ones at the bottom move up after a while. In this way, no single ant has to carry the whole burden. The raft can float for weeks until it reaches dry land. This behavior has been seen in flooded areas of South America. Fire ants show us that small individuals can survive a great danger if they __________.",
+    "options": [
+      "work together and share the burden",
+      "run away from the group as fast as possible",
+      "hide under the water until the rain stops",
+      "wait for larger animals to rescue them",
+      "build their nests in the middle of a lake"
+    ],
+    "answer": 0,
+    "translation": "폭우로 땅이 잠기면 불개미는 심각한 위험에 직면한다. 혼자 달아나는 대신 수천 마리의 개미가 서로의 다리와 턱을 붙잡고 살아 있는 뗏목을 만든다. 맨 아래의 개미는 물속에 있고 다른 개미는 위에 앉아 마른 채로 있는다. 몸에 특별한 밀랍 같은 막이 있어서 개미들 사이에 공기 방울이 갇혀 뗏목이 뜬다. 개미들은 교대하므로 아래에 있던 개미가 얼마 뒤 위로 올라온다. 이렇게 어떤 개미도 혼자 모든 짐을 지지 않는다. 뗏목은 마른 땅에 닿을 때까지 몇 주 동안 떠 있을 수 있다. 이런 행동은 남아메리카의 침수 지역에서 관찰되었다. 불개미는 작은 개체도 함께 일하고 짐을 나누면 큰 위험에서 살아남을 수 있음을 보여 준다.",
+    "why": "개미들이 뗏목을 만들고 교대하며 짐을 나누므로 함께 일하고 짐을 나누면 살아남을 수 있습니다.",
+    "optionNotes": [
+      "정답. 함께 일하고 짐을 나눕니다.",
+      "혼자 달아나지 않는다고 했습니다.",
+      "물속에 숨는다는 내용은 나오지 않습니다.",
+      "구조를 기다린다는 내용은 나오지 않습니다.",
+      "호수 한가운데의 집은 나오지 않습니다."
+    ],
+    "trap": "'Instead of running away alone'를 놓치면 ②를 고르기 쉽습니다.",
+    "tip": "'no single ant has to carry the whole burden'이 정답의 직접 근거입니다."
+  },
+  {
+    "id": "m3b-29-34",
+    "level": "m3",
+    "set": "mock-29",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Have you ever disliked a new song at first, but began to love it after hearing it many times? Psychologists call this the mere exposure effect. In a famous experiment, people were shown a set of unfamiliar pictures. Some pictures were shown only once, and others were shown many times. Afterward, the participants rated the pictures they had seen often as more attractive, even though they did not remember seeing them. The same thing happens with faces, words, and even brand names. For example, you may like a shop's logo simply because you pass it every day. The brain treats familiar things as safe, so they feel comfortable. This effect also explains why advertisements are repeated so often. In short, __________.",
+    "options": [
+      "we always prefer the newest thing that we meet",
+      "repeated exposure makes us feel comfortable with, and fond of, things that were once unfamiliar",
+      "people forget familiar things faster than new ones",
+      "we like pictures best when they are shown once",
+      "the brain rejects every kind of repetition"
+    ],
+    "answer": 1,
+    "translation": "처음에는 새 노래가 싫었지만 여러 번 듣고 나서 좋아하게 된 적이 있는가? 심리학자들은 이것을 단순 노출 효과라고 부른다. 유명한 실험에서 사람들은 낯선 그림 여러 장을 보았다. 일부 그림은 한 번만 보였고 다른 그림은 여러 번 보였다. 그 뒤 참가자들은 자주 본 그림이 보았다는 기억이 없어도 더 매력적이라고 평가했다. 얼굴, 낱말, 상표 이름에서도 같은 일이 일어난다. 예를 들어 매일 지나치기 때문에 가게의 로고가 좋아질 수 있다. 뇌는 익숙한 것을 안전하게 여기므로 편안하게 느낀다. 이 효과는 광고가 그렇게 자주 반복되는 이유도 설명한다. 요컨대 반복해서 접하면 한때 낯설었던 것에 편안함을 느끼고 애정을 갖게 된다.",
+    "why": "자주 본 그림을 더 매력적으로 평가했으므로 반복 노출이 낯설던 것에 편안함과 애정을 갖게 합니다.",
+    "optionNotes": [
+      "가장 새로운 것을 선호한다는 내용은 글과 반대입니다.",
+      "정답. 반복 노출이 편안함과 애정을 만듭니다.",
+      "익숙한 것을 더 빨리 잊는다는 내용은 나오지 않습니다.",
+      "한 번 보일 때 가장 좋아한다는 내용은 글과 반대입니다.",
+      "뇌가 반복을 거부한다는 내용은 글과 반대입니다."
+    ],
+    "trap": "'did not remember seeing them'을 보고 잊어버린다(③)고 착각하지 마세요.",
+    "tip": "In short 뒤 빈칸은 실험 결과(자주 본 것이 더 매력적)를 일반화한 문장입니다."
+  },
+  {
+    "id": "m3b-29-35",
+    "level": "m3",
+    "set": "mock-29",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Cycling is a wonderful way to stay healthy and protect the environment. Millions of people around the world ride bicycles to work, to school, or for fun. ① It strengthens your legs and heart without putting too much pressure on your joints. ② It also helps you clear your mind and reduces stress after a long day. ③ Unlike cars, bicycles produce no pollution, and they take up very little space on the road. ④ In many cities, new bike lanes have made cycling safer and more popular. ⑤ Some popular snacks contain large amounts of sugar and salt, so they should be eaten in small amounts.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "자전거 타기는 건강을 유지하고 환경을 보호하는 훌륭한 방법이다. 전 세계 수백만 명이 출퇴근, 등교 또는 재미로 자전거를 탄다. ① 자전거는 관절에 너무 많은 압력을 주지 않으면서 다리와 심장을 튼튼하게 한다. ② 또 긴 하루 뒤에 머리를 맑게 하고 스트레스를 줄여 준다. ③ 자동차와 달리 자전거는 오염을 일으키지 않고 도로에서 차지하는 공간도 매우 작다. ④ 많은 도시에서 새 자전거 도로가 자전거 타기를 더 안전하고 인기 있게 만들었다. ⑤ 일부 인기 있는 간식에는 설탕과 소금이 많이 들어 있으므로 적게 먹어야 한다.",
+    "why": "글은 자전거 타기의 장점을 설명하는데 ⑤는 간식의 설탕과 소금에 관한 별개의 이야기입니다.",
+    "optionNotes": [
+      "건강상의 장점입니다.",
+      "정신 건강의 장점입니다.",
+      "환경상의 장점입니다.",
+      "자전거 도로에 관한 설명입니다.",
+      "정답(무관). 간식 이야기라 관계가 없습니다."
+    ],
+    "trap": "'건강'이라는 큰 주제가 같아 보여도 자전거와는 무관합니다.",
+    "tip": "각 문장이 '자전거 타기'와 직접 연결되는지 확인하세요."
+  },
+  {
+    "id": "m3b-29-36",
+    "level": "m3",
+    "set": "mock-29",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "The Rubik's Cube is one of the best-selling toys in history, but it was not invented as a toy.\n(A) At first, he did not know whether it could be solved. After turning the cube for about a month, he finally found the answer. He was so excited that he decided to share the puzzle with other people.\n(B) In 1974, Erno Rubik, a Hungarian professor of architecture, built a small cube out of wood to help his students understand three-dimensional shapes. The parts could turn in different directions without falling apart.\n(C) In 1980, the puzzle was sold around the world under the name Rubik's Cube. Since then, hundreds of millions of cubes have been sold, and people even hold competitions to see who can solve it fastest.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 1,
+    "translation": "루빅스 큐브는 역사상 가장 많이 팔린 장난감 중 하나이지만 장난감으로 발명된 것이 아니었다. (B) 1974년 헝가리의 건축학 교수 에르뇌 루빅은 학생들이 3차원 도형을 이해하도록 돕기 위해 나무로 작은 정육면체를 만들었다. 부품들은 떨어지지 않고 여러 방향으로 돌아갈 수 있었다. (A) 처음에 그는 그것이 풀릴 수 있는지 알지 못했다. 한 달쯤 큐브를 돌린 끝에 마침내 답을 찾았다. 그는 너무 신이 나서 퍼즐을 다른 사람들과 나누기로 했다. (C) 1980년 이 퍼즐은 루빅스 큐브라는 이름으로 전 세계에 팔렸다. 그 뒤 수억 개의 큐브가 팔렸고 누가 가장 빨리 푸는지 겨루는 대회도 열린다.",
+    "why": "(B) 큐브를 만든 계기 → (A) 'At first' 풀 수 있을지 몰랐으나 해결함 → (C) 1980년 세계에 판매됨 순서입니다.",
+    "optionNotes": [
+      "(A)의 'it'이 가리킬 큐브가 먼저 소개되어야 합니다.",
+      "정답. 제작 → 해결 → 판매.",
+      "(C)의 판매가 해결보다 먼저 올 수 없습니다.",
+      "(C)가 맨 앞에 올 수 없습니다.",
+      "(C)가 맨 앞에 올 수 없습니다."
+    ],
+    "trap": "(A)의 'he'와 'it'은 (B)의 루빅과 큐브를 가리킵니다.",
+    "tip": "In 1974 → At first → In 1980의 시간 흐름을 따라가세요."
+  },
+  {
+    "id": "m3b-29-37",
+    "level": "m3",
+    "set": "mock-29",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Suho's grandfather has run a small bakery near the market for forty years. One winter morning, Suho decided to help him before school.\n(A) He got up at four, when it was still dark, and walked to the bakery with his grandfather. The air inside was warm and smelled of fresh bread. His grandfather showed him how to shape the dough into small rolls.\n(B) By six, the shelves were full of golden rolls. Suho's crooked rolls were placed at the front, and customers bought them first. He smiled all the way to school, feeling proud of his morning's work.\n(C) Suho tried to copy him, but his rolls came out in strange shapes, some too thin and some too fat. He felt embarrassed, but his grandfather laughed kindly and said, \"My first rolls looked even worse.\"",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "수호의 할아버지는 시장 근처에서 작은 빵집을 사십 년째 운영하신다. 어느 겨울 아침 수호는 등교 전에 할아버지를 돕기로 했다. (A) 그는 아직 어두운 네 시에 일어나 할아버지와 함께 빵집으로 걸어갔다. 안은 따뜻하고 갓 구운 빵 냄새가 났다. 할아버지는 반죽을 작은 롤 모양으로 빚는 법을 보여 주셨다. (C) 수호는 따라 해 보았지만 롤이 이상한 모양으로 나왔다. 어떤 것은 너무 가늘고 어떤 것은 너무 뚱뚱했다. 그는 창피했지만 할아버지는 다정하게 웃으며 말씀하셨다. \"내 첫 롤은 더 형편없었단다.\" (B) 여섯 시가 되자 선반은 황금빛 롤로 가득했다. 수호의 삐뚤삐뚤한 롤은 맨 앞에 놓였고 손님들이 가장 먼저 사 갔다. 그는 아침에 한 일이 자랑스러워 학교까지 내내 웃으며 갔다.",
+    "why": "(A) 새벽에 빵집에 가서 빚는 법을 배움 → (C) 서툴게 따라 함 → (B) 'By six' 롤이 팔림 순서입니다.",
+    "optionNotes": [
+      "정답. 배움 → 서투른 시도 → 완성과 판매.",
+      "(B)의 결과가 시도보다 먼저 올 수 없습니다.",
+      "(B)가 먼저 올 수 없습니다.",
+      "(C)의 'him'이 가리킬 할아버지의 설명이 앞에 있어야 합니다.",
+      "(C)가 먼저 오면 'copy him'의 대상이 불분명합니다."
+    ],
+    "trap": "(C)의 'him'은 (A)에서 빚는 법을 보여 준 할아버지입니다.",
+    "tip": "He got up at four → tried to copy → By six의 흐름을 따라가세요."
+  },
+  {
+    "id": "m3b-29-38",
+    "level": "m3",
+    "set": "mock-29",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThe first group was praised for being smart, while the second group was praised for trying hard.\n\n[글]\n( ① ) Researchers wanted to know how praise affects the way children learn. ( ② ) They divided children into two groups and gave them an easy puzzle. ( ③ ) Then both groups were offered a choice between an easy puzzle and a harder one. ( ④ ) Most children who were praised for being smart chose the easy puzzle. ( ⑤ ) Most children who were praised for effort chose the harder one.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 첫 번째 집단은 똑똑하다고 칭찬받았고 두 번째 집단은 열심히 했다고 칭찬받았다. [글] 연구자들은 칭찬이 아이들이 배우는 방식에 어떤 영향을 주는지 알고 싶었다. 그들은 아이들을 두 집단으로 나누어 쉬운 퍼즐을 주었다. 그런 다음 두 집단 모두에게 쉬운 퍼즐과 더 어려운 퍼즐 중 하나를 고를 기회를 주었다. 똑똑하다고 칭찬받은 아이들 대부분은 쉬운 퍼즐을 골랐다. 노력을 칭찬받은 아이들 대부분은 더 어려운 것을 골랐다.",
+    "why": "두 집단으로 나누어 퍼즐을 준 뒤 각 집단이 어떻게 칭찬받았는지 설명해야 'Then both groups'가 자연스럽게 이어지므로 ③에 들어갑니다.",
+    "optionNotes": [
+      "'The first group'이 가리킬 집단이 아직 소개되지 않았습니다.",
+      "두 집단을 나누었다는 서술의 중간에 끼어 어색합니다.",
+      "정답. 집단을 나눈 뒤 칭찬의 차이를 설명하고 'Then'이 이어집니다.",
+      "'Then both groups'의 선택 장면 뒤에 오면 시간 순서가 어색합니다.",
+      "결과를 말하는 문장 뒤에 오면 원인 설명이 늦습니다."
+    ],
+    "trap": "'The first/second group'은 두 집단이 먼저 소개된 뒤에 놓여야 합니다.",
+    "tip": "집단을 나눈 뒤 그 특징을 설명하는 문장이 오고 이후 과정이 이어집니다."
+  },
+  {
+    "id": "m3b-29-39",
+    "level": "m3",
+    "set": "mock-29",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nHowever, this does not mean that machines will replace human doctors.\n\n[글]\n( ① ) Some computer programs can now read X-ray images faster and sometimes more accurately than doctors. ( ② ) A program can find a pattern, but it cannot talk with patients, understand their fears, or decide what kind of care fits their lives. ( ③ ) Doctors also take responsibility for difficult choices and explain the risks in simple words. ( ④ ) For this reason, experts believe that the best results come from teamwork between doctors and machines. ( ⑤ ) In the future, patients may receive faster and more careful treatment thanks to this cooperation.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "[주어진 문장] 그러나 이것이 기계가 사람 의사를 대체할 것이라는 뜻은 아니다. [글] 일부 컴퓨터 프로그램은 이제 X선 영상을 의사보다 빠르게, 때로는 더 정확하게 읽을 수 있다. 프로그램은 패턴을 찾을 수 있지만 환자와 이야기하거나 그들의 두려움을 이해하거나 그들의 삶에 맞는 치료를 결정할 수 없다. 의사는 어려운 선택에 책임을 지고 위험을 쉬운 말로 설명하기도 한다. 이런 이유로 전문가들은 최상의 결과가 의사와 기계의 협력에서 나온다고 믿는다. 미래에는 이 협력 덕분에 환자들이 더 빠르고 세심한 치료를 받을 수 있을 것이다.",
+    "why": "기계가 영상을 잘 읽는다는 내용 뒤에 'However'로 의사를 대체하지 않는다고 말하고, 다음 문장이 그 이유를 설명하므로 ②에 들어갑니다.",
+    "optionNotes": [
+      "'this'가 가리킬 내용(기계의 능력)이 아직 없습니다.",
+      "정답. 기계의 능력 뒤에 대비되는 진술이 오고 이유가 이어집니다.",
+      "이유 설명 뒤에 오면 'However'의 대비가 어색합니다.",
+      "결론 직전에 오면 앞의 이유와 맞지 않습니다.",
+      "마지막에 오면 흐름이 끊깁니다."
+    ],
+    "trap": "'this'가 가리키는 대상이 앞 문장의 기계의 능력임을 놓치기 쉽습니다.",
+    "tip": "However와 this는 앞 문장의 내용을 받아 반대 진술을 이끄는 위치에 놓입니다."
+  },
+  {
+    "id": "m3b-29-40",
+    "level": "m3",
+    "set": "mock-29",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Fast fashion companies make cheap clothes very quickly, and people buy them in large amounts. Many of these clothes are worn only a few times and then thrown away. Producing one cotton shirt takes thousands of liters of water, and old clothes in landfills take years to break down. However, more and more young people are choosing a different way. They buy used clothes at secondhand shops, swap clothes with friends, or repair old ones instead of buying new ones. These choices cost much less, and they also reduce the amount of waste and water that fashion uses. One student said that finding a unique jacket in a used clothes shop was more fun than shopping at a big mall.\n\n▶ Wearing (A) clothes instead of buying new ones helps us save money and (B) the environment.",
+    "options": [
+      "(A) torn — (B) harm",
+      "(A) tight — (B) forget",
+      "(A) second-hand — (B) protect",
+      "(A) colorful — (B) lose",
+      "(A) expensive — (B) change"
+    ],
+    "answer": 2,
+    "translation": "패스트 패션 회사들은 싼 옷을 매우 빠르게 만들고 사람들은 그것을 대량으로 산다. 이런 옷 중 많은 것이 몇 번만 입고 버려진다. 면 셔츠 한 벌을 만드는 데는 수천 리터의 물이 들고 매립지의 헌 옷은 분해되는 데 여러 해가 걸린다. 그러나 점점 더 많은 젊은이가 다른 길을 택하고 있다. 그들은 중고 가게에서 헌 옷을 사거나 친구와 옷을 바꾸거나 새 옷을 사는 대신 헌 옷을 고쳐 입는다. 이런 선택은 비용이 훨씬 적게 들고 패션이 쓰는 쓰레기와 물의 양도 줄인다. 한 학생은 중고 옷 가게에서 독특한 재킷을 찾는 것이 큰 쇼핑몰에서 쇼핑하는 것보다 더 재미있다고 말했다. ▶ 새 옷을 사는 대신 (A) 옷을 입으면 돈을 아끼고 환경을 (B)하는 데 도움이 된다.",
+    "why": "중고 옷을 입으면 비용도 줄고 쓰레기와 물 사용도 줄어 환경을 보호하므로 (A)는 second-hand, (B)는 protect입니다.",
+    "optionNotes": [
+      "torn과 harm은 글과 맞지 않습니다.",
+      "tight와 forget은 글과 맞지 않습니다.",
+      "정답. 중고 옷이 돈을 아끼고 환경을 보호합니다.",
+      "colorful과 lose는 글과 맞지 않습니다.",
+      "expensive와 change는 글과 맞지 않습니다."
+    ],
+    "trap": "'unique jacket'을 보고 colorful(④)을 고르지 마세요.",
+    "tip": "요약문은 선택(second-hand)과 결과(protect)를 짝지으세요."
+  }
+]

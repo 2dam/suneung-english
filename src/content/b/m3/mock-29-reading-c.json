@@ -1,0 +1,147 @@
+[
+  {
+    "id": "m3b-29-41",
+    "level": "m3",
+    "set": "mock-29",
+    "no": 41,
+    "type": "long",
+    "group": "m3b-29-g41",
+    "stem": "[41~42] 윗글의 제목으로 가장 적절한 것을 고르시오.",
+    "passage": "The cheetah is the fastest land animal on Earth. In just three seconds, it can {1|accelerate} from a standing start to about a hundred kilometers per hour. Its body is perfectly designed for speed. Its legs are long and thin, its spine is very flexible, and its large lungs and heart supply plenty of oxygen to its muscles. Its claws, which cannot be pulled back like those of other cats, work like the spikes of running shoes and {2|grip} the ground. A long tail acts like a rudder and helps the cheetah keep its balance when it turns suddenly. However, this speed has a price. A cheetah can run at full speed for only about thirty seconds, because its body quickly becomes {3|overheated}. After a chase, it must rest for half an hour before it can eat. During this time, stronger animals such as lions and hyenas often {4|steal} its food. For this reason, cheetahs need to be careful and patient, and they sneak close to their prey before they start running. Today, cheetahs are in danger because their habitats are shrinking. Protecting open land is {5|useless} if we want to save this remarkable runner.",
+    "options": [
+      "Why Lions Are Afraid of Hyenas",
+      "Cheetahs: Fast but Easily Tired",
+      "How Running Shoes Are Made",
+      "The Slowest Animals in the Forest",
+      "Keeping Big Cats as Pets"
+    ],
+    "answer": 1,
+    "translation": "치타는 지구에서 가장 빠른 육상 동물이다. 단 삼 초 만에 정지 상태에서 시속 약 100킬로미터까지 가속할 수 있다. 몸은 속도를 위해 완벽하게 설계되어 있다. 다리는 길고 가늘며 척추는 매우 유연하고 큰 폐와 심장이 근육에 충분한 산소를 공급한다. 다른 고양잇과 동물처럼 집어넣을 수 없는 발톱은 달리기 신발의 스파이크처럼 작용해 땅을 움켜쥔다. 긴 꼬리는 방향타처럼 작용해 치타가 갑자기 방향을 바꿀 때 균형을 잡도록 돕는다. 그러나 이 속도에는 대가가 있다. 치타는 몸이 금방 과열되기 때문에 전속력으로 약 삼십 초밖에 달릴 수 없다. 추격 뒤에는 먹기 전에 삼십 분 동안 쉬어야 한다. 이 시간 동안 사자와 하이에나 같은 더 강한 동물이 먹이를 훔치는 경우가 많다. 이런 이유로 치타는 조심스럽고 참을성이 있어야 하며 달리기 시작하기 전에 먹잇감에게 살금살금 가까이 간다. 오늘날 치타는 서식지가 줄어들어 위험에 처해 있다. 이 놀라운 달리기 선수를 구하려면 열린 땅을 보호하는 것은 쓸모없다.",
+    "why": "치타가 속도에 맞게 설계되었지만 오래 달릴 수 없다는 내용이므로 ②가 제목으로 알맞습니다.",
+    "optionNotes": [
+      "사자와 하이에나의 관계는 중심이 아닙니다.",
+      "정답. 속도에 맞게 설계되었지만 오래 달리지 못하는 치타입니다.",
+      "신발 제작은 나오지 않습니다.",
+      "느린 동물은 나오지 않습니다.",
+      "반려 고양이는 나오지 않습니다."
+    ],
+    "trap": "'running shoes'가 나온다고 신발 제작(③)으로 착각하지 마세요.",
+    "tip": "제목은 글의 핵심 대상(cheetah)과 대비(speed vs. short chases)를 함께 담으세요."
+  },
+  {
+    "id": "m3b-29-42",
+    "level": "m3",
+    "set": "mock-29",
+    "no": 42,
+    "type": "long",
+    "group": "m3b-29-g41",
+    "stem": "[41~42] 밑줄 친 ①~⑤ 중에서 문맥상 낱말의 쓰임이 적절하지 않은 것을 고르시오.",
+    "passage": "The cheetah is the fastest land animal on Earth. In just three seconds, it can {1|accelerate} from a standing start to about a hundred kilometers per hour. Its body is perfectly designed for speed. Its legs are long and thin, its spine is very flexible, and its large lungs and heart supply plenty of oxygen to its muscles. Its claws, which cannot be pulled back like those of other cats, work like the spikes of running shoes and {2|grip} the ground. A long tail acts like a rudder and helps the cheetah keep its balance when it turns suddenly. However, this speed has a price. A cheetah can run at full speed for only about thirty seconds, because its body quickly becomes {3|overheated}. After a chase, it must rest for half an hour before it can eat. During this time, stronger animals such as lions and hyenas often {4|steal} its food. For this reason, cheetahs need to be careful and patient, and they sneak close to their prey before they start running. Today, cheetahs are in danger because their habitats are shrinking. Protecting open land is {5|useless} if we want to save this remarkable runner.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "(41번 지문과 같은 글입니다.)",
+    "why": "치타를 구하려면 열린 땅을 보호하는 것이 '필수적(essential)'이어야 하므로 useless는 부적절합니다.",
+    "optionNotes": [
+      "빠르게 가속한다는 의미로 accelerate가 알맞습니다.",
+      "땅을 움켜쥔다는 의미로 grip이 알맞습니다.",
+      "몸이 과열된다는 의미로 overheated가 알맞습니다.",
+      "먹이를 훔친다는 의미로 steal이 알맞습니다.",
+      "정답(부적절). 구하려면 essential해야 하므로 useless가 틀립니다."
+    ],
+    "trap": "앞 문장의 'in danger'와 연결되는 방향을 놓치기 쉽습니다.",
+    "tip": "마지막 문장의 'if we want to save'와 낱말의 방향이 일치하는지 확인하세요."
+  },
+  {
+    "id": "m3b-29-43",
+    "level": "m3",
+    "set": "mock-29",
+    "no": 43,
+    "type": "long",
+    "group": "m3b-29-g43",
+    "stem": "[43~45] 주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것을 고르시오.",
+    "passage": "(A) Yerin was riding the bus home after school when {1|she} noticed a brown wallet under the seat in front of her. Inside were some cash, a bus card, and a student ID with a photo of a boy from another school. The bus was almost empty. Yerin held the wallet for a moment and thought about what to do.\n(B) The next day, a teacher called Yerin to the school office. A boy was waiting there with his mother. \"Are you the girl who found my wallet?\" he asked. {2|She} nodded shyly. The boy bowed and said that he had searched for it all night, because his bus card and a photo of his grandmother were inside.\n(C) Yerin remembered that she needed money for a new notebook, and the cash in the wallet was tempting. But then she imagined how worried the owner must be. She walked to the front of the bus and gave the wallet to the driver. The driver looked at the ID card and said, \"{3|He} must be a student at Hanbit Middle School. I'll call the school office.\"\n(D) The boy's mother wanted to give Yerin a gift card, but {4|she} politely refused and said that she had only done what was right. On her way home, {5|she} felt lighter than ever, even without a new notebook. That evening, she wrote in her diary that honesty is a gift that one gives to oneself.",
+    "options": [
+      "(B)-(D)-(C)",
+      "(C)-(B)-(D)",
+      "(C)-(D)-(B)",
+      "(D)-(B)-(C)",
+      "(D)-(C)-(B)"
+    ],
+    "answer": 1,
+    "translation": "(A) 예린은 방과 후 버스를 타고 집에 가다가 앞좌석 아래에서 갈색 지갑을 발견했다. 안에는 현금 약간, 버스 카드, 다른 학교 소년의 사진이 있는 학생증이 있었다. 버스는 거의 비어 있었다. 예린은 잠시 지갑을 들고 어떻게 할지 생각했다. (B) 다음 날 선생님이 예린을 학교 사무실로 불렀다. 한 소년이 어머니와 함께 거기서 기다리고 있었다. \"네가 내 지갑을 찾아 준 학생이니?\" 그가 물었다. 그녀는 수줍게 고개를 끄덕였다. 소년은 고개를 숙이며 버스 카드와 할머니 사진이 들어 있어서 밤새 찾았다고 말했다. (C) 예린은 새 공책을 살 돈이 필요했던 것이 떠올랐고 지갑 속 현금은 솔깃했다. 하지만 그때 그녀는 주인이 얼마나 걱정할지를 상상했다. 그녀는 버스 앞쪽으로 걸어가 지갑을 운전기사에게 건넸다. 기사는 학생증을 보고 말했다. \"그는 한빛 중학교 학생이겠구나. 학교 사무실로 전화해 볼게.\" (D) 소년의 어머니는 예린에게 상품권을 주려 했지만 그녀는 정중히 거절하며 옳은 일을 했을 뿐이라고 말했다. 집에 가는 길에 그녀는 새 공책이 없는데도 어느 때보다 가벼운 마음이었다. 그날 저녁 그녀는 정직은 스스로에게 주는 선물이라고 일기에 썼다.",
+    "why": "(A) 지갑을 발견함 → (C) 운전기사에게 건넴 → (B) 다음 날 주인을 만남 → (D) 상품권을 거절함 순서입니다.",
+    "optionNotes": [
+      "(B)의 다음 날 장면이 지갑을 건네기 전에 올 수 없습니다.",
+      "정답. 건넴 → 주인과의 만남 → 보답을 거절함.",
+      "(D)의 거절이 만남보다 먼저 올 수 없습니다.",
+      "(D)가 맨 앞에 올 수 없습니다.",
+      "(D)가 맨 앞에 올 수 없습니다."
+    ],
+    "trap": "(B)의 'the wallet'은 (C)에서 운전기사에게 건넨 지갑입니다.",
+    "tip": "found → gave to the driver → The next day → refused의 사건 흐름을 따라가세요."
+  },
+  {
+    "id": "m3b-29-44",
+    "level": "m3",
+    "set": "mock-29",
+    "no": 44,
+    "type": "long",
+    "group": "m3b-29-g43",
+    "stem": "[43~45] 밑줄 친 ①~⑤ 중에서 가리키는 대상이 나머지 넷과 다른 것을 고르시오.",
+    "passage": "(A) Yerin was riding the bus home after school when {1|she} noticed a brown wallet under the seat in front of her. Inside were some cash, a bus card, and a student ID with a photo of a boy from another school. The bus was almost empty. Yerin held the wallet for a moment and thought about what to do.\n(B) The next day, a teacher called Yerin to the school office. A boy was waiting there with his mother. \"Are you the girl who found my wallet?\" he asked. {2|She} nodded shyly. The boy bowed and said that he had searched for it all night, because his bus card and a photo of his grandmother were inside.\n(C) Yerin remembered that she needed money for a new notebook, and the cash in the wallet was tempting. But then she imagined how worried the owner must be. She walked to the front of the bus and gave the wallet to the driver. The driver looked at the ID card and said, \"{3|He} must be a student at Hanbit Middle School. I'll call the school office.\"\n(D) The boy's mother wanted to give Yerin a gift card, but {4|she} politely refused and said that she had only done what was right. On her way home, {5|she} felt lighter than ever, even without a new notebook. That evening, she wrote in her diary that honesty is a gift that one gives to oneself.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "③의 He는 학생증의 주인인 소년이고, 나머지 ①②④⑤는 모두 예린을 가리킵니다.",
+    "optionNotes": [
+      "she는 지갑을 발견한 예린입니다.",
+      "She는 고개를 끄덕인 예린입니다.",
+      "정답. He는 지갑의 주인인 소년입니다.",
+      "she는 상품권을 거절한 예린입니다.",
+      "she는 마음이 가벼워진 예린입니다."
+    ],
+    "trap": "(C)에서 예린, 운전기사, 소년이 함께 나오므로 성별과 맥락을 확인해야 합니다.",
+    "tip": "대명사의 성별과 말한 사람(운전기사)의 문맥을 확인하세요."
+  },
+  {
+    "id": "m3b-29-45",
+    "level": "m3",
+    "set": "mock-29",
+    "no": 45,
+    "type": "long",
+    "group": "m3b-29-g43",
+    "stem": "[43~45] 윗글에 관한 내용으로 적절하지 않은 것을 고르시오.",
+    "passage": "(A) Yerin was riding the bus home after school when {1|she} noticed a brown wallet under the seat in front of her. Inside were some cash, a bus card, and a student ID with a photo of a boy from another school. The bus was almost empty. Yerin held the wallet for a moment and thought about what to do.\n(B) The next day, a teacher called Yerin to the school office. A boy was waiting there with his mother. \"Are you the girl who found my wallet?\" he asked. {2|She} nodded shyly. The boy bowed and said that he had searched for it all night, because his bus card and a photo of his grandmother were inside.\n(C) Yerin remembered that she needed money for a new notebook, and the cash in the wallet was tempting. But then she imagined how worried the owner must be. She walked to the front of the bus and gave the wallet to the driver. The driver looked at the ID card and said, \"{3|He} must be a student at Hanbit Middle School. I'll call the school office.\"\n(D) The boy's mother wanted to give Yerin a gift card, but {4|she} politely refused and said that she had only done what was right. On her way home, {5|she} felt lighter than ever, even without a new notebook. That evening, she wrote in her diary that honesty is a gift that one gives to oneself.",
+    "options": [
+      "예린은 버스에서 지갑을 발견했다.",
+      "지갑 안에는 다른 학교 학생의 학생증이 있었다.",
+      "예린은 지갑을 버스 운전기사에게 건넸다.",
+      "다음 날 주인이 어머니와 함께 학교 사무실에서 기다렸다.",
+      "예린은 주인의 어머니가 준 상품권을 기쁘게 받았다."
+    ],
+    "answer": 4,
+    "translation": "(43번 지문과 같은 글입니다.)",
+    "why": "예린은 상품권을 정중히 거절했으므로 기쁘게 받았다는 ⑤는 일치하지 않습니다.",
+    "optionNotes": [
+      "a brown wallet under the seat와 일치합니다.",
+      "a student ID of a boy from another school과 일치합니다.",
+      "gave the wallet to the driver와 일치합니다.",
+      "waiting there with his mother와 일치합니다.",
+      "정답(불일치). 상품권을 정중히 거절했습니다."
+    ],
+    "trap": "주인의 어머니가 상품권을 주려 했다는 부분만 보고 받았다고 착각하지 마세요.",
+    "tip": "불일치 문제는 'politely refused' 같은 행동의 결과를 보기와 대조하세요."
+  }
+]
