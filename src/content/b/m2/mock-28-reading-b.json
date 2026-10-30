@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m2b-28-29",
+    "level": "m2",
+    "set": "mock-28",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Koalas live in eucalyptus forests in Australia. They eat only eucalyptus leaves, which are poisonous to most animals. Koalas can {1|digest} them because of special bacteria in their stomachs. The leaves provide little energy, so koalas {2|sleep} up to twenty hours a day to save it. Their gray fur helps them stay warm in cool weather. A baby koala, called a joey, stays in its mother's pouch for about six months, and then it {3|rides} on her back. Koalas get most of their water from the leaves, so they rarely {4|drinking} water. Sadly, forest fires and the loss of trees have {5|reduced} their numbers.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "코알라는 호주의 유칼립투스 숲에 산다. 코알라는 대부분의 동물에게 독이 되는 유칼립투스 잎만 먹는다. 코알라는 위 속의 특별한 세균 덕분에 그것을 소화할 수 있다. 잎은 에너지를 거의 주지 않아서 코알라는 에너지를 아끼려고 하루에 최대 스무 시간을 잔다. 회색 털은 서늘한 날씨에 몸을 따뜻하게 유지하도록 돕는다. 조이라고 불리는 아기 코알라는 약 여섯 달 동안 어미의 주머니에 머문 뒤 어미의 등에 올라탄다. 코알라는 물 대부분을 잎에서 얻어서 물을 거의 마시지 않는다. 슬프게도 산불과 나무의 감소가 그 수를 줄였다.",
+    "why": "조동사처럼 쓰인 빈도부사 rarely 뒤에는 동사원형이 와야 하므로 drinking이 아니라 drink여야 합니다.",
+    "optionNotes": [
+      "조동사 can 뒤의 동사원형 digest입니다.",
+      "주어 koalas에 맞는 현재형 sleep입니다.",
+      "3인칭 단수 주어 it에 맞는 rides입니다.",
+      "정답(틀린 것). rarely 뒤 동사원형 drink여야 합니다.",
+      "현재완료 have reduced입니다."
+    ],
+    "trap": "앞의 'so'와 'they rarely'를 보고 진행형을 떠올리기 쉽습니다.",
+    "tip": "주어 + 빈도부사 + 일반동사 구조에서 동사는 주어에 맞게 씁니다."
+  },
+  {
+    "id": "m2b-28-30",
+    "level": "m2",
+    "set": "mock-28",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Using a smartphone for a long time can harm your body. When you look down at your phone, your head moves forward, and your neck must {1|support} extra weight. Over time, this can cause pain in the neck and shoulders. Many people also {2|blink} less when they look at a screen, so their eyes become dry and tired. To protect yourself, hold your phone at eye level and take a short break every thirty minutes. Stretching your neck and shoulders regularly is also {3|harmful}. Doctors say that small changes in habit can {4|prevent} big problems later. It is never too early to {5|care} about your posture.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "스마트폰을 오래 쓰면 몸을 해칠 수 있다. 휴대전화를 내려다보면 머리가 앞으로 나가고 목이 추가 무게를 지탱해야 한다. 시간이 지나면 목과 어깨에 통증이 생길 수 있다. 많은 사람이 화면을 볼 때 눈을 덜 깜빡여서 눈이 마르고 피곤해진다. 자신을 보호하려면 휴대전화를 눈높이로 들고 삼십 분마다 잠깐 쉬어라. 목과 어깨를 규칙적으로 스트레칭하는 것도 해롭다. 의사들은 작은 습관의 변화가 나중의 큰 문제를 예방할 수 있다고 말한다. 자세에 신경 쓰는 데 너무 이르다는 법은 없다.",
+    "why": "스트레칭은 몸을 보호하는 방법이므로 '도움이 된다(helpful)'가 알맞고 harmful은 부적절합니다.",
+    "optionNotes": [
+      "추가 무게를 지탱한다는 의미로 support가 알맞습니다.",
+      "눈을 덜 깜빡인다는 의미로 blink가 알맞습니다.",
+      "정답(부적절). 보호하는 방법이므로 helpful이어야 합니다.",
+      "문제를 예방한다는 의미로 prevent가 알맞습니다.",
+      "자세에 신경 쓴다는 의미로 care가 알맞습니다."
+    ],
+    "trap": "앞 문장의 'To protect yourself'와 같은 방향의 방법임을 놓치기 쉽습니다.",
+    "tip": "보호 방법을 나열하는 흐름에서 방향이 일치하는지 확인하세요."
+  },
+  {
+    "id": "m2b-28-31",
+    "level": "m2",
+    "set": "mock-28",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Eyebrows may look like simple decoration, but they have important jobs. Their curved shape and slanted hairs direct sweat and rain to the sides of the face, so the liquid does not run into the eyes. Without eyebrows, our eyes would sting more often, and we would have trouble seeing clearly in the rain. Eyebrows also help us to communicate. A small movement of the eyebrows can show surprise, anger, or worry, even without words. People who cannot move their eyebrows often find it difficult to express their feelings. Eyebrows are useful because they __________.",
+    "options": [
+      "make our faces look heavier and older",
+      "keep our eyes warm during the cold winter",
+      "help us hear sounds from far away places",
+      "protect our eyes and show our feelings",
+      "give us a sense of direction in the dark"
+    ],
+    "answer": 3,
+    "translation": "눈썹은 단순한 장식처럼 보일 수 있지만 중요한 역할을 한다. 굽은 모양과 비스듬한 털은 땀과 빗물을 얼굴 옆으로 보내 액체가 눈으로 흘러들지 않게 한다. 눈썹이 없다면 눈이 더 자주 따갑고 빗속에서 또렷하게 보기 어려울 것이다. 눈썹은 의사소통도 돕는다. 눈썹의 작은 움직임은 말없이도 놀람, 화, 걱정을 보여 줄 수 있다. 눈썹을 움직이지 못하는 사람은 감정을 표현하기 어려운 경우가 많다. 눈썹은 눈을 보호하고 감정을 보여 주기 때문에 유용하다.",
+    "why": "땀과 빗물이 눈에 들어가지 않게 막고 움직임으로 감정을 보여 주므로 눈을 보호하고 감정을 드러냅니다.",
+    "optionNotes": [
+      "얼굴을 더 늙어 보이게 한다는 내용은 나오지 않습니다.",
+      "눈을 따뜻하게 한다는 내용은 나오지 않습니다.",
+      "소리를 듣게 돕는다는 내용은 나오지 않습니다.",
+      "정답. 눈을 보호하고 감정을 보여 줍니다.",
+      "방향 감각은 나오지 않습니다."
+    ],
+    "trap": "'simple decoration'이라는 첫 문장을 결론으로 착각하지 마세요.",
+    "tip": "두 가지 역할(보호, 의사소통)을 모두 담은 선택지를 고르세요."
+  },
+  {
+    "id": "m2b-28-32",
+    "level": "m2",
+    "set": "mock-28",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Geese often fly in a V-shaped formation when they migrate. The bird at the front flies through still air and pushes the air aside. The birds behind it fly in the rising air created by the bird in front, which helps to carry them upward. This makes flying easier for them. When the leader becomes tired, it moves to the back, and another bird takes its place. Scientists have measured that the birds in formation use much less energy than a bird flying alone. Geese fly in a V shape because it helps them to __________.",
+    "options": [
+      "avoid meeting other kinds of birds in the sky",
+      "save energy during their long journey",
+      "see the ground more clearly from above",
+      "make a very loud sound all together",
+      "keep warm in the freezing cold air"
+    ],
+    "answer": 1,
+    "translation": "기러기는 이동할 때 흔히 V자 대형으로 난다. 맨 앞의 새는 정지한 공기 속을 날며 공기를 옆으로 밀어낸다. 뒤의 새들은 앞의 새가 만든 상승 기류 속을 날아 그것이 위로 실어 나르는 데 도움이 된다. 이것이 비행을 더 쉽게 한다. 선두가 지치면 뒤로 가고 다른 새가 자리를 대신한다. 과학자들은 대형으로 나는 새가 혼자 나는 새보다 에너지를 훨씬 적게 쓴다는 것을 측정했다. 기러기가 V자로 나는 것은 긴 여행 동안 에너지를 아끼는 데 도움이 되기 때문이다.",
+    "why": "앞 새가 만든 상승 기류를 타서 에너지를 훨씬 적게 쓰므로 긴 여행 동안 에너지를 아낍니다.",
+    "optionNotes": [
+      "다른 새를 피한다는 내용은 나오지 않습니다.",
+      "정답. 긴 여행 동안 에너지를 아낍니다.",
+      "지면을 본다는 내용은 나오지 않습니다.",
+      "큰 소리는 나오지 않습니다.",
+      "추위는 나오지 않습니다."
+    ],
+    "trap": "선두가 지치면 교대한다는 부분을 결론으로 착각하지 마세요.",
+    "tip": "측정 결과(much less energy)가 정답의 근거입니다."
+  },
+  {
+    "id": "m2b-28-33",
+    "level": "m2",
+    "set": "mock-28",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "When you want to remember something, reading it aloud works better than reading silently. Researchers call this the production effect. When you read aloud, you use your mouth to speak and your ears to hear, so more parts of the brain are involved. The words also become more distinctive in your memory, because you have actually said them. In one study, people remembered about ten percent more words when they read them aloud. Students can use this method when they study vocabulary for a test or prepare a speech. Reading aloud is useful because __________.",
+    "options": [
+      "more parts of the brain are used",
+      "it helps you finish reading much faster",
+      "it makes your voice sound very beautiful",
+      "it uses less energy than silent reading",
+      "other people can read along with you easily"
+    ],
+    "answer": 0,
+    "translation": "무언가를 기억하고 싶을 때는 소리 내어 읽는 것이 조용히 읽는 것보다 더 효과적이다. 연구자들은 이를 산출 효과라고 부른다. 소리 내어 읽으면 입으로 말하고 귀로 들으므로 뇌의 더 많은 부분이 관여한다. 낱말을 실제로 말했기 때문에 기억 속에서 더 뚜렷해지기도 한다. 한 연구에서 사람들은 소리 내어 읽은 낱말을 약 10퍼센트 더 많이 기억했다. 학생들은 시험을 위해 어휘를 공부하거나 발표를 준비할 때 이 방법을 쓸 수 있다. 소리 내어 읽기가 유용한 것은 뇌의 더 많은 부분이 쓰이기 때문이다.",
+    "why": "입으로 말하고 귀로 들으므로 뇌의 더 많은 부분이 관여해 기억이 좋아집니다.",
+    "optionNotes": [
+      "정답. 뇌의 더 많은 부분이 쓰입니다.",
+      "읽는 속도는 나오지 않습니다.",
+      "목소리의 아름다움은 나오지 않습니다.",
+      "에너지 사용량은 나오지 않습니다.",
+      "함께 읽기는 나오지 않습니다."
+    ],
+    "trap": "실험 결과(10퍼센트)를 이유(②)로 착각하지 마세요.",
+    "tip": "앞 문장(more parts of the brain are involved)이 정답의 근거입니다."
+  },
+  {
+    "id": "m2b-28-34",
+    "level": "m2",
+    "set": "mock-28",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "The mimosa plant, also known as the sensitive plant, closes its leaves when someone touches them. Within a few seconds, the leaves fold inward and the stem droops. This movement happens because water quickly leaves the cells at the base of each leaf. A few minutes later, the leaves open again. Scientists think that the quick movement scares away insects that want to eat the plant. It may also make the plant look less attractive to hungry animals. Because of this quick reaction, the mimosa is a popular plant in school science classes. Mimosa plants close their leaves when touched to __________.",
+    "options": [
+      "welcome visitors with a beautiful flower",
+      "get more sunlight on cloudy days in summer",
+      "drink water from the rain that falls on them",
+      "sing songs to the insects around the garden",
+      "protect themselves from animals"
+    ],
+    "answer": 4,
+    "translation": "미모사는 함수초라고도 하며 누군가 건드리면 잎을 닫는다. 몇 초 안에 잎이 안쪽으로 접히고 줄기가 처진다. 이 움직임은 각 잎 밑동의 세포에서 물이 재빨리 빠져나가기 때문에 일어난다. 몇 분 뒤 잎은 다시 열린다. 과학자들은 이 빠른 움직임이 식물을 먹으려는 곤충을 놀라게 해 쫓는다고 생각한다. 배고픈 동물에게 식물이 덜 매력적으로 보이게 할 수도 있다. 이런 빠른 반응 때문에 미모사는 학교 과학 수업에서 인기 있는 식물이다. 미모사가 건드리면 잎을 닫는 것은 자신을 먹는 동물로부터 스스로를 보호하기 위해서이다.",
+    "why": "빠른 움직임이 곤충을 놀라게 해 쫓으므로 자신을 먹는 동물로부터 보호하려는 것입니다.",
+    "optionNotes": [
+      "꽃은 나오지 않습니다.",
+      "햇빛은 나오지 않습니다.",
+      "빗물을 마신다는 내용은 나오지 않습니다.",
+      "노래는 나오지 않습니다.",
+      "정답. 자신을 먹는 동물로부터 보호하려는 것입니다."
+    ],
+    "trap": "'water leaves the cells'를 물을 마시는 것(③)으로 오해하지 마세요.",
+    "tip": "Scientists think 이후의 설명이 정답의 근거입니다."
+  },
+  {
+    "id": "m2b-28-35",
+    "level": "m2",
+    "set": "mock-28",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Having a pet is fun, but it also requires responsibility. Here are some basic ways to take good care of your pet. ① Give your pet fresh water every day so that it stays healthy. ② The first Olympic Games were held in ancient Greece. ③ Take dogs for a walk at least once a day to give them exercise. ④ Brush your pet's fur regularly to keep it clean and soft. ⑤ Visit the veterinarian for regular check-ups.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "반려동물을 키우는 것은 즐겁지만 책임도 따른다. 반려동물을 잘 돌보는 몇 가지 기본 방법이 있다. ① 건강하게 지내도록 날마다 신선한 물을 주어라. ② 최초의 올림픽 경기는 고대 그리스에서 열렸다. ③ 개에게 운동을 시키려면 적어도 하루에 한 번 산책시켜라. ④ 깨끗하고 부드럽게 유지하도록 털을 규칙적으로 빗겨라. ⑤ 정기 검진을 위해 수의사를 찾아가라.",
+    "why": "글은 반려동물을 돌보는 방법을 이야기하는데 ②는 올림픽에 관한 별개의 이야기입니다.",
+    "optionNotes": [
+      "물을 주는 방법입니다.",
+      "정답(무관). 올림픽 이야기라 관계가 없습니다.",
+      "산책시키는 방법입니다.",
+      "털을 빗기는 방법입니다.",
+      "검진을 받는 방법입니다."
+    ],
+    "trap": "앞뒤가 모두 방법이므로 중간에 낀 별개 주제를 놓치기 쉽습니다.",
+    "tip": "각 문장이 '반려동물 돌보는 방법'인지 확인하세요."
+  },
+  {
+    "id": "m2b-28-36",
+    "level": "m2",
+    "set": "mock-28",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "The Eiffel Tower is the symbol of Paris, yet many Parisians hated it when it was first built. It was designed for the World's Fair of 1889.\n(A) Gustave Eiffel's company built the tower in just over two years using more than eighteen thousand pieces of iron.\n(B) Later, it was found useful as a radio antenna, so it was saved. Today, millions of people visit it every year.\n(C) Many artists and writers protested, saying that the iron tower was ugly and did not suit the beautiful city. However, the tower was supposed to be taken down after twenty years.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "에펠탑은 파리의 상징이지만 처음 지어졌을 때는 많은 파리 시민이 싫어했다. 그것은 1889년 만국 박람회를 위해 설계되었다. (A) 귀스타브 에펠의 회사는 만 팔천 개가 넘는 철 부품으로 이 년 남짓 만에 탑을 지었다. (C) 많은 예술가와 작가가 철탑이 흉하고 아름다운 도시에 어울리지 않는다며 항의했다. 그러나 탑은 이십 년 뒤 철거되기로 되어 있었다. (B) 나중에 그것이 무선 안테나로 유용하다는 것이 알려져 보존되었다. 오늘날 해마다 수백만 명이 방문한다.",
+    "why": "(A) 탑을 짓는 과정 → (C) 항의와 철거 예정 → (B) 'Later' 안테나로 보존됨 순서입니다.",
+    "optionNotes": [
+      "정답. 건설 → 반대와 철거 예정 → 보존과 오늘날.",
+      "(B)의 'Later'가 앞의 사건 없이 올 수 없습니다.",
+      "(B)가 먼저 오면 'it was saved'의 맥락이 빠집니다.",
+      "(C)의 'the iron tower'가 건설 설명 없이 올 수 없습니다.",
+      "(C)가 먼저 오면 'the tower'의 건설 설명이 빠집니다."
+    ],
+    "trap": "(B)의 'it was saved'는 (C)의 철거 예정에 대한 반전입니다.",
+    "tip": "built → protested → Later saved의 사건 순서를 따라가세요."
+  },
+  {
+    "id": "m2b-28-37",
+    "level": "m2",
+    "set": "mock-28",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Doha wanted to make a birthday card for his little sister, Hana. He wanted to make it as special as possible. Hana had been sick for a week, and he hoped the card would cheer her up. He had a piece of white paper and some colored pencils.\n(A) First, he folded the paper in half and drew a big cake on the front.\n(B) Finally, he wrote a short message inside and hid the card under his sister's pillow. In the morning, Hana found it and hugged him.\n(C) Next, he wrote \"Happy Birthday, Hana!\" in colorful letters and drew candles on the cake.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "도하는 여동생 하나에게 줄 생일 카드를 만들고 싶었다. 그는 그것을 최대한 특별하게 만들고 싶었다. 하나는 일주일 동안 아팠고 그는 카드가 그녀를 기운 나게 하길 바랐다. 그에게는 흰 종이 한 장과 색연필 몇 자루가 있었다. (A) 먼저 그는 종이를 반으로 접고 앞면에 큰 케이크를 그렸다. (C) 다음으로 그는 알록달록한 글씨로 \"생일 축하해, 하나야!\"라고 쓰고 케이크에 초를 그렸다. (B) 마지막으로 그는 안쪽에 짧은 메시지를 쓰고 카드를 동생의 베개 밑에 숨겼다. 아침에 하나가 그것을 발견하고 그를 안아 주었다.",
+    "why": "(A) First, 접고 케이크 그리기 → (C) Next, 글씨와 초 → (B) Finally, 메시지 쓰고 숨김 순서입니다.",
+    "optionNotes": [
+      "정답. 케이크 → 글씨와 초 → 메시지와 숨기기.",
+      "(B)의 Finally가 맨 앞에 올 수 없습니다.",
+      "(B)가 먼저 올 수 없습니다.",
+      "(C)의 'the cake'가 가리킬 케이크가 앞에 없습니다.",
+      "(C)의 'the cake'가 앞에서 소개되어야 합니다."
+    ],
+    "trap": "(C)의 'the cake'는 (A)에서 그린 케이크입니다.",
+    "tip": "First → Next → Finally의 순서 표현을 따라가세요."
+  },
+  {
+    "id": "m2b-28-38",
+    "level": "m2",
+    "set": "mock-28",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nFor this reason, many schools now teach students how to manage their time.\n\n[글]\n( ① ) Many students feel that they never have enough time. ( ② ) They rush from school to private academies and then spend the rest of the evening doing homework. ( ③ ) As a result, they have little time to rest or enjoy hobbies. ( ④ ) Teachers say that planning each day carefully can help students use their time better. ( ⑤ ) Students who use a daily planner finish their work earlier and feel less stressed.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "[주어진 문장] 이런 이유로 많은 학교가 이제 학생들에게 시간을 관리하는 법을 가르친다. [글] 많은 학생이 시간이 결코 충분하지 않다고 느낀다. 그들은 학교에서 학원으로 서둘러 가고 저녁 나머지는 숙제를 하며 보낸다. 그 결과 쉬거나 취미를 즐길 시간이 거의 없다. 교사들은 하루를 신중히 계획하면 학생들이 시간을 더 잘 쓸 수 있다고 말한다. 일정표를 쓰는 학생은 숙제를 더 일찍 끝내고 스트레스를 덜 받는다.",
+    "why": "시간 부족의 문제와 계획의 도움을 설명한 뒤 'For this reason'으로 학교의 교육이 이어지고, 다음 문장이 그 효과를 말하므로 ⑤에 들어갑니다.",
+    "optionNotes": [
+      "'this reason'이 가리킬 이유가 아직 없습니다.",
+      "문제를 나열하는 도중이라 이릅니다.",
+      "결과를 설명하는 문장 앞이라 이유가 부족합니다.",
+      "계획의 도움 설명 직전이라 이유가 모두 나오지 않았습니다.",
+      "정답. 이유 뒤에 학교의 교육이 오고 효과가 이어집니다."
+    ],
+    "trap": "④ 뒤에 놓아도 그럴듯하지만 다음 문장이 교육의 효과여야 합니다.",
+    "tip": "For this reason은 이유가 모두 제시된 직후에 놓입니다."
+  },
+  {
+    "id": "m2b-28-39",
+    "level": "m2",
+    "set": "mock-28",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nA robin's song, for example, sounds very different from that of a sparrow.\n\n[글]\n( ① ) Bird watchers can recognize many birds by their songs alone, even when they cannot see them. ( ② ) Each species has a unique song that is different from those of other species. ( ③ ) Some birds also sing different songs at different times of the day. ( ④ ) In the early morning, males sing loudly to protect their territory. ( ⑤ ) In the evening, their songs become softer and shorter.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 예를 들어 울새의 노래는 참새의 노래와 매우 다르게 들린다. [글] 새 관찰자는 새가 보이지 않을 때에도 노래만으로 많은 새를 알아볼 수 있다. 각 종은 다른 종과 구별되는 고유한 노래를 가진다. 일부 새는 하루 중 시간대에 따라 다른 노래를 부르기도 한다. 이른 아침 수컷은 자기 영역을 지키려고 크게 노래한다. 저녁에는 노래가 더 부드럽고 짧아진다.",
+    "why": "각 종의 고유한 노래를 설명한 문장 뒤에 'for example'로 구체적 비교가 이어지고, 다음 문장이 'also'로 다른 사실을 더하므로 ③에 들어갑니다.",
+    "optionNotes": [
+      "'for example'의 앞 진술이 아직 없습니다.",
+      "고유한 노래를 설명하기 전이라 이릅니다.",
+      "정답. 고유한 노래 뒤에 예시가 오고 'also'로 이어집니다.",
+      "시간대별 노래를 설명하는 도중에 끼면 어색합니다.",
+      "저녁 노래 설명 뒤에 오면 흐름이 맞지 않습니다."
+    ],
+    "trap": "④⑤는 시간대별 노래 설명이므로 종 간 비교 예시가 들어갈 수 없습니다.",
+    "tip": "for example은 일반적 진술 직후에 놓입니다."
+  },
+  {
+    "id": "m2b-28-40",
+    "level": "m2",
+    "set": "mock-28",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A school in a rural town started a breakfast program because many students came to class hungry. Every morning, volunteers served bread, milk, and fruit in the cafeteria for free. After three months, teachers noticed that students were more active in class and paid better attention. Attendance also improved, and the number of students visiting the nurse because of stomachaches decreased. Parents were grateful, and local shops began to donate food. The school decided to continue the program next year.\n\n▶ A free (A) program helped students concentrate and (B) school more regularly.",
+    "options": [
+      "(A) music — (B) skip",
+      "(A) sports — (B) leave",
+      "(A) gift — (B) forget",
+      "(A) breakfast — (B) attend",
+      "(A) uniform — (B) avoid"
+    ],
+    "answer": 3,
+    "translation": "한 시골 마을의 학교는 많은 학생이 배고픈 채 등교해서 아침 식사 프로그램을 시작했다. 날마다 아침 자원봉사자들이 급식실에서 빵, 우유, 과일을 무료로 제공했다. 석 달 뒤 교사들은 학생들이 수업에서 더 활동적이고 주의를 더 잘 기울인다는 것을 알아챘다. 출석도 좋아졌고 배탈로 보건실을 찾는 학생 수도 줄었다. 학부모들은 고마워했고 지역 가게들이 음식을 기부하기 시작했다. 학교는 다음 해에도 이 프로그램을 계속하기로 했다. ▶ 무료 (A) 프로그램은 학생들이 집중하고 더 규칙적으로 학교에 (B)하도록 도왔다.",
+    "why": "무료 아침 식사 프로그램으로 집중력이 좋아지고 출석이 개선되었으므로 (A)는 breakfast, (B)는 attend입니다.",
+    "optionNotes": [
+      "music과 skip은 글에 나오지 않습니다.",
+      "sports와 leave는 글에 나오지 않습니다.",
+      "gift와 forget은 글에 나오지 않습니다.",
+      "정답. 아침 식사가 집중과 출석을 도왔습니다.",
+      "uniform과 avoid는 글에 나오지 않습니다."
+    ],
+    "trap": "학부모와 가게의 기부를 프로그램의 목적으로 착각하지 마세요.",
+    "tip": "요약문은 제도(무료 아침)와 결과(집중, 출석)를 짝지으세요."
+  }
+]

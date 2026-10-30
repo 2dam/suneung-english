@@ -1,0 +1,333 @@
+[
+  {
+    "id": "m2b-28-18",
+    "level": "m2",
+    "set": "mock-28",
+    "no": 18,
+    "type": "purpose",
+    "stem": "다음 글의 목적으로 가장 적절한 것은?",
+    "passage": "Dear Manager,\nMy name is Jiyoon Kang. I am writing to make a reservation for my grandmother's seventieth birthday dinner at your restaurant on Saturday, December 6. There will be twelve people, including four children. We would like a table in a quiet area, if possible, because my grandmother has difficulty hearing in noisy places. I would also like to know if you can prepare a small birthday cake with candles. We will arrive at six p.m. Could you please confirm the reservation and tell me about the set menu prices? I am looking forward to your reply.\nSincerely,\nJiyoon Kang",
+    "options": [
+      "식당의 조리법을 문의하려고",
+      "식당에서 일할 아르바이트를 구하려고",
+      "식당 음식의 품질에 항의하려고",
+      "식당의 영업 종료를 알리려고",
+      "단체 좌석을 예약하려고"
+    ],
+    "answer": 4,
+    "translation": "지배인님께. 제 이름은 강지윤입니다. 12월 6일 토요일에 귀 식당에서 할머니의 칠순 생신 저녁 식사를 예약하려고 글을 씁니다. 어린이 네 명을 포함해 열두 명이 갑니다. 할머니가 시끄러운 곳에서는 잘 들으시기 어려우니 가능하면 조용한 곳의 자리를 원합니다. 촛불이 있는 작은 생일 케이크를 준비해 주실 수 있는지도 알고 싶습니다. 저희는 오후 6시에 도착합니다. 예약을 확정해 주시고 세트 메뉴 가격도 알려 주시겠습니까? 답변을 기다리겠습니다. 강지윤 드림.",
+    "why": "할머니의 생신 저녁을 위해 단체 좌석을 예약하는 글입니다.",
+    "optionNotes": [
+      "조리법은 나오지 않습니다.",
+      "아르바이트는 나오지 않습니다.",
+      "항의가 아닙니다.",
+      "영업 종료는 나오지 않습니다.",
+      "정답. 생일 모임을 위한 단체 좌석을 예약합니다."
+    ],
+    "trap": "'birthday cake'가 나온다고 케이크 주문(조리법)으로만 보지 마세요.",
+    "tip": "목적 문제는 'I am writing to make a reservation' 같은 핵심 문장을 확인하세요."
+  },
+  {
+    "id": "m2b-28-19",
+    "level": "m2",
+    "set": "mock-28",
+    "no": 19,
+    "type": "mood",
+    "stem": "다음 글에 드러난 Mina의 심경 변화로 가장 적절한 것은?",
+    "passage": "Mina sat in the waiting room of the animal hospital with her hands clasped tightly. Her dog, Bori, was having surgery to remove a piece of plastic that he had swallowed. She kept looking at the clock on the wall, and every minute seemed like an hour. She couldn't eat, and she couldn't even read the magazine in her hands. At last, the door opened, and the doctor came out with a smile. \"The surgery went well,\" he said. \"Bori will be fine.\" Mina's shoulders relaxed, and she let out a long breath. Tears of relief ran down her cheeks as she whispered, \"Thank you so much.\"",
+    "options": [
+      "bored → annoyed",
+      "worried → relieved",
+      "proud → embarrassed",
+      "excited → disappointed",
+      "curious → jealous"
+    ],
+    "answer": 1,
+    "translation": "미나는 동물 병원 대기실에 두 손을 꼭 쥐고 앉아 있었다. 반려견 보리는 삼킨 플라스틱 조각을 제거하는 수술을 받고 있었다. 그녀는 벽시계를 계속 쳐다보았고 일 분이 한 시간 같았다. 먹을 수 없었고 손에 든 잡지도 읽을 수 없었다. 마침내 문이 열리고 의사가 미소 지으며 나왔다. \"수술이 잘되었어요.\" 하고 그가 말했다. \"보리는 괜찮을 거예요.\" 미나의 어깨가 풀렸고 그녀는 긴 숨을 내쉬었다. 안도의 눈물이 뺨을 타고 흐르며 그녀는 속삭였다. \"정말 감사합니다.\"",
+    "why": "수술을 기다리며 걱정하다가(worried) 수술이 잘되었다는 말에 안도했으므로(relieved) ②가 알맞습니다.",
+    "optionNotes": [
+      "지루함에서 짜증이 아닙니다.",
+      "정답. 걱정에서 안도로 변했습니다.",
+      "자랑스러움에서 창피함이 아닙니다.",
+      "들뜸에서 실망이 아닙니다.",
+      "호기심에서 질투가 아닙니다."
+    ],
+    "trap": "앞부분의 걱정만 보고 끝까지 불안했다고 오해하지 마세요.",
+    "tip": "전환 신호(the doctor came out with a smile)를 기준으로 앞뒤 감정을 비교하세요."
+  },
+  {
+    "id": "m2b-28-20",
+    "level": "m2",
+    "set": "mock-28",
+    "no": 20,
+    "type": "claim",
+    "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+    "passage": "It is easy to notice the faults of other people. We may think, \"He is too loud,\" or \"She is always late.\" However, if we only look for faults, we begin to see a person only in a negative way. This harms our relationships and makes us unhappy, too. In contrast, when we look for people's strengths, we find that everyone has something good. A friend may be a good listener, or a classmate may be very kind to younger students. When we point out these strengths, people feel appreciated and try to do better. Therefore, we should look for the good points of others and tell them about those points.",
+    "options": [
+      "남의 장점을 찾아 말해 주어야 한다.",
+      "단점은 숨기지 말고 즉시 지적해야 한다.",
+      "친구는 나이가 비슷한 사람만 사귀어야 한다.",
+      "시간을 잘 지키는 사람이 가장 훌륭하다.",
+      "큰 목소리로 말하는 사람을 피해야 한다."
+    ],
+    "answer": 0,
+    "translation": "다른 사람의 결점을 알아채기는 쉽다. \"그는 너무 시끄러워.\"나 \"그녀는 늘 늦어.\" 하고 생각할 수 있다. 그러나 결점만 찾으면 우리는 그 사람을 부정적으로만 보기 시작한다. 이는 관계를 해치고 우리도 불행하게 만든다. 반대로 사람들의 장점을 찾으면 누구에게나 좋은 점이 있음을 알게 된다. 친구는 잘 들어 주는 사람일 수 있고 반 친구는 어린 학생에게 아주 친절할 수 있다. 우리가 이런 장점을 짚어 주면 사람들은 인정받는다고 느끼고 더 잘하려 한다. 그러므로 우리는 다른 사람의 좋은 점을 찾아 이야기해 주어야 한다.",
+    "why": "마지막 문장에서 다른 사람의 좋은 점을 찾아 이야기해 주어야 한다고 주장합니다.",
+    "optionNotes": [
+      "정답. 장점을 찾아 이야기해 주어야 합니다.",
+      "단점을 지적하라는 말은 글과 반대입니다.",
+      "친구 범위는 나오지 않습니다.",
+      "시간 엄수는 예시일 뿐입니다.",
+      "큰 목소리는 예시일 뿐입니다."
+    ],
+    "trap": "예시(시끄러움, 지각)를 필자의 주장으로 착각하지 마세요.",
+    "tip": "주장 문제는 'Therefore ~ should' 같은 마지막 문장을 확인하세요."
+  },
+  {
+    "id": "m2b-28-21",
+    "level": "m2",
+    "set": "mock-28",
+    "no": 21,
+    "type": "implied",
+    "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "passage": "Our group had a different idea about the school festival project. Hajun wanted to make a haunted house, while Yeri wanted to run a café. Jiwon wanted to hold a fashion show. We argued for an hour without reaching an agreement. Finally, our teacher said, \"Before you start working, you need to make sure that you are all {u|on the same page}.\" She asked us to write our ideas on paper and vote. After the vote, we decided to run a small café with a ghost theme. Now we all understood the plan, and we were able to start working together happily.",
+    "options": [
+      "reading the same book at the same time",
+      "sitting on the same sheet of paper",
+      "standing in the same line",
+      "sharing the same plan",
+      "using the same pen to write"
+    ],
+    "answer": 3,
+    "translation": "우리 모둠은 학교 축제 프로젝트에 대해 서로 다른 생각을 가지고 있었다. 하준은 유령의 집을 만들고 싶어 했고 예리는 카페를 운영하고 싶어 했다. 지원은 패션쇼를 열고 싶어 했다. 우리는 합의에 이르지 못한 채 한 시간 동안 다퉜다. 마침내 선생님이 말했다. \"일을 시작하기 전에 모두 같은 생각을 하고 있는지 확인해야 해.\" 선생님은 우리에게 아이디어를 종이에 써서 투표하라고 하셨다. 투표 뒤 우리는 유령 주제의 작은 카페를 열기로 했다. 이제 우리는 모두 계획을 이해했고 기쁘게 함께 일을 시작할 수 있었다.",
+    "why": "서로 다른 생각으로 다투다가 투표로 계획을 정해 모두 이해했으므로 'on the same page'는 같은 이해와 계획을 공유한다는 뜻입니다.",
+    "optionNotes": [
+      "같은 책을 읽는다는 글자 그대로의 뜻이 아닙니다.",
+      "같은 종이에 앉는다는 뜻이 아닙니다.",
+      "같은 줄에 선다는 뜻이 아닙니다.",
+      "정답. 같은 이해와 계획을 공유한다는 뜻입니다.",
+      "같은 펜을 쓴다는 뜻이 아닙니다."
+    ],
+    "trap": "'page'를 글자 그대로 쪽으로 해석하지 마세요.",
+    "tip": "관용 표현은 앞뒤 단서(합의에 이르지 못함 → 투표로 정함)로 의미를 추론하세요."
+  },
+  {
+    "id": "m2b-28-22",
+    "level": "m2",
+    "set": "mock-28",
+    "no": 22,
+    "type": "gist",
+    "stem": "다음 글의 요지로 가장 적절한 것은?",
+    "passage": "Many people feel more cheerful on sunny days. This is not just a feeling. Sunlight helps our bodies produce serotonin, a chemical that improves our mood. Sunlight also helps us make vitamin D, which makes our bones strong. Moreover, exposure to daylight in the morning helps the body clock to work properly, so we can fall asleep more easily at night. In winter, when the days are short, some people feel tired and sad because they get less sunlight. Spending even twenty minutes outdoors each day can help. Therefore, try to go outside and get some sunlight every day.",
+    "options": [
+      "겨울에는 밖에 나가지 않는 것이 좋다.",
+      "비타민 D는 음식으로만 얻을 수 있다.",
+      "낮잠을 자면 기분이 더 좋아진다.",
+      "햇빛은 기분과 건강에 도움이 된다.",
+      "햇빛은 피부에 해로우므로 피해야 한다."
+    ],
+    "answer": 3,
+    "translation": "많은 사람이 맑은 날에 더 쾌활하다. 이는 단순한 기분이 아니다. 햇빛은 우리 몸이 기분을 좋게 하는 물질인 세로토닌을 만들도록 돕는다. 햇빛은 뼈를 튼튼하게 하는 비타민 D를 만들도록도 돕는다. 게다가 아침에 햇빛을 쬐면 생체 시계가 제대로 작동하게 도와서 밤에 더 쉽게 잠들 수 있다. 낮이 짧은 겨울에는 일부 사람이 햇빛을 덜 받아서 피곤하고 슬프다. 하루에 이십 분만 밖에서 보내도 도움이 될 수 있다. 그러니 날마다 밖에 나가 햇빛을 쬐도록 하자.",
+    "why": "마지막 문장에서 날마다 햇빛을 쬐라고 하므로 햇빛이 기분, 수면, 건강에 도움이 된다는 것이 요지입니다.",
+    "optionNotes": [
+      "겨울에도 밖에 나가라는 내용입니다.",
+      "음식으로만 얻는다는 말은 나오지 않습니다.",
+      "낮잠은 나오지 않습니다.",
+      "정답. 햇빛은 기분과 수면, 건강에 도움이 됩니다.",
+      "햇빛을 피하라는 말은 글과 반대입니다."
+    ],
+    "trap": "겨울의 우울(일부 사람)을 요지로 착각하지 마세요.",
+    "tip": "요지는 'Therefore' 이후 권유와 글 전체의 이점을 함께 확인하세요."
+  },
+  {
+    "id": "m2b-28-23",
+    "level": "m2",
+    "set": "mock-28",
+    "no": 23,
+    "type": "topic",
+    "stem": "다음 글의 주제로 가장 적절한 것은?",
+    "passage": "A camera works much like the human eye. When you press the button, the shutter opens for a very short time, and light from the scene enters through the lens. The lens bends the light and focuses it on a sensor inside the camera. The sensor measures the brightness and the colors of the light, and it turns them into digital information. The camera then saves this information as a picture. If too much light enters, the photo becomes too bright, so a camera adjusts the size of its opening, called the aperture. In dark places, the camera needs more light, so it keeps the shutter open longer.",
+    "options": [
+      "카메라가 사진을 만드는 원리",
+      "사람의 눈이 색을 구별하는 방법",
+      "사진을 인화하는 가게를 고르는 요령",
+      "가장 오래된 카메라의 역사",
+      "어두운 곳에서 별을 관측하는 방법"
+    ],
+    "answer": 0,
+    "translation": "카메라는 사람의 눈과 매우 비슷하게 작동한다. 버튼을 누르면 셔터가 아주 잠깐 열리고 장면에서 오는 빛이 렌즈를 통해 들어온다. 렌즈는 빛을 꺾어 카메라 안의 센서에 모은다. 센서는 빛의 밝기와 색을 측정해 디지털 정보로 바꾼다. 그러면 카메라는 이 정보를 사진으로 저장한다. 너무 많은 빛이 들어오면 사진이 너무 밝아지므로 카메라는 조리개라는 구멍의 크기를 조절한다. 어두운 곳에서는 더 많은 빛이 필요하므로 셔터를 더 오래 열어 둔다.",
+    "why": "카메라가 빛을 모아 센서에서 사진으로 저장하는 원리를 설명하는 글입니다.",
+    "optionNotes": [
+      "정답. 카메라가 빛으로 사진을 만드는 원리입니다.",
+      "눈이 색을 구별하는 방법은 비유일 뿐입니다.",
+      "인화 가게는 나오지 않습니다.",
+      "카메라의 역사는 나오지 않습니다.",
+      "별 관측은 나오지 않습니다."
+    ],
+    "trap": "첫 문장의 눈 비유를 주제(②)로 착각하지 마세요.",
+    "tip": "주제는 글 전체에서 반복되는 핵심어(camera, light, lens)로 파악하세요."
+  },
+  {
+    "id": "m2b-28-24",
+    "level": "m2",
+    "set": "mock-28",
+    "no": 24,
+    "type": "title",
+    "stem": "다음 글의 제목으로 가장 적절한 것은?",
+    "passage": "A smile is one of the simplest things you can give to others, yet it is very powerful. When you smile at someone, they usually smile back. This small exchange makes both people feel better. Researchers have found that smiling can reduce stress, because it signals the brain to release chemicals that make us feel happy. Smiling people are also seen as more friendly and trustworthy. In addition, a smile needs no words, so it can be understood in any country. Even a smile on a phone call can change the tone of your voice. So, whenever you meet someone, try to start with a smile.",
+    "options": [
+      "How to Win Every Game You Play",
+      "The Surprising Power of a Smile",
+      "Why People Speak Different Languages",
+      "The Best Way to Stay Awake in Class",
+      "Ten Funny Stories About Famous Singers"
+    ],
+    "answer": 1,
+    "translation": "미소는 남에게 줄 수 있는 가장 단순한 것 중 하나이지만 매우 강력하다. 누군가에게 미소 지으면 보통 상대도 미소를 짓는다. 이 작은 주고받음은 두 사람 모두를 기분 좋게 한다. 연구자들은 미소가 뇌에 행복하게 하는 물질을 내보내라는 신호를 보내서 스트레스를 줄일 수 있음을 발견했다. 웃는 사람은 더 친근하고 믿을 만하다고 여겨지기도 한다. 게다가 미소는 말이 필요 없어서 어느 나라에서든 이해된다. 전화 통화에서의 미소도 목소리의 어조를 바꿀 수 있다. 그러니 누군가를 만날 때마다 미소로 시작해 보자.",
+    "why": "미소가 스트레스를 줄이고 사람들을 이어 주는 힘을 다루므로 ②가 제목으로 알맞습니다.",
+    "optionNotes": [
+      "경기에서 이기는 법은 나오지 않습니다.",
+      "정답. 미소의 놀라운 힘입니다.",
+      "언어의 차이는 나오지 않습니다.",
+      "졸음을 쫓는 법은 나오지 않습니다.",
+      "가수 이야기는 나오지 않습니다."
+    ],
+    "trap": "'phone call'이 나온다고 부분적 소재를 제목으로 고르지 마세요.",
+    "tip": "제목은 글의 핵심 대상(smile)과 핵심 주장(power)을 담으세요."
+  },
+  {
+    "id": "m2b-28-25",
+    "level": "m2",
+    "set": "mock-28",
+    "no": 25,
+    "type": "chart",
+    "stem": "다음 도표의 내용과 일치하지 않는 것은?",
+    "chart": {
+      "title": "Number of Pets in Five Classes",
+      "unit": "",
+      "labels": [
+        "Class 1",
+        "Class 2",
+        "Class 3",
+        "Class 4",
+        "Class 5"
+      ],
+      "series": [
+        {
+          "name": "Pets",
+          "values": [
+            12,
+            8,
+            15,
+            10,
+            5
+          ]
+        }
+      ]
+    },
+    "passage": "The graph shows the number of pets owned by students in five classes. ① Class 3 has the most pets. ② Class 5 has the fewest pets. ③ Class 1 has four more pets than Class 2. ④ Class 4 has two more pets than Class 2. ⑤ The total number of pets in Class 1 and Class 5 is the same as that of Class 3.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "그래프는 다섯 학급 학생들이 기르는 반려동물의 수를 보여 준다. ① 3반의 반려동물이 가장 많다. ② 5반의 반려동물이 가장 적다. ③ 1반은 2반보다 반려동물이 네 마리 더 많다. ④ 4반은 2반보다 반려동물이 두 마리 더 많다. ⑤ 1반과 5반의 반려동물 합은 3반과 같다.",
+    "why": "1반(12)과 5반(5)의 합은 17이고 3반은 15이므로 같지 않아 ⑤는 일치하지 않습니다.",
+    "optionNotes": [
+      "3반 15마리로 가장 많습니다.",
+      "5반 5마리로 가장 적습니다.",
+      "12 - 8 = 4마리입니다.",
+      "10 - 8 = 2마리입니다.",
+      "정답(불일치). 12 + 5 = 17로 15와 다릅니다."
+    ],
+    "trap": "합을 어림하지 말고 정확히 더해 보세요.",
+    "tip": "그래프 문제는 합계 표현을 직접 계산해 확인하세요."
+  },
+  {
+    "id": "m2b-28-26",
+    "level": "m2",
+    "set": "mock-28",
+    "no": 26,
+    "type": "match",
+    "stem": "Neil Armstrong에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Neil Armstrong was born in 1930 in Ohio, in the United States. He loved airplanes from a young age, and he took his first flight at the age of six. At sixteen, he got his pilot's license even before he got his driver's license. Later, he became a naval pilot and a test pilot, and he flew many difficult missions. In 1966, he commanded the Gemini 8 spacecraft and performed the first docking in space. On July 20, 1969, as the commander of Apollo 11, he became the first person to walk on the surface of the Moon. As he stepped down, he said, \"That's one small step for man, one giant leap for mankind.\" He died in 2012.",
+    "options": [
+      "열여섯 살에 운전면허를 먼저 따고 나중에 비행기 면허를 땄다.",
+      "1969년 아폴로 11호의 선장으로서 처음으로 달 표면을 걸은 사람이 되었다.",
+      "비행기를 처음 탄 것은 열여섯 살 때였다.",
+      "우주선 조종은 한 번도 해 본 적이 없다.",
+      "1930년에 영국에서 태어났다."
+    ],
+    "answer": 1,
+    "translation": "닐 암스트롱은 1930년 미국 오하이오에서 태어났다. 그는 어릴 때부터 비행기를 좋아했고 여섯 살에 처음 비행기를 탔다. 열여섯 살에는 운전면허를 따기도 전에 조종사 면허를 땄다. 나중에 해군 조종사이자 시험 비행 조종사가 되어 많은 어려운 임무를 수행했다. 1966년 그는 제미니 8호 우주선을 지휘해 우주에서 처음으로 도킹을 했다. 1969년 7월 20일 아폴로 11호의 선장으로서 그는 달 표면을 걸은 최초의 사람이 되었다. 내려서며 그는 말했다. \"이것은 한 인간에게는 작은 발걸음이지만 인류에게는 거대한 도약이다.\" 그는 2012년에 세상을 떠났다.",
+    "why": "1969년 아폴로 11호 선장으로서 달 표면을 걸은 최초의 사람이 되었다고 했으므로 ②가 일치합니다.",
+    "optionNotes": [
+      "조종사 면허를 운전면허보다 먼저 땄습니다.",
+      "정답. 아폴로 11호 선장으로 달 표면을 처음 걸었습니다.",
+      "처음 비행기를 탄 것은 여섯 살 때입니다.",
+      "제미니 8호를 지휘했습니다.",
+      "미국 오하이오에서 태어났습니다."
+    ],
+    "trap": "면허 순서(조종사 면허가 먼저)를 거꾸로 이해하지 마세요.",
+    "tip": "일치 문제는 나이·연도·장소를 보기와 하나씩 대조하세요."
+  },
+  {
+    "id": "m2b-28-27",
+    "level": "m2",
+    "set": "mock-28",
+    "no": 27,
+    "type": "notice",
+    "stem": "Book Fair 안내문의 내용과 일치하는 것은?",
+    "passage": "Sunrise Middle School - Spring Book Fair\nDate: Monday, April 14 - Friday, April 18\nPlace: Library\nTime: 8:30 a.m. - 4 p.m.\nWhat is sold: Storybooks, comics, dictionaries, and notebooks at 20% off\nWho can join: All students (parents are also welcome)\nPayment: Cash only\nSpecial event: Students who spend over $10 can enter a lucky draw on Friday.",
+    "options": [
+      "도서전은 한 달 동안 열린다.",
+      "학생은 카드로 결제할 수 있다.",
+      "학부모는 입장할 수 없다.",
+      "판매되는 물품에는 공책이 포함되지 않는다.",
+      "10달러 넘게 사면 추첨에 참여한다."
+    ],
+    "answer": 4,
+    "translation": "선라이즈 중학교 – 봄 도서전. 날짜: 4월 14일 월요일~4월 18일 금요일. 장소: 도서관. 시간: 오전 8시 30분~오후 4시. 판매 물품: 이야기책, 만화, 사전, 공책 20% 할인. 참가 대상: 모든 학생(학부모도 환영). 결제: 현금만. 특별 행사: 10달러가 넘게 산 학생은 금요일에 추첨에 참여할 수 있습니다.",
+    "why": "'Students who spend over $10 can enter a lucky draw on Friday'와 일치합니다.",
+    "optionNotes": [
+      "월요일부터 금요일까지 닷새입니다.",
+      "현금만 받습니다.",
+      "학부모도 환영합니다.",
+      "공책도 판매됩니다.",
+      "정답. 10달러 넘게 산 학생은 추첨에 참여할 수 있습니다."
+    ],
+    "trap": "결제 방식(현금만)과 추첨 조건을 혼동하지 마세요.",
+    "tip": "안내문의 What is sold, Who, Payment, Special event 항목을 하나씩 대조하세요."
+  },
+  {
+    "id": "m2b-28-28",
+    "level": "m2",
+    "set": "mock-28",
+    "no": 28,
+    "type": "notice",
+    "stem": "Parent-Teacher Meeting 안내문의 내용과 일치하는 것은?",
+    "passage": "Sunrise Middle School - Parent-Teacher Meeting for Grade 1\nDate: Thursday, May 8, and Friday, May 9\nTime: 2 p.m. - 6 p.m. (20 minutes for each family)\nPlace: Each homeroom classroom\nHow to reserve: Please choose a time slot on the school website by May 2. Reservations after May 2 are not accepted.\nWhat to bring: A signed reservation confirmation (print or mobile screen)\nNotes: Parents who cannot attend can have a phone meeting on May 12.",
+    "options": [
+      "상담은 평일 오전에 진행된다.",
+      "가족마다 한 시간씩 상담한다.",
+      "5월 2일까지 학교 누리집에서 시간을 골라 예약해야 한다.",
+      "예약은 상담 당일에 현장에서도 할 수 있다.",
+      "참석하지 못하는 학부모는 상담을 받을 수 없다."
+    ],
+    "answer": 2,
+    "translation": "선라이즈 중학교 – 1학년 학부모 상담. 날짜: 5월 8일 목요일과 5월 9일 금요일. 시간: 오후 2시~6시(가족당 20분). 장소: 각 담임 교실. 예약 방법: 5월 2일까지 학교 누리집에서 시간대를 고르세요. 5월 2일 이후의 예약은 받지 않습니다. 가져올 것: 서명된 예약 확인서(인쇄 또는 휴대전화 화면). 참고: 참석하지 못하는 학부모는 5월 12일에 전화 상담을 할 수 있습니다.",
+    "why": "'choose a time slot on the school website by May 2'와 일치합니다.",
+    "optionNotes": [
+      "오후에 진행됩니다.",
+      "가족당 20분입니다.",
+      "정답. 5월 2일까지 누리집에서 시간을 골라 예약해야 합니다.",
+      "5월 2일 이후 예약은 받지 않습니다.",
+      "전화 상담을 받을 수 있습니다."
+    ],
+    "trap": "상담일(5월 8~9일)과 예약 마감일(5월 2일)을 혼동하지 마세요.",
+    "tip": "안내문의 Time, How to reserve, Notes 항목을 하나씩 대조하세요."
+  }
+]
