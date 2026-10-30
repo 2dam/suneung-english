@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m2b-30-29",
+    "level": "m2",
+    "set": "mock-30",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Sea otters {1|lives} in cold ocean water along the coast. They do not have a thick layer of fat, so they depend on their fur to stay warm. Their fur is the densest of any animal, and it {2|traps} air close to the skin. Sea otters spend hours each day cleaning their fur to keep it {3|waterproof}. They eat shellfish, and they are one of the few animals that use tools. An otter floats on its back and uses a stone to {4|crack} open the shell on its chest. When they sleep, otters often hold hands so that they do not drift apart {5|while} the waves move them.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "해달은 해안을 따라 차가운 바닷물에서 산다. 두꺼운 지방층이 없어서 따뜻하게 지내려고 털에 의존한다. 그 털은 어떤 동물보다 빽빽하며 피부 가까이에 공기를 가둔다. 해달은 털을 방수 상태로 유지하려고 날마다 몇 시간씩 털을 손질한다. 해달은 조개류를 먹으며 도구를 쓰는 몇 안 되는 동물 중 하나이다. 해달은 등을 대고 떠서 가슴 위의 돌로 조개껍데기를 깬다. 잘 때는 파도가 움직이는 동안 서로 떠내려가지 않도록 손을 잡는 경우가 많다.",
+    "why": "주어 Sea otters가 복수이므로 lives가 아니라 live여야 합니다.",
+    "optionNotes": [
+      "정답(틀린 것). 복수 주어에는 live여야 합니다.",
+      "단수 주어 it에 맞는 traps입니다.",
+      "keep it 뒤의 형용사 waterproof입니다.",
+      "uses a stone to 뒤의 동사원형 crack입니다.",
+      "'~하는 동안'을 뜻하는 접속사 while입니다."
+    ],
+    "trap": "뒤의 'cold ocean water'에 눈이 가서 동사의 수일치를 놓치기 쉽습니다.",
+    "tip": "주어의 수(otters)를 확인해 일반동사 형태를 고르세요."
+  },
+  {
+    "id": "m2b-30-30",
+    "level": "m2",
+    "set": "mock-30",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Learning a musical instrument takes time, but it brings many benefits. First, practicing every day builds {1|discipline}. Second, playing music can {2|reduce} stress after a long day. Music also {3|improves} your memory, because you must remember notes and rhythms. Joining a school band is also a great way to {4|avoid} new friends. At first, many people give up because the beginning is difficult. But even fifteen minutes a day can make a {5|difference}. If you keep going, you will soon enjoy the pleasure of playing your favorite songs.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "악기를 배우는 데는 시간이 걸리지만 많은 이점이 있다. 첫째, 날마다 연습하면 절제력이 길러진다. 둘째, 음악 연주는 긴 하루 뒤의 스트레스를 줄일 수 있다. 음악은 음표와 리듬을 기억해야 하므로 기억력도 향상시킨다. 학교 밴드에 가입하는 것도 새 친구를 피하는 좋은 방법이다. 처음에는 시작이 어려워서 많은 사람이 포기한다. 하지만 하루 십오 분만으로도 차이를 만들 수 있다. 계속하면 곧 좋아하는 노래를 연주하는 즐거움을 누리게 될 것이다.",
+    "why": "밴드에 가입하는 것은 새 친구를 '사귀는(make)' 좋은 방법이므로 avoid는 부적절합니다.",
+    "optionNotes": [
+      "절제력을 기른다는 의미로 discipline이 알맞습니다.",
+      "스트레스를 줄인다는 의미로 reduce가 알맞습니다.",
+      "기억력을 향상시킨다는 의미로 improves가 알맞습니다.",
+      "정답(부적절). 새 친구를 사귄다는 의미이므로 make여야 합니다.",
+      "차이를 만든다는 의미로 difference가 알맞습니다."
+    ],
+    "trap": "'a great way to'가 긍정적 방향임을 놓치면 avoid가 어색하지 않게 보입니다.",
+    "tip": "'a great way to + 동사'에서는 긍정적 결과와 어울리는 동사인지 확인하세요."
+  },
+  {
+    "id": "m2b-30-31",
+    "level": "m2",
+    "set": "mock-30",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "When an ant finds food, it goes back to its nest and leaves a special smell on the ground. Other ants follow this smell and carry the food home. As more ants walk along the path, the smell becomes stronger. If the food runs out, the ants stop leaving the smell, and the trail slowly disappears. Scientists have studied ants for many years, and they are amazed by this teamwork. This simple system works very well for a small insect without a map. Ants do not need to talk with each other, because the smell tells them where to go. In short, ants __________.",
+    "options": [
+      "are able to see food from far away",
+      "leave a smell trail on the ground that guides other ants to the food",
+      "carry heavy rocks to make new homes",
+      "sing loud songs to call their friends",
+      "sleep during the day to save energy"
+    ],
+    "answer": 1,
+    "translation": "개미가 먹이를 찾으면 둥지로 돌아가며 땅에 특별한 냄새를 남긴다. 다른 개미들은 이 냄새를 따라가 먹이를 집으로 나른다. 더 많은 개미가 길을 따라 걸을수록 냄새는 더 강해진다. 먹이가 떨어지면 개미들은 냄새를 남기지 않고 길은 서서히 사라진다. 과학자들은 오랫동안 개미를 연구해 왔고 이 협동에 감탄한다. 이 단순한 방식은 지도가 없는 작은 곤충에게 매우 잘 작동한다. 냄새가 갈 곳을 알려 주므로 개미들은 서로 이야기할 필요가 없다. 요컨대 개미는 땅에 냄새 길을 남겨 다른 개미를 먹이로 안내한다.",
+    "why": "먹이를 찾은 개미가 땅에 냄새를 남기고 다른 개미가 그것을 따라가므로 냄새 길로 다른 개미를 먹이로 안내합니다.",
+    "optionNotes": [
+      "멀리서 먹이를 본다는 내용은 나오지 않습니다.",
+      "정답. 냄새 길로 다른 개미를 먹이로 안내합니다.",
+      "큰 돌을 나른다는 내용은 나오지 않습니다.",
+      "노래는 나오지 않습니다.",
+      "낮잠은 나오지 않습니다."
+    ],
+    "trap": "'carry the food'를 큰 돌을 나르는 것(③)과 혼동하지 마세요.",
+    "tip": "In short 뒤 빈칸은 글 전체의 핵심 방식(smell trail)을 요약합니다."
+  },
+  {
+    "id": "m2b-30-32",
+    "level": "m2",
+    "set": "mock-30",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A rainbow appears when sunlight passes through raindrops. Sunlight looks white, but it is made of many colors. When the light enters a raindrop, it bends, and each color bends by a different amount. The drop also acts like a small mirror, so the light comes back out toward our eyes. As a result, white sunlight __________, and we see a band of red, orange, yellow, green, blue, and violet. Sometimes you can see a double rainbow, with a second, paler rainbow above the first one. To see a rainbow, the sun must be behind you, and the rain must be in front of you.",
+    "options": [
+      "turns into a shower of cold snow",
+      "becomes much hotter than before",
+      "disappears from the sky completely",
+      "falls to the ground as colored water",
+      "splits into many different colors"
+    ],
+    "answer": 4,
+    "translation": "무지개는 햇빛이 빗방울을 통과할 때 나타난다. 햇빛은 하얗게 보이지만 많은 색으로 이루어져 있다. 빛이 빗방울에 들어가면 꺾이고 색마다 꺾이는 정도가 다르다. 빗방울은 작은 거울처럼 작용하기도 해서 빛이 우리 눈 쪽으로 다시 나온다. 그 결과 하얀 햇빛은 여러 가지 색으로 갈라지고 우리는 빨강, 주황, 노랑, 초록, 파랑, 보라의 띠를 본다. 가끔은 첫 번째 위에 더 옅은 두 번째 무지개가 있는 쌍무지개를 볼 수도 있다. 무지개를 보려면 해가 뒤에 있고 비가 앞에 있어야 한다.",
+    "why": "하얀 햇빛이 빗방울에서 색마다 다르게 꺾여 여러 색으로 갈라지므로 splits into many different colors입니다.",
+    "optionNotes": [
+      "눈은 나오지 않습니다.",
+      "더 뜨거워진다는 내용은 나오지 않습니다.",
+      "햇빛이 사라진다는 내용은 나오지 않습니다.",
+      "색깔 있는 물은 나오지 않습니다.",
+      "정답. 여러 가지 색으로 갈라집니다."
+    ],
+    "trap": "'mirror'를 보고 빛이 사라진다(③)고 착각하지 마세요.",
+    "tip": "뒤 문장(a band of red ~ violet)이 정답의 근거입니다."
+  },
+  {
+    "id": "m2b-30-33",
+    "level": "m2",
+    "set": "mock-30",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Many students prefer typing notes on a laptop because it is faster. However, a study found that students who wrote notes by hand understood the lesson better. When typing, students often copy what the teacher says word by word without thinking. As a result, they do not process the information deeply. When writing by hand, they cannot write everything, because it takes more time. So they must listen carefully and __________. This process helps them to understand and remember the main ideas. Of course, typing is still useful for long papers, but for learning new ideas, pen and paper may work better.",
+    "options": [
+      "close their eyes during the class",
+      "ask their friends to write for them",
+      "stop taking notes after five minutes",
+      "copy every word of the textbook",
+      "write the ideas in their own words"
+    ],
+    "answer": 4,
+    "translation": "많은 학생이 더 빠르기 때문에 노트북으로 필기하는 것을 선호한다. 그러나 한 연구는 손으로 필기한 학생이 수업을 더 잘 이해한다는 것을 발견했다. 타자를 칠 때 학생들은 생각 없이 선생님이 말하는 것을 한 마디씩 베끼는 경우가 많다. 그 결과 정보를 깊이 처리하지 않는다. 손으로 쓸 때는 시간이 더 걸려서 모든 것을 쓸 수 없다. 그래서 그들은 주의 깊게 듣고 생각을 자기 말로 써야 한다. 이 과정은 그들이 핵심 생각을 이해하고 기억하도록 돕는다. 물론 긴 글을 쓸 때는 타자가 여전히 유용하지만 새로운 생각을 배울 때는 펜과 종이가 더 효과적일 수 있다.",
+    "why": "손으로 쓰면 모두 쓸 수 없으므로 주의 깊게 듣고 생각을 자기 말로 써야 합니다.",
+    "optionNotes": [
+      "눈을 감는다는 내용은 나오지 않습니다.",
+      "친구에게 맡긴다는 내용은 나오지 않습니다.",
+      "필기를 멈춘다는 내용은 나오지 않습니다.",
+      "교과서를 베낀다는 내용은 나오지 않습니다.",
+      "정답. 생각을 자기 말로 씁니다."
+    ],
+    "trap": "'copy word by word'는 타자 칠 때의 문제점이지 손 필기의 방식이 아닙니다.",
+    "tip": "접속어 So 뒤는 앞 문장(cannot write everything)의 결과입니다."
+  },
+  {
+    "id": "m2b-30-34",
+    "level": "m2",
+    "set": "mock-30",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Have you ever smelled something and suddenly remembered a moment from your childhood? The smell of cookies may remind you of your grandmother's kitchen. A scent such as fresh bread or a certain soap can take you back many years in just a second. Even people with weak memories may remember old stories when they smell something familiar. This happens because the part of the brain that handles smells is very close to the parts that store memories and feelings. Other senses, such as sight and hearing, take a longer path through the brain before they reach these parts. That is why __________.",
+    "options": [
+      "a loud sound can make us forget our feelings",
+      "a picture is always better than a smell",
+      "cookies taste sweeter when we are sleepy",
+      "a smell can bring back a memory strongly",
+      "a smell is easy to forget after one day"
+    ],
+    "answer": 3,
+    "translation": "무언가의 냄새를 맡고 갑자기 어린 시절의 한 순간이 떠오른 적이 있는가? 쿠키 냄새는 할머니의 부엌을 떠올리게 할 수 있다. 갓 구운 빵이나 어떤 비누 같은 향은 단 일 초 만에 여러 해 전으로 데려갈 수 있다. 기억력이 약한 사람도 익숙한 냄새를 맡으면 옛이야기를 떠올리기도 한다. 이는 냄새를 처리하는 뇌의 부분이 기억과 감정을 저장하는 부분과 매우 가까이 있기 때문에 일어난다. 시각이나 청각 같은 다른 감각은 이 부분에 이르기 전에 뇌에서 더 긴 경로를 거친다. 그래서 냄새는 기억을 빠르고 강하게 되살릴 수 있다.",
+    "why": "냄새를 처리하는 부분이 기억을 저장하는 부분과 가까우므로 냄새는 기억을 빠르고 강하게 되살립니다.",
+    "optionNotes": [
+      "큰 소리와 감정은 나오지 않습니다.",
+      "그림이 더 낫다는 내용은 글과 반대입니다.",
+      "졸릴 때의 맛은 나오지 않습니다.",
+      "정답. 냄새는 기억을 빠르고 강하게 되살립니다.",
+      "냄새를 쉽게 잊는다는 내용은 글과 반대입니다."
+    ],
+    "trap": "예시(쿠키 냄새)에 끌려 맛(③)을 고르지 마세요.",
+    "tip": "That is why 앞의 이유가 정답의 근거입니다."
+  },
+  {
+    "id": "m2b-30-35",
+    "level": "m2",
+    "set": "mock-30",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "A good friendship needs care, just like a garden needs water. ① A good friend listens carefully when you talk about your worries. ② Mount Everest is the highest mountain in the world. ③ A good friend is honest, but always speaks kindly. ④ A good friend keeps your secrets and does not tell them to others. ⑤ Above all, a good friend is there for you when you need help.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "좋은 우정은 정원에 물이 필요하듯 보살핌이 필요하다. ① 좋은 친구는 네가 걱정을 이야기할 때 귀 기울여 듣는다. ② 에베레스트산은 세계에서 가장 높은 산이다. ③ 좋은 친구는 정직하지만 늘 친절하게 말한다. ④ 좋은 친구는 네 비밀을 지키고 다른 사람에게 말하지 않는다. ⑤ 무엇보다 좋은 친구는 네가 도움이 필요할 때 곁에 있다.",
+    "why": "글은 좋은 친구의 모습을 이야기하는데 ②는 산에 관한 별개의 이야기입니다.",
+    "optionNotes": [
+      "귀 기울여 듣는 친구입니다.",
+      "정답(무관). 산 이야기라 관계가 없습니다.",
+      "친절하게 정직한 친구입니다.",
+      "비밀을 지키는 친구입니다.",
+      "도움이 필요할 때 곁에 있는 친구입니다."
+    ],
+    "trap": "앞뒤가 모두 좋은 친구의 모습이므로 중간에 낀 별개 주제를 놓치기 쉽습니다.",
+    "tip": "각 문장이 '좋은 친구의 모습'인지 확인하세요."
+  },
+  {
+    "id": "m2b-30-36",
+    "level": "m2",
+    "set": "mock-30",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Velcro is used on shoes, bags, and jackets, and its idea came from a plant.\n(A) He copied this idea and made a fastener with one side of hooks and the other side of loops. Today, it is used in many products because it is easy to open and close.\n(B) Curious, he looked at a burr under a microscope. He saw that it was covered with tiny hooks, and the hooks caught the small loops of the fabric.\n(C) In the 1940s, a Swiss engineer named George de Mestral went for a walk with his dog. When they came home, he found small seeds called burrs stuck to his clothes and to the dog's fur. They were very hard to remove.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 4,
+    "translation": "벨크로는 신발, 가방, 재킷에 쓰이며 그 아이디어는 식물에서 나왔다. (C) 1940년대에 조지 드 메스트랄이라는 스위스 기술자가 개와 산책을 갔다. 집에 돌아왔을 때 그는 도깨비바늘이라는 작은 씨앗이 옷과 개의 털에 붙어 있는 것을 발견했다. 그것들은 떼어 내기 매우 어려웠다. (B) 궁금해진 그는 현미경으로 도깨비바늘을 보았다. 그는 그것이 작은 갈고리로 덮여 있고 갈고리가 천의 작은 고리에 걸린다는 것을 보았다. (A) 그는 이 아이디어를 따라 한쪽은 갈고리, 다른 쪽은 고리로 된 여미개를 만들었다. 오늘날 그것은 열고 닫기 쉬워서 많은 제품에 쓰인다.",
+    "why": "(C) 도깨비바늘이 붙은 일 → (B) 현미경으로 관찰함 → (A) 그 아이디어를 따라 만들어 오늘날 쓰임 순서입니다.",
+    "optionNotes": [
+      "(A)의 'this idea'가 가리킬 관찰이 먼저 나와야 합니다.",
+      "(B)의 'a burr'가 소개되기 전에 올 수 없습니다.",
+      "(B)가 먼저 올 수 없습니다.",
+      "(A)가 (B)의 관찰보다 먼저 올 수 없습니다.",
+      "정답. 발견 → 관찰 → 제품 개발."
+    ],
+    "trap": "(A)의 'this idea'는 (B)에서 발견한 갈고리 구조입니다.",
+    "tip": "went for a walk → looked under a microscope → copied this idea의 흐름을 따라가세요."
+  },
+  {
+    "id": "m2b-30-37",
+    "level": "m2",
+    "set": "mock-30",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Jimin was walking to school on a cold morning when she saw a small puppy crying beside the road.\n(A) Then she carried the puppy to school and showed it to her teacher. The teacher called the animal shelter, and a worker came to pick it up.\n(B) She looked around, but she could not see its owner. The puppy was shaking in the cold, so she took off her scarf and wrapped it around the puppy.\n(C) A week later, Jimin received a letter from the shelter. It said that the puppy had found a new family. She smiled and felt warm inside.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 1,
+    "translation": "지민은 추운 아침 학교에 걸어가다가 길가에서 우는 작은 강아지를 보았다. (B) 그녀는 주위를 둘러보았지만 주인을 볼 수 없었다. 강아지는 추위에 떨고 있어서 그녀는 목도리를 벗어 강아지를 감쌌다. (A) 그런 다음 그녀는 강아지를 학교로 안고 가서 선생님께 보여 드렸다. 선생님은 동물 보호소에 전화했고 직원이 데리러 왔다. (C) 일주일 뒤 지민은 보호소에서 온 편지를 받았다. 강아지가 새 가족을 찾았다는 내용이었다. 그녀는 미소 지었고 마음이 따뜻해졌다.",
+    "why": "(B) 주인을 찾지 못해 목도리로 감쌈 → (A) 'Then' 학교로 데려가 보호소에 연락함 → (C) 일주일 뒤 편지를 받음 순서입니다.",
+    "optionNotes": [
+      "(A)의 'the puppy'가 상황 설명 없이 먼저 올 수 없습니다.",
+      "정답. 주인을 찾음 → 학교로 데려감 → 편지.",
+      "(C)의 편지가 중간에 올 수 없습니다.",
+      "(C)의 'A week later'가 맨 앞에 올 수 없습니다.",
+      "(C)가 맨 앞에 올 수 없습니다."
+    ],
+    "trap": "(C)의 'A week later'는 모든 사건이 끝난 뒤의 장면입니다.",
+    "tip": "looked around → Then carried → A week later의 시간 흐름을 따라가세요."
+  },
+  {
+    "id": "m2b-30-38",
+    "level": "m2",
+    "set": "mock-30",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nAs a result, many people now enjoy fresh vegetables even in the winter.\n\n[글]\n( ① ) In the past, it was hard to grow vegetables in winter because of the cold. ( ② ) Farmers could grow only a few kinds of crops. ( ③ ) Then greenhouses were invented. ( ④ ) A greenhouse keeps the air warm inside by trapping the heat of the sun. ( ⑤ ) It also helps farmers to earn money throughout the year.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 4,
+    "translation": "[주어진 문장] 그 결과 이제 많은 사람이 겨울에도 신선한 채소를 즐긴다. [글] 과거에는 추위 때문에 겨울에 채소를 기르기가 어려웠다. 농부들은 몇 가지 작물만 기를 수 있었다. 그러다 온실이 발명되었다. 온실은 햇빛의 열을 가두어 안의 공기를 따뜻하게 유지한다. 그것은 또 농부들이 일 년 내내 돈을 벌도록 돕는다.",
+    "why": "온실의 원리를 설명한 뒤 'As a result'로 겨울에도 신선한 채소를 먹는다고 말하고, 다음 문장의 'It also'가 이어지므로 ⑤에 들어갑니다.",
+    "optionNotes": [
+      "'As a result'의 원인이 아직 없습니다.",
+      "원인인 온실이 소개되기 전입니다.",
+      "'It'이 가리킬 온실의 설명을 끊게 됩니다.",
+      "온실의 원리를 설명하기 전이라 결과가 이릅니다.",
+      "정답. 원리를 설명한 뒤 결과가 오고 'It also'가 이어집니다."
+    ],
+    "trap": "④ 바로 뒤의 'It'이 가리키는 대상이 온실임을 놓치기 쉽습니다.",
+    "tip": "As a result는 원인을 충분히 설명한 직후에 놓입니다."
+  },
+  {
+    "id": "m2b-30-39",
+    "level": "m2",
+    "set": "mock-30",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThis is how sweating helps to cool down our body.\n\n[글]\n( ① ) When we exercise, our body produces a lot of heat. ( ② ) Our brain notices this and tells the skin to release water, which we call sweat. ( ③ ) When the sweat dries on the skin, it takes away some of the heat. ( ④ ) That is why a breeze makes wet skin feel cooler. ( ⑤ ) So after exercise, you should drink plenty of water to replace what you lost.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "[주어진 문장] 이렇게 땀은 우리 몸을 식히는 데 도움이 된다. [글] 운동하면 우리 몸은 많은 열을 만든다. 뇌는 이를 알아채고 피부에 땀이라 불리는 물을 내보내라고 지시한다. 땀이 피부에서 마르면 열의 일부를 가져간다. 그래서 바람이 불면 젖은 피부가 더 시원하게 느껴진다. 그러니 운동 뒤에는 잃은 것을 채우도록 물을 충분히 마셔야 한다.",
+    "why": "땀이 마르며 열을 가져간다는 과정을 설명한 뒤 'This is how ~'로 요약하고, 다음 문장이 'That is why ~'로 결과를 이으므로 ④에 들어갑니다.",
+    "optionNotes": [
+      "'This'가 가리킬 과정이 아직 없습니다.",
+      "땀이 나오는 과정을 설명하기 전입니다.",
+      "열을 가져가는 설명 직전이라 'This'가 가리킬 내용이 부족합니다.",
+      "정답. 과정을 설명한 뒤 요약하고 결과가 이어집니다.",
+      "결론 직전에 오면 'That is why'의 앞뒤가 끊깁니다."
+    ],
+    "trap": "③ 앞이나 뒤에서 둘 다 그럴듯하지만 'This'가 가리킬 과정이 모두 나온 뒤여야 합니다.",
+    "tip": "This is how ~는 과정 설명이 끝난 직후에 놓입니다."
+  },
+  {
+    "id": "m2b-30-40",
+    "level": "m2",
+    "set": "mock-30",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A town library started a program called Read Together. Every Saturday, middle school students read picture books aloud to young children. At first, the teenagers were shy, and some of the children did not listen well. But after a few months, the children could understand more words and enjoyed asking questions about the stories. Their parents said that the children now loved books. The teenagers also changed. They learned to speak clearly in front of others and felt more confident. One teenager said that he had never felt so useful before. The library plans to continue the program next year.\n\n▶ The reading program (A) both groups: the children improved their (B), and the teenagers gained confidence.",
+    "options": [
+      "(A) harmed — (B) height",
+      "(A) bored — (B) sleep",
+      "(A) helped — (B) vocabulary",
+      "(A) ignored — (B) weather",
+      "(A) tired — (B) hobby"
+    ],
+    "answer": 2,
+    "translation": "한 마을 도서관이 \"함께 읽기\"라는 프로그램을 시작했다. 매주 토요일 중학생들이 어린 아이들에게 그림책을 소리 내어 읽어 주었다. 처음에는 십대들이 수줍어했고 일부 아이들은 잘 듣지 않았다. 하지만 몇 달 뒤 아이들은 더 많은 낱말을 이해하게 되었고 이야기에 관한 질문을 하며 즐거워했다. 부모들은 아이들이 이제 책을 좋아한다고 말했다. 십대들도 변했다. 그들은 다른 사람 앞에서 또렷이 말하는 법을 배웠고 더 자신감이 생겼다. 한 십대는 그렇게 쓸모 있다고 느낀 적이 없었다고 말했다. 도서관은 다음 해에도 이 프로그램을 계속할 계획이다. ▶ 읽기 프로그램은 두 집단 모두를 (A): 아이들은 (B)이 좋아졌고 십대들은 자신감을 얻었다.",
+    "why": "읽기 프로그램이 두 집단을 도왔고 아이들은 낱말(vocabulary)이 늘었으므로 (A)는 helped, (B)는 vocabulary입니다.",
+    "optionNotes": [
+      "harmed와 height는 글과 맞지 않습니다.",
+      "bored와 sleep은 글과 맞지 않습니다.",
+      "정답. 두 집단을 도왔고 아이들은 어휘가 늘었습니다.",
+      "ignored와 weather는 글과 맞지 않습니다.",
+      "tired와 hobby는 글과 맞지 않습니다."
+    ],
+    "trap": "십대가 처음에 수줍어했다는 점만 보고 bored(②)를 고르지 마세요.",
+    "tip": "요약문은 프로그램의 결과(helped)와 변화한 내용(vocabulary)을 짝지으세요."
+  }
+]

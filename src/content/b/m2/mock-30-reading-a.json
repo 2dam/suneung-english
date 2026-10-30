@@ -1,0 +1,333 @@
+[
+  {
+    "id": "m2b-30-18",
+    "level": "m2",
+    "set": "mock-30",
+    "no": 18,
+    "type": "purpose",
+    "stem": "다음 글의 목적으로 가장 적절한 것은?",
+    "passage": "Dear Coach Han,\nMy name is Seojun Park, and I am a second-year student at Sunrise Middle School. I love basketball, and I have played with my friends every weekend for two years. I heard that the school team will have a tryout next month. I am writing to ask when and where the tryout will be held. I would also like to know what I should bring and whether there is anything I should practice in advance. I really want to join the team and work hard. Thank you for reading my message. I hope to hear from you soon.\nSincerely,\nSeojun Park",
+    "options": [
+      "농구부 코치의 이메일 주소를 알아보려고",
+      "농구 경기 입장권을 구하려고",
+      "체육복 구입 방법을 문의하려고",
+      "농구부 입단 테스트 일정을 문의하려고",
+      "농구 대회 우승을 축하하려고"
+    ],
+    "answer": 3,
+    "translation": "한 코치님께. 제 이름은 박서준이고 선라이즈 중학교 2학년입니다. 저는 농구를 좋아해서 이 년 동안 주말마다 친구들과 농구를 해 왔습니다. 다음 달에 학교 팀의 입단 테스트가 있다고 들었습니다. 테스트가 언제 어디서 열리는지 여쭈려고 글을 씁니다. 또 무엇을 가져가야 하는지, 미리 연습할 것이 있는지도 알고 싶습니다. 저는 팀에 꼭 들어가 열심히 하고 싶습니다. 제 메시지를 읽어 주셔서 감사합니다. 곧 답을 받기를 바랍니다. 박서준 드림.",
+    "why": "입단 테스트의 일정과 준비 사항을 문의하는 글이므로 ④가 목적입니다.",
+    "optionNotes": [
+      "연락처를 묻는 글이 아닙니다.",
+      "입장권은 나오지 않습니다.",
+      "체육복 구입은 나오지 않습니다.",
+      "정답. 입단 테스트의 일정과 준비 사항을 문의합니다.",
+      "축하하는 글이 아닙니다."
+    ],
+    "trap": "농구 이야기가 나온다고 경기 입장권(②)으로 착각하지 마세요.",
+    "tip": "목적 문제는 'I am writing to ask ~' 같은 핵심 요청 문장을 확인하세요."
+  },
+  {
+    "id": "m2b-30-19",
+    "level": "m2",
+    "set": "mock-30",
+    "no": 19,
+    "type": "mood",
+    "stem": "다음 글에 드러난 Sua의 심경 변화로 가장 적절한 것은?",
+    "passage": "Sua joined the five-kilometer school race for the first time. At first, she ran easily, but after three kilometers, her legs became heavy, and her breathing was loud. She wanted to stop and walk. Then she saw her friends standing by the road with a big sign. \"Go, Sua! Don't give up!\" they shouted. Their voices gave her new energy. She smiled a little and kept running. When she finally crossed the finish line, her friends hugged her. She had not won the race, but she had finished it. Sua felt very proud of herself.",
+    "options": [
+      "excited → angry",
+      "tired → proud",
+      "bored → lonely",
+      "calm → scared",
+      "jealous → shy"
+    ],
+    "answer": 1,
+    "translation": "수아는 처음으로 5킬로미터 학교 달리기에 참가했다. 처음에는 편하게 달렸지만 3킬로미터가 지나자 다리가 무거워지고 숨소리가 커졌다. 그녀는 멈추고 걷고 싶었다. 그때 길가에 큰 팻말을 들고 서 있는 친구들이 보였다. \"힘내, 수아야! 포기하지 마!\" 그들이 소리쳤다. 그 목소리는 그녀에게 새 힘을 주었다. 그녀는 조금 웃으며 계속 달렸다. 마침내 결승선을 넘자 친구들이 그녀를 안아 주었다. 일등은 못 했지만 끝까지 달렸다. 수아는 스스로가 매우 자랑스러웠다.",
+    "why": "힘들어서 멈추고 싶었지만(tired) 친구들의 응원으로 끝까지 달려 자랑스러워했으므로(proud) ②가 알맞습니다.",
+    "optionNotes": [
+      "들뜸에서 화남이 아닙니다.",
+      "정답. 지침에서 자랑스러움으로 변했습니다.",
+      "지루함에서 외로움이 아닙니다.",
+      "평온에서 두려움이 아닙니다.",
+      "질투에서 수줍음이 아닙니다."
+    ],
+    "trap": "결승선에서 일등을 못 했다는 말을 실망으로 오해하지 마세요.",
+    "tip": "전환 신호(Then she saw her friends)를 기준으로 앞뒤 감정을 비교하세요."
+  },
+  {
+    "id": "m2b-30-20",
+    "level": "m2",
+    "set": "mock-30",
+    "no": 20,
+    "type": "claim",
+    "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+    "passage": "Every day, millions of plastic bottles are used once and then thrown away. Most of them end up in landfills or in the ocean, where they stay for hundreds of years. Some people think that one bottle does not matter, but the small choices of many people add up to a big problem. Using a reusable water bottle is a simple solution. It saves money, because you do not need to buy a new bottle every day. It also keeps the environment clean. Many schools now have water fountains where students can fill their bottles for free. So we should carry our own reusable bottles instead of using disposable ones.",
+    "options": [
+      "물은 반드시 사서 마셔야 한다.",
+      "플라스틱 병은 바다에서 빨리 사라진다.",
+      "학교의 정수기는 없애야 한다.",
+      "한 명의 선택은 환경에 아무 영향도 주지 않는다.",
+      "다회용 물병을 가지고 다녀야 한다."
+    ],
+    "answer": 4,
+    "translation": "날마다 수백만 개의 플라스틱 병이 한 번 쓰이고 버려진다. 대부분은 매립지나 바다에 이르러 수백 년 동안 남는다. 일부 사람은 병 하나는 중요하지 않다고 생각하지만 많은 사람의 작은 선택이 모여 큰 문제가 된다. 다회용 물병을 쓰는 것은 간단한 해결책이다. 날마다 새 병을 살 필요가 없어서 돈을 아낀다. 환경도 깨끗하게 지킨다. 지금은 많은 학교에 학생이 무료로 병을 채울 수 있는 정수대가 있다. 그러므로 우리는 일회용 병 대신 자신의 다회용 물병을 가지고 다녀야 한다.",
+    "why": "마지막 문장에서 일회용 병 대신 다회용 물병을 가지고 다녀야 한다고 주장합니다.",
+    "optionNotes": [
+      "사서 마시라는 말은 글과 반대입니다.",
+      "병은 수백 년 동안 남는다고 했습니다.",
+      "학교에서 무료로 병을 채울 수 있다고 했습니다.",
+      "작은 선택이 모여 큰 문제가 된다고 했습니다.",
+      "정답. 다회용 물병을 가지고 다녀야 합니다."
+    ],
+    "trap": "일부 사람의 생각(병 하나는 중요하지 않다)을 필자의 주장으로 착각하지 마세요.",
+    "tip": "주장 문제는 'So we should ~' 이후 문장을 확인하세요."
+  },
+  {
+    "id": "m2b-30-21",
+    "level": "m2",
+    "set": "mock-30",
+    "no": 21,
+    "type": "implied",
+    "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "passage": "Today was the day of our school play. Behind the stage curtain, I was so nervous that my hands were shaking. I was going to play the main role of a king. My best friend Jina came to me and said with a smile, \"{u|Break a leg}, Minho! You practiced so hard, and you will do great.\" Her words made me feel calmer. I took a deep breath and walked onto the stage. When the play ended, the audience gave us a loud round of applause.",
+    "options": [
+      "Be careful not to hurt your leg",
+      "Good luck on your performance",
+      "Please stand up and wait quietly",
+      "Do not walk too fast on the stage",
+      "Run away before the play starts"
+    ],
+    "answer": 1,
+    "translation": "오늘은 학교 연극이 있는 날이었다. 무대 커튼 뒤에서 나는 너무 긴장해서 손이 떨렸다. 나는 왕의 주인공 역을 맡을 예정이었다. 가장 친한 친구 지나가 내게 와서 미소 지으며 말했다. \"잘해, 민호야! 너는 열심히 연습했으니 잘할 거야.\" 그 말에 마음이 한결 차분해졌다. 나는 심호흡을 하고 무대로 걸어 나갔다. 연극이 끝나자 관객들은 큰 박수를 보냈다.",
+    "why": "공연 직전 긴장한 친구를 격려하는 말이므로 'Break a leg'는 공연을 잘하길 바란다는 행운의 인사입니다.",
+    "optionNotes": [
+      "다리를 다치지 말라는 글자 그대로의 뜻이 아닙니다.",
+      "정답. 공연을 잘하길 바라는 행운의 인사입니다.",
+      "일어나서 기다리라는 뜻이 아닙니다.",
+      "무대에서 천천히 걸으라는 뜻이 아닙니다.",
+      "도망가라는 뜻이 아닙니다."
+    ],
+    "trap": "'leg'를 글자 그대로 다리로 해석해 부상 주의(①)를 고르지 마세요.",
+    "tip": "관용 표현은 앞뒤 단서(긴장함 → 마음이 차분해짐)로 의미를 추론하세요."
+  },
+  {
+    "id": "m2b-30-22",
+    "level": "m2",
+    "set": "mock-30",
+    "no": 22,
+    "type": "gist",
+    "stem": "다음 글의 요지로 가장 적절한 것은?",
+    "passage": "Do you often make goals but forget them after a few days? Here is a simple tip: write your goals down. A famous study found that people who wrote down their goals were more likely to achieve them than people who only thought about them. Writing makes your goal clear and real. You can check it again and again, and it reminds you of what you want. It is even better to write when and how you will do it. For example, instead of writing \"I will read more,\" write \"I will read for twenty minutes before bed.\" A clear plan on paper turns a wish into action.",
+    "options": [
+      "하루에 한 가지씩 새로운 목표를 세워야 한다.",
+      "책을 읽으면 목표를 쉽게 달성할 수 있다.",
+      "목표를 구체적으로 글로 적어 두면 목표를 이룰 가능성이 더 커진다.",
+      "목표는 친구에게 말하지 않는 것이 좋다.",
+      "목표를 자주 바꾸는 것이 성공에 도움이 된다."
+    ],
+    "answer": 2,
+    "translation": "목표를 세우고도 며칠 뒤 잊어버리는 경우가 많은가? 간단한 요령이 있다. 목표를 글로 적어라. 한 유명한 연구는 목표를 글로 적은 사람이 생각만 한 사람보다 목표를 이룰 가능성이 더 높다는 것을 발견했다. 글쓰기는 목표를 분명하고 현실적으로 만든다. 계속해서 다시 볼 수 있고 원하는 것을 일깨워 준다. 언제 어떻게 할지 적으면 더 좋다. 예를 들어 \"더 많이 읽겠다\" 대신 \"자기 전에 이십 분 읽겠다\"라고 써라. 종이 위의 분명한 계획은 소망을 행동으로 바꾼다.",
+    "why": "목표를 구체적으로 글로 적어 두면 이룰 가능성이 커진다는 것이 요지입니다.",
+    "optionNotes": [
+      "날마다 새 목표를 세우라는 말은 나오지 않습니다.",
+      "독서는 예시일 뿐입니다.",
+      "정답. 목표를 구체적으로 글로 적으면 이룰 가능성이 커집니다.",
+      "친구에게 말하지 말라는 말은 나오지 않습니다.",
+      "목표를 바꾸라는 말은 나오지 않습니다."
+    ],
+    "trap": "예시(독서)를 요지로 착각하지 마세요.",
+    "tip": "요지는 'Here is a simple tip: ~' 같은 핵심 제안에서 확인하세요."
+  },
+  {
+    "id": "m2b-30-23",
+    "level": "m2",
+    "set": "mock-30",
+    "no": 23,
+    "type": "topic",
+    "stem": "다음 글의 주제로 가장 적절한 것은?",
+    "passage": "Snowflakes begin high in the sky, where the air is very cold. A tiny drop of water freezes around a speck of dust and becomes a small ice crystal. As the crystal falls, more water vapor freezes on it, and it grows into a shape with six sides. The shape of each snowflake depends on the temperature and wetness of the air it passes through. Because every snowflake takes a different path, no two are exactly the same. When many crystals stick together, they form large flakes that we see falling in winter. If the air near the ground is warm, the flakes melt and fall as rain.",
+    "options": [
+      "겨울에 따뜻하게 옷을 입는 방법",
+      "비가 내리는 이유와 시기",
+      "눈송이가 만들어지는 과정",
+      "얼음을 빨리 얼리는 요령",
+      "구름이 하늘에 떠 있는 원리"
+    ],
+    "answer": 2,
+    "translation": "눈송이는 공기가 매우 차가운 높은 하늘에서 시작된다. 작은 물방울이 먼지 알갱이 주위에서 얼어 작은 얼음 결정이 된다. 결정이 떨어지면서 더 많은 수증기가 그 위에서 얼어 여섯 면을 가진 모양으로 자란다. 각 눈송이의 모양은 지나가는 공기의 온도와 습도에 따라 달라진다. 모든 눈송이가 다른 길을 지나므로 정확히 같은 것은 둘도 없다. 많은 결정이 달라붙으면 겨울에 떨어지는 큰 눈송이가 된다. 땅 근처의 공기가 따뜻하면 눈송이는 녹아 비로 내린다.",
+    "why": "눈송이가 만들어지고 모양이 정해지는 과정을 설명하는 글입니다.",
+    "optionNotes": [
+      "옷 입는 방법은 나오지 않습니다.",
+      "비는 부수적 내용입니다.",
+      "정답. 눈송이가 만들어지는 과정입니다.",
+      "얼음 얼리기 요령은 나오지 않습니다.",
+      "구름의 원리는 나오지 않습니다."
+    ],
+    "trap": "마지막의 '비로 내린다'를 주제(②)로 착각하지 마세요.",
+    "tip": "주제는 글 전체에서 반복되는 핵심어(snowflake, crystal)로 파악하세요."
+  },
+  {
+    "id": "m2b-30-24",
+    "level": "m2",
+    "set": "mock-30",
+    "no": 24,
+    "type": "title",
+    "stem": "다음 글의 제목으로 가장 적절한 것은?",
+    "passage": "A hedgehog is a small animal with thousands of sharp spines on its back. These spines work like a coat of armor. When a hedgehog feels danger, it rolls itself into a tight ball, and its spines point out in all directions. Few animals dare to bite it. Hedgehogs are active at night. They walk through gardens and eat insects, worms, and snails, which helps gardeners. In winter, when food is hard to find, hedgehogs sleep for months in a warm nest of leaves. Sadly, many hedgehogs are hurt by cars on the road, so people in some towns have built small tunnels under fences to help them travel safely.",
+    "options": [
+      "Hedgehogs: Spiky Little Animals",
+      "How Gardeners Choose New Plants",
+      "The Fastest Cars on the Road",
+      "Why Snails Sleep in Winter",
+      "Easy Ways to Build a Warm Nest"
+    ],
+    "answer": 0,
+    "translation": "고슴도치는 등에 수천 개의 날카로운 가시가 있는 작은 동물이다. 이 가시는 갑옷처럼 작용한다. 위험을 느끼면 고슴도치는 몸을 단단한 공처럼 말고 가시가 사방으로 뻗는다. 감히 무는 동물은 거의 없다. 고슴도치는 밤에 활동한다. 정원을 돌아다니며 곤충, 벌레, 달팽이를 먹어 정원사에게 도움이 된다. 겨울에 먹이를 구하기 어려울 때는 낙엽으로 만든 따뜻한 둥지에서 몇 달 동안 잔다. 슬프게도 많은 고슴도치가 도로에서 차에 다치므로 일부 마을에서는 울타리 밑에 작은 터널을 만들어 안전하게 다니도록 돕는다.",
+    "why": "가시로 몸을 지키는 고슴도치의 특징을 다루므로 ①이 제목으로 알맞습니다.",
+    "optionNotes": [
+      "정답. 가시 코트를 입은 작은 동물 고슴도치입니다.",
+      "정원사의 식물 선택은 나오지 않습니다.",
+      "빠른 자동차는 나오지 않습니다.",
+      "달팽이의 겨울잠은 나오지 않습니다.",
+      "둥지 만들기 요령이 아닙니다."
+    ],
+    "trap": "'cars', 'snails'가 나온다고 ②③④로 착각하지 마세요.",
+    "tip": "제목은 글의 핵심 대상(hedgehogs)과 특징(spiky)을 함께 담으세요."
+  },
+  {
+    "id": "m2b-30-25",
+    "level": "m2",
+    "set": "mock-30",
+    "no": 25,
+    "type": "chart",
+    "stem": "다음 도표의 내용과 일치하지 않는 것은?",
+    "chart": {
+      "title": "Books Read in One Semester by Class (number)",
+      "unit": "books",
+      "labels": [
+        "Class A",
+        "Class B",
+        "Class C",
+        "Class D",
+        "Class E"
+      ],
+      "series": [
+        {
+          "name": "Books",
+          "values": [
+            12,
+            8,
+            15,
+            10,
+            5
+          ]
+        }
+      ]
+    },
+    "passage": "The graph shows the number of books read by five classes in one semester. ① Class C read the most books. ② Class E read the fewest books. ③ Class A read 4 more books than Class B. ④ Class D read 3 more books than Class B. ⑤ The total number of books read by Class B and Class E is 13.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "그래프는 다섯 학급이 한 학기 동안 읽은 책의 수를 보여 준다. ① C반이 책을 가장 많이 읽었다. ② E반이 책을 가장 적게 읽었다. ③ A반은 B반보다 책을 4권 더 읽었다. ④ D반은 B반보다 책을 3권 더 읽었다. ⑤ B반과 E반이 읽은 책의 합은 13권이다.",
+    "why": "D는 10권, B는 8권으로 2권 차이이므로 ④는 일치하지 않습니다.",
+    "optionNotes": [
+      "C가 15권으로 가장 많습니다.",
+      "E가 5권으로 가장 적습니다.",
+      "12 - 8 = 4권입니다.",
+      "정답(불일치). 10 - 8 = 2권입니다.",
+      "8 + 5 = 13권입니다."
+    ],
+    "trap": "10과 8의 차이를 3으로 어림하지 마세요.",
+    "tip": "그래프 문제는 차이를 나타내는 표현을 직접 계산해 확인하세요."
+  },
+  {
+    "id": "m2b-30-26",
+    "level": "m2",
+    "set": "mock-30",
+    "no": 26,
+    "type": "match",
+    "stem": "Yi Sun-sin에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Yi Sun-sin was born in 1545 in Hanyang, now Seoul. He passed the military exam at the age of thirty-one and served as an officer in many places. In 1592, Japan attacked Joseon, and he led the navy. He used the turtle ship, a strong ship covered with a roof of iron spikes, and defeated enemy ships at the Battle of Hansan Island. Later, at the Battle of Myeongnyang, he won against a much larger fleet with only a few ships. He cared about his soldiers and the people, and he wrote a famous diary during the war. He died in 1598 in the last battle of the war.",
+    "options": [
+      "거북선을 이용해 해전에서 승리했다.",
+      "어린 시절에 군인이 되어 전쟁에 나갔다.",
+      "명량에서는 더 많은 배로 싸워 이겼다.",
+      "전쟁 중에는 일기를 쓰지 않았다.",
+      "전쟁이 끝난 뒤 오랫동안 살았다."
+    ],
+    "answer": 0,
+    "translation": "이순신은 1545년 지금의 서울인 한양에서 태어났다. 그는 서른한 살에 무과에 합격해 여러 곳에서 장교로 일했다. 1592년 일본이 조선을 공격했을 때 그는 수군을 이끌었다. 그는 쇠못이 박힌 지붕으로 덮인 튼튼한 배인 거북선을 이용해 한산도 해전에서 적선을 물리쳤다. 나중에 명량 해전에서는 훨씬 큰 함대를 적은 수의 배로 이겼다. 그는 병사와 백성을 아꼈고 전쟁 중에 유명한 일기를 썼다. 그는 전쟁의 마지막 전투에서 1598년에 세상을 떠났다.",
+    "why": "거북선을 이용해 한산도 해전에서 적선을 물리쳤다고 했으므로 ①이 일치합니다.",
+    "optionNotes": [
+      "정답. 거북선을 이용해 해전에서 승리했습니다.",
+      "서른한 살에 무과에 합격했습니다.",
+      "적은 수의 배로 훨씬 큰 함대를 이겼습니다.",
+      "전쟁 중 유명한 일기를 썼습니다.",
+      "전쟁의 마지막 전투에서 세상을 떠났습니다."
+    ],
+    "trap": "명량 해전은 '적은 수의 배'로 이겼다는 점을 놓치지 마세요.",
+    "tip": "일치 문제는 시기와 사건을 보기와 하나씩 대조하세요."
+  },
+  {
+    "id": "m2b-30-27",
+    "level": "m2",
+    "set": "mock-30",
+    "no": 27,
+    "type": "notice",
+    "stem": "Kite Festival 안내문의 내용과 일치하는 것은?",
+    "passage": "Hanbit Park - Kite Festival\nDate: Saturday, October 11, 10 a.m. - 4 p.m.\nPlace: Main field of Hanbit Park\nAdmission: Free\nPrograms: Kite flying, kite making class, and a kite contest at 2 p.m.\nKites: You can bring your own or buy one for $5 at the park.\nKite making class: Sign up at the information desk on the day (limited to 30 people).\nNote: If it rains, the festival will be canceled.",
+    "options": [
+      "축제는 이틀 동안 열린다.",
+      "입장하려면 입장권을 사야 한다.",
+      "연은 반드시 공원 안 매점에서만 돈을 내고 구입해야 한다.",
+      "대회는 오전 10시에 시작한다.",
+      "연 만들기는 당일 안내 데스크에서 신청한다."
+    ],
+    "answer": 4,
+    "translation": "한빛 공원 – 연 축제. 날짜: 10월 11일 토요일 오전 10시~오후 4시. 장소: 한빛 공원 중앙 운동장. 입장료: 무료. 프로그램: 연날리기, 연 만들기 수업, 오후 2시 연 대회. 연: 직접 가져오거나 공원에서 5달러에 살 수 있음. 연 만들기 수업: 당일 안내 데스크에서 신청(30명 한정). 유의: 비가 오면 축제는 취소됩니다.",
+    "why": "'Sign up at the information desk on the day'와 일치합니다.",
+    "optionNotes": [
+      "토요일 하루 열립니다.",
+      "입장은 무료입니다.",
+      "직접 가져올 수도 있습니다.",
+      "대회는 오후 2시입니다.",
+      "정답. 당일 안내 데스크에서 신청합니다."
+    ],
+    "trap": "축제 시작 시각(10시)과 대회 시각(2시)을 혼동하지 마세요.",
+    "tip": "안내문의 Date, Admission, Kites, Programs, Sign up 항목을 하나씩 대조하세요."
+  },
+  {
+    "id": "m2b-30-28",
+    "level": "m2",
+    "set": "mock-30",
+    "no": 28,
+    "type": "notice",
+    "stem": "Science Fair 안내문의 내용과 일치하는 것은?",
+    "passage": "Sunrise Middle School - Science Fair\nDate: Friday, November 21, 1 p.m. - 4 p.m.\nPlace: School gym\nWho can join: Students in all grades (teams of 1 to 3 students)\nRegistration: Submit your project title to your science teacher by November 7.\nAwards: First, second, and third prizes\nVisitors: Parents and neighbors are welcome.\nNote: Each team must bring its own materials.",
+    "options": [
+      "행사는 오전에 열린다.",
+      "한 팀은 다섯 명까지 가능하다.",
+      "작품 제목은 11월 7일까지 제출한다.",
+      "재료는 학교에서 모두 무료로 준비해 준다.",
+      "학부모는 참관할 수 없다."
+    ],
+    "answer": 2,
+    "translation": "선라이즈 중학교 – 과학 박람회. 날짜: 11월 21일 금요일 오후 1시~4시. 장소: 학교 체육관. 참가 대상: 전 학년 학생(1~3명 팀). 신청: 11월 7일까지 과학 선생님께 작품 제목 제출. 시상: 1등, 2등, 3등. 방문객: 학부모와 이웃을 환영합니다. 유의: 각 팀은 재료를 직접 가져와야 합니다.",
+    "why": "'Submit your project title to your science teacher by November 7'과 일치합니다.",
+    "optionNotes": [
+      "오후 1시부터 4시까지 열립니다.",
+      "한 팀은 1~3명입니다.",
+      "정답. 11월 7일까지 과학 선생님께 작품 제목을 제출합니다.",
+      "각 팀이 재료를 가져와야 합니다.",
+      "학부모와 이웃을 환영합니다."
+    ],
+    "trap": "신청 마감일(11월 7일)과 행사일(11월 21일)을 혼동하지 마세요.",
+    "tip": "안내문의 Date, Who, Registration, Visitors, Note 항목을 하나씩 대조하세요."
+  }
+]
