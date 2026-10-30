@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m3b-28-29",
+    "level": "m3",
+    "set": "mock-28",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Chameleons are famous for their ability to change color. Many people think that they do this only to hide from enemies, but the truth is more {1|interesting}. A chameleon changes color mainly to show its mood and to communicate with other chameleons. For example, a male turns bright colors when he wants to {2|attract} a female or warn a rival. The color change happens because the skin contains tiny crystals. When the chameleon becomes excited, the crystals {3|changes} the distance between them, which {4|makes} the skin reflect different colors of light. Temperature and light also affect the color. A chameleon may turn dark in the morning to {5|absorb} more heat from the sun. Scientists are now studying this special skin to create new materials that can change color without any paint.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "카멜레온은 색을 바꾸는 능력으로 유명하다. 많은 사람이 그것이 적에게서 숨기 위해서만이라고 생각하지만 진실은 더 흥미롭다. 카멜레온은 주로 기분을 보여 주고 다른 카멜레온과 의사소통하려고 색을 바꾼다. 예를 들어 수컷은 암컷을 끌거나 경쟁자에게 경고하고 싶을 때 밝은 색으로 변한다. 색 변화는 피부에 작은 결정이 들어 있기 때문에 일어난다. 카멜레온이 흥분하면 결정들이 서로 사이의 거리를 바꾸고 이는 피부가 다른 색의 빛을 반사하게 만든다. 온도와 빛도 색에 영향을 준다. 카멜레온은 아침에 태양의 열을 더 많이 흡수하려고 어두운 색으로 변하기도 한다. 과학자들은 이제 이 특별한 피부를 연구해 페인트 없이 색이 변하는 새로운 물질을 만들려 한다.",
+    "why": "주어 the crystals가 복수이므로 동사는 changes가 아니라 change여야 합니다.",
+    "optionNotes": [
+      "more 뒤의 형용사 interesting입니다.",
+      "wants to 뒤의 동사원형 attract입니다.",
+      "정답(틀린 것). 복수 주어 the crystals에는 change여야 합니다.",
+      "which의 선행사가 앞 절 전체이므로 단수 동사 makes입니다.",
+      "to 뒤의 동사원형 absorb입니다."
+    ],
+    "trap": "바로 앞의 단수 명사 'chameleon'에 동사를 맞추기 쉽습니다.",
+    "tip": "주어와 동사 사이의 수일치는 진짜 주어(the crystals)를 찾아 확인하세요."
+  },
+  {
+    "id": "m3b-28-30",
+    "level": "m3",
+    "set": "mock-28",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Reading is one of the simplest ways to improve your life. Reading a little every day is a {1|harmful} habit that costs almost nothing. Books can {2|expand} your vocabulary and teach you how to express your ideas clearly. They also help you understand people who live far away or in a different time. Studies show that even a short time of reading can {3|reduce} stress, because the mind forgets its worries while following a story. You do not need to finish a thick novel at once. Start with short stories or articles, and gradually {4|increase} the time you spend reading. If you keep a book in your bag, you can turn waiting time on a bus into a precious {5|opportunity}. Over a year, these small moments will add up to many finished books.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "독서는 삶을 개선하는 가장 간단한 방법 중 하나이다. 날마다 조금씩 읽는 것은 거의 돈이 들지 않는 해로운 습관이다. 책은 어휘를 넓히고 생각을 분명히 표현하는 법을 가르쳐 줄 수 있다. 또 멀리 있거나 다른 시대에 사는 사람들을 이해하도록 돕는다. 연구에 따르면 짧은 독서만으로도 마음이 이야기를 따라가는 동안 걱정을 잊기 때문에 스트레스를 줄일 수 있다. 두꺼운 소설을 한 번에 끝낼 필요는 없다. 짧은 이야기나 기사로 시작해서 독서에 쓰는 시간을 점차 늘려라. 가방에 책을 넣어 두면 버스에서 기다리는 시간을 귀중한 기회로 바꿀 수 있다. 일 년이 지나면 이런 작은 순간들이 쌓여 여러 권의 완독이 된다.",
+    "why": "독서는 거의 돈이 들지 않는 '좋은(helpful)' 습관이어야 문맥에 맞으므로 harmful은 부적절합니다.",
+    "optionNotes": [
+      "정답(부적절). 독서는 좋은 습관이므로 good이나 helpful이어야 합니다.",
+      "어휘를 넓힌다는 의미로 expand가 알맞습니다.",
+      "스트레스를 줄인다는 의미로 reduce가 알맞습니다.",
+      "시간을 점차 늘린다는 의미로 increase가 알맞습니다.",
+      "기다리는 시간이 기회가 된다는 의미로 opportunity가 알맞습니다."
+    ],
+    "trap": "뒤의 'costs almost nothing'을 보고 부정적인 어감으로 오해하기 쉽습니다.",
+    "tip": "글의 전체 논지(독서의 장점)와 방향이 같은 낱말인지 확인하세요."
+  },
+  {
+    "id": "m3b-28-31",
+    "level": "m3",
+    "set": "mock-28",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Imagine that you need to remember twenty unrelated words, such as apple, river, key, and cloud. Most people can recall only a few of them after a short time. Now imagine that you make a short story using the same words: an apple falls into a river, floats past a key, and rises into a cloud. Suddenly, the list becomes much easier to remember. Researchers explain that our brains are not good at storing separate pieces of information, but they are excellent at following stories. A story gives each fact a place and a reason, so one fact leads naturally to the next. This is why teachers who explain history as a story often find that students remember the lessons longer. Stories help memory because they __________.",
+    "options": [
+      "are always shorter than a list of facts",
+      "make people laugh so hard that they forget everything",
+      "connect separate facts into a meaningful chain",
+      "require us to repeat each word many times aloud",
+      "force us to write down every small detail"
+    ],
+    "answer": 2,
+    "translation": "사과, 강, 열쇠, 구름처럼 서로 관련 없는 스무 개의 낱말을 기억해야 한다고 상상해 보자. 대부분의 사람은 잠시 뒤 몇 개만 떠올릴 수 있다. 이제 같은 낱말로 짧은 이야기를 만든다고 상상해 보자. 사과가 강에 떨어져 열쇠 옆을 떠내려가고 구름 속으로 올라간다. 갑자기 목록이 훨씬 기억하기 쉬워진다. 연구자들은 우리의 뇌가 따로따로의 정보를 저장하는 데는 서툴지만 이야기를 따라가는 데는 뛰어나다고 설명한다. 이야기는 각 사실에 자리와 이유를 주어서 한 사실이 자연스럽게 다음 사실로 이어진다. 그래서 역사를 이야기로 설명하는 교사는 학생들이 수업을 더 오래 기억한다는 것을 알게 되는 경우가 많다. 이야기가 기억에 도움이 되는 것은 서로 떨어진 사실을 의미 있는 사슬로 연결하기 때문이다.",
+    "why": "이야기는 각 사실에 자리와 이유를 주어 서로 이어 주므로 따로 떨어진 사실을 의미 있는 사슬로 연결합니다.",
+    "optionNotes": [
+      "이야기가 항상 더 짧다는 내용은 나오지 않습니다.",
+      "웃음 때문에 잊는다는 내용은 나오지 않습니다.",
+      "정답. 사실들을 의미 있게 연결합니다.",
+      "반복해서 읽는 것은 나오지 않습니다.",
+      "모든 세부 사항을 쓰라는 내용은 나오지 않습니다."
+    ],
+    "trap": "예시의 '구름', '열쇠' 같은 낱말에 끌려 세부 내용을 결론으로 착각하지 마세요.",
+    "tip": "앞 문장(gives each fact a place and a reason)이 정답의 근거입니다."
+  },
+  {
+    "id": "m3b-28-32",
+    "level": "m3",
+    "set": "mock-28",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "When you start learning a new skill, such as playing the guitar or speaking a new language, you improve quickly at first. Every week you can see clear progress, and this makes you feel excited. After a while, however, the progress seems to stop. Psychologists call this period a plateau. Many learners feel disappointed during a plateau and think that they have reached their limit, so they give up. In fact, the brain is still working during this time. It is organizing what you have learned and building stronger connections, much like a builder who spends days on the foundation before the walls can rise. Skills often make a sudden jump after the plateau ends. People who become experts are not always the most talented; they are the ones who __________ even when progress seems slow.",
+    "options": [
+      "compare themselves with others every single day",
+      "choose a new hobby whenever practice becomes difficult",
+      "avoid practicing until they feel completely ready",
+      "keep practicing patiently",
+      "spend all of their money on expensive equipment"
+    ],
+    "answer": 3,
+    "translation": "기타 연주나 새 언어 말하기 같은 새로운 기술을 배우기 시작하면 처음에는 빠르게 향상된다. 매주 뚜렷한 발전을 볼 수 있어서 신이 난다. 그러나 얼마 뒤에는 발전이 멈춘 것 같다. 심리학자들은 이 기간을 정체기라고 부른다. 많은 학습자가 정체기에 실망하고 한계에 도달했다고 생각해서 포기한다. 사실 이 시기에도 뇌는 계속 일하고 있다. 배운 것을 정리하고 더 단단한 연결을 만들고 있으며, 벽이 올라가기 전에 며칠을 기초에 쓰는 건축가와 비슷하다. 기술은 정체기가 끝난 뒤 갑자기 도약하는 경우가 많다. 전문가가 되는 사람은 항상 가장 재능 있는 사람이 아니다. 그들은 발전이 느려 보여도 참을성 있게 계속 연습하는 사람이다.",
+    "why": "정체기에도 뇌는 일하고 있으므로 발전이 느려 보여도 참을성 있게 계속 연습하는 사람이 전문가가 됩니다.",
+    "optionNotes": [
+      "남과 비교하라는 내용은 나오지 않습니다.",
+      "새 취미로 옮기라는 내용은 글과 반대입니다.",
+      "연습을 피하라는 내용은 글과 반대입니다.",
+      "정답. 참을성 있게 계속 연습합니다.",
+      "장비에 돈을 쓰라는 내용은 나오지 않습니다."
+    ],
+    "trap": "'most talented'가 나온다고 재능이 결론이라고 착각하지 마세요.",
+    "tip": "'not always A; they are the ones who B'의 B가 정답 단서입니다."
+  },
+  {
+    "id": "m3b-28-33",
+    "level": "m3",
+    "set": "mock-28",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Gestures are a useful part of communication, but their meanings are not the same everywhere. In many countries, making a circle with your thumb and finger means that everything is fine. In Japan, however, the same sign can mean money, and in some other places it is considered rude. The thumbs-up sign is a friendly symbol in many countries, yet in a few regions it is an insulting gesture. Even a simple nod can cause confusion. Most people nod to say yes, but in a few countries it can mean no. Because of these differences, travelers sometimes cause misunderstandings without meaning to. Before you visit a new country, it is wise to learn about the local customs. These examples show that __________.",
+    "options": [
+      "body language is easier to learn than any other spoken language",
+      "people who travel often become good at dancing",
+      "the same gesture can mean different things across cultures",
+      "a nod is the most polite way to greet strangers",
+      "road signs are the same all over the world"
+    ],
+    "answer": 2,
+    "translation": "몸짓은 의사소통의 유용한 부분이지만 그 의미는 어디서나 같지 않다. 많은 나라에서 엄지와 검지로 원을 만들면 모든 것이 괜찮다는 뜻이다. 그러나 일본에서는 같은 신호가 돈을 뜻할 수 있고 다른 몇몇 곳에서는 무례하게 여겨진다. 엄지를 치켜세우는 신호는 많은 나라에서 친근한 상징이지만 몇몇 지역에서는 모욕적인 몸짓이다. 단순한 끄덕임조차 혼란을 일으킬 수 있다. 대부분의 사람은 예라고 말하려고 고개를 끄덕이지만 몇몇 나라에서는 아니라는 뜻일 수 있다. 이런 차이 때문에 여행자들은 때때로 의도치 않게 오해를 일으킨다. 새로운 나라를 방문하기 전에 현지 관습을 알아 두는 것이 현명하다. 이 예들은 같은 몸짓이 문화에 따라 다른 뜻일 수 있음을 보여 준다.",
+    "why": "같은 신호가 나라마다 다른 뜻을 가지는 예를 들었으므로 같은 몸짓이 문화에 따라 다른 의미일 수 있다는 것이 결론입니다.",
+    "optionNotes": [
+      "몸짓이 더 배우기 쉽다는 내용은 나오지 않습니다.",
+      "춤은 나오지 않습니다.",
+      "정답. 같은 몸짓도 문화에 따라 뜻이 다릅니다.",
+      "끄덕임이 가장 정중하다는 내용은 나오지 않습니다.",
+      "도로 표지판은 나오지 않습니다."
+    ],
+    "trap": "'nod'를 결론으로 착각해 인사 방법(④)을 고르지 마세요.",
+    "tip": "여러 예시가 공통으로 가리키는 일반 진술을 정답으로 고르세요."
+  },
+  {
+    "id": "m3b-28-34",
+    "level": "m3",
+    "set": "mock-28",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Most of us try to avoid being bored. As soon as we have a free moment, we take out our phones to watch videos or check messages. However, researchers have found that boredom can actually be useful. In one experiment, people were asked to copy numbers from a phone book for fifteen minutes, which is a very boring task. Afterward, they were asked to think of as many uses for a plastic cup as possible. Those who had done the boring task came up with more creative ideas than those who had not. The researchers explained that when our minds have nothing to do, they begin to wander. While wandering, the mind connects ideas that seemed unrelated. If we fill every empty moment with entertainment, we lose chances to be creative. In other words, boredom is valuable because __________.",
+    "options": [
+      "it makes our eyes feel tired and sleepy",
+      "it is a sign that we are lazy and weak",
+      "it teaches us how to remember phone numbers",
+      "it helps us stay away from every kind of danger",
+      "it lets the mind wander and join separate ideas into new, creative ones"
+    ],
+    "answer": 4,
+    "translation": "우리 대부분은 지루함을 피하려 한다. 여유가 생기자마자 휴대전화를 꺼내 동영상을 보거나 메시지를 확인한다. 그러나 연구자들은 지루함이 실제로 유용할 수 있음을 발견했다. 한 실험에서 사람들은 매우 지루한 일인 전화번호부의 숫자를 십오 분 동안 베껴 쓰도록 요청받았다. 그 뒤 그들은 플라스틱 컵의 용도를 가능한 한 많이 생각해 내도록 요청받았다. 지루한 일을 한 사람들은 하지 않은 사람들보다 더 창의적인 아이디어를 내놓았다. 연구자들은 마음이 할 일이 없으면 떠돌기 시작한다고 설명했다. 떠도는 동안 마음은 관련 없어 보이던 생각들을 연결한다. 빈 순간마다 오락으로 채우면 창의적일 기회를 잃는다. 다시 말해 지루함이 가치 있는 것은 마음이 떠돌며 서로 떨어진 생각을 새롭고 창의적인 생각으로 연결하게 하기 때문이다.",
+    "why": "마음이 떠돌며 관련 없던 생각을 연결해 창의적이 되므로 지루함은 가치가 있습니다.",
+    "optionNotes": [
+      "눈의 피로는 나오지 않습니다.",
+      "게으름의 신호라는 내용은 나오지 않습니다.",
+      "전화번호를 외우는 것은 실험 과제일 뿐 결론이 아닙니다.",
+      "위험을 피한다는 내용은 나오지 않습니다.",
+      "정답. 마음이 떠돌며 생각을 연결해 창의적이 됩니다."
+    ],
+    "trap": "실험 과제(전화번호부 베껴 쓰기)를 결론(③)으로 착각하지 마세요.",
+    "tip": "In other words 뒤의 빈칸은 바로 앞 설명(wander, connect ideas)을 요약합니다."
+  },
+  {
+    "id": "m3b-28-35",
+    "level": "m3",
+    "set": "mock-28",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Every year, people around the world use millions of tons of paper, so recycling it is more important than ever. Recycling paper is good for the environment in several ways. ① Making new paper from old paper uses much less water and energy than making it from fresh wood. ② It also protects forests, because fewer trees need to be cut down to produce paper. ③ Many students enjoy joining sports clubs after school to make new friends. ④ In addition, recycling reduces the amount of waste sent to landfills, where paper slowly breaks down and releases harmful gases. ⑤ To help, you can separate paper from other trash and keep it clean and dry so that it can be reused.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "해마다 전 세계 사람들은 수백만 톤의 종이를 쓰므로 종이를 재활용하는 것이 그 어느 때보다 중요하다. 종이를 재활용하는 것은 여러 면에서 환경에 좋다. ① 헌 종이로 새 종이를 만드는 것은 생나무로 만드는 것보다 물과 에너지를 훨씬 적게 쓴다. ② 또 종이를 만드느라 베어야 하는 나무가 줄어들어 숲도 보호한다. ③ 많은 학생이 새 친구를 사귀려고 방과 후 운동 동아리에 가입하는 것을 즐긴다. ④ 게다가 재활용은 매립지로 가는 쓰레기의 양을 줄이는데, 매립지에서 종이는 천천히 분해되며 해로운 기체를 내보낸다. ⑤ 도우려면 종이를 다른 쓰레기와 분리하고 다시 쓸 수 있도록 깨끗하고 마르게 보관하라.",
+    "why": "글은 종이 재활용의 장점을 설명하는데 ③은 운동 동아리에 관한 별개의 이야기입니다.",
+    "optionNotes": [
+      "물과 에너지를 아낀다는 장점입니다.",
+      "숲을 보호한다는 장점입니다.",
+      "정답(무관). 운동 동아리 이야기라 관계가 없습니다.",
+      "매립지 쓰레기를 줄인다는 장점입니다.",
+      "재활용을 돕는 방법입니다."
+    ],
+    "trap": "학교 생활이라 친숙해 보여도 주제(종이 재활용)와 무관합니다.",
+    "tip": "각 문장이 '종이 재활용'과 직접 연결되는지 확인하세요."
+  },
+  {
+    "id": "m3b-28-36",
+    "level": "m3",
+    "set": "mock-28",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Many people try to walk ten thousand steps every day. Surprisingly, this famous goal did not come from medical research.\n(A) Soon, the number became a popular goal. Fitness companies around the world began to use it in their devices and smartphone applications, and doctors often repeated it to their patients.\n(B) It began in Japan in 1965, when a company sold a pedometer called Manpo-kei, which means \"ten-thousand-step meter.\" The name sounded catchy and easy to remember, and it was sold widely as a way to stay healthy.\n(C) Later studies, however, showed that health benefits begin at much lower numbers. Walking about seven or eight thousand steps a day is already helpful. Still, ten thousand remains a good symbol of an active life.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 1,
+    "translation": "많은 사람이 날마다 만 보를 걸으려 한다. 놀랍게도 이 유명한 목표는 의학 연구에서 나온 것이 아니다. (B) 그것은 1965년 일본에서 시작되었는데, 한 회사가 '만 보 계'를 뜻하는 만포계라는 만보기를 팔았다. 이름이 귀에 쏙 들어오고 기억하기 쉬웠으며 건강을 유지하는 방법으로 널리 팔렸다. (A) 곧 그 숫자는 인기 있는 목표가 되었다. 전 세계의 피트니스 회사가 기기와 스마트폰 앱에 그것을 쓰기 시작했고 의사들도 환자에게 자주 되풀이했다. (C) 그러나 나중의 연구는 건강상의 이점이 훨씬 낮은 숫자에서 시작됨을 보여 주었다. 하루에 칠팔천 보만 걸어도 이미 도움이 된다. 그래도 만 보는 활동적인 삶의 좋은 상징으로 남아 있다.",
+    "why": "(B) 만보기에서 시작됨 → (A) 'Soon' 인기 있는 목표가 됨 → (C) 'Later studies' 더 낮은 숫자도 도움이 됨 순서입니다.",
+    "optionNotes": [
+      "(A)의 'the number'가 가리킬 숫자의 유래가 먼저 나와야 합니다.",
+      "정답. 유래 → 인기 → 후속 연구.",
+      "(C)가 (A)보다 먼저 올 수 없습니다.",
+      "(C)의 'Later studies'가 처음에 올 수 없습니다.",
+      "(C)가 맨 앞에 올 수 없습니다."
+    ],
+    "trap": "(C)의 'Still'은 앞선 두 사건에 대한 결론입니다.",
+    "tip": "began → Soon → Later의 시간 표현을 따라가세요."
+  },
+  {
+    "id": "m3b-28-37",
+    "level": "m3",
+    "set": "mock-28",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Minseo's family moved to a new town last month, and she did not know anyone at her new school. Every morning she walked to class alone, hoping that someone would say hello.\n(A) On the first day at the cafeteria, she sat at the end of a long table and quietly opened her lunch box. Around her, students were laughing and sharing stories, and she felt invisible.\n(B) From that day, the two girls ate lunch together every day. Minseo no longer felt lonely, and she learned that a small question can be the beginning of a friendship.\n(C) Then a girl sitting next to her noticed the rice rolls in her lunch box and asked, \"Did your mom make those? They look delicious.\" Minseo was surprised, but she smiled and offered her one.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "민서의 가족은 지난달 새 마을로 이사했고 그녀는 새 학교에서 아는 사람이 아무도 없었다. 날마다 아침에 그녀는 누군가 인사해 주기를 바라며 혼자 교실로 걸어갔다. (A) 급식실에서의 첫날, 그녀는 긴 식탁 끝에 앉아 조용히 도시락을 열었다. 주변에서는 학생들이 웃으며 이야기를 나누고 있었고 그녀는 보이지 않는 사람이 된 것 같았다. (C) 그때 옆에 앉은 한 소녀가 그녀의 도시락 속 김밥을 보고 물었다. \"너희 엄마가 만들어 주셨어? 맛있어 보여.\" 민서는 놀랐지만 웃으며 하나를 권했다. (B) 그날부터 두 소녀는 날마다 함께 점심을 먹었다. 민서는 더는 외롭지 않았고 작은 질문이 우정의 시작이 될 수 있음을 배웠다.",
+    "why": "(A) 급식실에서 혼자 앉음 → (C) 옆 소녀가 말을 건넴 → (B) 'From that day' 함께 점심을 먹음 순서입니다.",
+    "optionNotes": [
+      "정답. 혼자 앉음 → 말 건넴 → 함께 점심.",
+      "(B)의 'the two girls'가 가리킬 만남이 앞에 없습니다.",
+      "(B)가 먼저 올 수 없습니다.",
+      "(C)의 'a girl sitting next to her'가 상황 설명 없이 올 수 없습니다.",
+      "(C)가 먼저 오면 장면 설정이 빠집니다."
+    ],
+    "trap": "(B)의 'the two girls'는 (C)에서 만난 두 사람입니다.",
+    "tip": "On the first day → Then → From that day의 흐름을 따라가세요."
+  },
+  {
+    "id": "m3b-28-38",
+    "level": "m3",
+    "set": "mock-28",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThe second group read it only once, but then tried to write down everything they could remember.\n\n[글]\n( ① ) In one experiment, a group of students read a short article about volcanoes twice. ( ② ) A week later, both groups answered questions about the article. ( ③ ) The first group remembered about forty percent of the facts. ( ④ ) The second group remembered about sixty percent. ( ⑤ ) The researchers concluded that trying to recall information strengthens memory more than simply reading it again, so students should test themselves while studying.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "[주어진 문장] 두 번째 집단은 그것을 한 번만 읽었지만 그 뒤 기억나는 모든 것을 써 보려고 했다. [글] 한 실험에서 한 집단의 학생들이 화산에 관한 짧은 글을 두 번 읽었다. 일주일 뒤 두 집단 모두 그 글에 관한 질문에 답했다. 첫 번째 집단은 사실의 약 40퍼센트를 기억했다. 두 번째 집단은 약 60퍼센트를 기억했다. 연구자들은 정보를 떠올리려는 노력이 단순히 다시 읽는 것보다 기억을 더 강화한다고 결론지었고, 따라서 학생들은 공부하는 동안 스스로 시험해 보아야 한다.",
+    "why": "첫 집단이 글을 두 번 읽었다는 설명 뒤에 두 번째 집단의 방식이 소개되어야 'both groups'가 자연스럽게 이어지므로 ②에 들어갑니다.",
+    "optionNotes": [
+      "'The second group'이 가리킬 첫 집단이 아직 소개되지 않았습니다.",
+      "정답. 첫 집단의 설명 뒤에 두 번째 집단이 소개되고 'both groups'가 이어집니다.",
+      "'both groups'로 이미 두 집단이 나온 뒤라 늦습니다.",
+      "결과를 비교하는 도중에 방식 설명이 끼면 어색합니다.",
+      "결론 직전에 방식을 소개하는 것은 어색합니다."
+    ],
+    "trap": "'both groups' 앞에 두 집단의 설명이 모두 있어야 함을 놓치기 쉽습니다.",
+    "tip": "'The second group'은 앞에 'the first/one group'이 나온 직후에 놓입니다."
+  },
+  {
+    "id": "m3b-28-39",
+    "level": "m3",
+    "set": "mock-28",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nAs a result, the village now has clean water all year.\n\n[글]\n( ① ) For many years, people in the village of Dalo had to walk three kilometers to get clean water, and in the dry season even that water was often unsafe to drink. ( ② ) In 2019, volunteers helped them dig a deep well and install a small solar pump. ( ③ ) It has also changed daily life: children who once carried heavy buckets for hours now spend their mornings at school. ( ④ ) Mothers have more time to work in the fields and sell vegetables at the market. ( ⑤ ) Other villages nearby have asked the volunteers to help them build similar wells.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "[주어진 문장] 그 결과 마을에는 이제 일 년 내내 깨끗한 물이 있다. [글] 여러 해 동안 달로 마을 사람들은 깨끗한 물을 얻으려고 삼 킬로미터를 걸어야 했고 건기에는 그 물조차 마시기에 안전하지 않은 경우가 많았다. 2019년 자원봉사자들은 그들이 깊은 우물을 파고 작은 태양광 펌프를 설치하도록 도왔다. 그것은 일상도 바꾸었다. 한때 몇 시간씩 무거운 양동이를 나르던 아이들이 이제 아침 시간을 학교에서 보낸다. 어머니들은 밭에서 일하고 시장에서 채소를 팔 시간이 더 많아졌다. 근처의 다른 마을들도 자원봉사자들에게 비슷한 우물을 만들도록 도와 달라고 요청했다.",
+    "why": "우물과 펌프를 설치한 일의 결과로 일 년 내내 깨끗한 물이 생겼다고 말한 뒤, 'It has also changed daily life'가 이어지므로 ③에 들어갑니다.",
+    "optionNotes": [
+      "'As a result'가 이을 원인이 아직 없습니다.",
+      "원인인 우물 설치를 말한 문장 직전이라 결과가 먼저 올 수 없습니다.",
+      "정답. 우물 설치의 결과 뒤에 'It has also changed ~'가 이어집니다.",
+      "생활 변화를 설명하는 도중에 끼면 'It'의 지시 대상이 모호해집니다.",
+      "다른 마을 이야기 직전에 오면 흐름이 맞지 않습니다."
+    ],
+    "trap": "③ 뒤의 'It'이 가리키는 것이 '깨끗한 물이 생긴 것'이어야 함을 놓치기 쉽습니다.",
+    "tip": "As a result는 원인 문장의 바로 뒤에 놓입니다."
+  },
+  {
+    "id": "m3b-28-40",
+    "level": "m3",
+    "set": "mock-28",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Last spring, Greenhill Middle School turned an empty corner of the schoolyard into a vegetable garden. Every class took responsibility for one row, and the students planted tomatoes, lettuce, and beans. They watered the plants before school and weeded them after lunch. At first, many students complained that the work was boring and dirty. However, when the first tomatoes turned red, everyone was excited. The students cooked a salad together and shared it with the teachers. Many of them said that they had never realized how much effort goes into growing food. Teachers also noticed that students who worked in the garden cooperated better and wasted less food in the cafeteria.\n\n▶ Growing vegetables in a school (A) taught students to work together and to (B) food more.",
+    "options": [
+      "(A) library — (B) waste",
+      "(A) kitchen — (B) forget",
+      "(A) garden — (B) value",
+      "(A) stadium — (B) avoid",
+      "(A) laboratory — (B) ignore"
+    ],
+    "answer": 2,
+    "translation": "지난봄 그린힐 중학교는 운동장의 빈 모퉁이를 채소밭으로 바꾸었다. 각 반이 한 이랑씩 책임졌고 학생들은 토마토, 상추, 콩을 심었다. 그들은 등교 전에 식물에 물을 주고 점심 뒤에 잡초를 뽑았다. 처음에는 많은 학생이 일이 지루하고 더럽다고 불평했다. 그러나 첫 토마토가 빨갛게 익자 모두가 신이 났다. 학생들은 함께 샐러드를 만들어 교사들과 나누었다. 많은 학생이 음식을 키우는 데 얼마나 많은 노력이 드는지 몰랐다고 말했다. 교사들은 또 텃밭에서 일한 학생들이 더 잘 협력하고 급식실에서 음식을 덜 남긴다는 것도 알아챘다. ▶ 학교 (A)에서 채소를 키우는 일은 학생들이 함께 일하고 음식을 더 (B)하도록 가르쳤다.",
+    "why": "학교 텃밭에서 채소를 키우며 협력하고 음식의 소중함을 알게 되었으므로 (A)는 garden, (B)는 value입니다.",
+    "optionNotes": [
+      "library와 waste는 글과 맞지 않습니다.",
+      "kitchen과 forget은 글과 맞지 않습니다.",
+      "정답. 텃밭이 협력과 음식의 소중함을 가르쳤습니다.",
+      "stadium과 avoid는 글과 맞지 않습니다.",
+      "laboratory와 ignore는 글과 맞지 않습니다."
+    ],
+    "trap": "샐러드를 만들었다고 kitchen(②)을 고르지 마세요.",
+    "tip": "요약문은 활동 장소(garden)와 결과(value food)를 짝지으세요."
+  }
+]
