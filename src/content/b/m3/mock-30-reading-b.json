@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m3b-30-29",
+    "level": "m3",
+    "set": "mock-30",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "The honey badger is known as one of the most fearless animals in the world. It {1|are} only about the size of a small dog, but it does not hesitate to face lions and snakes. Its skin is thick and loose, so when a predator grabs it, the honey badger can {2|turn} around inside its skin and bite back. It also has a strong resistance to snake venom. After being bitten by a venomous snake, it may sleep for a few hours and then {3|wake} up as if nothing had happened. Honey badgers are clever, too. Some of them have been observed {4|using} sticks and stones as tools to reach food. Because of these amazing abilities, honey badgers {5|are} often called the most fearless animal on Earth.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "벌꿀오소리는 세계에서 가장 겁 없는 동물 중 하나로 알려져 있다. 작은 개 정도의 크기에 불과하지만 사자와 뱀에 맞서는 것을 주저하지 않는다. 피부가 두껍고 헐거워서 포식자가 붙잡으면 벌꿀오소리는 피부 안에서 몸을 돌려 물어 반격할 수 있다. 뱀독에 대한 강한 저항력도 있다. 독사에게 물린 뒤 몇 시간 자고 나서 아무 일도 없었던 것처럼 깨어날 수 있다. 벌꿀오소리는 영리하기도 하다. 일부는 먹이에 닿으려고 막대기와 돌을 도구로 쓰는 모습이 관찰되었다. 이런 놀라운 능력 덕분에 벌꿀오소리는 지구에서 가장 겁 없는 동물이라고 자주 불린다.",
+    "why": "주어 It이 3인칭 단수이므로 are가 아니라 is여야 합니다.",
+    "optionNotes": [
+      "정답(틀린 것). 3인칭 단수 주어 It에는 is여야 합니다.",
+      "can 뒤의 동사원형 turn입니다.",
+      "may sleep and then 뒤의 동사원형 wake입니다.",
+      "observed 뒤에서 동시 동작을 나타내는 using입니다.",
+      "복수 주어 honey badgers에 맞는 are입니다."
+    ],
+    "trap": "뒤에 복수 명사(lions and snakes)가 있어 are로 착각하기 쉽습니다.",
+    "tip": "주어(It)의 수를 확인해 be동사를 고르세요."
+  },
+  {
+    "id": "m3b-30-30",
+    "level": "m3",
+    "set": "mock-30",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Planting trees is one of the most {1|effective} ways to help the planet. Trees take in carbon dioxide, a gas that {2|cools} the planet when too much of it collects in the air. Their shade lowers the temperature of nearby buildings, so people use less {3|electricity} for air conditioning. Tree roots hold the soil together and {4|prevent} floods and landslides during heavy rain. Even a small tree can {5|support} many insects, birds, and small animals. You do not need a large garden to take part. Many cities hold tree-planting events every spring, and anyone can join. A tree that you plant today may continue to give clean air and shade to people for a hundred years.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "나무 심기는 지구를 돕는 가장 효과적인 방법 중 하나이다. 나무는 공기 중에 너무 많이 모이면 지구를 식히는 기체인 이산화탄소를 흡수한다. 나무 그늘은 가까운 건물의 온도를 낮추어 사람들이 냉방에 전기를 덜 쓰게 한다. 나무뿌리는 흙을 붙잡아 폭우 때 홍수와 산사태를 막는다. 작은 나무도 많은 곤충, 새, 작은 동물을 부양할 수 있다. 참여하려고 큰 정원이 필요한 것은 아니다. 많은 도시가 봄마다 나무 심기 행사를 열며 누구나 참여할 수 있다. 오늘 심은 나무는 백 년 동안 사람들에게 맑은 공기와 그늘을 줄 수 있다.",
+    "why": "이산화탄소는 너무 많이 모이면 지구를 '따뜻하게(warms)' 하는 기체이므로 cools는 부적절합니다.",
+    "optionNotes": [
+      "효과적인 방법이라는 의미로 effective가 알맞습니다.",
+      "정답(부적절). 이산화탄소는 지구를 따뜻하게 하므로 warms여야 합니다.",
+      "전기를 덜 쓴다는 의미로 electricity가 알맞습니다.",
+      "홍수를 막는다는 의미로 prevent가 알맞습니다.",
+      "동물을 부양한다는 의미로 support가 알맞습니다."
+    ],
+    "trap": "나무가 지구를 돕는다는 큰 흐름 때문에 이산화탄소의 성질을 잘못 이해하기 쉽습니다.",
+    "tip": "과학적 사실(이산화탄소는 온난화 기체)과 낱말의 의미가 맞는지 확인하세요."
+  },
+  {
+    "id": "m3b-30-31",
+    "level": "m3",
+    "set": "mock-30",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "GPS has made travel easy. We simply type in an address and follow a voice that tells us where to turn. However, researchers have found that people who always follow GPS directions remember routes less well than those who use paper maps. In one study, brain activity related to navigation was lower in people who depended on GPS. On the other hand, London taxi drivers, who must memorize thousands of streets, were found to have a larger area of the brain related to spatial memory. In other words, the brain learns by working. Like a muscle, this ability grows when it is used and becomes weaker when it is not. If we rely on GPS for every trip, we may __________.",
+    "options": [
+      "travel much faster than we ever could before",
+      "gradually remember too many streets and maps",
+      "slowly lose our own sense of direction",
+      "become more careful drivers on every road",
+      "enjoy our journeys without any problems"
+    ],
+    "answer": 2,
+    "translation": "GPS는 여행을 쉽게 만들었다. 우리는 주소를 입력하고 어디서 돌아야 하는지 알려 주는 목소리를 따르기만 하면 된다. 그러나 연구자들은 늘 GPS 안내를 따르는 사람이 종이 지도를 쓰는 사람보다 길을 덜 잘 기억한다는 것을 발견했다. 한 연구에서 길 찾기와 관련된 뇌 활동이 GPS에 의존하는 사람에게서 더 낮았다. 반면 수천 개의 거리를 외워야 하는 런던 택시 기사들은 공간 기억과 관련된 뇌 영역이 더 큰 것으로 나타났다. 다시 말해 뇌는 일하면서 배운다. 근육처럼 이 능력은 쓸 때 자라고 쓰지 않으면 약해진다. 모든 이동을 GPS에 의존하면 우리는 서서히 자신의 방향 감각을 잃을 수 있다.",
+    "why": "길 찾기 능력은 근육처럼 쓰지 않으면 약해지므로 GPS에 의존하면 서서히 방향 감각을 잃을 수 있습니다.",
+    "optionNotes": [
+      "더 빨리 여행한다는 내용은 나오지 않습니다.",
+      "너무 많은 거리를 기억한다는 내용은 글과 반대입니다.",
+      "정답. 서서히 방향 감각을 잃을 수 있습니다.",
+      "더 조심스러운 운전자가 된다는 내용은 나오지 않습니다.",
+      "문제 없이 즐긴다는 내용은 글과 반대입니다."
+    ],
+    "trap": "'travel easy'라는 첫 문장만 보고 긍정적 결론을 고르지 마세요.",
+    "tip": "'Like a muscle ~ becomes weaker when it is not (used)'가 정답의 직접 근거입니다."
+  },
+  {
+    "id": "m3b-30-32",
+    "level": "m3",
+    "set": "mock-30",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Imagine two friends, Mina and Jun. Mina saves twenty dollars every month from age fifteen to twenty-five, and then she stops. Jun waits until twenty-five, but he saves the same twenty dollars every month for forty years. Surprisingly, their savings may end up similar, or even larger for Mina. This happens because of compound interest. Interest is paid on the money you save, and in the next period, it is also paid on the interest that you already earned. As the years pass, your money grows faster and faster, like a snowball rolling down a hill. Mina's money had more years to grow, so it could use this effect for a longer time. When we save money, time can be as powerful as __________.",
+    "options": [
+      "a bank that closes early on weekends",
+      "the color of the coin in your pocket",
+      "a friend who always spends too much",
+      "the type of bag that holds our wallets",
+      "the amount of money that we save"
+    ],
+    "answer": 4,
+    "translation": "두 친구 미나와 준을 상상해 보자. 미나는 열다섯 살부터 스물다섯 살까지 매달 이십 달러를 저축하고 그 뒤에 그만둔다. 준은 스물다섯 살까지 기다렸다가 사십 년 동안 매달 같은 이십 달러를 저축한다. 놀랍게도 그들의 저축은 비슷하거나 미나가 더 클 수도 있다. 이는 복리 때문이다. 이자는 저축한 돈에 붙고 다음 기간에는 이미 번 이자에도 붙는다. 세월이 지나면 돈은 언덕을 굴러 내려가는 눈덩이처럼 점점 더 빨리 불어난다. 미나의 돈은 자랄 시간이 더 많아서 이 효과를 더 오래 쓸 수 있었다. 돈을 저축할 때 시간은 저축하는 금액만큼 강력할 수 있다.",
+    "why": "미나의 돈은 자랄 시간이 더 길어서 복리 효과를 더 오래 누렸으므로 시간은 저축하는 금액만큼 강력할 수 있습니다.",
+    "optionNotes": [
+      "주말 은행 시간은 나오지 않습니다.",
+      "동전의 색은 나오지 않습니다.",
+      "친구의 소비 습관은 나오지 않습니다.",
+      "지갑을 담는 가방은 나오지 않습니다.",
+      "정답. 시간은 저축하는 금액만큼 강력할 수 있습니다."
+    ],
+    "trap": "'forty years'가 더 길어 준이 이길 것이라는 선입견을 조심하세요.",
+    "tip": "'Mina's money had more years to grow'가 정답의 근거입니다."
+  },
+  {
+    "id": "m3b-30-33",
+    "level": "m3",
+    "set": "mock-30",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Every night, we dream, yet scientists still debate why. One popular idea is that dreaming is connected to memory. During the day, our brain takes in a huge amount of information: faces, words, sounds, and feelings. It cannot keep everything. If it tried to store every detail, our memory would be crowded with useless information. Scientists call this process memory consolidation. While we sleep, the brain replays the events of the day and decides which memories are important. In one experiment, students who slept after learning a new task performed better the next day than students who stayed awake. Brain scans also showed that the same areas used during learning became active again during sleep. These results suggest that during sleep, our brains __________.",
+    "options": [
+      "stop working and rest completely until morning",
+      "create new faces that we have never met before",
+      "sort out and store what we learned that day",
+      "forget everything that happened in the past week",
+      "become unable to feel any emotions at all"
+    ],
+    "answer": 2,
+    "translation": "우리는 매일 밤 꿈을 꾸지만 과학자들은 왜 그런지 아직 논쟁한다. 널리 알려진 한 생각은 꿈이 기억과 관련 있다는 것이다. 낮 동안 우리의 뇌는 얼굴, 낱말, 소리, 감정 같은 엄청난 정보를 받아들인다. 모든 것을 간직할 수는 없다. 모든 세부 사항을 저장하려 하면 기억이 쓸모없는 정보로 가득 찰 것이다. 과학자들은 이 과정을 기억 공고화라고 부른다. 우리가 자는 동안 뇌는 그날의 사건을 다시 재생하고 어떤 기억이 중요한지 결정한다. 한 실험에서 새 과제를 배운 뒤 잔 학생들은 깨어 있던 학생들보다 다음 날 더 잘 해냈다. 뇌 스캔도 학습할 때 쓰인 같은 영역이 수면 중 다시 활성화됨을 보여 주었다. 이 결과는 자는 동안 우리의 뇌가 낮에 배운 것을 정리하고 저장한다는 것을 시사한다.",
+    "why": "자는 동안 뇌가 그날의 사건을 재생하고 중요한 기억을 정하므로 낮에 배운 것을 정리하고 저장합니다.",
+    "optionNotes": [
+      "완전히 쉰다는 내용은 글과 반대입니다.",
+      "새 얼굴을 만든다는 내용은 나오지 않습니다.",
+      "정답. 낮에 배운 것을 정리하고 저장합니다.",
+      "지난주 기억을 잊는다는 내용은 나오지 않습니다.",
+      "감정을 느끼지 못한다는 내용은 나오지 않습니다."
+    ],
+    "trap": "꿈이라는 소재 때문에 상상의 얼굴(②)을 고르지 마세요.",
+    "tip": "실험 결과(sleep → performed better)가 정답의 근거입니다."
+  },
+  {
+    "id": "m3b-30-34",
+    "level": "m3",
+    "set": "mock-30",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Imagine that a patient takes a pill and feels better, but the pill contains only sugar. This is called the placebo effect. In many studies, patients who received fake pills reported less pain or fewer symptoms than those who received no treatment at all. Brain scans show that the body can actually release natural painkillers when a person expects to feel better. The effect is stronger when the pill is large, expensive, or given by a confident doctor. Even when patients know that the pill is a placebo, some of them still report feeling better. Of course, a placebo cannot cure serious diseases, and doctors must be honest with patients. Still, the placebo effect shows that the mind and body are closely connected. In short, __________.",
+    "options": [
+      "sugar is the most powerful medicine in the world",
+      "doctors should never give any pills to patients",
+      "expensive pills always work better than cheap ones",
+      "believing that a treatment will work can make people actually feel better",
+      "the body cannot feel pain when the mind is busy"
+    ],
+    "answer": 3,
+    "translation": "환자가 알약을 먹고 나아졌는데 그 약에 설탕만 들어 있었다고 상상해 보자. 이것을 위약 효과라고 한다. 많은 연구에서 가짜 약을 받은 환자들은 아무 치료도 받지 않은 환자들보다 통증이나 증상이 적다고 보고했다. 뇌 스캔은 사람이 나아질 것이라고 기대할 때 몸이 실제로 자연 진통제를 내보낼 수 있음을 보여 준다. 알약이 크거나 비싸거나 자신감 있는 의사가 주면 효과가 더 강하다. 환자가 그 약이 위약임을 알아도 일부는 여전히 나아졌다고 보고한다. 물론 위약은 심각한 병을 고칠 수 없고 의사는 환자에게 정직해야 한다. 그래도 위약 효과는 마음과 몸이 밀접하게 연결되어 있음을 보여 준다. 요컨대 치료가 효과가 있을 것이라고 믿으면 사람들이 실제로 더 나아졌다고 느낄 수 있다.",
+    "why": "기대만으로도 몸이 자연 진통제를 내보내므로 치료가 효과가 있을 것이라는 믿음이 실제로 기분을 낫게 할 수 있습니다.",
+    "optionNotes": [
+      "설탕이 가장 강력한 약이라는 내용은 나오지 않습니다.",
+      "알약을 주지 말라는 내용은 나오지 않습니다.",
+      "비싼 약이 항상 낫다는 내용은 과장입니다.",
+      "정답. 믿음이 실제로 기분을 낫게 할 수 있습니다.",
+      "마음이 바쁘면 통증을 못 느낀다는 내용은 나오지 않습니다."
+    ],
+    "trap": "'expensive'가 나온다고 비싼 약이 항상 낫다(③)고 일반화하지 마세요.",
+    "tip": "In short 뒤 빈칸은 글 전체의 결론을 요약하는 문장입니다."
+  },
+  {
+    "id": "m3b-30-35",
+    "level": "m3",
+    "set": "mock-30",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Stretching before and after exercise is important for keeping your body healthy. Many people skip it because they are in a hurry, but a few minutes can make a big difference. ① Stretching warms up your muscles and makes them less likely to be injured. ② It also improves your flexibility, so you can move more freely. ③ The Great Wall of China is thousands of kilometers long and was built over many centuries. ④ After exercise, gentle stretching helps your muscles to relax and reduces soreness the next day. ⑤ For the best results, hold each stretch for about twenty seconds without bouncing.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "운동 전후의 스트레칭은 몸을 건강하게 유지하는 데 중요하다. 많은 사람이 바빠서 건너뛰지만 몇 분이 큰 차이를 만들 수 있다. ① 스트레칭은 근육을 풀어 주어 다칠 가능성을 줄인다. ② 또 유연성을 높여 더 자유롭게 움직일 수 있다. ③ 만리장성은 길이가 수천 킬로미터에 달하며 여러 세기에 걸쳐 지어졌다. ④ 운동 후에는 부드러운 스트레칭이 근육을 이완시키고 다음 날의 근육통을 줄여 준다. ⑤ 최상의 결과를 위해서는 튕기지 말고 각 동작을 이십 초쯤 유지하라.",
+    "why": "글은 스트레칭의 장점과 방법을 설명하는데 ③은 만리장성에 관한 별개의 이야기입니다.",
+    "optionNotes": [
+      "부상 예방의 장점입니다.",
+      "유연성 향상의 장점입니다.",
+      "정답(무관). 만리장성 이야기라 관계가 없습니다.",
+      "근육 이완의 장점입니다.",
+      "스트레칭 방법입니다."
+    ],
+    "trap": "앞뒤가 모두 운동 이야기이므로 갑자기 나온 별개 주제를 놓치기 쉽습니다.",
+    "tip": "각 문장이 '스트레칭'과 직접 연결되는지 확인하세요."
+  },
+  {
+    "id": "m3b-30-36",
+    "level": "m3",
+    "set": "mock-30",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Today, almost every dining table has a fork, but people did not always eat with one.\n(A) By the eighteenth century, forks had become common across Europe, and people created different shapes for different foods, such as salad forks and fish forks.\n(B) The fork first appeared in the Byzantine Empire, and a story says that a Byzantine princess used a small golden fork at her wedding in Italy. Many people were shocked, and some church leaders said that touching food with metal instead of the hands was an insult to God.\n(C) For several centuries after that, forks were rare in most of Europe. People mostly ate with their hands and knives. Gradually, wealthy Italians began to use forks, and the habit slowly spread to other countries.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 2,
+    "translation": "오늘날 거의 모든 식탁에 포크가 있지만 사람들이 항상 포크로 먹은 것은 아니다. (B) 포크는 처음에 비잔티움 제국에서 나타났고, 한 비잔티움 공주가 이탈리아에서 열린 결혼식에서 작은 황금 포크를 썼다는 이야기가 있다. 많은 사람이 충격을 받았고 일부 교회 지도자는 손 대신 금속으로 음식을 만지는 것은 신에 대한 모욕이라고 말했다. (C) 그 뒤 몇 세기 동안 포크는 유럽 대부분에서 드물었다. 사람들은 주로 손과 칼로 먹었다. 점차 부유한 이탈리아 사람들이 포크를 쓰기 시작했고 습관은 천천히 다른 나라로 퍼졌다. (A) 18세기에 이르러 포크는 유럽 전역에서 흔해졌고 사람들은 샐러드 포크와 생선 포크처럼 음식마다 다른 모양을 만들었다.",
+    "why": "(B) 처음 등장했을 때의 반응 → (C) 'After that' 몇 세기 동안 드물다가 점차 퍼짐 → (A) 18세기에 흔해짐 순서입니다.",
+    "optionNotes": [
+      "(A)의 18세기 장면이 처음 등장보다 먼저 올 수 없습니다.",
+      "(A)가 (C)의 점진적 확산보다 먼저 올 수 없습니다.",
+      "정답. 등장 → 점진적 확산 → 18세기에 흔해짐.",
+      "(C)의 'After that'이 가리킬 앞 내용이 없습니다.",
+      "(C)가 맨 앞에 올 수 없습니다."
+    ],
+    "trap": "(C)의 'After that'은 (B)의 첫 등장과 충격을 가리킵니다.",
+    "tip": "first appeared → For several centuries after that → By the eighteenth century의 시간 흐름을 따라가세요."
+  },
+  {
+    "id": "m3b-30-37",
+    "level": "m3",
+    "set": "mock-30",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "On the morning of the school marathon, Sora felt nervous. She had trained for two months, but this was her first long race, and the course was ten kilometers.\n(A) At the starting line, she took a deep breath and listened for the whistle. When it blew, hundreds of runners rushed forward, and she tried to keep a steady pace instead of following the fast ones.\n(B) She stood up slowly, brushed the dirt from her knee, and started jogging again. She did not win, but when she crossed the finish line, her friends were waiting with a banner that said, \"We are proud of you.\"\n(C) Around the seventh kilometer, her foot caught on a rock, and she fell hard. Her knee was bleeding, and for a moment, she wanted to give up. Then she remembered all the early mornings that she had spent training.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 0,
+    "translation": "학교 마라톤 날 아침 소라는 긴장했다. 두 달 동안 훈련했지만 이번이 첫 장거리 경주였고 코스는 십 킬로미터였다. (A) 출발선에서 그녀는 심호흡을 하고 호루라기 소리를 기다렸다. 호루라기가 울리자 수백 명의 주자가 앞으로 달려 나갔고 그녀는 빠른 주자들을 따라가는 대신 일정한 속도를 유지하려 했다. (C) 7킬로미터쯤에서 발이 돌에 걸려 심하게 넘어졌다. 무릎에서 피가 났고 잠시 포기하고 싶었다. 그때 그녀는 훈련하며 보낸 이른 아침들을 떠올렸다. (B) 그녀는 천천히 일어나 무릎의 흙을 털고 다시 달리기 시작했다. 우승은 못 했지만 결승선을 넘자 친구들이 \"우리는 네가 자랑스러워\"라고 적힌 현수막을 들고 기다리고 있었다.",
+    "why": "(A) 출발선에서 속도를 조절함 → (C) 7킬로미터쯤에서 넘어짐 → (B) 다시 일어나 완주함 순서입니다.",
+    "optionNotes": [
+      "정답. 출발 → 넘어짐 → 일어나 완주.",
+      "(B)의 'She stood up'이 넘어짐보다 먼저 올 수 없습니다.",
+      "(B)가 먼저 올 수 없습니다.",
+      "(C)의 넘어짐이 출발보다 먼저 올 수 없습니다.",
+      "(C)가 먼저 오면 경주의 시작이 빠집니다."
+    ],
+    "trap": "(B)의 'She stood up'은 (C)에서 넘어진 뒤의 행동입니다.",
+    "tip": "At the starting line → Around the seventh kilometer → stood up의 흐름을 따라가세요."
+  },
+  {
+    "id": "m3b-30-38",
+    "level": "m3",
+    "set": "mock-30",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThe cause is thought to be a small change in Earth's orbit, which slowly changed the pattern of rainfall.\n\n[글]\n( ① ) The Sahara is now the largest hot desert in the world. ( ② ) However, thousands of years ago, it was a green land with lakes, grass, and rivers. ( ③ ) Rock paintings found in the area show people hunting animals such as giraffes and hippos. ( ④ ) Over time, the rains weakened, and the grassland slowly turned into sand. ( ⑤ ) Today, scientists study this change to better predict how the climate may change in the future.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "[주어진 문장] 원인은 지구 궤도의 작은 변화로 여겨지며, 이것이 강수 양상을 서서히 바꾸었다. [글] 사하라는 지금 세계에서 가장 큰 뜨거운 사막이다. 그러나 수천 년 전에는 호수, 풀, 강이 있는 푸른 땅이었다. 그 지역에서 발견된 암각화는 사람들이 기린과 하마 같은 동물을 사냥하는 모습을 보여 준다. 시간이 지나면서 비가 약해졌고 초원은 서서히 모래로 변했다. 오늘날 과학자들은 이 변화를 연구해 미래에 기후가 어떻게 변할지 더 잘 예측하려 한다.",
+    "why": "푸른 땅이었다는 증거를 말한 뒤 변화의 원인을 설명하고, 이어서 비가 약해져 사막이 되었다는 결과가 나오므로 ④에 들어갑니다.",
+    "optionNotes": [
+      "'The cause'가 가리킬 변화가 아직 나오지 않았습니다.",
+      "변화가 있었다는 서술 직후이지만 증거 설명을 끊게 됩니다.",
+      "암각화 설명 도중에 끼면 흐름이 끊깁니다.",
+      "정답. 변화의 증거 뒤에 원인이 오고 결과가 이어집니다.",
+      "결과 뒤에 원인이 오면 순서가 맞지 않습니다."
+    ],
+    "trap": "'The cause'가 가리키는 변화(푸른 땅 → 사막)가 먼저 제시되어야 합니다.",
+    "tip": "원인을 설명하는 문장은 변화가 소개된 뒤, 그 결과 설명 앞에 놓입니다."
+  },
+  {
+    "id": "m3b-30-39",
+    "level": "m3",
+    "set": "mock-30",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nInstead of building expensive tunnels, the city built special lanes that only buses could use.\n\n[글]\n( ① ) In the 1970s, the city of Curitiba in Brazil created a bus system that works almost like a subway. ( ② ) Passengers pay before boarding at tube-shaped stations, so the buses stop for only a short time. ( ③ ) Wide doors open directly at the level of the platform, which makes getting on and off quick and easy. ( ④ ) As a result, the buses can carry large numbers of people at a much lower cost than a subway. ( ⑤ ) Today, many cities around the world have copied this idea.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "[주어진 문장] 도시는 비싼 터널을 짓는 대신 버스만 다닐 수 있는 전용 차로를 만들었다. [글] 1970년대에 브라질 쿠리치바시는 지하철과 거의 비슷하게 작동하는 버스 체계를 만들었다. 승객은 관 모양의 정류장에서 타기 전에 요금을 내므로 버스는 잠깐만 정차한다. 넓은 문이 승강장과 같은 높이에서 바로 열려 타고 내리기가 빠르고 쉽다. 그 결과 버스는 지하철보다 훨씬 적은 비용으로 많은 사람을 실어 나를 수 있다. 오늘날 세계의 많은 도시가 이 아이디어를 따라 했다.",
+    "why": "지하철과 비슷한 버스 체계를 소개한 뒤 'Instead of ~'로 터널 대신 전용 차로를 만들었다고 설명하고, 다음 문장이 요금 방식을 이어서 설명하므로 ②에 들어갑니다.",
+    "optionNotes": [
+      "버스 체계가 소개되기 전이라 'the city'가 불분명합니다.",
+      "정답. 체계 소개 뒤에 전용 차로 설명이 오고 세부 운영이 이어집니다.",
+      "정류장 설명 뒤에 오면 전용 차로의 맥락이 맞지 않습니다.",
+      "비용을 비교한 결과를 말하는 도중에 끼면 어색합니다.",
+      "결론 직전에 오면 흐름이 맞지 않습니다."
+    ],
+    "trap": "'Instead of building expensive tunnels'가 지하철과의 비교 맥락 뒤에 와야 합니다.",
+    "tip": "Instead of는 앞에서 소개한 대안과 대비되는 내용을 이끄는 위치에 놓입니다."
+  },
+  {
+    "id": "m3b-30-40",
+    "level": "m3",
+    "set": "mock-30",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A growing number of companies are replacing sitting meetings with walking meetings. Employees walk outside while they discuss new projects, instead of sitting around a table in a closed room. A study at a university found that people produced about sixty percent more creative ideas while walking than while sitting. Walking increases blood flow to the brain and helps people feel relaxed. Managers also say that walking meetings are shorter and more honest, because it is hard to stare at a phone while moving. Several large companies have even built walking paths around their offices. Employees report that they feel more energized after a walk than after a long meeting indoors.\n\n▶ Holding meetings while (A) can help employees feel (B) and come up with new ideas.",
+    "options": [
+      "(A) walking — (B) energized",
+      "(A) sitting — (B) bored",
+      "(A) sleeping — (B) stressed",
+      "(A) shouting — (B) calm",
+      "(A) waiting — (B) lonely"
+    ],
+    "answer": 0,
+    "translation": "점점 더 많은 회사가 앉아서 하는 회의를 걷는 회의로 바꾸고 있다. 직원들은 닫힌 방의 탁자에 둘러앉는 대신 밖에서 걸으며 새 프로젝트를 논의한다. 한 대학 연구는 사람들이 앉아 있을 때보다 걷는 동안 약 육십 퍼센트 더 많은 창의적 아이디어를 냈음을 발견했다. 걷기는 뇌로 가는 혈류를 늘리고 사람들이 편안하게 느끼도록 돕는다. 관리자들은 움직이는 동안은 휴대전화를 응시하기 어려우므로 걷는 회의가 더 짧고 솔직하다고도 말한다. 몇몇 대기업은 사무실 주변에 산책로까지 만들었다. 직원들은 실내의 긴 회의보다 산책 뒤에 더 활력이 생긴다고 말한다. ▶ (A) 회의를 하면 직원들이 (B)을 느끼고 새로운 아이디어를 떠올리는 데 도움이 될 수 있다.",
+    "why": "걸으며 회의하면 활력이 생기고 창의적 아이디어가 늘어나므로 (A)는 walking, (B)는 energized입니다.",
+    "optionNotes": [
+      "정답. 걷는 회의가 활력과 아이디어에 도움이 됩니다.",
+      "sitting과 bored는 글과 반대입니다.",
+      "sleeping과 stressed는 글과 맞지 않습니다.",
+      "shouting과 calm은 글과 맞지 않습니다.",
+      "waiting과 lonely는 글과 맞지 않습니다."
+    ],
+    "trap": "'closed room'을 보고 sitting(②)을 고르지 마세요.",
+    "tip": "요약문은 방법(walking)과 결과(energized, new ideas)를 짝지으세요."
+  }
+]
