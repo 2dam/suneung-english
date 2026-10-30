@@ -1,0 +1,333 @@
+[
+  {
+    "id": "m3b-24-18",
+    "level": "m3",
+    "set": "mock-24",
+    "no": 18,
+    "type": "purpose",
+    "stem": "다음 글의 목적으로 가장 적절한 것은?",
+    "passage": "Dear Coach Kang,\nThis is Seojun Han from class 8-2. I am writing about the basketball team tryouts, which are scheduled for Wednesday, March 12, at four p.m. Unfortunately, I have to attend a regional math competition that afternoon. I have been preparing for the tryouts for months by practicing every day, and joining the team is very important to me. Would it be possible to take the tryout at another time, such as Thursday or Friday after school? I have never missed a practice session this year, and my math teacher already knows about this situation. I can show you my skills at any time that is convenient for you. I would be very grateful for your understanding. Thank you for your time.\nSincerely,\nSeojun Han",
+    "options": [
+      "농구부의 연습 시간을 늘려 달라고 건의하려고",
+      "농구부 입단 테스트의 일정을 바꿔 줄 수 있는지 문의하려고",
+      "수학 경시대회의 참가 방법을 물어보려고",
+      "농구 용품의 구입을 부탁하려고",
+      "농구부 탈퇴 의사를 전하려고"
+    ],
+    "answer": 1,
+    "translation": "강 코치님께. 8학년 2반 한서준입니다. 3월 12일 수요일 오후 4시로 예정된 농구부 입단 테스트에 관해 글을 씁니다. 안타깝게도 그날 오후에 지역 수학 경시대회에 참가해야 합니다. 저는 몇 달 동안 매일 연습하며 테스트를 준비해 왔고 농구부에 들어가는 것이 제게 매우 중요합니다. 목요일이나 금요일 방과 후 같은 다른 시간에 테스트를 볼 수 있을까요? 올해 연습에 한 번도 빠진 적이 없고 수학 선생님도 이 상황을 이미 알고 계십니다. 코치님이 편하신 시간에 언제든 실력을 보여 드릴 수 있습니다. 이해해 주시면 매우 감사하겠습니다. 시간 내 주셔서 감사합니다. 한서준 드림.",
+    "why": "겹치는 일정 때문에 입단 테스트를 다른 시간에 볼 수 있는지 묻는 글입니다.",
+    "optionNotes": [
+      "연습 시간 연장은 나오지 않습니다.",
+      "정답. 입단 테스트의 일정을 바꿀 수 있는지 문의합니다.",
+      "경시대회 참가 방법이 목적이 아닙니다.",
+      "용품 구입은 나오지 않습니다.",
+      "탈퇴가 아니라 가입을 원합니다."
+    ],
+    "trap": "'math competition'이 나온다고 경시대회 정보(③)가 목적이라고 착각하지 마세요.",
+    "tip": "목적 문제는 'Would it be possible to ~?' 같은 핵심 요청 문장을 확인하세요."
+  },
+  {
+    "id": "m3b-24-19",
+    "level": "m3",
+    "set": "mock-24",
+    "no": 19,
+    "type": "mood",
+    "stem": "다음 글에 드러난 Seungwoo의 심경 변화로 가장 적절한 것은?",
+    "passage": "Seungwoo had spent two weeks building a model airplane for the school science fair. The airplane was made of light wood and thin paper, and he had designed every part himself. On the first test flight, it crashed to the ground after only two seconds. He tried again, and the wing broke. His classmates smiled, but he felt frustrated and wanted to give up. Then he remembered what his teacher had said: \"Every great invention begins with many failures.\" Seungwoo took a deep breath, adjusted the wing, and balanced the tail more carefully. On the fifth try, the plane rose smoothly and glided across the schoolyard. Everyone cheered. Seungwoo looked at his plane with a satisfied smile, glad that he had not given up.",
+    "options": [
+      "bored → annoyed",
+      "nervous → ashamed",
+      "frustrated and discouraged → satisfied and proud of his persistence",
+      "excited → jealous",
+      "curious → worried"
+    ],
+    "answer": 2,
+    "translation": "승우는 학교 과학 박람회를 위해 이 주 동안 모형 비행기를 만들었다. 비행기는 가벼운 나무와 얇은 종이로 만들어졌고 그는 모든 부분을 직접 설계했다. 첫 시험 비행에서 비행기는 이 초 만에 땅에 추락했다. 다시 시도했는데 날개가 부러졌다. 반 친구들은 미소 지었지만 그는 좌절해서 포기하고 싶었다. 그때 선생님이 하신 말씀이 떠올랐다. \"모든 위대한 발명은 많은 실패에서 시작된다.\" 승우는 심호흡을 하고 날개를 조정한 뒤 꼬리의 균형을 더 세심하게 맞추었다. 다섯 번째 시도에서 비행기는 부드럽게 떠올라 운동장을 가로질러 활공했다. 모두 환호했다. 승우는 포기하지 않아서 기쁜 마음으로 만족스러운 미소를 띠고 비행기를 바라보았다.",
+    "why": "여러 번 실패해 좌절했다가 성공하자 끈기에 대한 만족과 자부심을 느꼈으므로 ③이 알맞습니다.",
+    "optionNotes": [
+      "지루함에서 짜증이 아닙니다.",
+      "긴장에서 부끄러움이 아닙니다.",
+      "정답. 좌절에서 끈기에 대한 만족과 자부심으로 변했습니다.",
+      "들뜸에서 질투가 아닙니다.",
+      "호기심에서 걱정이 아닙니다."
+    ],
+    "trap": "앞부분의 좌절만 보고 끝까지 낙담했다고 오해하지 마세요.",
+    "tip": "전환 신호(On the fifth try)를 기준으로 앞뒤 감정을 비교하세요."
+  },
+  {
+    "id": "m3b-24-20",
+    "level": "m3",
+    "set": "mock-24",
+    "no": 20,
+    "type": "claim",
+    "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+    "passage": "Telling a lie can seem easier than telling the truth. A small lie may help us avoid trouble or protect our feelings in the moment. However, lies have a way of growing. To cover one lie, we often have to tell another, and eventually it becomes difficult to remember what we said to whom. When the truth comes out, people lose trust in us, and trust is very hard to win back. In contrast, honest people may face difficulty at first, but they gain a reputation for reliability. Others feel safe depending on them, which leads to stronger friendships and better opportunities. Therefore, even when honesty seems costly in the short run, we should choose to tell the truth, because it brings lasting trust.",
+    "options": [
+      "정직은 단기적으로 손해로 보여도 장기적으로 신뢰를 얻게 하므로 진실을 말해야 한다.",
+      "작은 거짓말은 관계를 위해 꼭 필요하다.",
+      "신뢰는 한 번 잃어도 쉽게 되찾을 수 있다.",
+      "곤란을 피하려면 말을 아끼는 것이 좋다.",
+      "정직한 사람은 늘 기회를 잃게 된다."
+    ],
+    "answer": 0,
+    "translation": "거짓말이 진실을 말하는 것보다 쉬워 보일 수 있다. 작은 거짓말은 곤란을 피하거나 순간의 감정을 보호하는 데 도움이 될 수 있다. 그러나 거짓말은 커지는 경향이 있다. 하나의 거짓말을 덮으려고 우리는 또 하나를 해야 하고 결국 누구에게 무슨 말을 했는지 기억하기 어려워진다. 진실이 드러나면 사람들은 우리에 대한 신뢰를 잃으며 신뢰는 되찾기가 매우 어렵다. 반대로 정직한 사람은 처음에는 어려움을 겪을 수 있지만 믿을 만하다는 평판을 얻는다. 다른 사람들은 그들에게 의지하는 것이 안전하다고 느끼며 이는 더 단단한 우정과 더 나은 기회로 이어진다. 그러므로 정직이 단기적으로 손해처럼 보여도 우리는 진실을 말하기로 해야 하는데 그것이 지속적인 신뢰를 가져오기 때문이다.",
+    "why": "마지막 문장에서 단기적으로 손해처럼 보여도 지속적인 신뢰를 위해 진실을 말해야 한다고 주장합니다.",
+    "optionNotes": [
+      "정답. 장기적 신뢰를 위해 진실을 말해야 합니다.",
+      "작은 거짓말이 필요하다는 말은 글과 반대입니다.",
+      "신뢰를 쉽게 되찾는다는 말은 글과 반대입니다.",
+      "말을 아끼라는 말은 나오지 않습니다.",
+      "기회를 잃는다는 말은 글과 반대입니다."
+    ],
+    "trap": "첫 부분(거짓말이 쉬워 보임)을 필자의 주장으로 착각하지 마세요.",
+    "tip": "주장 문제는 'Therefore ~ should' 같은 마지막 문장을 확인하세요."
+  },
+  {
+    "id": "m3b-24-21",
+    "level": "m3",
+    "set": "mock-24",
+    "no": 21,
+    "type": "implied",
+    "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+    "passage": "Minji was planning a surprise party for her best friend Jiyu's birthday. She had invited ten classmates, ordered a cake, and decorated the club room secretly. The only rule was simple: nobody should tell Jiyu. However, on the morning of the party, Minji's little brother, who had overheard her phone calls, said happily to Jiyu at the gate, \"Are you excited about the party tonight?\" Jiyu's eyes widened. Later, Minji sighed and told her mom, \"My brother {u|spilled the beans}, and the surprise is ruined.\" Her mom laughed and said that Jiyu would still enjoy the party, because it showed how much her friends cared.",
+    "options": [
+      "dropped a bag of food on the floor",
+      "cooked beans for the party",
+      "forgot to invite her friends",
+      "made a funny joke about the cake",
+      "accidentally revealed a secret"
+    ],
+    "answer": 4,
+    "translation": "민지는 가장 친한 친구 지유의 생일을 위해 깜짝 파티를 계획하고 있었다. 그녀는 반 친구 열 명을 초대하고 케이크를 주문했으며 동아리실을 몰래 꾸몄다. 규칙은 단순했다. 아무도 지유에게 말하면 안 된다. 그러나 파티 날 아침 민지의 통화를 엿들은 남동생이 정문에서 지유에게 기쁘게 말했다. \"오늘 밤 파티 신나요?\" 지유의 눈이 휘둥그레졌다. 나중에 민지는 한숨을 쉬며 엄마에게 말했다. \"동생이 비밀을 누설해서 깜짝 파티가 망쳤어.\" 엄마는 웃으며 지유가 그래도 파티를 즐길 거라고 말했다. 친구들이 얼마나 아끼는지 보여 주기 때문이다.",
+    "why": "동생이 파티를 비밀로 해야 한다는 규칙을 깨고 지유에게 말했으므로 'spilled the beans'는 비밀을 무심코 누설했다는 뜻입니다.",
+    "optionNotes": [
+      "음식을 떨어뜨렸다는 글자 그대로의 뜻이 아닙니다.",
+      "콩을 요리했다는 뜻이 아닙니다.",
+      "초대를 잊은 것이 아닙니다.",
+      "농담을 한 것이 아닙니다.",
+      "정답. 비밀을 무심코 누설했다는 뜻입니다."
+    ],
+    "trap": "'beans'를 글자 그대로 음식으로 해석하지 마세요.",
+    "tip": "관용 표현은 앞뒤 사건(비밀 유지 규칙 → 동생이 말함)으로 의미를 추론하세요."
+  },
+  {
+    "id": "m3b-24-22",
+    "level": "m3",
+    "set": "mock-24",
+    "no": 22,
+    "type": "gist",
+    "stem": "다음 글의 요지로 가장 적절한 것은?",
+    "passage": "Many people believe that reading novels is just a way to pass the time. However, researchers have found that reading fiction can make us more understanding of others. In one study, people who read a short story about a character's difficult life performed better on tests that measured how well they could recognize other people's feelings. Fiction allows readers to enter a character's mind and see the world through different eyes. In real life, we can rarely experience the thoughts of someone whose background is very different from ours. Through stories, we can. Over time, this practice makes us more patient and kinder in our relationships. So reading fiction is not a waste of time; it is a training for empathy.",
+    "options": [
+      "책은 빠르게 읽을수록 이해력이 높아진다.",
+      "소설 속 인물은 현실의 사람처럼 그려야 한다.",
+      "독서는 시험 점수를 올리는 가장 좋은 방법이다.",
+      "공감 능력은 타고나는 것이어서 훈련으로 바꿀 수 없다.",
+      "소설을 읽으면 공감 능력이 길러진다."
+    ],
+    "answer": 4,
+    "translation": "많은 사람은 소설을 읽는 것이 그저 시간을 보내는 방법이라고 믿는다. 그러나 연구자들은 소설을 읽으면 타인을 더 잘 이해하게 될 수 있음을 발견했다. 한 연구에서 한 인물의 힘든 삶에 관한 짧은 이야기를 읽은 사람들은 다른 사람의 감정을 얼마나 잘 알아보는지 측정하는 시험에서 더 잘했다. 소설은 독자가 인물의 마음속으로 들어가 다른 눈으로 세상을 보게 한다. 현실에서는 배경이 매우 다른 사람의 생각을 경험하기가 좀처럼 어렵다. 이야기를 통해서는 가능하다. 시간이 지나면 이 연습은 우리를 관계에서 더 인내심 있고 친절하게 만든다. 그러므로 소설을 읽는 것은 시간 낭비가 아니라 공감 훈련이다.",
+    "why": "마지막 문장에서 소설 읽기는 공감을 위한 훈련이라고 하므로 ⑤가 요지입니다.",
+    "optionNotes": [
+      "읽는 속도는 나오지 않습니다.",
+      "인물 묘사는 나오지 않습니다.",
+      "시험 점수는 나오지 않습니다.",
+      "훈련으로 길러진다는 내용과 반대입니다.",
+      "정답. 소설을 읽으면 공감 능력이 길러집니다."
+    ],
+    "trap": "실험에서 쓰인 시험(감정 인식)을 학교 시험 점수(③)로 오해하지 마세요.",
+    "tip": "요지는 'However', 'So ~' 이후 문장을 확인하세요."
+  },
+  {
+    "id": "m3b-24-23",
+    "level": "m3",
+    "set": "mock-24",
+    "no": 23,
+    "type": "topic",
+    "stem": "다음 글의 주제로 가장 적절한 것은?",
+    "passage": "If you shine a flashlight at a cat in the dark, its eyes seem to glow green or yellow. This effect is caused by a special layer at the back of the cat's eye called the tapetum lucidum. It works like a mirror, much like the reflective strips on road signs. When light enters the eye, some of it passes through the retina without being absorbed. The tapetum reflects this light back, giving the retina a second chance to detect it. This is why cats can see well in dim light. Many other nocturnal animals, such as dogs, deer, and owls, also have this layer. Humans do not have it, so our eyes do not shine in the dark. Instead, our night vision is much weaker.",
+    "options": [
+      "고양이의 눈이 어둠 속에서 빛나 보이는 원리",
+      "고양이가 야행성 동물로 진화해 온 긴 과정",
+      "고양이와 사람의 시력을 검사하는 서로 다른 방법",
+      "올빼미가 한밤중에 먹이를 사냥하는 방식",
+      "동물의 눈동자 색깔이 결정되는 유전 법칙"
+    ],
+    "answer": 0,
+    "translation": "어둠 속의 고양이에게 손전등을 비추면 눈이 초록색이나 노란색으로 빛나는 것처럼 보인다. 이 효과는 고양이 눈 뒤쪽의 휘판이라는 특별한 층 때문에 생긴다. 이것은 도로 표지판의 반사 띠처럼 거울과 같이 작용한다. 빛이 눈에 들어올 때 일부는 흡수되지 않고 망막을 통과한다. 휘판은 이 빛을 다시 반사하여 망막이 그것을 감지할 두 번째 기회를 준다. 그래서 고양이는 어두운 빛에서도 잘 볼 수 있다. 개, 사슴, 올빼미 같은 다른 많은 야행성 동물도 이 층을 가지고 있다. 사람은 이것이 없어서 어둠 속에서 눈이 빛나지 않는다. 대신 우리의 야간 시력은 훨씬 약하다.",
+    "why": "고양이의 눈이 빛나 보이는 이유인 휘판의 작용 원리를 설명하는 글입니다.",
+    "optionNotes": [
+      "정답. 눈이 빛나 보이는 원리입니다.",
+      "진화 과정은 나오지 않습니다.",
+      "시력 검사는 나오지 않습니다.",
+      "올빼미의 사냥은 나오지 않습니다.",
+      "눈동자 색의 유전은 나오지 않습니다."
+    ],
+    "trap": "'owls', 'night vision'이 나온다고 사냥(④)으로 착각하지 마세요.",
+    "tip": "주제는 글 전체에서 반복되는 핵심어(eyes, glow, tapetum)로 파악하세요."
+  },
+  {
+    "id": "m3b-24-24",
+    "level": "m3",
+    "set": "mock-24",
+    "no": 24,
+    "type": "title",
+    "stem": "다음 글의 제목으로 가장 적절한 것은?",
+    "passage": "Every night, we dream for about two hours, although we remember only a small part. Scientists still do not know exactly why we dream, but they have several theories. One theory suggests that dreams help the brain sort the information it received during the day. Important memories are strengthened, and unnecessary ones are cleared away. Another theory says that dreams allow us to practice dealing with fears and problems in a safe place. Studies also show that people who sleep after learning something new perform better on tests than those who do not. In addition, some artists and scientists have found creative solutions in their dreams. Whatever the reason, dreaming appears to be an important part of a healthy brain.",
+    "options": [
+      "Why Nightmares Only Happen to Young Children",
+      "How to Remember Every Dream That You Have",
+      "Sleeping Positions for a Healthy Back",
+      "Dreams: The Brain's Nightly Workshop",
+      "The Strange History of Alarm Clocks"
+    ],
+    "answer": 3,
+    "translation": "밤마다 우리는 약 두 시간 동안 꿈을 꾸지만 아주 일부만 기억한다. 과학자들은 우리가 왜 꿈을 꾸는지 정확히 알지 못하지만 몇 가지 이론이 있다. 한 이론은 꿈이 뇌가 낮에 받은 정보를 정리하도록 돕는다고 본다. 중요한 기억은 강화되고 불필요한 기억은 치워진다. 다른 이론은 꿈이 안전한 곳에서 두려움과 문제를 다루는 연습을 하게 해 준다고 말한다. 연구에 따르면 새로운 것을 배운 뒤 잠을 잔 사람은 그렇지 않은 사람보다 시험을 더 잘 본다. 게다가 일부 예술가와 과학자는 꿈에서 창의적인 해결책을 찾았다. 이유가 무엇이든 꿈은 건강한 뇌의 중요한 부분인 듯하다.",
+    "why": "꿈이 뇌의 정보 정리와 연습 같은 역할을 한다는 내용이므로 ④가 제목으로 알맞습니다.",
+    "optionNotes": [
+      "악몽은 나오지 않습니다.",
+      "꿈을 기억하는 법은 나오지 않습니다.",
+      "수면 자세는 나오지 않습니다.",
+      "정답. 꿈은 뇌의 밤마다 열리는 작업장입니다.",
+      "알람 시계의 역사는 나오지 않습니다."
+    ],
+    "trap": "'sleep'이 나온다고 수면 자세(③)나 알람(⑤)으로 착각하지 마세요.",
+    "tip": "제목은 글의 핵심 대상(dreams)과 그 기능을 함께 담으세요."
+  },
+  {
+    "id": "m3b-24-25",
+    "level": "m3",
+    "set": "mock-24",
+    "no": 25,
+    "type": "chart",
+    "stem": "다음 도표의 내용과 일치하지 않는 것은?",
+    "chart": {
+      "title": "School Club Members by Type",
+      "unit": "",
+      "labels": [
+        "Sports",
+        "Music",
+        "Art",
+        "Science",
+        "Reading"
+      ],
+      "series": [
+        {
+          "name": "Members",
+          "values": [
+            40,
+            25,
+            15,
+            30,
+            20
+          ]
+        }
+      ]
+    },
+    "passage": "The graph shows the number of members in five types of school clubs. ① Sports clubs have the most members. ② Music clubs have five more members than science clubs. ③ Art clubs have the fewest members. ④ Reading clubs have five more members than art clubs. ⑤ The number of sports club members is twice that of reading club members.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "그래프는 다섯 종류의 학교 동아리 회원 수를 보여 준다. ① 운동 동아리의 회원이 가장 많다. ② 음악 동아리는 과학 동아리보다 회원이 다섯 명 더 많다. ③ 미술 동아리의 회원이 가장 적다. ④ 독서 동아리는 미술 동아리보다 회원이 다섯 명 더 많다. ⑤ 운동 동아리 회원 수는 독서 동아리의 두 배이다.",
+    "why": "음악은 25명, 과학은 30명이므로 음악이 더 많다는 ②는 일치하지 않습니다.",
+    "optionNotes": [
+      "운동 40명으로 가장 많습니다.",
+      "정답(불일치). 음악 25명은 과학 30명보다 적습니다.",
+      "미술 15명으로 가장 적습니다.",
+      "20 - 15 = 5명입니다.",
+      "40은 20의 두 배입니다."
+    ],
+    "trap": "숫자의 크기 순서(25와 30)를 반대로 읽지 마세요.",
+    "tip": "그래프 문제는 비교 방향(더 많다/적다)을 수치로 확인하세요."
+  },
+  {
+    "id": "m3b-24-26",
+    "level": "m3",
+    "set": "mock-24",
+    "no": 26,
+    "type": "match",
+    "stem": "Nelson Mandela에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Nelson Mandela was born in 1918 in a small village in South Africa. As a boy, he loved to listen to the stories of the elders in his village. At that time, the government of his country forced black people to live under a system called apartheid, which separated people by race and gave white people greater rights. Mandela studied law and joined the movement against apartheid. In 1964, he was sentenced to life in prison, and he spent twenty-seven years behind bars. Around the world, people demanded his release. He was finally freed in 1990. Rather than seek revenge, he worked with his former enemies to end apartheid peacefully. In 1993, he received the Nobel Peace Prize, and in 1994, he became the first black president of South Africa, working for reconciliation among all races.",
+    "options": [
+      "어린 시절 도시의 부유한 가정에서 자랐다.",
+      "법을 공부했지만 인종 차별 반대 운동에는 참여하지 않았다.",
+      "감옥에서 일 년 만에 풀려났다.",
+      "대통령이 된 뒤 과거의 적에게 복수했다.",
+      "대통령이 되어 모든 인종의 화해를 위해 일했다."
+    ],
+    "answer": 4,
+    "translation": "넬슨 만델라는 1918년 남아프리카의 작은 마을에서 태어났다. 소년 시절 그는 마을 어른들의 이야기를 듣는 것을 좋아했다. 당시 그의 나라 정부는 흑인들이 인종을 분리하고 백인에게 더 큰 권리를 주는 아파르트헤이트라는 제도 아래 살도록 강요했다. 만델라는 법을 공부했고 아파르트헤이트에 반대하는 운동에 가담했다. 1964년 그는 종신형을 선고받았고 이십칠 년 동안 감옥에 있었다. 전 세계 사람들이 그의 석방을 요구했다. 그는 마침내 1990년에 풀려났다. 복수를 하는 대신 그는 옛 적들과 협력해 아파르트헤이트를 평화롭게 끝냈다. 1993년 노벨 평화상을 받았고 1994년에는 남아프리카 최초의 흑인 대통령이 되어 모든 인종의 화해를 위해 일했다.",
+    "why": "1994년 대통령이 되어 모든 인종의 화해를 위해 일했다고 했으므로 ⑤가 일치합니다.",
+    "optionNotes": [
+      "작은 마을에서 태어났습니다.",
+      "아파르트헤이트 반대 운동에 참여했습니다.",
+      "27년 동안 감옥에 있었습니다.",
+      "복수하는 대신 협력했습니다.",
+      "정답. 대통령이 되어 모든 인종의 화해를 위해 일했습니다."
+    ],
+    "trap": "석방(1990년)과 대통령 당선(1994년)의 시점을 혼동하지 마세요.",
+    "tip": "일치 문제는 연도별 사건을 순서대로 보기와 대조하세요."
+  },
+  {
+    "id": "m3b-24-27",
+    "level": "m3",
+    "set": "mock-24",
+    "no": 27,
+    "type": "notice",
+    "stem": "Career Fair for Teens 안내문의 내용과 일치하는 것은?",
+    "passage": "Hanbit Community Center - Career Fair for Teens\nDate: Saturday, November 8, 10 a.m. - 4 p.m.\nPlace: Main Hall, 2nd Floor\nWho can join: Students in grades 7 to 9 (free admission)\nPrograms: Talks with working adults (doctor, chef, game designer), job experience booths, and a resume workshop\nNotes: Only students who sign up in advance can ask questions during the talks. Lunch is not provided.\nRegistration: By November 3 on the center website",
+    "options": [
+      "행사는 일요일에 열린다.",
+      "직업인과의 대화에서는 사전에 신청한 학생만 질문할 수 있다.",
+      "참가비는 5달러이다.",
+      "점심이 제공된다.",
+      "신청은 행사 당일에 받는다."
+    ],
+    "answer": 1,
+    "translation": "한빛 주민 센터 – 십대를 위한 직업 박람회. 날짜: 11월 8일 토요일 오전 10시~오후 4시. 장소: 2층 중앙 홀. 참가 대상: 7~9학년 학생(무료 입장). 프로그램: 직업인(의사, 요리사, 게임 디자이너)과의 대화, 직업 체험 부스, 이력서 작성 워크숍. 참고: 대화 시간에는 사전에 신청한 학생만 질문할 수 있습니다. 점심은 제공되지 않습니다. 신청: 11월 3일까지 센터 누리집에서.",
+    "why": "'Only students who sign up in advance can ask questions'와 일치합니다.",
+    "optionNotes": [
+      "토요일에 열립니다.",
+      "정답. 사전에 신청한 학생만 질문할 수 있습니다.",
+      "무료 입장입니다.",
+      "점심은 제공되지 않습니다.",
+      "11월 3일까지 누리집에서 신청합니다."
+    ],
+    "trap": "행사일(11월 8일)과 신청 마감일(11월 3일)을 혼동하지 마세요.",
+    "tip": "안내문의 Date, Who, Programs, Notes, Registration 항목을 하나씩 대조하세요."
+  },
+  {
+    "id": "m3b-24-28",
+    "level": "m3",
+    "set": "mock-24",
+    "no": 28,
+    "type": "notice",
+    "stem": "Peer Tutoring Program 안내문의 내용과 일치하는 것은?",
+    "passage": "Sunrise Middle School - Peer Tutoring Program\nPeriod: March 3 - June 27 (every Tuesday and Thursday)\nTime: 4 p.m. - 5 p.m.\nTutors: Students in grade 9 with a B grade or higher in the subject\nTutees: Students in grades 7 and 8 who need extra help\nSubjects: Math, English, and Science\nBenefit: Tutors receive 20 hours of volunteer credit.\nRegistration: By February 21 at the counseling office",
+    "options": [
+      "수업은 매일 열린다.",
+      "튜터는 7학년 학생이어야 하고 성적 제한이 없다.",
+      "튜터는 20시간의 봉사 시간을 받는다.",
+      "과목에는 음악도 포함된다.",
+      "신청은 3월 3일에 받는다."
+    ],
+    "answer": 2,
+    "translation": "선라이즈 중학교 – 또래 학습 도우미 프로그램. 기간: 3월 3일~6월 27일(매주 화요일과 목요일). 시간: 오후 4시~5시. 튜터: 해당 과목에서 B 이상의 성적을 받은 9학년 학생. 학습자: 추가 도움이 필요한 7~8학년 학생. 과목: 수학, 영어, 과학. 혜택: 튜터는 20시간의 봉사 활동 시간을 인정받습니다. 신청: 2월 21일까지 상담실에서.",
+    "why": "'Tutors receive 20 hours of volunteer credit'와 일치합니다.",
+    "optionNotes": [
+      "화요일과 목요일에 열립니다.",
+      "튜터는 9학년 학생입니다.",
+      "정답. 튜터는 20시간의 봉사 활동 시간을 인정받습니다.",
+      "과목은 수학, 영어, 과학입니다.",
+      "2월 21일까지 상담실에서 신청합니다."
+    ],
+    "trap": "튜터(9학년)와 학습자(7~8학년)의 학년을 혼동하지 마세요.",
+    "tip": "안내문의 Period, Tutors, Tutees, Subjects, Benefit 항목을 하나씩 대조하세요."
+  }
+]
