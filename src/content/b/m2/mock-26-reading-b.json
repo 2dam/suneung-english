@@ -1,0 +1,338 @@
+[
+  {
+    "id": "m2b-26-29",
+    "level": "m2",
+    "set": "mock-26",
+    "no": 29,
+    "type": "grammar",
+    "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+    "passage": "Penguins cannot fly, but they are excellent swimmers. Their wings have turned into flippers, which they {1|use} to move through the water at high speed. A thick layer of fat and tightly packed feathers keep them {2|warm} in freezing seas. Penguins spend most of their lives in the ocean, but they must come to land to lay eggs. Each year, colonies of thousands of penguins gather in the same place, {3|where} the parents take turns to protect the egg. When the chick hatches, both parents bring food back from the sea. It is common {4|for them traveling} long distances to find fish. Because the chick grows quickly, it soon needs {5|more} food than one parent can bring.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "펭귄은 날지 못하지만 뛰어난 수영선수이다. 날개가 지느러미 모양으로 변했고 이를 이용해 물속을 빠르게 이동한다. 두꺼운 지방층과 촘촘한 깃털이 얼어붙는 바다에서 몸을 따뜻하게 유지해 준다. 펭귄은 평생의 대부분을 바다에서 보내지만 알을 낳으려면 육지로 와야 한다. 해마다 수천 마리의 펭귄 무리가 같은 장소에 모이고 그곳에서 부모가 번갈아 알을 지킨다. 새끼가 부화하면 부모 모두 바다에서 먹이를 가져온다. 물고기를 찾으려고 먼 거리를 이동하는 것은 흔한 일이다. 새끼는 빠르게 자라서 곧 부모 한 마리가 가져올 수 있는 것보다 더 많은 먹이가 필요하다.",
+    "why": "가주어 it에 이어지는 'for them + to부정사' 구조이므로 traveling이 아니라 to travel이어야 합니다.",
+    "optionNotes": [
+      "관계절의 동사 use입니다.",
+      "keep + 목적어 + 형용사 warm입니다.",
+      "장소를 선행사로 하는 관계부사 where입니다.",
+      "정답(틀린 것). for them to travel이어야 합니다.",
+      "비교급 more입니다."
+    ],
+    "trap": "'It is common'을 보고 동명사를 쓰기 쉽습니다.",
+    "tip": "가주어 it ~ for A to부정사 구조를 확인하세요."
+  },
+  {
+    "id": "m2b-26-30",
+    "level": "m2",
+    "set": "mock-26",
+    "no": 30,
+    "type": "vocab",
+    "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+    "passage": "Loud noise is not just annoying; it can harm our health. People who live near airports or busy roads often have trouble {1|sleeping}. Constant noise raises stress levels and can even {2|damage} hearing over time. Children who study in noisy classrooms find it harder to {3|concentrate}. To protect ourselves, we can wear earplugs in noisy places and keep the volume of our headphones {4|high}. Cities can help by building sound barriers along highways and planting trees, which absorb sound. Quiet is not a luxury; it is a {5|necessity} for a healthy life.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 3,
+    "translation": "큰 소음은 성가실 뿐 아니라 건강을 해칠 수 있다. 공항이나 붐비는 도로 근처에 사는 사람은 흔히 잠자는 데 어려움을 겪는다. 끊임없는 소음은 스트레스 수준을 높이고 시간이 지나면 청력을 손상하기도 한다. 시끄러운 교실에서 공부하는 아이들은 집중하기가 더 어렵다. 우리를 보호하려면 시끄러운 곳에서 귀마개를 하고 헤드폰의 볼륨을 높게 유지할 수 있다. 도시는 고속도로를 따라 방음벽을 세우고 소리를 흡수하는 나무를 심어 도울 수 있다. 고요함은 사치가 아니라 건강한 삶의 필수품이다.",
+    "why": "청력을 보호하려면 헤드폰의 볼륨을 '낮게(low)' 유지해야 하므로 high는 부적절합니다.",
+    "optionNotes": [
+      "잠자는 데 어려움이 있다는 의미로 sleeping이 알맞습니다.",
+      "청력을 손상한다는 의미로 damage가 알맞습니다.",
+      "집중하기 어렵다는 의미로 concentrate가 알맞습니다.",
+      "정답(부적절). 보호하려면 low여야 합니다.",
+      "건강한 삶의 필수품이라는 의미로 necessity가 알맞습니다."
+    ],
+    "trap": "'To protect ourselves'라는 목적과 동사의 방향이 맞는지 놓치기 쉽습니다.",
+    "tip": "목적(보호하기 위해)에 맞는 행동인지 확인하세요."
+  },
+  {
+    "id": "m2b-26-31",
+    "level": "m2",
+    "set": "mock-26",
+    "no": 31,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Cats almost always land on their feet when they fall. This ability is called the righting reflex. When a cat begins to fall, its inner ear senses that its body is upside down. The cat first turns its head, and then the rest of its body follows. Its flexible backbone allows the front and back halves of the body to twist separately. In the air, the cat also spreads its legs to slow down the fall. All this happens in less than a second. Cats can land safely because they can __________.",
+    "options": [
+      "fly like birds for a short time",
+      "grow wings when they stand on a high place",
+      "twist their bodies quickly in the air",
+      "jump higher than any other animal in the world",
+      "see clearly in complete darkness"
+    ],
+    "answer": 2,
+    "translation": "고양이는 떨어질 때 거의 항상 발로 착지한다. 이 능력을 정위 반사라고 한다. 고양이가 떨어지기 시작하면 속귀가 몸이 거꾸로임을 감지한다. 고양이는 먼저 머리를 돌리고 그다음 나머지 몸이 따라온다. 유연한 등뼈 덕분에 몸의 앞부분과 뒷부분이 따로 비틀릴 수 있다. 공중에서 고양이는 다리를 벌려 낙하 속도를 늦추기도 한다. 이 모든 일이 일 초도 안 되어 일어난다. 고양이가 안전하게 착지할 수 있는 것은 공중에서 몸을 재빨리 비틀 수 있기 때문이다.",
+    "why": "속귀가 방향을 감지하고 유연한 등뼈로 몸을 비틀어 발로 착지합니다.",
+    "optionNotes": [
+      "날 수 있다는 내용은 나오지 않습니다.",
+      "날개가 자란다는 내용은 나오지 않습니다.",
+      "정답. 공중에서 몸을 재빨리 비틉니다.",
+      "가장 높이 뛴다는 내용은 나오지 않습니다.",
+      "어둠 속 시력은 나오지 않습니다."
+    ],
+    "trap": "'spreads its legs'를 날개처럼 나는 것(①)으로 오해하지 마세요.",
+    "tip": "앞 문장(turns its head, twist)이 정답의 근거입니다."
+  },
+  {
+    "id": "m2b-26-32",
+    "level": "m2",
+    "set": "mock-26",
+    "no": 32,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Lightning is a giant spark of electricity in the sky. It can heat the air around it to about thirty thousand degrees Celsius, which is five times hotter than the surface of the Sun. The air expands so quickly that it creates a shock wave. We hear this shock wave as thunder. Thunder can be heard from about ten kilometers away. We see lightning before we hear thunder because light travels much faster than sound. You can estimate how far away a storm is by counting the seconds between the flash and the sound. Thunder happens because lightning __________.",
+    "options": [
+      "cools the surrounding air down suddenly",
+      "makes the clouds become very heavy and wet",
+      "moves the Sun closer to the Earth for a moment",
+      "heats the air so fast that it expands",
+      "turns the water in the clouds into pieces of ice"
+    ],
+    "answer": 3,
+    "translation": "번개는 하늘의 거대한 전기 불꽃이다. 번개는 주변 공기를 약 삼만 도까지 가열할 수 있는데 이는 태양 표면보다 다섯 배 뜨겁다. 공기가 너무 빨리 팽창해서 충격파가 생긴다. 우리는 이 충격파를 천둥으로 듣는다. 천둥은 약 10킬로미터 밖에서도 들린다. 빛이 소리보다 훨씬 빨리 이동하기 때문에 번개를 천둥보다 먼저 본다. 번쩍임과 소리 사이의 초를 세면 폭풍이 얼마나 멀리 있는지 어림할 수 있다. 천둥이 생기는 것은 번개가 공기를 너무 빨리 가열해 쾅 하고 팽창시키기 때문이다.",
+    "why": "번개가 공기를 매우 빠르게 가열해 팽창시키면서 충격파인 천둥이 생깁니다.",
+    "optionNotes": [
+      "공기를 식힌다는 내용은 글과 반대입니다.",
+      "구름이 무거워진다는 내용은 나오지 않습니다.",
+      "태양을 가깝게 한다는 내용은 나오지 않습니다.",
+      "정답. 공기를 빠르게 가열해 팽창시킵니다.",
+      "얼음이 된다는 내용은 나오지 않습니다."
+    ],
+    "trap": "태양과의 온도 비교를 태양이 가까워지는 것(③)으로 오해하지 마세요.",
+    "tip": "원인(공기를 빠르게 가열) → 결과(팽창 → 충격파 → 천둥)를 따라가세요."
+  },
+  {
+    "id": "m2b-26-33",
+    "level": "m2",
+    "set": "mock-26",
+    "no": 33,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "In the 1880s, a German scientist named Hermann Ebbinghaus studied how quickly we forget. He memorized lists of meaningless words and tested himself at different times. He repeated the test many times to be sure of his results. He found that we forget about half of new information within a day, and even more within a week. However, when he reviewed the list again, he remembered it longer each time. This is why cramming the night before an exam does not work well. To keep information in long-term memory, it is better to __________.",
+    "options": [
+      "read it only once very carefully",
+      "study it for ten hours without a break",
+      "avoid thinking about it after class",
+      "review it several times over a few days",
+      "memorize only words that have no meaning"
+    ],
+    "answer": 3,
+    "translation": "1880년대에 헤르만 에빙하우스라는 독일 과학자는 우리가 얼마나 빨리 잊는지 연구했다. 그는 의미 없는 단어 목록을 외우고 여러 시점에 자신을 시험했다. 그는 결과를 확신하려고 시험을 여러 번 되풀이했다. 그는 새 정보의 약 절반을 하루 안에 잊고 일주일 안에 더 많이 잊는다는 것을 발견했다. 그러나 목록을 다시 복습하면 매번 더 오래 기억했다. 이것이 시험 전날 밤 벼락치기가 잘 통하지 않는 이유이다. 정보를 장기 기억에 두려면 며칠에 걸쳐 여러 번 복습하는 것이 더 낫다.",
+    "why": "복습할수록 더 오래 기억하므로 며칠에 걸쳐 여러 번 복습하는 것이 낫습니다.",
+    "optionNotes": [
+      "한 번만 읽는다는 내용은 글과 반대입니다.",
+      "열 시간 쉬지 않고 하라는 내용은 나오지 않습니다.",
+      "생각하지 말라는 내용은 글과 반대입니다.",
+      "정답. 며칠에 걸쳐 여러 번 복습합니다.",
+      "의미 없는 단어는 실험 재료일 뿐입니다."
+    ],
+    "trap": "'meaningless words'를 학습 방법(⑤)으로 오해하지 마세요.",
+    "tip": "However 뒤의 실험 결과(복습할수록 오래 기억)가 정답의 근거입니다."
+  },
+  {
+    "id": "m2b-26-34",
+    "level": "m2",
+    "set": "mock-26",
+    "no": 34,
+    "type": "blank",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "Humans cool down by sweating all over the body, but dogs cannot. Their sweat glands are mostly on their paws, and that is not enough to keep them cool. Instead, dogs pant with their mouths open. The wet tongue works like a small fan. As air passes over their wet tongue and the inside of the mouth, the water evaporates and carries heat away. This is why you see dogs panting on hot days or after running. Because dogs have fur all over their bodies, they depend on this method. A dog pants because it needs to __________.",
+    "options": [
+      "tell its owner that it wants some food",
+      "get rid of extra heat from its body",
+      "warm up its nose during the winter",
+      "wash its fur without using any water",
+      "make a sound to call other dogs nearby"
+    ],
+    "answer": 1,
+    "translation": "사람은 온몸으로 땀을 흘려 체온을 식히지만 개는 그럴 수 없다. 개의 땀샘은 대부분 발바닥에 있어서 시원하게 유지하기에 충분하지 않다. 대신 개는 입을 벌리고 헐떡인다. 젖은 혀는 작은 부채처럼 작용한다. 공기가 젖은 혀와 입안을 지나면서 물이 증발해 열을 가져간다. 그래서 더운 날이나 달린 뒤에 개가 헐떡이는 것을 보게 된다. 개는 온몸에 털이 있어서 이 방법에 의존한다. 개가 헐떡이는 것은 몸의 여분의 열을 없애야 하기 때문이다.",
+    "why": "혀와 입안의 물이 증발하며 열을 가져가므로 몸의 여분의 열을 없애려고 헐떡입니다.",
+    "optionNotes": [
+      "먹이를 달라는 내용은 나오지 않습니다.",
+      "정답. 몸의 여분의 열을 없앱니다.",
+      "겨울에 코를 데운다는 내용은 나오지 않습니다.",
+      "털을 씻는다는 내용은 나오지 않습니다.",
+      "다른 개를 부른다는 내용은 나오지 않습니다."
+    ],
+    "trap": "'pant'를 소리를 내는 행동(⑤)으로만 이해하지 마세요.",
+    "tip": "앞 문장(water evaporates and carries heat away)이 정답의 근거입니다."
+  },
+  {
+    "id": "m2b-26-35",
+    "level": "m2",
+    "set": "mock-26",
+    "no": 35,
+    "type": "irrelevant",
+    "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+    "passage": "Riding a bike is fun and healthy, but safety must come first. Here are some basic tips for a safe ride. ① Wear a helmet every time, even for short rides. ② Check your brakes and tires before you start. ③ Penguins can hold their breath for about twenty minutes. ④ Follow traffic signals and ride on the correct side of the road. ⑤ Use lights and wear bright clothes when you ride at night.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 2,
+    "translation": "자전거를 타는 것은 재미있고 건강에 좋지만 안전이 우선이어야 한다. 안전하게 타는 몇 가지 기본 요령이 있다. ① 짧은 거리라도 늘 헬멧을 써라. ② 출발하기 전에 브레이크와 타이어를 점검하라. ③ 펭귄은 약 이십 분 동안 숨을 참을 수 있다. ④ 교통 신호를 따르고 도로의 올바른 쪽으로 타라. ⑤ 밤에 탈 때는 조명을 쓰고 밝은 옷을 입어라.",
+    "why": "글은 자전거를 안전하게 타는 요령을 이야기하는데 ③은 펭귄에 관한 별개의 이야기입니다.",
+    "optionNotes": [
+      "헬멧을 쓰는 요령입니다.",
+      "브레이크와 타이어를 점검하는 요령입니다.",
+      "정답(무관). 펭귄 이야기라 관계가 없습니다.",
+      "신호를 따르는 요령입니다.",
+      "밤에 조명을 쓰는 요령입니다."
+    ],
+    "trap": "앞뒤가 모두 요령이므로 중간에 낀 별개 주제를 놓치기 쉽습니다.",
+    "tip": "각 문장이 '자전거 안전 요령'인지 확인하세요."
+  },
+  {
+    "id": "m2b-26-36",
+    "level": "m2",
+    "set": "mock-26",
+    "no": 36,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Chopsticks are used by more than a quarter of the world's population. They have a history of more than three thousand years.\n(A) Today, Korean chopsticks are often made of metal and are flat, while Japanese ones are usually wooden and have pointed ends.\n(B) They were first used in China, where people cooked food in large pots and cut it into small pieces to save fuel. Bite-sized pieces were easy to pick up with two sticks.\n(C) Over time, the custom spread to Korea, Japan, and Vietnam. Each country developed its own style of chopsticks.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 2,
+    "translation": "젓가락은 세계 인구의 4분의 1이 넘는 사람이 쓴다. 젓가락은 삼천 년이 넘는 역사를 가지고 있다. (B) 그것은 중국에서 처음 쓰였는데 사람들이 큰 솥에 음식을 조리하고 연료를 아끼려고 작게 썰었다. 한입 크기 조각은 막대 두 개로 집기 쉬웠다. (C) 시간이 지나며 이 관습은 한국, 일본, 베트남으로 퍼졌다. 나라마다 고유한 젓가락 양식을 발전시켰다. (A) 오늘날 한국 젓가락은 흔히 금속으로 만들어지고 납작한 반면 일본 젓가락은 대개 나무이며 끝이 뾰족하다.",
+    "why": "(B) 중국에서 처음 쓰임 → (C) 여러 나라로 퍼지며 양식 발전 → (A) 오늘날 각국 젓가락의 차이 순서입니다.",
+    "optionNotes": [
+      "(A)의 'Today'가 과정보다 먼저 나올 수 없습니다.",
+      "(A)가 (B) 바로 뒤에 오면 'each country'의 맥락이 빠집니다.",
+      "정답. 중국 기원 → 확산 → 오늘날의 차이.",
+      "(C)의 'the custom'이 가리킬 관습이 앞에 없습니다.",
+      "(C)가 먼저 오면 'the custom'이 불분명합니다."
+    ],
+    "trap": "(C)의 'the custom'은 (B)에서 설명한 젓가락 사용을 가리킵니다.",
+    "tip": "first used → spread → Today의 시간 순서를 따라가세요."
+  },
+  {
+    "id": "m2b-26-37",
+    "level": "m2",
+    "set": "mock-26",
+    "no": 37,
+    "type": "order",
+    "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+    "passage": "Jisoo's pet hamster, Mongi, suddenly stopped eating one morning. He had never refused food before. She could not concentrate on her homework. She was very worried because Mongi was usually full of energy.\n(A) After a short treatment, Mongi began to eat again. Jisoo hugged her hamster gently and promised to take better care of him.\n(B) Her aunt told her to bring Mongi to the clinic right away. At the clinic, the doctor found a small problem with Mongi's teeth.\n(C) First, she called her aunt, who was a veterinarian, and described Mongi's behavior.",
+    "options": [
+      "(A)-(C)-(B)",
+      "(B)-(A)-(C)",
+      "(B)-(C)-(A)",
+      "(C)-(A)-(B)",
+      "(C)-(B)-(A)"
+    ],
+    "answer": 4,
+    "translation": "지수의 반려 햄스터 몽이가 어느 날 아침 갑자기 먹기를 멈췄다. 몽이는 전에 먹이를 거부한 적이 없었다. 그녀는 숙제에 집중할 수 없었다. 몽이는 보통 활기가 넘쳤기에 그녀는 매우 걱정되었다. (C) 먼저 그녀는 수의사인 이모에게 전화해 몽이의 행동을 설명했다. (B) 이모는 몽이를 곧바로 병원에 데려오라고 했다. 병원에서 의사는 몽이의 이빨에 작은 문제가 있음을 발견했다. (A) 짧은 치료 뒤 몽이는 다시 먹기 시작했다. 지수는 햄스터를 부드럽게 안아 주고 더 잘 돌보겠다고 약속했다.",
+    "why": "(C) 이모에게 전화 → (B) 병원에서 문제 발견 → (A) 치료 후 다시 먹음 순서입니다.",
+    "optionNotes": [
+      "(A)의 결과가 맨 앞에 올 수 없습니다.",
+      "(B)의 'Her aunt'가 먼저 소개되지 않았습니다.",
+      "(B)가 먼저 오면 'Her aunt'가 불분명합니다.",
+      "(A)의 결과가 (B)의 문제 발견보다 먼저 올 수 없습니다.",
+      "정답. 전화 → 병원 → 치료."
+    ],
+    "trap": "(B)의 'Her aunt'는 (C)에서 전화한 이모입니다.",
+    "tip": "First → 병원 → After a short treatment의 순서를 따라가세요."
+  },
+  {
+    "id": "m2b-26-38",
+    "level": "m2",
+    "set": "mock-26",
+    "no": 38,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nPlastic pollution is one of the biggest problems facing our oceans.\n\n[글]\n( ① ) Every year, millions of tons of plastic waste flow into the sea from rivers and coasts. ( ② ) Sea turtles and birds often eat the plastic, thinking that it is food, and many of them die as a result. ( ③ ) Over time, plastic breaks into tiny pieces that enter the food chain. ( ④ ) Experts say that cutting down on single-use plastic is the best solution. ( ⑤ ) Even small actions, such as bringing your own bottle, can help.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 0,
+    "translation": "[주어진 문장] 플라스틱 오염은 우리 바다가 직면한 가장 큰 문제 중 하나이다. [글] 해마다 수백만 톤의 플라스틱 쓰레기가 강과 해안에서 바다로 흘러든다. 바다거북과 새는 흔히 플라스틱을 먹이로 착각해 먹고 많은 수가 그 때문에 죽는다. 시간이 지나면 플라스틱은 작은 조각으로 부서져 먹이 사슬로 들어간다. 전문가들은 일회용 플라스틱을 줄이는 것이 최선의 해결책이라고 말한다. 자기 병을 가져오는 것 같은 작은 행동도 도움이 될 수 있다.",
+    "why": "글 전체의 주제를 제시하는 일반적 진술이므로 구체적 설명보다 앞인 ①에 들어갑니다.",
+    "optionNotes": [
+      "정답. 주제문이 구체적 설명보다 먼저 옵니다.",
+      "구체적 피해 사례 뒤에 오면 흐름이 어색합니다.",
+      "먹이 사슬 설명 앞이라 어색합니다.",
+      "해결책 앞이라 어색합니다.",
+      "결론 앞이라 어색합니다."
+    ],
+    "trap": "①의 'Every year, ~'도 문제를 설명하지만 그 앞에 일반적 주제문이 필요합니다.",
+    "tip": "주제문은 구체적 수치나 사례보다 앞에 놓입니다."
+  },
+  {
+    "id": "m2b-26-39",
+    "level": "m2",
+    "set": "mock-26",
+    "no": 39,
+    "type": "insert",
+    "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+    "passage": "[주어진 문장]\nThis is because plants cannot move to escape from danger.\n\n[글]\n( ① ) Plants have many clever ways to protect themselves from animals that want to eat them. ( ② ) Some plants grow sharp thorns that keep hungry animals away from their stems and leaves. ( ③ ) Others produce bitter chemicals that taste terrible to insects and other creatures. ( ④ ) A few plants even call for help by releasing smells that attract insects that eat their attackers. ( ⑤ ) These defenses help plants survive in places where they cannot run away.",
+    "options": [
+      "①",
+      "②",
+      "③",
+      "④",
+      "⑤"
+    ],
+    "answer": 1,
+    "translation": "[주어진 문장] 이는 식물이 위험을 피해 움직일 수 없기 때문이다. [글] 식물은 자신을 먹으려는 동물로부터 스스로를 지키는 영리한 방법을 많이 가지고 있다. 어떤 식물은 배고픈 동물이 줄기와 잎에 가까이 오지 못하도록 날카로운 가시를 기른다. 다른 식물은 곤충과 다른 생물에게 끔찍한 맛이 나는 쓴 물질을 만든다. 일부 식물은 공격자를 먹는 곤충을 끌어들이는 냄새를 내보내 도움을 청하기도 한다. 이런 방어는 식물이 도망갈 수 없는 곳에서 살아남도록 돕는다.",
+    "why": "식물이 스스로를 지키는 방법이 많다는 진술 뒤에 'This is because'로 그 이유(움직일 수 없음)를 설명하고, 이어 구체적 방어가 나오므로 ②에 들어갑니다.",
+    "optionNotes": [
+      "'This'가 가리킬 진술이 아직 없습니다.",
+      "정답. 방어 방법이 많다는 진술 뒤에 이유를 설명합니다.",
+      "가시 설명 뒤에 오면 일부 사례에 대한 이유가 됩니다.",
+      "쓴 물질 설명 뒤에 오면 흐름이 끊깁니다.",
+      "결론 앞에 오면 중복됩니다."
+    ],
+    "trap": "'This is because'는 바로 앞 문장의 사실에 대한 이유를 설명합니다.",
+    "tip": "This is because는 설명할 사실 직후에 놓입니다."
+  },
+  {
+    "id": "m2b-26-40",
+    "level": "m2",
+    "set": "mock-26",
+    "no": 40,
+    "type": "summary",
+    "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "A school asked students to leave their phones in a box during lunch for one month. At first, many students complained and felt bored. After a week, however, they began to talk with one another, play games, and laugh more. The cafeteria became noisier and livelier. By the end of the month, teachers noticed that students were less tired in the afternoon. A survey also showed that most students felt closer to their friends. The school decided to keep the rule. Some students even said that they enjoyed lunch more than before.\n\n▶ Without (A) during lunch, students spent more time (B) with friends.",
+    "options": [
+      "(A) food — (B) sleeping",
+      "(A) music — (B) studying",
+      "(A) homework — (B) cooking",
+      "(A) phones — (B) talking",
+      "(A) chairs — (B) running"
+    ],
+    "answer": 3,
+    "translation": "한 학교가 학생들에게 한 달 동안 점심시간에 휴대전화를 상자에 두게 했다. 처음에 많은 학생이 불평하고 지루해했다. 그러나 일주일 뒤 그들은 서로 이야기하고 게임을 하며 더 많이 웃기 시작했다. 급식실은 더 시끌벅적하고 활기차졌다. 한 달이 끝날 무렵 교사들은 학생들이 오후에 덜 피곤해한다는 것을 알아챘다. 설문에서도 대부분의 학생이 친구들과 더 가까워졌다고 느꼈다. 학교는 이 규칙을 유지하기로 했다. 일부 학생은 전보다 점심을 더 즐긴다고 말하기도 했다. ▶ 점심시간에 (A) 없이 학생들은 친구들과 (B) 시간을 더 많이 보냈다.",
+    "why": "휴대전화를 두고 지내자 학생들이 서로 이야기하는 시간이 늘었으므로 (A)는 phones, (B)는 talking입니다.",
+    "optionNotes": [
+      "food와 sleeping은 글에 나오지 않습니다.",
+      "music과 studying은 글에 나오지 않습니다.",
+      "homework와 cooking은 글에 나오지 않습니다.",
+      "정답. 휴대전화 없이 이야기하는 시간이 늘었습니다.",
+      "chairs와 running은 글에 나오지 않습니다."
+    ],
+    "trap": "처음의 불평(complained)을 최종 결과로 오해하지 마세요.",
+    "tip": "요약문은 규칙(휴대전화 보관)과 결과(대화 증가)를 짝지으세요."
+  }
+]
