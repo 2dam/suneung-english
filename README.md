@@ -10,7 +10,7 @@ npm install
 npm run dev            # 개발 서버
 npm run check:content  # 문제 데이터 검사 (build 전에 자동 실행)
 npm run build
-npm run audio          # 듣기 음원 생성 (Azure Speech 키 필요, scripts/make-audio.mjs 참고)
+npm run audio          # 듣기 음원 생성 (GOOGLE_TTS_KEY 환경변수 필요, scripts/make-audio.mjs 참고)
 ```
 
 ## 문제 추가하는 법
