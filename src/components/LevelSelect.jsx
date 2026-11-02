@@ -1,4 +1,6 @@
 import { LEVELS } from '../data/levels'
+import { SITE_URL } from '../data/site'
+import QrCode from './QrCode'
 
 export default function LevelSelect({ onSelect }) {
   return (
@@ -18,6 +20,15 @@ export default function LevelSelect({ onSelect }) {
           </button>
         ))}
       </div>
+
+      <section className="site-qr" aria-label="사이트 주소 QR">
+        <QrCode value={SITE_URL} size={120} />
+        <div>
+          <strong>휴대폰으로 스캔하면 이 사이트가 열려요</strong>
+          <p className="muted small">{SITE_URL.replace('https://', '')}</p>
+        </div>
+      </section>
+
       <p className="muted small disclaimer">
         이 앱의 모든 문제는 수능 출제 형식을 참고해 중학생 수준으로 새로 만든 연습 문제이며, 한국교육과정평가원·EBS와
         관련이 없습니다.

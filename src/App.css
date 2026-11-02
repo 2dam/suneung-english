@@ -250,6 +250,11 @@ button:disabled { cursor: not-allowed; opacity: 0.5; }
   .on-screen .chart .tick, .on-screen .chart .axis, .on-screen .chart .value { fill: #000; }
 }
 
+/* 첫 화면의 사이트 주소 QR */
+.site-qr { display: flex; align-items: center; gap: 16px; margin: 20px 0 8px; padding: 14px; background: var(--card); border: 1px solid var(--line); border-radius: 12px; }
+.site-qr .qr { width: 120px; height: 120px; flex: none; border: 1px solid var(--line); }
+.site-qr p { margin: 4px 0 0; }
+
 /* 목록의 회차별 QR */
 .exam-qr { flex-basis: 100%; display: flex; align-items: center; gap: 14px; padding-top: 10px; border-top: 1px dashed var(--line); }
 .exam-qr .qr { width: 160px; height: 160px; flex: none; border: 1px solid var(--line); }
