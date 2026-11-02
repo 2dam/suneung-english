@@ -3,6 +3,7 @@ import { createPortal } from 'react-dom'
 import { getLevel } from '../data/levels'
 import { TYPES, typeLabel } from '../data/types'
 import Passage, { CIRCLED } from './Passage'
+import ListeningPlayer from './ListeningPlayer'
 import QrCode from './QrCode'
 import Visual from './Visual'
 
@@ -87,7 +88,19 @@ export default function PrintSheet({ job, onDone }) {
 
             {showQuestions &&
               (isListening ? (
-                <p className="print-note">(듣기 문항 — 음원을 들으며 풉니다. 대본은 정답 및 해설에 있습니다.)</p>
+                <>
+                  {job.onScreen && (
+                    <div className="sheet-audio">
+                      <ListeningPlayer
+                        id={question.id}
+                        lines={question.script}
+                        rate={getLevel(question.level)?.speechRate ?? 0.95}
+                        showScript={false}
+                      />
+                    </div>
+                  )}
+                  <p className="print-note">(듣기 문항 — 음원을 들으며 풉니다. 대본은 정답 및 해설에 있습니다.)</p>
+                </>
               ) : (
                 <Passage text={question.passage} />
               ))}
