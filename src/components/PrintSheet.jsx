@@ -38,7 +38,7 @@ export default function PrintSheet({ job, onDone }) {
   const levelName = (question) => getLevel(question.level)?.name || ''
 
   return createPortal(
-    <div className="print-root">
+    <div className={job.onScreen ? 'print-root on-screen' : 'print-root'}>
       <header className="print-head">
         <div>
           <h1>

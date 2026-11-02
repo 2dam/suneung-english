@@ -9,6 +9,7 @@ import LevelSelect from './components/LevelSelect'
 import PracticeSetup from './components/PracticeSetup'
 import PrintSheet from './components/PrintSheet'
 import QuizRunner from './components/QuizRunner'
+import SheetView from './components/SheetView'
 import ResultView from './components/ResultView'
 import WrongNotes from './components/WrongNotes'
 
@@ -33,6 +34,21 @@ function pdfJobFromUrl() {
   }
 }
 
+// 문제지 화면: ?sheet=<코스>:<학년>:<회차 번호> — 목록의 QR이 가리키는 주소. 문제지를 보여 주고 인쇄할지 묻는다.
+function sheetFromUrl() {
+  const spec = new URLSearchParams(window.location.search).get('sheet')
+  if (!spec) return null
+  const [courseId, levelId, number] = spec.split(':')
+  const level = getLevel(levelId)
+  const exam = level && mockExams(courseId, levelId).find((item) => Number(item.set.replace('mock-', '')) === Number(number))
+  if (!exam) return null
+  const title = `${level.name} ${getCourse(courseId).name} ${exam.title}`
+  return {
+    job: { title, questions: exam.questions, mode: 'questions', qrUrl: examUrl(courseId, levelId, Number(number)) },
+    examHref: `?exam=${courseId}:${levelId}:${Number(number)}`,
+  }
+}
+
 // 회차 바로가기: ?exam=<코스>:<학년>:<회차 번호> — 시험지 QR이 가리키는 주소. 열면 그 회차가 바로 시작된다.
 function examFromUrl() {
   const spec = new URLSearchParams(window.location.search).get('exam')
@@ -50,7 +66,8 @@ function examFromUrl() {
 }
 
 export default function App() {
-  const [boot] = useState(examFromUrl) // QR로 들어왔으면 그 회차로 시작한다(저장된 학년·코스는 건드리지 않는다)
+  const [sheet] = useState(sheetFromUrl) // 목록 QR로 들어왔으면 문제지 화면을 보여 준다
+  const [boot] = useState(examFromUrl) // 시험지 QR로 들어왔으면 그 회차로 시작한다(저장된 학년·코스는 건드리지 않는다)
   const [levelId, setLevelId] = useState(() => boot?.levelId ?? load('level', null))
   const [courseId, setCourseId] = useState(() => boot?.courseId ?? getCourse(load('course', 'a')).id)
   const [tab, setTab] = useState('study')
@@ -126,6 +143,7 @@ export default function App() {
 
   const [pdfJob] = useState(pdfJobFromUrl)
   if (pdfJob) return <PrintSheet job={pdfJob} onDone={clearPrint} />
+  if (sheet) return <SheetView job={sheet.job} examHref={sheet.examHref} />
 
   if (!level) return <LevelSelect onSelect={chooseLevel} />
 

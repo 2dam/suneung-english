@@ -221,6 +221,39 @@ button:disabled { cursor: not-allowed; opacity: 0.5; }
   .answer-table th, .answer-table td { border: 1px solid #999; padding: 3pt; text-align: center; font-size: 10pt; }
 }
 
+/* 문제지 화면(QR로 열림): 인쇄용 문서를 화면에서도 보여 준다 */
+.sheet-bar { position: sticky; top: 0; z-index: 5; background: var(--bg); padding-bottom: 10px; }
+.sheet-ask { margin: 0 0 8px; }
+.sheet-buttons { flex-wrap: wrap; }
+.sheet-buttons .btn { text-decoration: none; text-align: center; }
+@media screen {
+  .print-root.on-screen {
+    display: block; max-width: 760px; margin: 0 auto 40px; padding: 20px; background: #fff;
+    border: 1px solid var(--line); border-radius: 10px; font-size: 15px; line-height: 1.6;
+    font-family: Georgia, 'Times New Roman', 'Noto Serif KR', serif; color: #000;
+  }
+  .on-screen h1 { font-size: 20px; margin: 0 0 4px; }
+  .on-screen .print-meta { color: #555; margin: 0 0 14px; font-size: 12px; }
+  .on-screen .print-head { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; }
+  .on-screen .print-qr { margin: 0; text-align: center; flex: none; }
+  .on-screen .print-qr .qr { display: block; width: 88px; height: 88px; }
+  .on-screen .print-qr figcaption { font-size: 10px; color: #555; max-width: 88px; line-height: 1.3; }
+  .on-screen .print-q { margin: 0 0 20px; }
+  .on-screen .print-q h2 { font-size: 16px; margin: 0 0 8px; }
+  .on-screen .print-q h2 small { font-weight: 400; color: #666; }
+  .on-screen .passage { border: 1px solid #999; background: #fff; padding: 10px; }
+  .on-screen .print-options { list-style: none; margin: 8px 0 0; padding: 0; }
+  .on-screen .print-options li { margin: 3px 0; }
+  .on-screen .print-note { color: #444; font-size: 13px; margin: 6px 0; }
+  .on-screen .picture, .on-screen .chart { border: 1px solid #999; background: #fff; }
+  .on-screen .chart .tick, .on-screen .chart .axis, .on-screen .chart .value { fill: #000; }
+}
+
+/* 목록의 회차별 QR */
+.exam-qr { flex-basis: 100%; display: flex; align-items: center; gap: 14px; padding-top: 10px; border-top: 1px dashed var(--line); }
+.exam-qr .qr { width: 160px; height: 160px; flex: none; border: 1px solid var(--line); }
+.exam-qr p { margin: 0; }
+
 .score { font-size: 1.4rem; margin: 6px 0 14px; }
 .score strong { font-size: 2rem; color: var(--primary); }
 .result-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }
