@@ -85,3 +85,7 @@ npm run pdf -- --level m3 --mock 10   # 특정 학년·회차만
 
 앱에 `?pdf=<코스>:<학년>:<회차>:<questions|answers>` 주소로 접속하면 인쇄용 문서만 그려지며,
 설치된 Chrome/Edge 헤드리스 모드가 그것을 PDF로 저장한다. `exports/`는 저장소에 올리지 않는다.
+
+PDF 머리말에는 그 회차의 QR이 들어간다. QR은 `https://suneung.ichapterwise.com/?exam=<코스>:<학년>:<회차>`
+(회차 바로가기)를 가리키며, 스캔하면 그 회차 모의고사가 바로 시작된다. 서비스 주소는
+`src/data/site.js`의 `SITE_URL`에서 바꾼다(로컬에서 PDF를 만들어도 QR은 이 주소를 가리킨다).

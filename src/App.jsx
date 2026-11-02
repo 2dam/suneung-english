@@ -1,6 +1,7 @@
 import { useCallback, useState } from 'react'
 import { COURSES, getCourse, getLevel } from './data/levels'
 import { QUESTION_MAP, mockExams } from './data/questions'
+import { examUrl } from './data/site'
 import { load, save } from './lib/storage'
 import { stopSpeech } from './lib/speech'
 import ExamRunner from './components/ExamRunner'
@@ -23,14 +24,37 @@ function pdfJobFromUrl() {
   const exam = mockExams(courseId, levelId).find((item) => Number(item.set.replace('mock-', '')) === Number(number))
   if (!exam) return null
   const title = `${getLevel(levelId).name} ${getCourse(courseId).name} ${exam.title}`
-  return { title, questions: exam.questions, mode: ['answers', 'both'].includes(mode) ? mode : 'questions', static: true }
+  return {
+    title,
+    questions: exam.questions,
+    mode: ['answers', 'both'].includes(mode) ? mode : 'questions',
+    static: true,
+    qrUrl: examUrl(courseId, levelId, Number(number)),
+  }
+}
+
+// 회차 바로가기: ?exam=<코스>:<학년>:<회차 번호> — 시험지 QR이 가리키는 주소. 열면 그 회차가 바로 시작된다.
+function examFromUrl() {
+  const spec = new URLSearchParams(window.location.search).get('exam')
+  if (!spec) return null
+  const [courseId, levelId, number] = spec.split(':')
+  const level = getLevel(levelId)
+  const exam = level && mockExams(courseId, levelId).find((item) => Number(item.set.replace('mock-', '')) === Number(number))
+  if (!exam) return null
+  const title = `${level.name} ${getCourse(courseId).name} ${exam.title}`
+  return {
+    courseId: getCourse(courseId).id,
+    levelId,
+    session: { kind: 'exam', title, questions: exam.questions, minutes: examMinutes(exam.questions.length) },
+  }
 }
 
 export default function App() {
-  const [levelId, setLevelId] = useState(() => load('level', null))
-  const [courseId, setCourseId] = useState(() => getCourse(load('course', 'a')).id)
+  const [boot] = useState(examFromUrl) // QR로 들어왔으면 그 회차로 시작한다(저장된 학년·코스는 건드리지 않는다)
+  const [levelId, setLevelId] = useState(() => boot?.levelId ?? load('level', null))
+  const [courseId, setCourseId] = useState(() => boot?.courseId ?? getCourse(load('course', 'a')).id)
   const [tab, setTab] = useState('study')
-  const [session, setSession] = useState(null) // { kind: 'practice'|'exam', title, questions, minutes }
+  const [session, setSession] = useState(boot?.session ?? null) // { kind: 'practice'|'exam', title, questions, minutes }
   const [result, setResult] = useState(null)
   const [printJob, setPrintJob] = useState(null)
   // 오답노트: { [문제 id]: { count, last } }

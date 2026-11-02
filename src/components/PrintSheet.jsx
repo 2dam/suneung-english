@@ -3,6 +3,7 @@ import { createPortal } from 'react-dom'
 import { getLevel } from '../data/levels'
 import { TYPES, typeLabel } from '../data/types'
 import Passage, { CIRCLED } from './Passage'
+import QrCode from './QrCode'
 import Visual from './Visual'
 
 /**
@@ -38,10 +39,20 @@ export default function PrintSheet({ job, onDone }) {
 
   return createPortal(
     <div className="print-root">
-      <h1>
-        {title} — {mode === 'questions' ? '문제지' : mode === 'answers' ? '정답 및 해설' : '문제와 해설'}
-      </h1>
-      <p className="print-meta">수능영어 유형 연습 · 직접 만든 연습 문제</p>
+      <header className="print-head">
+        <div>
+          <h1>
+            {title} — {mode === 'questions' ? '문제지' : mode === 'answers' ? '정답 및 해설' : '문제와 해설'}
+          </h1>
+          <p className="print-meta">수능영어 유형 연습 · 직접 만든 연습 문제</p>
+        </div>
+        {job.qrUrl && (
+          <figure className="print-qr">
+            <QrCode value={job.qrUrl} />
+            <figcaption>스캔하면 이 회차를 온라인으로 풀 수 있어요</figcaption>
+          </figure>
+        )}
+      </header>
 
       {mode === 'answers' && (
         <table className="answer-table">

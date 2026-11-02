@@ -200,6 +200,10 @@ button:disabled { cursor: not-allowed; opacity: 0.5; }
   .print-root { font-size: 11pt; line-height: 1.5; font-family: Georgia, 'Times New Roman', 'Noto Serif KR', serif; }
   .print-root h1 { font-size: 16pt; margin: 0 0 4pt; }
   .print-meta { color: #555; margin: 0 0 12pt; font-size: 9pt; }
+  .print-head { display: flex; justify-content: space-between; align-items: flex-start; gap: 12pt; }
+  .print-qr { margin: 0; text-align: center; flex: none; }
+  .print-qr .qr { display: block; width: 26mm; height: 26mm; }
+  .print-qr figcaption { font-size: 7pt; color: #555; max-width: 26mm; line-height: 1.3; }
   .print-q { break-inside: avoid; margin: 0 0 14pt; }
   .print-q h2 { font-size: 11.5pt; margin: 0 0 6pt; }
   .print-q h2 small { font-weight: 400; color: #666; }
