@@ -120,8 +120,8 @@ export default function App() {
     setTab('study')
   }
 
-  const print = (title, questions, mode) => {
-    if (questions.length > 0) setPrintJob({ title, questions, mode })
+  const print = (title, questions, mode, qrUrl) => {
+    if (questions.length > 0) setPrintJob({ title, questions, mode, qrUrl })
   }
 
   const [pdfJob] = useState(pdfJobFromUrl)

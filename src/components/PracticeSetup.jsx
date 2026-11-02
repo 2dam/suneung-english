@@ -1,14 +1,16 @@
 import { useMemo } from 'react'
 import { mockExams, practiceQuestions } from '../data/questions'
+import { examUrl } from '../data/site'
 import { TYPES, typeLabel } from '../data/types'
 
-function PrintButtons({ title, questions, onPrint }) {
+// qrUrl: 모의고사 회차 인쇄에만 넘긴다. 시험지 머리말에 그 회차로 바로 가는 QR이 들어간다.
+function PrintButtons({ title, questions, onPrint, qrUrl }) {
   return (
     <span className="print-buttons">
-      <button type="button" className="link" onClick={() => onPrint(title, questions, 'questions')}>
+      <button type="button" className="link" onClick={() => onPrint(title, questions, 'questions', qrUrl)}>
         문제지 인쇄
       </button>
-      <button type="button" className="link" onClick={() => onPrint(title, questions, 'answers')}>
+      <button type="button" className="link" onClick={() => onPrint(title, questions, 'answers', qrUrl)}>
         정답·해설 인쇄
       </button>
     </span>
@@ -60,7 +62,12 @@ export default function PracticeSetup({ course, level, onStart, onStartExam, onP
                     <button type="button" className="btn primary small-btn" onClick={() => onStartExam(exam)}>
                       시험 시작
                     </button>
-                    <PrintButtons title={`${label} ${exam.title}`} questions={exam.questions} onPrint={onPrint} />
+                    <PrintButtons
+                      title={`${label} ${exam.title}`}
+                      questions={exam.questions}
+                      onPrint={onPrint}
+                      qrUrl={examUrl(course.id, level.id, Number(exam.set.replace('mock-', '')))}
+                    />
                   </div>
                 </li>
               )
