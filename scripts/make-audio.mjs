@@ -146,9 +146,17 @@ if (dry) {
   process.exit(0)
 }
 
-const key = process.env.GOOGLE_TTS_KEY
+// 환경변수가 없으면 프로젝트 루트의 .env.local(Git 제외)에서 GOOGLE_TTS_KEY=... 줄을 읽는다.
+function keyFromEnvFile() {
+  const file = path.join(root, '.env.local')
+  if (!fs.existsSync(file)) return undefined
+  const lines = fs.readFileSync(file, 'utf8').split('\n')
+  const line = lines.find((l) => l.trim().startsWith('GOOGLE_TTS_KEY'))
+  return line?.split('=').slice(1).join('=').trim().replace(/^["']|["']$/g, '') || undefined
+}
+const key = process.env.GOOGLE_TTS_KEY || keyFromEnvFile()
 if (!key) {
-  console.error('GOOGLE_TTS_KEY 환경변수가 필요합니다. (키는 저장소에 넣지 마세요)')
+  console.error('GOOGLE_TTS_KEY가 필요합니다. 환경변수 또는 프로젝트 루트의 .env.local 파일(GOOGLE_TTS_KEY=...)로 주세요. (키는 저장소에 넣지 마세요)')
   process.exit(1)
 }
 if (spawnSync('ffmpeg', ['-version']).error) {
