@@ -49,11 +49,11 @@ function listJson(dir) {
 const escapeXml = (text) =>
   text.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;')
 
-// 방송 구성(수능 듣기처럼): 차임벨 → 한국어 문항 번호·발문 → 영어 대본 → (마지막 문항만) 마무리 안내.
+// 방송 구성(수능 듣기처럼): 한국어 문항 번호·발문 → 1초 쉼 → 차임벨 1초 → 1초 쉼 → 영어 대본 → (마지막 문항만) 마무리 안내.
 // Google은 한 요청에 한 목소리만 쓸 수 있어 문장마다 따로 호출해 mp3를 이어 붙인다.
 // 쉼은 각 문장 끝에 SSML <break>로 넣는다.
 async function speak(text, languageCode, voiceName, speakingRate, key, gapMs = GAP_MS) {
-  const ssml = `<speak>${escapeXml(text)}<break time="${gapMs}ms"/></speak>`
+  const ssml = `<speak>${escapeXml(text)}${gapMs > 0 ? `<break time="${gapMs}ms"/>` : ''}</speak>`
   const response = await fetch(`https://texttospeech.googleapis.com/v1/text:synthesize?key=${key}`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
@@ -78,7 +78,7 @@ function chime() {
       '-f', 'lavfi', '-i', 'sine=frequency=1046:duration=0.4',
       '-f', 'lavfi', '-i', 'sine=frequency=784:duration=0.6',
       '-filter_complex',
-      '[0:a]afade=t=in:d=0.02,afade=t=out:st=0.25:d=0.15[a];[1:a]afade=t=in:d=0.02,afade=t=out:st=0.3:d=0.3[b];[a][b]concat=n=2:v=0:a=1,volume=0.5,apad=pad_dur=0.5',
+      '[0:a]afade=t=in:d=0.02,afade=t=out:st=0.25:d=0.15[a];[1:a]afade=t=in:d=0.02,afade=t=out:st=0.3:d=0.3[b];[a][b]concat=n=2:v=0:a=1,volume=0.5',
       '-ar', '24000', '-ac', '1', '-b:a', '64k', '-f', 'mp3', 'pipe:1',
     ],
     { maxBuffer: 16 * 1024 * 1024 },
@@ -88,12 +88,48 @@ function chime() {
   return chimeCache
 }
 
+// mp3 앞(head)·뒤(tail)의 무음을 잘라 낸다. 쉼을 정확히 맞추려고 한국어 끝, 영어 첫 줄에 쓴다.
+function trimSilence(mp3, { head = false, tail = false }) {
+  const cut = 'silenceremove=start_periods=1:start_threshold=-50dB:start_silence=0.05'
+  const filters = []
+  if (head) filters.push(cut)
+  if (tail) filters.push('areverse', cut, 'areverse')
+  const result = spawnSync(
+    'ffmpeg',
+    ['-v', 'error', '-i', 'pipe:0', '-af', filters.join(','), '-ar', '24000', '-ac', '1', '-b:a', '128k', '-f', 'mp3', 'pipe:1'],
+    { input: mp3, maxBuffer: 64 * 1024 * 1024 },
+  )
+  if (result.error || result.status !== 0) throw new Error(`무음 자르기 실패: ${result.error?.message || result.stderr?.toString()}`)
+  return result.stdout
+}
+
+// 무음 mp3(24kHz 모노). 한국어 발문·차임벨·영어 사이의 정확한 쉼에 쓴다.
+const silenceCache = new Map()
+function silence(ms) {
+  if (silenceCache.has(ms)) return silenceCache.get(ms)
+  const result = spawnSync(
+    'ffmpeg',
+    ['-v', 'error', '-f', 'lavfi', '-i', 'anullsrc=r=24000:cl=mono', '-t', String(ms / 1000), '-b:a', '64k', '-f', 'mp3', 'pipe:1'],
+    { maxBuffer: 16 * 1024 * 1024 },
+  )
+  if (result.error || result.status !== 0) throw new Error(`무음 생성 실패: ${result.error?.message || result.stderr?.toString()}`)
+  silenceCache.set(ms, result.stdout)
+  return result.stdout
+}
+
 async function synthesize(question, key) {
   const rate = RATE[question.level] ?? 1
-  const parts = [chime()]
-  for (const text of spokenBefore(question)) parts.push(await speak(text, 'ko-KR', KO_VOICE, 1, key, 900))
-  for (const line of question.script) {
-    parts.push(await speak(line.text, 'en-US', VOICES[line.speaker] || VOICES.N, rate, key))
+  const parts = []
+  const before = spokenBefore(question)
+  for (const [i, text] of before.entries()) {
+    // 마지막 한국어 문장 뒤는 정확한 쉼(아래 1초)만 두고, 앞 문장들 사이에는 짧은 쉼을 둔다.
+    const part = await speak(text, 'ko-KR', KO_VOICE, 1, key, i < before.length - 1 ? 700 : 0)
+    parts.push(i === before.length - 1 ? trimSilence(part, { tail: true }) : part)
+  }
+  parts.push(silence(1000), chime(), silence(1000))
+  for (const [i, line] of question.script.entries()) {
+    const part = await speak(line.text, 'en-US', VOICES[line.speaker] || VOICES.N, rate, key)
+    parts.push(i === 0 ? trimSilence(part, { head: true }) : part)
   }
   for (const text of spokenAfter(question)) parts.push(await speak(text, 'ko-KR', KO_VOICE, 1, key, 600))
   return shrink(Buffer.concat(parts))

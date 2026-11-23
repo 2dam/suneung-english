@@ -1,5 +1,5 @@
 // 임시 듣기 음성: 브라우저 내장 음성 합성(Web Speech API).
-// 녹음 음원(mp3)이 없는 문항에서만 쓴다. 음원과 같은 순서로 읽는다: 차임벨 → 한국어 발문 → 영어 대본 → (마지막 문항) 마무리.
+// 녹음 음원(mp3)이 없는 문항에서만 쓴다. 음원과 같은 순서로 읽는다: 한국어 발문 → 1초 → 차임벨 1초 → 1초 → 영어 대본 → (마지막 문항) 마무리.
 const synth = typeof window !== 'undefined' ? window.speechSynthesis : null
 
 export const speechSupported = Boolean(synth)
@@ -40,11 +40,11 @@ function playChime() {
         osc.stop(t + length + 0.05)
       }
       tone(1046, 0, 0.4)
-      tone(784, 0.45, 0.6)
+      tone(784, 0.4, 0.6)
       setTimeout(() => {
         ctx.close()
         resolve()
-      }, 1300)
+      }, 1000)
     } catch {
       resolve()
     }
@@ -64,9 +64,10 @@ export function playScript(lines, { rate = 0.95, intro = [], outro = [], onLine,
   let cancelled = false
   let timer = null
 
+  // gap: 이 단계가 끝난 뒤 다음 단계까지의 쉼(ms). 한국어 발문 끝 1초 → 차임벨 1초 → 1초 → 영어.
   const steps = [
-    { chime: true },
-    ...intro.map((text) => ({ text, lang: 'ko-KR' })),
+    ...intro.map((text, i) => ({ text, lang: 'ko-KR', gap: i === intro.length - 1 ? 1000 : 500 })),
+    { chime: true, gap: 1000 },
     ...lines.map((line, index) => ({ text: line.text, lang: 'en-US', speaker: line.speaker, index })),
     ...outro.map((text) => ({ text, lang: 'ko-KR' })),
   ]
@@ -79,7 +80,7 @@ export function playScript(lines, { rate = 0.95, intro = [], outro = [], onLine,
     }
     const step = steps[i]
     const next = () => {
-      timer = setTimeout(() => run(i + 1), step.chime ? 300 : 500)
+      timer = setTimeout(() => run(i + 1), step.gap ?? 500)
     }
     if (step.chime) {
       playChime().then(() => !cancelled && next())
