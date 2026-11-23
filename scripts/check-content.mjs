@@ -129,7 +129,7 @@ for (const q of questions) {
   if (q.type === 'blank' && q.passage && !/_{5,}/.test(q.passage)) err(id, '빈칸 문제에 ____ 표기가 없습니다')
 
   // 학년별 난이도 기준(읽기 지문 길이, 문장 길이, 듣기 대본 길이)
-  const spec = LEVELS.find((level) => level.id === q.level)?.spec?.[q.course]
+  const spec = LEVELS.find((level) => level.id === q.level)?.spec?.[q.rev === 2 ? `${q.course}2` : q.course]
   if (spec) {
     const raw = info.section === 'listening' ? (q.script || []).map((l) => l.text).join(' ') : q.passage || ''
     const cleaned = raw
@@ -145,9 +145,14 @@ for (const q of questions) {
     const avg = counts.length ? total / counts.length : 0
     const isSet = q.type === 'long' || q.type === 'l-set'
     const factor = isSet ? 1.7 : 1
-    if (info.section === 'reading' && q.passage) {
-      const [lo, hi] = spec.readingWords
-      const shortOk = ['notice', 'implied', 'grammar', 'vocab', 'chart', 'insert', 'irrelevant'].includes(q.type) // 구조상 짧은 유형
+    if (info.section === 'reading' && q.passage && spec.longWords && q.type === 'long') {
+      // 개정판 장문: 41~42번(g41)과 43~45번(g43)은 각자의 범위로 검사한다.
+      const [lo2, hi2] = spec.longWords[String(q.group || '').endsWith('-g41') ? 'g41' : 'g43']
+      if (total < lo2 || total > hi2) warn(id, `장문 지문 길이가 범위를 벗어났습니다(${total}단어, 기준 ${lo2}~${hi2})`)
+    } else if (info.section === 'reading' && q.passage) {
+      const [lo0, hi] = spec.readingWords
+      const lo = spec.minByType?.[q.type] ?? lo0
+      const shortOk = (q.rev === 2 ? ['notice', 'chart'] : ['notice', 'implied', 'grammar', 'vocab', 'chart', 'insert', 'irrelevant']).includes(q.type) // 구조상 짧은 유형(개정판은 안내문·도표만)
       if (!isSet && !shortOk && total < lo) warn(id, `지문이 짧습니다(${total}단어, 기준 ${lo}~${hi})`)
       if (total > hi * factor) warn(id, `지문이 깁니다(${total}단어, 기준 ${lo}~${Math.round(hi * factor)})`)
     }

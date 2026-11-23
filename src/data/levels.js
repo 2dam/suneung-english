@@ -42,6 +42,9 @@ export const LEVELS = [
       a: { readingWords: [55, 125], scriptWords: 100, avgSentence: 15, maxSentence: 21 },
       // B코스 중2 = EBS 「중학 수능특강 영어 유형+실전」(중3용) 수준
       b: { readingWords: [90, 165], scriptWords: 130, avgSentence: 18, maxSentence: 26 },
+      // b2: 지문 길이를 실제 수능 문제지(영어영역_문제지.pdf)에서 측정한 값에 맞춘 개정판(문항에 rev: 2가 있는 회차).
+      //     장문은 41~42번(g41)·43~45번(g43) 별도 범위. 짧은 구조 유형(안내문·도표)만 최소 길이에서 제외한다.
+      b2: { readingWords: [150, 230], minByType: { purpose: 110, mood: 125, claim: 115 }, longWords: { g41: [250, 310], g43: [330, 410] }, scriptWords: 130, avgSentence: 26, maxSentence: 40 },
     },
   },
   {
@@ -55,6 +58,7 @@ export const LEVELS = [
       a: { readingWords: [75, 160], scriptWords: 125, avgSentence: 17, maxSentence: 26 },
       // B코스 중3 = EBS 고1·고2 1학기 교재(수능특강 계열 입문~학력평가) 수준
       b: { readingWords: [120, 200], scriptWords: 160, avgSentence: 21, maxSentence: 32 },
+      b2: { readingWords: [150, 230], minByType: { purpose: 110, mood: 125, claim: 115 }, longWords: { g41: [250, 310], g43: [330, 410] }, scriptWords: 160, avgSentence: 28, maxSentence: 44 },
     },
   },
 ]
