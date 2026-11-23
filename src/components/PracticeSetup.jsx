@@ -1,17 +1,14 @@
-import { useMemo, useState } from 'react'
+import { useMemo } from 'react'
 import { mockExams, practiceQuestions } from '../data/questions'
-import { examUrl, sheetUrl } from '../data/site'
-import QrCode from './QrCode'
 import { TYPES, typeLabel } from '../data/types'
 
-// qrUrl: 모의고사 회차 인쇄에만 넘긴다. 시험지 머리말에 그 회차로 바로 가는 QR이 들어간다.
-function PrintButtons({ title, questions, onPrint, qrUrl }) {
+function PrintButtons({ title, questions, onPrint }) {
   return (
     <span className="print-buttons">
-      <button type="button" className="link" onClick={() => onPrint(title, questions, 'questions', qrUrl)}>
+      <button type="button" className="link" onClick={() => onPrint(title, questions, 'questions')}>
         문제지 인쇄
       </button>
-      <button type="button" className="link" onClick={() => onPrint(title, questions, 'answers', qrUrl)}>
+      <button type="button" className="link" onClick={() => onPrint(title, questions, 'answers')}>
         정답·해설 인쇄
       </button>
     </span>
@@ -22,7 +19,6 @@ export default function PracticeSetup({ course, level, onStart, onStartExam, onP
   const pool = useMemo(() => practiceQuestions(course.id, level.id), [course.id, level.id])
   const exams = useMemo(() => mockExams(course.id, level.id), [course.id, level.id])
   const label = `${level.name} ${course.name}`
-  const [qrOpen, setQrOpen] = useState(null) // QR을 펼쳐 둔 회차(set)
 
   if (pool.length === 0 && exams.length === 0) {
     return (
@@ -54,7 +50,6 @@ export default function PracticeSetup({ course, level, onStart, onStartExam, onP
           <ul className="exam-list">
             {exams.map((exam) => {
               const complete = exam.questions.length === 45
-              const number = Number(exam.set.replace('mock-', ''))
               return (
                 <li key={exam.set}>
                   <div>
@@ -65,22 +60,8 @@ export default function PracticeSetup({ course, level, onStart, onStartExam, onP
                     <button type="button" className="btn primary small-btn" onClick={() => onStartExam(exam)}>
                       시험 시작
                     </button>
-                    <PrintButtons
-                      title={`${label} ${exam.title}`}
-                      questions={exam.questions}
-                      onPrint={onPrint}
-                      qrUrl={examUrl(course.id, level.id, number)}
-                    />
-                    <button type="button" className="link" aria-expanded={qrOpen === exam.set} onClick={() => setQrOpen(qrOpen === exam.set ? null : exam.set)}>
-                      QR
-                    </button>
+                    <PrintButtons title={`${label} ${exam.title}`} questions={exam.questions} onPrint={onPrint} />
                   </div>
-                  {qrOpen === exam.set && (
-                    <div className="exam-qr">
-                      <QrCode value={sheetUrl(course.id, level.id, number)} size={160} />
-                      <p className="muted small">스캔하면 이 회차 문제지가 열리고, 인쇄할지 물어봅니다.</p>
-                    </div>
-                  )}
                 </li>
               )
             })}

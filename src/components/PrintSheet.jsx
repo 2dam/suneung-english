@@ -3,7 +3,7 @@ import { createPortal } from 'react-dom'
 import { getLevel } from '../data/levels'
 import { TYPES, typeLabel } from '../data/types'
 import Passage, { CIRCLED } from './Passage'
-import ListeningPlayer from './ListeningPlayer'
+import { listenUrl } from '../data/site'
 import QrCode from './QrCode'
 import Visual from './Visual'
 
@@ -40,20 +40,10 @@ export default function PrintSheet({ job, onDone }) {
 
   return createPortal(
     <div className={job.onScreen ? 'print-root on-screen' : 'print-root'}>
-      <header className="print-head">
-        <div>
-          <h1>
-            {title} — {mode === 'questions' ? '문제지' : mode === 'answers' ? '정답 및 해설' : '문제와 해설'}
-          </h1>
-          <p className="print-meta">수능영어 유형 연습 · 직접 만든 연습 문제</p>
-        </div>
-        {job.qrUrl && (
-          <figure className="print-qr">
-            <QrCode value={job.qrUrl} />
-            <figcaption>스캔하면 이 회차를 온라인으로 풀 수 있어요</figcaption>
-          </figure>
-        )}
-      </header>
+      <h1>
+        {title} — {mode === 'questions' ? '문제지' : mode === 'answers' ? '정답 및 해설' : '문제와 해설'}
+      </h1>
+      <p className="print-meta">수능영어 유형 연습 · 직접 만든 연습 문제</p>
 
       {mode === 'answers' && (
         <table className="answer-table">
@@ -88,19 +78,13 @@ export default function PrintSheet({ job, onDone }) {
 
             {showQuestions &&
               (isListening ? (
-                <>
-                  {job.onScreen && (
-                    <div className="sheet-audio">
-                      <ListeningPlayer
-                        id={question.id}
-                        lines={question.script}
-                        rate={getLevel(question.level)?.speechRate ?? 0.95}
-                        showScript={false}
-                      />
-                    </div>
-                  )}
-                  <p className="print-note">(듣기 문항 — 음원을 들으며 풉니다. 대본은 정답 및 해설에 있습니다.)</p>
-                </>
+                // 듣기 문항에만 QR이 있다: 스캔하면 이 문항의 듣기가 재생된다.
+                <figure className="print-listen">
+                  <QrCode value={listenUrl(question.id)} />
+                  <figcaption>
+                    듣기 문항 — QR을 스캔하면 음원을 들을 수 있어요. 대본은 정답 및 해설에 있습니다.
+                  </figcaption>
+                </figure>
               ) : (
                 <Passage text={question.passage} />
               ))}

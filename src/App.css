@@ -200,11 +200,9 @@ button:disabled { cursor: not-allowed; opacity: 0.5; }
   .print-root { font-size: 11pt; line-height: 1.5; font-family: Georgia, 'Times New Roman', 'Noto Serif KR', serif; }
   .print-root h1 { font-size: 16pt; margin: 0 0 4pt; }
   .print-meta { color: #555; margin: 0 0 12pt; font-size: 9pt; }
-  .print-head { display: flex; justify-content: space-between; align-items: flex-start; gap: 12pt; }
-  .print-qr { margin: 0; text-align: center; flex: none; }
-  .print-qr .qr { display: block; width: 26mm; height: 26mm; }
-  .sheet-audio { display: none; }
-  .print-qr figcaption { font-size: 7pt; color: #555; max-width: 26mm; line-height: 1.3; }
+  .print-listen { display: flex; align-items: center; gap: 8pt; margin: 4pt 0 6pt; }
+  .print-listen .qr { width: 20mm; height: 20mm; flex: none; }
+  .print-listen figcaption { font-size: 8.5pt; color: #444; line-height: 1.4; }
   .print-q { break-inside: avoid; margin: 0 0 14pt; }
   .print-q h2 { font-size: 11.5pt; margin: 0 0 6pt; }
   .print-q h2 small { font-weight: 400; color: #666; }
@@ -222,11 +220,10 @@ button:disabled { cursor: not-allowed; opacity: 0.5; }
   .answer-table th, .answer-table td { border: 1px solid #999; padding: 3pt; text-align: center; font-size: 10pt; }
 }
 
-/* 문제지 화면(QR로 열림): 인쇄용 문서를 화면에서도 보여 준다 */
-.sheet-bar { position: sticky; top: 0; z-index: 5; background: var(--bg); padding-bottom: 10px; }
-.sheet-ask { margin: 0 0 8px; }
-.sheet-buttons { flex-wrap: wrap; }
-.sheet-buttons .btn { text-decoration: none; text-align: center; }
+/* 인쇄 미리보기: 인쇄용 문서를 화면에서도 그대로 보여 준다(휴대폰 인쇄용) */
+.print-preview-bar { position: sticky; top: 0; z-index: 5; background: var(--bg); padding-bottom: 10px; }
+.print-preview-bar p { margin: 0 0 8px; }
+.preview-buttons { flex-wrap: wrap; margin-bottom: 8px; }
 @media screen {
   .print-root.on-screen {
     display: block; max-width: 760px; margin: 0 auto 40px; padding: 20px; background: #fff;
@@ -235,10 +232,6 @@ button:disabled { cursor: not-allowed; opacity: 0.5; }
   }
   .on-screen h1 { font-size: 20px; margin: 0 0 4px; }
   .on-screen .print-meta { color: #555; margin: 0 0 14px; font-size: 12px; }
-  .on-screen .print-head { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; }
-  .on-screen .print-qr { margin: 0; text-align: center; flex: none; }
-  .on-screen .print-qr .qr { display: block; width: 88px; height: 88px; }
-  .on-screen .print-qr figcaption { font-size: 10px; color: #555; max-width: 88px; line-height: 1.3; }
   .on-screen .print-q { margin: 0 0 20px; }
   .on-screen .print-q h2 { font-size: 16px; margin: 0 0 8px; }
   .on-screen .print-q h2 small { font-weight: 400; color: #666; }
@@ -246,19 +239,19 @@ button:disabled { cursor: not-allowed; opacity: 0.5; }
   .on-screen .print-options { list-style: none; margin: 8px 0 0; padding: 0; }
   .on-screen .print-options li { margin: 3px 0; }
   .on-screen .print-note { color: #444; font-size: 13px; margin: 6px 0; }
+  .on-screen .print-listen { display: flex; align-items: center; gap: 10px; margin: 6px 0; }
+  .on-screen .print-listen .qr { width: 84px; height: 84px; flex: none; }
+  .on-screen .print-listen figcaption { font-size: 12px; color: #444; line-height: 1.4; }
+  .on-screen .print-answer { border-top: 1px dashed #999; margin-top: 10px; padding-top: 8px; font-size: 14px; }
+  .on-screen .print-answer ul { margin: 6px 0; padding-left: 4px; list-style: none; }
   .on-screen .picture, .on-screen .chart { border: 1px solid #999; background: #fff; }
   .on-screen .chart .tick, .on-screen .chart .axis, .on-screen .chart .value { fill: #000; }
+  .on-screen .answer-table { width: 100%; border-collapse: collapse; margin: 0 0 14px; }
+  .on-screen .answer-table th, .on-screen .answer-table td { border: 1px solid #999; padding: 3px; text-align: center; font-size: 13px; }
 }
-
-/* 첫 화면의 사이트 주소 QR */
-.site-qr { display: flex; align-items: center; gap: 16px; margin: 20px 0 8px; padding: 14px; background: var(--card); border: 1px solid var(--line); border-radius: 12px; }
-.site-qr .qr { width: 120px; height: 120px; flex: none; border: 1px solid var(--line); }
-.site-qr p { margin: 4px 0 0; }
-
-/* 목록의 회차별 QR */
-.exam-qr { flex-basis: 100%; display: flex; align-items: center; gap: 14px; padding-top: 10px; border-top: 1px dashed var(--line); }
-.exam-qr .qr { width: 160px; height: 160px; flex: none; border: 1px solid var(--line); }
-.exam-qr p { margin: 0; }
+@media screen and (max-width: 600px) {
+  .print-root.on-screen { margin: 0 8px 40px; padding: 12px; font-size: 14px; }
+}
 
 .score { font-size: 1.4rem; margin: 6px 0 14px; }
 .score strong { font-size: 2rem; color: var(--primary); }

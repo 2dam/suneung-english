@@ -1,15 +1,15 @@
 import { useCallback, useState } from 'react'
 import { COURSES, getCourse, getLevel } from './data/levels'
 import { QUESTION_MAP, mockExams } from './data/questions'
-import { examUrl } from './data/site'
 import { load, save } from './lib/storage'
 import { stopSpeech } from './lib/speech'
 import ExamRunner from './components/ExamRunner'
 import LevelSelect from './components/LevelSelect'
 import PracticeSetup from './components/PracticeSetup'
+import PrintPreview from './components/PrintPreview'
 import PrintSheet from './components/PrintSheet'
 import QuizRunner from './components/QuizRunner'
-import SheetView from './components/SheetView'
+import ListenView from './components/ListenView'
 import ResultView from './components/ResultView'
 import WrongNotes from './components/WrongNotes'
 
@@ -30,48 +30,14 @@ function pdfJobFromUrl() {
     questions: exam.questions,
     mode: ['answers', 'both'].includes(mode) ? mode : 'questions',
     static: true,
-    qrUrl: examUrl(courseId, levelId, Number(number)),
-  }
-}
-
-// 문제지 화면: ?sheet=<코스>:<학년>:<회차 번호> — 목록의 QR이 가리키는 주소. 문제지를 보여 주고 인쇄할지 묻는다.
-function sheetFromUrl() {
-  const spec = new URLSearchParams(window.location.search).get('sheet')
-  if (!spec) return null
-  const [courseId, levelId, number] = spec.split(':')
-  const level = getLevel(levelId)
-  const exam = level && mockExams(courseId, levelId).find((item) => Number(item.set.replace('mock-', '')) === Number(number))
-  if (!exam) return null
-  const title = `${level.name} ${getCourse(courseId).name} ${exam.title}`
-  return {
-    job: { title, questions: exam.questions, mode: 'questions', qrUrl: examUrl(courseId, levelId, Number(number)) },
-    examHref: `?exam=${courseId}:${levelId}:${Number(number)}`,
-  }
-}
-
-// 회차 바로가기: ?exam=<코스>:<학년>:<회차 번호> — 시험지 QR이 가리키는 주소. 열면 그 회차가 바로 시작된다.
-function examFromUrl() {
-  const spec = new URLSearchParams(window.location.search).get('exam')
-  if (!spec) return null
-  const [courseId, levelId, number] = spec.split(':')
-  const level = getLevel(levelId)
-  const exam = level && mockExams(courseId, levelId).find((item) => Number(item.set.replace('mock-', '')) === Number(number))
-  if (!exam) return null
-  const title = `${level.name} ${getCourse(courseId).name} ${exam.title}`
-  return {
-    courseId: getCourse(courseId).id,
-    levelId,
-    session: { kind: 'exam', title, questions: exam.questions, minutes: examMinutes(exam.questions.length) },
   }
 }
 
 export default function App() {
-  const [sheet] = useState(sheetFromUrl) // 목록 QR로 들어왔으면 문제지 화면을 보여 준다
-  const [boot] = useState(examFromUrl) // 시험지 QR로 들어왔으면 그 회차로 시작한다(저장된 학년·코스는 건드리지 않는다)
-  const [levelId, setLevelId] = useState(() => boot?.levelId ?? load('level', null))
-  const [courseId, setCourseId] = useState(() => boot?.courseId ?? getCourse(load('course', 'a')).id)
+  const [levelId, setLevelId] = useState(() => load('level', null))
+  const [courseId, setCourseId] = useState(() => getCourse(load('course', 'a')).id)
   const [tab, setTab] = useState('study')
-  const [session, setSession] = useState(boot?.session ?? null) // { kind: 'practice'|'exam', title, questions, minutes }
+  const [session, setSession] = useState(null) // { kind: 'practice'|'exam', title, questions, minutes }
   const [result, setResult] = useState(null)
   const [printJob, setPrintJob] = useState(null)
   // 오답노트: { [문제 id]: { count, last } }
@@ -137,13 +103,15 @@ export default function App() {
     setTab('study')
   }
 
-  const print = (title, questions, mode, qrUrl) => {
-    if (questions.length > 0) setPrintJob({ title, questions, mode, qrUrl })
+  const print = (title, questions, mode) => {
+    if (questions.length > 0) setPrintJob({ title, questions, mode })
   }
 
   const [pdfJob] = useState(pdfJobFromUrl)
+  const [listenId] = useState(() => new URLSearchParams(window.location.search).get('listen')) // 문제지의 듣기 QR로 들어왔으면 그 문항 듣기만 보여 준다
   if (pdfJob) return <PrintSheet job={pdfJob} onDone={clearPrint} />
-  if (sheet) return <SheetView job={sheet.job} examHref={sheet.examHref} />
+  if (listenId) return <ListenView questionId={listenId} />
+  if (printJob) return <PrintPreview job={printJob} onClose={clearPrint} />
 
   if (!level) return <LevelSelect onSelect={chooseLevel} />
 
@@ -230,7 +198,6 @@ export default function App() {
         )}
       </main>
 
-      {printJob && <PrintSheet job={printJob} onDone={clearPrint} />}
     </>
   )
 }
