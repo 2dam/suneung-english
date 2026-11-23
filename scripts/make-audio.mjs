@@ -4,6 +4,8 @@
 //   npm run audio -- --force        이미 있는 음원도 다시 만든다
 //   npm run audio -- --manifest     음원은 만들지 않고 manifest.json만 갱신한다
 //   node scripts/make-audio.mjs --mocks=10   1~10회 문항만 만든다(A·B코스 전 학년)
+//   node scripts/make-audio.mjs --from=11 --mocks=20   11~20회만 만든다(--from 생략 시 1회부터)
+//   node scripts/make-audio.mjs --mocks=30 --dry       API 호출 없이 만들 문항 수와 합성 글자 수(요금 계산용)만 센다
 //   node scripts/make-audio.mjs --only=m2b-01-01   지정한 id로 시작하는 문항만 만든다(시험용)
 //     ※ npm run audio -- --only=... 는 npm이 --only를 가로채 전체를 만들어 버리니 node로 직접 실행한다.
 //
@@ -30,6 +32,8 @@ const OUT_BITRATE = '32k' // 저장 용량을 줄이려고 Google이 준 64kbps�
 const args = new Set(process.argv.slice(2))
 const only = [...args].find((a) => a.startsWith('--only='))?.slice(7)
 const maxMock = Number([...args].find((a) => a.startsWith('--mocks='))?.slice(8)) || Infinity
+const minMock = Number([...args].find((a) => a.startsWith('--from='))?.slice(7)) || 1
+const dry = args.has('--dry') // API를 부르지 않고 만들 문항 수와 합성 글자 수만 센다
 // id(m1-01-01, m2b-01-01)에서 회차 번호를 읽는다.
 const mockNo = (id) => Number(/^m\d+b?-(\d+)-/.exec(id)?.[1])
 
@@ -127,6 +131,21 @@ if (args.has('--manifest')) {
   process.exit(0)
 }
 
+if (dry) {
+  let files = 0
+  let chars = 0
+  for (const question of questions) {
+    const no = mockNo(question.id)
+    if (no > maxMock || no < minMock) continue
+    if (only && !question.id.startsWith(only)) continue
+    if (fs.existsSync(path.join(audioDir, `${question.id}.mp3`)) && !args.has('--force')) continue
+    files++
+    chars += [...spokenBefore(question), ...question.script.map((l) => l.text), ...spokenAfter(question)].join('').length
+  }
+  console.log(`[dry] 만들 음원 ${files}개, 합성 글자 수 약 ${chars.toLocaleString()}자 (--force 없으면 이미 있는 파일은 제외)`)
+  process.exit(0)
+}
+
 const key = process.env.GOOGLE_TTS_KEY
 if (!key) {
   console.error('GOOGLE_TTS_KEY 환경변수가 필요합니다. (키는 저장소에 넣지 마세요)')
@@ -142,7 +161,7 @@ let made = 0
 let skipped = 0
 for (const question of questions) {
   if (only && !question.id.startsWith(only)) continue
-  if (mockNo(question.id) > maxMock) continue
+  if (mockNo(question.id) > maxMock || mockNo(question.id) < minMock) continue
   const target = path.join(audioDir, `${question.id}.mp3`)
   if (fs.existsSync(target) && !args.has('--force')) {
     skipped++
