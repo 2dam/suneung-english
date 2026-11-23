@@ -2,7 +2,7 @@ import { useEffect, useRef, useState } from 'react'
 import { listenUrl } from '../data/site'
 import { useAudioUrl } from '../lib/audio'
 import { spokenAfter, spokenBefore } from '../lib/prompt'
-import { playScript, speechSupported } from '../lib/speech'
+import { hasEnglishVoice, playScript, speechSupported } from '../lib/speech'
 import QrCode from './QrCode'
 
 const SPEAKER_NAME = { W: '여', M: '남', N: '해설' }
@@ -19,6 +19,15 @@ export default function ListeningPlayer({ question, rate, showScript, maxPlays =
   const [current, setCurrent] = useState(-1)
   const [plays, setPlays] = useState(0)
   const cancelRef = useRef(null)
+  // 음성 목록은 늦게 채워지는 브라우저가 있어 목록이 바뀔 때마다 다시 확인한다.
+  const [englishVoice, setEnglishVoice] = useState(() => hasEnglishVoice())
+  useEffect(() => {
+    if (!speechSupported) return undefined
+    const update = () => setEnglishVoice(hasEnglishVoice())
+    window.speechSynthesis.addEventListener('voiceschanged', update)
+    update()
+    return () => window.speechSynthesis.removeEventListener('voiceschanged', update)
+  }, [])
   const audioRef = useRef(null)
 
   useEffect(
@@ -91,7 +100,11 @@ export default function ListeningPlayer({ question, rate, showScript, maxPlays =
         </div>
       )}
       {!audioUrl && (
-        <p className="muted small">임시 음성(브라우저 내장)입니다. 정식 버전은 녹음된 영어 음원으로 교체됩니다.</p>
+        <p className="muted small">
+          {englishVoice
+            ? '임시 음성(브라우저 내장)입니다. 정식 버전은 녹음된 영어 음원으로 교체됩니다.'
+            : '이 회차는 아직 녹음 음원이 없고, 이 기기에는 영어 음성이 없어 영어 발음이 부정확합니다. 녹음 음원이 있는 회차(1~10회)를 이용하세요.'}
+        </p>
       )}
 
       {showScript && (

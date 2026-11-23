@@ -4,6 +4,9 @@ const synth = typeof window !== 'undefined' ? window.speechSynthesis : null
 
 export const speechSupported = Boolean(synth)
 
+/** 이 기기에 영어 음성이 있는지. 없으면 영어 대본을 다른 언어 음성이 읽어 발음이 크게 어긋난다. */
+export const hasEnglishVoice = () => Boolean(synth) && synth.getVoices().some((v) => v.lang && v.lang.toLowerCase().startsWith('en'))
+
 const FEMALE_HINT = /female|zira|samantha|susan|aria|jenny|hazel|karen|victoria|catherine/i
 const MALE_HINT = /\bmale\b|david|mark|george|guy|daniel|alex|richard|james|ryan/i
 
