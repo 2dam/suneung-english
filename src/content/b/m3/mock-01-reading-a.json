@@ -3,207 +3,215 @@
     "id": "m3b-01-18",
     "level": "m3",
     "set": "mock-01",
+    "rev": 2,
     "no": 18,
     "type": "purpose",
     "stem": "다음 글의 목적으로 가장 적절한 것은?",
-    "passage": "Dear Mr. Anderson,\nI am writing on behalf of the Hanbit High School Robotics Club to ask for your company's support. Our team of twelve students has qualified for the National Youth Robotics Championship, which will be held in Busan this August. Although we are proud of this achievement, the cost of transportation, accommodation, and the materials needed to improve our robot is beyond what our school budget can cover. We would be sincerely grateful if your company could sponsor part of these expenses. In return, we would be glad to display your company's logo on our team uniforms and robot and to present our project at your next community event. Attached are a detailed budget and a summary of our work. Thank you for considering our request.\nSincerely,\nMinseo Han, Team Leader",
+    "passage": "Dear Residents of Riverside District,\nThe city's Transportation Department is preparing a plan to replace the two car lanes on Harbor Street with a protected bicycle lane. The proposal follows last spring's survey, in which nearly sixty percent of respondents said that they would cycle more often if they felt safer on the road. We are aware, however, that some shop owners worry about losing parking spaces, and we do not want to make this decision without hearing from the people it will affect. We therefore invite you to share your opinions at a public meeting on Thursday, May 22, at the district office, or through the online form on our website until May 30. All comments will be reviewed, and they will be published, together with our responses, in a report next month.\nSincerely,\nHyunwoo Park\nTransportation Department",
     "options": [
-      "로봇 대회 출전에 필요한 비용의 일부를 후원해 달라고 요청하려고",
-      "회사에서 개발한 신제품 로봇 기술과 부품에 대한 자세한 설명을 문의하려고",
-      "한빛고등학교 로봇 동아리의 신입 부원을 모집하는 일정과 방법을 회사에 알리려고",
-      "대회 주최 측이 대회 일정을 갑자기 변경한 것에 대해 회사에 정식으로 항의하려고",
-      "회사의 로봇 공장 견학 프로그램에 동아리 학생들이 참가할 수 있도록 신청하려고"
+      "도로 개편안에 대한 주민의 의견을 수렴하는 자리에 참여해 달라고 요청하려고",
+      "자전거 도로 공사로 인한 교통 통제 일정과 우회 도로를 공지하려고",
+      "주차 공간 감소에 항의하는 상점 주인들의 요구 사항을 주민에게 전달하려고",
+      "지난 설문 조사의 결과를 근거로 자전거 도로 공사의 시작을 확정하여 알리려고",
+      "자전거 이용 활성화를 위한 시민 보조금 신청 방법을 안내하려고"
     ],
     "answer": 0,
-    "translation": "앤더슨 씨께. 저는 한빛고등학교 로봇 동아리를 대표하여 귀사의 지원을 요청하고자 글을 씁니다. 열두 명으로 이루어진 우리 팀은 올해 8월 부산에서 열리는 전국 청소년 로봇 대회에 출전 자격을 얻었습니다. 이 성과가 자랑스럽지만 교통비, 숙박비, 로봇을 개선하는 데 필요한 재료비는 학교 예산으로 감당할 수 있는 수준을 넘습니다. 귀사가 이 비용의 일부를 후원해 주신다면 진심으로 감사하겠습니다. 그 대가로 우리는 팀 유니폼과 로봇에 귀사의 로고를 표시하고 귀사의 다음 지역 행사에서 우리의 프로젝트를 발표하겠습니다. 자세한 예산과 활동 요약을 첨부했습니다. 요청을 고려해 주셔서 감사합니다. 한민서 드림.",
-    "why": "로봇 대회 출전 비용의 일부를 후원해 달라고 요청하는 글입니다.",
+    "translation": "리버사이드 구 주민 여러분께. 시 교통국은 하버 거리의 두 개 차로를 보호 자전거 도로로 바꾸는 계획을 준비하고 있습니다. 이 제안은 지난봄 설문 조사에 따른 것으로, 응답자의 거의 육십 퍼센트가 도로에서 더 안전하다고 느낀다면 자전거를 더 자주 타겠다고 답했습니다. 그러나 일부 상점 주인이 주차 공간을 잃을까 걱정한다는 것을 알고 있으며, 영향을 받는 분들의 의견을 듣지 않고 이 결정을 내리고 싶지 않습니다. 그래서 5월 22일 목요일 구청에서 열리는 공청회에서 또는 5월 30일까지 누리집의 온라인 양식으로 의견을 나눠 주시기를 청합니다. 모든 의견은 검토될 것이며 우리의 답변과 함께 다음 달 보고서에 공개됩니다. 교통국 박현우 드림.",
+    "why": "자전거 도로 계획에 영향을 받는 주민의 의견을 듣기 위해 공청회와 온라인 양식으로 참여해 달라고 요청하는 글입니다.",
     "optionNotes": [
-      "정답. 대회 출전 비용의 후원을 요청합니다.",
-      "기술 문의는 나오지 않습니다.",
-      "부원 모집은 나오지 않습니다.",
-      "일정 변경은 나오지 않습니다.",
-      "견학 신청은 나오지 않습니다."
+      "정답. 개편안에 대한 주민 의견 수렴 참여를 요청합니다.",
+      "교통 통제와 우회로는 나오지 않습니다.",
+      "상점 주인의 걱정은 배경 설명일 뿐 그 요구를 전달하는 글이 아닙니다.",
+      "결정을 확정하지 않고 의견을 듣겠다고 합니다.",
+      "보조금은 나오지 않습니다."
     ],
-    "trap": "로고 게시와 프로젝트 발표는 후원의 대가일 뿐 글의 목적이 아닙니다.",
-    "tip": "목적 문제는 'We would be grateful if ~' 같은 핵심 요청 문장을 찾으세요."
+    "trap": "설문 결과를 근거로 이미 결정된 것처럼 읽으면 ④를 고르기 쉽습니다.",
+    "tip": "목적 문제는 'We therefore invite you to ~' 같은 핵심 요청 문장을 확인하세요."
   },
   {
     "id": "m3b-01-19",
     "level": "m3",
     "set": "mock-01",
+    "rev": 2,
     "no": 19,
     "type": "mood",
-    "stem": "다음 글에 드러난 Daeun의 심경 변화로 가장 적절한 것은?",
-    "passage": "Daeun's palms were damp as she walked into the debate hall. It was her first tournament, and her opponents were students who had competed for years. During the opening round, she kept glancing at her notes, afraid that her voice would crack. When the first rebuttal came, she felt her mind go blank, and for a moment she doubted that she belonged there at all. Then she remembered the advice from her coach: \"Listen to their argument, and answer one point at a time.\" She took a breath, wrote down three key words, and began to respond calmly. As her confidence grew, the words came more easily, and by the final round she was actually looking forward to her next turn to speak. When the judges announced the results, she had not won, but she walked out of the hall with her head held high, already planning how to prepare for the next tournament.",
+    "stem": "다음 글에 드러난 Joon의 심경 변화로 가장 적절한 것은?",
+    "passage": "The clock on Joon's side of the chessboard had less than a minute left. Across from him sat the national junior champion, calm and expressionless, with a rook that seemed to be pinning every plan Joon could imagine. His palms were damp, and the noise of the hall had faded into a dull hum. He had trained for this day for a year, but now every memorized opening felt useless. Then he noticed something he had missed: the champion's bishop was defending nothing. Slowly, Joon moved his knight, and for the first time that afternoon, his hand did not shake. The champion's eyebrows rose. Three moves later, the champion tipped over his king and held out his hand. Joon shook it, hardly believing what had happened. The hall erupted in applause, but all he could hear was his own breathing, steady and light, as the tension drained from his shoulders.",
     "options": [
-      "nervous and doubtful → determined and hopeful",
-      "calm and confident → furious and disappointed at the judges",
-      "jealous of her opponents → thankful for the coach's harsh words",
-      "relaxed and cheerful → embarrassed by her own mistakes",
-      "indifferent to the result → frightened of the next tournament"
+      "tense and hopeless → relieved and astonished",
+      "confident and eager → disappointed and resentful",
+      "indifferent → alarmed and ashamed",
+      "envious → grateful and apologetic",
+      "calm and focused → frustrated and angry"
     ],
     "answer": 0,
-    "translation": "다은은 토론장에 들어서며 손바닥이 축축했다. 그것은 그녀의 첫 대회였고 상대는 수년간 경쟁해 온 학생들이었다. 첫 라운드 동안 그녀는 목소리가 갈라질까 봐 두려워서 계속 메모를 흘끗거렸다. 첫 반박이 나오자 머릿속이 하얘졌고 잠시 자신이 그곳에 있을 자격이 있는지 의심했다. 그때 코치의 조언이 떠올랐다. \"상대의 주장을 듣고 한 번에 한 가지씩 대답하라.\" 그녀는 숨을 쉬고 핵심어 세 개를 적은 뒤 차분하게 대답하기 시작했다. 자신감이 커지자 말이 더 쉽게 나왔고 결승 라운드에서는 다음 발언 순서가 실제로 기대되기까지 했다. 심사위원이 결과를 발표했을 때 그녀는 이기지 못했지만 고개를 들고 토론장을 걸어 나왔고 벌써 다음 대회를 준비할 방법을 계획하고 있었다.",
-    "why": "첫 대회에서 긴장하고 자신을 의심하다가(nervous and doubtful), 침착해지며 다음을 준비하려는 의지와 희망을 보입니다(determined and hopeful).",
+    "translation": "준의 쪽 체스판 위의 시계는 일 분도 남지 않았다. 맞은편에는 전국 청소년 챔피언이 침착하고 무표정하게 앉아 있었고, 그의 룩은 준이 떠올릴 수 있는 모든 계획을 꼼짝 못 하게 누르는 듯했다. 준의 손바닥은 축축했고 대회장의 소음은 둔한 웅웅거림으로 잦아들었다. 그는 일 년 동안 이날을 위해 훈련했지만 이제 외워 둔 모든 오프닝이 쓸모없게 느껴졌다. 그때 그는 놓치고 있던 것을 알아챘다. 챔피언의 비숍이 아무것도 지키고 있지 않았다. 천천히 준은 나이트를 옮겼고, 그날 오후 처음으로 그의 손은 떨리지 않았다. 챔피언의 눈썹이 올라갔다. 세 수 뒤 챔피언은 자신의 킹을 쓰러뜨리고 손을 내밀었다. 준은 믿기지 않는 채 그 손을 잡았다. 대회장은 박수로 터져 나왔지만 그가 들은 것은 어깨에서 긴장이 빠져나가며 고르고 가벼워진 자신의 숨소리뿐이었다.",
+    "why": "처음에는 절망적일 만큼 긴장했지만(tense and hopeless) 허점을 발견하고 이긴 뒤 안도하며 놀랐으므로(relieved and astonished) ①이 알맞습니다.",
     "optionNotes": [
-      "정답. 긴장과 의심에서 의지와 희망으로 변했습니다.",
-      "침착함에서 격분이 아닙니다.",
-      "질투에서 감사가 아닙니다.",
-      "편안함에서 당황이 아닙니다.",
-      "무관심에서 두려움이 아닙니다."
+      "정답. 긴장과 절망에서 안도와 놀라움으로 변했습니다.",
+      "처음에 자신만만하지 않았고 끝에 실망하지도 않았습니다.",
+      "무관심이 아니라 긴장 상태였습니다.",
+      "부러움이나 사과의 감정은 나오지 않습니다.",
+      "처음부터 침착하지 않았고 끝에 좌절하지도 않았습니다."
     ],
-    "trap": "결과가 우승이 아니라는 점에서 실망으로 끝났다고 판단하지 마세요.",
-    "tip": "전환 신호(Then she remembered ~)와 마지막 문장의 태도를 함께 보세요."
+    "trap": "챔피언의 침착함을 준의 감정으로 착각하지 마세요.",
+    "tip": "전환 신호(Then he noticed ~)를 기준으로 앞뒤 감정을 비교하세요."
   },
   {
     "id": "m3b-01-20",
     "level": "m3",
     "set": "mock-01",
+    "rev": 2,
     "no": 20,
     "type": "claim",
     "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
-    "passage": "Many cities respond to traffic jams by building wider roads and more highways. At first, this seems logical: more space should mean smoother traffic. However, experience shows that new roads quickly attract more cars, and congestion soon returns to the previous level. Public transportation, on the other hand, can move a large number of people using far less space, and it reduces air pollution and noise at the same time. Experts call this pattern induced demand, because more road space invites more driving. Cities that have invested in reliable subways and buses report not only shorter commuting times but also lower transport costs for residents. Therefore, rather than expanding roads for private cars, city governments should prioritize the development of efficient public transportation.",
+    "passage": "Many teams treat agreement as a sign of health. Meetings in which everyone nods are described as smooth, and a member who raises objections is often seen as difficult. Yet research on group decision-making suggests that the opposite may be closer to the truth. When no one challenges the first idea that sounds reasonable, the group tends to stop searching, and errors that could have been caught early remain hidden until they become expensive. Teams that encourage members to question each other's assumptions, by contrast, consider more alternatives and tend to reach more accurate conclusions. Disagreement does feel uncomfortable, and it can become destructive when it turns personal. The solution is not to avoid conflict but to direct it toward ideas rather than people. If a team can criticize a plan without attacking its author, it gains the benefits of many minds. Therefore, groups that want better decisions should welcome respectful disagreement instead of rushing toward harmony.",
     "options": [
-      "도시의 교통 체증은 도로를 충분히 넓히고 새 고속도로를 지으면 영구적으로 해결된다.",
-      "대중교통의 운영비를 충당하기 위해 요금은 도시가 아니라 이용자가 전부 부담해야 한다.",
-      "도시 정부는 승용차를 위한 도로 확장보다 효율적인 대중교통 개발을 우선해야 한다.",
-      "도시의 교통 체증이 생기는 원인은 주로 일부 운전자들의 부주의한 운전 습관이다.",
-      "도시의 지하철은 버스보다 건설 비용과 운영비가 낮아 항상 더 경제적인 교통수단이다."
+      "회의를 원활히 진행하려면 이견을 보이는 구성원을 배제해야 한다.",
+      "개인에 대한 비판은 팀의 성과를 높이는 가장 빠른 방법이다.",
+      "더 나은 결정을 위해 아이디어를 향한 존중하는 반대를 장려해야 한다.",
+      "모든 구성원이 만장일치에 이르도록 충분한 시간을 주는 것이 중요하다.",
+      "갈등을 막기 위해 토론 자체를 줄이는 것이 효율적이다."
     ],
     "answer": 2,
-    "translation": "많은 도시는 교통 체증에 도로를 넓히고 고속도로를 더 짓는 것으로 대응한다. 처음에는 논리적으로 보인다. 공간이 더 많으면 교통이 더 원활해야 하기 때문이다. 그러나 경험상 새 도로는 곧 더 많은 자동차를 끌어들이고 혼잡은 금세 이전 수준으로 돌아온다. 반면 대중교통은 훨씬 적은 공간으로 많은 사람을 옮길 수 있으며 대기 오염과 소음도 줄인다. 전문가들은 이 패턴을 유발 수요라고 부르는데, 도로 공간이 늘면 운전이 더 늘기 때문이다. 믿을 만한 지하철과 버스에 투자한 도시는 통근 시간이 짧아졌을 뿐 아니라 주민의 교통비도 낮아졌다고 보고한다. 그러므로 도시 정부는 승용차를 위해 도로를 넓히기보다 효율적인 대중교통 개발을 우선해야 한다.",
-    "why": "마지막 문장 'city governments should prioritize the development of efficient public transportation'이 주장입니다.",
+    "translation": "많은 팀이 의견 일치를 건강함의 표시로 여긴다. 모두가 고개를 끄덕이는 회의는 매끄럽다고 묘사되고 반대를 제기하는 구성원은 흔히 까다롭게 여겨진다. 그러나 집단 의사 결정 연구는 그 반대가 진실에 더 가까울 수 있다고 시사한다. 아무도 처음으로 그럴듯하게 들리는 생각에 이의를 제기하지 않으면 집단은 탐색을 멈추는 경향이 있고, 일찍 잡을 수 있었던 오류가 비용이 커질 때까지 숨겨진 채 남는다. 반면 구성원이 서로의 가정에 의문을 던지도록 장려하는 팀은 더 많은 대안을 고려하고 더 정확한 결론에 이르는 경향이 있다. 반대는 분명 불편하게 느껴지고 개인적인 것이 되면 파괴적이 될 수 있다. 해결책은 갈등을 피하는 것이 아니라 그것을 사람이 아닌 생각을 향하게 하는 것이다. 팀이 계획의 작성자를 공격하지 않고 계획을 비판할 수 있다면 여러 사람의 지혜의 이점을 얻는다. 그러므로 더 나은 결정을 원하는 집단은 조화를 서둘러 찾는 대신 존중하는 반대를 환영해야 한다.",
+    "why": "마지막 문장에서 더 나은 결정을 원한다면 조화로 서두르지 말고 존중하는 반대를 환영해야 한다고 주장합니다.",
     "optionNotes": [
-      "새 도로는 혼잡이 곧 돌아온다고 했습니다.",
-      "요금 부담 문제는 나오지 않습니다.",
-      "정답. 도로 확장보다 대중교통 개발을 우선해야 합니다.",
-      "운전자의 부주의는 나오지 않습니다.",
-      "지하철과 버스의 비교는 나오지 않습니다."
+      "이견을 가진 구성원을 어렵게 보는 시각을 글이 비판합니다.",
+      "개인을 겨냥한 비판은 파괴적이 될 수 있다고 했습니다.",
+      "정답. 아이디어를 향한 존중하는 반대를 장려해야 합니다.",
+      "만장일치를 서두르는 것을 글이 경계합니다.",
+      "갈등을 피하지 말고 방향을 바꾸라고 했습니다."
     ],
-    "trap": "첫 부분의 통념(wider roads)을 필자의 주장으로 착각하지 마세요.",
-    "tip": "However, on the other hand 이후와 Therefore 문장이 주장입니다."
+    "trap": "앞부분의 '의견 일치가 건강하다'는 통념을 필자의 주장으로 착각하지 마세요.",
+    "tip": "주장 문제는 'not A but B', 'Therefore ~ should' 구조에서 B를 확인하세요."
   },
   {
     "id": "m3b-01-21",
     "level": "m3",
     "set": "mock-01",
+    "rev": 2,
     "no": 21,
     "type": "implied",
     "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
-    "passage": "Everyone at the family dinner knew that my uncle had lost his job last month, but nobody wanted to bring it up. People talked about the weather, the food, and the news, and the silence between sentences grew heavier. Finally, my mother put down her fork and said, \"We can't keep ignoring {u|the elephant in the room}. Let's talk about how we can help him.\" At first, my uncle looked surprised, but then he smiled with relief and thanked her.",
+    "passage": "When the student council counted the food thrown away in the cafeteria during one week, the number was higher than anyone expected: more than ninety kilograms. The members were shocked and quickly prepared a poster to show the result. A teacher who had worked at the school for many years looked at it for a moment and said, \"This is only {u|the tip of the iceberg}. You counted what was left on the trays, but you haven't counted the vegetables that the kitchen throws away before cooking, or the lunches that are ordered and never picked up.\" The council members looked at one another. They realized that their count had measured only the part of the problem that was easy to see. The following week, they asked the kitchen staff to join their survey, and the new total was nearly twice as large as the first. Seeing the larger number, the principal agreed to meet them and discuss ways to change how meals were planned and ordered.",
     "options": [
-      "a large and heavy animal that has accidentally entered the house during a family dinner",
-      "an obvious and serious problem that everyone avoids talking about",
-      "a dish that was prepared by the family for a special occasion at the dining table",
-      "a guest who arrives late to a family meeting and makes everyone wait for the meal",
-      "a topic that is too difficult and complicated for young children to understand easily"
+      "an exaggeration that makes a small matter seem very serious",
+      "a small visible part of a much larger hidden problem",
+      "the most dangerous part of a problem that is already solved",
+      "a cold and difficult task that nobody wants to start",
+      "a surprising discovery that finally ends an old debate"
     ],
     "answer": 1,
-    "translation": "가족 저녁 식사에서 모두가 삼촌이 지난달 직장을 잃은 것을 알고 있었지만 아무도 그것을 꺼내고 싶어 하지 않았다. 사람들은 날씨와 음식, 뉴스를 이야기했고 문장 사이의 침묵은 점점 무거워졌다. 마침내 어머니가 포크를 내려놓고 말했다. \"우리는 방 안의 코끼리를 계속 외면할 수는 없어요. 어떻게 도울 수 있을지 이야기해 봐요.\" 처음에 삼촌은 놀란 표정이었지만 이내 안도하며 웃고 어머니께 감사했다.",
-    "why": "모두가 알지만 말하지 않던 삼촌의 실직 문제를 가리키므로 'the elephant in the room'은 모두가 외면하는 명백하고 심각한 문제를 뜻합니다.",
+    "translation": "학생회가 일주일 동안 급식실에서 버려지는 음식을 세었을 때 그 수치는 누구도 예상하지 못한 것보다 높았다. 구십 킬로그램이 넘었다. 회원들은 충격을 받아 결과를 보여 주는 포스터를 서둘러 만들었다. 그 학교에서 여러 해 일한 한 교사가 잠시 그것을 보고 말했다. \"이건 빙산의 일각에 불과해. 너희는 식판에 남은 것을 셌지만 주방이 요리 전에 버리는 채소나 주문하고 찾아가지 않은 점심은 세지 않았어.\" 학생회 회원들은 서로를 쳐다보았다. 그들은 자신들의 집계가 문제 중 눈에 쉽게 보이는 부분만 측정했음을 깨달았다. 다음 주에 그들은 주방 직원에게 조사에 참여해 달라고 부탁했고 새 총량은 처음의 거의 두 배였다. 더 큰 수치를 본 교장은 그들을 만나 식단을 계획하고 주문하는 방식을 바꿀 방법을 논의하는 데 동의했다.",
+    "why": "눈에 보이는 일부만 센 것이고 더 큰 문제가 숨어 있다는 말이므로 'the tip of the iceberg'는 훨씬 큰 숨은 문제의 눈에 보이는 작은 일부를 뜻합니다.",
     "optionNotes": [
-      "코끼리가 집에 들어왔다는 문자 그대로의 뜻이 아닙니다.",
-      "정답. 모두가 알지만 이야기를 피하는 심각한 문제입니다.",
-      "특별한 요리가 아닙니다.",
-      "늦게 도착한 손님이 아닙니다.",
-      "아이들이 이해하기 어려운 주제라는 뜻이 아닙니다."
+      "과장이 아니라 실제로 더 큰 문제를 지적하는 말입니다.",
+      "정답. 훨씬 큰 숨은 문제의 눈에 보이는 작은 일부입니다.",
+      "이미 해결된 문제가 아닙니다.",
+      "차갑고 어려운 일이라는 글자 그대로의 뜻이 아닙니다.",
+      "오랜 논쟁이 끝난 것이 아닙니다."
     ],
-    "trap": "'elephant'를 문자 그대로 해석하지 마세요.",
-    "tip": "관용 표현은 앞 문장(nobody wanted to bring it up)에서 의미를 추론하세요."
+    "trap": "'iceberg'를 글자 그대로 차가움이나 위험으로 해석하지 마세요.",
+    "tip": "관용 표현은 앞뒤 단서(보이는 부분만 셈 → 숨은 양이 더 많음)로 의미를 추론하세요."
   },
   {
     "id": "m3b-01-22",
     "level": "m3",
     "set": "mock-01",
+    "rev": 2,
     "no": 22,
     "type": "gist",
     "stem": "다음 글의 요지로 가장 적절한 것은?",
-    "passage": "People often assume that happiness comes from achieving big goals, such as getting a promotion or winning a prize. However, psychologists have found that these big events affect our happiness for a surprisingly short time. We quickly adapt to new circumstances, and our mood returns to its usual level. In contrast, small, repeated pleasures, such as having a conversation with a friend, enjoying a favorite meal, or taking a walk in the sun, add up and make a lasting difference. Because these experiences are available every day, they are a more reliable source of well-being than rare victories. Therefore, instead of waiting for a single great success, we should learn to notice and appreciate the small positive moments in everyday life.",
+    "passage": "Most people know that loud noise can damage hearing, but fewer realize how much ordinary background noise affects thinking. In experiments, students who read passages while traffic sounds played in the background remembered less and made more mistakes on comprehension questions than students who read in silence. The effect appeared even when the participants insisted that they had gotten used to the noise. One explanation is that the brain keeps part of its attention open to detect possible danger, so it cannot fully ignore sounds, even those that seem harmless. This hidden cost grows as tasks become more demanding: simple copying work suffers little, whereas problems that require reasoning suffer a great deal. For this reason, schools and offices that wish to improve performance should consider sound as carefully as light and temperature, and individuals should not assume that tolerating noise means being unaffected by it. Many workers choose cafés and open offices for their lively atmosphere, without realizing that the atmosphere may cost them accuracy.",
     "options": [
-      "승진이나 수상처럼 큰 목표를 이루는 것이 지속적인 행복을 얻기 위한 가장 확실하고 효과적인 방법이다.",
-      "일상 속의 작은 즐거움을 알아차리고 소중히 여기는 것이 지속적인 행복에 더 도움이 된다.",
-      "친구와의 대화는 음식이나 산책 같은 다른 어떤 활동보다 행복에 훨씬 더 큰 영향을 준다고 할 수 있다.",
-      "새로운 환경이나 상황에 완전히 적응하는 데는 보통 사람들이 생각하는 것보다 훨씬 오랜 시간이 걸린다.",
-      "성공을 이루는 것은 사람들의 장기적인 행복과 아무런 관련이 없으므로 추구할 필요가 없다."
+      "소음이 청력을 손상시킬 수 있으므로 시끄러운 장소에서는 공부를 피해야 한다.",
+      "익숙한 배경 소음도 사고력을 떨어뜨리므로 학습 환경의 소리를 관리해야 한다.",
+      "단순한 작업보다 추론이 필요한 작업에서 더 오래 집중할 수 있다.",
+      "조용한 환경은 오히려 학생들의 독해 능력을 떨어뜨릴 수 있다.",
+      "빛과 온도를 조절하는 일이 소리를 조절하는 일보다 항상 더 중요하다."
     ],
     "answer": 1,
-    "translation": "사람들은 흔히 행복이 승진이나 수상 같은 큰 목표를 이루는 데서 온다고 생각한다. 그러나 심리학자들은 이런 큰 사건이 놀라울 만큼 짧은 시간만 행복에 영향을 준다는 것을 발견했다. 우리는 새로운 상황에 빠르게 적응하고 기분은 평소 수준으로 돌아간다. 반면 친구와의 대화, 좋아하는 음식 즐기기, 햇볕 아래 산책하기 같은 작고 반복되는 즐거움은 쌓여서 지속적인 차이를 만든다. 이런 경험은 매일 접할 수 있으므로 드문 승리보다 더 믿을 만한 행복의 원천이다. 그러므로 단 한 번의 큰 성공을 기다리기보다 일상의 작은 긍정적인 순간을 알아차리고 감사하는 법을 배워야 한다.",
-    "why": "큰 성공보다 일상의 작은 즐거움이 더 지속적인 행복의 원천이라는 것이 요지입니다.",
+    "translation": "대부분의 사람은 큰 소음이 청력을 해칠 수 있다는 것을 알지만 평범한 배경 소음이 사고에 얼마나 영향을 주는지는 덜 안다. 실험에서 배경에 교통 소리가 나오는 상태로 글을 읽은 학생들은 조용히 읽은 학생들보다 덜 기억하고 독해 문제에서 더 많이 틀렸다. 참가자들이 소음에 익숙해졌다고 주장할 때조차 그 효과는 나타났다. 한 설명은 뇌가 가능한 위험을 감지하려고 주의의 일부를 열어 두기 때문에 해롭지 않아 보이는 소리조차 완전히 무시하지 못한다는 것이다. 이 숨은 비용은 과제가 까다로워질수록 커진다. 단순한 베끼기 작업은 거의 영향을 받지 않지만 추론이 필요한 문제는 크게 영향을 받는다. 이런 이유로 성과를 높이려는 학교와 사무실은 빛과 온도만큼 소리도 신중히 고려해야 하고, 개인은 소음을 견딘다는 것이 영향을 받지 않는다는 뜻이라고 가정해서는 안 된다. 많은 직장인이 활기찬 분위기 때문에 카페와 개방형 사무실을 택하지만 그 분위기가 정확성을 대가로 요구할 수 있음을 깨닫지 못한다.",
+    "why": "마지막 문장에서 소음에 익숙해졌다고 느껴도 영향을 받으므로 학습·업무 환경의 소리를 신중히 관리해야 한다고 정리합니다.",
     "optionNotes": [
-      "글에서 반박되는 통념입니다.",
-      "정답. 일상의 작은 즐거움을 소중히 여겨야 합니다.",
-      "친구와의 대화는 예시일 뿐입니다.",
-      "적응 시간은 나오지 않으며 오히려 빠르다고 합니다.",
-      "성공이 관련 없다는 내용은 없습니다."
+      "청력 손상은 글의 도입 내용일 뿐 요지가 아닙니다.",
+      "정답. 익숙한 배경 소음도 사고력을 떨어뜨리므로 소리를 관리해야 합니다.",
+      "추론이 필요한 작업은 소음에 더 크게 영향을 받는다고 했습니다.",
+      "조용히 읽은 학생이 더 잘했습니다.",
+      "빛과 온도가 '항상 더 중요하다'는 말은 없습니다."
     ],
-    "trap": "예시(a conversation with a friend)를 요지로 일반화하지 마세요.",
-    "tip": "However와 Therefore 문장이 요지를 담습니다."
+    "trap": "앞부분의 '청력 손상'을 글의 중심으로 착각하지 마세요.",
+    "tip": "요지는 'For this reason ~' 이후의 결론 문장에서 확인하세요."
   },
   {
     "id": "m3b-01-23",
     "level": "m3",
     "set": "mock-01",
+    "rev": 2,
     "no": 23,
     "type": "topic",
     "stem": "다음 글의 주제로 가장 적절한 것은?",
-    "passage": "When you hear that a restaurant has a long line, you are more likely to want to eat there. When many people are reading a particular book, it seems more interesting to you. This tendency, known as the bandwagon effect, shows how strongly we are influenced by what others do. Marketers frequently use it by displaying the number of customers or the best-seller label. Politicians also use it when they announce that most voters support them. The problem is that people sometimes follow the crowd without examining whether the popular choice actually suits them. Researchers have shown that even a small number of people looking up at the sky can make passersby do the same. Recognizing this tendency helps us make more independent and thoughtful decisions.",
+    "passage": "Coral reefs owe their color and much of their food to microscopic algae that live inside the coral's tissue. The algae use sunlight to make sugars, which they share with the coral, and in return the coral provides shelter and the chemicals the algae need. This partnership works within a narrow range of conditions. When the sea becomes only one or two degrees warmer than usual for several weeks, the algae begin to produce harmful compounds, and the coral expels them. Without its partners, the coral turns pale, a condition known as bleaching, and it loses its main source of energy. A bleached coral is not yet dead; if the water cools quickly, the algae may return and the reef can recover. However, repeated or prolonged heat waves leave too little time for recovery, and large areas of reef starve and collapse, taking with them the fish and other animals that depend on their structure.",
     "options": [
-      "why restaurants with long lines outside usually serve poor food and charge very high prices",
-      "how best-selling authors become famous around the world and earn large amounts of money",
-      "what makes a political candidate successful in elections and popular among young voters",
-      "how others' choices influence our decisions and why we should be aware of it",
-      "where marketers find new customers for their products and how they decide on prices"
+      "산호가 해류를 이용해 새로운 서식지로 이동하는 방법",
+      "조류가 서로 경쟁하며 바닷물의 온도를 낮추는 원리",
+      "물고기와 산호의 먹이 사슬이 생태계에서 하는 역할",
+      "산호 백화의 원인과 산호초에 미치는 영향",
+      "해양 보호 구역 지정이 산호초 보존에 필요한 이유"
     ],
     "answer": 3,
-    "translation": "어떤 식당에 긴 줄이 있다는 말을 들으면 그곳에서 먹고 싶어질 가능성이 더 높다. 많은 사람이 특정한 책을 읽고 있으면 그 책이 더 흥미롭게 느껴진다. 편승 효과로 알려진 이 경향은 우리가 다른 사람의 행동에 얼마나 강하게 영향을 받는지 보여 준다. 마케터는 고객의 수나 베스트셀러 표시를 보여 주는 방식으로 이를 자주 이용한다. 정치인도 대다수의 유권자가 자신을 지지한다고 발표할 때 이를 이용한다. 문제는 사람들이 인기 있는 선택이 자신에게 실제로 맞는지 살피지 않고 다수를 따를 때가 있다는 것이다. 연구자들은 소수의 사람이 하늘을 올려다보기만 해도 행인들이 따라 한다는 것을 보여 주었다. 이 경향을 인식하면 더 독립적이고 신중한 결정을 내릴 수 있다.",
-    "why": "다른 사람의 선택이 우리의 결정에 미치는 영향과 이를 인식해야 하는 이유를 설명하는 글입니다.",
+    "translation": "산호초는 색과 먹이의 상당 부분을 산호 조직 안에 사는 미세한 조류에 빚지고 있다. 조류는 햇빛으로 당을 만들어 산호와 나누고, 그 대가로 산호는 조류가 필요로 하는 은신처와 화학 물질을 제공한다. 이 공생은 좁은 범위의 조건에서 작동한다. 바다가 몇 주 동안 평소보다 겨우 한두 도 따뜻해지면 조류는 해로운 화합물을 만들기 시작하고 산호는 그들을 내보낸다. 동반자가 없으면 산호는 창백해지는데 이를 백화라고 하며 주된 에너지원을 잃는다. 백화된 산호가 아직 죽은 것은 아니다. 바닷물이 빨리 식으면 조류가 돌아와 산호초가 회복될 수 있다. 그러나 반복되거나 오래 이어지는 열파는 회복할 시간을 너무 적게 남기고, 넓은 산호초 지역이 굶어 무너지며 그 구조에 의존하는 물고기와 다른 동물도 함께 잃는다.",
+    "why": "산호와 조류의 공생이 수온 상승으로 깨지는 백화 현상의 원인과 그 영향을 설명하는 글입니다.",
     "optionNotes": [
-      "식당의 음식 품질은 나오지 않습니다.",
-      "작가의 유명세는 나오지 않습니다.",
-      "선거의 성공 요인은 나오지 않습니다.",
-      "정답. 타인의 선택이 결정에 미치는 영향과 인식의 중요성입니다.",
-      "마케터의 고객 발굴은 나오지 않습니다."
+      "산호의 이동은 나오지 않습니다.",
+      "조류가 바닷물을 식힌다는 내용은 없습니다.",
+      "먹이 사슬은 부수적 언급일 뿐입니다.",
+      "정답. 백화 현상의 원인과 산호초에 미치는 영향입니다.",
+      "보호 구역은 나오지 않습니다."
     ],
-    "trap": "마케터·정치인은 편승 효과의 사례일 뿐 주제가 아닙니다.",
-    "tip": "주제는 반복되는 핵심 개념(bandwagon effect)과 결론(Recognizing ~)을 묶어 찾으세요."
+    "trap": "마지막의 '물고기'만 보고 생태계 먹이 사슬(③)로 착각하지 마세요.",
+    "tip": "주제는 글 전체에서 반복되는 핵심어(bleaching, algae, heat)로 파악하세요."
   },
   {
     "id": "m3b-01-24",
     "level": "m3",
     "set": "mock-01",
+    "rev": 2,
     "no": 24,
     "type": "title",
     "stem": "다음 글의 제목으로 가장 적절한 것은?",
-    "passage": "For decades, scientists believed that the human brain stopped producing new cells after childhood. In the late 1990s, however, researchers discovered that adults can create new neurons in a region of the brain called the hippocampus, which is crucial for learning and memory. Further studies showed that this process, known as neurogenesis, is not fixed. Regular aerobic exercise, enough sleep, and mentally stimulating activities such as learning a new language can all increase the rate at which new neurons form. In contrast, long-term stress and a lack of sleep have been found to reduce it. These findings suggest that the brain is far more adaptable than we once thought and that our daily habits can actively shape its health throughout our lives.",
+    "passage": "When researchers compared organ donation rules across European countries, they found a striking difference. In countries where citizens are automatically counted as donors unless they choose to opt out, the share of people who donate is far higher than in countries where people must sign up. Since most citizens in both groups report similar attitudes toward donation, researchers conclude that the difference does not come from different values. It comes from the default. A preset option works as a powerful signal about what is normal or recommended, and it saves the effort of making a decision. Because changing it requires attention, many people simply leave it as it is. Companies and governments have noticed this and now use defaults in areas such as retirement savings and energy plans. Designing a default is therefore never a neutral act; it quietly shapes what people end up doing, even when the choice officially remains theirs.",
     "options": [
-      "The Brain's Hidden Weakness: Why Memory Declines with Age",
-      "Learning a New Language in Childhood Versus Adulthood",
-      "Why Exercise Is More Important Than Studying for Exams",
-      "The Age at Which the Human Brain Stops Growing",
-      "A Changing Brain: How Daily Habits Can Keep Producing New Neurons in Adults"
+      "Why Organ Donation Is Declining in Europe",
+      "The Hidden Cost of Saving for Retirement",
+      "How Companies Learn What Customers Value",
+      "Freedom of Choice: A Right Worth Defending",
+      "Preset Options Quietly Shape the Choices We Think We Make"
     ],
     "answer": 4,
-    "translation": "수십 년 동안 과학자들은 인간의 뇌가 어린 시절이 지나면 새로운 세포를 만들지 않는다고 믿었다. 그러나 1990년대 후반 연구자들은 성인도 학습과 기억에 중요한 해마라는 뇌 영역에서 새로운 뉴런을 만들 수 있다는 것을 발견했다. 추가 연구는 신경 발생으로 알려진 이 과정이 고정되어 있지 않음을 보여 주었다. 규칙적인 유산소 운동, 충분한 수면, 새로운 언어를 배우는 것 같은 정신적으로 자극적인 활동은 모두 새 뉴런이 만들어지는 속도를 높일 수 있다. 반면 장기적인 스트레스와 수면 부족은 이를 줄이는 것으로 밝혀졌다. 이러한 발견은 뇌가 우리가 한때 생각했던 것보다 훨씬 더 적응력이 있으며 일상의 습관이 평생에 걸쳐 뇌의 건강을 적극적으로 만들 수 있음을 시사한다.",
-    "why": "성인의 뇌도 일상 습관에 따라 새로운 뉴런을 계속 만들 수 있다는 내용이므로 ⑤가 제목입니다.",
+    "translation": "연구자들이 유럽 여러 나라의 장기 기증 규정을 비교했을 때 눈에 띄는 차이를 발견했다. 거부 의사를 밝히지 않으면 자동으로 기증자로 간주되는 나라에서는 직접 등록해야 하는 나라보다 기증하는 사람의 비율이 훨씬 높았다. 두 집단의 대부분의 시민이 기증에 대해 비슷한 태도를 보고하므로 연구자들은 이 차이가 서로 다른 가치관에서 오지 않는다고 결론짓는다. 그것은 기본값에서 온다. 미리 정해진 선택은 무엇이 정상이거나 권장되는지에 대한 강력한 신호로 작용하고 결정을 내리는 수고를 덜어 준다. 그것을 바꾸려면 주의가 필요하므로 많은 사람이 그냥 그대로 둔다. 기업과 정부는 이를 알아채고 이제 퇴직 연금과 에너지 요금제 같은 분야에서 기본값을 쓴다. 따라서 기본값을 설계하는 것은 결코 중립적인 행위가 아니다. 선택이 공식적으로는 여전히 그들의 것이어도 그것은 사람들이 결국 하게 되는 일을 조용히 형성한다.",
+    "why": "미리 정해진 기본값이 사람들의 선택을 조용히 형성한다는 내용이므로 ⑤가 제목으로 알맞습니다.",
     "optionNotes": [
-      "기억 감퇴의 약점이 아니라 적응력이 주제입니다.",
-      "언어 학습은 사례 중 하나일 뿐입니다.",
-      "운동과 공부의 비교는 나오지 않습니다.",
-      "뇌가 성장을 멈추는 나이는 나오지 않습니다.",
-      "정답. 습관이 성인의 뇌 뉴런 생성에 영향을 줍니다."
+      "기증률이 낮아진다는 내용은 아닙니다.",
+      "퇴직 연금은 예시일 뿐입니다.",
+      "기업이 고객의 가치를 배우는 과정이 아닙니다.",
+      "선택의 자유 수호가 아니라 기본값이 선택을 이끈다는 내용입니다.",
+      "정답. 기본값이 우리가 한다고 믿는 선택을 조용히 형성합니다."
     ],
-    "trap": "'new language'가 나온다고 언어 학습(②)을 고르지 마세요.",
-    "tip": "제목은 글 전체의 핵심 발견(neurogenesis)과 시사점(daily habits)을 담으세요."
+    "trap": "장기 기증이라는 소재(①)에 끌려 세부 예시를 제목으로 고르지 마세요.",
+    "tip": "제목은 예시를 포괄하는 핵심 개념(default, shape choices)을 담아야 합니다."
   },
   {
     "id": "m3b-01-25",
     "level": "m3",
     "set": "mock-01",
+    "rev": 2,
     "no": 25,
     "type": "chart",
     "stem": "다음 도표의 내용과 일치하지 않는 것은?",
     "chart": {
-      "title": "Share of Renewable Energy in Electricity Production (%)",
+      "title": "Share of Electricity from Renewable Sources by Country (%)",
       "unit": "%",
       "labels": [
         "Country A",
@@ -214,28 +222,18 @@
       ],
       "series": [
         {
-          "name": "2010",
+          "name": "Share",
           "values": [
-            12,
-            25,
-            8,
-            30,
-            15
-          ]
-        },
-        {
-          "name": "2020",
-          "values": [
-            28,
             38,
-            20,
-            36,
-            24
+            25,
+            47,
+            61,
+            52
           ]
         }
       ]
     },
-    "passage": "The graph compares the share of renewable energy in electricity production in five countries in 2010 and 2020. ① The share increased in all five countries during the period. ② Country A's share more than doubled between 2010 and 2020. ③ Country C had the largest increase in percentage points among the five countries. ④ Country D had the highest share in 2010, while Country B had the highest in 2020. ⑤ Country E's share in 2020 was 9 percentage points higher than that in 2010.",
+    "passage": "The graph shows the share of electricity that five countries generate from renewable sources. ① Country D has the highest share of the five countries. ② Country B has the lowest share of the five countries. ③ The share of Country E is 10 percentage points higher than that of Country A. ④ The combined share of Country A and Country B is greater than that of Country D. ⑤ The average share of the five countries is 44.6 percent.",
     "options": [
       "①",
       "②",
@@ -244,100 +242,103 @@
       "⑤"
     ],
     "answer": 2,
-    "translation": "그래프는 다섯 나라에서 2010년과 2020년 전력 생산에서 재생 에너지가 차지하는 비중을 비교한다. ① 이 기간에 다섯 나라 모두에서 비중이 증가했다. ② A국의 비중은 2010년과 2020년 사이에 두 배 이상이 되었다. ③ C국은 다섯 나라 중 백분율 포인트 기준으로 가장 큰 증가를 보였다. ④ 2010년에는 D국이, 2020년에는 B국이 비중이 가장 높았다. ⑤ E국의 2020년 비중은 2010년보다 9퍼센트포인트 높았다.",
-    "why": "증가폭은 A국 16, B국 13, C국 12, D국 6, E국 9이므로 가장 큰 증가는 A국이며 ③은 일치하지 않습니다.",
+    "translation": "그래프는 다섯 나라가 재생 에너지원으로 생산하는 전력의 비율을 보여 준다. ① D국의 비율이 다섯 나라 중 가장 높다. ② B국의 비율이 다섯 나라 중 가장 낮다. ③ E국의 비율은 A국보다 10퍼센트포인트 높다. ④ A국과 B국의 비율을 합한 값은 D국보다 크다. ⑤ 다섯 나라의 평균 비율은 44.6퍼센트이다.",
+    "why": "E는 52%, A는 38%이므로 차이는 14퍼센트포인트이며 ③은 일치하지 않습니다.",
     "optionNotes": [
-      "모든 나라에서 증가했습니다.",
-      "A국은 12%에서 28%로 두 배 넘게 늘었습니다.",
-      "정답(불일치). 가장 큰 증가는 A국(16퍼센트포인트)입니다.",
-      "2010년 D국 30%, 2020년 B국 38%가 가장 높습니다.",
-      "15%에서 24%로 9퍼센트포인트 증가했습니다."
+      "D가 61%로 가장 높습니다.",
+      "B가 25%로 가장 낮습니다.",
+      "정답(불일치). 52 - 38 = 14로 10이 아닙니다.",
+      "38 + 25 = 63으로 61보다 큽니다.",
+      "(38+25+47+61+52) ÷ 5 = 44.6입니다."
     ],
-    "trap": "끝값이 큰 나라(B)와 증가폭이 큰 나라(A)를 혼동하기 쉽습니다.",
-    "tip": "증가 폭 비교는 각 나라의 두 값을 빼서 확인하세요."
+    "trap": "평균·합 문장에 신경 쓰다가 단순 차이 계산을 놓치지 마세요.",
+    "tip": "도표 문제는 '퍼센트포인트 차이'와 '합'을 직접 계산해 확인하세요."
   },
   {
     "id": "m3b-01-26",
     "level": "m3",
     "set": "mock-01",
+    "rev": 2,
     "no": 26,
     "type": "match",
     "stem": "Katherine Johnson에 관한 다음 글의 내용과 일치하는 것은?",
-    "passage": "Katherine Johnson was an African American mathematician who played a crucial role in the early years of the American space program. Born in West Virginia in 1918, she showed exceptional talent in mathematics from a young age and entered college at the age of fifteen. She joined NASA's predecessor organization in 1953 and worked as one of the \"human computers\" who performed complex calculations by hand. Her calculations of the flight paths for early space missions were so reliable that astronaut John Glenn asked her to verify them. Before his orbital flight in 1962, he insisted that she check the electronic computer's results as well. She continued working at NASA until 1986 and contributed to the calculations for the Apollo moon missions. She received the Presidential Medal of Freedom in 2015, and her story inspired the film Hidden Figures.",
+    "passage": "Katherine Johnson was born in 1918 in West Virginia, where her talent for mathematics was noticed early. Because the local schools did not offer education beyond eighth grade to Black students, her family arranged for her to continue her studies in another town. She entered college at fourteen and graduated at eighteen. After several years as a teacher, she joined the NACA, the agency that later became NASA, in 1953. In an era when women and Black employees were segregated, she worked in a group of human \"computers\" who performed calculations by hand. Her skill soon earned her a place on the team that planned spaceflights. In 1961, she calculated the trajectory for Alan Shepard, the first American in space. When John Glenn prepared to orbit the Earth in 1962, he asked that she personally verify the numbers produced by the electronic computer before he would agree to fly. She received the Presidential Medal of Freedom in 2015 and died in 2020 at the age of 101.",
     "options": [
-      "그녀는 열다섯 살에 대학을 졸업하고 곧바로 NASA에 입사했다.",
-      "1950년대에 수학 교사로 일하면서 우주 프로그램에 관한 책을 썼다.",
-      "전자 컴퓨터가 계산을 맡게 되면서 우주 프로그램에서 물러났다.",
-      "우주비행사 글렌은 그녀의 계산을 믿지 못해 전자 컴퓨터의 결과만 사용했다.",
-      "1962년 궤도 비행에 앞서 우주비행사 글렌의 요청으로 전자 컴퓨터가 낸 계산 결과를 직접 검증했다."
+      "열여덟 살에 대학에 입학해 스물두 살에 졸업했다.",
+      "항공 기관에 들어가기 전에는 교사로 일한 적이 없다.",
+      "지역 학교가 흑인 학생에게 고등 교육을 제공해서 같은 마을에서 계속 공부했다.",
+      "셰퍼드의 비행 때는 이미 전자 컴퓨터가 계산을 대신해 그녀가 필요 없었다.",
+      "존 글렌은 전자 컴퓨터가 낸 수치를 그녀가 직접 검증해야 비행에 동의하겠다고 요청했다."
     ],
     "answer": 4,
-    "translation": "캐서린 존슨은 미국 우주 프로그램 초기에 중요한 역할을 한 아프리카계 미국인 수학자였다. 1918년 웨스트버지니아에서 태어난 그녀는 어릴 때부터 수학에 뛰어난 재능을 보였고 열다섯 살에 대학에 입학했다. 그녀는 1953년 NASA의 전신 조직에 들어가 복잡한 계산을 손으로 수행하는 \"인간 컴퓨터\" 중 한 명으로 일했다. 초기 우주 임무의 비행 경로에 대한 그녀의 계산은 매우 믿을 만해서 우주비행사 존 글렌은 그녀에게 그것을 검증해 달라고 요청했다. 1962년 궤도 비행 전에 그는 전자 컴퓨터의 결과도 그녀가 확인해야 한다고 고집했다. 그녀는 1986년까지 NASA에서 계속 일하며 아폴로 달 탐사 임무의 계산에 기여했다. 그녀는 2015년 대통령 자유 훈장을 받았으며 그녀의 이야기는 영화 '히든 피겨스'에 영감을 주었다.",
-    "why": "'astronaut John Glenn asked her to verify the electronic computer's results before his orbital flight in 1962'와 일치합니다.",
+    "translation": "캐서린 존슨은 1918년 웨스트버지니아에서 태어났고, 그곳에서 수학에 대한 재능이 일찍 눈에 띄었다. 지역 학교가 흑인 학생에게 8학년 이후의 교육을 제공하지 않아서 그녀의 가족은 그녀가 다른 마을에서 공부를 계속하도록 마련해 주었다. 그녀는 열네 살에 대학에 입학해 열여덟 살에 졸업했다. 몇 해 동안 교사로 일한 뒤 1953년에 훗날 NASA가 된 기관인 NACA에 들어갔다. 여성과 흑인 직원이 분리되던 시대에 그녀는 손으로 계산을 하는 인간 \"컴퓨터\" 집단에서 일했다. 그녀의 실력은 곧 우주 비행을 계획하는 팀의 자리를 얻게 했다. 1961년 그녀는 미국 최초의 우주인 앨런 셰퍼드의 궤도를 계산했다. 1962년 존 글렌이 지구 궤도를 돌 준비를 할 때 그는 비행에 동의하기 전에 전자 컴퓨터가 만든 수치를 그녀가 직접 검증해 달라고 요청했다. 그녀는 2015년 대통령 자유 훈장을 받았고 2020년 101세로 세상을 떠났다.",
+    "why": "존 글렌이 전자 컴퓨터가 낸 수치를 그녀가 직접 검증해야 비행에 동의하겠다고 요청했다고 했으므로 ⑤가 일치합니다.",
     "optionNotes": [
-      "열다섯 살에 대학에 입학했고 1953년에 입사했습니다.",
-      "수학자로 일했고 책을 썼다는 내용은 없습니다.",
-      "물러났다는 내용은 없으며 오히려 검증을 맡았습니다.",
-      "글렌은 그녀의 검증을 요청했습니다.",
-      "정답. 글렌의 요청으로 전자 컴퓨터의 결과를 검증했습니다."
+      "열네 살에 입학해 열여덟 살에 졸업했습니다.",
+      "몇 해 동안 교사로 일한 뒤 NACA에 들어갔습니다.",
+      "다른 마을에서 공부를 계속했습니다.",
+      "셰퍼드의 궤도 계산은 그녀가 했습니다.",
+      "정답. 글렌이 그녀의 직접 검증을 요청했습니다."
     ],
-    "trap": "'entered college at fifteen'과 '입사 시기'를 혼동하지 마세요.",
-    "tip": "일치 문제는 연도·행위·인물 관계를 하나씩 대조하세요."
+    "trap": "전자 컴퓨터의 등장 때문에 그녀의 계산이 필요 없었다고 짐작하지 마세요.",
+    "tip": "일치 문제는 나이·연도·인물의 요청처럼 구체적인 정보를 보기와 하나씩 대조하세요."
   },
   {
     "id": "m3b-01-27",
     "level": "m3",
     "set": "mock-01",
+    "rev": 2,
     "no": 27,
     "type": "notice",
-    "stem": "Eco-Friendly Campus Challenge에 관한 다음 안내문의 내용과 일치하는 것은?",
-    "passage": "Eco-Friendly Campus Challenge\nOrganized by the Student Sustainability Council\nPeriod: October 7 - November 1 (4 weeks)\nWho can join: Teams of three to five students from any grade\nHow it works: Each team chooses one project to reduce waste or save energy at school, such as a recycling campaign or a lights-off reminder program. Progress will be recorded weekly using the official log sheet.\nEvaluation: Teams will be judged on creativity (30%), measurable impact (40%), and teamwork (30%).\nPrizes: The winning team receives a $200 gift card for school supplies, and the top three teams will be featured in the school newsletter.\nRegistration: Submit the application form to Room 105 by September 27. Late applications will not be accepted.",
+    "stem": "Open Auditions 안내문의 내용과 일치하는 것은?",
+    "passage": "Riverside Youth Orchestra - Open Auditions\nDate: Saturday, March 15 (9 a.m. - 5 p.m.), by appointment\nPlace: Rehearsal Hall B, Riverside Arts Center\nWho can apply: Students aged 13 to 19 who have played their instrument for at least two years\nInstruments needed: Violin, viola, cello, flute, clarinet, and trumpet (no piano or guitar)\nAudition: Perform one piece of your choice (up to 5 minutes) and one scale. Sight-reading will not be required.\nFee: 20,000 won (non-refundable)\nApplication: Online by March 7. Appointment times will be assigned in the order of application.\nResults: Announced by e-mail on March 21",
     "options": [
-      "팀은 세 명에서 다섯 명의 학생으로 구성해야 한다.",
-      "프로젝트는 반드시 학교의 재활용 캠페인이어야 하며 다른 주제는 인정되지 않는다.",
-      "평가에서는 창의성과 팀워크 중에서 팀워크가 가장 큰 비중을 차지한다.",
-      "우승 팀에게는 학용품 구입권이 아니라 현금 이백 달러가 부상으로 주어진다.",
-      "신청서는 9월 27일의 기한이 지난 뒤에도 사정을 설명하면 제출할 수 있다."
+      "곡은 지원자가 직접 고르며 초견 연주는 없다.",
+      "피아노와 기타 지원자도 함께 선발한다.",
+      "3월 15일 당일에 현장에서도 신청을 받는다.",
+      "참가비는 불합격하면 돌려받는다.",
+      "결과는 오디션 당일에 발표된다."
     ],
     "answer": 0,
-    "translation": "친환경 캠퍼스 챌린지. 주최: 학생 지속가능성 위원회. 기간: 10월 7일~11월 1일(4주). 참가 대상: 모든 학년의 학생 3~5명으로 구성된 팀. 방식: 각 팀은 재활용 캠페인이나 소등 알림 프로그램처럼 학교에서 쓰레기를 줄이거나 에너지를 절약하는 프로젝트 하나를 고릅니다. 진행 상황은 공식 기록지에 매주 기록합니다. 평가: 팀은 창의성(30%), 측정 가능한 영향(40%), 팀워크(30%)로 평가받습니다. 상품: 우승 팀은 학용품 구입용 200달러 상품권을 받고 상위 세 팀은 학교 소식지에 소개됩니다. 신청: 9월 27일까지 105호에 신청서를 제출하세요. 마감 후 신청은 받지 않습니다.",
-    "why": "'Teams of three to five students from any grade'와 일치합니다.",
+    "translation": "리버사이드 청소년 오케스트라 – 공개 오디션. 날짜: 3월 15일 토요일(오전 9시~오후 5시), 예약제. 장소: 리버사이드 아트센터 B 연습실. 지원 자격: 악기를 최소 이 년 연주한 13~19세 학생. 모집 악기: 바이올린, 비올라, 첼로, 플루트, 클라리넷, 트럼펫(피아노와 기타 제외). 오디션: 직접 고른 한 곡(최대 5분)과 음계 하나를 연주. 초견 연주는 요구되지 않음. 참가비: 2만 원(환불 불가). 신청: 3월 7일까지 온라인. 예약 시간은 신청 순서대로 배정. 결과: 3월 21일 이메일로 발표.",
+    "why": "'one piece of your choice'와 'Sight-reading will not be required'와 일치합니다.",
     "optionNotes": [
-      "정답. 세 명에서 다섯 명으로 구성합니다.",
-      "재활용 캠페인은 예시일 뿐입니다.",
-      "측정 가능한 영향이 40%로 가장 큽니다.",
-      "현금이 아니라 상품권입니다.",
-      "마감 후 신청은 받지 않습니다."
+      "정답. 직접 고른 곡을 연주하며 초견 연주는 요구되지 않습니다.",
+      "피아노와 기타는 제외입니다.",
+      "신청은 3월 7일까지 온라인입니다.",
+      "참가비는 환불되지 않습니다.",
+      "결과는 3월 21일에 발표됩니다."
     ],
-    "trap": "평가 비중(30·40·30)에서 가장 큰 항목을 혼동하지 마세요.",
-    "tip": "안내문은 숫자와 조건(예시, 상품 종류)을 보기와 정확히 대조하세요."
+    "trap": "오디션 날짜(3월 15일)와 신청 마감(3월 7일)을 혼동하지 마세요.",
+    "tip": "안내문의 Instruments, Audition, Fee, Application, Results 항목을 하나씩 대조하세요."
   },
   {
     "id": "m3b-01-28",
     "level": "m3",
     "set": "mock-01",
+    "rev": 2,
     "no": 28,
     "type": "notice",
-    "stem": "City Youth Orchestra Audition에 관한 다음 안내문의 내용과 일치하는 것은?",
-    "passage": "City Youth Orchestra - Audition Information\nEligibility: Students aged 13 to 18 who have played their instrument for at least three years\nAudition dates: Saturday, February 8 (strings and woodwinds) and Sunday, February 9 (brass and percussion)\nPlace: City Arts Center, Rehearsal Hall B\nWhat to prepare: One piece of your choice (up to three minutes) and one major scale\nApplication: Complete the online form at www.cityyouthorchestra.org by January 25. A non-refundable fee of $20 must be paid online.\nResults: Announced by email on February 15. Accepted members will rehearse every Saturday from 2:00 p.m. to 5:00 p.m. and perform in four concerts a year.",
+    "stem": "Summer Science Camp 안내문의 내용과 일치하는 것은?",
+    "passage": "Maple Creek Nature Center - Summer Science Camp (Grades 7-9)\nWeek 1: July 14-18 (Ecology) / Week 2: July 21-25 (Robotics)\nTime: 9 a.m. - 4 p.m., Monday to Friday\nFee: $180 per week. A second child from the same family receives a 15% discount.\nLunch: Not provided. Bring your own lunch and a water bottle.\nCapacity: 24 students per week\nRegistration: Opens May 5 at 9 a.m. on the website. Places are given on a first-come, first-served basis.\nRefund: Full refund until June 15; 50% refund until July 1; no refund after that.",
     "options": [
-      "오디션은 악기와 상관없이 모든 지원자가 일요일에만 한꺼번에 치른다.",
-      "지원자는 자신이 고른 사 분이 넘는 길이의 곡과 단음계 두 개를 준비해야 한다.",
-      "합격자는 매주 토요일 오후에 연습하고 연 네 번의 연주회에 참여한다.",
-      "지원서를 제출한 뒤에 합격하지 못해도 응시료를 전액 돌려받을 수 있다.",
-      "합격 결과는 오디션을 마친 직후 현장 게시판에서 바로 발표된다."
+      "점심은 센터에서 도시락으로 제공된다.",
+      "두 주 모두 같은 주제를 다룬다.",
+      "6월 15일까지 취소하면 전액 환불된다.",
+      "신청은 센터를 방문해 현장에서만 받는다.",
+      "한 주의 정원은 40명이다."
     ],
     "answer": 2,
-    "translation": "시립 청소년 오케스트라 오디션 안내. 자격: 해당 악기를 적어도 3년 이상 연주한 13~18세 학생. 오디션 날짜: 2월 8일 토요일(현악기와 목관악기), 2월 9일 일요일(금관악기와 타악기). 장소: 시립 예술 센터 B 연습실. 준비물: 직접 고른 곡 한 곡(최대 3분)과 장음계 하나. 신청: 1월 25일까지 www.cityyouthorchestra.org에서 온라인 양식을 작성. 환불되지 않는 20달러의 응시료를 온라인으로 납부해야 합니다. 결과: 2월 15일 이메일로 발표. 합격자는 매주 토요일 오후 2시부터 5시까지 연습하고 연 네 번의 연주회에서 연주합니다.",
-    "why": "'Accepted members will rehearse every Saturday ... and perform in four concerts a year.'와 일치합니다.",
+    "translation": "메이플 크릭 자연 센터 – 여름 과학 캠프(7~9학년). 1주 차: 7월 14~18일(생태) / 2주 차: 7월 21~25일(로봇공학). 시간: 월~금 오전 9시~오후 4시. 참가비: 주당 180달러. 같은 가족의 두 번째 자녀는 15% 할인. 점심: 제공하지 않음. 도시락과 물병을 가져오세요. 정원: 주당 24명. 신청: 5월 5일 오전 9시에 누리집에서 시작. 선착순으로 자리를 배정합니다. 환불: 6월 15일까지 전액 환불, 7월 1일까지 50% 환불, 그 이후는 환불 없음.",
+    "why": "'Full refund until June 15'와 일치합니다.",
     "optionNotes": [
-      "토요일과 일요일 이틀입니다.",
-      "곡은 최대 3분입니다.",
-      "정답. 매주 토요일 연습하고 연 네 번 연주합니다.",
-      "응시료는 환불되지 않습니다.",
-      "결과는 2월 15일 이메일로 발표됩니다."
+      "점심은 제공되지 않습니다.",
+      "1주 차는 생태, 2주 차는 로봇공학입니다.",
+      "정답. 6월 15일까지는 전액 환불입니다.",
+      "신청은 누리집에서 합니다.",
+      "정원은 주당 24명입니다."
     ],
-    "trap": "악기별 오디션 날짜와 연습 요일을 혼동하지 마세요.",
-    "tip": "안내문은 한정어(up to, non-refundable)를 놓치지 마세요."
+    "trap": "6월 15일(전액)과 7월 1일(50%)의 환불 기준을 혼동하지 마세요.",
+    "tip": "안내문의 Week, Lunch, Capacity, Registration, Refund 항목을 하나씩 대조하세요."
   }
 ]
