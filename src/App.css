@@ -253,6 +253,11 @@ button:disabled { cursor: not-allowed; opacity: 0.5; }
   .print-root.on-screen { margin: 0 8px 40px; padding: 12px; font-size: 14px; }
 }
 
+/* 듣기 문항의 QR */
+.listen-qr { display: flex; align-items: center; gap: 12px; margin: 10px 0 4px; }
+.listen-qr .qr { flex: none; border: 1px solid var(--line); }
+.listen-qr p { margin: 0; }
+
 .score { font-size: 1.4rem; margin: 6px 0 14px; }
 .score strong { font-size: 2rem; color: var(--primary); }
 .result-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }

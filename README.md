@@ -54,6 +54,9 @@ npm run audio          # 듣기 음원 생성 (GOOGLE_TTS_KEY 환경변수 필�
 ## 듣기 음원
 
 `public/audio/manifest.json`에 있는 문제는 녹음된 음원(mp3)을 재생하고, 없으면 브라우저 내장 음성으로 임시 재생한다.
+방송 구성은 수능 듣기를 따른다: 차임벨 → 한국어 문항 번호·발문 → 영어 대본 → (17번만) 마무리 안내. 한국어 안내 문장은
+`src/lib/prompt.js` 한 곳에 있고, 음원 생성과 임시 음성이 같이 쓴다. 안내 문장이나 목소리를 바꾸면 음원을 다시 만들어야 한다
+(`node scripts/make-audio.mjs --mocks=10 --force`, Google 무료 한도에 주의). `npm run audio -- --옵션`은 npm이 옵션을 가로채니 node로 직접 실행한다.
 모의고사 모드에서는 듣기를 2번까지 재생할 수 있다.
 
 ## 보관

@@ -1,14 +1,19 @@
 import { useEffect, useRef, useState } from 'react'
+import { listenUrl } from '../data/site'
 import { useAudioUrl } from '../lib/audio'
+import { spokenAfter, spokenBefore } from '../lib/prompt'
 import { playScript, speechSupported } from '../lib/speech'
+import QrCode from './QrCode'
 
 const SPEAKER_NAME = { W: '여', M: '남', N: '해설' }
 
 /**
  * 듣기 플레이어. 녹음된 음원(audio manifest)이 있으면 그것을, 없으면 브라우저 음성으로 읽어 준다.
  * maxPlays를 주면 그 횟수까지만 재생할 수 있다(모의고사는 2회).
+ * showQr: 이 문항의 듣기 QR(휴대폰으로 스캔하면 이 문항만 재생된다)을 함께 보여 준다.
  */
-export default function ListeningPlayer({ id, lines, rate, showScript, maxPlays = Infinity }) {
+export default function ListeningPlayer({ question, rate, showScript, maxPlays = Infinity, showQr = false }) {
+  const { id, script: lines } = question
   const audioUrl = useAudioUrl(id)
   const [playing, setPlaying] = useState(false)
   const [current, setCurrent] = useState(-1)
@@ -38,6 +43,8 @@ export default function ListeningPlayer({ id, lines, rate, showScript, maxPlays 
     cancelRef.current?.()
     cancelRef.current = playScript(lines, {
       rate,
+      intro: spokenBefore(question),
+      outro: spokenAfter(question),
       onLine: setCurrent,
       onEnd: () => {
         setPlaying(false)
@@ -77,6 +84,12 @@ export default function ListeningPlayer({ id, lines, rate, showScript, maxPlays 
           {Number.isFinite(maxPlays) ? `${plays} / ${maxPlays}회 재생` : plays > 0 ? `${plays}회 재생` : ''}
         </span>
       </div>
+      {showQr && (
+        <div className="listen-qr">
+          <QrCode value={listenUrl(id)} size={88} />
+          <p className="muted small">휴대폰으로 스캔하면 이 문항의 듣기가 열려요.</p>
+        </div>
+      )}
       {!audioUrl && (
         <p className="muted small">임시 음성(브라우저 내장)입니다. 정식 버전은 녹음된 영어 음원으로 교체됩니다.</p>
       )}

@@ -1,5 +1,5 @@
 // 임시 듣기 음성: 브라우저 내장 음성 합성(Web Speech API).
-// 정식 버전에서는 미리 생성한 영어 음원 파일(mp3)로 교체한다. 호출부는 playScript만 알면 된다.
+// 녹음 음원(mp3)이 없는 문항에서만 쓴다. 음원과 같은 순서로 읽는다: 차임벨 → 한국어 발문 → 영어 대본 → (마지막 문항) 마무리.
 const synth = typeof window !== 'undefined' ? window.speechSynthesis : null
 
 export const speechSupported = Boolean(synth)
@@ -7,50 +7,106 @@ export const speechSupported = Boolean(synth)
 const FEMALE_HINT = /female|zira|samantha|susan|aria|jenny|hazel|karen|victoria|catherine/i
 const MALE_HINT = /\bmale\b|david|mark|george|guy|daniel|alex|richard|james|ryan/i
 
+const voicesOf = (prefix) => synth.getVoices().filter((v) => v.lang && v.lang.toLowerCase().startsWith(prefix))
+
 function pickVoice(speaker) {
-  const voices = synth.getVoices().filter((v) => v.lang && v.lang.toLowerCase().startsWith('en'))
+  const voices = voicesOf('en')
   if (voices.length === 0) return null
   if (speaker === 'W') return voices.find((v) => FEMALE_HINT.test(v.name)) || voices[0]
   return voices.find((v) => MALE_HINT.test(v.name) && !FEMALE_HINT.test(v.name)) || voices[0]
 }
 
+/** 방송 시작 차임벨(두 음). 소리를 낼 수 없는 환경에서는 바로 끝낸다. */
+function playChime() {
+  return new Promise((resolve) => {
+    try {
+      const Ctx = window.AudioContext || window.webkitAudioContext
+      if (!Ctx) return resolve()
+      const ctx = new Ctx()
+      const tone = (frequency, start, length) => {
+        const osc = ctx.createOscillator()
+        const gain = ctx.createGain()
+        osc.frequency.value = frequency
+        osc.connect(gain)
+        gain.connect(ctx.destination)
+        const t = ctx.currentTime + start
+        gain.gain.setValueAtTime(0.0001, t)
+        gain.gain.exponentialRampToValueAtTime(0.3, t + 0.03)
+        gain.gain.exponentialRampToValueAtTime(0.0001, t + length)
+        osc.start(t)
+        osc.stop(t + length + 0.05)
+      }
+      tone(1046, 0, 0.4)
+      tone(784, 0.45, 0.6)
+      setTimeout(() => {
+        ctx.close()
+        resolve()
+      }, 1300)
+    } catch {
+      resolve()
+    }
+  })
+}
+
 /**
  * 대본(lines: [{speaker:'W'|'M'|'N', text}])을 순서대로 읽어 준다.
- * 반환값은 재생을 중단하는 함수.
+ * intro/outro: 영어 대본 앞뒤에 한국어로 읽을 문장 배열(src/lib/prompt.js). 반환값은 재생을 중단하는 함수.
  */
-export function playScript(lines, { rate = 0.95, onLine, onEnd } = {}) {
+export function playScript(lines, { rate = 0.95, intro = [], outro = [], onLine, onEnd } = {}) {
   if (!synth) {
     onEnd?.()
     return () => {}
   }
   synth.cancel()
   let cancelled = false
+  let timer = null
 
-  const speak = (index) => {
+  const steps = [
+    { chime: true },
+    ...intro.map((text) => ({ text, lang: 'ko-KR' })),
+    ...lines.map((line, index) => ({ text: line.text, lang: 'en-US', speaker: line.speaker, index })),
+    ...outro.map((text) => ({ text, lang: 'ko-KR' })),
+  ]
+
+  const run = (i) => {
     if (cancelled) return
-    if (index >= lines.length) {
+    if (i >= steps.length) {
       onEnd?.()
       return
     }
-    onLine?.(index)
-    const line = lines[index]
-    const utterance = new SpeechSynthesisUtterance(line.text)
-    utterance.lang = 'en-US'
-    utterance.rate = rate
-    // 음성 목록에 남/여 구분이 없는 환경을 위해 음높이도 함께 달리한다.
-    utterance.pitch = line.speaker === 'W' ? 1.15 : line.speaker === 'M' ? 0.85 : 1
-    const voice = pickVoice(line.speaker)
-    if (voice) utterance.voice = voice
-    utterance.onend = () => speak(index + 1)
+    const step = steps[i]
+    const next = () => {
+      timer = setTimeout(() => run(i + 1), step.chime ? 300 : 500)
+    }
+    if (step.chime) {
+      playChime().then(() => !cancelled && next())
+      return
+    }
+    if (step.index !== undefined) onLine?.(step.index)
+    const utterance = new SpeechSynthesisUtterance(step.text)
+    utterance.lang = step.lang
+    if (step.lang === 'ko-KR') {
+      utterance.rate = 1
+      const ko = voicesOf('ko')[0]
+      if (ko) utterance.voice = ko
+    } else {
+      utterance.rate = rate
+      // 음성 목록에 남/여 구분이 없는 환경을 위해 음높이도 함께 달리한다.
+      utterance.pitch = step.speaker === 'W' ? 1.15 : step.speaker === 'M' ? 0.85 : 1
+      const voice = pickVoice(step.speaker)
+      if (voice) utterance.voice = voice
+    }
+    utterance.onend = next
     utterance.onerror = () => {
       if (!cancelled) onEnd?.()
     }
     synth.speak(utterance)
   }
 
-  speak(0)
+  run(0)
   return () => {
     cancelled = true
+    clearTimeout(timer)
     synth.cancel()
   }
 }

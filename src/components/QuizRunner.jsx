@@ -57,7 +57,7 @@ export default function QuizRunner({ title, questions, onFinish, onExit }) {
       <h2 className="stem">{question.stem}</h2>
 
       {isListening ? (
-        <ListeningPlayer key={question.id} id={question.id} lines={question.script} rate={rate} showScript={revealed} />
+        <ListeningPlayer key={question.id} question={question} rate={rate} showScript={revealed} showQr />
       ) : (
         <Passage text={question.passage} />
       )}

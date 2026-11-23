@@ -30,13 +30,7 @@ export default function ListenView({ questionId }) {
           {level?.name} · 모의고사 {Number(question.set?.replace('mock-', ''))}회
         </p>
         <p>문제지를 보며 듣고 답을 고르세요.</p>
-        <ListeningPlayer
-          key={question.id}
-          id={question.id}
-          lines={question.script}
-          rate={level?.speechRate ?? 0.95}
-          showScript={false}
-        />
+        <ListeningPlayer key={question.id} question={question} rate={level?.speechRate ?? 0.95} showScript={false} />
       </section>
     </main>
   )

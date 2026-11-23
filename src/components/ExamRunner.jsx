@@ -101,14 +101,7 @@ export default function ExamRunner({ title, questions, minutes, onSubmit, onExit
       </h2>
 
       {isListening ? (
-        <ListeningPlayer
-          key={question.id}
-          id={question.id}
-          lines={question.script}
-          rate={rate}
-          showScript={false}
-          maxPlays={2}
-        />
+        <ListeningPlayer key={question.id} question={question} rate={rate} showScript={false} maxPlays={2} showQr />
       ) : (
         <Passage text={question.passage} />
       )}
