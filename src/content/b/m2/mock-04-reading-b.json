@@ -3,10 +3,11 @@
     "id": "m2b-04-29",
     "level": "m2",
     "set": "mock-04",
+    "rev": 2,
     "no": 29,
     "type": "grammar",
     "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
-    "passage": "Giant pandas spend most of their day eating bamboo, {1|which} makes up about ninety-nine percent of their diet. An adult panda can eat up to twelve kilograms of bamboo every day. Surprisingly, pandas belong to the group of carnivores, and their bodies {2|are} still built to digest meat. Because bamboo gives little energy, pandas {3|have to} eat for around fourteen hours a day. They also move slowly to save energy, which {4|explains} why they spend so much time resting. Bamboo forests are shrinking because of farming and road building. For this reason, protecting bamboo forests {5|are} important for the survival of pandas.",
+    "passage": "Bamboo is one of the fastest-growing plants on Earth; some species can grow almost a meter in a single day. Yet the most unusual feature of bamboo is {1|how} rarely it flowers. Many species flower only once every sixty or a hundred and twenty years, and when one plant blooms, all of the plants of the same kind, wherever they grow in the world, bloom {2|together}. Scientists still do not know how the plants keep time. After the flowering, the plants produce huge amounts of seeds and then die. In some regions, this event has serious consequences. When bamboo flowered in northeastern India, the sudden supply of seeds caused the rat population {3|to explode}. The rats then ate the farmers' crops, and famine followed. Today, researchers monitor the age of bamboo forests so that they can warn nearby communities in advance. Giant pandas, which depend almost entirely on bamboo for food, also face danger, but they usually move to other forests {4|where} another species is growing. Understanding the strange clock of bamboo, therefore, is important both for protecting wildlife and for {5|to prevent} human hunger.",
     "options": [
       "①",
       "②",
@@ -15,26 +16,27 @@
       "⑤"
     ],
     "answer": 4,
-    "translation": "자이언트 판다는 하루의 대부분을 대나무를 먹으며 보내는데 대나무는 먹이의 약 99퍼센트를 차지한다. 다 자란 판다는 하루에 대나무를 최대 12킬로그램까지 먹을 수 있다. 놀랍게도 판다는 육식 동물 무리에 속하며 몸은 여전히 고기를 소화하도록 만들어져 있다. 대나무는 에너지를 거의 주지 않기 때문에 판다는 하루에 약 열네 시간을 먹어야 한다. 또한 에너지를 아끼려고 천천히 움직이는데 이것이 판다가 쉬는 데 그토록 많은 시간을 쓰는 이유를 설명해 준다. 대나무 숲은 농사와 도로 건설 때문에 줄어들고 있다. 이런 이유로 대나무 숲을 보호하는 것은 판다의 생존에 중요하다.",
-    "why": "동명사구 'protecting bamboo forests'는 단수 취급하므로 'are'가 아니라 'is'여야 합니다.",
+    "translation": "대나무는 지구에서 가장 빨리 자라는 식물 중 하나로, 일부 종은 하루에 거의 1미터를 자랄 수 있다. 그러나 대나무의 가장 특이한 특징은 꽃이 거의 피지 않는다는 점이다. 많은 종은 60년이나 120년에 한 번만 꽃을 피우며, 한 식물이 꽃을 피우면 세계 어디에서 자라든 같은 종류의 모든 식물이 함께 꽃을 피운다. 과학자들은 식물이 어떻게 시간을 재는지 아직 모른다. 개화 뒤 식물은 엄청난 양의 씨앗을 만들고 죽는다. 일부 지역에서 이 사건은 심각한 결과를 낳는다. 인도 북동부에서 대나무가 꽃을 피웠을 때 갑작스러운 씨앗 공급은 쥐의 수가 폭발하게 했다. 쥐는 이어 농부의 작물을 먹었고 기근이 뒤따랐다. 오늘날 연구자들은 인근 공동체에 미리 경고할 수 있도록 대나무 숲의 나이를 감시한다. 먹이를 거의 대나무에 의존하는 판다도 위험에 처하지만 보통 다른 종이 자라는 다른 숲으로 이동한다. 그러므로 대나무의 이상한 시계를 이해하는 것은 야생 동물을 보호하고 인간의 굶주림을 막는 데 모두 중요하다.",
+    "why": "both A and B 구조에서 for protecting과 병렬되어야 하므로 for to prevent가 아니라 for preventing이어야 합니다.",
     "optionNotes": [
-      "계속적 용법의 관계대명사 which입니다.",
-      "주어 bodies에 맞는 복수 동사 are입니다.",
-      "have to + 동사원형입니다.",
-      "관계대명사 which 뒤의 단수 동사 explains입니다.",
-      "정답(틀린 것). 동명사 주어는 단수이므로 is여야 합니다."
+      "의문사 how가 rarely를 수식하는 명사절을 이끕니다.",
+      "'함께'를 뜻하는 부사 together입니다.",
+      "cause + 목적어 + to부정사 구조입니다.",
+      "'다른 종이 자라는 숲'을 수식하는 관계부사 where입니다.",
+      "정답(틀린 것). for 뒤에는 동명사가 와야 하고 protecting과 병렬되어야 합니다."
     ],
-    "trap": "가까이 있는 복수 명사 forests에 이끌려 복수 동사를 쓰기 쉽습니다.",
-    "tip": "동명사(구) 주어는 단수 취급합니다."
+    "trap": "to부정사가 '목적'을 나타내는 것처럼 보이지만 전치사 for 뒤에는 쓸 수 없습니다.",
+    "tip": "both A and B 구조에서는 A와 B의 문법 형태가 같은지 확인하세요."
   },
   {
     "id": "m2b-04-30",
     "level": "m2",
     "set": "mock-04",
+    "rev": 2,
     "no": 30,
     "type": "vocab",
     "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
-    "passage": "Earthquakes cannot be predicted, so it is important to be {1|prepared} in advance. At home, you should keep an emergency bag with water, food, a flashlight, and a first-aid kit. When the ground starts to shake, move away from windows and heavy furniture that could {2|fall}. It is {3|safe} to run outside during the shaking, because falling objects can hurt you. Instead, get under a strong table and cover your head with your arms. After the shaking stops, leave the building calmly, using the stairs rather than the elevator. Finally, listen to the news and follow the instructions of {4|local} officials, who will inform you about safe places. Regular practice makes you {5|confident} in an emergency.",
+    "passage": "Japanese trains are famous for their punctuality: the average delay of a high-speed train is less than a minute. This record does not happen by {1|chance}. Drivers and conductors practice a routine called pointing and calling, in which they point at each signal and say aloud what they see, a habit that has been shown to {2|reduce} errors by almost a third. Timetables are planned with great care, and station staff are trained to {3|extend} the time that passengers need to get on and off, so that the doors can close exactly on schedule. Maintenance crews inspect the tracks every night while the trains are resting, and sensors send {4|warnings} to a control center when something unusual is found. Passengers also play a part, since they line up politely and rarely hold the doors. Critics, however, point out that this culture of perfection can put heavy pressure on workers, who may feel that even a delay of a few seconds requires an {5|apology}. The system works well, but it depends on the effort of many people, and that effort has a human cost that is easy to forget.",
     "options": [
       "①",
       "②",
@@ -43,138 +45,143 @@
       "⑤"
     ],
     "answer": 2,
-    "translation": "지진은 예측할 수 없으므로 미리 준비되어 있는 것이 중요하다. 집에는 물, 음식, 손전등, 구급상자를 넣은 비상 가방을 두어야 한다. 땅이 흔들리기 시작하면 창문과 쓰러질 수 있는 무거운 가구에서 멀리 떨어져라. 흔들리는 동안 밖으로 뛰어나가는 것은 안전한데, 떨어지는 물건이 당신을 다치게 할 수 있기 때문이다. 대신 튼튼한 탁자 아래로 들어가 팔로 머리를 감싸라. 흔들림이 멈추면 침착하게 건물을 떠나되 엘리베이터가 아닌 계단을 이용하라. 마지막으로 뉴스를 듣고 안전한 장소를 알려 줄 지역 공무원들의 지시를 따르라. 정기적인 연습은 비상시에 자신감을 갖게 한다.",
-    "why": "떨어지는 물건이 다칠 수 있다고 했으므로 밖으로 뛰어나가는 것은 '안전하다(safe)'가 아니라 '위험하다(dangerous)'여야 합니다.",
+    "translation": "일본의 열차는 시간 엄수로 유명하다. 고속 열차의 평균 지연은 1분이 채 되지 않는다. 이 기록은 우연히 생긴 것이 아니다. 기관사와 차장은 각 신호를 가리키며 본 것을 소리 내어 말하는 '지적 확인 호칭'이라는 절차를 연습하는데, 이 습관은 오류를 거의 3분의 1 줄이는 것으로 나타났다. 시간표는 세심하게 짜이고 역 직원은 문이 정확히 시간에 닫히도록 승객이 타고 내리는 데 필요한 시간을 늘리도록 훈련받는다. 보수 팀은 열차가 쉬는 동안 매일 밤 선로를 점검하고 센서는 이상한 것이 발견되면 관제 센터에 경고를 보낸다. 승객도 한몫하는데, 질서 있게 줄을 서고 문을 붙잡는 일이 거의 없다. 그러나 비판자들은 이 완벽의 문화가 노동자에게 큰 압박을 줄 수 있다고 지적하는데, 그들은 몇 초의 지연조차 사과가 필요하다고 느낄 수 있다. 이 체계는 잘 작동하지만 많은 사람의 노력에 의존하며 그 노력에는 잊기 쉬운 인간적 비용이 따른다.",
+    "why": "문이 정확히 시간에 닫히게 하려면 승객이 타고 내리는 시간을 '줄여야(shorten)' 하므로 extend는 문맥과 반대입니다.",
     "optionNotes": [
-      "미리 준비되어 있다는 의미로 prepared가 알맞습니다.",
-      "쓰러질 수 있는 가구라는 의미로 fall이 알맞습니다.",
-      "정답(부적절). 뒤의 이유와 충돌하므로 dangerous여야 합니다.",
-      "지역 공무원이라는 의미로 local이 알맞습니다.",
-      "연습이 자신감을 준다는 의미로 confident가 알맞습니다."
+      "우연히 생긴 것이 아니라는 문맥에 맞는 chance입니다.",
+      "오류를 줄인다는 reduce입니다.",
+      "정답(부적절). 정시에 문을 닫으려면 시간을 줄여야 하므로 shorten이어야 합니다.",
+      "이상이 발견되면 보내는 warnings입니다.",
+      "몇 초의 지연에도 필요한 apology입니다."
     ],
-    "trap": "'because falling objects can hurt you'와 safe가 충돌합니다.",
-    "tip": "because 절의 이유가 앞 형용사의 방향과 맞는지 확인하세요."
+    "trap": "'time that passengers need'를 보고 '늘린다'가 자연스럽다고 착각하기 쉽지만 'exactly on schedule'과 충돌합니다.",
+    "tip": "목적 표현(so that ~)과 동사의 방향이 일치하는지 확인하세요."
   },
   {
     "id": "m2b-04-31",
     "level": "m2",
     "set": "mock-04",
+    "rev": 2,
     "no": 31,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "When we read fiction, we follow the thoughts and feelings of the characters and imagine situations from their point of view. Reading a good story can feel like living another life. Researchers have found that people who read stories regularly are better at understanding other people's emotions. In one study, participants who read a short story performed better on a test of reading facial expressions than those who read a news article. Experts explain that the brain treats imagined experiences in a similar way to real ones. This suggests that reading fiction can help us __________.",
+    "passage": "Imagine two students who each study a list of vocabulary for six hours. One studies for six hours the night before the exam; the other studies for one hour a day over six days. On the following morning, both will probably do well. But after a month, the second student will remember far more. Psychologists call this the spacing effect, and it is one of the most reliable findings in the science of learning. Each time we return to a piece of information after a delay, the brain must work to retrieve it, and the effort strengthens the memory. When we study everything in one session, the material remains fresh in short-term memory, which creates a comfortable feeling of knowing but fades quickly. Spacing feels harder and less efficient, which is why most students avoid it. Yet it is the ordinary advantage that separates strong learners from weak ones. To remember something for the long term, we should therefore __________.",
     "options": [
-      "finish our daily tasks in a much shorter time",
-      "remember historical dates without any effort at all",
-      "understand and share the feelings of other people",
-      "become more skilled at solving difficult math problems",
-      "learn to speak foreign languages very quickly and easily"
+      "read the material as quickly as possible and only one time before the exam",
+      "study for as many hours as possible on the last night",
+      "divide our study time into short sessions spread over many days",
+      "avoid reviewing the material that we already know well",
+      "learn each topic only when we feel that we have the time"
     ],
     "answer": 2,
-    "translation": "소설을 읽을 때 우리는 등장인물의 생각과 감정을 따라가고 그들의 관점에서 상황을 상상한다. 좋은 이야기를 읽는 것은 또 다른 삶을 사는 것처럼 느껴질 수 있다. 연구자들은 정기적으로 이야기를 읽는 사람이 다른 사람의 감정을 더 잘 이해한다는 것을 발견했다. 한 연구에서 짧은 이야기를 읽은 참가자는 뉴스 기사를 읽은 참가자보다 표정을 읽는 검사에서 더 잘했다. 전문가들은 뇌가 상상한 경험을 실제 경험과 비슷하게 다룬다고 설명한다. 이는 소설을 읽는 것이 다른 사람의 감정을 이해하고 공유하는 데 도움이 될 수 있음을 시사한다.",
-    "why": "소설 독서가 타인의 감정 이해와 표정 읽기 능력을 높인다고 했으므로 '타인의 감정을 이해하고 공유하도록'이 알맞습니다.",
+    "translation": "각각 여섯 시간 동안 어휘 목록을 공부하는 두 학생을 상상해 보라. 한 학생은 시험 전날 밤 여섯 시간을 공부하고 다른 학생은 엿새 동안 하루 한 시간씩 공부한다. 다음 날 아침에는 둘 다 아마 잘할 것이다. 그러나 한 달 뒤에는 두 번째 학생이 훨씬 더 많이 기억할 것이다. 심리학자들은 이를 간격 효과라 부르며 학습 과학에서 가장 믿을 만한 발견 중 하나이다. 지연 뒤에 정보로 돌아올 때마다 뇌는 그것을 떠올리려고 애써야 하고 그 노력이 기억을 강화한다. 한 번에 모든 것을 공부하면 자료가 단기 기억에 신선하게 남아 편안한 안다는 느낌을 주지만 금세 사라진다. 간격을 두는 것은 더 어렵고 비효율적으로 느껴져서 대부분의 학생이 피한다. 그러나 그것은 강한 학습자와 약한 학습자를 가르는 평범한 이점이다. 그러므로 무언가를 오래 기억하려면 공부 시간을 여러 날에 걸친 짧은 시간으로 나누어야 한다.",
+    "why": "간격 효과에 따라 공부 시간을 여러 날에 나누는 것이 장기 기억에 유리하다는 ③이 알맞습니다.",
     "optionNotes": [
-      "일을 빨리 끝낸다는 내용은 없습니다.",
-      "역사 연도는 나오지 않습니다.",
-      "정답. 타인의 감정을 이해하고 공유하는 데 도움이 됩니다.",
-      "수학 문제 해결은 나오지 않습니다.",
-      "외국어 학습은 나오지 않습니다."
+      "한 번만 빠르게 읽는 것은 효과가 없습니다.",
+      "마지막 밤의 장시간 공부는 첫 번째 학생의 방식입니다.",
+      "정답. 짧은 시간으로 나누어 여러 날에 걸쳐 공부합니다.",
+      "이미 아는 것을 복습하지 않는 것은 반대입니다.",
+      "시간이 있을 때만 하는 것은 간격 효과와 관련이 없습니다."
     ],
-    "trap": "'reading'이 반복되어 학습 효과 전반(⑤)으로 확대하지 마세요.",
-    "tip": "연구 결과(emotions, facial expressions)가 빈칸의 직접적인 단서입니다."
+    "trap": "②는 앞의 '첫 번째 학생'의 방식으로, 다음 날에는 잘하지만 장기 기억에서는 지는 방식입니다.",
+    "tip": "글의 대비(one night vs one hour a day)가 빈칸의 직접 근거입니다."
   },
   {
     "id": "m2b-04-32",
     "level": "m2",
     "set": "mock-04",
+    "rev": 2,
     "no": 32,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Plants cannot move, so they have developed clever ways to send their seeds far away. Maple seeds spin like tiny helicopters as they fall. Dandelion seeds have light, fluffy parts that carry them through the air. Coconuts float on the sea for months and land on distant beaches. Birds also carry seeds in their stomachs and drop them far from where they ate. Some seeds have tiny hooks that attach to animals' fur, and others are hidden in tasty fruits that animals eat and later drop elsewhere. By traveling far from the parent plant, young plants can __________.",
+    "passage": "Why do some stories spread across the internet within hours while others disappear unnoticed? Researchers who analyzed tens of thousands of news articles shared by readers found that accuracy and usefulness mattered less than we might expect. What distinguished the most widely shared stories was the strength of the emotion that they aroused. Articles that made readers feel awe, anger, or anxiety were passed on far more often than those that created sadness or calm. The researchers explained that such emotions raise our energy level and make us want to act, and sharing is the easiest action available. By contrast, emotions that lower our energy, such as sadness, make us withdraw. This helps to explain why false rumors can travel faster than corrections: a rumor is usually designed to be surprising or alarming, while a correction is calm. Before we click the share button, therefore, it may be wise to ask not only whether a story is true but also __________.",
     "options": [
-      "always grow taller than all of the other plants nearby",
-      "avoid competing with their parents for light and water",
-      "need much less water than plants growing in very dry areas",
-      "become the main food for the animals that carried them",
-      "stop growing completely during the cold winter months"
+      "how many people have already read the same story online",
+      "whether it is spreading mainly because of the feeling that it gives us",
+      "which website was the first one to publish the information about the story online",
+      "whether the headline has been written in a short sentence",
+      "how much time we will need to read the entire article"
     ],
     "answer": 1,
-    "translation": "식물은 움직일 수 없어서 씨앗을 멀리 보내는 영리한 방법을 발달시켰다. 단풍나무 씨앗은 떨어질 때 작은 헬리콥터처럼 빙글빙글 돈다. 민들레 씨앗은 가볍고 솜털 같은 부분이 있어 공기를 타고 날아간다. 코코넛은 몇 달 동안 바다에 떠서 먼 해변에 닿는다. 새도 뱃속에 씨앗을 넣고 다니다 먹은 곳에서 멀리 떨어뜨린다. 어떤 씨앗은 동물의 털에 붙는 작은 갈고리가 있고 다른 씨앗은 동물이 먹었다가 나중에 다른 곳에 떨어뜨리는 맛있는 열매 속에 숨어 있다. 부모 식물에서 멀리 이동함으로써 어린 식물은 빛, 물, 공간을 두고 부모와 경쟁하는 것을 피할 수 있다.",
-    "why": "씨앗이 멀리 퍼지면 부모 식물과 빛·물·공간을 두고 경쟁하지 않아도 되므로 ②가 알맞습니다.",
+    "translation": "왜 어떤 이야기는 몇 시간 만에 인터넷 전체에 퍼지고 다른 이야기는 눈에 띄지 않고 사라질까? 독자가 공유한 수만 건의 뉴스 기사를 분석한 연구자들은 정확성과 유용성이 우리가 예상하는 것보다 덜 중요함을 발견했다. 가장 널리 공유된 이야기를 구별해 준 것은 그것이 불러일으킨 감정의 강도였다. 독자에게 경외, 분노, 불안을 느끼게 한 기사는 슬픔이나 평온을 만든 기사보다 훨씬 더 자주 전달되었다. 연구자들은 그런 감정이 우리의 에너지 수준을 높여 행동하고 싶게 만들고 공유는 가장 쉬운 행동이라고 설명했다. 반대로 슬픔처럼 에너지를 낮추는 감정은 우리를 움츠러들게 한다. 이는 거짓 소문이 정정보다 빨리 퍼지는 이유를 설명하는 데 도움이 된다. 소문은 대개 놀랍거나 불안하게 만들어지는 반면 정정은 차분하다. 그러므로 공유 버튼을 누르기 전에 이야기가 사실인지뿐 아니라 그것이 우리에게 주는 감정 때문에 주로 퍼지고 있는지도 물어보는 것이 현명할 것이다.",
+    "why": "글은 정확성보다 감정의 강도가 공유를 좌우한다고 하므로, 사실 여부뿐 아니라 감정 때문에 퍼지는지도 물어야 한다는 ②가 알맞습니다.",
     "optionNotes": [
-      "키가 더 크게 자란다는 내용은 없습니다.",
-      "정답. 부모와의 경쟁을 피합니다.",
-      "물이 덜 필요하다는 내용은 없습니다.",
-      "동물의 먹이가 된다는 내용은 이동의 목적이 아닙니다.",
-      "겨울에 성장을 멈춘다는 내용은 없습니다."
+      "이미 읽은 사람 수는 나오지 않습니다.",
+      "정답. 감정 때문에 퍼지고 있는지 묻는 것입니다.",
+      "최초 게시처는 나오지 않습니다.",
+      "제목의 길이는 나오지 않습니다.",
+      "읽는 데 걸리는 시간은 나오지 않습니다."
     ],
-    "trap": "'tasty fruits that animals eat'에 이끌려 동물의 먹이(④)를 고르지 마세요.",
-    "tip": "수단(멀리 이동)의 이점은 부모 식물과 떨어지는 효과에서 찾으세요."
+    "trap": "'not only whether ~ but also ...'에서 but also 뒤는 앞의 '사실 여부'와 다른 관점이어야 합니다.",
+    "tip": "글의 핵심 개념(emotion)이 빈칸의 질문에 반영되었는지 확인하세요."
   },
   {
     "id": "m2b-04-33",
     "level": "m2",
     "set": "mock-04",
+    "rev": 2,
     "no": 33,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Saying sorry is not easy. We often worry that admitting a mistake will make us look weak. However, research suggests the opposite. When people sincerely apologize, others usually see them as more trustworthy and respectful. For example, a simple \"I am sorry that I was late\" can calm an angry friend more quickly than any excuse. A good apology includes three parts: admitting what you did, showing that you understand how the other person feels, and promising to do better. An apology without these parts sounds empty. In the end, a sincere apology is a way to __________.",
+    "passage": "Before 1956, loading a cargo ship was slow and expensive. Dock workers carried sacks, barrels, and boxes of different shapes one by one, and a ship could spend a week in port. Then a trucking businessman named Malcom McLean had a simple idea: instead of unloading the goods from his trucks, why not lift the whole truck body onto the ship? The steel container that he designed could be stacked, locked, and transferred between ships, trains, and trucks without being opened. The cost of loading a ton of cargo fell from about six dollars to less than a dime, and a ship could be unloaded in a day. As a result, it became cheaper to produce goods far from where they were sold, and factories began to move across the world. A shirt sewn in one country could be sold in another for less than a local shirt. The humble steel box did not just change shipping; it changed the economy, because __________.",
     "options": [
-      "prove that you are always right in an argument with others",
-      "avoid talking to the people whom you do not like very much",
-      "make other people feel guilty about the mistakes that they made",
-      "win a prize for being the most honest student in the class",
-      "repair a relationship and rebuild trust with another person"
+      "it forced governments to prevent large ships from entering their national ports",
+      "it made workers in every country earn exactly the same wages",
+      "it increased the number of products that people wanted to buy",
+      "it reduced the number of goods that could be traded abroad",
+      "it made the distance between producers and customers matter far less"
     ],
     "answer": 4,
-    "translation": "미안하다고 말하는 것은 쉽지 않다. 우리는 흔히 실수를 인정하면 약해 보일까 봐 걱정한다. 그러나 연구는 그 반대를 시사한다. 사람들이 진심으로 사과하면 다른 사람들은 보통 그들을 더 믿을 만하고 존중할 만하다고 본다. 예를 들어 간단한 \"늦어서 미안해\"라는 말은 어떤 변명보다 화난 친구를 더 빨리 진정시킬 수 있다. 좋은 사과에는 세 부분이 있다. 자신이 한 일을 인정하고, 상대방이 어떻게 느끼는지 이해한다는 것을 보여 주고, 더 잘하겠다고 약속하는 것이다. 이런 부분이 없는 사과는 공허하게 들린다. 결국 진심 어린 사과는 관계를 회복하고 상대방과의 신뢰를 다시 쌓는 방법이다.",
-    "why": "사과가 신뢰를 높이고 존중받게 한다고 했으므로 '관계를 회복하고 신뢰를 다시 쌓는 방법'이 알맞습니다.",
+    "translation": "1956년 이전에 화물선에 짐을 싣는 일은 느리고 비쌌다. 부두 노동자들은 서로 다른 모양의 자루, 통, 상자를 하나씩 날랐고 배는 항구에서 일주일을 보낼 수 있었다. 그러다 트럭 사업가 말콤 맥린이 간단한 생각을 했다. 트럭에서 짐을 내리는 대신 트럭의 적재함 전체를 배에 올리면 어떨까? 그가 설계한 강철 컨테이너는 열지 않고도 배, 기차, 트럭 사이에서 쌓고 잠그고 옮길 수 있었다. 화물 1톤을 싣는 비용은 약 6달러에서 10센트 미만으로 떨어졌고 배는 하루 만에 짐을 내릴 수 있었다. 그 결과 물건을 팔리는 곳에서 멀리 떨어진 곳에서 만드는 것이 더 싸졌고 공장들이 세계로 옮겨 가기 시작했다. 한 나라에서 만든 셔츠가 다른 나라에서 현지 셔츠보다 싸게 팔릴 수 있었다. 소박한 강철 상자는 단지 운송만 바꾼 것이 아니라 경제를 바꾸었는데, 생산자와 소비자 사이의 거리를 훨씬 덜 중요하게 만들었기 때문이다.",
+    "why": "운송 비용이 크게 줄어 멀리서 만든 물건도 싸게 팔 수 있게 되었으므로, 생산자와 고객 사이의 거리가 훨씬 덜 중요해졌다는 ⑤가 알맞습니다.",
     "optionNotes": [
-      "항상 옳다는 증명은 나오지 않습니다.",
-      "대화를 피한다는 내용은 없습니다.",
-      "죄책감을 느끼게 한다는 내용은 없습니다.",
-      "상을 받는다는 내용은 없습니다.",
-      "정답. 관계 회복과 신뢰 재구축입니다."
+      "항구 입항을 막았다는 내용은 없습니다.",
+      "임금이 같아졌다는 내용은 없습니다.",
+      "소비 욕구의 증가는 나오지 않습니다.",
+      "교역 상품의 수가 줄었다는 것은 반대입니다.",
+      "정답. 거리가 중요하지 않게 되었습니다."
     ],
-    "trap": "첫 부분의 통념(looks weak)에 이끌리지 마세요.",
-    "tip": "However 뒤의 반대 결과(trustworthy, respectful)가 빈칸의 단서입니다."
+    "trap": "③은 경제가 변했다는 말에 끌리지만 글의 근거(운송비 하락 → 거리 무관)와 직접 연결되지 않습니다.",
+    "tip": "빈칸 앞 문장 'cheaper to produce goods far from where they were sold'가 근거입니다."
   },
   {
     "id": "m2b-04-34",
     "level": "m2",
     "set": "mock-04",
+    "rev": 2,
     "no": 34,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Have you ever smelled a certain food and suddenly remembered your grandmother's kitchen? This happens because the part of the brain that processes smells is closely connected to the areas that handle emotions and memories. Unlike sight or sound, smell goes directly to these areas. That is why a scent can bring back a memory more strongly than a photograph. A smell can even make you feel as if you have traveled back in time. Perfume makers and food companies know this fact, and they often design scents that remind customers of home. Some hospitals even use familiar smells to help elderly patients __________.",
+    "passage": "When we call something free, we usually mean that we do not pay money for it. Economists, however, point out that almost nothing is truly free, because everything that we do costs us the next best thing that we could have done with the same time. This hidden price is called opportunity cost. A free concert in the park costs nothing at the gate, but it takes an afternoon that could have been used for study, work, or rest. The cost of attending college includes not only tuition but also the salary that a student could have earned during those years. Opportunity cost is easy to forget because it never appears on a bill. Yet it is often the largest cost of all. This is why thoughtful people judge a choice not only by what they pay but also by __________. Asking what else we could do with an hour is the first step toward spending it wisely.",
     "options": [
-      "fall asleep much faster even during the busy daytime",
-      "learn new foreign languages more quickly than before",
-      "recall happy memories from their past",
-      "avoid eating food that has a very strong taste",
-      "recover from broken bones in a surprisingly short time"
+      "how much money other people paid for the same thing",
+      "how many people have already made the same choice",
+      "what they give up by not choosing the best alternative",
+      "how quickly they can finish the activity once they start",
+      "whether the price is lower than it was last year"
     ],
     "answer": 2,
-    "translation": "어떤 음식 냄새를 맡고 갑자기 할머니의 부엌이 떠오른 적이 있는가? 이것은 냄새를 처리하는 뇌 부위가 감정과 기억을 다루는 영역과 밀접하게 연결되어 있기 때문이다. 시각이나 청각과 달리 후각은 이 영역으로 바로 간다. 그래서 향기는 사진보다 기억을 더 강하게 되살릴 수 있다. 냄새는 심지어 시간을 거슬러 여행한 듯한 느낌을 줄 수도 있다. 향수 제조사와 식품 회사는 이 사실을 알고 있어서 고객에게 집을 떠올리게 하는 향을 설계하곤 한다. 일부 병원은 심지어 익숙한 냄새를 이용해 노인 환자가 과거의 행복한 기억을 떠올리도록 돕는다.",
-    "why": "냄새가 기억을 강하게 되살리므로 노인 환자가 '과거의 행복한 기억을 떠올리도록' 돕는다는 내용이 알맞습니다.",
+    "translation": "무언가를 공짜라고 부를 때 우리는 보통 그것에 돈을 내지 않는다는 뜻으로 말한다. 그러나 경제학자들은 거의 아무것도 진정으로 공짜가 아니라고 지적하는데, 우리가 하는 모든 일은 같은 시간에 할 수 있었던 차선의 일을 대가로 치르기 때문이다. 이 숨은 가격을 기회비용이라 부른다. 공원의 무료 콘서트는 입구에서는 아무것도 들지 않지만 공부, 일, 휴식에 쓸 수 있었던 오후를 가져간다. 대학에 다니는 비용에는 등록금뿐 아니라 그 몇 해 동안 학생이 벌 수 있었던 급여도 포함된다. 기회비용은 청구서에 나타나지 않기 때문에 잊기 쉽다. 그러나 그것은 흔히 가장 큰 비용이다. 그래서 사려 깊은 사람은 선택을 자신이 내는 돈뿐 아니라 최선의 대안을 선택하지 않음으로써 포기하는 것으로도 판단한다. 한 시간으로 달리 무엇을 할 수 있는지 묻는 것은 그것을 현명하게 쓰는 첫걸음이다.",
+    "why": "기회비용은 선택하지 않은 최선의 대안에서 포기하는 가치이므로 ③이 알맞습니다.",
     "optionNotes": [
-      "수면은 나오지 않습니다.",
-      "언어 학습은 나오지 않습니다.",
-      "정답. 익숙한 냄새가 기억을 되살립니다.",
-      "음식의 맛은 나오지 않습니다.",
-      "골절 회복은 나오지 않습니다."
+      "남이 낸 돈은 나오지 않습니다.",
+      "남들의 선택 여부는 나오지 않습니다.",
+      "정답. 최선의 대안을 선택하지 않아 포기하는 것입니다.",
+      "걸리는 속도는 나오지 않습니다.",
+      "작년 가격과의 비교는 나오지 않습니다."
     ],
-    "trap": "'food'와 'kitchen'이 나온다고 음식 관련 보기(④)를 고르지 마세요.",
-    "tip": "That is why 문장이 빈칸의 직접적 단서입니다."
+    "trap": "'what they pay'와 대비되는 'what they give up'을 놓치면 ⑤ 같은 가격 비교로 흔들립니다.",
+    "tip": "'not only A but also B'에서 B는 A(지불하는 돈)에 포함되지 않은 숨은 비용이어야 합니다."
   },
   {
     "id": "m2b-04-35",
     "level": "m2",
     "set": "mock-04",
+    "rev": 2,
     "no": 35,
     "type": "irrelevant",
     "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
-    "passage": "Riding a bicycle to work has many advantages. ① It is a good form of exercise that strengthens the heart and legs. ② Cars have become more comfortable and quieter over the past ten years. ③ It also saves money because you do not need to pay for fuel or parking. ④ In addition, cycling produces no pollution, so it helps keep the air clean. ⑤ For these reasons, more and more cities are building bike lanes.",
+    "passage": "Emperor penguins survive the Antarctic winter, when temperatures fall below minus forty degrees and winds blow at more than a hundred kilometers an hour, by huddling together in tight groups. ① Hundreds or even thousands of birds press against one another, and the warmth that each one produces is shared by the whole group. ② Sea ice forms when the surface of the ocean freezes, and it expands each winter until it covers millions of square kilometers around the continent. ③ The huddle is not fixed: penguins on the cold edge slowly move toward the center, while those inside move outward, so that everyone takes turns in the warm place. ④ Because of this rotation, the temperature inside the huddle can reach thirty-seven degrees, higher than the temperature of a comfortable room. ⑤ Scientists who filmed the groups from above found that a huddle moves as a wave. This allows the birds to conserve energy during the long wait for their eggs to hatch.",
     "options": [
       "①",
       "②",
@@ -183,26 +190,27 @@
       "⑤"
     ],
     "answer": 1,
-    "translation": "자전거로 출근하는 것은 여러 이점이 있다. ① 그것은 심장과 다리를 튼튼하게 하는 좋은 운동이다. ② 자동차는 지난 십 년 동안 더 편안하고 조용해졌다. ③ 또한 연료비나 주차비를 낼 필요가 없어 돈을 절약한다. ④ 게다가 자전거 타기는 오염을 일으키지 않아 공기를 깨끗하게 유지하는 데 도움이 된다. ⑤ 이런 이유로 점점 더 많은 도시가 자전거 도로를 만들고 있다.",
-    "why": "글은 자전거 출근의 이점을 말하는데 ②는 자동차의 편의성이라는 별개의 이야기라 관계가 없습니다.",
+    "translation": "황제펭귄은 기온이 영하 40도 아래로 떨어지고 바람이 시속 100킬로미터 넘게 부는 남극의 겨울을 빽빽한 무리로 모여 서서 견딘다. ① 수백, 때로 수천 마리의 새가 서로 몸을 맞대고 각자가 만든 온기를 무리 전체가 나눈다. ② 해빙은 바다 표면이 얼 때 생기며 해마다 겨울에 대륙 주위의 수백만 제곱킬로미터를 덮을 때까지 확장된다. ③ 무리는 고정되어 있지 않다. 추운 가장자리의 펭귄은 서서히 중심으로 이동하고 안쪽의 펭귄은 바깥으로 움직여 모두가 따뜻한 곳을 번갈아 차지한다. ④ 이 순환 덕분에 무리 안의 온도는 37도에 이를 수 있으며 이는 쾌적한 방의 온도보다 높다. ⑤ 무리를 위에서 촬영한 과학자들은 무리가 파도처럼 움직인다는 것을 발견했다. 이는 알이 부화하기를 오래 기다리는 동안 새들이 에너지를 아끼게 해 준다.",
+    "why": "글은 펭귄이 무리를 지어 체온을 나누는 방법을 다루는데 ②는 해빙의 형성으로 흐름과 관계가 없습니다.",
     "optionNotes": [
-      "자전거가 주는 운동 효과입니다.",
-      "정답(무관). 자동차의 변화에 관한 이야기입니다.",
-      "자전거가 주는 경제적 이점입니다.",
-      "자전거가 주는 환경적 이점입니다.",
-      "결론 문장입니다."
+      "서로 몸을 맞대어 온기를 나눕니다.",
+      "정답. 해빙의 형성은 펭귄의 체온 유지와 무관합니다.",
+      "무리의 위치가 순환하는 방식을 설명합니다.",
+      "순환의 결과로 무리 안의 온도를 설명합니다.",
+      "무리가 파도처럼 움직여 에너지를 아낀다는 설명입니다."
     ],
-    "trap": "'It'이 ③부터 자전거를 가리키므로 ②에서 갑자기 자동차가 나오는 점에 주의하세요.",
-    "tip": "주제(자전거 출근의 이점)와 이어지지 않는 문장을 고르세요."
+    "trap": "'Antarctic'과 'ice'라는 낱말이 겹쳐 같은 주제처럼 보이지만 ②는 펭귄 행동과 무관합니다.",
+    "tip": "문장이 펭귄의 행동·체온 이야기를 이어 가는지 연결어와 주어를 확인하세요."
   },
   {
     "id": "m2b-04-36",
     "level": "m2",
     "set": "mock-04",
+    "rev": 2,
     "no": 36,
     "type": "order",
     "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
-    "passage": "Many people think of dreams as strange stories that appear in our minds at night and have no real meaning at all.\n(A) That is why getting enough sleep is just as important as studying itself, especially before a big exam.\n(B) However, scientists now believe that dreams are connected to an important job of the brain. During sleep, the brain sorts the experiences of the day and decides which ones to keep.\n(C) For example, in one experiment, students who slept after studying remembered much more than students who stayed awake all night. Both groups had studied for the same amount of time.",
+    "passage": "In the autumn of 1895, the German physicist Wilhelm Röntgen was studying electric currents in glass tubes in his dark laboratory.\n(A) When he published his findings in December, the news spread across the world in a few weeks. Within months, doctors in many countries were using the new rays to locate bullets and broken bones. In 1901, Röntgen received the first Nobel Prize in Physics, and he refused to patent his discovery so that everyone could benefit from it.\n(B) One evening, he covered a tube with black cardboard so that no light could escape, and he noticed that a screen painted with a chemical on the other side of the room glowed faintly. Puzzled, he moved the screen farther away, but it kept glowing. He realized that an unknown kind of ray, which he named X, was passing through the cardboard.\n(C) Over the next weeks, Röntgen tested what the rays could pass through. Paper, wood, and thin metal offered little resistance, but bones and lead blocked them. Then he asked his wife to place her hand in front of a photographic plate, and the picture that appeared showed her bones and her ring.",
     "options": [
       "(A)-(C)-(B)",
       "(B)-(A)-(C)",
@@ -211,26 +219,27 @@
       "(C)-(B)-(A)"
     ],
     "answer": 2,
-    "translation": "많은 사람은 꿈을 밤에 마음속에 나타나는 전혀 의미 없는 이상한 이야기라고 생각한다. (B) 그러나 과학자들은 이제 꿈이 뇌의 중요한 일과 관련 있다고 믿는다. 잠자는 동안 뇌는 하루의 경험을 분류하고 어느 것을 간직할지 결정한다. (C) 예를 들어 한 실험에서 공부한 뒤 잔 학생들은 밤새 깨어 있던 학생들보다 훨씬 더 많이 기억했다. 두 집단은 같은 시간 공부했다. (A) 그래서 충분히 자는 것은 특히 큰 시험 전에 공부 자체만큼 중요하다.",
-    "why": "(B) 'However'로 통념 반박 → (C) 'For example'로 실험 사례 → (A) 'That is why'로 결론 순서입니다.",
+    "translation": "1895년 가을 독일 물리학자 빌헬름 뢴트겐은 어두운 실험실에서 유리관 속 전류를 연구하고 있었다. (B) 어느 날 저녁 그는 빛이 새어 나가지 않도록 관을 검은 마분지로 덮었는데, 방 건너편에 화학 물질을 칠한 화면이 희미하게 빛나는 것을 알아챘다. 당황한 그는 화면을 더 멀리 옮겼지만 화면은 계속 빛났다. 그는 자신이 X라고 이름 붙인 알 수 없는 종류의 선이 마분지를 통과하고 있음을 깨달았다. (C) 이후 몇 주 동안 뢴트겐은 그 선이 무엇을 통과하는지 시험했다. 종이, 나무, 얇은 금속은 거의 막지 못했지만 뼈와 납은 막았다. 그러다 그는 아내에게 사진 건판 앞에 손을 놓아 달라고 했고, 나타난 사진에는 그녀의 뼈와 반지가 보였다. (A) 12월에 그가 발견을 발표하자 소식은 몇 주 만에 세계로 퍼졌다. 몇 달 안에 여러 나라의 의사들이 새로운 선으로 총알과 부러진 뼈의 위치를 알아내고 있었다. 1901년 뢴트겐은 최초의 노벨 물리학상을 받았고 모두가 혜택을 누릴 수 있도록 발견의 특허를 내기를 거부했다.",
+    "why": "(B) 우연한 발견 → (C) 성질을 시험 → (A) 발표와 의학적 응용 순서입니다.",
     "optionNotes": [
-      "(A)의 'That is why'가 가리킬 이유가 앞에 없습니다.",
-      "(A)가 사례 전에 나오면 결론이 앞서게 됩니다.",
-      "정답. 반박 → 사례 → 결론.",
-      "(C)의 'For example'이 예시할 주장이 앞에 없습니다.",
-      "(C)의 'For example'이 예시할 주장이 앞에 없습니다."
+      "(C)의 시험은 발견(B) 뒤여야 합니다.",
+      "(A)의 발표가 (C)의 시험 앞에 올 수 없습니다.",
+      "정답. 발견 → 시험 → 발표와 응용입니다.",
+      "(C)가 (B) 앞에 오면 'the rays'가 소개되지 않았습니다.",
+      "(C)가 맨 앞에 오면 'the rays'가 무엇인지 알 수 없습니다."
     ],
-    "trap": "(A)의 'That is why'는 (C)의 실험 결과를 이유로 받습니다.",
-    "tip": "However → For example → That is why의 논리 흐름을 따라가세요."
+    "trap": "(C)의 'the rays'가 (B)에서 처음 정의된다는 점을 놓치기 쉽습니다.",
+    "tip": "the rays, the new rays 같은 정관사 표현이 가리키는 대상이 먼저 소개되었는지 확인하세요."
   },
   {
     "id": "m2b-04-37",
     "level": "m2",
     "set": "mock-04",
+    "rev": 2,
     "no": 37,
     "type": "order",
     "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
-    "passage": "Origami is the art of folding paper into beautiful shapes. It started in Japan hundreds of years ago and is now enjoyed all over the world.\n(A) At first, it was used only in religious ceremonies. Paper was very expensive and rare at that time.\n(B) Today, origami is used even in science, where engineers apply folding methods to design things such as small medical devices and solar panels in space.\n(C) As paper became cheaper, ordinary people began to enjoy folding it as a hobby, and children learned simple shapes like cranes and boats.",
+    "passage": "In 1908, a New York tea merchant named Thomas Sullivan wanted to send samples of his tea to customers in a cheaper way.\n(A) Instead of mailing the samples in expensive metal tins, he sewed small bags of silk and filled each of them with a spoonful of tea. He expected his customers to open the bags and pour the leaves into a pot.\n(B) Soon the expensive silk was replaced by gauze and then by special paper, and the tea bag became a standard product. By the middle of the century, it had spread around the world, and today, the majority of tea in some countries is sold in bags.\n(C) Many of them, however, dropped the whole bag into hot water, as they would do with a metal tea ball. They were delighted by how convenient it was, and they began to ask for more tea in the same small bags. Sullivan realized that he had accidentally invented something that people wanted.",
     "options": [
       "(A)-(C)-(B)",
       "(B)-(A)-(C)",
@@ -239,26 +248,27 @@
       "(C)-(B)-(A)"
     ],
     "answer": 0,
-    "translation": "종이접기는 종이를 아름다운 모양으로 접는 예술이다. 그것은 수백 년 전 일본에서 시작되어 지금은 전 세계에서 즐겨진다. (A) 처음에 그것은 종교 의식에서만 사용되었다. 당시 종이는 매우 비싸고 귀했다. (C) 종이가 더 싸지자 평범한 사람들이 취미로 종이접기를 즐기기 시작했고 아이들은 학이나 배 같은 간단한 모양을 배웠다. (B) 오늘날 종이접기는 과학에서도 쓰이는데 기술자들은 접는 방법을 적용해 작은 의료 기기와 우주의 태양 전지판 같은 것을 설계한다.",
-    "why": "(A) 'At first'로 시작 → (C) 'As paper became cheaper'로 대중화 → (B) 'Today'로 현재 순서입니다.",
+    "translation": "1908년 뉴욕의 차 상인 토머스 설리번은 고객에게 차 견본을 더 싸게 보내고 싶었다. (A) 그는 견본을 값비싼 금속 통에 담아 우편으로 보내는 대신 비단으로 작은 주머니를 꿰매고 각각에 한 숟가락의 차를 채웠다. 그는 고객들이 주머니를 열어 찻잎을 주전자에 부으리라고 예상했다. (C) 그러나 그들 중 많은 사람은 금속 차 거름망을 쓰듯이 주머니째 뜨거운 물에 넣었다. 그들은 그 편리함에 기뻐하며 같은 작은 주머니에 담긴 차를 더 달라고 하기 시작했다. 설리번은 자신이 우연히 사람들이 원하는 것을 발명했음을 깨달았다. (B) 곧 값비싼 비단은 거즈로, 다시 특수 종이로 바뀌었고 티백은 표준 제품이 되었다. 20세기 중반에는 세계로 퍼졌으며 오늘날 일부 나라에서는 차의 대부분이 티백으로 팔린다.",
+    "why": "(A) 비단 주머니로 견본을 보냄 → (C) 고객이 주머니째 사용함 → (B) 재료가 바뀌며 보급 순서입니다.",
     "optionNotes": [
-      "정답. 시간 순서(처음 → 대중화 → 오늘날).",
-      "(B)의 'Today'가 처음에 오면 시간 흐름이 어색합니다.",
-      "(B)가 먼저 오면 시간 순서가 뒤집힙니다.",
-      "(C)의 'As paper became cheaper'가 가리킬 이전 상황이 앞에 없습니다.",
-      "(C)의 'cheaper'가 비교할 이전 상황이 앞에 없습니다."
+      "정답. 견본 → 뜻밖의 사용 → 보급입니다.",
+      "(B)는 제품이 확립된 뒤의 이야기입니다.",
+      "(B)는 (C)의 발견 뒤에 와야 합니다.",
+      "(C)의 'Many of them'은 (A)의 고객들을 가리킵니다.",
+      "(C)가 맨 앞이면 'them'이 가리킬 대상이 없습니다."
     ],
-    "trap": "(C)의 'cheaper'는 (A)의 'very expensive'와 대비됩니다.",
-    "tip": "시간 표현(At first → As ~ became → Today)을 따라가세요."
+    "trap": "(C)의 'Many of them, however'가 (A)의 'customers'를 받는다는 점을 놓치기 쉽습니다.",
+    "tip": "대명사(them)와 접속부사(however)가 앞 단락과 어떻게 이어지는지 확인하세요."
   },
   {
     "id": "m2b-04-38",
     "level": "m2",
     "set": "mock-04",
+    "rev": 2,
     "no": 38,
     "type": "insert",
     "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
-    "passage": "[주어진 문장]\nShe knew that she needed a plan to attract customers.\n\n[글]\n( ① ) Ten-year-old Mia wanted to buy a new bicycle, so she decided to sell lemonade in front of her house during the summer vacation. ( ② ) She made a colorful poster, set up a small table, and asked her neighbors to try her drinks. ( ③ ) On the first day, she earned only three dollars. ( ④ ) But she did not give up; she lowered her price and added homemade cookies to her menu. ( ⑤ ) By the end of the month, she had earned enough money to buy the bicycle she wanted.",
+    "passage": "[주어진 문장]\nHowever, these advantages seem to come at a cost when the reading is long and demanding.\n\n[글]\n( ① ) Reading on a screen has clear advantages: a single device can hold thousands of books, the type can be enlarged, and a word can be looked up with a single touch. ( ② ) Studies comparing the two forms of reading found that readers of paper books were better at remembering the order of events in a story, since they could sense roughly where in the book a scene had taken place. ( ③ ) On a screen, the text simply scrolls past without a fixed position, which makes it harder to build a mental map of the whole. ( ④ ) Screens also tempt us to skim, because notifications and links invite us to move on quickly. ( ⑤ ) For this reason, many teachers recommend using paper for texts that require long and careful attention, and screens for quick reference, such as checking a schedule or a map.",
     "options": [
       "①",
       "②",
@@ -267,26 +277,27 @@
       "⑤"
     ],
     "answer": 1,
-    "translation": "[주어진 문장] 그녀는 손님을 끌 계획이 필요하다는 것을 알았다. [글] 열 살 미아는 새 자전거를 사고 싶어서 여름 방학 동안 집 앞에서 레모네이드를 팔기로 했다. 그녀는 알록달록한 포스터를 만들고 작은 탁자를 놓고 이웃들에게 자신의 음료를 맛보라고 청했다. 첫날 그녀는 겨우 3달러를 벌었다. 그러나 포기하지 않고 가격을 낮추고 직접 만든 쿠키를 메뉴에 추가했다. 그달 말쯤 그녀는 원하던 자전거를 사기에 충분한 돈을 벌었다.",
-    "why": "주어진 문장의 She는 Mia를 가리키고 계획이 필요하다고 하며, 이어서 포스터를 만들고 탁자를 놓는 구체적인 계획이 나오므로 ②에 들어갑니다.",
+    "translation": "[주어진 문장] 그러나 이런 장점은 읽기가 길고 까다로울 때 대가를 치르는 듯하다. [글] 화면으로 읽기에는 분명한 장점이 있다. 기기 하나에 수천 권의 책을 담을 수 있고 글자 크기를 키울 수 있으며 한 번 터치로 낱말을 찾을 수 있다. 두 읽기 방식을 비교한 연구들은 종이책 독자가 이야기 속 사건의 순서를 더 잘 기억한다는 것을 발견했는데, 장면이 책의 대략 어디에서 일어났는지 감각으로 알 수 있기 때문이다. 화면에서는 글이 고정된 위치 없이 스크롤되어 지나가므로 전체의 머릿속 지도를 만들기가 더 어렵다. 화면은 또 훑어 읽도록 우리를 부추기는데, 알림과 링크가 빠르게 넘어가라고 권하기 때문이다. 이런 이유로 많은 교사는 길고 신중한 집중이 필요한 글에는 종이를, 일정이나 지도를 확인하는 것 같은 빠른 참고에는 화면을 쓰라고 권한다.",
+    "why": "화면 읽기의 장점을 나열한 뒤 'However'로 단점을 제시하고, 이어서 연구 결과가 그 단점을 뒷받침하므로 ②에 들어갑니다.",
     "optionNotes": [
-      "'She'가 가리킬 Mia가 아직 나오지 않았습니다.",
-      "정답. 계획이 필요하다는 말 뒤에 구체적인 준비가 이어집니다.",
-      "준비를 마친 뒤에 계획이 필요하다는 말이 어색합니다.",
-      "첫날 결과 뒤에 처음 계획을 말하면 순서가 어긋납니다.",
-      "결과를 말한 뒤에 계획이 필요하다는 말이 어색합니다."
+      "장점을 소개하기 전이라 'these advantages'가 가리킬 대상이 없습니다.",
+      "정답. 장점 뒤에 반전을 제시하고 연구가 이어집니다.",
+      "연구 설명 사이에 끼면 흐름이 끊깁니다.",
+      "단점의 추가 설명 뒤에 와서 'these advantages'가 멀어집니다.",
+      "결론 직전에 와서 'For this reason'과 맞지 않습니다."
     ],
-    "trap": "'plan' 때문에 ④(가격 인하)에 끌리기 쉽지만 poster, table 같은 준비 단계가 먼저입니다.",
-    "tip": "대명사(She)의 지시 대상과 뒤에 이어지는 구체적 행동을 함께 확인하세요."
+    "trap": "'However' 문장은 항상 바로 앞에 대조될 내용이 있어야 하고 'these advantages'가 가리키는 문장이 필요합니다.",
+    "tip": "'these + 명사'는 바로 앞 문장의 내용을 가리킵니다."
   },
   {
     "id": "m2b-04-39",
     "level": "m2",
     "set": "mock-04",
+    "rev": 2,
     "no": 39,
     "type": "insert",
     "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
-    "passage": "[주어진 문장]\nTogether, these changes reduced the amount of plastic waste on the country's streets and beaches dramatically.\n\n[글]\n( ① ) In 2002, Ireland introduced a small tax on plastic shopping bags. ( ② ) Shoppers had to pay about fifteen cents for each bag that they used at the checkout. ( ③ ) Within a few months, the use of plastic bags fell by more than ninety percent. ( ④ ) Stores began to sell strong reusable bags instead, and carrying a cloth bag soon became a part of everyday life. ( ⑤ )",
+    "passage": "[주어진 문장]\nWith such a combination of abilities, dogs can find missing people, drugs, and even signs of disease.\n\n[글]\n( ① ) A dog's nose contains up to 300 million scent receptors, compared with about six million in a human nose, so a dog can detect tiny traces of a substance. ( ② ) The part of its brain that analyzes smells is, relative to its size, about forty times larger than the equivalent area in ours, which helps the dog to separate one odor from hundreds of others. ( ③ ) Dogs can also smell separately with each nostril, so they know from which direction an odor is coming. ( ④ ) In addition, they have a second organ in the roof of the mouth that detects chemical signals that humans cannot sense at all. ( ⑤ ) Training turns this natural talent into a skill that can save lives, and many of these dogs begin their lessons when they are only a few months old and still full of energy.",
     "options": [
       "①",
       "②",
@@ -295,44 +306,45 @@
       "⑤"
     ],
     "answer": 4,
-    "translation": "[주어진 문장] 이런 변화들이 합쳐져 이 나라의 거리와 해변에 있는 플라스틱 쓰레기의 양이 극적으로 줄었다. [글] 2002년 아일랜드는 비닐 쇼핑백에 소액의 세금을 도입했다. 쇼핑객은 계산대에서 사용하는 봉투 하나마다 약 15센트를 내야 했다. 몇 달 안에 비닐봉지 사용량은 90퍼센트 넘게 줄었다. 가게들은 대신 튼튼한 재사용 봉투를 팔기 시작했고 천 가방을 들고 다니는 것은 곧 일상이 되었다.",
-    "why": "'these changes'는 봉투 세금 도입, 사용량 감소, 재사용 봉투 보급을 모두 가리키므로 글의 맨 끝인 ⑤에 들어갑니다.",
+    "translation": "[주어진 문장] 이런 능력의 조합 덕분에 개는 실종자, 마약, 심지어 질병의 징후까지 찾아낼 수 있다. [글] 개의 코에는 최대 3억 개의 냄새 수용체가 있으며 사람의 코에는 약 6백만 개가 있어서 개는 물질의 아주 작은 흔적도 알아챌 수 있다. 냄새를 분석하는 뇌 부위는 크기에 비해 우리 뇌의 같은 부위보다 약 40배 커서 개가 수백 가지 냄새 속에서 하나를 가려낼 수 있게 돕는다. 개는 콧구멍마다 따로 냄새를 맡을 수도 있어서 냄새가 어느 방향에서 오는지 안다. 게다가 입천장에 사람은 전혀 느낄 수 없는 화학 신호를 감지하는 두 번째 기관이 있다. 훈련은 이 타고난 재능을 생명을 구할 수 있는 기술로 바꾸며 이런 개들 중 많은 수가 겨우 몇 달 때부터, 아직 기운이 넘칠 때 수업을 시작한다.",
+    "why": "'such a combination of abilities'는 앞에서 나열한 여러 능력(수용체, 뇌, 두 콧구멍, 두 번째 기관)을 모두 가리키므로 그 뒤인 ⑤에 들어갑니다.",
     "optionNotes": [
-      "'these changes'가 가리킬 변화가 아직 나오지 않았습니다.",
-      "'these changes'가 가리킬 변화가 아직 나오지 않았습니다.",
-      "사용량 감소만 나왔고 재사용 봉투 보급이 아직 나오지 않았습니다.",
-      "재사용 봉투 보급이 나오기 전이라 'these changes'가 불완전합니다.",
-      "정답. 모든 변화가 나온 뒤에 결과를 정리합니다."
+      "아직 능력이 나열되기 전이라 'such a combination'이 가리킬 대상이 없습니다.",
+      "능력이 두 가지뿐이라 'combination'이 완결되지 않았습니다.",
+      "두 번째 기관의 설명이 아직 나오지 않았습니다.",
+      "두 번째 기관 설명 앞에 끼면 'In addition'과 어긋납니다.",
+      "정답. 능력을 모두 나열한 뒤 그 결과를 말하고 훈련 이야기로 이어집니다."
     ],
-    "trap": "④도 가능해 보이지만 'Together, these changes'는 앞의 변화들이 모두 나온 뒤에 놓입니다.",
-    "tip": "'these + 명사'는 앞에서 언급된 여러 내용을 모두 가리킵니다."
+    "trap": "④ 뒤와 ⑤ 뒤에서 헷갈립니다. 'In addition, they have a second organ'이 마지막 능력으로 나열된 뒤여야 'such a combination'이 완성됩니다.",
+    "tip": "'such a combination of ~'는 앞서 나열된 여러 항목을 묶는 표현입니다."
   },
   {
     "id": "m2b-04-40",
     "level": "m2",
     "set": "mock-04",
+    "rev": 2,
     "no": 40,
     "type": "summary",
     "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "A middle school in a small city introduced a free breakfast program. Before the program, about one in five students came to school without eating anything in the morning. Teachers noticed that these students often felt tired, lost focus during class, and sometimes got headaches. After the school began to serve free breakfast every morning, the number of students who skipped breakfast fell sharply. Within a year, attendance improved and average test scores rose by seven percent. Teachers also said that students were more active in class discussions.\n\n▶ Providing free breakfast (A) students' attendance and test scores, which suggests that good nutrition is (B) for learning.",
+    "passage": "In the 1950s, Seoul covered a polluted stream running through the center of the city with concrete and, in 1970, built an elevated highway on top of it. For three decades, the highway carried 160,000 vehicles a day, and the area beneath it became dark, noisy, and unpleasant. In 2003, the city began a controversial project to remove the highway and to uncover the stream. Many shopkeepers feared that traffic would collapse and that business would suffer. The traffic, however, adjusted: many drivers switched to buses and subways, and the city improved bus lines to help them. Two years later, a clean, 5.8-kilometer stream flowed through the center of the city, lined with walkways and bridges. Measurements showed that the temperature along the stream was several degrees lower than on nearby streets in summer, and the number of fish, birds, and insects increased. Millions of people now visit each year, and property values in the area have risen. The project demonstrated that removing a road can sometimes do more for a city than building one.\n\n▶ Removing the highway and uncovering the stream (A) the temperature of the city center and made the area more (B) for visitors.",
     "options": [
-      "(A) lowered — (B) completely harmful",
-      "(A) improved — (B) essential",
-      "(A) ignored — (B) entirely unnecessary",
-      "(A) delayed — (B) extremely dangerous",
-      "(A) reduced — (B) occasionally helpful"
+      "(A) raised — (B) dangerous",
+      "(A) lowered — (B) attractive",
+      "(A) raised — (B) attractive",
+      "(A) lowered — (B) expensive",
+      "(A) kept — (B) noisy"
     ],
     "answer": 1,
-    "translation": "한 작은 도시의 중학교가 무료 아침 식사 프로그램을 도입했다. 프로그램 이전에는 학생 다섯 명 중 약 한 명이 아침에 아무것도 먹지 않고 학교에 왔다. 교사들은 이런 학생들이 자주 피곤해하고 수업 중 집중을 잃으며 가끔 두통을 겪는다는 것을 알아챘다. 학교가 매일 아침 무료 식사를 제공하기 시작한 뒤 아침을 거르는 학생 수가 크게 줄었다. 일 년 안에 출석이 개선되었고 평균 시험 점수가 7퍼센트 올랐다. 교사들은 또한 학생들이 수업 토론에서 더 적극적이었다고 말했다. ▶ 무료 아침 식사 제공은 학생들의 출석과 시험 점수를 (A)시켰고 이는 좋은 영양이 학습에 (B)함을 시사한다.",
-    "why": "무료 아침 식사 후 출석과 점수가 올랐으므로 (A)는 improved, 영양은 학습에 essential(필수적)입니다.",
+    "translation": "1950년대에 서울은 도심을 흐르는 오염된 하천을 콘크리트로 덮었고 1970년에는 그 위에 고가 도로를 지었다. 30년 동안 그 도로는 하루 16만 대의 차량을 실어 날랐고 그 아래 지역은 어둡고 시끄럽고 불쾌해졌다. 2003년 시는 고가 도로를 철거하고 하천을 되살리는 논란 많은 사업을 시작했다. 많은 상인은 교통이 마비되고 장사가 나빠질까 걱정했다. 그러나 교통은 조정되었다. 많은 운전자가 버스와 지하철로 옮겼고 시는 그들을 돕기 위해 버스 노선을 개선했다. 2년 뒤 깨끗한 5.8킬로미터의 하천이 보도와 다리로 둘러싸인 채 도심을 흘렀다. 측정 결과 여름에 하천 주변의 기온은 인근 거리보다 몇 도 낮았고 물고기, 새, 곤충의 수가 늘었다. 이제 해마다 수백만 명이 방문하고 이 지역의 부동산 가치가 올랐다. 이 사업은 도로를 없애는 것이 때로는 도로를 짓는 것보다 도시에 더 큰 도움이 될 수 있음을 보여 주었다. ▶ 고가 도로를 철거하고 하천을 되살리자 도심의 기온이 낮아졌고 그 지역은 방문객에게 더 매력적이 되었다.",
+    "why": "고가 도로 철거와 하천 복원으로 기온이 내려가고(lowered) 방문객에게 더 매력적인(attractive) 지역이 되었습니다.",
     "optionNotes": [
-      "lowered와 harmful은 글과 반대입니다.",
-      "정답. 출석과 점수를 높였고 영양은 학습에 필수적입니다.",
-      "ignored와 unnecessary는 글과 반대입니다.",
-      "delayed와 dangerous는 글에 나오지 않습니다.",
-      "reduced가 글과 반대입니다."
+      "기온이 올랐다는 것은 반대입니다.",
+      "정답. 기온이 낮아졌고 지역이 매력적이 되었습니다.",
+      "기온이 올랐다는 것이 틀렸습니다.",
+      "'expensive'는 부동산 가치 상승에서 연상되지만 방문객과 관련된 요약이 아닙니다.",
+      "기온을 그대로 유지했다는 것은 틀렸습니다."
     ],
-    "trap": "(A)가 맞아도 (B)가 결과(영양의 중요성)와 맞는지 확인하세요.",
-    "tip": "요약문은 원인(무료 아침 식사)과 결과(출석·점수 상승)를 짝지으세요."
+    "trap": "④의 'expensive'는 부동산 가치 상승과 관련되어 보이지만 요약문의 'for visitors'와 맞지 않습니다.",
+    "tip": "요약문은 글의 결과(기온 하락, 방문객 증가)를 상위어(lowered, attractive)로 바꿔 보세요."
   }
 ]
