@@ -3,239 +3,247 @@
     "id": "m3b-02-18",
     "level": "m3",
     "set": "mock-02",
+    "rev": 2,
     "no": 18,
     "type": "purpose",
     "stem": "다음 글의 목적으로 가장 적절한 것은?",
-    "passage": "Dear Dr. Whitfield,\nI am a tenth-grade student at Hanbit High School, and I am deeply interested in marine biology. While searching online, I found your university's Summer Research Program for high school students, but the website does not clearly explain the eligibility requirements or the application procedure. In particular, I would like to know whether students from outside the country can apply and whether prior laboratory experience is necessary. I would also appreciate it if you could tell me about the application deadline and the approximate cost of participation. I have attached a short summary of my school science projects in case it is helpful. Thank you very much for your time, and I look forward to your reply.\nSincerely,\nYuri Han",
+    "passage": "Dear Principal Kwon,\nI am writing on behalf of the Green Club to ask for your support for a new project. Every month, our classmates throw away broken umbrellas, torn backpacks, and headphones that need only a small repair. According to a survey that we carried out last week, more than 300 students said that they would bring a damaged item if someone could help them fix it. We would therefore like to open a \"repair café\" in the empty room next to the library on the first Friday of each month. Volunteer students and two retired electricians from the neighborhood have already agreed to teach basic repair skills. We would need only a few tables, a shelf for tools, and your permission to use the room after school. I would be grateful if you could also allow us to present the plan at the next teachers' meeting.\nSincerely,\nMinjae Choi, President of the Green Club",
     "options": [
-      "대학의 정시 입학 전형에서 해양 생물학 전공의 합격 기준과 필요한 서류를 자세히 확인하려고",
-      "학교에서 수행한 과학 프로젝트의 결과를 대학의 교수에게 전문적으로 평가받고 조언을 얻으려고",
-      "대학의 여름 연구 프로그램의 참가 자격과 신청 절차를 문의하려고",
-      "대학의 연구 프로그램에 참가할 때 내야 하는 비용을 전액 면제해 달라고 정식으로 요청하려고",
-      "대학에서 쓰는 해양 생물학 수업의 교재와 참고 도서를 교수에게 자세히 추천받으려고"
+      "학교 도서관의 이용 시간을 저녁 늦게까지 연장해 달라고 정식으로 건의하려고",
+      "폐기물 처리에 드는 비용을 학교가 지원해 달라고 요청하려고",
+      "수리 봉사 활동에 사용할 빈 교실의 사용을 허락해 달라고 요청하려고",
+      "학생들에게 수리 기술을 가르칠 전기 기술자를 소개하려고",
+      "학생 설문 조사 결과를 학교 신문에 실어 달라고 부탁하려고"
     ],
     "answer": 2,
-    "translation": "휘트필드 박사님께. 저는 한빛고등학교 10학년 학생이고 해양 생물학에 깊은 관심이 있습니다. 온라인으로 찾아보다가 귀 대학의 고등학생용 여름 연구 프로그램을 발견했지만 웹사이트에는 참가 자격 요건과 신청 절차가 분명히 설명되어 있지 않습니다. 특히 외국 학생도 지원할 수 있는지, 이전의 실험실 경험이 필요한지 알고 싶습니다. 신청 마감일과 대략적인 참가 비용도 알려 주시면 감사하겠습니다. 도움이 될지 몰라 제 학교 과학 프로젝트의 짧은 요약을 첨부했습니다. 시간 내 주셔서 감사하며 답변을 기다리겠습니다. 한유리 드림.",
-    "why": "여름 연구 프로그램의 참가 자격과 신청 절차를 문의하는 글입니다.",
+    "translation": "권 교장 선생님께. 저는 새 프로젝트에 대한 선생님의 지원을 부탁드리고자 환경 동아리를 대표해 이 글을 씁니다. 매달 우리 반 친구들은 망가진 우산, 찢어진 가방, 작은 수리만 필요한 이어폰을 버립니다. 지난주에 실시한 설문 조사에 따르면 300명이 넘는 학생이 누군가 고치는 것을 도와준다면 망가진 물건을 가져오겠다고 답했습니다. 그래서 저희는 매달 첫 번째 금요일에 도서관 옆의 빈 교실에서 '수리 카페'를 열고 싶습니다. 자원봉사 학생들과 동네의 은퇴한 전기 기술자 두 분이 이미 기본 수리 기술을 가르쳐 주기로 했습니다. 저희에게 필요한 것은 탁자 몇 개, 도구를 올릴 선반, 방과 후에 그 교실을 사용해도 좋다는 선생님의 허락뿐입니다. 다음 교사 회의에서 이 계획을 발표할 수 있도록 허락해 주시면 감사하겠습니다. 환경 동아리 회장 최민재 드림.",
+    "why": "수리 카페를 열기 위해 빈 교실 사용을 허락해 달라고 요청하는 글입니다.",
     "optionNotes": [
-      "입학 전형 기준은 나오지 않습니다.",
-      "첨부한 요약은 참고 자료일 뿐 평가 요청이 아닙니다.",
-      "정답. 참가 자격과 신청 절차를 문의합니다.",
-      "비용 면제를 요청하지 않고 비용을 묻습니다.",
-      "교재 추천은 나오지 않습니다."
+      "도서관 시간 연장이 아니라 도서관 옆 빈 교실 사용입니다.",
+      "비용 지원이 아니라 장소 사용 허락을 구합니다.",
+      "정답. 수리 카페를 열 빈 교실의 사용 허락을 요청합니다.",
+      "전기 기술자는 이미 참여하기로 한 배경 정보입니다.",
+      "설문은 근거로 쓰였을 뿐 신문 게재를 부탁하지 않습니다."
     ],
-    "trap": "비용을 묻는 것을 면제 요청(④)으로 착각하지 마세요.",
-    "tip": "목적 문제는 'I would like to know ~' 같은 문의 표현을 모아 핵심을 찾으세요."
+    "trap": "설문과 전기 기술자 언급에 끌려 배경 정보를 글의 목적으로 착각하지 마세요.",
+    "tip": "목적 문제는 'We would need ~, your permission ...' 같은 요청 문장을 찾으세요."
   },
   {
     "id": "m3b-02-19",
     "level": "m3",
     "set": "mock-02",
+    "rev": 2,
     "no": 19,
     "type": "mood",
-    "stem": "다음 글에 드러난 Minjae의 심경 변화로 가장 적절한 것은?",
-    "passage": "The score was tied at 3-3, and the match had gone to a penalty shootout. Minjae, the goalkeeper, stood on the goal line with his heart pounding so hard that he could hear it in his ears. Across the field, the opposing striker placed the ball carefully and stepped back. The stadium fell silent, and Minjae's palms were so damp that he wiped them again and again on his gloves. He kept telling himself to stay calm, but all he could picture was the ball flying past him. When the whistle blew, he guessed the corner, threw himself to the left, and felt the ball hit his fingertips before it bounced away. For a second, nobody moved. Then the entire team rushed toward him, shouting his name. Lying on the grass with his teammates piled on top of him, Minjae laughed and cried at the same time, overwhelmed by joy.",
+    "stem": "다음 글에 드러난 Sihyun의 심경 변화로 가장 적절한 것은?",
+    "passage": "Sihyun's hands were shaking so badly that the paper in them rustled like leaves. In five minutes she would stand on the stage of the school auditorium and speak to six hundred students about the recycling project that she had led for a year. She had practiced the speech thirty times in front of her mirror, but now every sentence seemed to have fled from her mind. When the principal called her name, her legs felt heavy as stones, and she walked to the microphone with her eyes fixed on the floor. The first words came out thin and trembling. Then she noticed her friend Dahye in the second row, quietly holding up a paper cup on which she had written, \"You can do it.\" Sihyun smiled, took a deep breath, and began again. By the time she reached the last paragraph, her voice was steady, and when the applause started, she realized that she was standing straight, with a warm feeling spreading through her chest.",
     "options": [
-      "bored and tired → disappointed with the result",
-      "anxious and tense → overjoyed and relieved",
-      "jealous of his teammates → proud of his own skills",
-      "calm and confident → furious at the referee",
-      "curious about the match → embarrassed by his mistake"
+      "bored → excited",
+      "nervous and uneasy → relieved and confident",
+      "proud → ashamed",
+      "curious and eager → disappointed and discouraged",
+      "calm → frightened"
     ],
     "answer": 1,
-    "translation": "점수는 3대3으로 동점이었고 경기는 승부차기로 넘어갔다. 골키퍼 민재는 심장이 너무 세게 뛰어 귀에서 들릴 정도로 골라인에 서 있었다. 경기장 건너편에서 상대 공격수가 공을 조심스럽게 놓고 뒤로 물러났다. 경기장은 조용해졌고 민재의 손바닥은 너무 축축해서 장갑에 닦고 또 닦았다. 그는 계속 침착하자고 스스로에게 말했지만 공이 자신을 지나쳐 날아가는 모습만 떠올랐다. 호루라기가 울리자 그는 구석을 짐작해 왼쪽으로 몸을 날렸고 공이 손끝에 닿았다가 튕겨 나가는 것을 느꼈다. 잠시 아무도 움직이지 않았다. 그러자 팀 전체가 그의 이름을 외치며 달려왔다. 동료들이 위에 쌓인 채 잔디에 누워 민재는 웃으면서 동시에 울었고 기쁨에 압도되었다.",
-    "why": "승부차기 전에 긴장하고 불안했다가(anxious and tense), 공을 막아 내고 기쁨과 안도를 느꼈습니다(overjoyed and relieved).",
+    "translation": "시현의 손은 너무 심하게 떨려서 손에 든 종이가 나뭇잎처럼 바스락거렸다. 오 분 뒤면 그녀는 학교 강당 무대에 서서 일 년 동안 이끌어 온 재활용 프로젝트에 대해 육백 명의 학생에게 말해야 했다. 그녀는 거울 앞에서 연설을 서른 번 연습했지만 이제 모든 문장이 머릿속에서 달아나 버린 것 같았다. 교장 선생님이 그녀의 이름을 부르자 다리는 돌처럼 무거웠고 그녀는 눈을 바닥에 고정한 채 마이크로 걸어갔다. 첫마디는 가늘고 떨리며 나왔다. 그때 그녀는 둘째 줄에 있는 친구 다혜가 \"넌 할 수 있어\"라고 적은 종이컵을 조용히 들고 있는 것을 보았다. 시현은 미소 짓고 심호흡을 한 뒤 다시 시작했다. 마지막 단락에 이르렀을 때 그녀의 목소리는 안정되어 있었고 박수가 시작되었을 때 그녀는 가슴 속에 따뜻한 느낌이 퍼지는 가운데 자신이 곧게 서 있다는 것을 깨달았다.",
+    "why": "손이 떨리고 다리가 무거울 만큼 긴장하고 불안했지만(nervous and uneasy), 친구의 응원 뒤 목소리가 안정되고 박수를 받으며 안도하고 자신감을 얻었으므로(relieved and confident) ②입니다.",
     "optionNotes": [
-      "지루함과 피로에서 실망이 아닙니다.",
-      "정답. 불안과 긴장에서 기쁨과 안도로 변했습니다.",
-      "질투에서 자랑스러움이 아닙니다.",
-      "침착함에서 격분이 아닙니다.",
-      "호기심에서 당황이 아닙니다."
+      "지루함에서 신남으로 변한 것이 아닙니다.",
+      "정답. 긴장과 불안에서 안도와 자신감으로 변했습니다.",
+      "자랑스러움에서 부끄러움으로 변한 것이 아닙니다.",
+      "호기심에서 실망으로 변한 것이 아닙니다.",
+      "평온함에서 두려움으로 변한 것이 아닙니다."
     ],
-    "trap": "'cried'를 슬픔으로 해석하지 마세요. 기쁨에 압도된 눈물입니다.",
-    "tip": "전환 신호(When the whistle blew ~, Then ~)와 마지막 문장의 감정을 함께 보세요."
+    "trap": "앞부분의 긴장만 보고 끝까지 불안하다고 판단하지 마세요. 'Then she noticed ...' 이후가 전환점입니다.",
+    "tip": "전환 표현(Then, By the time) 앞뒤의 감정 단어를 비교하세요."
   },
   {
     "id": "m3b-02-20",
     "level": "m3",
     "set": "mock-02",
+    "rev": 2,
     "no": 20,
     "type": "claim",
     "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
-    "passage": "For most of human history, the night sky was a source of wonder. Today, however, more than eighty percent of the world's population lives under skies polluted by artificial light, and many children have never seen the Milky Way. Excessive lighting does more than hide the stars. It confuses migrating birds, harms insects that depend on darkness, and disturbs the natural sleep cycles of humans by suppressing the hormone that makes us sleepy. Moreover, a large share of the electricity used for outdoor lighting is wasted, shining upward where no one needs it. Fortunately, the solution is simple and inexpensive: shielded fixtures that direct light downward, dimmer settings, and timers can reduce light pollution without making streets unsafe. Therefore, cities should take active measures to control unnecessary outdoor lighting.",
+    "passage": "Many students believe that the best way to prepare for an exam is to read their notes again and again. Rereading feels productive because the material becomes familiar, and familiarity is easy to mistake for knowledge. Cognitive psychologists, however, have shown that this sense of mastery is often an illusion. In one well-known experiment, students who studied a passage four times remembered less a week later than students who studied it once and then spent the remaining time trying to recall it from memory. The effort of retrieving information, even when it ends in mistakes, strengthens the connections that make a memory durable. Self-testing also reveals exactly which parts are not yet understood, so that time can be spent where it is needed. Of course, the process feels harder and less pleasant than reading, which is why many learners avoid it. But a difficulty that forces the brain to work is not a sign of failure. Students should therefore close their books and test themselves instead of simply reading their notes once more.",
     "options": [
-      "밤하늘의 별을 제대로 관측하려면 불빛이 없는 도시에서 멀리 떠나 시골이나 산으로 가야 한다.",
-      "야간 조명은 범죄를 크게 줄여 주므로 모든 거리에서 가능한 한 최대한 밝게 유지해야 한다.",
-      "도시는 불필요한 야외 조명을 줄이기 위해 적극적인 조치를 취해야 한다.",
-      "이동하는 새와 곤충을 보호하기 위해 모든 야간 활동과 공사를 도시 전체에서 전면 금지해야 한다.",
-      "인공 조명은 호르몬이나 수면 주기 같은 인간의 몸에 어떤 영향도 주지 않으며 아무런 관계가 없다."
+      "시험 직전에는 새로운 내용을 공부하지 않고 쉬는 것이 좋다.",
+      "같은 내용을 반복해서 읽을수록 기억이 더 오래 지속된다.",
+      "공부한 내용을 책을 덮고 스스로 떠올려 보며 시험해 보아야 한다.",
+      "공부가 쉽게 느껴지는 방법이 가장 효과적인 학습법이다.",
+      "실수를 줄이려면 한 번에 한 과목씩만 차분히 집중해서 공부해야 한다."
     ],
     "answer": 2,
-    "translation": "인류 역사의 대부분 동안 밤하늘은 경이의 원천이었다. 그러나 오늘날 세계 인구의 80퍼센트 넘는 사람들이 인공 조명으로 오염된 하늘 아래 살고 있으며 많은 아이는 은하수를 본 적이 없다. 과도한 조명은 별을 가리는 것 이상의 일을 한다. 이동하는 새를 혼란스럽게 하고 어둠에 의존하는 곤충에게 해를 주며 졸음을 일으키는 호르몬을 억제해 사람의 자연스러운 수면 주기를 방해한다. 게다가 야외 조명에 쓰이는 전기의 상당 부분은 아무도 필요로 하지 않는 위쪽으로 비추며 낭비된다. 다행히 해결책은 간단하고 저렴하다. 빛을 아래로 향하게 하는 차폐 조명기구, 조도 조절, 타이머는 거리를 위험하게 만들지 않고도 빛 공해를 줄일 수 있다. 그러므로 도시는 불필요한 야외 조명을 억제하기 위해 적극적인 조치를 취해야 한다.",
-    "why": "마지막 문장에서 도시가 불필요한 야외 조명을 억제하는 적극적 조치를 해야 한다고 주장합니다.",
+    "translation": "많은 학생이 시험을 준비하는 가장 좋은 방법은 필기를 되풀이해서 읽는 것이라고 믿는다. 다시 읽기는 내용이 익숙해지기 때문에 생산적으로 느껴지는데, 익숙함은 지식으로 착각하기 쉽다. 그러나 인지 심리학자들은 이런 숙달의 느낌이 흔히 착각임을 보여 주었다. 한 유명한 실험에서 글을 네 번 공부한 학생들은 한 번 공부한 뒤 남은 시간을 기억에서 떠올리려고 애쓴 학생들보다 일주일 뒤 더 적게 기억했다. 정보를 떠올리려는 노력은 실수로 끝나더라도 기억을 오래가게 하는 연결을 강화한다. 스스로 시험해 보는 것은 아직 이해하지 못한 부분이 어디인지도 정확히 드러내서 필요한 곳에 시간을 쓸 수 있게 한다. 물론 이 과정은 읽기보다 더 어렵고 덜 즐겁게 느껴지며, 그래서 많은 학습자가 그것을 피한다. 그러나 뇌가 일하도록 만드는 어려움은 실패의 신호가 아니다. 그러므로 학생들은 필기를 한 번 더 읽는 대신 책을 덮고 스스로 시험해 보아야 한다.",
+    "why": "마지막 문장에서 책을 덮고 스스로 시험하라고 주장합니다.",
     "optionNotes": [
-      "도시를 떠나라는 말은 없습니다.",
-      "조명을 최대한 밝게 하라는 주장은 글과 반대입니다.",
-      "정답. 불필요한 야외 조명을 줄이는 조치를 해야 합니다.",
-      "야간 활동 금지는 나오지 않습니다.",
-      "조명이 수면을 방해한다고 했습니다."
+      "시험 직전 휴식은 나오지 않습니다.",
+      "다시 읽기가 기억을 오래 지속시킨다는 것은 통념이며 글이 반박합니다.",
+      "정답. 책을 덮고 스스로 떠올리며 시험해 보아야 합니다.",
+      "쉽게 느껴지는 것이 가장 효과적이라는 것은 반대입니다.",
+      "한 번에 한 과목은 나오지 않습니다."
     ],
-    "trap": "앞부분의 현상 설명(80% 인구)을 주장으로 착각하지 마세요.",
-    "tip": "Fortunately 이후의 해결책과 Therefore 문장이 주장입니다."
+    "trap": "'many students believe ~'의 통념(②)을 필자의 주장으로 착각하지 마세요.",
+    "tip": "주장 문제는 통념 → 반박(however) → 결론(therefore ~ should) 구조에서 마지막을 보세요."
   },
   {
     "id": "m3b-02-21",
     "level": "m3",
     "set": "mock-02",
+    "rev": 2,
     "no": 21,
     "type": "implied",
     "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
-    "passage": "When the town council discovered that the old bridge had a few cracks, they thought it was a minor repair. But after an engineer inspected it, he warned that the cracks were just {u|the tip of the iceberg}. Beneath the surface, the main supports were rotting, and the entire structure would have to be rebuilt within a few years.",
+    "passage": "During the final weeks before the national science competition, Jaemin followed a schedule that left no room for rest. He attended classes until four, worked on his experiment in the laboratory until ten, and then studied for his regular exams until two in the morning. His mother begged him to sleep more, but he insisted that he could rest after the competition. His teacher, who had seen other ambitious students collapse, warned him that he was {u|burning the candle at both ends}. \"The flame is bright,\" she said, \"but it will not last until the day of the contest.\" Jaemin laughed at first. The next week, however, he made so many small mistakes in his measurements that he had to repeat an entire experiment, and he fell asleep during a presentation to his team. Only then did he accept that sleep was not a luxury but a part of the work itself, and he began to leave the laboratory at nine, even when the results were not yet complete.",
     "options": [
-      "a small visible part of a much larger and more serious problem",
-      "a harmless problem that will disappear on its own without any action from the council",
-      "a clever way to hide a problem from the public until the engineer finishes his report",
-      "a cold and unpleasant situation that people should avoid whenever they cross the river",
-      "a rare opportunity that many people in the town have been waiting for many years"
+      "exhausting himself by doing too much without enough rest",
+      "wasting expensive materials by using them carelessly",
+      "lighting up the laboratory so that he could work late at night",
+      "copying other students' ideas in order to save time",
+      "cooperating with two different teams at the same time"
     ],
     "answer": 0,
-    "translation": "시의회는 오래된 다리에 몇 개의 균열이 있다는 것을 발견했을 때 사소한 수리로 생각했다. 그러나 기술자가 점검한 뒤 그는 그 균열이 빙산의 일각에 불과하다고 경고했다. 표면 아래에서는 주요 지지대가 썩고 있었고 구조물 전체를 몇 년 안에 다시 지어야 했다.",
-    "why": "균열은 사소한 수리처럼 보였지만 표면 아래에서 지지대가 썩고 있었다는 설명이 이어지므로 'the tip of the iceberg'는 훨씬 크고 심각한 문제의 작은 일부를 뜻합니다.",
+    "translation": "전국 과학 경진 대회를 앞둔 마지막 몇 주 동안 재민은 쉴 틈이 없는 일정을 따랐다. 그는 네 시까지 수업을 듣고 열 시까지 실험실에서 실험을 하고, 그런 다음 새벽 두 시까지 정규 시험 공부를 했다. 어머니는 더 자라고 애원했지만 그는 대회가 끝난 뒤에 쉬면 된다고 우겼다. 다른 야심 찬 학생들이 쓰러지는 것을 본 선생님은 그에게 양쪽 끝에서 초를 태우고 있다고 경고했다. \"불꽃은 밝지만 대회 날까지는 가지 못할 거야.\" 선생님이 말했다. 재민은 처음에는 웃었다. 그러나 다음 주에 그는 측정에서 작은 실수를 너무 많이 해서 실험 전체를 다시 해야 했고 팀 발표 중에 잠들었다. 그제야 그는 잠이 사치가 아니라 일 자체의 일부임을 받아들였고, 결과가 아직 완성되지 않았을 때도 아홉 시에 실험실을 나서기 시작했다.",
+    "why": "'burning the candle at both ends'는 쉬지 않고 무리하여 몸을 소진시키는 것을 뜻하며, 이후 실수와 졸음으로 그 결과가 나타납니다.",
     "optionNotes": [
-      "정답. 훨씬 더 큰 문제의 눈에 보이는 작은 일부입니다.",
-      "아무 조치 없이 사라진다는 뜻이 아닙니다.",
-      "문제를 숨긴다는 뜻이 아닙니다.",
-      "춥고 불쾌한 상황이라는 문자 그대로의 뜻이 아닙니다.",
-      "드문 기회라는 뜻이 아닙니다."
+      "정답. 충분히 쉬지 않고 너무 많은 일을 해 몸을 소진시키는 것입니다.",
+      "재료 낭비를 뜻하지 않습니다.",
+      "실험실 조명을 켠다는 문자 그대로의 뜻이 아닙니다.",
+      "다른 학생의 아이디어를 베끼는 내용은 없습니다.",
+      "두 팀과 협력한다는 내용은 없습니다."
     ],
-    "trap": "'iceberg'를 차갑다는 문자 그대로의 의미로 해석하지 마세요.",
-    "tip": "관용 표현은 뒤 문맥(Beneath the surface ~ rebuilt)에서 의미를 추론하세요."
+    "trap": "'candle'과 'flame'을 문자 그대로 조명과 연결하지 마세요.",
+    "tip": "관용 표현은 뒤에 나오는 결과(실수, 졸음)와 선생님의 설명으로 의미를 추론하세요."
   },
   {
     "id": "m3b-02-22",
     "level": "m3",
     "set": "mock-02",
+    "rev": 2,
     "no": 22,
     "type": "gist",
     "stem": "다음 글의 요지로 가장 적절한 것은?",
-    "passage": "Many people believe that the best way to succeed is to specialize as early as possible and to practice a single skill for thousands of hours. Yet a study of successful scientists, artists, and inventors found that many of them had a wide range of interests and hobbies. Nobel Prize winners, for example, were far more likely than ordinary scientists to play a musical instrument or to paint in their free time. Researchers explain that experience in different fields gives people more ideas to combine and more ways of looking at a problem. A person who knows only one field tends to apply the same solution again and again, even when it does not fit. In contrast, someone with diverse experience can borrow an idea from one area and use it in another. Thus, exploring a variety of fields can be a powerful way to develop creativity.",
+    "passage": "Modern life offers almost no moments of boredom. Whenever we wait for a bus or stand in a line, we reach for our phones, and the empty minutes that once belonged to our own thoughts are quickly filled with messages and videos. Yet researchers who study mind-wandering suggest that boredom serves a purpose. In one experiment, participants who had copied numbers from a phone book for fifteen minutes performed better on a creative task than those who had gone straight to it. A bored mind, left without outside stimulation, begins to search through its own memories and to link ideas that were previously unconnected, and this often produces unexpected solutions. Many writers and scientists describe their best ideas arriving while they were walking, showering, or staring out of a window. This does not mean that we should seek out tedious tasks, but it does suggest that the habit of filling every gap with entertainment may be costly. Learning to tolerate empty time could be a way to protect our creativity.",
     "options": [
-      "다양한 분야를 경험하는 것은 문제를 보는 시각을 넓혀 창의성을 기르는 데 도움이 된다.",
-      "가능한 한 일찍 한 가지 기술을 선택해 수천 시간 동안 연습하는 것이 성공의 유일한 방법이다.",
-      "노벨상 수상자가 되려면 반드시 어릴 때부터 악기를 연주하고 그림을 그리는 취미를 가져야 한다.",
-      "취미 활동은 학업과 연구에 쓸 시간을 빼앗아 방해가 되므로 가능한 한 줄이는 것이 좋다.",
-      "예술가와 과학자는 문제를 바라보는 서로 다른 사고 방식을 가지고 있어 협력하기 어렵다."
+      "지루한 시간에 마음이 스스로 생각을 연결하므로 창의성에 도움이 될 수 있다.",
+      "휴대전화 사용 시간을 줄이면 학업 성적이 반드시 오르고 집중력도 크게 좋아진다.",
+      "지루한 일을 오래 반복할수록 집중력과 창의성이 눈에 띄게 좋아진다.",
+      "창의적인 사람들은 일상에서 지루함을 느끼는 일이 거의 없다.",
+      "좋은 아이디어는 여러 사람이 모여 토론할 때에 가장 잘 떠오른다."
     ],
     "answer": 0,
-    "translation": "많은 사람은 성공하는 가장 좋은 방법이 가능한 한 일찍 전문화하고 한 가지 기술을 수천 시간 연습하는 것이라고 믿는다. 그러나 성공한 과학자, 예술가, 발명가에 대한 연구는 그들 중 다수가 폭넓은 관심사와 취미를 가졌음을 발견했다. 예를 들어 노벨상 수상자는 평범한 과학자보다 여가에 악기를 연주하거나 그림을 그릴 가능성이 훨씬 높았다. 연구자들은 서로 다른 분야의 경험이 사람들에게 결합할 아이디어와 문제를 보는 더 많은 방식을 준다고 설명한다. 한 분야만 아는 사람은 맞지 않을 때에도 같은 해결책을 거듭 적용하는 경향이 있다. 반면 다양한 경험을 가진 사람은 한 영역의 아이디어를 빌려 다른 영역에서 쓸 수 있다. 따라서 다양한 분야를 탐구하는 것은 창의성을 기르는 강력한 방법이 될 수 있다.",
-    "why": "마지막 문장에서 다양한 분야의 탐구가 창의성을 기르는 강력한 방법이라고 요약합니다.",
+    "translation": "현대의 삶은 지루한 순간을 거의 주지 않는다. 버스를 기다리거나 줄을 설 때마다 우리는 휴대전화에 손을 뻗고, 한때 우리 자신의 생각에 속하던 빈 시간은 메시지와 영상으로 금세 채워진다. 그러나 마음 방황을 연구하는 연구자들은 지루함이 목적을 가진다고 시사한다. 한 실험에서 십오 분 동안 전화번호부의 숫자를 베껴 쓴 참가자들은 곧바로 창의적 과제를 한 참가자들보다 더 잘 수행했다. 외부 자극이 없는 지루한 마음은 자신의 기억을 뒤지고 이전에 연결되지 않았던 생각들을 잇기 시작하며, 이는 흔히 뜻밖의 해결책을 낳는다. 많은 작가와 과학자가 자신의 최고의 아이디어가 걷거나 샤워하거나 창밖을 바라볼 때 떠올랐다고 말한다. 이것이 우리가 지루한 일을 찾아 나서야 한다는 뜻은 아니지만, 모든 빈틈을 오락으로 채우는 습관이 비용이 클 수 있음은 시사한다. 빈 시간을 견디는 법을 배우는 것은 우리의 창의성을 지키는 방법일 수 있다.",
+    "why": "지루한 시간에 마음이 스스로 기억을 뒤지고 생각을 연결하므로 창의성에 도움이 될 수 있다는 것이 요지입니다.",
     "optionNotes": [
-      "정답. 다양한 경험이 시각을 넓혀 창의성을 기릅니다.",
-      "글에서 반박되는 통념입니다.",
-      "노벨상 수상자의 사례일 뿐 조건이 아닙니다.",
-      "취미가 방해된다는 내용은 없습니다.",
-      "서로 다른 사고 방식은 나오지 않습니다."
+      "정답. 지루한 시간이 생각을 연결해 창의성에 도움이 됩니다.",
+      "성적과 집중력 향상은 나오지 않습니다.",
+      "지루한 일을 찾아 나서야 한다는 뜻이 아니라고 밝힙니다.",
+      "창의적인 사람의 지루함 경험 빈도는 나오지 않습니다.",
+      "토론은 나오지 않습니다."
     ],
-    "trap": "노벨상 수상자의 예를 일반 규칙(③)으로 확대하지 마세요.",
-    "tip": "Yet 이후와 Thus 문장이 요지를 담습니다."
+    "trap": "실험에서 '지루한 일'이 나오므로 ③으로 과일반화하지 마세요. 글은 지루한 일을 찾아 나서라는 뜻이 아니라고 합니다.",
+    "tip": "요지는 'This does not mean ~, but it does suggest ...'에서 but 이후를 확인하세요."
   },
   {
     "id": "m3b-02-23",
     "level": "m3",
     "set": "mock-02",
+    "rev": 2,
     "no": 23,
     "type": "topic",
     "stem": "다음 글의 주제로 가장 적절한 것은?",
-    "passage": "English speakers usually talk about time as if it were a line that runs from left to right: the past is behind us, and the future lies ahead. However, this is not universal. In Mandarin Chinese, speakers often describe earlier events as \"up\" and later events as \"down,\" using vertical words for time. Some Aboriginal communities in Australia describe time according to the points of the compass. As a result, the past may lie to the east for one person and to the west for another, depending on the direction in which they are facing. Researchers believe that these habits of speaking influence how people arrange events in their minds. For example, when asked to place photographs of a person growing older in order, speakers of different languages arranged them in different directions.",
+    "passage": "When speakers of one language come into contact with another, words often travel between them. English contains thousands of words from French, Latin, and Norse, and today it exports words as quickly as it imports them. But borrowed words rarely arrive unchanged. The Japanese word \"arubaito,\" which means a part-time job, comes from the German word for work, \"Arbeit,\" and the English meaning of \"work\" has almost disappeared from it. Speakers usually adjust the sounds of a foreign word so that it fits their own language, and they sometimes change its meaning altogether. In Korean, the English word \"service\" is often used to mean something given free of charge, a sense that it does not normally have in English. Linguists point out that such changes are not mistakes. They show that a language is not a fixed container but a living system that reshapes whatever it takes in. Seen in this light, the worry that foreign words will destroy a language may be exaggerated, because a language that is strong enough will always make borrowed words its own.",
     "options": [
-      "why different languages around the world have developed completely different alphabets and writing systems",
-      "how the way people talk about time reflects and shapes their mental images of it",
-      "what makes it so difficult for most adults to learn a foreign language after they finish school",
-      "where Aboriginal communities in Australia live and how they travel across the large dry land every year",
-      "when people in ancient times first began to measure time with clocks and calendars in cities"
+      "외래어 사용이 모국어를 훼손하는 정도를 측정한 연구 결과",
+      "빌려 온 낱말의 소리와 뜻이 그 언어에 맞게 바뀌는 현상",
+      "영어가 다른 언어에서 가장 많이 빌려 온 낱말의 종류",
+      "외국어를 배울 때 발음을 정확하게 익히는 효과적인 방법",
+      "두 언어가 섞여 완전히 새로운 언어가 만들어지는 과정"
     ],
     "answer": 1,
-    "translation": "영어 사용자들은 보통 시간을 왼쪽에서 오른쪽으로 이어지는 선처럼 이야기한다. 과거는 우리 뒤에 있고 미래는 앞에 놓여 있다. 그러나 이것은 보편적이지 않다. 중국어에서는 화자가 흔히 이전의 사건을 '위', 나중의 사건을 '아래'로 묘사하며 시간에 수직적인 말을 쓴다. 호주의 일부 원주민 공동체는 시간을 나침반 방향에 따라 묘사하여 과거가 어떤 사람에게는 동쪽에, 다른 사람에게는 향하는 방향에 따라 서쪽에 있을 수 있다. 연구자들은 이런 말하기 습관이 사람들이 머릿속에서 사건을 배열하는 방식에 영향을 준다고 믿는다. 예를 들어 나이 들어 가는 사람의 사진을 순서대로 놓으라고 했을 때 다른 언어의 화자들은 서로 다른 방향으로 배열했다.",
-    "why": "시간에 대해 이야기하는 방식이 사람들이 시간을 머릿속에 그리는 방식을 반영하고 형성한다는 내용입니다.",
+    "translation": "한 언어의 화자가 다른 언어와 접촉하면 낱말이 그 사이를 오가는 일이 흔하다. 영어는 프랑스어, 라틴어, 노르드어에서 온 수천 개의 낱말을 포함하고 오늘날에는 낱말을 들여오는 만큼 빠르게 내보낸다. 그러나 빌려 온 낱말은 좀처럼 그대로 도착하지 않는다. 시간제 일을 뜻하는 일본어 '아르바이토'는 일을 뜻하는 독일어 'Arbeit'에서 왔지만 그 낱말에서 '일'이라는 본래 의미는 거의 사라졌다. 화자들은 대개 외국어 낱말의 소리를 자기 언어에 맞게 조정하고 때로는 뜻을 아예 바꾼다. 한국어에서 영어 낱말 'service'는 흔히 공짜로 주어지는 것을 뜻하는데, 영어에서는 보통 그런 뜻이 없다. 언어학자들은 이런 변화가 실수가 아니라고 지적한다. 그것은 언어가 고정된 그릇이 아니라 받아들이는 것은 무엇이든 새로 빚어내는 살아 있는 체계임을 보여 준다. 이렇게 보면 외국어 낱말이 언어를 파괴할 것이라는 걱정은 과장일 수 있는데, 충분히 강한 언어는 언제나 빌려 온 낱말을 자기 것으로 만들기 때문이다.",
+    "why": "외래어가 들어오면서 소리와 뜻이 그 언어에 맞게 바뀌는 현상을 설명하는 글입니다.",
     "optionNotes": [
-      "문자 체계는 나오지 않습니다.",
-      "정답. 시간을 말하는 방식과 사고의 관계입니다.",
-      "외국어 학습의 어려움은 나오지 않습니다.",
-      "원주민의 거주지는 나오지 않습니다.",
-      "시계와 달력의 기원은 나오지 않습니다."
+      "훼손 정도를 측정한 연구는 나오지 않습니다.",
+      "정답. 빌려 온 낱말의 소리와 뜻이 바뀌는 현상입니다.",
+      "영어가 빌린 낱말의 종류가 중심이 아닙니다.",
+      "발음 학습법은 나오지 않습니다.",
+      "새로운 언어의 탄생은 나오지 않습니다."
     ],
-    "trap": "중국어·호주 원주민 사례는 일반 주장의 근거입니다.",
-    "tip": "주제는 사례들을 묶는 일반 진술(habits of speaking influence ~ mind)을 찾으세요."
+    "trap": "English, French 같은 언어 이름이 많이 나온다고 영어의 외래어 목록(③)이 주제라고 오해하지 마세요.",
+    "tip": "주제는 예시들을 묶는 공통 현상(낱말이 변한다)을 고르세요."
   },
   {
     "id": "m3b-02-24",
     "level": "m3",
     "set": "mock-02",
+    "rev": 2,
     "no": 24,
     "type": "title",
     "stem": "다음 글의 제목으로 가장 적절한 것은?",
-    "passage": "In 1995, wolves were reintroduced to Yellowstone National Park after being absent for nearly seventy years. At first, scientists expected only a modest effect on the number of deer. What actually happened was far more dramatic. The wolves reduced the deer population and, just as importantly, changed where the deer grazed. Deer avoided open valleys where they could be easily attacked, which allowed trees and shrubs along riverbanks to regrow. As the vegetation recovered, birds returned to nest, and beavers began to build dams. These dams created ponds that supported fish, frogs, and other animals. Even the rivers changed their courses, because the roots of the new plants stabilized the soil. Ecologists call this chain of effects a trophic cascade, and the Yellowstone wolves have become its best-known example.",
+    "passage": "On a summer afternoon, the center of a large city can be five to ten degrees warmer than the countryside around it. This \"urban heat island\" effect occurs because dark asphalt and concrete absorb sunlight and release the heat slowly at night, while few plants remain to cool the air through evaporation. The extra heat is not just uncomfortable: it raises electricity use for air conditioning and increases the risk of illness among older residents. Cities are therefore trying simple solutions. In some, building owners paint their roofs white, and these roofs reflect most of the sunlight instead of absorbing it, which can lower the temperature inside by several degrees. Others cover roofs and walls with soil and plants, which shade the surface, absorb rainwater, and cool the air as their leaves release moisture. A single street lined with large trees may reduce the surrounding temperature more than any machine. Although such projects cost money at the start, studies suggest that they pay back through lower energy bills and healthier residents, which makes them an attractive investment.",
     "options": [
-      "The Dangers of Wolves for Visitors in National Parks",
-      "How Beavers Build Dams to Protect Fish and Frogs",
-      "Why Deer Populations Grow Faster in Open Valleys",
-      "How the Return of a Single Predator Reshaped an Entire Ecosystem",
-      "The History of Wolf Hunting in North America Over Seventy Years"
+      "Why Asphalt Roads Are Becoming Cheaper",
+      "Weather Forecasts for Modern Cities",
+      "How Air Conditioning Changed City Life",
+      "Beating the Heat: How White Roofs and Green Walls Cool Cities",
+      "The Health Risks of Staying Outdoors"
     ],
     "answer": 3,
-    "translation": "1995년 늑대는 거의 70년 동안 사라졌다가 옐로스톤 국립공원에 다시 도입되었다. 처음에 과학자들은 사슴의 수에 미미한 영향만 있을 것이라고 예상했다. 실제로 일어난 일은 훨씬 극적이었다. 늑대는 사슴의 개체수를 줄였고 그만큼 중요하게 사슴이 풀을 뜯는 장소도 바꾸었다. 사슴은 쉽게 공격받을 수 있는 탁 트인 계곡을 피했고 이는 강둑의 나무와 관목이 다시 자라게 했다. 식생이 회복되자 새들이 둥지를 틀러 돌아왔고 비버가 댐을 짓기 시작했다. 이 댐은 물고기와 개구리 같은 동물을 지탱하는 연못을 만들었다. 새로 자란 식물의 뿌리가 토양을 안정시켜 강의 물길까지 바뀌었다. 생태학자들은 이런 연쇄 효과를 영양 단계 연쇄라고 부르며 옐로스톤의 늑대는 가장 잘 알려진 예가 되었다.",
-    "why": "늑대 한 종의 재도입이 생태계 전체를 바꾸었다는 내용이므로 ⑤가 제목입니다.",
+    "translation": "여름 오후에 대도시의 중심은 주변 시골보다 5도에서 10도 더 따뜻할 수 있다. 이 '도시 열섬' 효과는 검은 아스팔트와 콘크리트가 햇빛을 흡수해 밤에 열을 천천히 내보내고, 증발로 공기를 식혀 줄 식물이 거의 남아 있지 않기 때문에 생긴다. 이 추가 열은 단지 불쾌한 것만이 아니다. 에어컨의 전기 사용을 늘리고 노인 주민의 질병 위험을 높인다. 그래서 도시들은 간단한 해결책을 시도하고 있다. 일부 도시에서는 건물주가 지붕을 흰색으로 칠하는데 이런 지붕은 햇빛을 흡수하는 대신 대부분 반사해 실내 온도를 몇 도 낮출 수 있다. 다른 곳에서는 지붕과 벽을 흙과 식물로 덮는데, 이는 표면에 그늘을 드리우고 빗물을 흡수하며 잎이 수분을 내보내면서 공기를 식힌다. 큰 나무가 늘어선 거리 하나는 어떤 기계보다 주변 온도를 더 낮출 수 있다. 이런 사업은 처음에 돈이 들지만 연구에 따르면 낮은 에너지 요금과 더 건강한 주민으로 비용을 회수하므로 매력적인 투자가 된다.",
+    "why": "도시의 열섬 현상과 이를 줄이는 흰 지붕·녹색 벽·나무 같은 해결책을 소개하므로 ④가 제목으로 알맞습니다.",
     "optionNotes": [
-      "방문객에 대한 위험은 나오지 않습니다.",
-      "비버의 댐은 연쇄 효과의 일부일 뿐입니다.",
-      "열린 계곡에서 사슴이 느는 내용은 나오지 않습니다.",
-      "정답. 한 포식자의 귀환이 생태계 전체를 바꾸었습니다.",
-      "늑대 사냥의 역사는 나오지 않습니다."
+      "아스팔트 가격은 나오지 않습니다.",
+      "일기 예보는 나오지 않습니다.",
+      "에어컨은 전기 사용 증가의 원인으로만 나옵니다.",
+      "정답. 흰 지붕과 녹색 벽으로 도시의 열을 식힌다는 내용입니다.",
+      "야외 활동의 건강 위험이 주제가 아닙니다."
     ],
-    "trap": "세부 사례(beavers, deer)를 전체 제목으로 확대하지 마세요.",
-    "tip": "제목은 글 전체를 포괄하는 인과(return of predator → ecosystem change)를 담으세요."
+    "trap": "'illness among older residents'에 끌려 건강 문제(⑤)를 주제로 고르지 마세요.",
+    "tip": "제목은 문제와 해결책을 모두 담은 선택지가 알맞습니다."
   },
   {
     "id": "m3b-02-25",
     "level": "m3",
     "set": "mock-02",
+    "rev": 2,
     "no": 25,
     "type": "chart",
     "stem": "다음 도표의 내용과 일치하지 않는 것은?",
     "chart": {
-      "title": "Average Weekly Screen Time by Age Group (hours)",
-      "unit": "h",
+      "title": "How Students Travel to School (%)",
+      "unit": "%",
       "labels": [
-        "Ages 10-12",
-        "Ages 13-15",
-        "Ages 16-18",
-        "Ages 19-24",
-        "Ages 25-34"
+        "Walk",
+        "Bike",
+        "Bus",
+        "Car",
+        "Subway"
       ],
       "series": [
         {
           "name": "2015",
           "values": [
-            14,
-            20,
-            26,
             30,
-            24
+            10,
+            25,
+            25,
+            10
           ]
         },
         {
-          "name": "2023",
+          "name": "2025",
           "values": [
             22,
-            30,
-            34,
-            36,
-            28
+            18,
+            28,
+            20,
+            12
           ]
         }
       ]
     },
-    "passage": "The graph compares the average weekly screen time of five age groups in 2015 and 2023. ① Ages 10-12 showed the largest increase in screen time between the two years. ② Screen time increased in all five age groups. ③ Ages 19-24 had the highest screen time in both years. ④ Ages 25-34 showed the smallest increase among the five groups. ⑤ Ages 13-15 spent 10 more hours per week in 2023 than in 2015.",
+    "passage": "The graph shows how students at a middle school traveled to school in 2015 and 2025. ① Walking was the most common way of getting to school in both years. ② The share of students who cycled rose by 8 percentage points between the two years. ③ In 2025, the share of students who came by car was lower than the share who came by bus. ④ The share of students who took the subway increased by 2 percentage points. ⑤ The combined share of walking and cycling was the same in both years.",
     "options": [
       "①",
       "②",
@@ -244,100 +252,103 @@
       "⑤"
     ],
     "answer": 0,
-    "translation": "그래프는 2015년과 2023년의 다섯 연령 집단의 주당 평균 화면 시청 시간을 비교한다. ① 10~12세가 두 해 사이에 화면 시청 시간의 가장 큰 증가를 보였다. ② 다섯 연령 집단 모두에서 화면 시청 시간이 증가했다. ③ 19~24세가 두 해 모두 화면 시청 시간이 가장 많았다. ④ 25~34세가 다섯 집단 중 가장 작은 증가를 보였다. ⑤ 13~15세는 2023년에 2015년보다 주당 10시간 더 보냈다.",
-    "why": "증가량은 10~12세 8시간, 13~15세 10시간, 16~18세 8시간, 19~24세 6시간, 25~34세 4시간이므로 가장 큰 증가는 13~15세이며 ①은 일치하지 않습니다.",
+    "translation": "그래프는 한 중학교 학생들이 2015년과 2025년에 등교한 방법을 보여 준다. ① 걷기는 두 해 모두 가장 흔한 등교 방법이었다. ② 자전거를 탄 학생의 비율은 두 해 사이에 8퍼센트포인트 올랐다. ③ 2025년에 자동차로 온 학생의 비율은 버스로 온 학생의 비율보다 낮았다. ④ 지하철을 탄 학생의 비율은 2퍼센트포인트 늘었다. ⑤ 걷기와 자전거의 합한 비율은 두 해 모두 같았다.",
+    "why": "2025년에는 버스(28%)가 걷기(22%)보다 높으므로 걷기가 두 해 모두 가장 흔했다는 ①은 일치하지 않습니다.",
     "optionNotes": [
-      "정답(불일치). 가장 큰 증가는 13~15세(10시간)입니다.",
-      "모든 집단이 증가했습니다.",
-      "19~24세가 2015년 30시간, 2023년 36시간으로 가장 많습니다.",
-      "25~34세가 4시간으로 가장 작은 증가입니다.",
-      "20시간에서 30시간으로 10시간 증가했습니다."
+      "정답(불일치). 2025년에는 버스(28%)가 걷기(22%)보다 많습니다.",
+      "10%에서 18%로 8퍼센트포인트 올랐습니다.",
+      "자동차 20%는 버스 28%보다 낮습니다.",
+      "10%에서 12%로 2퍼센트포인트 늘었습니다.",
+      "30+10=40, 22+18=40으로 같습니다."
     ],
-    "trap": "2023년의 값이 큰 집단과 증가량이 큰 집단을 혼동하기 쉽습니다.",
-    "tip": "증가량은 두 해의 값을 빼서 집단별로 비교하세요."
+    "trap": "2015년 막대만 보고 'both years'를 확인하지 않으면 ①이 맞다고 착각합니다.",
+    "tip": "'in both years' 문장은 두 해의 막대를 각각 확인하세요."
   },
   {
     "id": "m3b-02-26",
     "level": "m3",
     "set": "mock-02",
+    "rev": 2,
     "no": 26,
     "type": "match",
-    "stem": "Chien-Shiung Wu에 관한 다음 글의 내용과 일치하는 것은?",
-    "passage": "Chien-Shiung Wu was a Chinese-American physicist who became known as the \"First Lady of Physics.\" Born in China in 1912, she moved to the United States in 1936 to continue her studies, and she later joined the Manhattan Project, where she worked on methods for separating uranium. After the war, she became a professor at Columbia University. In 1956, two theoretical physicists proposed that a basic law of nature, known as the conservation of parity, might not hold for weak interactions. Wu designed and carried out a difficult experiment at extremely low temperatures that proved they were right. Although her two colleagues received the Nobel Prize in 1957 for the idea, Wu was not included, a decision that many scientists later called unfair. She received the first Wolf Prize in Physics in 1978 in recognition of her achievements.",
+    "stem": "Marie Tharp에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Marie Tharp was born in 1920 in Michigan, the daughter of a soil surveyor who took her along on his trips to the field. In those years, few universities accepted women in the sciences, but the shortage of male students during World War II opened the door, and she earned a degree in geology in 1944. At Columbia University she joined the team of Bruce Heezen, who collected depth measurements of the Atlantic Ocean. Because women were not allowed on research ships at the time, Tharp stayed in the laboratory and turned the data into maps. Around 1952, she noticed a deep valley running down the center of a long underwater mountain chain, and she suggested that it was a rift where the seafloor was pulling apart. Heezen at first dismissed the idea as \"girl talk,\" but later evidence proved her right and helped to convince scientists that the continents move. In 1977, the maps that she had made with Heezen were published as a colored painting of the whole ocean floor. She died in 2006.",
     "options": [
-      "그녀는 중국에서 박사 학위를 받은 뒤 곧바로 미국으로 건너가 맨해튼 계획에 참여해 우라늄 분리 방법을 연구했다.",
-      "1956년 그녀의 실험은 약한 상호작용에서 패리티 보존 법칙이 성립하지 않음을 보였다.",
-      "두 이론 물리학자는 이론을 제안하고 직접 극저온에서 어려운 실험을 설계하고 수행하여 이를 증명했다.",
-      "그녀는 1957년 노벨상 수상자 명단에 두 동료와 함께 이름이 포함되어 공동으로 수상했다.",
-      "그녀가 첫 울프 물리학상을 받은 것은 노벨상을 수상한 이후의 일로 그 뒤에 인정받았다."
+      "어린 시절 아버지의 일을 돕는 것을 싫어해 지질학과 멀리 떨어진 삶을 살았다.",
+      "여성이 연구선에 탈 수 없었기 때문에 실험실에서 측정 자료를 지도로 옮겼다.",
+      "바다 밑 산맥 중앙의 계곡이 해저가 서로 맞붙는 곳이라고 생각했다.",
+      "동료인 헤이천은 처음부터 그녀의 생각을 받아들이고 연구를 함께 이끌었다.",
+      "1977년에 발표된 해저 지도는 대서양의 일부 해역만을 담은 것이었다."
     ],
     "answer": 1,
-    "translation": "치엔슝 우는 '물리학의 퍼스트레이디'로 알려진 중국계 미국인 물리학자였다. 1912년 중국에서 태어난 그녀는 공부를 이어 가려고 1936년 미국으로 건너갔고 이후 맨해튼 계획에 참여해 우라늄 분리 방법을 연구했다. 전쟁 뒤에는 컬럼비아 대학교 교수가 되었다. 1956년 두 이론 물리학자는 자연의 기본 법칙인 패리티 보존이 약한 상호작용에서는 성립하지 않을 수도 있다고 제안했다. 우는 극저온에서 어려운 실험을 설계하고 수행하여 그들이 옳음을 증명했다. 그녀의 두 동료는 그 아이디어로 1957년 노벨상을 받았지만 우는 포함되지 않았고 많은 과학자는 이 결정이 불공평했다고 말했다. 그녀는 1978년 업적을 인정받아 첫 번째 울프 물리학상을 받았다.",
-    "why": "'Wu designed and carried out a difficult experiment ... that proved they were right.'와 일치합니다.",
+    "translation": "마리 타프는 1920년 미시간에서 태어났는데, 토양 측량사였던 아버지는 현장 답사에 그녀를 데려가곤 했다. 그 시절 과학 분야에서 여성을 받아 주는 대학은 거의 없었지만 제2차 세계 대전 중 남학생의 부족이 문을 열어 주었고 그녀는 1944년 지질학 학위를 받았다. 컬럼비아 대학교에서 그녀는 대서양의 수심 측정 자료를 모으던 브루스 헤이천의 팀에 합류했다. 당시 여성은 연구선에 탈 수 없었기 때문에 타프는 실험실에 남아 자료를 지도로 바꾸었다. 1952년경 그녀는 길게 이어진 바다 밑 산맥의 중앙을 따라 달리는 깊은 계곡을 알아챘고 그것이 해저가 서로 벌어지는 갈라진 틈이라고 제안했다. 헤이천은 처음에 그 생각을 '여자들의 수다'로 일축했지만 나중의 증거가 그녀가 옳음을 증명하고 과학자들이 대륙이 움직인다고 확신하는 데 도움을 주었다. 1977년 그녀가 헤이천과 만든 지도는 전체 해저의 채색 그림으로 발표되었다. 그녀는 2006년에 세상을 떠났다.",
+    "why": "여성은 연구선에 탈 수 없어 타프가 실험실에서 자료를 지도로 바꾸었다고 했으므로 ②가 일치합니다.",
     "optionNotes": [
-      "1936년 미국으로 건너가 학업을 이어 갔습니다.",
-      "정답. 실험으로 패리티 보존이 약한 상호작용에서 성립하지 않음을 증명했습니다.",
-      "실험은 우가 수행했습니다.",
-      "노벨상에 포함되지 않았습니다.",
-      "울프상은 1978년으로 노벨상(1957)보다 뒤이지만 그녀는 노벨상을 받지 못했습니다."
+      "아버지와 현장에 다니며 자랐고 지질학을 전공했습니다.",
+      "정답. 연구선에 탈 수 없어 실험실에서 지도를 그렸습니다.",
+      "계곡은 해저가 서로 벌어지는 틈이라고 제안했습니다.",
+      "헤이천은 처음에 그 생각을 일축했습니다.",
+      "1977년 지도는 전체 해저를 담았습니다."
     ],
-    "trap": "이론을 제안한 두 물리학자와 실험을 수행한 우를 혼동하지 마세요.",
-    "tip": "일치 문제는 주체(누가 제안·실험했는지)와 연도를 정확히 대조하세요."
+    "trap": "'pulling apart'(벌어짐)를 '맞붙음'으로 바꾼 선택지 ③과 'at first dismissed'를 뒤집은 ④를 조심하세요.",
+    "tip": "일치 문제는 반전 표현(at first ~, but later ...)과 방향(apart/together)을 확인하세요."
   },
   {
     "id": "m3b-02-27",
     "level": "m3",
     "set": "mock-02",
+    "rev": 2,
     "no": 27,
     "type": "notice",
-    "stem": "Autumn Hackathon에 관한 다음 안내문의 내용과 일치하는 것은?",
-    "passage": "Hanbit Autumn Hackathon\nA 24-hour coding event for students of grades 9 - 12\nDate: Saturday, October 19, 10:00 a.m. - Sunday, October 20, 10:00 a.m.\nPlace: Hanbit University, Engineering Building, Hall B\nTeams: 3 to 4 members (individual applicants will be matched with a team on the day)\nTheme: \"Technology for Our Neighborhood\" - announced at the opening ceremony\nProvided: Meals, snacks, Wi-Fi, and a mentor for each team. Participants must bring their own laptops.\nJudging: Based on creativity (30%), usefulness (40%), and presentation (30%)\nPrizes: 1st place - a $300 scholarship; 2nd place - a $150 scholarship\nRegistration: Online by October 10 at www.hanbithack.org (Free of charge)",
+    "stem": "Youth Coding Hackathon 안내문의 내용과 일치하는 것은?",
+    "passage": "Riverside Library - Youth Coding Hackathon\nDate: Saturday, March 14 (9 a.m. - 6 p.m.)\nWho can join: Students in grades 7-12 (teams of 2 to 4 members; solo entries are not accepted)\nTheme: \"Technology for a Cleaner City\" (announced on the day of the event)\nFee: Free. Lunch and snacks will be provided.\nWhat to bring: A laptop and a charger (the library has no spare computers)\nRegistration: Online by March 6 on the library website. Teams that register late will be placed on a waiting list.\nJudging: A panel of local engineers will choose three winning teams at 5 p.m. Winners will receive a one-month internship.",
     "options": [
-      "개별 지원자는 참가할 수 없다.",
-      "주제는 개막식에서 발표된다.",
-      "노트북은 주최 측이 빌려준다.",
-      "평가에서는 창의성이 가장 큰 비중을 차지한다.",
-      "등록하려면 참가비를 내야 한다."
+      "혼자서도 개인 자격으로 대회에 참가할 수 있다.",
+      "대회의 주제는 행사 당일에 발표된다.",
+      "점심 식사는 참가자가 각자 준비해 와야 한다.",
+      "도서관에서 대회용 컴퓨터를 빌려 쓸 수 있다.",
+      "우승한 세 팀은 상금을 받게 된다."
     ],
     "answer": 1,
-    "translation": "한빛 가을 해커톤. 9~12학년 학생을 위한 24시간 코딩 행사. 날짜: 10월 19일 토요일 오전 10시~10월 20일 일요일 오전 10시. 장소: 한빛대학교 공학관 B홀. 팀: 3~4명(개별 지원자는 당일 팀과 연결됩니다). 주제: \"우리 동네를 위한 기술\" – 개막식에서 발표. 제공: 식사, 간식, 와이파이, 팀별 멘토. 참가자는 노트북을 직접 가져와야 합니다. 심사: 창의성(30%), 유용성(40%), 발표(30%). 상: 1등 – 300달러 장학금, 2등 – 150달러 장학금. 등록: 10월 10일까지 www.hanbithack.org에서 온라인으로(무료).",
-    "why": "'Theme ... announced at the opening ceremony'와 일치합니다.",
+    "translation": "리버사이드 도서관 – 청소년 코딩 해커톤. 날짜: 3월 14일 토요일(오전 9시~오후 6시). 참가 대상: 7~12학년 학생(2~4명 팀, 개인 참가 불가). 주제: '더 깨끗한 도시를 위한 기술'(행사 당일 발표). 참가비: 무료. 점심과 간식 제공. 준비물: 노트북과 충전기(도서관에는 여분의 컴퓨터가 없음). 신청: 3월 6일까지 도서관 누리집에서 온라인으로. 늦게 신청한 팀은 대기자 명단에 오름. 심사: 지역 기술자 심사단이 오후 5시에 우승 세 팀을 선정. 우승 팀은 한 달간의 인턴십을 받음.",
+    "why": "'announced on the day of the event'와 일치합니다.",
     "optionNotes": [
-      "개별 지원자도 당일 팀과 연결됩니다.",
-      "정답. 주제는 개막식에서 발표됩니다.",
-      "노트북은 직접 가져와야 합니다.",
-      "유용성(40%)이 가장 큽니다.",
-      "등록은 무료입니다."
+      "개인 참가는 받지 않습니다.",
+      "정답. 주제는 행사 당일에 발표됩니다.",
+      "점심과 간식은 제공됩니다.",
+      "도서관에는 여분의 컴퓨터가 없습니다.",
+      "우승 팀은 상금이 아니라 한 달간의 인턴십을 받습니다."
     ],
-    "trap": "평가 비중(30·40·30)에서 가장 큰 항목을 혼동하지 마세요.",
-    "tip": "안내문은 괄호 안의 예외와 비율 숫자를 보기와 정확히 대조하세요."
+    "trap": "우승 혜택이 '인턴십'인데 상금으로 오해하기 쉽습니다.",
+    "tip": "안내문의 Who can join, Theme, Fee, What to bring, Judging 항목을 하나씩 대조하세요."
   },
   {
     "id": "m3b-02-28",
     "level": "m3",
     "set": "mock-02",
+    "rev": 2,
     "no": 28,
     "type": "notice",
-    "stem": "International Student Exchange Program에 관한 다음 안내문의 내용과 일치하는 것은?",
-    "passage": "Hanbit High School International Student Exchange Program\nEligibility: Grade 10 or 11 students with an average grade of B or higher and a recommendation letter from a homeroom teacher\nDestinations: Partner schools in Canada, Germany, and Japan (students may list up to two preferences)\nDuration: One semester (about 5 months), beginning in March of next year\nCost: Participants pay for airfare and personal expenses; tuition is waived, and families hosting the students provide accommodation and meals\nApplication: Submit the form and a one-page essay to the Global Studies Office by November 15. Interviews will be held on November 25 and 26.\nImportant: Students who accept a place must attend two preparation workshops in December. Absence from the workshops will result in cancellation of the placement.",
+    "stem": "Community Seed Library 안내문의 내용과 일치하는 것은?",
+    "passage": "Greenfield Community Center - Seed Library\nOpening: Every Tuesday and Saturday, 10 a.m. - 4 p.m., beginning April 1\nHow it works: Members may borrow up to five packets of seeds at no charge. After the harvest, they are asked to return a small number of seeds from the plants they grew, so that the collection keeps growing.\nMembership: Free for residents of Greenfield (please bring proof of your address on your first visit)\nSeed types: Vegetables, herbs, and flowers that suit the local climate. Seeds treated with chemicals are not accepted.\nWorkshops: Free gardening classes are held on the first Saturday of each month (no reservation required).\nNote: Seeds from the library may not be sold.",
     "options": [
-      "수업료는 면제되고 숙식은 현지 가정이 제공하며 참가자는 항공료와 개인 경비를 부담한다.",
-      "최대 세 곳까지 희망 국가를 적을 수 있다.",
-      "교환 기간은 일 년이며 3월에 시작한다.",
-      "면접은 11월 15일에 열린다.",
-      "준비 워크숍은 선택 사항이다."
+      "수확한 뒤에는 자신이 키운 식물에서 얻은 씨앗을 조금 돌려주도록 요청받는다.",
+      "씨앗 도서관은 일주일 내내 매일 문을 연다.",
+      "화학 처리를 한 씨앗도 기증할 수 있다.",
+      "정원 가꾸기 수업은 미리 예약한 사람만 들을 수 있다.",
+      "도서관에서 빌린 씨앗은 다른 사람에게 판매해도 된다."
     ],
     "answer": 0,
-    "translation": "한빛고등학교 국제 교환 학생 프로그램. 자격: 평균 성적 B 이상이며 담임 교사의 추천서가 있는 10, 11학년 학생. 목적지: 캐나다, 독일, 일본의 협력 학교(최대 두 곳까지 희망 기재). 기간: 한 학기(약 5개월), 내년 3월 시작. 비용: 참가자는 항공료와 개인 경비를 부담하며 수업료는 면제되고 학생을 맞는 가정이 숙식을 제공합니다. 신청: 11월 15일까지 지원서와 한 쪽짜리 에세이를 글로벌 학습 사무실에 제출. 면접은 11월 25일과 26일에 열립니다. 중요: 자리를 수락한 학생은 12월에 두 번의 준비 워크숍에 참석해야 합니다. 워크숍에 결석하면 배정이 취소됩니다.",
-    "why": "'tuition is waived ... host families provide accommodation and meals; participants pay for airfare and personal expenses'와 일치합니다.",
+    "translation": "그린필드 주민 센터 – 씨앗 도서관. 운영: 4월 1일부터 매주 화요일과 토요일 오전 10시~오후 4시. 이용 방법: 회원은 씨앗 봉투를 최대 다섯 개까지 무료로 빌릴 수 있습니다. 수확한 뒤에는 컬렉션이 계속 늘어나도록 자신이 키운 식물에서 얻은 씨앗을 조금 돌려주도록 요청받습니다. 회원 자격: 그린필드 주민은 무료(첫 방문 때 주소 증명을 가져오세요). 씨앗 종류: 지역 기후에 맞는 채소, 허브, 꽃. 화학 처리를 한 씨앗은 받지 않습니다. 강좌: 무료 정원 가꾸기 수업이 매달 첫째 토요일에 열립니다(예약 불필요). 유의: 도서관 씨앗은 판매할 수 없습니다.",
+    "why": "'they are asked to return a small number of seeds from the plants they grew'와 일치합니다.",
     "optionNotes": [
-      "정답. 수업료 면제, 현지 가정의 숙식, 참가자의 항공료·개인 경비 부담입니다.",
-      "최대 두 곳까지 적을 수 있습니다.",
-      "한 학기(약 5개월)입니다.",
-      "면접은 11월 25일과 26일입니다.",
-      "결석하면 배정이 취소되는 필수 워크숍입니다."
+      "정답. 수확 후 키운 식물의 씨앗을 조금 돌려주도록 요청받습니다.",
+      "화요일과 토요일에만 엽니다.",
+      "화학 처리를 한 씨앗은 받지 않습니다.",
+      "예약이 필요 없습니다.",
+      "도서관 씨앗은 판매할 수 없습니다."
     ],
-    "trap": "신청 마감(11월 15일)과 면접일(11월 25~26일)을 혼동하지 마세요.",
-    "tip": "비용 항목은 '누가 무엇을 부담하는지'를 항목별로 정리하세요."
+    "trap": "'Seeds treated with chemicals are not accepted'와 'may not be sold'의 부정 표현을 놓치면 ③⑤를 고르기 쉽습니다.",
+    "tip": "안내문의 How it works, Seed types, Workshops, Note 항목을 하나씩 대조하세요."
   }
 ]

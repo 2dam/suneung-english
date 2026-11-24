@@ -3,10 +3,11 @@
     "id": "m3b-02-29",
     "level": "m3",
     "set": "mock-02",
+    "rev": 2,
     "no": 29,
     "type": "grammar",
     "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
-    "passage": "Scientists have long wondered why some people are naturally {1|better} at learning languages than others. A recent study suggests that the answer may lie in how the brain {2|processes} sounds. Researchers scanned the brains of fifty adults while they listened to unfamiliar speech. Those who later learned new vocabulary fastest were the ones whose brains showed {3|strongly} activity in the region linked to hearing. The researchers {4|point} out that this does not mean language ability is fixed, because the brain remains flexible throughout life. In fact, learners {5|who} practice regularly can improve their listening skills at any age.",
+    "passage": "Almost every liquid becomes denser as it cools, so its solid form sinks to the bottom. Water is a remarkable exception. As water cools toward four degrees Celsius, it behaves normally, {1|but} below that temperature its molecules begin to arrange themselves into an open, six-sided pattern that takes up more space. When water {2|freezes} completely, it expands by about nine percent, which is why ice floats and why bottles left in a freezer sometimes burst. This property {3|have} profound consequences for life. In a cold winter, a lake freezes from the top down. The layer of ice acts as a blanket, {4|keeping} the water beneath it close to four degrees, so fish and plants survive until spring. If ice sank instead, lakes would freeze from the bottom up, and many of them would turn into solid blocks that never melt completely in summer. Scientists believe that the same unusual behavior helped early life on Earth to survive during the ice ages, and it is one reason why they search for liquid water beyond our planet. Few substances that people take for granted {5|are} as unusual as the water in a glass.",
     "options": [
       "①",
       "②",
@@ -15,26 +16,27 @@
       "⑤"
     ],
     "answer": 2,
-    "translation": "과학자들은 어떤 사람들이 다른 사람들보다 타고나게 언어를 더 잘 배우는 이유를 오랫동안 궁금해해 왔다. 최근 연구는 그 답이 뇌가 소리를 처리하는 방식에 있을지도 모른다고 시사한다. 연구자들은 낯선 말을 듣는 동안 성인 오십 명의 뇌를 촬영했고 나중에 새 어휘를 가장 빨리 배운 사람들은 청각과 관련된 영역에서 강한 활동을 보인 사람들이었다. 연구자들은 이것이 언어 능력이 고정되어 있다는 뜻은 아니라고 지적하는데, 뇌는 평생 유연하기 때문이다. 실제로 규칙적으로 연습하는 학습자는 어느 나이에도 듣기 실력을 향상시킬 수 있다.",
-    "why": "명사 'activity'를 수식하므로 부사 'strongly'가 아니라 형용사 'strong'이어야 합니다.",
+    "translation": "거의 모든 액체는 식으면서 밀도가 높아지므로 그 고체 형태는 바닥으로 가라앉는다. 물은 놀라운 예외이다. 물이 섭씨 4도를 향해 식을 때는 정상적으로 행동하지만 그 온도 아래에서는 분자들이 더 많은 공간을 차지하는 열린 육각형 무늬로 배열되기 시작한다. 물이 완전히 얼면 약 9퍼센트 팽창하는데, 그래서 얼음이 뜨고 냉동실에 둔 병이 때로 터진다. 이 성질은 생명에 중대한 결과를 가져온다. 추운 겨울에 호수는 위에서부터 얼어 내려간다. 얼음층은 담요처럼 작용해 그 아래 물을 4도 가까이로 유지하므로 물고기와 식물은 봄까지 살아남는다. 얼음이 대신 가라앉는다면 호수는 바닥에서부터 얼 것이고 많은 호수가 여름에도 완전히 녹지 않는 단단한 덩어리가 될 것이다. 과학자들은 같은 특이한 행동이 초기 지구의 생명이 빙하기 동안 살아남는 것을 도왔다고 믿고, 그것은 그들이 우리 행성 너머에서 액체 상태의 물을 찾는 이유 중 하나이다. 사람들이 당연하게 여기는 물질 중 컵 안의 물만큼 특이한 것은 거의 없다.",
+    "why": "주어 This property가 단수이므로 동사는 have가 아니라 has여야 합니다.",
     "optionNotes": [
-      "be good at의 비교급 better입니다.",
-      "의문사 how 뒤의 절에서 주어 the brain에 맞는 processes입니다.",
-      "정답(틀린 것). 명사를 수식하므로 형용사 strong이어야 합니다.",
-      "주어 The researchers에 맞는 복수 동사 point입니다.",
-      "선행사 learners를 받는 주격 관계대명사 who입니다."
+      "대조를 나타내는 접속사 but이 맞습니다.",
+      "when절의 현재 시제 freezes가 맞습니다.",
+      "정답(틀린 것). 주어 This property가 단수이므로 has여야 합니다.",
+      "분사구문으로 주절 'The layer of ice acts'를 보충하는 keeping이 맞습니다.",
+      "주어 Few substances가 복수이므로 are가 맞습니다."
     ],
-    "trap": "-ly로 끝나는 단어는 부사이므로 명사 앞에서는 쓸 수 없습니다.",
-    "tip": "수식받는 말이 명사인지 동사인지로 형용사·부사를 구분하세요."
+    "trap": "주어와 동사 사이의 'property'와 뒤의 'consequences'(복수) 때문에 have로 착각하기 쉽습니다.",
+    "tip": "주어를 먼저 찾고 단수/복수를 판단한 뒤 바로 뒤의 명사(consequences)에 끌리지 마세요."
   },
   {
     "id": "m3b-02-30",
     "level": "m3",
     "set": "mock-02",
+    "rev": 2,
     "no": 30,
     "type": "vocab",
     "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
-    "passage": "Plastic recycling is often described as a {1|simple} solution to the waste problem, but the reality is more complicated. Only about nine percent of all plastic ever produced has been recycled, mainly because different types of plastic must be {2|separated} before they can be processed. Even a small amount of food or another material can {3|contaminate} an entire batch, making it unusable. Furthermore, recycled plastic is often more expensive than new plastic, so companies have little {4|incentive} to buy it. For these reasons, many experts argue that recycling alone cannot solve the problem and that we must also {5|increase} the amount of plastic we produce.",
+    "passage": "Fast fashion companies can move a design from the sketchbook to the shop floor in just a few weeks, offering customers a constant stream of new styles at very {1|low} prices. The model has been enormously successful, but it comes with a hidden cost. To keep prices down, factories rely on cheap synthetic fibers and rapid production, and the clothes are often not made to {2|last}. Shoppers wear a garment only a handful of times before throwing it away, and the result is a mountain of textile waste, much of which ends up in landfills where it takes decades to {3|decompose}. Dyeing and finishing the fabric also pollutes rivers in several producing countries. Some consumers have begun to {4|resist} the cycle by buying second-hand clothes, repairing what they own, and choosing fewer, better pieces. Industry analysts argue, however, that real change will come only when companies are made responsible for the whole life of their products. Until then, the true price of a cheap shirt will remain {5|visible}, because the environment, not the buyer, pays for most of it. A shopper who looks only at the number on the label sees just a small part of what the garment really costs.",
     "options": [
       "①",
       "②",
@@ -43,138 +45,143 @@
       "⑤"
     ],
     "answer": 4,
-    "translation": "플라스틱 재활용은 흔히 쓰레기 문제의 간단한 해결책으로 묘사되지만 현실은 더 복잡하다. 지금까지 생산된 모든 플라스틱의 약 9퍼센트만이 재활용되었는데, 주된 이유는 서로 다른 종류의 플라스틱을 처리하기 전에 분리해야 하기 때문이다. 소량의 음식이나 다른 물질도 한 묶음 전체를 오염시켜 쓸 수 없게 만들 수 있다. 게다가 재활용 플라스틱은 새 플라스틱보다 비싼 경우가 많아 회사들은 그것을 살 유인이 거의 없다. 이런 이유로 많은 전문가는 재활용만으로는 문제를 해결할 수 없으며 우리가 생산하는 플라스틱의 양도 줄여야 한다고 주장한다.",
-    "why": "재활용만으로 해결할 수 없다는 흐름이므로 생산하는 플라스틱의 양을 'increase(늘리다)'가 아니라 'reduce(줄이다)'여야 합니다.",
+    "translation": "패스트 패션 회사는 디자인을 스케치북에서 매장까지 단 몇 주 만에 옮길 수 있어서 고객에게 새로운 스타일을 아주 싼 가격으로 끊임없이 제공한다. 이 모델은 엄청나게 성공했지만 숨겨진 비용이 따른다. 가격을 낮추려고 공장은 값싼 합성 섬유와 빠른 생산에 의존하고 옷은 흔히 오래가도록 만들어지지 않는다. 소비자는 옷을 몇 번만 입고 버리고, 그 결과 섬유 쓰레기가 산더미처럼 쌓여 그 대부분이 분해되는 데 수십 년이 걸리는 매립지로 간다. 천을 염색하고 마감하는 일도 여러 생산국의 강을 오염시킨다. 일부 소비자는 중고 옷을 사고 가진 것을 수선하고 더 적고 더 좋은 옷을 고르면서 이 순환에 저항하기 시작했다. 그러나 업계 분석가들은 진짜 변화는 기업이 제품의 전 생애에 책임을 지게 될 때에야 올 것이라고 주장한다. 그때까지 싼 셔츠의 진짜 값은 눈에 띄지 않는 채로 남을 텐데, 대부분을 치르는 쪽이 구매자가 아니라 환경이기 때문이다. 라벨의 숫자만 보는 소비자는 옷이 실제로 드는 비용의 작은 부분만 본다.",
+    "why": "환경이 비용을 치르므로 싼 셔츠의 진짜 값은 구매자의 눈에 '보이지 않는(hidden, invisible)' 채로 남아야 하며, visible은 문맥과 반대입니다.",
     "optionNotes": [
-      "'간단한 해결책'이라는 통념을 나타내는 simple이 알맞습니다.",
-      "종류별로 분리한다는 의미로 separated가 알맞습니다.",
-      "오염시킨다는 의미로 contaminate가 알맞습니다.",
-      "살 유인이 적다는 의미로 incentive가 알맞습니다.",
-      "정답(부적절). 쓰레기를 줄이는 방향이므로 reduce여야 합니다."
+      "싼 가격이라는 문맥에 맞는 low입니다.",
+      "오래가도록 만들어지지 않는다는 뜻의 last입니다.",
+      "매립지에서 분해되는 데 수십 년이 걸린다는 decompose입니다.",
+      "순환에 맞서는 소비자의 행동을 뜻하는 resist입니다.",
+      "정답(부적절). 비용이 환경으로 넘어가므로 visible이 아니라 hidden이어야 합니다."
     ],
-    "trap": "'we must also ~ the amount of plastic'에서 문제의 해결 방향(줄이기)을 확인해야 합니다.",
-    "tip": "전체 글의 결론(재활용만으로는 부족)과 마지막 동사의 방향이 맞는지 확인하세요."
+    "trap": "'true price'와 'visible'을 단순 연결해 진짜 값이 드러난다고 오해하기 쉽습니다.",
+    "tip": "어휘 문제는 낱말 뒤의 이유 절(because ~)이 낱말의 의미를 뒷받침하는지 확인하세요."
   },
   {
     "id": "m3b-02-31",
     "level": "m3",
     "set": "mock-02",
+    "rev": 2,
     "no": 31,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "For centuries, knowledge was preserved mainly in the memories of storytellers and in handwritten scrolls. When a library burned or an elder passed away, centuries of learning could vanish overnight. The invention of printing reduced this risk because multiple copies of a book could exist in many places at once. Today, digital storage has taken the idea even further, since a single file can be copied across the world in seconds. However, digital formats change quickly, and files that cannot be opened with new software may become unreadable within a few decades. Some archives have already lost many important recordings and documents for this very reason. This shows that preserving knowledge depends not only on making many copies but also on __________.",
+    "passage": "Why do large projects so often take longer and cost more than planned? The psychologists Daniel Kahneman and Amos Tversky named this tendency the planning fallacy. In one study, students were asked to predict when they would finish their thesis; their average prediction was thirty-four days, but the actual average was fifty-five. Even when they were asked for a worst-case estimate, many of them still finished late. The reason is that we naturally imagine a project from the inside, focusing on our own plan and intentions, and we rarely include unexpected events such as illness, technical problems, or a change of mind. Rather than trying to be more optimistic or more careful, planners can adopt what Kahneman calls the outside view. This means asking __________, and then using their record as the starting point for our own estimate. A builder who knows that similar bridges have usually run twenty percent over budget will plan more wisely than one who trusts only the current blueprint.",
     "options": [
-      "making sure that every single copy of the files is stored in the same safe place for the whole century",
-      "keeping the means of reading the information accessible as technology changes",
-      "reducing the number of people who can have access to the files so that nobody can damage them",
-      "replacing old formats with newer ones without checking the contents of the files that are stored in them",
-      "teaching students to memorize everything by heart instead of relying on files and on computers at all"
+      "how many extra workers will be needed to finish the whole job earlier",
+      "how long and how costly similar projects have actually been for other people",
+      "which parts of our own plan are most likely to be completed ahead of time",
+      "whether the project is more interesting than the ones that we did before",
+      "what the most optimistic experts expect from the finished project in the end"
     ],
     "answer": 1,
-    "translation": "수 세기 동안 지식은 주로 이야기꾼의 기억과 손으로 쓴 두루마리에 보존되었다. 도서관이 불타거나 어른이 세상을 떠나면 수 세기의 배움이 하룻밤에 사라질 수 있었다. 인쇄술의 발명은 한 책의 여러 사본이 여러 장소에 동시에 있을 수 있어 이 위험을 줄였다. 오늘날 디지털 저장은 한 파일이 몇 초 만에 전 세계로 복사될 수 있어 이 생각을 한층 더 밀고 나갔다. 그러나 디지털 형식은 빠르게 바뀌며 새 소프트웨어로 열 수 없는 파일은 몇십 년 안에 읽을 수 없게 될 수 있다. 이런 이유로 일부 기록 보관소는 이미 중요한 녹음 자료를 잃었다. 이는 지식을 보존하는 것이 많은 사본을 만드는 데만 달린 것이 아니라 기술이 바뀌어도 그 정보를 읽을 수단을 접근 가능하게 유지하는 데에도 달려 있음을 보여 준다.",
-    "why": "디지털 형식이 바뀌면 파일을 열 수 없게 될 수 있다고 했으므로 '기술이 바뀌어도 읽을 수단을 접근 가능하게 유지하는 것'이 알맞습니다.",
+    "translation": "왜 큰 프로젝트는 계획보다 더 오래 걸리고 더 많은 돈이 드는 경우가 그토록 많을까? 심리학자 대니얼 카너먼과 아모스 트버스키는 이 경향을 계획 오류라고 이름 붙였다. 한 연구에서 학생들에게 학위 논문을 언제 끝낼지 예측하게 했는데 평균 예측은 34일이었지만 실제 평균은 55일이었다. 최악의 경우를 추정하라고 했을 때도 상당수가 여전히 늦게 끝냈다. 이유는 우리가 프로젝트를 자연스럽게 안에서 상상하고 자신의 계획과 의도에 초점을 맞추며 질병, 기술 문제, 마음의 변화 같은 예상 밖의 사건은 거의 포함하지 않기 때문이다. 더 낙관적이 되거나 더 신중해지려 애쓰기보다 계획자는 카너먼이 '외부의 관점'이라 부르는 것을 택할 수 있다. 이는 비슷한 프로젝트가 다른 사람들에게 실제로 얼마나 오래 걸리고 비용이 들었는지 묻고 그 기록을 우리 자신의 추정의 출발점으로 쓰는 것을 뜻한다. 비슷한 다리들이 대체로 예산을 20퍼센트 초과했음을 아는 건설업자는 현재의 설계도만 믿는 사람보다 더 현명하게 계획할 것이다.",
+    "why": "외부의 관점은 '비슷한 프로젝트가 실제로 얼마나 걸리고 비용이 들었는지'를 묻고 그 기록을 출발점으로 삼는 것입니다.",
     "optionNotes": [
-      "한곳에 보관하는 것은 사본을 여러 곳에 두는 인쇄의 이점과 반대입니다.",
-      "정답. 읽을 수단을 접근 가능하게 유지해야 합니다.",
-      "접근자를 줄이는 것은 글과 관계가 없습니다.",
-      "내용 확인 없이 형식을 바꾸는 것은 위험을 키웁니다.",
-      "암기를 가르치자는 말은 나오지 않습니다."
+      "일꾼을 늘리는 것은 외부의 관점이 아닙니다.",
+      "정답. 비슷한 프로젝트의 실제 기록을 묻는 것입니다.",
+      "자기 계획 안에서 일찍 끝날 부분을 찾는 것은 '안에서 보는' 방식입니다.",
+      "흥미 비교는 나오지 않습니다.",
+      "낙관적인 전문가의 기대는 글의 해결책과 반대입니다."
     ],
-    "trap": "'not only A but also B'에서 A(copies)와 구별되는 B를 찾아야 합니다.",
-    "tip": "However 뒤의 문제(unreadable files)가 빈칸의 단서입니다."
+    "trap": "③은 '계획'이라는 단어가 있어 그럴듯하지만 안에서 상상하는 방식이라 글이 비판한 접근입니다.",
+    "tip": "'using their record' 같은 빈칸 뒤 단서는 빈칸이 '다른 사람의 기록'임을 알려 줍니다."
   },
   {
     "id": "m3b-02-32",
     "level": "m3",
     "set": "mock-02",
+    "rev": 2,
     "no": 32,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "When an emergency happens in a crowded place, you might expect that someone will immediately step in to help. Surprisingly, psychologists have found that people are less likely to act when more bystanders are present. This is known as the bystander effect. In a famous experiment, participants who believed they were alone with a person in distress helped almost every time, but only a small number acted when they believed that others were nearby. Each person assumes that someone else will take responsibility, so in the end no one does. Similar results have been found in many countries and in many different situations. Understanding this tendency can change our behavior, because once we realize that a crowd is no guarantee of help, we can decide to __________.",
+    "passage": "Humans have unusually large brains for animals of our size, and a brain is an expensive organ: it makes up about two percent of our body weight but consumes about twenty percent of our energy. How could our ancestors afford it? The anthropologist Richard Wrangham proposed that the answer lies in the kitchen. Raw food, especially raw meat and tough roots, takes a great deal of time and energy to chew and digest. Chimpanzees, which eat raw food, spend about six hours a day chewing. Cooking changes the structure of food, softening its fibers and breaking down its proteins, so that more calories are absorbed with less effort. Wrangham argues that once our ancestors began to use fire, their bodies no longer needed such large guts or such strong jaws, and the energy saved could be spent on the growth of the brain. Although the evidence for early fires is still debated, the idea suggests that cooking was more than a matter of taste. It may have been the technology that __________.",
     "options": [
-      "leave the place quickly so that we do not become involved",
-      "wait for an official to tell us what we should do next",
-      "take the first step ourselves instead of waiting for someone else to act",
-      "assume that the person in distress is pretending",
-      "report the situation to the newspaper to find a witness"
+      "made our ancestors afraid of wild animals at night",
+      "taught early humans how to hunt large animals together",
+      "freed up energy that our ancestors could invest in building larger brains",
+      "helped our ancestors to store food through the harsh winters",
+      "increased the strength of our jaws and our teeth"
     ],
     "answer": 2,
-    "translation": "붐비는 곳에서 비상 상황이 생기면 누군가 즉시 나서서 도울 것이라고 기대할 수 있다. 놀랍게도 심리학자들은 구경꾼이 더 많이 있을수록 사람들이 행동할 가능성이 낮아진다는 것을 발견했다. 이는 방관자 효과로 알려져 있다. 한 유명한 실험에서 어려움에 처한 사람과 자신만 있다고 믿은 참가자는 거의 매번 도왔지만 근처에 다른 사람이 있다고 믿었을 때는 소수만 행동했다. 각자 다른 누군가가 책임을 질 것이라고 가정하므로 결국 아무도 책임지지 않는다. 비슷한 결과가 여러 나라와 다양한 상황에서 발견되었다. 이 경향을 이해하면 행동이 바뀔 수 있는데, 군중이 도움을 보장하지 않는다는 것을 깨달으면 다른 누군가가 행동하기를 기다리는 대신 우리 스스로 첫걸음을 내딛기로 결정할 수 있기 때문이다.",
-    "why": "군중이 도움을 보장하지 않으므로 다른 사람을 기다리지 않고 스스로 먼저 행동하기로 결정할 수 있다는 내용이 알맞습니다.",
+    "translation": "인간은 우리 몸집의 동물치고 이례적으로 큰 뇌를 가졌고, 뇌는 비싼 기관이다. 몸무게의 약 2퍼센트를 차지하지만 에너지의 약 20퍼센트를 소비한다. 우리 조상은 어떻게 그것을 감당할 수 있었을까? 인류학자 리처드 랭엄은 그 답이 부엌에 있다고 제안했다. 날것의 음식, 특히 날고기와 질긴 뿌리는 씹고 소화하는 데 많은 시간과 에너지가 든다. 날것을 먹는 침팬지는 하루 약 여섯 시간을 씹는 데 쓴다. 요리는 음식의 구조를 바꾸어 섬유를 부드럽게 하고 단백질을 분해해서 더 적은 노력으로 더 많은 열량이 흡수되게 한다. 랭엄은 조상이 불을 쓰기 시작하자 그들의 몸이 더 이상 그렇게 큰 장이나 튼튼한 턱을 필요로 하지 않았고 절약된 에너지를 뇌의 성장에 쓸 수 있었다고 주장한다. 초기의 불에 대한 증거는 아직 논쟁 중이지만 이 생각은 요리가 취향의 문제 이상이었음을 시사한다. 그것은 우리 조상이 더 큰 뇌를 키우는 데 투자할 수 있는 에너지를 풀어 준 기술이었을지도 모른다.",
+    "why": "요리가 소화에 드는 에너지를 줄여 그 에너지를 뇌 성장에 쓸 수 있게 했다는 주장이므로 ③이 알맞습니다.",
     "optionNotes": [
-      "자리를 피한다는 내용은 글의 취지와 반대입니다.",
-      "관계자를 기다린다는 내용은 방관자 효과의 모습입니다.",
-      "정답. 스스로 먼저 행동하기로 결정합니다.",
-      "연기한다고 가정한다는 내용은 나오지 않습니다.",
-      "신문에 알린다는 내용은 나오지 않습니다."
+      "야생 동물에 대한 두려움은 나오지 않습니다.",
+      "함께 사냥하는 방법은 나오지 않습니다.",
+      "정답. 절약된 에너지를 더 큰 뇌에 투자할 수 있게 했습니다.",
+      "겨울 식량 저장은 나오지 않습니다.",
+      "턱과 이가 약해졌다는 내용과 반대입니다."
     ],
-    "trap": "실험 결과(others nearby → less help)를 행동의 해결책으로 혼동하지 마세요.",
-    "tip": "'once we realize ~'의 깨달음 뒤에 오는 행동이 빈칸입니다."
+    "trap": "⑤는 'jaws'가 글에 나오지만 요리 뒤 턱이 필요 없어졌다는 방향과 반대입니다.",
+    "tip": "빈칸 앞의 'the energy saved could be spent on ~'가 정답의 직접 근거입니다."
   },
   {
     "id": "m3b-02-33",
     "level": "m3",
     "set": "mock-02",
+    "rev": 2,
     "no": 33,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Imagine that you have bought a ticket for a concert, but on the day of the event you feel sick and the weather is terrible. Many people go anyway, because they do not want the money to be wasted. Economists call this the sunk cost fallacy: the tendency to continue an action because of the resources already invested in it, even when continuing is no longer the best choice. The money for the ticket is gone whether you attend or not, so it should not affect your decision. Governments and companies fall into the same trap, continuing failed projects only because they have already spent so much. A rational person would therefore treat past spending as a fact that cannot be changed. In other words, a rational decision should depend on __________.",
+    "passage": "In a long-running field experiment in Minnesota, ecologists planted hundreds of small grassland plots, some with only one species and some with as many as sixteen. In normal years, the diverse plots grew only slightly more than the simple ones. When a severe drought struck, however, the single-species plots lost most of their plants, while the diverse plots lost far less and recovered faster. The explanation is that different species respond differently to stress: when one type of grass withers in the heat, another with deeper roots keeps growing and fills the gap. Economists would recognize the logic, since an investor who holds many kinds of stocks is better protected against a crash than one who holds a single kind. Biodiversity can therefore be seen as a form of insurance. Its value is easy to overlook in good times, but it becomes obvious when __________. This is why conservationists argue that protecting rare species is not a luxury but a practical way of keeping our own food supply safe.",
     "options": [
-      "how much money we have already invested in the project",
-      "whether other people have made the same decision before us",
-      "how long we have waited to make a final decision",
-      "how much we regret the choices that we made in the past",
-      "what we can gain or lose from now on, rather than what we have already spent"
+      "a single species becomes dominant in the whole ecosystem",
+      "farmers choose to plant the same crop in every field",
+      "investors decide to sell their stocks at a lower price",
+      "the weather stays warm and rainy for many years in a row",
+      "conditions suddenly change and an ecosystem needs more than one way to keep working"
     ],
     "answer": 4,
-    "translation": "콘서트 표를 샀는데 당일에 몸이 아프고 날씨도 끔찍하다고 상상해 보라. 많은 사람은 돈이 낭비되는 것을 원치 않아서 그래도 간다. 경제학자들은 이를 매몰 비용 오류라고 부른다. 계속하는 것이 더 이상 최선의 선택이 아닐 때에도 이미 투자한 자원 때문에 행동을 이어 가려는 경향이다. 표 값은 가든 안 가든 사라졌으므로 결정에 영향을 주어서는 안 된다. 정부와 기업도 같은 함정에 빠져 이미 너무 많이 썼다는 이유만으로 실패한 사업을 계속한다. 따라서 합리적인 사람은 과거의 지출을 바꿀 수 없는 사실로 취급할 것이다. 다시 말해 합리적인 결정은 우리가 이미 쓴 것이 아니라 지금부터 얻거나 잃을 수 있는 것에 달려 있어야 한다.",
-    "why": "이미 쓴 비용은 결정에 영향을 주어서는 안 된다고 했으므로 '지금부터 얻거나 잃을 것'이 알맞습니다.",
+    "translation": "미네소타의 장기 현장 실험에서 생태학자들은 한 종만 있는 곳부터 열여섯 종이나 있는 곳까지 수백 개의 작은 초원 구획을 심었다. 평소 해에는 다양한 구획이 단순한 구획보다 조금 더 자랐을 뿐이다. 그러나 심한 가뭄이 닥치자 한 종만 있는 구획은 식물 대부분을 잃었고 다양한 구획은 훨씬 적게 잃고 더 빨리 회복했다. 설명은 종마다 스트레스에 다르게 반응한다는 것이다. 한 종류의 풀이 더위에 시들 때 더 깊은 뿌리를 가진 다른 풀은 계속 자라 빈자리를 채운다. 경제학자들은 그 논리를 알아볼 것이다. 여러 종류의 주식을 가진 투자자가 한 종류만 가진 투자자보다 폭락에 더 잘 대비되기 때문이다. 따라서 생물 다양성은 일종의 보험으로 볼 수 있다. 그 가치는 좋은 시절에는 간과하기 쉽지만 조건이 갑자기 바뀌어 생태계가 계속 작동하는 데 한 가지 이상의 방법이 필요할 때 분명해진다. 그래서 보전론자들은 희귀종을 보호하는 것이 사치가 아니라 우리 자신의 식량 공급을 지키는 실용적인 방법이라고 주장한다.",
+    "why": "생물 다양성은 보험과 같아서 가뭄처럼 조건이 갑자기 바뀌어 생태계가 한 가지 이상의 방법을 필요로 할 때 가치가 분명해집니다.",
     "optionNotes": [
-      "이미 투자한 금액이 결정에 영향을 준다는 것은 오류 그 자체입니다.",
-      "다른 사람의 결정은 나오지 않습니다.",
-      "기다린 시간은 나오지 않습니다.",
-      "과거 선택에 대한 후회는 나오지 않습니다.",
-      "정답. 지금부터 얻거나 잃을 것에 근거해야 합니다."
+      "한 종이 우세해지는 것은 다양성의 반대입니다.",
+      "같은 작물만 심는 것은 보험 논리와 반대입니다.",
+      "주식을 싸게 파는 것은 비유의 일부일 뿐 빈칸의 내용이 아닙니다.",
+      "좋은 날씨가 계속되면 보험의 가치가 드러나지 않습니다.",
+      "정답. 조건이 갑자기 바뀌어 여러 방법이 필요할 때 가치가 드러납니다."
     ],
-    "trap": "'sunk cost'가 나오는 보기(①)를 고르지 마세요. 오류의 원인입니다.",
-    "tip": "'it should not affect your decision'이 빈칸의 반대 개념을 알려 줍니다."
+    "trap": "'in good times'와 대비되는 'when ~'이므로 안정적인 날씨(④)를 고르면 정반대입니다.",
+    "tip": "'easy to overlook in good times, but obvious when ~'에서 빈칸은 좋은 시절의 반대 상황입니다."
   },
   {
     "id": "m3b-02-34",
     "level": "m3",
     "set": "mock-02",
+    "rev": 2,
     "no": 34,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Cities that lack open land are increasingly turning their attention to rooftops. Millions of square meters on top of apartments and office buildings remain unused, exposed to the sun and the rain. Covering these surfaces with plants creates what is known as a green roof. The layer of soil and vegetation absorbs rainwater, which reduces the risk of flooding in heavy storms. It also keeps buildings cooler in summer and warmer in winter, so owners can save on energy costs. In addition, insects and birds often make homes in these small gardens, which increases the biodiversity of the city. Some cities now even require new buildings to include a green roof. Rooftops, which were once nothing more than wasted space, can therefore become __________.",
+    "passage": "When James Watt improved the steam engine in the 1770s, it used far less coal to produce the same amount of power. Many people expected that the country's coal consumption would fall. In 1865, however, the economist William Stanley Jevons observed the opposite: coal use was rising rapidly. Because the new engines were cheaper to run, they were adopted in more factories, ships, and railways, and the total amount of coal that was burned increased. This pattern, now called the Jevons paradox, is not limited to history. When cars became more fuel-efficient, many drivers began to travel longer distances; when light bulbs became cheaper to operate, people lit more rooms for more hours. The lesson is not that efficiency is useless. It is that improvements in efficiency, taken alone, may not reduce the use of a resource, because __________. For this reason, many economists suggest combining efficient technology with measures such as taxes or limits that keep the total demand in check.",
     "options": [
-      "productive environments that cool buildings, absorb rainwater, and provide homes for wildlife",
-      "dangerous places that residents should avoid during heavy rain",
-      "expensive spaces that only wealthy owners can afford to maintain",
-      "noisy areas where birds and insects disturb people in the buildings",
-      "empty surfaces that need nothing more than a layer of paint"
+      "lower costs per unit can encourage people to find many new ways of using even more of it",
+      "engineers lose interest in improving old machines",
+      "customers prefer machines that are older and simpler",
+      "governments usually refuse to approve new technologies",
+      "the resource becomes more difficult to find over time"
     ],
     "answer": 0,
-    "translation": "열린 땅이 부족한 도시들은 점점 옥상에 눈을 돌리고 있다. 아파트와 사무실 건물 위의 수백만 제곱미터는 햇빛과 비에 노출된 채 쓰이지 않고 있다. 이런 표면을 식물로 덮으면 녹색 지붕이라고 알려진 것이 만들어진다. 흙과 식물의 층은 빗물을 흡수하여 폭우 때 홍수 위험을 줄인다. 또한 건물을 여름에는 더 시원하게, 겨울에는 더 따뜻하게 유지해 주인이 에너지 비용을 절약할 수 있다. 게다가 곤충과 새가 이 작은 정원에 둥지를 트는 경우가 많아 도시의 생물 다양성이 높아진다. 일부 도시는 이제 새 건물에 녹색 지붕을 포함하도록 요구하기까지 한다. 한때 낭비된 공간에 불과했던 옥상은 따라서 건물을 식히고 빗물을 흡수하며 야생 동물에게 집을 제공하는 생산적인 환경이 될 수 있다.",
-    "why": "빗물 흡수, 냉난방 효과, 생물 다양성이라는 이점을 요약하므로 '건물을 식히고 빗물을 흡수하며 야생 동물의 집을 제공하는 생산적인 환경'이 알맞습니다.",
+    "translation": "제임스 와트가 1770년대에 증기 기관을 개량했을 때 같은 양의 동력을 내는 데 석탄이 훨씬 적게 들었다. 많은 사람이 나라의 석탄 소비가 줄 것이라고 예상했다. 그러나 1865년 경제학자 윌리엄 스탠리 제번스는 반대를 관찰했다. 석탄 사용이 급격히 늘고 있었다. 새 기관은 운전 비용이 더 쌌기 때문에 더 많은 공장, 배, 철도에 채택되었고 태워지는 석탄의 총량은 늘었다. 지금 제번스 역설이라 불리는 이 양상은 역사에만 국한되지 않는다. 자동차의 연료 효율이 높아지자 많은 운전자가 더 먼 거리를 다니기 시작했고, 전구의 운영 비용이 싸지자 사람들은 더 많은 방을 더 오래 밝혔다. 교훈은 효율이 쓸모없다는 것이 아니다. 효율의 개선만으로는 자원의 사용을 줄이지 못할 수 있으며, 단위당 비용이 낮아지면 사람들이 그것을 훨씬 더 많이 쓸 새로운 방법을 찾도록 부추길 수 있다는 것이다. 이런 이유로 많은 경제학자는 효율적인 기술을 총수요를 억제하는 세금이나 한도 같은 조치와 함께 쓰자고 제안한다.",
+    "why": "효율이 높아져 비용이 낮아지면 사용량이 오히려 늘 수 있다는 제번스 역설을 설명하는 빈칸이므로 ①입니다.",
     "optionNotes": [
-      "정답. 앞의 세 가지 이점을 요약합니다.",
-      "위험한 장소라는 내용은 글과 반대입니다.",
-      "비싸다는 내용은 나오지 않습니다.",
-      "소음 문제는 나오지 않습니다.",
-      "아무것도 필요 없는 빈 표면이라는 내용은 글과 반대입니다."
+      "정답. 낮아진 비용이 더 많은 사용을 부추깁니다.",
+      "기술자의 관심 감소는 나오지 않습니다.",
+      "고객의 취향은 나오지 않습니다.",
+      "정부의 승인 거부는 나오지 않습니다.",
+      "자원 고갈은 이 역설의 이유가 아닙니다."
     ],
-    "trap": "'wasted space'와 대비되는 개념을 찾아야 합니다.",
-    "tip": "앞 문장들의 이점(absorbs, cooler, biodiversity)을 한 문장으로 묶은 것이 빈칸입니다."
+    "trap": "⑤는 자원이 줄어든다는 상식에 끌리기 쉽지만 글은 '수요 증가'를 설명합니다.",
+    "tip": "예시(more drivers travel longer, lit more rooms)가 빈칸의 일반화된 이유입니다."
   },
   {
     "id": "m3b-02-35",
     "level": "m3",
     "set": "mock-02",
+    "rev": 2,
     "no": 35,
     "type": "irrelevant",
     "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
-    "passage": "Learning a musical instrument as a child has benefits that extend far beyond music itself. ① Practicing regularly teaches children discipline, since progress depends on steady effort rather than sudden talent. ② Reading music and coordinating both hands at the same time strengthen memory and concentration. ③ Playing in a group also develops teamwork, because each player must listen carefully to the others. ④ Studies have even found that children who study music perform better on some tests of language and mathematics. ⑤ The first piano with a modern keyboard was built in Italy at the beginning of the eighteenth century.",
+    "passage": "Ondol, the traditional Korean system of heating a home through the floor, is one of the most efficient heating methods ever developed. ① A fire in the kitchen stove sends hot air and smoke through channels built beneath a floor of flat stones, and the heat is gradually released into the room above. ② Because stone absorbs heat slowly and gives it off for hours, a single evening fire can keep a room warm until the following morning. ③ Since the warmth rises from the floor, people feel comfortable sitting and sleeping close to the ground, and this has shaped the Korean habit of using low tables and thin sleeping mats. ④ Modern apartments have replaced the stones and the fire with pipes of hot water, but the principle of heating from below is the same. ⑤ Kimchi was traditionally stored in large clay jars buried in the ground, where the temperature stayed cool and steady throughout the winter, so that it could be eaten for many months.",
     "options": [
       "①",
       "②",
@@ -183,26 +190,27 @@
       "⑤"
     ],
     "answer": 4,
-    "translation": "어린 시절 악기를 배우는 것은 음악 자체를 훨씬 넘어서는 이점이 있다. ① 정기적으로 연습하면 진전이 갑작스러운 재능이 아니라 꾸준한 노력에 달려 있으므로 아이들은 규율을 배운다. ② 악보를 읽고 양손을 동시에 조율하는 것은 기억력과 집중력을 강화한다. ③ 합주는 각 연주자가 다른 사람의 소리를 주의 깊게 들어야 하므로 협동심도 기른다. ④ 연구는 음악을 배우는 아이들이 언어와 수학의 일부 시험에서 더 좋은 성적을 낸다는 것까지 발견했다. ⑤ 현대적 건반을 가진 첫 피아노는 18세기 초 이탈리아에서 만들어졌다.",
-    "why": "글은 악기 학습의 이점을 말하는데 ⑤는 피아노의 역사적 사실이라 흐름과 관계가 없습니다.",
+    "translation": "집을 바닥으로 난방하는 한국의 전통 방식인 온돌은 지금까지 개발된 가장 효율적인 난방 방법 중 하나이다. ① 부엌 아궁이의 불은 납작한 돌 바닥 아래에 만든 통로로 뜨거운 공기와 연기를 보내고 열은 위의 방으로 서서히 방출된다. ② 돌은 열을 천천히 흡수하고 몇 시간 동안 내놓기 때문에 저녁에 지핀 불 하나가 이튿날 아침까지 방을 따뜻하게 유지할 수 있다. ③ 온기가 바닥에서 올라오므로 사람들은 땅에 가깝게 앉고 자는 것이 편안하며, 이것이 낮은 상과 얇은 요를 쓰는 한국인의 습관을 형성했다. ④ 현대 아파트는 돌과 불을 뜨거운 물의 관으로 바꾸었지만 아래에서 난방한다는 원리는 같다. ⑤ 김치는 전통적으로 땅에 묻은 큰 항아리에 저장되었는데, 그곳의 온도는 겨울 내내 서늘하고 일정해서 여러 달 동안 먹을 수 있었다.",
+    "why": "글은 온돌 난방의 원리를 설명하는데 ⑤는 김치 저장으로 난방과 관계가 없습니다.",
     "optionNotes": [
-      "규율이라는 이점입니다.",
-      "기억력과 집중력이라는 이점입니다.",
-      "협동심이라는 이점입니다.",
-      "학업 성취라는 이점입니다.",
-      "정답(무관). 피아노의 역사적 사실입니다."
+      "아궁이의 열이 돌 바닥을 통해 방출되는 원리입니다.",
+      "돌이 열을 오래 간직하는 성질입니다.",
+      "바닥 난방이 생활 습관에 미친 영향입니다.",
+      "현대 아파트의 같은 원리입니다.",
+      "정답. 김치 저장은 난방과 무관합니다."
     ],
-    "trap": "'piano'가 악기 이야기와 연결되어 자연스러워 보일 수 있습니다.",
-    "tip": "주제(악기 학습의 이점)와 이어지지 않는 문장을 고르세요."
+    "trap": "'ground'와 'winter'라는 낱말이 겹쳐 ⑤도 같은 주제처럼 보이지만 난방이 아닙니다.",
+    "tip": "첫 문장에서 주제(온돌 난방)를 잡고, 낱말이 겹쳐도 주제에서 벗어난 문장을 찾으세요."
   },
   {
     "id": "m3b-02-36",
     "level": "m3",
     "set": "mock-02",
+    "rev": 2,
     "no": 36,
     "type": "order",
     "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
-    "passage": "In the nineteenth century, many European cities struggled with a serious problem: crowded neighborhoods had no reliable source of clean drinking water. Many residents regularly fell ill, and thousands died in each outbreak.\n(A) This discovery convinced many scientists that water could carry disease, and it eventually led cities to build modern sewage and water-treatment systems.\n(B) His map showed that the cases clustered around a single public water pump, and when the authorities removed its handle, the number of new infections dropped sharply.\n(C) In 1854, a doctor in London named John Snow began to map the locations of cholera cases. He suspected that the disease was spreading through contaminated water rather than through the air, as most people believed at the time.",
+    "passage": "By the middle of the nineteenth century, chemists had discovered about sixty elements, but they had no clear way to organize them.\n(A) The real test came in 1875, when a French chemist discovered a new metal that he named gallium. Its properties matched Mendeleev's prediction almost perfectly, apart from a small difference in density that was soon corrected. Over the following decades, scandium and germanium were also found, and they too fit the empty places in the table. Chemists who had doubted the table now began to treat it as a map of nature.\n(B) The most remarkable feature of the arrangement was its gaps. Where no known element fit a pattern, Mendeleev left a space instead of forcing a card into place, and he boldly predicted that undiscovered elements would one day fill those spaces. He even described the properties of three of them in detail, such as their weight, their color, and the compounds that they would form.\n(C) In 1869, the Russian chemist Dmitri Mendeleev wrote the name and atomic weight of each element on a card and spent days arranging the cards. When he placed them in order of weight, he noticed that elements with similar properties appeared at regular intervals, so he arranged them in rows and columns that reflected this repeating pattern.",
     "options": [
       "(A)-(C)-(B)",
       "(B)-(A)-(C)",
@@ -211,26 +219,27 @@
       "(C)-(B)-(A)"
     ],
     "answer": 4,
-    "translation": "19세기에 많은 유럽 도시는 심각한 문제로 고심했다. 붐비는 동네에 믿을 만한 깨끗한 식수원이 없었다. (C) 1854년 런던의 의사 존 스노는 콜레라 환자의 위치를 지도에 표시하기 시작했다. 그는 당시 대부분의 사람이 믿었던 것처럼 공기가 아니라 오염된 물을 통해 병이 퍼진다고 의심했다. (B) 그의 지도는 환자들이 한 공용 급수 펌프 주위에 몰려 있음을 보여 주었고, 당국이 펌프의 손잡이를 제거하자 새 감염자 수가 급격히 줄었다. (A) 이 발견은 많은 과학자에게 물이 질병을 옮길 수 있다고 확신하게 했고 결국 도시들이 현대적인 하수 및 정수 시스템을 짓도록 이끌었다.",
-    "why": "(C) 스노가 환자 위치를 지도에 표시 → (B) 'His map' 결과 → (A) 'This discovery' 영향 순서입니다.",
+    "translation": "19세기 중반까지 화학자들은 약 예순 개의 원소를 발견했지만 그것들을 정리할 분명한 방법이 없었다. (C) 1869년 러시아 화학자 드미트리 멘델레예프는 각 원소의 이름과 원자량을 카드에 적어 며칠 동안 카드를 배열했다. 그것들을 무게 순으로 놓자 비슷한 성질의 원소들이 규칙적인 간격으로 나타나는 것을 알아챘고, 그래서 이 반복되는 무늬를 반영하는 행과 열로 배열했다. (B) 이 배열의 가장 놀라운 특징은 빈칸이었다. 어떤 무늬에도 맞는 알려진 원소가 없는 곳에서 멘델레예프는 카드를 억지로 끼워 넣는 대신 빈칸을 남겼고, 발견되지 않은 원소가 언젠가 그 빈칸을 채울 것이라고 대담하게 예측했다. 그는 그중 세 가지에 대해 무게, 색깔, 만들 화합물 같은 성질을 자세히 기술하기까지 했다. (A) 진짜 시험은 1875년에 왔는데, 한 프랑스 화학자가 갈륨이라 이름 붙인 새 금속을 발견했다. 그 성질은 곧 바로잡힌 밀도의 작은 차이를 빼고는 멘델레예프의 예측과 거의 완벽하게 일치했다. 이후 수십 년 동안 스칸듐과 저마늄도 발견되었고 그것들 역시 표의 빈자리에 맞았다. 표를 의심하던 화학자들은 이제 그것을 자연의 지도로 여기기 시작했다.",
+    "why": "(C) 멘델레예프의 원소 배열 → (B) 빈칸과 예측 → (A) 예측의 검증(갈륨 발견) 순서입니다.",
     "optionNotes": [
-      "(A)의 'This discovery'가 가리킬 발견이 앞에 없습니다.",
-      "(B)의 'His map'이 가리킬 대상이 앞에 없습니다.",
-      "(B)가 (C)보다 앞서면 'His map'이 가리킬 대상이 없습니다.",
-      "(A)가 (B)보다 앞서면 발견 전에 영향이 나옵니다.",
-      "정답. 지도 작성 → 결과 → 영향."
+      "(A)의 검증이 (C)의 배열보다 먼저 올 수 없습니다.",
+      "(B)의 'the arrangement'는 (C)에서 소개된 뒤여야 합니다.",
+      "(A)의 검증은 (B)의 예측 뒤에 와야 합니다.",
+      "(A)의 'prediction'은 (B)에서 소개된 뒤여야 합니다.",
+      "정답. 배열 → 빈칸과 예측 → 검증 순서입니다."
     ],
-    "trap": "(B)의 'His map'은 (C)에서 스노가 만들기 시작한 지도입니다.",
-    "tip": "소유격(His)과 지시어(This discovery)가 가리키는 앞 내용을 확인하세요."
+    "trap": "(A)의 'Mendeleev's prediction'이 (B)에서 처음 나온다는 점을 놓치면 순서가 뒤집힙니다.",
+    "tip": "지시어(the arrangement, prediction)가 가리키는 내용이 먼저 나온 단락을 찾으세요."
   },
   {
     "id": "m3b-02-37",
     "level": "m3",
     "set": "mock-02",
+    "rev": 2,
     "no": 37,
     "type": "order",
     "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
-    "passage": "Many companies now use algorithms to screen job applications. They hope to make the process faster and fairer than decisions made by tired and sometimes biased human managers.\n(A) For example, one large company discovered that its tool consistently ranked male candidates higher. Most of the people it had hired in the past were men. The program had quietly learned to prefer them.\n(B) As a result, experts recommend that firms audit their systems regularly and keep humans involved in the final decision. This way, machines support rather than replace human judgment. Fairness, after all, requires constant attention from people.\n(C) However, algorithms learn from past data. If that data reflects old prejudices, the system may quietly repeat them while appearing perfectly objective.",
+    "passage": "On a foggy night in the 1930s, a road mender named Percy Shaw was driving home along a dark and winding road in northern England.\n(A) Shaw began to wonder whether he could copy the effect with glass. In 1934, he patented a device in which two glass beads were set into a rubber pad, and the pad was fixed into the road so that car wheels would wipe the glass clean each time they pressed it. He named his invention the \"cat's eye.\"\n(B) At first, the road authorities showed little interest. During the Second World War, however, when street lights were switched off to hide cities from enemy bombers, the demand for his reflectors grew quickly, and they have since been installed on roads in many countries.\n(C) Because the road had no street lamps, he had to rely on the faint reflection of the tram rails to find his way. Suddenly, his headlights caught the glowing eyes of a cat sitting by the roadside. The reflection was so bright that he stopped, and he realized that it had saved him from driving over a steep edge.",
     "options": [
       "(A)-(C)-(B)",
       "(B)-(A)-(C)",
@@ -239,26 +248,27 @@
       "(C)-(B)-(A)"
     ],
     "answer": 3,
-    "translation": "많은 회사는 이제 피곤하고 때로는 편향된 관리자의 결정보다 더 빠르고 공정한 과정을 기대하며 알고리즘으로 입사 지원서를 선별한다. (C) 그러나 알고리즘은 과거 데이터에서 배우며, 그 데이터가 오래된 편견을 반영하면 시스템은 완벽히 객관적으로 보이면서 조용히 그것을 되풀이할 수 있다. (A) 예를 들어 한 대기업은 과거에 채용한 사람 대부분이 남성이었기 때문에 자사의 도구가 일관되게 남성 지원자의 순위를 더 높게 매긴다는 것을 발견했다. (B) 그 결과 전문가들은 기업이 시스템을 정기적으로 점검하고 기계가 인간의 판단을 대체하지 않고 지원하도록 최종 결정에는 사람을 참여시키라고 권고한다.",
-    "why": "(C) However 문제 제기 → (A) For example 사례 → (B) As a result 권고 순서입니다.",
+    "translation": "1930년대 어느 안개 낀 밤, 도로 보수공 퍼시 쇼는 영국 북부의 어둡고 구불구불한 길을 따라 집으로 운전하고 있었다. (C) 길에 가로등이 없어서 그는 전차 선로의 희미한 반사에 의지해 길을 찾아야 했다. 갑자기 그의 전조등이 길가에 앉은 고양이의 빛나는 눈에 비쳤다. 반사가 너무 밝아서 그는 차를 세웠고, 그것이 자신을 가파른 벼랑으로 떨어지는 것에서 구해 주었음을 깨달았다. (A) 쇼는 같은 효과를 유리로 흉내 낼 수 있을지 궁금해지기 시작했다. 1934년 그는 고무 받침에 유리 구슬 두 개를 박고 그 받침을 도로에 고정해 자동차 바퀴가 누를 때마다 유리를 닦도록 한 장치로 특허를 받았다. 그는 자신의 발명품을 '고양이 눈'이라 이름 붙였다. (B) 처음에 도로 당국은 거의 관심을 보이지 않았다. 그러나 제2차 세계 대전 중 도시를 적 폭격기에게서 숨기려고 가로등을 껐을 때 그의 반사경에 대한 수요가 빠르게 늘었고 그것들은 이후 여러 나라의 도로에 설치되었다.",
+    "why": "(C) 고양이 눈의 반사가 그를 구함 → (A) 유리로 흉내 낸 발명 → (B) 전쟁 중 수요 증가 순서입니다.",
     "optionNotes": [
-      "(A)의 'For example'이 앞의 주장 없이 올 수 없습니다.",
-      "(B)의 'As a result'가 가리킬 결과가 앞에 없습니다.",
-      "(B)가 앞서면 결과가 근거보다 먼저 나옵니다.",
-      "정답. 문제 제기 → 사례 → 권고.",
-      "(B)가 (A)보다 앞서면 사례 전에 권고가 나옵니다."
+      "(A)의 'the effect'는 (C)의 반사 경험 뒤에 와야 합니다.",
+      "(B)는 발명 이후의 일이라 (A) 앞에 올 수 없습니다.",
+      "(B)는 (C)보다 뒤의 일입니다.",
+      "정답. 경험 → 발명 → 보급 순서입니다.",
+      "(B)가 (A) 앞에 오면 'his reflectors'가 아직 소개되지 않았습니다."
     ],
-    "trap": "(A)의 'For example'은 (C)의 주장을 뒷받침하는 사례입니다.",
-    "tip": "However → For example → As a result의 논리 흐름을 따라가세요."
+    "trap": "(A)의 'the effect'가 무엇인지 (C)에서 처음 설명된다는 점을 놓치기 쉽습니다.",
+    "tip": "'the effect', 'his reflectors' 같은 정관사 표현이 이전에 소개되었는지 확인하세요."
   },
   {
     "id": "m3b-02-38",
     "level": "m3",
     "set": "mock-02",
+    "rev": 2,
     "no": 38,
     "type": "insert",
     "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
-    "passage": "[주어진 문장]\nThat is why many airlines now advise passengers to arrive at least two hours before international flights.\n\n[글]\n( ① ) Security screening at airports has become much more thorough over the past two decades. ( ② ) Every passenger must pass through a metal detector, and carry-on bags are scanned one by one. ( ③ ) During busy seasons, these checks alone can take more than an hour. ( ④ ) Those who ignore this advice often end up running through the terminal with their luggage. ( ⑤ )",
+    "passage": "[주어진 문장]\nCareful observation, however, showed that unrelated bats also shared food, and that they were most generous to those that had fed them in the past.\n\n[글]\n( ① ) Vampire bats must drink blood every two or three nights, and a bat that fails to feed for about sixty hours may starve to death. ( ② ) Because hunting is unreliable, a hungry bat will often beg a roost-mate for food, and a well-fed bat may share some of the blood it has swallowed by pushing it into the beggar's mouth. ( ③ ) Biologists once assumed that such sharing occurred only between mothers and their young, since helping one's own offspring is easy to explain. ( ④ ) Whether to help a stranger is a harder question, because the helper pays a real cost and gains nothing immediately. ( ⑤ ) This pattern suggests that the bats keep track of favors, a surprisingly sophisticated form of cooperation that depends on memory and trust rather than on family ties.",
     "options": [
       "①",
       "②",
@@ -267,26 +277,27 @@
       "⑤"
     ],
     "answer": 3,
-    "translation": "[주어진 문장] 그래서 많은 항공사는 이제 승객들에게 국제선 출발 적어도 두 시간 전에 도착하라고 권고한다. [글] 공항의 보안 검색은 지난 이십 년 동안 훨씬 철저해졌다. 모든 승객은 금속 탐지기를 통과해야 하고 기내 휴대 가방은 하나씩 검색된다. 바쁜 철에는 이런 검사만으로 한 시간이 넘게 걸릴 수 있다. 그래서 많은 항공사는 이제 승객들에게 국제선 출발 적어도 두 시간 전에 도착하라고 권고한다. 이 조언을 무시하는 사람들은 흔히 짐을 든 채 터미널을 뛰어다니게 된다.",
-    "why": "'That is why'는 앞의 이유(검색에 한 시간 넘게 걸림)를 받고, 뒤의 'this advice'가 이 권고를 가리키므로 ④에 들어갑니다.",
+    "translation": "[주어진 문장] 그러나 세심한 관찰은 혈연이 아닌 박쥐들도 먹이를 나누며 과거에 자신을 먹여 준 박쥐에게 가장 너그럽다는 것을 보여 주었다. [글] 흡혈박쥐는 이틀이나 사흘에 한 번 피를 마셔야 하며 약 60시간 동안 먹지 못한 박쥐는 굶어 죽을 수 있다. 사냥이 불확실하기 때문에 굶주린 박쥐는 흔히 같은 보금자리의 동료에게 먹이를 구걸하고, 잘 먹은 박쥐는 삼킨 피의 일부를 구걸하는 박쥐의 입에 밀어 넣어 나누기도 한다. 생물학자들은 새끼를 돕는 것은 설명하기 쉬우므로 그런 나눔이 어미와 새끼 사이에서만 일어난다고 한때 가정했다. 낯선 개체를 도울지는 더 어려운 문제인데, 도와주는 쪽이 실제 비용을 치르고 당장은 아무것도 얻지 못하기 때문이다. 이 양상은 박쥐들이 호의를 기억하고 있음을 시사하는데, 이는 혈연이 아니라 기억과 신뢰에 의존하는 놀랍도록 정교한 협력의 형태이다.",
+    "why": "혈연 사이에서만 나눈다는 가정 뒤에 'however'로 반대 관찰 결과를 제시하고, 'This pattern'이 그 결과를 받으므로 ④에 들어갑니다.",
     "optionNotes": [
-      "이유가 나오기 전입니다.",
-      "이유가 일부만 나왔습니다.",
-      "이유 문장 바로 뒤에 놓일 수 있지만 뒤의 'this advice'가 가리킬 권고가 아직 없습니다.",
-      "정답. 이유 직후이며 뒤의 'this advice'가 이 권고를 가리킵니다.",
-      "'this advice'가 가리킬 권고가 앞에 없어 어색합니다."
+      "앞에 반박할 가정이 없어 'however'가 어색합니다.",
+      "나눔을 소개하는 중이라 아직 반박할 가정이 없습니다.",
+      "가정을 설명하는 문장 사이에 끼면 흐름이 끊깁니다.",
+      "정답. 가정 뒤에 반전이 오고 'This pattern'으로 이어집니다.",
+      "'This pattern'이 가리킬 관찰 결과가 먼저 필요합니다."
     ],
-    "trap": "③ 뒤와 ④ 앞은 같은 위치입니다. 번호는 문장 사이의 공백을 기준으로 확인하세요.",
-    "tip": "'this + 명사'가 뒤에 있으면 그 명사를 처음 소개한 문장이 앞에 와야 합니다."
+    "trap": "③ 뒤의 문장과 ④ 사이에서 헷갈리지만 'Whether to help a stranger ...'는 낯선 개체를 돕는 문제를 제기하므로 주어진 문장 뒤에 와야 합니다.",
+    "tip": "however는 앞 문장과 대조되어야 하고, This pattern은 앞 문장의 관찰 결과를 가리킵니다."
   },
   {
     "id": "m3b-02-39",
     "level": "m3",
     "set": "mock-02",
+    "rev": 2,
     "no": 39,
     "type": "insert",
     "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
-    "passage": "[주어진 문장]\nIn short, a good translation recreates the meaning and the feeling of a poem, not just its words.\n\n[글]\n( ① ) Translating a poem is far more difficult than translating a manual or a news article. ( ② ) A poem depends on rhythm, sound, and cultural references that rarely have exact equivalents in another language. ( ③ ) Translators therefore have to decide whether to preserve the literal meaning or the musical quality of the original. ( ④ ) Often, they sacrifice some words so that the overall feeling of the poem can survive. ( ⑤ )",
+    "passage": "[주어진 문장]\nNotice that this calculation is possible only for materials that were once alive, such as wood, bone, and cloth.\n\n[글]\n( ① ) Carbon-14 dating is one of the most widely used tools for finding the age of ancient objects. ( ② ) Living things constantly take in carbon from the air or from their food, and a tiny fraction of this carbon is radioactive carbon-14. ( ③ ) After an organism dies, it stops absorbing carbon, and the carbon-14 inside it slowly decays at a steady rate. ( ④ ) Because the amount of carbon-14 falls by half about every 5,730 years, scientists can measure how much remains in a sample and calculate how long ago the organism died. ( ⑤ ) Stone tools and pottery contain no such carbon, so they cannot be dated directly; instead, researchers date charcoal or bones found beside them. For samples older than about fifty thousand years, too little carbon-14 remains to be measured, and other methods, such as those based on uranium, are used instead.",
     "options": [
       "①",
       "②",
@@ -295,44 +306,45 @@
       "⑤"
     ],
     "answer": 4,
-    "translation": "[주어진 문장] 요컨대 좋은 번역은 시의 단어뿐 아니라 의미와 느낌을 다시 만들어 낸다. [글] 시를 번역하는 것은 설명서나 뉴스 기사를 번역하는 것보다 훨씬 어렵다. 시는 다른 언어에서 정확한 대응어가 거의 없는 리듬, 소리, 문화적 언급에 의존한다. 그래서 번역가는 원문의 문자적 의미를 보존할지 음악적 성질을 보존할지 결정해야 한다. 흔히 그들은 시의 전체적인 느낌이 살아남도록 일부 단어를 희생한다. 요컨대 좋은 번역은 시의 단어뿐 아니라 의미와 느낌을 다시 만들어 낸다.",
-    "why": "'In short'는 앞 내용을 요약하는 결론이므로 글의 끝인 ⑤에 들어갑니다.",
+    "translation": "[주어진 문장] 이 계산은 나무, 뼈, 천처럼 한때 살아 있던 물질에만 가능하다는 점에 주목하라. [글] 탄소-14 연대 측정은 고대 물건의 나이를 알아내는 데 가장 널리 쓰이는 도구 중 하나이다. 살아 있는 것은 공기나 먹이에서 끊임없이 탄소를 받아들이고 이 탄소의 아주 작은 부분이 방사성 탄소-14이다. 생물이 죽으면 탄소 흡수가 멈추고 그 안의 탄소-14는 일정한 속도로 서서히 붕괴한다. 탄소-14의 양은 약 5,730년마다 절반으로 줄므로 과학자들은 시료에 남은 양을 재서 그 생물이 얼마 전에 죽었는지 계산할 수 있다. 석기와 도자기에는 그런 탄소가 없으므로 직접 연대를 측정할 수 없고, 대신 연구자들은 그 곁에서 발견된 숯이나 뼈의 연대를 측정한다. 약 5만 년보다 오래된 시료에는 측정할 만큼의 탄소-14가 남아 있지 않아 우라늄에 바탕을 둔 것 같은 다른 방법이 대신 쓰인다.",
+    "why": "'this calculation'은 바로 앞 문장의 남은 탄소-14 양으로 나이를 계산하는 것을 가리키며, 그 한계를 다음 문장(Stone tools and pottery ...)이 이어서 설명하므로 ⑤에 들어갑니다.",
     "optionNotes": [
-      "요약할 내용이 나오기 전입니다.",
-      "시의 특징이 나오는 중입니다.",
-      "번역가의 결정이 나오는 중입니다.",
-      "마지막 설명 직전이라 요약이 이릅니다.",
-      "정답. 앞 내용을 요약하는 결론입니다."
+      "'this calculation'이 가리킬 계산이 아직 나오지 않았습니다.",
+      "탄소 흡수 설명 중간이라 계산이 아직 나오지 않았습니다.",
+      "붕괴 설명 앞에 끼면 'this calculation'의 지시 대상이 없습니다.",
+      "계산 설명 앞에 끼면 지시어가 가리킬 대상이 없습니다.",
+      "정답. 계산 설명 뒤에 한계를 지적하고 다음 문장으로 이어집니다."
     ],
-    "trap": "④까지 읽으면 이미 결론처럼 보이지만 요약은 마지막에 와야 합니다.",
-    "tip": "'In short'는 앞 내용을 모아 정리하는 신호입니다."
+    "trap": "④ 앞과 ⑤ 앞 모두 연대 측정 이야기라 헷갈립니다. 'this calculation'이 ④의 계산을 받는지 확인하세요.",
+    "tip": "this + 명사 형태는 바로 앞 문장의 내용을 가리킵니다."
   },
   {
     "id": "m3b-02-40",
     "level": "m3",
     "set": "mock-02",
+    "rev": 2,
     "no": 40,
     "type": "summary",
     "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Researchers asked two groups of students to visit a museum. One group was told to photograph the objects they saw, while the other group was asked to simply look at them. The next day, both groups were tested on their memory of the objects. Surprisingly, the students who had taken photographs remembered fewer details than those who had only looked. The researchers explained that people who rely on a camera tend to hand the task of remembering over to the device, so their brains pay less attention to the actual experience. However, when students zoomed in on a specific part of an object before taking the picture, this negative effect disappeared.\n\n▶ Relying on a camera to (A) a moment can (B) our memory of it, unless we actively focus on its details.",
+    "passage": "In the early twentieth century, a French engineer named Max Ringelmann asked workers to pull on a rope, first alone and then in groups. He expected that the force would grow in proportion to the number of people. It did not. Eight people pulling together produced only about half of the force that eight individual efforts would have added up to. Later psychologists named this effect social loafing: when people work in a group and their individual contribution cannot be identified, each person tends to work less hard. They also found that the effect was weaker when each member's output was measured separately, when the task was meaningful, and when the group was small and close. In a modern office, the same pattern appears in meetings where everyone assumes that someone else will prepare, and in team projects where one student does most of the work. Managers who understand it can respond by giving each member a clear role, by making individual results visible, and by keeping teams small.\n\n▶ People tend to put less effort into a task when their contribution is (A) in a group, but this tendency can be reduced by making each person's work (B).",
     "options": [
-      "(A) capture — (B) weaken",
-      "(A) forget — (B) improve greatly",
-      "(A) describe — (B) replace completely",
-      "(A) create — (B) strengthen further",
-      "(A) avoid — (B) delay for years"
+      "(A) hidden — (B) visible",
+      "(A) praised — (B) invisible",
+      "(A) obvious — (B) visible",
+      "(A) hidden — (B) secret",
+      "(A) valued — (B) shared"
     ],
     "answer": 0,
-    "translation": "연구자들은 두 집단의 학생에게 박물관을 방문하게 했다. 한 집단은 본 물건의 사진을 찍으라고 했고 다른 집단은 그냥 보라고 했다. 다음 날 두 집단은 물건에 대한 기억을 시험받았다. 놀랍게도 사진을 찍은 학생들은 그냥 본 학생들보다 세부 사항을 더 적게 기억했다. 연구자들은 카메라에 의존하는 사람은 기억하는 일을 기기에 넘기는 경향이 있어서 그들의 뇌가 실제 경험에 더 적은 주의를 기울인다고 설명했다. 그러나 학생들이 사진을 찍기 전에 물건의 특정 부분을 확대해 보았을 때는 이 부정적인 효과가 사라졌다. ▶ 카메라에 의존해 순간을 담는 것은 우리가 세부 사항에 적극적으로 집중하지 않는 한 그것에 대한 기억을 약화시킬 수 있다.",
-    "why": "사진을 찍은 집단이 더 적게 기억했으므로 (A)는 capture, (B)는 weaken입니다.",
+    "translation": "20세기 초 프랑스 기술자 막스 링겔만은 일꾼들에게 처음에는 혼자서, 다음에는 집단으로 밧줄을 당기게 했다. 그는 힘이 사람 수에 비례해 늘 것이라고 예상했다. 그렇지 않았다. 여덟 명이 함께 당기면 여덟 사람의 개별 노력을 더한 힘의 약 절반만 나왔다. 후대 심리학자들은 이 효과를 사회적 태만이라 불렀다. 사람들이 집단으로 일하고 개인의 기여를 알아볼 수 없으면 각자는 덜 열심히 일하는 경향이 있다. 그들은 또 각 구성원의 결과를 따로 측정하거나 과제가 의미 있거나 집단이 작고 친밀할 때 효과가 약해진다는 것도 발견했다. 현대 사무실에서도 모두가 다른 누군가 준비하겠거니 하는 회의에서, 한 학생이 일을 대부분 하는 팀 과제에서 같은 양상이 나타난다. 이를 이해하는 관리자는 각 구성원에게 분명한 역할을 주고 개인의 성과를 눈에 보이게 하고 팀을 작게 유지하는 것으로 대응할 수 있다. ▶ 사람들은 집단 안에서 자신의 기여가 숨겨질 때 과제에 덜 노력하는 경향이 있지만, 각자의 일을 눈에 보이게 만들면 이 경향을 줄일 수 있다.",
+    "why": "개인의 기여가 드러나지 않으면(hidden) 노력이 줄고, 각자의 일을 눈에 보이게(visible) 하면 그 경향이 줄어듭니다.",
     "optionNotes": [
-      "정답. 카메라로 담는 것이 기억을 약화시킵니다.",
-      "forget과 improve greatly는 글과 반대입니다.",
-      "describe와 replace completely는 글의 결과와 맞지 않습니다.",
-      "create와 strengthen further는 글과 반대입니다.",
-      "avoid와 delay for years는 글에 나오지 않습니다."
+      "정답. 기여가 숨겨지면 덜 노력하고, 눈에 보이게 하면 줄어듭니다.",
+      "칭찬받는 상황이 노력을 줄인다는 내용은 없습니다.",
+      "기여가 명백하면 오히려 노력이 줄지 않습니다.",
+      "'secret'은 해결책이 될 수 없습니다.",
+      "가치를 인정받는 상황은 노력 감소의 원인으로 나오지 않습니다."
     ],
-    "trap": "사진이 기억을 돕는다는 통념에 이끌려 improve가 들어간 보기를 고르지 마세요.",
-    "tip": "요약문은 실험 결과(photographed → remembered fewer)와 부정/긍정 방향을 맞추세요."
+    "trap": "(B)에서 'secret'과 'visible'의 의미가 반대인 것을 놓치지 마세요.",
+    "tip": "요약문은 원인과 해결책에서 반대 의미의 쌍(hidden/visible)을 찾으세요."
   }
 ]
