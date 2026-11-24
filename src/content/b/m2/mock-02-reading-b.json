@@ -3,10 +3,11 @@
     "id": "m2b-02-29",
     "level": "m2",
     "set": "mock-02",
+    "rev": 2,
     "no": 29,
     "type": "grammar",
     "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
-    "passage": "The town of Kiruna in northern Sweden is being moved, building by building, to a new location about three kilometers away. Over the past century, mining beneath the town {1|have caused} the ground to crack, making many buildings unsafe. Rather than abandoning the town, its residents decided {2|to relocate} it. Some historic buildings, {3|including} the old wooden church, are being carefully lifted and transported on giant trucks. Residents who {4|have lived} there all their lives say that the move is both exciting and sad. By the time the project is completed in 2035, the new town center {5|will have been} built almost from scratch.",
+    "passage": "When a honeybee finds a rich source of nectar, she returns to the hive and performs a short dance on the vertical surface of the comb. This waggle dance is a kind of language that the other bees read in the dark by touch. The angle of the dancer's straight run, measured from the vertical, {1|tell} them the direction of the flowers relative to the sun, and the length of the run {2|indicates} the distance. A longer waggle means that the flowers are farther away. Scientists once doubted that insects could communicate in such an abstract way, but when clouds {3|hid} the sun, the bees still found the flowers, because they can read the pattern of light in the sky. Each dance can be repeated dozens of times, and the followers gather around the dancer to compare her movements with those of other scouts before they decide where to fly. Even more surprising is {4|that} bees from different regions use slightly different \"dialects\" of the dance, so a colony raised among foreign bees can be confused for a long time. Some biologists now try to build robots {5|that} imitate the dance and lead real bees to a chosen spot, hoping to learn how information spreads through a group.",
     "options": [
       "①",
       "②",
@@ -15,26 +16,27 @@
       "⑤"
     ],
     "answer": 0,
-    "translation": "스웨덴 북부의 도시 키루나는 건물 하나하나가 약 3킬로미터 떨어진 새 장소로 옮겨지고 있다. 지난 한 세기 동안 도시 아래의 채굴이 땅을 갈라지게 만들어 많은 건물이 위험해졌다. 도시를 버리는 대신 주민들은 그것을 옮기기로 결정했다. 오래된 목조 교회를 포함한 일부 역사적 건물은 조심스럽게 들어 올려 거대한 트럭에 실려 옮겨지고 있다. 평생 그곳에 살아온 주민들은 이 이전이 신나면서도 슬프다고 말한다. 2035년 프로젝트가 완료될 무렵 새 도심은 거의 맨바닥에서 지어져 있을 것이다.",
-    "why": "주어 'mining'은 단수이므로 'have caused'가 아니라 'has caused'여야 합니다.",
+    "translation": "꿀벌이 풍부한 꿀의 원천을 발견하면 벌집으로 돌아와 벌집 방의 수직면에서 짧은 춤을 춘다. 이 8자 춤은 다른 벌들이 어둠 속에서 촉각으로 읽는 일종의 언어이다. 수직선에서 잰 춤꾼의 직선 운동 각도는 해를 기준으로 한 꽃의 방향을 알려 주고, 운동의 길이는 거리를 나타낸다. 더 길게 흔들수록 꽃이 더 멀리 있다는 뜻이다. 과학자들은 한때 곤충이 그렇게 추상적인 방식으로 의사소통할 수 있다고 의심했지만 구름이 해를 가려도 벌들은 하늘의 빛 무늬를 읽을 수 있어서 여전히 꽃을 찾았다. 춤은 수십 번 되풀이될 수 있고 따르는 벌들은 춤꾼 주위에 모여 그녀의 움직임을 다른 정찰벌의 움직임과 비교한 뒤 어디로 날아갈지 정한다. 더 놀라운 것은 지역이 다른 벌들은 춤의 약간 다른 '사투리'를 쓴다는 점이어서, 외지 벌들 사이에서 자란 군집은 오랫동안 혼란스러워할 수 있다. 일부 생물학자들은 이제 춤을 흉내 내어 진짜 벌을 정해진 장소로 이끄는 로봇을 만들려고 하는데, 정보가 집단 안에서 어떻게 퍼지는지 더 알고 싶어서이다.",
+    "why": "주어 The angle이 단수이므로 동사는 tell이 아니라 tells여야 합니다. 수식어구(of ~, measured from the vertical)에 속아 복수로 착각하기 쉽습니다.",
     "optionNotes": [
-      "정답(틀린 것). 단수 주어 mining이므로 has caused여야 합니다.",
-      "decide + to부정사입니다.",
-      "현재분사 including입니다.",
-      "관계대명사절의 주어 residents에 맞는 have lived입니다.",
-      "미래완료 수동태 will have been built입니다."
+      "정답(틀린 것). 주어 The angle이 단수이므로 tells여야 합니다.",
+      "주어 the length가 단수이므로 indicates가 맞습니다.",
+      "'구름이 해를 가렸을 때'를 뜻하는 과거 시제 hid가 맞습니다.",
+      "is의 보어 역할을 하는 명사절을 이끄는 접속사 that입니다.",
+      "선행사 robots를 받는 주격 관계대명사 that입니다."
     ],
-    "trap": "가까이 있는 명사 the town에 이끌려 복수 동사를 쓰기 쉽습니다.",
-    "tip": "주어는 수식어구(beneath the town)를 건너뛰어 핵심 명사(mining)를 찾으세요."
+    "trap": "주어 바로 뒤의 'dancer's straight run'이나 'the vertical'에 속아 복수 취급하지 마세요.",
+    "tip": "어법 문제는 긴 수식어구를 건너뛰어 진짜 주어와 동사를 먼저 찾으세요."
   },
   {
     "id": "m2b-02-30",
     "level": "m2",
     "set": "mock-02",
+    "rev": 2,
     "no": 30,
     "type": "vocab",
     "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
-    "passage": "Noise pollution is often underestimated, but it can seriously {1|harm} our health. Studies show that long-term exposure to loud traffic noise can {2|raise} blood pressure and disturb sleep. To address the problem, some cities have created quiet zones where honking is {3|encouraged}, and others have built sound barriers along busy highways. Planting rows of trees can also {4|reduce} noise because leaves absorb sound. In addition, residents are advised to close their windows during rush hour or to use {5|thick} curtains and double-glazed glass. Although these measures cannot remove noise completely, they make daily life much more comfortable.",
+    "passage": "The placebo effect shows how strongly expectations can shape the body. In many trials, patients who receive a sugar pill that they believe to be a drug report real {1|relief} from pain, and brain scans show that their bodies release natural painkillers. The effect is not limited to pills: an injection feels more powerful than a tablet, and a more {2|expensive} pill is often judged to work better than a cheap one, even when both are identical. Because of this, researchers who test new medicines must compare them with a placebo; otherwise, they could mistake the power of belief for the power of the drug. Some doctors argue that the placebo effect should be {3|ignored}, since the patient's hope is a part of healing, and the way a doctor speaks, listens, and explains can change the patient's results. Others, however, warn that it is {4|unethical} to deceive patients, and that honest, caring communication can produce much of the same benefit. Whichever view is right, it is clear that treatment is not only a matter of chemistry but also of {5|meaning}. A patient who understands why a treatment is given is likely to respond better than one who is merely handed a pill.",
     "options": [
       "①",
       "②",
@@ -43,138 +45,143 @@
       "⑤"
     ],
     "answer": 2,
-    "translation": "소음 공해는 흔히 과소평가되지만 우리의 건강을 심각하게 해칠 수 있다. 연구에 따르면 시끄러운 교통 소음에 장기간 노출되면 혈압이 오르고 수면이 방해될 수 있다. 이 문제를 해결하려고 일부 도시는 경적이 금지되는 정숙 구역을 만들었고 다른 도시는 붐비는 고속도로를 따라 방음벽을 세웠다. 줄지어 나무를 심는 것도 잎이 소리를 흡수하므로 소음을 줄일 수 있다. 또한 주민들은 혼잡 시간대에 창문을 닫거나 두꺼운 커튼과 이중창을 쓰라는 권고를 받는다. 이런 조치로 소음을 완전히 없앨 수는 없지만 일상을 훨씬 더 편안하게 만든다.",
-    "why": "소음 문제를 해결하려는 정숙 구역에서는 경적이 '금지'되어야 하므로 'encouraged(권장되는)'가 아니라 'banned/prohibited'여야 합니다.",
+    "translation": "플라시보 효과는 기대가 몸을 얼마나 강하게 형성할 수 있는지 보여 준다. 많은 시험에서 약이라고 믿는 설탕 알약을 받은 환자들은 통증에서 실제 완화를 보고하고, 뇌 촬영은 그들의 몸이 천연 진통 물질을 내보냄을 보여 준다. 이 효과는 알약에 국한되지 않는다. 주사는 알약보다 더 강력하게 느껴지고 더 비싼 알약은 둘이 똑같더라도 값싼 알약보다 더 잘 듣는다고 판단되곤 한다. 이 때문에 새 약을 시험하는 연구자는 그것을 플라시보와 비교해야 한다. 그렇지 않으면 믿음의 힘을 약의 힘으로 착각할 수 있다. 일부 의사는 환자의 희망이 치유의 일부이고 의사가 말하고 듣고 설명하는 방식이 환자의 결과를 바꿀 수 있으므로 플라시보 효과를 무시해야 한다고 주장한다. 그러나 다른 이들은 환자를 속이는 것은 비윤리적이며 정직하고 배려 깊은 의사소통이 같은 이점의 많은 부분을 낼 수 있다고 경고한다. 어느 쪽 견해가 옳든 치료가 화학의 문제만이 아니라 의미의 문제이기도 하다는 점은 분명하다. 치료가 왜 주어지는지 이해하는 환자는 단지 알약을 건네받은 환자보다 더 잘 반응할 가능성이 높다.",
+    "why": "환자의 희망이 치유의 일부이고 의사의 말이 결과를 바꾼다는 이유를 들고 있으므로 플라시보 효과는 '무시(ignored)'가 아니라 '활용하거나 존중(used, respected)'해야 한다는 문맥입니다.",
     "optionNotes": [
-      "해친다는 의미로 harm이 알맞습니다.",
-      "혈압을 올린다는 의미로 raise가 알맞습니다.",
-      "정답(부적절). 정숙 구역에서는 경적이 금지되므로 banned여야 합니다.",
-      "소음을 줄인다는 의미로 reduce가 알맞습니다.",
-      "두꺼운 커튼이라는 의미로 thick이 알맞습니다."
+      "천연 진통 물질이 나온다는 내용과 어울리는 relief입니다.",
+      "비싼 알약이 더 잘 듣는다고 판단된다는 문맥에 맞는 expensive입니다.",
+      "정답(부적절). 이유가 희망이 치유의 일부라는 것이므로 ignored가 아니라 used 등이어야 합니다.",
+      "환자를 속이는 것에 대한 경고이므로 unethical이 맞습니다.",
+      "치료가 화학만이 아니라 의미의 문제라는 meaning이 맞습니다."
     ],
-    "trap": "quiet zones가 '조용한 구역'이라는 점을 놓치면 encouraged가 자연스러워 보입니다.",
-    "tip": "문제 해결책(To address the problem)의 방향과 낱말이 일치하는지 확인하세요."
+    "trap": "'Some doctors ... Others, however'의 대립 구조를 놓치면 ③이 자연스럽다고 착각합니다.",
+    "tip": "어휘 문제는 낱말 뒤의 이유 절(since ~)이 낱말과 같은 방향인지 확인하세요."
   },
   {
     "id": "m2b-02-31",
     "level": "m2",
     "set": "mock-02",
+    "rev": 2,
     "no": 31,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Praise feels good, but psychologists have found that the way we praise children can change how they learn. When children are told, \"You're so smart,\" they often start to avoid challenging tasks because they fear losing that label. In contrast, children who are praised for their effort, as in \"You worked really hard on this,\" are more willing to try difficult problems. They also keep trying after mistakes. The reason is that effort is something they can control, while intelligence seems fixed. This suggests that the most helpful praise is not about who a child is, but about __________.",
+    "passage": "Once we hold a belief, we tend to treat new information unequally. Psychologists call this confirmation bias: evidence that agrees with our view is accepted easily, while evidence against it is questioned, explained away, or simply not noticed. In a well-known experiment, volunteers who supported and who opposed capital punishment read the same two studies, one favoring each side. Afterward, both groups were more certain of their original position than before, because each side remembered the study that agreed with them as strong and the other as flawed. The same pattern appears in everyday life: people choose news sources that match their opinions, and a doctor with an early diagnosis may overlook symptoms that do not fit it. The bias is difficult to overcome because it feels like honest thinking from the inside. A practical remedy is therefore not to try to be neutral but to __________. If we cannot find any reasons that would prove us wrong, our confidence rests on a much firmer basis than before.",
     "options": [
-      "how much money the child's family earns each month and where they live",
-      "which school the child attends and how famous it is among parents in the city",
-      "how many friends the child has made in class so far this school year",
-      "what the child has done and how hard the child has tried",
-      "what other children of the same age are able to do much better than the child"
+      "avoid discussing controversial topics with people who hold very different opinions",
+      "collect as much evidence as possible that supports our own idea first",
+      "trust the opinions of experts more than our own experience and feelings",
+      "deliberately search for evidence that could show our belief to be mistaken",
+      "change our beliefs whenever other people strongly disagree with us"
     ],
     "answer": 3,
-    "translation": "칭찬은 기분 좋게 하지만 심리학자들은 우리가 아이를 칭찬하는 방식이 아이가 배우는 방식을 바꿀 수 있음을 발견했다. 아이들이 \"넌 정말 똑똑하구나\"라는 말을 들으면 그 꼬리표를 잃을까 두려워 어려운 과제를 피하기 시작하는 경우가 많다. 반면 \"이 일에 정말 열심히 했구나\"처럼 노력을 칭찬받은 아이들은 어려운 문제를 더 기꺼이 시도하고 실수한 뒤에도 계속 시도한다. 그 이유는 노력은 아이가 통제할 수 있는 것인 반면 지능은 고정된 것처럼 보이기 때문이다. 이는 가장 도움이 되는 칭찬이 아이가 어떤 사람인지가 아니라 아이가 한 일과 얼마나 열심히 했는지에 관한 것임을 시사한다.",
-    "why": "노력을 칭찬한 아이들이 더 도전적이었으므로 '아이가 한 일과 얼마나 노력했는지'가 알맞습니다.",
+    "translation": "일단 신념을 갖게 되면 우리는 새로운 정보를 불평등하게 다루는 경향이 있다. 심리학자들은 이를 확증 편향이라고 부른다. 우리 견해와 일치하는 증거는 쉽게 받아들여지는 반면 반대 증거는 의심받고 변명으로 치부되거나 단지 눈에 띄지 않는다. 한 유명한 실험에서 사형제를 지지하는 자원자와 반대하는 자원자가 각각 한쪽을 옹호하는 같은 두 연구를 읽었다. 그 뒤 두 집단 모두 이전보다 원래 입장을 더 확신했는데, 각 집단이 자기 편에 맞는 연구는 탄탄하다고, 다른 연구는 결함이 있다고 기억했기 때문이다. 같은 양상은 일상에서도 나타난다. 사람들은 자신의 의견과 맞는 뉴스 출처를 고르고 초기 진단을 내린 의사는 그것에 맞지 않는 증상을 간과할 수 있다. 이 편향은 안에서 보면 정직한 사고처럼 느껴지기 때문에 극복하기 어렵다. 그러므로 실용적인 해결책은 중립이 되려고 애쓰는 것이 아니라 우리의 믿음이 틀렸음을 보여 줄 수 있는 증거를 일부러 찾아보는 것이다. 우리를 반박할 이유를 하나도 찾을 수 없다면 우리의 확신은 이전보다 훨씬 단단한 토대 위에 놓인다.",
+    "why": "확증 편향의 해결책으로 '우리가 틀렸음을 보여 줄 증거를 일부러 찾는 것'이 제시되고, 뒤 문장의 'If we cannot find any reasons that would prove us wrong'과 연결됩니다.",
     "optionNotes": [
-      "가정의 수입은 나오지 않습니다.",
-      "학교의 명성은 나오지 않습니다.",
-      "친구 수는 나오지 않습니다.",
-      "정답. 아이가 한 일과 노력에 대한 칭찬입니다.",
-      "다른 아이와의 비교는 나오지 않습니다."
+      "논쟁적인 주제를 피하면 편향을 줄이지 못합니다.",
+      "자기 생각을 지지하는 증거만 모으는 것은 오히려 편향을 키웁니다.",
+      "전문가를 더 믿는 것은 편향의 해결책으로 제시되지 않았습니다.",
+      "정답. 반증 증거를 일부러 찾는 것이 해결책입니다.",
+      "타인의 반대에 따라 신념을 바꾸라는 말은 없습니다."
     ],
-    "trap": "'who a child is'와 대비되는 개념을 찾으세요. 능력이 아니라 행동과 노력입니다.",
-    "tip": "'not A but B'에서 A(who a child is)와 B는 반대 관계입니다."
+    "trap": "②는 글 앞부분의 '증거 수집'이라는 말과 겹쳐 보이지만 방향이 반대(지지 증거만)입니다.",
+    "tip": "빈칸 뒤의 'prove us wrong'이 빈칸 내용의 결과를 요약하는 단서입니다."
   },
   {
     "id": "m2b-02-32",
     "level": "m2",
     "set": "mock-02",
+    "rev": 2,
     "no": 32,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "When cities expand, wild animals lose their habitats, and many of them disappear. However, some species adapt surprisingly well. Foxes, pigeons, and raccoons have learned to find food in garbage bins and to make their homes under bridges or in empty buildings. In Tokyo, crows have even learned to place nuts on the road at traffic lights so that passing cars will crack them open. Such adaptation is not easy, but it allows them to survive in crowded places. These examples show that wildlife is not simply destroyed by cities, because some animals __________.",
+    "passage": "In the 1990s, marine biologists along the Pacific coast noticed that kelp forests were vanishing in some bays while thriving in others. The difference was the presence of sea otters. Sea otters eat sea urchins, and sea urchins eat kelp. Where otters had been hunted almost to extinction for their fur, the urchins multiplied freely and cut down the kelp, leaving bare patches on the seafloor that scientists call urchin barrens. In bays where otters had returned, the kelp recovered, and with it came fish, seals, and the birds that feed on them. Kelp also absorbs large amounts of carbon dioxide and softens waves that would otherwise wear away the shore. Ecologists use the term \"keystone species\" for an animal like the sea otter, because its influence on a community is far greater than its numbers would suggest. Just as an arch collapses when its central stone is removed, an ecosystem may __________. This is why conservation plans often begin by asking which single species the others depend on.",
     "options": [
-      "refuse to eat any food that is provided by humans at any time of the year",
-      "move to other continents whenever a new building is constructed near their homes",
-      "never come near the places where people live and work, even during the night",
-      "depend on scientists to feed them during the cold and snowy winter months",
-      "change their behavior in order to survive in a human environment"
+      "grow more diverse when the largest predators disappear completely",
+      "adapt quickly to the loss of any single one of its members",
+      "return to its original form after only a short period of disturbance",
+      "protect the plants and animals that are most useful to human beings",
+      "change dramatically when one critical member is taken away from it"
     ],
     "answer": 4,
-    "translation": "도시가 확장되면 야생 동물은 서식지를 잃고 많은 동물이 사라진다. 그러나 일부 종은 놀라울 만큼 잘 적응한다. 여우, 비둘기, 너구리는 쓰레기통에서 먹이를 찾고 다리 아래나 빈 건물에 집을 짓는 법을 배웠다. 도쿄에서는 까마귀가 신호등 앞 도로에 견과류를 놓아 지나가는 자동차가 깨 주게 하는 법까지 익혔다. 이런 적응은 쉽지 않지만 붐비는 곳에서도 그들이 살아남게 해 준다. 이런 예는 야생 동물이 도시에 의해 단순히 파괴되는 것이 아님을 보여 준다. 일부 동물은 인간 환경에서 살아남기 위해 행동을 바꾸기 때문이다.",
-    "why": "여우, 비둘기, 까마귀의 사례는 인간 환경에서 살아남기 위해 행동을 바꾸는 모습이므로 ⑤가 알맞습니다.",
+    "translation": "1990년대에 태평양 연안의 해양 생물학자들은 어떤 만에서는 켈프 숲이 사라지는 반면 다른 만에서는 번성하고 있음을 알아챘다. 차이는 해달의 존재였다. 해달은 성게를 먹고 성게는 켈프를 먹는다. 해달이 털 때문에 거의 멸종할 만큼 사냥된 곳에서는 성게가 마음껏 번식해 켈프를 베어 내 해저에 과학자들이 '성게 불모지'라고 부르는 맨땅을 남겼다. 해달이 돌아온 만에서는 켈프가 회복되었고 그와 함께 물고기와 바다표범, 그것들을 먹는 새들이 찾아왔다. 켈프는 또 많은 이산화탄소를 흡수하고 그렇지 않으면 해안을 깎아 낼 파도를 누그러뜨린다. 생태학자들은 해달 같은 동물을 '핵심종'이라 부르는데, 그 영향력이 개체 수가 시사하는 것보다 훨씬 크기 때문이다. 아치가 중심 돌이 빠지면 무너지듯 생태계도 하나의 결정적 구성원을 빼앗기면 극적으로 변할 수 있다. 그래서 보전 계획은 흔히 다른 종들이 의존하는 단일 종이 무엇인지 묻는 데서 시작한다.",
+    "why": "아치의 중심 돌이 빠지면 무너지듯, 핵심종 하나가 사라지면 생태계가 크게 달라진다는 비유이므로 ⑤입니다.",
     "optionNotes": [
-      "인간이 주는 먹이를 거부한다는 내용과 반대입니다.",
-      "다른 대륙으로 이동한다는 내용은 없습니다.",
-      "사람이 사는 곳에 오지 않는다는 내용은 사례와 반대입니다.",
-      "과학자가 먹이를 준다는 내용은 없습니다.",
-      "정답. 인간 환경에서 살아남도록 행동을 바꿉니다."
+      "최상위 포식자(해달)가 사라지면 오히려 켈프 숲이 사라졌습니다.",
+      "구성원 하나의 손실에 빠르게 적응한다는 것은 글과 반대입니다.",
+      "짧은 교란 뒤 원래대로 돌아간다는 내용은 없습니다.",
+      "인간에게 유용한 생물을 보호한다는 내용이 아닙니다.",
+      "정답. 결정적 구성원 하나가 사라지면 극적으로 변합니다."
     ],
-    "trap": "However 앞의 부정적 내용(lose their habitats)에 이끌려 부정적인 보기를 고르지 마세요.",
-    "tip": "However 뒤의 사례(foxes, crows)가 빈칸의 일반화를 뒷받침합니다."
+    "trap": "'keystone', 'arch'의 비유를 읽지 못하면 ②(적응)나 ③(회복)을 고르기 쉽습니다.",
+    "tip": "'Just as ~, ...'의 비유 구문은 빈칸이 비유 앞부분과 같은 구조임을 알려 줍니다."
   },
   {
     "id": "m2b-02-33",
     "level": "m2",
     "set": "mock-02",
+    "rev": 2,
     "no": 33,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "In a world full of constant noise, silence has become rare. Yet researchers say that moments of quiet can improve our brains. One study found that two hours of silence daily led to the growth of new cells in a region linked to memory. Silence also gives the mind a chance to rest and to process what we have learned during the day. Without such breaks, we may feel mentally tired even if we have done little physically. This is why many people find that they think most clearly when __________.",
+    "passage": "In Plato's dialogue Phaedrus, Socrates tells a story in which an Egyptian king rejects the gift of writing. The king warns that those who learn to write will stop exercising their memories, trusting marks on paper instead of the knowledge inside them. In a narrow sense, he was right. Cultures that depend on oral tradition train people to memorize long poems and family histories, abilities that fade as books become common. Yet the loss was not the whole story. Once knowledge could be stored outside the head, people were free to spend their mental effort on comparing, questioning, and building on ideas rather than only keeping them. Today, a similar debate surrounds search engines and smartphones, which allow us to look up a fact in seconds. Studies show that when people expect to find information online later, they remember where to find it rather than the information itself. Each new technology of memory, then, does not simply replace our abilities; it __________. The question is not whether we lose something, but what we choose to do with the effort that is saved.",
     "options": [
-      "they are surrounded by crowds and loud background music",
-      "they are talking on the phone with several friends at once",
-      "they check messages on their phones every few minutes",
-      "they are alone in a quiet place with no distractions around them",
-      "they are working under a strict deadline with a teacher watching"
+      "makes the knowledge of the previous generation less trustworthy than before",
+      "forces us to practice the old skills even harder than we did in the past",
+      "proves that human memory is weaker than most people have believed",
+      "changes which mental skills we practice and which ones we value",
+      "returns us to the study habits of cultures that relied on spoken stories"
     ],
     "answer": 3,
-    "translation": "끊임없는 소음으로 가득한 세상에서 고요는 드물어졌다. 그러나 연구자들은 고요한 순간이 뇌를 향상시킬 수 있다고 말한다. 한 연구는 매일 두 시간의 침묵이 기억과 관련된 영역에서 새로운 세포의 성장으로 이어졌음을 발견했다. 고요는 또한 마음이 쉬고 낮 동안 배운 것을 처리할 기회를 준다. 그런 휴식이 없으면 몸은 별로 움직이지 않았어도 정신적으로 피곤할 수 있다. 그래서 많은 사람이 방해 요소 없이 조용한 곳에 혼자 있을 때 가장 또렷하게 생각한다는 것을 알게 된다.",
-    "why": "고요가 마음을 쉬게 하고 정보를 처리하게 한다고 했으므로 '방해 없이 조용한 곳에 혼자 있을 때'가 알맞습니다.",
+    "translation": "플라톤의 대화편 『파이드로스』에서 소크라테스는 이집트의 왕이 글쓰기라는 선물을 거절하는 이야기를 한다. 왕은 글쓰기를 배운 사람들이 자기 안의 지식 대신 종이 위의 표시를 믿으며 기억을 단련하지 않게 될 것이라고 경고한다. 좁은 의미에서 그가 옳았다. 구전에 의존하는 문화는 사람들에게 긴 시와 가계의 역사를 외우도록 훈련시키는데, 이 능력은 책이 흔해지면서 사라진다. 그러나 손실이 이야기의 전부는 아니었다. 지식을 머리 밖에 저장할 수 있게 되자 사람들은 정신적 노력을 지식을 간직하는 데만 쓰지 않고 비교하고 질문하고 생각을 쌓아 가는 데 쓸 수 있게 되었다. 오늘날 비슷한 논쟁이 몇 초 만에 사실을 찾아볼 수 있게 해 주는 검색 엔진과 스마트폰을 둘러싸고 있다. 연구에 따르면 사람들은 나중에 온라인에서 정보를 찾을 수 있다고 예상하면 정보 자체가 아니라 그것을 찾을 곳을 기억한다. 그렇다면 기억의 새로운 기술은 단순히 우리의 능력을 대체하지 않는다. 그것은 우리가 어떤 정신적 기술을 연습하고 가치 있게 여기는지를 바꾼다. 문제는 우리가 무언가를 잃는지가 아니라 절약된 노력으로 무엇을 하기로 선택하느냐이다.",
+    "why": "글쓰기가 기억력을 약화시켰지만 그 노력을 비교·질문 같은 다른 능력에 쓰게 했다는 흐름이므로, 기술은 우리가 연습하고 중시하는 정신적 기술을 바꾼다는 ④가 알맞습니다.",
     "optionNotes": [
-      "소음과 대조되는 내용입니다.",
-      "동시 통화는 방해 요소입니다.",
-      "메시지 확인은 방해 요소입니다.",
-      "정답. 방해 없이 조용한 곳에 혼자 있을 때입니다.",
-      "마감 압박은 고요와 관계가 없습니다."
+      "이전 세대 지식의 신뢰도는 논점이 아닙니다.",
+      "옛 기술을 더 열심히 연습하게 한다는 것은 글과 반대입니다.",
+      "인간 기억이 약하다는 증명이 목적이 아닙니다.",
+      "정답. 연습하고 가치 있게 여기는 정신적 기술이 바뀝니다.",
+      "구전 문화로 되돌아간다는 내용은 없습니다."
     ],
-    "trap": "'think most clearly'와 어울리는 환경은 앞 문장의 'silence'입니다.",
-    "tip": "This is why 앞의 내용(silence helps the brain)이 빈칸의 단서입니다."
+    "trap": "왕의 경고(기억력 상실)만 보고 부정적 결론(①②③)을 고르면 'Yet the loss was not the whole story'를 놓칩니다.",
+    "tip": "마지막 문장 'what we choose to do with the effort that is saved'가 빈칸의 방향(능력의 전환)을 알려 줍니다."
   },
   {
     "id": "m2b-02-34",
     "level": "m2",
     "set": "mock-02",
+    "rev": 2,
     "no": 34,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Many people believe that giving is a kind of loss: when we donate time or money, we have less of it for ourselves. Yet several studies suggest the opposite. In one experiment, participants who spent a small sum of money on others reported greater happiness than those who spent the same amount on themselves. Volunteers also tend to feel less lonely and more connected to their communities. These results were repeated in several countries with different cultures. In other words, generosity is __________ that returns in the form of personal satisfaction and stronger relationships.",
+    "passage": "Science is often pictured as a collection of facts, but its real strength lies in a method for finding out when those facts are wrong. A researcher who reports a discovery must describe how it was made in enough detail that others can repeat it, and before a paper is published, other experts in the field examine it for errors. Even after publication, the work is open to attack: if another laboratory cannot reproduce the result, doubt spreads quickly. This system is slow and sometimes unfair, and famous mistakes have occurred, such as the claim of a cold-fusion breakthrough in 1989. But that mistake was discovered within months precisely because the claim was public and the experiment could be repeated. In this sense, science does not succeed because individual scientists are free from bias. It succeeds because __________. A community that invites criticism will eventually find even errors that no single person could see, and that is more reliable than any expert's certainty.",
     "options": [
-      "a heavy burden that people should always avoid whenever they get a chance to do so",
-      "an investment that people make for the benefit of others and themselves",
-      "a competition that only very wealthy people can ever win against the others in town",
-      "a habit that is very difficult to learn after childhood has already ended for them",
-      "a rule that every school forces all of the students to follow each and every day"
+      "its members agree about most of the important questions from the very start",
+      "its structure makes it hard for mistakes to survive when they are exposed to view",
+      "it avoids testing ideas that have already been widely accepted by experts for many years",
+      "every scientist is trained to prevent all personal mistakes before they occur",
+      "it relies on the authority of the most famous scholars in each field"
     ],
     "answer": 1,
-    "translation": "많은 사람은 베푸는 것이 일종의 손실이라고 믿는다. 시간이나 돈을 기부하면 자신을 위한 몫이 줄어든다는 것이다. 그러나 여러 연구는 그 반대를 시사한다. 한 실험에서 적은 돈을 남을 위해 쓴 참가자들은 같은 금액을 자신을 위해 쓴 사람들보다 더 큰 행복을 보고했다. 봉사자들은 또한 덜 외롭고 지역 사회와 더 연결되어 있다고 느끼는 경향이 있다. 이 결과는 서로 다른 문화를 가진 여러 나라에서 반복되었다. 다시 말해 관대함은 개인적 만족과 더 강한 관계의 형태로 돌아오는, 남과 자신 모두를 위한 투자이다.",
-    "why": "베푸는 것이 손실이 아니라 행복과 관계로 돌아온다고 했으므로 '남과 자신 모두를 위한 투자'가 알맞습니다.",
+    "translation": "과학은 흔히 사실의 모음으로 그려지지만 그 진짜 강점은 그 사실들이 틀렸을 때 그것을 알아내는 방법에 있다. 발견을 보고하는 연구자는 다른 사람이 그것을 되풀이할 수 있을 만큼 상세히 어떻게 발견했는지 설명해야 하고, 논문이 발표되기 전에 그 분야의 다른 전문가들이 오류를 검토한다. 발표 뒤에도 연구는 공격에 열려 있다. 다른 실험실이 결과를 재현하지 못하면 의심이 빠르게 퍼진다. 이 제도는 느리고 때로 불공정하며 1989년 상온 핵융합의 돌파구를 주장한 것처럼 유명한 실수도 일어났다. 그러나 그 실수는 주장이 공개적이었고 실험을 되풀이할 수 있었기 때문에 바로 몇 달 안에 발견되었다. 이런 의미에서 과학은 개별 과학자가 편견에서 자유롭기 때문에 성공하는 것이 아니다. 그것이 성공하는 것은 구조상 실수가 드러났을 때 살아남기 어렵기 때문이다. 비판을 환영하는 공동체는 어느 한 사람도 보지 못할 오류까지 결국 찾아내며, 그것은 어떤 전문가 한 사람의 확신보다 믿을 만하다.",
+    "why": "과학은 개인의 무편향이 아니라 공개와 재현, 비판의 구조 덕분에 실수가 드러나 사라진다는 주장이므로 ②가 알맞습니다.",
     "optionNotes": [
-      "부담이라는 내용은 글과 반대입니다.",
-      "정답. 남과 자신 모두에게 이익이 되는 투자입니다.",
-      "경쟁이라는 내용은 나오지 않습니다.",
-      "습관을 배우기 어렵다는 내용은 없습니다.",
-      "학교의 규칙이라는 내용은 없습니다."
+      "구성원의 처음부터의 합의는 글과 어울리지 않습니다.",
+      "정답. 구조상 실수가 공개되면 살아남기 어렵습니다.",
+      "이미 받아들여진 생각을 검증하지 않는다는 것은 반대입니다.",
+      "모든 과학자가 실수를 막도록 훈련된다는 것은 앞 문장과 모순됩니다.",
+      "유명 학자의 권위에 의존한다는 것은 반대입니다."
     ],
-    "trap": "첫 문장의 통념(giving is a loss)에 이끌리지 마세요.",
-    "tip": "Yet 뒤의 반대 결과와 'returns'가 빈칸의 단서입니다."
+    "trap": "앞 문장의 'free from bias'를 ④와 연결해 개인의 완벽함을 답으로 고르기 쉽습니다.",
+    "tip": "'not because ~. It succeeds because ...' 구조에서 부정된 내용과 반대되는 것을 고르세요."
   },
   {
     "id": "m2b-02-35",
     "level": "m2",
     "set": "mock-02",
+    "rev": 2,
     "no": 35,
     "type": "irrelevant",
     "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
-    "passage": "Walking to school offers a number of benefits for students, both physical and mental. ① The price of school lunches has risen by about ten percent over the past year. ② It provides regular exercise that keeps the heart strong and helps to control weight. ③ The fresh air and morning light also help students wake up and concentrate better in the first class. ④ In addition, walking with friends gives them time to talk and to strengthen their friendships. ⑤ For these reasons, many schools encourage students who live nearby to walk instead of taking the bus.",
+    "passage": "Japan's wooden pagodas have survived for more than a thousand years in one of the world's most earthquake-prone countries, and engineers still study how they do it. Their secret is not stiffness but flexibility. ① Cotton plants need warm weather and a long growing season, which is why most of the world's cotton is grown in a small number of sunny regions. ② Each floor of a pagoda is built as a separate box that is stacked on the one below without being fixed to it. During an earthquake, the floors slide a little and sway in different directions. ③ At the center stands a thick pillar that is not rigidly attached to the floors, and it moves independently and helps to cancel the swaying of the building. ④ The wide, heavy roofs also help, because their weight lowers the center of gravity and prevents the structure from tipping over. ⑤ Modern skyscrapers in Tokyo use similar ideas, and some of the tallest towers contain large moving weights that swing against the motion of the building in strong winds, which keeps the upper floors from shaking too much.",
     "options": [
       "①",
       "②",
@@ -183,26 +190,27 @@
       "⑤"
     ],
     "answer": 0,
-    "translation": "걸어서 등교하는 것은 학생들에게 신체적·정신적으로 여러 이점을 준다. ① 학교 급식 가격은 지난 한 해 동안 약 10퍼센트 올랐다. ② 규칙적인 운동이 되어 심장을 튼튼하게 하고 체중 조절에 도움을 준다. ③ 신선한 공기와 아침 햇빛은 학생들이 잠을 깨고 첫 수업에 더 잘 집중하게 돕는다. ④ 게다가 친구와 함께 걸으면 이야기할 시간이 생기고 우정이 깊어진다. ⑤ 이런 이유로 많은 학교는 가까이 사는 학생이 버스 대신 걷도록 권장한다.",
-    "why": "글은 걸어서 등교하는 이점을 말하는데 ①은 급식 가격 상승이라는 별개의 이야기라 관계가 없습니다.",
+    "translation": "일본의 목조 탑은 세계에서 지진이 가장 잦은 나라 중 한 곳에서 천 년 넘게 살아남았고 기술자들은 지금도 그 비결을 연구한다. 비결은 뻣뻣함이 아니라 유연함이다. ① 목화는 따뜻한 날씨와 긴 생장 기간이 필요해서 세계 목화의 대부분은 소수의 햇볕 좋은 지역에서 재배된다. ② 탑의 각 층은 아래층에 고정되지 않고 그 위에 쌓인 별개의 상자로 지어진다. 지진이 날 때 층들은 조금씩 미끄러지고 서로 다른 방향으로 흔들린다. ③ 중심에는 층에 단단히 붙어 있지 않은 두꺼운 기둥이 서 있는데 그것은 독립적으로 움직여 건물의 흔들림을 상쇄하도록 돕는다. ④ 넓고 무거운 지붕도 도움이 되는데 그 무게가 무게 중심을 낮추어 구조물이 넘어지는 것을 막기 때문이다. ⑤ 도쿄의 현대 고층 건물도 비슷한 개념을 사용하고 일부 가장 높은 탑에는 센 바람에 건물의 움직임에 맞서 흔들리는 큰 추가 있어 윗층이 너무 흔들리지 않게 한다.",
+    "why": "글은 일본 목탑이 지진에 견디는 구조를 설명하는데 ①은 목화의 재배 조건으로 관계가 없습니다.",
     "optionNotes": [
-      "정답(무관). 급식 가격 상승 이야기입니다.",
-      "걷기의 운동 효과입니다.",
-      "걷기가 집중에 주는 이점입니다.",
-      "친구와의 관계가 깊어지는 이점입니다.",
-      "결론 문장입니다."
+      "정답. 목화 재배 조건은 탑의 내진 구조와 무관합니다.",
+      "층이 따로 미끄러지는 구조를 설명하는 문장입니다.",
+      "중심 기둥이 흔들림을 상쇄하는 역할을 설명합니다.",
+      "넓고 무거운 지붕의 역할을 설명합니다.",
+      "현대 건물이 비슷한 원리를 쓴다는 마무리입니다."
     ],
-    "trap": "첫 번째 번호 문장이라 주제문의 연속처럼 보일 수 있습니다.",
-    "tip": "주제(걷기 등교의 이점)와 이어지지 않는 문장을 고르세요."
+    "trap": "'warm weather'나 'regions' 같은 낱말은 'earthquake-prone countries'와 겹쳐 보이지만 주제와는 무관합니다.",
+    "tip": "첫 두 문장에서 주제(탑의 유연한 구조)를 잡고 이에서 벗어난 문장을 찾으세요."
   },
   {
     "id": "m2b-02-36",
     "level": "m2",
     "set": "mock-02",
+    "rev": 2,
     "no": 36,
     "type": "order",
     "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
-    "passage": "In 2010, a small bakery in a Swedish town decided to waste less bread at the end of each day. The owner disliked throwing away loaves that were still perfectly good.\n(A) This attracted students and retired people who could not afford fresh bread every day. The shop's sales slowly increased as the word spread.\n(B) Instead of discarding the leftover bread, the owner began to sell it at half price during the last hour before closing time.\n(C) Within two years, the idea had spread to several other bakeries in the region. The amount of food waste in the area dropped noticeably.",
+    "passage": "Before the nineteenth century, doctors listened to a patient's chest by pressing an ear directly against the skin, a method that was often awkward and unreliable.\n(A) The result astonished him. The heartbeat came through more clearly than it ever had by direct listening, and he could even distinguish separate sounds inside the heart. Laennec soon replaced the paper with a wooden tube and gave the device the name stethoscope, from Greek words meaning \"chest\" and \"to look.\"\n(B) In 1816, the French doctor René Laennec was asked to examine a young woman with heart trouble. Because of her age and the customs of the time, he felt that placing his ear on her chest would be improper. Remembering that children could hear a scratch at one end of a long piece of wood when they listened at the other, he rolled a sheet of paper into a tube. He put one end on her chest and held the other to his ear.\n(C) The new instrument changed medicine far beyond that single examination. By comparing the sounds he heard with what he found in patients after their deaths, Laennec learned to recognize many lung diseases, including tuberculosis, from the sound alone. Later doctors improved the design with flexible tubes and two earpieces, and the stethoscope became a symbol of the medical profession.",
     "options": [
       "(A)-(C)-(B)",
       "(B)-(A)-(C)",
@@ -211,26 +219,27 @@
       "(C)-(B)-(A)"
     ],
     "answer": 1,
-    "translation": "2010년 스웨덴의 한 소도시의 작은 빵집은 주인이 아직 멀쩡한 빵을 버리는 것을 싫어해서 매일 하루가 끝날 때 빵을 덜 버리기로 했다. (B) 남은 빵을 버리는 대신 주인은 문 닫기 전 마지막 한 시간 동안 반값에 팔기 시작했다. (A) 이것은 매일 신선한 빵을 사기 어려운 학생과 은퇴한 사람들을 끌어들였고, 소문이 퍼지면서 가게의 매출이 서서히 늘었다. (C) 2년 안에 이 아이디어는 그 지역의 여러 다른 빵집으로 퍼졌고 지역의 음식물 쓰레기 양이 눈에 띄게 줄었다.",
-    "why": "(B) 반값에 팔기 시작 → (A) 'This attracted' 고객 유입 → (C) 'Within two years' 확산 순서입니다.",
+    "translation": "19세기 이전에 의사들은 환자의 가슴에 귀를 직접 대고 들었는데, 이 방법은 흔히 어색하고 믿을 수 없었다. (B) 1816년 프랑스 의사 르네 라에네크는 심장 문제가 있는 젊은 여성을 진찰해 달라는 요청을 받았다. 그녀의 나이와 당시의 관습 때문에 그는 그녀의 가슴에 귀를 대는 것이 부적절하다고 느꼈다. 아이들이 긴 나무토막의 한쪽 끝에서 나는 긁는 소리를 다른 쪽 끝에서 들을 수 있다는 것을 떠올린 그는 종이 한 장을 말아 관을 만들었다. 그는 한쪽 끝을 그녀의 가슴에 대고 다른 쪽을 자신의 귀에 댔다. (A) 결과는 그를 놀라게 했다. 심장 박동이 직접 들을 때보다 더 선명하게 전달되었고 그는 심장 안의 별개 소리들을 구별할 수도 있었다. 라에네크는 곧 종이를 나무 관으로 바꾸고 그 기구에 '가슴'과 '보다'를 뜻하는 그리스어에서 따온 청진기라는 이름을 붙였다. (C) 새 기구는 그 한 번의 진찰을 훨씬 넘어 의학을 바꾸었다. 라에네크는 자신이 들은 소리를 환자가 죽은 뒤 발견한 소견과 비교해 결핵을 포함한 많은 폐 질환을 소리만으로 알아보게 되었다. 이후 의사들은 유연한 관과 두 개의 이어피스로 설계를 개선했고 청진기는 의료 직업의 상징이 되었다.",
+    "why": "(B) 라에네크가 종이를 말아 사용한 일 → (A) 'The result' 그 결과와 청진기 명명 → (C) 'The new instrument' 의학에 끼친 영향 순서입니다.",
     "optionNotes": [
-      "(A)의 'This'가 가리킬 내용이 앞에 없습니다.",
-      "정답. 시작 → 반응 → 확산.",
-      "(C)의 확산이 (A)의 반응 전에 올 수 없습니다.",
-      "(C)의 'the idea'가 가리킬 내용이 앞에 없습니다.",
-      "(C)의 'the idea'가 가리킬 내용이 앞에 없습니다."
+      "(A)의 'The result'가 가리킬 시도가 먼저 나와야 합니다.",
+      "정답. (B) 시도 → (A) 결과 → (C) 영향입니다.",
+      "(C)의 'The new instrument'가 나오려면 (A)에서 기구의 이름이 붙은 뒤여야 합니다.",
+      "(C)는 기구가 만들어진 뒤의 이야기이므로 맨 처음에 올 수 없습니다.",
+      "(C)가 맨 처음에 오면 'The new instrument'의 지시 대상이 없습니다."
     ],
-    "trap": "(A)의 'This'는 (B)의 반값 판매를 가리킵니다.",
-    "tip": "지시어(This, the idea)가 가리키는 앞 문장을 확인하세요."
+    "trap": "'1816'이 나오는 (B)가 시간상 먼저이고, 'The result/The new instrument' 같은 지시어가 순서의 열쇠입니다.",
+    "tip": "지시어(The result, The new instrument)가 가리키는 대상이 먼저 나온 단락을 앞에 두세요."
   },
   {
     "id": "m2b-02-37",
     "level": "m2",
     "set": "mock-02",
+    "rev": 2,
     "no": 37,
     "type": "order",
     "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
-    "passage": "Most people think of sleep as a time when the body and the brain simply shut down for the night. It is like a computer that has been turned off.\n(A) During this stage, it sorts through the day's experiences and strengthens important memories. It also clears away unnecessary information that is no longer needed.\n(B) That is why a student who sleeps well before an exam often remembers more than one who studies all night without any rest.\n(C) In reality, the brain is highly active during sleep, especially during a stage known as REM sleep, when most vivid dreams occur.",
+    "passage": "In 1968, a scientist at a large American company set out to create an extremely strong glue, but his experiment gave him an unexpected result.\n(A) Several years later, another employee, Art Fry, grew frustrated because the paper bookmarks in his church songbook kept falling out. He remembered the weak glue and wondered whether it could hold a bookmark in place without damaging the page. He tried a little of it on the paper, and it worked perfectly.\n(B) Encouraged, Fry realized that the same small notes could also carry short messages and be stuck anywhere and moved again. The company at first doubted that anyone would buy them, but free samples handed out in an office city changed its mind, and the notes soon became one of the best-selling office products in the world.\n(C) Spencer Silver had produced an adhesive that stuck to surfaces only lightly and could be peeled off without leaving a mark. By the standards of his task, it was a failure, and for years his colleagues could not imagine any use for it. Silver kept explaining the material at seminars in the hope that someone would find a purpose for it.",
     "options": [
       "(A)-(C)-(B)",
       "(B)-(A)-(C)",
@@ -239,26 +248,27 @@
       "(C)-(B)-(A)"
     ],
     "answer": 3,
-    "translation": "대부분의 사람은 잠을 몸과 뇌가 꺼진 컴퓨터처럼 밤새 그냥 멈추는 시간이라고 생각한다. (C) 실제로 뇌는 잠자는 동안, 특히 생생한 꿈이 대부분 일어나는 렘수면이라는 단계에서 매우 활발하다. (A) 이 단계에서 뇌는 하루의 경험을 분류하고 중요한 기억을 강화하며 더 이상 필요 없는 불필요한 정보를 치운다. (B) 그래서 시험 전에 잘 자는 학생이 쉬지 않고 밤새 공부하는 학생보다 더 많이 기억하는 경우가 많다.",
-    "why": "(C) In reality 통념 반박 → (A) 'During this stage' 렘수면의 역할 → (B) 'That is why' 결론 순서입니다.",
+    "translation": "1968년 미국의 한 대기업의 과학자는 매우 강력한 접착제를 만들려고 했지만 그의 실험은 뜻밖의 결과를 낳았다. (C) 스펜서 실버는 표면에 아주 약하게만 붙고 자국을 남기지 않고 떼어 낼 수 있는 접착제를 만들었다. 그의 과제의 기준으로는 실패였고 몇 해 동안 동료들은 그것의 쓸모를 상상하지 못했다. 실버는 누군가 그것의 쓰임새를 찾아 주기를 바라며 세미나에서 그 물질을 계속 설명했다. (A) 몇 해 뒤 다른 직원인 아트 프라이는 교회 찬송가집의 종이 책갈피가 자꾸 떨어져서 짜증이 났다. 그는 그 약한 접착제를 기억하고 그것이 책장을 상하게 하지 않고 책갈피를 제자리에 붙들 수 있을지 궁금했다. 그는 종이에 조금 발라 보았고 그것은 완벽하게 작동했다. (B) 힘을 얻은 프라이는 같은 작은 쪽지가 짧은 메시지를 전하고 어디에나 붙였다가 다시 옮길 수도 있다는 것을 깨달았다. 회사는 처음에 누가 그것을 살지 의심했지만 한 사무실 도시에 나눠 준 무료 견본이 마음을 바꾸었고 그 쪽지는 곧 세계에서 가장 많이 팔리는 사무용품 중 하나가 되었다.",
+    "why": "(C) 약한 접착제를 만든 실버 → (A) 몇 해 뒤 프라이가 그것을 책갈피에 응용 → (B) 프라이가 메모지로 확장하고 성공하는 순서입니다.",
     "optionNotes": [
-      "(A)의 'it'과 'this stage'가 가리킬 대상이 앞에 없습니다.",
-      "(B)의 'That is why'가 가리킬 이유가 앞에 없습니다.",
-      "(B)가 앞서면 이유가 나오기 전에 결론이 나옵니다.",
-      "정답. 반박 → 설명 → 결론.",
-      "(B)가 (A)보다 앞서면 설명 전에 결론이 나옵니다."
+      "(A)의 'the weak glue'는 (C)에서 소개된 뒤여야 합니다.",
+      "(B)는 (A)의 결과이므로 처음에 올 수 없습니다.",
+      "(B)는 프라이의 깨달음이므로 (A) 뒤에 와야 합니다.",
+      "정답. (C) 접착제 개발 → (A) 책갈피 응용 → (B) 메모지 성공입니다.",
+      "(B)가 (A) 앞에 오면 'Fry'가 아직 소개되지 않았습니다."
     ],
-    "trap": "(A)의 'this stage'는 (C)의 'REM sleep'을 가리킵니다.",
-    "tip": "In reality → During this stage → That is why의 흐름을 따라가세요."
+    "trap": "(A)의 'Several years later'를 보고 맨 앞에 올 수 있다고 착각하기 쉽지만 'the weak glue'는 (C)가 설명합니다.",
+    "tip": "정관사가 붙은 대상(the weak glue)이 이전에 소개되었는지, 인물이 처음 소개되는지 확인하세요."
   },
   {
     "id": "m2b-02-38",
     "level": "m2",
     "set": "mock-02",
+    "rev": 2,
     "no": 38,
     "type": "insert",
     "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
-    "passage": "[주어진 문장]\nThe invention of the printing press in the fifteenth century changed the world more than most people realize.\n\n[글]\n( ① ) Before it appeared, books were copied by hand, so they were rare and extremely expensive. ( ② ) Printing made books cheaper, and ordinary people could finally afford to read. ( ③ ) As literacy spread, new ideas traveled across borders faster than ever before. ( ④ ) Many historians believe that this helped to bring about the scientific revolution. ( ⑤ )",
+    "passage": "[주어진 문장]\nLarge cities offer an extraordinary range of opportunities, yet many of their residents feel strangely alone.\n\n[글]\n( ① ) This loneliness is often hidden, because people in crowded places rarely admit to it, and neighbors may pass one another in a hallway for years without learning each other's names. ( ② ) Some cities have therefore begun to support community gardens, small plots where residents grow vegetables side by side. ( ③ ) Working in the soil gives strangers something to talk about, and a shared task makes conversation easy even for those who are shy. ( ④ ) A study of several such gardens found that members were more likely to know their neighbors' names and to ask them for help, and nearly half of them said that they had made a close friend there. ( ⑤ ) The gardeners also eat more fresh vegetables, which is a pleasant extra. Planners now consider such spaces to be a part of public health, much like parks and clinics, and some cities now reserve garden space in every new housing project.",
     "options": [
       "①",
       "②",
@@ -267,26 +277,27 @@
       "⑤"
     ],
     "answer": 0,
-    "translation": "[주어진 문장] 15세기 인쇄술의 발명은 대부분의 사람이 아는 것보다 더 세상을 바꾸었다. [글] 인쇄술이 나타나기 전에는 책을 손으로 베꼈기 때문에 귀하고 매우 비쌌다. 인쇄로 책이 싸지면서 평범한 사람들도 마침내 읽을 여유가 생겼다. 문해력이 퍼지자 새로운 생각이 이전보다 훨씬 빠르게 국경을 넘었다. 많은 역사가는 이것이 과학 혁명을 일으키는 데 도움이 되었다고 믿는다.",
-    "why": "주어진 문장이 주제를 제시하고, 이어지는 'Before it appeared'의 'it'이 인쇄술을 가리키므로 글의 맨 앞인 ①에 들어갑니다.",
+    "translation": "[주어진 문장] 대도시는 대단히 다양한 기회를 제공하지만 많은 주민이 이상하게 외로움을 느낀다. [글] 이 외로움은 흔히 숨겨져 있는데, 붐비는 곳의 사람들이 좀처럼 그것을 인정하지 않고 이웃들이 서로의 이름도 모른 채 복도에서 수년간 스쳐 지나가기도 하기 때문이다. 그래서 일부 도시는 주민들이 나란히 채소를 가꾸는 작은 땅인 공동체 정원을 지원하기 시작했다. 흙에서 일하는 것은 낯선 사람들에게 이야기할 거리를 주고 공동의 일은 수줍은 사람도 쉽게 대화하게 해 준다. 이런 정원 몇 곳에 대한 한 연구는 구성원들이 이웃의 이름을 알고 도움을 청할 가능성이 더 높음을 발견했고, 그들 중 거의 절반은 그곳에서 가까운 친구를 사귀었다고 말했다. 정원사들은 신선한 채소도 더 많이 먹는데, 이는 기분 좋은 덤이다. 계획가들은 이제 이런 공간을 공원이나 진료소처럼 공중 보건의 일부로 여기며, 일부 도시는 이제 모든 새 주택 사업에 정원 공간을 따로 마련한다.",
+    "why": "'This loneliness'가 가리키는 외로움이 먼저 언급되어야 하므로 주어진 문장은 글의 맨 앞인 ①에 들어갑니다.",
     "optionNotes": [
-      "정답. 주제 제시 뒤에 'it'으로 이어집니다.",
-      "'it'이 가리킬 대상이 이미 앞에 나오지 않아 ①이 먼저여야 합니다.",
-      "설명 도중이라 주제 문장이 어색합니다.",
-      "결과를 말하는 도중이라 주제 문장이 어색합니다.",
-      "글의 끝이라 주제 문장이 어색합니다."
+      "정답. 'This loneliness'의 지시 대상(외로움)을 제공합니다.",
+      "①의 'This loneliness'가 가리킬 대상이 없어집니다.",
+      "정원 설명 중간에 끼면 외로움 이야기가 갑자기 나옵니다.",
+      "연구 결과 앞에 끼면 흐름이 끊깁니다.",
+      "마무리 단락 앞에 끼면 'Some cities have therefore ...'의 근거가 사라집니다."
     ],
-    "trap": "주제 문장은 중간에 두기 쉽지만 'it'이 받는 대상이 필요합니다.",
-    "tip": "대명사(it)가 가리키는 명사가 앞에 있는지 확인하세요."
+    "trap": "'yet'으로 시작하는 문장이므로 앞에 긍정적 문장이 있어야 한다고 생각하면 ②~⑤로 흔들립니다. 'yet'은 문장 안의 대조입니다.",
+    "tip": "주어진 문장이 만든 개념(loneliness)이 다음 문장의 지시어(This loneliness)로 이어지는지 확인하세요."
   },
   {
     "id": "m2b-02-39",
     "level": "m2",
     "set": "mock-02",
+    "rev": 2,
     "no": 39,
     "type": "insert",
     "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
-    "passage": "[주어진 문장]\nAs a result, the village now has more tourists than it can comfortably handle.\n\n[글]\n( ① ) The village of Lindenau was almost unknown ten years ago. ( ② ) Then a travel blogger posted a photo of its painted houses. ( ③ ) The photo went viral, and within a year visitors from dozens of countries were arriving by the busload. ( ④ ) Residents now complain about heavy traffic, constant noise, and rising prices. ( ⑤ )",
+    "passage": "[주어진 문장]\nThis close link explains why the scent of a particular soap or a kitchen can instantly bring back a scene from childhood.\n\n[글]\n( ① ) Of all the senses, smell has the most direct route to the parts of the brain that handle emotion and memory. ( ② ) Signals from sight and hearing first pass through a central relay station called the thalamus, and only then reach the cortex, where they are interpreted. ( ③ ) Smell signals, by contrast, travel through only a few connections before arriving at the amygdala and the hippocampus, regions that are deeply involved in feeling and remembering. ( ④ ) Because the memories that return in this way have not been put into words first, they often feel more emotional and more vivid than memories brought back by a photograph. ( ⑤ ) Researchers are now testing whether familiar scents can help patients with memory loss recall their past, and early results suggest that the idea may be worth pursuing.",
     "options": [
       "①",
       "②",
@@ -295,44 +306,45 @@
       "⑤"
     ],
     "answer": 3,
-    "translation": "[주어진 문장] 그 결과 마을은 이제 편안하게 감당할 수 있는 것보다 더 많은 관광객을 맞고 있다. [글] 린덴아우 마을은 십 년 전만 해도 거의 알려지지 않았다. 그러던 중 한 여행 블로거가 칠해진 집들의 사진을 올렸다. 사진은 입소문을 타 퍼졌고 일 년 안에 수십 개국의 방문객이 버스를 가득 채워 도착했다. 그 결과 마을은 이제 편안하게 감당할 수 있는 것보다 더 많은 관광객을 맞고 있다. 주민들은 이제 심한 교통 체증, 끊임없는 소음, 오르는 물가에 불평한다.",
-    "why": "'As a result'는 사진이 입소문을 타고 방문객이 몰린 사건의 결과이며, 뒤의 주민들의 불평(문제)으로 이어지므로 ④에 들어갑니다.",
+    "translation": "[주어진 문장] 이 긴밀한 연결은 특정한 비누나 부엌의 냄새가 어린 시절의 한 장면을 즉시 되살릴 수 있는 이유를 설명한다. [글] 모든 감각 중 후각은 감정과 기억을 다루는 뇌 부위로 가는 가장 직접적인 경로를 가지고 있다. 시각과 청각의 신호는 먼저 시상이라는 중앙 중계소를 지난 뒤에야 해석이 이루어지는 피질에 도달한다. 반면 후각 신호는 몇 개의 연결만 거쳐 느낌과 기억에 깊이 관여하는 영역인 편도체와 해마에 도착한다. 이런 식으로 되살아나는 기억은 먼저 말로 옮겨지지 않았기 때문에 사진이 불러온 기억보다 흔히 더 감정적이고 더 생생하게 느껴진다. 연구자들은 이제 익숙한 냄새가 기억 상실 환자가 과거를 떠올리게 도울 수 있는지 시험하고 있으며 초기 결과는 그 생각이 추구할 만하다고 시사한다.",
+    "why": "'This close link'는 바로 앞 문장에서 설명한 후각 신호와 편도체·해마의 직접적 연결을 가리키며, 그 결과로 냄새가 기억을 되살린다는 설명이 이어지므로 ④에 들어갑니다.",
     "optionNotes": [
-      "원인이 나오기 전입니다.",
-      "원인이 일부만 나왔습니다.",
-      "방문객이 도착했다는 내용이 아직 이어지는 중입니다.",
-      "정답. 방문객이 몰린 사건의 결과이자 불평의 원인입니다.",
-      "글의 끝이라 불평 뒤에 결과가 오면 인과가 뒤집힙니다."
+      "'This close link'가 가리킬 연결이 아직 설명되지 않았습니다.",
+      "시각·청각 경로를 설명하는 중간이라 연결 설명이 아직 나오지 않았습니다.",
+      "후각의 직접 경로 설명 앞에 끼면 'This close link'의 지시 대상이 없습니다.",
+      "정답. 직접 연결을 설명한 뒤 그 결과를 이어 말합니다.",
+      "마지막 응용 연구 문장 앞에 끼면 앞 문장('Because the memories ...')이 갑자기 나옵니다."
     ],
-    "trap": "⑤도 가능해 보이지만 '불평'은 관광객이 많아진 결과이므로 순서가 맞지 않습니다.",
-    "tip": "As a result는 원인 사건 바로 뒤, 그 결과를 설명하는 문장 앞에 놓입니다."
+    "trap": "③ 뒤와 ④ 뒤 모두 후각 이야기라 헷갈립니다. 'This close link'가 앞 문장의 'a few connections ... amygdala'를 받는지 확인하세요.",
+    "tip": "This + 명사 형태의 지시어는 바로 앞 문장의 내용을 요약한 것입니다."
   },
   {
     "id": "m2b-02-40",
     "level": "m2",
     "set": "mock-02",
+    "rev": 2,
     "no": 40,
     "type": "summary",
     "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "A city introduced a bike-sharing system and placed bikes at stations all around the downtown area. At first, many people used them only for fun on weekends. Later, the city added bike lanes that connected the stations to subway lines and office districts. After that, the number of daily users tripled. A survey showed that about one in three users had replaced a short car trip with a bike ride. As a result, traffic in the center of the city decreased, and the air became cleaner.\n\n▶ Providing safe bike lanes (A) the use of shared bikes, which in turn (B) traffic and air pollution in the city.",
+    "passage": "Cities are full of noise, and for birds, which depend on sound to defend their territory and attract mates, that noise is a serious problem. Low-frequency traffic sound covers the same range as the songs of many species, so a male singing in the old way may not be heard by the female he hopes to attract. Researchers who recorded great tits in European cities found that city birds sing at a higher pitch than those living in forests, which lets their songs rise above the rumble. In the loudest neighborhoods, nightingales were found to sing more loudly, and some species have moved their singing to the quiet early hours before the morning rush. These changes do not come from inherited traits alone: young birds appear to learn from their neighbors which version works best. The adjustment, however, has costs. Louder singing uses more energy, and a higher song may be less attractive to some females. Still, the birds that adapt are the ones that remain in cities. Their songs show how quickly animals can alter their behavior when human noise surrounds them.\n\n▶ Birds in noisy cities (A) their songs in ways that help them (B) the noise made by humans.",
     "options": [
-      "(A) discouraged — (B) increased",
-      "(A) delayed — (B) ignored",
-      "(A) limited — (B) caused",
-      "(A) replaced — (B) forgot",
-      "(A) encouraged — (B) reduced"
+      "(A) change — (B) ignore",
+      "(A) lower — (B) overcome",
+      "(A) change — (B) imitate",
+      "(A) repeat — (B) avoid",
+      "(A) change — (B) overcome"
     ],
     "answer": 4,
-    "translation": "한 도시는 자전거 공유 제도를 도입하고 도심 곳곳의 정거장에 자전거를 두었다. 처음에는 많은 사람이 주말에 재미로만 이용했다. 이후 도시는 정거장을 지하철 노선과 사무 지구에 연결하는 자전거 도로를 추가했다. 그 뒤 일일 이용자 수가 세 배가 되었다. 조사에 따르면 이용자 셋 중 한 명 정도가 짧은 자동차 이동을 자전거 타기로 바꾸었다. 그 결과 도심의 교통량이 줄고 공기가 더 깨끗해졌다. ▶ 안전한 자전거 도로를 제공하는 것은 공유 자전거의 이용을 장려했고, 이는 다시 도시의 교통과 대기 오염을 줄였다.",
-    "why": "자전거 도로를 추가한 뒤 이용자가 세 배가 되었고 교통량과 대기 오염이 줄었으므로 (A)는 encouraged, (B)는 reduced입니다.",
+    "translation": "도시는 소음으로 가득하고, 영역을 지키고 짝을 유혹하려고 소리에 의존하는 새들에게 그 소음은 심각한 문제이다. 저주파 교통 소리는 많은 종의 노래와 같은 범위를 덮으므로 예전 방식으로 노래하는 수컷은 그가 유혹하려는 암컷에게 들리지 않을 수 있다. 유럽 도시에서 박새를 녹음한 연구자들은 도시의 새들이 숲에 사는 새들보다 높은 음으로 노래해서 노래가 웅웅거리는 소리 위로 솟아오른다는 것을 발견했다. 가장 시끄러운 동네에서는 나이팅게일이 더 크게 노래하는 것이 발견되었고, 일부 종은 아침 혼잡 전의 조용한 이른 시간으로 노래를 옮겼다. 이런 변화는 유전적 특성만으로 생기는 것이 아니다. 어린 새들은 어떤 방식이 가장 잘 통하는지 이웃에게서 배우는 것으로 보인다. 그러나 이 조정에는 대가가 있다. 더 크게 노래하면 에너지가 더 들고 더 높은 노래는 일부 암컷에게 덜 매력적일 수 있다. 그래도 적응하는 새들이 도시에 남는 새들이다. 그들의 노래는 인간의 소음에 둘러싸일 때 동물이 얼마나 빨리 행동을 바꿀 수 있는지 보여 준다. ▶ 시끄러운 도시의 새들은 인간이 만든 소음을 극복하는 데 도움이 되도록 노래를 바꾼다.",
+    "why": "도시의 새들이 소음 속에서 들리도록 노래를 바꾸는(change) 방법으로 소음을 이겨 낸다(overcome)는 내용이므로 ⑤입니다.",
     "optionNotes": [
-      "discouraged와 increased는 글과 반대입니다.",
-      "delayed와 ignored는 글에 나오지 않습니다.",
-      "limited와 caused는 글과 반대입니다.",
-      "replaced와 forgot은 글에 나오지 않습니다.",
-      "정답. 이용을 장려해 교통과 오염을 줄였습니다."
+      "소음을 무시하는 것이 아니라 극복하려고 노래를 바꿉니다.",
+      "노래의 음을 낮추는 것이 아니라 높였습니다.",
+      "소음을 흉내 낸다는 내용은 없습니다.",
+      "노래를 반복하거나 소음을 피한다는 내용이 아닙니다.",
+      "정답. 노래를 바꿔서 소음을 극복합니다."
     ],
-    "trap": "(A)가 맞아도 (B)가 글의 결과(감소)와 맞는지 확인하세요.",
-    "tip": "요약문은 원인(bike lanes)과 결과(use ↑, traffic ↓)를 짝지으세요."
+    "trap": "②는 'Low-frequency'에서 낮추는 쪽을 떠올리기 쉽지만 새들은 음을 높였습니다.",
+    "tip": "요약문 문제는 글의 핵심 동사(sing at a higher pitch, move their singing)를 상위어(change)로 바꿔 보세요."
   }
 ]

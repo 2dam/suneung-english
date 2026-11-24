@@ -3,40 +3,42 @@
     "id": "m2b-02-41",
     "level": "m2",
     "set": "mock-02",
+    "rev": 2,
     "no": 41,
     "type": "long",
     "group": "m2b-02-g41",
     "stem": "[41~42] 윗글의 제목으로 가장 적절한 것을 고르시오.",
-    "passage": "Millions of people download \"free\" apps every day, but few stop to ask how the companies behind them make money. In most cases, the answer is advertising. These apps collect information about users, such as their location, their interests, and the websites they visit, and then sell that information to advertisers. The more precisely a company can describe its users, the more it can charge for an advertisement. In other words, when a service is free, the user is often the product. Although this system is perfectly legal, many users are unaware of how much data they are {1|giving}. Some privacy experts therefore advise people to read the privacy policy carefully, even though it is usually long and {2|difficult}. Users can also choose paid versions of apps, which {3|increase} the need for advertising. Others recommend limiting the permissions that an app can use, such as turning off location tracking when it is not {4|necessary}. In the end, being a careful consumer means understanding that nothing online is truly free, and that our attention and our information have {5|value}.",
+    "passage": "Origami, the Japanese art of folding paper, has long been treated as a children's pastime, yet engineers now study it as seriously as mathematicians do. The attraction is simple: a flat sheet can be {1|transformed} into a complex shape, and the same shape can be unfolded again without losing any material. When a space agency needed to send a large solar panel into orbit inside a small rocket, the problem seemed impossible, because the panel had to be much wider than the container. Researchers found a solution in a folding pattern called the Miura fold. In this pattern, a sheet collapses into a compact bundle along its creases and opens with a single pull. Because every crease moves at the same time, the panel does not need many motors, and the risk of a part {2|failing} in space is therefore reduced. Medical researchers have used similar ideas to design a tiny tube for the heart that is {3|expanded} to the size of a pea until it reaches a blocked artery. Once it is inside the body, the tube opens and holds the artery open. The same principle appears in car airbags, which are folded in precise patterns so that they inflate in a fraction of a second without tangling. What makes origami so useful is that its rules are {4|predictable}: once the pattern of creases is known, the final shape can be calculated by a computer before any material is cut. Designers can now test thousands of patterns in a single afternoon and choose the lightest and strongest one. In this way, an ancient craft has become a source of fresh ideas for fields that seem to have nothing to do with art, and its beauty is no longer {5|separate} from its usefulness.",
     "options": [
-      "How Smartphone Batteries Are Made and Recycled",
-      "The Hidden Price of Free Apps: Your Data",
-      "Why Paid Apps Always Have Better Graphics",
-      "A Short History of Online Advertising in Newspapers",
-      "Ten Tips for Learning to Code Quickly at Home"
+      "The Long History of Paper Making Across East Asia",
+      "Folding Ideas: How a Paper Art Is Shaping Modern Engineering",
+      "Why Satellites Must Carry Very Large Solar Panels into Orbit Today",
+      "Teaching Mathematics Through Creative Hobbies in Schools",
+      "Airbags and the Future of Safety in Every Car"
     ],
     "answer": 1,
-    "translation": "수백만 명이 매일 \"무료\" 앱을 내려받지만 그 뒤의 회사들이 어떻게 돈을 버는지 생각해 보는 사람은 드물다. 대부분의 경우 답은 광고이다. 이런 앱은 위치, 관심사, 방문하는 웹사이트 같은 사용자 정보를 모아 그 정보를 광고주에게 판다. 회사가 사용자를 더 정확하게 설명할수록 광고에 더 많은 값을 받을 수 있다. 다시 말해 서비스가 무료일 때 사용자가 흔히 상품이다. 이 체계는 완전히 합법이지만 많은 사용자는 자신이 얼마나 많은 데이터를 내주고 있는지 모른다. 그래서 일부 개인 정보 보호 전문가는 개인 정보 처리 방침이 보통 길고 어렵더라도 주의 깊게 읽으라고 조언한다. 사용자는 광고의 필요성을 줄이는 유료 버전을 선택할 수도 있다. 다른 이들은 필요하지 않을 때 위치 추적을 끄는 것처럼 앱이 쓸 수 있는 권한을 제한하라고 권한다. 결국 신중한 소비자가 된다는 것은 온라인에 진짜 공짜는 없으며 우리의 관심과 정보에 가치가 있음을 이해하는 것이다.",
-    "why": "무료 앱이 사용자 정보를 팔아 돈을 번다는 내용이므로 ②가 제목입니다.",
+    "translation": "일본의 종이접기 예술인 오리가미는 오랫동안 어린이의 소일거리로 여겨졌지만 이제 기술자들은 수학자들만큼 진지하게 그것을 연구한다. 매력은 간단하다. 평평한 종이 한 장이 복잡한 모양으로 바뀔 수 있고 같은 모양을 재료를 잃지 않고 다시 펼 수 있다. 우주 기관이 큰 태양 전지판을 작은 로켓 안에 넣어 궤도로 보내야 했을 때 전지판이 용기보다 훨씬 넓어야 했기에 문제는 불가능해 보였다. 연구자들은 미우라 접기라는 접는 방식에서 해결책을 찾았다. 이 방식에서는 종이가 접힌 선을 따라 조밀한 묶음으로 접히고 한 번 당기면 펼쳐진다. 모든 접힌 선이 동시에 움직이므로 전지판에는 많은 모터가 필요하지 않고, 그래서 우주에서 부품이 고장 날 위험이 줄어든다. 의학 연구자들은 비슷한 아이디어로 막힌 동맥에 닿을 때까지 완두콩 크기로 확장되는 심장용 작은 관을 설계했다. 몸 안에 들어가면 관이 열려 동맥을 벌려 둔다. 같은 원리는 자동차 에어백에도 나타나는데, 에어백은 엉키지 않고 순식간에 부풀도록 정밀한 방식으로 접혀 있다. 오리가미를 그토록 유용하게 만드는 것은 그 규칙이 예측 가능하다는 점이다. 접힌 선의 패턴만 알면 재료를 자르기 전에 컴퓨터로 최종 모양을 계산할 수 있다. 설계자들은 이제 하루 오후에 수천 개의 패턴을 시험해 가장 가볍고 튼튼한 것을 고를 수 있다. 이렇게 해서 오래된 공예는 예술과 아무 관련이 없어 보이는 분야에 새로운 아이디어의 원천이 되었고 그 아름다움은 더는 쓸모와 분리되어 있지 않다.",
+    "why": "종이접기의 원리가 태양 전지판, 의료 기구, 에어백 등 현대 공학에 응용된다는 내용이므로 ②가 제목으로 알맞습니다.",
     "optionNotes": [
-      "배터리 재활용은 나오지 않습니다.",
-      "정답. 무료 앱의 숨은 대가인 개인 정보입니다.",
-      "그래픽 비교는 나오지 않습니다.",
-      "신문 광고의 역사는 나오지 않습니다.",
-      "코딩 학습은 나오지 않습니다."
+      "제지의 역사는 나오지 않습니다.",
+      "정답. 종이접기가 현대 공학을 형성한다는 글 전체의 핵심입니다.",
+      "전지판은 하나의 예일 뿐 위성이 전지판을 싣는 이유가 주제가 아닙니다.",
+      "수학 교육은 나오지 않습니다.",
+      "에어백은 하나의 예일 뿐입니다."
     ],
-    "trap": "'paid versions'가 나온다고 유료 앱의 장점(③)을 고르지 마세요.",
-    "tip": "제목은 글의 핵심 통찰(when a service is free, the user is often the product)을 담으세요."
+    "trap": "'solar panel', 'airbag'은 예시일 뿐입니다. 하나의 예를 제목으로 고르지 마세요.",
+    "tip": "여러 예시가 나열될 때 제목은 그 모두를 아우르는 상위 개념을 담아야 합니다."
   },
   {
     "id": "m2b-02-42",
     "level": "m2",
     "set": "mock-02",
+    "rev": 2,
     "no": 42,
     "type": "long",
     "group": "m2b-02-g41",
     "stem": "[41~42] 밑줄 친 ①~⑤ 중에서 문맥상 낱말의 쓰임이 적절하지 않은 것을 고르시오.",
-    "passage": "Millions of people download \"free\" apps every day, but few stop to ask how the companies behind them make money. In most cases, the answer is advertising. These apps collect information about users, such as their location, their interests, and the websites they visit, and then sell that information to advertisers. The more precisely a company can describe its users, the more it can charge for an advertisement. In other words, when a service is free, the user is often the product. Although this system is perfectly legal, many users are unaware of how much data they are {1|giving}. Some privacy experts therefore advise people to read the privacy policy carefully, even though it is usually long and {2|difficult}. Users can also choose paid versions of apps, which {3|increase} the need for advertising. Others recommend limiting the permissions that an app can use, such as turning off location tracking when it is not {4|necessary}. In the end, being a careful consumer means understanding that nothing online is truly free, and that our attention and our information have {5|value}.",
+    "passage": "Origami, the Japanese art of folding paper, has long been treated as a children's pastime, yet engineers now study it as seriously as mathematicians do. The attraction is simple: a flat sheet can be {1|transformed} into a complex shape, and the same shape can be unfolded again without losing any material. When a space agency needed to send a large solar panel into orbit inside a small rocket, the problem seemed impossible, because the panel had to be much wider than the container. Researchers found a solution in a folding pattern called the Miura fold. In this pattern, a sheet collapses into a compact bundle along its creases and opens with a single pull. Because every crease moves at the same time, the panel does not need many motors, and the risk of a part {2|failing} in space is therefore reduced. Medical researchers have used similar ideas to design a tiny tube for the heart that is {3|expanded} to the size of a pea until it reaches a blocked artery. Once it is inside the body, the tube opens and holds the artery open. The same principle appears in car airbags, which are folded in precise patterns so that they inflate in a fraction of a second without tangling. What makes origami so useful is that its rules are {4|predictable}: once the pattern of creases is known, the final shape can be calculated by a computer before any material is cut. Designers can now test thousands of patterns in a single afternoon and choose the lightest and strongest one. In this way, an ancient craft has become a source of fresh ideas for fields that seem to have nothing to do with art, and its beauty is no longer {5|separate} from its usefulness.",
     "options": [
       "①",
       "②",
@@ -46,26 +48,27 @@
     ],
     "answer": 2,
     "translation": "(41번 지문과 같은 글입니다.)",
-    "why": "유료 버전은 광고의 필요성을 '줄이므로' 'increase'가 아니라 'reduce'여야 합니다.",
+    "why": "관이 완두콩 크기일 때는 접히거나 압축된 상태이고 몸 안에서 열리므로 expanded가 아니라 compressed(folded)여야 합니다.",
     "optionNotes": [
-      "데이터를 내준다는 의미로 giving이 알맞습니다.",
-      "방침이 길고 어렵다는 의미로 difficult가 알맞습니다.",
-      "정답(부적절). 유료 버전은 광고의 필요를 줄이므로 reduce여야 합니다.",
-      "필요하지 않을 때라는 의미로 necessary가 알맞습니다.",
-      "가치가 있다는 의미로 value가 알맞습니다."
+      "평평한 종이가 복잡한 모양으로 '바뀐다(transformed)'는 문맥에 맞습니다.",
+      "모든 접힌 선이 동시에 움직이면 부품이 '고장 날(failing)' 위험이 줄어든다는 문맥에 맞습니다.",
+      "정답(부적절). 완두콩 크기라면 '확장'이 아니라 '압축'된 상태여야 합니다.",
+      "패턴을 알면 모양을 계산할 수 있으므로 '예측 가능한(predictable)'이 맞습니다.",
+      "아름다움이 쓸모와 '분리되어(separate)' 있지 않다는 문맥에 맞습니다."
     ],
-    "trap": "'paid versions ~ the need for advertising'에서 유료와 광고의 관계를 확인해야 합니다.",
-    "tip": "유료 앱은 광고에 덜 의존한다는 인과를 확인하세요."
+    "trap": "'expanded'는 뒤의 'the tube opens'와 이어져 보이지만 'size of a pea'와 충돌합니다.",
+    "tip": "크기 표현(size of a pea)과 상태 동사가 맞는지, 이어지는 문장(opens)과 대조해 보세요."
   },
   {
     "id": "m2b-02-43",
     "level": "m2",
     "set": "mock-02",
+    "rev": 2,
     "no": 43,
     "type": "long",
     "group": "m2b-02-g43",
     "stem": "[43~45] 주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것을 고르시오.",
-    "passage": "(A) Taeho was the best student violinist at his school, but as the regional orchestra audition approached, he began to lose confidence. Every night, {1|he} practiced until his fingers hurt, and he still believed that it was not good enough.\n(B) The day before the audition, his teacher, Ms. Yoon, invited Taeho to her studio. After he played, {2|he} apologized for every small mistake, but she only smiled and said, \"You don't need to be perfect. You need to be yourself.\"\n(C) Two weeks later, a letter arrived. Taeho opened it slowly, and when he read the first line, {3|he} jumped so high that he almost hit the lamp. He had been accepted.\n(D) On the day of the audition, Taeho waited in the hallway among dozens of nervous students. {4|He} closed his eyes and remembered his teacher's words. When his name was called, a judge looked up from her notes and smiled, and {5|she} asked him to begin whenever he was ready.",
+    "passage": "(A) For three months, Jisoo had worked every evening on a water filter for the school science fair. Using sand, charcoal, and layers of cloth, {1|she} had tested more than twenty designs in her kitchen, and the last one made muddy river water look almost as clear as water from the tap. Her science teacher, Ms. Han, had told her that the project was good enough to win a prize. Jisoo carried the filter to the gym on the morning of the fair, imagining the judges' smiles, and set it carefully on her table between the posters of the other students.\n(B) When the first judge arrived, Jisoo poured a bottle of muddy water into the top of the filter and waited. Nothing came out of the bottom except a few brown drops. {2|She} tipped the filter slightly, and the whole bottom layer slid into the cup, turning the water into a gray mess. A group of students nearby began to whisper. The judge looked at the cup, moved on to the next table without a word, and Jisoo felt her face burn. {3|She} wished that the floor would open and let her disappear.\n(C) The following Saturday, Jisoo came back to the empty gym and rebuilt the filter, this time sealing the layers with a plastic ring and testing it ten times before she stopped. Ms. Han stayed to watch. When the last test produced clear water, Jisoo shouted with joy, and {5|she} walked to the whiteboard, wrote the date, and told Jisoo that it was the first day of the real project. Jisoo copied her notes into a new notebook and thanked her teacher. She decided to enter the regional contest, no longer afraid of failing in front of people.\n(D) After the fair, Ms. Han found Jisoo sitting alone on the school steps with the broken filter on her knees. The teacher did not say that it was all right, nor did she mention prizes. Instead, she asked what had changed since the last test in the kitchen. {4|She} thought for a moment and realized that she had packed the sand in a hurry that morning, and that the cloth beneath it had shifted during the ride to school. Ms. Han nodded and said that scientists rarely find their mistakes while they are being praised; they find them while they are staring at a failed result.",
     "options": [
       "(B)-(D)-(C)",
       "(C)-(B)-(D)",
@@ -74,27 +77,28 @@
       "(D)-(C)-(B)"
     ],
     "answer": 0,
-    "translation": "(A) 태호는 학교에서 가장 뛰어난 학생 바이올리니스트였지만 지역 오케스트라 오디션이 다가오자 자신감을 잃기 시작했다. 매일 밤 그는 손가락이 아플 때까지 연습했고 그래도 충분하지 않다고 믿었다. (B) 오디션 전날 그의 선생님인 윤 선생님이 태호를 자신의 작업실로 불렀다. 그가 연주를 마친 뒤 사소한 실수 하나하나에 대해 사과했지만 선생님은 미소만 지으며 말했다. \"완벽할 필요는 없단다. 너다워지면 돼.\" (D) 오디션 날 태호는 긴장한 수십 명의 학생들 사이에서 복도에서 기다렸다. 그는 눈을 감고 선생님의 말을 떠올렸다. 그의 이름이 불리자 한 심사위원이 메모에서 눈을 들어 미소 짓고 준비되면 언제든 시작하라고 말했다. (C) 두 주 뒤 편지가 도착했다. 태호는 천천히 편지를 열었고 첫 줄을 읽자 램프에 부딪칠 뻔할 만큼 높이 뛰어올랐다. 그는 합격했다.",
-    "why": "(A) 자신감을 잃음 → (B) 오디션 전날 선생님의 조언 → (D) 오디션 날 → (C) 두 주 뒤 합격 편지 순서입니다.",
+    "translation": "(A) 석 달 동안 지수는 학교 과학 박람회를 위한 정수 장치에 매일 저녁 매달렸다. 모래와 숯과 천 여러 겹을 써서 그녀는 부엌에서 스무 가지가 넘는 설계를 시험했고 마지막 것은 흙탕물의 강물을 수돗물만큼 맑아 보이게 만들었다. 과학 선생님인 한 선생님은 그 프로젝트가 상을 받을 만큼 훌륭하다고 말했다. 박람회 날 아침 지수는 심사위원들의 미소를 상상하며 장치를 체육관으로 옮겨 다른 학생들의 포스터 사이 자기 책상에 조심스럽게 놓았다. (B) 첫 심사위원이 도착했을 때 지수는 흙탕물 한 병을 장치 위쪽에 부어 놓고 기다렸다. 바닥으로는 갈색 물방울 몇 개 외에는 아무것도 나오지 않았다. 그녀가 장치를 살짝 기울이자 맨 아래층이 통째로 컵으로 미끄러져 들어가 물을 회색의 엉망진창으로 만들었다. 근처 학생들이 수군대기 시작했다. 심사위원은 컵을 보더니 말없이 다음 책상으로 넘어갔고 지수는 얼굴이 화끈거렸다. 그녀는 바닥이 열려 자신을 사라지게 해 주었으면 하고 바랐다. (C) 다음 토요일에 지수는 텅 빈 체육관으로 돌아와 층을 플라스틱 고리로 막아 장치를 다시 만들고 멈추기 전에 열 번 시험했다. 한 선생님은 남아서 지켜보았다. 마지막 시험에서 맑은 물이 나오자 지수는 기뻐 소리쳤고 선생님은 화이트보드로 걸어가 날짜를 적고 지수에게 오늘이 진짜 프로젝트의 첫날이라고 말했다. 지수는 기록을 새 공책에 옮겨 적고 선생님께 감사했다. 그녀는 사람들 앞에서 실패하는 것을 더는 두려워하지 않고 지역 대회에 나가기로 결심했다. (D) 박람회가 끝난 뒤 한 선생님은 지수가 망가진 장치를 무릎에 올려 두고 학교 계단에 혼자 앉아 있는 것을 발견했다. 선생님은 괜찮다고 말하지도 않았고 상에 대해 언급하지도 않았다. 대신 부엌에서 한 마지막 시험 이후 무엇이 달라졌는지 물었다. 지수는 잠시 생각하다가 그날 아침 서두르느라 모래를 급히 채웠고 그 아래의 천이 등굣길에 움직였다는 것을 깨달았다. 한 선생님은 고개를 끄덕이며 과학자들은 칭찬받는 동안에는 자신의 실수를 거의 찾지 못하고 실패한 결과를 노려볼 때 찾는다고 말했다.",
+    "why": "(A) 박람회 준비와 기대 → (B) 박람회에서 장치가 실패 → (D) 한 선생님과 함께 원인을 찾음 → (C) 다음 토요일에 다시 만들어 성공 순서입니다.",
     "optionNotes": [
-      "정답. 전날의 조언 → 오디션 날 → 두 주 뒤 결과.",
-      "(C)의 합격이 오디션 전에 올 수 없습니다.",
-      "(D) 전에 (C)가 오면 오디션 전에 결과가 나옵니다.",
-      "(D)의 'his teacher's words'가 가리킬 내용(B)이 앞에 필요합니다.",
-      "(D)의 'his teacher's words'가 가리킬 내용(B)이 앞에 필요합니다."
+      "정답. 박람회 실패 → 선생님과 원인 분석 → 재도전입니다.",
+      "(C)의 재도전이 실패 장면(B) 앞에 올 수 없습니다.",
+      "(C)의 재도전이 원인을 알게 되는 (D) 앞에 올 수 없습니다.",
+      "(D)는 '박람회가 끝난 뒤'이므로 (B) 앞에 올 수 없습니다.",
+      "(D)와 (C)가 (B) 앞에 오면 실패하기도 전에 후일담이 나옵니다."
     ],
-    "trap": "(D)의 'his teacher's words'는 (B)에서 윤 선생님이 한 말입니다.",
-    "tip": "전날 → 당일 → 두 주 뒤의 시간 표현과 'teacher's words'의 선행 내용을 따라가세요."
+    "trap": "(C)의 'The following Saturday'를 (A) 뒤에 바로 이어지는 시간으로 착각하지 마세요. 재도전의 원인은 (D)에서 밝혀집니다.",
+    "tip": "'After the fair'(D)가 박람회 장면(B) 뒤에 오는지, 재도전(C)의 계기가 되는지 확인하세요."
   },
   {
     "id": "m2b-02-44",
     "level": "m2",
     "set": "mock-02",
+    "rev": 2,
     "no": 44,
     "type": "long",
     "group": "m2b-02-g43",
     "stem": "[43~45] 밑줄 친 ①~⑤ 중에서 가리키는 대상이 나머지 넷과 다른 것을 고르시오.",
-    "passage": "(A) Taeho was the best student violinist at his school, but as the regional orchestra audition approached, he began to lose confidence. Every night, {1|he} practiced until his fingers hurt, and he still believed that it was not good enough.\n(B) The day before the audition, his teacher, Ms. Yoon, invited Taeho to her studio. After he played, {2|he} apologized for every small mistake, but she only smiled and said, \"You don't need to be perfect. You need to be yourself.\"\n(C) Two weeks later, a letter arrived. Taeho opened it slowly, and when he read the first line, {3|he} jumped so high that he almost hit the lamp. He had been accepted.\n(D) On the day of the audition, Taeho waited in the hallway among dozens of nervous students. {4|He} closed his eyes and remembered his teacher's words. When his name was called, a judge looked up from her notes and smiled, and {5|she} asked him to begin whenever he was ready.",
+    "passage": "(A) For three months, Jisoo had worked every evening on a water filter for the school science fair. Using sand, charcoal, and layers of cloth, {1|she} had tested more than twenty designs in her kitchen, and the last one made muddy river water look almost as clear as water from the tap. Her science teacher, Ms. Han, had told her that the project was good enough to win a prize. Jisoo carried the filter to the gym on the morning of the fair, imagining the judges' smiles, and set it carefully on her table between the posters of the other students.\n(B) When the first judge arrived, Jisoo poured a bottle of muddy water into the top of the filter and waited. Nothing came out of the bottom except a few brown drops. {2|She} tipped the filter slightly, and the whole bottom layer slid into the cup, turning the water into a gray mess. A group of students nearby began to whisper. The judge looked at the cup, moved on to the next table without a word, and Jisoo felt her face burn. {3|She} wished that the floor would open and let her disappear.\n(C) The following Saturday, Jisoo came back to the empty gym and rebuilt the filter, this time sealing the layers with a plastic ring and testing it ten times before she stopped. Ms. Han stayed to watch. When the last test produced clear water, Jisoo shouted with joy, and {5|she} walked to the whiteboard, wrote the date, and told Jisoo that it was the first day of the real project. Jisoo copied her notes into a new notebook and thanked her teacher. She decided to enter the regional contest, no longer afraid of failing in front of people.\n(D) After the fair, Ms. Han found Jisoo sitting alone on the school steps with the broken filter on her knees. The teacher did not say that it was all right, nor did she mention prizes. Instead, she asked what had changed since the last test in the kitchen. {4|She} thought for a moment and realized that she had packed the sand in a hurry that morning, and that the cloth beneath it had shifted during the ride to school. Ms. Han nodded and said that scientists rarely find their mistakes while they are being praised; they find them while they are staring at a failed result.",
     "options": [
       "①",
       "②",
@@ -104,44 +108,45 @@
     ],
     "answer": 4,
     "translation": "(43번 지문과 같은 글입니다.)",
-    "why": "⑤의 she는 메모에서 눈을 들어 미소 짓고 시작하라고 말한 심사위원이고, 나머지 ①②③④는 모두 태호를 가리킵니다.",
+    "why": "⑤의 she는 화이트보드에 날짜를 적고 지수에게 말한 한 선생님이고, 나머지 ①②③④는 모두 지수를 가리킵니다.",
     "optionNotes": [
-      "he는 밤마다 연습한 태호입니다.",
-      "he는 실수마다 사과한 태호입니다.",
-      "he는 편지를 읽고 뛰어오른 태호입니다.",
-      "He는 눈을 감고 선생님의 말을 떠올린 태호입니다.",
-      "정답. she는 시작하라고 말한 심사위원입니다."
+      "She는 부엌에서 스무 가지 설계를 시험한 지수입니다.",
+      "She는 장치를 기울인 지수입니다.",
+      "She는 바닥이 열리기를 바란 지수입니다.",
+      "She는 잠시 생각하고 서둘러 모래를 채웠음을 깨달은 지수입니다.",
+      "정답. she는 'told Jisoo'의 주어인 한 선생님입니다."
     ],
-    "trap": "(B)의 'she'(윤 선생님)와 (D)의 'she'(심사위원)를 혼동하지 마세요.",
-    "tip": "성별(he/she)과 동작의 주체(a judge)를 함께 확인하세요."
+    "trap": "앞 문장 주어가 Jisoo라서 she도 지수로 착각하기 쉽지만 'told Jisoo'가 단서입니다.",
+    "tip": "등장인물이 모두 같은 성별이면 대명사 뒤의 동작과 목적어(told Jisoo)로 주체를 가리세요."
   },
   {
     "id": "m2b-02-45",
     "level": "m2",
     "set": "mock-02",
+    "rev": 2,
     "no": 45,
     "type": "long",
     "group": "m2b-02-g43",
     "stem": "[43~45] 윗글에 관한 내용으로 적절하지 않은 것을 고르시오.",
-    "passage": "(A) Taeho was the best student violinist at his school, but as the regional orchestra audition approached, he began to lose confidence. Every night, {1|he} practiced until his fingers hurt, and he still believed that it was not good enough.\n(B) The day before the audition, his teacher, Ms. Yoon, invited Taeho to her studio. After he played, {2|he} apologized for every small mistake, but she only smiled and said, \"You don't need to be perfect. You need to be yourself.\"\n(C) Two weeks later, a letter arrived. Taeho opened it slowly, and when he read the first line, {3|he} jumped so high that he almost hit the lamp. He had been accepted.\n(D) On the day of the audition, Taeho waited in the hallway among dozens of nervous students. {4|He} closed his eyes and remembered his teacher's words. When his name was called, a judge looked up from her notes and smiled, and {5|she} asked him to begin whenever he was ready.",
+    "passage": "(A) For three months, Jisoo had worked every evening on a water filter for the school science fair. Using sand, charcoal, and layers of cloth, {1|she} had tested more than twenty designs in her kitchen, and the last one made muddy river water look almost as clear as water from the tap. Her science teacher, Ms. Han, had told her that the project was good enough to win a prize. Jisoo carried the filter to the gym on the morning of the fair, imagining the judges' smiles, and set it carefully on her table between the posters of the other students.\n(B) When the first judge arrived, Jisoo poured a bottle of muddy water into the top of the filter and waited. Nothing came out of the bottom except a few brown drops. {2|She} tipped the filter slightly, and the whole bottom layer slid into the cup, turning the water into a gray mess. A group of students nearby began to whisper. The judge looked at the cup, moved on to the next table without a word, and Jisoo felt her face burn. {3|She} wished that the floor would open and let her disappear.\n(C) The following Saturday, Jisoo came back to the empty gym and rebuilt the filter, this time sealing the layers with a plastic ring and testing it ten times before she stopped. Ms. Han stayed to watch. When the last test produced clear water, Jisoo shouted with joy, and {5|she} walked to the whiteboard, wrote the date, and told Jisoo that it was the first day of the real project. Jisoo copied her notes into a new notebook and thanked her teacher. She decided to enter the regional contest, no longer afraid of failing in front of people.\n(D) After the fair, Ms. Han found Jisoo sitting alone on the school steps with the broken filter on her knees. The teacher did not say that it was all right, nor did she mention prizes. Instead, she asked what had changed since the last test in the kitchen. {4|She} thought for a moment and realized that she had packed the sand in a hurry that morning, and that the cloth beneath it had shifted during the ride to school. Ms. Han nodded and said that scientists rarely find their mistakes while they are being praised; they find them while they are staring at a failed result.",
     "options": [
-      "태호는 지역 오케스트라 오디션이 다가오자 연습을 많이 하고도 자신감을 잃기 시작했다.",
-      "윤 선생님은 태호의 사소한 실수 하나하나를 반드시 고쳐야 한다고 엄격하게 말했다.",
-      "태호는 오디션 날 복도에서 눈을 감고 선생님이 해 주신 말씀을 떠올렸다.",
-      "한 심사위원은 태호에게 준비가 되면 언제든 시작하라고 말했다.",
-      "태호는 두 주 뒤에 도착한 편지를 열고 오디션에 합격했음을 알았다."
+      "지수는 부엌에서 스무 가지가 넘는 설계를 시험했다.",
+      "박람회에서 심사위원은 지수의 시연을 끝까지 지켜본 뒤 칭찬하는 메모를 남겼다.",
+      "한 선생님은 박람회가 끝난 뒤 부엌에서의 마지막 시험 이후 무엇이 달라졌는지 물었다.",
+      "지수는 아침에 모래를 서둘러 채웠다는 것을 깨달았다.",
+      "지수는 다음 토요일에 층을 플라스틱 고리로 막아 장치를 다시 만들었다."
     ],
     "answer": 1,
     "translation": "(43번 지문과 같은 글입니다.)",
-    "why": "윤 선생님은 완벽할 필요가 없고 태호다워지면 된다고 말했으므로 ②는 일치하지 않습니다.",
+    "why": "심사위원은 컵을 보고 말없이 다음 책상으로 넘어갔으므로 칭찬하는 메모를 남겼다는 ②는 일치하지 않습니다.",
     "optionNotes": [
-      "lost confidence와 일치합니다.",
-      "정답(불일치). 완벽할 필요 없다고 말했습니다.",
-      "remembered his teacher's words와 일치합니다.",
-      "begin whenever he was ready와 일치합니다.",
-      "a letter arrived ... accepted와 일치합니다."
+      "more than twenty designs와 일치합니다.",
+      "정답(불일치). 심사위원은 말없이 다음 책상으로 갔습니다.",
+      "asked what had changed since the last test와 일치합니다.",
+      "packed the sand in a hurry와 일치합니다.",
+      "sealing the layers with a plastic ring과 일치합니다."
     ],
-    "trap": "태호가 사과한 내용과 선생님의 반응을 혼동하지 마세요.",
-    "tip": "불일치 문제는 인물의 반응(조언의 방향)을 바꾼 보기를 찾으세요."
+    "trap": "실패 장면의 심사위원 행동을 반대로 읽지 마세요('wrote something'은 이 글에 없습니다).",
+    "tip": "불일치 문제는 행동 동사(moved on to the next table without a word)를 보기와 대조하세요."
   }
 ]
