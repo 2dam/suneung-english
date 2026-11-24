@@ -3,229 +3,244 @@
     "id": "m3b-03-18",
     "level": "m3",
     "set": "mock-03",
+    "rev": 2,
     "no": 18,
     "type": "purpose",
     "stem": "다음 글의 목적으로 가장 적절한 것은?",
-    "passage": "Dear Dr. Morales,\nMy name is Haeun Kim, and I am a tenth-grade student at Seoul Global High School. I am writing about the Young Scientists Essay Contest hosted by your museum, whose submission deadline is this Friday, March 14. I have been working on my essay about how microplastics affect marine life, and I have already completed the research. However, last week our school held its midterm exams, and I could not devote enough time to revising my draft. I believe that a few more days would allow me to present my findings more clearly. Would it be possible to extend the deadline until next Tuesday, March 18? I understand that this may be difficult for the organizing team, and I will accept your decision. Thank you very much for your consideration.\nSincerely,\nHaeun Kim",
+    "passage": "Dear Members of the City Council,\nMy name is Harin Lee, and I am a student at Eastside Middle School. I am writing about the old zelkova tree in front of Sinheung Station, which your office has announced will be cut down next month to make room for a wider road. This tree is more than 300 years old, and generations of residents have used its shade for rest, markets, and conversations. Last week, my classmates and I collected more than 1,200 signatures from neighbors who want it to remain. A traffic engineer who reviewed the plans told us that the road can be redesigned to curve around the tree at a small additional cost. For these reasons, I respectfully ask the council to postpone the cutting until a public meeting can be held to discuss the alternatives.\nSincerely,\nHarin Lee",
     "options": [
-      "박물관의 야간 개장 시간이 어떻게 되는지 자세하게 문의하려고",
-      "에세이 대회의 수상 결과에 대해 주최 측에 공식적으로 항의하려고",
-      "에세이 제출 기한을 며칠 연장해 줄 수 있는지 문의하려고",
-      "에세이 대회의 심사 위원으로 직접 지원하려고",
-      "박물관 연간 회원권의 환불 절차를 요청하려고"
+      "도로 확장 공사의 설계도와 예산안을 시민에게 모두 투명하게 공개해 달라고 요구하려고",
+      "서명 운동에 참여할 자원봉사자를 모집하려고",
+      "오래된 느티나무를 베는 계획을 미루고 공청회를 열어 달라고 요청하려고",
+      "교통 기술자에게 도로 설계를 맡길 것을 제안하려고",
+      "느티나무 주변 상권을 위한 행사를 열겠다고 알리려고"
     ],
     "answer": 2,
-    "translation": "모랄레스 박사님께. 제 이름은 김하은이며 서울글로벌고등학교 1학년 학생입니다. 저는 박물관이 주최하는 청소년 과학자 에세이 대회에 관해 씁니다. 제출 기한은 이번 주 금요일인 3월 14일입니다. 저는 미세 플라스틱이 해양 생물에 미치는 영향에 관한 에세이를 써 왔고 조사는 이미 마쳤습니다. 그러나 지난주 학교에서 중간고사가 있어 초안을 고치는 데 충분한 시간을 쏟지 못했습니다. 며칠 더 있으면 제 연구 결과를 더 분명하게 제시할 수 있다고 생각합니다. 기한을 다음 주 화요일인 3월 18일까지 연장해 주실 수 있을까요? 주최 측에 어려울 수 있다는 것을 이해하며 결정을 받아들이겠습니다. 고려해 주셔서 대단히 감사합니다. 김하은 드림.",
-    "why": "에세이 제출 기한을 3월 18일까지 연장해 줄 수 있는지 문의하는 글입니다.",
+    "translation": "시의회 의원님들께. 저는 이스트사이드 중학교 학생 이하린입니다. 저는 의원님들의 사무실이 더 넓은 도로를 만들기 위해 다음 달에 베어 내겠다고 발표한 신흥역 앞의 오래된 느티나무에 대해 글을 씁니다. 이 나무는 300년이 넘었고 여러 세대의 주민이 그 그늘을 쉼터, 장터, 대화의 장소로 써 왔습니다. 지난주 저와 반 친구들은 나무가 남기를 바라는 이웃들에게서 1,200명이 넘는 서명을 모았습니다. 계획을 검토한 교통 기술자는 약간의 추가 비용으로 도로가 나무를 돌아 휘도록 다시 설계할 수 있다고 말해 주었습니다. 이런 이유로 저는 의회가 대안을 논의할 공청회를 열 수 있을 때까지 벌목을 미루어 줄 것을 정중히 요청합니다. 이하린 드림.",
+    "why": "느티나무를 베는 계획을 미루고 대안을 논의할 공청회를 열어 달라고 요청하는 글입니다.",
     "optionNotes": [
-      "야간 개장 시간은 나오지 않습니다.",
-      "수상 결과에 대한 항의가 아닙니다.",
-      "정답. 제출 기한 연장 가능 여부를 문의합니다.",
-      "심사 위원 지원은 나오지 않습니다.",
-      "회원권 환불은 나오지 않습니다."
+      "설계도 공개 요구는 나오지 않습니다.",
+      "서명은 이미 모았고 자원봉사자 모집이 아닙니다.",
+      "정답. 벌목을 미루고 공청회를 열어 달라고 요청합니다.",
+      "기술자는 대안이 가능하다고 말해 준 근거일 뿐입니다.",
+      "상권 행사는 나오지 않습니다."
     ],
-    "trap": "'museum'과 'contest'가 나온다고 박물관 운영 문의(①⑤)로 착각하지 마세요.",
-    "tip": "목적 문제는 'Would it be possible to ~?' 같은 요청 문장을 찾으세요."
+    "trap": "서명, 기술자 검토 등 근거 정보를 목적으로 착각하지 마세요.",
+    "tip": "목적 문제는 'I respectfully ask ~'처럼 요청하는 문장을 찾으세요."
   },
   {
     "id": "m3b-03-19",
     "level": "m3",
     "set": "mock-03",
+    "rev": 2,
     "no": 19,
     "type": "mood",
-    "stem": "다음 글에 드러난 Soyoung의 심경 변화로 가장 적절한 것은?",
-    "passage": "Soyoung stood in front of the three judges, gripping her note cards so tightly that her knuckles turned white. For six months she had worked on her water-purification project, but now every sentence she had memorized seemed to vanish from her mind. \"What if I fail in front of everyone?\" she thought, and her voice shook as she began. Halfway through, however, one of the judges nodded and smiled, and Soyoung took a deep breath. Slowly her words came back, and she even answered a difficult question about filtering costs without hesitation. When she finished, the audience burst into applause. Soyoung's shoulders dropped as the tension left her body, and she could not stop smiling. All those months of effort had been worth it.",
+    "stem": "다음 글에 드러난 Jiwoo의 심경 변화로 가장 적절한 것은?",
+    "passage": "On her first day at the new school, Jiwoo carried her lunch tray past rows of tables where groups of students were already laughing and talking as if they had known each other forever. Every empty seat seemed to belong to someone else. She finally chose a corner table by the window and stared at her rice, her ears burning. Back in her old town, she thought, nobody would have left her alone like this. The cafeteria noise seemed to grow louder around her silence, and she began to count the minutes until the bell. Then a girl with a green backpack stopped beside the table and asked whether the seat was taken. Before Jiwoo could answer, the girl sat down and began to complain about the school's terrible fish soup. Jiwoo laughed in spite of herself, and the tightness in her chest slowly loosened. For the first time that day, she felt that she might belong here after all.",
     "options": [
-      "bored and careless → regretful and ashamed",
-      "excited and curious → jealous and disappointed",
-      "confident and calm → shocked and frightened",
-      "grateful and touched → angry and annoyed",
-      "anxious and doubtful → relieved and proud"
+      "excited → bored",
+      "jealous → proud",
+      "angry → ashamed",
+      "curious and excited → frightened and discouraged",
+      "lonely and anxious → comforted and hopeful"
     ],
     "answer": 4,
-    "translation": "소영은 세 명의 심사 위원 앞에 서서 손마디가 하얘질 만큼 세게 메모 카드를 움켜쥐었다. 여섯 달 동안 정수 프로젝트를 해 왔지만 이제 외웠던 문장들이 머릿속에서 모두 사라진 것 같았다. \"모두 앞에서 실패하면 어쩌지?\" 하고 그녀는 생각했고 시작할 때 목소리가 떨렸다. 그러나 중간쯤에서 심사 위원 한 명이 고개를 끄덕이며 미소 지었고 소영은 숨을 깊이 들이마셨다. 천천히 말이 돌아왔고 그녀는 여과 비용에 관한 어려운 질문에도 주저 없이 답했다. 발표를 마치자 청중이 박수를 터뜨렸다. 긴장이 몸에서 빠져나가자 소영의 어깨가 내려갔고 그녀는 웃음을 멈출 수 없었다. 그 모든 달의 노력은 그럴 만한 가치가 있었다.",
-    "why": "처음에는 불안하고 의심했지만(anxious and doubtful), 발표를 마치고 박수를 받자 안도하고 자랑스러워했습니다(relieved and proud).",
+    "translation": "새 학교의 첫날 지우는 이미 서로를 영원히 알아 온 것처럼 웃고 이야기하는 학생 무리가 앉은 탁자들 사이로 점심 쟁반을 들고 지나갔다. 모든 빈자리가 다른 누군가의 것처럼 보였다. 그녀는 마침내 창가 구석 탁자를 골라 귀가 화끈거리는 채 밥을 바라보았다. 예전 동네에서라면 아무도 자신을 이렇게 혼자 두지 않았을 것이라고 그녀는 생각했다. 식당의 소음은 그녀의 침묵 주위에서 더 커지는 것 같았고 그녀는 종이 울릴 때까지 몇 분 남았는지 세기 시작했다. 그때 초록색 가방을 멘 여자아이가 탁자 옆에 멈춰 서서 그 자리가 비어 있는지 물었다. 지우가 대답하기도 전에 그 아이는 앉아서 학교의 끔찍한 생선국에 대해 불평하기 시작했다. 지우는 저도 모르게 웃었고 가슴의 답답함이 서서히 풀렸다. 그날 처음으로 그녀는 어쩌면 자신이 여기에 속할 수도 있겠다고 느꼈다.",
+    "why": "혼자 앉아 외롭고 불안했지만(lonely and anxious) 한 친구가 다가와 말을 걸자 위로받고 희망을 느꼈으므로(comforted and hopeful) ⑤입니다.",
     "optionNotes": [
-      "지루함과 부주의로 시작하지 않았습니다.",
-      "설렘과 호기심으로 시작하지 않았고 결말도 질투가 아닙니다.",
-      "차분하고 자신 있게 시작하지 않았습니다.",
-      "감사로 시작하지도 화로 끝나지도 않았습니다.",
-      "정답. 불안과 의심에서 안도와 자부심으로 변했습니다."
+      "신남에서 지루함으로 변한 것이 아닙니다.",
+      "질투에서 자부심으로 변한 것이 아닙니다.",
+      "화남에서 부끄러움으로 변한 것이 아닙니다.",
+      "호기심에서 두려움으로 변한 것이 아닙니다.",
+      "정답. 외로움과 불안에서 위안과 희망으로 변했습니다."
     ],
-    "trap": "'burst into applause'와 'could not stop smiling'을 놀람이나 두려움으로 오해하지 마세요.",
-    "tip": "전환 신호(however, Slowly her words came back)를 기준으로 앞뒤 감정을 비교하세요."
+    "trap": "'ears burning'을 부끄러움(③)으로 착각하지 마세요. 전체 맥락은 외로움입니다.",
+    "tip": "전환 신호(Then a girl ~ asked)를 기준으로 앞뒤 감정을 비교하세요."
   },
   {
     "id": "m3b-03-20",
     "level": "m3",
     "set": "mock-03",
+    "rev": 2,
     "no": 20,
     "type": "claim",
     "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
-    "passage": "Every year, many young adults leave school without knowing how to read a pay slip, compare interest rates, or manage a monthly budget. Yet these are skills that they will use for the rest of their lives. Studies show that people who receive financial education in school are less likely to fall into serious debt and more likely to save for the future. Some argue that parents should be the ones to teach children about money. However, not all families are able or willing to do so, which leaves a gap between students from different backgrounds. A required course in schools would give every student the same foundation, regardless of what their parents know. Just as we teach mathematics and language to prepare students for adult life, we should make financial literacy a compulsory subject.",
+    "passage": "In most classrooms, students are praised for answering questions correctly. Yet some of the greatest advances in science began not with an answer but with a question that no one had thought to ask: why does an apple fall, while the Moon does not? Researchers who study creativity have found that the ability to formulate good questions is closely linked to deep understanding, because a good question reveals exactly what a person does not yet know. Children are naturally excellent at it; a four-year-old may ask hundreds of questions a day. As they move through school, however, the number of questions that they ask drops sharply, partly because they learn that questions expose ignorance in front of classmates. Teachers can reverse this pattern by asking students to write their own questions before a lesson, by rewarding curiosity as well as correct answers, and by admitting honestly when they do not know something. Schools should therefore teach students to ask good questions, not merely to memorize answers.",
     "options": [
-      "고등학교에서 금융 이해 교육을 필수 과목으로 가르쳐야 한다.",
-      "자녀의 용돈 관리는 부모가 직접 책임지고 가르치는 것이 가장 바람직하다.",
-      "학생들은 방학마다 아르바이트로 돈을 버는 경험을 일찍부터 쌓아야 한다.",
-      "저축 이자율을 높이는 정책을 정부가 앞장서서 시행하는 것이 바람직하다.",
-      "수학 수업 시간을 줄이고 외국어 수업 시간을 늘리는 것이 필요하다."
+      "학교는 학생들이 정답을 외우는 것에 그치지 않고 좋은 질문을 던지는 법도 가르쳐야 한다.",
+      "어린 자녀가 질문을 더 많이 하도록 부모는 가정에서 일상적으로 충분히 격려하고 칭찬해 주어야 한다.",
+      "과학 수업에서는 정답보다 실험 방법을 우선하여 가르쳐야 한다.",
+      "교사는 학생이 질문하면 언제나 정확한 답을 곧바로 제시해야 한다.",
+      "모르는 것을 친구들 앞에서 드러내지 않는 편이 학교생활에 도움이 된다."
     ],
     "answer": 0,
-    "translation": "매년 많은 청년이 급여 명세서를 읽거나 이자율을 비교하거나 월 예산을 관리하는 법을 모른 채 학교를 떠난다. 그러나 이것은 그들이 평생 사용할 기술이다. 연구에 따르면 학교에서 금융 교육을 받은 사람은 심각한 빚에 빠질 가능성이 낮고 미래를 위해 저축할 가능성이 높다. 일부는 부모가 아이에게 돈에 대해 가르쳐야 한다고 주장한다. 그러나 모든 가정이 그렇게 할 수 있거나 하려는 것은 아니며 이는 서로 다른 배경의 학생들 사이에 격차를 남긴다. 학교의 필수 과목은 부모가 아는 것과 관계없이 모든 학생에게 같은 토대를 줄 것이다. 학생들을 성인의 삶에 대비시키려고 수학과 언어를 가르치듯이 우리는 금융 이해를 필수 과목으로 만들어야 한다.",
-    "why": "마지막 문장 'we should make financial literacy a compulsory subject'가 주장입니다.",
+    "translation": "대부분의 교실에서 학생들은 질문에 정답을 말하면 칭찬받는다. 그러나 과학의 가장 위대한 진보 중 일부는 답이 아니라 아무도 던질 생각을 못 한 질문에서 시작되었다. 왜 사과는 떨어지는데 달은 떨어지지 않는가? 창의성을 연구하는 연구자들은 좋은 질문을 만드는 능력이 깊은 이해와 밀접하게 연결되어 있음을 발견했는데, 좋은 질문은 사람이 아직 무엇을 모르는지를 정확히 드러내기 때문이다. 아이들은 본래 그것을 아주 잘한다. 네 살 아이는 하루에 수백 가지를 물을 수 있다. 그러나 학교를 거치면서 아이들이 하는 질문의 수는 급격히 줄어드는데, 질문이 반 친구들 앞에서 무지를 드러낸다는 것을 배우기 때문이기도 하다. 교사는 수업 전에 학생이 직접 질문을 쓰게 하고 정답뿐 아니라 호기심도 보상하며 무언가를 모를 때 솔직히 인정함으로써 이 양상을 되돌릴 수 있다. 그러므로 학교는 학생들에게 단지 답을 외우는 것이 아니라 좋은 질문을 던지도록 가르쳐야 한다.",
+    "why": "마지막 문장에서 학교는 답을 외우게 하는 것이 아니라 좋은 질문을 던지도록 가르쳐야 한다고 주장합니다.",
     "optionNotes": [
-      "정답. 금융 이해 교육을 필수 과목으로 가르쳐야 합니다.",
-      "부모가 가르쳐야 한다는 의견은 필자가 반박하는 견해입니다.",
-      "아르바이트 경험은 나오지 않습니다.",
-      "이자율 정책은 나오지 않습니다.",
-      "수업 시간 조정은 나오지 않습니다."
+      "정답. 학교가 좋은 질문하는 법을 가르쳐야 한다는 주장입니다.",
+      "부모의 가정 교육은 나오지 않습니다.",
+      "실험 방법 우선은 나오지 않습니다.",
+      "교사가 언제나 즉시 답하라는 내용은 없습니다.",
+      "무지를 숨기는 것이 낫다는 것은 반대입니다."
     ],
-    "trap": "'Some argue that parents ~'는 필자가 반박하는 반대 의견입니다.",
-    "tip": "'Some argue ~. However, ~' 구조에서는 However 뒤가 필자의 입장입니다."
+    "trap": "②는 '아이들이 본래 질문을 많이 한다'는 부분에서 파생된 그럴듯한 오답입니다.",
+    "tip": "주장은 'Schools should therefore ~'와 같은 결론 문장에서 확인하세요."
   },
   {
     "id": "m3b-03-21",
     "level": "m3",
     "set": "mock-03",
+    "rev": 2,
     "no": 21,
     "type": "implied",
     "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
-    "passage": "The family dinner at Grandma's house was lively as usual. Everyone talked about the weather, the new neighbors, and last weekend's soccer match, and the table was filled with laughter. Yet one subject was missing. Since Grandpa's accident last month, he had stopped driving, and nobody knew how he would get to the hospital for his regular checkups. The question was on everyone's mind, but each person carefully steered the conversation elsewhere. It was {u|the elephant in the room}. Grandpa himself kept his eyes on his plate, pretending not to notice the silence. At last, Aunt Clara put down her fork and said gently, \"We need to talk about this, and we need to do it today.\"",
+    "passage": "Mr. Kang had owned a small bakery for twelve years, and for most of that time he had managed to stay cheerful. When the price of flour rose by thirty percent, he sighed but kept his prices low. When the oven broke and cost him a week of sales, he borrowed money and kept going. When a large supermarket opened across the street and took half of his customers, he worked two hours longer each day. Then, one Monday morning, a delivery truck backed into his front window, and glass covered the shop floor. Mr. Kang sat down on a sack of flour and said quietly that this was {u|the last straw}. His wife, who had watched him bear every earlier trouble without complaint, understood at once that his patience was finally gone. She took the broom from his hand, and for the first time in years, they discussed whether to close the shop. In the end, they decided to repair the window and try again, but only after a long night of silence.",
     "options": [
-      "a huge animal that suddenly appeared at the family gathering",
-      "a topic that everybody enjoys discussing at great length",
-      "a minor problem that anyone can solve without much effort",
-      "an obvious and important issue that everyone is aware of but avoids talking about",
-      "a surprising piece of news that a guest announced during dinner"
+      "the best part of a job that he had always enjoyed doing",
+      "a sudden change that makes a difficult plan succeed",
+      "a lucky event that follows a long period of bad luck",
+      "a small additional problem that makes a difficult situation impossible to bear",
+      "the last customer to leave the shop at the end of a busy day"
     ],
     "answer": 3,
-    "translation": "할머니 댁의 가족 저녁 식사는 여느 때처럼 활기찼다. 모두 날씨, 새 이웃, 지난 주말의 축구 경기에 대해 이야기했고 식탁은 웃음으로 가득했다. 그러나 한 가지 주제가 빠져 있었다. 지난달 사고 이후 할아버지는 운전을 그만두었고 아무도 그가 정기 검진을 받으러 어떻게 병원에 갈지 몰랐다. 그 질문은 모두의 머릿속에 있었지만 각자 조심스럽게 대화를 다른 데로 돌렸다. 그것은 모두가 알지만 말하지 않는 문제였다. 할아버지 자신은 침묵을 모르는 척하며 접시에서 눈을 떼지 않았다. 마침내 클라라 이모가 포크를 내려놓고 부드럽게 말했다. \"이 이야기를 해야 해요, 그것도 오늘 해야 해요.\"",
-    "why": "모두가 알면서도 피하던 할아버지의 이동 문제를 가리키므로 'the elephant in the room'은 명백하지만 아무도 말하지 않는 중요한 문제를 뜻합니다.",
+    "translation": "강 씨는 12년 동안 작은 빵집을 운영했고 그 대부분의 시간 동안 쾌활하게 지낼 수 있었다. 밀가루 값이 30퍼센트 오르자 그는 한숨을 쉬었지만 가격을 낮게 유지했다. 오븐이 고장 나 일주일 매출을 잃자 그는 돈을 빌려 계속했다. 대형 마트가 길 건너에 문을 열어 손님의 절반을 가져가자 그는 하루에 두 시간씩 더 일했다. 그러던 어느 월요일 아침, 배달 트럭이 가게 앞 유리창을 들이받아 유리 조각이 가게 바닥을 덮었다. 강 씨는 밀가루 포대에 앉아 이것이 마지막 지푸라기라고 조용히 말했다. 앞서의 모든 어려움을 불평 없이 견디는 것을 지켜본 그의 아내는 그의 인내가 마침내 바닥났음을 곧바로 이해했다. 그녀는 그의 손에서 빗자루를 받았고 몇 년 만에 처음으로 그들은 가게를 닫을지 의논했다. 결국 그들은 유리창을 고치고 다시 해 보기로 했지만 긴 침묵의 밤을 보낸 뒤였다.",
+    "why": "여러 어려움을 견뎌 오다 유리창 사고로 인내가 바닥났으므로 'the last straw'는 이미 어려운 상황을 더는 견딜 수 없게 만드는 작은 추가 문제를 뜻합니다.",
     "optionNotes": [
-      "문자 그대로 거대한 동물이 나타났다는 뜻이 아닙니다.",
-      "모두가 즐겨 이야기하는 주제와 반대입니다.",
-      "사소한 문제가 아니라 중요한 문제입니다.",
-      "정답. 모두가 알지만 피하는 중요한 문제입니다.",
-      "손님의 놀라운 소식은 나오지 않습니다."
+      "일의 가장 좋은 부분이라는 뜻이 아닙니다.",
+      "어려운 계획을 성공시키는 변화가 아닙니다.",
+      "오랜 불운 뒤의 행운이 아닙니다.",
+      "정답. 어려운 상황을 견딜 수 없게 만드는 작은 추가 문제입니다.",
+      "마지막 손님이라는 문자 그대로의 뜻이 아닙니다."
     ],
-    "trap": "'elephant'를 문자 그대로 해석하지 마세요.",
-    "tip": "관용 표현은 앞뒤 문맥(nobody mentioned, steered the conversation elsewhere)에서 의미를 추론하세요."
+    "trap": "'straw'와 'last'를 문자 그대로 해석해 ⑤로 가지 마세요. 앞의 누적된 어려움이 단서입니다.",
+    "tip": "관용 표현은 앞에 열거된 사건들과 인물의 반응(patience was finally gone)으로 추론하세요."
   },
   {
     "id": "m3b-03-22",
     "level": "m3",
     "set": "mock-03",
+    "rev": 2,
     "no": 22,
     "type": "gist",
     "stem": "다음 글의 요지로 가장 적절한 것은?",
-    "passage": "Social media makes it easier than ever to compare ourselves with others. We scroll through photos of friends' vacations, promotions, and perfect-looking meals, and quietly conclude that our own lives fall short. The problem is that we compare our everyday reality with other people's carefully selected highlights. This unfair comparison can lower self-esteem and drain motivation. Psychologists suggest a healthier standard: compare yourself with who you were yesterday, last month, or last year. When you notice that you can now solve problems that once confused you, or that you handle stress better than before, you gain evidence of real progress. Such comparisons do not create envy. Instead, they remind you that growth is possible and encourage you to keep moving forward at your own pace.",
+    "passage": "Before satellite navigation, drivers studied maps and remembered landmarks, and when they got lost, they had to build a mental picture of where they were. Today, most of us follow a voice that says \"turn left in two hundred meters,\" and we arrive without ever noticing the route. This convenience has a hidden price. Studies of London taxi drivers, who must memorize thousands of streets, have shown that the hippocampus, a part of the brain that is involved in spatial memory, is larger in them than in most people. Other research suggests that people who rely heavily on GPS develop a weaker sense of direction, and that their memory of a route is poorer than that of people who find their way with a map. The brain, it seems, behaves like a muscle: abilities that are used grow stronger, while abilities that are handed over to a device gradually fade. This does not mean that we should throw away our phones. But it suggests that we should sometimes walk through our own neighborhood with the screen turned off.",
     "options": [
-      "소셜 미디어로 다른 사람들의 성공 비결을 꾸준히 배우는 것이 자기 발전에 가장 효과적인 방법이다.",
-      "다른 사람의 삶을 부러워하는 것은 누구에게나 자연스러우므로 굳이 막을 필요가 없다.",
-      "자신을 타인이 아니라 과거의 자신과 비교하면 실제 성장을 확인하고 동기를 유지할 수 있다.",
-      "스트레스를 줄이려면 소셜 미디어를 쓰는 시간을 하루 한 시간 이하로 엄격하게 제한해야 한다.",
-      "자기 삶의 하이라이트를 적극적으로 공유하면 자존감을 높이는 데 큰 도움이 된다."
+      "GPS 기술은 점점 정확해져서 길 찾기의 어려움이 사라질 것이다.",
+      "런던의 택시 기사가 되려면 수천 개에 이르는 도시의 거리와 골목 지도를 완전히 외워야 한다.",
+      "기술에 의존하면 공간 기억 능력이 약해질 수 있으므로 때로는 스스로 길을 찾아야 한다.",
+      "지도를 보며 길을 찾는 습관은 방향 감각을 기르는 데에도 아무런 영향을 주지 않는다.",
+      "휴대전화의 길 안내 기능은 모두 사용을 중단해야 한다."
     ],
     "answer": 2,
-    "translation": "소셜 미디어는 우리 자신을 다른 사람과 비교하기 그 어느 때보다 쉽게 만든다. 우리는 친구들의 휴가, 승진, 완벽해 보이는 식사 사진을 훑어보며 우리 자신의 삶이 부족하다고 조용히 결론짓는다. 문제는 우리가 일상의 현실을 다른 사람들이 신중하게 고른 하이라이트와 비교한다는 것이다. 이런 불공정한 비교는 자존감을 낮추고 동기를 소진시킬 수 있다. 심리학자들은 더 건강한 기준을 제안한다. 어제, 지난달, 또는 작년의 자신과 비교하라는 것이다. 한때 헷갈리던 문제를 이제 풀 수 있거나 스트레스를 전보다 더 잘 다루고 있음을 알아채면 실제 진전의 증거를 얻는다. 이런 비교는 질투를 만들지 않는다. 대신 성장이 가능함을 상기시키고 자신의 속도로 계속 나아가도록 북돋운다.",
-    "why": "남과의 비교 대신 과거의 자신과 비교하면 성장을 확인하고 동기를 유지할 수 있다는 것이 요지입니다.",
+    "translation": "위성 항법 이전에 운전자들은 지도를 공부하고 이정표를 기억했으며 길을 잃으면 자신이 어디에 있는지 머릿속에 그림을 그려야 했다. 오늘날 우리 대부분은 '200미터 앞에서 좌회전하세요'라고 말하는 목소리를 따르고 길을 의식하지도 못한 채 도착한다. 이 편리함에는 숨은 대가가 있다. 수천 개의 거리를 외워야 하는 런던 택시 기사에 대한 연구는 공간 기억에 관여하는 뇌 부위인 해마가 그들에게서 대부분의 사람보다 더 크다는 것을 보여 주었다. 다른 연구는 GPS에 크게 의존하는 사람들이 방향 감각이 더 약해지고 경로에 대한 기억이 지도로 길을 찾는 사람보다 나쁘다고 시사한다. 뇌는 근육처럼 행동하는 듯하다. 쓰는 능력은 강해지고 기기에 넘겨준 능력은 서서히 사라진다. 이것이 휴대전화를 버려야 한다는 뜻은 아니다. 그러나 우리가 때로는 화면을 끄고 우리 동네를 걸어 보아야 함을 시사한다.",
+    "why": "편리한 기술에 의존하면 공간 기억 능력이 약해지므로 때로는 스스로 길을 찾아야 한다는 것이 요지입니다.",
     "optionNotes": [
-      "남에게서 배우라는 내용이 아닙니다.",
-      "비교를 그대로 두라는 내용이 아닙니다.",
-      "정답. 과거의 자신과 비교하면 성장과 동기를 얻습니다.",
-      "사용 시간 제한은 나오지 않습니다.",
-      "하이라이트 공유는 글의 해결책이 아닙니다."
+      "GPS의 정확도는 나오지 않습니다.",
+      "택시 기사는 근거 사례일 뿐입니다.",
+      "정답. 기술 의존이 능력을 약화시키므로 스스로 길을 찾아야 합니다.",
+      "지도가 방향 감각에 영향이 없다는 것은 반대입니다.",
+      "휴대전화를 버릴 필요는 없다고 밝힙니다."
     ],
-    "trap": "앞부분의 문제(소셜 미디어 비교)와 뒷부분의 해결책을 구분하세요.",
-    "tip": "Psychologists suggest ~ 뒤의 해결책이 요지입니다."
+    "trap": "⑤는 'throw away our phones'라는 극단으로 과일반화한 오답입니다.",
+    "tip": "요지는 'This does not mean ~. But ...' 구조에서 but 뒤를 확인하세요."
   },
   {
     "id": "m3b-03-23",
     "level": "m3",
     "set": "mock-03",
+    "rev": 2,
     "no": 23,
     "type": "topic",
     "stem": "다음 글의 주제로 가장 적절한 것은?",
-    "passage": "On a hot summer day, the temperature in a city center can be several degrees higher than in the surrounding countryside. This \"urban heat island\" effect is caused by concrete, asphalt, and glass, which absorb heat during the day and release it slowly at night. Trees offer a simple and effective solution. Their leaves provide shade that keeps surfaces cool, and through a process called transpiration, they release water vapor that lowers the air temperature around them. Studies show that streets lined with trees can be up to five degrees cooler than those without. In addition, trees absorb pollutants, reduce noise, and give residents places to rest and meet. For these reasons, many cities have launched programs to plant thousands of trees along roads and in public squares.",
+    "passage": "Why do zebras have stripes? For more than a century, explanations have competed: camouflage, confusing predators, keeping cool, or recognizing one another. In 2019, a research team tested another idea, that the stripes protect against biting flies. Horseflies spread diseases and cause painful wounds, and the researchers noticed that the flies' habitat overlaps strongly with the places where striped zebras live. In an experiment, they dressed horses in striped coats and compared the number of flies that landed on them with the number that landed on uncovered horses and horses in plain dark coats. The striped coats attracted far fewer landings. High-speed video suggested that flies could approach the striped animals but often failed to land smoothly, bumping into them or flying away at the last moment. Scientists believe that the stripes disturb the flies' vision as they slow down to land. The result does not rule out other functions, but it provides the strongest evidence so far that stripes are the product of a long struggle between a grazing animal and its smallest enemies.",
     "options": [
-      "why modern cities need to build wider roads for all kinds of large vehicles",
-      "how to choose the most suitable trees for your own private garden at home",
-      "how urban trees help to lower temperatures and improve life in cities",
-      "what causes the rapid growth of tall buildings in the center of big cities",
-      "when the best time is to plant young trees in the coldest regions of the world"
+      "얼룩말의 줄무늬가 포식자를 속이는 방식",
+      "말과 얼룩말의 서식지가 겹치게 된 역사적 이유",
+      "줄무늬가 파리의 착지를 막는 데 도움이 된다는 연구",
+      "말에게 옷을 입혀 질병을 예방하는 실용적인 방법에 관한 연구",
+      "파리가 사람에게 옮기는 질병의 종류와 증상"
     ],
     "answer": 2,
-    "translation": "더운 여름날 도심의 기온은 주변 시골보다 몇 도 더 높을 수 있다. 이 \"도시 열섬\" 효과는 낮 동안 열을 흡수하고 밤에 천천히 방출하는 콘크리트, 아스팔트, 유리 때문에 생긴다. 나무는 간단하고 효과적인 해결책을 제공한다. 나뭇잎은 표면을 시원하게 유지하는 그늘을 주고, 증산이라는 과정을 통해 주변 기온을 낮추는 수증기를 내보낸다. 연구에 따르면 나무가 늘어선 거리는 그렇지 않은 거리보다 최대 5도 더 시원할 수 있다. 게다가 나무는 오염 물질을 흡수하고 소음을 줄이며 주민들에게 쉬고 만날 장소를 준다. 이런 이유로 많은 도시가 도로와 공공 광장을 따라 수천 그루의 나무를 심는 프로그램을 시작했다.",
-    "why": "도시의 열섬 현상을 도시의 나무가 낮추고 도시 생활을 개선한다는 내용입니다.",
+    "translation": "얼룩말은 왜 줄무늬가 있을까? 한 세기가 넘도록 설명들이 경쟁해 왔다. 위장, 포식자 혼란, 체온 유지, 서로 알아보기. 2019년 한 연구 팀은 줄무늬가 무는 파리를 막아 준다는 또 다른 생각을 시험했다. 등에는 병을 옮기고 아픈 상처를 내며, 연구자들은 파리의 서식지가 줄무늬 얼룩말이 사는 곳과 크게 겹침을 알아챘다. 실험에서 그들은 말에게 줄무늬 옷을 입히고 거기에 내려앉은 파리의 수를 옷을 입히지 않은 말과 평범한 짙은 색 옷을 입은 말에 내려앉은 수와 비교했다. 줄무늬 옷은 훨씬 적은 착지를 불러왔다. 고속 촬영은 파리가 줄무늬 동물에 다가갈 수는 있지만 부드럽게 내려앉지 못하고 부딪히거나 마지막 순간에 날아가 버리는 일이 흔함을 시사했다. 과학자들은 줄무늬가 파리가 내려앉으려고 속도를 줄일 때 시야를 교란한다고 믿는다. 이 결과가 다른 기능을 배제하지는 않지만 줄무늬가 풀을 뜯는 동물과 가장 작은 적들 사이의 긴 싸움의 산물이라는 가장 강력한 증거를 제공한다.",
+    "why": "줄무늬가 흡혈 파리의 착지를 막는다는 실험 연구를 소개하는 글입니다.",
     "optionNotes": [
-      "도로 확장은 나오지 않습니다.",
-      "개인 정원용 나무 선택은 나오지 않습니다.",
-      "정답. 도시의 나무가 기온을 낮추고 생활을 개선합니다.",
-      "고층 건물 증가의 원인은 나오지 않습니다.",
-      "추운 지역의 식목 시기는 나오지 않습니다."
+      "포식자 혼란은 경쟁하던 기존 설명 중 하나일 뿐입니다.",
+      "서식지의 역사적 이유는 나오지 않습니다.",
+      "정답. 줄무늬가 파리의 착지를 막는다는 연구입니다.",
+      "말에게 옷을 입히는 것은 실험 방법일 뿐입니다.",
+      "파리가 옮기는 질병의 종류는 나오지 않습니다."
     ],
-    "trap": "'concrete, asphalt'가 먼저 나온다고 도시 건설(①④)로 착각하지 마세요.",
-    "tip": "주제는 문제 제기(heat island)와 해결책(trees)을 함께 담은 보기를 고르세요."
+    "trap": "실험에서 말에게 옷을 입히는 장면 때문에 ④를 실용 방법으로 오해하지 마세요.",
+    "tip": "주제는 여러 가설 중 글이 집중해서 다루는 하나의 가설과 그 근거를 고르세요."
   },
   {
     "id": "m3b-03-24",
     "level": "m3",
     "set": "mock-03",
+    "rev": 2,
     "no": 24,
     "type": "title",
     "stem": "다음 글의 제목으로 가장 적절한 것은?",
-    "passage": "Crows are often considered one of the most intelligent animals in the world, and scientists have collected plenty of evidence. In laboratory experiments, crows have bent pieces of wire into hooks to pull food out of narrow tubes, a skill that even young children find challenging. Wild crows have also been observed dropping nuts onto roads so that passing cars crack them open. Their memory is equally impressive. Researchers found that crows can recognize individual human faces and remember who treated them badly for years, even teaching the information to other crows. Some species hold gatherings around dead companions, which may help them learn about possible dangers. Together, these abilities suggest that crows possess a level of thinking that was once thought to belong only to humans and apes.",
+    "passage": "Lichens look like patches of crust on rocks and tree trunks, and most people walk past them without a glance. Yet scientists treat them as living instruments. A lichen is not a single organism but a partnership between a fungus and an alga, and it has no roots or protective skin. It therefore absorbs water, minerals, and gases directly from the air, including pollutants. Some species are extremely sensitive to sulfur dioxide, and they die in places where this gas is common. In the nineteenth century, a botanist noticed that lichens vanished from the center of Paris and survived only in the suburbs, a pattern that mapped the city's air quality long before instruments could measure it. Today, researchers collect lichens to study heavy metals and radioactive material, and some cities use them to check whether new traffic rules have improved the air. Because lichens are inexpensive, widespread, and silent, they allow an entire region to be monitored by a small team with nothing more than a notebook.",
     "options": [
-      "Feathered Geniuses: The Remarkable Intelligence of Crows",
-      "How Wild Birds Migrate Across Continents Every Winter Season",
-      "The Dangers of Feeding Birds in Busy Urban Neighborhoods",
-      "Tool Making in Early Human Societies and Their Children",
-      "Why Bird Species Are Disappearing from Our Planet So Quickly"
+      "Lichens: Nature's Quiet Detectors of Polluted Air",
+      "How Fungi and Algae Share Food Underground",
+      "Why Cities Plant Trees Along Busy Roads",
+      "A Botanist's Journey Through the Parisian Suburbs",
+      "The Danger of Eating Wild Plants and Fungi"
     ],
     "answer": 0,
-    "translation": "까마귀는 흔히 세계에서 가장 지능이 높은 동물 중 하나로 여겨지며 과학자들은 많은 증거를 모았다. 실험실 실험에서 까마귀는 철사를 갈고리 모양으로 구부려 좁은 관에서 먹이를 꺼냈는데 이는 어린아이도 어려워하는 기술이다. 야생 까마귀는 지나가는 차가 깨 주도록 견과를 도로에 떨어뜨리는 것도 관찰되었다. 기억력 또한 인상적이다. 연구자들은 까마귀가 사람 얼굴을 개별적으로 알아보고 자신을 나쁘게 대한 사람을 몇 년 동안 기억하며 그 정보를 다른 까마귀에게 가르치기까지 한다는 것을 발견했다. 일부 종은 죽은 동료 주위에 모이는데 이는 가능한 위험에 대해 배우는 데 도움이 될 수 있다. 이런 능력들은 까마귀가 한때 인간과 유인원에게만 속한다고 여겨졌던 수준의 사고력을 지니고 있음을 시사한다.",
-    "why": "도구 사용, 얼굴 인식, 기억 등 까마귀의 놀라운 지능을 소개하므로 ①이 제목입니다.",
+    "translation": "지의류는 바위와 나무줄기 위의 딱지 조각처럼 보여서 대부분의 사람은 눈길도 주지 않고 지나간다. 그러나 과학자들은 그것을 살아 있는 계기로 다룬다. 지의류는 하나의 생물이 아니라 균류와 조류의 동반 관계이며 뿌리나 보호하는 피부가 없다. 그래서 오염 물질을 포함해 물, 광물, 기체를 공기에서 직접 흡수한다. 일부 종은 이산화황에 극도로 민감해 이 기체가 흔한 곳에서는 죽는다. 19세기에 한 식물학자는 지의류가 파리의 중심에서 사라지고 교외에서만 살아남는 것을 알아챘는데, 이 양상은 기기가 측정할 수 있기 훨씬 전에 도시의 대기 질을 지도로 보여 주었다. 오늘날 연구자들은 중금속과 방사성 물질을 연구하려고 지의류를 채집하고 일부 도시는 새 교통 규칙이 공기를 개선했는지 확인하는 데 쓴다. 지의류는 값싸고 널리 퍼져 있으며 조용하기 때문에 작은 팀이 공책 하나만으로 한 지역 전체를 감시하게 해 준다.",
+    "why": "지의류가 대기 오염을 알려 주는 지표로 쓰인다는 내용이므로 ①이 제목으로 알맞습니다.",
     "optionNotes": [
-      "정답. 까마귀의 놀라운 지능입니다.",
-      "새의 이동은 나오지 않습니다.",
-      "먹이 주기의 위험은 나오지 않습니다.",
-      "초기 인류의 도구 제작은 나오지 않습니다.",
-      "조류 멸종은 나오지 않습니다."
+      "정답. 지의류가 오염된 공기를 알려 주는 조용한 탐지기라는 내용입니다.",
+      "균류와 조류의 영양 공유는 부수적 설명입니다.",
+      "도시의 가로수는 나오지 않습니다.",
+      "식물학자의 여정이 주제가 아닙니다.",
+      "야생 식물을 먹는 위험은 나오지 않습니다."
     ],
-    "trap": "'humans and apes'가 나온다고 인류의 도구(④)로 착각하지 마세요.",
-    "tip": "제목은 모든 예시를 묶는 핵심 주장(crows are intelligent)을 담으세요."
+    "trap": "'fungus and an alga'라는 구조 설명에 끌려 ②를 고르지 마세요. 글의 중심은 '오염 지표'입니다.",
+    "tip": "제목은 글의 서두 이미지(눈길 주지 않는 이끼)에서 결론(공기의 탐지기)으로 이어지는 핵심을 담아야 합니다."
   },
   {
     "id": "m3b-03-25",
     "level": "m3",
     "set": "mock-03",
+    "rev": 2,
     "no": 25,
     "type": "chart",
     "stem": "다음 도표의 내용과 일치하지 않는 것은?",
     "chart": {
-      "title": "Students Who Read for Pleasure Every Day (%)",
-      "unit": "%",
+      "title": "Museum Visitors by Month (thousands)",
+      "unit": "thousand",
       "labels": [
-        "Finland",
-        "Japan",
-        "Korea",
-        "USA",
-        "Brazil"
+        "January",
+        "April",
+        "July",
+        "October"
       ],
       "series": [
         {
-          "name": "Percent",
+          "name": "Weekday",
           "values": [
-            62,
-            55,
-            38,
-            44,
-            31
+            12,
+            18,
+            25,
+            15
+          ]
+        },
+        {
+          "name": "Weekend",
+          "values": [
+            20,
+            30,
+            42,
+            28
           ]
         }
       ]
     },
-    "passage": "The graph above shows the percentage of students who read for pleasure every day in five countries. ① Finland has the highest percentage among the five countries. ② The percentage of Japan is 11 percentage points higher than that of the USA. ③ Brazil has the lowest percentage of all. ④ The percentage of Korea is higher than that of the USA. ⑤ The difference between the highest and the lowest percentages is more than 30 percentage points.",
+    "passage": "The graph shows the number of weekday and weekend visitors to a museum in four months. ① Weekend visitors outnumbered weekday visitors in every month. ② July had the largest number of visitors for both groups. ③ The number of weekday visitors in October was 3 thousand higher than in January. ④ In April, weekend visitors were twice as many as weekday visitors. ⑤ The total number of visitors in July was 67 thousand.",
     "options": [
       "①",
       "②",
@@ -234,100 +249,103 @@
       "⑤"
     ],
     "answer": 3,
-    "translation": "위 그래프는 다섯 나라에서 매일 즐거움을 위해 책을 읽는 학생의 비율을 보여 준다. ① 핀란드는 다섯 나라 중 비율이 가장 높다. ② 일본의 비율은 미국보다 11퍼센트포인트 높다. ③ 브라질은 비율이 가장 낮다. ④ 한국의 비율은 미국보다 높다. ⑤ 가장 높은 비율과 가장 낮은 비율의 차이는 30퍼센트포인트가 넘는다.",
-    "why": "한국은 38%, 미국은 44%이므로 한국의 비율이 미국보다 높다는 ④는 일치하지 않습니다.",
+    "translation": "그래프는 한 박물관의 네 달 동안 평일과 주말 방문객 수를 보여 준다. ① 주말 방문객은 모든 달에 평일 방문객보다 많았다. ② 7월은 두 집단 모두에서 방문객이 가장 많았다. ③ 10월의 평일 방문객은 1월보다 3천 명 많았다. ④ 4월에 주말 방문객은 평일 방문객의 두 배였다. ⑤ 7월의 전체 방문객은 6만 7천 명이었다.",
+    "why": "4월의 주말 방문객은 30천 명, 평일은 18천 명이므로 두 배가 아닙니다(약 1.7배).",
     "optionNotes": [
-      "핀란드가 62%로 가장 높습니다.",
-      "55 - 44 = 11퍼센트포인트입니다.",
-      "브라질이 31%로 가장 낮습니다.",
-      "정답(불일치). 한국(38%)은 미국(44%)보다 낮습니다.",
-      "62 - 31 = 31퍼센트포인트입니다."
+      "모든 달에서 주말이 더 많습니다.",
+      "7월이 두 집단 모두 가장 높습니다.",
+      "15 - 12 = 3(천 명)입니다.",
+      "정답(불일치). 30은 18의 두 배(36)가 아닙니다.",
+      "25 + 42 = 67(천 명)입니다."
     ],
-    "trap": "나라 이름의 순서에 이끌려 비교 방향(higher/lower)을 거꾸로 읽기 쉽습니다.",
-    "tip": "비교 표현은 두 값을 직접 읽고 higher/lower 방향을 확인하세요."
+    "trap": "'twice'를 어림으로 판단하지 말고 18 × 2 = 36과 직접 비교하세요.",
+    "tip": "배수 표현은 정확한 계산으로 확인하세요."
   },
   {
     "id": "m3b-03-26",
     "level": "m3",
     "set": "mock-03",
+    "rev": 2,
     "no": 26,
     "type": "match",
-    "stem": "Wangari Maathai에 관한 다음 글의 내용과 일치하는 것은?",
-    "passage": "Wangari Maathai was born in 1940 in a small village in central Kenya. After receiving a scholarship to study in the United States, she earned a degree in biology and later returned to Kenya to continue her studies. In 1971, she received a doctorate from the University of Nairobi and became the first woman in East and Central Africa to do so. While traveling through the countryside, she noticed that deforestation had left rural women without firewood and clean water. In 1977, she founded the Green Belt Movement, which paid women small amounts to plant trees. Over the following decades, millions of trees were planted. Her peaceful campaigns often angered the government, and she was arrested several times. In 2004, she became the first African woman to win the Nobel Peace Prize.",
+    "stem": "Mary Anning에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Mary Anning was born in 1799 in Lyme Regis, a seaside town in southern England, to a poor family that earned a little money by selling fossils to tourists. Of ten children, only Mary and her brother survived to adulthood. When she was twelve, her brother found a strange skull on the beach, and months later, Mary uncovered the rest of the skeleton, which turned out to be an ichthyosaur, a marine reptile unknown to science. She went on to discover the first complete plesiosaur in 1823 and the first British pterosaur in 1828. Although the most important scientists of the day bought her finds and wrote papers about them, she was not allowed to join the Geological Society because she was a woman, and her name was often left out of the reports. She taught herself anatomy and geology by reading and by dissecting animals. After she died of cancer in 1847, the Society honored her memory with a published tribute, a rare event for a non-member.",
     "options": [
-      "1977년에 여성들이 나무를 심도록 돕는 녹색 벨트 운동을 창립했다.",
-      "미국의 대학에서 생물학 박사 학위를 받은 뒤 케냐로 돌아왔다.",
-      "산림 벌채를 장려하는 정부 정책에 협력하여 여러 번 상을 받았다.",
-      "2004년에 아프리카 여성 최초로 노벨 문학상을 받았다.",
-      "그의 활동은 정부의 지원을 받아 평화롭게 진행되었고 체포된 적이 없다."
+      "가난한 집안에서 자란 그녀의 가족은 관광객에게 화석을 팔아 생계에 보탰다.",
+      "열 명의 형제자매 가운데 대부분이 성인이 되어 함께 화석 사업을 이어 갔다.",
+      "어룡의 두개골과 나머지 골격은 모두 그녀가 혼자 처음 발견했다.",
+      "그녀는 지질학회 회원이 되어 당대의 학자들과 함께 논문을 공동으로 썼다.",
+      "학교에서 해부학과 지질학을 정식으로 배운 뒤 화석 수집가가 되었다."
     ],
     "answer": 0,
-    "translation": "왕가리 마타이는 1940년 케냐 중부의 작은 마을에서 태어났다. 미국에서 공부할 장학금을 받은 후 그녀는 생물학 학위를 받았고 이후 케냐로 돌아와 공부를 계속했다. 1971년 그녀는 나이로비 대학교에서 박사 학위를 받아 동·중앙 아프리카에서 최초로 박사가 된 여성이 되었다. 시골을 다니던 중 그녀는 삼림 벌채로 농촌 여성들이 땔감과 깨끗한 물을 얻지 못하게 되었음을 알게 되었다. 1977년 그녀는 여성들이 나무를 심으면 소액을 지급하는 녹색 벨트 운동을 창립했다. 이후 수십 년 동안 수백만 그루의 나무가 심어졌다. 그녀의 평화적인 운동은 정부를 자주 화나게 했고 그녀는 여러 번 체포되었다. 2004년 그녀는 노벨 평화상을 받은 최초의 아프리카 여성이 되었다.",
-    "why": "'In 1977, she founded the Green Belt Movement, which paid women small amounts to plant trees.'와 일치합니다.",
+    "translation": "메리 애닝은 1799년 영국 남부의 해안 마을 라임 리지스에서 가난한 집안의 아이로 태어났는데, 그 집안은 관광객에게 화석을 팔아 약간의 돈을 벌었다. 열 명의 아이 중 메리와 오빠만 성인이 될 때까지 살아남았다. 그녀가 열두 살일 때 오빠가 해변에서 이상한 두개골을 발견했고 몇 달 뒤 메리가 나머지 골격을 파냈는데, 그것은 과학에 알려지지 않은 해양 파충류인 어룡이었다. 그녀는 1823년 최초의 완전한 장경룡을, 1828년 최초의 영국 익룡을 발견했다. 당대의 가장 중요한 과학자들이 그녀의 발견물을 사서 그것에 대한 논문을 썼지만 그녀는 여성이라는 이유로 지질학회에 가입할 수 없었고 이름은 흔히 보고서에서 빠졌다. 그녀는 독서와 동물 해부로 해부학과 지질학을 독학했다. 1847년 암으로 세상을 떠난 뒤 학회는 비회원으로서는 드문 일로 그녀를 기리는 추모문을 발표했다.",
+    "why": "가족이 화석을 관광객에게 팔았다는 첫 문장과 일치하므로 ①입니다.",
     "optionNotes": [
-      "정답. 1977년 녹색 벨트 운동을 창립했습니다.",
-      "박사 학위는 나이로비 대학교에서 받았습니다.",
-      "정부와 갈등했고 여러 번 체포되었습니다.",
-      "노벨 문학상이 아니라 노벨 평화상입니다.",
-      "정부를 화나게 했고 여러 번 체포되었습니다."
+      "정답. 가난한 집안이 관광객에게 화석을 팔아 생계에 보탰습니다.",
+      "열 명 중 메리와 오빠만 성인이 되었습니다.",
+      "두개골은 오빠가, 나머지 골격은 메리가 발견했습니다.",
+      "여성이라는 이유로 학회에 가입하지 못했습니다.",
+      "학교가 아니라 독학으로 배웠습니다."
     ],
-    "trap": "미국에서 받은 것은 학위(degree)이고 박사 학위는 케냐에서 받았습니다.",
-    "tip": "일치 문제는 장소·연도·상의 종류를 하나씩 대조하세요."
+    "trap": "'her brother found a skull'과 'Mary uncovered the rest'를 구분하지 않으면 ③에 속습니다.",
+    "tip": "일치 문제는 인물의 행위 주체와 수치(10명 중 2명)를 보기와 대조하세요."
   },
   {
     "id": "m3b-03-27",
     "level": "m3",
     "set": "mock-03",
+    "rev": 2,
     "no": 27,
     "type": "notice",
-    "stem": "Hanbit Youth Orchestra Auditions에 관한 다음 안내문의 내용과 일치하는 것은?",
-    "passage": "Hanbit Youth Orchestra Auditions\nWho can apply: Students aged 13 - 18 who have played an instrument for at least two years\nInstruments needed: Violin, viola, cello, flute, clarinet, and trumpet\nAudition date: Saturday, March 22, 10 a.m. - 5 p.m., City Arts Center, Room 301\nHow to apply: Complete the online form by March 14. A registration fee of $10 will be charged and is non-refundable.\nWhat to prepare: One solo piece of your choice (3 - 5 minutes) and one scale chosen by the judges\nResults: Announced by email on March 28\nRehearsals: Every Saturday afternoon from April to June, with a final concert on June 21",
+    "stem": "Garden Volunteer Day 안내문의 내용과 일치하는 것은?",
+    "passage": "Eastside Middle School - Garden Volunteer Day\nDate: Saturday, April 19, 9 a.m. - 1 p.m. (rain date: April 26)\nPlace: School garden behind the gym\nWho can join: Students, parents, and neighbors (children under 12 must be accompanied by an adult)\nTasks: Planting vegetable seedlings, building compost bins, and painting garden signs\nProvided: Gloves, tools, water, and a light lunch for all volunteers\nBring: Closed shoes and a hat (there is no need to bring seedlings)\nSign-up: Online at the school website by April 15; walk-ins are welcome if space is available.\nNote: Volunteers will receive 4 service hours.",
     "options": [
-      "지원 자격은 악기를 5년 이상 연주한 학생이다.",
-      "오디션은 일요일 하루 종일 도시 예술 센터의 큰 공연장에서 진행되며 장소 변경은 없다.",
-      "접수비 10달러는 오디션에 불합격하면 전액 돌려받을 수 있으며 합격하면 환불되지 않는다.",
-      "오디션에서는 자유곡 한 곡과 심사 위원이 정한 음계 하나를 연주해야 한다.",
-      "합격 결과는 3월 22일에 오디션 현장에서 바로 발표된다."
+      "비가 오면 행사는 완전히 취소되고 이후에도 다시 열리지 않는다.",
+      "재학생만 자원봉사에 참여할 수 있다.",
+      "모종은 참가자가 직접 가져와야 한다.",
+      "자리가 남아 있다면 현장에서 바로 참가할 수도 있다.",
+      "점심은 참가자가 별도의 비용을 내고 먹어야 한다."
     ],
     "answer": 3,
-    "translation": "한빛 청소년 오케스트라 오디션. 지원 자격: 악기를 최소 2년 이상 연주한 13~18세 학생. 필요한 악기: 바이올린, 비올라, 첼로, 플루트, 클라리넷, 트럼펫. 오디션 날짜: 3월 22일 토요일 오전 10시~오후 5시, 시립 예술 센터 301호. 신청 방법: 3월 14일까지 온라인 양식 작성. 접수비 10달러가 부과되며 환불되지 않습니다. 준비물: 자유곡 한 곡(3~5분)과 심사 위원이 정하는 음계 하나. 결과: 3월 28일 이메일로 발표. 리허설: 4월부터 6월까지 매주 토요일 오후, 6월 21일 마지막 연주회.",
-    "why": "'One solo piece of your choice and one scale chosen by the judges'와 일치합니다.",
+    "translation": "이스트사이드 중학교 – 정원 자원봉사의 날. 날짜: 4월 19일 토요일 오전 9시~오후 1시(우천 시 4월 26일). 장소: 체육관 뒤 학교 정원. 참가 대상: 학생, 학부모, 이웃(12세 미만은 어른 동반). 활동: 채소 모종 심기, 퇴비통 만들기, 정원 표지판 칠하기. 제공: 모든 자원봉사자에게 장갑, 도구, 물, 가벼운 점심. 준비물: 닫힌 신발과 모자(모종은 가져올 필요 없음). 신청: 4월 15일까지 학교 누리집에서 온라인으로, 자리가 있으면 현장 참가도 환영. 안내: 자원봉사자는 봉사 시간 4시간을 받습니다.",
+    "why": "'walk-ins are welcome if space is available'와 일치합니다.",
     "optionNotes": [
-      "최소 2년 이상입니다.",
-      "토요일(3월 22일)에 열립니다.",
-      "접수비는 환불되지 않습니다.",
-      "정답. 자유곡 한 곡과 심사 위원이 정한 음계 하나입니다.",
-      "결과는 3월 28일 이메일로 발표됩니다."
+      "우천 시에는 4월 26일로 미룹니다.",
+      "학생, 학부모, 이웃이 참가할 수 있습니다.",
+      "모종은 가져올 필요가 없습니다.",
+      "정답. 자리가 있으면 현장 참가도 환영합니다.",
+      "점심은 무료로 제공됩니다."
     ],
-    "trap": "오디션 날짜(3월 22일)와 결과 발표일(3월 28일)을 혼동하지 마세요.",
-    "tip": "안내문은 조건(경력, 환불, 발표일)을 보기와 정확히 대조하세요."
+    "trap": "'rain date'를 '취소'로 오해하지 마세요.",
+    "tip": "안내문의 Date, Who can join, Provided, Bring, Sign-up 항목을 하나씩 대조하세요."
   },
   {
     "id": "m3b-03-28",
     "level": "m3",
     "set": "mock-03",
+    "rev": 2,
     "no": 28,
     "type": "notice",
-    "stem": "Language Exchange Café에 관한 다음 안내문의 내용과 일치하는 것은?",
-    "passage": "Seohyeon Library Language Exchange Café\nPurpose: A friendly space for learners of English, Korean, Spanish, and Japanese to practice speaking with native speakers\nWhen: Every Wednesday, 6:30 p.m. - 8:00 p.m., from April 2 to June 25 (no meeting on May 14)\nWhere: Reading lounge on the second floor\nCost: Free for library members. Non-members pay $3 per session; drinks are sold separately.\nHow it works: Participants are grouped by language and rotate to a new conversation partner every fifteen minutes.\nRules: Please speak only in the target language during your turn. Phones should be kept on silent.\nSign-up: Register at the information desk or through the library app. Walk-ins are welcome if seats remain.",
+    "stem": "Winter Reading Challenge 안내문의 내용과 일치하는 것은?",
+    "passage": "Riverside Public Library - Winter Reading Challenge\nPeriod: December 1 - February 28\nWho can join: Anyone with a library card (children's, teen, and adult categories)\nHow it works: Read at least ten books of any kind and record each title in the challenge booklet; one of the books may be an audiobook.\nPrizes: Everyone who completes the challenge receives a free bookmark, and ten winners drawn at random from the finishers will receive a $50 bookstore voucher.\nBooklets: Available at the information desk or downloadable from the library website.\nFinal day: Booklets must be submitted by 6 p.m. on February 28.\nNote: Books that are read for school assignments can also be counted.",
     "options": [
-      "모임은 매주 수요일 오후에 4월부터 7월까지 열린다.",
-      "도서관 회원이어야만 모임에 참가할 수 있다.",
-      "참가자들은 모임 내내 한 명의 대화 상대와만 이야기한다.",
-      "도서관 회원이 아닌 참가자는 한 회에 3달러를 내야 하고 음료는 별도로 판매된다.",
-      "사전에 신청하지 않으면 자리가 남아 있어도 참가할 수 없다."
+      "도서관 회원증이 없는 사람도 참가할 수 있다.",
+      "오디오북은 인정되지 않는다.",
+      "도전을 끝낸 모든 사람에게 서점 상품권을 준다.",
+      "도전을 끝낸 사람 중에서 무작위로 뽑힌 열 명이 50달러 서점 상품권을 받는다.",
+      "학교 과제로 읽은 책은 기록에서 제외된다."
     ],
     "answer": 3,
-    "translation": "서현 도서관 언어 교환 카페. 목적: 영어, 한국어, 스페인어, 일본어 학습자가 원어민과 말하기를 연습하는 친근한 공간. 시기: 4월 2일부터 6월 25일까지 매주 수요일 오후 6시 30분~8시(5월 14일은 모임 없음). 장소: 2층 열람 라운지. 비용: 도서관 회원은 무료. 비회원은 회당 3달러이며 음료는 별도 판매. 방식: 참가자는 언어별로 모여 15분마다 새로운 대화 상대로 바꿉니다. 규칙: 자기 차례에는 목표 언어로만 말해 주세요. 휴대전화는 무음으로 해 주세요. 신청: 안내 데스크나 도서관 앱으로 등록. 자리가 남으면 현장 참가도 환영합니다.",
-    "why": "'Non-members pay $3 per session; drinks are sold separately.'와 일치합니다.",
+    "translation": "리버사이드 공공 도서관 – 겨울 독서 챌린지. 기간: 12월 1일~2월 28일. 참가 대상: 도서관 회원증이 있는 누구나(어린이, 청소년, 성인 부문). 방법: 종류와 상관없이 책을 10권 이상 읽고 각 제목을 챌린지 책자에 기록하세요. 책 중 한 권은 오디오북이어도 됩니다. 상품: 완주한 모든 사람은 책갈피를 받고, 완주자 중 무작위로 뽑은 열 명은 50달러 서점 상품권을 받습니다. 책자: 안내 데스크에서 받거나 도서관 누리집에서 내려받을 수 있습니다. 마감: 책자는 2월 28일 오후 6시까지 제출해야 합니다. 안내: 학교 과제로 읽은 책도 포함할 수 있습니다.",
+    "why": "'ten winners drawn at random from the finishers will receive a $50 bookstore voucher'와 일치합니다.",
     "optionNotes": [
-      "4월 2일부터 6월 25일까지입니다.",
-      "비회원도 회당 3달러를 내고 참가할 수 있습니다.",
-      "15분마다 새로운 대화 상대로 바꿉니다.",
-      "정답. 비회원은 회당 3달러이고 음료는 별도입니다.",
-      "자리가 남으면 현장 참가도 환영합니다."
+      "회원증이 있어야 합니다.",
+      "한 권은 오디오북이어도 됩니다.",
+      "모든 완주자는 책갈피를 받고 상품권은 추첨된 열 명만 받습니다.",
+      "정답. 완주자 중 추첨된 열 명이 상품권을 받습니다.",
+      "학교 과제로 읽은 책도 포함할 수 있습니다."
     ],
-    "trap": "'Free for library members'를 '회원만 참가 가능'으로 확대 해석하지 마세요.",
-    "tip": "안내문의 Cost, How it works, Sign-up 항목을 보기와 하나씩 대조하세요."
+    "trap": "책갈피(모든 완주자)와 상품권(추첨 열 명)의 대상을 혼동하지 마세요.",
+    "tip": "안내문의 Who can join, How it works, Prizes, Note 항목을 하나씩 대조하세요."
   }
 ]
