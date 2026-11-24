@@ -3,10 +3,11 @@
     "id": "m3b-04-29",
     "level": "m3",
     "set": "mock-04",
+    "rev": 2,
     "no": 29,
     "type": "grammar",
     "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
-    "passage": "Many of the buildings constructed by the ancient Romans are still standing today, while modern concrete structures often crumble within a hundred years. Roman concrete, {1|which} ingredients included volcanic ash and lime, has puzzled engineers for centuries. Recent research has revealed that the Romans mixed their materials at very high temperatures, {2|creating} small white lumps inside the concrete. When cracks appeared, water entering them {3|reacted} with these lumps and produced a substance that filled the gaps. In other words, the concrete was able to repair itself. Scientists now hope that a similar method {4|can be used} to make modern buildings last longer, which would reduce both costs and carbon emissions. It is surprising how much knowledge from ancient times {5|remains} to be rediscovered.",
+    "passage": "In the deserts of North America lives a small animal that can survive its entire life without drinking a single drop of water. The kangaroo rat {1|obtain} its moisture from dry seeds, which its body converts into water as it digests them. Several features help it to save every drop. Its kidneys produce urine that is far more concentrated than that of most mammals, and its nose is built to cool the air that it breathes out, {2|so} that water vapor condenses and is recaptured. The animal also avoids the heat of the day by {3|staying} in a cool burrow, which it seals with soil, and it comes out only at night, when the air is cooler and moister. Scientists once thought that such abilities were {4|unique} to desert animals, but similar adaptations have since been found in a number of other species. Engineers now study the kangaroo rat's nose in order to design devices {5|that} recover moisture from the exhaled breath of people who work in dry or dangerous environments. Such devices could one day reduce the amount of water that rescue teams and soldiers must carry.",
     "options": [
       "①",
       "②",
@@ -15,26 +16,27 @@
       "⑤"
     ],
     "answer": 0,
-    "translation": "고대 로마인이 지은 많은 건물은 오늘날에도 여전히 서 있는 반면 현대의 콘크리트 구조물은 백 년 안에 무너지는 경우가 많다. 재료에 화산재와 석회가 포함된 로마 콘크리트는 수 세기 동안 기술자들을 어리둥절하게 했다. 최근 연구는 로마인이 재료를 매우 높은 온도에서 섞어 콘크리트 안에 작은 흰 덩어리를 만들었음을 밝혔다. 균열이 생기면 그 안으로 들어간 물이 이 덩어리와 반응하여 틈을 메우는 물질을 만들었다. 다시 말해 콘크리트는 스스로를 수리할 수 있었다. 과학자들은 이제 비슷한 방법을 현대 건물이 더 오래 가도록 하는 데 쓸 수 있기를 바라는데, 그러면 비용과 탄소 배출이 모두 줄어들 것이다. 고대의 얼마나 많은 지식이 아직 다시 발견되기를 기다리고 있는지 놀랍다.",
-    "why": "뒤에 'ingredients'라는 명사가 이어지므로 소유를 나타내는 관계형용사 'whose'가 필요하며 'which'는 틀립니다.",
+    "translation": "북아메리카의 사막에는 물 한 방울도 마시지 않고 평생을 살 수 있는 작은 동물이 산다. 캥거루쥐는 마른 씨앗에서 수분을 얻는데, 몸이 씨앗을 소화하면서 그것을 물로 바꾼다. 여러 특징이 물 한 방울까지 아끼도록 돕는다. 신장은 대부분의 포유류보다 훨씬 진한 오줌을 만들고 코는 내쉬는 공기를 식히도록 만들어져 수증기가 응결되어 다시 회수된다. 이 동물은 또 흙으로 막는 서늘한 굴에 머물러 낮의 열기를 피하고 공기가 더 서늘하고 습한 밤에만 나온다. 과학자들은 한때 이런 능력이 사막 동물에게만 고유하다고 생각했지만 그 뒤 비슷한 적응이 여러 다른 종에서도 발견되었다. 기술자들은 이제 건조하거나 위험한 환경에서 일하는 사람의 내쉬는 숨에서 수분을 회수하는 장치를 설계하려고 캥거루쥐의 코를 연구한다. 그런 장치는 언젠가 구조대와 군인이 가지고 다녀야 하는 물의 양을 줄일 수 있다.",
+    "why": "주어 The kangaroo rat가 단수이므로 동사는 obtain이 아니라 obtains여야 합니다.",
     "optionNotes": [
-      "정답(틀린 것). 뒤에 명사가 이어지므로 whose여야 합니다.",
-      "결과를 나타내는 분사구문 creating입니다.",
-      "주어 water의 과거 동사 reacted입니다.",
-      "수동 조동사 구문 can be used입니다.",
-      "how much knowledge가 이끄는 절의 단수 동사 remains입니다."
+      "정답(틀린 것). 주어가 단수이므로 obtains여야 합니다.",
+      "'so that'으로 목적·결과를 나타내는 접속사입니다.",
+      "전치사 by 뒤의 동명사 staying입니다.",
+      "be동사 뒤의 형용사 unique입니다.",
+      "선행사 devices를 받는 주격 관계대명사 that입니다."
     ],
-    "trap": "which 뒤에 바로 명사(ingredients)가 오는 구조를 놓치기 쉽습니다.",
-    "tip": "관계대명사 뒤에 명사가 바로 이어지면 whose를 의심하세요."
+    "trap": "앞 문장에 'water'와 'animal'이 있어 복수형처럼 느껴지기 쉽습니다.",
+    "tip": "문장의 주어를 먼저 찾고 단수/복수에 따라 동사의 형태를 확인하세요."
   },
   {
     "id": "m3b-04-30",
     "level": "m3",
     "set": "mock-04",
+    "rev": 2,
     "no": 30,
     "type": "vocab",
     "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
-    "passage": "Coral reefs cover less than one percent of the ocean floor, yet they {1|support} about a quarter of all marine species. A single reef can shelter thousands of fish, crabs, and other creatures. This extraordinary diversity makes reefs {2|useless} for the health of the oceans and for the people who depend on fishing and tourism. However, rising sea temperatures cause corals to expel the algae that live in their tissue, a process known as bleaching. Without the algae, corals lose both their color and their main source of food, and many of them eventually {3|die}. Pollution and overfishing make the situation even {4|worse}. Scientists are therefore experimenting with heat-resistant corals and reef restoration, hoping to {5|preserve} these underwater cities for future generations.",
+    "passage": "Wind power is among the fastest-growing sources of electricity, but it brings a challenge that is easy to {1|overlook}: the wind does not blow on demand. On a calm day, thousands of turbines may produce almost nothing, while a storm can create more electricity than the grid can use. Because electricity is difficult to store, grid managers must balance supply and demand every second, and a sudden {2|stability} in wind speed can force them to start expensive gas plants within minutes. Engineers are therefore developing large batteries and systems that pump water uphill when power is plentiful and release it to turn turbines when power is scarce. They are also building smarter networks that {3|connect} wind farms across hundreds of kilometers, so that a calm area can be supported by a windy one. Weather forecasts have also become more {4|accurate}, giving operators several days to prepare. Another approach is to change when people use electricity: factories and electric cars can be charged at hours when the wind is strong. Together, these measures show that variable energy can be managed, but only if the whole system is {5|flexible}.",
     "options": [
       "①",
       "②",
@@ -43,138 +45,143 @@
       "⑤"
     ],
     "answer": 1,
-    "translation": "산호초는 해저의 1퍼센트도 안 되는 면적을 차지하지만 모든 해양 생물종의 약 4분의 1을 부양한다. 하나의 산호초가 수천 마리의 물고기, 게, 다른 생물에게 쉼터를 줄 수 있다. 이 놀라운 다양성은 산호초가 바다의 건강과 어업과 관광에 의존하는 사람들에게 쓸모없게 만든다. 그러나 해수 온도 상승은 산호가 조직에 사는 조류를 내보내게 하는데 이 과정을 백화라고 한다. 조류가 없으면 산호는 색과 주된 먹이 공급원을 모두 잃고 많은 산호가 결국 죽는다. 오염과 남획은 상황을 더욱 악화시킨다. 그래서 과학자들은 이 수중 도시를 미래 세대를 위해 보존하려고 내열성 산호와 산호초 복원을 실험하고 있다.",
-    "why": "산호초가 다양한 생물을 부양한다는 내용이므로 바다의 건강에 '쓸모없다'가 아니라 '필수적이다(essential)'여야 합니다.",
+    "translation": "풍력은 가장 빨리 성장하는 전기 공급원 중 하나이지만 간과하기 쉬운 문제를 가져온다. 바람은 필요할 때 불지 않는다. 바람이 없는 날에는 수천 개의 터빈이 거의 아무것도 만들지 못할 수 있고, 폭풍 때는 전력망이 쓸 수 있는 것보다 많은 전기를 만들 수 있다. 전기는 저장하기 어렵기 때문에 전력망 관리자는 매초 공급과 수요의 균형을 맞춰야 하며 풍속의 갑작스러운 안정은 그들이 몇 분 안에 값비싼 가스 발전소를 가동하게 만들 수 있다. 그래서 기술자들은 대형 배터리와 전력이 풍부할 때 물을 위로 끌어올렸다가 전력이 부족할 때 방출해 터빈을 돌리는 장치를 개발하고 있다. 또 수백 킬로미터에 걸쳐 풍력 단지를 연결해 바람 없는 지역이 바람 부는 지역의 도움을 받게 하는 더 똑똑한 전력망을 개발하고 있다. 일기 예보도 더 정확해져서 운영자에게 준비할 며칠의 시간을 준다. 또 다른 접근은 사람들이 전기를 쓰는 시간을 바꾸는 것이다. 공장과 전기차는 바람이 센 시간에 충전할 수 있다. 이런 조치를 모두 합치면 변동하는 에너지도 관리될 수 있음을 보여 주지만 전체 체계가 유연해야만 한다.",
+    "why": "가스 발전소를 급히 가동해야 하는 이유는 풍속의 갑작스러운 '변화(drop, change)' 때문이므로 stability는 문맥과 반대입니다.",
     "optionNotes": [
-      "생물종을 부양한다는 의미로 support가 알맞습니다.",
-      "정답(부적절). 다양성은 바다 건강에 essential(필수적)해야 합니다.",
-      "결국 죽는다는 의미로 die가 알맞습니다.",
-      "상황을 악화시킨다는 의미로 worse가 알맞습니다.",
-      "미래 세대를 위해 보존한다는 의미로 preserve가 알맞습니다."
+      "간과하기 쉬운 문제라는 overlook입니다.",
+      "정답(부적절). 풍속의 급격한 하락·변동이 문제이므로 stability가 아니라 drop 등이어야 합니다.",
+      "풍력 단지를 연결한다는 connect입니다.",
+      "일기 예보가 더 정확해졌다는 accurate입니다.",
+      "체계가 유연해야 한다는 flexible입니다."
     ],
-    "trap": "'makes reefs ___ for the health'의 앞 문장이 긍정적인 다양성이라는 점을 놓치기 쉽습니다.",
-    "tip": "앞 문장의 평가(extraordinary diversity)와 낱말의 방향이 일치하는지 확인하세요."
+    "trap": "'stability'는 긍정적 낱말이라 자연스럽게 읽히지만 'force them to start expensive gas plants'와 충돌합니다.",
+    "tip": "결과(비싼 발전소 가동)가 나오는 원인이 부정적인 상황인지 확인하세요."
   },
   {
     "id": "m3b-04-31",
     "level": "m3",
     "set": "mock-04",
+    "rev": 2,
     "no": 31,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "In the 1920s, researchers at a factory near Chicago tried to find out whether better lighting would increase workers' productivity. To their surprise, productivity rose when the lighting was improved, but it also rose when the lighting was made dimmer. Eventually the researchers concluded that the workers were not responding to the lighting at all. They were responding to the fact that someone was paying close attention to them. The researchers had to rethink their entire experiment. The same pattern appeared in many later experiments with different groups. Companies and schools soon took notice of the finding. Known today as the Hawthorne effect, this finding suggests that people often change their behavior simply because __________. In other words, being watched can be a powerful motivator.",
+    "passage": "In 1970, the psychologist Gordon Gallup placed a mirror in front of chimpanzees and watched what happened. At first, the animals reacted as if they were seeing a stranger, making threatening gestures at their reflections. After a few days, however, they began to use the mirror to inspect parts of their bodies that they could not otherwise see, for example by picking food out of their teeth. To find out whether they understood that the image was themselves, Gallup marked their foreheads with red dye while they were asleep. When they awoke and looked into the mirror, they touched the marks on their own faces. Only a few species, including great apes, dolphins, elephants, and some birds, have passed this test. Human children typically do so at about eighteen months. Critics point out that the test depends on vision, so an animal that relies mainly on smell, such as a dog, might fail even if it has a sense of self. This suggests that the results should be interpreted with care, because failure on the test does not necessarily mean __________.",
     "options": [
-      "they are given more money for completing exactly the same work",
-      "they are afraid of losing their jobs in the near future",
-      "they want to compete with workers from other factories nearby",
-      "they know that they are being observed or studied",
-      "they have to follow a new set of rules in their workplace"
+      "that the animal prefers to sleep for a long time",
+      "that the animal has never seen its own face",
+      "that the animal is afraid of strangers and unknown objects",
+      "that the animal lacks any awareness of itself",
+      "that the animal cannot recognize its own offspring"
     ],
     "answer": 3,
-    "translation": "1920년대 시카고 근처 한 공장의 연구자들은 더 나은 조명이 노동자의 생산성을 높일지 알아보려 했다. 놀랍게도 조명이 개선되었을 때 생산성이 올랐지만 조명이 더 어두워졌을 때도 올랐다. 결국 연구자들은 노동자들이 조명에 전혀 반응하지 않았다고 결론지었다. 그들은 누군가 자신에게 세심한 주의를 기울이고 있다는 사실에 반응하고 있었다. 연구자들은 실험 전체를 다시 생각해야 했다. 같은 양상이 이후 다른 집단을 대상으로 한 많은 실험에서도 나타났다. 기업과 학교는 곧 그 발견에 주목했다. 오늘날 호손 효과로 알려진 이 발견은 사람들이 단지 자신이 관찰되고 연구된다는 것을 알기 때문에 행동을 바꾸는 경우가 많음을 시사한다. 다시 말해 관찰받는다는 것은 강력한 동기가 될 수 있다.",
-    "why": "조명과 관계없이 누군가 주의를 기울인다는 사실에 반응했으므로 '관찰되고 있음을 알기 때문에'가 알맞습니다.",
+    "translation": "1970년 심리학자 고든 갤럽은 침팬지 앞에 거울을 놓고 무슨 일이 일어나는지 지켜보았다. 처음에 동물들은 낯선 존재를 보는 것처럼 반응해 비친 모습에 위협적인 몸짓을 했다. 그러나 며칠 뒤 그들은 다른 방법으로는 볼 수 없는 몸 부위를 살피는 데 거울을 쓰기 시작했는데, 예를 들어 이빨에 낀 음식을 빼냈다. 거울 속 모습이 자신임을 이해하는지 알아보려고 갤럽은 침팬지가 자는 동안 이마에 붉은 염료로 표시를 했다. 침팬지가 깨어나 거울을 보았을 때 그들은 자기 얼굴의 표시를 만졌다. 대형 유인원, 돌고래, 코끼리, 일부 새를 포함한 소수의 종만 이 시험을 통과했다. 사람 아이는 보통 생후 약 18개월에 통과한다. 비판자들은 이 시험이 시각에 의존하므로 개처럼 주로 후각에 의존하는 동물은 자아 인식이 있어도 실패할 수 있다고 지적한다. 이는 결과를 신중히 해석해야 함을 시사하는데, 시험에서의 실패가 반드시 그 동물에게 자신에 대한 인식이 전혀 없음을 뜻하지는 않기 때문이다.",
+    "why": "시험이 시각에 의존하므로 실패가 곧 자아 인식의 부재를 의미하지는 않는다는 ④가 알맞습니다.",
     "optionNotes": [
-      "돈을 더 받는다는 내용은 없습니다.",
-      "해고에 대한 두려움은 나오지 않습니다.",
-      "다른 공장과의 경쟁은 나오지 않습니다.",
-      "정답. 관찰받고 있음을 알기 때문입니다.",
-      "새 규칙은 나오지 않습니다."
+      "수면 시간은 나오지 않습니다.",
+      "자기 얼굴을 본 적이 없다는 것은 시험의 논점이 아닙니다.",
+      "낯선 대상에 대한 두려움은 나오지 않습니다.",
+      "정답. 실패가 자신에 대한 인식이 전혀 없음을 뜻하지는 않습니다.",
+      "새끼를 알아보는 능력은 나오지 않습니다."
     ],
-    "trap": "'lighting'에 이끌려 작업 환경의 물리적 변화를 고르지 마세요.",
-    "tip": "They were responding to the fact that ~ 문장이 빈칸의 직접적 단서입니다."
+    "trap": "'a stranger'와 'threatening gestures'가 나오는 첫 부분에 끌려 ③을 고르지 마세요.",
+    "tip": "빈칸 앞의 'even if it has a sense of self'가 근거입니다."
   },
   {
     "id": "m3b-04-32",
     "level": "m3",
     "set": "mock-04",
+    "rev": 2,
     "no": 32,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "In 1928, Alexander Fleming returned from a vacation to find mold growing on a dish of bacteria that he had forgotten to clean. He worked in a small, untidy laboratory in London. Instead of throwing it away, he noticed that the bacteria around the mold had died. Many people would have ignored it. Curious, he studied the mold for weeks. This accidental observation led to the discovery of penicillin, the first widely used antibiotic, which later saved millions of lives. He shared a Nobel Prize for this work. Many scientific breakthroughs share this feature: they begin with a surprise. But a surprise alone is not enough, because countless researchers must have seen mold on a dish before. Fleming's discovery shows that chance favors only __________.",
+    "passage": "City planners spend years designing sidewalks, yet pedestrians often ignore them. Across a lawn or a park, one can see narrow brown lines worn into the grass by thousands of footsteps, shortcuts that people have chosen because the official path was longer. Planners call these lines desire paths, and they are a free source of information about what people actually want. Some universities have waited a full year after opening a new campus before paving the walkways, and then built them exactly where the grass had been worn away. The result is paths that people use because they are convenient, not because they have been told to. Such paths also cost less to maintain, since people do not trample the grass around them. The idea extends beyond sidewalks. Software designers watch how users move through an app, and shop owners observe which aisles customers avoid. In each case, the lesson is that good design __________ rather than forcing users into the behavior that the designer imagined.",
     "options": [
-      "the scientists who work in the largest and best-equipped laboratories",
-      "those whose minds are prepared to recognize its value",
-      "people who carefully avoid taking any risks in their work",
-      "researchers who follow the instructions of their teachers exactly",
-      "anyone who publishes a large number of papers every single year"
+      "depends mainly on how much money is spent on the materials",
+      "begins by observing and following the way that people naturally behave",
+      "must be completed as quickly as possible before the people arrive at the building",
+      "is easier to achieve when the designer ignores the users' habits",
+      "is mostly a matter of choosing attractive colors and shapes"
     ],
     "answer": 1,
-    "translation": "1928년 알렉산더 플레밍은 휴가에서 돌아와 치우는 것을 잊은 세균 접시에서 곰팡이가 자라고 있는 것을 발견했다. 그는 런던의 작고 어수선한 연구실에서 일했다. 그것을 버리는 대신 그는 곰팡이 주변의 세균이 죽었음을 알아챘다. 많은 사람은 그것을 무시했을 것이다. 호기심이 생긴 그는 몇 주 동안 곰팡이를 연구했다. 이 우연한 관찰은 최초로 널리 쓰인 항생제인 페니실린의 발견으로 이어졌고 페니실린은 이후 수백만 명의 목숨을 구했다. 그는 이 업적으로 노벨상을 공동 수상했다. 많은 과학적 돌파구는 이 특징을 공유한다. 놀라움으로 시작한다는 것이다. 그러나 놀라움만으로는 충분하지 않은데 수많은 연구자가 이전에도 접시 위의 곰팡이를 보았을 것이기 때문이다. 플레밍의 발견은 우연이 그 가치를 알아볼 준비가 된 마음을 가진 사람들에게만 유리하다는 것을 보여 준다.",
-    "why": "놀라움만으로는 충분하지 않고 많은 연구자가 곰팡이를 보았을 것이라고 했으므로 '그 가치를 알아볼 준비가 된 사람들'이 알맞습니다.",
+    "translation": "도시 계획가들은 보도를 설계하는 데 여러 해를 쓰지만 보행자들은 그것을 무시하곤 한다. 잔디밭이나 공원을 가로질러 수천 번의 발걸음이 풀 위에 닳아 만든 좁은 갈색 선이 보이는데, 공식 길이 더 길어서 사람들이 택한 지름길이다. 계획가들은 이 선을 욕망의 길이라 부르며 사람들이 실제로 원하는 것에 대한 공짜 정보원이다. 일부 대학은 새 캠퍼스를 연 뒤 꼬박 1년을 기다린 다음에 보도를 포장하고 잔디가 닳은 바로 그 자리에 길을 만들었다. 그 결과는 사람들이 쓰라고 해서가 아니라 편리해서 쓰는 길이다. 이런 길은 사람들이 주위의 잔디를 밟지 않으므로 유지 비용도 적게 든다. 이 생각은 보도를 넘어 확장된다. 소프트웨어 설계자는 사용자가 앱을 어떻게 움직이는지 관찰하고 가게 주인은 손님이 피하는 통로를 관찰한다. 어느 경우든 교훈은 좋은 설계가 설계자가 상상한 행동으로 사용자를 몰아넣기보다 사람들이 자연스럽게 행동하는 방식을 관찰하고 따르는 데서 시작한다는 것이다.",
+    "why": "욕망의 길 사례처럼 좋은 설계는 사람들이 자연스럽게 행동하는 방식을 관찰하고 따르는 데서 시작하므로 ②가 알맞습니다.",
     "optionNotes": [
-      "큰 연구실을 가진 과학자라는 내용은 없습니다.",
-      "정답. 가치를 알아볼 준비가 된 사람에게 우연이 유리합니다.",
-      "위험을 피하는 사람이라는 내용은 글과 반대입니다.",
-      "지시를 정확히 따른다는 내용은 없습니다.",
-      "논문 수는 나오지 않습니다."
+      "재료에 쓰는 돈은 나오지 않습니다.",
+      "정답. 사람들의 자연스러운 행동을 관찰하고 따르는 것입니다.",
+      "빨리 끝내라는 내용은 없습니다.",
+      "사용자의 습관을 무시하라는 것은 반대입니다.",
+      "색과 모양은 나오지 않습니다."
     ],
-    "trap": "'a surprise alone is not enough'가 빈칸의 단서이며 우연 자체가 아니라 준비를 강조합니다.",
-    "tip": "But 뒤의 한계(alone is not enough)가 빈칸의 조건을 암시합니다."
+    "trap": "④는 'rather than forcing users'의 부정 구조를 뒤집은 함정입니다.",
+    "tip": "'rather than forcing users into ~'는 빈칸이 '강요'의 반대임을 알려 줍니다."
   },
   {
     "id": "m3b-04-33",
     "level": "m3",
     "set": "mock-04",
+    "rev": 2,
     "no": 33,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "In a famous experiment, children were offered one marshmallow immediately or two if they waited fifteen minutes. The test was designed by a psychologist at Stanford University in the 1960s. Later studies found that the children who waited tended to have better test scores and healthier habits as adults. Many parents and teachers began to see patience as the key to success. Newspapers around the world reported these results with great excitement. However, a more recent study showed that family background strongly influenced who could wait. Children from unstable households had learned that promises are often broken, so taking the single marshmallow was a reasonable choice for them. This suggests that the ability to wait depends not only on willpower but also on __________.",
+    "passage": "People who read novels often say that they feel they have lived many lives, and psychologists have begun to ask whether this feeling is more than a figure of speech. In one experiment, volunteers who read a short literary story performed better on a test of reading emotions from photographs of eyes than volunteers who read a nonfiction essay or nothing at all. Brain scans suggest that when we follow a character's thoughts, the regions that we use to understand real people become active. A reader of fiction must constantly infer what a character feels from small clues: a pause, a sentence left unfinished, a glance away. Because these inferences are practiced again and again, the skill may grow stronger and transfer to real situations. The effect is not magical, and it is strongest with stories that leave the characters' feelings unexplained. Fiction, in this sense, is a kind of training, in which __________.",
     "options": [
-      "the experiences that teach a child to trust future rewards",
-      "the type of snack that the researcher decides to offer first",
-      "the number of other children who are waiting in the same room",
-      "the amount of time that adults spend talking with the child",
-      "the color and the size of the container that holds the sweets"
+      "we practice understanding other minds without the risks of real life",
+      "we escape from problems that cannot be solved by any amount of effort at all",
+      "we memorize the facts that will appear later in our school tests",
+      "we learn to read the printed words faster than other people can do",
+      "we avoid meeting people whose opinions are different from our own"
     ],
     "answer": 0,
-    "translation": "한 유명한 실험에서 아이들은 마시멜로 한 개를 바로 받거나 십오 분을 기다리면 두 개를 받을 수 있다고 제안받았다. 이 검사는 1960년대 스탠퍼드 대학교의 한 심리학자가 설계했다. 이후 연구들은 기다린 아이들이 성인이 되어 더 나은 시험 점수와 더 건강한 습관을 갖는 경향이 있음을 발견했다. 많은 부모와 교사는 인내심을 성공의 열쇠로 보기 시작했다. 전 세계 신문이 이 결과를 큰 흥분으로 보도했다. 그러나 더 최근의 연구는 가정 배경이 누가 기다릴 수 있는지에 강하게 영향을 미쳤음을 보여 주었다. 불안정한 가정의 아이들은 약속이 자주 깨진다는 것을 배웠기 때문에 마시멜로 한 개를 바로 먹는 것이 합리적인 선택이었다. 이는 기다리는 능력이 의지력뿐 아니라 아이가 미래의 보상을 믿도록 가르치는 경험에도 달려 있음을 시사한다.",
-    "why": "약속이 깨지는 경험을 한 아이는 기다리지 않는 것이 합리적이었으므로 '미래의 보상을 믿도록 가르치는 경험'이 알맞습니다.",
+    "translation": "소설을 읽는 사람들은 자신이 여러 삶을 살아 본 것 같다고 자주 말하며 심리학자들은 이 느낌이 비유 이상인지 묻기 시작했다. 한 실험에서 짧은 문학 이야기를 읽은 자원자들은 논픽션 에세이를 읽거나 아무것도 읽지 않은 자원자들보다 눈 사진에서 감정을 읽는 시험에서 더 잘했다. 뇌 촬영은 우리가 등장인물의 생각을 따라갈 때 실제 사람을 이해하는 데 쓰는 영역이 활성화됨을 시사한다. 소설의 독자는 잠깐의 멈춤, 끝맺지 않은 문장, 시선을 돌림 같은 작은 단서로 인물이 느끼는 것을 끊임없이 추론해야 한다. 이런 추론이 거듭 연습되므로 그 기술은 강해져 실제 상황으로 옮겨 갈 수 있다. 이 효과는 마법이 아니며 인물의 감정을 설명하지 않은 이야기에서 가장 강하다. 이런 의미에서 소설은 일종의 훈련으로, 그 안에서 우리는 실제 삶의 위험 없이 다른 사람의 마음을 이해하는 연습을 한다.",
+    "why": "소설을 읽으며 인물의 감정을 추론하는 것이 다른 사람의 마음을 이해하는 연습이 된다는 ①이 알맞습니다.",
     "optionNotes": [
-      "정답. 미래의 보상을 믿게 하는 경험입니다.",
-      "간식의 종류는 나오지 않습니다.",
-      "다른 아이의 수는 나오지 않습니다.",
-      "어른과의 대화 시간은 나오지 않습니다.",
-      "용기의 색과 크기는 나오지 않습니다."
+      "정답. 위험 없이 다른 사람의 마음을 이해하는 연습을 합니다.",
+      "문제에서의 도피는 나오지 않습니다.",
+      "시험 대비 사실 암기는 나오지 않습니다.",
+      "읽기 속도는 나오지 않습니다.",
+      "다른 의견의 사람을 피한다는 내용은 없습니다."
     ],
-    "trap": "'willpower'와 대비되는 환경적 요인을 찾아야 합니다.",
-    "tip": "not only A but also B에서 B는 앞 문장(promises are often broken)의 원인을 일반화한 말입니다."
+    "trap": "②는 '여러 삶을 산 것 같다'는 첫 문장에서 연상되는 도피 이미지이지만 글의 결론과 무관합니다.",
+    "tip": "마지막 근거 'infer what a character feels'가 빈칸의 '훈련'이 무엇인지 알려 줍니다."
   },
   {
     "id": "m3b-04-34",
     "level": "m3",
     "set": "mock-04",
+    "rev": 2,
     "no": 34,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Studies show that birds living in cities sing at a higher pitch than their relatives in the countryside. Scientists in Europe, Asia, and North America have recorded similar patterns in more than twenty species. The reason is the constant low-frequency rumble of traffic, which can drown out the deeper notes of their songs. By raising the pitch, urban birds ensure that mates and rivals can still hear them. Some species have even been found to sing louder at rush hour and more quietly at night, when the streets are calm. Noise from airports and construction sites causes comparable changes. In some cities, the effect becomes clear within just a few generations. Such changes demonstrate that animals are capable of __________ in response to the conditions created by human activity.",
+    "passage": "In 1906, the scientist Francis Galton attended a country fair where visitors guessed the weight of an ox. Almost eight hundred people entered, most of them farmers and butchers but also many with no special knowledge. Galton collected the tickets, expecting to show how poor the judgment of ordinary people could be. Instead, he calculated the average of all of the guesses and found that it was 1,197 pounds; the actual weight was 1,198. The crowd had been wiser than almost any individual, including the experts. No single guess was exactly right, but the errors above and below the true weight canceled each other out. Later researchers have shown that this \"wisdom of crowds\" appears only under certain conditions. Each person must make a judgment independently, without hearing what the others think, and the group must contain a variety of viewpoints. When people copy one another, errors that would have canceled out instead pile up in the same direction. A crowd is therefore wise only when __________.",
     "options": [
-      "ignoring every unfamiliar sound completely until it disappears",
-      "moving to the countryside within a single season of the year",
-      "teaching their songs to the humans who live in the nearby areas",
-      "adjusting their behavior to cope with a changing environment",
-      "remaining silent for several months whenever they sense danger"
+      "its members are chosen only because of their expert knowledge",
+      "it makes its decision as quickly as it possibly can",
+      "a single confident leader tells the others what to guess",
+      "its members judge independently and bring different perspectives",
+      "every person is allowed to see the average of the earlier guesses"
     ],
     "answer": 3,
-    "translation": "연구에 따르면 도시에 사는 새는 시골에 사는 친척보다 더 높은 음높이로 노래한다. 유럽, 아시아, 북미의 과학자들은 스무 종이 넘는 새에서 비슷한 양상을 기록했다. 그 이유는 노래의 낮은 음을 묻어 버릴 수 있는 교통의 끊임없는 저주파 소음 때문이다. 음높이를 높임으로써 도시의 새는 짝과 경쟁자가 여전히 자신의 소리를 들을 수 있게 한다. 일부 종은 출퇴근 시간에는 더 크게, 거리가 고요한 밤에는 더 조용히 노래하는 것으로까지 밝혀졌다. 공항과 공사장의 소음도 비슷한 변화를 일으킨다. 일부 도시에서는 불과 몇 세대 만에 그 효과가 뚜렷해진다. 이런 변화는 동물이 인간 활동이 만든 조건에 대응해 행동을 유연하게 조절할 수 있음을 보여 준다.",
-    "why": "새들이 소음에 맞춰 음높이와 크기를 바꾸므로 '변화하는 환경에 대처하려고 행동을 유연하게 조절하는 능력'이 알맞습니다.",
+    "translation": "1906년 과학자 프랜시스 갤턴은 방문객들이 소의 무게를 맞히는 시골 장터에 갔다. 거의 팔백 명이 참가했는데 대부분 농부와 정육점 주인이었지만 특별한 지식이 없는 사람도 많았다. 갤턴은 일반인의 판단이 얼마나 형편없는지 보이려는 기대로 표를 모았다. 그러나 그가 모든 추측의 평균을 계산했더니 1,197파운드였고 실제 무게는 1,198파운드였다. 군중은 전문가를 포함한 거의 어떤 개인보다 현명했다. 어떤 추측도 정확히 맞지는 않았지만 실제 무게보다 높거나 낮은 오차가 서로 상쇄되었다. 후대 연구자들은 이 '군중의 지혜'가 특정 조건에서만 나타남을 보였다. 각 사람은 다른 이들의 생각을 듣지 않고 독립적으로 판단해야 하고 집단에는 다양한 관점이 있어야 한다. 사람들이 서로를 따라 하면 상쇄되었을 오류가 같은 방향으로 쌓인다. 그러므로 군중은 구성원이 독립적으로 판단하고 서로 다른 관점을 가져올 때만 현명하다.",
+    "why": "독립적 판단과 관점의 다양성이 군중의 지혜의 조건이므로 ④가 알맞습니다.",
     "optionNotes": [
-      "낯선 소리를 무시한다는 내용은 없습니다.",
-      "시골로 이동한다는 내용은 없습니다.",
-      "사람에게 노래를 가르친다는 내용은 없습니다.",
-      "정답. 환경에 맞춰 행동을 유연하게 조절합니다.",
-      "몇 달간 침묵한다는 내용은 없습니다."
+      "전문가만 뽑는 것은 다양성에 반합니다.",
+      "빠른 결정은 조건이 아닙니다.",
+      "한 리더의 지시는 독립성을 해칩니다.",
+      "정답. 독립적 판단과 다양한 관점입니다.",
+      "이전 추측의 평균을 보면 서로 영향을 받습니다."
     ],
-    "trap": "'quietly at night'만 보고 침묵(⑤)과 혼동하지 마세요.",
-    "tip": "앞의 사례들(pitch를 높임, 시간대에 따라 크기 조절)을 일반화하세요."
+    "trap": "⑤는 평균을 알려 주면 독립성이 사라지는 점을 놓치게 만듭니다.",
+    "tip": "글의 조건 문장(Each person must ~, the group must ~)이 빈칸의 직접 근거입니다."
   },
   {
     "id": "m3b-04-35",
     "level": "m3",
     "set": "mock-04",
+    "rev": 2,
     "no": 35,
     "type": "irrelevant",
     "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
-    "passage": "Laughter is more than a response to something funny, because it has real benefits for our health. ① When we laugh, our bodies release chemicals that reduce stress and create a general sense of well-being. ② Laughing together with others also strengthens social bonds, which helps people feel understood and supported by those around them. ③ Comedy clubs have become increasingly popular in large cities, and many of them stay open until midnight on weekends. ④ Some doctors even recommend laughter exercises to patients who are recovering from illness, because laughing can ease pain for a short time. ⑤ In short, finding reasons to laugh every day is a simple way to protect both the body and the mind.",
+    "passage": "Honeybees keep the temperature of their hive remarkably stable, even though the outdoor temperature may change by thirty degrees in a day. ① In winter, the bees gather in a tight ball around the queen and shiver their flight muscles, which generates heat without moving their wings. ② The bees on the outer layer of the ball slowly exchange places with those at the warm center, so that no individual gets too cold. ③ Bees fly to flowers within a radius of several kilometers, and a single worker may visit hundreds of flowers on a single trip. ④ In summer, the problem is reversed: workers stand at the entrance and fan their wings to push the hot air out of the hive. ⑤ Others bring water and spread it in thin films across the honeycomb, and as the water evaporates, it cools the interior, much like a natural air conditioner, and the brood is kept at about thirty-five degrees.",
     "options": [
       "①",
       "②",
@@ -183,26 +190,27 @@
       "⑤"
     ],
     "answer": 2,
-    "translation": "웃음은 우스운 것에 대한 반응 이상인데, 그것이 우리 건강에 실제 이점을 주기 때문이다. ① 웃을 때 우리 몸은 스트레스를 줄이고 전반적인 안녕감을 만드는 물질을 방출한다. ② 다른 사람들과 함께 웃는 것은 또한 사회적 유대를 강화하여 사람들이 주변 사람들에게 이해받고 지지받는다고 느끼게 돕는다. ③ 코미디 클럽은 대도시에서 점점 인기를 얻고 있으며 그중 다수는 주말에 자정까지 문을 연다. ④ 일부 의사는 웃음이 잠시 통증을 덜 수 있기 때문에 질병에서 회복 중인 환자에게 웃음 운동을 권하기까지 한다. ⑤ 요컨대 매일 웃을 이유를 찾는 것은 몸과 마음을 모두 지키는 간단한 방법이다.",
-    "why": "글은 웃음의 건강상 이점을 말하는데 ③은 코미디 클럽의 인기와 영업시간에 관한 별개의 이야기라 관계가 없습니다.",
+    "translation": "꿀벌은 바깥 기온이 하루에 30도나 변해도 벌통의 온도를 놀랍도록 안정되게 유지한다. ① 겨울에 벌들은 여왕벌 주위에 빽빽한 공 모양으로 모여 날개는 움직이지 않은 채 비행 근육을 떨어 열을 만든다. ② 공의 바깥층에 있는 벌들은 따뜻한 중심의 벌들과 서서히 자리를 바꿔 어느 개체도 너무 춥지 않게 한다. ③ 벌은 몇 킬로미터 반경 안의 꽃으로 날아가며 일벌 한 마리는 한 번의 여행에서 수백 송이의 꽃을 찾을 수 있다. ④ 여름에는 문제가 반대가 된다. 일벌들이 입구에 서서 날개를 부채질해 뜨거운 공기를 벌통 밖으로 밀어낸다. ⑤ 다른 벌들은 물을 가져와 벌집에 얇은 막으로 펴 바르고 물이 증발하면서 내부를 식혀 자연의 에어컨과 같은 역할을 하여 애벌레 방은 약 35도로 유지된다.",
+    "why": "글은 꿀벌이 벌통의 온도를 조절하는 방법을 다루는데 ③은 꽃을 찾는 비행 범위로 관계가 없습니다.",
     "optionNotes": [
-      "웃음이 스트레스를 줄이는 이점입니다.",
-      "웃음이 유대를 강화하는 이점입니다.",
-      "정답(무관). 코미디 클럽의 인기와 영업시간 이야기입니다.",
-      "웃음이 통증을 덜어 주는 이점입니다.",
-      "결론 문장입니다."
+      "겨울에 열을 만드는 방법입니다.",
+      "공 안에서 자리를 바꾸는 방법입니다.",
+      "정답. 꽃을 찾아가는 범위는 온도 조절과 무관합니다.",
+      "여름에 날개로 열기를 밀어내는 방법입니다.",
+      "물의 증발로 식히는 방법입니다."
     ],
-    "trap": "'웃음'과 관련된 소재(comedy)라서 주제와 이어지는 것처럼 보일 수 있습니다.",
-    "tip": "주제(웃음의 건강상 이점)를 뒷받침하지 않는 정보성 문장을 고르세요."
+    "trap": "'bees'가 계속 나와서 ③도 같은 주제처럼 보입니다. 하지만 온도 조절 이야기가 아닙니다.",
+    "tip": "첫 문장의 핵심(temperature)이 각 문장에 이어지는지 확인하세요."
   },
   {
     "id": "m3b-04-36",
     "level": "m3",
     "set": "mock-04",
+    "rev": 2,
     "no": 36,
     "type": "order",
     "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
-    "passage": "In the early days of the internet, most websites were built simply to display information. Visitors could do little more than read what was on the screen, much like readers of a digital newspaper.\n(A) This change turned ordinary people from audiences into creators. It gave rise to platforms that now host billions of posts every single day.\n(B) Then, in the mid-2000s, a new generation of sites allowed users to post their own photos, videos, and opinions. Users could also respond to what others had shared.\n(C) However, the same freedom has made it harder to tell reliable information from rumors. Users must now judge carefully for themselves what they read and share. Many people feel overwhelmed by the sheer amount of content they see every day.",
+    "passage": "In the early nineteenth century, nobody knew which mountain on Earth was the tallest, because the greatest peaks lay in regions that few people could reach.\n(A) In 1852, a mathematician working at the survey's office in Dehradun, Radhanath Sikdar, calculated that a peak then known as Peak XV was higher than any other, at about 8,840 meters. After several years of checking the figures, the survey announced the result in 1856.\n(B) Starting in 1802, British surveyors began the Great Trigonometrical Survey of India, a project that would measure the whole country by carefully calculating angles from known points. Teams carried heavy instruments across jungles and mountains, and many of them died of disease. Over decades, the survey slowly moved north toward the Himalayas.\n(C) The peak was named Everest, after the former head of the survey, George Everest, although Tibetans and Nepalis already had their own names for it. Modern satellite measurements have refined the height, and in 2020, China and Nepal jointly announced a figure of 8,848.86 meters.",
     "options": [
       "(A)-(C)-(B)",
       "(B)-(A)-(C)",
@@ -211,26 +219,27 @@
       "(C)-(B)-(A)"
     ],
     "answer": 1,
-    "translation": "인터넷 초기에 대부분의 웹사이트는 단지 정보를 보여 주려고 만들어졌다. 방문자는 마치 디지털 신문의 독자처럼 화면의 내용을 읽는 것 이상을 거의 할 수 없었다. (B) 그러다 2000년대 중반 새로운 세대의 사이트가 사용자가 자신의 사진, 영상, 의견을 올리게 해 주었다. 사용자는 다른 사람이 공유한 것에 반응할 수도 있었다. (A) 이 변화는 평범한 사람들을 청중에서 창작자로 바꾸었다. 그것은 지금 매일 수십억 개의 게시물을 담는 플랫폼을 탄생시켰다. (C) 그러나 같은 자유가 믿을 만한 정보와 소문을 구별하기 더 어렵게 만들었다. 사용자는 이제 읽고 공유하는 것을 스스로 신중하게 판단해야 한다. 많은 사람은 매일 접하는 엄청난 양의 콘텐츠에 압도당한다.",
-    "why": "(B) 'Then, in the mid-2000s'로 변화 소개 → (A) 'This change'의 결과 → (C) 'However, the same freedom'으로 부작용 순서입니다.",
+    "translation": "19세기 초에는 지구에서 가장 높은 산이 어느 것인지 아무도 몰랐는데, 가장 큰 봉우리들이 사람들이 가기 어려운 지역에 있었기 때문이다. (B) 1802년부터 영국 측량사들은 알려진 지점에서 각도를 꼼꼼히 계산해 나라 전체를 측정하는 사업인 인도 대삼각 측량을 시작했다. 팀은 무거운 기구를 지고 정글과 산을 가로질렀고 많은 사람이 병으로 죽었다. 수십 년에 걸쳐 측량은 서서히 히말라야를 향해 북쪽으로 옮겨 갔다. (A) 1852년 측량 사무소가 있는 데라둔에서 일하던 수학자 라다나트 시크다르는 당시 XV봉으로 알려진 봉우리가 약 8,840미터로 다른 어떤 봉우리보다 높다고 계산했다. 몇 년 동안 수치를 점검한 뒤 측량대는 1856년에 결과를 발표했다. (C) 그 봉우리는 전임 측량 책임자 조지 에베레스트의 이름을 따 에베레스트라 불렸지만 티베트인과 네팔인은 이미 자신들의 이름을 갖고 있었다. 현대의 위성 측정은 높이를 다듬었고 2020년 중국과 네팔은 8,848.86미터라는 수치를 공동으로 발표했다.",
+    "why": "(B) 인도 대삼각 측량의 시작 → (A) XV봉이 가장 높다는 계산 → (C) 에베레스트라는 이름과 현대의 측정 순서입니다.",
     "optionNotes": [
-      "(A)의 'This change'가 가리킬 변화가 앞에 없습니다.",
-      "정답. 변화 → 결과 → 부작용.",
-      "(C)의 'the same freedom'이 가리킬 자유가 (A) 전에 나오지 않습니다.",
-      "(C)의 'the same freedom'이 가리킬 자유가 앞에 없습니다.",
-      "(C)의 'the same freedom'이 가리킬 자유가 앞에 없습니다."
+      "(A)의 'the survey'는 (B)에서 소개된 뒤여야 합니다.",
+      "정답. 측량 시작 → 계산 → 이름과 현대 측정입니다.",
+      "(C)의 이름은 (A)의 발표 뒤여야 합니다.",
+      "(C)가 맨 앞이면 'The peak'가 무엇인지 알 수 없습니다.",
+      "(C)가 맨 앞이면 'the survey'의 소개가 없습니다."
     ],
-    "trap": "(A)의 'This change'는 (B)에서 소개된 사용자 게시 기능입니다.",
-    "tip": "This change, the same freedom 같은 지시 표현의 선행 내용을 확인하세요."
+    "trap": "(A)의 'the survey's office'가 (B)에서 처음 소개된 사업을 가리킨다는 점을 놓치기 쉽습니다.",
+    "tip": "정관사 the survey, The peak가 앞에서 소개되었는지 확인하세요."
   },
   {
     "id": "m3b-04-37",
     "level": "m3",
     "set": "mock-04",
+    "rev": 2,
     "no": 37,
     "type": "order",
     "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
-    "passage": "Every autumn, salmon return from the ocean to the very river where they were born. They do so even after spending several years far away at sea. The journey can take several months.\n(A) As a result, salmon can travel hundreds of kilometers across open water. They still reach the exact stream where their lives began. This ability seems almost magical.\n(B) Each river has its own chemical signature, formed by the soil and plants along its banks. The fish can detect it even in tiny amounts.\n(C) Scientists believe that they find their way by using the smell of the water. They memorized it when they were young and still living in the stream. Experiments with salmon whose noses were blocked support this idea.",
+    "passage": "When the Hubble Space Telescope was launched in 1990, astronomers expected spectacular pictures of the universe.\n(A) In December 1993, astronauts flew to the telescope and installed a set of small corrective mirrors, like a pair of glasses for the instrument. The repair was a complete success, and the images became sharp. Hubble has since been serviced four more times and has been a source of discoveries for more than three decades, producing some of the most famous images in astronomy.\n(B) Engineers soon traced the cause: the main mirror had been polished to the wrong shape, by an error of about one fiftieth of the thickness of a human hair. The mistake was tiny but enough to ruin the images, and since the telescope was in orbit, nobody could simply replace the mirror.\n(C) Instead, the first photographs were a disappointment. Stars appeared as blurry spots surrounded by halos, and scientists realized that something had gone seriously wrong with the optics.",
     "options": [
       "(A)-(C)-(B)",
       "(B)-(A)-(C)",
@@ -239,26 +248,27 @@
       "(C)-(B)-(A)"
     ],
     "answer": 4,
-    "translation": "매년 가을 연어는 여러 해 동안 바다 멀리에서 지낸 뒤에도 자신이 태어난 바로 그 강으로 돌아온다. 그 여정은 몇 달이 걸릴 수 있다. (C) 과학자들은 연어가 어렸을 때 아직 개울에 살면서 기억해 둔 물의 냄새를 이용해 길을 찾는다고 믿는다. 코가 막힌 연어를 대상으로 한 실험이 이 생각을 뒷받침한다. (B) 각 강은 둑을 따라 있는 흙과 식물이 만든 고유의 화학적 특징이 있고 물고기는 아주 적은 양이라도 그것을 감지할 수 있다. (A) 그 결과 연어는 탁 트인 바다를 수백 킬로미터 이동하고도 자기 삶이 시작된 정확한 개울에 도착할 수 있다. 이 능력은 거의 마법 같다.",
-    "why": "(C) 냄새로 길을 찾는다는 설명 → (B) 그 냄새(화학적 특징)의 원인 → (A) 'As a result'로 결과 순서입니다.",
+    "translation": "1990년 허블 우주 망원경이 발사되었을 때 천문학자들은 우주의 장엄한 사진을 기대했다. (C) 그러나 첫 사진들은 실망스러웠다. 별은 후광에 둘러싸인 흐릿한 점으로 나타났고 과학자들은 광학계에 심각한 문제가 생겼음을 깨달았다. (B) 기술자들은 곧 원인을 찾아냈다. 주 거울이 사람 머리카락 두께의 약 50분의 1 정도의 오차로 잘못된 모양으로 연마되었던 것이다. 실수는 작았지만 영상을 망치기에 충분했고 망원경이 궤도에 있었으므로 아무도 거울을 그냥 교체할 수 없었다. (A) 1993년 12월 우주 비행사들이 망원경으로 날아가 기기에 씌우는 안경 같은 작은 교정 거울 세트를 설치했다. 수리는 완전한 성공이었고 영상은 선명해졌다. 허블은 그 뒤 네 번 더 정비를 받았고 30년 넘게 발견의 원천이 되어 천문학에서 가장 유명한 영상 몇 장을 내놓았다.",
+    "why": "(C) 첫 사진이 실망스러움 → (B) 원인 규명 → (A) 교정 거울 설치와 성공 순서입니다.",
     "optionNotes": [
-      "(A)의 'As a result'가 가리킬 원인이 앞에 없습니다.",
-      "(B)의 'Each river'가 설명할 대상(냄새)이 앞에 나오지 않습니다.",
-      "(B)가 먼저 오면 화학적 특징이 무엇의 설명인지 알 수 없습니다.",
-      "(A)의 'As a result'가 (B)의 설명 전에 오면 원인이 부족합니다.",
-      "정답. 냄새 → 화학적 특징 → 결과."
+      "(C)의 실망이 (A)의 수리 뒤에 올 수 없습니다.",
+      "(B)의 원인 규명이 (C)의 증상 앞에 올 수 없습니다.",
+      "(A)의 수리는 원인(B) 뒤여야 합니다.",
+      "(B)의 원인이 (A)의 수리 뒤에 올 수 없습니다.",
+      "정답. 증상 → 원인 → 수리입니다."
     ],
-    "trap": "(B)의 'chemical signature'는 (C)의 'the smell of the water'를 구체적으로 설명합니다.",
-    "tip": "As a result는 원인 설명이 모두 끝난 뒤에 놓입니다."
+    "trap": "(C)의 'Instead'는 주어진 글의 '기대'와 대조되어 첫 번째로 오는 근거입니다.",
+    "tip": "기대 → (Instead) 실망 → 원인 → 해결의 흐름을 찾으세요."
   },
   {
     "id": "m3b-04-38",
     "level": "m3",
     "set": "mock-04",
+    "rev": 2,
     "no": 38,
     "type": "insert",
     "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
-    "passage": "[주어진 문장]\nTo solve this problem, the townspeople installed three large mirrors on the mountainside above the town.\n\n[글]\n( ① ) A small town in Norway lies in a deep valley, and for almost two months every winter the surrounding mountains block the sunlight completely, which made many residents feel tired and sad. ( ② ) Controlled by computers, the mirrors turn slowly throughout the day and reflect the sunlight onto the town square. ( ③ ) Now residents gather in the square to enjoy the warmth and light, even in the darkest months. ( ④ ) The project has also become a tourist attraction that brings visitors from many countries every winter. ( ⑤ )",
+    "passage": "[주어진 문장]\nYet the same durability that makes it so useful also makes it a lasting problem once it is thrown away.\n\n[글]\n( ① ) Plastic became one of the most successful materials of the twentieth century because it is cheap, light, and strong, and it can be molded into almost any shape, from a thin bag to a part of a car. ( ② ) A plastic bottle can take four hundred years to break down, and much of it never disappears completely but splits into smaller and smaller pieces that remain in soil and water. ( ③ ) Only about nine percent of all the plastic ever made has been recycled, while most of the rest sits in landfills or drifts through the natural environment. ( ④ ) Some cities have therefore banned single-use bags and straws, and several companies are testing materials that can be broken down by bacteria. ( ⑤ ) Such measures are only a beginning, however, because the amount of plastic produced each year continues to rise.",
     "options": [
       "①",
       "②",
@@ -267,26 +277,27 @@
       "⑤"
     ],
     "answer": 1,
-    "translation": "[주어진 문장] 이 문제를 해결하려고 주민들은 마을 위 산비탈에 큰 거울 세 개를 설치했다. [글] 노르웨이의 한 작은 마을은 깊은 계곡에 있어서 매년 겨울 거의 두 달 동안 주변 산이 햇빛을 완전히 가려 많은 주민이 피곤하고 우울했다. 컴퓨터로 제어되는 거울은 하루 종일 천천히 돌며 햇빛을 마을 광장에 반사한다. 이제 주민들은 가장 어두운 달에도 광장에 모여 온기와 빛을 즐긴다. 이 사업은 또한 매년 겨울 여러 나라의 방문객을 끌어들이는 관광 명소가 되었다.",
-    "why": "'this problem'은 앞 문장의 햇빛이 차단되는 문제를 가리키고, 뒤 문장의 'the mirrors'는 주어진 문장에서 처음 소개되므로 ②에 들어갑니다.",
+    "translation": "[주어진 문장] 그러나 그것을 그토록 유용하게 만드는 바로 그 내구성은 일단 버려지면 그것을 오래가는 문제로 만들기도 한다. [글] 플라스틱은 싸고 가볍고 튼튼하며 얇은 봉지에서 자동차 부품까지 거의 어떤 모양으로도 만들 수 있어서 20세기에 가장 성공한 재료 중 하나가 되었다. 플라스틱 병은 분해되는 데 사백 년이 걸릴 수 있고 상당 부분은 완전히 사라지지 않고 점점 더 작은 조각으로 쪼개져 흙과 물에 남는다. 지금까지 만들어진 모든 플라스틱의 약 9퍼센트만 재활용되었고 나머지 대부분은 매립지에 있거나 자연환경을 떠돈다. 그래서 일부 도시는 일회용 봉지와 빨대를 금지했고 몇몇 회사는 박테리아가 분해할 수 있는 재료를 시험하고 있다. 그러나 이런 조치는 시작에 불과한데, 해마다 생산되는 플라스틱의 양이 계속 늘고 있기 때문이다.",
+    "why": "플라스틱의 장점(내구성 포함)을 나열한 뒤 'Yet'으로 같은 내구성이 문제가 된다고 반전하고, 다음 문장이 병이 분해되는 데 걸리는 시간을 설명하므로 ②입니다.",
     "optionNotes": [
-      "'this problem'이 가리킬 문제가 아직 나오지 않았습니다.",
-      "정답. 문제 제시 뒤에 해결책(거울)이 소개됩니다.",
-      "'the mirrors'가 먼저 나오면 정관사를 쓸 근거가 없어 순서가 어긋납니다.",
-      "거울 효과를 말한 뒤에 설치 사실이 나오면 순서가 뒤집힙니다.",
-      "글의 끝에서 해결책을 처음 소개하면 어색합니다."
+      "앞에 장점이 나오기 전이라 'the same durability'가 가리킬 대상이 없습니다.",
+      "정답. 장점 뒤에 반전을 제시하고 구체적 설명이 이어집니다.",
+      "분해 설명 뒤에 오면 'the same durability'가 멀어집니다.",
+      "대책을 소개하는 문장 앞이라 흐름이 맞지 않습니다.",
+      "'Such measures'로 시작하는 마지막 문장 앞이라 어색합니다."
     ],
-    "trap": "③에 넣어도 해결책 이야기로 보이지만 ②의 'the mirrors'가 이미 정관사로 쓰였습니다.",
-    "tip": "정관사(the mirrors)가 처음 소개되는 위치와 지시어(this problem)를 함께 확인하세요."
+    "trap": "'durability'는 첫 문장에 직접 나오지 않지만 'strong'의 다른 표현입니다. 그래서 ①이 아니라 ②입니다.",
+    "tip": "'Yet the same ~'은 앞 문장의 장점이 문제의 원인이 된다는 반전을 이끕니다."
   },
   {
     "id": "m3b-04-39",
     "level": "m3",
     "set": "mock-04",
+    "rev": 2,
     "no": 39,
     "type": "insert",
     "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
-    "passage": "[주어진 문장]\nSurprisingly, the effect was strongest among the patients who had stayed in the hospital the longest.\n\n[글]\n( ① ) Dr. Reyes planted a small garden on the roof of a hospital to see whether it could help patients recover. Over the next year, she recorded how many patients visited the garden and how they felt afterward. ( ② ) Patients who could spend time there needed less pain medication and left the hospital almost a day earlier than those who could not. ( ③ ) The researchers believe that fresh air, sunlight, and the sight of plants helped these patients relax. ( ④ ) Encouraged by these results, several other hospitals have started to build their own gardens. ( ⑤ )",
+    "passage": "[주어진 문장]\nThe light then reflects off the back of the drop and bends again as it leaves.\n\n[글]\n( ① ) A rainbow appears when sunlight passes through millions of tiny raindrops, each of which acts like a small prism, which is why we see colors. ( ② ) As light enters a drop, it slows down and bends, and each color bends by a slightly different amount. ( ③ ) Because red light bends least and violet light bends most, the colors leave the drop at slightly different angles, spreading out into a band. ( ④ ) To see a rainbow, an observer must stand with the sun behind and the rain in front, because the colors return toward the sun at an angle of about forty-two degrees from the line that joins the sun to the observer's shadow. ( ⑤ ) That is why a rainbow is really a circle, and from an airplane, one can sometimes see the full ring, with the shadow of the plane at its center.",
     "options": [
       "①",
       "②",
@@ -295,44 +306,45 @@
       "⑤"
     ],
     "answer": 2,
-    "translation": "[주어진 문장] 놀랍게도 그 효과는 병원에 가장 오래 머문 환자들에게서 가장 강했다. [글] 레예스 박사는 환자의 회복에 도움이 되는지 알아보려고 병원 옥상에 작은 정원을 가꾸었다. 이듬해 그녀는 얼마나 많은 환자가 정원을 찾았는지와 그 후 어떻게 느꼈는지를 기록했다. 그곳에서 시간을 보낼 수 있던 환자들은 진통제가 덜 필요했고 그러지 못한 환자들보다 거의 하루 일찍 퇴원했다. 연구자들은 맑은 공기, 햇빛, 식물을 보는 것이 이 환자들이 긴장을 푸는 데 도움이 되었다고 믿는다. 이러한 결과에 고무되어 몇몇 다른 병원도 자체 정원을 만들기 시작했다.",
-    "why": "'the effect'는 바로 앞 문장의 정원 효과(진통제 감소, 조기 퇴원)를 가리키고 이어서 효과의 원인 설명이 오므로 ③에 들어갑니다.",
+    "translation": "[주어진 문장] 빛은 그 뒤 물방울의 뒷면에서 반사되어 나올 때 다시 꺾인다. [글] 무지개는 햇빛이 각각 작은 프리즘처럼 작용하는 수백만 개의 작은 빗방울을 지날 때 나타나며, 그래서 색이 보인다. 빛이 물방울에 들어갈 때 속도가 느려지며 꺾이고 각 색은 약간씩 다른 정도로 꺾인다. 빨간빛은 가장 적게, 보랏빛은 가장 많이 꺾이므로 색들은 약간씩 다른 각도로 물방울을 나와 띠로 퍼진다. 무지개를 보려면 관찰자는 해를 등지고 비를 앞에 두고 서야 하는데, 색이 관찰자의 그림자와 해를 잇는 선에서 약 42도의 각도로 해 쪽으로 돌아가기 때문이다. 그래서 무지개는 사실 원이며 비행기에서는 비행기 그림자를 중심에 둔 완전한 고리를 볼 수 있을 때도 있다.",
+    "why": "들어갈 때 꺾이는 과정 뒤에, 뒷면 반사와 나오면서 다시 꺾이는 과정이 이어져야 '나오는 각도가 다르다'는 문장이 자연스러우므로 ③입니다.",
     "optionNotes": [
-      "'the effect'가 가리킬 효과가 아직 나오지 않았습니다.",
-      "효과가 나오기 전이라 'the effect'가 가리킬 대상이 없습니다.",
-      "정답. 효과를 말한 문장 바로 뒤에서 세부 효과를 덧붙입니다.",
-      "원인 설명 뒤에 효과의 세부 사항이 나오면 흐름이 거꾸로 됩니다.",
-      "글의 끝에서 새 효과를 덧붙이면 앞의 결론과 어긋납니다."
+      "물방울에 들어가기 전이라 'then'이 어색합니다.",
+      "꺾이는 과정 설명 도중에 끼면 흐름이 끊깁니다.",
+      "정답. 입사 → 반사 → 나올 때 꺾임 → 색의 분산 순서입니다.",
+      "색이 나온 뒤에 끼면 순서가 거꾸로입니다.",
+      "관찰 위치 설명 뒤라 맥락과 맞지 않습니다."
     ],
-    "trap": "④에 넣어도 비슷해 보이지만 원인 설명은 효과를 말한 직후에 와야 합니다.",
-    "tip": "주어진 문장의 'the effect'는 효과를 먼저 설명한 문장 바로 뒤에 놓입니다."
+    "trap": "②와 ③ 사이에서 헷갈립니다. 'leave the drop'이 나오기 전에 '반사 후 나감'이 설명되어야 합니다.",
+    "tip": "'then'이 들어간 문장은 앞의 과정 다음 단계를 말합니다."
   },
   {
     "id": "m3b-04-40",
     "level": "m3",
     "set": "mock-04",
+    "rev": 2,
     "no": 40,
     "type": "summary",
     "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Researchers divided 200 office workers into two groups for a four-week study. Workers in the first group spent ten minutes of their lunch break walking in a nearby park, while those in the second group remained at their desks and ate while working. At the end of each week, all participants completed a questionnaire about their stress and took a short concentration test in the afternoon. The results were clear. Workers who walked in the park reported significantly lower stress levels, and they scored about fifteen percent higher on the concentration test. Many of them also said that they felt more cheerful when they returned to work. In contrast, the workers who stayed at their desks showed no meaningful change over the four weeks.\n\n▶ Taking a short walk in nature during the workday (A) workers' stress levels and (B) their afternoon concentration.",
+    "passage": "In a series of experiments, researchers asked groups of strangers to solve a murder mystery. Some groups consisted of friends who knew each other well, while others included an outsider. The groups with outsiders solved the problem correctly about two thirds of the time, compared with fewer than half in the groups of friends. Yet the members of the groups of friends were more confident in their answers and felt that the discussion had been enjoyable. The researchers explained that when everyone is similar, people assume that others share their information and their views, so they do not explain their reasoning. In groups that include someone different, members expect disagreement, and so they prepare more carefully, share more facts, and examine ideas more critically. The price is a discussion that feels harder and less comfortable. The finding suggests that comfort and quality are not the same thing, and that teams that wish to make good decisions should welcome a certain amount of friction.\n\n▶ Groups that include an outsider made (A) decisions than groups of friends, because their members (B) ideas more carefully.",
     "options": [
-      "(A) raised — (B) improved",
-      "(A) lowered — (B) weakened",
-      "(A) ignored — (B) maintained",
-      "(A) increased — (B) seriously damaged",
-      "(A) reduced — (B) improved"
+      "(A) faster — (B) trusted",
+      "(A) better — (B) ignored",
+      "(A) worse — (B) examined",
+      "(A) faster — (B) examined",
+      "(A) better — (B) examined"
     ],
     "answer": 4,
-    "translation": "연구자들은 사무직 노동자 200명을 4주 연구를 위해 두 집단으로 나누었다. 첫 번째 집단의 노동자들은 점심시간 중 십 분을 근처 공원에서 걷는 데 썼고 두 번째 집단은 책상에 머물며 일하면서 먹었다. 매주 말 모든 참가자는 스트레스에 관한 설문지를 작성하고 오후에 짧은 집중력 검사를 받았다. 결과는 분명했다. 공원에서 걸은 노동자들은 스트레스 수준이 상당히 낮다고 보고했고 집중력 검사에서 약 15퍼센트 더 높은 점수를 받았다. 그들 중 다수는 일터로 돌아갈 때 더 명랑했다고도 말했다. 반면 책상에 머문 노동자들은 4주 동안 의미 있는 변화를 보이지 않았다. ▶ 근무일 중 자연 속에서 잠깐 걷는 것은 노동자의 스트레스 수준을 (A)시키고 오후의 집중력을 (B)시켰다.",
-    "why": "공원에서 걸은 노동자는 스트레스가 낮아지고 집중력 점수가 올랐으므로 (A)는 reduced, (B)는 improved입니다.",
+    "translation": "일련의 실험에서 연구자들은 낯선 사람들로 이루어진 집단에게 살인 미스터리를 풀게 했다. 일부 집단은 서로를 잘 아는 친구들로 이루어졌고 다른 집단에는 외부인이 한 명 끼어 있었다. 외부인이 있는 집단은 약 3분의 2의 경우 문제를 정확히 풀었는데, 친구들의 집단은 절반에 못 미쳤다. 그러나 친구 집단의 구성원들은 자신의 답에 더 자신 있었고 토론이 즐거웠다고 느꼈다. 연구자들은 모두가 비슷하면 사람들이 다른 이들이 자신의 정보와 견해를 공유한다고 가정해 추론을 설명하지 않는다고 설명했다. 다른 사람이 포함된 집단에서는 구성원이 의견 차이를 예상하므로 더 신중히 준비하고 더 많은 사실을 나누며 생각을 더 비판적으로 검토한다. 그 대가는 더 힘들고 덜 편한 토론이다. 이 발견은 편안함과 질이 같지 않으며 좋은 결정을 하려는 팀은 어느 정도의 마찰을 환영해야 함을 시사한다. ▶ 외부인이 포함된 집단은 구성원이 생각을 더 신중하게 검토하기 때문에 친구 집단보다 더 나은 결정을 내렸다.",
+    "why": "외부인이 있는 집단이 더 나은(better) 결정을 했고, 구성원이 생각을 더 비판적으로 검토했기(examined) 때문이므로 ⑤입니다.",
     "optionNotes": [
-      "raised가 글과 반대입니다.",
-      "weakened가 글과 반대입니다.",
-      "ignored와 maintained는 글과 맞지 않습니다.",
-      "increased와 damaged는 글과 반대입니다.",
-      "정답. 스트레스를 줄이고 집중력을 높였습니다."
+      "더 빠르다는 내용은 없습니다.",
+      "생각을 무시했다는 것은 반대입니다.",
+      "더 나쁜 결정이라는 것은 반대입니다.",
+      "더 빠르다는 내용이 없습니다.",
+      "정답. 더 나은 결정이고 생각을 더 신중히 검토했습니다."
     ],
-    "trap": "(B)가 맞아도 (A)가 결과(스트레스 감소)와 일치하는지 확인하세요.",
-    "tip": "요약문은 실험군의 두 결과(스트레스 ↓, 집중력 ↑)를 짝지으세요."
+    "trap": "친구 집단이 더 자신 있고 즐거워했다는 사실에 끌려 결과의 질이 좋았다고 착각하지 마세요.",
+    "tip": "요약문은 글의 결과(correct more often)와 원인(examine ideas critically)을 짝지어 찾으세요."
   }
 ]
