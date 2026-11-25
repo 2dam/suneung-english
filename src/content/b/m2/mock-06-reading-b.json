@@ -3,10 +3,11 @@
     "id": "m2b-06-29",
     "level": "m2",
     "set": "mock-06",
+    "rev": 2,
     "no": 29,
     "type": "grammar",
     "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
-    "passage": "Kangaroos are famous for {1|their} powerful back legs, which allow them to jump up to nine meters in a single leap. When they move slowly, they use their tail as a fifth leg. Surprisingly, kangaroos cannot walk backward, {2|which} is why the animal appears on Australia's coat of arms as a symbol of moving forward. A baby kangaroo, called a joey, is born {3|so} small that it is only about the size of a jellybean. It then crawls into its mother's pouch and stays {4|there} for several months. Even after it leaves the pouch, the joey often returns to drink milk. Kangaroos live in groups, and a leader {5|are} usually the biggest male.",
+    "passage": "Glass has been made for more than four thousand years, yet most people never think about how remarkable it is. Its main ingredient is ordinary sand, {1|which} melts only at temperatures above 1,700 degrees Celsius. To make the process easier, glassmakers add soda, which lowers the melting point, and lime, which {2|prevents} the glass from dissolving in water. The molten mixture is then cooled so quickly that its atoms do not have time to form the neat crystals that are found in most solids. Instead, they remain frozen in a random order, like a liquid that has stopped moving. This unusual structure is what makes glass transparent, because light can pass through it {3|without} being scattered by crystal boundaries. Roman craftsmen discovered that adding certain metals gave glass beautiful colors, and medieval artists used {4|them} to create the stained windows of cathedrals. Today, glass fibers carry most of the world's internet traffic as pulses of light, and the thin screens in our hands are strong enough to survive a fall that would have {5|been broken} a window a century ago.",
     "options": [
       "①",
       "②",
@@ -15,26 +16,27 @@
       "⑤"
     ],
     "answer": 4,
-    "translation": "캥거루는 강력한 뒷다리로 유명한데 그 다리 덕분에 한 번의 도약으로 최대 9미터를 뛸 수 있다. 천천히 움직일 때는 꼬리를 다섯 번째 다리로 사용한다. 놀랍게도 캥거루는 뒤로 걸을 수 없으며 이 때문에 이 동물은 앞으로 나아감의 상징으로 호주의 국장에 나타난다. 조이라 불리는 새끼 캥거루는 젤리빈 크기밖에 안 될 만큼 작게 태어난다. 그런 다음 어미의 주머니로 기어들어가 몇 달 동안 그곳에 머문다. 주머니에서 나온 뒤에도 새끼는 젖을 먹으려고 자주 돌아온다. 캥거루는 무리를 이루어 살며 우두머리는 보통 가장 큰 수컷이다.",
-    "why": "주어 'a leader'는 단수이므로 'are'가 아니라 'is'여야 합니다.",
+    "translation": "유리는 4천 년 넘게 만들어져 왔지만 대부분의 사람은 그것이 얼마나 놀라운지 생각하지 않는다. 주재료는 평범한 모래로, 섭씨 1,700도 넘는 온도에서만 녹는다. 과정을 쉽게 하려고 유리 제작자들은 녹는점을 낮추는 소다와 유리가 물에 녹지 않게 하는 석회를 더한다. 녹은 혼합물은 원자가 대부분의 고체에서 발견되는 규칙적인 결정을 이룰 시간이 없을 만큼 빨리 식는다. 대신 원자들은 움직임을 멈춘 액체처럼 무작위 순서로 얼어붙은 채 남는다. 이 독특한 구조가 유리를 투명하게 만드는데, 빛이 결정 경계에 의해 산란되지 않고 통과할 수 있기 때문이다. 로마의 장인들은 특정 금속을 더하면 유리가 아름다운 색을 띤다는 것을 발견했고 중세의 예술가들은 그것을 이용해 대성당의 스테인드글라스를 만들었다. 오늘날 유리 섬유는 세계 인터넷 통신 대부분을 빛의 펄스로 나르고 우리 손의 얇은 화면은 한 세기 전이라면 창문을 깨뜨렸을 낙하를 견딜 만큼 튼튼하다.",
+    "why": "'would have p.p.' 구조에서 주어(a fall)가 창문을 '깨뜨렸을' 것이므로 능동형 broken이어야 하며 been broken(수동)은 틀립니다.",
     "optionNotes": [
-      "명사 legs를 수식하는 소유격 their입니다.",
-      "앞 절 전체를 받는 관계대명사 which입니다.",
-      "so + 형용사 + that 구문의 so입니다.",
-      "장소를 나타내는 부사 there입니다.",
-      "정답(틀린 것). 단수 주어 a leader에는 is를 써야 합니다."
+      "선행사 sand를 보충 설명하는 계속적 용법의 which입니다.",
+      "관계절 which의 동사 prevents(단수 lime)입니다.",
+      "전치사 without 뒤의 동명사 being입니다.",
+      "metals를 가리키는 대명사 them입니다.",
+      "정답(틀린 것). 뒤에 목적어(a window)가 있으므로 수동 been broken이 아니라 broken이어야 합니다."
     ],
-    "trap": "가까이 있는 복수 명사(groups)에 이끌려 복수 동사를 쓰기 쉽습니다.",
-    "tip": "주어의 수는 and 앞뒤의 가까운 명사가 아니라 핵심 명사(a leader)로 판단하세요."
+    "trap": "가정법 과거완료의 형태(would have + p.p.)를 보고 수동형으로 착각하기 쉽습니다. 뒤에 목적어가 있으면 능동입니다.",
+    "tip": "동사 뒤에 목적어가 있는지 확인해 능동/수동을 판단하세요."
   },
   {
     "id": "m2b-06-30",
     "level": "m2",
     "set": "mock-06",
+    "rev": 2,
     "no": 30,
     "type": "vocab",
     "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
-    "passage": "Recycling one ton of paper can save about seventeen trees, so recycling is an {1|effective} way to protect forests. Used paper is collected, mixed with water, and turned into a soft mixture called pulp. The pulp is then cleaned to {2|remove} ink, glue, and other materials. After that, it is pressed and dried into new sheets. Recycled paper uses {3|less} energy and water than paper made from fresh trees. However, paper fibers become shorter every time they are recycled, so paper can be recycled only five to seven times. This means that we should {4|reduce} our paper use first. Using less paper in the first place is even more {5|harmful} than recycling it.",
+    "passage": "Sloths are famous for their slowness, and for a long time people thought that this showed {1|laziness}. Scientists now understand that the slow movement is a clever way of surviving on a very poor diet. A sloth eats mostly leaves, which contain little energy and are difficult to digest, so its stomach works for up to a month to process a single meal. Its metabolism is so {2|slow} that it needs less than half of the energy that a similar-sized mammal requires. Moving slowly also helps the animal to avoid {3|attention}: predators such as eagles and jaguars detect their prey mainly by movement, and a sloth that hangs motionless in the leaves is almost invisible. Algae even grow in its fur, giving it a greenish color that makes it harder to see. The price of this lifestyle is {4|vulnerability} on the ground, where the animal can barely walk and must crawl. Once a week, however, it climbs down to the forest floor to dig a hole and leave waste. Biologists have not yet explained this dangerous habit, but they agree that the sloth is not lazy; it is a perfectly {5|inefficient} survivor.",
     "options": [
       "①",
       "②",
@@ -43,138 +45,143 @@
       "⑤"
     ],
     "answer": 4,
-    "translation": "종이 1톤을 재활용하면 나무 약 열일곱 그루를 살릴 수 있으므로 재활용은 숲을 보호하는 효과적인 방법이다. 사용한 종이를 모아 물과 섞어 펄프라는 부드러운 혼합물로 만든다. 펄프는 잉크, 풀, 다른 물질을 제거하려고 세척된다. 그 후 눌러서 말려 새 종이가 된다. 재활용 종이는 새 나무로 만든 종이보다 에너지와 물을 덜 쓴다. 그러나 종이 섬유는 재활용할 때마다 짧아져서 종이는 다섯 번에서 일곱 번밖에 재활용할 수 없다. 이는 우리가 먼저 종이 사용을 줄여야 함을 뜻한다. 처음부터 종이를 덜 쓰는 것은 재활용보다 훨씬 더 해롭다.",
-    "why": "종이 사용을 줄이는 것이 먼저라고 했으므로 재활용보다 '더 해롭다(harmful)'가 아니라 '더 효과적이다/도움이 된다(helpful)'여야 합니다.",
+    "translation": "나무늘보는 느림으로 유명하고 오랫동안 사람들은 이것이 게으름을 보여 준다고 생각했다. 과학자들은 이제 느린 움직임이 아주 빈약한 식단에서 살아남는 영리한 방법임을 이해한다. 나무늘보는 주로 에너지가 적고 소화하기 어려운 잎을 먹어서 한 끼를 처리하는 데 위가 최대 한 달 동안 일한다. 신진대사가 너무 느려서 비슷한 크기의 포유류가 필요로 하는 에너지의 절반도 안 필요하다. 느리게 움직이는 것은 주의를 끄는 것을 피하는 데도 도움이 된다. 독수리와 재규어 같은 포식자는 주로 움직임으로 먹이를 감지하고 잎 사이에 가만히 매달린 나무늘보는 거의 보이지 않는다. 털에는 조류까지 자라 녹색을 띠게 해 눈에 더 안 띄게 한다. 이런 생활 방식의 대가는 거의 걷지 못하고 기어야 하는 땅 위에서의 취약성이다. 그런데도 일주일에 한 번 그것은 숲 바닥으로 내려와 구덩이를 파고 배설한다. 생물학자들은 이 위험한 습관을 아직 설명하지 못했지만 나무늘보가 게으른 것이 아니라 완벽하게 효율적인 생존자라는 데 동의한다.",
+    "why": "느림이 영리한 생존 방식이라는 결론이므로 '완벽하게 비효율적인(inefficient)'이 아니라 '효율적인(efficient)' 생존자여야 합니다.",
     "optionNotes": [
-      "숲을 보호하는 효과적인 방법이라는 의미로 effective가 알맞습니다.",
-      "잉크 등을 제거한다는 의미로 remove가 알맞습니다.",
-      "새 나무 종이보다 에너지를 덜 쓴다는 의미로 less가 알맞습니다.",
-      "종이 사용을 줄여야 한다는 의미로 reduce가 알맞습니다.",
-      "정답(부적절). 문맥상 helpful이어야 합니다."
+      "게으름을 보여 준다고 생각했다는 laziness입니다.",
+      "신진대사가 느리다는 slow입니다.",
+      "주의를 끄는 것을 피한다는 attention입니다.",
+      "땅 위에서의 취약성(vulnerability)입니다.",
+      "정답(부적절). 'not lazy'로 이어지므로 inefficient가 아니라 efficient여야 합니다."
     ],
-    "trap": "'even more ___ than recycling'의 비교 방향을 앞 문장(we should reduce first)과 연결해야 합니다.",
-    "tip": "앞 문장의 결론(먼저 줄여야 한다)과 낱말의 방향이 일치하는지 확인하세요."
+    "trap": "'perfectly'가 긍정적 강조라 뒤의 낱말도 긍정적이어야 함을 놓치기 쉽습니다.",
+    "tip": "'not lazy; it is a ~'처럼 대조되는 문장에서 낱말의 방향을 확인하세요."
   },
   {
     "id": "m2b-06-31",
     "level": "m2",
     "set": "mock-06",
+    "rev": 2,
     "no": 31,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "When we are happy, we smile. But psychologists have found that the connection also works the other way around. Frowning, in the same way, usually appears when we feel upset. In one experiment, participants held a pen between their teeth, which forced their faces into a smile, while they watched cartoons. They rated the cartoons as funnier than people who held the pen with their lips, which prevented a smile. The two groups watched exactly the same cartoons. This suggests that our facial expressions can __________. Even a forced smile may lift our mood a little.",
+    "passage": "In the 1990s, researchers compared mathematics lessons in Japan, Germany, and the United States. In many American classrooms, the teacher demonstrated a method and the students practiced it on similar problems. In Japanese classrooms, the lesson often began with a problem that the students had not yet been taught to solve. They worked alone and in groups, tried several ideas, made mistakes, and then compared their approaches before the teacher summarized the best method. The Japanese lessons looked less efficient, because students spent more time confused, yet they did better on tests that asked them to apply ideas to new problems. Psychologists call such confusion a \"desirable difficulty\": the effort of struggling prepares the mind to notice why a method works. When a solution is handed over too quickly, students may copy the steps without understanding them. Teachers and parents who wish to help children learn should therefore resist the urge to __________, and let the learner struggle a little first.",
     "options": [
-      "make us forget the things that we have recently learned",
-      "change the speed at which our hearts beat during the day",
-      "be copied only by the people who live in the same country",
-      "influence the feelings that we experience inside",
-      "show the exact age of the person who is smiling"
+      "praise every answer as soon as it is given",
+      "give the children much more difficult homework every single day",
+      "let the children work with friends instead of alone",
+      "explain the solution the moment that a child looks confused",
+      "avoid asking questions that have more than one answer"
     ],
     "answer": 3,
-    "translation": "행복하면 우리는 웃는다. 그러나 심리학자들은 그 연결이 반대로도 작동함을 발견했다. 마찬가지로 찡그림은 보통 속상할 때 나타난다. 한 실험에서 참가자들은 만화를 보는 동안 치아 사이에 펜을 물어 얼굴이 억지로 미소 짓게 되었다. 그들은 입술로 펜을 물어 미소를 막은 사람들보다 만화가 더 재미있다고 평가했다. 두 집단은 정확히 같은 만화를 보았다. 이는 우리의 얼굴 표정이 우리가 내면에서 경험하는 감정에 영향을 줄 수 있음을 시사한다. 억지로 짓는 미소조차 기분을 조금 끌어올릴 수 있다.",
-    "why": "억지로 웃은 집단이 만화를 더 재미있다고 평가했으므로 표정이 내면의 감정에 영향을 줍니다.",
+    "translation": "1990년대에 연구자들은 일본, 독일, 미국의 수학 수업을 비교했다. 많은 미국 교실에서는 교사가 방법을 보여 주고 학생들이 비슷한 문제로 연습했다. 일본 교실에서는 수업이 학생들이 아직 푸는 법을 배우지 않은 문제로 시작되는 일이 많았다. 학생들은 혼자와 모둠으로 일하며 여러 생각을 시도하고 실수하고 교사가 가장 좋은 방법을 정리하기 전에 접근법을 비교했다. 일본의 수업은 학생들이 더 오래 혼란스러워해서 덜 효율적으로 보였지만 새 문제에 생각을 적용하라는 시험에서는 더 잘했다. 심리학자들은 이런 혼란을 '바람직한 어려움'이라 부른다. 애쓰는 노력이 방법이 왜 통하는지 알아채도록 마음을 준비시킨다. 해법이 너무 빨리 넘겨지면 학생은 단계를 이해하지 못한 채 베낄 수 있다. 그러므로 아이의 학습을 돕고 싶은 교사와 부모는 아이가 혼란스러워 보이는 순간 해법을 설명하고 싶은 충동을 참고 학습자가 먼저 조금 애쓰게 해야 한다.",
+    "why": "혼란 속에서 애쓰는 것이 학습에 도움이 되므로, 아이가 혼란스러워 보이는 즉시 해법을 설명하는 충동을 참아야 합니다.",
     "optionNotes": [
-      "기억은 나오지 않습니다.",
-      "심장 박동은 나오지 않습니다.",
-      "국가는 나오지 않습니다.",
-      "정답. 표정이 내면의 감정에 영향을 줍니다.",
-      "나이는 나오지 않습니다."
+      "모든 답에 대한 칭찬은 나오지 않습니다.",
+      "더 어려운 숙제는 나오지 않습니다.",
+      "친구와 함께 하는 것은 오히려 일본 수업의 방식입니다.",
+      "정답. 혼란스러워 보이는 순간 해법을 설명하고 싶은 충동입니다.",
+      "질문의 종류는 나오지 않습니다."
     ],
-    "trap": "'the other way around'를 놓치면 감정이 표정을 만든다는 방향만 생각하게 됩니다.",
-    "tip": "앞 문장의 실험 결과(웃는 표정 → 더 재미있다는 평가)가 빈칸의 직접 단서입니다."
+    "trap": "③은 일본 수업에서 모둠 활동이 나오는 것을 이용한 함정이지만 'resist the urge'의 대상이 될 수 없습니다.",
+    "tip": "'let the learner struggle a little first'가 빈칸의 반대 행동을 알려 줍니다."
   },
   {
     "id": "m2b-06-32",
     "level": "m2",
     "set": "mock-06",
+    "rev": 2,
     "no": 32,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Under a forest, thin threads of fungi connect the roots of many trees. Scientists have found that trees use this underground network to send sugar and water to weaker neighbors. Scientists call this hidden system the wood wide web. For example, tall trees in sunny places can share food with young trees that grow in the shade. Some trees even send chemical warnings when insects attack, so that nearby trees can prepare their defenses. In some forests, one old tree may be linked to hundreds of others. These findings suggest that a forest is not just a group of individual trees but __________.",
+    "passage": "A colony of army ants can build a bridge from its own bodies, find the shortest path to a food source, and organize the care of millions of young, yet no ant is in charge. The queen does not give orders; she only lays eggs. Scientists who study this phenomenon, called swarm intelligence, have discovered that each ant follows only a few simple rules, such as \"follow the strongest scent\" and \"leave a scent behind when you find food.\" When many ants use these rules, a shorter path collects more scent because more ants pass over it in the same time, and soon the whole colony follows it. The result looks like a plan, but it is actually a pattern that emerges from many small decisions. Engineers have copied the idea to manage delivery routes and to control groups of small robots that explore disaster areas. These examples show that complex order does not always require a central controller; it can arise when __________.",
     "options": [
-      "a place where every tree competes alone for light and water",
-      "a quiet area where no animals or insects ever visit the trees",
-      "a community whose members support one another in many ways",
-      "a business in which trees are sold at a good price each year",
-      "a collection of plants that grow better when they stay apart"
+      "a strong leader gives clear orders to every member",
+      "each member knows the full plan of the group in advance of the work",
+      "many individuals follow simple rules and respond to one another",
+      "the number of members is kept as small as possible",
+      "every individual works alone without any contact with others"
     ],
     "answer": 2,
-    "translation": "숲 아래에서는 가느다란 균류의 실이 많은 나무의 뿌리를 연결한다. 과학자들은 나무가 이 지하 망을 이용해 더 약한 이웃에게 당분과 물을 보낸다는 것을 발견했다. 과학자들은 이 숨은 체계를 나무의 인터넷이라고 부른다. 예를 들어 햇볕이 드는 곳의 큰 나무는 그늘에서 자라는 어린 나무와 양분을 나눌 수 있다. 일부 나무는 곤충이 공격할 때 화학적 경고를 보내 근처 나무가 방어를 준비하게 하기도 한다. 어떤 숲에서는 늙은 나무 한 그루가 수백 그루와 연결되어 있을 수도 있다. 이러한 발견은 숲이 단순히 개별 나무의 집합이 아니라 구성원이 여러 방식으로 서로를 돕는 공동체임을 시사한다.",
-    "why": "나무가 양분을 나누고 경고를 보내므로 숲은 서로를 돕는 공동체입니다.",
+    "translation": "군대개미 군집은 자기 몸으로 다리를 만들고 먹이까지 가장 짧은 길을 찾고 수백만 마리 새끼의 돌봄을 조직할 수 있지만 책임자 개미는 없다. 여왕은 명령하지 않고 알만 낳는다. 군집 지능이라 불리는 이 현상을 연구하는 과학자들은 각 개미가 '가장 강한 냄새를 따라가라', '먹이를 찾으면 냄새를 남겨라' 같은 몇 가지 단순한 규칙만 따른다는 것을 발견했다. 많은 개미가 이 규칙을 따르면 더 짧은 길은 같은 시간에 더 많은 개미가 지나므로 더 많은 냄새를 모으고 곧 군집 전체가 그 길을 따른다. 결과는 계획처럼 보이지만 실제로는 많은 작은 결정에서 나타나는 양상이다. 기술자들은 이 생각을 배달 경로를 관리하고 재난 지역을 탐사하는 작은 로봇 무리를 제어하는 데 빌렸다. 이 예들은 복잡한 질서가 반드시 중앙 통제자를 필요로 하지는 않으며 많은 개체가 단순한 규칙을 따르고 서로에게 반응할 때 생길 수 있음을 보여 준다.",
+    "why": "개미는 단순한 규칙을 따르고 서로에게 반응함으로써 복잡한 질서를 만드므로 ③이 알맞습니다.",
     "optionNotes": [
-      "각자 경쟁한다는 것은 글과 반대입니다.",
-      "동물이 오지 않는다는 내용은 없습니다.",
-      "정답. 서로 돕는 공동체입니다.",
-      "나무를 판다는 내용은 없습니다.",
-      "떨어져 있을 때 더 잘 자란다는 내용은 글과 반대입니다."
+      "강한 지도자는 없다고 했습니다.",
+      "전체 계획을 아는 개미는 없습니다.",
+      "정답. 단순한 규칙을 따르고 서로에게 반응합니다.",
+      "구성원의 수와는 무관합니다.",
+      "서로 접촉 없이 일한다는 것은 반대입니다."
     ],
-    "trap": "'individual trees'와 대비되는 개념을 찾으세요.",
-    "tip": "not just A but B에서 A와 반대되는 B를 앞의 사례로 일반화하세요."
+    "trap": "①은 'no ant is in charge'를 정면으로 부정한 함정입니다.",
+    "tip": "'follows only a few simple rules'가 빈칸의 직접 근거입니다."
   },
   {
     "id": "m2b-06-33",
     "level": "m2",
     "set": "mock-06",
+    "rev": 2,
     "no": 33,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "People around the world use gestures when they talk, even when they are speaking on the phone. Even people who are blind from birth gesture when they talk to others who are blind. Researchers believe that gestures are not just decoration. They help speakers to find words and organize their thoughts. Gestures are also among the first ways that babies communicate. In one study, children who were told to use their hands while explaining a math problem remembered the solution better. Gestures also help listeners to understand a message more easily. Thus, gestures are a part of __________.",
+    "passage": "Anthropologists have long observed that nearly every culture marks important events with a shared meal. Recent experiments suggest that this habit is more than a custom. In one study, pairs of strangers were asked to negotiate the division of a sum of money after either eating the same snack from a shared plate or eating different snacks. The pairs who ate from the same plate reached agreement faster and were less likely to refuse offers that were unfair to one side. A researcher explained that food connects us to the earliest form of cooperation, in which families gathered to divide what they had found. Sharing it signals trust, because a person who offers food gives up something that he or she could have kept. Even simple actions, such as passing the dish or pouring a drink for someone else, create a feeling of closeness. This is why business partners and diplomats often hold dinners before difficult talks: a shared meal can __________.",
     "options": [
-      "the way we dress for a special occasion in a foreign country",
-      "the way we think as well as the way we communicate",
-      "the habit of nodding to show that we have finished speaking",
-      "the skill of drawing pictures that other people can understand",
-      "the custom of shaking hands with a stranger at the first meeting"
+      "make the quarrel between the two sides more serious and harder to end",
+      "turn a group of strangers into people who are ready to cooperate",
+      "reduce the amount of money that each person demands",
+      "prove that the food is safe for everyone to eat",
+      "teach the guests how to cook foreign dishes"
     ],
     "answer": 1,
-    "translation": "전 세계 사람들은 말할 때, 심지어 전화로 이야기할 때도 몸짓을 사용한다. 태어날 때부터 앞을 보지 못하는 사람도 다른 시각 장애인에게 말할 때 몸짓을 한다. 연구자들은 몸짓이 단순한 장식이 아니라고 믿는다. 몸짓은 말하는 사람이 단어를 찾고 생각을 정리하도록 돕는다. 몸짓은 또한 아기가 의사소통하는 첫 방법 중 하나이다. 한 연구에서 수학 문제를 설명하는 동안 손을 쓰라는 말을 들은 아이들은 해법을 더 잘 기억했다. 몸짓은 또한 듣는 사람이 메시지를 더 쉽게 이해하도록 돕는다. 그러므로 몸짓은 우리가 의사소통하는 방식뿐 아니라 생각하는 방식의 일부이다.",
-    "why": "몸짓이 단어를 찾고 생각을 정리하며 이해도 돕는다고 했으므로 '의사소통뿐 아니라 생각하는 방식의 일부'가 알맞습니다.",
+    "translation": "인류학자들은 거의 모든 문화가 중요한 행사를 함께하는 식사로 기념한다는 것을 오래 관찰해 왔다. 최근의 실험은 이 습관이 관습 이상임을 시사한다. 한 연구에서 낯선 두 사람이 한 접시에서 같은 간식을 먹거나 서로 다른 간식을 먹은 뒤 돈을 나누는 협상을 하도록 요청받았다. 같은 접시에서 먹은 쌍은 더 빨리 합의에 이르렀고 한쪽에 불공정한 제안을 거부할 가능성이 낮았다. 한 연구자는 음식이 가족들이 찾은 것을 나누려고 모이던 가장 오래된 형태의 협력과 우리를 연결한다고 설명했다. 음식을 나누는 것은 신뢰의 신호인데, 음식을 내미는 사람은 가질 수 있었던 것을 포기하기 때문이다. 접시를 건네거나 다른 사람에게 음료를 따라 주는 단순한 행동도 친밀감을 만든다. 그래서 사업 파트너와 외교관은 어려운 협상 전에 만찬을 여는 일이 많다. 함께하는 식사는 낯선 사람들을 협력할 준비가 된 사람들로 바꿀 수 있다.",
+    "why": "함께 먹은 쌍이 더 빨리 합의했으므로, 함께하는 식사가 낯선 사람들을 협력할 준비가 된 사람들로 바꿀 수 있다는 ②가 알맞습니다.",
     "optionNotes": [
-      "옷차림은 나오지 않습니다.",
-      "정답. 생각과 의사소통의 일부입니다.",
-      "끄덕임은 나오지 않습니다.",
-      "그림 그리기는 나오지 않습니다.",
-      "악수는 나오지 않습니다."
+      "다툼을 더 심각하게 한다는 것은 반대입니다.",
+      "정답. 낯선 사람들을 협력할 준비가 된 사람으로 바꿉니다.",
+      "요구 금액이 줄어든다는 내용은 없습니다.",
+      "음식의 안전성은 나오지 않습니다.",
+      "요리를 가르친다는 내용은 없습니다."
     ],
-    "trap": "'gestures'에 이끌려 관습적 행동(③⑤)을 고르지 마세요.",
-    "tip": "Researchers believe 문장과 연구 결과가 빈칸의 단서입니다."
+    "trap": "③은 협상에서의 돈과 연결되어 보이지만 글은 '합의의 속도'와 '불공정 제안의 거부'를 말합니다.",
+    "tip": "실험 결과(reached agreement faster)가 빈칸의 직접 근거입니다."
   },
   {
     "id": "m2b-06-34",
     "level": "m2",
     "set": "mock-06",
+    "rev": 2,
     "no": 34,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Many adults feel that a year passes much faster than it did when they were children. One explanation is that, for children, almost everything is new. Their brains record many fresh experiences, so time seems to move slowly. As we grow older, our days become routine, and the brain stores fewer new memories. As a result, when we look back, a year seems shorter. A summer vacation in a new country often feels longer than a whole month at home. Psychologists support this explanation. This means that adding new experiences to our lives can __________.",
+    "passage": "After a coin has landed on heads five times in a row, many people feel that tails is \"due.\" This belief is called the gambler's fallacy, and it has cost casino visitors a great deal of money. In 1913, at a casino in Monte Carlo, a roulette ball fell on black twenty-six times in a row. Gamblers lost millions of francs by betting that red must come next, because they thought that a long run of one outcome had to be balanced by the other. The error comes from a natural desire to see a pattern. Yet a coin or a roulette wheel has no memory: each spin is independent of the previous ones, and the chance of red on the twenty-seventh spin was exactly the same as on the first. A series of results may look unusual, but over a long time, such streaks are normal, and they do not change what will happen next. The lesson is that when events are random, the past __________.",
     "options": [
-      "make time feel longer and richer in our memory",
-      "reduce the number of hours that we sleep at night",
-      "help us finish all of our daily work in less time",
-      "protect our brains from the effects of loud noise",
-      "teach us to avoid routines for the rest of our lives"
+      "tells us nothing about the next result",
+      "always repeats itself in a similar way",
+      "can be used to predict the future with certainty",
+      "becomes more important as time goes by",
+      "balances the next result in the opposite direction"
     ],
     "answer": 0,
-    "translation": "많은 어른은 한 해가 어린 시절보다 훨씬 빨리 지나간다고 느낀다. 한 가지 설명은 아이들에게는 거의 모든 것이 새롭다는 것이다. 아이들의 뇌는 많은 새로운 경험을 기록하므로 시간이 느리게 가는 것 같다. 나이가 들면 하루가 일상이 되고 뇌는 더 적은 새 기억을 저장한다. 그 결과 돌아볼 때 한 해가 더 짧아 보인다. 새로운 나라에서의 여름 방학은 집에서의 한 달 전체보다 더 길게 느껴지는 경우가 많다. 심리학자들은 이 설명을 지지한다. 이는 삶에 새로운 경험을 더하면 기억 속에서 시간이 더 길고 풍부하게 느껴지게 할 수 있음을 뜻한다.",
-    "why": "새로운 경험이 많으면 시간이 천천히 가는 것처럼 기억되므로 '기억 속에서 시간이 더 길고 풍부하게 느껴지게 한다'가 알맞습니다.",
+    "translation": "동전이 앞면으로 다섯 번 연속 나온 뒤 많은 사람은 뒷면이 '나올 차례'라고 느낀다. 이 믿음은 도박사의 오류라 불리며 카지노 방문객에게 많은 돈을 잃게 했다. 1913년 몬테카를로의 한 카지노에서 룰렛 공이 검은색에 스물여섯 번 연속으로 떨어졌다. 도박꾼들은 한 결과가 길게 이어지면 다른 결과로 균형이 맞춰져야 한다고 생각해 다음에는 빨간색이 나와야 한다고 걸어 수백만 프랑을 잃었다. 이 오류는 무늬를 보려는 자연스러운 욕구에서 나온다. 그러나 동전이나 룰렛 바퀴는 기억이 없다. 각 회전은 이전 회전과 독립적이며 스물일곱 번째 회전에서 빨간색이 나올 확률은 첫 회전과 똑같았다. 일련의 결과가 이례적으로 보일 수 있지만 긴 시간에 걸쳐 그런 연속은 정상이며 다음에 일어날 일을 바꾸지 않는다. 교훈은 사건이 무작위일 때 과거는 다음 결과에 대해 아무것도 알려 주지 않는다는 것이다.",
+    "why": "룰렛과 동전은 기억이 없고 각 회전이 독립적이므로 과거는 다음 결과에 대해 아무것도 알려 주지 않습니다.",
     "optionNotes": [
-      "정답. 새 경험이 기억 속 시간을 길게 만듭니다.",
-      "수면 시간은 나오지 않습니다.",
-      "일을 빨리 끝낸다는 내용은 없습니다.",
-      "소음은 나오지 않습니다.",
-      "일상을 피하라는 내용은 아닙니다."
+      "정답. 과거는 다음 결과에 대해 아무것도 알려 주지 않습니다.",
+      "같은 방식으로 되풀이된다는 내용은 없습니다.",
+      "확실하게 예측할 수 있다는 것은 반대입니다.",
+      "시간이 갈수록 중요해진다는 내용은 없습니다.",
+      "반대 방향으로 균형을 맞춘다는 것이 도박사의 오류입니다."
     ],
-    "trap": "'time'이라는 단어에 이끌려 시간 절약(③)을 고르지 마세요.",
-    "tip": "As a result 문장의 원리(새 기억이 적으면 짧게 느낌)를 뒤집은 결론을 찾으세요."
+    "trap": "⑤는 도박사의 오류 자체를 그대로 옮긴 오답입니다.",
+    "tip": "'each spin is independent of the previous ones'가 빈칸의 직접 근거입니다."
   },
   {
     "id": "m2b-06-35",
     "level": "m2",
     "set": "mock-06",
+    "rev": 2,
     "no": 35,
     "type": "irrelevant",
     "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
-    "passage": "Reading aloud to young children has many benefits. ① It builds vocabulary, because children hear words that they rarely use in daily conversation. ② It also strengthens the bond between parents and children, since they share a quiet and pleasant time. ③ Many famous authors started to write stories when they were teenagers. ④ In addition, children who are read to regularly tend to develop an interest in books and learn to read earlier. ⑤ For these reasons, experts recommend that parents read aloud for at least fifteen minutes every day.",
+    "passage": "Domestic cats sleep between twelve and sixteen hours a day, which makes them appear lazy, but the habit has a clear biological explanation. ① Cats are descended from hunters whose meals were uncertain, and sleeping saves the energy that is needed for a successful hunt. This is why they rest whenever they can. ② A hunt requires a burst of speed, a leap, and a sharp use of the senses, so a cat must be fully rested to catch even a small bird. ③ Dogs were domesticated from wolves at least fifteen thousand years ago, and they became the first animals to live in close partnership with humans. ④ Much of the cat's sleep is light, with the ears turning toward sounds, so that it can wake in a fraction of a second. ⑤ Kittens sleep even more than adult cats, since the hormone that makes them grow is released mainly while they are asleep, and they need it to build strong bones and muscles.",
     "options": [
       "①",
       "②",
@@ -183,26 +190,27 @@
       "⑤"
     ],
     "answer": 2,
-    "translation": "어린아이에게 소리 내어 책을 읽어 주는 것은 많은 이점이 있다. ① 아이들이 일상 대화에서 거의 쓰지 않는 단어를 듣기 때문에 어휘가 늘어난다. ② 부모와 아이가 조용하고 즐거운 시간을 함께 보내므로 유대도 강해진다. ③ 많은 유명 작가는 십 대에 이야기를 쓰기 시작했다. ④ 게다가 정기적으로 책을 읽어 주는 아이는 책에 흥미를 키우고 더 일찍 읽는 법을 배우는 경향이 있다. ⑤ 이런 이유로 전문가들은 부모가 매일 최소 십오 분 소리 내어 읽어 줄 것을 권한다.",
-    "why": "글은 책 읽어 주기의 이점을 말하는데 ③은 작가들이 십 대에 글쓰기를 시작했다는 별개의 이야기라 관계가 없습니다.",
+    "translation": "집고양이는 하루 12~16시간을 자서 게을러 보이지만 이 습관에는 분명한 생물학적 설명이 있다. ① 고양이는 먹이가 불확실했던 사냥꾼의 후손이어서 잠은 성공적인 사냥에 필요한 에너지를 아껴 준다. 그래서 고양이는 틈만 나면 쉰다. ② 사냥에는 순간적인 속도, 도약, 날카로운 감각의 사용이 필요하므로 고양이는 작은 새 한 마리를 잡으려 해도 충분히 쉬어야 한다. ③ 개는 적어도 1만 5천 년 전에 늑대에게서 가축화되었으며 인간과 긴밀한 동반자 관계로 사는 최초의 동물이 되었다. ④ 고양이의 잠 대부분은 얕아서 귀가 소리 쪽으로 돌고 순식간에 깨어날 수 있다. ⑤ 새끼 고양이는 성장을 일으키는 호르몬이 주로 잠잘 때 분비되므로 성묘보다 더 많이 자며 튼튼한 뼈와 근육을 만드는 데 그것이 필요하다.",
+    "why": "글은 고양이가 많이 자는 생물학적 이유를 다루는데 ③은 개의 가축화로 관계가 없습니다.",
     "optionNotes": [
-      "책 읽어 주기가 어휘를 늘리는 이점입니다.",
-      "유대를 강화하는 이점입니다.",
-      "정답(무관). 작가들의 글쓰기 시작 시기에 관한 이야기입니다.",
-      "독서 흥미와 조기 읽기라는 이점입니다.",
-      "결론 문장입니다."
+      "사냥을 위해 에너지를 아끼는 이유입니다.",
+      "사냥에 필요한 것을 설명합니다.",
+      "정답. 개의 가축화는 고양이의 수면과 무관합니다.",
+      "얕은 잠의 특징을 설명합니다.",
+      "새끼 고양이가 더 많이 자는 이유입니다."
     ],
-    "trap": "'stories'와 관련된 소재(authors)라서 주제와 이어지는 것처럼 보일 수 있습니다.",
-    "tip": "주제(책 읽어 주기의 이점)를 뒷받침하지 않는 문장을 고르세요."
+    "trap": "'animals', 'domesticated' 같은 낱말이 겹쳐 같은 흐름처럼 보이지만 수면 이야기가 아닙니다.",
+    "tip": "첫 문장의 주제(고양이의 수면)에서 벗어난 문장을 찾으세요."
   },
   {
     "id": "m2b-06-36",
     "level": "m2",
     "set": "mock-06",
+    "rev": 2,
     "no": 36,
     "type": "order",
     "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
-    "passage": "Ancient people did not have clocks. They looked at the sky and used the sun to tell what time it was during the day.\n(A) Later, people marked the ground around the stick to show the hours, and this became known as the sundial.\n(B) The earliest device was a simple stick placed in the ground. Its shadow changed its length and direction as the day went on.\n(C) However, sundials could not be used on cloudy days or at night, which led people to invent water clocks, which used flowing water to measure time.",
+    "passage": "In the 1890s, many scientists believed that flying machines heavier than air were impossible.\n(A) To collect reliable data, they built a wind tunnel from a wooden box and tested more than two hundred wing shapes. The results showed that the published tables of lift were wrong, and they designed new wings and a propeller from their own figures.\n(B) Wilbur and Orville Wright, who ran a bicycle shop in Ohio, studied the flight of birds and noticed that they twisted the tips of their wings to turn and keep their balance. They built a kite with a similar twisting system and tested it by hand.\n(C) On December 17, 1903, at Kitty Hawk in North Carolina, their Flyer rose into the air with Orville at the controls and stayed up for twelve seconds. The Wrights made four flights that day, the longest lasting nearly a minute, and the age of powered flight began, changing the world forever.",
     "options": [
       "(A)-(C)-(B)",
       "(B)-(A)-(C)",
@@ -211,26 +219,27 @@
       "(C)-(B)-(A)"
     ],
     "answer": 1,
-    "translation": "고대 사람들은 시계가 없었다. 그들은 하늘을 보고 태양을 이용해 낮에 몇 시인지 알았다. (B) 가장 초기의 장치는 땅에 꽂은 단순한 막대였다. 그 그림자가 하루가 지나면서 길이와 방향을 바꾸었다. (A) 나중에 사람들은 막대 주위의 땅에 시간을 나타내는 표시를 했고 이것이 해시계로 알려지게 되었다. (C) 그러나 해시계는 흐린 날이나 밤에는 쓸 수 없었고 이는 사람들이 물시계를 발명하게 했고 물시계는 흐르는 물로 시간을 쟀다.",
-    "why": "(B) 'The earliest device'로 막대 소개 → (A) 'Later'로 해시계 발전 → (C) 'However'로 한계와 물시계 순서입니다.",
+    "translation": "1890년대에 많은 과학자는 공기보다 무거운 비행 기계가 불가능하다고 믿었다. (B) 오하이오에서 자전거 가게를 하던 윌버와 오빌 라이트 형제는 새의 비행을 연구해 새가 방향을 틀고 균형을 유지하려고 날개 끝을 비튼다는 것을 알아챘다. 그들은 비슷한 비틀림 장치가 있는 연을 만들어 손으로 시험했다. (A) 믿을 만한 자료를 모으려고 그들은 나무 상자로 풍동을 만들어 200가지가 넘는 날개 모양을 시험했다. 결과는 발표된 양력표가 틀렸음을 보여 주었고 그들은 자신들의 수치로 새 날개와 프로펠러를 설계했다. (C) 1903년 12월 17일 노스캐롤라이나의 키티호크에서 그들의 플라이어는 오빌이 조종하는 가운데 공중에 떠올라 12초 동안 머물렀다. 라이트 형제는 그날 네 번 비행했고 가장 긴 비행은 거의 1분이었으며 동력 비행의 시대가 시작되어 세상을 영원히 바꾸었다.",
+    "why": "(B) 새를 관찰해 연을 만듦 → (A) 풍동 실험으로 설계 개선 → (C) 첫 동력 비행 순서입니다.",
     "optionNotes": [
-      "(A)의 'the stick'이 가리킬 대상이 앞에 없습니다.",
-      "정답. 가장 초기 → 이후 → 한계.",
-      "(C)의 'However'와 'sundials'가 앞의 설명 없이 나옵니다.",
-      "(C)의 'sundials'가 소개되기 전에 나옵니다.",
-      "(C)의 'sundials'가 소개되기 전에 나옵니다."
+      "(A)의 'they'는 (B)의 형제를 가리키므로 (B)가 먼저입니다.",
+      "정답. 관찰 → 실험 → 비행입니다.",
+      "(C)의 비행은 풍동 실험(A) 뒤여야 합니다.",
+      "(C)가 앞에 오면 'their Flyer'가 소개되지 않았습니다.",
+      "(C)가 맨 앞이면 'the Wrights'가 소개되기 전입니다."
     ],
-    "trap": "(A)의 'the stick'은 (B)에서 소개된 막대입니다.",
-    "tip": "The earliest → Later → However 같은 시간·대조 표현을 따라가세요."
+    "trap": "(A)의 'they'는 (B)에서 소개된 라이트 형제입니다.",
+    "tip": "대명사 they가 가리키는 대상이 먼저 소개된 단락을 앞에 두세요."
   },
   {
     "id": "m2b-06-37",
     "level": "m2",
     "set": "mock-06",
+    "rev": 2,
     "no": 37,
     "type": "order",
     "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
-    "passage": "Many people think that spicy food is a taste. It is actually a feeling of pain that is sent to the brain.\n(A) That is why we sweat and our nose runs after eating very spicy food. The body is trying to cool down.\n(B) Chili peppers, for example, contain a chemical called capsaicin, which touches the pain sensors in our mouths and on our tongues.\n(C) These sensors send a signal to the brain, saying that the mouth is burning, even though nothing is actually hot. The brain then reacts as if there were a big fire.",
+    "passage": "In the early 1900s, two cousins in Pennsylvania, Edwin Binney and C. Harold Smith, ran a company that made black pigment and chalk for schools.\n(A) The product was an immediate success. Today, the company makes billions of crayons a year in more than one hundred colors, and a box of crayons is one of the most common objects in a child's school bag.\n(B) On visits to classrooms, they saw that teachers were using expensive crayons imported from Europe, which were too costly for ordinary students in their classrooms. They decided to make a cheaper crayon by mixing paraffin wax with the same pigments that they used for their other products.\n(C) Binney's wife, Alice, a former teacher, suggested the name \"Crayola,\" combining the French word for chalk, \"craie,\" with a word meaning oily. In 1903, a box of eight crayons was sold for a nickel, so that almost every family could afford one.",
     "options": [
       "(A)-(C)-(B)",
       "(B)-(A)-(C)",
@@ -239,26 +248,27 @@
       "(C)-(B)-(A)"
     ],
     "answer": 2,
-    "translation": "많은 사람은 매운 음식이 맛이라고 생각한다. 그러나 사실은 뇌로 전달되는 통증의 느낌이다. (B) 예를 들어 고추에는 캡사이신이라는 화학 물질이 들어 있어 입속과 혀의 통증 감각기에 닿는다. (C) 이 감각기는 실제로는 아무것도 뜨겁지 않은데도 입이 타고 있다는 신호를 뇌로 보낸다. 그러면 뇌는 큰불이 난 것처럼 반응한다. (A) 그래서 우리는 아주 매운 음식을 먹은 뒤 땀을 흘리고 콧물이 난다. 몸이 열을 식히려 하기 때문이다.",
-    "why": "(B) 원인 물질 → (C) 'These sensors'로 신호 전달 → (A) 'That is why'로 결과 순서입니다.",
+    "translation": "1900년대 초 펜실베이니아의 사촌인 에드윈 비니와 C. 해럴드 스미스는 학교용 검은 안료와 분필을 만드는 회사를 운영했다. (B) 교실을 방문해 보니 교사들은 유럽에서 수입한 비싼 크레용을 쓰고 있었는데 교실의 일반 학생에게는 너무 비쌌다. 그들은 다른 제품에 쓰던 같은 안료에 파라핀 왁스를 섞어 더 싼 크레용을 만들기로 했다. (C) 비니의 아내이자 전직 교사인 앨리스는 분필을 뜻하는 프랑스어 '크레'와 기름기를 뜻하는 낱말을 합쳐 '크레욜라'라는 이름을 제안했다. 1903년 여덟 개들이 한 상자가 5센트에 팔려 거의 모든 가정이 살 수 있었다. (A) 그 제품은 곧바로 성공했다. 오늘날 이 회사는 100가지가 넘는 색으로 해마다 수십억 개의 크레용을 만들며 크레용 한 상자는 아이의 책가방에서 가장 흔한 물건 중 하나이다.",
+    "why": "(B) 값싼 크레용을 만들기로 함 → (C) 이름과 판매 → (A) 성공과 오늘날 순서입니다.",
     "optionNotes": [
-      "(A)의 'That is why'가 가리킬 이유가 앞에 없습니다.",
-      "(A)의 'That is why'가 가리킬 이유가 앞에 없습니다.",
-      "정답. 원인 → 과정 → 결과.",
-      "(C)의 'These sensors'가 소개되기 전에 나옵니다.",
-      "(C)의 'These sensors'가 소개되기 전에 나옵니다."
+      "(A)의 'The product'는 (B), (C) 이후에 소개된 뒤여야 합니다.",
+      "(A)는 마지막에 와야 합니다.",
+      "정답. 계기 → 이름·판매 → 성공입니다.",
+      "(C)의 이름은 (B)의 크레용 개발 뒤여야 합니다.",
+      "(C)가 앞에 오면 무엇의 이름인지 알 수 없습니다."
     ],
-    "trap": "(C)의 'These sensors'는 (B)의 'pain sensors'를 가리킵니다.",
-    "tip": "These sensors, That is why 같은 지시어의 선행 내용을 확인하세요."
+    "trap": "(A)의 'The product'가 (B)에서 만들기로 한 크레용임을 놓치기 쉽습니다.",
+    "tip": "'Today'로 시작하는 현재 상황 설명은 대개 마지막입니다."
   },
   {
     "id": "m2b-06-38",
     "level": "m2",
     "set": "mock-06",
+    "rev": 2,
     "no": 38,
     "type": "insert",
     "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
-    "passage": "[주어진 문장]\nPlastic bags are among the most common items in our daily lives.\n\n[글]\n( ① ) However, a typical bag is used for only about twelve minutes before it is thrown away. ( ② ) After that, it may remain in nature for hundreds of years, harming animals that mistake it for food. ( ③ ) Many countries have therefore started to charge for bags or ban them completely. ( ④ ) Reusable cloth bags are a simple and attractive alternative, and they are easy to carry. ( ⑤ ) If everyone brings their own bag, we can greatly reduce plastic waste.",
+    "passage": "[주어진 문장]\nMost of us think of sleep as a time when the body and brain simply switch off.\n\n[글]\n( ① ) Yet research shows that the sleeping brain is surprisingly busy, and some of its activities are more intense than those of waking hours. ( ② ) During deep sleep, waves of electrical activity wash across the brain and appear to move new memories from a temporary store to long-term storage, much as a librarian puts books on shelves. ( ③ ) In the dreaming stage, the brain is nearly as active as when we are awake, although the muscles are temporarily paralyzed so that we do not act out our dreams, a safety system that protects the sleeper. ( ④ ) Studies show that students who sleep after learning a list of words remember much more than those who stay awake for the same length of time. ( ⑤ ) Sleep, in other words, is not time lost but time in which the day's learning is organized.",
     "options": [
       "①",
       "②",
@@ -267,26 +277,27 @@
       "⑤"
     ],
     "answer": 0,
-    "translation": "[주어진 문장] 비닐봉지는 우리 일상에서 가장 흔한 물건 중 하나이다. [글] 그러나 보통 봉지는 버려지기 전에 겨우 12분 정도 사용된다. 그 뒤에는 수백 년 동안 자연에 남아 먹이로 착각하는 동물을 해칠 수 있다. 그래서 많은 나라가 봉지에 요금을 매기거나 완전히 금지하기 시작했다. 재사용할 수 있는 천 가방은 간단하고 매력적인 대안이며 들고 다니기도 쉽다. 모두가 자기 가방을 가져오면 플라스틱 쓰레기를 크게 줄일 수 있다.",
-    "why": "주어진 문장이 흔하다는 점을 소개하고, 뒤의 'However'가 그와 대조해 사용 시간이 짧다고 말하므로 ①에 들어갑니다.",
+    "translation": "[주어진 문장] 우리 대부분은 수면을 몸과 뇌가 그냥 꺼지는 시간이라고 생각한다. [글] 그러나 연구는 자는 뇌가 놀랍도록 바쁘며 그 활동 중 일부는 깨어 있는 시간보다 더 격렬함을 보여 준다. 깊은 잠 동안 전기 활동의 파동이 뇌를 휩쓸며 새 기억을 임시 저장소에서 장기 저장소로 옮기는 듯하며 마치 사서가 책을 서가에 꽂는 것과 같다. 꿈꾸는 단계에서 뇌는 깨어 있을 때만큼 활발하지만 근육은 우리가 꿈을 행동으로 옮기지 않도록 일시적으로 마비되는데, 이는 자는 사람을 보호하는 안전 장치이다. 연구들은 단어 목록을 배운 뒤 잠을 잔 학생이 같은 시간 깨어 있던 학생보다 훨씬 많이 기억한다는 것을 보여 준다. 다시 말해 수면은 잃어버린 시간이 아니라 그날의 학습이 정리되는 시간이다.",
+    "why": "'Yet research shows ...'는 통념(수면 중에는 꺼져 있다)을 뒤집는 문장이므로 통념을 말한 주어진 문장이 맨 앞인 ①에 들어갑니다.",
     "optionNotes": [
-      "정답. 흔하다는 소개 뒤에 'However'가 이어집니다.",
-      "'However'로 시작한 문장 뒤에 소개 문장이 오면 대조가 사라집니다.",
-      "금지 정책을 말한 뒤에 소개 문장이 오면 흐름이 어색합니다.",
-      "대안을 말한 뒤에 소개 문장이 오면 흐름이 어색합니다.",
-      "글의 끝에서 소개 문장이 오면 어색합니다."
+      "정답. 통념을 제시한 뒤 'Yet'으로 반전합니다.",
+      "①의 'Yet'이 대조할 통념이 사라집니다.",
+      "꿈 단계 설명 앞에 끼면 흐름이 끊깁니다.",
+      "연구 결과 앞에 끼면 어색합니다.",
+      "결론 직전에 끼면 어색합니다."
     ],
-    "trap": "소개 문장은 중간에 들어갈 것처럼 보이지만 'However'가 앞 문장을 필요로 합니다.",
-    "tip": "연결어(However)로 시작하는 문장의 앞에 대조될 내용이 있는지 확인하세요."
+    "trap": "'Yet'로 시작하는 문장은 반드시 앞에 대조될 통념이 있어야 합니다.",
+    "tip": "접속사 Yet은 바로 앞 문장과 반대되는 내용을 이끕니다."
   },
   {
     "id": "m2b-06-39",
     "level": "m2",
     "set": "mock-06",
+    "rev": 2,
     "no": 39,
     "type": "insert",
     "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
-    "passage": "[주어진 문장]\nAs the ice melts, darker ocean water is exposed and absorbs much more heat.\n\n[글]\n( ① ) White ice and snow reflect most of the sunlight that reaches them, which helps to keep the polar regions cold. ( ② ) This extra heat melts even more ice, creating a cycle that is difficult to stop. ( ③ ) Scientists therefore call the Arctic one of the most sensitive places on Earth. ( ④ ) Protecting it is important for the climate of the whole planet, because changes there affect weather in many other regions. ( ⑤ )",
+    "passage": "[주어진 문장]\nThe cause was the waste of two and a half million people, which flowed directly into the river.\n\n[글]\n( ① ) In the summer of 1858, the River Thames in London smelled so terrible that Parliament nearly stopped working. The heat of the summer made the smell even worse. ( ② ) At the time, most doctors believed that diseases such as cholera were spread by bad smells, so the stench frightened the politicians, who hung curtains soaked in chemicals over the windows of the building, but nothing could hide the smell. ( ③ ) Within weeks, they gave the engineer Joseph Bazalgette the money to build a huge network of sewers. ( ④ ) Its pipes, about two thousand kilometers long, carried waste far to the east of the city, away from the drinking water. ( ⑤ ) The outbreaks of cholera ended, the death rate of the city fell sharply, and a large part of the network is still in use today, more than a century and a half later.",
     "options": [
       "①",
       "②",
@@ -295,44 +306,45 @@
       "⑤"
     ],
     "answer": 1,
-    "translation": "[주어진 문장] 얼음이 녹으면 더 어두운 바닷물이 드러나 훨씬 더 많은 열을 흡수한다. [글] 흰 얼음과 눈은 닿는 햇빛의 대부분을 반사하여 극지방을 차갑게 유지하는 데 도움이 된다. 이 추가된 열은 훨씬 더 많은 얼음을 녹여 멈추기 어려운 순환을 만든다. 그래서 과학자들은 북극을 지구에서 가장 민감한 곳 중 하나라고 부른다. 북극을 보호하는 것은 그곳의 변화가 다른 많은 지역의 날씨에 영향을 주기 때문에 지구 전체의 기후에 중요하다.",
-    "why": "주어진 문장은 얼음이 녹으면 바닷물이 열을 흡수한다는 내용이고, 뒤의 'This extra heat'가 그 열을 가리키므로 ②에 들어갑니다.",
+    "translation": "[주어진 문장] 원인은 강으로 곧바로 흘러든 250만 명의 배설물이었다. [글] 1858년 여름 런던의 템스강은 의회가 거의 일을 멈출 만큼 지독한 냄새가 났다. 여름의 열기가 냄새를 더 심하게 했다. 당시 대부분의 의사는 콜레라 같은 병이 나쁜 냄새로 퍼진다고 믿었고 그래서 악취는 정치인들을 겁먹게 했으며 그들은 건물 창문에 화학 약품에 적신 커튼을 걸었지만 아무것도 냄새를 숨길 수 없었다. 몇 주 안에 그들은 기술자 조지프 배절젯에게 거대한 하수도망을 지을 돈을 주었다. 길이 약 2천 킬로미터의 관은 폐기물을 도시 훨씬 동쪽으로, 식수에서 멀리 날랐다. 콜레라 발생은 끝났고 도시의 사망률은 크게 떨어졌으며 하수도망의 상당 부분은 150년이 넘은 지금도 쓰이고 있다.",
+    "why": "'The cause'는 앞 문장의 지독한 냄새의 원인을 가리키며, 이어서 당시 의사들의 믿음과 정치인의 반응이 나오므로 ②입니다.",
     "optionNotes": [
-      "얼음이 반사한다는 설명이 나오기 전에 녹는 이야기가 오면 흐름이 갑작스럽습니다.",
-      "정답. 'This extra heat'가 가리키는 열이 주어진 문장에 나옵니다.",
-      "'This extra heat'가 가리킬 대상이 먼저 없어 순서가 어긋납니다.",
-      "'Scientists therefore' 결론 뒤에 원인이 오면 순서가 뒤집힙니다.",
-      "글의 끝에서 원인을 설명하면 어색합니다."
+      "'The cause'가 가리킬 결과(악취)가 아직 없습니다.",
+      "정답. 악취를 말한 뒤 그 원인을 설명합니다.",
+      "정치인들이 놀라는 설명 뒤라 원인 설명이 어색합니다.",
+      "하수도망 설명 도중에 끼면 어색합니다.",
+      "결과 설명 뒤라 원인이 늦습니다."
     ],
-    "trap": "①에도 들어갈 것 같지만 'This extra heat'는 주어진 문장 뒤에 와야 합니다.",
-    "tip": "This extra heat 같은 지시 표현이 가리키는 내용이 바로 앞에 있는지 확인하세요."
+    "trap": "'The cause'는 반드시 결과를 말한 문장 바로 뒤에 놓입니다.",
+    "tip": "The cause, The reason 같은 표현은 직전 문장이 결과일 때 쓰입니다."
   },
   {
     "id": "m2b-06-40",
     "level": "m2",
     "set": "mock-06",
+    "rev": 2,
     "no": 40,
     "type": "summary",
     "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "A middle school found that students threw away nearly one third of their lunch every day. Teachers tried a simple change: they replaced the large trays with smaller ones and let students come back for more if they were still hungry. Within a month, the amount of food thrown away fell by about forty percent. Surveys showed that students were as satisfied with their lunches as before. Some students even said that they enjoyed the food more because they ate only what they really wanted.\n\n▶ Offering (A) portions that students could increase if needed led to (B) food waste.",
+    "passage": "Between 2015 and 2019, Iceland ran two large trials in which about 2,500 workers, around one percent of the country's working population, reduced their weekly hours from forty to thirty-five or thirty-six without a cut in pay. The workers came from offices, hospitals, preschools, and social services. Researchers who monitored the trials expected that productivity would fall, because the same work had to be done in less time. Instead, they found that productivity stayed the same or improved in most workplaces. Employees organized meetings more efficiently, cut unnecessary tasks, and took fewer breaks to check personal messages. At the same time, workers reported less stress, a lower risk of burnout, and better health. Many said that they had more time for family and hobbies, and fathers spent more hours at home with their children. The results were so encouraging that unions negotiated shorter hours for most of the country's workers, and about eighty-six percent of the working population now have the right to reduced hours. The trials suggest that more working time does not automatically mean more work.\n\n▶ Shorter working weeks (A) the well-being of workers without (B) productivity.",
     "options": [
-      "(A) smaller — (B) less",
-      "(A) larger — (B) more",
-      "(A) smaller — (B) more",
-      "(A) larger — (B) less",
-      "(A) fixed — (B) more"
+      "(A) improved — (B) reducing",
+      "(A) improved — (B) raising",
+      "(A) reduced — (B) maintaining",
+      "(A) damaged — (B) reducing",
+      "(A) reduced — (B) raising"
     ],
     "answer": 0,
-    "translation": "한 중학교는 학생들이 매일 점심의 거의 3분의 1을 버린다는 것을 알았다. 교사들은 간단한 변화를 시도했다. 큰 식판을 작은 식판으로 바꾸고 학생이 여전히 배고프면 더 받으러 오게 한 것이다. 한 달 안에 버려지는 음식의 양이 약 40퍼센트 줄었다. 설문 조사는 학생들이 이전만큼 점심에 만족함을 보여 주었다. 일부 학생은 정말 원하는 것만 먹기 때문에 음식을 더 즐긴다고까지 말했다. ▶ 학생이 필요하면 늘릴 수 있는 (A) 양을 제공한 것이 음식물 쓰레기가 (B) 되게 했다.",
-    "why": "작은 식판으로 바꾸고 더 받을 수 있게 하자 버려지는 음식이 줄었으므로 (A)는 smaller, (B)는 less입니다.",
+    "translation": "2015년부터 2019년까지 아이슬란드는 나라의 취업 인구의 약 1퍼센트인 약 2,500명의 노동자가 임금 삭감 없이 주당 근무 시간을 40시간에서 35~36시간으로 줄인 두 건의 대규모 시험을 진행했다. 노동자들은 사무실, 병원, 유치원, 사회 복지 기관에서 왔다. 시험을 관찰한 연구자들은 같은 일을 더 짧은 시간에 해야 하므로 생산성이 떨어지리라 예상했다. 그러나 대부분의 일터에서 생산성이 같거나 나아졌음을 발견했다. 직원들은 회의를 더 효율적으로 조직하고 불필요한 업무를 줄이고 개인 메시지를 확인하는 휴식을 덜 했다. 동시에 노동자들은 스트레스가 줄고 번아웃 위험이 낮아졌으며 건강이 좋아졌다고 보고했다. 많은 이가 가족과 취미에 쓸 시간이 늘었다고 했고 아버지들은 집에서 아이들과 더 많은 시간을 보냈다. 결과가 매우 고무적이어서 노조들은 나라 대부분의 노동자를 위한 단축 근무를 협상했고 취업 인구의 약 86퍼센트가 이제 단축 근무의 권리를 갖는다. 이 시험은 더 많은 근무 시간이 자동으로 더 많은 일을 뜻하지는 않음을 시사한다. ▶ 더 짧은 근무 주간은 생산성을 낮추지 않고 노동자의 안녕을 향상시켰다.",
+    "why": "근무 시간 단축이 노동자의 안녕을 개선했고(improved) 생산성은 낮추지 않았으므로(without reducing) ①입니다.",
     "optionNotes": [
-      "정답. 작은 양이 음식물 쓰레기를 줄였습니다.",
-      "larger와 more는 글과 반대입니다.",
-      "(B)가 more로 글과 반대입니다.",
-      "(A)가 larger로 글과 반대입니다.",
-      "fixed와 more는 글과 맞지 않습니다."
+      "정답. 안녕을 향상시켰고 생산성을 낮추지 않았습니다.",
+      "'without raising'은 생산성이 같거나 나아졌다는 내용과 맞지 않습니다.",
+      "안녕이 줄었다는 것은 반대입니다.",
+      "안녕이 손상되었다는 것은 반대입니다.",
+      "안녕이 줄었다는 것은 반대입니다."
     ],
-    "trap": "(A)가 맞아도 (B)가 결과(줄어듦)와 일치하는지 확인하세요.",
-    "tip": "요약문은 변화(smaller portions)와 결과(waste ↓)를 짝지으세요."
+    "trap": "(B)에서 'without reducing'과 'without raising'을 혼동하지 마세요.",
+    "tip": "'without + 동명사' 구조에서 글의 결과(생산성 유지·향상)를 확인하세요."
   }
 ]
