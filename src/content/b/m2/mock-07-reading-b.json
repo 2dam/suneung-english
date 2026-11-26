@@ -3,10 +3,11 @@
     "id": "m2b-07-29",
     "level": "m2",
     "set": "mock-07",
+    "rev": 2,
     "no": 29,
     "type": "grammar",
     "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
-    "passage": "Giraffes are the tallest animals in the world, and their long necks {1|help} them reach leaves high in the trees. A giraffe's heart, {2|which} is about sixty centimeters long, pumps blood all the way up to its brain. Surprisingly, giraffes sleep only about thirty minutes a day, usually {3|taking} short naps while standing. Newborn giraffes are already about 1.8 meters tall, and within an hour they {4|stands} up and walk. Giraffes are not easy to find in the wild, so many visitors are {5|surprised} to see them in person.",
+    "passage": "The Venus flytrap is one of the strangest plants in the world. It grows naturally only in a small area of the southeastern United States, where the soil is so poor {1|that} the plant cannot get enough nitrogen from it. To solve this problem, it catches insects. Each of its special leaves ends in two lobes {2|lined} with tiny sensitive hairs. When an insect touches two hairs within about twenty seconds, the trap snaps shut in a fraction of a second. This rule helps the plant to avoid {3|wasting} energy on raindrops or falling leaves. The trap then squeezes the insect and releases juices that digest its body, a process that {4|take} about a week. Afterward, the leaf opens again, and only the hard outer shell of the insect is left behind. Each trap can close only a few times before it dies. Scientists are fascinated by the flytrap because it has no nerves or muscles, yet it seems to count, remember, and act. Sadly, many wild plants have been stolen by people who sell them, so the species is now protected, and {5|collecting} it without permission is a crime in some states.",
     "options": [
       "①",
       "②",
@@ -15,26 +16,27 @@
       "⑤"
     ],
     "answer": 3,
-    "translation": "기린은 세계에서 키가 가장 큰 동물이며 긴 목은 나무 높은 곳의 잎에 닿는 데 도움이 된다. 길이가 약 60센티미터인 기린의 심장은 피를 뇌까지 끌어올린다. 놀랍게도 기린은 하루에 약 삼십 분만 자며 보통 서서 짧은 낮잠을 잔다. 갓 태어난 기린은 이미 키가 약 1.8미터이며 한 시간 안에 일어나 걷는다. 기린은 야생에서 찾기 쉽지 않아서 많은 방문객이 직접 보면 놀란다.",
-    "why": "주어 'they(newborn giraffes)'는 복수이므로 'stands'가 아니라 'stand'여야 합니다.",
+    "translation": "파리지옥은 세계에서 가장 이상한 식물 중 하나이다. 그것은 미국 남동부의 작은 지역에서만 자연적으로 자라는데, 그곳의 흙은 너무 척박해서 식물이 질소를 충분히 얻을 수 없다. 이 문제를 풀기 위해 그것은 곤충을 잡는다. 특별한 잎 하나하나는 작은 감각 털이 늘어선 두 갈래로 끝난다. 곤충이 약 20초 안에 털 두 개를 건드리면 덫은 순식간에 닫힌다. 이 규칙은 식물이 빗방울이나 떨어지는 잎에 에너지를 낭비하지 않게 돕는다. 덫은 곤충을 눌러 몸을 소화하는 액체를 내보내는데, 이 과정은 약 일주일이 걸린다. 그 뒤 잎은 다시 열리고 곤충의 딱딱한 겉껍질만 남는다. 각 덫은 죽기 전에 몇 번만 닫힐 수 있다. 과학자들은 파리지옥이 신경도 근육도 없으면서 세고 기억하고 행동하는 듯하기 때문에 매료된다. 안타깝게도 많은 야생 개체가 파는 사람들에게 도난당해서 이제 이 종은 보호받으며 허가 없이 채집하는 것은 일부 주에서 범죄이다.",
+    "why": "관계대명사 that의 선행사 a process가 단수이므로 동사는 take가 아니라 takes여야 합니다.",
     "optionNotes": [
-      "주어 necks에 맞는 복수 동사 help입니다.",
-      "계속적 용법의 관계대명사 which입니다.",
-      "주어와 능동 관계인 분사 taking입니다.",
-      "정답(틀린 것). 복수 주어 they에는 stand가 와야 합니다.",
-      "감정을 느끼는 사람이 주어이므로 과거분사 surprised입니다."
+      "so ~ that 구문의 that입니다.",
+      "lobes를 수식하는 과거분사 lined입니다.",
+      "avoid 뒤의 동명사 wasting입니다.",
+      "정답(틀린 것). 선행사 a process가 단수이므로 takes여야 합니다.",
+      "동명사 주어 collecting입니다."
     ],
-    "trap": "앞 문장의 단수 명사에 이끌려 동사에 -s를 붙이기 쉽습니다.",
-    "tip": "등위 접속사 and로 연결된 동사는 같은 주어(they)의 수에 일치시키세요."
+    "trap": "앞에 복수 명사 juices가 있어 take가 자연스럽게 느껴지지만 선행사는 a process입니다.",
+    "tip": "'a process that ~'처럼 동격으로 덧붙인 명사가 선행사인지 확인하세요."
   },
   {
     "id": "m2b-07-30",
     "level": "m2",
     "set": "mock-07",
+    "rev": 2,
     "no": 30,
     "type": "vocab",
     "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
-    "passage": "Taking the bus or subway instead of driving has many benefits. First, it is {1|cheaper} than owning a car, because you do not have to pay for fuel, parking, or repairs. Second, public transportation {2|increases} traffic jams, since many people share one vehicle. Third, it produces less pollution per passenger. In addition, riding the bus gives you time to read or rest, rather than concentrating on the road. Many cities are therefore trying to make public transportation more {3|comfortable} and convenient. Some offer free transfers between buses and subways, and others add late-night lines to {4|serve} people who work at night. As more people choose public transportation, the air in the city becomes {5|cleaner}.",
+    "passage": "For more than fifteen hundred years, the network of routes known as the Silk Road linked China with the Mediterranean world. Merchants rarely traveled the whole distance themselves; instead, goods passed from one trader to the next, growing more {1|expensive} at every stop. Silk was the most famous product, because Europeans did not know how it was made, and the Chinese kept the method {2|public} for centuries. In exchange, China received horses, glass, silver, and fruits such as grapes. The routes carried more than goods. Religions, especially Buddhism, {3|spread} along them, and so did technologies such as papermaking, which changed the way that knowledge was recorded in the West. Unfortunately, diseases also traveled with the caravans, and many historians believe that the plague that killed millions in the fourteenth century followed these paths. Over time, sea routes became {4|cheaper} and faster, and the old roads lost their importance. Yet the idea of the Silk Road remains {5|powerful}, reminding us that distant peoples have always influenced one another.",
     "options": [
       "①",
       "②",
@@ -43,138 +45,143 @@
       "⑤"
     ],
     "answer": 1,
-    "translation": "운전 대신 버스나 지하철을 타는 것은 많은 이점이 있다. 첫째, 연료비, 주차비, 수리비를 내지 않아도 되므로 자동차를 소유하는 것보다 더 싸다. 둘째, 많은 사람이 한 대의 차량을 함께 쓰므로 대중교통은 교통 체증을 늘린다. 셋째, 승객 한 명당 오염이 더 적다. 게다가 버스를 타면 도로에 집중하는 대신 책을 읽거나 쉴 시간이 생긴다. 그래서 많은 도시가 대중교통을 더 편안하고 편리하게 만들려고 노력한다. 일부는 버스와 지하철 사이의 무료 환승을 제공하고 다른 곳은 밤에 일하는 사람들을 위해 심야 노선을 추가한다. 더 많은 사람이 대중교통을 선택할수록 도시의 공기는 더 깨끗해진다.",
-    "why": "많은 사람이 한 대의 차량을 함께 쓰므로 교통 체증을 '늘리는(increases)'이 아니라 '줄이는(reduces)'이어야 합니다.",
+    "translation": "1,500년이 넘도록 실크로드라 불리는 길의 망은 중국과 지중해 세계를 연결했다. 상인들이 전 구간을 직접 다니는 일은 드물었고 대신 상품은 한 상인에서 다음 상인으로 넘어가며 매번 더 비싸졌다. 비단은 가장 유명한 상품이었는데, 유럽인은 그것이 어떻게 만들어지는지 몰랐고 중국인은 수 세기 동안 그 방법을 공개했다. 그 대가로 중국은 말, 유리, 은, 포도 같은 과일을 받았다. 길은 상품 이상의 것을 날랐다. 종교, 특히 불교가 길을 따라 퍼졌고 제지법 같은 기술도 퍼졌는데 이는 서양에서 지식이 기록되는 방식을 바꾸었다. 안타깝게도 질병도 대상과 함께 이동했고 많은 역사학자는 14세기에 수백만 명을 죽인 흑사병이 이 길을 따랐다고 믿는다. 시간이 지나며 바닷길이 더 싸고 빨라져 옛길은 중요성을 잃었다. 그래도 실크로드라는 생각은 여전히 강력하며 멀리 떨어진 사람들이 늘 서로 영향을 주었음을 일깨운다.",
+    "why": "유럽인이 만드는 법을 몰랐던 이유이므로 중국인은 방법을 '비밀(secret)'로 지켰어야 하며 public은 부적절합니다.",
     "optionNotes": [
-      "비용이 덜 든다는 의미로 cheaper가 알맞습니다.",
-      "정답(부적절). 차량을 공유하면 체증이 줄므로 reduces여야 합니다.",
-      "편안하게 만든다는 의미로 comfortable이 알맞습니다.",
-      "심야 노선이 사람들에게 서비스를 제공한다는 의미로 serve가 알맞습니다.",
-      "공기가 깨끗해진다는 의미로 cleaner가 알맞습니다."
+      "거래를 거칠수록 더 비싸졌다는 expensive입니다.",
+      "정답(부적절). 유럽인이 몰랐으므로 public이 아니라 secret이어야 합니다.",
+      "불교가 길을 따라 퍼졌다는 spread입니다.",
+      "바닷길이 더 싸고 빨라졌다는 cheaper입니다.",
+      "생각이 여전히 강력하다는 powerful입니다."
     ],
-    "trap": "'since many people share one vehicle'이라는 이유가 증가와 충돌합니다.",
-    "tip": "since 절의 이유와 동사의 방향이 일치하는지 확인하세요."
+    "trap": "'kept the method ___'에서 뒤의 'for centuries'만 보고 public을 넘어가기 쉽습니다. 앞 문장의 'did not know'가 근거입니다.",
+    "tip": "원인(모른다)과 낱말(비밀/공개)의 논리 관계를 확인하세요."
   },
   {
     "id": "m2b-07-31",
     "level": "m2",
     "set": "mock-07",
+    "rev": 2,
     "no": 31,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Many drivers rely on GPS to find their way. Researchers asked participants to walk through a new city using either a paper map or a GPS device. They also made fewer mistakes when they had to find their way back. Later, the people who used the map drew more accurate maps of the area from memory. The GPS users simply followed instructions, so they paid little attention to their surroundings. Some of them could not even remember the streets that they had just walked along. This suggests that relying on GPS too much may weaken our ability to __________.",
+    "passage": "Why do we keep reading a story even when we are tired, or wait for the final episode of a show that we do not even like very much? The economist George Loewenstein proposed that curiosity is not simply a love of information. According to his theory, it appears when we notice a gap between what we know and what we want to know. A question without an answer produces a mild sense of discomfort, much like an itch, and we seek the answer in order to remove it. This explains why a headline that says \"You will not believe what happened next\" attracts clicks, even though the story is usually disappointing. It also explains why people who know nothing about a subject often feel little curiosity about it: they do not yet see the gap. Teachers can use this insight. Instead of giving all the facts at once, they can begin a lesson with a puzzle that shows students that __________, and then let them search for the missing piece.",
     "options": [
-      "understand and remember the layout of the places where we travel",
-      "drive fast",
-      "read books",
-      "speak clearly",
-      "sleep well"
+      "there is a particular piece of knowledge that they are still missing",
+      "the lesson will be easier than the previous one",
+      "all of the answers are already written in the book",
+      "grades are the only reason for studying a subject",
+      "other students understand the subject much better"
     ],
     "answer": 0,
-    "translation": "많은 운전자는 길을 찾을 때 GPS에 의존한다. 연구자들은 참가자들에게 종이 지도나 GPS 장치를 사용해 새로운 도시를 걷게 했다. 그들은 돌아오는 길을 찾을 때도 실수를 덜 했다. 나중에 지도를 사용한 사람들이 기억을 바탕으로 그 지역의 더 정확한 지도를 그렸다. GPS 사용자들은 단지 지시를 따랐기 때문에 주변에 거의 주의를 기울이지 않았다. 그들 중 일부는 방금 걸었던 거리조차 기억하지 못했다. 이는 GPS에 너무 의존하면 우리가 여행하는 장소의 배치를 이해하고 기억하는 능력이 약해질 수 있음을 시사한다.",
-    "why": "GPS 사용자는 주변에 주의를 기울이지 않아 지도를 덜 정확히 그렸으므로 '장소의 배치를 이해하고 기억하는 능력'이 약해질 수 있습니다.",
+    "translation": "왜 우리는 피곤할 때도 이야기를 계속 읽거나 별로 좋아하지도 않는 프로그램의 마지막 회를 기다릴까? 경제학자 조지 로웬스타인은 호기심이 단순히 정보를 좋아하는 것이 아니라고 제안했다. 그의 이론에 따르면 호기심은 우리가 아는 것과 알고 싶은 것 사이의 간격을 알아챌 때 나타난다. 답이 없는 질문은 가려움 같은 가벼운 불편함을 낳고 우리는 그것을 없애려고 답을 찾는다. 이는 이야기가 대개 실망스러운데도 '다음에 무슨 일이 벌어졌는지 믿지 못할 것이다'라는 제목이 클릭을 끌어내는 이유를 설명한다. 또 어떤 주제를 전혀 모르는 사람이 그것에 호기심을 거의 느끼지 않는 이유도 설명한다. 그들은 아직 간격을 보지 못한다. 교사는 이 통찰을 이용할 수 있다. 모든 사실을 한꺼번에 주는 대신 학생들에게 아직 빠져 있는 특정한 지식이 있음을 보여 주는 퍼즐로 수업을 시작하고 빠진 조각을 찾게 할 수 있다.",
+    "why": "호기심은 아는 것과 알고 싶은 것의 간격에서 생기므로, 학생에게 아직 빠진 지식이 있음을 보여 주어야 한다는 ①이 알맞습니다.",
     "optionNotes": [
-      "정답. 장소의 배치를 이해하고 기억하는 능력입니다.",
-      "운전 속도는 나오지 않습니다.",
-      "독서는 나오지 않습니다.",
-      "말하기는 나오지 않습니다.",
-      "수면은 나오지 않습니다."
+      "정답. 아직 빠진 지식이 있음을 보여 주는 것입니다.",
+      "수업이 쉽다는 것은 간격과 무관합니다.",
+      "답이 책에 다 있다는 것은 간격을 없애 버립니다.",
+      "성적이 유일한 이유라는 내용은 없습니다.",
+      "남이 더 잘 안다는 것은 나오지 않습니다."
     ],
-    "trap": "'drive'가 앞에 나온다고 운전 관련 보기(②)를 고르지 마세요.",
-    "tip": "실험 결과(map users drew more accurate maps)가 빈칸의 직접적 단서입니다."
+    "trap": "④⑤는 학습 동기라는 말에 끌리지만 글은 '지식의 간격'을 말합니다.",
+    "tip": "'a gap between what we know and what we want to know'가 빈칸의 근거입니다."
   },
   {
     "id": "m2b-07-32",
     "level": "m2",
     "set": "mock-07",
+    "rev": 2,
     "no": 32,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Some people enjoy horror movies even though they feel fear while watching. Psychologists explain that the fear takes place in a safe setting. The viewer knows that nothing can truly harm them, so the body's fear response, such as a faster heartbeat, is felt as excitement. Roller coasters work in the same way, and even a scary story can feel exciting. When the movie ends, the viewer also feels relief, which is a pleasant feeling. Many people even say that they feel more energetic after watching a scary film. Thus, people enjoy being scared because __________.",
+    "passage": "Many efforts to improve behavior rely on information: posters explain why fruit is healthy, and signs ask people to save energy. Yet knowing what is right does not always change what we do. Researchers who study choices have found that small changes in the environment can be more effective than any lecture. In one school cafeteria, moving the fruit from a metal bin in a dark corner to a nice bowl near the cash register more than doubled the amount that students bought. In another, placing white milk in front of chocolate milk led more students to choose it, although both were still available. No one was forced to do anything, and no price was changed. These changes work because people often decide quickly and take whatever is right in front of them. If we want to encourage a good habit, we should therefore not only explain its value but also __________.",
     "options": [
-      "they believe that the actors in the movie are in real danger every day",
-      "they want to forget the movie as quickly as they possibly can after it",
-      "they can learn how to produce horror movies without spending much money",
-      "they are not afraid of anything that happens in daily life at home",
-      "they can feel strong emotions without being in real danger"
+      "punish anyone who chooses the less healthy option",
+      "remove every other choice from the school cafeteria",
+      "raise the price of every kind of food that is sold in the school cafeteria",
+      "give a long lecture before students enter the room",
+      "arrange the setting so that the better choice is also the easier one"
     ],
     "answer": 4,
-    "translation": "일부 사람들은 보는 동안 두려움을 느끼는데도 공포 영화를 즐긴다. 심리학자들은 두려움이 안전한 환경에서 일어난다고 설명한다. 시청자는 어떤 것도 자신을 진짜로 해칠 수 없음을 알기 때문에 빨라진 심장 박동 같은 몸의 공포 반응이 흥분으로 느껴진다. 롤러코스터도 같은 방식으로 작동하며 무서운 이야기조차 신나게 느껴질 수 있다. 영화가 끝나면 시청자는 안도감도 느끼는데 이는 유쾌한 느낌이다. 많은 사람은 무서운 영화를 본 뒤 더 활기차다고 말하기까지 한다. 그러므로 사람들은 실제 위험에 처하지 않고 강한 감정을 느낄 수 있기 때문에 겁먹는 것을 즐긴다.",
-    "why": "안전한 환경에서 두려움이 흥분과 안도감으로 느껴지므로 '실제 위험 없이 강한 감정을 느낄 수 있기 때문'이 알맞습니다.",
+    "translation": "행동을 개선하려는 많은 노력은 정보에 의존한다. 포스터는 과일이 왜 건강에 좋은지 설명하고 표지판은 에너지를 아끼라고 부탁한다. 그러나 무엇이 옳은지 아는 것이 우리의 행동을 늘 바꾸지는 않는다. 선택을 연구하는 연구자들은 환경의 작은 변화가 어떤 강의보다 효과적일 수 있음을 발견했다. 한 학교 급식실에서는 과일을 어두운 구석의 금속 통에서 계산대 근처의 예쁜 그릇으로 옮기자 학생들이 산 양이 두 배 넘게 늘었다. 다른 곳에서는 흰 우유를 초콜릿 우유 앞에 놓자 둘 다 그대로 있었는데도 더 많은 학생이 흰 우유를 골랐다. 아무도 강요받지 않았고 가격도 바뀌지 않았다. 이런 변화는 사람들이 흔히 빨리 결정하고 눈앞에 있는 것을 가져가기 때문에 통한다. 그러므로 좋은 습관을 장려하려면 그 가치를 설명할 뿐 아니라 더 나은 선택이 더 쉬운 선택이 되도록 환경을 꾸며야 한다.",
+    "why": "환경의 작은 변화가 효과적이었으므로, 더 나은 선택이 더 쉬운 선택이 되도록 환경을 꾸며야 합니다.",
     "optionNotes": [
-      "배우가 실제 위험에 처한다는 내용은 없습니다.",
-      "영화를 빨리 잊고 싶다는 내용은 없습니다.",
-      "제작법을 배운다는 내용은 없습니다.",
-      "일상에서 두려움이 없다는 내용은 없습니다.",
-      "정답. 안전한 곳에서 강한 감정을 느낍니다."
+      "처벌은 나오지 않습니다.",
+      "다른 선택지를 없애지 않았습니다.",
+      "가격은 바꾸지 않았습니다.",
+      "긴 강의는 효과가 덜하다고 했습니다.",
+      "정답. 좋은 선택이 쉬운 선택이 되도록 환경을 꾸밉니다."
     ],
-    "trap": "'fear'에 이끌려 실제 위험(①)이라는 보기를 고르지 마세요.",
-    "tip": "앞 문장들의 핵심(safe setting, nothing can truly harm them)이 빈칸의 단서입니다."
+    "trap": "②는 'both were still available'과 반대입니다.",
+    "tip": "'No one was forced to do anything'이 선택지를 없애는 것이 아님을 알려 줍니다."
   },
   {
     "id": "m2b-07-33",
     "level": "m2",
     "set": "mock-07",
+    "rev": 2,
     "no": 33,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Each year, millions of birds fly thousands of kilometers between their summer and winter homes. How do they find their way? Scientists have discovered that birds can sense the Earth's magnetic field, which works like an invisible map. They also use the sun during the day and the stars at night. Some birds even travel across oceans without stopping, and young birds can do this on their first trip. In one experiment, birds placed in a room with a changed magnetic field flew in the wrong direction. This shows that birds find their way by __________.",
+    "passage": "In 2005, researchers invited residents of two towns in Colorado, one mostly liberal and the other mostly conservative, to discuss political topics such as climate change. Before the talks, each person wrote down his or her opinion privately. The participants then spent some time discussing the topics with others from the same town. Afterward, they recorded their opinions again. In both groups, people had moved further in the direction in which they already leaned: liberals became more liberal, and conservatives became more conservative. The differences within each group also became smaller. This tendency, called group polarization, is explained partly by the fact that people who share a view repeat similar arguments, so each person hears new reasons to believe what he or she already believed. Members also want to be seen as loyal. The experiment suggests that __________. Wise groups therefore invite people with different views, or ask someone to argue for the opposite side.",
     "options": [
-      "following the same road that cars use between cities every year",
-      "asking other birds that have already traveled to the destination",
-      "looking only at the shape of the mountains in front of them",
-      "remembering the smell of the food that they ate on the way",
-      "using natural signs from the sky and the Earth"
+      "discussing politics always makes people more tolerant of others",
+      "people in small towns are less interested in politics than others",
+      "long meetings are better than short ones for reaching a decision",
+      "a person's opinion never changes after it has been written down",
+      "talking only with those who agree can make opinions more extreme"
     ],
     "answer": 4,
-    "translation": "해마다 수백만 마리의 새가 여름 서식지와 겨울 서식지 사이 수천 킬로미터를 날아간다. 새들은 어떻게 길을 찾을까? 과학자들은 새가 보이지 않는 지도처럼 작동하는 지구의 자기장을 감지할 수 있음을 발견했다. 새는 또한 낮에는 태양을, 밤에는 별을 이용한다. 일부 새는 쉬지 않고 바다를 건너기도 하며 어린 새도 첫 여행에서 이를 해낼 수 있다. 한 실험에서 자기장이 바뀐 방에 놓인 새들은 엉뚱한 방향으로 날아갔다. 이는 새가 하늘과 지구의 자연적 신호를 이용해 길을 찾음을 보여 준다.",
-    "why": "자기장, 태양, 별을 이용하므로 '하늘과 지구의 자연적 신호를 이용한다'가 알맞습니다.",
+    "translation": "2005년 연구자들은 콜로라도의 두 마을, 즉 대체로 진보적인 마을과 대체로 보수적인 마을의 주민을 초대해 기후 변화 같은 정치 주제를 논의하게 했다. 대화 전에 각자는 비공개로 의견을 적었다. 그다음 참가자들은 같은 마을의 사람들과 주제를 논의하며 시간을 보냈다. 그 뒤 다시 의견을 기록했다. 두 집단 모두에서 사람들은 이미 기울어 있던 방향으로 더 멀리 움직였다. 진보적인 사람은 더 진보적이 되었고 보수적인 사람은 더 보수적이 되었다. 각 집단 안의 차이도 줄었다. 집단 극화라 불리는 이 경향은 견해를 공유하는 사람들이 비슷한 주장을 되풀이해서 각자가 이미 믿던 것을 믿을 새 이유를 듣기 때문에 일부 설명된다. 구성원은 충실해 보이고 싶어 하기도 한다. 이 실험은 동의하는 사람들끼리만 이야기하면 의견이 더 극단적이 될 수 있음을 시사한다. 그러므로 현명한 집단은 다른 견해를 가진 사람을 초대하거나 누군가에게 반대편을 대변하게 한다.",
+    "why": "같은 견해끼리 토론하자 의견이 더 극단으로 갔으므로 ⑤가 알맞습니다.",
     "optionNotes": [
-      "자동차 도로는 나오지 않습니다.",
-      "다른 새에게 묻는다는 내용은 없습니다.",
-      "산의 모양만 본다는 내용은 없습니다.",
-      "냄새는 나오지 않습니다.",
-      "정답. 자기장, 태양, 별 등 자연적 신호입니다."
+      "관용이 커졌다는 내용은 없습니다.",
+      "작은 마을의 관심도는 나오지 않습니다.",
+      "회의 길이는 나오지 않습니다.",
+      "적은 뒤에도 의견이 바뀌었습니다.",
+      "정답. 동의하는 사람끼리만 대화하면 극단화됩니다."
     ],
-    "trap": "'map'이 나온다고 지형(③)만 본다고 오해하지 마세요.",
-    "tip": "나열된 단서(magnetic field, sun, stars)를 일반화한 말을 찾으세요."
+    "trap": "①은 일반적인 기대와 맞지만 실험 결과와 반대입니다.",
+    "tip": "마지막 처방(다른 견해를 초대)이 빈칸의 문제점을 알려 줍니다."
   },
   {
     "id": "m2b-07-34",
     "level": "m2",
     "set": "mock-07",
+    "rev": 2,
     "no": 34,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "When students make a mistake and then see the right answer, they remember the correct information longer than students who never made the mistake. Teachers used to avoid errors in the classroom. However, research shows that struggling for a moment prepares the brain to absorb the answer. This finding was a surprise to many teachers. In one study, students who guessed the meaning of new words before learning them remembered more words a week later. This means that making mistakes can be a useful part of learning, as long as the student __________.",
+    "passage": "Between 1924 and 1932, researchers at a factory near Chicago tested whether brighter lighting would help workers to produce more. Output rose in the group that received brighter lights, but, to their surprise, it also rose in a group whose lighting had not changed, and later it rose even when the lights were made dimmer. The researchers concluded that the workers were not responding mainly to the lighting. They were responding to the attention: someone was watching them, asking about their work, and treating them as if their efforts mattered. This became known as the Hawthorne effect. Later historians have pointed out that the original studies had many weaknesses, and the effect may be smaller than once claimed. Still, the idea reminds scientists of an important problem. When they study people, the study itself can change the results, because __________. For this reason, careful researchers compare a test group with a control group that receives the same amount of attention.",
     "options": [
-      "never checks the answer",
-      "looks at the correct answer afterward and thinks about why the first answer was wrong",
-      "avoids all hard questions",
-      "copies a friend",
-      "stops studying"
+      "the machines in the factory were old and slow",
+      "people may act differently just because they know that they are being observed",
+      "light has no effect at all on the human eye",
+      "workers always prefer darker rooms in the evening",
+      "the results were written down by hand and often lost"
     ],
     "answer": 1,
-    "translation": "학생이 실수를 한 뒤 정답을 보면 실수를 한 적이 없는 학생보다 정확한 정보를 더 오래 기억한다. 교사들은 예전에 교실에서 오류를 피하게 했다. 그러나 연구는 잠깐 애쓰는 것이 뇌가 답을 흡수할 준비를 시킨다는 것을 보여 준다. 이 발견은 많은 교사에게 놀라움이었다. 한 연구에서 새 단어를 배우기 전에 뜻을 추측한 학생들이 일주일 뒤 더 많은 단어를 기억했다. 이는 학생이 나중에 정답을 보고 처음 답이 왜 틀렸는지 생각하는 한 실수가 학습의 유용한 부분이 될 수 있음을 뜻한다.",
-    "why": "실수 뒤 정답을 확인할 때 기억이 오래가므로 '나중에 정답을 보고 처음 답이 왜 틀렸는지 생각한다면'이 알맞습니다.",
+    "translation": "1924년에서 1932년 사이 시카고 근처 한 공장의 연구자들은 더 밝은 조명이 노동자의 생산을 늘리는지 시험했다. 더 밝은 조명을 받은 집단에서 생산이 늘었지만 놀랍게도 조명이 바뀌지 않은 집단에서도 늘었고 나중에는 조명을 더 어둡게 했을 때에도 늘었다. 연구자들은 노동자들이 주로 조명에 반응한 것이 아니라고 결론지었다. 그들은 관심에 반응하고 있었다. 누군가 지켜보고 일에 대해 묻고 그들의 노력이 중요한 것처럼 대해 주었다. 이는 호손 효과로 알려지게 되었다. 후대 역사학자들은 원래 연구에 많은 약점이 있었고 효과가 한때 주장된 것보다 작을 수 있다고 지적했다. 그래도 이 생각은 과학자에게 중요한 문제를 일깨운다. 사람을 연구할 때 연구 자체가 결과를 바꿀 수 있는데, 사람들은 자신이 관찰받고 있음을 안다는 이유만으로 다르게 행동할 수 있기 때문이다. 그래서 신중한 연구자들은 같은 양의 관심을 받는 대조군과 시험군을 비교한다.",
+    "why": "조명이 아니라 관심(관찰)에 반응했으므로, 사람들은 관찰받는다는 것만으로 다르게 행동할 수 있습니다.",
     "optionNotes": [
-      "답을 확인하지 않는다는 내용은 글과 반대입니다.",
-      "정답. 정답을 확인하고 이유를 생각합니다.",
-      "어려운 문제를 피한다는 내용은 글과 반대입니다.",
-      "친구의 답을 베낀다는 내용은 없습니다.",
-      "공부를 멈춘다는 내용은 글과 반대입니다."
+      "기계가 낡았다는 내용은 없습니다.",
+      "정답. 관찰받고 있다는 것만으로 행동이 달라질 수 있습니다.",
+      "빛이 눈에 영향이 없다는 내용은 없습니다.",
+      "어두운 방 선호는 나오지 않습니다.",
+      "기록 방법은 나오지 않습니다."
     ],
-    "trap": "'make mistakes'만 보고 실수를 그냥 두어도 된다고 오해하지 마세요.",
-    "tip": "as long as 조건절은 앞의 일반화가 성립하는 조건을 말합니다."
+    "trap": "조명 실험이라 ③④처럼 빛에 관한 선택지에 끌리기 쉽습니다.",
+    "tip": "'responding to the attention'이 빈칸의 직접 근거입니다."
   },
   {
     "id": "m2b-07-35",
     "level": "m2",
     "set": "mock-07",
+    "rev": 2,
     "no": 35,
     "type": "irrelevant",
     "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
-    "passage": "Joining a school club has several benefits. ① You can make friends who share your interests. ② Many schools have a cafeteria where students can buy lunch at a low price. ③ Clubs also give you chances to develop leadership skills, such as planning events and leading meetings. ④ In addition, working toward a common goal teaches teamwork and responsibility. ⑤ For these reasons, students are encouraged to join at least one club during their school years.",
+    "passage": "Bread rises because of a tiny living organism called yeast, which bakers have used for thousands of years. ① When yeast is mixed with flour and warm water, it begins to feed on the sugars in the dough and produces carbon dioxide gas. ② In many countries, bread is the main food at breakfast, and it is often eaten with butter, jam, or a slice of cheese. ③ The gas is trapped by gluten, a stretchy network of proteins that forms when the dough is kneaded, and the growing bubbles make the dough swell to twice its size. ④ If the water is too hot, the yeast dies and the bread stays flat and heavy; if it is too cold, the yeast works so slowly that the dough may take many hours to rise. ⑤ In the oven, the heat makes the gas expand one last time before the yeast dies and the structure of the bread becomes firm.",
     "options": [
       "①",
       "②",
@@ -183,26 +190,27 @@
       "⑤"
     ],
     "answer": 1,
-    "translation": "학교 동아리에 가입하는 것은 여러 이점이 있다. ① 관심사가 같은 친구를 사귈 수 있다. ② 많은 학교에는 학생들이 싼 값에 점심을 살 수 있는 식당이 있다. ③ 동아리는 또한 행사 기획이나 회의 진행 같은 리더십 기술을 키울 기회를 준다. ④ 게다가 공동의 목표를 향해 노력하는 것은 협동심과 책임감을 가르친다. ⑤ 이런 이유로 학생들은 재학 중 적어도 하나의 동아리에 가입하도록 권장된다.",
-    "why": "글은 동아리의 이점을 말하는데 ②는 학교 식당의 점심 가격이라는 별개의 이야기라 관계가 없습니다.",
+    "translation": "빵은 효모라는 작은 생물 때문에 부풀며 제빵사들은 수천 년 동안 이를 써 왔다. ① 효모를 밀가루와 따뜻한 물과 섞으면 효모는 반죽 속의 당을 먹기 시작해 이산화탄소 기체를 만든다. ② 많은 나라에서 빵은 아침의 주식이며 흔히 버터, 잼, 치즈 한 조각과 함께 먹는다. ③ 기체는 반죽을 치댈 때 생기는 탄력 있는 단백질망인 글루텐에 갇히고 커지는 거품이 반죽을 두 배 크기로 부풀린다. ④ 물이 너무 뜨거우면 효모가 죽어 빵이 납작하고 무겁게 남고, 너무 차가우면 효모가 너무 느리게 일해 반죽이 부푸는 데 여러 시간이 걸릴 수 있다. ⑤ 오븐에서 열은 효모가 죽고 빵의 구조가 단단해지기 전에 기체를 마지막으로 한 번 팽창시킨다.",
+    "why": "글은 빵이 부푸는 과정을 다루는데 ②는 빵을 먹는 방식으로 관계가 없습니다.",
     "optionNotes": [
-      "친구를 사귀는 이점입니다.",
-      "정답(무관). 식당의 점심 가격 이야기입니다.",
-      "리더십을 키우는 이점입니다.",
-      "협동심과 책임감을 키우는 이점입니다.",
-      "결론 문장입니다."
+      "효모가 이산화탄소를 만드는 첫 단계입니다.",
+      "정답. 빵을 먹는 방식은 부푸는 원리와 무관합니다.",
+      "글루텐이 기체를 가두는 과정입니다.",
+      "온도가 효모에 미치는 영향입니다.",
+      "오븐에서의 마지막 단계입니다."
     ],
-    "trap": "'school'과 관련된 소재라서 주제와 이어지는 것처럼 보일 수 있습니다.",
-    "tip": "주제(동아리의 이점)를 뒷받침하지 않는 문장을 고르세요."
+    "trap": "'bread'라는 낱말이 계속 나와도 부풀기 과정이 아닌 문장이 섞일 수 있습니다.",
+    "tip": "첫 문장의 주제(Bread rises)를 따라가며 흐름에서 벗어난 문장을 찾으세요."
   },
   {
     "id": "m2b-07-36",
     "level": "m2",
     "set": "mock-07",
+    "rev": 2,
     "no": 36,
     "type": "order",
     "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
-    "passage": "Have you ever wondered why leaves change color in autumn? The change happens every year, but few people know the reason.\n(A) Then the yellow and orange colors that were hidden all along finally become visible, and the forest looks like a painting.\n(B) During summer, leaves are green because they contain a large amount of chlorophyll, which helps plants make food from sunlight and gives them their green color.\n(C) In autumn, the days become shorter, and the trees stop making chlorophyll, so the green color slowly disappears. This usually happens in October in Korea.",
+    "passage": "Until the nineteenth century, many people believed that living things could appear from nonliving matter, an idea known as spontaneous generation.\n(A) When he broke the neck or tipped a flask so that the broth touched the trapped dust, the liquid soon became cloudy with microbes, while the unbroken flasks stayed clear. Pasteur concluded that life came only from other life, and his work helped to establish the germ theory of disease.\n(B) For example, some claimed that flies were born from rotting meat, or that tiny creatures arose on their own in soup. The French scientist Louis Pasteur doubted this idea and decided to test it with glass flasks that had long, curved necks like a swan's.\n(C) He boiled broth in the flasks to kill any microbes and then left them open to the air. Air could enter, but dust and germs were caught in the curve of the neck, and the broth stayed clear for many months.",
     "options": [
       "(A)-(C)-(B)",
       "(B)-(A)-(C)",
@@ -211,26 +219,27 @@
       "(C)-(B)-(A)"
     ],
     "answer": 2,
-    "translation": "가을에 나뭇잎이 왜 색이 변하는지 궁금했던 적이 있는가? 그 변화는 해마다 일어나지만 이유를 아는 사람은 드물다. (B) 여름에는 잎이 식물이 햇빛으로 양분을 만들도록 돕고 잎에 초록색을 주는 엽록소를 많이 지니고 있어서 초록색이다. (C) 가을에는 낮이 짧아지고 나무가 엽록소를 만드는 것을 멈추어서 초록색이 서서히 사라진다. 한국에서는 보통 10월에 일어난다. (A) 그러면 줄곧 숨어 있던 노란색과 주황색이 마침내 드러나 숲은 한 폭의 그림처럼 보인다.",
-    "why": "(B) 여름의 초록색 → (C) 가을에 엽록소가 사라짐 → (A) 'Then'으로 숨은 색이 드러남 순서입니다.",
+    "translation": "19세기까지 많은 사람은 생물이 무생물에서 생겨날 수 있다고 믿었는데, 이 생각은 자연 발생설이라 불린다. (B) 예를 들어 어떤 이들은 파리가 썩은 고기에서 태어난다고 하거나 아주 작은 생물이 수프에서 저절로 생긴다고 주장했다. 프랑스 과학자 루이 파스퇴르는 이 생각을 의심하고 백조처럼 길고 굽은 목을 가진 유리 플라스크로 시험하기로 했다. (C) 그는 플라스크에 든 국물을 끓여 미생물을 죽인 뒤 공기에 열어 두었다. 공기는 들어갈 수 있었지만 먼지와 세균은 목의 굽은 곳에 걸려 국물은 여러 달 동안 맑게 남았다. (A) 그가 목을 부러뜨리거나 국물이 갇힌 먼지에 닿도록 플라스크를 기울이자 액체는 곧 미생물로 흐려졌고, 깨지지 않은 플라스크는 맑게 남았다. 파스퇴르는 생명이 다른 생명에서만 온다고 결론지었고 그의 연구는 질병의 세균설을 확립하는 데 도움이 되었다.",
+    "why": "(B) 통념의 예와 파스퇴르의 실험 설계 → (C) 국물을 끓여 맑게 유지 → (A) 먼지에 닿게 하자 흐려짐과 결론 순서입니다.",
     "optionNotes": [
-      "(A)의 'Then'이 이어질 앞 사건이 없습니다.",
-      "(A)가 (C) 전에 오면 엽록소가 사라지기 전에 색이 드러납니다.",
-      "정답. 여름 → 엽록소 감소 → 숨은 색 드러남.",
-      "(C)의 'In autumn'이 여름 설명 전에 오면 대비가 사라집니다.",
-      "(C)의 'In autumn'이 여름 설명 전에 오면 대비가 사라집니다."
+      "(A)의 'the neck'은 (B)에서 플라스크가 소개된 뒤여야 합니다.",
+      "(A)의 실험은 (C)의 첫 단계 뒤입니다.",
+      "정답. 설계 → 첫 결과 → 대조 결과입니다.",
+      "(C)의 'the flasks'는 (B)에서 소개되어야 합니다.",
+      "(C)가 앞에 오면 'He'가 누구인지 알 수 없습니다."
     ],
-    "trap": "(A)의 'Then'은 (C)의 초록색이 사라진 뒤를 가리킵니다.",
-    "tip": "During summer → In autumn → Then의 시간 흐름을 따라가세요."
+    "trap": "(A)의 'he broke the neck'은 (C)에서 맑게 유지된 상태를 알아야 의미가 통합니다.",
+    "tip": "the flasks, the neck 같은 정관사 표현이 처음 소개된 대상 뒤에 오는지 확인하세요."
   },
   {
     "id": "m2b-07-37",
     "level": "m2",
     "set": "mock-07",
+    "rev": 2,
     "no": 37,
     "type": "order",
     "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
-    "passage": "Sharks are often described as dangerous animals, but they are much more afraid of humans than we are of them. This surprising fact comes from many studies of shark behavior.\n(A) In fact, sharks attack fewer than a hundred people each year, and only a small number of these attacks are fatal. Most bites happen when a shark mistakes a surfer for a seal.\n(B) Therefore, it is the sharks, not people, who need our protection.\n(C) On the other hand, humans kill about a hundred million sharks every year, mostly for their fins.",
+    "passage": "In the early nineteenth century, artists could keep a scene only by drawing or painting it by hand, which could take many hours or even days.\n(A) A French inventor, Joseph Nicéphore Niépce, wanted a way for light itself to record an image. In about 1826, he coated a metal plate with a kind of asphalt that hardened in light and placed it in a box with a lens at his window.\n(B) His partner Louis Daguerre later improved the process, reducing the exposure time from many hours to a few minutes. In 1839, the French government announced the invention to the world, and portrait studios soon opened in many cities, where families lined up to have their pictures taken.\n(C) After many hours of exposure, he washed the plate, and a blurry view of rooftops appeared. It is the oldest surviving photograph, although the image is so faint that it can hardly be seen without careful lighting.",
     "options": [
       "(A)-(C)-(B)",
       "(B)-(A)-(C)",
@@ -239,26 +248,27 @@
       "(C)-(B)-(A)"
     ],
     "answer": 0,
-    "translation": "상어는 흔히 위험한 동물로 묘사되지만 그들은 우리가 그들을 두려워하는 것보다 훨씬 더 인간을 두려워한다. 이 놀라운 사실은 상어 행동에 관한 많은 연구에서 나왔다. (A) 사실 상어는 해마다 백 명도 안 되는 사람을 공격하고 이 공격 중 일부만 치명적이다. 대부분의 물림은 상어가 서퍼를 바다표범으로 착각할 때 일어난다. (C) 반면 인간은 해마다 약 일억 마리의 상어를 주로 지느러미를 얻으려고 죽인다. (B) 그러므로 우리의 보호가 필요한 것은 사람이 아니라 상어이다.",
-    "why": "(A) 'In fact'로 상어의 공격 수 → (C) 'On the other hand'로 인간이 죽이는 수 → (B) 'Therefore'로 결론 순서입니다.",
+    "translation": "19세기 초에 예술가가 장면을 간직할 수 있는 방법은 손으로 그리거나 칠하는 것뿐이었는데, 이는 여러 시간 또는 며칠이 걸릴 수 있었다. (A) 프랑스 발명가 조제프 니세포르 니에프스는 빛 자체가 영상을 기록하는 방법을 원했다. 1826년경 그는 빛을 받으면 굳는 일종의 아스팔트를 금속판에 바르고 창가의 렌즈 달린 상자에 넣었다. (C) 여러 시간 노출한 뒤 그가 판을 씻자 지붕들의 흐릿한 풍경이 나타났다. 이것은 남아 있는 가장 오래된 사진이지만 영상이 너무 희미해 조명을 세심하게 하지 않으면 거의 보이지 않는다. (B) 그의 동업자 루이 다게르는 나중에 과정을 개선해 노출 시간을 여러 시간에서 몇 분으로 줄였다. 1839년 프랑스 정부는 그 발명을 세계에 발표했고 곧 많은 도시에 초상 사진관이 문을 열었고 가족들은 사진을 찍으려고 줄을 섰다.",
+    "why": "(A) 니에프스의 시도 → (C) 노출 후 영상이 나타남 → (B) 다게르의 개선과 발표 순서입니다.",
     "optionNotes": [
-      "정답. 사실 → 대조 → 결론.",
-      "(B)의 'Therefore'가 요약할 내용이 앞에 없습니다.",
-      "(B)의 'Therefore'가 요약할 내용이 앞에 없습니다.",
-      "(C)의 'On the other hand'가 대조할 앞 내용이 없습니다.",
-      "(C) 뒤에 (B)가 오고 (A)가 마지막에 오면 결론 뒤에 근거가 나옵니다."
+      "정답. 시도 → 첫 사진 → 개선과 보급입니다.",
+      "(B)의 'His partner'는 (A)의 니에프스 뒤여야 합니다.",
+      "(B)의 'His'가 가리킬 사람이 아직 없습니다.",
+      "(C)의 'he'와 'the plate'는 (A) 뒤여야 합니다.",
+      "(C)가 앞에 오면 'the plate'가 소개되지 않았습니다."
     ],
-    "trap": "(C)의 'On the other hand'는 (A)의 상어가 사람을 공격하는 수와 대조됩니다.",
-    "tip": "In fact → On the other hand → Therefore의 논리 흐름을 따라가세요."
+    "trap": "(C)의 'the plate'는 (A)의 금속판입니다.",
+    "tip": "정관사 the plate, 인칭 his partner가 가리키는 대상이 먼저 나왔는지 확인하세요."
   },
   {
     "id": "m2b-07-38",
     "level": "m2",
     "set": "mock-07",
+    "rev": 2,
     "no": 38,
     "type": "insert",
     "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
-    "passage": "[주어진 문장]\nHe was shocked to see elderly residents traveling for hours by boat just to get their medicine.\n\n[글]\n( ① ) Dr. Kim worked at a big hospital in Seoul, and he was so busy that he rarely had time for himself. ( ② ) One summer, he visited a small island village that had no doctor. ( ③ ) After returning to Seoul, he could not stop thinking about the people whom he had met there. ( ④ ) The following year, he moved to the island and opened a small clinic. ( ⑤ ) Today, the villagers say that his clinic has made the island a much safer place to live.",
+    "passage": "[주어진 문장]\nRecovering these metals safely is not simple, however, since they are mixed with plastic and glass in tiny amounts.\n\n[글]\n( ① ) Old phones and computers contain small amounts of valuable metals such as gold, silver, and copper, which are used in their circuits. ( ② ) In fact, a ton of discarded phones holds far more gold than a ton of rock that is dug from a gold mine. ( ③ ) In some countries, poor workers burn the devices over open fires to get at the metals, a dangerous practice that releases poisonous smoke into the air they breathe. ( ④ ) Modern recycling plants, in contrast, separate the materials inside closed systems that protect the workers and the neighbors, and they recover far more of the metal than open fires do. ( ⑤ ) Returning an old device to a store instead of keeping it in a drawer is therefore a simple way to help both people and the environment, and it usually costs nothing at all.",
     "options": [
       "①",
       "②",
@@ -267,26 +277,27 @@
       "⑤"
     ],
     "answer": 2,
-    "translation": "[주어진 문장] 그는 어르신들이 약을 구하려고 몇 시간씩 배를 타고 다니는 것을 보고 충격을 받았다. [글] 김 박사는 서울의 큰 병원에서 일했고 너무 바빠서 자신을 위한 시간이 거의 없었다. 어느 여름 그는 의사가 없는 작은 섬마을을 방문했다. 서울로 돌아온 뒤 그는 그곳에서 만난 사람들을 계속 생각했다. 이듬해 그는 섬으로 이사해 작은 진료소를 열었다. 오늘날 주민들은 그의 진료소가 섬을 훨씬 더 안전하게 살 수 있는 곳으로 만들었다고 말한다.",
-    "why": "주어진 문장은 섬마을을 방문한 장면(의사가 없는 마을)을 구체화하고, 뒤의 'After returning ~ thinking about the people'로 이어지므로 ③에 들어갑니다.",
+    "translation": "[주어진 문장] 그러나 이 금속들은 플라스틱, 유리와 아주 적은 양으로 섞여 있어서 안전하게 회수하는 것은 간단하지 않다. [글] 낡은 휴대전화와 컴퓨터에는 금, 은, 구리 같은 회로에 쓰이는 귀한 금속이 소량 들어 있다. 사실 버려진 휴대전화 1톤에는 금광에서 캔 바위 1톤보다 훨씬 많은 금이 들어 있다. 일부 나라에서는 가난한 노동자들이 금속을 얻으려고 기기를 노천 불에 태우는데, 이는 그들이 마시는 공기에 유독한 연기를 내뿜는 위험한 관행이다. 반면 현대의 재활용 공장은 노동자와 이웃을 보호하는 닫힌 설비 안에서 재료를 분리하며 노천 불보다 훨씬 많은 금속을 회수한다. 그러므로 낡은 기기를 서랍에 두지 말고 가게에 돌려주는 것은 사람과 환경 모두를 돕는 간단한 방법이며 대개 아무 비용도 들지 않는다.",
+    "why": "금속이 풍부하다는 설명 뒤에 'however'로 회수의 어려움을 제시하고, 이어서 위험한 방식(태우기)을 말하므로 ③입니다.",
     "optionNotes": [
-      "'He'가 가리킬 Dr. Kim이 방문하기 전이라 어색합니다.",
-      "마을을 방문했다는 내용이 나오기 전에 충격을 받는 장면이 먼저 나옵니다.",
-      "정답. 방문 직후 본 광경을 말하고 이후 계속 생각하는 흐름입니다.",
-      "돌아와 생각한 뒤에 충격이 나오면 순서가 어긋납니다.",
-      "진료소를 연 뒤에 충격이 나오면 인과가 뒤집힙니다."
+      "'these metals'가 가리킬 대상은 있으나 풍부함을 말하기 전이라 'however'가 어색합니다.",
+      "금 함량 비교 앞에 오면 흐름이 끊깁니다.",
+      "정답. 풍부하다는 말 뒤 어려움을 말하고 태우기 사례가 이어집니다.",
+      "공장과의 대조 앞에 끼면 'in contrast'의 대상이 흐려집니다.",
+      "결론 직전이라 어색합니다."
     ],
-    "trap": "④에 넣으면 이사를 결심하는 이유가 뒤에 나와 인과가 거꾸로 됩니다.",
-    "tip": "시간 흐름(방문 → 충격 → 귀환 → 이사)을 따라 위치를 정하세요."
+    "trap": "②와 ③에서 헷갈립니다. '많다'는 두 문장이 모두 끝난 뒤에 '그러나 회수는 어렵다'가 옵니다.",
+    "tip": "however는 앞의 긍정적 정보가 완결된 뒤에 놓입니다."
   },
   {
     "id": "m2b-07-39",
     "level": "m2",
     "set": "mock-07",
+    "rev": 2,
     "no": 39,
     "type": "insert",
     "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
-    "passage": "[주어진 문장]\nThanks to this support, her company grew into a successful business within five years.\n\n[글]\n( ① ) Eun-ji started a small company that made bags from old advertising banners. ( ② ) At first, she sold them only to her friends and relatives. ( ③ ) Then a local newspaper wrote an article about her unusual idea. ( ④ ) Soon, a bank offered her a loan with a very low interest rate, and a design school sent students to help her create new products. ( ⑤ )",
+    "passage": "[주어진 문장]\nAs a result, the two waves cancel each other out, and the listener hears far less of the noise.\n\n[글]\n( ① ) Noise-canceling headphones do much more than block sound with thick, soft padding around the ears. Padding can only weaken some of the sounds that reach us. ( ② ) A tiny microphone on the outside of each earpiece picks up the surrounding noise before it reaches the listener, and it does this thousands of times every second. ( ③ ) A small computer chip then studies the shape of the incoming sound wave within a fraction of a second, comparing it with the sound inside the earpiece. ( ④ ) It creates a second wave that is exactly opposite to the first one: where the noise pushes the air, the new wave pulls it. ( ⑤ ) This method works best with steady sounds, such as the hum of an airplane engine, and less well with sudden noises like a shout or a dog barking, which change too quickly to be predicted.",
     "options": [
       "①",
       "②",
@@ -295,44 +306,45 @@
       "⑤"
     ],
     "answer": 4,
-    "translation": "[주어진 문장] 이 지원 덕분에 그녀의 회사는 오 년 안에 성공적인 사업으로 성장했다. [글] 은지는 오래된 광고 현수막으로 가방을 만드는 작은 회사를 시작했다. 처음에 그녀는 가방을 친구와 친척에게만 팔았다. 그러다 지역 신문이 그녀의 특이한 아이디어에 관한 기사를 썼다. 곧 한 은행이 아주 낮은 이자의 대출을 제안했고 디자인 학교는 새 제품을 만드는 것을 돕도록 학생들을 보냈다.",
-    "why": "'this support'는 은행 대출과 디자인 학교의 도움을 가리키므로 글의 맨 끝인 ⑤에 들어갑니다.",
+    "translation": "[주어진 문장] 그 결과 두 파동은 서로를 상쇄해 듣는 사람은 소음을 훨씬 적게 듣는다. [글] 소음 차단 헤드폰은 귀 둘레의 두껍고 푹신한 패드로 우리에게 닿는 소리 일부만 약하게 할 수 있는 패드로 막는 것 이상의 일을 한다. 각 이어폰 바깥의 작은 마이크는 소음이 듣는 사람에게 닿기 전에 주변 소음을 포착하며 이 일을 1초에 수천 번 한다. 작은 컴퓨터 칩은 그다음 순식간에 들어오는 음파의 모양을 분석해 이어폰 안의 소리와 비교한다. 그것은 첫 파동과 정확히 반대인 두 번째 파동을 만든다. 소음이 공기를 밀면 새 파동은 당긴다. 이 방법은 비행기 엔진의 웅웅거림 같은 일정한 소리에 가장 잘 통하고 고함이나 개 짖는 소리 같은 갑작스러운 소음에는 덜 통하는데, 이런 소리는 예측하기에는 너무 빨리 변하기 때문이다.",
+    "why": "반대 파동을 만든다는 설명 뒤에 'As a result'로 상쇄 결과를 말하고, 이어서 방법의 한계가 오므로 ⑤입니다.",
     "optionNotes": [
-      "'this support'가 가리킬 지원이 아직 나오지 않았습니다.",
-      "지원이 나오기 전이라 'this support'가 어색합니다.",
-      "지원이 나오기 전이라 'this support'가 어색합니다.",
-      "지원 내용을 설명하는 문장 앞이라 'this support'의 대상이 없습니다.",
-      "정답. 지원 내용 뒤에 그 결과를 말합니다."
+      "파동이 만들어지기 전이라 'the two waves'가 없습니다.",
+      "마이크 설명 앞에 오면 두 파동이 없습니다.",
+      "분석 단계라 두 번째 파동이 없습니다.",
+      "두 번째 파동을 만들기 전이라 'the two waves'가 가리킬 대상이 없습니다.",
+      "정답. 반대 파동 설명 뒤 결과를 말합니다."
     ],
-    "trap": "④도 가능해 보이지만 'this support'는 ④의 구체적 지원이 나온 뒤에 와야 합니다.",
-    "tip": "'this + 명사'는 앞에서 구체적으로 설명된 내용 바로 뒤에 놓입니다."
+    "trap": "④와 ⑤에서 헷갈립니다. 'the two waves'는 두 번째 파동이 만들어진 뒤에만 말할 수 있습니다.",
+    "tip": "'As a result'는 원인 설명이 모두 끝난 뒤에 놓습니다."
   },
   {
     "id": "m2b-07-40",
     "level": "m2",
     "set": "mock-07",
+    "rev": 2,
     "no": 40,
     "type": "summary",
     "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "A middle school asked students to put their phones in a basket during lunch for one month. At first, many students complained. However, after a week, the cafeteria became much noisier in a good way, because students began to talk to one another. Teachers noticed that students who usually ate alone were joining conversations. In a survey at the end of the month, most students said that they felt happier and less stressed after lunch. Several students even asked to keep the rule after the experiment ended.\n\n▶ When students put away their phones at lunch, they (A) more with one another, and their (B) improved.",
+    "passage": "Most people assume that we laugh because something is funny. The neuroscientist Robert Provine decided to check this by listening to people in shopping malls, streets, and cafés, and he recorded more than a thousand moments of laughter. Surprisingly, only a small number of them followed anything like a joke. Most laughter came after ordinary remarks such as \"See you later\" or \"I know what you mean.\" The person who was speaking often laughed more than the person who was listening. Further studies showed that people are about thirty times more likely to laugh when they are with others than when they are alone, even when they watch the same comedy. Babies laugh when a familiar adult plays with them, and young chimpanzees make a similar panting sound during play fighting, as if to say that the game is not serious. These findings suggest that laughter evolved not mainly as a response to clever ideas but as a signal that helps members of a group to feel safe and connected.\n\n▶ People laugh far more when they are (A) others, which suggests that laughter is mainly a (B) signal.",
     "options": [
-      "(A) argued — (B) hunger",
-      "(A) played — (B) eyesight",
-      "(A) studied — (B) speed",
-      "(A) talked — (B) mood",
-      "(A) walked — (B) height"
+      "(A) without — (B) social",
+      "(A) with — (B) private",
+      "(A) against — (B) physical",
+      "(A) with — (B) social",
+      "(A) without — (B) medical"
     ],
     "answer": 3,
-    "translation": "한 중학교는 학생들에게 한 달 동안 점심시간에 휴대전화를 바구니에 넣게 했다. 처음에는 많은 학생이 불평했다. 그러나 일주일이 지나자 학생들이 서로 이야기하기 시작해서 급식실이 좋은 의미로 훨씬 시끄러워졌다. 교사들은 보통 혼자 먹던 학생들이 대화에 끼는 것을 알아챘다. 한 달 끝의 설문 조사에서 대부분의 학생은 점심 후에 더 행복하고 스트레스가 덜하다고 말했다. 몇몇 학생은 실험이 끝난 뒤에도 규칙을 유지해 달라고 요청하기까지 했다. ▶ 학생들이 점심에 휴대전화를 치우자 서로 더 많이 (A)했고 그들의 (B)이 좋아졌다.",
-    "why": "학생들이 서로 더 많이 이야기하고(talked) 기분이 좋아졌으므로(mood) (A)는 talked, (B)는 mood입니다.",
+    "translation": "대부분의 사람은 우리가 무언가 우스워서 웃는다고 가정한다. 신경 과학자 로버트 프로바인은 쇼핑몰, 거리, 카페에서 사람들의 말을 듣는 것으로 이를 확인하기로 했고 천 건이 넘는 웃음의 순간을 기록했다. 놀랍게도 그중 농담 같은 것 뒤에 온 것은 적었다. 대부분의 웃음은 \"나중에 봐\"나 \"무슨 말인지 알아\" 같은 평범한 말 뒤에 왔다. 말하는 사람이 듣는 사람보다 더 자주 웃었다. 추가 연구는 사람들이 같은 코미디를 볼 때에도 혼자 있을 때보다 다른 사람과 있을 때 웃을 가능성이 약 30배 높음을 보여 주었다. 아기는 익숙한 어른이 놀아 줄 때 웃고 어린 침팬지는 놀이 싸움 중에 비슷한 헐떡이는 소리를 내는데 마치 이 놀이는 진지하지 않다고 말하는 듯하다. 이 발견은 웃음이 주로 영리한 생각에 대한 반응이 아니라 집단 구성원이 안전하고 연결되어 있다고 느끼도록 돕는 신호로 진화했음을 시사한다. ▶ 사람들은 다른 사람과 함께 있을 때 훨씬 많이 웃는데, 이는 웃음이 주로 사회적 신호임을 시사한다.",
+    "why": "다른 사람과 함께(with) 있을 때 훨씬 많이 웃으므로 웃음은 사회적(social) 신호입니다.",
     "optionNotes": [
-      "argued와 hunger는 글에 나오지 않습니다.",
-      "played와 eyesight는 글에 나오지 않습니다.",
-      "studied와 speed는 글에 나오지 않습니다.",
-      "정답. 대화가 늘고 기분이 좋아졌습니다.",
-      "walked와 height는 글에 나오지 않습니다."
+      "혼자일 때 더 웃는다는 것은 반대입니다.",
+      "(B)의 private는 반대입니다.",
+      "'against'와 'physical'은 글과 맞지 않습니다.",
+      "정답. 함께 있을 때 많이 웃고 사회적 신호입니다.",
+      "혼자일 때와 의학적 신호는 맞지 않습니다."
     ],
-    "trap": "(A)가 맞아도 (B)가 결과(행복, 스트레스 감소)와 일치하는지 확인하세요.",
-    "tip": "요약문은 원인(휴대전화 치우기)과 결과(대화 증가, 기분 개선)를 짝지으세요."
+    "trap": "(A)가 with인 ②는 (B)의 private가 반대입니다.",
+    "tip": "요약문은 글의 수치(thirty times more)와 결론(group, connected)을 상위어로 바꿔 보세요."
   }
 ]
