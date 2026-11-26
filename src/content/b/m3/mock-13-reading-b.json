@@ -3,10 +3,11 @@
     "id": "m3b-13-29",
     "level": "m3",
     "set": "mock-13",
+    "rev": 2,
     "no": 29,
     "type": "grammar",
     "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
-    "passage": "Hummingbirds are the smallest birds in the world, yet they are among the most remarkable. They can beat their wings up to eighty times per second, {1|which} allows them to hover in the air like a helicopter. Because this requires a great deal of energy, a hummingbird must {2|eat} every ten to fifteen minutes. Its favorite food is the sugary liquid inside flowers, and it reaches this liquid with a long, thin tongue. At night, when food is not available, the bird enters a state called torpor, in which its heart rate and body temperature {3|drop} dramatically. This helps it to save energy until the morning. Scientists are studying the flight of hummingbirds {4|to design} small flying robots. Some of these robots can already fly through narrow spaces and {5|avoiding} obstacles.",
+    "passage": "Vending machines feel like a product of modern city life, but the idea of a device that gives something in return for a coin is very old. An engineer {1|living} in Alexandria about two thousand years ago described a machine for temples. A worshipper dropped a coin through a slot, and the coin landed on one end of a small beam. The weight pushed that end down, {2|opening} a valve that let holy water flow out. As the beam tilted further, the coin slid off, and the valve closed again. The design was clever because it needed no one {3|to watch} over it. Machines of this general kind did not become common until the nineteenth century, {4|when} they began selling postcards and chewing gum at railway stations. Today some of them sell hot meals, umbrellas, or even fresh eggs. What they all share with the ancient one is a simple promise: {5|that} you put in will bring something out.",
     "options": [
       "①",
       "②",
@@ -15,26 +16,27 @@
       "⑤"
     ],
     "answer": 4,
-    "translation": "벌새는 세계에서 가장 작은 새이지만 가장 놀라운 새 중 하나이다. 벌새는 날개를 초당 최대 팔십 번까지 칠 수 있어서 헬리콥터처럼 공중에 떠 있을 수 있다. 이것은 많은 에너지가 필요하므로 벌새는 십 분에서 십오 분마다 먹어야 한다. 좋아하는 먹이는 꽃 속의 달콤한 액체이며 길고 가는 혀로 그 액체에 닿는다. 먹이가 없는 밤에는 이 새가 휴면 상태에 들어가는데 이때 심박수와 체온이 극적으로 떨어진다. 이는 아침까지 에너지를 아끼도록 돕는다. 과학자들은 작은 비행 로봇을 설계하려고 벌새의 비행을 연구하고 있다. 이 로봇 중 일부는 이미 좁은 공간을 지나 장애물을 피해 날 수 있다.",
-    "why": "조동사 can 뒤의 'fly ... and' 병렬 구조이므로 'avoiding'이 아니라 동사원형 'avoid'여야 합니다.",
+    "translation": "자판기는 현대 도시 생활의 산물처럼 느껴지지만 동전을 받고 무언가를 주는 장치라는 생각은 아주 오래되었다. 약 2천 년 전 알렉산드리아에 살던 한 기술자가 신전용 기계를 묘사했다. 참배자가 구멍에 동전을 넣으면 동전은 작은 막대의 한쪽 끝에 떨어졌다. 그 무게가 그쪽을 눌러 성수가 흘러나오는 밸브를 열었다. 막대가 더 기울면 동전이 미끄러져 떨어지고 밸브는 다시 닫혔다. 지켜볼 사람이 필요 없어 설계가 영리했다. 이런 종류의 기계는 19세기에야 흔해졌는데, 그때 기차역에서 엽서와 껌을 팔기 시작했다. 오늘날 어떤 것은 따뜻한 식사, 우산, 심지어 신선한 달걀도 판다. 모두가 고대의 것과 공유하는 것은 간단한 약속이다. 당신이 넣는 것이 무언가를 내놓게 하리라는 것이다.",
+    "why": "put in의 목적어 역할을 하면서 선행사가 없으므로 that이 아니라 what이어야 합니다.",
     "optionNotes": [
-      "앞 절 전체를 받는 계속적 용법의 which입니다.",
-      "조동사 must 뒤의 동사원형입니다.",
-      "주어 heart rate and body temperature에 맞는 동사원형 drop입니다.",
-      "목적을 나타내는 to부정사입니다.",
-      "정답(틀린 것). fly와 병렬이므로 avoid여야 합니다."
+      "An engineer를 꾸미는 현재분사입니다.",
+      "결과를 나타내는 분사구문입니다.",
+      "need + 사람 + to V의 형태입니다.",
+      "시간을 받는 관계부사 when입니다.",
+      "정답(틀린 것). 선행사를 포함하는 what이어야 합니다."
     ],
-    "trap": "등위 접속사 and 앞뒤의 형태를 맞춰야 한다는 점을 놓치기 쉽습니다.",
-    "tip": "and로 연결된 동사는 같은 형태(can fly ... and avoid)로 맞춥니다."
+    "trap": "콜론 뒤라서 접속사 that이 자연스러워 보이지만 put in의 목적어가 비어 있습니다.",
+    "tip": "뒤 절에 목적어가 빠졌고 앞에 선행사가 없으면 what입니다."
   },
   {
     "id": "m3b-13-30",
     "level": "m3",
     "set": "mock-13",
+    "rev": 2,
     "no": 30,
     "type": "vocab",
     "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
-    "passage": "Ants are tiny, but together they achieve remarkable things. A single ant can do very little on its own, yet a colony behaves like a single, {1|careless} organism. Each ant follows simple rules, such as following the scent trails left by others. When one ant finds food, it leaves a chemical trail on its way back, and other ants {2|follow} the trail. The more ants use a trail, the stronger it becomes, so the shortest path quickly becomes the {3|busiest} one. If an obstacle blocks the path, the ants {4|adjust} within minutes and find a new route. Engineers have {5|applied} these ideas to design computer networks and delivery systems, which need to find efficient routes in the same way.",
+    "passage": "On a summer afternoon, a black roof can become hot enough to be painful to touch. A white one beside it stays far {1|warmer}, because it reflects much of the sunlight instead of soaking it up. Some cities have therefore encouraged owners to paint their roofs white or cover them with pale materials. The rooms underneath become more comfortable, and in buildings with air conditioners, less electricity is {2|required}. When many roofs in a district are changed, the streets around them may cool a little as well. The measure is attractive because it is cheap and quick. Its {3|limits} should be noted, however. In places with long cold winters, a dark roof's warmth is welcome, and a white one can increase the need for {4|heating}. Dirt also gradually dulls the surface, so the coating must be cleaned or renewed. White roofs are thus a useful tool whose value depends on where they are {5|used}.",
     "options": [
       "①",
       "②",
@@ -43,138 +45,143 @@
       "⑤"
     ],
     "answer": 0,
-    "translation": "개미는 작지만 함께하면 놀라운 일을 해낸다. 개미 한 마리는 혼자서 할 수 있는 일이 거의 없지만 군집은 하나의 정교한 유기체처럼 행동한다. 각 개미는 다른 개미가 남긴 냄새 흔적을 따르는 것 같은 단순한 규칙을 따른다. 한 개미가 먹이를 발견하면 돌아오는 길에 화학 흔적을 남기고 다른 개미들이 그 흔적을 따른다. 더 많은 개미가 한 길을 이용할수록 그 길은 강해지므로 가장 짧은 길이 금세 가장 붐비는 길이 된다. 장애물이 길을 막으면 개미들은 몇 분 안에 적응해 새 길을 찾는다. 기술자들은 같은 방식으로 효율적인 경로를 찾아야 하는 컴퓨터 네트워크와 배송 체계를 설계하는 데 이 아이디어를 적용해 왔다.",
-    "why": "군집이 놀라운 일을 해낸다는 흐름이므로 유기체는 '부주의한(careless)'이 아니라 '정교한(intelligent)'이어야 합니다.",
+    "translation": "여름 오후 검은 지붕은 만지면 아플 만큼 뜨거워질 수 있다. 옆의 흰 지붕은 햇빛을 흡수하는 대신 많이 반사하므로 훨씬 더 따뜻하게 유지된다. 그래서 일부 도시는 지붕을 희게 칠하거나 옅은 재료로 덮으라고 권했다. 아래의 방은 더 쾌적해지고, 냉방기가 있는 건물에서는 전기가 덜 필요하다. 한 지역의 많은 지붕을 바꾸면 주변 거리도 조금 시원해질 수 있다. 싸고 빠르므로 매력적인 조치이다. 그러나 한계에 주목해야 한다. 겨울이 길고 추운 곳에서는 어두운 지붕의 온기가 반갑고, 흰 지붕은 난방의 필요를 늘릴 수 있다. 때가 표면을 점차 흐리게 하므로 도장을 닦거나 새로 해야 한다. 흰 지붕은 이렇게 어디에 쓰느냐에 따라 가치가 달라지는 유용한 도구이다.",
+    "why": "햇빛을 반사하는 흰 지붕은 훨씬 '시원하게' 유지되므로 warmer는 부적절합니다. cooler여야 합니다.",
     "optionNotes": [
-      "정답(부적절). 놀라운 일을 해내는 군집이므로 intelligent여야 합니다.",
-      "흔적을 따른다는 의미로 follow가 알맞습니다.",
-      "가장 붐비는 길이라는 의미로 busiest가 알맞습니다.",
-      "적응한다는 의미로 adjust가 알맞습니다.",
-      "아이디어를 적용했다는 의미로 applied가 알맞습니다."
+      "정답(부적절). 흰 지붕은 더 시원합니다.",
+      "전기가 덜 '필요하다'는 required입니다.",
+      "'한계'에 주목해야 한다는 limits입니다.",
+      "'난방' 필요가 늘 수 있다는 heating입니다.",
+      "어디에 '쓰이는지'라는 used입니다."
     ],
-    "trap": "'tiny'만 보고 단점을 나타내는 형용사가 어울린다고 오해하기 쉽습니다.",
-    "tip": "앞 문장의 긍정적 흐름(remarkable things)과 방향이 일치하는지 확인하세요."
+    "trap": "첫 부분의 낱말은 because 이하를 끝까지 읽고 판단하세요.",
+    "tip": "'reflects much of the sunlight'의 결과를 생각하세요."
   },
   {
     "id": "m3b-13-31",
     "level": "m3",
     "set": "mock-13",
+    "rev": 2,
     "no": 31,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Many people think that memory works like a video camera, recording events exactly as they happen. But research shows that memory is more like a story that we rebuild each time we recall it. Every time we remember an event, the brain reconstructs it from small pieces, and small details can be changed by our current feelings or by what other people tell us. In one experiment, witnesses who were asked how fast cars were going when they smashed into each other guessed higher speeds than those who were asked about cars that hit each other. Some even remembered broken glass that was not there. These findings surprised many people. This shows that our memories are not perfect copies; rather, they are __________.",
+    "passage": "Which causes more deaths each year, shark attacks or falls at home? Put this way, most people answer correctly. In everyday life, however, our worries often do not follow the numbers. A shark attack is filmed, reported around the world, and replayed for days. A fall in a bathroom is a private misfortune that rarely reaches the news. Psychologists have noted that we tend to judge how likely an event is by how easily examples come to mind. The shortcut works reasonably well when what we remember reflects what actually happens. It fails when some events are shown far more often than others. The result can be that people avoid swimming in the sea while taking no care at all on a wet floor. This does not mean that dramatic dangers are imaginary. It means that how vivid a risk seems and __________ are two separate questions, and the second needs to be checked.",
     "options": [
-      "flexible reconstructions that can be changed by what we feel and hear",
-      "permanent recordings that never change",
-      "exact copies of events stored in the brain",
-      "pictures that are easier to recall than words",
-      "stronger when we try not to think about them"
+      "how often it actually happens to people like us",
+      "how loudly the news reports it",
+      "how frightened we feel about it",
+      "how long we remember the pictures",
+      "how many films have been made about it"
     ],
     "answer": 0,
-    "translation": "많은 사람은 기억이 비디오카메라처럼 사건을 일어난 그대로 기록한다고 생각한다. 그러나 연구는 기억이 떠올릴 때마다 다시 짓는 이야기에 더 가깝다고 보여 준다. 사건을 기억할 때마다 뇌는 작은 조각으로 그것을 재구성하며 작은 세부 사항은 현재의 감정이나 다른 사람들이 하는 말에 의해 바뀔 수 있다. 한 실험에서 자동차들이 서로 '박살 났을' 때 속도가 얼마였는지 질문받은 목격자들은 서로 '부딪쳤을' 때를 질문받은 사람들보다 더 높은 속도를 짐작했다. 일부는 있지도 않던 깨진 유리를 기억하기까지 했다. 이런 발견은 많은 사람을 놀라게 했다. 이는 우리의 기억이 완벽한 복사본이 아니라 우리가 느끼고 듣는 것에 의해 바뀔 수 있는 유연한 재구성임을 보여 준다.",
-    "why": "질문 표현에 따라 기억이 달라졌으므로 기억은 우리가 느끼고 듣는 것에 의해 바뀔 수 있는 유연한 재구성입니다.",
+    "translation": "해마다 상어 공격과 집 안 낙상 중 어느 것이 더 많은 사망을 낳을까? 이렇게 물으면 대부분 옳게 답한다. 그러나 일상에서 걱정은 흔히 숫자를 따르지 않는다. 상어 공격은 촬영되고 전 세계에 보도되며 며칠 동안 재생된다. 욕실 낙상은 좀처럼 뉴스에 나오지 않는 사적인 불운이다. 심리학자들은 우리가 사례가 얼마나 쉽게 떠오르는지로 사건의 가능성을 판단하는 경향이 있음을 지적했다. 기억하는 것이 실제 일어나는 것을 반영하면 이 지름길은 꽤 잘 작동한다. 어떤 사건이 다른 것보다 훨씬 자주 보이면 실패한다. 그 결과 사람들은 바다 수영을 피하면서 젖은 바닥에서는 전혀 조심하지 않을 수 있다. 극적인 위험이 상상이라는 뜻은 아니다. 위험이 얼마나 생생해 보이는가와 우리 같은 사람에게 실제로 얼마나 자주 일어나는가는 별개의 물음이며 두 번째는 확인이 필요하다는 뜻이다.",
+    "why": "생생함과 실제 빈도가 다르다는 글이므로 ①이 알맞습니다.",
     "optionNotes": [
-      "정답. 느끼고 듣는 것에 따라 바뀔 수 있는 재구성입니다.",
-      "영구 기록이라는 내용은 글과 반대입니다.",
-      "정확한 복사본이라는 내용은 글과 반대입니다.",
-      "그림이 말보다 떠올리기 쉽다는 내용은 나오지 않습니다.",
-      "생각하지 않을 때 강해진다는 내용은 나오지 않습니다."
+      "정답. 실제로 얼마나 자주 일어나는가입니다.",
+      "보도의 크기는 생생함에 속합니다.",
+      "두려움은 생생함에 속합니다.",
+      "기억의 지속은 생생함에 속합니다.",
+      "영화 수는 생생함에 속합니다."
     ],
-    "trap": "첫 문장의 통념(비디오카메라)을 결론으로 착각하지 마세요.",
-    "tip": "But 이후의 반론과 실험 결과가 빈칸의 단서입니다."
+    "trap": "②~⑤는 모두 '생생해 보임'과 같은 편의 내용입니다.",
+    "tip": "두 가지가 '별개'여야 하므로 vivid와 대비되는 것을 고르세요."
   },
   {
     "id": "m3b-13-32",
     "level": "m3",
     "set": "mock-13",
+    "rev": 2,
     "no": 32,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Social media is full of beautiful photos: perfect vacations, delicious meals, and smiling friends. When we scroll through these images, we may feel that everyone else is happier than we are. But this feeling is based on an unfair comparison. People usually share only their best moments and hide the boring or difficult parts of their lives. A friend's wonderful holiday photo may have taken hours to prepare and edit. Some people even take dozens of photos to choose just one. Researchers call these posts a highlight reel. In one survey, teenagers who spent several hours a day on social media were more likely to feel lonely and dissatisfied with their lives. Experts therefore advise us to remember that we are comparing our own ordinary days with other people's __________.",
+    "passage": "A research team tests whether a certain drink improves memory and finds that it does nothing. The report is likely to stay in a drawer. Journals have traditionally preferred results that show an effect, and researchers themselves may feel that nothing happened. Nobody else will hear about it. Now suppose that twenty teams in different countries try the same thing without knowing about one another. By chance alone, one of them may well find an improvement. If that single study is published and the other nineteen are not, readers will believe that the drink works. Each published number may be honest, yet the overall picture is badly wrong. To deal with this, some journals now agree to publish a study on the basis of its plan, before the results are known, and many medical trials must be registered in advance. These steps rest on a simple point: to judge whether something is true, we __________.",
     "options": [
-      "daily routines that are as boring as ours",
-      "secrets that they share only with their family",
-      "carefully selected best moments",
-      "complaints that they post when they are angry",
-      "homework assignments that they must submit"
+      "need only the study with the largest effect",
+      "should trust whatever appears in a famous journal",
+      "have to see the failures as well as the successes",
+      "must wait until one team repeats its own result",
+      "can ignore every experiment that found nothing"
     ],
     "answer": 2,
-    "translation": "소셜 미디어는 완벽한 휴가, 맛있는 음식, 웃는 친구들 같은 아름다운 사진으로 가득하다. 이런 이미지를 훑어볼 때 우리는 다른 모든 사람이 우리보다 더 행복하다고 느낄 수 있다. 그러나 이 느낌은 불공정한 비교에 바탕을 둔다. 사람들은 보통 가장 좋은 순간만 공유하고 지루하거나 힘든 부분은 숨긴다. 친구의 멋진 휴가 사진은 준비하고 편집하는 데 몇 시간이 걸렸을 수 있다. 일부는 한 장을 고르려고 수십 장을 찍기도 한다. 연구자들은 이런 게시물을 하이라이트 영상이라고 부른다. 한 조사에서 하루에 몇 시간씩 소셜 미디어를 쓰는 십대는 외롭고 삶에 불만족을 느낄 가능성이 더 높았다. 그래서 전문가들은 우리가 자신의 평범한 날들을 다른 사람들의 신중하게 고른 최고의 순간과 비교하고 있음을 기억하라고 조언한다.",
-    "why": "사람들은 가장 좋은 순간만 골라 공유하므로 우리는 평범한 날을 남의 신중하게 고른 최고의 순간과 비교하고 있습니다.",
+    "translation": "한 연구 팀이 어떤 음료가 기억을 높이는지 시험하고 아무 효과가 없음을 발견한다. 보고서는 서랍에 남기 쉽다. 학술지는 전통적으로 효과를 보인 결과를 선호했고 연구자 자신도 아무 일도 없었다고 느낄 수 있다. 다른 누구도 그 일을 듣지 못할 것이다. 이제 서로 모르는 여러 나라의 20개 팀이 같은 것을 시도한다고 하자. 우연만으로도 그중 하나는 향상을 발견할 수 있다. 그 한 연구만 발표되고 나머지 열아홉이 발표되지 않으면 독자는 음료가 통한다고 믿을 것이다. 발표된 수치는 정직해도 전체 그림은 크게 틀린다. 이에 대처하려고 일부 학술지는 이제 결과가 나오기 전 계획을 바탕으로 게재를 약속하고, 많은 의학 시험은 미리 등록해야 한다. 이 조치는 단순한 점에 바탕한다. 무언가가 참인지 판단하려면 성공뿐 아니라 실패도 보아야 한다.",
+    "why": "효과 없는 연구가 숨으면 그림이 왜곡되므로 실패도 보아야 한다는 ③이 알맞습니다.",
     "optionNotes": [
-      "남의 일상도 지루하다는 내용은 글과 반대입니다.",
-      "가족에게만 공유하는 비밀은 나오지 않습니다.",
-      "정답. 신중하게 고른 최고의 순간입니다.",
-      "화났을 때 올리는 불평은 나오지 않습니다.",
-      "숙제는 나오지 않습니다."
+      "가장 큰 효과 하나만 보면 왜곡됩니다.",
+      "발표된 것만 믿으면 왜곡됩니다.",
+      "정답. 실패도 함께 보아야 합니다.",
+      "자기 결과 반복만으로는 부족합니다.",
+      "효과 없는 실험을 무시하는 것이 문제입니다."
     ],
-    "trap": "'compare'만 보고 남의 일상을 비슷하게 평범하다고 생각하지 마세요.",
-    "tip": "highlight reel이라는 비유와 앞 문장(only their best moments)이 빈칸의 단서입니다."
+    "trap": "⑤는 글이 지적한 문제 그 자체입니다.",
+    "tip": "'twenty teams' 예시에서 빠진 것이 무엇인지 보세요."
   },
   {
     "id": "m3b-13-33",
     "level": "m3",
     "set": "mock-13",
+    "rev": 2,
     "no": 33,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Have you ever noticed that you understand a topic better after you explain it to someone else? Psychologists call this the protege effect. In one experiment, students who studied a text in order to teach it to a classmate remembered more details than students who studied the same text for a test. The first group organized the information more carefully and thought about how to make it clear. When they could not answer a question, they realized which parts they did not really understand. Students described the experience as surprisingly helpful. A similar effect has been found in many different subjects. For this reason, many teachers encourage students to study in pairs and take turns explaining. In short, explaining a topic to someone else helps us __________.",
+    "passage": "It is tempting to imagine that translating a book is like changing money: each word in one language is swapped for its equivalent in another. Anyone who has tried knows how quickly this breaks down. A single word may cover two ideas that another language keeps apart. A joke may depend on two words that happen to sound alike. A polite form of address may have no counterpart at all, and leaving it out changes how two characters seem to feel about each other. The translator must decide what to keep when not everything can be kept: the exact meaning, the rhythm, the humor, or the effect on the reader. Two skilled translators can therefore produce quite different versions of the same page, and neither need be mistaken. This is not a license to write whatever one likes, since the original sets firm limits. Within those limits, however, translation is less like exchange than like __________.",
     "options": [
-      "avoid hard questions during the next exam",
-      "finish studying in less time than usual",
-      "forget the details that we do not need",
-      "become more popular among our classmates",
-      "organize what we know and find the gaps in our own understanding"
+      "copying a picture by tracing every line",
+      "sorting words into boxes of equal size",
+      "checking spelling with a good dictionary",
+      "repeating a speech that one has memorized",
+      "writing the work again through many careful choices"
     ],
     "answer": 4,
-    "translation": "다른 사람에게 설명하고 나면 그 주제를 더 잘 이해하게 된다는 것을 알아챈 적이 있는가? 심리학자들은 이를 피보호자 효과라고 부른다. 한 실험에서 반 친구를 가르치려고 글을 공부한 학생들은 시험을 위해 같은 글을 공부한 학생들보다 더 많은 세부 사항을 기억했다. 첫 번째 집단은 정보를 더 신중하게 정리했고 어떻게 분명하게 만들지 생각했다. 질문에 답하지 못했을 때 그들은 자신이 정말로 이해하지 못하는 부분이 어디인지 깨달았다. 학생들은 그 경험이 놀랄 만큼 도움이 되었다고 설명했다. 비슷한 효과가 여러 다른 과목에서도 발견되었다. 이 때문에 많은 교사는 학생들이 짝을 지어 공부하며 번갈아 설명하도록 장려한다. 요컨대 다른 사람에게 주제를 설명하면 우리가 아는 것을 정리하고 우리 이해의 빈틈을 찾는 데 도움이 된다.",
-    "why": "가르치려고 공부한 학생들이 정보를 정리하고 모르는 부분을 깨달았으므로 설명은 아는 것을 정리하고 이해의 빈틈을 찾게 합니다.",
+    "translation": "책 번역은 환전 같아서 한 언어의 낱말이 다른 언어의 대응어와 맞바뀐다고 상상하고 싶어진다. 해 본 사람은 이것이 얼마나 빨리 무너지는지 안다. 한 낱말이 다른 언어가 나누어 두는 두 생각을 덮을 수 있다. 농담은 우연히 비슷하게 들리는 두 낱말에 달려 있을 수 있다. 정중한 호칭은 대응어가 전혀 없을 수 있고, 빼면 두 인물이 서로를 어떻게 느끼는지가 달라 보인다. 모든 것을 지킬 수 없을 때 번역자는 무엇을 지킬지 정해야 한다. 정확한 뜻, 리듬, 유머, 독자에게 주는 효과 중에서 말이다. 그래서 숙련된 두 번역자가 같은 쪽의 꽤 다른 판을 낼 수 있고 어느 쪽도 틀린 것은 아닐 수 있다. 원문이 단단한 한계를 정하므로 마음대로 써도 된다는 허가는 아니다. 그러나 그 한계 안에서 번역은 교환보다 많은 세심한 선택을 거쳐 작품을 다시 쓰는 것에 가깝다.",
+    "why": "무엇을 살릴지 선택해야 하므로 선택을 통해 다시 쓰는 것이라는 ⑤가 알맞습니다.",
     "optionNotes": [
-      "어려운 질문을 피한다는 내용은 나오지 않습니다.",
-      "공부 시간 단축은 나오지 않습니다.",
-      "필요 없는 세부 사항을 잊는다는 내용은 나오지 않습니다.",
-      "인기는 나오지 않습니다.",
-      "정답. 아는 것을 정리하고 이해의 빈틈을 찾습니다."
+      "선을 따라 그리는 것은 기계적 대응입니다.",
+      "낱말 분류는 교환에 가깝습니다.",
+      "맞춤법 확인이 아닙니다.",
+      "암송은 선택이 없습니다.",
+      "정답. 세심한 선택으로 다시 쓰는 것입니다."
     ],
-    "trap": "'finish in less time' 같은 효율 관련 선택지는 글에 근거가 없습니다.",
-    "tip": "앞 내용(organized the information, realized which parts they did not understand)이 빈칸의 단서입니다."
+    "trap": "①은 원문에 충실하다는 인상 때문에 고르기 쉽습니다.",
+    "tip": "'less like exchange than like ~'에서 교환과 대비되는 것을 고르세요."
   },
   {
     "id": "m3b-13-34",
     "level": "m3",
     "set": "mock-13",
+    "rev": 2,
     "no": 34,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "When a person points at something, dogs usually look in the direction of the finger. Chimpanzees and even wolves, which are closer relatives, often fail this simple test. Researchers believe that dogs developed this skill during thousands of years of living with humans. Puppies as young as nine weeks old can follow pointing gestures without any training. Dogs have lived alongside people for at least fifteen thousand years. Some trainers say that dogs also look at people's eyes to understand what they want. Wolves raised by humans still struggle with these tasks. Dogs can also read human facial expressions and tone of voice, and they respond differently to a happy voice and an angry voice. Some dogs can even learn the meaning of hundreds of words. These findings suggest that dogs have evolved to __________.",
+    "passage": "When army ants on the march come to a gap between two leaves, something remarkable can happen. The ants at the edge slow down, and others walk over them. Those underneath hold on, and soon a living bridge of linked bodies spans the space while the rest of the column streams across. No ant has drawn a plan, and no leader gives the order. Experiments suggest that each one follows very simple rules. Roughly speaking, an ant that finds itself being walked on stays put, and when the traffic over it stops, it gets up and moves on. Nothing more than this is needed. The bridge therefore grows where it is busy and falls apart when it is no longer needed. It even shifts position, balancing the shortcut it provides against the number of workers it ties up. The ants show how a group can produce a sensible, flexible structure even though __________.",
     "options": [
-      "hunt larger animals in groups without any help from humans",
-      "live longer than most other kinds of pets",
-      "read human gestures and emotions better than wolves do",
-      "learn human languages when they are young",
-      "recognize their own names in a mirror"
+      "a single very clever leader carefully directs every movement",
+      "each ant has studied the whole shape beforehand",
+      "none of its members understands the overall design",
+      "the members never touch or react to one another",
+      "the bridge stays in the same place for many years"
     ],
     "answer": 2,
-    "translation": "사람이 무언가를 가리키면 개는 보통 손가락 방향을 본다. 침팬지는 물론 더 가까운 친척인 늑대조차 이 간단한 검사에 자주 실패한다. 연구자들은 개가 인간과 함께 살아온 수천 년 동안 이 기술을 발달시켰다고 믿는다. 생후 아홉 주 된 강아지도 훈련 없이 가리키는 몸짓을 따를 수 있다. 개는 적어도 만 오천 년 동안 사람과 함께 살아왔다. 일부 훈련사는 개가 사람이 원하는 것을 이해하려고 눈도 쳐다본다고 말한다. 사람이 기른 늑대도 여전히 이런 과제를 어려워한다. 개는 또한 사람의 표정과 목소리 톤을 읽을 수 있고 즐거운 목소리와 화난 목소리에 다르게 반응한다. 일부 개는 수백 개 낱말의 뜻을 배울 수도 있다. 이런 발견은 개가 늑대보다 인간의 몸짓과 감정을 더 잘 읽도록 진화했음을 시사한다.",
-    "why": "늑대는 못하는 가리키기 이해와 표정·목소리 읽기를 개가 하므로 개는 늑대보다 인간의 몸짓과 감정을 더 잘 읽도록 진화했습니다.",
+    "translation": "행군 중인 군대개미가 두 잎 사이의 틈에 닿으면 놀라운 일이 일어날 수 있다. 가장자리의 개미가 느려지고 다른 개미들이 그 위를 걷는다. 밑에 있는 개미는 버티고, 곧 연결된 몸의 살아 있는 다리가 공간을 가로지르며 나머지 행렬이 건넌다. 어떤 개미도 설계도를 그리지 않았고 명령하는 우두머리도 없다. 실험은 각자가 아주 단순한 규칙을 따른다고 시사한다. 대략 말하면 자기 위로 누가 걷는 개미는 그대로 있고, 통행이 멈추면 일어나 떠난다. 이것 이상은 필요하지 않다. 그래서 다리는 붐비는 곳에서 자라고 더 필요 없으면 해체된다. 제공하는 지름길과 묶이는 일꾼 수를 저울질하며 위치를 옮기기까지 한다. 개미는 어떤 구성원도 전체 설계를 이해하지 못해도 집단이 분별 있고 유연한 구조를 만들 수 있음을 보여 준다.",
+    "why": "설계도도 우두머리도 없이 단순한 규칙으로 다리가 생기므로 ③이 알맞습니다.",
     "optionNotes": [
-      "인간의 도움 없이 사냥한다는 내용은 나오지 않습니다.",
-      "수명 비교는 나오지 않습니다.",
-      "정답. 늑대보다 인간의 몸짓과 감정을 잘 읽습니다.",
-      "언어 습득은 낱말 학습 정도만 나옵니다.",
-      "거울 인식은 나오지 않습니다."
+      "우두머리가 없다고 했습니다.",
+      "설계를 미리 공부하지 않습니다.",
+      "정답. 누구도 전체 설계를 모릅니다.",
+      "서로의 통행에 반응합니다.",
+      "필요 없으면 해체됩니다."
     ],
-    "trap": "'learn the meaning of hundreds of words'를 언어 습득(④)으로 확대하지 마세요.",
-    "tip": "침팬지·늑대와의 비교 결과가 빈칸의 직접적 단서입니다."
+    "trap": "①은 'no leader gives the order'와 반대입니다.",
+    "tip": "'No ant has drawn a plan'을 일반화한 선택지를 고르세요."
   },
   {
     "id": "m3b-13-35",
     "level": "m3",
     "set": "mock-13",
+    "rev": 2,
     "no": 35,
     "type": "irrelevant",
     "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
-    "passage": "Reading fiction does more than entertain us. ① Stories let us experience other people's lives, which strengthens our ability to understand their feelings. ② Readers of fiction often have a richer vocabulary, since novels use a wide range of words. ③ Following a complex plot also trains the brain to remember details and connect events. ④ Volcanoes are formed when hot melted rock rises through cracks in the Earth's crust. ⑤ For these reasons, many teachers recommend that students read at least one novel a month, even during busy school terms.",
+    "passage": "A public library lends books, but in many towns it has quietly become something more. Its doors are open to children, retired people, and those with nowhere else to go. It is one of the few indoor places where a person may sit for hours without being expected to buy anything. ① Students without a quiet room at home can find a table and a lamp there. ② People looking for work use the computers to fill out forms and send applications. Parents with small children come for story hours and meet other families. ③ On very hot or very cold days, some residents come simply because the building is comfortable and safe. ④ The earliest libraries kept their records on clay tablets that were stored on shelves or in baskets. ⑤ Librarians, for their part, often find themselves pointing visitors toward health services or language classes. None of this appears in the number of books that are borrowed each year.",
     "options": [
       "①",
       "②",
@@ -183,26 +190,27 @@
       "⑤"
     ],
     "answer": 3,
-    "translation": "소설을 읽는 것은 우리를 즐겁게 하는 것 이상이다. ① 이야기는 다른 사람의 삶을 경험하게 해 그들의 감정을 이해하는 능력을 키운다. ② 소설은 다양한 낱말을 쓰므로 소설 독자는 흔히 더 풍부한 어휘를 가진다. ③ 복잡한 줄거리를 따라가는 것은 또한 뇌가 세부 사항을 기억하고 사건을 연결하도록 훈련시킨다. ④ 화산은 뜨겁게 녹은 암석이 지각의 틈을 통해 올라올 때 만들어진다. ⑤ 이런 이유로 많은 교사는 바쁜 학기 중에도 학생들이 한 달에 소설을 한 권 이상 읽을 것을 권한다.",
-    "why": "글은 소설을 읽는 것의 이점을 이야기하는데 ④는 화산 형성에 관한 별개의 이야기입니다.",
+    "translation": "공공 도서관은 책을 빌려주지만 많은 마을에서 조용히 그 이상의 것이 되었다. 그 문은 아이, 은퇴한 사람, 달리 갈 곳 없는 사람에게 열려 있다. 무언가를 사야 한다는 기대 없이 몇 시간 앉아 있을 수 있는 몇 안 되는 실내 장소이다. ① 집에 조용한 방이 없는 학생은 거기서 책상과 등을 찾을 수 있다. ② 일자리를 찾는 사람은 컴퓨터로 서식을 작성하고 지원서를 보낸다. 어린아이를 둔 부모는 이야기 시간에 와서 다른 가족을 만난다. ③ 아주 덥거나 추운 날 어떤 주민은 건물이 편안하고 안전해서 온다. ④ 최초의 도서관은 선반이나 바구니에 보관한 점토판에 기록을 담았다. ⑤ 사서는 나름대로 방문객에게 보건 서비스나 어학 강좌를 안내하게 되는 일이 많다. 이 중 어느 것도 해마다 대출되는 책의 수에는 나타나지 않는다.",
+    "why": "글은 오늘날 도서관의 다양한 역할을 다루는데 ④는 고대 도서관의 기록 매체라 흐름에서 벗어납니다.",
     "optionNotes": [
-      "공감 능력이라는 이점입니다.",
-      "어휘력이라는 이점입니다.",
-      "기억력과 연결 능력이라는 이점입니다.",
-      "정답(무관). 화산 이야기라 관계가 없습니다.",
-      "결론 문장입니다."
+      "공부 공간의 역할입니다.",
+      "구직 지원의 역할입니다.",
+      "쉼터의 역할입니다.",
+      "정답. 고대 점토판은 무관합니다.",
+      "안내자의 역할입니다."
     ],
-    "trap": "'rock', 'cracks'처럼 일반 과학 소재 때문에 관련 있다고 착각하기 쉽습니다.",
-    "tip": "주제(소설 읽기의 이점)를 직접 뒷받침하지 않는 문장을 고르세요."
+    "trap": "'libraries'가 나온다고 현재 역할에 관한 것은 아닙니다.",
+    "tip": "주제(something more)와 시대가 맞는지 확인하세요."
   },
   {
     "id": "m3b-13-36",
     "level": "m3",
     "set": "mock-13",
+    "rev": 2,
     "no": 36,
     "type": "order",
     "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
-    "passage": "The Great Wall of China is often described as visible from space, but this is a myth. Astronauts have said that it is very difficult to see it with the naked eye. Many textbooks repeated this claim for decades. This myth is still repeated in many places.\n(A) From a distance of hundreds of kilometers, such a thin line blends in with the surrounding landscape and is hard to distinguish.\n(B) In contrast, cities at night, with their bright lights, are far easier to see from orbit. Airports and highways are also visible because of their lights.\n(C) The wall is long, but it is only about six meters wide at most, which is far narrower than a highway. In addition, its color is similar to that of the surrounding ground.",
+    "passage": "The web that billions of people now use began as an answer to a rather practical problem in one laboratory.\n(A) In 1989 a British scientist named Tim Berners-Lee, who worked there, wrote a proposal for linking documents on different computers so that a reader could jump from one to another. His manager is said to have noted that it was vague but exciting. At first, however, only a few people paid attention to the proposal.\n(B) By the end of 1990 he had built the first server and the first browser. In 1993 the laboratory announced that anyone could use the underlying technology without paying fees, a decision that helped it to spread around the world. Few inventions have changed daily life so quickly.\n(C) At CERN, a center for physics research in Switzerland, thousands of scientists came and went. They used different kinds of computers, and information was easily lost when people left or could not be read on another system.",
     "options": [
       "(A)-(C)-(B)",
       "(B)-(A)-(C)",
@@ -211,26 +219,27 @@
       "(C)-(B)-(A)"
     ],
     "answer": 3,
-    "translation": "만리장성은 우주에서 보인다고 흔히 묘사되지만 이는 잘못된 통념이다. 우주비행사들은 맨눈으로 그것을 보기가 매우 어렵다고 말했다. 많은 교과서가 수십 년 동안 이 주장을 되풀이했다. 이 잘못된 통념은 아직도 여러 곳에서 되풀이된다. (C) 성벽은 길지만 폭은 기껏해야 약 6미터로 고속도로보다 훨씬 좁다. 게다가 성벽의 색은 주변 땅의 색과 비슷하다. (A) 수백 킬로미터 떨어진 곳에서는 그렇게 가는 선이 주변 풍경에 섞여 구별하기 어렵다. (B) 반면 밝은 불빛이 있는 밤의 도시는 궤도에서 훨씬 쉽게 보인다. 공항과 고속도로도 불빛 때문에 보인다.",
-    "why": "(C) 폭이 좁다는 이유 → (A) 'such a thin line'으로 멀리서 구별이 어려움 → (B) 'In contrast'로 쉽게 보이는 도시 순서입니다.",
+    "translation": "지금 수십억 명이 쓰는 웹은 한 연구소의 꽤 현실적인 문제에 대한 답으로 시작했다. (C) 스위스의 물리학 연구 센터 CERN에는 수천 명의 과학자가 오갔다. 서로 다른 종류의 컴퓨터를 썼고, 사람이 떠나면 정보가 쉽게 사라지거나 다른 체계에서 읽을 수 없었다. (A) 1989년 그곳에서 일하던 영국 과학자 팀 버너스리는 독자가 한 문서에서 다른 문서로 건너뛸 수 있도록 서로 다른 컴퓨터의 문서를 연결하자는 제안서를 썼다. 상사는 모호하지만 흥미롭다고 적었다고 한다. 그러나 처음에는 몇 사람만 그 제안에 주목했다. (B) 1990년 말까지 그는 첫 서버와 첫 브라우저를 만들었다. 1993년 연구소는 누구나 요금 없이 기반 기술을 쓸 수 있다고 발표했고, 이 결정이 전 세계 확산을 도왔다. 일상을 그렇게 빨리 바꾼 발명은 드물다.",
+    "why": "(C) 문제 상황 → (A) 제안 → (B) 구현과 공개 순서입니다.",
     "optionNotes": [
-      "(A)의 'such a thin line'이 가리킬 대상이 앞에 없습니다.",
-      "(B)의 'In contrast'가 대조할 앞 내용이 없습니다.",
-      "(B)가 먼저 오면 대조 대상이 불분명합니다.",
-      "정답. 이유 → 결과 → 대조.",
-      "(B)가 (A) 앞에 오면 'such a thin line'의 설명이 뒤로 밀립니다."
+      "(A)의 'there'는 (C)의 CERN 뒤여야 합니다.",
+      "(B)의 'he'가 가리킬 사람이 없습니다.",
+      "(B)가 처음에 올 수 없습니다.",
+      "정답. 문제 → 제안 → 실현입니다.",
+      "(B)의 'he'는 (A)에서 소개된 뒤여야 합니다."
     ],
-    "trap": "(A)의 'such a thin line'은 (C)에서 말한 좁은 폭을 가리킵니다.",
-    "tip": "such a thin line, In contrast 같은 지시어와 연결어를 확인하세요."
+    "trap": "(A)의 'who worked there'의 there를 확인하세요.",
+    "tip": "장소와 인물이 처음 소개되는 단락의 순서를 보세요."
   },
   {
     "id": "m3b-13-37",
     "level": "m3",
     "set": "mock-13",
+    "rev": 2,
     "no": 37,
     "type": "order",
     "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
-    "passage": "Few people notice how much color influences their decisions in a store. Retailers know this very well and use it carefully. A cheerful color can make a product look friendlier. Even small changes in packaging colors can change sales.\n(A) In contrast, luxury brands often choose black, gold, or white to create an atmosphere of quality and elegance, which makes customers willing to pay more. Blue is common among banks and technology companies, as it suggests trust.\n(B) For example, many fast-food restaurants use red and yellow in their signs and walls, because these colors attract attention and stimulate appetite. Red is also used in sales signs.\n(C) Therefore, the next time you feel drawn to a product, ask yourself whether it is the item itself or its color that attracts you.",
+    "passage": "One of the most famous discoveries about learning came from a scientist who was not looking for it.\n(A) He and his assistants noticed, however, that the dogs often began to drool before any food reached their mouths. This was a nuisance at first, since it disturbed the measurements. The sight of the person who usually fed them, or even the sound of footsteps, was enough.\n(B) Around the beginning of the twentieth century, Ivan Pavlov was studying digestion in Russia. As part of this work, he measured how much saliva dogs produced when food was placed in their mouths. To collect it, he and his team had developed careful methods for working with the animals.\n(C) Pavlov decided to examine this more carefully. He repeatedly presented a sound just before the food, and after a number of pairings the sound alone made the dogs drool. They had learned that one thing signaled another. Pavlov spent many later years studying how such links are formed and lost.",
     "options": [
       "(A)-(C)-(B)",
       "(B)-(A)-(C)",
@@ -239,26 +248,27 @@
       "(C)-(B)-(A)"
     ],
     "answer": 1,
-    "translation": "상점에서 색이 자신의 결정에 얼마나 영향을 미치는지 알아채는 사람은 거의 없다. 소매업자들은 이를 매우 잘 알고 신중하게 이용한다. 밝은 색은 제품을 더 친근해 보이게 할 수 있다. 포장 색의 작은 변화만으로도 판매가 달라질 수 있다. (B) 예를 들어 많은 패스트푸드 식당은 빨강과 노랑이 주의를 끌고 식욕을 자극하므로 간판과 벽에 이 색을 쓴다. 빨강은 할인 표지에도 쓰인다. (A) 반면 고급 브랜드는 흔히 검정, 금색, 흰색을 골라 품질과 우아함의 분위기를 만들며 이는 고객이 더 기꺼이 돈을 쓰게 한다. 파랑은 신뢰를 나타내므로 은행과 기술 기업에서 흔하다. (C) 그러므로 다음에 어떤 제품에 끌린다고 느끼면 당신을 끄는 것이 제품 자체인지 그 색인지 자문해 보라.",
-    "why": "(B) 'For example'로 첫 사례 → (A) 'In contrast'로 대조되는 사례 → (C) 'Therefore'로 결론 순서입니다.",
+    "translation": "학습에 관한 가장 유명한 발견 중 하나는 그것을 찾고 있지 않던 과학자에게서 나왔다. (B) 20세기 초 무렵 이반 파블로프는 러시아에서 소화를 연구하고 있었다. 그 일환으로 개의 입에 음식을 넣었을 때 침이 얼마나 나오는지 쟀다. 침을 모으려고 그와 팀은 동물을 다루는 세심한 방법을 개발해 두었다. (A) 그런데 그와 조수들은 음식이 입에 닿기도 전에 개가 침을 흘리기 시작하는 일이 잦음을 알아챘다. 측정을 방해했기 때문에 처음에는 골칫거리였다. 평소 먹이를 주던 사람의 모습이나 발소리만으로도 충분했다. (C) 파블로프는 이를 더 자세히 조사하기로 했다. 음식 직전에 소리를 거듭 들려주었고, 여러 번 짝지은 뒤에는 소리만으로 개가 침을 흘렸다. 개는 하나가 다른 것의 신호임을 배운 것이다. 파블로프는 이후 여러 해를 그런 연결이 어떻게 생기고 사라지는지 연구하며 보냈다.",
+    "why": "(B) 소화 연구 → (A) 뜻밖의 관찰 → (C) 실험 순서입니다.",
     "optionNotes": [
-      "(A)의 'In contrast'가 대조할 앞 사례가 없습니다.",
-      "정답. 사례 → 대조 사례 → 결론.",
-      "(C)의 'Therefore'가 근거 없이 앞서 나옵니다.",
-      "(C)가 먼저 오면 결론이 사례보다 앞서 어색합니다.",
-      "(C)가 먼저 오면 결론이 사례보다 앞서 어색합니다."
+      "(A)의 'He'가 가리킬 사람이 없습니다.",
+      "정답. 연구 → 관찰 → 검증입니다.",
+      "(C)의 'this'는 (A)의 관찰 뒤여야 합니다.",
+      "(C)가 처음에 오면 'this'의 대상이 없습니다.",
+      "(C)가 처음에 올 수 없습니다."
     ],
-    "trap": "(A)의 'In contrast'는 (B)의 패스트푸드 색과 대비됩니다.",
-    "tip": "For example → In contrast → Therefore의 논리 연결어를 따라가세요."
+    "trap": "(C)의 'examine this'는 (A)의 현상을 가리킵니다.",
+    "tip": "원래 연구 → 우연한 발견 → 확인 실험의 흐름입니다."
   },
   {
     "id": "m3b-13-38",
     "level": "m3",
     "set": "mock-13",
+    "rev": 2,
     "no": 38,
     "type": "insert",
     "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
-    "passage": "[주어진 문장]\nOctopuses are among the most unusual animals in the ocean.\n\n[글]\n( ① ) They have three hearts, blue blood, and no bones at all. ( ② ) Because their bodies are soft, they can squeeze through holes no bigger than a coin, which helps them escape from predators and enter narrow caves. ( ③ ) To protect themselves, they can change color within a second to blend into their surroundings. ( ④ ) When this fails, they shoot a cloud of dark ink to confuse the attacker and then swim away. ( ⑤ ) Scientists also admire their intelligence, since they can solve puzzles and even use tools.",
+    "passage": "[주어진 문장]\nThe explanation lies in the two kinds of light sensors at the back of the eye.\n\n[글]\nGardeners sometimes notice that red flowers, so bright at noon, seem to turn almost black at dusk, while green leaves stay visible. Nothing about the flowers has changed; what has changed is the way we see them. ( ① ) One kind, called cones, works well in strong light and allows us to tell colors apart. ( ② ) The other, called rods, is far more sensitive and takes over when light is weak, but it cannot distinguish colors. ( ③ ) Rods also respond poorly to long red wavelengths and better to blue-green ones. Leaves, whose color is closer to what the rods prefer, seem relatively bright. ( ④ ) As evening comes and the work passes from cones to rods, reds therefore darken first. You can watch it happen by sitting outside for half an hour at sunset. ( ⑤ ) A nineteenth-century scientist, Jan Purkinje, described the change, and it still bears his name. Pilots make use of a related fact, working under dim red light to protect their night vision.",
     "options": [
       "①",
       "②",
@@ -267,26 +277,27 @@
       "⑤"
     ],
     "answer": 0,
-    "translation": "[주어진 문장] 문어는 바다에서 가장 독특한 동물 중 하나이다. [글] 그들은 심장이 세 개이고 피가 푸른색이며 뼈가 전혀 없다. 몸이 부드러워서 동전보다 크지 않은 구멍도 비집고 지나갈 수 있어 포식자를 피하고 좁은 동굴에 들어가는 데 도움이 된다. 자신을 보호하려고 일 초 안에 색을 바꿔 주변에 섞일 수 있다. 이것이 실패하면 공격자를 혼란스럽게 하려고 짙은 먹물 구름을 뿜고 헤엄쳐 달아난다. 과학자들은 또한 퍼즐을 풀고 도구까지 쓸 수 있는 그들의 지능에 감탄한다.",
-    "why": "'They'가 가리키는 문어가 먼저 소개되어야 하므로 주어진 문장은 ①에 들어갑니다.",
+    "translation": "[주어진 문장] 설명은 눈 뒤쪽의 두 종류의 빛 감지기에 있다. [글] 정원사는 때때로 정오에 그렇게 선명하던 빨간 꽃이 해 질 녘에는 거의 검게 변하는 듯하고 녹색 잎은 계속 보이는 것을 알아챈다. 꽃은 아무것도 변하지 않았고 변한 것은 우리가 보는 방식이다. 원뿔 세포라는 한 종류는 강한 빛에서 잘 작동하며 색을 구별하게 한다. 막대 세포라는 다른 종류는 훨씬 민감해 빛이 약할 때 넘겨받지만 색을 구별하지 못한다. 막대 세포는 긴 빨강 파장에는 잘 반응하지 않고 청록에 더 잘 반응한다. 막대 세포가 선호하는 색에 더 가까운 잎은 비교적 밝아 보인다. 저녁이 되어 일이 원뿔 세포에서 막대 세포로 넘어가면 빨강이 먼저 어두워진다. 해 질 때 30분쯤 밖에 앉아 있으면 그것이 일어나는 것을 볼 수 있다. 19세기 과학자 얀 푸르키녜가 이 변화를 묘사했고 지금도 그의 이름이 붙어 있다. 조종사는 관련된 사실을 이용해 야간 시력을 지키려고 어두운 붉은빛 아래에서 일한다.",
+    "why": "현상 뒤에 '설명은 두 감지기에 있다'고 하고, 다음 문장의 'One kind'가 이를 받으므로 ①입니다.",
     "optionNotes": [
-      "정답. 문어를 소개한 뒤 'They'로 이어집니다.",
-      "'They'의 지시 대상이 이미 나온 뒤라 소개로 어색합니다.",
-      "보호 방법 설명 도중이라 어색합니다.",
-      "먹물 설명 도중이라 어색합니다.",
-      "지능 설명 앞에서 소개하면 흐름이 끊깁니다."
+      "정답. 'One kind'가 두 감지기를 받습니다.",
+      "'One kind'가 먼저 나와 대상이 없습니다.",
+      "두 종류를 다 설명한 뒤에는 늦습니다.",
+      "파장 설명 뒤에는 늦습니다.",
+      "결론 뒤에는 어색합니다."
     ],
-    "trap": "'unusual'이 ① 이후 특징들과 연결된다는 점을 놓치지 마세요.",
-    "tip": "대명사(They)가 처음 나오는 문장 앞에는 그 대상을 소개하는 문장이 옵니다."
+    "trap": "②에 넣으면 ① 뒤의 'One kind'가 가리킬 대상이 없습니다.",
+    "tip": "'One kind ... The other ~'는 'two kinds'가 먼저 나와야 합니다."
   },
   {
     "id": "m3b-13-39",
     "level": "m3",
     "set": "mock-13",
+    "rev": 2,
     "no": 39,
     "type": "insert",
     "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
-    "passage": "[주어진 문장]\nHowever, this increase caused an unexpected problem in the town.\n\n[글]\n( ① ) In 2015, the small coastal town of Sunmi became popular among tourists after a famous singer filmed a music video there. ( ② ) Visitors poured in from all over the country, and local shops and restaurants earned more money than ever before. ( ③ ) Many residents were delighted, and some even opened new businesses. ( ④ ) Narrow streets became so crowded that ambulances had difficulty passing through. ( ⑤ ) The town government eventually limited the number of cars allowed in the center.",
+    "passage": "[주어진 문장]\nThey turned out to be only the first of thousands of life-sized figures buried in rows.\n\n[글]\n( ① ) In 1974 farmers near the Chinese city of Xi'an were digging a well during a dry spring. They hoped to find water for their thirsty fields. ( ② ) Instead of water, their tools struck pieces of baked clay, including what looked like a human head. The farmers had no idea what they had found. ( ③ ) Officials and archaeologists soon arrived and began to dig with great care. ( ④ ) The soldiers, with their different faces and hairstyles, had been made to guard the tomb of China's first emperor, who died more than two thousand years ago. Near them lay clay horses, the remains of wooden chariots, and real bronze weapons. ( ⑤ ) Much of the site is still unexcavated, partly because scientists fear that colors and materials could be damaged by air. The emperor's own burial mound, which stands nearby, has not been opened. Visitors today can look down on long pits filled with the standing figures.",
     "options": [
       "①",
       "②",
@@ -295,44 +306,45 @@
       "⑤"
     ],
     "answer": 3,
-    "translation": "[주어진 문장] 그러나 이 증가는 마을에 예상치 못한 문제를 일으켰다. [글] 2015년 작은 해안 마을 선미는 유명한 가수가 그곳에서 뮤직비디오를 찍은 뒤 관광객에게 인기를 얻었다. 방문객이 전국에서 몰려들었고 지역 상점과 식당은 어느 때보다 많은 돈을 벌었다. 많은 주민이 기뻐했고 일부는 새 사업을 열기도 했다. 좁은 거리는 너무 붐벼서 구급차가 지나가기 어려웠다. 마을 정부는 결국 중심가에 들어올 수 있는 차량 수를 제한했다.",
-    "why": "방문객 증가로 인한 긍정적 결과를 설명한 뒤 'However'로 문제를 제기하고, 곧이어 구체적 문제(구급차)가 나오므로 ④에 들어갑니다.",
+    "translation": "[주어진 문장] 그것들은 줄지어 묻힌 실물 크기 형상 수천 개 중 첫 번째에 불과한 것으로 드러났다. [글] 1974년 중국 시안 근처의 농부들이 가문 봄에 우물을 파고 있었다. 목마른 밭에 댈 물을 찾으려던 것이었다. 물 대신 도구는 사람 머리처럼 보이는 것을 포함한 구운 흙 조각에 부딪혔다. 농부들은 자신들이 무엇을 발견했는지 전혀 몰랐다. 관리와 고고학자들이 곧 도착해 아주 조심스럽게 파기 시작했다. 얼굴과 머리 모양이 서로 다른 병사들은 2천여 년 전 죽은 중국 첫 황제의 무덤을 지키도록 만들어졌다. 그 곁에는 흙으로 빚은 말, 나무 전차의 잔해, 진짜 청동 무기가 놓여 있었다. 색과 재료가 공기에 손상될 것을 과학자들이 걱정하는 까닭도 있어 유적의 많은 부분은 아직 발굴되지 않았다. 근처에 있는 황제의 봉분은 열리지 않았다. 오늘날 방문객은 서 있는 형상으로 가득한 긴 구덩이를 내려다볼 수 있다.",
+    "why": "발굴 시작(③ 문장) 뒤에 '그것들은 수천 개의 첫 번째였다'고 하고, 이어 'The soldiers'가 그 형상을 받으므로 ④입니다.",
     "optionNotes": [
-      "'this increase'가 가리킬 증가가 아직 나오지 않았습니다.",
-      "증가가 막 시작되는 단계라 문제를 말하기 이릅니다.",
-      "긍정적 결과를 설명하는 도중이라 반전이 이릅니다.",
-      "정답. 긍정적 결과 뒤 반전 문장이고 문제의 구체적 설명이 이어집니다.",
-      "문제가 이미 나온 뒤라 어색합니다."
+      "'They'가 가리킬 것이 없습니다.",
+      "흙 조각이 나오기 전입니다.",
+      "발굴 전이라 '드러났다'고 할 수 없습니다.",
+      "정답. 발굴 → 규모 확인 → 병사의 정체입니다.",
+      "병사 설명 뒤에는 순서가 거꾸로입니다."
     ],
-    "trap": "'this increase'는 방문객과 수입의 증가를 가리킨다는 점을 놓치지 마세요.",
-    "tip": "However는 긍정적 내용 뒤에서 문제를 제기하는 자리에 들어갑니다."
+    "trap": "③에 넣으면 파기도 전에 수천 개임이 드러난 것이 됩니다.",
+    "tip": "'The soldiers'라는 말은 형상이 먼저 소개되어야 자연스럽습니다."
   },
   {
     "id": "m3b-13-40",
     "level": "m3",
     "set": "mock-13",
+    "rev": 2,
     "no": 40,
     "type": "summary",
     "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Researchers tracked the sleep patterns and exam results of five hundred high school students for one semester. Students who slept at least eight hours a night scored on average ten points higher on exams than those who slept six hours or less. The researchers explained that sleep helps the brain store memories and keeps attention sharp during class. The group that slept less also reported more stress and lower motivation. The students came from twelve different schools, and parents also said that their children seemed happier. Some students who started sleeping earlier during the study saw their scores rise in just a few weeks. The researchers concluded that sleep is as important as studying itself. The study was repeated the following year with similar results.\n\n▶ Getting (A) sleep (B) students' exam performance.",
+    "passage": "In the 1970s two psychologists carried out a study in a home for elderly people. Residents on one floor heard a talk stressing that they were responsible for their own lives. They were asked to decide how to arrange their rooms and when to see a film, and each was invited to choose a small plant and take care of it. Residents on another floor heard a warm talk saying that the staff would take good care of them. They too received plants, but were told that the nurses would water them, and the film schedule was fixed for them. A few weeks later, those in the first group were reported to be more active, more cheerful, and more likely to join in events. The study was small, and later researchers have been careful about how far to generalize it. Yet it drew attention to a point that kindness can miss: doing everything for people may take something from them.\n\n▶ Elderly residents who were given more (A) over daily matters tended to become more (B) than those for whom things were decided.",
     "options": [
-      "(A) little — (B) improves",
-      "(A) irregular — (B) doubles",
-      "(A) extra — (B) ignores",
-      "(A) deep — (B) replaces",
-      "(A) enough — (B) improves"
+      "(A) help — (B) quiet",
+      "(A) money — (B) active",
+      "(A) control — (B) lonely",
+      "(A) advice — (B) careful",
+      "(A) control — (B) active"
     ],
     "answer": 4,
-    "translation": "연구자들은 한 학기 동안 고등학생 오백 명의 수면 양상과 시험 결과를 추적했다. 밤에 적어도 여덟 시간 잔 학생들은 여섯 시간 이하로 잔 학생들보다 시험에서 평균 십 점 높은 점수를 받았다. 연구자들은 수면이 뇌가 기억을 저장하도록 돕고 수업 중 주의력을 날카롭게 유지해 준다고 설명했다. 적게 잔 집단은 또한 더 많은 스트레스와 낮은 동기를 보고했다. 학생들은 열두 개 학교에서 왔고 부모들도 자녀가 더 행복해 보인다고 말했다. 연구 중 더 일찍 자기 시작한 일부 학생은 몇 주 만에 점수가 올랐다. 연구자들은 수면이 공부 자체만큼 중요하다고 결론지었다. 이 연구는 이듬해에 반복되어 비슷한 결과를 얻었다. ▶ (A) 수면을 취하는 것은 학생의 시험 성적을 (B)한다.",
-    "why": "여덟 시간 이상 충분히 잔 학생의 성적이 높았으므로 (A)는 enough, (B)는 improves입니다.",
+    "translation": "1970년대에 두 심리학자가 노인 요양원에서 연구를 했다. 한 층의 입주자는 자기 삶에 책임이 있다고 강조하는 이야기를 들었다. 방을 어떻게 꾸밀지, 언제 영화를 볼지 정하게 하고 각자 작은 화분을 골라 돌보라고 권했다. 다른 층은 직원이 잘 돌봐 주겠다는 따뜻한 이야기를 들었다. 그들도 화분을 받았지만 간호사가 물을 준다고 들었고 영화 일정은 정해져 있었다. 몇 주 뒤 첫 집단이 더 활동적이고 쾌활하며 행사에 더 잘 참여한다고 보고되었다. 연구는 작았고 후대 연구자는 어디까지 일반화할지 조심해 왔다. 그러나 친절이 놓칠 수 있는 점에 주목하게 했다. 사람을 위해 모든 것을 해 주는 것은 무언가를 빼앗을 수 있다. ▶ 일상의 일에 더 많은 통제권을 받은 노인은 결정을 대신 받은 이보다 더 활동적이 되는 경향이 있었다.",
+    "why": "스스로 결정하게 한(control) 집단이 더 활동적(active)이었으므로 ⑤입니다.",
     "optionNotes": [
-      "little을 넣으면 성적이 오른다는 모순이 생깁니다.",
-      "irregular와 doubles는 글에 나오지 않습니다.",
-      "extra와 ignores는 글에 나오지 않습니다.",
-      "deep과 replaces는 글에 나오지 않습니다.",
-      "정답. 충분한 수면이 성적을 향상시킵니다."
+      "도움을 더 받은 것이 아닙니다.",
+      "돈은 나오지 않습니다.",
+      "(B)가 반대입니다.",
+      "조언이 핵심이 아닙니다.",
+      "정답. 통제권과 활동성입니다."
     ],
-    "trap": "(A)와 (B)가 서로 어울리는 조합인지(원인-결과) 확인하세요.",
-    "tip": "요약문은 조건(충분한 수면)과 결과(성적 향상)를 짝지으세요."
+    "trap": "③은 (A)만 맞는 함정입니다.",
+    "tip": "두 층의 차이(결정권)와 결과(more active)를 찾으세요."
   }
 ]
