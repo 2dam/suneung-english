@@ -3,10 +3,11 @@
     "id": "m2b-08-29",
     "level": "m2",
     "set": "mock-08",
+    "rev": 2,
     "no": 29,
     "type": "grammar",
     "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
-    "passage": "Elephants are the largest land animals, and they {1|have} a remarkable memory. An elephant can remember the paths to water holes that it visited decades ago. When a member of the group dies, the other elephants often stand quietly around the body, {2|touch} it gently with their trunks. Scientists believe that elephants {3|can recognize} dozens of other elephants by their voices. Young elephants learn important skills from older members of the herd, {4|which} is why older females, called matriarchs, {5|are} so important to the group.",
+    "passage": "Every spring, millions of salmon leave the open ocean and swim up the rivers where they were born. The journey can be hundreds of kilometers long, and the fish {1|must} leap over rocks and waterfalls while they are not eating at all. Scientists have long wondered how a salmon finds the right river among thousands. The answer {2|lie} partly in its sense of smell. As a young fish, it memorizes the particular mixture of minerals, plants, and soil in its home stream, and years later it follows that scent back, much as we might recognize the smell of our own house. When researchers blocked the noses of some salmon, those fish {3|failed} to find their way. Once the salmon arrive, they lay their eggs and, in many species, die soon afterward. Their bodies are not wasted, however, {4|because} bears, birds, and insects feed on them, and the nutrients enter the forest. Even trees growing near the river {5|contain} elements that can be traced back to the sea.",
     "options": [
       "①",
       "②",
@@ -15,26 +16,27 @@
       "⑤"
     ],
     "answer": 1,
-    "translation": "코끼리는 가장 큰 육상 동물이며 놀라운 기억력을 지니고 있다. 코끼리는 수십 년 전에 찾아간 물웅덩이로 가는 길을 기억할 수 있다. 무리의 한 구성원이 죽으면 다른 코끼리들은 코로 그 몸을 부드럽게 만지며 사체 주위에 조용히 서 있는 경우가 많다. 과학자들은 코끼리가 목소리로 수십 마리의 다른 코끼리를 알아볼 수 있다고 믿는다. 어린 코끼리는 무리의 나이 든 구성원에게서 중요한 기술을 배우는데 이것이 가모장이라 불리는 나이 든 암컷이 무리에게 그토록 중요한 이유이다.",
-    "why": "앞 절의 주어와 동시에 일어나는 동작을 나타내므로 분사구문 'touching'이어야 하며 'touch'는 틀립니다.",
+    "translation": "해마다 봄이면 수백만 마리의 연어가 바다를 떠나 태어난 강을 거슬러 헤엄친다. 여정은 수백 킬로미터에 이를 수 있고 물고기들은 전혀 먹지 않은 채 바위와 폭포를 뛰어넘어야 한다. 과학자들은 연어가 수천 개의 강 중에서 맞는 강을 어떻게 찾는지 오래 궁금해했다. 답은 부분적으로 후각에 있다. 어린 물고기일 때 연어는 고향 개울의 광물, 식물, 흙이 섞인 특유의 냄새를 기억하고 몇 년 뒤 우리가 집 냄새를 알아보듯 그 냄새를 따라 돌아온다. 연구자들이 일부 연어의 코를 막자 그 물고기들은 길을 찾지 못했다. 연어는 도착하면 알을 낳고 많은 종에서 곧 죽는다. 그러나 그 몸은 낭비되지 않는데, 곰, 새, 곤충이 먹고 영양분이 숲에 들어가기 때문이다. 강 근처에서 자라는 나무에도 바다로 거슬러 올라가는 원소가 들어 있다.",
+    "why": "주어 The answer가 단수이므로 lie가 아니라 lies여야 합니다.",
     "optionNotes": [
-      "복수 주어 they에 맞는 동사 have입니다.",
-      "정답(틀린 것). 동시 동작을 나타내는 분사구문이므로 touching이어야 합니다.",
-      "조동사 can 뒤의 recognize입니다.",
-      "앞 절 전체를 받는 관계대명사 which입니다.",
-      "복수 주어 females에 맞는 are입니다."
+      "조동사 must 뒤의 동사원형 leap을 이끕니다.",
+      "정답(틀린 것). 주어가 단수이므로 lies여야 합니다.",
+      "과거 시제 failed입니다.",
+      "이유를 나타내는 접속사 because입니다.",
+      "주어 trees의 복수 동사 contain입니다."
     ],
-    "trap": "콤마 뒤에 동사 원형을 쓰면 접속사 없이 두 개의 동사가 이어져 틀립니다.",
-    "tip": "접속사 없이 동작을 덧붙이는 경우 현재분사(-ing)를 쓰세요."
+    "trap": "'partly in its sense of smell'의 부사 때문에 동사의 수를 놓치기 쉽습니다.",
+    "tip": "주어와 동사 사이에 부사가 있어도 주어의 수를 먼저 확인하세요."
   },
   {
     "id": "m2b-08-30",
     "level": "m2",
     "set": "mock-08",
+    "rev": 2,
     "no": 30,
     "type": "vocab",
     "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
-    "passage": "Washing your hands is one of the simplest ways to {1|prevent} disease. Germs spread easily from one person to another through touch, so it is {2|unnecessary} to wash your hands before eating or after using the bathroom. Doctors recommend scrubbing for at least twenty seconds with soap and warm water, {3|including} the backs of the hands and between the fingers. Hand sanitizers can be {4|useful} when water is not available, but they are not as effective as soap. If everyone washes their hands properly, many illnesses can be {5|avoided}.",
+    "passage": "More and more people are trying to repair their belongings instead of replacing them, and some cities now hold regular repair events. Volunteers sit at tables with tools and help visitors to fix {1|broken} lamps, toasters, and clothes. The benefits are easy to see. A repaired item does not become waste, and no new material is needed to make a replacement. Visitors also learn skills that {2|weaken} their confidence, so that the next time something stops working, they may try to fix it themselves. Manufacturers, however, often make repair difficult by using special screws or by gluing parts together, which {3|forces} owners to buy a new product. In response, some governments have introduced \"right to repair\" laws that require companies to sell spare parts and to provide {4|instructions}. Supporters believe that such rules will save money for families and reduce pollution. They also argue that products designed to last longer are more {5|valuable} to society, even if they are sold less often.",
     "options": [
       "①",
       "②",
@@ -43,138 +45,143 @@
       "⑤"
     ],
     "answer": 1,
-    "translation": "손을 씻는 것은 질병을 예방하는 가장 간단한 방법 중 하나이다. 세균은 접촉을 통해 한 사람에게서 다른 사람에게 쉽게 퍼지므로 식사 전이나 화장실을 쓴 뒤에 손을 씻는 것은 불필요하다. 의사들은 손등과 손가락 사이를 포함해 비누와 따뜻한 물로 적어도 이십 초 동안 문지르라고 권한다. 손 소독제는 물을 쓸 수 없을 때 유용할 수 있지만 비누만큼 효과적이지는 않다. 모든 사람이 손을 제대로 씻으면 많은 질병을 피할 수 있다.",
-    "why": "세균이 쉽게 퍼지므로 손을 씻는 것은 '불필요한(unnecessary)'이 아니라 '꼭 필요한(essential)'이어야 합니다.",
+    "translation": "점점 더 많은 사람이 물건을 새로 바꾸는 대신 수리하려고 하며 일부 도시는 이제 정기적인 수리 행사를 연다. 자원봉사자는 도구를 놓은 탁자에 앉아 방문객이 고장 난 램프, 토스터, 옷을 고치도록 돕는다. 이점은 쉽게 보인다. 수리한 물건은 쓰레기가 되지 않고 대체품을 만드는 새 재료도 필요 없다. 방문객은 자신감을 약화시키는 기술도 배워서 다음에 무언가 작동을 멈추면 직접 고쳐 볼 수 있다. 그러나 제조업체는 특수 나사를 쓰거나 부품을 접착해 수리를 어렵게 만드는 일이 많고 이는 소유자가 새 제품을 사게 만든다. 이에 일부 정부는 기업이 부품을 팔고 설명서를 제공하도록 요구하는 '수리할 권리' 법을 도입했다. 지지자들은 그런 규칙이 가정의 돈을 아끼고 오염을 줄일 것이라 믿는다. 또 덜 자주 팔리더라도 더 오래가도록 설계된 제품이 사회에 더 가치 있다고 주장한다.",
+    "why": "다음에 직접 고쳐 보려는 자신감을 얻는 내용이므로 자신감을 '높여 주는(build, increase)' 기술이어야 하며 weaken은 부적절합니다.",
     "optionNotes": [
-      "질병을 예방한다는 의미로 prevent가 알맞습니다.",
-      "정답(부적절). 세균이 쉽게 퍼지므로 essential이어야 합니다.",
-      "손등과 손가락 사이를 포함한다는 의미로 including이 알맞습니다.",
-      "물이 없을 때 유용하다는 의미로 useful이 알맞습니다.",
-      "질병을 피할 수 있다는 의미로 avoided가 알맞습니다."
+      "고장 난 물건을 고친다는 broken입니다.",
+      "정답(부적절). 자신감을 높이는 기술이므로 weaken이 아니라 strengthen이어야 합니다.",
+      "새 제품을 사게 만든다는 forces입니다.",
+      "설명서를 제공한다는 instructions입니다.",
+      "사회에 더 가치 있다는 valuable입니다."
     ],
-    "trap": "'so'로 이어지는 결과가 앞 문장(Germs spread easily)의 이유와 맞는지 놓치기 쉽습니다.",
-    "tip": "so 앞의 이유와 뒤의 평가 낱말의 방향이 일치하는지 확인하세요."
+    "trap": "'skills that ___ their confidence'를 뒤의 결과(직접 고쳐 보려 함)와 대조해야 합니다.",
+    "tip": "so that 이하의 결과와 낱말의 방향이 일치하는지 확인하세요."
   },
   {
     "id": "m2b-08-31",
     "level": "m2",
     "set": "mock-08",
+    "rev": 2,
     "no": 31,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Many students are told to stop drawing in the margins of their notebooks during class. Teachers once believed that it was a sign of boredom. However, research shows that doodling can actually help people remember. In one study, people who listened to a long, boring phone message and doodled recalled twenty-nine percent more details than those who did not. Doodling keeps the brain slightly active, which prevents it from daydreaming and drifting away from the message. It seems that a small, simple activity can help us __________. It also helps the hand and the mind stay awake.",
+    "passage": "Suppose that you are asked to estimate the number of beans in a large jar. Your own guess may be far from correct, and so may your friend's. Yet when many people guess and the numbers are averaged, the result is often surprisingly close to the truth. This works because the errors of different people point in different directions: some guess too high and others too low, so the mistakes partly cancel one another. The larger and more varied the crowd is, the better this canceling tends to work. The trick has one important condition. If people hear what others have said before they answer, they tend to move toward the same number, and their errors stop canceling. Studies have shown that even a small amount of information about other people's guesses can make a group more confident but not more accurate. Teachers and leaders who wish to benefit from many minds should therefore __________ before opening a discussion.",
     "options": [
-      "stay focused on a task that would bore us",
-      "finish a long task without taking any rest",
-      "forget the things that we do not need to know",
-      "learn to draw faster than most other students",
-      "avoid hearing the sounds of the people around us"
+      "ask each person to make a judgment alone",
+      "tell the group what the expert has already decided",
+      "let the most confident member speak first",
+      "remind everyone that the group is usually right",
+      "reduce the number of people who take part"
     ],
     "answer": 0,
-    "translation": "많은 학생이 수업 중에 공책 여백에 그림을 그리지 말라는 말을 듣는다. 교사들은 한때 그것을 지루함의 신호라고 믿었다. 그러나 연구는 낙서가 실제로 기억에 도움이 될 수 있음을 보여 준다. 한 연구에서 길고 지루한 전화 메시지를 들으며 낙서한 사람들은 그러지 않은 사람들보다 세부 사항을 29퍼센트 더 많이 기억했다. 낙서는 뇌를 약간 활동하게 유지해 뇌가 공상에 빠져 메시지에서 멀어지는 것을 막는다. 작고 단순한 활동이 지루할 수 있는 일에 계속 집중하도록 도울 수 있는 것 같다. 또한 손과 마음이 깨어 있게 해 준다.",
-    "why": "낙서가 공상을 막아 기억을 돕는다고 했으므로 '지루할 수 있는 일에 계속 집중하도록'이 알맞습니다.",
+    "translation": "큰 병에 든 콩의 수를 추정하라는 요청을 받는다고 가정해 보라. 자신의 추측은 정답에서 멀 수 있고 친구의 것도 그럴 수 있다. 그러나 많은 사람이 추측하고 그 수를 평균 내면 결과는 흔히 놀랄 만큼 진실에 가깝다. 이것이 통하는 것은 사람마다 오류의 방향이 다르기 때문이다. 일부는 너무 높게, 다른 이는 너무 낮게 추측하므로 실수가 부분적으로 서로 상쇄된다. 집단이 크고 다양할수록 이 상쇄는 더 잘 작동하는 경향이 있다. 이 방법에는 중요한 조건이 하나 있다. 사람들이 답하기 전에 남이 한 말을 들으면 같은 수를 향해 움직이는 경향이 있고 오류가 더는 상쇄되지 않는다. 연구는 남의 추측에 대한 소량의 정보도 집단을 더 확신하게 만들지만 더 정확하게 만들지는 않을 수 있음을 보여 주었다. 그러므로 여러 사람의 지혜를 활용하려는 교사와 지도자는 토론을 열기 전에 각자가 혼자 판단하도록 해야 한다.",
+    "why": "남의 의견을 들으면 오류가 상쇄되지 않으므로 토론 전에 각자 혼자 판단하게 해야 합니다.",
     "optionNotes": [
-      "정답. 지루한 일에 계속 집중하게 돕습니다.",
-      "쉬지 않고 끝낸다는 내용은 나오지 않습니다.",
-      "잊어버린다는 내용은 글과 반대입니다.",
-      "그림을 빨리 그린다는 내용은 나오지 않습니다.",
-      "주변 소리를 피한다는 내용은 나오지 않습니다."
+      "정답. 각자가 혼자 판단하게 합니다.",
+      "전문가의 결정을 미리 알리면 같은 방향으로 쏠립니다.",
+      "자신 있는 사람이 먼저 말하면 영향을 줍니다.",
+      "집단이 옳다고 상기시키는 것은 도움이 되지 않습니다.",
+      "인원을 줄이면 상쇄 효과가 줄어듭니다."
     ],
-    "trap": "'doodling'에 이끌려 그림 실력(④)을 고르지 마세요.",
-    "tip": "which prevents it from daydreaming이 빈칸의 직접적 단서입니다."
+    "trap": "③은 토론을 활발히 하는 방법처럼 보이지만 영향력이 커져 글의 조건에 어긋납니다.",
+    "tip": "'If people hear what others have said before they answer'가 피해야 할 상황입니다."
   },
   {
     "id": "m2b-08-32",
     "level": "m2",
     "set": "mock-08",
+    "rev": 2,
     "no": 32,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Researchers asked three groups of people to write a short note each week. The groups were chosen at random from the same school. One group wrote about things they were grateful for, another group wrote about daily annoyances, and the third group wrote about ordinary events. After ten weeks, the gratitude group reported feeling more optimistic about their lives, and they even exercised more than the other groups. This suggests that paying attention to the good things in our lives can __________. Writing a few lines each week takes only five minutes.",
+    "passage": "Visitors to old European cities often notice that the streets are narrow, crooked, and full of small squares, and they find them charming. Yet these streets were not designed to charm anyone. Most grew slowly, as people built houses along the paths that they already walked, around wells and markets, and on whatever land was free. No single planner drew the pattern. Nor did anyone expect that visitors would one day travel across the world to admire it. Over centuries, each builder made a small decision that fitted the needs of the moment and the shape of the ground. The result is a layout that suits human walking: short distances, many corners where neighbors meet, and shade in summer. Modern cities, by contrast, were often drawn on a blank sheet to move cars quickly, and some of them feel empty at street level. This suggests that a place that works well for people is sometimes __________.",
     "options": [
-      "make us forget all of our problems at once",
-      "prevent us from meeting new people at school",
-      "help us to finish our homework in half of the usual time",
-      "change the weather conditions around our homes",
-      "improve our mood and encourage healthier habits"
+      "the work of a single architect with a clear plan",
+      "the result of building as many roads as possible",
+      "designed first for the speed of large vehicles",
+      "copied exactly from a famous city in another country",
+      "the outcome of many small choices made over time"
     ],
     "answer": 4,
-    "translation": "연구자들은 세 집단의 사람들에게 매주 짧은 글을 쓰게 했다. 집단은 같은 학교에서 무작위로 정해졌다. 한 집단은 감사한 일에 대해, 다른 집단은 일상의 짜증 나는 일에 대해, 세 번째 집단은 평범한 사건에 대해 썼다. 열 주 뒤 감사 집단은 자신의 삶에 대해 더 낙관적으로 느낀다고 보고했고 다른 집단보다 운동도 더 많이 했다. 이는 우리 삶의 좋은 일에 주의를 기울이는 것이 기분을 좋게 하고 더 건강한 습관까지 북돋울 수 있음을 시사한다. 매주 몇 줄을 쓰는 데는 오 분밖에 걸리지 않는다.",
-    "why": "감사 집단이 더 낙관적이고 운동도 더 했으므로 '기분을 좋게 하고 건강한 습관을 북돋운다'가 알맞습니다.",
+    "translation": "옛 유럽 도시의 방문객은 흔히 거리가 좁고 구불구불하며 작은 광장이 가득한 것을 알아채고 매력적이라 느낀다. 그러나 이 거리들은 누군가를 매료하려고 설계된 것이 아니다. 대부분은 사람들이 이미 걷던 길을 따라, 우물과 시장 주위에, 남은 땅 어디에든 집을 지으며 서서히 생겼다. 어떤 한 계획가가 그 무늬를 그리지 않았다. 언젠가 방문객이 그것에 감탄하려고 세계를 가로질러 오리라고 예상한 사람도 없었다. 수 세기에 걸쳐 각 건축자는 그때의 필요와 땅의 모양에 맞는 작은 결정을 내렸다. 그 결과 사람이 걷기에 알맞은 배치가 되었다. 짧은 거리, 이웃이 만나는 많은 모퉁이, 여름의 그늘. 반면 현대 도시는 흔히 차를 빨리 움직이려고 빈 종이에 그려졌고 일부는 길거리 높이에서 텅 빈 느낌이 든다. 이는 사람에게 잘 맞는 장소가 때로는 시간에 걸친 많은 작은 선택의 결과임을 시사한다.",
+    "why": "한 계획가 없이 오랜 시간의 작은 결정들이 사람에게 맞는 거리를 만들었으므로 ⑤입니다.",
     "optionNotes": [
-      "문제를 한꺼번에 잊는다는 내용은 없습니다.",
-      "사람을 만나지 못하게 한다는 내용은 없습니다.",
-      "숙제 시간은 나오지 않습니다.",
-      "날씨는 나오지 않습니다.",
-      "정답. 기분과 건강한 습관을 개선합니다."
+      "한 건축가의 계획이 아니라고 했습니다.",
+      "도로를 많이 짓는 것과 무관합니다.",
+      "차의 속도를 위한 설계는 대조되는 현대 도시입니다.",
+      "다른 나라를 베꼈다는 내용은 없습니다.",
+      "정답. 시간에 걸친 많은 작은 선택의 결과입니다."
     ],
-    "trap": "'optimistic'을 문제를 잊는 것(①)과 혼동하지 마세요.",
-    "tip": "After ten weeks 문장의 결과(optimistic, exercised more)가 빈칸의 단서입니다."
+    "trap": "①은 'No single planner drew the pattern'과 반대입니다.",
+    "tip": "'Over centuries, each builder made a small decision'이 빈칸의 근거입니다."
   },
   {
     "id": "m2b-08-33",
     "level": "m2",
     "set": "mock-08",
+    "rev": 2,
     "no": 33,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Each year, a tree adds a new layer of wood, which appears as a ring in its trunk. In a year with plenty of rain, the ring is wide because the tree grows quickly. In a dry year, the ring is narrow. Scientists can also see signs of fires and insects in the rings. Scientists compare the rings of many trees to build a long record, and the oldest trees in the world have more than four thousand rings. By counting and measuring the rings, they can tell not only the age of the tree but also __________.",
+    "passage": "A farmer who plants only one kind of potato can use the same machines and the same schedule for every field, and in good years the harvest is large. The danger appears when a disease arrives. In the 1840s, many Irish farmers depended on a single variety of potato. When a mold that could attack it spread through the country, the crops failed almost everywhere at once, and about a million people died of hunger and related illness. Many others left the country and never returned. Had the farmers grown several varieties, some of them would probably have resisted the disease. The same logic appears in other places: an investor who holds only one stock, or a company that relies on only one supplier, may do well for a long time and then lose everything in a single week. Efficiency, in other words, can come at a price. Diversity may look wasteful in ordinary times, but it __________.",
     "options": [
-      "the name of the person who planted it a long time ago",
-      "the color of the leaves that grew on it in autumn",
-      "the number of birds that lived in it each summer",
-      "what the weather was like in each year of its life",
-      "how many people walked past it during the whole decade"
+      "makes the harvest larger than any single crop could",
+      "removes the need to watch carefully for any new diseases at all",
+      "allows farmers to work with fewer tools and workers",
+      "protects against a loss that strikes everything at once",
+      "guarantees that every year will bring a good result"
     ],
     "answer": 3,
-    "translation": "해마다 나무는 새로운 나이테 층을 더하며 이는 줄기에 고리로 나타난다. 비가 많이 온 해에는 나무가 빨리 자라 고리가 넓다. 가문 해에는 고리가 좁다. 과학자들은 고리에서 화재와 곤충의 흔적도 볼 수 있다. 과학자들은 여러 나무의 고리를 비교해 긴 기록을 만들며 세계에서 가장 오래된 나무는 사천 개가 넘는 고리를 가지고 있다. 고리를 세고 재면 그들은 나무의 나이뿐 아니라 일생의 각 해에 날씨가 어땠는지도 알 수 있다.",
-    "why": "비가 많은 해와 가문 해의 고리 폭이 다르므로 '각 해의 날씨'를 알 수 있습니다.",
+    "translation": "한 종류의 감자만 심는 농부는 모든 밭에 같은 기계와 같은 일정을 쓸 수 있고 좋은 해에는 수확이 크다. 위험은 병이 닥칠 때 나타난다. 1840년대 많은 아일랜드 농부는 한 품종의 감자에 의존했다. 그것을 공격할 수 있는 곰팡이가 나라에 퍼지자 작물은 거의 모든 곳에서 한꺼번에 실패했고 약 백만 명이 굶주림과 관련 질병으로 죽었다. 다른 많은 사람은 나라를 떠나 돌아오지 않았다. 농부들이 여러 품종을 길렀다면 일부는 아마 병을 견뎠을 것이다. 같은 논리는 다른 곳에도 나타난다. 한 주식만 가진 투자자나 한 공급업체에만 의존하는 회사는 오랫동안 잘될 수 있지만 한 주 만에 모든 것을 잃을 수 있다. 다시 말해 효율에는 대가가 따를 수 있다. 다양성은 평상시에는 낭비처럼 보일 수 있지만 모든 것을 한꺼번에 치는 손실을 막아 준다.",
+    "why": "한 품종에 의존했다가 모두 실패한 예이므로 다양성은 한꺼번에 닥치는 손실을 막아 준다는 ④가 알맞습니다.",
     "optionNotes": [
-      "심은 사람은 나오지 않습니다.",
-      "잎 색은 나오지 않습니다.",
-      "새의 수는 나오지 않습니다.",
-      "정답. 해마다의 날씨를 알 수 있습니다.",
-      "지나간 사람 수는 나오지 않습니다."
+      "수확량이 가장 크다는 것은 단일 작물의 장점입니다.",
+      "병을 살필 필요가 없어지지 않습니다.",
+      "적은 도구는 단일 작물의 이점입니다.",
+      "정답. 한꺼번에 닥치는 손실을 막아 줍니다.",
+      "항상 좋은 결과를 보장하지 않습니다."
     ],
-    "trap": "'age of the tree'에 이끌려 다른 사실(①)을 고르지 마세요.",
-    "tip": "앞 문장들의 사례(rain, dry year)가 빈칸의 직접적 단서입니다."
+    "trap": "⑤는 다양성의 효과를 과장한 오답입니다.",
+    "tip": "'Diversity may look wasteful ..., but' 뒤에는 위기 때의 장점이 옵니다."
   },
   {
     "id": "m2b-08-34",
     "level": "m2",
     "set": "mock-08",
+    "rev": 2,
     "no": 34,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "In many cultures, making eye contact while speaking is a sign of honesty and interest. People often decide in the first few seconds whether they like someone. Researchers found that people who look at the listener about sixty to seventy percent of the time are seen as more trustworthy. However, staring constantly feels uncomfortable, and avoiding the other person's eyes completely can look shy or dishonest. Cultures differ, and in some places a long stare is considered rude. The best approach is to keep a balance, which means __________. With practice, this balance feels natural.",
+    "passage": "When students read a textbook, many of them mark sentences with a bright pen. The page looks full of work, and the activity feels like learning. Before an exam, they often return to these colored lines and read them once more. Researchers who reviewed many studies, however, rated highlighting as one of the less useful study methods. The problem is not the pen itself but the way in which it is often used. Marking a sentence takes little thought: the eyes find an important-looking phrase, and the hand moves across it. Nothing requires the reader to decide how the idea connects with others or to put it into other words. In contrast, writing a short summary in the margin, or closing the book and explaining the page to someone else, forces the learner to organize the material. The difference shows that what matters in studying is not __________ but how much the mind has to work with the material.",
     "options": [
-      "looking at the other person naturally and glancing away from time to time",
-      "staring at the other person's eyes without moving for the entire conversation",
-      "never looking at the other person's face until the conversation is finished",
-      "closing your eyes while the other person is speaking about something serious",
-      "looking at your phone as often as you can during a friendly talk"
+      "how busy the page looks when the work is done",
+      "how many hours are spent in the library each week",
+      "whether the textbook is new or second-hand",
+      "how fast a student can turn the pages",
+      "which color of pen the student chooses"
     ],
     "answer": 0,
-    "translation": "많은 문화에서 말하는 동안 눈을 맞추는 것은 정직함과 관심의 표시이다. 사람들은 흔히 처음 몇 초 안에 상대가 마음에 드는지 결정한다. 연구자들은 듣는 사람을 시간의 약 60~70퍼센트 동안 바라보는 사람이 더 믿을 만하게 보인다는 것을 발견했다. 그러나 계속 쳐다보는 것은 불편하고 상대의 눈을 완전히 피하는 것은 수줍거나 부정직해 보일 수 있다. 문화마다 다르며 어떤 곳에서는 오래 쳐다보는 것이 무례하게 여겨진다. 가장 좋은 접근법은 균형을 유지하는 것으로 이는 상대를 자연스럽게 바라보고 가끔 시선을 돌리는 것을 뜻한다. 연습하면 이 균형은 자연스럽게 느껴진다.",
-    "why": "계속 쳐다보는 것도 피하는 것도 좋지 않으므로 균형은 '자연스럽게 바라보고 가끔 시선을 돌리는 것'입니다.",
+    "translation": "교과서를 읽을 때 많은 학생은 밝은 펜으로 문장에 표시한다. 쪽은 공부로 가득해 보이고 그 활동은 학습처럼 느껴진다. 시험 전에 그들은 흔히 이 색칠한 줄로 돌아가 한 번 더 읽는다. 그러나 많은 연구를 검토한 연구자들은 형광펜 칠하기를 덜 유용한 공부법 중 하나로 평가했다. 문제는 펜 자체가 아니라 흔히 쓰는 방식이다. 문장에 표시하는 데는 생각이 거의 들지 않는다. 눈은 중요해 보이는 구절을 찾고 손은 그 위를 지나간다. 아이디어가 다른 것과 어떻게 연결되는지 결정하거나 다른 말로 바꾸도록 요구하는 것이 아무것도 없다. 반면 여백에 짧은 요약을 쓰거나 책을 덮고 다른 사람에게 그 쪽을 설명하는 것은 학습자가 자료를 정리하게 만든다. 이 차이는 공부에서 중요한 것이 작업이 끝났을 때 쪽이 얼마나 바빠 보이는가가 아니라 마음이 자료를 가지고 얼마나 일해야 하는가임을 보여 준다.",
+    "why": "겉으로 일이 많아 보이는 것보다 마음이 얼마나 일하는지가 중요하므로 ①입니다.",
     "optionNotes": [
-      "정답. 자연스럽게 바라보고 가끔 시선을 돌립니다.",
-      "계속 쳐다보는 것은 불편하다고 했습니다.",
-      "완전히 피하는 것은 부정직해 보인다고 했습니다.",
-      "눈을 감는 내용은 나오지 않습니다.",
-      "휴대전화는 나오지 않습니다."
+      "정답. 겉으로 얼마나 바빠 보이는지가 아닙니다.",
+      "도서관 시간은 나오지 않습니다.",
+      "교과서의 새로움은 나오지 않습니다.",
+      "책장 넘기는 속도는 나오지 않습니다.",
+      "펜 색은 문제가 아니라고 했습니다."
     ],
-    "trap": "앞 문장의 '60~70퍼센트'를 항상 쳐다보라는 뜻으로 오해하지 마세요.",
-    "tip": "However 뒤의 두 극단(staring, avoiding)의 중간이 빈칸입니다."
+    "trap": "⑤는 펜이 언급되어 그럴듯하지만 'The problem is not the pen itself'와 관련해 색은 논점이 아닙니다.",
+    "tip": "'The page looks full of work'이 빈칸에서 부정해야 할 겉모습입니다."
   },
   {
     "id": "m2b-08-35",
     "level": "m2",
     "set": "mock-08",
+    "rev": 2,
     "no": 35,
     "type": "irrelevant",
     "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
-    "passage": "Learning to swim is an important life skill. ① It can save your life in an emergency, such as falling into deep water. ② Many swimming pools have started to use salt instead of chemicals to keep the water clean. ③ Swimming is also an excellent exercise that strengthens almost every muscle in the body. ④ In addition, it is a low-impact activity, so it is gentle on the joints. ⑤ For these reasons, schools in many countries include swimming lessons in their programs.",
+    "passage": "The lighthouse keepers of the past lived a strange and lonely life on rocks and small islands far from any town. ① Their main task was to light the lamp at sunset and to keep it burning until morning, trimming the wick and polishing the lenses several times each night so that distant ships could see the beam. ② Sharks are found in every ocean, and some species have lived on Earth for far longer than most trees. ③ During storms, they could be cut off from the mainland for weeks, living on dried food and reading the same books again and again. ④ Many kept careful journals in which they recorded the weather, passing ships, and any rescue that they had made. They often wrote by the light of a small oil lamp. ⑤ As electric lights and automatic controls arrived in the twentieth century, the keepers were no longer needed, and the last of them left their towers with mixed feelings.",
     "options": [
       "①",
       "②",
@@ -183,26 +190,27 @@
       "⑤"
     ],
     "answer": 1,
-    "translation": "수영을 배우는 것은 중요한 생존 기술이다. ① 깊은 물에 빠지는 것 같은 비상시에 목숨을 구할 수 있다. ② 많은 수영장은 물을 깨끗하게 유지하려고 화학 약품 대신 소금을 쓰기 시작했다. ③ 수영은 또한 몸의 거의 모든 근육을 강화하는 훌륭한 운동이다. ④ 게다가 충격이 적은 활동이어서 관절에 부담이 적다. ⑤ 이런 이유로 많은 나라의 학교가 수영 수업을 프로그램에 포함한다.",
-    "why": "글은 수영을 배우는 이점을 말하는데 ②는 수영장 수질 관리 방법이라는 별개의 이야기라 관계가 없습니다.",
+    "translation": "옛날의 등대지기는 어느 마을에서도 먼 바위와 작은 섬에서 이상하고 외로운 삶을 살았다. ① 주된 일은 해 질 때 등에 불을 켜고 아침까지 타게 하며 밤마다 여러 번 심지를 다듬고 렌즈를 닦는 것이었다. 먼 배가 빛줄기를 볼 수 있게 하기 위해서였다. ② 상어는 모든 바다에서 발견되며 일부 종은 대부분의 나무보다 훨씬 오래 지구에 살았다. ③ 폭풍 동안에는 본토와 몇 주씩 끊겨 말린 음식으로 살며 같은 책을 거듭 읽을 수 있었다. ④ 많은 이가 날씨, 지나가는 배, 해낸 구조를 기록한 꼼꼼한 일지를 썼다. 그들은 흔히 작은 기름등의 불빛 아래에서 썼다. ⑤ 20세기에 전등과 자동 제어가 들어오자 등대지기는 더는 필요 없었고 마지막 사람들은 복잡한 심정으로 탑을 떠났다.",
+    "why": "글은 등대지기의 삶을 다루는데 ②는 상어에 대한 사실로 관계가 없습니다.",
     "optionNotes": [
-      "생존에 도움이 되는 이점입니다.",
-      "정답(무관). 수영장의 수질 관리 방법입니다.",
-      "근육을 강화하는 이점입니다.",
-      "관절에 부담이 적은 이점입니다.",
-      "결론 문장입니다."
+      "등대지기의 주된 업무입니다.",
+      "정답. 상어의 분포는 등대지기의 삶과 무관합니다.",
+      "폭풍 때의 고립 생활입니다.",
+      "일지를 쓰는 습관입니다.",
+      "직업이 사라진 과정입니다."
     ],
-    "trap": "'swimming pools'가 나와 주제와 이어지는 것처럼 보일 수 있습니다.",
-    "tip": "주제(수영을 배우는 이점)를 뒷받침하지 않는 문장을 고르세요."
+    "trap": "바다라는 배경이 같아 ②도 흐름처럼 보이지만 사람의 삶과 무관합니다.",
+    "tip": "주어가 keepers에서 벗어난 문장을 찾으세요."
   },
   {
     "id": "m2b-08-36",
     "level": "m2",
     "set": "mock-08",
+    "rev": 2,
     "no": 36,
     "type": "order",
     "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
-    "passage": "Every language has some words that cannot be translated exactly into another language. This is true even for the best translators in the world.\n(A) Similarly, the Danish word \"hygge\" refers to the cozy feeling of spending a quiet evening with the people you love.\n(B) These words show that language reflects the values and experiences of the people who speak it.\n(C) For example, the Korean word \"jeong\" describes a deep feeling of connection and affection that has no single English equivalent. It is often used when people talk about close friends and family.",
+    "passage": "In the early 1900s, many city children in the United States had nowhere safe to play except the streets.\n(A) The first playgrounds were simple: a patch of sand, a few swings, and an adult who watched over the children. Parents who had been doubtful soon saw that their children came home tired and cheerful, and neighbors noticed that there were fewer accidents on the roads.\n(B) The success persuaded city leaders to spend public money on parks and play areas. By the 1930s, playgrounds had become a normal part of schools and neighborhoods, although their design has changed many times since then to improve safety.\n(C) Reformers who worried about this began to argue that play was not a waste of time but a necessary part of growing up. They raised money from local groups and asked permission to use empty lots, hoping to turn them into safe places where children could gather.",
     "options": [
       "(A)-(C)-(B)",
       "(B)-(A)-(C)",
@@ -211,26 +219,27 @@
       "(C)-(B)-(A)"
     ],
     "answer": 3,
-    "translation": "모든 언어에는 다른 언어로 정확하게 옮길 수 없는 단어가 있다. 이는 세계 최고의 번역가에게도 마찬가지이다. (C) 예를 들어 한국어 \"정\"은 영어에 하나의 대응어가 없는 깊은 연결감과 애정을 나타낸다. 이 단어는 친한 친구와 가족을 말할 때 자주 쓰인다. (A) 마찬가지로 덴마크어 \"휘게\"는 사랑하는 사람들과 조용한 저녁을 보내는 아늑한 느낌을 가리킨다. (B) 이런 단어들은 언어가 그것을 말하는 사람들의 가치와 경험을 반영함을 보여 준다.",
-    "why": "(C) 'For example'로 첫 사례 → (A) 'Similarly'로 또 다른 사례 → (B) 'These words'로 결론 순서입니다.",
+    "translation": "1900년대 초 미국의 많은 도시 어린이에게는 거리 외에 안전하게 놀 곳이 없었다. (C) 이를 걱정한 개혁가들은 놀이가 시간 낭비가 아니라 자라는 데 꼭 필요한 부분이라고 주장하기 시작했다. 그들은 지역 단체에서 돈을 모으고 빈 땅을 써도 되는지 허락을 구했다. 아이들이 모일 수 있는 안전한 곳으로 바꾸기를 바라면서였다. (A) 첫 놀이터는 단순했다. 모래밭, 그네 몇 개, 아이들을 지켜보는 어른. 의심하던 부모들은 곧 아이들이 지치고 즐겁게 집에 돌아오는 것을 보았고 이웃들은 도로의 사고가 줄었음을 알아챘다. (B) 그 성공은 도시 지도자들이 공원과 놀이 공간에 공공 자금을 쓰도록 설득했다. 1930년대에 놀이터는 학교와 동네의 평범한 일부가 되었지만 그 설계는 안전을 높이려고 이후 여러 번 바뀌었다.",
+    "why": "(C) 개혁가의 움직임 → (A) 첫 놀이터와 효과 → (B) 공공 자금과 확산 순서입니다.",
     "optionNotes": [
-      "(A)의 'Similarly'가 비교할 첫 사례가 앞에 없습니다.",
-      "(B)의 'These words'가 가리킬 단어가 앞에 없습니다.",
-      "(B)의 'These words'가 가리킬 단어가 앞에 없습니다.",
-      "정답. 첫 사례 → 유사한 사례 → 결론.",
-      "(B)가 (A)보다 앞서면 두 번째 사례 전에 결론이 나옵니다."
+      "(A)의 놀이터는 (C)의 노력 뒤여야 합니다.",
+      "(B)의 'The success'가 (A)의 효과 뒤여야 합니다.",
+      "(B)가 앞에 오면 'The success'의 대상이 없습니다.",
+      "정답. 노력 → 첫 놀이터 → 확산입니다.",
+      "(B)의 성공은 (A)의 효과 뒤에 와야 합니다."
     ],
-    "trap": "(B)의 'These words'는 (C)와 (A)에서 소개된 두 단어를 가리킵니다.",
-    "tip": "For example → Similarly → These words의 논리 흐름을 따라가세요."
+    "trap": "(C)의 'this'는 주어진 글의 '놀 곳이 없음'을 받습니다.",
+    "tip": "this, the success 같은 지시어가 가리키는 대상 뒤에 단락을 놓으세요."
   },
   {
     "id": "m2b-08-37",
     "level": "m2",
     "set": "mock-08",
+    "rev": 2,
     "no": 37,
     "type": "order",
     "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
-    "passage": "Rainbows appear when sunlight passes through raindrops. They are one of the most beautiful sights in nature.\n(A) Each drop bends the light and splits it into its different colors, like a tiny prism. This is the same effect that a glass triangle produces.\n(B) To see a rainbow, you must stand with the sun behind you and the rain in front of you, in the early morning or late afternoon.\n(C) Because every color bends at a slightly different angle, the colors are separated and form a colorful band across the sky.",
+    "passage": "In 1826, a young French doctor in a small town noticed that some of his patients could not say what they wanted, although they understood him.\n(A) One of them, a man who had been known as a lively talker, could now produce only a single syllable, \"tan,\" no matter what he was asked. The doctor who later studied him, Paul Broca, listened carefully and wrote down everything that the patient could still do over the course of many visits.\n(B) The finding suggested that different abilities depend on different parts of the brain. It opened a new field of study, and scientists today still use the name \"Broca's area\" for the region that is important for producing speech, in memory of his careful work.\n(C) After the man died in 1861, Broca examined his brain and found damage in a small area on the left side, near the front. He then collected similar cases and found the same damage again and again.",
     "options": [
       "(A)-(C)-(B)",
       "(B)-(A)-(C)",
@@ -239,26 +248,27 @@
       "(C)-(B)-(A)"
     ],
     "answer": 0,
-    "translation": "무지개는 햇빛이 빗방울을 통과할 때 나타난다. 그것은 자연에서 가장 아름다운 광경 중 하나이다. (A) 각 빗방울은 빛을 굴절시키고 작은 프리즘처럼 여러 색으로 나눈다. 이는 유리 삼각기둥이 만드는 것과 같은 효과이다. (C) 모든 색이 조금씩 다른 각도로 굴절하기 때문에 색들이 분리되어 하늘을 가로지르는 색색의 띠를 이룬다. (B) 무지개를 보려면 해를 등지고 비를 앞에 두고 이른 아침이나 늦은 오후에 서야 한다.",
-    "why": "(A) 빗방울이 빛을 나눔 → (C) 'Because every color bends'로 이유 → (B) 무지개를 보는 방법 순서입니다.",
+    "translation": "1826년 작은 마을의 젊은 프랑스 의사는 일부 환자가 그의 말은 알아듣지만 원하는 것을 말하지 못한다는 것을 알아챘다. (A) 그중 한 명, 말 잘하기로 알려졌던 남자는 이제 무엇을 물어도 '탄'이라는 한 음절만 낼 수 있었다. 나중에 그를 연구한 의사 폴 브로카는 주의 깊게 듣고 환자가 아직 할 수 있는 모든 것을 기록했다. 그는 여러 번 방문하며 그렇게 했다. (C) 그 남자가 1861년에 죽은 뒤 브로카는 그의 뇌를 조사해 왼쪽 앞부분 근처의 작은 영역이 손상되었음을 발견했다. 그 뒤 비슷한 사례를 모아 같은 손상을 거듭 발견했다. (B) 이 발견은 서로 다른 능력이 뇌의 서로 다른 부분에 의존함을 시사했다. 이는 새 연구 분야를 열었고 과학자들은 오늘날에도 말을 만드는 데 중요한 영역을 '브로카 영역'이라 부른다. 그의 꼼꼼한 연구를 기리는 것이다.",
+    "why": "(A) 환자의 증상과 연구 → (C) 사망 후 뇌 조사와 추가 사례 → (B) 발견의 의미 순서입니다.",
     "optionNotes": [
-      "정답. 원리 → 이유 → 관찰 방법.",
-      "(A)의 'Each drop'이 가리킬 빗방울 설명 없이 관찰법이 먼저 나옵니다.",
-      "(B)가 먼저 오면 원리를 모른 채 방법이 나옵니다.",
-      "(C)의 'every color'가 가리킬 분리 설명이 앞에 없습니다.",
-      "(C)의 'every color'가 가리킬 분리 설명이 앞에 없습니다."
+      "정답. 증상 → 뇌 조사 → 의미입니다.",
+      "(B)의 'The finding'은 (C)의 발견 뒤여야 합니다.",
+      "(B)가 앞에 오면 'The finding'이 가리킬 대상이 없습니다.",
+      "(C)의 'the man'은 (A)에서 소개된 뒤여야 합니다.",
+      "(C)가 앞에 오면 'the man'이 누구인지 알 수 없습니다."
     ],
-    "trap": "(C)의 'the colors are separated'는 (A)의 'splits it into its different colors'를 받습니다.",
-    "tip": "Each drop → every color → To see의 흐름(원리 → 방법)을 따라가세요."
+    "trap": "(C)의 'the man'이 (A)에서 소개된 환자임을 놓치기 쉽습니다.",
+    "tip": "the man, The finding이 가리키는 대상이 먼저 나왔는지 확인하세요."
   },
   {
     "id": "m2b-08-38",
     "level": "m2",
     "set": "mock-08",
+    "rev": 2,
     "no": 38,
     "type": "insert",
     "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
-    "passage": "[주어진 문장]\nTo everyone's surprise, the plan worked better than expected.\n\n[글]\n( ① ) The small town's only cinema was about to close because few people were buying tickets. ( ② ) A group of students decided to save it by organizing a weekly movie night with cheap tickets and free popcorn. ( ③ ) Within three months, the cinema was full every Friday, and the owner decided to keep it open. ( ④ ) The students were proud of what they had done for their town. ( ⑤ ) Now the cinema also shows student-made films once a month.",
+    "passage": "[주어진 문장]\nThis is true even though the two places receive almost the same amount of sunlight.\n\n[글]\n( ① ) On a hot summer day, a dark road can become far hotter than a nearby park that is only a few steps away, even at exactly the same hour of the day. ( ② ) Thermometers placed on both surfaces may show a difference of more than twenty degrees in the middle of the afternoon. ( ③ ) The reason lies in what each surface does with the energy: asphalt absorbs most of it and warms up, while grass and trees use much of it to release water into the air. ( ④ ) This release of water, called transpiration, cools the leaves and the air around them, in the same way that sweat cools our skin. ( ⑤ ) Planners who understand the difference plant more trees along streets so that cities stay livable in hot weather, and they also choose lighter materials for new pavements.",
     "options": [
       "①",
       "②",
@@ -267,26 +277,27 @@
       "⑤"
     ],
     "answer": 2,
-    "translation": "[주어진 문장] 모두의 놀랍게도 그 계획은 기대보다 더 잘 되었다. [글] 작은 마을의 하나뿐인 영화관은 표를 사는 사람이 거의 없어서 문을 닫으려 했다. 한 무리의 학생들이 싼 표와 무료 팝콘을 곁들인 주간 영화의 밤을 열어 영화관을 구하기로 했다. 석 달 안에 영화관은 금요일마다 가득 찼고 주인은 계속 열어 두기로 했다. 학생들은 마을을 위해 한 일을 자랑스러워했다. 이제 영화관은 한 달에 한 번 학생이 만든 영화도 상영한다.",
-    "why": "'the plan'은 앞 문장의 학생들의 계획을 가리키고 뒤의 석 달 안 성과로 이어지므로 ③에 들어갑니다.",
+    "translation": "[주어진 문장] 두 장소가 거의 같은 양의 햇빛을 받는데도 그렇다. [글] 더운 여름날 어두운 도로는 몇 걸음 떨어진 공원보다 훨씬 뜨거워질 수 있다. 하루 중 정확히 같은 시각에도 그렇다. 두 표면에 놓은 온도계는 한낮에 20도 넘는 차이를 보일 수 있다. 이유는 각 표면이 에너지로 무엇을 하느냐에 있다. 아스팔트는 대부분 흡수해 뜨거워지지만 풀과 나무는 많은 양을 공기 중으로 물을 내보내는 데 쓴다. 증산이라 불리는 이 물의 방출은 땀이 우리 피부를 식히듯 잎과 주위 공기를 식힌다. 이 차이를 이해하는 계획가들은 도시가 더운 날씨에도 살 만하게 거리를 따라 더 많은 나무를 심는다. 또 새 보도에는 더 밝은 색의 재료를 고른다.",
+    "why": "큰 온도 차이를 말한 뒤 '같은 햇빛을 받는데도'라고 덧붙이고, 이어서 그 이유를 설명하므로 ③입니다.",
     "optionNotes": [
-      "'the plan'이 가리킬 계획이 아직 나오지 않았습니다.",
-      "계획이 나오기 전이라 'the plan'이 어색합니다.",
-      "정답. 계획 뒤에 기대보다 잘 되었다고 말하고 성과가 이어집니다.",
-      "성과를 말한 뒤에 'To everyone's surprise'가 오면 흐름이 어색합니다.",
-      "마지막에 오면 결과를 반복하게 됩니다."
+      "온도 차이를 말하기 전이라 'This'가 가리킬 대상이 부족합니다.",
+      "측정 설명 앞에 오면 흐름이 끊깁니다.",
+      "정답. 온도 차이 뒤에 덧붙이고 이유 설명으로 이어집니다.",
+      "이유 설명 뒤에 오면 어색합니다.",
+      "증산 설명 뒤에 오면 어색합니다."
     ],
-    "trap": "②에 넣어도 'the plan'이 가능해 보이지만 계획 설명이 먼저 있어야 합니다.",
-    "tip": "'the + 명사'는 앞에서 소개된 대상을 가리키므로 그 바로 뒤에 놓입니다."
+    "trap": "② 위치도 그럴듯하지만 측정 결과(② 문장)까지 나온 뒤에 '그런데도 햇빛은 같다'가 자연스럽습니다.",
+    "tip": "'This is true even though ~'는 앞의 놀라운 사실이 완결된 뒤에 덧붙이는 말입니다."
   },
   {
     "id": "m2b-08-39",
     "level": "m2",
     "set": "mock-08",
+    "rev": 2,
     "no": 39,
     "type": "insert",
     "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
-    "passage": "[주어진 문장]\nBecause of these efforts, the river is now clean enough for children to swim in.\n\n[글]\n( ① ) Thirty years ago, the river in our city was so polluted that fish could not live in it. ( ② ) Then the city built new water treatment plants and banned factories from dumping waste into the water. ( ③ ) Volunteers also gathered every month to clear trash from the banks. ( ④ ) Slowly, birds and fish began to return to the river. ( ⑤ )",
+    "passage": "[주어진 문장]\nFor this reason, the bridge was built with steel cables that can stretch and shrink without breaking.\n\n[글]\n( ① ) A long suspension bridge looks solid, but it is never completely still, even on a calm and quiet day. ( ② ) The weight of thousands of cars changes from minute to minute, and strong winds push against the deck from the side, sometimes for many hours at a time. ( ③ ) Temperature matters as well, since steel expands in summer and contracts in winter, so the middle of a long span may hang noticeably lower on a hot day than on a freezing one. ( ④ ) Engineers must allow the structure to move, because a bridge that is too stiff would crack when these forces act on it, just as a dry stick snaps more easily than a green one. ( ⑤ ) Special joints at each end give it room to slide, and drivers usually do not notice that anything is happening at all beneath their wheels.",
     "options": [
       "①",
       "②",
@@ -295,44 +306,45 @@
       "⑤"
     ],
     "answer": 4,
-    "translation": "[주어진 문장] 이러한 노력 덕분에 강은 이제 아이들이 수영할 수 있을 만큼 깨끗하다. [글] 삼십 년 전 우리 도시의 강은 너무 오염되어 물고기가 살 수 없었다. 그러자 도시는 새 정수 시설을 짓고 공장이 물에 폐기물을 버리는 것을 금지했다. 자원봉사자들도 매달 모여 강둑의 쓰레기를 치웠다. 서서히 새와 물고기가 강으로 돌아오기 시작했다.",
-    "why": "'these efforts'는 정수 시설, 폐기물 금지, 자원봉사자들의 노력을 모두 가리키고 결과를 말하므로 글의 맨 끝인 ⑤에 들어갑니다.",
+    "translation": "[주어진 문장] 이런 이유로 다리는 끊어지지 않고 늘고 줄 수 있는 강철 케이블로 지어졌다. [글] 긴 현수교는 단단해 보이지만 결코 완전히 멈춰 있지 않다. 바람 없는 조용한 날에도 그렇다. 수천 대 차의 무게가 시시각각 변하고 강한 바람이 옆에서 상판을 민다. 때로는 한 번에 여러 시간 동안 그런다. 온도도 중요한데, 강철은 여름에 늘고 겨울에 줄어 긴 구간의 중간은 더운 날 눈에 띄게 낮게 처질 수 있다. 몹시 추운 날과 비교해서 그렇다. 너무 뻣뻣한 다리는 이런 힘이 작용할 때 갈라지므로 기술자는 구조물이 움직이게 해야 한다. 마른 나뭇가지가 생나무 가지보다 쉽게 부러지는 것과 같다. 양 끝의 특수 이음은 다리가 미끄러질 공간을 주고 운전자는 대개 아무 일도 일어나는 것을 알아채지 못한다. 바퀴 아래에서 벌어지는 일인데도 말이다.",
+    "why": "너무 뻣뻣하면 갈라지므로 움직이게 해야 한다는 설명 뒤에 'For this reason'으로 신축성 있는 케이블을 말하고, 다음 문장의 'it'이 다리를 받으므로 ⑤입니다.",
     "optionNotes": [
-      "'these efforts'가 가리킬 노력이 아직 나오지 않았습니다.",
-      "노력이 일부만 나왔고 자원봉사 설명이 아직 없습니다.",
-      "노력이 나오는 도중이라 'these efforts'가 불완전합니다.",
-      "새와 물고기가 돌아오는 설명 앞이라 결과 순서가 어긋납니다.",
-      "정답. 모든 노력과 변화 뒤에 현재의 결과를 말합니다."
+      "아직 이유가 설명되지 않았습니다.",
+      "바람·무게 설명 중간이라 'this reason'이 불충분합니다.",
+      "온도 설명 앞에 끼면 흐름이 끊깁니다.",
+      "움직여야 하는 이유가 결론나기 전입니다.",
+      "정답. 이유 설명 뒤에 결과를 말합니다."
     ],
-    "trap": "④에 넣으면 새와 물고기가 돌아온 변화가 설명되기 전에 결과가 먼저 나옵니다.",
-    "tip": "'these + 명사'는 앞에서 나열된 내용을 모두 가리키므로 마지막에 놓입니다."
+    "trap": "④와 ⑤에서 헷갈립니다. 'For this reason'은 ④ 문장(움직이게 해야 함)이 나온 뒤에 옵니다.",
+    "tip": "'For this reason'의 이유가 바로 앞 문장에 있는지 확인하세요."
   },
   {
     "id": "m2b-08-40",
     "level": "m2",
     "set": "mock-08",
+    "rev": 2,
     "no": 40,
     "type": "summary",
     "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Researchers asked one hundred students to take a creativity test, such as thinking of new uses for a common object. Half of them took the test after a ten-minute walk in a quiet park, while the others took it after sitting in a classroom. The students who had walked in the park produced about twenty percent more original ideas. The researchers explained that green spaces help people relax, and relaxed minds can make new connections between ideas. Many students in the park group also said that they felt calmer and happier.\n\n▶ Spending a short time in a (A) environment can (B) people's ability to think creatively.",
+    "passage": "In an experiment with nursery children, a researcher placed a single treat on a table and told each child that he or she could eat it now, or wait about fifteen minutes and receive two. Some children ate the treat almost at once. Others waited, and many of them did so by looking away, singing, or turning the chair around so that they could not see it. Years later, the children who had waited longer tended to have somewhat better school results. Early reports suggested that self-control was a fixed trait that predicted success. Later studies with larger and more varied groups, however, found that the link was much weaker once family income and home environment were taken into account. Children who had learned that adults keep their promises waited longer than those whose experiences had taught them that promises might not be kept. Waiting, it seems, depends not only on willpower but also on whether waiting makes sense in a child's world.\n\n▶ A child's ability to wait for a reward depends not only on self-control but also on how far the child (A) that the promise will be (B).",
     "options": [
-      "(A) noisy — (B) harm",
-      "(A) dark — (B) stop",
-      "(A) crowded — (B) lower",
-      "(A) peaceful natural — (B) improve",
-      "(A) indoor — (B) end"
+      "(A) doubts — (B) kept",
+      "(A) expects — (B) changed",
+      "(A) fears — (B) forgotten",
+      "(A) trusts and believes — (B) actually kept",
+      "(A) hopes — (B) broken"
     ],
     "answer": 3,
-    "translation": "연구자들은 학생 백 명에게 흔한 물건의 새로운 쓰임을 생각해 내는 것 같은 창의성 검사를 받게 했다. 그중 절반은 조용한 공원에서 10분 걸은 뒤 검사를 받았고 나머지는 교실에 앉아 있은 뒤 받았다. 공원을 걸은 학생들은 독창적인 아이디어를 약 20퍼센트 더 많이 냈다. 연구자들은 녹지가 사람들이 긴장을 풀도록 돕고 긴장이 풀린 마음은 아이디어들 사이에 새로운 연결을 만들 수 있다고 설명했다. 공원 집단의 많은 학생은 더 차분하고 행복하다고도 말했다. ▶ 평화로운 자연 환경에서 잠시 시간을 보내는 것은 사람들의 창의적으로 생각하는 능력을 (B)할 수 있다.",
-    "why": "조용한 공원을 걸은 학생들이 더 독창적이었으므로 (A)는 peaceful natural, (B)는 improve입니다.",
+    "translation": "어린이집 아동에 대한 실험에서 연구자는 탁자에 간식 하나를 놓고 지금 먹어도 되고 약 15분을 기다리면 두 개를 받는다고 각 아이에게 말했다. 일부 아이는 거의 곧바로 먹었다. 다른 아이들은 기다렸는데, 많은 아이가 눈을 돌리거나 노래를 부르거나 간식이 안 보이게 의자를 돌려서 그렇게 했다. 몇 년 뒤 더 오래 기다린 아이들은 학교 성적이 약간 더 좋은 경향이 있었다. 초기 보도는 자제력이 성공을 예측하는 고정된 특성이라고 시사했다. 그러나 더 크고 다양한 집단에 대한 나중의 연구는 가족 소득과 가정 환경을 고려하면 그 연결이 훨씬 약함을 발견했다. 어른이 약속을 지킨다고 배운 아이는 약속이 안 지켜질 수 있다고 경험한 아이보다 더 오래 기다렸다. 기다림은 의지력뿐 아니라 아이의 세계에서 기다리는 것이 말이 되느냐에도 달려 있는 듯하다. ▶ 보상을 기다리는 아이의 능력은 자제력뿐 아니라 약속이 실제로 지켜질 것이라고 아이가 얼마나 믿는지에도 달려 있다.",
+    "why": "약속이 지켜진다고 배운 아이가 더 오래 기다렸으므로 (A) trusts and believes, (B) actually kept입니다.",
     "optionNotes": [
-      "noisy와 harm은 글과 반대입니다.",
-      "dark와 stop은 글에 나오지 않습니다.",
-      "crowded와 lower는 글과 반대입니다.",
-      "정답. 평화로운 자연 환경이 창의성을 향상시킵니다.",
-      "indoor와 end는 글과 맞지 않습니다."
+      "약속이 지켜질지 의심하면 기다리지 않습니다.",
+      "약속이 바뀔 것이라 기대하는 내용이 아닙니다.",
+      "약속이 잊힐까 두려워하는 내용은 아닙니다.",
+      "정답. 약속이 실제로 지켜질 것이라고 믿는 정도입니다.",
+      "약속이 깨지길 바란다는 것은 맞지 않습니다."
     ],
-    "trap": "(A)가 맞아도 (B)가 결과(독창적 아이디어 증가)와 일치하는지 확인하세요.",
-    "tip": "요약문은 실험군의 조건(조용한 공원)과 결과(창의성 증가)를 짝지으세요."
+    "trap": "①의 'doubts'는 'kept'와 짝지어 보면 뜻이 반대로 됩니다.",
+    "tip": "마지막의 'whether waiting makes sense'를 풀어 쓰면 약속에 대한 믿음입니다."
   }
 ]
