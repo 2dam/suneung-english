@@ -3,229 +3,247 @@
     "id": "m3b-08-18",
     "level": "m3",
     "set": "mock-08",
+    "rev": 2,
     "no": 18,
     "type": "purpose",
     "stem": "다음 글의 목적으로 가장 적절한 것은?",
-    "passage": "Dear Customer Service Team,\nI am writing about the wireless headphones that I purchased from your online store on September 3 (order number 84217). When the package arrived, the right earphone did not produce any sound, even though I fully charged the device and followed the instructions in the manual. I have shopped at your store for several years, and this is the first time I have had such a problem. I contacted your chat service twice, and each time I was told to restart the headphones, which did not solve the problem. Because I bought them as a birthday gift for my brother, I would like to receive either a replacement or a full refund as soon as possible. I have attached photos of the product and the receipt. Thank you for your prompt attention to this matter.\nSincerely,\nHyejin Lee",
+    "passage": "Dear Neighbors,\nLast summer, the temperature on Maple Avenue reached thirty-eight degrees, and many of us noticed how little shade our street offers. Of the forty trees that once lined it, only eleven remain. The city has agreed to provide sixty young trees free of charge, but it cannot supply the people to plant them. We therefore warmly invite you to join our Community Planting Day on Saturday, March 29, from 9 a.m. until noon. No gardening experience is needed, because a forester from the city will show everyone how to dig the holes and water the roots. Children are welcome when accompanied by an adult. Please bring gloves and, if you can, a shovel. Lunch will be provided by two local restaurants. A young tree needs care for its first three summers, so we will also be looking for households willing to water one tree each. We hope to see you there.\nThe Maple Avenue Residents' Group",
     "options": [
-      "주문한 상품의 배송이 늦어지는 이유를 문의하려고",
-      "새로 구입한 제품의 사용 설명서를 다시 보내 달라고 부탁하려고",
-      "결함이 있는 제품의 교환이나 환불을 요청하려고",
-      "채팅 상담원의 불친절한 태도를 항의하려고",
-      "선물 포장 서비스를 신청하려고"
+      "폭염 대비 행동 요령을 주민에게 안내하려고",
+      "여름철 그늘이 부족하므로 시에 가로수를 더 많이 지원해 달라고 건의하려고",
+      "나무 심기 행사에 주민들이 참여해 달라고 초대하려고",
+      "새로 문을 연 지역 식당들을 홍보하려고",
+      "가로수 관리를 전담할 직원을 채용하려고"
     ],
     "answer": 2,
-    "translation": "고객 서비스 팀께. 9월 3일 귀사의 온라인 상점에서 구입한 무선 헤드폰(주문 번호 84217)에 관해 씁니다. 상자가 도착했을 때 기기를 완전히 충전하고 설명서의 지시를 따랐는데도 오른쪽 이어폰에서 아무 소리도 나지 않았습니다. 저는 몇 년 동안 귀사의 상점에서 쇼핑해 왔는데 이런 문제는 처음입니다. 저는 채팅 상담에 두 번 연락했고 그때마다 헤드폰을 다시 시작하라는 말을 들었지만 문제는 해결되지 않았습니다. 남동생의 생일 선물로 샀기 때문에 가능한 한 빨리 교환이나 전액 환불을 받고 싶습니다. 제품 사진과 영수증을 첨부했습니다. 이 문제에 신속히 관심 가져 주셔서 감사합니다. 이혜진 드림.",
-    "why": "소리가 나지 않는 결함 제품의 교환이나 환불을 요청하는 글입니다.",
+    "translation": "이웃 여러분께. 지난여름 메이플 애비뉴의 기온은 38도에 이르렀고 많은 분이 우리 거리에 그늘이 얼마나 적은지 알게 되었습니다. 한때 길을 따라 서 있던 마흔 그루의 나무 중 열한 그루만 남았습니다. 시는 어린 나무 예순 그루를 무료로 제공하기로 했지만 심을 사람까지 보낼 수는 없습니다. 그래서 3월 29일 토요일 오전 9시부터 정오까지 열리는 지역 나무 심기의 날에 여러분을 따뜻하게 초대합니다. 시의 산림 전문가가 구덩이를 파고 뿌리에 물 주는 법을 알려 드리므로 원예 경험은 필요 없습니다. 어린이는 어른과 함께라면 환영합니다. 장갑과 가능하면 삽을 가져오세요. 점심은 지역 식당 두 곳이 제공합니다. 어린 나무는 처음 세 번의 여름 동안 돌봄이 필요하므로 한 그루씩 물을 줄 가정도 찾을 것입니다. 뵙기를 바랍니다. 메이플 애비뉴 주민 모임.",
+    "why": "시가 제공하는 나무를 함께 심는 행사에 주민들을 초대하는 글입니다.",
     "optionNotes": [
-      "배송 지연이 아닙니다.",
-      "설명서는 이미 따랐다고 합니다.",
-      "정답. 교환 또는 환불을 요청합니다.",
-      "상담원 태도 항의가 아닙니다.",
-      "선물 포장 신청이 아닙니다."
+      "폭염 요령 안내가 아닙니다.",
+      "시는 이미 나무를 제공하기로 했습니다.",
+      "정답. 나무 심기 행사에 초대합니다.",
+      "식당은 점심을 제공할 뿐입니다.",
+      "직원 채용이 아닙니다."
     ],
-    "trap": "'birthday gift'가 나온다고 선물 포장 신청(⑤)으로 착각하지 마세요.",
-    "tip": "목적 문제는 'I would like to receive ~' 같은 요구 문장을 찾으세요."
+    "trap": "시의 지원 이야기를 보고 건의(②)로 착각하지 마세요. 이미 합의된 사항입니다.",
+    "tip": "목적 문제는 'We therefore warmly invite you ~' 같은 초대 문장을 찾으세요."
   },
   {
     "id": "m3b-08-19",
     "level": "m3",
     "set": "mock-08",
+    "rev": 2,
     "no": 19,
     "type": "mood",
-    "stem": "다음 글에 드러난 Ha-eun의 심경 변화로 가장 적절한 것은?",
-    "passage": "Ha-eun stood at the window of the empty living room, looking at the boxes stacked by the door. Tomorrow, her family would move to a city five hundred kilometers away because of her father's new job. She had spent her whole life in this neighborhood, and the thought of leaving her friends made her chest tight. She wondered whether anyone in the new school would talk to her. That evening, her friends surprised her with a farewell party and a scrapbook full of photos and messages. Reading them, she cried, but she also realized that real friendships do not end with distance. When she looked out at the stars that night, she felt a small spark of excitement about the new life that was waiting.",
+    "stem": "다음 글에 드러난 Dongha의 심경 변화로 가장 적절한 것은?",
+    "passage": "Dongha leaned back in his chair and smiled as the other teams presented their science projects. His own presentation was ready: thirty polished slides, a video of the experiment, and a joke for the opening that had made his father laugh twice. He had not even bothered to print his notes, since everything he needed would appear on the screen. When his name was called, he walked up with an easy step and plugged in his laptop. The screen stayed blue. He tried another cable, then restarted the computer, while the hall grew quiet and the judges looked at their watches. His mouth turned dry, and the numbers from his experiment, which he had known by heart the night before, seemed to have vanished. He stared at the blank screen, then at the faces, and could not think of a single sentence to say. Somewhere behind him, a chair creaked, and it sounded as loud as thunder.",
     "options": [
-      "bored and lazy → angry and tired",
-      "proud and cheerful → envious and bitter",
-      "sad and anxious about leaving → comforted and hopeful about a new beginning",
-      "curious and eager → frightened and lonely",
-      "calm and relaxed → ashamed and nervous"
+      "bored → curious",
+      "nervous → relieved",
+      "relaxed and confident → panicked and helpless",
+      "angry → grateful",
+      "lonely → hopeful"
     ],
     "answer": 2,
-    "translation": "하은은 빈 거실의 창가에 서서 문 옆에 쌓인 상자들을 바라보았다. 내일 그녀의 가족은 아버지의 새 일 때문에 오백 킬로미터 떨어진 도시로 이사한다. 그녀는 평생 이 동네에서 살았고 친구들을 떠난다는 생각에 가슴이 답답했다. 그녀는 새 학교에서 누가 말을 걸어 줄지 궁금했다. 그날 저녁 친구들이 송별 파티와 사진과 메시지로 가득한 스크랩북으로 그녀를 놀라게 했다. 그것을 읽으며 그녀는 울었지만 진정한 우정은 거리로 끝나지 않는다는 것도 깨달았다. 그날 밤 별을 내다보며 그녀는 기다리는 새 삶에 대한 작은 설렘을 느꼈다.",
-    "why": "처음에는 떠나는 것이 슬프고 불안했지만(sad and anxious), 친구들의 송별회 후 위로받고 새 출발에 희망을 느꼈습니다(comforted and hopeful).",
+    "translation": "다른 팀들이 과학 프로젝트를 발표하는 동안 동하는 의자에 기대어 미소 지었다. 그의 발표는 준비되어 있었다. 다듬은 슬라이드 서른 장, 실험 영상, 아버지를 두 번 웃게 한 도입 농담. 필요한 것은 모두 화면에 뜰 것이므로 메모를 인쇄하는 수고도 하지 않았다. 이름이 불리자 그는 가벼운 걸음으로 걸어 나가 노트북을 연결했다. 화면은 파란색 그대로였다. 그는 다른 케이블을 써 보고 컴퓨터를 다시 켰는데, 그사이 강당은 조용해지고 심사위원들은 시계를 보았다. 입이 말랐고 전날 밤 외우고 있던 실험 수치가 사라진 것 같았다. 그는 텅 빈 화면을, 그다음 얼굴들을 바라보았고 할 말을 한 문장도 떠올릴 수 없었다. 뒤 어딘가에서 의자가 삐걱거렸고 그 소리는 천둥처럼 크게 들렸다.",
+    "why": "느긋하고 자신만만했지만(relaxed and confident) 화면이 나오지 않자 당황하고 속수무책이 되었으므로(panicked and helpless) ③입니다.",
     "optionNotes": [
-      "지루함에서 화남이 아닙니다.",
-      "자랑스러움에서 시기가 아닙니다.",
-      "정답. 슬픔과 불안에서 위로와 희망으로 변했습니다.",
-      "호기심에서 두려움이 아닙니다.",
-      "차분함에서 부끄러움이 아닙니다."
+      "지루함에서 호기심이 아닙니다.",
+      "긴장에서 안도가 아닙니다.",
+      "정답. 느긋한 자신감에서 당황과 무력감으로 변했습니다.",
+      "화남에서 감사가 아닙니다.",
+      "외로움에서 희망이 아닙니다."
     ],
-    "trap": "'she cried'를 슬픔으로만 해석하지 말고 이후의 깨달음과 연결하세요.",
-    "tip": "전환 신호(That evening, friends surprised her)를 기준으로 감정 변화를 읽으세요."
+    "trap": "앞부분의 미소만 보고 긍정적 결말을 예상하지 마세요.",
+    "tip": "전환 신호(The screen stayed blue) 앞뒤의 감정을 비교하세요."
   },
   {
     "id": "m3b-08-20",
     "level": "m3",
     "set": "mock-08",
+    "rev": 2,
     "no": 20,
     "type": "claim",
     "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
-    "passage": "Every year, thousands of people die because no one nearby knows how to help them in the first few minutes of an emergency. When a person's heart stops, each minute without help reduces the chance of survival by about ten percent. An ambulance may take more than ten minutes to arrive, which is often too late. Unfortunately, only a small number of people in most countries have ever taken a first-aid course. In contrast, someone who has learned basic first aid, such as chest compressions and how to stop bleeding, can keep the person alive until professionals arrive. These skills can be learned in a single afternoon, and they are useful at home, at school, and on the street. Therefore, everyone should learn basic first aid so that they can save lives in an emergency.",
+    "passage": "A generation ago, many children walked or cycled to school, ran errands to nearby shops, and played outside until dinner. Today, in many cities, they are driven almost everywhere. Parents have understandable reasons, chiefly the speed and volume of traffic. Yet the result is a loop: as more children travel by car, the streets around schools become more crowded and dangerous, which persuades still more parents to drive. Children lose daily exercise and, just as importantly, the chance to learn how to judge risks, find their way, and solve small problems without an adult. Research from several countries links independent travel with greater confidence and stronger ties to the neighborhood. Telling parents to be braver will not change much while the streets remain hostile. What helps are physical changes such as safe crossings, slower speed limits, and car-free zones near school gates. Cities should therefore redesign their streets so that children can safely get around on their own.",
     "options": [
-      "구급차의 도착 시간을 줄이기 위해 병원을 더 많이 지어야 한다.",
-      "집과 학교에서는 응급 상황이 거의 일어나지 않는다.",
-      "의료 전문가가 아니면 응급 처치를 시도해서는 안 된다.",
-      "누구나 응급 상황에서 생명을 구할 수 있도록 기초 응급 처치 방법을 배워 두어야 한다.",
-      "응급 처치 교육은 의과 대학에서만 받을 수 있어야 한다."
+      "부모는 아이의 안전을 위해 등하교를 직접 책임져야 한다.",
+      "학교는 학생의 체력을 기르기 위해 체육 시간을 늘려야 한다.",
+      "부모는 걱정을 버리고 아이를 용감하게 혼자 내보내야 한다.",
+      "도시는 어린이가 혼자서도 안전하게 다닐 수 있도록 거리를 새롭게 설계해야 한다.",
+      "자동차 통학을 하는 가정에는 벌금을 부과해야 한다."
     ],
     "answer": 3,
-    "translation": "해마다 응급 상황의 처음 몇 분 동안 주변에 아무도 도울 줄 몰라서 수천 명이 목숨을 잃는다. 사람의 심장이 멈추면 도움 없이 보내는 1분마다 생존 확률이 약 10퍼센트씩 줄어든다. 구급차가 도착하는 데 10분 넘게 걸릴 수 있고 이는 흔히 너무 늦다. 안타깝게도 대부분의 나라에서 응급 처치 강좌를 들어 본 사람은 소수뿐이다. 반면 흉부 압박과 지혈법 같은 기초 응급 처치를 배운 사람은 전문가가 올 때까지 그 사람을 살려 둘 수 있다. 이런 기술은 한나절에 배울 수 있고 집, 학교, 길에서 유용하다. 그러므로 누구나 응급 상황에서 생명을 구할 수 있도록 기초 응급 처치를 배워야 한다.",
-    "why": "마지막 문장 'everyone should learn basic first aid'가 주장입니다.",
+    "translation": "한 세대 전에는 많은 어린이가 학교에 걸어가거나 자전거를 타고, 가까운 가게에 심부름을 가고, 저녁까지 밖에서 놀았다. 오늘날 많은 도시에서 아이들은 거의 어디든 차로 실려 간다. 부모에게는 이해할 만한 이유가 있는데, 주로 교통의 속도와 양이다. 그러나 그 결과는 악순환이다. 더 많은 아이가 차로 다닐수록 학교 주변 거리는 더 붐비고 위험해지며 이는 더 많은 부모를 운전하게 설득한다. 아이들은 매일의 운동뿐 아니라 그만큼 중요하게, 어른 없이 위험을 판단하고 길을 찾고 작은 문제를 푸는 법을 배울 기회를 잃는다. 여러 나라의 연구는 스스로 이동하는 것을 더 큰 자신감, 동네와의 강한 유대와 연결한다. 거리가 적대적인 한 부모에게 더 용감해지라고 말해도 크게 바뀌지 않는다. 도움이 되는 것은 안전한 횡단보도, 낮은 제한 속도, 교문 근처의 차 없는 구역 같은 물리적 변화이다. 그러므로 도시는 아이들이 스스로 안전하게 다닐 수 있도록 거리를 다시 설계해야 한다.",
+    "why": "마지막 문장에서 아이들이 스스로 안전하게 다닐 수 있도록 거리를 다시 설계해야 한다고 주장합니다.",
     "optionNotes": [
-      "병원 건설은 나오지 않습니다.",
-      "집과 학교에서도 유용하다고 합니다.",
-      "전문가만 해야 한다는 것은 글과 반대입니다.",
-      "정답. 누구나 기초 응급 처치를 배워야 합니다.",
-      "의과 대학에서만 배운다는 것은 글과 반대입니다."
+      "부모가 등하교를 책임지라는 것은 악순환의 원인입니다.",
+      "체육 시간은 나오지 않습니다.",
+      "용감해지라는 말만으로는 바뀌지 않는다고 했습니다.",
+      "정답. 거리를 새롭게 설계해야 합니다.",
+      "벌금은 나오지 않습니다."
     ],
-    "trap": "앞부분의 문제(구급차 지연)를 해결책(병원 건설)으로 확대하지 마세요.",
-    "tip": "Therefore, everyone should ~ 문장이 필자의 주장입니다."
+    "trap": "③은 'Telling parents to be braver will not change much'와 반대입니다.",
+    "tip": "주장은 'should therefore'로 시작하는 마지막 문장에서 확인하세요."
   },
   {
     "id": "m3b-08-21",
     "level": "m3",
     "set": "mock-08",
+    "rev": 2,
     "no": 21,
     "type": "implied",
     "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
-    "passage": "Taeho had been looking for a limited edition comic book for weeks. A friend told him that a bookstore in the next city had one copy, so he took three buses and walked for an hour to find it. When he finally arrived, the clerk told him that the book had been sold the day before. Tired and hungry, Taeho realized that he had never called the store to check. The long journey turned out to be {u|a wild goose chase}, and he promised himself that he would always phone first next time. On the way home, he laughed at how serious he had been about it.",
+    "passage": "The basement of the town library flooded for the third time in two years. Each time, the staff rented pumps, dried the carpets, and moved the wet books to the upper floor. After the latest flood, the director proposed buying a larger and faster pump, so that the water could be removed within hours. An engineer on the town council objected. A new pump, she said, would be nothing but {u|a Band-Aid solution}. The water kept coming because a drain beneath the parking lot had collapsed, and the ground now sloped toward the library wall. A bigger pump would make each flood shorter, but it would not stop the next one, and the walls would continue to absorb moisture until mold appeared. She suggested repairing the drain and regrading the ground, a plan that cost more at the start. The council argued for an hour and finally voted to inspect the drain before spending money on any machine.",
     "options": [
-      "a trip to see wild birds in their natural habitat during the spring",
-      "an exciting adventure that ends with a great prize for the winner",
-      "a competition to catch the largest bird in the area around a lake",
-      "a pointless search for something that cannot be found",
-      "a friendly race between two travelers on a long and dusty road"
+      "an expensive plan that solves every problem at once",
+      "a medical supply that is kept for emergencies",
+      "a decision that is made without any discussion",
+      "a temporary fix that leaves the real cause untouched",
+      "a method that makes the damage much worse than before"
     ],
     "answer": 3,
-    "translation": "태호는 몇 주 동안 한정판 만화책을 찾고 있었다. 친구가 옆 도시의 서점에 한 권이 있다고 알려 주어서 그는 버스를 세 번 타고 한 시간을 걸어 그것을 찾아갔다. 마침내 도착했을 때 점원은 그 책이 전날 팔렸다고 말했다. 지치고 배고픈 태호는 가게에 전화로 확인해 보지 않았음을 깨달았다. 그 긴 여정은 헛수고였고 그는 다음에는 반드시 먼저 전화하겠다고 다짐했다. 집에 오는 길에 그는 자신이 그 일에 얼마나 진지했는지 생각하며 웃었다.",
-    "why": "책을 찾아 먼 길을 갔지만 팔리고 없었으므로 'a wild goose chase'는 헛수고가 되는 쓸데없는 탐색을 뜻합니다.",
+    "translation": "마을 도서관의 지하가 2년 사이 세 번째로 침수되었다. 매번 직원들은 펌프를 빌리고 카펫을 말리고 젖은 책을 위층으로 옮겼다. 가장 최근의 침수 뒤 관장은 몇 시간 안에 물을 뺄 수 있도록 더 크고 빠른 펌프를 사자고 제안했다. 마을 의회의 한 기술자가 반대했다. 새 펌프는 임시방편일 뿐이라고 그녀는 말했다. 물이 계속 들어오는 것은 주차장 아래의 배수관이 무너졌고 땅이 이제 도서관 벽 쪽으로 기울어져 있기 때문이었다. 더 큰 펌프는 침수를 짧게 하겠지만 다음 침수를 막지 못하고 벽은 곰팡이가 생길 때까지 계속 습기를 빨아들일 것이었다. 그녀는 처음에 돈이 더 드는 배수관 수리와 지면 경사 조정을 제안했다. 의회는 한 시간 동안 논쟁한 끝에 기계에 돈을 쓰기 전에 배수관을 점검하기로 의결했다.",
+    "why": "원인(무너진 배수관)을 두고 물만 빨리 빼는 것이므로 'a Band-Aid solution'은 진짜 원인을 건드리지 않는 임시방편을 뜻합니다.",
     "optionNotes": [
-      "야생 조류 관찰 여행이 아닙니다.",
-      "상을 받는 모험이 아닙니다.",
-      "새를 잡는 대회가 아닙니다.",
-      "정답. 찾을 수 없는 것을 찾는 헛수고입니다.",
-      "여행자 간의 경주가 아닙니다."
+      "모든 문제를 한 번에 푸는 계획이 아닙니다.",
+      "의료용품이라는 문자 그대로의 뜻이 아닙니다.",
+      "논의 없는 결정이 아닙니다.",
+      "정답. 진짜 원인을 그대로 둔 임시방편입니다.",
+      "피해를 더 키우는 방법이라는 뜻이 아닙니다."
     ],
-    "trap": "'goose'를 문자 그대로 거위로 해석하지 마세요.",
-    "tip": "관용 표현은 글의 결과(책이 이미 팔림)에서 의미를 추론하세요."
+    "trap": "'Band-Aid'를 의료용품으로 해석하면 ②에 속습니다.",
+    "tip": "뒤의 설명(would not stop the next one)이 의미의 단서입니다."
   },
   {
     "id": "m3b-08-22",
     "level": "m3",
     "set": "mock-08",
+    "rev": 2,
     "no": 22,
     "type": "gist",
     "stem": "다음 글의 요지로 가장 적절한 것은?",
-    "passage": "Most of us believe that we are good listeners, yet research suggests otherwise. While another person is speaking, our minds often race ahead, preparing what we will say next or judging what we are hearing. As a result, we miss important details, and the speaker feels ignored. For example, a friend may share a worry, but we interrupt with advice before they have finished. Real listening requires a different habit: staying with the speaker's words until the end, and asking questions to confirm that we understood. This simple effort makes people feel respected, and it strengthens trust in relationships. Even a short pause before answering shows that the words were heard. Good listening, in other words, is not a talent but a discipline that can be practiced.",
+    "passage": "We usually imagine that creativity flourishes when nothing limits it: unlimited time, unlimited materials, complete freedom. Many artists and designers would disagree. A blank page with no rules can be paralyzing, because every direction is equally possible and there is no obvious place to begin. A constraint, such as a poem of seventeen syllables or a meal made from only five ingredients, narrows the field and forces the mind away from its habitual first answers. In laboratory studies, people who were asked to build objects from a restricted set of parts often produced more original designs than those who could choose any parts they liked. The famous children's author Dr. Seuss wrote one of his best-known books after a publisher bet that he could not tell a story using only fifty different words. Of course, limits that are too tight leave no room to move at all. Within reason, however, a well-chosen restriction is not the enemy of imagination but one of its sources.",
     "options": [
-      "말을 잘하는 사람이 사람들의 마음을 얻는 데 유리하다.",
-      "상대의 말을 진정으로 듣는다는 것은 내 대답을 미리 준비하기보다 끝까지 집중하며 이해하려고 노력하는 것이다.",
-      "듣기 능력은 타고나는 것이므로 연습으로는 개선되지 않는다.",
-      "대화 중에는 상대의 말을 판단하며 듣는 것이 가장 효과적이다.",
-      "질문을 많이 하면 상대방이 불쾌하게 느끼므로 삼가야 한다."
+      "창의성은 아무런 제한이 없는 자유로운 환경에서만 꽃필 수 있다.",
+      "적절하게 선택한 제약은 상상력을 가로막지 않고 오히려 창의성을 자극할 수 있다.",
+      "제약이 엄격하면 엄격할수록 작품의 완성도는 언제나 높아진다.",
+      "어린이 책은 쉬운 낱말만 사용해서 써야 널리 읽힌다.",
+      "예술가는 시작하기 전에 완벽한 계획을 세워야 한다."
     ],
     "answer": 1,
-    "translation": "우리 대부분은 자신이 잘 듣는 사람이라고 믿지만 연구는 그렇지 않다고 시사한다. 다른 사람이 말하는 동안 우리의 마음은 흔히 앞서 달려가 다음에 할 말을 준비하거나 듣는 것을 판단한다. 그 결과 우리는 중요한 세부 사항을 놓치고 말하는 사람은 무시당한다고 느낀다. 예를 들어 친구가 걱정을 털어놓아도 우리는 그가 끝내기 전에 조언으로 끼어든다. 진정한 듣기는 다른 습관을 요구한다. 끝까지 말하는 사람의 말에 머물고 이해했는지 확인하려고 질문하는 것이다. 이 단순한 노력은 사람들이 존중받는다고 느끼게 하고 관계의 신뢰를 강화한다. 대답하기 전의 짧은 멈춤조차 말을 들었음을 보여 준다. 다시 말해 잘 듣는 것은 재능이 아니라 연습할 수 있는 훈련이다.",
-    "why": "진정한 듣기는 대답을 준비하기보다 끝까지 집중해 이해하려는 노력이며 연습할 수 있는 훈련이라는 것이 요지입니다.",
+    "translation": "우리는 흔히 아무것도 제한하지 않을 때, 즉 무제한의 시간, 무제한의 재료, 완전한 자유가 있을 때 창의성이 꽃핀다고 상상한다. 많은 예술가와 디자이너는 동의하지 않을 것이다. 규칙 없는 백지는 모든 방향이 똑같이 가능하고 시작할 뚜렷한 곳이 없어서 몸을 굳게 할 수 있다. 17음절의 시나 다섯 가지 재료만으로 만든 식사 같은 제약은 범위를 좁히고 마음을 습관적인 첫 답에서 벗어나게 한다. 실험 연구에서 제한된 부품 세트로 물건을 만들라는 요청을 받은 사람들은 원하는 부품을 고를 수 있던 사람보다 흔히 더 독창적인 설계를 냈다. 유명한 어린이 작가 닥터 수스는 출판인이 서로 다른 낱말 쉰 개만으로는 이야기를 못 쓸 것이라고 내기를 건 뒤 가장 유명한 책 중 하나를 썼다. 물론 너무 빡빡한 제한은 움직일 여지를 전혀 남기지 않는다. 그러나 적당한 범위에서 잘 고른 제약은 상상력의 적이 아니라 그 원천 중 하나이다.",
+    "why": "잘 고른 제약은 상상력의 적이 아니라 원천이라는 것이 요지입니다.",
     "optionNotes": [
-      "말하기 능력은 나오지 않습니다.",
-      "정답. 끝까지 집중해 이해하려는 노력이 듣기입니다.",
-      "타고난 재능이 아니라 훈련이라고 합니다.",
-      "판단하며 듣는 것은 글에서 문제로 지적됩니다.",
-      "질문은 이해를 확인하는 좋은 방법으로 제시됩니다."
+      "제한 없는 환경만이라는 것은 통념이며 글이 반박합니다.",
+      "정답. 적절한 제약이 창의성을 자극합니다.",
+      "너무 빡빡한 제한은 여지를 없앤다고 했습니다.",
+      "쉬운 낱말은 사례일 뿐입니다.",
+      "완벽한 계획은 나오지 않습니다."
     ],
-    "trap": "앞부분의 현상(마음이 앞서 달림)과 뒷부분의 해결책을 구분하세요.",
-    "tip": "In other words 문장과 콜론 뒤 설명이 요지를 담습니다."
+    "trap": "③은 'limits that are too tight leave no room'을 무시한 과장입니다.",
+    "tip": "요지는 'Within reason, however, ~'로 시작하는 마지막 문장입니다."
   },
   {
     "id": "m3b-08-23",
     "level": "m3",
     "set": "mock-08",
+    "rev": 2,
     "no": 23,
     "type": "topic",
     "stem": "다음 글의 주제로 가장 적절한 것은?",
-    "passage": "When we have a cold, food seems to lose its flavor. This happens because most of what we call taste actually comes from smell. The tongue can detect only five basic tastes: sweet, sour, salty, bitter, and umami. These tastes are detected by small buds that cover the surface of the tongue. The rich variety of flavors, such as strawberry or coffee, is created when aroma molecules travel from the mouth to the nose and are recognized by smell receptors. To test this, try pinching your nose while eating a piece of chocolate. You will notice that the flavor almost disappears until you release your nose. Without smell, a cup of coffee would seem simply bitter. This shows that the senses of smell and taste work together.",
+    "passage": "Almost everyone has slipped on ice, yet the question of why ice is so slippery has troubled scientists for more than a century. The old explanation was pressure: a skate blade presses on the ice, the pressure lowers the melting point, and the skater glides on a film of water. Calculations show, however, that the weight of a person changes the melting point by only a few degrees, far too little to explain skating on a very cold day. A second idea is friction, since the rubbing of a moving blade produces heat. This helps once we are sliding, but it cannot explain why we slip while standing still. Recent experiments point to the surface itself. Molecules at the top of ice have fewer neighbors to hold them in place, so they can roll and move even well below zero, behaving something like tiny balls. The full story probably involves all three effects, with their importance changing with temperature and speed.",
     "options": [
-      "why people often lose their appetite when they have a cold in winter and early spring",
-      "what kinds of foods contain the largest amounts of sweet and salty flavors",
-      "how the sense of smell contributes to the flavors that we taste",
-      "when the five basic tastes were first discovered by scientists in history",
-      "where smell receptors are located inside the human nose and brain"
+      "스케이트 날의 모양에 따라 달라지는 속도",
+      "겨울철 빙판길 사고를 예방하는 방법",
+      "얼음이 미끄러운 까닭을 둘러싼 여러 설명",
+      "물의 어는점을 낮추는 다양한 화학 물질",
+      "빙상 경기장의 온도를 유지하는 기술"
     ],
     "answer": 2,
-    "translation": "감기에 걸리면 음식이 맛을 잃은 것 같다. 이는 우리가 맛이라고 부르는 것의 대부분이 사실 냄새에서 오기 때문이다. 혀는 단맛, 신맛, 짠맛, 쓴맛, 감칠맛의 다섯 가지 기본 맛만 감지할 수 있다. 이 맛들은 혀 표면을 덮은 작은 돌기가 감지한다. 딸기나 커피 같은 풍부하고 다양한 풍미는 향 분자가 입에서 코로 이동해 후각 수용체에 인식될 때 만들어진다. 이를 시험하려면 초콜릿을 먹으면서 코를 쥐어 보라. 코를 놓을 때까지 풍미가 거의 사라지는 것을 알게 될 것이다. 냄새가 없다면 커피 한 잔은 그저 쓰게만 느껴질 것이다. 이는 후각과 미각이 함께 작용함을 보여 준다.",
-    "why": "후각이 우리가 느끼는 풍미에 기여하는 방식을 설명합니다.",
+    "translation": "거의 모든 사람이 얼음에서 미끄러진 적이 있지만 얼음이 왜 그렇게 미끄러운지는 백 년 넘게 과학자를 괴롭혀 왔다. 옛 설명은 압력이었다. 스케이트 날이 얼음을 누르면 압력이 녹는점을 낮추고 스케이터는 물막 위를 미끄러진다는 것이다. 그러나 계산에 따르면 사람의 무게는 녹는점을 몇 도 바꿀 뿐이어서 몹시 추운 날의 스케이트를 설명하기에는 너무 적다. 두 번째 생각은 마찰인데, 움직이는 날의 문지름이 열을 만들기 때문이다. 이는 미끄러지기 시작한 뒤에는 도움이 되지만 가만히 서 있을 때 미끄러지는 이유는 설명하지 못한다. 최근 실험은 표면 자체를 가리킨다. 얼음 꼭대기의 분자는 붙들어 줄 이웃이 적어서 영하 훨씬 아래에서도 구르고 움직이며 작은 공처럼 행동한다. 전체 이야기는 아마 세 효과 모두를 포함하며 그 중요성은 온도와 속도에 따라 달라진다.",
+    "why": "압력, 마찰, 표면 분자 등 얼음이 미끄러운 이유에 대한 여러 설명을 다루는 글입니다.",
     "optionNotes": [
-      "식욕 감퇴가 아닙니다.",
-      "음식의 종류는 나오지 않습니다.",
-      "정답. 후각이 풍미에 기여하는 방식입니다.",
-      "기본 맛의 발견 시기는 나오지 않습니다.",
-      "수용체의 위치는 나오지 않습니다."
+      "날 모양과 속도는 나오지 않습니다.",
+      "사고 예방은 나오지 않습니다.",
+      "정답. 얼음이 미끄러운 까닭의 여러 설명입니다.",
+      "어는점을 낮추는 화학 물질은 나오지 않습니다.",
+      "경기장 온도 유지는 나오지 않습니다."
     ],
-    "trap": "'cold'가 먼저 나온다고 감기와 식욕(①)으로 착각하지 마세요.",
-    "tip": "주제는 반복되는 핵심(smell, taste, flavor)을 묶어 찾으세요."
+    "trap": "스케이트 이야기에 끌려 ①⑤를 고르지 마세요.",
+    "tip": "주제는 첫 문장의 질문(why ice is so slippery)에 답하는 선택지입니다."
   },
   {
     "id": "m3b-08-24",
     "level": "m3",
     "set": "mock-08",
+    "rev": 2,
     "no": 24,
     "type": "title",
     "stem": "다음 글의 제목으로 가장 적절한 것은?",
-    "passage": "In many remote villages, the nearest library may be hours away, which makes it difficult for children to borrow books. To solve this problem, several countries have created mobile libraries. Some of them use trucks, boats, or even animals to reach readers who cannot visit a building. In Kenya, camels carry boxes of books across the desert to nomadic communities. In Colombia, a man named Luis Soriano travels with two donkeys, Alfa and Beto, to bring books to children in the mountains. In Norway, a floating library visits small islands by boat. Children there wait for the boat to arrive with great excitement. Local volunteers often help to collect the books and to repair them. These unusual libraries show that creativity can bring knowledge to places that are hard to reach.",
+    "passage": "Cut across the trunk of an old tree and you will see a series of rings, one for each year of its life. Their widths are not equal. In a warm, wet year, a tree grows quickly and leaves a broad ring; in a dry or cold one, the ring is thin. Because trees in the same region experience the same weather, their patterns match like fingerprints. By overlapping the rings of living trees with those of old beams, buried logs, and ship timbers, scientists have built continuous records that reach back thousands of years. These records can reveal when a house was built, when a great drought struck, or when a volcanic eruption cooled the summers of an entire hemisphere. The method has even been used to check the dating of other techniques. A tree cannot write, but year after year it keeps a faithful diary of the world around it, and we have only recently learned to read it.",
     "options": [
-      "How Camels and Donkeys Are Trained to Carry Heavy Loads Across the Desert",
-      "The Library That Travels: Bringing Books to Remote Places",
-      "Why Children in Cities Prefer Digital Books to Printed Books Today",
-      "A Short History of Boats That Were Used by Explorers in Northern Europe",
-      "Ten Ways to Build a Perfect Library in the Center of a Large City"
+      "How to Count the Age of the Oldest Trees in a Forest",
+      "Diaries in Wood: What Tree Rings Tell Us About the Past",
+      "Why the Old Sailing Ships Were Built from Very Hard and Heavy Timber",
+      "The Effect of Volcanic Eruptions on Farming",
+      "Protecting Ancient Forests from Illegal Cutting"
     ],
     "answer": 1,
-    "translation": "많은 외딴 마을에서는 가장 가까운 도서관이 몇 시간 거리에 있어서 아이들이 책을 빌리기 어렵다. 이 문제를 해결하려고 여러 나라가 이동 도서관을 만들었다. 그중 일부는 건물을 찾아올 수 없는 독자에게 닿으려고 트럭, 배, 심지어 동물을 이용한다. 케냐에서는 낙타가 책 상자를 싣고 사막을 건너 유목민 공동체에 간다. 콜롬비아에서는 루이스 소리아노라는 남자가 두 마리 당나귀 알파와 베토와 함께 다니며 산속 아이들에게 책을 가져다준다. 노르웨이에서는 떠다니는 도서관이 배로 작은 섬을 방문한다. 그곳의 아이들은 배가 오기를 큰 설렘으로 기다린다. 지역 자원봉사자들은 흔히 책을 모으고 고치는 일을 돕는다. 이 특이한 도서관들은 창의성이 닿기 어려운 곳에 지식을 가져다줄 수 있음을 보여 준다.",
-    "why": "낙타, 당나귀, 배를 이용해 외딴 곳에 책을 전하는 이동 도서관을 소개하므로 ②가 제목입니다.",
+    "translation": "오래된 나무의 줄기를 가로로 자르면 일 년에 하나씩의 고리들이 보인다. 폭은 같지 않다. 따뜻하고 습한 해에 나무는 빨리 자라 넓은 고리를 남기고, 마르거나 추운 해에는 고리가 얇다. 같은 지역의 나무는 같은 날씨를 겪으므로 그 무늬는 지문처럼 일치한다. 살아 있는 나무의 고리를 오래된 들보, 묻힌 통나무, 배의 목재의 고리와 겹침으로써 과학자들은 수천 년 전까지 이어지는 연속 기록을 만들었다. 이 기록은 집이 언제 지어졌는지, 큰 가뭄이 언제 닥쳤는지, 화산 폭발이 언제 반구 전체의 여름을 식혔는지 드러낼 수 있다. 이 방법은 다른 기법의 연대 측정을 확인하는 데도 쓰였다. 나무는 글을 쓸 수 없지만 해마다 주위 세계의 충실한 일기를 간직하며 우리는 최근에야 그것을 읽는 법을 배웠다.",
+    "why": "나이테가 과거의 기후와 사건을 알려 주는 일기라는 내용이므로 ②가 제목으로 알맞습니다.",
     "optionNotes": [
-      "동물 훈련은 나오지 않습니다.",
-      "정답. 외딴 곳으로 책을 가져가는 이동 도서관입니다.",
-      "도시 아이들의 선호는 나오지 않습니다.",
-      "탐험선의 역사는 나오지 않습니다.",
-      "도서관 건설법은 나오지 않습니다."
+      "나이 세기는 일부 내용입니다.",
+      "정답. 나무에 담긴 과거의 일기입니다.",
+      "배의 목재는 자료의 하나입니다.",
+      "농업 영향은 나오지 않습니다.",
+      "불법 벌목 보호는 나오지 않습니다."
     ],
-    "trap": "'camels', 'donkeys'가 나온다고 동물 훈련(①)으로 확대하지 마세요.",
-    "tip": "제목은 핵심 소재(mobile libraries)와 의의(remote places)를 함께 담으세요."
+    "trap": "'age', 'ship timbers' 같은 세부에 끌려 ①③을 고르지 마세요.",
+    "tip": "제목은 마지막의 비유(diary)를 담은 선택지가 알맞습니다."
   },
   {
     "id": "m3b-08-25",
     "level": "m3",
     "set": "mock-08",
+    "rev": 2,
     "no": 25,
     "type": "chart",
     "stem": "다음 도표의 내용과 일치하지 않는 것은?",
     "chart": {
-      "title": "Monthly Bicycle Sales at a Shop (units)",
-      "unit": "",
+      "title": "Waste Recycled by Type in a City (%)",
+      "unit": "%",
       "labels": [
-        "Mar",
-        "Apr",
-        "May",
-        "Jun",
-        "Jul"
+        "Paper",
+        "Glass",
+        "Plastic",
+        "Metal",
+        "Food"
       ],
       "series": [
         {
-          "name": "Units",
+          "name": "2012",
           "values": [
-            120,
-            200,
-            260,
-            310,
-            280
+            60,
+            50,
+            20,
+            55,
+            10
+          ]
+        },
+        {
+          "name": "2022",
+          "values": [
+            75,
+            55,
+            30,
+            70,
+            40
           ]
         }
       ]
     },
-    "passage": "The graph shows the monthly sales of bicycles at a shop. ① Sales increased every month from March to July. ② Sales in April were 80 units higher than in March. ③ June had the highest sales of the five months. ④ Sales in July were 30 units lower than in June. ⑤ Sales in May were more than twice those in March.",
+    "passage": "The graph shows the share of five types of waste that a city recycled in 2012 and 2022. ① The recycling rate of plastic rose more than that of any other type. ② Paper had the highest recycling rate in both years. ③ The rate for food waste in 2022 was four times as high as in 2012. ④ The rate for metal increased by 15 percentage points. ⑤ In 2012, the rate for glass was more than twice that for plastic.",
     "options": [
       "①",
       "②",
@@ -234,100 +252,103 @@
       "⑤"
     ],
     "answer": 0,
-    "translation": "그래프는 한 가게의 월별 자전거 판매량을 보여 준다. ① 판매량은 3월부터 7월까지 매달 늘었다. ② 4월의 판매량은 3월보다 80대 많았다. ③ 6월이 다섯 달 중 판매량이 가장 많았다. ④ 7월의 판매량은 6월보다 30대 적었다. ⑤ 5월의 판매량은 3월의 두 배가 넘었다.",
-    "why": "7월(280대)은 6월(310대)보다 줄었으므로 매달 늘었다는 ①은 일치하지 않습니다.",
+    "translation": "그래프는 한 도시가 2012년과 2022년에 재활용한 다섯 종류 쓰레기의 비율을 보여 준다. ① 플라스틱의 재활용률은 다른 어느 종류보다 많이 올랐다. ② 종이는 두 해 모두 재활용률이 가장 높았다. ③ 2022년 음식물 쓰레기의 비율은 2012년의 네 배였다. ④ 금속의 비율은 15퍼센트포인트 늘었다. ⑤ 2012년 유리의 비율은 플라스틱의 두 배가 넘었다.",
+    "why": "증가량은 음식물이 30퍼센트포인트(10→40)로 가장 크고 플라스틱은 10퍼센트포인트(20→30)입니다.",
     "optionNotes": [
-      "정답(불일치). 7월에는 감소했습니다.",
-      "200 - 120 = 80대입니다.",
-      "6월이 310대로 가장 많습니다.",
-      "310 - 280 = 30대입니다.",
-      "260은 120의 두 배(240)보다 큽니다."
+      "정답(불일치). 가장 많이 오른 것은 음식물(30%p)입니다.",
+      "75%와 60%로 종이가 가장 높습니다.",
+      "40은 10의 네 배입니다.",
+      "55%에서 70%로 15%p 늘었습니다.",
+      "50%는 20%의 2.5배입니다."
     ],
-    "trap": "전체 추세 문장은 끝까지 값을 확인하지 않으면 틀리기 쉽습니다.",
-    "tip": "every month 같은 전칭 표현은 모든 구간을 확인하세요."
+    "trap": "막대가 가장 높은 것과 가장 많이 오른 것을 혼동하지 마세요.",
+    "tip": "증가량은 두 해의 차이를 모두 계산해 비교하세요."
   },
   {
     "id": "m3b-08-26",
     "level": "m3",
     "set": "mock-08",
+    "rev": 2,
     "no": 26,
     "type": "match",
-    "stem": "Rachel Carson에 관한 다음 글의 내용과 일치하는 것은?",
-    "passage": "Rachel Carson was born in 1907 on a farm in Pennsylvania, where she developed a deep love of nature. She studied biology and later became a marine biologist, writing popular books about the sea. Her careful writing made difficult science easy for ordinary readers to understand. In the 1950s, she became worried by reports that powerful pesticides such as DDT were killing birds and other wildlife. After four years of research, she published Silent Spring in 1962, which described a future spring without birdsong. Even while she was seriously ill, she continued to write and to speak in public. The chemical industry attacked her work, but many readers were persuaded, and the book started a movement to protect the environment. In 1972, the United States banned the use of DDT on farms.",
+    "stem": "George Washington Carver에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "George Washington Carver was born into slavery in Missouri in the 1860s. As a child he was often ill and could not do heavy work, so he spent time in the woods studying plants, and neighbors began to call him the plant doctor. He was turned away from one college because he was Black, but he later studied agriculture in Iowa and became that school's first Black faculty member. In 1896 he moved to the Tuskegee Institute in Alabama, where he taught and did research for the rest of his life. Years of growing cotton had exhausted the southern soil. Carver urged farmers to rotate their crops with peanuts and sweet potatoes, which restore nitrogen, and he published simple bulletins describing hundreds of uses for these plants so that farmers could sell or eat what they grew. He also sent a wagon fitted as a classroom into the countryside to reach those who could not come to him.",
     "options": [
-      "그녀의 책 『침묵의 봄』은 살충제의 위험을 알려 환경 보호 운동의 계기가 되었다.",
-      "농장에서 자랐지만 자연에는 관심이 없어 법학을 공부했다.",
-      "화학 산업계는 그녀의 연구를 환영하며 적극적으로 지원했다.",
-      "『침묵의 봄』은 1950년대가 시작될 무렵에 출간되었다.",
-      "DDT는 그녀가 책을 출간한 직후 전 세계에서 곧바로 전면 금지되었다고 알려져 있다."
+      "건강이 좋지 않아 무거운 일을 하지 못하던 어린 시절에 숲에서 식물을 관찰했다.",
+      "처음 지원한 대학에 곧바로 입학해 농업을 공부한 뒤 그 학교에 남아 평생 학생들을 가르쳤다.",
+      "목화를 계속 재배하면 남부의 토양이 비옥해진다고 주장했다.",
+      "땅콩과 고구마가 토양의 질소를 빼앗으므로 재배를 말렸다.",
+      "농부들이 학교로 직접 올 수 없을 때에는 그들에 대한 교육을 아예 포기했다."
     ],
     "answer": 0,
-    "translation": "레이첼 카슨은 1907년 펜실베이니아의 한 농장에서 태어났고 그곳에서 자연에 대한 깊은 사랑을 키웠다. 그녀는 생물학을 공부했고 나중에 해양 생물학자가 되어 바다에 관한 대중적인 책을 썼다. 그녀의 꼼꼼한 글은 어려운 과학을 일반 독자가 이해하기 쉽게 만들었다. 1950년대에 그녀는 DDT 같은 강력한 살충제가 새와 다른 야생 동물을 죽이고 있다는 보고에 걱정하게 되었다. 사 년의 연구 끝에 그녀는 1962년 새소리 없는 미래의 봄을 묘사한 『침묵의 봄』을 출간했다. 심하게 아픈 중에도 그녀는 계속 글을 쓰고 대중 앞에서 강연했다. 화학 산업계는 그녀의 연구를 공격했지만 많은 독자가 설득되었고 그 책은 환경을 보호하는 운동을 시작시켰다. 1972년 미국은 농장에서 DDT 사용을 금지했다.",
-    "why": "'she published Silent Spring in 1962 ~ the book started a movement to protect the environment'와 일치합니다.",
+    "translation": "조지 워싱턴 카버는 1860년대 미주리에서 노예로 태어났다. 어린 시절 자주 아파 힘든 일을 할 수 없어 숲에서 식물을 관찰하며 시간을 보냈고 이웃들은 그를 식물 의사라 부르기 시작했다. 그는 흑인이라는 이유로 한 대학에서 거절당했지만 나중에 아이오와에서 농업을 공부해 그 학교 최초의 흑인 교수진이 되었다. 1896년 앨라배마의 터스키기 학원으로 옮겨 평생 가르치고 연구했다. 여러 해의 목화 재배는 남부의 토양을 고갈시켰다. 카버는 질소를 회복시키는 땅콩과 고구마로 작물을 돌려 심으라고 권했고 농부가 기른 것을 팔거나 먹을 수 있도록 이 식물의 수백 가지 쓰임을 설명한 간단한 소책자를 냈다. 또 자신에게 올 수 없는 사람에게 닿으려고 교실로 꾸민 마차를 시골에 보냈다.",
+    "why": "몸이 약해 힘든 일을 못 하던 어린 시절에 숲에서 식물을 관찰했다고 했으므로 ①이 일치합니다.",
     "optionNotes": [
-      "정답. 책이 환경 보호 운동을 시작시켰습니다.",
-      "자연을 사랑했고 생물학을 공부했습니다.",
-      "화학 산업계는 공격했습니다.",
-      "1962년에 출간되었습니다.",
-      "미국이 1972년에 금지했습니다."
+      "정답. 어린 시절 숲에서 식물을 관찰했습니다.",
+      "처음 대학에서는 거절당했습니다.",
+      "목화 재배는 토양을 고갈시켰습니다.",
+      "땅콩과 고구마는 질소를 회복시킵니다.",
+      "교실 마차를 시골로 보냈습니다."
     ],
-    "trap": "출간 연도(1962)와 금지 연도(1972)를 혼동하지 마세요.",
-    "tip": "일치 문제는 연도·반응·결과를 하나씩 대조하세요."
+    "trap": "'restore nitrogen'을 '빼앗는다'로 바꾼 ④를 조심하세요.",
+    "tip": "일치 문제는 원인과 결과(고갈/회복)의 방향을 확인하세요."
   },
   {
     "id": "m3b-08-27",
     "level": "m3",
     "set": "mock-08",
+    "rev": 2,
     "no": 27,
     "type": "notice",
-    "stem": "Community Garden Volunteer Day에 관한 다음 안내문의 내용과 일치하는 것은?",
-    "passage": "Hanbit Community Garden Spring Volunteer Day\nDate: Saturday, April 12, 9 a.m. - 1 p.m.\nPlace: Hanbit Community Garden, behind the library\nTasks: Preparing soil, planting seeds, and building wooden boxes for vegetables\nWho can join: Anyone aged 10 or older (children under 14 must come with a parent)\nWhat to bring: Work gloves and a water bottle. Tools and seeds are provided.\nLunch: A free lunch will be served to all volunteers at noon.\nRegistration: Sign up on the garden's website by April 9. Walk-ins are welcome if there is room.\nRain plan: If it rains heavily, the event will be moved to April 19.",
+    "stem": "Youth Robotics Workshop 안내문의 내용과 일치하는 것은?",
+    "passage": "Seaside Science Center - Youth Robotics Workshop\nDates: Four Saturdays, April 5, 12, 19, and 26, 1 p.m. - 4 p.m.\nFor: Students in grades 7 to 9; no experience necessary\nActivities: Building a wheeled robot from a kit, programming it to follow a line, and a friendly race on the final day\nFee: $45, which includes the loan of a kit and a laptop. Participants may buy their kit afterwards for an extra $30.\nGroup size: Limited to twenty; students work in pairs.\nApplication: Online only, from March 1. Places are assigned by lottery if more than twenty apply.\nRefunds: Full refund until March 29.\nNote: Parents are welcome to watch the race on April 26 but may not attend the other sessions.",
     "options": [
-      "열 살 미만의 어린이도 혼자서 참가할 수 있다.",
-      "삽과 씨앗을 포함한 모든 도구를 참가자가 준비해야 한다.",
-      "점심은 참가자가 일정한 금액을 내고 사 먹어야 한다.",
-      "신청은 행사 당일 현장에서만 받는다.",
-      "폭우가 내리면 행사는 4월 19일로 연기된다."
+      "프로그래밍 경험이 있는 학생만 신청할 수 있다.",
+      "참가비를 내면 로봇 키트를 가져갈 수 있다.",
+      "신청자가 정원보다 많으면 먼저 신청한 순서대로 참가자를 선발한다.",
+      "학부모는 모든 수업에 함께 참석할 수 있다.",
+      "마지막 날의 로봇 경주는 학부모도 참관할 수 있다."
     ],
     "answer": 4,
-    "translation": "한빛 공동 텃밭 봄맞이 자원봉사의 날. 일시: 4월 12일 토요일 오전 9시~오후 1시. 장소: 도서관 뒤 한빛 공동 텃밭. 활동: 흙 준비, 씨앗 심기, 채소용 나무 상자 만들기. 참가 자격: 10세 이상 누구나(14세 미만은 부모와 함께). 준비물: 작업용 장갑과 물병. 도구와 씨앗은 제공됩니다. 점심: 낮 12시에 모든 자원봉사자에게 무료 점심이 제공됩니다. 신청: 4월 9일까지 텃밭 웹사이트에서 신청. 자리가 있으면 현장 참가도 환영합니다. 우천 시: 폭우가 오면 행사는 4월 19일로 옮겨집니다.",
-    "why": "'If it rains heavily, the event will be moved to April 19.'와 일치합니다.",
+    "translation": "시사이드 과학관 – 청소년 로봇 워크숍. 날짜: 4월 5, 12, 19, 26일 네 번의 토요일 오후 1~4시. 대상: 7~9학년, 경험 불필요. 활동: 키트로 바퀴 로봇 만들기, 선을 따라가도록 프로그래밍하기, 마지막 날 친선 경주. 참가비: 45달러(키트와 노트북 대여 포함). 원하면 이후 30달러를 더 내고 키트를 살 수 있음. 정원: 20명 제한, 두 명씩 짝지어 작업. 신청: 3월 1일부터 온라인으로만. 20명이 넘으면 추첨. 환불: 3월 29일까지 전액. 안내: 학부모는 4월 26일 경주를 참관할 수 있지만 다른 수업에는 참석할 수 없습니다.",
+    "why": "'Parents are welcome to watch the race on April 26'과 일치합니다.",
     "optionNotes": [
-      "10세 이상이 대상입니다.",
-      "도구와 씨앗은 제공됩니다.",
-      "점심은 무료입니다.",
-      "웹사이트로 미리 신청할 수 있습니다.",
-      "정답. 폭우 시 4월 19일로 옮겨집니다."
+      "경험은 필요 없습니다.",
+      "키트는 대여이며 사려면 30달러를 더 냅니다.",
+      "인원이 넘으면 추첨합니다.",
+      "경주 외의 수업에는 참석할 수 없습니다.",
+      "정답. 마지막 날 경주는 참관할 수 있습니다."
     ],
-    "trap": "참가 자격(10세 이상)과 보호자 동반(14세 미만)을 혼동하지 마세요.",
-    "tip": "안내문의 What to bring, Lunch, Rain plan 항목을 하나씩 대조하세요."
+    "trap": "'loan of a kit'를 키트 제공으로 오해하지 마세요.",
+    "tip": "안내문의 For, Fee, Application, Note 항목을 하나씩 대조하세요."
   },
   {
     "id": "m3b-08-28",
     "level": "m3",
     "set": "mock-08",
+    "rev": 2,
     "no": 28,
     "type": "notice",
-    "stem": "Chess Club Open Tournament에 관한 다음 안내문의 내용과 일치하는 것은?",
-    "passage": "Hanbit Chess Club Open Tournament\nDate: Sunday, May 18, 10 a.m. - 5 p.m.\nPlace: Hanbit Community Center, Hall 2\nDivisions: Beginner (rating under 1000), Intermediate (1000 - 1500), and Advanced (over 1500)\nFormat: Five rounds; each player has 25 minutes per game\nEntry fee: $10 (students: $5). The fee includes lunch.\nRegistration: Online by May 11. Late entries cost an extra $3.\nPrizes: Trophies for the top three players in each division\nNote: Players should bring their own chess clocks if possible.",
+    "stem": "Night Market 안내문의 내용과 일치하는 것은?",
+    "passage": "Old Harbor Night Market\nOpen: Fridays and Saturdays from May to September, 5 p.m. - 11 p.m.\nPlace: Pier 3, a ten-minute walk from Harbor Station\nStalls: About sixty sellers of street food, handmade goods, and second-hand books\nPayment: Most stalls accept cards, but some take cash only. There is no cash machine on the pier.\nTo reduce waste: Bring your own cup and receive a $1 discount on drinks. Plastic bags are not given out.\nMusic: Local bands play from 7 p.m. to 9 p.m. on Saturdays only.\nPets: Dogs are welcome on a leash.\nCancellation: The market closes in strong winds; check our website after 3 p.m. on the day.",
     "options": [
-      "대회는 일요일과 월요일의 이틀 동안 열린다.",
-      "초급부는 레이팅이 1500 이상인 선수들이 참가한다.",
-      "참가비에는 점심 식사가 포함되어 있다.",
-      "마감 후에 늦게 신청해도 추가 요금은 없다.",
-      "각 부문의 우승자 한 명에게만 트로피를 준다."
+      "야시장은 일 년 내내 주말마다 열린다.",
+      "부두에 현금 인출기가 마련되어 있다.",
+      "개인 컵을 가져오면 음료를 할인받는다.",
+      "지역 밴드의 공연은 금요일과 토요일에 모두 열린다.",
+      "반려견은 야시장에 데려올 수 없다."
     ],
     "answer": 2,
-    "translation": "한빛 체스 동아리 오픈 대회. 일시: 5월 18일 일요일 오전 10시~오후 5시. 장소: 한빛 주민 센터 2홀. 부문: 초급(레이팅 1000 미만), 중급(1000~1500), 고급(1500 초과). 방식: 5라운드, 한 판당 선수당 25분. 참가비: 10달러(학생 5달러). 참가비에는 점심 포함. 신청: 5월 11일까지 온라인. 늦은 신청은 3달러 추가. 상: 각 부문 상위 3명에게 트로피. 유의: 가능하면 개인 체스 시계를 가져오세요.",
-    "why": "'The fee includes lunch.'와 일치합니다.",
+    "translation": "올드 하버 야시장. 운영: 5월~9월 금요일과 토요일 오후 5~11시. 장소: 하버역에서 걸어서 10분인 3번 부두. 가판대: 길거리 음식, 수공예품, 헌책을 파는 약 60곳. 결제: 대부분 카드를 받지만 일부는 현금만. 부두에는 현금 인출기가 없음. 쓰레기 줄이기: 개인 컵을 가져오면 음료 1달러 할인. 비닐봉지는 제공하지 않음. 음악: 지역 밴드가 토요일에만 오후 7~9시 공연. 반려동물: 목줄을 한 개는 환영. 취소: 강풍 시 휴장. 당일 오후 3시 이후 누리집 확인.",
+    "why": "'Bring your own cup and receive a $1 discount on drinks'와 일치합니다.",
     "optionNotes": [
-      "대회는 일요일 하루입니다.",
-      "초급부는 레이팅 1000 미만입니다.",
-      "정답. 참가비에 점심이 포함됩니다.",
-      "늦은 신청은 3달러가 추가됩니다.",
-      "각 부문 상위 3명에게 트로피를 줍니다."
+      "5월부터 9월까지만 열립니다.",
+      "현금 인출기가 없습니다.",
+      "정답. 개인 컵을 가져오면 음료를 할인받습니다.",
+      "토요일에만 공연합니다.",
+      "목줄을 한 개는 환영합니다."
     ],
-    "trap": "학생 참가비(5달러)와 늦은 신청 추가금(3달러)을 혼동하지 마세요.",
-    "tip": "안내문의 Entry fee, Registration, Prizes 항목을 하나씩 대조하세요."
+    "trap": "'Saturdays only'를 놓치고 ④를 고르지 마세요.",
+    "tip": "안내문의 Open, Payment, Music, Pets 항목을 하나씩 대조하세요."
   }
 ]
