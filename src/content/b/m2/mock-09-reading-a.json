@@ -3,229 +3,247 @@
     "id": "m2b-09-18",
     "level": "m2",
     "set": "mock-09",
+    "rev": 2,
     "no": 18,
     "type": "purpose",
     "stem": "다음 글의 목적으로 가장 적절한 것은?",
-    "passage": "Dear Mr. Kim,\nI am Dahee Yoon, a ninth-grade student at Hanbit Middle School. I often use the school library after class. It is a quiet place to study, and it has many useful books. However, the library closes at 4 p.m. on weekdays and stays closed on weekends. Many students have lessons after school, so they cannot visit before it closes. I would like to ask you to open the library on Saturday mornings. I believe that more students would read and study there. I would be glad to help as a volunteer if you need extra helpers. Thank you for considering my request.\nSincerely,\nDahee Yoon",
+    "passage": "Dear Students and Parents,\nEvery term, our school office collects a surprising number of lost items: jackets, lunch boxes, water bottles, glasses, and even a pair of rain boots. At the moment, three large boxes near the main entrance are completely full, and there is no more room for new things. Many of these items are almost new, and some have names written inside them, but nobody has come to ask about them. We would like their owners to have them back. Please visit the entrance hall before Friday, November 21, and look carefully through the boxes. Parents who come in the afternoon are welcome to look as well. Anything that has not been claimed by that date will be washed and given to a local charity. In the future, writing your name on your belongings will help us to return them to you quickly.\nSunnyvale Middle School Office",
     "options": [
-      "도서관에 새로운 도서 구입을 건의하려고",
-      "도서관 자원봉사 활동의 신청 방법을 문의하려고",
-      "도서관의 토요일 오전 개방을 요청하려고",
-      "방과 후 학원 수업 시간의 조정을 부탁하려고",
-      "분실한 도서관 대출증의 재발급을 요청하려고"
+      "분실물 보관함을 새로 설치했다고 알리려고",
+      "자선 단체에 보낼 물품을 기부해 달라고 요청하려고",
+      "정해진 날짜 전까지 분실물을 찾아가 달라고 안내하려고",
+      "학생들이 학교에서 소지품을 자주 잃어버리는 원인을 설문으로 조사하려고",
+      "현관 입구의 공사 일정을 알려 주려고"
     ],
     "answer": 2,
-    "translation": "김 선생님께. 저는 한빛 중학교 9학년 윤다희입니다. 저는 방과 후에 학교 도서관을 자주 이용합니다. 그곳은 공부하기 조용한 곳이고 유용한 책이 많습니다. 하지만 도서관은 평일 오후 4시에 닫고 주말에는 문을 닫습니다. 많은 학생이 방과 후에 수업이 있어서 닫기 전에 방문할 수 없습니다. 토요일 오전에 도서관을 열어 주시기를 부탁드립니다. 더 많은 학생이 그곳에서 읽고 공부할 것이라고 믿습니다. 일손이 더 필요하시면 자원봉사자로 기꺼이 돕겠습니다. 제 요청을 고려해 주셔서 감사합니다. 윤다희 드림.",
-    "why": "평일 이용이 어려운 학생들을 위해 토요일 오전에 도서관을 열어 달라고 요청하는 글입니다.",
+    "translation": "학생과 학부모님께. 학기마다 우리 학교 행정실에는 놀랄 만큼 많은 분실물이 모입니다. 겉옷, 도시락통, 물병, 안경, 심지어 장화 한 켤레까지 있습니다. 지금 정문 근처의 큰 상자 세 개가 완전히 가득 차서 새 물건을 둘 자리가 없습니다. 많은 물건이 거의 새것이고 일부는 안에 이름이 적혀 있지만 아무도 찾으러 오지 않았습니다. 주인이 돌려받으셨으면 합니다. 11월 21일 금요일 전에 현관홀에 들러 상자를 꼼꼼히 살펴보세요. 오후에 오시는 학부모님도 보셔도 됩니다. 그 날짜까지 찾아가지 않은 것은 세탁해 지역 자선 단체에 보냅니다. 앞으로 소지품에 이름을 적으면 빠르게 돌려 드리는 데 도움이 됩니다. 서니베일 중학교 행정실.",
+    "why": "11월 21일 전까지 분실물을 확인하고 찾아가 달라고 안내하는 글입니다.",
     "optionNotes": [
-      "도서 구입 건의는 나오지 않습니다.",
-      "자원봉사는 부가적인 제안일 뿐입니다.",
-      "정답. 토요일 오전 개방을 요청합니다.",
-      "학원 수업 조정은 요청하지 않았습니다.",
-      "대출증 재발급은 나오지 않습니다."
+      "보관함 설치 안내가 아닙니다.",
+      "새 물품 기부 요청이 아니라 주인이 없는 물건의 처리 안내입니다.",
+      "정답. 정해진 날짜 전까지 분실물을 찾아가라고 안내합니다.",
+      "원인 조사는 나오지 않습니다.",
+      "공사 일정은 나오지 않습니다."
     ],
-    "trap": "'volunteer'가 나온다고 자원봉사 문의(②)로 착각하지 마세요.",
-    "tip": "목적 문제는 'I would like to ask you to ~' 같은 요청 문장을 확인하세요."
+    "trap": "자선 단체 기부는 찾아가지 않을 때의 처리일 뿐 목적이 아닙니다.",
+    "tip": "목적 문제는 'Please visit ... before ~' 같은 요청 문장을 찾으세요."
   },
   {
     "id": "m2b-09-19",
     "level": "m2",
     "set": "mock-09",
+    "rev": 2,
     "no": 19,
     "type": "mood",
-    "stem": "다음 글에 드러난 Taeho의 심경 변화로 가장 적절한 것은?",
-    "passage": "Taeho stood behind the curtain with trembling hands. In a few minutes, he would play the cello in front of three hundred people at the school concert. His heart was beating so fast that he could hardly breathe. He had practiced for two months, but now he could not remember the first notes. Then his teacher whispered, \"Just play it as you did in the practice room.\" Taeho took a deep breath and walked onto the stage. When he began to play, the sound filled the hall. After the last note, the audience stood up and clapped loudly. Taeho smiled brightly, feeling relieved and proud.",
+    "stem": "다음 글에 드러난 Narin의 심경 변화로 가장 적절한 것은?",
+    "passage": "Narin pulled the blanket up to her chin and complained for the third time that her feet were cold. Her father had dragged her out of bed at two in the morning and driven for an hour to a dark field, all to look at a sky that seemed no different from the one above their apartment. She yawned until her jaw hurt and wondered how soon they could go home. Then a thin white line shot across the darkness and vanished. Before she could ask what it was, two more followed, one of them leaving a greenish trail that lingered for a second. Narin sat up. The blanket slid to the ground, but she did not reach for it. Soon the streaks were coming so quickly that she began to count them aloud, gripping her father's sleeve each time. When he said that it was time to leave, she begged him for just ten more minutes.",
     "options": [
-      "bored and tired → excited and curious",
-      "angry and jealous → calm and peaceful",
-      "lonely and sad → happy and thankful",
-      "confident and cheerful → embarrassed and upset",
-      "nervous and afraid of failing → relieved and proud of himself"
+      "proud → ashamed",
+      "anxious → relieved",
+      "hopeful → disappointed",
+      "calm → angry",
+      "bored and sleepy → amazed and excited"
     ],
     "answer": 4,
-    "translation": "태호는 떨리는 손으로 커튼 뒤에 서 있었다. 몇 분 뒤 그는 학교 음악회에서 삼백 명 앞에서 첼로를 연주할 것이었다. 심장이 너무 빨리 뛰어서 숨쉬기도 힘들었다. 그는 두 달 동안 연습했지만 이제 첫 음이 기억나지 않았다. 그때 선생님이 속삭였다. \"연습실에서 하던 대로만 연주해.\" 태호는 심호흡을 하고 무대에 올랐다. 연주를 시작하자 소리가 홀을 가득 채웠다. 마지막 음 뒤에 관객이 일어나 크게 박수를 쳤다. 태호는 안도하고 자랑스러워하며 환하게 웃었다.",
-    "why": "처음에는 떨리고 실패가 두려웠지만(nervous and afraid of failing) 연주를 마친 뒤에는 안도하고 자랑스러워했습니다(relieved and proud).",
+    "translation": "나린은 담요를 턱까지 끌어올리고 발이 차갑다고 세 번째로 불평했다. 아버지는 새벽 두 시에 그녀를 침대에서 끌어내 한 시간을 운전해 어두운 들판까지 왔는데, 아파트 위의 하늘과 다를 것 없어 보이는 하늘을 보려는 것이었다. 그녀는 턱이 아플 만큼 하품하며 언제 집에 갈 수 있을지 생각했다. 그때 가늘고 하얀 선이 어둠을 가로질러 사라졌다. 그것이 무엇이냐고 묻기도 전에 두 개가 더 따랐는데 하나는 1초 동안 남는 푸르스름한 꼬리를 남겼다. 나린은 몸을 일으켰다. 담요가 바닥에 미끄러졌지만 그녀는 잡지 않았다. 곧 빛줄기가 너무 빨리 와서 그녀는 소리 내어 세기 시작했고 그때마다 아버지의 소매를 꽉 잡았다. 아버지가 갈 시간이라고 말하자 그녀는 십 분만 더 있자고 졸랐다.",
+    "why": "지루하고 졸렸지만(bored and sleepy) 별똥별을 보고 놀라고 신이 났으므로(amazed and excited) ⑤입니다.",
     "optionNotes": [
-      "지루함에서 신남이 아닙니다.",
-      "화남에서 평온함이 아닙니다.",
-      "외로움에서 행복이 아닙니다.",
-      "자신감에서 당황함으로 반대입니다.",
-      "정답. 긴장과 두려움에서 안도와 자랑스러움으로 변했습니다."
+      "자랑에서 부끄러움이 아닙니다.",
+      "불안에서 안도가 아닙니다.",
+      "희망에서 실망이 아닙니다.",
+      "평온에서 분노가 아닙니다.",
+      "정답. 지루함과 졸음에서 놀람과 흥분으로 변했습니다."
     ],
-    "trap": "'smiled brightly'만 보고 처음부터 즐거웠다고 오해하지 마세요.",
-    "tip": "전환 신호(Then ~, After ~)를 기준으로 앞뒤 감정을 비교하세요."
+    "trap": "처음의 불평만 보고 끝까지 불만이라고 판단하지 마세요.",
+    "tip": "전환 신호(Then a thin white line ...)와 마지막 행동(begged for ten more minutes)을 보세요."
   },
   {
     "id": "m2b-09-20",
     "level": "m2",
     "set": "mock-09",
+    "rev": 2,
     "no": 20,
     "type": "claim",
     "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
-    "passage": "Many students skip breakfast because they are busy or do not feel hungry in the morning. However, a morning meal gives the brain the energy it needs. Studies show that students who eat breakfast pay more attention in class and remember more of what they learn. Skipping breakfast can also make you feel tired and hungry by ten o'clock, so you may choose unhealthy snacks. Breakfast does not need to be big. A banana, a glass of milk, or a piece of bread is enough to start the day well. Therefore, students should eat breakfast every morning.",
+    "passage": "When school budgets are tight, art and music classes are often the first to be reduced, on the grounds that they do not help students to pass examinations. This view measures education too narrowly. Learning to play in a band teaches students to listen to others while doing their own part. Drawing from life trains them to look closely and to notice what they had only assumed. A school play requires planning, patience, and the courage to stand before an audience. These are abilities that people use in every kind of work. For some students, moreover, an art room is the one place in the school where they feel capable, and that experience keeps them coming to class. It is true that mathematics and language are essential, and no one suggests replacing them. But a balanced education cannot be built on tested subjects alone. Schools should therefore protect art and music as a regular part of every student's week.",
     "options": [
-      "아침 식사는 반드시 푸짐하게 먹어야 한다.",
-      "집중력을 높이려면 간식을 자주 먹어야 한다.",
-      "배가 고프지 않으면 아침을 굶어도 괜찮다.",
-      "학생은 건강을 위해 아침 식사를 거르지 말아야 한다.",
-      "학교는 아침 급식을 모든 학생에게 의무적으로 제공해야 한다."
+      "시험 과목의 수업 시간을 줄이고 예술 활동으로 대신해야 한다.",
+      "예술에 재능이 있는 학생만 모아 특별반을 만들어야 한다.",
+      "학교 연극은 입시에 반영되는 평가 항목이 되어야 한다.",
+      "학교는 미술과 음악을 모든 학생의 정규 수업으로 지켜야 한다.",
+      "음악 수업보다 미술 수업에 예산을 먼저 써야 한다."
     ],
     "answer": 3,
-    "translation": "많은 학생이 바쁘거나 아침에 배가 고프지 않아서 아침을 거른다. 그러나 아침 식사는 뇌에 필요한 에너지를 준다. 연구에 따르면 아침을 먹는 학생은 수업 시간에 더 집중하고 배운 것을 더 많이 기억한다. 아침을 거르면 10시쯤 피곤하고 배가 고파져서 건강에 좋지 않은 간식을 고를 수도 있다. 아침 식사가 클 필요는 없다. 바나나, 우유 한 잔, 빵 한 조각이면 하루를 잘 시작하기에 충분하다. 그러므로 학생들은 매일 아침 식사를 해야 한다.",
-    "why": "마지막 문장에서 학생들은 매일 아침 식사를 해야 한다고 주장합니다.",
+    "translation": "학교 예산이 빠듯할 때 미술과 음악 수업은 시험 합격에 도움이 되지 않는다는 이유로 흔히 가장 먼저 줄어든다. 이런 견해는 교육을 너무 좁게 잰다. 밴드에서 연주하는 법을 배우면 학생은 자기 파트를 하면서 남의 소리를 듣는 법을 배운다. 실물을 그리는 것은 자세히 보고 짐작만 하던 것을 알아채도록 훈련한다. 학교 연극은 계획, 인내, 청중 앞에 서는 용기를 요구한다. 이것들은 사람들이 모든 종류의 일에서 쓰는 능력이다. 게다가 일부 학생에게 미술실은 학교에서 자신이 유능하다고 느끼는 유일한 곳이며 그 경험이 그들을 계속 수업에 오게 한다. 수학과 언어가 필수인 것은 사실이고 아무도 그것을 대체하자고 하지 않는다. 그러나 균형 잡힌 교육은 시험 과목만으로 세울 수 없다. 그러므로 학교는 미술과 음악을 모든 학생의 한 주에 정규 부분으로 지켜야 한다.",
+    "why": "마지막 문장에서 미술과 음악을 모든 학생의 정규 수업으로 지켜야 한다고 주장합니다.",
     "optionNotes": [
-      "푸짐하게 먹을 필요는 없다고 했습니다.",
-      "간식은 오히려 건강에 좋지 않다고 했습니다.",
-      "글과 반대되는 내용입니다.",
-      "정답. 아침 식사를 거르지 말아야 합니다.",
-      "아침 급식 제공은 나오지 않습니다."
+      "시험 과목을 대체하자는 것이 아니라고 했습니다.",
+      "특별반은 나오지 않습니다.",
+      "입시 반영은 나오지 않습니다.",
+      "정답. 미술과 음악을 정규 수업으로 지켜야 합니다.",
+      "음악과 미술의 우선순위는 나오지 않습니다."
     ],
-    "trap": "'Breakfast does not need to be big'을 보고 아침 식사가 불필요하다고 오해하지 마세요.",
-    "tip": "주장 문제는 'Therefore, ~ should' 같은 결론 문장을 확인하세요."
+    "trap": "'no one suggests replacing them'을 놓치면 ①에 속습니다.",
+    "tip": "주장은 'should therefore'로 시작하는 마지막 문장입니다."
   },
   {
     "id": "m2b-09-21",
     "level": "m2",
     "set": "mock-09",
+    "rev": 2,
     "no": 21,
     "type": "implied",
     "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
-    "passage": "Hojin was nervous about the English quiz on Friday. He had been worried about it for the whole week. However, when he saw the questions, he smiled. They were the same words that he had studied the night before. After class, he told his friend, \"That quiz was {u|a piece of cake}.\" He finished ten minutes before the others and later found out that he had received a perfect score. Hojin felt that his hard work had paid off, and he decided to review his notes in the same way before every test.",
+    "passage": "Dohee had spent the whole of September enjoying the festival season. There was the food fair, her cousin's wedding, and a new game that all of her friends were playing. When the date of the history exam appeared on the classroom board, she was surprised to see that only ten days remained, and she had not read a single chapter. That evening, she turned off her phone, put it in a drawer in her parents' room, and told her friends that she would be unavailable. \"It is time to {u|hit the books},\" she wrote in her last message. For the next ten days, she made a timetable, reviewed one chapter each night, and tested herself in the morning on the bus. The exam did not bring her the best score in the class, but it was far better than she had feared. She decided that next time she would not wait for a date on the board to wake her up.",
     "options": [
-      "a dessert that is served after lunch",
-      "something very easy to do",
-      "a gift that you give to a friend",
-      "a task that takes a very long time",
-      "an exam that has too many difficult questions"
+      "to throw old textbooks away",
+      "to start studying seriously",
+      "to buy new books for the exam",
+      "to organize a bookshelf neatly",
+      "to borrow notes from a friend"
     ],
     "answer": 1,
-    "translation": "호진은 금요일의 영어 퀴즈가 걱정되었다. 그는 일주일 내내 그것을 걱정했다. 그러나 문제를 보았을 때 그는 미소를 지었다. 전날 밤에 공부한 단어와 같았다. 수업 후 그는 친구에게 말했다. \"그 퀴즈는 식은 죽 먹기였어.\" 그는 다른 학생들보다 십 분 일찍 끝냈고 나중에 만점을 받았다는 것을 알았다. 호진은 노력이 결실을 맺었다고 느꼈고 모든 시험 전에 같은 방식으로 필기를 복습하기로 결심했다.",
-    "why": "전날 공부한 단어가 그대로 나와 일찍 끝내고 만점을 받았으므로 'a piece of cake'는 매우 쉬운 일을 뜻합니다.",
+    "translation": "도희는 9월 내내 축제 철을 즐겼다. 음식 박람회, 사촌의 결혼식, 친구들이 모두 하는 새 게임이 있었다. 역사 시험 날짜가 교실 칠판에 나타났을 때 그녀는 열흘밖에 남지 않았는데 한 단원도 읽지 않았다는 것을 알고 놀랐다. 그날 저녁 그녀는 휴대전화를 끄고 부모님 방의 서랍에 넣은 뒤 친구들에게 연락이 안 될 것이라고 말했다. 마지막 메시지에 그녀는 \"이제 책과 씨름할 때야\"라고 썼다. 다음 열흘 동안 그녀는 시간표를 만들고 매일 밤 한 단원을 복습하고 아침 버스에서 스스로 시험해 보았다. 시험에서 반 최고 점수를 받지는 못했지만 두려워한 것보다 훨씬 나았다. 그녀는 다음에는 칠판의 날짜가 자신을 깨우기를 기다리지 않기로 했다.",
+    "why": "휴대전화를 치우고 시간표를 만들어 공부를 시작했으므로 'hit the books'는 본격적으로 공부를 시작하는 것을 뜻합니다.",
     "optionNotes": [
-      "문자 그대로 후식이 아닙니다.",
-      "정답. 매우 쉬운 일이라는 뜻입니다.",
-      "선물이 아닙니다.",
-      "오래 걸리는 일이 아닙니다.",
-      "어려운 시험이 아닙니다."
+      "책을 버리는 것이 아닙니다.",
+      "정답. 본격적으로 공부를 시작하는 것입니다.",
+      "새 책을 사는 것이 아닙니다.",
+      "책장을 정리하는 것이 아닙니다.",
+      "친구의 필기를 빌리는 것이 아닙니다."
     ],
-    "trap": "'cake'를 문자 그대로 음식으로 해석하지 마세요.",
-    "tip": "관용 표현은 앞뒤 문맥(일찍 끝냄, 만점)에서 의미를 추론하세요."
+    "trap": "'hit'를 때리거나 버리는 뜻으로 해석하지 마세요.",
+    "tip": "관용 표현 뒤의 구체적 행동(timetable, reviewed)으로 뜻을 추론하세요."
   },
   {
     "id": "m2b-09-22",
     "level": "m2",
     "set": "mock-09",
+    "rev": 2,
     "no": 22,
     "type": "gist",
     "stem": "다음 글의 요지로 가장 적절한 것은?",
-    "passage": "One morning, a man paid for the coffee of the stranger behind him in line. The stranger was so surprised that he decided to do the same for the next customer. That customer then bought a muffin for someone else. In the end, more than twenty people paid for the next person's order that day. Researchers say that kindness spreads like this because seeing a kind act makes people feel warm and want to help others. A small act of kindness can therefore create a long chain of good deeds.",
+    "passage": "Many of us finish a meal in front of a screen and then cannot say exactly what we ate. The speed matters more than we might think. The body does not report fullness at once: signals from the stomach and the intestines take about twenty minutes to reach the brain and be felt. A person who eats quickly can take in far more than is needed during that gap, and notices only later that the stomach is uncomfortably full. In one study, people who were asked to chew each mouthful longer ate less at lunch and also reported enjoying the food more. Watching television while eating has the opposite effect, because attention is pulled away from taste and from the feeling of being satisfied. Slowing down does not require a strict diet. Putting down the spoon between bites, talking with others at the table, and turning off the screen are simple ways to give the body time to say that it has had enough.",
     "options": [
-      "커피를 마시면 하루 동안 더 활동적으로 지낼 수 있다.",
-      "낯선 사람에게 선물을 받으면 오히려 부담을 느낀다.",
-      "작은 친절은 다른 사람의 친절한 행동으로 이어진다.",
-      "가게에서 줄을 설 때에는 질서를 반드시 지켜야 한다.",
-      "친절한 행동의 효과는 하루 이상 오래 지속되지 않는다."
+      "식사할 때 텔레비전을 보면 음식 맛을 더 잘 느끼게 된다.",
+      "포만감을 느끼려면 반드시 엄격한 식단을 정해 놓고 오랫동안 지켜야 한다.",
+      "천천히 식사하면 몸이 포만감을 알릴 시간이 생겨 과식을 줄일 수 있다.",
+      "음식을 많이 씹으면 소화 기관에 무리가 생긴다.",
+      "혼자 식사하는 것이 건강에 더 이롭다."
     ],
     "answer": 2,
-    "translation": "어느 날 아침 한 남자가 줄에서 뒤에 선 낯선 사람의 커피값을 냈다. 그 낯선 사람은 너무 놀라서 다음 손님에게 똑같이 하기로 했다. 그 손님은 다시 다른 사람에게 머핀을 사 주었다. 결국 그날 스무 명이 넘는 사람이 다음 사람의 주문 값을 냈다. 연구자들은 친절한 행동을 보면 사람들이 따뜻함을 느끼고 다른 사람을 돕고 싶어지기 때문에 친절이 이렇게 퍼진다고 말한다. 그러므로 작은 친절은 선행의 긴 사슬을 만들 수 있다.",
-    "why": "한 사람의 작은 친절이 다른 사람의 친절로 이어져 선행의 사슬을 만든다는 내용입니다.",
+    "translation": "많은 사람이 화면 앞에서 식사를 마치고는 정확히 무엇을 먹었는지 말하지 못한다. 속도는 생각보다 중요하다. 몸은 포만감을 즉시 알리지 않는다. 위와 장의 신호가 뇌에 닿아 느껴지는 데 약 20분이 걸린다. 빨리 먹는 사람은 그 틈에 필요한 것보다 훨씬 많이 먹을 수 있고 나중에야 위가 불편하게 가득 찼음을 알아챈다. 한 연구에서 한 입을 더 오래 씹으라는 요청을 받은 사람들은 점심을 덜 먹었고 음식을 더 즐겼다고 보고했다. 먹으며 텔레비전을 보는 것은 반대 효과가 있는데, 주의가 맛과 만족감에서 멀어지기 때문이다. 속도를 늦추는 데 엄격한 식단은 필요 없다. 한 입 사이에 숟가락을 내려놓고, 식탁에서 다른 사람과 이야기하고, 화면을 끄는 것은 몸에 충분하다고 말할 시간을 주는 간단한 방법이다.",
+    "why": "천천히 먹으면 몸이 포만감을 알릴 시간이 생겨 덜 먹게 된다는 것이 요지입니다.",
     "optionNotes": [
-      "커피의 효과는 나오지 않습니다.",
-      "선물이 부담이라는 내용은 나오지 않습니다.",
-      "정답. 작은 친절이 친절의 연쇄를 만듭니다.",
-      "줄서기 질서는 나오지 않습니다.",
-      "효과의 지속 기간은 나오지 않습니다."
+      "텔레비전은 맛에서 주의를 빼앗는다고 했습니다.",
+      "엄격한 식단은 필요 없다고 했습니다.",
+      "정답. 천천히 먹으면 과식을 줄일 수 있습니다.",
+      "씹기의 해로움은 나오지 않습니다.",
+      "혼자 식사의 이로움은 나오지 않습니다."
     ],
-    "trap": "'coffee' 일화만 보고 커피 이야기(①)로 좁히지 마세요.",
-    "tip": "요지는 'therefore' 뒤의 일반화된 문장을 확인하세요."
+    "trap": "②는 'does not require a strict diet'와 반대입니다.",
+    "tip": "요지는 마지막 문장의 방법과 앞의 이유(20분)를 연결해 파악하세요."
   },
   {
     "id": "m2b-09-23",
     "level": "m2",
     "set": "mock-09",
+    "rev": 2,
     "no": 23,
     "type": "topic",
     "stem": "다음 글의 주제로 가장 적절한 것은?",
-    "passage": "Laughing is more than a reaction to something funny. When we laugh, our body releases chemicals that make us feel happy and relaxed. Laughter also lowers stress, and it can even reduce pain for a short time. Doctors say that laughing with others strengthens friendships, because shared laughter makes people feel close. A few minutes of laughter each day can also improve sleep. Children laugh much more often than adults do. Perhaps we should all learn to laugh like children. For these reasons, some hospitals invite clowns to cheer up patients, and some schools hold laughing classes.",
+    "passage": "Step out of a warm bath into a cold room, and tiny bumps may rise all over your arms. These goosebumps are produced by small muscles attached to the base of each hair. When they contract, the hairs stand upright and the skin around them is pulled into a point. In furry animals, this reaction is useful: raised fur traps a thicker layer of air, which keeps the body warm, and it also makes a frightened cat look larger to an enemy. Humans have lost most of their body hair, so the response now does little to protect us from the cold. Yet it has not disappeared, and it appears not only when we are chilly but also when we are afraid, or moved by a piece of music. The same nerves that prepare the body for danger are involved. Goosebumps are thus a reminder of our distant past that our skin still carries.",
     "options": [
-      "친구 관계를 오래 유지하게 해 주는 대화의 기술",
-      "병원에서 어린이 환자를 돌보는 방법",
-      "스트레스를 줄여 주는 운동의 종류",
-      "수면의 질을 높이는 침실 환경",
-      "웃음이 몸과 마음의 건강에 주는 이점"
+      "추운 날씨에 피부를 건강하게 관리하는 방법",
+      "동물의 털 색깔이 계절의 변화에 따라 달라지게 되는 까닭",
+      "음악이 사람의 감정에 영향을 주는 과정",
+      "겁먹은 고양이가 몸을 보호하는 행동",
+      "소름이 생기는 원리와 그것이 남아 있는 까닭"
     ],
     "answer": 4,
-    "translation": "웃음은 재미있는 것에 대한 반응 이상이다. 웃으면 우리 몸은 행복하고 편안하게 해 주는 물질을 내보낸다. 웃음은 스트레스도 낮추고 잠시 동안 통증을 줄여 주기도 한다. 의사들은 함께 웃으면 친밀감을 느끼게 해 우정이 깊어진다고 말한다. 하루 몇 분의 웃음은 수면도 개선해 준다. 아이들은 어른보다 훨씬 자주 웃는다. 어쩌면 우리 모두 아이처럼 웃는 법을 배워야 할지도 모른다. 이런 이유로 일부 병원은 환자를 격려하려고 광대를 초대하고 일부 학교는 웃음 수업을 연다.",
-    "why": "웃음이 행복감, 스트레스 감소, 우정, 수면에 미치는 이점을 설명합니다.",
+    "translation": "따뜻한 욕조에서 차가운 방으로 나오면 팔 전체에 작은 돌기가 솟을 수 있다. 이 소름은 털 뿌리에 붙은 작은 근육이 만든다. 근육이 수축하면 털이 곧추서고 주위 피부가 뾰족하게 당겨진다. 털이 많은 동물에게 이 반응은 쓸모 있다. 세워진 털은 더 두꺼운 공기층을 가두어 몸을 따뜻하게 하고 겁먹은 고양이를 적에게 더 크게 보이게도 한다. 사람은 몸의 털 대부분을 잃어서 이 반응은 이제 추위를 거의 막아 주지 못한다. 그러나 사라지지 않았고 추울 때뿐 아니라 두렵거나 음악에 감동할 때도 나타난다. 위험에 몸을 대비시키는 같은 신경이 관여한다. 그러므로 소름은 우리 피부가 아직 지니고 있는 먼 과거의 흔적이다.",
+    "why": "소름이 생기는 원리와 그 반응이 남아 있는 이유를 설명하는 글입니다.",
     "optionNotes": [
-      "대화의 기술은 나오지 않습니다.",
-      "병원은 부가적인 예일 뿐입니다.",
-      "운동은 나오지 않습니다.",
-      "수면은 이점 중 하나일 뿐입니다.",
-      "정답. 웃음이 건강에 주는 이점입니다."
+      "피부 관리는 나오지 않습니다.",
+      "털 색의 변화는 나오지 않습니다.",
+      "음악은 소름이 생기는 상황의 하나입니다.",
+      "고양이는 예시일 뿐입니다.",
+      "정답. 소름의 원리와 남아 있는 까닭입니다."
     ],
-    "trap": "'hospitals', 'sleep'은 이점의 예이므로 세부 소재(②④)를 주제로 착각하지 마세요.",
-    "tip": "주제는 첫 문장과 반복되는 핵심어(laugh)로 파악하세요."
+    "trap": "고양이나 음악 같은 예시를 주제로 고르지 마세요.",
+    "tip": "주제는 원리(muscles contract)와 진화적 설명(past)을 모두 담아야 합니다."
   },
   {
     "id": "m2b-09-24",
     "level": "m2",
     "set": "mock-09",
+    "rev": 2,
     "no": 24,
     "type": "title",
     "stem": "다음 글의 제목으로 가장 적절한 것은?",
-    "passage": "Bees do more than make honey. When a bee visits a flower to collect nectar, pollen sticks to its body and moves to the next flower. This process, called pollination, helps plants make fruits and seeds. About one third of the food that we eat depends on it, including apples, almonds, and strawberries. However, the number of bees is falling because of pesticides and the loss of wild flowers. Without bees, many foods would become rare and expensive. Planting flowers in our gardens is one simple way to help them.",
+    "passage": "Two thousand years ago, the city of Rome had about a million people, and every one of them needed water. The Romans brought it from springs and rivers in the hills, sometimes more than ninety kilometers away, without using a single pump. Their secret was a gentle, steady slope. Engineers measured the land with simple tools and built channels that dropped only a little in each kilometer, so that gravity alone kept the water moving. Where a valley lay in the way, they carried the channel across it on rows of stone arches; where a hill blocked the route, they dug tunnels through it. Inside the city, the water filled public fountains, baths, and the homes of the wealthy, and it flushed the sewers. Some of these structures are still standing, and one aqueduct continues to supply a famous fountain today. They remind us that careful measurement can achieve what great force alone could not.",
     "options": [
-      "How to Make Honey at Home Step by Step",
-      "Why We Need Bees to Protect Our Food",
-      "The Best Flowers for a Colorful Garden",
-      "Pesticides: A New Way to Grow More Fruit",
-      "Famous Beekeepers in the History of Farming"
+      "The Rise and Fall of the Great Roman Army Across Europe",
+      "Water Without Pumps: The Genius of Roman Aqueducts",
+      "How Ancient Fountains Were Decorated",
+      "Why Rome Was Built on Seven Hills",
+      "The Dangers of Drinking River Water"
     ],
     "answer": 1,
-    "translation": "벌은 꿀을 만드는 것 이상의 일을 한다. 벌이 꿀을 모으려고 꽃을 방문하면 꽃가루가 몸에 붙어 다음 꽃으로 옮겨진다. 수분이라고 불리는 이 과정은 식물이 열매와 씨앗을 만들도록 돕는다. 우리가 먹는 음식의 약 3분의 1이 사과, 아몬드, 딸기를 포함해 이것에 의존한다. 하지만 살충제와 야생화 감소로 벌의 수가 줄고 있다. 벌이 없으면 많은 음식이 희귀하고 비싸질 것이다. 정원에 꽃을 심는 것은 벌을 돕는 간단한 방법이다.",
-    "why": "벌의 수분 작용이 우리 식량에 필수적이라는 내용이므로 ②가 제목으로 알맞습니다.",
+    "translation": "2천 년 전 로마시에는 약 백만 명이 살았고 모두에게 물이 필요했다. 로마인은 펌프를 하나도 쓰지 않고 때로 90킬로미터 넘게 떨어진 언덕의 샘과 강에서 물을 가져왔다. 비결은 완만하고 일정한 경사였다. 기술자들은 간단한 도구로 땅을 재고 1킬로미터마다 조금씩만 낮아지는 수로를 지어 중력만으로 물이 계속 흐르게 했다. 골짜기가 가로막으면 돌 아치의 줄 위로 수로를 건너게 했고 언덕이 길을 막으면 터널을 팠다. 도시 안에서 물은 공공 분수, 목욕탕, 부자의 집을 채우고 하수도를 씻어 냈다. 이 구조물 중 일부는 지금도 서 있고 한 수로는 오늘날에도 유명한 분수에 물을 댄다. 그것들은 큰 힘만으로는 못 할 일을 꼼꼼한 측량이 이룰 수 있음을 일깨운다.",
+    "why": "펌프 없이 경사로 물을 나른 로마 수도교를 다루므로 ②가 제목으로 알맞습니다.",
     "optionNotes": [
-      "꿀 만드는 법은 나오지 않습니다.",
-      "정답. 식량을 지키는 데 벌이 필요한 이유입니다.",
-      "꽃 추천은 부가 내용일 뿐입니다.",
-      "살충제는 벌이 줄어드는 원인으로 나옵니다.",
-      "양봉가의 역사는 나오지 않습니다."
+      "로마 군대는 나오지 않습니다.",
+      "정답. 펌프 없는 물, 로마 수도교의 재주입니다.",
+      "분수 장식은 나오지 않습니다.",
+      "일곱 언덕은 나오지 않습니다.",
+      "강물의 위험은 나오지 않습니다."
     ],
-    "trap": "마지막 문장의 '꽃 심기'만 보고 정원 이야기(③)로 착각하지 마세요.",
-    "tip": "제목은 글 전체의 핵심 주장(벌 = 식량)을 담으세요."
+    "trap": "'fountain'이 나온다고 ③을 고르지 마세요.",
+    "tip": "제목은 핵심 방법(경사·중력)과 대상(aqueducts)을 담아야 합니다."
   },
   {
     "id": "m2b-09-25",
     "level": "m2",
     "set": "mock-09",
+    "rev": 2,
     "no": 25,
     "type": "chart",
     "stem": "다음 도표의 내용과 일치하지 않는 것은?",
     "chart": {
-      "title": "How Students Spend Their Weekends (%)",
-      "unit": "%",
+      "title": "Students Joining School Clubs by Type (people)",
+      "unit": "people",
       "labels": [
-        "Movies",
         "Sports",
-        "Reading",
-        "Friends",
-        "Others"
+        "Music",
+        "Science",
+        "Art",
+        "Reading"
       ],
       "series": [
         {
-          "name": "Percent",
+          "name": "2023",
           "values": [
-            32,
-            25,
-            18,
-            15,
-            10
+            120,
+            80,
+            60,
+            50,
+            40
+          ]
+        },
+        {
+          "name": "2025",
+          "values": [
+            110,
+            90,
+            90,
+            50,
+            30
           ]
         }
       ]
     },
-    "passage": "The graph shows how students spend their weekends. ① Watching movies is the most popular activity among the students. ② Playing sports is chosen by 25 percent of the students. ③ Reading is more popular than playing sports. ④ Hanging out with friends is chosen by 15 percent of the students. ⑤ Others account for the smallest percentage of all.",
+    "passage": "The graph shows the number of students who joined five types of school clubs in 2023 and 2025. ① Sports clubs had the most members in both years. ② The number of students in science clubs increased by half. ③ Music clubs had more members than science clubs in 2025. ④ The number of art club members did not change. ⑤ Reading clubs had the fewest members in both years.",
     "options": [
       "①",
       "②",
@@ -234,100 +252,103 @@
       "⑤"
     ],
     "answer": 2,
-    "translation": "그래프는 학생들이 주말을 어떻게 보내는지 보여 준다. ① 영화 보기가 학생들 사이에서 가장 인기 있는 활동이다. ② 운동하기는 학생의 25퍼센트가 선택했다. ③ 독서는 운동하기보다 더 인기 있다. ④ 친구와 어울리기는 학생의 15퍼센트가 선택했다. ⑤ 기타는 전체에서 가장 낮은 비율을 차지한다.",
-    "why": "독서는 18%, 운동하기는 25%이므로 독서가 운동보다 더 인기 있다는 ③은 일치하지 않습니다.",
+    "translation": "그래프는 2023년과 2025년에 다섯 종류의 동아리에 가입한 학생 수를 보여 준다. ① 두 해 모두 운동 동아리의 회원이 가장 많았다. ② 과학 동아리 학생 수는 절반만큼 늘었다. ③ 2025년에 음악 동아리는 과학 동아리보다 회원이 많았다. ④ 미술 동아리 회원 수는 변하지 않았다. ⑤ 두 해 모두 독서 동아리의 회원이 가장 적었다.",
+    "why": "2025년에 음악과 과학은 모두 90명이므로 음악이 더 많다고 할 수 없습니다.",
     "optionNotes": [
-      "영화 32%로 가장 높습니다.",
-      "운동하기는 25%입니다.",
-      "정답(불일치). 독서(18%)가 운동(25%)보다 낮습니다.",
-      "친구와 어울리기는 15%입니다.",
-      "기타 10%가 가장 낮습니다."
+      "120명과 110명으로 가장 많습니다.",
+      "60명에서 90명으로 50% 늘었습니다.",
+      "정답(불일치). 2025년 음악과 과학은 90명으로 같습니다.",
+      "두 해 모두 50명입니다.",
+      "40명과 30명으로 가장 적습니다."
     ],
-    "trap": "독서와 운동의 순위를 반대로 읽기 쉽습니다.",
-    "tip": "그래프 문제는 비교 표현(more popular than)의 방향을 수치로 확인하세요."
+    "trap": "두 막대의 높이가 같은 경우를 'more than'으로 착각하지 마세요.",
+    "tip": "비교 문장은 두 값이 같은지부터 확인하세요."
   },
   {
     "id": "m2b-09-26",
     "level": "m2",
     "set": "mock-09",
+    "rev": 2,
     "no": 26,
     "type": "match",
-    "stem": "Louis Braille에 관한 다음 글의 내용과 일치하는 것은?",
-    "passage": "Louis Braille was born in 1809 in a small town in France. When he was three years old, he had an accident in his father's workshop and lost his sight. At the age of ten, he entered a special school for blind children in Paris. There he learned that reading was possible with raised dots, but the system he found was too difficult. At fifteen, he invented a simple code of six raised dots. Later, he became a teacher at the same school. His system was officially accepted only after his death, and today people around the world use it.",
+    "stem": "Louis Armstrong에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Louis Armstrong was born in 1901 in a poor neighborhood of New Orleans. As a boy he sang on street corners for coins and did small jobs for a family that lent him money to buy his first horn. At eleven, he was sent to a home for troubled boys after firing a pistol into the air on New Year's Eve, and it was there that he received serious music lessons and led the home's band. In 1922, he moved to Chicago to join the band of his teacher, King Oliver. His powerful and inventive solos changed jazz, which had mostly been played by a group, into an art in which a single performer could shine. He also became famous for his rough, warm singing voice and for the wordless singing style known as scat. He toured around the world for decades and recorded one of his best-loved songs, \"What a Wonderful World,\" in 1967. He died in 1971.",
     "options": [
-      "프랑스가 아니라 영국에서 태어났다.",
-      "태어날 때부터 앞을 보지 못했다.",
-      "점자는 그가 죽기 전에 이미 널리 쓰였다.",
-      "열다섯 살 때 점자 체계를 만들었다.",
-      "맹학교에서 학생이 아니라 요리사로 일했다."
+      "어린 시절 부유한 가정에서 음악 교육을 받으며 자랐다.",
+      "소년원 같은 시설에서는 음악을 배울 기회가 없었다.",
+      "1922년에 시카고를 떠나 뉴올리언스의 밴드에 합류했다.",
+      "그의 즉흥적인 독주는 재즈를 한 연주자가 빛날 수 있는 예술로 바꾸었다.",
+      "1967년에 은퇴한 뒤로는 건강 때문에 세계 순회공연을 한 번도 하지 않았다."
     ],
     "answer": 3,
-    "translation": "루이 브라유는 1809년 프랑스의 작은 마을에서 태어났다. 세 살 때 아버지의 작업장에서 사고를 당해 시력을 잃었다. 열 살에 파리의 시각 장애 아동을 위한 특별한 학교에 들어갔다. 그곳에서 그는 도드라진 점으로 읽을 수 있다는 것을 배웠지만 그가 발견한 체계는 너무 어려웠다. 열다섯 살에 그는 여섯 개의 도드라진 점으로 이루어진 간단한 부호를 발명했다. 나중에 그는 같은 학교의 교사가 되었다. 그의 체계는 그가 죽은 뒤에야 공식적으로 받아들여졌고 오늘날 전 세계 사람들이 사용한다.",
-    "why": "열다섯 살에 여섯 개의 점으로 이루어진 부호를 발명했다고 하므로 ④가 일치합니다.",
+    "translation": "루이 암스트롱은 1901년 뉴올리언스의 가난한 동네에서 태어났다. 소년 시절 그는 거리 모퉁이에서 동전을 받고 노래했고 첫 나팔을 살 돈을 빌려준 가족을 위해 잔일을 했다. 열한 살에 섣달그믐에 공중으로 권총을 쏜 뒤 문제 소년을 위한 시설에 보내졌는데, 바로 거기서 제대로 된 음악 수업을 받고 시설의 밴드를 이끌었다. 1922년 스승 킹 올리버의 밴드에 합류하려고 시카고로 옮겼다. 그의 힘차고 창의적인 독주는 주로 집단이 연주하던 재즈를 한 연주자가 빛날 수 있는 예술로 바꾸었다. 그는 거칠고 따뜻한 노래 목소리와 스캣이라는 가사 없는 노래 방식으로도 유명해졌다. 수십 년 동안 세계를 순회했고 가장 사랑받는 곡 중 하나인 '이 얼마나 멋진 세상'을 1967년에 녹음했다. 1971년에 세상을 떠났다.",
+    "why": "그의 독주가 재즈를 한 연주자가 빛날 수 있는 예술로 바꾸었다고 했으므로 ④가 일치합니다.",
     "optionNotes": [
-      "프랑스에서 태어났습니다.",
-      "세 살 때 사고로 시력을 잃었습니다.",
-      "죽은 뒤에야 공식적으로 받아들여졌습니다.",
-      "정답. 열다섯 살에 발명했습니다.",
-      "같은 학교의 교사가 되었습니다."
+      "가난한 동네에서 자랐습니다.",
+      "시설에서 음악 수업을 받았습니다.",
+      "시카고로 옮겨 갔습니다.",
+      "정답. 재즈를 독주자가 빛나는 예술로 바꾸었습니다.",
+      "수십 년 동안 순회공연을 했습니다."
     ],
-    "trap": "학생 시절(열 살)과 발명 시기(열다섯 살)를 혼동하지 마세요.",
-    "tip": "일치 문제는 나이·시기·직업을 보기와 하나씩 대조하세요."
+    "trap": "시카고로 '옮겨 간' 것을 '떠난' 것으로 뒤바꾼 ③을 조심하세요.",
+    "tip": "일치 문제는 이동 방향과 시설에서의 경험을 대조하세요."
   },
   {
     "id": "m2b-09-27",
     "level": "m2",
     "set": "mock-09",
+    "rev": 2,
     "no": 27,
     "type": "notice",
-    "stem": "Hanbit Science Day에 관한 다음 안내문의 내용과 일치하는 것은?",
-    "passage": "Hanbit Science Day\nDate: Saturday, November 15, 10 a.m. - 2 p.m.\nPlace: School science lab\nWho can join: Students in Grades 7 to 9\nActivities: Making a simple volcano, testing water quality, and building a small robot\nFee: Free. All materials are provided.\nLunch: Please bring your own lunch.\nRegistration: Sign up on the school website by November 10. Only 30 students can join.\nNote: Please wear comfortable clothes that can get dirty.",
+    "stem": "Riverside Kayak Day 안내문의 내용과 일치하는 것은?",
+    "passage": "Riverside Kayak Day\nDate: Saturday, June 14 (rain or shine; cancelled only if there is lightning)\nTime: Sessions at 9 a.m., 11 a.m., and 2 p.m. (60 minutes each)\nPlace: North Dock, Riverside Park\nWho can join: Anyone aged 10 or older who can swim at least 25 meters\nFee: $8 per session, including a life jacket and a paddle\nBooking: Online by June 10; each person may book one session only\nBring: A change of clothes, a towel, and shoes that can get wet. Do not bring phones onto the water unless they are in a waterproof bag.\nSafety: Children under 14 must share a two-person kayak with an adult.\nNote: Please arrive twenty minutes early for the safety briefing.",
     "options": [
-      "행사는 일요일 오전에 열린다.",
-      "재료는 제공되지만 점심은 각자 준비해 와야 한다.",
-      "7학년만 참가할 수 있다.",
-      "신청은 행사 당일 현장에서 받는다.",
-      "참가자 수에는 제한이 없다."
+      "비가 조금만 와도 행사가 취소된다.",
+      "14세 미만 어린이는 어른과 2인용 카약을 함께 타야 한다.",
+      "한 사람이 원하는 만큼 여러 번 예약할 수 있다.",
+      "참가비에는 갈아입을 옷이 포함된다.",
+      "수영을 못 해도 참가할 수 있다."
     ],
     "answer": 1,
-    "translation": "한빛 과학의 날. 일시: 11월 15일 토요일 오전 10시~오후 2시. 장소: 학교 과학실. 참가 대상: 7~9학년 학생. 활동: 간단한 화산 만들기, 수질 검사, 작은 로봇 제작. 참가비: 무료. 모든 재료가 제공됩니다. 점심: 점심은 각자 준비해 오세요. 신청: 11월 10일까지 학교 누리집에서 신청하세요. 30명만 참가할 수 있습니다. 유의: 더러워져도 되는 편한 옷을 입으세요.",
-    "why": "'All materials are provided'와 'Please bring your own lunch'와 일치합니다.",
+    "translation": "리버사이드 카약의 날. 날짜: 6월 14일 토요일(비가 와도 진행, 번개가 칠 때만 취소). 시간: 오전 9시, 11시, 오후 2시(각 60분). 장소: 리버사이드 공원 북쪽 선착장. 참가 대상: 25미터 이상 수영할 수 있는 10세 이상 누구나. 참가비: 회당 8달러(구명조끼와 노 포함). 예약: 6월 10일까지 온라인, 1인 1회만. 준비물: 갈아입을 옷, 수건, 젖어도 되는 신발. 방수 주머니에 넣지 않은 휴대전화는 물 위에 가져가지 마세요. 안전: 14세 미만 어린이는 어른과 2인용 카약을 함께 타야 합니다. 안내: 안전 교육을 위해 20분 일찍 도착해 주세요.",
+    "why": "'Children under 14 must share a two-person kayak with an adult'와 일치합니다.",
     "optionNotes": [
-      "행사는 토요일입니다.",
-      "정답. 재료는 제공되고 점심은 각자 준비합니다.",
-      "7~9학년이 참가할 수 있습니다.",
-      "11월 10일까지 누리집에서 신청합니다.",
-      "30명만 참가할 수 있습니다."
+      "번개가 칠 때만 취소됩니다.",
+      "정답. 14세 미만은 어른과 함께 타야 합니다.",
+      "1인 1회만 예약할 수 있습니다.",
+      "옷은 직접 가져와야 합니다.",
+      "25미터 이상 수영할 수 있어야 합니다."
     ],
-    "trap": "'Free'와 '점심 제공'을 혼동하지 마세요. 무료는 참가비일 뿐입니다.",
-    "tip": "안내문의 Fee, Lunch, Registration 항목을 하나씩 대조하세요."
+    "trap": "'rain or shine'은 날씨와 상관없이 진행한다는 뜻입니다.",
+    "tip": "안내문의 Date, Who can join, Booking, Safety 항목을 하나씩 대조하세요."
   },
   {
     "id": "m2b-09-28",
     "level": "m2",
     "set": "mock-09",
+    "rev": 2,
     "no": 28,
     "type": "notice",
-    "stem": "Hanbit Swimming Pool 이용 안내문의 내용과 일치하는 것은?",
-    "passage": "Hanbit Swimming Pool - Rules and Hours\nOpening hours: Monday to Friday, 6 a.m. - 9 p.m. / Saturday, 8 a.m. - 6 p.m. / Closed on Sundays\nAdmission: Students $3, Adults $5\nChildren under 8 must be accompanied by an adult.\nSwim caps are required. You can buy one at the front desk for $2.\nLockers: Please bring a coin. It will be returned when you open the locker.\nNo running around the pool.",
+    "stem": "Holiday Gift Wrapping 안내문의 내용과 일치하는 것은?",
+    "passage": "Student Council Holiday Gift Wrapping\nWhen: December 18 - 22, during lunch time (12:30 - 1:10)\nWhere: Library lobby\nPrice: $1 for a small gift, $2 for a large one; ribbons are free\nMaterials: Recycled paper and cloth only. You may also bring your own wrapping materials for half price.\nLimits: Food, plants, and items larger than a school bag cannot be accepted.\nPick-up: Wrapped gifts can be collected after school on the same day. Gifts not collected by December 23 will be kept in the council room.\nProceeds: All money goes to the animal shelter in our town.\nVolunteers: Students who would like to help should sign up with Ms. Cho by December 12.",
     "options": [
-      "수영장은 일요일에 문을 닫는다.",
-      "8세 미만 어린이는 혼자 입장할 수 있다.",
-      "수영 모자는 가져오지 않아도 무료로 빌려준다.",
-      "학생과 성인의 입장료는 같다.",
-      "평일 영업은 오후 6시에 끝난다."
+      "포장 재료를 직접 가져오면 요금이 절반이 된다.",
+      "음식이나 화분도 포장을 맡길 수 있다.",
+      "리본은 따로 돈을 내야 한다.",
+      "맡긴 선물은 포장에 시간이 걸려 일주일이 지난 뒤에 찾을 수 있다.",
+      "수익금은 학생회 운영비로 사용된다."
     ],
     "answer": 0,
-    "translation": "한빛 수영장 – 이용 수칙과 시간. 운영 시간: 월~금 오전 6시~오후 9시 / 토요일 오전 8시~오후 6시 / 일요일 휴관. 입장료: 학생 3달러, 성인 5달러. 8세 미만 어린이는 성인과 동행해야 합니다. 수영 모자는 필수입니다. 안내 데스크에서 2달러에 살 수 있습니다. 사물함: 동전을 가져오세요. 사물함을 열면 돌려 드립니다. 수영장 주변에서 뛰지 마세요.",
-    "why": "'Closed on Sundays'와 일치합니다.",
+    "translation": "학생회 연말 선물 포장. 일시: 12월 18~22일 점심시간(12:30~1:10). 장소: 도서관 로비. 가격: 작은 선물 1달러, 큰 선물 2달러, 리본 무료. 재료: 재활용 종이와 천만 사용. 자신의 포장 재료를 가져오면 반값. 제한: 음식, 식물, 책가방보다 큰 물건은 받지 않음. 수령: 같은 날 방과 후에 찾을 수 있음. 12월 23일까지 찾지 않은 선물은 학생회실에 보관. 수익금: 모두 우리 마을의 동물 보호소에 보냄. 자원봉사: 돕고 싶은 학생은 12월 12일까지 조 선생님께 신청.",
+    "why": "'bring your own wrapping materials for half price'와 일치합니다.",
     "optionNotes": [
-      "정답. 일요일은 휴관입니다.",
-      "8세 미만은 성인과 동행해야 합니다.",
-      "수영 모자는 2달러에 구입합니다.",
-      "학생 3달러, 성인 5달러로 다릅니다.",
-      "평일은 오후 9시까지입니다."
+      "정답. 재료를 가져오면 반값입니다.",
+      "음식과 식물은 받지 않습니다.",
+      "리본은 무료입니다.",
+      "같은 날 방과 후에 찾습니다.",
+      "수익금은 동물 보호소에 갑니다."
     ],
-    "trap": "토요일 폐장 시각(오후 6시)을 평일로 착각하지 마세요.",
-    "tip": "운영 시간 항목은 요일별로 구분해 읽으세요."
+    "trap": "12월 23일은 보관 기준일이지 수령 가능일이 아닙니다.",
+    "tip": "안내문의 Price, Materials, Limits, Pick-up, Proceeds 항목을 대조하세요."
   }
 ]
