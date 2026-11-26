@@ -3,10 +3,11 @@
     "id": "m2b-13-29",
     "level": "m2",
     "set": "mock-13",
+    "rev": 2,
     "no": 29,
     "type": "grammar",
     "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
-    "passage": "Chocolate {1|are made} from the seeds of the cacao tree, which grows in warm and rainy places near the equator. After the seeds are picked, they are left to ferment for several days. Then they are dried, roasted, and ground into a thick paste. The paste is mixed {2|with} sugar and milk to make the chocolate that we eat. Long ago, people in Central America drank chocolate as a bitter drink. Spanish explorers brought it to Europe, where sugar was added and it became {3|much} more popular. Today, people around the world eat about seven million tons of chocolate {4|every} year. Some doctors say that a small piece of dark chocolate can be {5|good} for the heart.",
+    "passage": "A fork seems so ordinary on a dinner table that it is hard to imagine anyone objecting to it. Yet for a long time many Europeans found it strange. People usually ate with a knife, a spoon, and their fingers, {1|that} was considered perfectly polite. Small forks for eating were used in the Byzantine world, and travelers carried the custom westward. A story is told of a princess from that region {2|who} brought golden forks to Italy and was criticized for her fine manners. Some thought it proud to avoid {3|touching} food with the hands that nature had provided. The habit spread slowly, first among wealthy Italians, perhaps because it helped them {4|eat} long, slippery noodles. In England, a traveler who began using one in the early 1600s was laughed at by his friends. Only gradually did the fork become {5|common}. Today a child who eats spaghetti with bare fingers is likely to hear exactly the opposite complaint.",
     "options": [
       "①",
       "②",
@@ -15,26 +16,27 @@
       "⑤"
     ],
     "answer": 0,
-    "translation": "초콜릿은 적도 근처의 따뜻하고 비가 많은 곳에서 자라는 카카오나무의 씨앗으로 만든다. 씨앗을 딴 뒤에는 며칠 동안 발효시킨다. 그다음 말리고 볶고 갈아 걸쭉한 반죽으로 만든다. 이 반죽을 설탕, 우유와 섞어 우리가 먹는 초콜릿을 만든다. 오래전 중앙아메리카 사람들은 초콜릿을 쓴 음료로 마셨다. 스페인 탐험가들이 이를 유럽에 가져갔고 그곳에서 설탕이 더해져 훨씬 더 인기를 얻었다. 오늘날 전 세계 사람들은 해마다 약 칠백만 톤의 초콜릿을 먹는다. 일부 의사들은 다크 초콜릿 한 조각이 심장에 좋을 수 있다고 말한다.",
-    "why": "주어 Chocolate는 불가산 명사로 단수 취급하므로 'are made'가 아니라 'is made'여야 합니다.",
+    "translation": "포크는 식탁에서 너무 평범해 누가 반대했다고 상상하기 어렵다. 그러나 오랫동안 많은 유럽인은 그것을 이상하게 여겼다. 사람들은 대개 칼, 숟가락, 손가락으로 먹었고 그것은 완전히 예의 바르다고 여겨졌다. 비잔티움 세계에서는 식사용 작은 포크가 쓰였고 여행자들이 그 관습을 서쪽으로 가져갔다. 그 지역의 한 공주가 금 포크를 이탈리아에 가져와 고상한 예절 때문에 비난받았다는 이야기가 전해진다. 어떤 이는 자연이 준 손으로 음식 만지기를 피하는 것이 거만하다고 생각했다. 습관은 처음에 부유한 이탈리아인 사이에서 천천히 퍼졌는데 아마 길고 미끄러운 국수를 먹는 데 도움이 되었기 때문이다. 영국에서는 1600년대 초 포크를 쓰기 시작한 한 여행자가 친구들의 웃음거리가 되었다. 포크는 점차에야 흔해졌다. 오늘날 맨손으로 스파게티를 먹는 아이는 정반대의 불평을 들을 것이다.",
+    "why": "콤마 뒤에서 앞 내용을 받는 관계대명사는 that을 쓸 수 없으므로 which여야 합니다.",
     "optionNotes": [
-      "정답(틀린 것). 단수 주어 Chocolate에는 is made여야 합니다.",
-      "mix A with B 구조의 with입니다.",
-      "비교급을 강조하는 much입니다.",
-      "every year는 올바른 표현입니다.",
-      "can be 뒤의 형용사 good입니다."
+      "정답(틀린 것). 콤마 뒤이므로 which여야 합니다.",
+      "a princess를 선행사로 하는 주격 관계대명사입니다.",
+      "avoid의 목적어인 동명사입니다.",
+      "help + 목적어 + 동사원형입니다.",
+      "become의 보어인 형용사입니다."
     ],
-    "trap": "뒤에 나오는 복수 명사(seeds)에 이끌려 복수 동사를 쓰기 쉽습니다.",
-    "tip": "주어의 핵심 명사가 불가산 명사인지 확인해 동사의 수를 일치시키세요."
+    "trap": "that이 흔한 관계대명사여서 지나치기 쉽습니다.",
+    "tip": "콤마 바로 뒤의 that은 항상 의심하세요."
   },
   {
     "id": "m2b-13-30",
     "level": "m2",
     "set": "mock-13",
+    "rev": 2,
     "no": 30,
     "type": "vocab",
     "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
-    "passage": "Jeju Island was created by volcanic eruptions more than a million years ago. Hallasan, the highest mountain in Korea, is a huge volcano that {1|rises} 1,947 meters above the sea. The island is full of unusual rocks and caves, which were formed when hot lava {2|cooled} down. These natural features attract millions of {3|visitors} every year. In 2007, UNESCO listed the volcanic island and its lava tubes as a World Natural Heritage site. The island is also famous for its women divers, who collect seafood without any air tanks, and this tradition is {4|valued} as an important cultural heritage. Local people are now trying to protect the island from too much tourism, so they {5|welcome} an unlimited number of visitors.",
+    "passage": "Along many sandy coasts, low hills of sand covered with grass stand between the beach and the land behind it. Visitors sometimes see these dunes as nothing but an obstacle on the way to the water and cut paths straight over them. In fact the dunes are a natural {1|defense}. During a storm they take the force of the waves, and the sand that is washed from them settles offshore, where it helps to {2|weaken} the next waves before they arrive. The grasses are essential to this. Their long roots {3|hold} the sand together, and their leaves catch grains blown by the wind, so that the hill slowly grows. A few dozen footsteps along the same line can crush the plants. Once the cover is gone, the wind carries sand away through the {4|gap}, and the opening widens year after year. For this reason many beaches now provide raised wooden walkways. Using them costs a visitor perhaps a minute, while ignoring them may {5|save} a village its protection.",
     "options": [
       "①",
       "②",
@@ -43,138 +45,143 @@
       "⑤"
     ],
     "answer": 4,
-    "translation": "제주도는 백만 년 넘게 전에 화산 폭발로 만들어졌다. 한국에서 가장 높은 산인 한라산은 바다 위로 1,947미터 솟은 거대한 화산이다. 섬에는 뜨거운 용암이 식을 때 형성된 특이한 바위와 동굴이 가득하다. 이런 자연 경관은 해마다 수백만 명의 방문객을 끌어들인다. 2007년 유네스코는 이 화산섬과 용암 동굴을 세계 자연 유산으로 등재했다. 섬은 또한 공기통 없이 해산물을 채취하는 해녀로도 유명하며 이 전통은 중요한 문화유산으로 높이 평가된다. 주민들은 이제 지나친 관광으로부터 섬을 보호하려고 하므로 방문객 수를 제한한다.",
-    "why": "섬을 보호하려는 노력이므로 방문객을 무제한으로 '환영하는(welcome)' 것이 아니라 방문객 수를 '제한하는(limit)' 것이 알맞습니다.",
+    "translation": "많은 모래 해안에는 풀로 덮인 낮은 모래 언덕이 해변과 뒤쪽 땅 사이에 서 있다. 방문객은 때때로 이 사구를 물로 가는 길의 장애물로만 보고 곧장 넘는 길을 낸다. 사실 사구는 천연 방어물이다. 폭풍 때 파도의 힘을 받아 내고, 씻겨 나간 모래는 앞바다에 가라앉아 다음 파도가 닿기 전에 약하게 만드는 데 돕는다. 풀은 여기에 필수적이다. 긴 뿌리가 모래를 붙잡고 잎은 바람에 날리는 알갱이를 잡아 언덕이 천천히 자란다. 같은 선을 따라 수십 번 발걸음이면 식물이 짓밟힐 수 있다. 덮개가 사라지면 바람이 그 틈으로 모래를 실어 가고 틈은 해마다 넓어진다. 그래서 많은 해변은 이제 높인 나무 보행로를 마련한다. 그것을 이용하는 데 방문객은 1분쯤 들지만, 무시하면 마을의 보호를 구할(저장할) 수 있다.",
+    "why": "보행로를 무시하면 마을이 보호를 '잃게' 되므로 save는 부적절합니다. cost여야 합니다.",
     "optionNotes": [
-      "바다 위로 솟아 있다는 의미로 rises가 알맞습니다.",
-      "용암이 식었다는 의미로 cooled가 알맞습니다.",
-      "방문객을 끌어들인다는 의미로 visitors가 알맞습니다.",
-      "중요한 유산으로 평가된다는 의미로 valued가 알맞습니다.",
-      "정답(부적절). 보호하려면 limit여야 합니다."
+      "사구가 천연 '방어물'이라는 defense입니다.",
+      "다음 파도를 '약하게' 한다는 weaken입니다.",
+      "뿌리가 모래를 '붙잡는다'는 hold입니다.",
+      "덮개가 사라진 '틈'이라는 gap입니다.",
+      "정답(부적절). 보호를 잃게 하므로 cost여야 합니다."
     ],
-    "trap": "'protect the island'의 방향을 놓치기 쉽습니다.",
-    "tip": "앞 절의 목적(보호)과 동사의 방향이 일치하는지 확인하세요."
+    "trap": "save는 좋은 낱말이라 앞부분만 읽으면 자연스러워 보입니다.",
+    "tip": "while 앞(1분이 든다)과 뒤(큰 손해)의 대조를 확인하세요."
   },
   {
     "id": "m2b-13-31",
     "level": "m2",
     "set": "mock-13",
+    "rev": 2,
     "no": 31,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Most popular songs have a chorus that repeats several times. Why do we enjoy repetition? Music scientists have studied this question for many years. Scientists say that our brains like to predict what will happen next. When we hear a melody again, our brain recognizes it and feels a small reward, as it does when we solve a puzzle. Too much surprise makes a song hard to follow, while too little makes it boring. The best songs mix both: familiar patterns with small changes. This is why a chorus feels satisfying: __________.",
+    "passage": "You enter an ice cream shop with six flavors, and within a minute you have a cone in your hand. Next door is a shop with sixty. You walk along the glass, taste two, ask about a third, and consider leaving. More choice sounds like pure gain, and up to a point it usually is, since a person is more likely to find something that fits. In a well-known study, however, shoppers who met a table with twenty-four kinds of jam stopped to look more often than those who met six, yet far fewer of them bought a jar. Later research shows that this does not happen every time; it depends on how familiar people are with the products and how the options are arranged. Still, the experience is common. Each added option has to be compared with the others, and beyond some point the work of comparing can grow so heavy that __________.",
     "options": [
-      "singers are paid more for repeating the same words",
-      "the volume is always louder than in the verses",
-      "short songs are easier to record in a studio",
-      "our brains enjoy predicting what comes next",
-      "dancing is impossible without a clear melody line"
+      "every product on the table begins to taste the same",
+      "shoppers buy several jars without any hesitation",
+      "the price of each item stops mattering to anyone",
+      "people put off choosing or give up on it altogether",
+      "the shop must remove all but one of its products"
     ],
     "answer": 3,
-    "translation": "대부분의 인기 있는 노래에는 여러 번 반복되는 후렴이 있다. 우리는 왜 반복을 즐길까? 음악 과학자들은 이 질문을 여러 해 연구해 왔다. 과학자들은 우리 뇌가 다음에 일어날 일을 예측하기를 좋아한다고 말한다. 선율을 다시 들으면 뇌가 그것을 알아보고 퍼즐을 풀 때처럼 작은 보상을 느낀다. 놀라움이 너무 많으면 노래를 따라가기 어렵고 너무 적으면 지루하다. 최고의 노래는 익숙한 패턴과 작은 변화를 섞는다. 이것이 후렴이 만족스러운 이유이다. 우리 뇌는 다음에 올 것을 예측하는 것을 즐긴다.",
-    "why": "반복되는 선율을 알아보고 예측하는 데서 보상을 느끼므로 후렴이 만족스러운 이유는 뇌가 다음을 예측하는 것을 즐기기 때문입니다.",
+    "translation": "여섯 가지 맛의 아이스크림 가게에 들어가면 1분 안에 콘이 손에 있다. 옆에는 60가지 가게가 있다. 유리를 따라 걷고, 둘을 맛보고, 셋째를 묻고, 나갈까 생각한다. 선택이 많은 것은 순수한 이득처럼 들리며, 맞는 것을 찾을 가능성이 커지므로 어느 지점까지는 대개 그렇다. 그러나 잘 알려진 연구에서 24종의 잼 탁자를 만난 손님은 6종을 만난 손님보다 자주 멈춰 보았지만 훨씬 적게 샀다. 이후 연구는 이것이 늘 일어나지는 않으며 사람이 상품에 얼마나 익숙한지, 선택지가 어떻게 배열되는지에 달려 있음을 보여 준다. 그래도 흔한 경험이다. 더해진 선택지마다 다른 것과 비교해야 하고, 어느 지점을 넘으면 비교의 수고가 너무 무거워져 사람들이 선택을 미루거나 아예 포기할 수 있다.",
+    "why": "많은 선택지 앞에서 구매가 줄었으므로 선택을 미루거나 포기한다는 ④가 알맞습니다.",
     "optionNotes": [
-      "가수의 보수는 나오지 않습니다.",
-      "후렴의 음량은 나오지 않습니다.",
-      "녹음 편의는 나오지 않습니다.",
-      "정답. 뇌가 다음을 예측하는 것을 즐깁니다.",
-      "춤은 나오지 않습니다."
+      "맛이 같아진다는 내용은 없습니다.",
+      "구매는 줄었습니다.",
+      "가격은 논점이 아닙니다.",
+      "정답. 선택을 미루거나 포기합니다.",
+      "가게가 하나만 남겨야 한다는 주장은 없습니다."
     ],
-    "trap": "'chorus'가 나온다고 음악 산업 이야기(①②③)를 고르지 마세요.",
-    "tip": "앞 문장(our brains like to predict)이 빈칸의 직접적 단서입니다."
+    "trap": "②는 '자주 멈춰 보았다'를 구매 증가로 착각한 것입니다.",
+    "tip": "'far fewer of them bought'를 일반화하세요."
   },
   {
     "id": "m2b-13-32",
     "level": "m2",
     "set": "mock-13",
+    "rev": 2,
     "no": 32,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Have you ever smelled a familiar scent and suddenly remembered a moment from your childhood? This is not a coincidence. The part of the brain that processes smell is located very close to the areas that handle emotions and memories. Other senses, such as sight and hearing, take a longer route. For this reason, a smell can bring back vivid memories faster and more strongly. Perfume makers and shops use this effect, for example by spreading the smell of fresh bread. Try it yourself the next time you smell something familiar. In short, a scent can work like __________.",
+    "passage": "Meerkats are small animals that live in groups in dry parts of southern Africa. To find insects and other food, they must dig with their heads down, a position in which it is nearly impossible to notice an eagle overhead or a jackal creeping through the grass. Looking up every few seconds would leave little time for eating. The group handles this problem in a striking way. One member climbs a mound or a bush, stands upright, and watches the sky and the ground while the others forage. It often gives soft calls that seem to tell the rest that someone is on watch, and a sharp alarm sends everyone running to the burrows. After a while the guard comes down to feed, and another goes up. Researchers have found that guards are often animals that have already eaten well. By taking turns in this way, the members of the group can __________.",
     "options": [
-      "a lock that keeps memories from coming out",
-      "a key that quickly opens the door to old memories",
-      "a map that shows us the way to new places",
-      "a clock that tells us the exact time",
-      "a bell that wakes us up in the morning"
+      "sleep through the hottest hours without any worry",
+      "give most of their attention to finding food safely",
+      "drive away every large enemy that comes near them",
+      "store enough insects to last through the winter",
+      "avoid ever having to leave their underground homes"
     ],
     "answer": 1,
-    "translation": "익숙한 향기를 맡고 갑자기 어린 시절의 한순간이 떠오른 적이 있는가? 이것은 우연이 아니다. 냄새를 처리하는 뇌의 부분은 감정과 기억을 다루는 영역과 매우 가까이 있다. 시각이나 청각 같은 다른 감각은 더 긴 경로를 거친다. 이 때문에 냄새는 생생한 기억을 더 빠르고 강하게 불러올 수 있다. 향수 제조업자와 상점은 갓 구운 빵 냄새를 퍼뜨리는 것처럼 이 효과를 이용한다. 다음에 익숙한 냄새를 맡으면 직접 시험해 보라. 요컨대 향기는 오래된 기억의 문을 빠르게 여는 열쇠처럼 작용할 수 있다.",
-    "why": "냄새가 기억을 빠르고 강하게 불러오므로 오래된 기억의 문을 여는 열쇠와 같습니다.",
+    "translation": "미어캣은 아프리카 남부의 건조한 지역에서 무리 지어 사는 작은 동물이다. 곤충과 다른 먹이를 찾으려면 머리를 숙이고 파야 하는데, 그 자세에서는 머리 위의 독수리나 풀숲을 기어 오는 자칼을 알아채기가 거의 불가능하다. 몇 초마다 올려다보면 먹을 시간이 거의 없다. 무리는 놀라운 방식으로 이 문제를 다룬다. 한 구성원이 둔덕이나 덤불에 올라 똑바로 서서 다른 이들이 먹이를 찾는 동안 하늘과 땅을 지켜본다. 흔히 누군가 망을 보고 있다고 알리는 듯한 부드러운 소리를 내며, 날카로운 경보는 모두를 굴로 달려가게 한다. 얼마 뒤 보초는 내려와 먹고 다른 개체가 올라간다. 연구자는 보초가 흔히 이미 잘 먹은 개체임을 발견했다. 이렇게 번갈아 함으로써 무리의 구성원은 안전하게 먹이 찾기에 주의 대부분을 쏟을 수 있다.",
+    "why": "누군가 망을 보므로 나머지는 먹이 찾기에 집중할 수 있다는 ②가 알맞습니다.",
     "optionNotes": [
-      "기억을 가둔다는 내용은 글과 반대입니다.",
-      "정답. 기억의 문을 여는 열쇠입니다.",
-      "새로운 장소의 지도는 나오지 않습니다.",
-      "시계는 나오지 않습니다.",
-      "종은 나오지 않습니다."
+      "낮잠은 나오지 않습니다.",
+      "정답. 안전하게 먹이 찾기에 집중합니다.",
+      "적을 쫓아내는 것이 아니라 달아납니다.",
+      "저장은 나오지 않습니다.",
+      "밖에서 먹이를 찾습니다."
     ],
-    "trap": "'perfume makers'가 나온다고 마케팅 이야기로 오해하지 마세요.",
-    "tip": "For this reason 앞의 설명(가까운 위치)이 비유의 핵심입니다."
+    "trap": "③은 보초의 역할을 '싸움'으로 바꾼 함정입니다.",
+    "tip": "처음의 문제(머리를 숙이면 못 본다)가 어떻게 해결되는지 보세요."
   },
   {
     "id": "m2b-13-33",
     "level": "m2",
     "set": "mock-13",
+    "rev": 2,
     "no": 33,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "If you place a plant near a window, you will notice that its leaves and stems bend toward the light. This process is called phototropism. It happens slowly, over several hours. This movement is caused by a chemical inside the plant. When light hits one side of the stem, the chemical moves to the shaded side and makes the cells there grow longer. As a result, the stem bends toward the light. This ability helps the plant get more energy for making food. So plants are not just still objects; they are living things that can __________.",
+    "passage": "Here is a simple way to test your own memory. Take a list of thirty everyday words. For some of them, write the word several times. For the others, draw a quick picture of the thing: a kite, a pear, a ladder. A few minutes later, try to recall the whole list. Researchers who ran this kind of experiment found that people remembered clearly more of the words that they had drawn than of those that they had written. Artistic skill made little difference; rough sketches done in a few seconds worked too. The advantage appeared even when people were given the same short time for both tasks. Why should this be? To draw a pear, you must think about its shape, picture it in your mind, and move your hand to produce that shape. The single idea is stored in several linked ways, as meaning, as image, and as action. The finding suggests that information tends to stay longer when __________.",
     "options": [
-      "move from one place to another place",
-      "talk to each other in human languages",
-      "sense their surroundings and respond to changes in them",
-      "live without any water for a long time",
-      "make light by themselves at night"
+      "it is copied many times without any thought",
+      "the person who studies it is a talented artist",
+      "we take it in and work with it in more than one way at the same time",
+      "it is presented as a long list with no pictures",
+      "we try to learn it as quickly as we possibly can"
     ],
     "answer": 2,
-    "translation": "식물을 창가에 두면 잎과 줄기가 빛 쪽으로 휘어지는 것을 알 수 있다. 이 과정은 굴광성이라고 불린다. 이는 몇 시간에 걸쳐 천천히 일어난다. 이 움직임은 식물 안의 한 물질 때문에 일어난다. 빛이 줄기 한쪽에 닿으면 그 물질이 그늘진 쪽으로 이동해 그곳의 세포가 더 길게 자라게 한다. 그 결과 줄기가 빛 쪽으로 휜다. 이 능력은 식물이 양분을 만들 에너지를 더 얻도록 돕는다. 그러니 식물은 단지 가만히 있는 물체가 아니라 주변을 감지하고 변화에 반응할 수 있는 생명체이다.",
-    "why": "빛을 감지해 줄기를 휘게 하는 것이므로 식물은 주변을 감지하고 변화에 반응할 수 있는 생명체입니다.",
+    "translation": "자기 기억을 시험하는 간단한 방법이 있다. 일상 낱말 30개 목록을 준비한다. 일부는 낱말을 여러 번 쓴다. 나머지는 연, 배, 사다리처럼 그 사물의 빠른 그림을 그린다. 몇 분 뒤 전체 목록을 떠올려 본다. 이런 실험을 한 연구자는 사람들이 쓴 것보다 그린 낱말을 분명히 더 많이 기억함을 발견했다. 그림 솜씨는 거의 차이를 만들지 않았고 몇 초 만에 그린 거친 스케치도 통했다. 두 과제에 똑같이 짧은 시간을 주었을 때도 이점이 나타났다. 왜 그럴까? 배를 그리려면 모양을 생각하고, 마음에 그리고, 손을 움직여 그 모양을 만들어야 한다. 하나의 생각이 뜻, 이미지, 동작으로 연결된 여러 방식으로 저장된다. 이 발견은 우리가 한 번에 하나보다 많은 방식으로 다룰 때 정보가 더 오래 남는 경향을 시사한다.",
+    "why": "뜻, 이미지, 동작 여러 방식으로 저장되므로 ③이 알맞습니다.",
     "optionNotes": [
-      "식물이 이동한다는 내용은 나오지 않습니다.",
-      "사람 말로 대화한다는 내용은 나오지 않습니다.",
-      "정답. 주변을 감지하고 변화에 반응합니다.",
-      "물 없이 산다는 내용은 나오지 않습니다.",
-      "밤에 스스로 빛을 낸다는 내용은 나오지 않습니다."
+      "생각 없는 반복은 효과가 덜했습니다.",
+      "솜씨는 차이를 만들지 않았습니다.",
+      "정답. 여러 방식으로 다룰 때입니다.",
+      "그림이 도움이 되었습니다.",
+      "속도는 논점이 아닙니다."
     ],
-    "trap": "'move'를 식물이 장소를 옮긴다는 뜻으로 오해하지 마세요.",
-    "tip": "앞 내용(빛 쪽으로 휨)을 일반화하면 '환경에 반응'입니다."
+    "trap": "②는 'Artistic skill made little difference'와 반대입니다.",
+    "tip": "'stored in several linked ways'를 바꿔 말한 것을 고르세요."
   },
   {
     "id": "m2b-13-34",
     "level": "m2",
     "set": "mock-13",
+    "rev": 2,
     "no": 34,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Giving a sincere compliment makes both people feel good. Research shows that people often underestimate how much a compliment will mean to the receiver. In an experiment, participants wrote compliments to friends. They guessed that the friends would feel only a little happy, but the friends actually felt much happier than expected. Many people hold back because they fear feeling awkward. Sometimes people want to say something nice but think that it sounds silly. A sincere word is rarely forgotten. However, the receiver is usually delighted. So a small kind word costs nothing but can __________.",
+    "passage": "Imagine a street designed with an eight-year-old in mind. The crossing signal stays green long enough for short legs. The curb slopes gently into the road, cars have to slow at the corners, and there are benches and drinking water near a small patch of trees. Now ask who else would welcome such a street. An old man with a cane needs the longer signal as much as the child does. A mother pushing a stroller, a delivery worker with a cart, and a woman in a wheelchair all benefit from the sloped curb. Even drivers face fewer sudden dangers. Shopkeepers may notice that people stay longer on a street where they feel at ease. Some city planners have therefore suggested treating children as a kind of test. They do not claim that children's needs are the only ones that matter. Their point is that a place built so that its most easily endangered users can move safely tends to __________.",
     "options": [
-      "make the receiver feel confused for a week",
-      "brighten someone's day more than we expect",
-      "cause the speaker to forget what he wanted to say",
-      "reduce the number of friends we have",
-      "change the weather in a cheerful way"
+      "cost far too much for any city to maintain",
+      "work well for many other people as well",
+      "force every driver to stop using the road",
+      "become a space that only children will visit",
+      "look the same as any other street in town"
     ],
     "answer": 1,
-    "translation": "진심 어린 칭찬을 하면 두 사람 모두 기분이 좋아진다. 연구에 따르면 사람들은 칭찬이 받는 사람에게 얼마나 의미 있을지를 흔히 과소평가한다. 한 실험에서 참가자들은 친구에게 칭찬하는 글을 썼다. 그들은 친구가 조금만 행복해할 것이라고 짐작했지만 친구는 실제로 기대보다 훨씬 더 행복해했다. 많은 사람은 어색할까 봐 망설인다. 때로 사람들은 좋은 말을 하고 싶지만 그것이 어리석게 들린다고 생각한다. 진심 어린 말은 좀처럼 잊히지 않는다. 하지만 받는 사람은 보통 기뻐한다. 그러니 작은 친절한 말은 돈이 들지 않지만 누군가의 하루를 우리가 예상하는 것보다 더 환하게 해 줄 수 있다.",
-    "why": "친구들이 기대보다 훨씬 더 행복해했으므로 작은 칭찬은 하루를 예상보다 더 환하게 합니다.",
+    "translation": "여덟 살 아이를 염두에 두고 설계한 거리를 상상해 보라. 횡단 신호는 짧은 다리에도 충분히 길게 초록이다. 연석은 완만하게 도로로 내려가고, 차는 모퉁이에서 속도를 줄여야 하며, 작은 나무숲 근처에 의자와 마실 물이 있다. 이제 누가 또 그런 거리를 반길지 물어보라. 지팡이를 짚은 노인은 아이만큼 긴 신호가 필요하다. 유모차를 미는 어머니, 수레를 끄는 배달원, 휠체어를 탄 여성 모두 완만한 연석의 도움을 받는다. 운전자조차 갑작스러운 위험을 덜 만난다. 가게 주인은 사람들이 편안한 거리에 더 오래 머무는 것을 알아챌 수 있다. 그래서 일부 도시 계획가는 아이를 일종의 시험으로 삼자고 제안했다. 아이의 필요만 중요하다고 주장하는 것은 아니다. 가장 쉽게 위험에 놓이는 이용자가 안전하게 움직이도록 지은 곳은 다른 많은 사람에게도 잘 맞는 경향이 있다는 것이다.",
+    "why": "아이를 위한 설계가 노인, 유모차, 휠체어 이용자에게도 좋으므로 ②가 알맞습니다.",
     "optionNotes": [
-      "혼란은 나오지 않습니다.",
-      "정답. 하루를 예상보다 더 환하게 합니다.",
-      "말을 잊는다는 내용은 나오지 않습니다.",
-      "친구 수 감소는 글과 반대입니다.",
-      "날씨는 나오지 않습니다."
+      "비용은 나오지 않습니다.",
+      "정답. 다른 많은 사람에게도 잘 맞습니다.",
+      "운전을 금지하는 것이 아닙니다.",
+      "아이만 위한 곳이 아닙니다.",
+      "다른 거리와 같다는 내용이 아닙니다."
     ],
-    "trap": "'awkward'에 이끌려 부정적 결과를 고르지 마세요.",
-    "tip": "실험 결과(기대보다 훨씬 행복)에서 결론을 추론하세요."
+    "trap": "④는 'for children'을 '아이만'으로 좁힌 함정입니다.",
+    "tip": "'who else would welcome'에 대한 답이 빈칸입니다."
   },
   {
     "id": "m2b-13-35",
     "level": "m2",
     "set": "mock-13",
+    "rev": 2,
     "no": 35,
     "type": "irrelevant",
     "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
-    "passage": "Volunteering is good for the people who receive help, and it is good for the helpers, too. ① Volunteers often feel happier because helping others gives them a sense of purpose. ② They also meet new friends who share similar interests. ③ Teenagers can learn useful skills, such as teamwork and communication. ④ Many volunteers say that they gain confidence by solving real problems. ⑤ Honeybees communicate with each other through a special kind of dance.",
+    "passage": "Going to bed and getting up at about the same time every day, weekends included, can be harder than it sounds for teenagers. Yet the effort tends to be rewarded. The body has an internal clock that prepares us for sleep and for waking at expected hours. This clock likes habits, and it learns from what we do day after day. ① When bedtime jumps around, this clock cannot settle on a pattern. ② Sleeping until noon on Sunday may feel like repaying a debt, but it often makes Sunday night restless. ③ A regular schedule helps people fall asleep more quickly and wake with less of a struggle. Teachers may notice the difference too, in students who can follow a long explanation. ④ Morning light, which tells the clock that the day has begun, makes the routine easier to keep. Putting the phone away before bed removes one more thing that can push the clock later. ⑤ Beds in different countries vary widely in height, shape, and the materials used to fill them.",
     "options": [
       "①",
       "②",
@@ -183,26 +190,27 @@
       "⑤"
     ],
     "answer": 4,
-    "translation": "자원봉사는 도움을 받는 사람에게도 좋고 돕는 사람에게도 좋다. ① 자원봉사자는 남을 돕는 일이 목적의식을 주기 때문에 흔히 더 행복해한다. ② 그들은 비슷한 관심사를 가진 새 친구도 만난다. ③ 십대는 팀워크와 의사소통 같은 유용한 기술을 배울 수 있다. ④ 많은 자원봉사자는 실제 문제를 해결하며 자신감을 얻는다고 말한다. ⑤ 꿀벌은 특별한 종류의 춤으로 서로 의사소통한다.",
-    "why": "글은 자원봉사가 돕는 사람에게 주는 이점을 이야기하는데 ⑤는 꿀벌의 춤에 관한 별개의 이야기입니다.",
+    "translation": "주말을 포함해 날마다 거의 같은 시각에 자고 일어나는 것은 10대에게 말보다 어려울 수 있다. 그러나 노력은 보상받는 경향이 있다. 몸에는 예상 시각에 잠과 깸을 준비시키는 체내 시계가 있다. 이 시계는 습관을 좋아하며 우리가 날마다 하는 것에서 배운다. ① 취침 시각이 들쭉날쭉하면 이 시계는 양상에 자리 잡지 못한다. ② 일요일 정오까지 자는 것은 빚을 갚는 듯 느껴지지만 흔히 일요일 밤을 뒤척이게 한다. ③ 규칙적인 일정은 더 빨리 잠들고 덜 힘들게 깨도록 돕는다. 교사도 긴 설명을 따라갈 수 있는 학생에게서 차이를 알아챌 수 있다. ④ 시계에 하루가 시작됐다고 알리는 아침 햇빛은 습관을 지키기 쉽게 한다. 자기 전에 휴대전화를 치우면 시계를 늦추는 것 하나가 더 없어진다. ⑤ 여러 나라의 침대는 높이, 모양, 속을 채우는 재료가 크게 다르다.",
+    "why": "글은 규칙적인 수면 시각의 효과를 다루는데 ⑤는 나라별 침대 이야기라 흐름에서 벗어납니다.",
     "optionNotes": [
-      "목적의식이라는 이점입니다.",
-      "새 친구라는 이점입니다.",
-      "유용한 기술이라는 이점입니다.",
-      "자신감이라는 이점입니다.",
-      "정답(무관). 꿀벌의 춤 이야기라 관계가 없습니다."
+      "불규칙한 취침의 영향입니다.",
+      "주말 늦잠의 영향입니다.",
+      "규칙적 일정의 이점입니다.",
+      "습관을 돕는 방법입니다.",
+      "정답. 침대의 종류는 무관합니다."
     ],
-    "trap": "'communication'이라는 단어가 이어진다고 착각하기 쉽습니다.",
-    "tip": "주제(자원봉사의 이점)를 직접 뒷받침하지 않는 문장을 고르세요."
+    "trap": "'bed'가 나온다고 수면 시간 이야기는 아닙니다.",
+    "tip": "주제(same time every day)에서 벗어난 문장을 찾으세요."
   },
   {
     "id": "m2b-13-36",
     "level": "m2",
     "set": "mock-13",
+    "rev": 2,
     "no": 36,
     "type": "order",
     "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
-    "passage": "The first photograph in history was taken in 1826 by a French inventor named Nicéphore Niépce. It showed the view from the window of his house.\n(A) The exposure took about eight hours, so the sunlight moved across the buildings, and both sides of the roofs appear bright.\n(B) Today, a camera can take a photo in a fraction of a second. We can even take hundreds of photos with a phone.\n(C) To take it, he placed a metal plate covered with a special material in a camera and left it in the sun.",
+    "passage": "One popular frozen treat is said to have been discovered by accident by an eleven-year-old boy.\n(A) The next morning he found the mixture frozen solid around the stick. He pulled it out by the handle and licked it. It was sweet, cold, and easy to hold. The boy liked what he tasted, but for many years it remained something that he made mainly for himself and his friends.\n(B) As an adult with children of his own, Epperson began to sell the treats at an amusement park. In the 1920s he received a patent, and the name that his children liked to use, Popsicle, became the one that people remember. Today the treats are sold in many countries, in far more flavors than he could have mixed on his porch.\n(C) According to the story, Frank Epperson of California mixed a sweet drink powder with water one evening in 1905. He left the cup outside on the porch with the stirring stick still in it, and the night turned unusually cold. Nobody had planned the experiment.",
     "options": [
       "(A)-(C)-(B)",
       "(B)-(A)-(C)",
@@ -211,26 +219,27 @@
       "(C)-(B)-(A)"
     ],
     "answer": 3,
-    "translation": "역사상 최초의 사진은 1826년 프랑스 발명가 니세포르 니엡스가 찍었다. 그것은 그의 집 창문에서 본 풍경을 담고 있었다. (C) 사진을 찍으려고 그는 특수한 물질을 입힌 금속판을 카메라에 넣고 햇빛 아래 두었다. (A) 노출에 약 여덟 시간이 걸려서 햇빛이 건물들 위를 움직였고 지붕의 양쪽이 모두 밝게 보인다. (B) 오늘날 카메라는 순식간에 사진을 찍을 수 있다. 휴대전화로 수백 장도 찍을 수 있다.",
-    "why": "(C) 'To take it'로 촬영 방법 → (A) 'The exposure'로 그 결과 → (B) 'Today'로 오늘날의 모습 순서입니다.",
+    "translation": "인기 있는 얼음 간식 하나는 열한 살 소년이 우연히 발견했다고 전해진다. (C) 이야기에 따르면 1905년 어느 저녁 캘리포니아의 프랭크 에퍼슨은 단 음료 가루를 물에 섞었다. 젓는 막대를 꽂은 채 컵을 현관 밖에 두었고 그날 밤은 유난히 추워졌다. 아무도 계획한 실험이 아니었다. (A) 다음 날 아침 그는 혼합물이 막대 주위에 단단히 언 것을 발견했다. 손잡이를 잡아 빼 핥았다. 달고 차갑고 들기 편했다. 소년은 맛이 좋았지만 여러 해 동안 주로 자신과 친구를 위해 만드는 것으로 남았다. (B) 자기 아이를 둔 어른이 된 에퍼슨은 놀이공원에서 그 간식을 팔기 시작했다. 1920년대에 특허를 받았고, 아이들이 즐겨 부르던 이름 Popsicle이 사람들이 기억하는 이름이 되었다. 오늘날 그 간식은 많은 나라에서 그가 현관에서 섞을 수 있었던 것보다 훨씬 많은 맛으로 팔린다.",
+    "why": "(C) 컵을 밖에 둠 → (A) 아침에 발견 → (B) 어른이 되어 판매 순서입니다.",
     "optionNotes": [
-      "(A)의 'The exposure'가 가리킬 촬영이 앞에 없습니다.",
-      "(B)의 'Today'가 과거 설명 없이 먼저 나옵니다.",
-      "(B)가 먼저 오면 'Today'의 대조 대상이 없습니다.",
-      "정답. 방법 → 결과 → 오늘날.",
-      "(B)가 (A) 앞에 오면 노출 시간의 설명이 뒤로 밀립니다."
+      "(A)의 'The next morning'은 (C) 뒤여야 합니다.",
+      "(B)의 어른 시절이 먼저 올 수 없습니다.",
+      "(B)가 처음에 올 수 없습니다.",
+      "정답. 계기 → 발견 → 판매입니다.",
+      "(B)가 (A)보다 앞설 수 없습니다."
     ],
-    "trap": "(C)의 'it'은 주어진 글의 first photograph를 가리킵니다.",
-    "tip": "it, The exposure, Today 같은 지시어와 시간 표현을 확인하세요."
+    "trap": "(A)의 'the stick'은 (C)에서 처음 나온 젓는 막대입니다.",
+    "tip": "시간 표현과 인물의 나이 변화를 따라가세요."
   },
   {
     "id": "m2b-13-37",
     "level": "m2",
     "set": "mock-13",
+    "rev": 2,
     "no": 37,
     "type": "order",
     "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
-    "passage": "Imagine that you find a wallet on the street with money and an ID card inside. The owner's name is written on the card. What would you do?\n(A) This result suggests that honesty depends not only on money but also on how we see ourselves.\n(B) In a large experiment, researchers dropped wallets in cities around the world and checked how many were returned to the owners. The wallets contained a name and contact information.\n(C) Surprisingly, wallets with more money in them were returned more often than those with less money. The researchers had expected the opposite result.",
+    "passage": "Cheese begins with milk, but turning a liquid into a firm block takes several careful steps.\n(A) The solid pieces are then gathered, pressed into a mold, and salted. Many cheeses are finally left on shelves in cool rooms for weeks or months, where their taste slowly grows deeper and their texture changes. This is why two cheeses made from the same milk can taste completely different.\n(B) First the milk is warmed, and friendly bacteria are added. They feed on the sugar in the milk and make it slightly sour. Next, an ingredient called rennet is stirred in, and within an hour or so the milk sets like soft pudding. Rennet makes the proteins in the milk join together into a loose net.\n(C) This soft mass is cut into small cubes with long knives. Cutting lets a watery liquid called whey escape, and gentle heating drives out still more, leaving behind lumps known as curds. The size of the cubes helps to decide how hard the finished cheese will be.",
     "options": [
       "(A)-(C)-(B)",
       "(B)-(A)-(C)",
@@ -239,26 +248,27 @@
       "(C)-(B)-(A)"
     ],
     "answer": 2,
-    "translation": "길에서 돈과 신분증이 든 지갑을 발견했다고 상상해 보라. 신분증에는 주인의 이름이 적혀 있다. 당신은 어떻게 하겠는가? (B) 한 대규모 실험에서 연구자들은 전 세계 도시에 지갑을 떨어뜨리고 얼마나 많은 지갑이 주인에게 돌려졌는지 확인했다. 지갑에는 이름과 연락처가 들어 있었다. (C) 놀랍게도 돈이 더 많이 든 지갑이 적게 든 지갑보다 더 자주 돌려졌다. 연구자들은 반대의 결과를 예상했다. (A) 이 결과는 정직이 돈에만 달린 것이 아니라 우리가 자신을 어떻게 보는지에도 달려 있음을 시사한다.",
-    "why": "(B) 실험 소개 → (C) 'Surprisingly'로 결과 → (A) 'This result'로 해석 순서입니다.",
+    "translation": "치즈는 우유에서 시작하지만 액체를 단단한 덩어리로 바꾸려면 몇 가지 세심한 단계가 필요하다. (B) 먼저 우유를 데우고 이로운 세균을 넣는다. 세균은 우유의 당을 먹고 약간 시게 만든다. 다음으로 레닛이라는 재료를 섞으면 한 시간쯤 안에 우유가 부드러운 푸딩처럼 굳는다. 레닛은 우유의 단백질이 서로 이어져 성긴 그물이 되게 한다. (C) 이 부드러운 덩어리를 긴 칼로 작은 정육면체로 자른다. 자르면 유청이라는 묽은 액체가 빠져나가고, 살살 가열하면 더 빠져 커드라는 덩이가 남는다. 조각의 크기는 완성된 치즈가 얼마나 단단할지 정하는 데 영향을 준다. (A) 고체 조각을 모아 틀에 눌러 담고 소금을 친다. 많은 치즈는 마지막으로 서늘한 방의 선반에 몇 주나 몇 달 두어 맛이 서서히 깊어지고 질감이 변한다. 같은 우유로 만든 두 치즈의 맛이 전혀 다를 수 있는 이유이다.",
+    "why": "(B) 데워 굳히기 → (C) 잘라 유청 빼기 → (A) 압착과 숙성 순서입니다.",
     "optionNotes": [
-      "(A)의 'This result'가 가리킬 결과가 앞에 없습니다.",
-      "(A)가 (C) 앞에 오면 결과가 나오기 전에 해석이 나옵니다.",
-      "정답. 실험 → 결과 → 해석.",
-      "(C)의 결과가 실험 설명 전에 나옵니다.",
-      "(C)의 결과가 실험 설명 전에 나옵니다."
+      "(A)의 'The solid pieces'는 (C) 뒤여야 합니다.",
+      "(A)가 (C)보다 앞서면 'solid pieces'가 없습니다.",
+      "정답. 굳히기 → 자르기 → 숙성입니다.",
+      "(C)의 'This soft mass'는 (B) 뒤여야 합니다.",
+      "(C)가 처음에 올 수 없습니다."
     ],
-    "trap": "(A)의 'This result'는 (C)의 놀라운 결과를 가리킵니다.",
-    "tip": "실험 → 결과 → 해석의 글 구조와 This result 같은 지시어를 확인하세요."
+    "trap": "(C)의 'This soft mass'는 (B)의 푸딩처럼 굳은 우유입니다.",
+    "tip": "First, Next와 지시어(This soft mass, The solid pieces)를 따라가세요."
   },
   {
     "id": "m2b-13-38",
     "level": "m2",
     "set": "mock-13",
+    "rev": 2,
     "no": 38,
     "type": "insert",
     "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
-    "passage": "[주어진 문장]\nTo prevent this, doctors recommend staying indoors during the hottest part of the day.\n\n[글]\n( ① ) Heat waves are becoming more common in many parts of the world. ( ② ) When the temperature stays high for several days, people can suffer from heat stroke, which can be very dangerous. ( ③ ) They also advise drinking water often and wearing light clothes. ( ④ ) Older people and young children should be especially careful. ( ⑤ ) Neighbors can help by checking on people who live alone.",
+    "passage": "[주어진 문장]\nWhat differs is how quickly each material carries heat away from your skin.\n\n[글]\n( ① ) Touch a metal spoon and a wooden spoon that have both been lying in the same drawer. Both have been in the same room for many hours. ( ② ) The metal one feels clearly colder, although a thermometer would show that the two are at the same temperature. ( ③ ) Your fingers are warmer than either spoon, so heat flows from your skin into whatever you touch. Heat always moves from the warmer thing to the cooler one. ( ④ ) Metal draws it off rapidly and spreads it along the whole handle, while wood takes it slowly and soon warms up where you hold it. You can notice the same difference between a tile floor and a rug on a winter morning. ( ⑤ ) What we feel as cold, then, is less the temperature of the object than the loss of heat from ourselves. This is also why a wool sweater feels warm, since it slows the heat that is trying to leave.",
     "options": [
       "①",
       "②",
@@ -267,26 +277,27 @@
       "⑤"
     ],
     "answer": 2,
-    "translation": "[주어진 문장] 이를 예방하려고 의사들은 하루 중 가장 더운 시간에는 실내에 머물라고 권한다. [글] 폭염은 세계 여러 지역에서 점점 흔해지고 있다. 기온이 며칠 동안 높게 유지되면 사람들은 매우 위험할 수 있는 열사병에 걸릴 수 있다. 그들은 또한 물을 자주 마시고 가벼운 옷을 입으라고 조언한다. 노인과 어린아이는 특히 조심해야 한다. 이웃은 혼자 사는 사람을 살펴봄으로써 도울 수 있다.",
-    "why": "'this'는 열사병의 위험을 가리키고 뒤의 'They also advise'가 의사들의 다른 조언을 잇기 때문에 ③에 들어갑니다.",
+    "translation": "[주어진 문장] 다른 것은 각 재료가 피부에서 열을 얼마나 빨리 빼앗아 가는가이다. [글] 같은 서랍에 놓여 있던 금속 숟가락과 나무 숟가락을 만져 보라. 둘은 같은 방에 여러 시간 있었다. 온도계로 재면 둘이 같은 온도인데도 금속이 분명히 더 차게 느껴진다. 손가락은 어느 숟가락보다 따뜻하므로 열은 피부에서 만지는 것으로 흐른다. 열은 늘 더 따뜻한 것에서 더 찬 것으로 이동한다. 금속은 그것을 빠르게 빼내 손잡이 전체로 퍼뜨리지만, 나무는 천천히 받아 잡은 곳이 곧 따뜻해진다. 겨울 아침의 타일 바닥과 깔개에서도 같은 차이를 느낄 수 있다. 그러므로 우리가 차갑다고 느끼는 것은 물체의 온도라기보다 우리에게서 열이 빠져나가는 것이다. 빠져나가려는 열을 늦추기 때문에 털 스웨터가 따뜻하게 느껴지는 이유이기도 하다.",
+    "why": "온도가 같다는 말(②) 뒤에 '다른 것은 빼앗는 속도'라고 답하고, 이어 열의 흐름을 설명하므로 ③입니다.",
     "optionNotes": [
-      "'this'가 가리킬 위험이 아직 나오지 않았습니다.",
-      "'this'가 가리킬 열사병을 설명하는 도중입니다.",
-      "정답. 위험 설명 뒤에 예방책이 나오고 'They also advise'로 이어집니다.",
-      "'They also advise'와 연결되지 않습니다.",
-      "의사의 권고와 이웃의 도움 사이에 끼면 어색합니다."
+      "아직 비교가 시작되지 않았습니다.",
+      "온도가 같다는 사실이 나오기 전이라 'What differs'가 이릅니다.",
+      "정답. 같은 온도 → 다른 점 → 설명입니다.",
+      "열의 흐름 설명 뒤에 끼면 'Metal draws it'의 it이 흐려집니다.",
+      "결론 앞에는 늦습니다."
     ],
-    "trap": "뒤의 'They also advise'의 They가 doctors를 가리키므로 의사가 먼저 언급되어야 합니다.",
-    "tip": "To prevent this의 this가 가리키는 위험 설명 직후에 놓이는 문장입니다."
+    "trap": "④에 넣으면 'Metal draws it off'의 it(열)이 바로 앞에 오지 않습니다.",
+    "tip": "'What differs'는 '같은 것'을 말한 직후에 옵니다."
   },
   {
     "id": "m2b-13-39",
     "level": "m2",
     "set": "mock-13",
+    "rev": 2,
     "no": 39,
     "type": "insert",
     "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
-    "passage": "[주어진 문장]\nIn the end, the little shop became the most popular bakery in town.\n\n[글]\n( ① ) Mr. Kim opened a tiny bakery with only one oven, in a quiet corner of the neighborhood. ( ② ) At first, few customers came, and he often threw away unsold bread. ( ③ ) Then he began to give free samples to people passing by. ( ④ ) Slowly, people started to talk about his soft and warm bread. ( ⑤ ) Now customers line up every morning, and he has hired three helpers.",
+    "passage": "[주어진 문장]\nThanks to these quiet efforts, the great majority of the writings survived.\n\n[글]\n( ① ) For centuries families in Timbuktu, in the West African country of Mali, kept old handwritten books on law, medicine, astronomy, and poetry. Many of these works had been passed down through one generation after another. ( ② ) In 2012 armed groups took control of the city and began destroying things that they disapproved of. Libraries and private collections suddenly seemed to be in danger. ( ③ ) A librarian named Abdel Kader Haidara and many helpers decided to move the manuscripts to safety. Moving hundreds of thousands of pages without being noticed was extremely risky. ( ④ ) Over several months they packed them into metal trunks and sent them south by cart, truck, and river boat, often at night. The drivers and boatmen who helped could have been punished if they had been caught. ( ⑤ ) Scholars are now photographing and repairing them, so that their contents can be read far beyond the city. Protecting knowledge sometimes depends on ordinary people with great courage.",
     "options": [
       "①",
       "②",
@@ -295,44 +306,45 @@
       "⑤"
     ],
     "answer": 4,
-    "translation": "[주어진 문장] 결국 그 작은 가게는 마을에서 가장 인기 있는 빵집이 되었다. [글] 김 씨는 동네 조용한 구석에 오븐 하나만 있는 작은 빵집을 열었다. 처음에는 손님이 거의 없었고 그는 팔리지 않은 빵을 자주 버렸다. 그러다 그는 지나가는 사람들에게 무료 시식을 주기 시작했다. 서서히 사람들이 그의 부드럽고 따뜻한 빵에 대해 이야기하기 시작했다. 이제 손님들은 매일 아침 줄을 서고 그는 도우미 세 명을 고용했다.",
-    "why": "어려움에서 점차 성공하는 과정을 말한 뒤 'In the end'로 결과를 정리하고 지금의 모습이 이어지므로 ⑤에 들어갑니다.",
+    "translation": "[주어진 문장] 이 조용한 노력 덕분에 글의 대다수가 살아남았다. [글] 수백 년 동안 서아프리카 말리의 팀북투 가정들은 법, 의학, 천문학, 시에 관한 옛 필사본을 간직했다. 이 저작의 다수는 대대로 전해 내려왔다. 2012년 무장 집단이 도시를 장악하고 못마땅한 것들을 파괴하기 시작했다. 도서관과 개인 소장품이 갑자기 위험에 놓인 듯했다. 압델 카데르 하이다라라는 사서와 많은 조력자가 필사본을 안전한 곳으로 옮기기로 했다. 들키지 않고 수십만 쪽을 옮기는 것은 극히 위험했다. 몇 달에 걸쳐 금속 궤에 담아 수레, 트럭, 강배로 남쪽에 보냈는데 흔히 밤에 했다. 도운 운전사와 뱃사공은 잡히면 처벌받을 수 있었다. 학자들은 이제 그것을 촬영하고 수리해 내용이 도시 너머 멀리에서 읽히게 하고 있다. 지식을 지키는 일은 때로 큰 용기를 지닌 평범한 사람에게 달려 있다.",
+    "why": "옮기는 노력(④ 문장) 뒤에 '이 노력 덕분에 살아남았다'고 하고, 이어 지금의 보존 작업이 나오므로 ⑤입니다.",
     "optionNotes": [
-      "'In the end'가 이어질 과정이 아직 없습니다.",
-      "어려움이 시작되기 전이라 결말이 이릅니다.",
-      "시식 이야기 전이라 결말이 이릅니다.",
-      "입소문 설명이 끝나기 전이라 이릅니다.",
-      "정답. 과정을 모두 설명한 뒤 결과를 말합니다."
+      "노력이 아직 없습니다.",
+      "위기만 설명하기 전입니다.",
+      "옮기기로 결정하기 전입니다.",
+      "옮기는 과정이 설명되기 전입니다.",
+      "정답. 노력 → 생존 → 현재의 작업입니다."
     ],
-    "trap": "'the little shop'이 ①의 tiny bakery와 연결되므로 ①에 넣고 싶지만 'In the end'는 결말 표현입니다.",
-    "tip": "In the end는 과정이 모두 설명된 뒤에 놓입니다."
+    "trap": "④에 넣으면 실제로 옮긴 과정 전에 살아남았다고 말하게 됩니다.",
+    "tip": "'these quiet efforts'가 가리키는 행동 바로 뒤를 찾으세요."
   },
   {
     "id": "m2b-13-40",
     "level": "m2",
     "set": "mock-13",
+    "rev": 2,
     "no": 40,
     "type": "summary",
     "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Researchers asked one hundred students to sit for ten minutes in a quiet room, either with a houseplant or without one. The students who sat with a plant reported feeling calmer, and their stress levels were lower. They also said that the room felt warmer and more comfortable. Other studies found that office workers with plants near their desks worked more efficiently and felt happier. The researchers explained that looking at green leaves helps our eyes and minds rest. Many schools and offices have therefore started to place plants in their rooms.\n\n▶ Having (A) in a room helps people feel (B).",
+    "passage": "Many hotels place a small card in the bathroom asking guests to use their towels more than once. The usual card talks about protecting the environment. A group of researchers wondered whether different words might work better, and they tested two messages in a hotel over several weeks. Some rooms received the standard card about saving nature. Other rooms received a card saying that most guests who had stayed there reused their towels at least once. The request was the same in both cases, and no reward was offered. Guests who read about what others had done reused their towels noticeably more often than those who read the environmental message. Later studies in other places have found the effect to be smaller or less certain, so it should not be treated as a sure method. Still, it suggests that people often look to one another when deciding how to behave.\n\n▶ Telling people what (A) do can sometimes encourage them to act more than only asking them to (B) nature.",
     "options": [
-      "(A) noise — (B) angrier",
-      "(A) trash — (B) sleepier",
-      "(A) heat — (B) hungrier",
-      "(A) plants — (B) calmer",
-      "(A) wires — (B) lonelier"
+      "(A) leaders — (B) visit",
+      "(A) scientists — (B) study",
+      "(A) others — (B) forget",
+      "(A) others — (B) protect",
+      "(A) children — (B) protect"
     ],
     "answer": 3,
-    "translation": "연구자들은 학생 백 명에게 조용한 방에서 화분이 있는 경우와 없는 경우로 십 분 동안 앉아 있게 했다. 식물과 함께 앉은 학생들은 더 차분하다고 느꼈고 스트레스 수준도 더 낮았다. 그들은 또한 방이 더 따뜻하고 편안하게 느껴졌다고 말했다. 다른 연구들은 책상 근처에 식물이 있는 사무직 근로자가 더 효율적으로 일하고 더 행복해한다는 것을 발견했다. 연구자들은 초록 잎을 보는 것이 눈과 마음이 쉬도록 돕는다고 설명했다. 그래서 많은 학교와 사무실이 방에 식물을 두기 시작했다. ▶ 방에 (A)가 있으면 사람들이 더 (B) 느끼는 데 도움이 된다.",
-    "why": "식물과 함께 앉은 학생들이 더 차분하다고 느꼈으므로 (A)는 plants, (B)는 calmer입니다.",
+    "translation": "많은 호텔은 욕실에 수건을 한 번 넘게 써 달라는 작은 카드를 둔다. 흔한 카드는 환경 보호를 말한다. 한 연구 팀은 다른 말이 더 잘 통할지 궁금해 몇 주 동안 한 호텔에서 두 문구를 시험했다. 어떤 방은 자연을 아끼자는 표준 카드를 받았다. 다른 방은 이곳에 묵은 대부분의 손님이 수건을 한 번 이상 다시 썼다는 카드를 받았다. 두 경우 요청은 같았고 보상은 없었다. 남이 한 일을 읽은 손님은 환경 문구를 읽은 손님보다 눈에 띄게 자주 수건을 다시 썼다. 다른 곳의 이후 연구는 효과가 더 작거나 덜 확실하다고 발견했으므로 확실한 방법으로 다루어서는 안 된다. 그래도 사람들이 행동을 정할 때 흔히 서로를 본다는 점을 시사한다. ▶ 남들이 무엇을 하는지 알려 주는 것은 자연을 보호하라고만 요청하는 것보다 때때로 사람들이 더 행동하게 할 수 있다.",
+    "why": "'남이 한 일'을 알려 준 카드가 '환경 보호' 문구보다 효과적이었으므로 others — protect입니다.",
     "optionNotes": [
-      "noise와 angrier는 글에 나오지 않습니다.",
-      "trash와 sleepier는 글에 나오지 않습니다.",
-      "heat와 hungrier는 글에 나오지 않습니다.",
-      "정답. 식물이 있으면 더 차분해집니다.",
-      "wires와 lonelier는 글에 나오지 않습니다."
+      "지도자는 나오지 않습니다.",
+      "과학자의 행동이 아닙니다.",
+      "(B)가 반대입니다.",
+      "정답. 남의 행동, 자연 보호입니다.",
+      "아이는 나오지 않습니다."
     ],
-    "trap": "'warmer'가 나온다고 heat(③)와 연결하지 마세요. 핵심 조건은 식물입니다.",
-    "tip": "요약문은 조건(식물)과 결과(더 차분함)를 짝지으세요."
+    "trap": "③은 (A)만 맞는 함정입니다.",
+    "tip": "두 카드의 내용(most guests / saving nature)을 비교하세요."
   }
 ]
