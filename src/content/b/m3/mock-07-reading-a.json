@@ -3,229 +3,244 @@
     "id": "m3b-07-18",
     "level": "m3",
     "set": "mock-07",
+    "rev": 2,
     "no": 18,
     "type": "purpose",
     "stem": "다음 글의 목적으로 가장 적절한 것은?",
-    "passage": "Dear Members of the City Council,\nMy name is Junseo Kim, and I am a tenth-grade student who lives in Hanbit-dong. I am writing on behalf of about two hundred young residents who enjoy skateboarding and in-line skating. At present, there is no safe place in our district to practice these sports, so many of us skate on busy streets and in parking lots, which is dangerous. We have collected signatures from neighbors, and we have found an empty lot near the river that could be used. A skate park would give young people a healthy way to spend their free time and would reduce accidents. I respectfully ask the Council to consider building one. Thank you for your time.\nSincerely,\nJunseo Kim",
+    "passage": "Dear Mr. Yoon,\nI am writing as the head of the student council at Greenhill Middle School about bus number 27, which many of our students use to get to school. At present, the bus arrives at our stop only once between 7:30 and 8:10 in the morning. As a result, it is often so full that students are left standing on the sidewalk, and those who wait for the next one are late for their first class. Last month, we counted the students at the stop on five different mornings and found that, on average, more than twenty were unable to board. We understand that adding buses costs money, but even one additional bus at around 7:45 would solve most of the problem. We would be glad to share our records with you and to meet at a time that suits you. We hope that you will give serious thought to adding a bus during the morning rush.\nSincerely,\nHyunwoo Jang",
     "options": [
-      "시의회의 회의 일정을 문의하려고",
-      "스케이트보드를 판매하는 가게의 위치를 알리려고",
-      "도로에서 스케이트를 타는 청소년을 단속해 달라고 건의하려고",
-      "주민 서명 운동에 참여해 달라고 시의원들에게 부탁하려고",
-      "청소년들이 안전하게 즐길 수 있도록 강변의 빈 땅에 스케이트 공원을 지어 달라고 시의회에 요청하려고"
+      "학교 앞 버스 정류장의 위치를 옮겨 달라고 요청하려고",
+      "버스 요금 할인 혜택을 학생에게도 달라고 건의하려고",
+      "지각한 학생의 출석 처리 방법을 문의하려고",
+      "버스 운전기사의 친절에 감사의 뜻을 전하려고",
+      "아침 등교 시간대에 학교 앞을 지나는 버스를 한 대 더 늘려 달라고 요청하려고"
     ],
     "answer": 4,
-    "translation": "시의회 의원님들께. 제 이름은 김준서이고 한빛동에 사는 1학년 학생입니다. 스케이트보드와 인라인스케이트를 즐기는 약 이백 명의 젊은 주민을 대신해서 씁니다. 현재 우리 지역에는 이런 운동을 연습할 안전한 장소가 없어서 우리 중 많은 사람이 붐비는 거리와 주차장에서 타는데 이는 위험합니다. 우리는 이웃의 서명을 모았고 강 근처에서 사용할 수 있는 빈 땅을 찾았습니다. 스케이트 공원은 젊은이들에게 여가 시간을 보내는 건강한 방법을 주고 사고를 줄여 줄 것입니다. 하나를 지을 것을 고려해 주시기를 정중히 요청드립니다. 시간 내 주셔서 감사합니다. 김준서 드림.",
-    "why": "강변의 빈 땅에 스케이트 공원을 지어 달라고 시의회에 요청하는 글입니다.",
+    "translation": "윤 선생님께. 저는 그린힐 중학교 학생회장으로서 많은 학생이 등교에 이용하는 27번 버스에 대해 글을 씁니다. 현재 그 버스는 아침 7시 30분에서 8시 10분 사이에 우리 정류장에 한 번만 옵니다. 그 결과 버스가 자주 너무 가득 차서 학생들이 보도에 남겨지고 다음 차를 기다린 학생은 첫 수업에 늦습니다. 지난달 저희는 서로 다른 다섯 날 아침 정류장의 학생 수를 세었는데 평균 스무 명이 넘게 타지 못했습니다. 버스를 늘리는 데 비용이 든다는 것은 알지만 7시 45분쯤 한 대만 더 있어도 문제의 대부분이 해결됩니다. 저희 기록을 기꺼이 공유하고 편하신 때에 만나 뵙겠습니다. 아침 혼잡 시간에 버스를 늘리는 것을 진지하게 검토해 주시기 바랍니다. 장현우 드림.",
+    "why": "아침 등교 시간대에 버스를 한 대 더 늘려 달라고 요청하는 글입니다.",
     "optionNotes": [
-      "회의 일정 문의가 아닙니다.",
-      "가게 위치 안내가 아닙니다.",
-      "오히려 안전한 장소가 없다고 말합니다.",
-      "서명은 이미 모았다는 설명일 뿐입니다.",
-      "정답. 스케이트 공원 건설을 요청합니다."
+      "정류장 이전 요청이 아닙니다.",
+      "요금 할인은 나오지 않습니다.",
+      "출석 처리 문의가 아닙니다.",
+      "감사 인사가 아닙니다.",
+      "정답. 등교 시간대 버스 증편 요청입니다."
     ],
-    "trap": "'signatures'가 나온다고 서명 참여 요청(④)으로 착각하지 마세요.",
-    "tip": "목적 문제는 'I respectfully ask ~ to consider ~' 같은 요청 문장을 찾으세요."
+    "trap": "'late for their first class'를 보고 지각 처리(③)를 목적이라고 판단하지 마세요.",
+    "tip": "목적 문제는 'We hope that you will ~' 같은 마지막 요청 문장을 확인하세요."
   },
   {
     "id": "m3b-07-19",
     "level": "m3",
     "set": "mock-07",
+    "rev": 2,
     "no": 19,
     "type": "mood",
-    "stem": "다음 글에 드러난 Nari의 심경 변화로 가장 적절한 것은?",
-    "passage": "On the second day of the school trip, Nari reached into her pocket and felt a cold wave of panic. Her grandmother's silver ring, which she had borrowed for good luck, was gone. She retraced every step she had taken that morning, looking under benches and in the grass, but found nothing. Her hands trembled as she imagined telling her grandmother that she had lost the family treasure. Tears quickly filled her eyes, and she blamed herself for being careless. Then her teacher, Mr. Han, appeared with a small object in his palm. \"Is this yours?\" he asked. It was the ring. Nari's knees almost gave way as she took it, and she thanked him again and again with all her heart.",
+    "stem": "다음 글에 드러난 Doha의 심경 변화로 가장 적절한 것은?",
+    "passage": "Doha slouched at the back of the group as the guide led his class into the old history museum. He had already decided that the afternoon would be a waste: glass cases, dusty pots, and long explanations about people who had died centuries ago. While his classmates took notes, he checked the clock on his phone and wondered whether he could slip away to the gift shop. Then the guide stopped before a small, cracked clay tile and asked everyone to look closely. Pressed into the surface was the print of a tiny hand. \"A child,\" she said, \"touched this tile while it was still wet, more than a thousand years ago.\" Doha stared. He placed his own hand near the glass and measured it against the little fingers. Suddenly the pots and tools around him belonged to people who had laughed, played, and been scolded by their mothers. When the guide moved on, he stayed behind, reading every label, and was the last to leave the room.",
     "options": [
-      "bored and sleepy → angry and bitter",
-      "proud and confident → shy and very nervous",
-      "curious and excited → lonely and sad",
-      "calm and cheerful → jealous and upset",
-      "panicked and guilty → relieved and glad"
+      "proud → jealous",
+      "nervous → relieved",
+      "angry → ashamed",
+      "excited and hopeful → disappointed and discouraged",
+      "bored and uninterested → fascinated"
     ],
     "answer": 4,
-    "translation": "수학여행 둘째 날 나리는 주머니에 손을 넣었다가 차가운 공포가 밀려오는 것을 느꼈다. 행운을 빌려고 빌려 온 할머니의 은반지가 사라졌다. 그녀는 그날 아침 걸었던 모든 길을 되짚으며 벤치 아래와 풀밭을 살펴보았지만 아무것도 찾지 못했다. 가문의 보물을 잃어버렸다고 할머니께 말씀드릴 일을 상상하자 손이 떨렸다. 눈에 눈물이 고였고 그녀는 부주의한 자신을 탓했다. 그때 한 선생님이 손바닥에 작은 물건을 올려놓고 나타났다. \"이거 네 거니?\" 하고 그가 물었다. 반지였다. 나리는 그것을 받으며 무릎이 거의 풀릴 뻔했고 그에게 거듭 감사했다.",
-    "why": "처음에는 반지를 잃어 당황하고 자책했지만(panicked and guilty), 선생님이 찾아 주자 안도하며 감사했습니다(relieved and grateful).",
+    "translation": "안내원이 반을 낡은 역사 박물관으로 이끌 때 도하는 무리 뒤에서 구부정하게 있었다. 그는 이미 오후가 낭비일 것이라고 정했다. 유리 진열장, 먼지 낀 항아리, 수 세기 전에 죽은 사람들에 대한 긴 설명. 친구들이 필기하는 동안 그는 휴대전화의 시계를 확인하고 기념품 가게로 몰래 빠져나갈 수 있을지 생각했다. 그때 안내원이 작고 금이 간 점토 타일 앞에 멈춰 모두에게 자세히 보라고 했다. 표면에는 아주 작은 손자국이 눌려 있었다. \"천 년도 더 전에 아직 젖어 있을 때 어떤 아이가 이 타일을 만졌어요.\" 그녀가 말했다. 도하는 뚫어지게 보았다. 그는 유리 가까이에 자기 손을 대고 작은 손가락과 재 보았다. 갑자기 주위의 항아리와 도구가 웃고 놀고 어머니에게 꾸중을 들었던 사람들의 것이 되었다. 안내원이 이동할 때 그는 남아 모든 설명판을 읽었고 마지막으로 방을 나섰다.",
+    "why": "처음에는 지루하고 관심이 없었지만(bored and uninterested) 손자국을 보고 매료되었으므로(fascinated) ⑤입니다.",
     "optionNotes": [
-      "지루함에서 화남이 아닙니다.",
-      "자신감에서 수줍음이 아닙니다.",
-      "호기심에서 외로움이 아닙니다.",
-      "명랑함에서 질투가 아닙니다.",
-      "정답. 당황과 죄책감에서 안도와 감사로 변했습니다."
+      "자랑에서 질투가 아닙니다.",
+      "긴장에서 안도가 아닙니다.",
+      "화남에서 부끄러움이 아닙니다.",
+      "신남에서 실망이 아닙니다.",
+      "정답. 지루함과 무관심에서 매료로 변했습니다."
     ],
-    "trap": "'knees almost gave way'를 슬픔으로 해석하지 마세요. 긴장이 풀린 안도입니다.",
-    "tip": "전환 신호(Then her teacher appeared)를 기준으로 앞뒤 감정을 비교하세요."
+    "trap": "앞부분의 낭비라는 생각만 보고 계속 지루하다고 판단하지 마세요.",
+    "tip": "전환 신호(Then ... stopped before)와 마지막 행동(stayed behind)을 비교하세요."
   },
   {
     "id": "m3b-07-20",
     "level": "m3",
     "set": "mock-07",
+    "rev": 2,
     "no": 20,
     "type": "claim",
     "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
-    "passage": "Many cities choose trees for their beauty, and they often import ornamental species from other countries. However, these trees can cause problems. Some cities have already begun to change. Because they did not evolve in the local environment, they provide little food for native insects and birds, and some of them need large amounts of water to survive. In contrast, native trees are already adapted to the local climate and soil. They support a wide range of wildlife, require less care, and are more likely to survive droughts and storms. Some people worry that native trees look plain, but careful planning can create streets that are both attractive and ecologically healthy. Therefore, cities should plant native trees instead of imported ones.",
+    "passage": "In many school laboratories, students follow a sheet of instructions that tells them what to mix, how long to wait, and what result to expect. If the result differs from the one on the sheet, they assume that they have made a mistake, and they may even change their numbers to match. Such exercises teach students to handle equipment, but they give a false picture of science. Real research begins with a question whose answer is unknown. It involves designing a method, discovering that the method does not work, and trying to understand why. When students are allowed to investigate their own questions, they learn to judge evidence, to argue from data, and to accept that failure carries information. Studies of inquiry-based classes report that students remember concepts longer and show more interest in science. Of course, open investigation takes more time and requires careful guidance from the teacher. Even so, science lessons should include investigations in which students ask their own questions and experience failure, not only experiments that confirm known results.",
     "options": [
-      "도시의 가로수는 아름다움보다 값싼 가격을 우선해서 골라야 한다.",
-      "도시는 외래종 조경수보다 그 지역에서 자라 온 토종 나무를 심어 생태계와 환경을 지켜야 한다.",
-      "모든 도시는 외국에서 들여온 희귀한 나무로 거리를 꾸며야 한다.",
-      "가뭄이 잦은 지역에서는 나무를 심지 않는 것이 바람직하다.",
-      "야생 동물을 쫓아내려면 거리에 수분이 많은 나무를 심어야 한다."
+      "과학실의 안전을 위해 실험 지시서를 더욱 자세하게 만들어야 한다.",
+      "과학 수업은 정해진 결과를 확인하는 실험뿐 아니라 학생이 스스로 질문하고 실패를 겪는 탐구도 포함해야 한다.",
+      "학생의 실험 결과는 교과서의 수치와 일치할 때에만 인정해야 한다.",
+      "과학 시간을 줄이고 기기 다루는 법을 따로 가르쳐야 한다.",
+      "실패를 막으려면 교사가 모든 실험을 대신 해 보여야 한다."
     ],
     "answer": 1,
-    "translation": "많은 도시가 아름다움을 기준으로 나무를 고르며 흔히 다른 나라의 조경수를 수입한다. 그러나 이런 나무는 문제를 일으킬 수 있다. 일부 도시는 이미 바뀌기 시작했다. 그것들은 현지 환경에서 진화하지 않았기 때문에 토종 곤충과 새에게 먹이를 거의 주지 못하고 일부는 살아남는 데 많은 물이 필요하다. 반면 토종 나무는 이미 그 지역의 기후와 토양에 적응해 있다. 그것들은 다양한 야생 동물을 부양하고 관리가 덜 필요하며 가뭄과 폭풍에서 살아남을 가능성이 더 높다. 어떤 사람들은 토종 나무가 평범해 보일까 걱정하지만 신중한 계획으로 매력적이면서도 생태적으로 건강한 거리를 만들 수 있다. 그러므로 도시는 수입된 나무 대신 토종 나무를 심어야 한다.",
-    "why": "마지막 문장 'cities should plant native trees instead of imported ones'가 주장입니다.",
+    "translation": "많은 학교 실험실에서 학생들은 무엇을 섞고 얼마나 기다리고 어떤 결과를 예상할지 알려 주는 지시서를 따른다. 결과가 지시서의 것과 다르면 자신이 실수했다고 가정하고 숫자를 맞추려고 바꾸기까지 한다. 이런 연습은 기기를 다루는 법을 가르치지만 과학에 대한 그릇된 그림을 준다. 진짜 연구는 답을 알 수 없는 질문에서 시작한다. 방법을 설계하고, 방법이 통하지 않음을 발견하고, 이유를 이해하려고 애쓰는 과정이 포함된다. 학생들이 자신의 질문을 조사하도록 허락되면 증거를 판단하고 자료로 논증하며 실패에 정보가 담겨 있음을 받아들이는 법을 배운다. 탐구 중심 수업에 대한 연구는 학생들이 개념을 더 오래 기억하고 과학에 더 관심을 보인다고 보고한다. 물론 열린 탐구는 시간이 더 걸리고 교사의 세심한 지도가 필요하다. 그래도 과학 수업은 알려진 결과를 확인하는 실험뿐 아니라 학생이 스스로 질문하고 실패를 겪는 탐구를 포함해야 한다.",
+    "why": "마지막 문장에서 확인 실험뿐 아니라 스스로 질문하고 실패를 겪는 탐구를 포함해야 한다고 주장합니다.",
     "optionNotes": [
-      "가격 우선은 나오지 않습니다.",
-      "정답. 토종 나무를 심어야 합니다.",
-      "외래종으로 꾸미라는 것은 글과 반대입니다.",
-      "나무를 심지 말라는 내용은 없습니다.",
-      "야생 동물을 쫓아내는 것은 글과 반대입니다."
+      "지시서를 더 자세히 만들라는 것은 반대입니다.",
+      "정답. 스스로 질문하고 실패를 겪는 탐구를 포함해야 합니다.",
+      "교과서 수치와 일치만 인정하는 것은 글이 비판한 태도입니다.",
+      "시간을 줄이자는 내용은 없습니다.",
+      "교사가 대신 하는 것은 반대입니다."
     ],
-    "trap": "'beauty'가 앞에 나온다고 아름다움을 우선하라는 주장으로 착각하지 마세요.",
-    "tip": "Therefore, ~ should ~ 문장이 필자의 주장입니다."
+    "trap": "'careful guidance from the teacher'를 교사가 대신 해야 한다는 뜻(⑤)으로 확대하지 마세요.",
+    "tip": "주장은 'Even so, science lessons should ~'로 시작하는 마지막 문장입니다."
   },
   {
     "id": "m3b-07-21",
     "level": "m3",
     "set": "mock-07",
+    "rev": 2,
     "no": 21,
     "type": "implied",
     "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
-    "passage": "When the school nurse reported that five students had visited her with headaches on one day, the principal thought it was a minor issue. But when the teachers began to check, they discovered that dozens of students were suffering. They had poor sleep, long hours of studying, and constant stress. The five cases at the nurse's office were only {u|the tip of the iceberg}. The principal soon decided to hold a meeting with parents and counselors to discuss ways to reduce students' workload. Several parents said that they had worried about the same problem for a long time but had not known how to bring it up.",
+    "passage": "The e-mail looked completely ordinary. It carried the logo of Ms. Bae's bank, addressed her by name, and warned politely that her account would be locked unless she confirmed her password within a day. She almost clicked the link. Only the address of the sender, which differed from the bank's by a single letter, made her stop. When she telephoned the bank, an employee told her that no such message had been sent. \"These e-mails are {u|a wolf in sheep's clothing},\" he said. \"They look as if they have come to protect you, but their purpose is to take everything you have.\" Ms. Bae deleted the message and changed her password anyway. That evening, she showed it to her parents, who admitted that they had received similar messages and had never thought to doubt them. She now tells her friends that the most dangerous messages are rarely the strange ones, and that a calm, familiar tone is exactly what a thief would choose.",
     "options": [
-      "a cold piece of ice that floats on the sea in winter",
-      "a small visible part of a much larger problem",
-      "the most dangerous place on a ship in winter",
-      "a new method for protecting students from sickness",
-      "a famous mountain that is covered with snow all year"
+      "a message that is written in a very difficult and unfamiliar language",
+      "something harmful that is made to look harmless or helpful",
+      "a warning from a bank that should be obeyed at once",
+      "an animal that is dressed up to entertain children",
+      "an old letter that has lost its meaning over time"
     ],
     "answer": 1,
-    "translation": "보건 교사가 하루에 다섯 명의 학생이 두통으로 찾아왔다고 보고했을 때 교장은 사소한 문제라고 생각했다. 그러나 교사들이 확인하기 시작하자 수십 명의 학생이 힘들어하고 있음을 알게 되었다. 그들은 부족한 수면, 긴 공부 시간, 끊임없는 스트레스에 시달렸다. 보건실의 다섯 건은 빙산의 일각에 불과했다. 교장은 곧 학생들의 부담을 줄일 방법을 논의하려고 학부모와 상담 교사들과 회의를 열기로 했다. 몇몇 학부모는 오래전부터 같은 문제를 걱정했지만 어떻게 말을 꺼내야 할지 몰랐다고 말했다.",
-    "why": "다섯 건 뒤에 훨씬 큰 문제(수십 명)가 있었으므로 'the tip of the iceberg'는 훨씬 큰 문제의 눈에 보이는 작은 일부를 뜻합니다.",
+    "translation": "그 이메일은 완전히 평범해 보였다. 배 씨의 은행 로고가 있었고 그녀를 이름으로 불렀으며 하루 안에 비밀번호를 확인하지 않으면 계좌가 잠길 것이라고 정중히 경고했다. 그녀는 링크를 거의 누를 뻔했다. 은행의 것과 한 글자가 다른 보낸 사람의 주소만이 그녀를 멈추게 했다. 은행에 전화하자 직원은 그런 메시지를 보낸 적이 없다고 말했다. \"이런 이메일은 양의 탈을 쓴 늑대입니다.\" 그가 말했다. \"당신을 보호하러 온 것처럼 보이지만 목적은 가진 모든 것을 가져가는 것입니다.\" 배 씨는 메시지를 지우고 그래도 비밀번호를 바꾸었다. 그날 저녁 그녀는 부모님께 그것을 보여 주었고 부모님은 비슷한 메시지를 받은 적이 있지만 의심해 볼 생각을 하지 않았다고 인정했다. 그녀는 이제 친구들에게 가장 위험한 메시지는 이상한 것인 경우가 드물고 차분하고 익숙한 말투가 바로 도둑이 고를 것이라고 말한다.",
+    "why": "보호하려는 것처럼 보이지만 모든 것을 빼앗으려는 이메일이므로, 해롭지 않거나 도움이 되는 것처럼 꾸민 해로운 것을 뜻합니다.",
     "optionNotes": [
-      "문자 그대로 겨울 바다의 얼음이 아닙니다.",
-      "정답. 훨씬 큰 문제의 일부분입니다.",
-      "배의 위험한 장소가 아닙니다.",
-      "학생을 지키는 방법이 아닙니다.",
-      "유명한 산이 아닙니다."
+      "어려운 언어의 메시지가 아닙니다.",
+      "정답. 해로운 것이 해롭지 않게 꾸며진 것입니다.",
+      "은행의 진짜 경고가 아닙니다.",
+      "아이를 즐겁게 하는 동물이 아닙니다.",
+      "의미를 잃은 옛 편지가 아닙니다."
     ],
-    "trap": "'iceberg'를 문자 그대로 해석하지 마세요.",
-    "tip": "관용 표현은 앞뒤 문맥(five cases → dozens of students)에서 의미를 추론하세요."
+    "trap": "'wolf'와 'sheep'을 동물 이야기로 읽지 마세요. 직원의 설명이 단서입니다.",
+    "tip": "관용 표현은 뒤의 풀이(look as if ~ protect you, but ~ take everything)로 추론하세요."
   },
   {
     "id": "m3b-07-22",
     "level": "m3",
     "set": "mock-07",
+    "rev": 2,
     "no": 22,
     "type": "gist",
     "stem": "다음 글의 요지로 가장 적절한 것은?",
-    "passage": "Social media is full of success stories: promotions, awards, and perfect vacations. Because we rarely see the failures that came before them, we may believe that successful people never make mistakes. This is especially true for young people, who compare themselves with others every day. This belief makes us afraid to try anything that might fail. Recently, some scientists and entrepreneurs have started to publish \"CVs of failures\" listing the jobs they did not get and the research that was rejected. Readers say that these lists make them feel less alone and more willing to take risks. When failures are shared honestly, they stop being a source of shame and become a shared part of learning. Their stories show that success usually grows from many failed attempts.",
+    "passage": "Think of the last time that you thought about sending a note to thank someone, and then decided not to, because it seemed small or even awkward. Psychologists suggest that we often make this mistake. In a series of experiments, participants wrote letters of gratitude to people who had affected their lives and then guessed how the readers would feel. The writers consistently underestimated how surprised and how happy the recipients would be, and they overestimated how awkward the moment would seem. The recipients, it turned out, paid little attention to whether the wording was perfect; what mattered to them was the warmth of the intention. Similar results have been found for small acts of kindness, such as buying a stranger a hot drink on a cold day. Because we judge our own gestures by their skill while others judge them by their warmth, we hold back kindness that would have been welcome. The next time that a kind thought crosses your mind, it may be worth acting on it before the doubt arrives.",
     "options": [
-      "성공한 사람들은 대부분 실패한 경험이 거의 없다.",
-      "소셜 미디어에는 성공담만 올리는 것이 바람직하다.",
-      "이력서에는 실패한 경력을 쓰지 않는 것이 취업에 유리하다.",
-      "실패 경험을 솔직하게 나누면 다른 사람이 실패를 두려워하지 않고 도전할 용기를 얻는다.",
-      "연구가 거절당한 과학자는 새로운 주제를 찾는 것이 좋다."
+      "감사 편지는 문장이 매끄러울수록 받는 사람에게 더 큰 감동을 준다.",
+      "낯선 사람에게 베푸는 친절은 오해를 살 수 있으므로 삼가야 한다.",
+      "감사의 표현은 말보다 값비싼 선물로 해야 효과가 있다.",
+      "우리의 작은 친절은 생각보다 큰 기쁨을 주므로 어색해하지 말고 실천하는 것이 좋다.",
+      "사람들은 감사 편지를 받으면 대부분 부담을 느낀다."
     ],
     "answer": 3,
-    "translation": "소셜 미디어는 승진, 수상, 완벽한 휴가 같은 성공담으로 가득하다. 그 앞에 있었던 실패를 거의 보지 못하기 때문에 우리는 성공한 사람들이 결코 실수하지 않는다고 믿을 수 있다. 이는 날마다 자신을 남과 비교하는 젊은 사람들에게 특히 그렇다. 이 믿음은 실패할 수 있는 일은 무엇이든 시도하기를 두렵게 한다. 최근 일부 과학자와 기업가는 얻지 못한 일자리와 거절당한 연구를 나열한 \"실패 이력서\"를 공개하기 시작했다. 독자들은 이런 목록이 자신을 덜 외롭게 하고 위험을 더 기꺼이 감수하게 한다고 말한다. 실패가 솔직하게 공유될 때 그것은 수치의 원천이 되기를 멈추고 배움의 공유된 일부가 된다. 그들의 이야기는 성공이 대개 수많은 실패한 시도에서 자란다는 것을 보여 준다.",
-    "why": "실패를 솔직하게 공유하면 수치심이 줄고 다른 사람이 도전할 용기를 얻는다는 것이 요지입니다.",
+    "translation": "누군가에게 감사 쪽지를 보내려고 생각했다가 사소하거나 심지어 어색해 보여서 그만둔 마지막 때를 떠올려 보라. 심리학자들은 우리가 자주 이 실수를 한다고 말한다. 일련의 실험에서 참가자들은 자신의 삶에 영향을 준 사람에게 감사 편지를 쓴 뒤 읽는 사람이 어떻게 느낄지 추측했다. 쓰는 사람들은 일관되게 받는 사람이 얼마나 놀라고 행복할지 과소평가했고 그 순간이 얼마나 어색해 보일지는 과대평가했다. 받는 사람은 문장이 완벽한지에 거의 신경 쓰지 않았고 중요한 것은 의도의 따뜻함이었다. 추운 날 낯선 사람에게 뜨거운 음료를 사 주는 것 같은 작은 친절 행위에서도 비슷한 결과가 나왔다. 우리는 자신의 몸짓을 솜씨로 판단하지만 남은 따뜻함으로 판단하기 때문에 환영받았을 친절을 참는다. 다음에 친절한 생각이 마음을 스치면 의심이 도착하기 전에 실천할 만할지도 모른다.",
+    "why": "작은 친절은 우리가 생각하는 것보다 큰 기쁨을 주므로 어색해하지 말고 실천하는 것이 좋다는 것이 요지입니다.",
     "optionNotes": [
-      "글에서 반박되는 믿음입니다.",
-      "성공담만 올리라는 내용은 글과 반대입니다.",
-      "이력서에 쓰지 말라는 내용은 글과 반대입니다.",
-      "정답. 실패를 나누면 도전할 용기를 줍니다.",
-      "주제를 바꾸라는 내용은 없습니다."
+      "받는 사람은 문장의 완벽함에 거의 신경 쓰지 않았습니다.",
+      "낯선 사람에게 친절을 삼가라는 것은 반대입니다.",
+      "값비싼 선물은 나오지 않습니다.",
+      "정답. 작은 친절을 주저하지 말고 실천하라는 것입니다.",
+      "받는 사람은 행복해했습니다."
     ],
-    "trap": "앞부분의 현상(성공담만 보임)을 요지로 착각하지 마세요.",
-    "tip": "마지막 문장(When failures are shared honestly ~)이 요지를 담습니다."
+    "trap": "①은 'little attention to whether the wording was perfect'를 정반대로 바꾼 것입니다.",
+    "tip": "요지는 'The next time ~, it may be worth acting on it'처럼 마지막 조언에서 확인하세요."
   },
   {
     "id": "m3b-07-23",
     "level": "m3",
     "set": "mock-07",
+    "rev": 2,
     "no": 23,
     "type": "topic",
     "stem": "다음 글의 주제로 가장 적절한 것은?",
-    "passage": "Anyone who has visited the coast knows that the sea level rises and falls twice a day. These changes, called tides, are caused mainly by the gravity of the Moon. The Moon pulls the water of the oceans toward itself, creating a bulge on the side of the Earth facing it. A second bulge forms on the opposite side because of the Earth's motion. As the Earth rotates, different coasts pass through these bulges, and they experience high tides. The difference between high and low tide can reach several meters in some places. The Sun also influences tides, and when the Sun, Moon, and Earth line up, the tides are especially strong. Sailors and fishermen have used tide tables for centuries to plan their trips.",
+    "passage": "When a virus enters the body for the first time, the immune system needs several days to recognize it and to produce antibodies that fit its surface. During that delay, the virus multiplies, and the person becomes ill. Once the infection is over, however, some immune cells remain for years and remember the shape of the invader. If it returns, they respond so quickly that it is often destroyed before any symptoms appear. A vaccine takes advantage of this memory without requiring the person to suffer the disease. It introduces a harmless piece of the germ, a weakened form of it, or instructions that tell our own cells to build one of its proteins. The immune system practices on this safe target and stores what it learns. Because no germ is identical to another, some vaccines must be updated regularly, as in the case of influenza. When enough people in a community are protected, germs have difficulty spreading, which also shields those who cannot be vaccinated.",
     "options": [
-      "why sailors and fishermen prefer to travel in the early morning hours across the sea",
-      "what kinds of fish live in the shallow water near the coast during every season",
-      "when the Sun and Moon were first observed by ancient scientists around the world",
-      "how the Moon's gravity causes the sea level to rise and fall each day",
-      "where the highest mountains on Earth are located along the coastlines"
+      "바이러스가 사람의 몸 안으로 들어와서 퍼지게 되는 여러 가지 경로",
+      "감기와 독감의 증상을 구별하는 방법",
+      "백신 개발에 드는 시간과 비용의 문제",
+      "백신이 면역 체계의 기억을 이용해 질병을 예방하는 원리",
+      "건강한 식습관이 면역력에 미치는 영향"
     ],
     "answer": 3,
-    "translation": "해안을 방문해 본 사람은 해수면이 하루에 두 번 오르내린다는 것을 안다. 조수라고 불리는 이 변화는 주로 달의 중력 때문에 생긴다. 달은 바다의 물을 자기 쪽으로 당겨 달을 마주한 지구 쪽에 불룩한 부분을 만든다. 지구의 운동 때문에 반대편에도 두 번째 불룩한 부분이 생긴다. 지구가 자전하면서 서로 다른 해안이 이 불룩한 부분을 지나가며 밀물을 겪는다. 어떤 곳에서는 밀물과 썰물의 차이가 몇 미터에 이를 수 있다. 태양도 조수에 영향을 주며 태양, 달, 지구가 일직선이 되면 조수가 특히 강하다. 선원과 어부는 여러 세기 동안 항해를 계획하려고 조수표를 사용해 왔다.",
-    "why": "달의 중력이 해수면을 오르내리게 하는 원리를 설명합니다.",
+    "translation": "바이러스가 처음 몸에 들어오면 면역 체계는 그것을 알아보고 표면에 맞는 항체를 만드는 데 며칠이 필요하다. 그 지연 동안 바이러스는 증식하고 사람은 병이 든다. 그러나 감염이 끝나면 일부 면역 세포가 몇 년 동안 남아 침입자의 모양을 기억한다. 그것이 돌아오면 세포들은 너무 빨리 반응해 증상이 나타나기 전에 흔히 파괴한다. 백신은 사람이 병을 앓을 필요 없이 이 기억을 이용한다. 세균의 해 없는 조각, 약해진 형태, 또는 우리 세포에게 그 단백질 중 하나를 만들라고 지시하는 정보를 들여보낸다. 면역 체계는 이 안전한 표적으로 연습하고 배운 것을 저장한다. 어떤 세균도 다른 것과 똑같지 않으므로 독감처럼 일부 백신은 정기적으로 갱신해야 한다. 지역 사회에서 충분한 사람이 보호되면 세균이 퍼지기 어려워지며 이는 접종할 수 없는 사람도 보호한다.",
+    "why": "백신이 면역 체계의 기억을 이용해 질병을 예방하는 원리를 설명하는 글입니다.",
     "optionNotes": [
-      "선원의 이동 시간대는 나오지 않습니다.",
-      "물고기의 종류는 나오지 않습니다.",
-      "관측의 시작 시기는 나오지 않습니다.",
-      "정답. 달의 중력이 조수를 일으키는 원리입니다.",
-      "산의 위치는 나오지 않습니다."
+      "침입 경로는 나오지 않습니다.",
+      "증상 구별은 나오지 않습니다.",
+      "개발 비용은 나오지 않습니다.",
+      "정답. 면역 기억을 이용해 예방하는 원리입니다.",
+      "식습관은 나오지 않습니다."
     ],
-    "trap": "'Sailors and fishermen'이 마지막에 나온다고 선원(①)이 주제라 착각하지 마세요.",
-    "tip": "주제는 반복되는 핵심(tides, Moon, gravity)을 묶어 찾으세요."
+    "trap": "독감 백신의 갱신 같은 세부 내용에 끌려 ②를 고르지 마세요.",
+    "tip": "주제는 '기억 → 백신의 원리'처럼 글의 중심 흐름을 담아야 합니다."
   },
   {
     "id": "m3b-07-24",
     "level": "m3",
     "set": "mock-07",
+    "rev": 2,
     "no": 24,
     "type": "title",
     "stem": "다음 글의 제목으로 가장 적절한 것은?",
-    "passage": "In 1824, a fifteen-year-old French boy named Louis Braille, who had lost his sight in an accident as a child, created a new way of reading. At the time, blind students read with books in which raised letters were so large that a single book could weigh dozens of kilograms. Louis, inspired by a night-writing system used by soldiers, developed a code based on six raised dots. By combining the dots in different patterns, he could represent every letter, number, and musical note. His system was small, quick to read with the fingers, and easy to write. Many teachers and friends supported him in his work. Although it was not accepted by his school until after his death, braille is now used around the world.",
+    "passage": "On a frozen island about 1,300 kilometers from the North Pole, a steel door leads into a mountain. Behind it lies the Svalbard Global Seed Vault, a storage room that holds more than a million samples of seeds from crops grown around the world. Countries send copies of their seed collections there and keep the right to take them back. The location was chosen carefully. The permafrost keeps the seeds cold even if the power fails, and the vault is high enough to stay dry if the sea rises. Its purpose is not to preserve rare plants for admiration but to protect the food supply. If a war, a flood, or a new disease destroys the seeds of a country, the vault can provide them again. This has already happened: when a research center in Syria was damaged by war, scientists withdrew seeds that they had deposited and grew new collections in Lebanon and Morocco. Like an insurance policy, the vault is most valuable when we hope never to use it.",
     "options": [
-      "The Story of Braille: How a Teenager Gave the Blind the Gift of Reading",
-      "Why Soldiers in the Nineteenth Century Wrote Their Letters Only at Night",
-      "How to Learn French Quickly and Easily by Using Raised Dots and Colors",
-      "A Complete History of Heavy Books Used in Libraries Across Western Europe",
-      "The Most Famous Musical Notes That Were Written by Blind Composers"
+      "A Frozen Backup for the World's Food: The Svalbard Seed Vault",
+      "Why Remote Northern Islands Are the Perfect Places for Winter Tourism",
+      "How Farmers Grow Crops in the Arctic Cold",
+      "The Longest War in the History of Syria",
+      "Rare Flowers and the People Who Collect Them"
     ],
     "answer": 0,
-    "translation": "1824년 어릴 때 사고로 시력을 잃은 열다섯 살의 프랑스 소년 루이 브라유가 읽는 새로운 방법을 만들었다. 당시 시각 장애 학생들은 돋을새김 글자가 너무 커서 책 한 권이 수십 킬로그램이 나갈 수 있는 책으로 읽었다. 군인들이 쓰던 야간 필기 체계에서 영감을 받은 루이는 여섯 개의 돋은 점에 기반한 부호를 개발했다. 점을 다른 모양으로 조합해 모든 글자, 숫자, 음표를 나타낼 수 있었다. 그의 체계는 작았고 손가락으로 빨리 읽을 수 있었으며 쓰기도 쉬웠다. 많은 선생님과 친구가 그의 작업을 도왔다. 그가 죽은 뒤에야 학교에서 받아들여졌지만 점자는 이제 전 세계에서 쓰인다.",
-    "why": "한 소년이 점자를 만들어 시각 장애인에게 읽기의 선물을 준 이야기이므로 ①이 제목입니다.",
+    "translation": "북극점에서 약 1,300킬로미터 떨어진 얼어붙은 섬에는 산속으로 이어지는 강철 문이 있다. 그 뒤에는 전 세계에서 재배되는 작물의 씨앗 표본 백만 개 이상을 보관하는 저장실인 스발바르 국제 종자 저장고가 있다. 나라들은 종자 수집품의 사본을 그곳에 보내고 다시 가져갈 권리를 유지한다. 장소는 신중히 선택되었다. 영구 동토는 전기가 나가도 씨앗을 차갑게 유지하고 저장고는 해수면이 올라도 마른 상태를 유지할 만큼 높다. 목적은 희귀 식물을 감상용으로 보존하는 것이 아니라 식량 공급을 지키는 것이다. 전쟁, 홍수, 새 질병이 한 나라의 씨앗을 파괴하면 저장고가 다시 제공할 수 있다. 이미 일어난 일이다. 시리아의 연구소가 전쟁으로 손상되자 과학자들은 맡겨 두었던 씨앗을 인출해 레바논과 모로코에서 새 수집품을 길렀다. 보험처럼 저장고는 우리가 결코 쓰지 않기를 바랄 때 가장 가치 있다.",
+    "why": "세계 식량을 위한 씨앗의 예비 저장고를 소개하므로 ①이 제목으로 알맞습니다.",
     "optionNotes": [
-      "정답. 점자를 만든 소년의 이야기입니다.",
-      "군인의 편지는 나오지 않습니다.",
-      "프랑스어 학습은 나오지 않습니다.",
-      "무거운 책의 역사 전체는 아닙니다.",
-      "음악가의 악보는 나오지 않습니다."
+      "정답. 식량을 위한 얼어붙은 예비 저장고입니다.",
+      "겨울 관광은 나오지 않습니다.",
+      "북극 농사는 나오지 않습니다.",
+      "시리아 전쟁은 하나의 사례입니다.",
+      "희귀 꽃 수집은 반대 취지입니다."
     ],
-    "trap": "'soldiers', 'heavy books'는 배경 설명일 뿐 제목이 아닙니다.",
-    "tip": "제목은 핵심 인물과 업적(Braille, reading)을 함께 담으세요."
+    "trap": "시리아 사례에 끌려 ④를 고르지 마세요.",
+    "tip": "제목은 장소·대상·목적(식량 보호)을 함께 담은 것을 고르세요."
   },
   {
     "id": "m3b-07-25",
     "level": "m3",
     "set": "mock-07",
+    "rev": 2,
     "no": 25,
     "type": "chart",
     "stem": "다음 도표의 내용과 일치하지 않는 것은?",
     "chart": {
-      "title": "Households with Pets by Region (%)",
-      "unit": "%",
+      "title": "Time Spent per Day on Activities (minutes)",
+      "unit": "min",
       "labels": [
-        "North",
-        "East",
-        "South",
-        "West",
-        "Central"
+        "Study",
+        "Sleep",
+        "Phone",
+        "Exercise"
       ],
       "series": [
         {
-          "name": "Percent",
+          "name": "Grade 7",
           "values": [
-            48,
-            41,
-            35,
-            52,
-            29
+            200,
+            520,
+            100,
+            60
+          ]
+        },
+        {
+          "name": "Grade 9",
+          "values": [
+            300,
+            450,
+            160,
+            30
           ]
         }
       ]
     },
-    "passage": "The graph above shows the percentage of households with pets in five regions. ① The West has the highest percentage among the five regions. ② The percentage of the North is 7 percentage points higher than that of the East. ③ The South has a lower percentage than the Central region. ④ The Central region has the lowest percentage. ⑤ The difference between the highest and the lowest percentages is 23 percentage points.",
+    "passage": "The graph compares the average time that seventh and ninth graders spend per day on four activities. ① Ninth graders studied 100 minutes longer than seventh graders. ② Seventh graders slept 70 minutes longer than ninth graders. ③ Ninth graders used their phones for more than twice as long as seventh graders. ④ The time that ninth graders spent exercising was half that of seventh graders. ⑤ For both groups, sleep took up the longest time of the four activities.",
     "options": [
       "①",
       "②",
@@ -234,100 +249,103 @@
       "⑤"
     ],
     "answer": 2,
-    "translation": "위 그래프는 다섯 지역에서 반려동물이 있는 가구의 비율을 보여 준다. ① 서부가 다섯 지역 중 비율이 가장 높다. ② 북부의 비율은 동부보다 7퍼센트포인트 높다. ③ 남부는 중부 지역보다 비율이 낮다. ④ 중부 지역이 비율이 가장 낮다. ⑤ 가장 높은 비율과 가장 낮은 비율의 차이는 23퍼센트포인트이다.",
-    "why": "남부는 35%, 중부는 29%이므로 남부가 중부보다 높습니다. 따라서 ③은 일치하지 않습니다.",
+    "translation": "그래프는 7학년과 9학년 학생이 하루에 네 가지 활동에 쓰는 평균 시간을 비교한다. ① 9학년은 7학년보다 100분 더 공부했다. ② 7학년은 9학년보다 70분 더 잤다. ③ 9학년은 7학년의 두 배가 넘는 시간 동안 휴대전화를 썼다. ④ 9학년이 운동에 쓴 시간은 7학년의 절반이었다. ⑤ 두 집단 모두 네 활동 중 수면이 가장 긴 시간을 차지했다.",
+    "why": "9학년은 160분, 7학년은 100분이므로 두 배(200분)에 미치지 않습니다.",
     "optionNotes": [
-      "서부가 52%로 가장 높습니다.",
-      "48 - 41 = 7퍼센트포인트입니다.",
-      "정답(불일치). 남부(35%)는 중부(29%)보다 높습니다.",
-      "중부가 29%로 가장 낮습니다.",
-      "52 - 29 = 23퍼센트포인트입니다."
+      "300 - 200 = 100분입니다.",
+      "520 - 450 = 70분입니다.",
+      "정답(불일치). 160분은 100분의 1.6배입니다.",
+      "30분은 60분의 절반입니다.",
+      "두 집단 모두 수면이 가장 깁니다."
     ],
-    "trap": "lower/higher 방향을 반대로 읽기 쉽습니다.",
-    "tip": "비교 표현은 두 값을 직접 읽고 방향을 확인하세요."
+    "trap": "'more than twice'는 200분을 넘어야 합니다.",
+    "tip": "배수 표현은 곱셈으로 직접 확인하세요."
   },
   {
     "id": "m3b-07-26",
     "level": "m3",
     "set": "mock-07",
+    "rev": 2,
     "no": 26,
     "type": "match",
-    "stem": "Ada Lovelace에 관한 다음 글의 내용과 일치하는 것은?",
-    "passage": "Ada Lovelace was born in London in 1815 as the daughter of the famous poet Lord Byron. Her mother, who feared that Ada would inherit her father's wild nature, arranged for her to study mathematics and science from an early age. Her mathematical talent was unusual for a woman of her time. At seventeen, Ada met the inventor Charles Babbage, who was designing a machine called the Analytical Engine. In 1843, she translated an article about the machine and added her own long notes, which included a method for calculating a series of numbers. Many historians consider it the first computer program. She also imagined that such machines might one day compose music, a vision that came true more than a century later.",
+    "stem": "Frida Kahlo에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Frida Kahlo was born in 1907 near Mexico City. At six, she caught polio, which left one leg thinner than the other. She planned to become a doctor and was one of the few girls at her preparatory school, but at eighteen, a bus accident broke her spine and many other bones. While recovering in bed for months, she began to paint, using a mirror that her mother had fixed above her so that she could be her own model. About a third of her works are self-portraits. In 1929, she married the mural painter Diego Rivera, and their relationship was famously stormy. Kahlo drew on Mexican folk art, bright colors, and her own pain to create images that some critics called surrealist, though she herself said that she painted her own reality, not dreams. Her first solo exhibition in Mexico was held in 1953, a year before her death, and she attended it lying on a bed that had been carried into the gallery.",
     "options": [
-      "아버지의 뜻에 따라 어릴 때부터 시를 쓰는 교육만 받았다.",
-      "열일곱 살에 발명가 배비지를 만나 그의 제자가 되어 학교를 세웠다.",
-      "분석 기관에 관한 기사를 번역만 하고 자신의 생각은 덧붙이지 않았다.",
-      "분석 기관이 음악을 작곡할 가능성은 전혀 상상하지 못했다.",
-      "노트에 수를 계산하는 방법을 실어 최초의 프로그램으로 평가받는다."
+      "여섯 살에 버스 사고를 당해 척추를 크게 다쳤다.",
+      "어릴 때부터 화가가 되기로 정해 미술 학교에 다녔다.",
+      "자신의 작품은 현실이 아니라 꿈을 그린 것이라고 말했다.",
+      "멕시코에서의 첫 개인전은 그녀가 세상을 떠난 지 여러 해가 지난 뒤에 열렸다.",
+      "침대에 누워 있는 동안 거울을 이용해 자신을 모델로 그리기 시작했다."
     ],
     "answer": 4,
-    "translation": "에이다 러브레이스는 1815년 런던에서 유명한 시인 바이런 경의 딸로 태어났다. 에이다가 아버지의 거친 성격을 물려받을까 두려워한 어머니는 어릴 때부터 그녀가 수학과 과학을 공부하도록 했다. 그녀의 수학적 재능은 당시 여성으로서는 드문 것이었다. 열일곱 살에 에이다는 분석 기관이라는 기계를 설계하던 발명가 찰스 배비지를 만났다. 1843년 그녀는 그 기계에 관한 기사를 번역하고 자신의 긴 노트를 덧붙였는데 거기에는 일련의 수를 계산하는 방법이 들어 있었다. 많은 역사가는 이것을 최초의 컴퓨터 프로그램으로 여긴다. 그녀는 또한 그런 기계가 언젠가 음악을 작곡할 수 있다고 상상했고 그 비전은 한 세기 넘게 지나 현실이 되었다.",
-    "why": "'In 1843, she translated an article ~ added her own long notes, which included a method for calculating a series of numbers. Many historians consider it the first computer program.'과 일치합니다.",
+    "translation": "프리다 칼로는 1907년 멕시코시티 근처에서 태어났다. 여섯 살에 소아마비를 앓아 한쪽 다리가 다른 쪽보다 가늘어졌다. 그녀는 의사가 되려 했고 예비 학교에서 몇 안 되는 여학생 중 하나였지만 열여덟 살에 버스 사고로 척추와 다른 많은 뼈가 부러졌다. 몇 달 동안 침대에서 회복하면서 어머니가 모델로 자신을 쓸 수 있도록 위에 고정해 준 거울을 이용해 그림을 그리기 시작했다. 작품의 약 3분의 1이 자화상이다. 1929년 벽화가 디에고 리베라와 결혼했고 그 관계는 격정적이기로 유명했다. 칼로는 멕시코 민속 예술, 밝은 색, 자신의 고통을 바탕으로 일부 비평가가 초현실주의라 부른 영상을 만들었지만 그녀 자신은 꿈이 아니라 자신의 현실을 그렸다고 말했다. 멕시코의 첫 개인전은 죽기 1년 전인 1953년에 열렸고 그녀는 화랑으로 옮겨 온 침대에 누워 참석했다.",
+    "why": "회복하는 동안 거울을 이용해 자신을 모델로 그리기 시작했다고 했으므로 ⑤가 일치합니다.",
     "optionNotes": [
-      "수학과 과학을 공부하게 했습니다.",
-      "배비지를 만난 것이지 학교를 세운 것이 아닙니다.",
-      "자신의 긴 노트를 덧붙였습니다.",
-      "음악 작곡 가능성을 상상했습니다.",
-      "정답. 노트에 계산 방법이 있고 최초의 프로그램으로 평가됩니다."
+      "여섯 살에는 소아마비를, 열여덟에 버스 사고를 당했습니다.",
+      "의사가 되려 했습니다.",
+      "꿈이 아니라 현실을 그렸다고 말했습니다.",
+      "첫 개인전은 죽기 1년 전에 열렸습니다.",
+      "정답. 거울을 이용해 자신을 그리기 시작했습니다."
     ],
-    "trap": "번역한 기사와 자신이 덧붙인 노트의 역할을 구분하세요.",
-    "tip": "일치 문제는 연도·행위·평가를 하나씩 대조하세요."
+    "trap": "나이별 사건(여섯 살 소아마비, 열여덟 사고)을 섞지 마세요.",
+    "tip": "일치 문제는 연도·나이·부정 표현(not dreams)을 보기와 대조하세요."
   },
   {
     "id": "m3b-07-27",
     "level": "m3",
     "set": "mock-07",
+    "rev": 2,
     "no": 27,
     "type": "notice",
-    "stem": "Youth Council에 관한 다음 안내문의 내용과 일치하는 것은?",
-    "passage": "Hanbit City Youth Council: Call for Members\nWho can apply: Residents aged 14 - 19 (one student per school will be selected)\nTerm: One year, starting March 1\nDuties: Attend monthly meetings, research issues that affect young people, and present ideas to the mayor twice a year\nBenefits: Volunteer hours, a certificate from the city, and a chance to join an overseas study tour\nHow to apply: Submit an essay of 500 words on \"The City I Want\" with the online form by January 31\nInterviews: Selected applicants will be interviewed on February 8. Final results will be posted on February 15.",
+    "stem": "Photography Walk 안내문의 내용과 일치하는 것은?",
+    "passage": "Old Town Photography Walk\nDate: Saturday, April 26, 7 a.m. - 10 a.m. (cancelled only in heavy rain)\nMeeting point: In front of the clock tower, Old Town Square\nLeader: Ms. Park, a photographer with twenty years of experience\nWhat you will learn: Using natural light, composing street scenes, and asking permission before photographing people\nEquipment: Any camera or smartphone is welcome; tripods are not necessary.\nFee: $15 per person, payable at the meeting point. Students pay half price with a student ID.\nGroup size: Limited to 12 participants. Reserve by email no later than April 20.\nAfter the walk: Participants may submit up to three photos to be displayed at the community center in May.",
     "options": [
-      "임기는 3월 1일부터 일 년이다.",
-      "한 학교에서 여러 명의 학생이 함께 선발될 수 있다.",
-      "지원할 때에는 에세이 대신 구술 발표를 해야 한다.",
-      "최종 결과는 면접일인 2월 8일에 바로 발표된다.",
-      "활동에 참여한 모든 위원은 해외 연수를 반드시 가게 된다."
+      "폭우가 내리는 경우에만 행사가 취소된다.",
+      "전문 카메라를 가진 사람만 참가할 수 있다.",
+      "참가비는 예약할 때 미리 내야 한다.",
+      "학생은 참가비를 내지 않는다.",
+      "참가자는 사진을 원하는 만큼 제출할 수 있다."
     ],
     "answer": 0,
-    "translation": "한빛시 청소년 위원회: 위원 모집. 지원 자격: 14~19세 주민(학교당 한 명 선발). 임기: 3월 1일부터 일 년. 임무: 월례 회의 참석, 청소년에게 영향을 주는 문제 조사, 연 2회 시장에게 아이디어 발표. 혜택: 봉사 시간, 시 수료증, 해외 연수 참가 기회. 지원 방법: \"내가 원하는 도시\"에 관한 500단어 에세이를 1월 31일까지 온라인 양식과 함께 제출. 면접: 선발된 지원자는 2월 8일에 면접. 최종 결과는 2월 15일에 게시됩니다.",
-    "why": "'Term: One year, starting March 1'과 일치합니다.",
+    "translation": "구시가지 사진 산책. 날짜: 4월 26일 토요일 오전 7시~10시(폭우일 때만 취소). 집합 장소: 구시가지 광장 시계탑 앞. 인솔자: 20년 경력의 사진가 박 선생님. 배울 내용: 자연광 활용, 거리 장면 구성, 사람을 찍기 전 허락 구하기. 장비: 어떤 카메라나 스마트폰도 환영, 삼각대는 필요 없음. 참가비: 1인 15달러, 집합 장소에서 지불. 학생은 학생증이 있으면 반값. 정원: 12명 제한, 4월 20일까지 이메일로 예약. 산책 뒤: 참가자는 5월에 지역 센터에 전시할 사진을 최대 세 장 제출할 수 있습니다.",
+    "why": "'cancelled only in heavy rain'과 일치합니다.",
     "optionNotes": [
-      "정답. 3월 1일부터 일 년입니다.",
-      "학교당 한 명만 선발됩니다.",
-      "에세이를 제출합니다.",
-      "최종 결과는 2월 15일에 게시됩니다.",
-      "해외 연수는 참가 기회일 뿐입니다."
+      "정답. 폭우일 때만 취소됩니다.",
+      "스마트폰도 환영합니다.",
+      "참가비는 집합 장소에서 냅니다.",
+      "학생은 반값을 냅니다.",
+      "최대 세 장입니다."
     ],
-    "trap": "면접일(2월 8일)과 최종 발표일(2월 15일)을 혼동하지 마세요.",
-    "tip": "안내문의 Term, How to apply, Interviews 항목을 하나씩 대조하세요."
+    "trap": "'Students pay half price'를 무료로 오해하지 마세요.",
+    "tip": "안내문의 Date, Equipment, Fee, Group size, After the walk 항목을 하나씩 대조하세요."
   },
   {
     "id": "m3b-07-28",
     "level": "m3",
     "set": "mock-07",
+    "rev": 2,
     "no": 28,
     "type": "notice",
-    "stem": "Community Orchestra Concert에 관한 다음 안내문의 내용과 일치하는 것은?",
-    "passage": "Hanbit Community Orchestra Concert\nDate: Saturday, December 6, 7:30 p.m. (doors open at 7:00)\nVenue: Hanbit Arts Center Concert Hall\nProgram: Works by Beethoven and Dvorak, with a guest violinist from the national orchestra\nTickets: Adults $15; students $8; children under 7 are not admitted. Groups of 10 or more get 20% off.\nBooking: Online until December 4, or at the box office on the day if seats remain. Seats are not assigned by number.\nNotes: Please turn off your phones. Photography is not permitted during the performance. Latecomers may enter only during the intermission.",
+    "stem": "Community Language Exchange 안내문의 내용과 일치하는 것은?",
+    "passage": "Hanbit Community Center - Language Exchange Evenings\nWhen: Every second and fourth Thursday of the month, 7 p.m. - 9 p.m.\nWhere: Room 3, second floor (elevator available)\nWho: Adults and high school students aged 16 and older who want to practice a foreign language or help others learn theirs\nFormat: Forty-five minutes in one language, a short break, then forty-five minutes in the other. A volunteer helps each table to keep the conversation going.\nLanguages: Korean, English, Spanish, and Japanese this season\nCost: Free. Tea and snacks are provided, and donations are welcome.\nRegistration: Not required for the first visit. Regular members should sign up at the front desk so that tables can be arranged.\nNote: Please respect others by keeping phones silent during the session.",
     "options": [
-      "좌석은 번호별로 미리 지정되어 있어 예매할 때 고를 수 있다.",
-      "7세 미만의 어린이는 무료로 입장할 수 있다.",
-      "10명 이상의 단체는 입장권을 절반 가격에 구입할 수 있다.",
-      "늦게 온 관객은 중간 휴식 시간에만 입장할 수 있다.",
-      "연주 도중에도 휴대전화로 사진을 찍는 것은 자유롭게 허용된다."
+      "매주 목요일 저녁에 모임이 열린다.",
+      "참가하려면 성인이어야만 한다.",
+      "한 가지 언어로만 두 시간 동안 대화한다.",
+      "처음 방문하는 사람은 사전 등록이 필요 없다.",
+      "정해진 참가비를 먼저 낸 사람만 차와 간식을 받을 수 있다."
     ],
     "answer": 3,
-    "translation": "한빛 시민 오케스트라 연주회. 일시: 12월 6일 토요일 오후 7시 30분(오후 7시 입장 시작). 장소: 한빛 아트센터 콘서트홀. 프로그램: 베토벤과 드보르자크의 작품, 국립 오케스트라의 객원 바이올리니스트. 입장권: 성인 15달러, 학생 8달러, 7세 미만은 입장 불가. 10명 이상 단체는 20% 할인. 예매: 12월 4일까지 온라인 또는 자리가 남으면 당일 매표소. 좌석은 번호로 지정되지 않습니다. 유의: 휴대전화를 꺼 주세요. 공연 중 사진 촬영은 허용되지 않습니다. 늦게 온 관객은 중간 휴식 시간에만 입장할 수 있습니다.",
-    "why": "'Latecomers may enter only during the intermission.'과 일치합니다.",
+    "translation": "한빛 지역 센터 – 언어 교환의 밤. 일시: 매달 둘째·넷째 목요일 오후 7시~9시. 장소: 2층 3호실(승강기 있음). 참가 대상: 외국어를 연습하거나 자기 언어를 배우는 이를 돕고 싶은 성인과 16세 이상 고등학생. 방식: 한 언어로 45분, 짧은 휴식, 다른 언어로 45분. 자원봉사자가 각 탁자의 대화가 이어지도록 도움. 이번 시즌 언어: 한국어, 영어, 스페인어, 일본어. 비용: 무료. 차와 간식 제공, 기부 환영. 등록: 첫 방문에는 필요 없음. 정기 회원은 탁자 배치를 위해 안내 데스크에서 등록. 안내: 모임 중에는 휴대전화를 무음으로 해 주세요.",
+    "why": "'Registration: Not required for the first visit'와 일치합니다.",
     "optionNotes": [
-      "좌석은 번호로 지정되지 않습니다.",
-      "7세 미만은 입장할 수 없습니다.",
-      "단체 할인은 20%입니다.",
-      "정답. 늦은 관객은 중간 휴식 시간에만 입장합니다.",
-      "공연 중 사진 촬영은 허용되지 않습니다."
+      "둘째·넷째 목요일에 열립니다.",
+      "16세 이상 고등학생도 참가할 수 있습니다.",
+      "두 언어를 각각 45분씩 씁니다.",
+      "정답. 첫 방문은 등록이 필요 없습니다.",
+      "무료이며 기부는 선택입니다."
     ],
-    "trap": "단체 할인율(20%)을 절반 가격으로 착각하지 마세요.",
-    "tip": "안내문의 Tickets, Booking, Notes 항목을 하나씩 대조하세요."
+    "trap": "'every second and fourth Thursday'를 매주로 오해하지 마세요.",
+    "tip": "안내문의 When, Who, Format, Cost, Registration 항목을 하나씩 대조하세요."
   }
 ]

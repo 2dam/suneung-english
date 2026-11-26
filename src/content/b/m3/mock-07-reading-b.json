@@ -3,10 +3,11 @@
     "id": "m3b-07-29",
     "level": "m3",
     "set": "mock-07",
+    "rev": 2,
     "no": 29,
     "type": "grammar",
     "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
-    "passage": "Venice, {1|built} on more than a hundred small islands, has no cars. People travel by boat or on foot through its narrow streets and canals. The city is slowly sinking, {2|which} makes flooding more frequent every year. To protect Venice, engineers have built a system of gates that rise from the seabed when the water level {3|reaches} a certain point. Critics argue that the system, which cost billions of dollars, {4|are} still not a perfect solution. Many residents also worry that too many tourists {5|are} pushing local people out of the city, because rents have risen sharply in the old districts.",
+    "passage": "Octopuses are among the most intelligent animals without a backbone, and the way that they think is very different from ours. About two thirds of an octopus's nerve cells are located not in its head but in its arms, {1|each} of which can taste and touch on its own. An arm that has been separated from the body will even continue to react to food for a while. Researchers have watched octopuses open jars from the inside, find their way through simple mazes, and {2|recognize} individual people, squirting water at those they dislike. Some carry coconut shells across the sea floor and later assemble them into shelters, a behavior that suggests an ability {3|to plan} ahead. Yet most species live for only a year or two, and the young never meet their parents, so everything {4|what} an octopus learns must be learned by itself. This has led scientists to ask how such complex abilities can develop in so short a life, and {5|whether} intelligence on other planets might look nothing like our own.",
     "options": [
       "①",
       "②",
@@ -15,26 +16,27 @@
       "⑤"
     ],
     "answer": 3,
-    "translation": "백 개가 넘는 작은 섬 위에 지어진 베네치아에는 자동차가 없다. 사람들은 좁은 길과 운하를 따라 배나 걸어서 이동한다. 도시는 서서히 가라앉고 있고 이는 해마다 침수를 더 잦게 한다. 베네치아를 보호하려고 기술자들은 수위가 일정 수준에 이르면 해저에서 올라오는 수문 체계를 만들었다. 비판하는 사람들은 수십억 달러가 든 그 체계가 여전히 완벽한 해결책이 아니라고 주장한다. 많은 주민은 또한 구시가지의 임대료가 급등했기 때문에 너무 많은 관광객이 지역 주민을 도시 밖으로 몰아내고 있다고 걱정한다.",
-    "why": "주어 'the system'은 단수이므로 'are'가 아니라 'is'여야 합니다.",
+    "translation": "문어는 척추가 없는 가장 지능 높은 동물 중 하나이며 생각하는 방식이 우리와 매우 다르다. 문어의 신경 세포 약 3분의 2는 머리가 아니라 다리에 있는데, 다리 하나하나는 스스로 맛보고 만질 수 있다. 몸에서 떨어진 다리조차 한동안 먹이에 계속 반응한다. 연구자들은 문어가 병을 안에서 열고 간단한 미로를 빠져나가며 개별 사람을 알아보고 싫어하는 사람에게 물을 뿜는 것을 보았다. 어떤 문어는 코코넛 껍데기를 해저를 가로질러 날라 나중에 은신처로 조립하는데 이는 앞일을 계획하는 능력을 시사한다. 그러나 대부분의 종은 1~2년만 살고 새끼는 부모를 만나지 못해서 문어가 배우는 모든 것은 스스로 배워야 한다. 그래서 과학자들은 그렇게 짧은 삶에 어떻게 그토록 복잡한 능력이 발달하는지, 그리고 다른 행성의 지능이 우리와 전혀 다르게 생겼을지 묻게 되었다.",
+    "why": "앞에 선행사 everything이 있으므로 what이 아니라 that(또는 생략)이어야 합니다.",
     "optionNotes": [
-      "수동의 의미를 가진 과거분사 built입니다.",
-      "앞 절 전체를 받는 관계대명사 which입니다.",
-      "시간 부사절의 3인칭 단수 현재형 reaches입니다.",
-      "정답(틀린 것). 단수 주어 the system에는 is가 와야 합니다.",
-      "복수 주어 tourists에 맞는 are입니다."
+      "each of which의 each입니다.",
+      "watched의 목적격 보어로 병렬된 원형부정사 recognize입니다.",
+      "an ability를 꾸미는 to부정사 to plan입니다.",
+      "정답(틀린 것). 선행사 everything 뒤에는 what을 쓸 수 없습니다.",
+      "ask의 목적어 절을 이끄는 whether입니다."
     ],
-    "trap": "가까이 있는 복수 명사(billions of dollars)에 이끌려 복수 동사를 쓰기 쉽습니다.",
-    "tip": "삽입절(which cost ~)을 건너뛰고 핵심 주어(the system)의 수를 확인하세요."
+    "trap": "'what an octopus learns'만 보면 자연스러워 보이지만 앞의 everything이 선행사입니다.",
+    "tip": "what은 선행사를 포함하는 관계대명사이므로 바로 앞에 명사가 있으면 쓸 수 없습니다."
   },
   {
     "id": "m3b-07-30",
     "level": "m3",
     "set": "mock-07",
+    "rev": 2,
     "no": 30,
     "type": "vocab",
     "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
-    "passage": "A hamburger and fries may be quick and tasty, but eating fast food too often can harm our health. These meals are usually high in salt, sugar, and fat, and low in {1|vitamins}. Over time, a diet that relies on them may {2|reduce} the risk of heart disease and diabetes. Because fast food is cheap and convenient, it is especially {3|popular} among busy students and workers. Nutrition experts therefore advise people to treat it as an occasional treat rather than a daily {4|habit}, and to choose healthier options such as salads or grilled dishes. Even small changes, such as drinking water instead of soda, can {5|improve} your overall diet and make you feel more energetic.",
+    "passage": "Many cities have begun to remove highways that once seemed essential. The idea sounds {1|strange}, because we assume that fewer roads must mean worse traffic. Yet studies of such removals have often found that the expected chaos does not occur. Part of the traffic simply {2|increases}: some drivers choose other routes, some travel at different times, some switch to buses or bicycles, and some trips are no longer made at all. This is the reverse of a well-known effect, in which new roads {3|attract} new drivers until they are as crowded as before. Meanwhile, the land that the highway occupied can be used for parks, housing, and shops, and neighborhoods that had been cut in two are {4|joined} again. Removal is not a cure for every city, and it works best where other ways of travel are available. Still, the evidence challenges the {5|assumption} that the only answer to crowded roads is to build more of them.",
     "options": [
       "①",
       "②",
@@ -43,138 +45,143 @@
       "⑤"
     ],
     "answer": 1,
-    "translation": "햄버거와 감자튀김은 빠르고 맛있을 수 있지만 패스트푸드를 너무 자주 먹으면 건강을 해칠 수 있다. 이런 식사는 보통 염분, 당, 지방이 많고 비타민이 적다. 시간이 지나면 그것에 의존하는 식단은 심장병과 당뇨병의 위험을 줄일 수 있다. 패스트푸드는 싸고 편리하기 때문에 바쁜 학생과 직장인 사이에서 특히 인기가 있다. 그래서 영양 전문가들은 사람들에게 그것을 매일의 습관이 아니라 가끔의 별식으로 여기고 샐러드나 구운 요리 같은 더 건강한 선택지를 고르라고 조언한다. 소다 대신 물을 마시는 것 같은 작은 변화도 전반적인 식단을 개선하고 더 활기차게 느끼게 할 수 있다.",
-    "why": "첫 문장에서 패스트푸드가 건강을 해친다고 했으므로 심장병과 당뇨병의 위험을 '줄인다(reduce)'가 아니라 '높인다(increase)'여야 합니다.",
+    "translation": "많은 도시가 한때 필수적으로 보이던 고속 도로를 철거하기 시작했다. 우리는 도로가 줄면 교통이 나빠진다고 가정하므로 그 생각은 이상하게 들린다. 그러나 그런 철거에 대한 연구는 예상한 혼란이 일어나지 않는 경우가 많음을 발견했다. 교통의 일부는 그냥 늘어난다. 일부 운전자는 다른 길을 택하고, 일부는 다른 시간에 다니며, 일부는 버스나 자전거로 바꾸고, 어떤 이동은 아예 하지 않게 된다. 이는 새 도로가 이전만큼 붐빌 때까지 새 운전자를 끌어들이는 잘 알려진 효과의 반대이다. 한편 고속 도로가 차지하던 땅은 공원, 주택, 상점으로 쓸 수 있고 둘로 갈라졌던 동네가 다시 이어진다. 철거가 모든 도시의 해법은 아니며 다른 이동 수단이 있는 곳에서 가장 잘 통한다. 그래도 증거는 붐비는 도로의 유일한 답이 도로를 더 짓는 것이라는 가정에 도전한다.",
+    "why": "교통의 일부가 다른 길·시간·수단으로 옮겨 가거나 사라진다고 했으므로 increases가 아니라 '사라진다(disappears)'여야 합니다.",
     "optionNotes": [
-      "비타민이 적다는 의미로 vitamins가 알맞습니다.",
-      "정답(부적절). 건강을 해치므로 increase여야 합니다.",
-      "인기가 있다는 의미로 popular가 알맞습니다.",
-      "매일의 습관이라는 의미로 habit이 알맞습니다.",
-      "식단을 개선한다는 의미로 improve가 알맞습니다."
+      "직관에 어긋나 '이상하게' 들린다는 strange입니다.",
+      "정답(부적절). 뒤의 설명은 교통이 줄어든다는 내용입니다.",
+      "새 도로가 운전자를 '끌어들인다(attract)'는 문맥에 맞습니다.",
+      "갈라진 동네가 다시 '이어진다(joined)'는 문맥에 맞습니다.",
+      "유일한 답이라는 '가정(assumption)'입니다."
     ],
-    "trap": "'diet that relies on them'만 보면 reduce도 가능해 보이지만 첫 문장의 주장과 충돌합니다.",
-    "tip": "글 전체의 주장(harm our health)과 동사의 방향이 일치하는지 확인하세요."
+    "trap": "'chaos does not occur' 뒤에서 교통의 일부가 어떻게 되는지 콜론 뒤의 설명으로 확인해야 합니다.",
+    "tip": "콜론(:) 뒤의 구체적 설명이 앞 낱말의 의미를 결정합니다."
   },
   {
     "id": "m3b-07-31",
     "level": "m3",
     "set": "mock-07",
+    "rev": 2,
     "no": 31,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Nostalgia, the warm feeling we have when remembering the past, was once considered a kind of illness. The word comes from Greek and means the pain of returning home. Modern research, however, shows that it can be good for us. People who recall happy memories feel less lonely and more optimistic about the future. In one experiment, participants who wrote about a nostalgic event reported stronger feelings of connection with others than those who wrote about an ordinary event. The effect was clear in people of every age. Researchers believe that nostalgia reminds us that our lives have meaning and that we are valued by people around us. Therefore, looking back at the past can __________. A moment spent remembering old friends may therefore be time well used.",
+    "passage": "Musicians have long known that practicing a difficult passage a hundred times in a row is not the best way to master it. Research on motor learning explains why. In one study, two groups of players practiced three short pieces. The first group played each piece many times before moving to the next; the second mixed the three pieces in a random order. During practice, the first group improved faster and felt more confident. A week later, however, the second group performed clearly better. When the same task is repeated without interruption, the player can rely on what is still fresh in short-term memory and does not need to rebuild the movement from the start. Switching between pieces forces the brain to retrieve each one again, which is harder but leaves a stronger trace. The finding applies to mathematics and sports as well. It suggests that the feeling of smooth progress during practice __________.",
     "options": [
-      "make us forget all of the happy moments that we have experienced",
-      "prevent us from making any new friends in the coming years",
-      "slow down the speed at which we learn new skills at school",
-      "cause us to feel more lonely than we did before remembering",
-      "give us the strength and confidence to move forward"
+      "is the single most reliable sign that a skill has been fully mastered",
+      "appears only when a person is very tired of practicing",
+      "depends mainly on the natural talent of each player",
+      "grows stronger when the tasks are mixed at random",
+      "can be a misleading guide to how much has really been learned"
     ],
     "answer": 4,
-    "translation": "과거를 떠올릴 때 느끼는 따뜻한 감정인 향수는 한때 일종의 병으로 여겨졌다. 이 단어는 그리스어에서 왔고 집으로 돌아가는 아픔을 뜻한다. 그러나 현대 연구는 그것이 우리에게 이로울 수 있음을 보여 준다. 행복한 기억을 떠올리는 사람은 덜 외롭고 미래에 대해 더 낙관적이다. 한 실험에서 향수를 느끼게 하는 사건에 대해 쓴 참가자들은 평범한 사건에 대해 쓴 참가자들보다 다른 사람들과의 연결감을 더 강하게 보고했다. 그 효과는 모든 연령대의 사람에게서 분명했다. 연구자들은 향수가 우리의 삶에 의미가 있고 주변 사람들에게 소중하게 여겨진다는 것을 상기시킨다고 믿는다. 그러므로 과거를 돌아보는 것은 우리에게 앞으로 나아갈 힘과 자신감을 줄 수 있다. 그러므로 옛 친구를 떠올리며 보내는 순간은 잘 쓰인 시간일 수 있다.",
-    "why": "향수가 외로움을 줄이고 낙관을 높이므로 '앞으로 나아갈 힘과 자신감을 줄 수 있다'가 알맞습니다.",
+    "translation": "음악가들은 어려운 악절을 연속으로 백 번 연습하는 것이 숙달하는 최선의 방법이 아님을 오래 알아 왔다. 운동 학습 연구는 그 이유를 설명한다. 한 연구에서 두 집단의 연주자가 짧은 곡 세 편을 연습했다. 첫 집단은 다음 곡으로 넘어가기 전에 각 곡을 여러 번 연주했고 둘째 집단은 세 곡을 무작위 순서로 섞었다. 연습 중에는 첫 집단이 더 빨리 늘고 더 자신 있었다. 그러나 일주일 뒤에는 둘째 집단이 분명히 더 잘 연주했다. 같은 과제를 끊김 없이 반복하면 연주자는 단기 기억에 아직 신선한 것에 기댈 수 있어 처음부터 동작을 다시 만들 필요가 없다. 곡 사이를 오가면 뇌가 각 곡을 다시 불러와야 해서 더 힘들지만 더 강한 흔적을 남긴다. 이 발견은 수학과 운동에도 적용된다. 연습 중의 매끄러운 진전의 느낌은 실제로 얼마나 배웠는지에 대해 오해를 일으키는 안내일 수 있음을 시사한다.",
+    "why": "연습 중에는 첫 집단이 더 나았지만 일주일 뒤에는 반대였으므로 매끄러운 느낌은 실제 학습량을 잘못 알려 줄 수 있습니다.",
     "optionNotes": [
-      "행복한 순간을 잊게 한다는 내용은 글과 반대입니다.",
-      "새 친구를 막는다는 내용은 글과 반대입니다.",
-      "학습 속도는 나오지 않습니다.",
-      "더 외롭게 한다는 내용은 글과 반대입니다.",
-      "정답. 힘과 자신감을 줍니다."
+      "가장 믿을 만한 신호라는 것은 결과와 반대입니다.",
+      "지쳤을 때만 나타난다는 내용은 없습니다.",
+      "타고난 재능은 나오지 않습니다.",
+      "섞어서 할 때 오히려 덜 매끄러웠습니다.",
+      "정답. 실제 학습량에 대해 오해를 낳을 수 있습니다."
     ],
-    "trap": "과거를 돌아보는 것이 부정적이라는 첫 문장의 통념(illness)에 이끌리지 마세요.",
-    "tip": "However 뒤의 현대 연구 결과(less lonely, optimistic)가 빈칸의 단서입니다."
+    "trap": "①은 일상적 직관이지만 일주일 뒤 결과가 뒤집힌 점이 핵심입니다.",
+    "tip": "'During practice ... A week later, however'의 대비가 빈칸의 근거입니다."
   },
   {
     "id": "m3b-07-32",
     "level": "m3",
     "set": "mock-07",
+    "rev": 2,
     "no": 32,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Many people believe that buying more things will make them happier. Advertisers encourage this belief by showing new products as the key to a better life. However, studies suggest that money spent on experiences, such as trips and concerts, brings longer-lasting happiness than money spent on objects. One reason is that we quickly get used to the things that we own, while memories of experiences remain fresh and can be enjoyed again and again. Weddings, family trips, and concerts are remembered for years after they end. Another reason is that experiences are often shared with others, which strengthens our relationships. In short, what makes us happiest is __________. People often realize this only later in life, so spending on shared experiences may be a wiser choice.",
+    "passage": "In the early days of aviation, a team studying bomber aircraft that returned from missions noticed that most of the bullet holes were in the wings and the body, with relatively few around the engines. The obvious conclusion was to add armor where the holes were. The statistician Abraham Wald argued the opposite. The planes being examined, he pointed out, were only the ones that had come back. Holes in the wings showed places where a plane could be hit and still fly home. The absence of holes near the engines did not mean that engines were rarely struck; it meant that planes struck there did not return. Armor should therefore go where the returning planes were untouched. The same trap appears when we study only successful companies to learn the secret of success, forgetting the many firms that did the same things and failed. In both cases, we reach false conclusions because __________.",
     "options": [
-      "what we do and whom we do it with rather than what we own",
-      "how much money we earn compared with our neighbors every year",
-      "the number of expensive objects that we keep inside our own house",
-      "the speed at which we can buy the newest products in the shops",
-      "the amount of time that we spend choosing a gift for ourselves"
+      "the cases that failed to survive are missing from what we observe",
+      "the numbers were counted by people who were not experts",
+      "engines are much stronger than the other parts of a plane",
+      "successful companies usually refuse to share their records with other firms",
+      "we examine too many examples at the same time"
     ],
     "answer": 0,
-    "translation": "많은 사람은 물건을 더 많이 사면 더 행복해질 것이라고 믿는다. 광고주들은 새 제품을 더 나은 삶의 열쇠로 보여 주며 이 믿음을 부추긴다. 그러나 연구들은 여행이나 음악회 같은 경험에 쓴 돈이 물건에 쓴 돈보다 더 오래가는 행복을 가져다준다고 시사한다. 한 가지 이유는 우리가 가진 물건에는 금세 익숙해지는 반면 경험의 기억은 생생하게 남아 거듭 즐길 수 있다는 것이다. 결혼식, 가족 여행, 음악회는 끝난 뒤에도 몇 년 동안 기억된다. 또 다른 이유는 경험이 흔히 다른 사람과 공유되어 관계를 강화한다는 것이다. 요컨대 우리를 가장 행복하게 하는 것은 우리가 가진 것이 아니라 우리가 무엇을 하고 누구와 함께 하느냐이다. 사람들은 흔히 이를 삶의 후반에야 깨달으므로 함께하는 경험에 쓰는 것이 더 현명한 선택일 수 있다.",
-    "why": "경험이 오래가는 행복과 관계 강화를 가져온다고 했으므로 '무엇을 소유했는지가 아니라 무엇을 하고 누구와 하는지'가 알맞습니다.",
+    "translation": "항공의 초기에 임무에서 돌아온 폭격기를 연구하던 팀은 총알 구멍 대부분이 날개와 동체에 있고 엔진 주변에는 비교적 적다는 것을 알아챘다. 당연한 결론은 구멍이 있는 곳에 장갑을 더하는 것이었다. 통계학자 아브라함 발드는 반대로 주장했다. 조사 중인 비행기는 돌아온 것들뿐이라고 그는 지적했다. 날개의 구멍은 맞고도 집까지 날 수 있는 곳을 보여 주었다. 엔진 근처에 구멍이 없다는 것은 엔진이 거의 맞지 않는다는 뜻이 아니라 거기를 맞은 비행기가 돌아오지 못했다는 뜻이었다. 따라서 장갑은 돌아온 비행기가 손상되지 않은 곳에 가야 한다. 성공의 비결을 배우려고 성공한 회사만 연구하며 같은 일을 하고 실패한 많은 회사를 잊을 때 같은 함정이 나타난다. 두 경우 모두 살아남지 못한 사례가 우리가 관찰하는 것에서 빠져 있기 때문에 잘못된 결론에 이른다.",
+    "why": "살아남은 비행기·회사만 관찰해 실패 사례가 빠지는 생존 편향이므로 ①이 알맞습니다.",
     "optionNotes": [
-      "정답. 경험과 함께하는 사람입니다.",
-      "이웃과의 소득 비교는 나오지 않습니다.",
-      "비싼 물건의 수는 글과 반대입니다.",
-      "새 제품을 사는 속도는 나오지 않습니다.",
-      "선물 고르는 시간은 나오지 않습니다."
+      "정답. 살아남지 못한 사례가 관찰에서 빠져 있습니다.",
+      "비전문가의 계산은 나오지 않습니다.",
+      "엔진이 더 튼튼하다는 것은 반대입니다.",
+      "성공 회사의 기록 거부는 나오지 않습니다.",
+      "사례가 너무 많아서가 아니라 빠진 것이 문제입니다."
     ],
-    "trap": "첫 문장의 통념(buying more things)에 이끌려 소유 관련 보기를 고르지 마세요.",
-    "tip": "However 뒤의 연구 결과와 두 가지 이유가 빈칸을 뒷받침합니다."
+    "trap": "③은 '엔진에 구멍이 적다'를 곧이곧대로 해석한 것으로 글이 바로잡은 오해입니다.",
+    "tip": "'only the ones that had come back'이 빈칸의 직접 근거입니다."
   },
   {
     "id": "m3b-07-33",
     "level": "m3",
     "set": "mock-07",
+    "rev": 2,
     "no": 33,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "When we are not focusing on any task, the brain does not simply rest. Scans show that a group of regions, known as the default mode network, becomes more active when we daydream. Scientists first noticed this when brain activity increased during rest. During this time, the brain connects memories, imagines the future, and thinks about other people's feelings. For example, many famous scientists say that their best ideas came during a walk. Researchers suggest that this activity is essential for creativity and for understanding ourselves. People who never allow their minds to wander often find it harder to solve problems in new ways. This means that moments of doing nothing are __________. Rest is therefore an important kind of work.",
+    "passage": "Imagine that two neighbors share a small pond. Each may put as many fish into it as he likes and catch them when they have grown. If both take only a few, the fish reproduce, and the pond supplies them for years. But each neighbor may reason that a fish left in the water will probably be caught by the other, so it is better to take it now. When both think this way, the pond is soon empty, and each ends up with less than if he had been patient. Economists use situations like this to show that choices that are sensible for each individual can be harmful to the group. The solution is rarely to appeal to kindness alone. Communities that have managed shared fisheries and forests for centuries usually have clear rules about who may take how much, ways of watching one another, and mild penalties for breaking the rules. These arrangements work because they __________.",
     "options": [
-      "a sign that the brain has completely stopped working for a while",
-      "the main reason why people lose their ability to remember names",
-      "not wasted but actively used by the brain for important work",
-      "harmful to our health and should be avoided as much as possible",
-      "useful only for people who are younger than twelve years old"
+      "force every member to stop using the shared resource",
+      "give the largest share of the resource to the member who works the hardest",
+      "make it reasonable for each person to hold back, since others will too",
+      "replace the need for any rules with trust in human nature",
+      "increase the number of fish that the pond can hold"
     ],
     "answer": 2,
-    "translation": "어떤 과제에도 집중하지 않을 때 뇌는 단순히 쉬지 않는다. 뇌 스캔은 기본 모드 네트워크라고 알려진 일련의 영역이 우리가 공상할 때 더 활발해짐을 보여 준다. 과학자들은 휴식 중에 뇌 활동이 늘어나는 것을 보고 이를 처음 알아챘다. 이때 뇌는 기억을 연결하고 미래를 상상하며 다른 사람의 감정을 생각한다. 예를 들어 많은 유명 과학자는 최고의 아이디어가 산책 중에 떠올랐다고 말한다. 연구자들은 이 활동이 창의성과 자기 이해에 필수적이라고 제안한다. 마음이 헤매는 것을 결코 허용하지 않는 사람은 새로운 방식으로 문제를 푸는 것이 더 어렵다고 느끼는 경우가 많다. 이는 아무것도 하지 않는 순간이 낭비되는 것이 아니라 뇌가 중요한 일을 하는 데 적극적으로 쓰인다는 뜻이다. 그러므로 휴식은 중요한 종류의 일이다.",
-    "why": "공상할 때도 뇌가 활발히 일하므로 '낭비되는 것이 아니라 뇌가 중요한 일에 적극적으로 쓴다'가 알맞습니다.",
+    "translation": "두 이웃이 작은 연못을 함께 쓴다고 상상해 보라. 각자는 원하는 만큼 물고기를 넣고 자라면 잡을 수 있다. 둘 다 조금만 가져가면 물고기는 번식하고 연못은 여러 해 동안 공급한다. 그러나 각 이웃은 물속에 남긴 물고기는 아마 상대가 잡을 테니 지금 가져가는 것이 낫다고 추론할 수 있다. 둘 다 이렇게 생각하면 연못은 곧 비고, 참았을 때보다 각자 더 적게 얻는다. 경제학자들은 이런 상황으로 개인에게 합리적인 선택이 집단에는 해로울 수 있음을 보여 준다. 해법은 친절에 호소하는 것만인 경우는 드물다. 수 세기 동안 공유 어장과 숲을 관리해 온 공동체는 대개 누가 얼마나 가져갈 수 있는지에 대한 분명한 규칙, 서로 지켜보는 방법, 규칙 위반에 대한 가벼운 처벌이 있다. 이런 장치는 다른 이들도 그럴 것이므로 각자가 참는 것이 합리적이 되게 하기 때문에 통한다.",
+    "why": "규칙과 감시가 있으면 남도 참을 것이라 믿을 수 있어 각자가 참는 것이 합리적이 되므로 ③이 알맞습니다.",
     "optionNotes": [
-      "뇌가 멈춘다는 내용은 글과 반대입니다.",
-      "이름 기억은 나오지 않습니다.",
-      "정답. 뇌가 중요한 일을 합니다.",
-      "건강에 해롭다는 내용은 글과 반대입니다.",
-      "어린 나이에만 유용하다는 내용은 없습니다."
+      "자원 사용을 금지하지 않습니다.",
+      "가장 열심히 일한 사람의 몫은 나오지 않습니다.",
+      "정답. 남도 참을 것이므로 각자가 참는 것이 합리적이 됩니다.",
+      "규칙이 필요 없다는 것은 반대입니다.",
+      "물고기 수용량 증가는 나오지 않습니다."
     ],
-    "trap": "'doing nothing'이라는 표현 때문에 뇌도 멈춘다고 오해하지 마세요.",
-    "tip": "첫 문장의 'does not simply rest'가 빈칸의 직접적 단서입니다."
+    "trap": "④는 'rarely to appeal to kindness alone'과 반대입니다.",
+    "tip": "문제(상대가 가져갈 것이라는 추론)를 해결하는 방식이 빈칸의 내용입니다."
   },
   {
     "id": "m3b-07-34",
     "level": "m3",
     "set": "mock-07",
+    "rev": 2,
     "no": 34,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Many years ago, a young woman was attacked in a large city, and newspapers reported that dozens of neighbors had heard her cries but did not call the police. This case became famous around the world. Psychologists later studied this kind of behavior and found a surprising pattern. When many people witness an emergency, each person feels less responsible, because they assume that someone else will help. This is called the bystander effect. The effect becomes stronger as the crowd grows larger, and teachers now use it to explain why speaking up matters. In experiments, volunteers who believed that they were alone with a person in trouble helped much more quickly. Experiments confirm that a person is more likely to offer help when he or she is __________.",
+    "passage": "Why can you read a sentence even when several letters are missing or the words are partly covered? The brain does not wait passively for information to arrive and then assemble it piece by piece. Instead, it constantly makes predictions about what is likely to come next, based on past experience. It then compares these predictions with the signals from the senses. When they match, we perceive the world smoothly and with little effort. When they do not, the mismatch attracts attention, and the brain updates its guess, often without our being aware that anything has happened. This helps to explain why a familiar song heard through a noisy wall is easy to follow, while an unfamiliar one is just noise. It also explains why we often fail to notice a typing error in our own writing: we see what we intended to write. In this view, perception is not a simple recording of reality but __________.",
     "options": [
-      "surrounded by a large crowd of strangers who are all watching quietly",
-      "unsure whether the situation is really serious or not for a long time",
-      "the only witness and cannot rely on anyone else to act",
-      "wearing a uniform that makes it easier for others to recognize",
-      "busy with an important task that must be finished within an hour"
+      "a mirror that shows every detail exactly as it is",
+      "a process that stops working whenever there is any noise around us",
+      "an active guess that is continually checked against the senses",
+      "a memory of events that happened in childhood",
+      "a skill that only trained artists can develop"
     ],
     "answer": 2,
-    "translation": "여러 해 전 한 젊은 여성이 큰 도시에서 공격을 당했고 신문은 수십 명의 이웃이 그녀의 비명을 들었지만 경찰에 신고하지 않았다고 보도했다. 이 사건은 전 세계에서 유명해졌다. 심리학자들은 이후 이런 행동을 연구해 놀라운 양상을 발견했다. 많은 사람이 응급 상황을 목격하면 각자는 다른 누군가가 도울 것이라고 가정하기 때문에 책임을 덜 느낀다. 이것은 방관자 효과라고 한다. 이 효과는 군중이 커질수록 강해지며 교사들은 이제 이를 나서서 말하는 것이 왜 중요한지 설명하는 데 쓴다. 실험에서 곤경에 처한 사람과 자신만 있다고 믿은 자원자들이 훨씬 더 빨리 도왔다. 실험은 사람이 유일한 목격자이고 다른 누구에게도 의지할 수 없을 때 도움을 줄 가능성이 더 높음을 확인한다.",
-    "why": "다른 사람이 도울 것이라는 가정이 책임감을 줄이므로 '유일한 목격자이고 다른 사람에게 의지할 수 없을 때' 도움을 줄 가능성이 높습니다.",
+    "translation": "몇 글자가 빠지거나 낱말이 일부 가려져도 문장을 읽을 수 있는 이유는 무엇일까? 뇌는 정보가 도착하기를 수동적으로 기다렸다가 조각조각 조립하지 않는다. 대신 과거의 경험을 바탕으로 다음에 올 가능성이 높은 것을 끊임없이 예측한다. 그런 다음 이 예측을 감각의 신호와 비교한다. 둘이 맞으면 우리는 세상을 매끄럽고 거의 힘들이지 않고 지각한다. 맞지 않으면 불일치가 주의를 끌고 뇌는 흔히 우리가 무슨 일이 있었는지 의식하지 못한 채 추측을 갱신한다. 이는 시끄러운 벽 너머의 익숙한 노래는 따라가기 쉬운데 낯선 노래는 소음일 뿐인 이유를 설명한다. 또 자기 글의 오타를 흔히 알아채지 못하는 이유를 설명하는 데 도움이 된다. 우리는 쓰려던 것을 본다. 이런 관점에서 지각은 현실의 단순한 기록이 아니라 감각과 끊임없이 대조되는 능동적 추측이다.",
+    "why": "뇌가 예측하고 감각 신호와 비교하며 갱신하므로, 지각은 감각과 계속 대조되는 능동적 추측입니다.",
     "optionNotes": [
-      "큰 군중은 책임감을 줄입니다.",
-      "상황이 불확실할 때를 뒷받침하는 내용은 없습니다.",
-      "정답. 유일한 목격자일 때 도움을 줄 가능성이 높습니다.",
-      "제복은 나오지 않습니다.",
-      "바쁜 일은 나오지 않습니다."
+      "있는 그대로 비추는 거울이 아닙니다.",
+      "소음에 멈춘다는 내용은 없습니다.",
+      "정답. 감각과 대조되는 능동적 추측입니다.",
+      "어린 시절의 기억이라는 내용은 없습니다.",
+      "훈련된 예술가만의 기술이 아닙니다."
     ],
-    "trap": "'many people'이 도움을 줄 것이라는 직관과 반대 결과임을 놓치지 마세요.",
-    "tip": "앞 문장(volunteers who believed that they were alone)이 빈칸의 직접적 단서입니다."
+    "trap": "①은 'not a simple recording'과 반대입니다.",
+    "tip": "'not A but B' 구조에서 B는 앞의 '예측과 비교'를 요약해야 합니다."
   },
   {
     "id": "m3b-07-35",
     "level": "m3",
     "set": "mock-07",
+    "rev": 2,
     "no": 35,
     "type": "irrelevant",
     "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
-    "passage": "Meditation, even for a few minutes a day, can bring surprising benefits. ① It lowers stress by slowing the heart rate and relaxing the muscles. ② Regular practice also improves concentration, since it trains the mind to return to a single point of focus. ③ Many people report that they sleep better and feel calmer after meditating. ④ These benefits appear gradually, so patience is important at the beginning of the practice. ⑤ Modern smartphones contain more computing power than the computers that were used in the early space missions.",
+    "passage": "Sleep is not the same throughout the night; it moves through a series of stages that repeat about every ninety minutes. ① In the first stage, the body relaxes and the eyes move slowly, and a person who is woken then may not even realize that he or she was asleep. ② Next comes a deeper sleep, in which the heart rate falls and the brain produces slow waves, and this is when the body repairs tissues and strengthens its defenses. ③ After that, the sleeper enters the dreaming stage, where the eyes move rapidly under the lids and the brain becomes almost as active as in the daytime. ④ Early in the night, the deep stage lasts longer, while the dreaming stage grows longer toward morning, so cutting sleep short removes mainly dreaming time. ⑤ Many people enjoy reading for a while before bed, and some say that a paper book helps them to relax better than a screen does.",
     "options": [
       "①",
       "②",
@@ -183,26 +190,27 @@
       "⑤"
     ],
     "answer": 4,
-    "translation": "하루에 몇 분만 해도 명상은 놀라운 이점을 가져올 수 있다. ① 명상은 심장 박동을 늦추고 근육을 이완시켜 스트레스를 낮춘다. ② 꾸준한 수련은 또한 마음이 하나의 집중점으로 돌아오도록 훈련하므로 집중력을 향상시킨다. ③ 많은 사람이 명상 후 더 잘 자고 더 차분해진다고 보고한다. ④ 이런 이점은 서서히 나타나므로 수련 초기에는 인내가 중요하다. ⑤ 현대 스마트폰은 초기 우주 임무에 쓰인 컴퓨터보다 더 큰 연산 능력을 지니고 있다.",
-    "why": "글은 명상의 이점을 말하는데 ⑤는 스마트폰의 연산 능력이라는 별개의 이야기라 관계가 없습니다.",
+    "translation": "수면은 밤새 같지 않다. 약 90분마다 되풀이되는 일련의 단계를 거친다. ① 첫 단계에서 몸은 이완되고 눈은 천천히 움직이며 이때 깨운 사람은 자신이 잠들었다는 것조차 알아채지 못할 수 있다. ② 다음은 심장 박동이 느려지고 뇌가 느린 파동을 내는 더 깊은 잠으로, 이때 몸은 조직을 수리하고 방어력을 강화한다. ③ 그 뒤 자는 사람은 꿈꾸는 단계에 들어가는데, 눈꺼풀 아래에서 눈이 빠르게 움직이고 뇌는 낮만큼 활발해진다. ④ 밤의 앞부분에는 깊은 단계가 더 오래 가고 꿈꾸는 단계는 아침으로 갈수록 길어지므로 잠을 줄이면 주로 꿈꾸는 시간이 사라진다. ⑤ 많은 사람이 자기 전에 잠시 책 읽기를 즐기며 어떤 이는 종이책이 화면보다 더 잘 이완시켜 준다고 말한다.",
+    "why": "글은 수면의 단계를 설명하는데 ⑤는 자기 전 독서 습관으로 관계가 없습니다.",
     "optionNotes": [
-      "명상이 스트레스를 낮추는 이점입니다.",
-      "명상이 집중력을 높이는 이점입니다.",
-      "명상 후 수면과 차분함이 좋아지는 이점입니다.",
-      "이점이 서서히 나타난다는 설명입니다.",
-      "정답(무관). 스마트폰의 성능 이야기입니다."
+      "첫 단계를 설명합니다.",
+      "깊은 잠 단계를 설명합니다.",
+      "꿈꾸는 단계를 설명합니다.",
+      "단계의 비율 변화를 설명합니다.",
+      "정답. 자기 전 독서는 수면 단계와 무관합니다."
     ],
-    "trap": "결론처럼 마지막에 나온 문장이라 흐름에 맞는 것처럼 보일 수 있습니다.",
-    "tip": "주제(명상의 이점)와 이어지지 않는 문장을 고르세요."
+    "trap": "'bed', 'relax'가 수면과 관련되어 보이지만 단계의 설명이 아닙니다.",
+    "tip": "순서를 나타내는 표현(first, Next, After that)이 이어지는 흐름을 벗어난 문장을 찾으세요."
   },
   {
     "id": "m3b-07-36",
     "level": "m3",
     "set": "mock-07",
+    "rev": 2,
     "no": 36,
     "type": "order",
     "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
-    "passage": "The first modern Olympic Games were held in Athens, Greece, in 1896, and they were meant to bring the nations of the world together through sport. Pierre de Coubertin, a French educator, organized the event.\n(A) Over the following century, however, the number of participants grew steadily, and women were allowed to compete from 1900. New sports were added, and the Games also began to be held in different countries.\n(B) Only fourteen countries took part in that first event, and all of the athletes were men. They competed in only nine sports, including running, swimming, and wrestling.\n(C) Today, more than two hundred countries send athletes, and almost half of the competitors are women. The event is now watched by billions of people on television and online.",
+    "passage": "For most of history, people had no reliable way to know how far a ship had traveled east or west across the open ocean.\n(A) Measuring that difference required a clock that kept the time of the home port through months of storms, heat, and cold. Ordinary clocks of the day could not do it, since their pendulums were thrown off by the rolling of the ship and their metal parts expanded and contracted.\n(B) The problem could be solved in principle by comparing times. Because the Earth turns fifteen degrees every hour, a sailor who knows both the local time and the time at a fixed place can calculate how far east or west he is.\n(C) A self-taught carpenter named John Harrison spent decades solving this. His fourth model, which looked like a large pocket watch, lost only a few seconds on a voyage to Jamaica in 1761, and it changed navigation forever.",
     "options": [
       "(A)-(C)-(B)",
       "(B)-(A)-(C)",
@@ -211,26 +219,27 @@
       "(C)-(B)-(A)"
     ],
     "answer": 1,
-    "translation": "최초의 근대 올림픽은 1896년 그리스 아테네에서 열렸으며 스포츠를 통해 세계의 나라들을 하나로 모으려는 취지였다. 프랑스 교육자 피에르 드 쿠베르탱이 이 행사를 조직했다. (B) 그 첫 대회에는 열네 나라만 참가했고 선수는 모두 남자였다. 그들은 달리기, 수영, 레슬링을 포함해 아홉 종목에서만 겨뤘다. (A) 그러나 이후 한 세기 동안 참가자 수는 꾸준히 늘었고 여성은 1900년부터 경기에 참가할 수 있었다. 새 종목이 추가되었고 올림픽은 여러 나라에서 열리기 시작했다. (C) 오늘날 이백 개가 넘는 나라가 선수를 보내고 경쟁자의 거의 절반이 여성이다. 이 행사는 이제 텔레비전과 온라인으로 수십억 명이 시청한다.",
-    "why": "(B) 첫 대회의 규모 → (A) 'however'로 이후의 성장 → (C) 'Today'로 현재 순서입니다.",
+    "translation": "역사의 대부분 동안 사람들은 배가 탁 트인 바다를 동쪽이나 서쪽으로 얼마나 갔는지 믿을 만하게 알 방법이 없었다. (B) 이 문제는 원리적으로 시간을 비교해 풀 수 있었다. 지구는 매시간 15도 도므로 현지 시간과 고정된 장소의 시간을 모두 아는 선원은 자신이 동쪽이나 서쪽으로 얼마나 있는지 계산할 수 있다. (A) 그 차이를 재려면 몇 달의 폭풍, 더위, 추위를 거치며 모항의 시간을 지키는 시계가 필요했다. 당시의 평범한 시계는 배의 흔들림에 진자가 어긋나고 금속 부품이 늘고 줄어서 그럴 수 없었다. (C) 존 해리슨이라는 독학한 목수가 수십 년을 들여 이를 풀었다. 큰 회중시계처럼 생긴 그의 네 번째 모델은 1761년 자메이카 항해에서 몇 초만 틀렸고 항해를 영원히 바꾸었다.",
+    "why": "(B) 시간 비교라는 원리 → (A) 정확한 시계의 필요와 어려움 → (C) 해리슨의 해결 순서입니다.",
     "optionNotes": [
-      "(A)의 'however'와 'the following century'가 가리킬 첫 대회 설명이 앞에 없습니다.",
-      "정답. 첫 대회 → 성장 → 오늘날.",
-      "(C)가 (A)보다 앞서면 성장 과정 전에 현재가 나옵니다.",
-      "(C)의 'Today'가 처음에 오면 시간 흐름이 어색합니다.",
-      "(C)의 'Today'가 처음에 오면 시간 흐름이 어색합니다."
+      "(A)의 'that difference'는 (B)에서 시간 차이가 소개된 뒤여야 합니다.",
+      "정답. 원리 → 어려움 → 해결입니다.",
+      "(C)의 'this'는 (A)의 어려움을 가리켜야 합니다.",
+      "(C)가 앞에 오면 'this'의 대상이 없습니다.",
+      "(C)가 맨 앞에 오면 해결할 문제가 아직 설명되지 않습니다."
     ],
-    "trap": "(A)의 'however'는 (B)의 적은 참가국과 대조됩니다.",
-    "tip": "that first event → Over the following century → Today의 시간 흐름을 따라가세요."
+    "trap": "(A)의 'that difference'를 첫머리의 '동서 거리'로 착각하지 마세요. 시간 차이를 말합니다.",
+    "tip": "that, this가 가리키는 말이 바로 앞 단락에 있는지 확인하세요."
   },
   {
     "id": "m3b-07-37",
     "level": "m3",
     "set": "mock-07",
+    "rev": 2,
     "no": 37,
     "type": "order",
     "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
-    "passage": "Many people think that adding more words to a presentation slide makes it more informative, so they fill every slide with long sentences. They believe that this will impress the audience.\n(A) As a result, they remember less of what the speaker says, and the presentation becomes harder to follow. The audience may leave the room with a vague impression but no clear message.\n(B) Research on attention shows the opposite: when a slide is full of text, listeners try to read it and stop listening to the speaker. This happens because the brain cannot do both tasks well at the same time.\n(C) Therefore, effective slides contain only a few key words and a clear image, leaving the explanation to the speaker.",
+    "passage": "In 1973, a young researcher wanted to understand why some people help a stranger in need while others pass by.\n(A) The results surprised him. Whether the students had been asked to talk about a story of helping made almost no difference. What mattered most was time: of those who thought they were late, only about one in ten stopped, compared with more than six in ten of those who had time to spare.\n(B) He asked students at a religious college to walk to another building to give a short talk, and he placed on their way a man who was slumped in a doorway and coughing. Some students were told to speak about a story of a good person who helped a stranger, others about jobs. Some were also told that they were late.\n(C) The study suggests that behavior depends not only on a person's character but also on the situation, which can easily crowd out good intentions.",
     "options": [
       "(A)-(C)-(B)",
       "(B)-(A)-(C)",
@@ -239,26 +248,27 @@
       "(C)-(B)-(A)"
     ],
     "answer": 1,
-    "translation": "많은 사람은 발표 슬라이드에 단어를 더 많이 넣을수록 더 많은 정보를 준다고 생각해서 모든 슬라이드를 긴 문장으로 채운다. 그들은 이것이 청중에게 깊은 인상을 줄 것이라고 믿는다. (B) 주의에 관한 연구는 그 반대를 보여 준다. 슬라이드가 글로 가득 차 있으면 청중은 그것을 읽으려고 하고 발표자의 말을 듣지 않게 된다. 이는 뇌가 두 가지 과제를 동시에 잘 해낼 수 없기 때문에 일어난다. (A) 그 결과 그들은 발표자가 말하는 것을 덜 기억하고 발표는 따라가기 더 어려워진다. 청중은 막연한 인상만 안고 방을 나설 뿐 분명한 메시지는 얻지 못할 수 있다. (C) 그러므로 효과적인 슬라이드는 몇 개의 핵심어와 선명한 이미지만 담고 설명은 발표자에게 맡긴다.",
-    "why": "(B) 'the opposite'로 통념 반박 → (A) 'As a result'로 결과 → (C) 'Therefore'로 결론 순서입니다.",
+    "translation": "1973년 한 젊은 연구자는 왜 어떤 사람은 도움이 필요한 낯선 사람을 돕고 다른 사람은 지나치는지 이해하고 싶었다. (B) 그는 한 신학대학 학생들에게 짧은 강연을 하러 다른 건물로 걸어가라고 하고 그 길에 문가에 쓰러져 기침하는 남자를 배치했다. 일부 학생에게는 낯선 사람을 도운 선한 사람의 이야기를, 다른 학생에게는 직업에 대해 말하라고 했다. 또 일부에게는 늦었다고 알려 주었다. (A) 결과는 그를 놀라게 했다. 돕는 이야기에 대해 말하라고 요청받았는지는 거의 차이가 없었다. 가장 중요한 것은 시간이었다. 늦었다고 생각한 학생 중 약 열 명에 한 명만 멈춘 반면 여유가 있던 학생은 열에 여섯 넘게 멈췄다. (C) 이 연구는 행동이 사람의 성격만이 아니라 상황에도 달려 있고, 상황은 선한 의도를 쉽게 밀어낼 수 있음을 시사한다.",
+    "why": "(B) 실험 설계 → (A) 결과 → (C) 함의 순서입니다.",
     "optionNotes": [
-      "(A)의 'As a result'가 이어질 원인이 앞에 없습니다.",
-      "정답. 반박 → 결과 → 결론.",
-      "(A)가 (C) 뒤에 오면 결론 뒤에 결과가 나옵니다.",
-      "(C)의 'Therefore'가 요약할 내용이 앞에 없습니다.",
-      "(C)의 'Therefore'가 요약할 내용이 앞에 없습니다."
+      "(A)의 'The results'는 실험 설명(B) 뒤여야 합니다.",
+      "정답. 설계 → 결과 → 함의입니다.",
+      "(C)의 'The study'의 결과(A)가 아직 없습니다.",
+      "(C)가 앞에 오면 'The study'가 소개되지 않았습니다.",
+      "(C)가 맨 앞이면 무엇의 연구인지 알 수 없습니다."
     ],
-    "trap": "(A)의 'they'는 (B)의 listeners를 가리킵니다.",
-    "tip": "the opposite → As a result → Therefore의 논리 흐름을 따라가세요."
+    "trap": "(C)의 결론이 그럴듯해 앞에 두기 쉽지만 결과 설명 뒤에 와야 합니다.",
+    "tip": "실험 글은 설계 → 결과 → 해석의 순서를 따릅니다."
   },
   {
     "id": "m3b-07-38",
     "level": "m3",
     "set": "mock-07",
+    "rev": 2,
     "no": 38,
     "type": "insert",
     "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
-    "passage": "[주어진 문장]\nInstead, he decided to use the money to build a library for the village where he was born.\n\n[글]\n( ① ) Mr. Park, a wealthy businessman, received a large prize for his charity work after many years of helping poor families. ( ② ) Everyone around him expected him to buy a bigger house or to take a long vacation abroad. ( ③ ) The library opened in 2015 and now serves more than three thousand children from nearby villages every year. ( ④ ) He says that the happiest moment of his life was watching the first child read a book there. ( ⑤ ) Today, he is planning to build two more libraries in other small towns.",
+    "passage": "[주어진 문장]\nThat advantage disappears, however, when the group faces a problem that nobody has seen before.\n\n[글]\n( ① ) Teams of experts often perform brilliantly on tasks that they have met many times, and their speed can seem almost magical to an outsider. ( ② ) A surgical team that has done an operation hundreds of times moves almost without speaking, and each member knows what the others will do before they do it, which saves precious seconds. ( ③ ) In such cases, the habits that saved time can lead the members to see only what they expect and to ignore signs that something is different, even when those signs are obvious to a newcomer. ( ④ ) Research on emergencies suggests that teams do better when junior members feel free to speak up and when leaders ask openly for doubts. ( ⑤ ) Expertise, then, is most useful when it is combined with a willingness to question itself, and when a team treats surprise as useful information.",
     "options": [
       "①",
       "②",
@@ -267,26 +277,27 @@
       "⑤"
     ],
     "answer": 2,
-    "translation": "[주어진 문장] 대신 그는 그 돈으로 자신이 태어난 마을에 도서관을 짓기로 했다. [글] 부유한 사업가인 박 씨는 여러 해 동안 가난한 가정을 도운 자선 활동으로 큰 상을 받았다. 주변의 모든 사람은 그가 더 큰 집을 사거나 해외로 긴 휴가를 떠날 것이라고 예상했다. 도서관은 2015년에 문을 열었고 이제 해마다 인근 마을의 삼천 명이 넘는 어린이에게 도움을 준다. 그는 자기 인생에서 가장 행복했던 순간이 그곳에서 첫 아이가 책을 읽는 모습을 지켜본 때라고 말한다. 오늘날 그는 다른 작은 마을에 도서관을 두 곳 더 지을 계획이다.",
-    "why": "앞 문장의 사람들의 예상(큰 집, 휴가)과 'Instead'로 대조되고, 뒤에 'The library'가 처음 나오므로 ③에 들어갑니다.",
+    "translation": "[주어진 문장] 그러나 그 이점은 집단이 아무도 본 적 없는 문제에 부딪히면 사라진다. [글] 전문가 팀은 여러 번 만난 과제에서 흔히 훌륭하게 수행하며 그 속도는 외부인에게 거의 마법처럼 보일 수 있다. 수백 번 수술을 해 온 수술팀은 거의 말없이 움직이며 각 구성원은 다른 이들이 하기 전에 무엇을 할지 알아 귀중한 몇 초를 아낀다. 그런 경우에 시간을 아껴 주던 습관이 구성원이 예상하는 것만 보고 새로 온 사람에게는 분명한 신호인데도 무언가 다르다는 신호를 무시하게 할 수 있다. 응급 상황에 대한 연구는 하급 구성원이 자유롭게 말할 수 있다고 느끼고 지도자가 공개적으로 의문을 구할 때 팀이 더 잘한다고 시사한다. 그러므로 전문성은 스스로를 의심하려는 의지와 결합하고 팀이 뜻밖의 일을 유용한 정보로 대할 때 가장 유용하다.",
+    "why": "익숙한 과제에서의 장점(②)을 설명한 뒤 'however'로 처음 보는 문제를 제시하고, 'In such cases'가 그 상황을 받으므로 ③입니다.",
     "optionNotes": [
-      "'Instead'가 대조할 예상이 아직 나오지 않았습니다.",
-      "예상을 말하는 문장 앞에 'Instead'가 오면 대조할 대상이 없습니다.",
-      "정답. 사람들의 예상과 대조되고 도서관 이야기로 이어집니다.",
-      "'The library'가 이미 나온 뒤에 도서관을 짓기로 한 결정이 나오면 순서가 뒤집힙니다.",
-      "도서관 이야기가 끝난 뒤에 결정을 말하면 어색합니다."
+      "'That advantage'가 가리킬 장점이 아직 없습니다.",
+      "장점 사례 설명 전이라 'That advantage'의 설명이 부족합니다.",
+      "정답. 장점 사례 뒤에 반전하고 'In such cases'로 이어집니다.",
+      "'In such cases' 뒤에 오면 'such cases'의 대상이 없어집니다.",
+      "결론 직전에 오면 흐름이 맞지 않습니다."
     ],
-    "trap": "'The library'가 정관사로 쓰인 문장 앞에 도서관이 처음 소개되어야 합니다.",
-    "tip": "Instead는 앞 문장의 예상과 대조될 때, 정관사 명사의 소개 문장은 그 앞에 둡니다."
+    "trap": "'In such cases'가 가리키는 상황(처음 보는 문제)이 바로 앞에 있어야 합니다.",
+    "tip": "however 문장은 앞의 장점이 완결된 뒤에 놓고, 뒤 문장의 such가 가리키는 대상을 확인하세요."
   },
   {
     "id": "m3b-07-39",
     "level": "m3",
     "set": "mock-07",
+    "rev": 2,
     "no": 39,
     "type": "insert",
     "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
-    "passage": "[주어진 문장]\nBecause of this, early cars were available only to the wealthy.\n\n[글]\n( ① ) In the early 1900s, cars were built by hand, one at a time, in small workshops. ( ② ) Each car took many hours of skilled labor to complete, so it was extremely expensive. ( ③ ) In 1913, Henry Ford introduced the moving assembly line, which cut the time needed to build a car from twelve hours to about ninety minutes. ( ④ ) Prices fell sharply, and ordinary families could finally afford to buy their own cars. ( ⑤ ) The assembly line soon spread to other industries and changed the way goods were made all over the world.",
+    "passage": "[주어진 문장]\nThe water that stays behind, therefore, becomes steadily saltier than the water that left.\n\n[글]\n( ① ) Where a river enters a hot, dry valley and finds no way out, it forms a lake that loses water only to the sky, because no stream carries it onward to the sea. ( ② ) The sun lifts pure water into the air as vapor, but the dissolved minerals that the river carried cannot rise with it, so they stay behind in the lake. ( ③ ) Over thousands of years, this process can make a lake many times saltier than the ocean, and few living things can survive in it. The Great Salt Lake and the Dead Sea are famous examples. ( ④ ) Some bacteria and tiny shrimp, however, have special ways of pumping salt out of their cells. ( ⑤ ) Their pink and red pigments can even color entire lakes, which makes them a strange sight from the air that draws many visitors.",
     "options": [
       "①",
       "②",
@@ -295,44 +306,45 @@
       "⑤"
     ],
     "answer": 2,
-    "translation": "[주어진 문장] 이 때문에 초기 자동차는 부유한 사람들만 구할 수 있었다. [글] 1900년대 초 자동차는 작은 작업장에서 한 대씩 손으로 만들어졌다. 한 대를 완성하는 데 숙련된 노동이 많은 시간 필요했으므로 매우 비쌌다. 1913년 헨리 포드는 움직이는 조립 라인을 도입했고 이는 자동차를 만드는 데 필요한 시간을 열두 시간에서 약 구십 분으로 줄였다. 가격은 급격히 떨어졌고 평범한 가정도 마침내 자기 자동차를 살 여유가 생겼다. 조립 라인은 곧 다른 산업으로 퍼졌고 전 세계에서 물건이 만들어지는 방식을 바꾸었다.",
-    "why": "'this'는 바로 앞의 '많은 숙련 노동 때문에 매우 비쌌다'를 가리키고 뒤의 조립 라인 도입과 대조되므로 ③에 들어갑니다.",
+    "translation": "[주어진 문장] 따라서 남는 물은 떠난 물보다 꾸준히 더 짜진다. [글] 강이 뜨겁고 마른 골짜기에 들어와 나갈 길을 찾지 못하면 바다로 이어 주는 물줄기가 없어 하늘로만 물을 잃는 호수가 만들어진다. 태양은 순수한 물을 수증기로 공중에 올리지만 강이 실어 온 녹은 광물은 함께 올라갈 수 없어서 호수에 남는다. 수천 년에 걸쳐 이 과정은 호수를 바다보다 몇 배 더 짜게 만들 수 있고 그 안에서 살아남는 생물은 거의 없다. 그레이트솔트호와 사해가 유명한 예이다. 그러나 일부 세균과 작은 새우는 세포에서 소금을 퍼내는 특별한 방법이 있다. 그들의 분홍색과 붉은색 색소는 호수 전체를 물들이기도 해서 하늘에서 보면 많은 방문객을 끄는 기이한 광경이 된다.",
+    "why": "증발할 때 광물은 남는다는 설명 뒤에 'therefore'로 남는 물이 짜진다는 결과를 말하고, 이어 'this process'가 이를 받으므로 ③입니다.",
     "optionNotes": [
-      "'this'가 가리킬 내용이 아직 나오지 않았습니다.",
-      "'this'가 가리킬 비싼 이유가 나오기 전이라 어색합니다.",
-      "정답. 비싼 이유 뒤에 결과를 말하고 조립 라인으로 이어집니다.",
-      "조립 라인 이야기 뒤에 초기 자동차 이야기가 오면 시간 순서가 어긋납니다.",
-      "마지막에 오면 시간 순서가 어긋납니다."
+      "증발 설명 전이라 'therefore'의 근거가 없습니다.",
+      "광물이 올라갈 수 없다는 근거가 아직 없습니다.",
+      "정답. 근거 뒤에 결과를 말하고 'this process'로 이어집니다.",
+      "'this process' 뒤에 오면 결과가 뒤늦게 나옵니다.",
+      "예외 생물 설명 뒤라 흐름이 맞지 않습니다."
     ],
-    "trap": "④에 넣으면 가격이 떨어진 뒤에 부유층 전용이라는 내용이 나와 모순됩니다.",
-    "tip": "Because of this는 원인 문장 바로 뒤에, 변화를 설명하는 문장 앞에 놓입니다."
+    "trap": "②와 ③에서 헷갈립니다. therefore 문장은 근거(광물이 남음)가 말해진 뒤에 옵니다.",
+    "tip": "therefore는 바로 앞 문장이 원인일 때 쓰입니다."
   },
   {
     "id": "m3b-07-40",
     "level": "m3",
     "set": "mock-07",
+    "rev": 2,
     "no": 40,
     "type": "summary",
     "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Researchers observed 150 students in a school where a new schedule had been introduced. After each lesson, half of the students took a five-minute break in which they stretched, walked in the corridor, or looked out of the window. The other half stayed at their desks and moved straight to the next lesson. At the end of the day, the students who had taken breaks scored fifteen percent higher on a short concentration test. Teachers also noticed that these students asked more questions and made fewer careless mistakes. Their results were also more stable across the afternoon. The researchers concluded that the brain needs short rests to keep its attention at a high level.\n\n▶ A short (A) between classes helped students (B) better in the next class.",
+    "passage": "Researchers once asked two groups of people to rate a series of paintings. Before seeing each one, the first group was told that it had been made by a famous artist, while the second was told that it was the work of an amateur. In fact, both groups saw exactly the same pictures. Those who believed they were looking at a famous artist's work rated the paintings as more beautiful and more meaningful, and brain scans showed greater activity in areas associated with reward. Similar effects have been found with wine: when people are told that a wine is expensive, they report that it tastes better, and the reward areas respond more strongly, even though the liquid in the glass is unchanged. These results do not mean that taste and beauty are pure illusion, since people can still learn to notice real differences. They do show that the information that surrounds an object enters into the experience of it. We do not first taste and then judge; expectation shapes what we taste.\n\n▶ People's experience of an object is (A) by what they are told about it, even when the object itself is (B).",
     "options": [
-      "(A) break — (B) concentrate",
-      "(A) test — (B) forget",
-      "(A) lecture — (B) sleep",
-      "(A) meal — (B) argue",
-      "(A) game — (B) worry"
+      "(A) shaped — (B) identical",
+      "(A) shaped — (B) different",
+      "(A) unaffected — (B) identical",
+      "(A) reduced — (B) expensive",
+      "(A) hidden — (B) famous"
     ],
     "answer": 0,
-    "translation": "연구자들은 새 시간표가 도입된 학교에서 학생 150명을 관찰했다. 각 수업 후 학생의 절반은 몸을 풀거나 복도를 걷거나 창밖을 보는 5분의 쉬는 시간을 가졌다. 나머지 절반은 책상에 머물며 바로 다음 수업으로 넘어갔다. 하루가 끝날 때 쉬는 시간을 가진 학생들은 짧은 집중력 검사에서 15퍼센트 높은 점수를 받았다. 교사들은 또한 이 학생들이 질문을 더 많이 하고 부주의한 실수를 덜 한다는 것을 알아챘다. 그들의 결과는 오후 내내 더 안정적이기도 했다. 연구자들은 뇌가 주의를 높은 수준으로 유지하려면 짧은 휴식이 필요하다고 결론지었다. ▶ 수업 사이의 짧은 (A)은 학생들이 다음 수업에서 더 잘 (B)하도록 도왔다.",
-    "why": "쉬는 시간을 가진 학생이 집중력 검사에서 더 높은 점수를 받았으므로 (A)는 break, (B)는 concentrate입니다.",
+    "translation": "연구자들이 두 집단에게 일련의 그림을 평가하게 했다. 각 그림을 보기 전에 첫 집단에는 유명 화가가 그렸다고, 둘째에는 아마추어의 작품이라고 말했다. 사실 두 집단은 정확히 같은 그림을 보았다. 유명 화가의 작품을 본다고 믿은 사람들은 그림을 더 아름답고 의미 있다고 평가했고 뇌 촬영은 보상과 관련된 영역의 활동이 더 큼을 보여 주었다. 와인에서도 비슷한 효과가 발견되었다. 와인이 비싸다고 들으면 더 맛있다고 보고하고 잔 속의 액체가 그대로인데도 보상 영역이 더 강하게 반응한다. 이 결과는 맛과 아름다움이 순전한 착각이라는 뜻이 아니다. 사람들은 여전히 실제 차이를 알아채는 법을 배울 수 있다. 다만 대상을 둘러싼 정보가 그 경험에 들어옴을 보여 준다. 우리는 먼저 맛보고 그다음 판단하는 것이 아니라 기대가 맛을 형성한다. ▶ 대상에 대한 사람들의 경험은 대상 자체가 동일할 때에도 그것에 대해 들은 것에 의해 형성된다.",
+    "why": "같은 그림·같은 와인인데 들은 정보에 따라 경험이 달라졌으므로, 경험은 정보로 형성되며(shaped) 대상은 동일(identical)합니다.",
     "optionNotes": [
-      "정답. 짧은 휴식이 집중을 돕습니다.",
-      "test와 forget은 글과 맞지 않습니다.",
-      "lecture와 sleep은 글과 맞지 않습니다.",
-      "meal과 argue는 글과 맞지 않습니다.",
-      "game과 worry는 글과 맞지 않습니다."
+      "정답. 대상이 같아도 들은 정보가 경험을 형성합니다.",
+      "대상이 달랐다는 것은 틀립니다.",
+      "영향을 받지 않았다는 것은 반대입니다.",
+      "경험이 줄었다는 내용은 없습니다.",
+      "대상이 유명했다는 것이 아니라 그렇게 들었을 뿐입니다."
     ],
-    "trap": "(A)가 맞아도 (B)가 결과(집중력)와 일치하는지 확인하세요.",
-    "tip": "요약문은 실험 조건(쉬는 시간)과 결과(집중력 향상)를 짝지으세요."
+    "trap": "④의 'expensive'와 ⑤의 'famous'는 사례의 소재일 뿐 요약의 핵심이 아닙니다.",
+    "tip": "요약문의 'even when'은 '대상은 같은데도'라는 대비를 요구합니다."
   }
 ]
