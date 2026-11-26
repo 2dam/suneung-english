@@ -127,6 +127,8 @@ for (const q of questions) {
     }
   }
   if (q.type === 'blank' && q.passage && !/_{5,}/.test(q.passage)) err(id, '빈칸 문제에 ____ 표기가 없습니다')
+  // 줄바꿈이 두 번 이스케이프되면 화면에 \n 글자가 그대로 보인다.
+  if (/\\\\[n"]/.test(JSON.stringify(q))) err(id, '문자열에 이스케이프 기호(\\n, \\")가 글자 그대로 들어 있습니다')
 
   // 학년별 난이도 기준(읽기 지문 길이, 문장 길이, 듣기 대본 길이)
   const spec = LEVELS.find((level) => level.id === q.level)?.spec?.[q.rev === 2 ? `${q.course}2` : q.course]
