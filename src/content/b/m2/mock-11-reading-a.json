@@ -3,229 +3,247 @@
     "id": "m2b-11-18",
     "level": "m2",
     "set": "mock-11",
+    "rev": 2,
     "no": 18,
     "type": "purpose",
     "stem": "다음 글의 목적으로 가장 적절한 것은?",
-    "passage": "Dear Parents,\nOur school's annual Sports Day will be held on Friday, October 24, from 9 a.m. to 3 p.m. on the school field. Students will take part in running races, jump-rope contests, and team games. To make the day safe and fun, we need extra helpers to hand out water, keep time, and guide students between events. If you can spare a few hours, please fill out the attached form and return it by October 17. You do not need any special skills; a friendly smile is enough. Your help will make a big difference to our students. Thank you for your support.\nSincerely,\nMr. Baek, Principal",
+    "passage": "Dear Manager of Green Line Bus,\nMy name is Jiyu Han, and I am the student council president at Saebom Middle School. About a hundred and twenty of our students ride your number 7 bus every morning. The closest stop, however, is nearly a kilometer from our front gate, and the way from there runs along a narrow road with no sidewalk. On rainy days students walk with umbrellas while trucks pass close beside them, and several parents have told us how worried they are. We understand that changing a route affects drivers, timetables, and other passengers, and that it cannot be decided quickly. Still, we have checked that the road in front of our school is wide enough for a bus to stop safely. Would you consider adding a stop near our front gate? We have enclosed a map and the results of a student survey, and we would be happy to meet with your staff whenever it is convenient.\nSincerely,\nJiyu Han",
     "options": [
-      "체육 대회의 종목별 경기 규칙을 설명하려고",
-      "체육 대회 때 학생들이 가져와야 할 준비물 목록을 안내하려고",
-      "체육 대회가 비 때문에 연기된 사실을 알리려고",
-      "학교 운동장 사용 규칙이 달라진 점을 알리려고",
-      "체육 대회에서 도와줄 학부모 자원봉사자를 모집하려고"
+      "버스 기사의 친절에 감사의 뜻을 전하려고",
+      "등교 시간대에 7번 버스의 배차 간격을 더 촘촘하게 줄여 달라고 부탁하려고",
+      "비 오는 날 우산을 빌려 달라고 부탁하려고",
+      "학교 앞 도로에 인도를 만든 것을 알리려고",
+      "학교 정문 근처에 버스 정류장을 추가해 달라고 요청하려고"
     ],
     "answer": 4,
-    "translation": "학부모님께. 우리 학교의 연례 체육 대회가 10월 24일 금요일 오전 9시부터 오후 3시까지 학교 운동장에서 열립니다. 학생들은 달리기, 줄넘기 대회, 단체 경기에 참여합니다. 하루를 안전하고 즐겁게 만들기 위해 물을 나눠 주고 시간을 재며 경기 사이에 학생들을 안내할 추가 도우미가 필요합니다. 몇 시간 시간을 내실 수 있다면 첨부된 양식을 작성해 10월 17일까지 보내 주세요. 특별한 기술은 필요 없으며 친절한 미소면 충분합니다. 여러분의 도움이 학생들에게 큰 차이를 만들 것입니다. 지원에 감사드립니다. 백 교장 드림.",
-    "why": "체육 대회에서 물을 나눠 주고 시간을 재는 등 도와줄 학부모를 모집하는 글입니다.",
+    "translation": "그린 라인 버스 관리자님께. 저는 새봄 중학교 학생회장 한지유입니다. 우리 학생 약 120명이 매일 아침 7번 버스를 탑니다. 그러나 가장 가까운 정류장은 정문에서 거의 1킬로미터이고, 거기서 오는 길은 인도 없는 좁은 도로를 따라갑니다. 비 오는 날 학생들은 트럭이 바로 옆을 지나가는 가운데 우산을 쓰고 걷고, 몇몇 학부모는 얼마나 걱정되는지 말했습니다. 노선 변경은 기사, 시간표, 다른 승객에게 영향을 주며 빨리 결정할 수 없음을 이해합니다. 그래도 학교 앞 도로가 버스가 안전하게 설 만큼 넓은 것은 확인했습니다. 정문 근처에 정류장을 추가하는 것을 검토해 주시겠습니까? 지도와 학생 설문 결과를 동봉하며 편하실 때 직원분들을 만나겠습니다. 한지유 드림.",
+    "why": "학교 정문 근처에 정류장을 추가해 달라고 요청하는 글입니다.",
     "optionNotes": [
-      "경기 규칙 설명은 나오지 않습니다.",
-      "준비물 목록은 나오지 않습니다.",
-      "연기 소식은 나오지 않습니다.",
-      "운동장 사용 규칙은 나오지 않습니다.",
-      "정답. 도와줄 학부모 자원봉사자를 모집합니다."
+      "감사 편지가 아닙니다.",
+      "배차 간격 이야기는 없습니다.",
+      "우산 대여 요청이 아닙니다.",
+      "인도가 없다고 했습니다.",
+      "정답. 정류장 추가를 요청합니다."
     ],
-    "trap": "경기 종목 소개를 보고 규칙 설명(①)으로 착각하지 마세요.",
-    "tip": "목적 문제는 'we need extra helpers', 'please fill out ~' 같은 요청 문장을 확인하세요."
+    "trap": "좁은 도로 이야기를 보고 인도 설치(④)로 생각하지 마세요.",
+    "tip": "목적 문제는 'Would you consider ~?' 같은 요청 문장을 찾으세요."
   },
   {
     "id": "m2b-11-19",
     "level": "m2",
     "set": "mock-11",
+    "rev": 2,
     "no": 19,
     "type": "mood",
-    "stem": "다음 글에 드러난 Dohyun의 심경 변화로 가장 적절한 것은?",
-    "passage": "Dohyun gripped the armrest tightly as the plane began to move down the runway. It was his first flight, and his heart was pounding. He had always been afraid of heights, and he kept his eyes closed. When the engines roared, his hands began to sweat. Then the plane lifted off the ground, and the girl next to him whispered, \"Look outside.\" Slowly, Dohyun opened his eyes. Below him, houses became tiny boxes, and white clouds floated like cotton candy. A wide smile spread across his face. \"It's beautiful!\" he said. For the rest of the flight, he did not take his eyes off the window.",
+    "stem": "다음 글에 드러난 Soyul의 심경 변화로 가장 적절한 것은?",
+    "passage": "Soyul reached into her bag on the subway platform and felt only the lunch box and a pencil case. The sketchbook was gone. It held almost a year of drawings, including the ones that she had planned to send to an art school the following week. She ran back to the bench where she had been sitting, then to the stairs, then to the ticket gate, looking under every seat. A cleaner shook his head. On the way home she did not say a word, and she pushed her dinner around the plate without eating it. At nine o'clock her mother's phone rang. A university student had found the book on the train and had seen the phone number written inside the cover. \"I only looked at a few pages,\" the student said, \"but they were too good to leave behind.\" Soyul held the phone with both hands and thanked the stranger three times. She could not stop smiling long after the call had ended.",
     "options": [
-      "bored and sleepy → excited and curious",
-      "calm and relaxed → worried and upset",
-      "proud and confident → shy and lonely",
-      "angry and annoyed → thankful and calm",
-      "scared and tense → amazed and thrilled"
+      "excited and confident → nervous and uncertain",
+      "proud → embarrassed",
+      "bored → curious",
+      "relaxed → angry",
+      "upset and hopeless → relieved and grateful"
     ],
     "answer": 4,
-    "translation": "도현은 비행기가 활주로를 따라 움직이기 시작하자 팔걸이를 꽉 잡았다. 첫 비행이어서 심장이 쿵쾅거렸다. 그는 늘 높은 곳이 무서웠고 눈을 감고 있었다. 엔진이 굉음을 내자 손에 땀이 나기 시작했다. 그때 비행기가 땅에서 떠올랐고 옆자리 소녀가 속삭였다. \"밖을 봐.\" 도현은 천천히 눈을 떴다. 아래로 집들이 작은 상자처럼 보였고 흰 구름이 솜사탕처럼 떠 있었다. 그의 얼굴에 환한 미소가 번졌다. \"아름다워!\" 하고 그가 말했다. 남은 비행 내내 그는 창문에서 눈을 떼지 않았다.",
-    "why": "처음에는 무섭고 긴장했지만(scared and tense) 구름과 풍경을 보고 놀라고 짜릿해했습니다(amazed and thrilled).",
+    "translation": "소율은 지하철 승강장에서 가방에 손을 넣었는데 도시락과 필통만 만져졌다. 스케치북이 없었다. 거의 1년치 그림이 담겨 있었고 다음 주 미술 학교에 보내려던 것들도 있었다. 그녀는 앉아 있던 의자로, 계단으로, 개찰구로 달려가며 좌석마다 밑을 살폈다. 청소원은 고개를 저었다. 집에 가는 길에 그녀는 한마디도 하지 않았고 저녁은 먹지 않고 접시에서 밀기만 했다. 9시에 어머니의 전화가 울렸다. 한 대학생이 기차에서 책을 발견하고 표지 안쪽에 적힌 전화번호를 본 것이었다. \"몇 쪽만 봤는데 두고 가기엔 너무 좋았어요.\" 그 학생이 말했다. 소율은 두 손으로 전화를 잡고 낯선 이에게 세 번 감사했다. 통화가 끝난 뒤에도 오래도록 미소를 멈출 수 없었다.",
+    "why": "스케치북을 잃고 속상하고 절망했다가(upset and hopeless) 되찾게 되어 안도하고 고마워하므로(relieved and grateful) ⑤입니다.",
     "optionNotes": [
-      "지루함에서 신남이 아닙니다.",
-      "차분함에서 걱정이 아니라 반대입니다.",
-      "자랑스러움에서 수줍음이 아닙니다.",
-      "화남에서 감사가 아닙니다.",
-      "정답. 무서움과 긴장에서 놀라움과 짜릿함으로 변했습니다."
+      "신남에서 긴장이 아닙니다.",
+      "자부심에서 당혹이 아닙니다.",
+      "지루함에서 호기심이 아닙니다.",
+      "평온에서 화가 아닙니다.",
+      "정답. 속상함과 절망에서 안도와 감사로 변했습니다."
     ],
-    "trap": "'eyes closed'만 보고 계속 무서워한다고 오해하지 마세요.",
-    "tip": "전환 신호(Then ~, Slowly)를 기준으로 앞뒤 감정을 비교하세요."
+    "trap": "앞부분의 상황만 보고 부정적인 결말을 고르지 마세요.",
+    "tip": "전환점(At nine o'clock ~)과 마지막 반응(smiling)을 보세요."
   },
   {
     "id": "m2b-11-20",
     "level": "m2",
     "set": "mock-11",
+    "rev": 2,
     "no": 20,
     "type": "claim",
     "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
-    "passage": "Our bodies are about sixty percent water, and every organ needs it to work well. When we do not drink enough, we often feel tired, get headaches, and find it hard to concentrate. Studies show that students who drink water during class perform better on memory tests. Many people wait until they feel thirsty, but thirst is a late signal that the body is already short of water. A good habit is to carry a water bottle and take small sips throughout the day. Adults need about two liters a day, and active teenagers may need even more. Therefore, everyone should drink enough water every day.",
+    "passage": "Dinner is often the only time of day when everyone in a family sits in the same place. Yet at many tables a phone lies beside each bowl. A message arrives, one person glances down, and the story that another was telling stops halfway. Nobody means to be rude. Phones are simply built to catch our attention, and they are very good at it. Some people argue that families are different and that strict rules only start arguments. It is true that a rule made by parents alone, and broken by them a minute later, will not last. A rule that applies to adults as much as to children, however, is easier to accept. It need not be long: twenty minutes is enough to ask how someone's day went and to hear the answer to the end. For these reasons, every family member, parents included, should put phones away during at least one meal a day.",
     "options": [
-      "물보다 주스나 탄산음료를 마시는 것이 더 건강에 좋다.",
-      "운동을 할 때만 물을 마시는 것으로 충분하다.",
-      "갈증을 느낄 때까지 물을 마시지 않는 것이 좋다.",
-      "하루에 충분한 물을 마시는 습관을 가져야 한다.",
-      "물을 많이 마시면 오히려 건강에 해로우므로 삼가야 한다."
+      "아이의 휴대전화 사용 시간은 부모가 일방적으로 정하고 아이는 반드시 그것을 따라야 한다.",
+      "가족마다 사정이 다르므로 식탁 규칙은 만들지 않아야 한다.",
+      "저녁 식사 시간은 반드시 한 시간 이상이어야 한다.",
+      "부모를 포함한 가족 모두가 하루 한 끼는 휴대전화를 치우고 먹어야 한다.",
+      "급한 연락에 대비해 식탁에 휴대전화를 두어야 한다."
     ],
     "answer": 3,
-    "translation": "우리 몸은 약 60퍼센트가 물이고 모든 장기가 잘 작동하려면 물이 필요하다. 충분히 마시지 않으면 흔히 피곤하고 두통이 생기고 집중하기 어렵다. 연구에 따르면 수업 중에 물을 마시는 학생이 기억력 검사에서 더 잘한다. 많은 사람이 목마를 때까지 기다리지만 갈증은 몸이 이미 물이 부족하다는 늦은 신호이다. 좋은 습관은 물병을 들고 다니며 하루 종일 조금씩 마시는 것이다. 성인은 하루 약 2리터가 필요하고 활동적인 십대는 더 필요할 수도 있다. 그러므로 누구나 매일 충분한 물을 마셔야 한다.",
-    "why": "마지막 문장에서 누구나 매일 충분한 물을 마셔야 한다고 주장합니다.",
+    "translation": "저녁은 흔히 하루 중 온 가족이 같은 곳에 앉는 유일한 시간이다. 그러나 많은 식탁에서 그릇마다 옆에 휴대전화가 놓여 있다. 메시지가 오고 한 사람이 내려다보면 다른 사람이 하던 이야기는 중간에 멈춘다. 누구도 무례하려던 것은 아니다. 휴대전화는 우리의 주의를 붙잡도록 만들어졌고 그 일을 아주 잘한다. 어떤 이는 가족마다 다르고 엄격한 규칙은 다툼만 낳는다고 주장한다. 부모 혼자 만들고 1분 뒤 스스로 어기는 규칙이 오래가지 않는 것은 사실이다. 그러나 아이만큼 어른에게도 적용되는 규칙은 받아들이기 더 쉽다. 길 필요도 없다. 20분이면 누군가의 하루가 어땠는지 묻고 대답을 끝까지 듣기에 충분하다. 이런 이유로 부모를 포함한 모든 가족은 하루에 최소 한 끼는 휴대전화를 치워야 한다.",
+    "why": "마지막 문장에서 부모를 포함한 모두가 한 끼는 휴대전화를 치워야 한다고 주장합니다.",
     "optionNotes": [
-      "주스나 탄산음료는 나오지 않습니다.",
-      "운동할 때만 마시라는 내용은 글과 반대입니다.",
-      "갈증을 기다리지 말라고 했습니다.",
-      "정답. 충분한 물을 마시는 습관을 가져야 합니다.",
-      "물이 해롭다는 내용은 나오지 않습니다."
+      "부모만 정하는 규칙은 오래가지 않는다고 했습니다.",
+      "규칙을 반대하는 의견을 반박합니다.",
+      "20분이면 충분하다고 했습니다.",
+      "정답. 가족 모두가 휴대전화를 치우자고 합니다.",
+      "치워야 한다고 했습니다."
     ],
-    "trap": "'thirst'가 나온다고 갈증이 있을 때만 마시라는 뜻으로 오해하지 마세요.",
-    "tip": "주장 문제는 'Therefore, ~ should' 같은 결론 문장을 확인하세요."
+    "trap": "①은 대상이 '아이'로 좁혀진 함정입니다.",
+    "tip": "주장은 'For these reasons ~ should' 문장에서 확인하세요."
   },
   {
     "id": "m2b-11-21",
     "level": "m2",
     "set": "mock-11",
+    "rev": 2,
     "no": 21,
     "type": "implied",
     "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
-    "passage": "On the first day at the new school, the classroom was silent. Nobody knew each other, and everyone stared at their desks. The teacher smiled and said, \"Let's {u|break the ice} with a game.\" She asked every student to say their name and one funny fact about themselves. Soon, the room was filled with laughter. A boy who loved dancing said that he once performed in front of a goat. By the end of the game, the students were chatting happily as if they were old friends. The teacher watched them and felt that the new school year had started well.",
+    "passage": "The first day of the summer science camp was painfully quiet. Thirty students from different schools sat at six round tables, looking at their name cards or at the floor. The instructor did not begin with a lecture. Instead, she gave each table a bag containing straws, tape, and a single egg. Their job was to build something that would protect the egg in a fall from the second floor. Within five minutes, voices rose everywhere. A boy who had not looked up all morning was explaining his drawing to two girls, and someone was laughing because the tape had stuck to her hair. Four of the six eggs broke. Nobody seemed to mind very much. At lunch the tables were so noisy that the instructor had to clap her hands to be heard. Later she told a colleague that the egg was never really about physics: it was for {u|breaking the ice}.",
     "options": [
-      "smash a frozen lake with a hammer in the playground",
-      "make people feel comfortable with each other",
-      "stop the game when the students get too noisy",
-      "give students ice cream to cool the hot room",
-      "ask the students to leave the classroom quickly"
+      "cracking an egg in order to cook a lunch",
+      "helping strangers feel less awkward together",
+      "teaching how water changes when it freezes",
+      "ending a friendship after a serious argument",
+      "making a building strong enough to stand"
     ],
     "answer": 1,
-    "translation": "새 학교의 첫날 교실은 조용했다. 아무도 서로 몰랐고 모두 자기 책상만 쳐다보았다. 선생님이 미소 지으며 말했다. \"게임으로 어색함을 깨 보자.\" 선생님은 모든 학생에게 이름과 자신에 관한 재미있는 사실 하나를 말해 보라고 했다. 곧 교실은 웃음으로 가득 찼다. 춤을 좋아하는 한 소년은 염소 앞에서 공연한 적이 있다고 말했다. 게임이 끝날 무렵 학생들은 오랜 친구처럼 즐겁게 이야기하고 있었다. 선생님은 그들을 지켜보며 새 학년이 잘 시작되었다고 느꼈다.",
-    "why": "조용하고 어색한 교실에서 게임으로 서로 편해지게 했으므로 'break the ice'는 어색함을 깨고 편안하게 한다는 뜻입니다.",
+    "translation": "여름 과학 캠프 첫날은 괴로울 만큼 조용했다. 서로 다른 학교에서 온 학생 30명이 여섯 개의 원탁에 앉아 이름표나 바닥을 보았다. 강사는 강의로 시작하지 않았다. 대신 탁자마다 빨대, 테이프, 달걀 한 개가 든 봉지를 주었다. 과제는 2층에서 떨어져도 달걀을 보호할 무언가를 만드는 것이었다. 5분 안에 곳곳에서 목소리가 높아졌다. 아침 내내 고개를 들지 않던 소년이 두 소녀에게 그림을 설명하고, 누군가는 테이프가 머리에 붙어 웃고 있었다. 여섯 달걀 중 네 개가 깨졌다. 아무도 크게 신경 쓰지 않는 듯했다. 점심때 탁자들이 너무 시끄러워 강사는 들리게 하려고 손뼉을 쳐야 했다. 나중에 그녀는 동료에게 달걀은 사실 물리를 위한 것이 아니라 얼음을 깨기 위한 것이었다고 말했다.",
+    "why": "조용하던 학생들이 활동을 통해 어울리게 되었으므로 '낯선 사람끼리 덜 어색하게 해 주는 것'을 뜻합니다.",
     "optionNotes": [
-      "문자 그대로 얼음을 깨는 것이 아닙니다.",
-      "정답. 서로 편안해지게 한다는 뜻입니다.",
-      "게임을 멈추는 것이 아닙니다.",
-      "아이스크림을 주는 것이 아닙니다.",
-      "교실을 떠나게 하는 것이 아닙니다."
+      "달걀 요리가 아닙니다.",
+      "정답. 낯선 사람들의 어색함을 풉니다.",
+      "물의 어는 현상이 아닙니다.",
+      "우정을 끝내는 것과 반대입니다.",
+      "건축 구조가 아닙니다."
     ],
-    "trap": "'ice'를 문자 그대로 해석하지 마세요.",
-    "tip": "관용 표현은 앞뒤 문맥(silent, laughter, chatting happily)에서 의미를 추론하세요."
+    "trap": "'egg', 'ice'를 글자 그대로 해석하지 마세요.",
+    "tip": "조용함 → 시끄러움의 변화를 확인하세요."
   },
   {
     "id": "m2b-11-22",
     "level": "m2",
     "set": "mock-11",
+    "rev": 2,
     "no": 22,
     "type": "gist",
     "stem": "다음 글의 요지로 가장 적절한 것은?",
-    "passage": "Many students believe that studying for hours without stopping is the best way to learn. However, research shows that the brain can concentrate fully for only about twenty-five to fifty minutes. After that, attention drops sharply, and mistakes increase. Short breaks of five to ten minutes allow the brain to rest and process what it has learned. During the break, it helps to stand up, stretch, or drink water instead of checking a phone. Students who take regular breaks usually remember more and feel less tired. So, studying smart means working in focused blocks with rest in between.",
+    "passage": "Many language learners stay silent until they are sure that a sentence is perfect. They check the grammar in their heads, search for a better word, and by the time they are ready, the conversation has moved on. This caution feels sensible, since nobody likes to be laughed at. Yet speaking is a skill like swimming or riding a bicycle, and it cannot be learned only by preparing for it. When a learner says something imperfect, useful things happen. The listener's puzzled face shows which part was unclear. A friend may repeat the idea in a more natural way, and that version tends to stick because the learner needed it at that moment. The learner also discovers which words are missing. None of this means that accuracy does not matter; careful study still has its place. But waiting for perfection removes the very experiences that make improvement possible. A sentence with mistakes teaches more than a sentence that is never spoken.",
     "options": [
-      "공부는 쉬지 않고 오래 할수록 집중력이 높아진다.",
-      "휴식 시간에는 휴대전화로 영상을 보는 것이 가장 효과적이다.",
-      "집중 시간은 사람마다 같으며 바꿀 수 없다.",
-      "시험 기간에는 공부 시간을 두 배로 늘려야 한다.",
-      "적절한 휴식을 취하며 공부하면 학습 효과가 더 높아진다."
+      "외국어는 문법과 어휘를 완벽하게 익힌 다음에야 비로소 말하기를 시작해야 한다.",
+      "말하기 실수를 줄이려면 듣기 연습을 먼저 해야 한다.",
+      "친구의 비웃음은 외국어 학습 의욕을 크게 떨어뜨린다.",
+      "정확성은 의사소통에서 전혀 중요하지 않다.",
+      "완벽해지기를 기다리지 말고 실수하더라도 말해야 실력이 는다."
     ],
     "answer": 4,
-    "translation": "많은 학생이 쉬지 않고 몇 시간씩 공부하는 것이 가장 좋은 학습 방법이라고 믿는다. 그러나 연구에 따르면 뇌는 약 이십오 분에서 오십 분 동안만 완전히 집중할 수 있다. 그 뒤에는 주의력이 급격히 떨어지고 실수가 늘어난다. 오 분에서 십 분의 짧은 휴식은 뇌가 쉬고 배운 것을 처리하게 해 준다. 휴식 중에는 휴대전화를 보는 대신 일어나 스트레칭을 하거나 물을 마시는 것이 도움이 된다. 정기적으로 쉬는 학생은 보통 더 많이 기억하고 덜 피곤하다. 그러니 똑똑하게 공부한다는 것은 집중하는 구간 사이에 휴식을 두고 공부하는 것이다.",
-    "why": "집중 구간 사이에 휴식을 두면 학습 효과가 높아진다는 내용입니다.",
+    "translation": "많은 언어 학습자는 문장이 완벽하다고 확신할 때까지 침묵한다. 머릿속으로 문법을 확인하고 더 좋은 낱말을 찾다가 준비될 즈음에는 대화가 넘어가 버린다. 비웃음받기 좋아하는 사람은 없으므로 이런 조심은 합리적으로 느껴진다. 그러나 말하기는 수영이나 자전거 타기 같은 기술이어서 준비만으로는 배울 수 없다. 학습자가 불완전하게 말하면 쓸모 있는 일이 일어난다. 듣는 사람의 어리둥절한 얼굴이 어디가 불분명했는지 보여 준다. 친구가 더 자연스럽게 되풀이해 줄 수 있고, 그 순간 필요했기에 그 표현은 잘 남는다. 학습자는 어떤 낱말이 빠져 있는지도 알게 된다. 정확성이 중요하지 않다는 뜻은 아니다. 꼼꼼한 공부도 제자리가 있다. 그러나 완벽을 기다리면 향상을 가능하게 하는 바로 그 경험이 사라진다. 실수 있는 문장은 결코 말해지지 않는 문장보다 많이 가르친다.",
+    "why": "실수하더라도 말해야 실력이 는다는 것이 요지입니다.",
     "optionNotes": [
-      "오래 쉬지 않고 하라는 것은 글과 반대입니다.",
-      "휴식 중 휴대전화는 권하지 않습니다.",
-      "집중 시간은 약 25~50분이라고 했으나 바꿀 수 없다는 말은 없습니다.",
-      "공부 시간 확대는 나오지 않습니다.",
-      "정답. 적절한 휴식이 학습 효과를 높입니다."
+      "완벽을 기다리지 말라는 글입니다.",
+      "듣기 우선은 나오지 않습니다.",
+      "비웃음은 침묵의 이유로 언급될 뿐입니다.",
+      "정확성도 중요하다고 했습니다.",
+      "정답. 실수하더라도 말해야 합니다."
     ],
-    "trap": "첫 문장의 통념을 필자의 주장으로 착각하지 마세요.",
-    "tip": "요지는 'However' 이후의 반론과 결론 문장(So ~)을 확인하세요."
+    "trap": "④는 'None of this means ~'를 거꾸로 읽은 과장입니다.",
+    "tip": "요지는 'Yet' 이후와 마지막 문장에서 확인하세요."
   },
   {
     "id": "m2b-11-23",
     "level": "m2",
     "set": "mock-11",
+    "rev": 2,
     "no": 23,
     "type": "topic",
     "stem": "다음 글의 주제로 가장 적절한 것은?",
-    "passage": "In many dry regions, people collect rainwater from rooftops and store it in large tanks. This simple method has been used for thousands of years. Rainwater can be used for watering gardens, washing cars, and flushing toilets, which reduces the use of clean tap water. Some cities now require new buildings to have rainwater tanks. In Seoul, a stadium collects rainwater to cool its field in summer. Collecting rain also helps prevent floods, because less water runs into the streets during heavy storms. In this way, a small tank on a roof can give benefits to both people and cities.",
+    "passage": "Sunlight looks white, but it is really a mixture of many colors, each with its own wavelength. As this light enters the air, it meets countless molecules of gas that are far smaller than the waves themselves. Short waves, such as blue and violet, are knocked in new directions much more strongly than long red ones. The scattered blue light reaches our eyes from every part of the sky, so the whole sky seems blue. We see blue rather than violet partly because sunlight contains less violet and our eyes are less sensitive to it. At sunrise and sunset the picture changes. The sun is low, and its light must travel a much longer path through the air. Along the way most of the blue is scattered out of the direct beam, and what reaches us is rich in orange and red. Dust and smoke in the air can change these evening colors even further.",
     "options": [
-      "빗물을 모아 쓰는 방법과 그 이점",
-      "수돗물을 깨끗하게 만드는 정수 처리 과정",
-      "홍수가 일어나는 지질학적 원인",
-      "경기장 잔디를 관리하는 기술",
-      "건물을 튼튼하게 짓는 설계 방법"
+      "하늘이 낮에는 파랗고 해 질 녘에는 붉게 보이는 이유",
+      "강한 햇빛을 오래 쬐는 것이 사람의 눈 건강에 미치는 나쁜 영향",
+      "공기 오염을 줄이는 여러 가지 방법",
+      "무지개가 만들어지는 데 필요한 날씨 조건",
+      "태양의 온도를 측정하는 과학적 방법"
     ],
     "answer": 0,
-    "translation": "건조한 많은 지역에서 사람들은 지붕에서 빗물을 모아 큰 탱크에 저장한다. 이 단순한 방법은 수천 년 동안 쓰여 왔다. 빗물은 정원에 물 주기, 세차, 변기 물 내리기에 쓸 수 있어 깨끗한 수돗물 사용을 줄여 준다. 일부 도시는 이제 새 건물에 빗물 탱크를 갖추도록 요구한다. 서울의 한 경기장은 여름에 경기장을 식히려고 빗물을 모은다. 빗물을 모으면 폭우 때 거리로 흘러가는 물이 줄어 홍수 예방에도 도움이 된다. 이렇게 지붕 위의 작은 탱크가 사람과 도시 모두에게 이점을 줄 수 있다.",
-    "why": "빗물을 모아 쓰는 방법과 그 이점을 설명하는 글입니다.",
+    "translation": "햇빛은 희게 보이지만 실은 저마다 파장이 다른 여러 색의 혼합이다. 이 빛이 공기에 들어오면 파동 자체보다 훨씬 작은 무수한 기체 분자를 만난다. 파랑과 보라 같은 짧은 파동은 긴 빨강보다 훨씬 강하게 새 방향으로 튕긴다. 흩어진 파란빛이 하늘 곳곳에서 눈에 닿아 하늘 전체가 파랗게 보인다. 보라가 아니라 파랑으로 보이는 것은 햇빛에 보라가 더 적고 우리 눈이 그것에 덜 민감하기 때문이기도 하다. 해돋이와 해넘이에는 그림이 바뀐다. 해가 낮아 빛이 훨씬 긴 공기 경로를 지나야 한다. 도중에 파랑 대부분이 직진하는 빛에서 흩어져 나가고 우리에게 닿는 것은 주황과 빨강이 풍부하다. 공기 중의 먼지와 연기는 저녁 색을 더 바꿀 수 있다.",
+    "why": "빛의 산란으로 낮 하늘이 파랗고 저녁 하늘이 붉은 이유를 설명하므로 ①이 주제입니다.",
     "optionNotes": [
-      "정답. 빗물을 모아 쓰는 방법과 이점입니다.",
-      "수돗물 정수는 나오지 않습니다.",
-      "홍수의 지질학적 원인은 나오지 않습니다.",
-      "경기장 잔디 관리는 예시일 뿐입니다.",
-      "건물 설계는 나오지 않습니다."
+      "정답. 하늘 색의 이유입니다.",
+      "눈 건강은 나오지 않습니다.",
+      "오염 대책은 나오지 않습니다.",
+      "무지개는 나오지 않습니다.",
+      "태양 온도는 나오지 않습니다."
     ],
-    "trap": "'stadium' 예시를 보고 경기장 관리(④)로 좁히지 마세요.",
-    "tip": "주제는 반복되는 핵심어(rainwater)와 마지막 문장으로 파악하세요."
+    "trap": "'eyes'가 나온다고 눈 건강(②)을 고르지 마세요.",
+    "tip": "낮과 저녁의 대비를 모두 담은 보기를 고르세요."
   },
   {
     "id": "m2b-11-24",
     "level": "m2",
     "set": "mock-11",
+    "rev": 2,
     "no": 24,
     "type": "title",
     "stem": "다음 글의 제목으로 가장 적절한 것은?",
-    "passage": "Have you ever cried while cutting an onion? When you cut it, the onion's cells break and release a gas. This gas reaches your eyes and mixes with the water on them, forming a mild acid. Your eyes feel a sting, and your tear glands produce tears to wash it away. To reduce the problem, you can chill the onion in the refrigerator before cutting it, because the cold slows down the gas. Using a very sharp knife also helps, since it breaks fewer cells. Some people even wear goggles in the kitchen. With these simple tricks, you can cook without shedding a single tear.",
+    "passage": "The trousers that many students wear on weekends began life as clothing for hard labor. In the second half of the nineteenth century, miners and other workers in the American West needed pants that would not fall apart. A tailor named Jacob Davis found that small metal rivets at the corners of the pockets stopped them from tearing. He did not have the money to protect the idea alone, so he joined with Levi Strauss, a merchant who had supplied him with cloth, and the two received a patent in 1873. For decades the pants remained working clothes. Then films showed young heroes wearing them, and teenagers adopted them as a sign of independence, to the point that some schools banned them. Today they are worn by office workers and grandparents as well as by students. A garment designed to survive the mine has survived changes in fashion that no miner could have imagined.",
     "options": [
-      "How to Cook Onions in Ten Different Ways for Dinner Tonight",
-      "Why Onions Are Cheaper Than Other Vegetables in Winter",
-      "Why Do Onions Make Us Cry, and How Can We Stop It?",
-      "The History of Onion Farming in Ancient Egypt",
-      "Healthy Eating Habits for Growing Teenagers"
+      "The Dangerous Life of Miners in the American West",
+      "Why Every School Should Have a Strict Dress Code for Students",
+      "From the Mine to the Street: The Long Life of Jeans",
+      "How to Repair Torn Pockets at Home",
+      "The Most Expensive Clothes in the World"
     ],
     "answer": 2,
-    "translation": "양파를 썰다가 운 적이 있는가? 양파를 자르면 양파의 세포가 터져 기체가 나온다. 이 기체가 눈에 닿아 눈 위의 물과 섞여 약한 산이 된다. 눈이 따끔하고 눈물샘은 그것을 씻어 내려고 눈물을 만든다. 문제를 줄이려면 자르기 전에 양파를 냉장고에 넣어 식힐 수 있는데 추위가 기체를 늦추기 때문이다. 아주 날카로운 칼을 쓰는 것도 도움이 되는데 세포가 덜 터지기 때문이다. 어떤 사람들은 주방에서 보안경을 쓰기도 한다. 이런 간단한 요령으로 눈물 한 방울 흘리지 않고 요리할 수 있다.",
-    "why": "양파를 썰 때 눈물이 나는 이유와 막는 방법을 설명하므로 ③이 제목으로 알맞습니다.",
+    "translation": "많은 학생이 주말에 입는 바지는 힘든 노동용 옷으로 삶을 시작했다. 19세기 후반 미국 서부의 광부와 다른 노동자들은 해지지 않는 바지가 필요했다. 제이컵 데이비스라는 재단사는 주머니 모서리의 작은 금속 리벳이 찢어짐을 막는다는 것을 알아냈다. 혼자 그 생각을 보호할 돈이 없어 자신에게 천을 공급하던 상인 리바이 스트라우스와 손잡았고 두 사람은 1873년 특허를 받았다. 수십 년간 그 바지는 작업복으로 남았다. 그러다 영화가 젊은 주인공이 입은 모습을 보여 주자 10대가 독립의 표시로 받아들였고 일부 학교가 금지할 정도였다. 오늘날 학생뿐 아니라 회사원과 조부모도 입는다. 광산에서 버티도록 만든 옷이 어떤 광부도 상상 못 할 유행의 변화에서 살아남았다.",
+    "why": "작업복에서 일상복이 된 청바지의 역사를 다루므로 ③이 제목입니다.",
     "optionNotes": [
-      "양파 요리법은 나오지 않습니다.",
-      "채소 가격은 나오지 않습니다.",
-      "정답. 눈물이 나는 이유와 막는 방법입니다.",
-      "양파 재배의 역사는 나오지 않습니다.",
-      "청소년의 식습관은 나오지 않습니다."
+      "광부의 위험한 삶은 중심이 아닙니다.",
+      "복장 규정 주장이 아닙니다.",
+      "정답. 광산에서 거리까지 청바지의 긴 생명입니다.",
+      "수선법은 나오지 않습니다.",
+      "비싼 옷 이야기가 아닙니다."
     ],
-    "trap": "'cook'이 나온다고 요리법(①)으로 착각하지 마세요.",
-    "tip": "제목은 글 전체의 질문과 해결(왜 울고 어떻게 막나)을 담으세요."
+    "trap": "④는 'tearing', 'pockets' 같은 세부를 이용한 함정입니다.",
+    "tip": "처음(hard labor)과 끝(fashion)을 잇는 제목을 고르세요."
   },
   {
     "id": "m2b-11-25",
     "level": "m2",
     "set": "mock-11",
+    "rev": 2,
     "no": 25,
     "type": "chart",
     "stem": "다음 도표의 내용과 일치하지 않는 것은?",
     "chart": {
-      "title": "Number of Club Members at Hanbit Middle School",
-      "unit": "",
+      "title": "Favorite After-School Activities (%)",
+      "unit": "%",
       "labels": [
-        "Soccer",
-        "Dance",
-        "Coding",
-        "Drama",
-        "Chess"
+        "Sports",
+        "Games",
+        "Music",
+        "Reading",
+        "Art"
       ],
       "series": [
         {
-          "name": "Members",
+          "name": "Boys",
           "values": [
-            24,
+            38,
+            34,
+            12,
+            10,
+            6
+          ]
+        },
+        {
+          "name": "Girls",
+          "values": [
             20,
             18,
-            12,
-            6
+            28,
+            19,
+            15
           ]
         }
       ]
     },
-    "passage": "The graph shows the number of members in five clubs at Hanbit Middle School. ① Soccer has the most members. ② Dance has 2 more members than Coding. ③ Coding has more members than Dance. ④ Drama has half as many members as Soccer. ⑤ Chess has the fewest members.",
+    "passage": "The graph shows the favorite after-school activities of boys and girls at one middle school. ① Sports were the most popular choice among boys. ② Among girls, music received the highest percentage. ③ The gap between boys and girls was larger for games than for sports. ④ The percentage of girls who chose reading was nearly twice that of boys. ⑤ Art was the least popular activity for both groups.",
     "options": [
       "①",
       "②",
@@ -234,100 +252,103 @@
       "⑤"
     ],
     "answer": 2,
-    "translation": "그래프는 한빛 중학교 다섯 동아리의 회원 수를 보여 준다. ① 축구부의 회원이 가장 많다. ② 댄스부는 코딩부보다 회원이 2명 더 많다. ③ 코딩부는 댄스부보다 회원이 더 많다. ④ 연극부는 축구부의 절반만큼 회원이 있다. ⑤ 체스부의 회원이 가장 적다.",
-    "why": "코딩부는 18명, 댄스부는 20명이므로 코딩부가 더 많다는 ③은 일치하지 않습니다.",
+    "translation": "그래프는 한 중학교 남학생과 여학생이 가장 좋아하는 방과 후 활동을 보여 준다. ① 남학생에게 가장 인기 있는 선택은 운동이었다. ② 여학생 중에서는 음악의 비율이 가장 높았다. ③ 남녀 차이는 운동보다 게임에서 더 컸다. ④ 독서를 고른 여학생 비율은 남학생의 거의 두 배였다. ⑤ 미술은 두 집단 모두에게 가장 인기 없는 활동이었다.",
+    "why": "운동의 차이는 18%p, 게임의 차이는 16%p이므로 ③은 일치하지 않습니다.",
     "optionNotes": [
-      "축구 24명으로 가장 많습니다.",
-      "20 - 18 = 2명입니다.",
-      "정답(불일치). 코딩(18)은 댄스(20)보다 적습니다.",
-      "12는 24의 절반입니다.",
-      "체스 6명으로 가장 적습니다."
+      "38%로 남학생 1위입니다.",
+      "28%로 여학생 1위입니다.",
+      "정답(불일치). 운동 18%p가 게임 16%p보다 큽니다.",
+      "19%는 10%의 거의 두 배입니다.",
+      "6%, 15%로 두 집단 모두 최저입니다."
     ],
-    "trap": "인접한 두 동아리의 순서를 반대로 읽기 쉽습니다.",
-    "tip": "그래프 문제는 비교 표현(more ~ than)의 방향을 수치로 확인하세요."
+    "trap": "남학생 값이 둘 다 높다고 차이를 눈대중하지 말고 빼서 비교하세요.",
+    "tip": "차이(gap)는 항목마다 두 값을 빼서 확인하세요."
   },
   {
     "id": "m2b-11-26",
     "level": "m2",
     "set": "mock-11",
+    "rev": 2,
     "no": 26,
     "type": "match",
-    "stem": "Ada Lovelace에 관한 다음 글의 내용과 일치하는 것은?",
-    "passage": "Ada Lovelace was born in London in 1815. Her father was the famous poet Lord Byron, but she hardly knew him. Her mother wanted her to study mathematics and science instead of poetry. At seventeen, Ada met an inventor named Charles Babbage, who was designing a machine called the Analytical Engine. Later, she translated an article about his machine from French into English. She added her own notes to it, and these notes were three times longer than the article itself. In them, she described a step-by-step plan for the machine to calculate numbers, which is now considered the first computer program. She died at the age of thirty-six, but her ideas were recognized more than a century later.",
+    "stem": "Hans Christian Andersen에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Hans Christian Andersen was born in 1805 in the Danish town of Odense. His father, a poor shoemaker who loved stories, died when the boy was eleven. At fourteen Andersen traveled alone to Copenhagen, hoping to become a singer or an actor. His voice changed and the theater turned him away, but a director there noticed him and helped to pay for his schooling. He was much older than his classmates and was often unhappy at school. Andersen wrote novels, plays, and travel books, yet he is remembered above all for his fairy tales, the first of which appeared in 1835. Unlike many earlier collectors, he invented many of the stories himself and wrote them in the lively language of everyday speech. He traveled widely throughout his life, although he never married or had a home of his own for long. He died in Copenhagen in 1875. A statue of the Little Mermaid, one of his characters, now sits by the harbor there.",
     "options": [
-      "아버지는 수학자였고 어머니는 시인이었다.",
-      "번역에 덧붙인 그녀의 주석에 최초의 컴퓨터 프로그램이 담겨 있었다.",
-      "배비지를 만난 것은 서른 살이 넘어서였다.",
-      "배비지의 기계에 관한 글을 번역했지만 자신의 주석은 전혀 덧붙이지 않았다.",
-      "그녀는 오래 살았으며 팔십 대까지 연구를 계속했다."
+      "어린 시절 부유한 상인의 집에서 자랐다.",
+      "극장의 한 관리자의 도움으로 학교 교육을 받았다.",
+      "학교에서 같은 반 친구들보다 나이가 어렸다.",
+      "동화를 제외하고는 소설이나 여행기 같은 다른 글을 전혀 쓰지 않았다.",
+      "평생 고향 마을을 거의 벗어나지 않았다."
     ],
     "answer": 1,
-    "translation": "에이다 러브레이스는 1815년 런던에서 태어났다. 아버지는 유명한 시인 바이런 경이었지만 그녀는 그를 거의 알지 못했다. 어머니는 그녀가 시 대신 수학과 과학을 공부하기를 원했다. 열일곱 살에 에이다는 해석기관이라는 기계를 설계하던 발명가 찰스 배비지를 만났다. 나중에 그녀는 그의 기계에 관한 글을 프랑스어에서 영어로 번역했다. 그녀는 거기에 자신의 주석을 덧붙였는데 이 주석은 글 자체보다 세 배 길었다. 주석에서 그녀는 기계가 숫자를 계산하는 단계별 계획을 설명했는데 이는 지금 최초의 컴퓨터 프로그램으로 여겨진다. 그녀는 서른여섯 살에 죽었지만 그녀의 생각은 한 세기 넘게 지나서 인정받았다.",
-    "why": "덧붙인 주석에 기계가 계산하는 단계별 계획이 담겼고 이는 최초의 컴퓨터 프로그램으로 여겨진다고 하므로 ②가 일치합니다.",
+    "translation": "한스 크리스티안 안데르센은 1805년 덴마크 오덴세에서 태어났다. 이야기를 좋아하던 가난한 구두장이 아버지는 그가 열한 살 때 세상을 떠났다. 열네 살에 안데르센은 가수나 배우가 되려고 혼자 코펜하겐으로 갔다. 목소리가 변해 극장은 그를 돌려보냈지만 그곳의 한 관리자가 그를 눈여겨보고 학비를 돕는 데 힘썼다. 그는 급우들보다 훨씬 나이가 많았고 학교에서 자주 불행했다. 소설, 희곡, 여행기도 썼지만 무엇보다 동화로 기억되며 첫 동화는 1835년에 나왔다. 이전의 많은 수집가와 달리 이야기의 많은 것을 직접 지었고 생생한 일상 말투로 썼다. 평생 널리 여행했지만 결혼하지 않았고 오래 자기 집을 갖지도 않았다. 1875년 코펜하겐에서 세상을 떠났다. 지금 그곳 항구에는 그의 등장인물인 인어 공주의 동상이 앉아 있다.",
+    "why": "극장의 관리자가 학비를 돕는 데 힘썼으므로 ②가 일치합니다.",
     "optionNotes": [
-      "아버지는 시인이었고 어머니가 수학을 공부시키려 했습니다.",
-      "정답. 주석에 최초의 프로그램이 담겼습니다.",
-      "열일곱 살에 배비지를 만났습니다.",
-      "자신의 주석을 덧붙였습니다.",
-      "서른여섯 살에 죽었습니다."
+      "가난한 구두장이의 아들이었습니다.",
+      "정답. 관리자의 도움으로 학교에 다녔습니다.",
+      "급우보다 훨씬 나이가 많았습니다.",
+      "소설, 희곡, 여행기도 썼습니다.",
+      "널리 여행했습니다."
     ],
-    "trap": "아버지의 직업(시인)과 어머니의 바람(수학)을 서로 바꿔 읽지 마세요.",
-    "tip": "일치 문제는 나이·가족·업적을 보기와 하나씩 대조하세요."
+    "trap": "③은 older를 younger로 바꾼 함정입니다.",
+    "tip": "일치 문제는 비교 표현과 부정 표현을 대조하세요."
   },
   {
     "id": "m2b-11-27",
     "level": "m2",
     "set": "mock-11",
+    "rev": 2,
     "no": 27,
     "type": "notice",
-    "stem": "Winter Coding Camp에 관한 다음 안내문의 내용과 일치하는 것은?",
-    "passage": "Winter Coding Camp for Beginners\nDate: December 22 - 24, 9 a.m. - 12 p.m.\nPlace: Computer Room 1\nWho can join: Students in Grades 7 and 8\nFee: $10 (snacks and a certificate are included)\nRegistration: Online by December 10. Only 20 students can join.\nNote: Laptops will be provided, so you do not need to bring your own.",
+    "stem": "Winter Reading Challenge 안내문의 내용과 일치하는 것은?",
+    "passage": "Winter Reading Challenge\nWhen: December 20 - February 10\nWho: Anyone aged 8 to 16 with a town library card\nHow it works: Pick up a reading passport at the front desk. Each time you finish a book, write one sentence about it and get a stamp.\nRewards: 5 stamps - a bookmark; 10 stamps - a free ticket to the library film day; 15 stamps - your name on the reading wall\nBooks: Any book from home or the library counts. Comic books count too, but only up to three.\nClosing event: February 15 at 2 p.m. Rewards are handed out there.\nNote: A lost passport can be replaced, but old stamps cannot be given again.",
     "options": [
-      "참가비에는 간식과 수료증이 포함된다.",
-      "9학년 학생만 참가할 수 있다.",
-      "노트북을 각자 집에서 가져와야 한다.",
-      "신청은 12월 20일까지이다.",
-      "참가 인원에는 제한이 없다."
+      "도장 10개를 모으면 도서관 영화의 날 무료 입장권을 받는다.",
+      "도서관에서 빌려 읽은 책에 대해서만 도장을 받을 수 있고 다른 책은 안 된다.",
+      "만화책은 도장 대상에서 전부 제외된다.",
+      "보상은 도장을 모은 즉시 안내 데스크에서 받는다.",
+      "여권을 잃어버리면 이전 도장도 다시 찍어 준다."
     ],
     "answer": 0,
-    "translation": "초보자를 위한 겨울 코딩 캠프. 일시: 12월 22일~24일 오전 9시~낮 12시. 장소: 컴퓨터실 1. 참가 대상: 7, 8학년 학생. 참가비: 10달러(간식과 수료증 포함). 신청: 12월 10일까지 온라인으로. 20명만 참가할 수 있습니다. 유의: 노트북이 제공되므로 가져올 필요가 없습니다.",
-    "why": "'snacks and a certificate are included'와 일치합니다.",
+    "translation": "겨울 독서 도전. 기간: 12월 20일~2월 10일. 대상: 마을 도서관 카드가 있는 8~16세. 방법: 안내 데스크에서 독서 여권을 받으세요. 책을 다 읽을 때마다 한 문장을 쓰고 도장을 받습니다. 보상: 5개 책갈피, 10개 도서관 영화의 날 무료 입장권, 15개 독서 벽에 이름. 책: 집이나 도서관의 어떤 책도 인정. 만화책도 인정하지만 최대 3권. 마무리 행사: 2월 15일 오후 2시, 보상은 그곳에서 전달. 안내: 잃어버린 여권은 재발급되지만 이전 도장은 다시 줄 수 없음.",
+    "why": "'10 stamps - a free ticket to the library film day'와 일치합니다.",
     "optionNotes": [
-      "정답. 간식과 수료증이 포함됩니다.",
-      "7, 8학년이 참가할 수 있습니다.",
-      "노트북은 제공됩니다.",
-      "신청은 12월 10일까지입니다.",
-      "20명으로 제한됩니다."
+      "정답. 10개면 영화의 날 입장권입니다.",
+      "집의 책도 인정합니다.",
+      "만화책은 3권까지 인정합니다.",
+      "마무리 행사에서 전달합니다.",
+      "이전 도장은 다시 줄 수 없습니다."
     ],
-    "trap": "신청 마감(12월 10일)과 캠프 날짜(12월 22일~24일)를 혼동하지 마세요.",
-    "tip": "안내문의 Fee, Registration, Note 항목을 하나씩 대조하세요."
+    "trap": "③은 'only up to three'를 '전부 제외'로 바꾼 함정입니다.",
+    "tip": "안내문의 Rewards, Books, Closing event, Note 항목을 대조하세요."
   },
   {
     "id": "m2b-11-28",
     "level": "m2",
     "set": "mock-11",
+    "rev": 2,
     "no": 28,
     "type": "notice",
-    "stem": "Computer Room 이용 안내문의 내용과 일치하는 것은?",
-    "passage": "Hanbit Middle School - Computer Room Rules\nOpen: Monday to Friday, 12:30 p.m. - 1:00 p.m. (lunch time) and 3:30 p.m. - 5:00 p.m.\nEach student may use a computer for up to one hour a day.\nNo food or drinks are allowed in the room.\nPrinting: 10 pages are free each week. After that, each page costs 10 cents.\nGames are not allowed.",
+    "stem": "Saturday Farm Visit 안내문의 내용과 일치하는 것은?",
+    "passage": "Saturday Farm Visit\nSee where your food comes from!\nDate: Saturday, September 20 (rain date: September 27)\nSchedule: Leave the city hall parking lot by bus at 9 a.m.; return at about 3 p.m.\nActivities: Digging sweet potatoes, feeding goats, and making rice cakes\nWho: Families with children aged 7 or older\nFee: 15,000 won per person, including lunch and 1 kg of sweet potatoes to take home\nWhat to wear: Long pants and shoes that can get muddy. Gloves are provided.\nSign-up: Online by September 10; the first 40 people only\nNote: Pets are not allowed on the bus or at the farm.",
     "options": [
-      "컴퓨터실은 주말에도 이용할 수 있다.",
-      "점심시간에도 컴퓨터실을 이용할 수 있다.",
-      "한 학생은 하루에 세 시간까지 이용할 수 있다.",
-      "음료는 가지고 들어갈 수 있으나 음식은 안 된다.",
-      "게임은 방과 후에만 할 수 있다."
+      "비가 오면 행사는 완전히 취소되고 환불된다.",
+      "참가비에는 점심과 가져갈 고구마가 포함되어 있다.",
+      "참가자는 장갑을 직접 준비해 와야 한다.",
+      "참가 신청은 당일 현장에서 선착순으로 받는다.",
+      "반려동물은 버스에는 탈 수 없지만 농장에는 데려갈 수 있다."
     ],
     "answer": 1,
-    "translation": "한빛 중학교 – 컴퓨터실 이용 수칙. 운영: 월~금 낮 12시 30분~1시(점심시간)와 오후 3시 30분~5시. 학생 한 명은 하루에 최대 한 시간 컴퓨터를 사용할 수 있습니다. 실내에서는 음식과 음료가 모두 허용되지 않습니다. 인쇄: 매주 10쪽은 무료입니다. 그 이후에는 한 쪽에 10센트입니다. 게임은 허용되지 않습니다.",
-    "why": "'12:30 p.m. - 1:00 p.m. (lunch time)'과 일치합니다.",
+    "translation": "토요일 농장 방문. 음식이 어디서 오는지 보세요! 날짜: 9월 20일 토요일(우천 시 9월 27일). 일정: 오전 9시 시청 주차장에서 버스 출발, 오후 3시경 귀환. 활동: 고구마 캐기, 염소 먹이 주기, 떡 만들기. 대상: 7세 이상 자녀가 있는 가족. 비용: 1인 15,000원(점심과 가져갈 고구마 1kg 포함). 복장: 긴 바지와 흙이 묻어도 되는 신발. 장갑 제공. 신청: 9월 10일까지 온라인, 선착순 40명. 안내: 반려동물은 버스와 농장 모두 불가.",
+    "why": "'including lunch and 1 kg of sweet potatoes'와 일치합니다.",
     "optionNotes": [
-      "월~금만 운영합니다.",
-      "정답. 점심시간에도 이용할 수 있습니다.",
-      "하루 최대 한 시간입니다.",
-      "음식과 음료 모두 허용되지 않습니다.",
-      "게임은 허용되지 않습니다."
+      "우천 시 9월 27일로 연기합니다.",
+      "정답. 점심과 고구마가 포함됩니다.",
+      "장갑은 제공됩니다.",
+      "온라인으로 9월 10일까지 신청합니다.",
+      "농장에도 데려갈 수 없습니다."
     ],
-    "trap": "'Open' 시간표에서 점심시간이 포함되어 있다는 점을 놓치지 마세요.",
-    "tip": "운영 시간 항목은 요일과 시간대를 구분해 읽으세요."
+    "trap": "①은 'rain date'를 취소로 오해하게 하는 함정입니다.",
+    "tip": "안내문의 Date, Fee, What to wear, Sign-up 항목을 대조하세요."
   }
 ]

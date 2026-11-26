@@ -3,10 +3,11 @@
     "id": "m2b-11-29",
     "level": "m2",
     "set": "mock-11",
+    "rev": 2,
     "no": 29,
     "type": "grammar",
     "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
-    "passage": "Lighthouses were built to guide ships safely along dangerous coasts. At night, a powerful lamp at the top {1|sends} out a beam of light that can be seen from far away. Long ago, keepers had to climb the tower every few hours to {2|keep} the fire burning. They also had to clean the glass lenses, {3|that made} the light shine brightly. Life in a lighthouse was lonely, because the keepers lived far from towns. Today, most lighthouses are controlled by computers, so keepers are no longer needed. Still, many people visit them because they are beautiful and {4|full of} history. Some lighthouses have even been turned into small hotels, where guests can enjoy the sound of the sea {5|while} they sleep.",
+    "passage": "A pencil is such a cheap and ordinary tool that few people wonder how it came to be. In the sixteenth century, a large deposit of an unusually pure black mineral was found in northern England. Local people noticed that it left a clear mark, {1|which} made it useful for labeling sheep. Because the material was soft and dirty, users began {2|wrapping} it in string or holding it in wooden cases. People at that time thought it was a kind of lead, and the center of a pencil {3|is still calling} lead today, although it contains none. The pure mineral was rare, so makers elsewhere had to find another way. In the 1790s, a French inventor mixed powdered graphite with clay and baked the mixture. This method allowed pencils {4|to be made} harder or softer by changing the amount of clay. The wooden pencil that students sharpen today is not very {5|different} from those early ones, apart from the machines that now produce them by the billion.",
     "options": [
       "①",
       "②",
@@ -15,26 +16,27 @@
       "⑤"
     ],
     "answer": 2,
-    "translation": "등대는 위험한 해안을 따라 배를 안전하게 안내하려고 세워졌다. 밤에는 꼭대기의 강력한 등이 멀리서도 보이는 빛줄기를 내보낸다. 옛날에는 관리인이 불이 계속 타오르게 하려고 몇 시간마다 탑에 올라야 했다. 그들은 또한 유리 렌즈를 닦아야 했고 그래서 빛이 밝게 빛났다. 등대 생활은 관리인들이 마을에서 멀리 살았기 때문에 외로웠다. 오늘날 대부분의 등대는 컴퓨터로 제어되어 관리인이 더는 필요 없다. 그래도 많은 사람이 아름답고 역사로 가득해서 등대를 찾는다. 일부 등대는 심지어 작은 호텔로 바뀌어 손님이 잠자는 동안 바다 소리를 즐길 수 있다.",
-    "why": "앞에 쉼표가 있는 계속적 용법에서는 관계대명사 that을 쓸 수 없으므로 'that made'가 아니라 'which made'여야 합니다.",
+    "translation": "연필은 너무 싸고 평범한 도구라 어떻게 생겨났는지 궁금해하는 사람이 거의 없다. 16세기에 잉글랜드 북부에서 유난히 순수한 검은 광물의 큰 매장지가 발견되었다. 지역 사람들은 그것이 선명한 자국을 남긴다는 것을 알아챘고, 이 때문에 양에 표시하는 데 쓸모 있었다. 재료가 무르고 지저분해 사용자들은 끈으로 감거나 나무 통에 끼우기 시작했다. 당시 사람들은 그것을 납의 일종이라 생각했고, 납이 전혀 들어 있지 않은데도 연필심은 오늘날에도 여전히 lead라 불린다. 순수한 광물은 드물어 다른 곳의 제조자는 다른 방법을 찾아야 했다. 1790년대에 한 프랑스 발명가가 흑연 가루를 점토와 섞어 구웠다. 이 방법으로 점토의 양을 바꿔 연필을 더 단단하게 또는 무르게 만들 수 있었다. 오늘날 학생이 깎는 나무 연필은 지금 수십억 개씩 만드는 기계를 빼면 초기의 것과 크게 다르지 않다.",
+    "why": "연필심은 lead라고 '불리는' 대상이므로 능동 진행형 is still calling이 아니라 수동태 is still called여야 합니다.",
     "optionNotes": [
-      "주어 a powerful lamp에 맞는 3인칭 단수 현재형입니다.",
-      "목적을 나타내는 to부정사입니다.",
-      "정답(틀린 것). 계속적 용법에는 that을 쓸 수 없고 which를 써야 합니다.",
-      "형용사 full of가 and로 beautiful과 연결됩니다.",
-      "접속사 while입니다."
+      "앞 내용을 받는 계속적 용법의 which입니다.",
+      "begin 뒤에는 동명사가 올 수 있습니다.",
+      "정답(틀린 것). 수동태 is still called여야 합니다.",
+      "allow + 목적어 + to be p.p.입니다.",
+      "be different from의 형용사입니다."
     ],
-    "trap": "관계대명사 that과 which를 아무 때나 바꿔 쓸 수 있다고 오해하기 쉽습니다.",
-    "tip": "쉼표 뒤 계속적 용법에는 that을 쓰지 않습니다."
+    "trap": "주어가 사물인데 목적어 'lead'가 뒤에 있어 능동처럼 보이지만 call A B의 수동태입니다.",
+    "tip": "주어가 동작을 하는지 당하는지 먼저 판단하세요."
   },
   {
     "id": "m2b-11-30",
     "level": "m2",
     "set": "mock-11",
+    "rev": 2,
     "no": 30,
     "type": "vocab",
     "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
-    "passage": "More than half of the world's people now live in cities. Cities {1|offer} more jobs, better schools, and more entertainment than the countryside. As a result, many young people {2|move} to cities each year. Many cities in Asia are growing fastest. However, rapid growth creates problems. Housing becomes {3|expensive}, and roads are filled with traffic. Air pollution also {4|decreases} as more cars and factories appear. To solve these problems, city planners build more public transport and parks, and they encourage people to {5|cycle} or walk instead of driving.",
+    "passage": "How often do you need a drill? For most households the answer is a few times a year, yet many own one that spends almost all of its life in a drawer. Some towns have responded by opening tool libraries, where members borrow equipment much as they would borrow books. A member pays a small fee, takes home a saw or a ladder, and returns it a week later. The arrangement {1|saves} money, since nobody has to buy an expensive item for a single job. It also reduces waste, because fewer tools need to be {2|manufactured}. There are practical difficulties. Tools wear out and must be repaired, and someone has to check that they come back in working {3|condition}. Many libraries rely on volunteers, and a shortage of them can {4|extend} the opening hours. Still, the libraries that survive often become more than places to borrow things. Neighbors who know how to fix a chair teach those who do not, and skills are {5|shared} along with the tools.",
     "options": [
       "①",
       "②",
@@ -43,138 +45,143 @@
       "⑤"
     ],
     "answer": 3,
-    "translation": "이제 세계 인구의 절반 이상이 도시에 산다. 도시는 시골보다 더 많은 일자리, 더 좋은 학교, 더 많은 오락거리를 제공한다. 그 결과 해마다 많은 젊은이가 도시로 이사한다. 아시아의 많은 도시가 가장 빠르게 성장하고 있다. 그러나 빠른 성장은 문제를 만든다. 주택이 비싸지고 도로는 교통량으로 가득하다. 더 많은 자동차와 공장이 생기면서 대기 오염도 줄어든다. 이 문제를 해결하려고 도시 계획자들은 대중교통과 공원을 더 짓고 사람들이 운전 대신 자전거를 타거나 걷도록 장려한다.",
-    "why": "자동차와 공장이 늘어나면 대기 오염은 '줄어드는(decrease)' 것이 아니라 '늘어나는(increase)' 것입니다.",
+    "translation": "드릴이 얼마나 자주 필요한가? 대부분의 가정에는 1년에 몇 번이 답이지만 많은 집이 거의 평생 서랍에서 지내는 드릴을 갖고 있다. 일부 마을은 회원이 책을 빌리듯 장비를 빌리는 공구 도서관을 여는 것으로 대응했다. 회원은 적은 요금을 내고 톱이나 사다리를 가져갔다가 일주일 뒤 돌려준다. 한 번의 작업을 위해 비싼 물건을 살 필요가 없으므로 이 방식은 돈을 아낀다. 더 적은 공구를 만들면 되므로 폐기물도 줄인다. 현실적인 어려움이 있다. 공구는 닳아 수리해야 하고 누군가 작동 상태로 돌아오는지 확인해야 한다. 많은 도서관이 자원봉사자에게 의존하며, 그들이 부족하면 운영 시간이 늘어날 수 있다. 그래도 살아남은 도서관은 흔히 물건 빌리는 곳 이상이 된다. 의자 고치는 법을 아는 이웃이 모르는 이를 가르치고, 공구와 함께 기술도 나뉜다.",
+    "why": "자원봉사자가 부족하면 운영 시간은 '줄어들' 수 있으므로 extend가 아니라 limit(shorten)이어야 합니다.",
     "optionNotes": [
-      "더 많은 일자리를 제공한다는 의미로 offer가 알맞습니다.",
-      "도시로 이사한다는 의미로 move가 알맞습니다.",
-      "주택이 비싸진다는 의미로 expensive가 알맞습니다.",
-      "정답(부적절). 자동차와 공장이 늘면 오염은 increase해야 합니다.",
-      "운전 대신 자전거를 탄다는 의미로 cycle이 알맞습니다."
+      "돈을 '아낀다'는 saves입니다.",
+      "더 적게 '제조'하면 된다는 manufactured입니다.",
+      "작동 '상태'라는 condition입니다.",
+      "정답(부적절). 봉사자가 부족하면 시간이 줄어듭니다.",
+      "기술이 '나뉜다'는 shared입니다."
     ],
-    "trap": "'However, rapid growth creates problems' 뒤의 부정적 흐름을 놓치기 쉽습니다.",
-    "tip": "문제점을 나열하는 흐름에서 낱말의 방향이 부정적인지 확인하세요."
+    "trap": "'difficulties'를 설명하는 흐름에서 좋은 결과의 낱말이 오면 의심하세요.",
+    "tip": "'a shortage of them'의 결과가 늘어남인지 줄어듦인지 따져 보세요."
   },
   {
     "id": "m2b-11-31",
     "level": "m2",
     "set": "mock-11",
+    "rev": 2,
     "no": 31,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "In an experiment, people tasted the same orange drink in different colors. When the drink was colored red, many said it tasted like cherry. When it was green, they said it tasted like lime, though the flavor was exactly the same. Researchers repeated the test with many different groups of volunteers and got similar results. This happens because our brains use sight together with taste to decide what we are eating. Chefs know this well, so they choose the colors of plates and ingredients carefully. The result of the experiment shows that __________.",
+    "passage": "Think about a school trip that you took long ago. You probably cannot replay all of it minute by minute. What comes back is likely to be one or two vivid moments and the way the day finished. Psychologists have found that our judgment of a past experience often leans heavily on its most intense point and on its ending, while its length counts for surprisingly little. In one experiment, people placed a hand in painfully cold water twice. One trial lasted sixty seconds. The other lasted those same sixty seconds and then thirty more, during which the water was warmed very slightly. The second trial contained more total discomfort, yet most people chose to repeat it, because it had ended less badly. The finding has limits, and a long ordeal is certainly not harmless. Still, it suggests that the memory we carry away from an event is not a full record but __________.",
     "options": [
-      "what we see can change how food tastes to us",
-      "people who cannot see taste food much better",
-      "red drinks are always sweeter than green ones",
-      "chefs should never decorate food with colors",
-      "the flavor of a drink depends on the cup's size"
+      "a summary shaped by a few particular moments",
+      "an exact copy of every second that passed by",
+      "a measure of how long the event actually lasted",
+      "a list of facts that other people told us later",
+      "an average that treats each minute equally"
     ],
     "answer": 0,
-    "translation": "한 실험에서 사람들은 같은 오렌지 음료를 다른 색으로 맛보았다. 음료가 붉은색이면 많은 사람이 체리 맛이라고 했다. 초록색이면 맛이 정확히 같은데도 라임 맛이라고 했다. 연구자들은 여러 다른 자원자 집단으로 시험을 반복했고 비슷한 결과를 얻었다. 이는 우리 뇌가 무엇을 먹는지 판단할 때 맛과 함께 시각을 이용하기 때문에 일어난다. 요리사들은 이를 잘 알아서 접시와 재료의 색을 신중하게 고른다. 실험 결과는 우리가 보는 것이 음식이 우리에게 어떤 맛으로 느껴지는지를 바꿀 수 있음을 보여 준다.",
-    "why": "같은 음료가 색에 따라 다른 맛으로 느껴졌으므로 보는 것이 맛을 바꿀 수 있습니다.",
+    "translation": "오래전 다녀온 학교 여행을 떠올려 보라. 아마 분 단위로 전부 재생할 수는 없을 것이다. 돌아오는 것은 한두 개의 생생한 순간과 하루가 끝난 방식일 것이다. 심리학자들은 과거 경험에 대한 판단이 흔히 가장 강렬한 지점과 끝에 크게 기대고 길이는 놀랄 만큼 적게 반영된다는 것을 발견했다. 한 실험에서 사람들은 고통스럽게 찬 물에 손을 두 번 넣었다. 한 번은 60초였다. 다른 한 번은 같은 60초에 30초를 더했고 그동안 물을 아주 약간 데웠다. 두 번째에는 전체 불편이 더 많았지만 덜 나쁘게 끝났기에 대부분 그것을 되풀이하겠다고 골랐다. 이 발견에는 한계가 있으며 긴 시련이 해가 없는 것은 분명 아니다. 그래도 우리가 사건에서 가져오는 기억은 온전한 기록이 아니라 몇몇 특정 순간이 형성한 요약임을 시사한다.",
+    "why": "가장 강렬한 순간과 끝이 판단을 좌우하므로 몇몇 순간이 만든 요약이라는 ①이 알맞습니다.",
     "optionNotes": [
-      "정답. 보는 것이 맛을 바꿀 수 있습니다.",
-      "보지 못하는 사람이 더 잘 느낀다는 내용은 나오지 않습니다.",
-      "붉은 음료가 더 달다는 내용은 나오지 않습니다.",
-      "장식하지 말라는 내용은 글과 반대입니다.",
-      "컵 크기는 나오지 않습니다."
+      "정답. 몇몇 순간이 만든 요약입니다.",
+      "모든 초의 복사본이 아닙니다.",
+      "길이는 거의 반영되지 않습니다.",
+      "남이 알려 준 목록이 아닙니다.",
+      "모든 분을 똑같이 평균하지 않습니다."
     ],
-    "trap": "'flavor was exactly the same'을 놓치고 색과 맛이 무관하다고 오해하지 마세요.",
-    "tip": "실험 결과(같은 맛, 다른 반응)에서 결론을 추론하세요."
+    "trap": "⑤는 길이를 반영하는 평균이므로 실험 결과와 반대입니다.",
+    "tip": "'not a full record but ~'에서 full record와 대비되는 말을 찾으세요."
   },
   {
     "id": "m2b-11-32",
     "level": "m2",
     "set": "mock-11",
+    "rev": 2,
     "no": 32,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Most people dislike the sound of their own voice on a recording. The reason is that, when we speak, we hear our voice in two ways: through the air and through the bones of our skull. The bone path adds deep, rich tones. On a recording, only the air path is captured, so the voice sounds higher and thinner than we expect. This is why many people feel surprised or even embarrassed when they hear a recording. Other people, however, have always heard this version. So the recorded voice that we dislike is actually __________.",
+    "passage": "Large birds such as geese and pelicans often fly in a line shaped like the letter V. The pattern is so neat that it looks planned, and people have long wondered what it is for. Part of the answer lies in the air. As a bird flaps, it leaves behind swirling currents. Just behind and to the side of each wingtip, the air is moving upward. A bird that places itself in this spot receives a little free lift and does not have to work as hard to stay up. Researchers who fitted young ibises with tiny trackers found that the birds positioned themselves and even timed their wing beats in ways that made good use of this lift. The leader gets no such help, and in many flocks the birds take turns at the front. The V formation, then, is a way for travelers on a long journey to __________.",
     "options": [
-      "a voice that nobody else can hear",
-      "the voice that other people hear when we speak to them",
-      "a voice changed by the microphone",
-      "the same as our voice inside our head",
-      "a voice that is only found in recordings"
+      "hide themselves from hunters on the ground",
+      "save their strength by using the rising air that others create",
+      "find food that is floating on the water below",
+      "show which bird is the oldest in the group",
+      "stay warm during the coldest nights of winter"
     ],
     "answer": 1,
-    "translation": "대부분의 사람은 녹음에 담긴 자기 목소리를 싫어한다. 그 이유는 말할 때 우리가 자기 목소리를 두 가지 방식, 즉 공기를 통해서와 두개골의 뼈를 통해서 듣기 때문이다. 뼈를 통한 경로는 깊고 풍부한 음색을 더한다. 녹음에서는 공기 경로만 담기므로 목소리가 우리가 기대하는 것보다 높고 얇게 들린다. 이 때문에 많은 사람이 녹음을 들으면 놀라거나 심지어 민망해한다. 하지만 다른 사람들은 늘 이 버전을 들어 왔다. 그러므로 우리가 싫어하는 녹음된 목소리는 사실 우리가 말할 때 다른 사람들이 듣는 목소리이다.",
-    "why": "다른 사람들은 늘 공기 경로로 전달되는 목소리를 들어 왔으므로 녹음된 목소리는 다른 사람이 듣는 목소리입니다.",
+    "translation": "기러기와 펠리컨 같은 큰 새는 흔히 V자 모양의 줄로 난다. 모양이 너무 깔끔해 계획한 것처럼 보이며 사람들은 오랫동안 무엇을 위한 것인지 궁금해했다. 답의 일부는 공기에 있다. 새가 날갯짓하면 뒤에 소용돌이치는 기류가 남는다. 각 날개 끝의 바로 뒤 옆에서는 공기가 위로 움직인다. 이 자리에 선 새는 공짜 양력을 조금 받아 떠 있으려고 그만큼 힘쓰지 않아도 된다. 어린 따오기에 작은 추적기를 단 연구자들은 새들이 이 양력을 잘 이용하도록 위치를 잡고 날갯짓 박자까지 맞춘다는 것을 발견했다. 우두머리는 그런 도움을 받지 못하며 많은 무리에서 새들은 번갈아 앞에 선다. 그러므로 V 대형은 긴 여정의 여행자가 남이 움직인 공기를 이용해 에너지를 아끼는 방법이다.",
+    "why": "앞 새가 만든 상승 기류로 힘을 덜 들이므로 에너지를 아낀다는 ②가 알맞습니다.",
     "optionNotes": [
-      "아무도 못 듣는다는 내용은 글과 반대입니다.",
-      "정답. 다른 사람이 듣는 목소리입니다.",
-      "마이크가 바꾼다는 내용은 나오지 않습니다.",
-      "머릿속 목소리와 같다는 내용은 글과 반대입니다.",
-      "녹음에만 있다는 내용은 글과 반대입니다."
+      "사냥꾼 피하기는 나오지 않습니다.",
+      "정답. 남이 움직인 공기로 에너지를 아낍니다.",
+      "먹이 찾기는 나오지 않습니다.",
+      "나이 표시는 나오지 않습니다.",
+      "보온은 나오지 않습니다."
     ],
-    "trap": "'higher and thinner than we expect'를 마이크의 왜곡으로 오해하지 마세요.",
-    "tip": "However 이후의 문장이 빈칸의 직접적 단서입니다."
+    "trap": "④는 'The leader'라는 말을 이용한 함정입니다.",
+    "tip": "'free lift', 'does not have to work as hard'가 근거입니다."
   },
   {
     "id": "m2b-11-33",
     "level": "m2",
     "set": "mock-11",
+    "rev": 2,
     "no": 33,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Doodling while listening may look like not paying attention, but research suggests otherwise. In one study, people listened to a boring phone message and wrote down the names they heard. Some of them also doodled shapes on a paper. The shapes were simple, such as circles, squares, and triangles, and no one had to draw well. They were not told to remember anything. Later, the doodlers remembered about twenty-nine percent more information than the others. The reason is that doodling keeps the brain from daydreaming without using up much attention. So, simple drawing can actually __________.",
+    "passage": "A plant cannot get up and walk away from the place where it grows. This creates a problem for its seeds. If they all fell straight down, the young plants would have to struggle in the shade of their parent, competing with it and with one another for water and light. Over millions of years, plants have arrived at a remarkable range of solutions. The dandelion gives each seed a tiny parachute that the wind can carry. The maple adds a wing that makes the seed spin and drift. Burrs cling with hooks to the fur of passing animals. Many fruits are sweet, so that birds eat them and later drop the seeds far away. Coconuts can float for months before reaching a new shore. Some pods even burst open and shoot their contents several meters. Different as these methods are, each shows that a plant, though rooted in one spot, __________.",
     "options": [
-      "make us forget the messages we hear",
-      "show that we are not interested at all",
-      "lower our scores on most memory tests",
-      "waste time that we could use to sleep",
-      "help us stay focused on what we are listening to"
+      "must always depend on people to plant it",
+      "cannot survive unless rain falls every day",
+      "grows best when its seeds stay close by",
+      "produces only a single seed in its lifetime",
+      "has ways of sending its young somewhere else"
     ],
     "answer": 4,
-    "translation": "듣는 동안 낙서하는 것은 집중하지 않는 것처럼 보일 수 있지만 연구는 그렇지 않다고 시사한다. 한 연구에서 사람들은 지루한 전화 메시지를 듣고 들은 이름을 적었다. 일부는 종이에 도형을 끼적이기도 했다. 도형은 원, 네모, 세모처럼 단순했고 아무도 잘 그릴 필요가 없었다. 그들은 아무것도 기억하라는 말을 듣지 않았다. 나중에 낙서한 사람들은 다른 사람들보다 약 이십구 퍼센트 더 많은 정보를 기억했다. 그 이유는 낙서가 주의를 많이 쓰지 않으면서 뇌가 공상에 빠지는 것을 막기 때문이다. 그러니 단순한 그림 그리기는 실제로 우리가 듣는 것에 계속 집중하도록 도울 수 있다.",
-    "why": "낙서한 사람이 더 많이 기억했고 낙서가 공상을 막아 주므로 듣는 것에 집중하도록 돕습니다.",
+    "translation": "식물은 자라는 곳에서 일어나 걸어갈 수 없다. 이는 씨앗에게 문제를 만든다. 모두 곧장 아래로 떨어지면 어린 식물은 부모의 그늘에서, 부모 및 서로와 물과 빛을 두고 경쟁하며 힘겹게 살아야 한다. 수백만 년에 걸쳐 식물은 놀랄 만큼 다양한 해법에 이르렀다. 민들레는 씨마다 바람이 나를 수 있는 작은 낙하산을 준다. 단풍나무는 씨가 돌며 떠가게 하는 날개를 단다. 도꼬마리는 갈고리로 지나가는 동물의 털에 달라붙는다. 많은 열매는 달아서 새가 먹고 나중에 씨를 멀리 떨어뜨린다. 코코넛은 새 해안에 닿기까지 몇 달 떠다닐 수 있다. 어떤 꼬투리는 터지며 내용물을 몇 미터 날려 보낸다. 방법은 다르지만 각각은 식물이 한곳에 뿌리박혀 있어도 새끼를 다른 곳으로 보내는 방법을 갖고 있음을 보여 준다.",
+    "why": "바람, 동물, 물 등을 이용해 씨를 멀리 보내는 사례들이므로 ⑤가 알맞습니다.",
     "optionNotes": [
-      "잊게 한다는 내용은 글과 반대입니다.",
-      "흥미가 없다는 증거라는 내용은 글과 반대입니다.",
-      "점수를 낮춘다는 내용은 글과 반대입니다.",
-      "잠잘 시간을 낭비한다는 내용은 나오지 않습니다.",
-      "정답. 듣는 것에 집중하도록 돕습니다."
+      "사람에게 의존하는 내용이 아닙니다.",
+      "매일 비는 나오지 않습니다.",
+      "가까이 있으면 경쟁하게 됩니다.",
+      "씨가 하나뿐이라는 내용은 없습니다.",
+      "정답. 새끼를 다른 곳으로 보내는 방법이 있습니다."
     ],
-    "trap": "첫 문장의 통념(집중하지 않는 것처럼 보임)에 이끌리지 마세요.",
-    "tip": "연구 결과(낙서한 사람이 더 많이 기억)에서 결론을 추론하세요."
+    "trap": "③은 글의 문제 상황과 반대입니다.",
+    "tip": "'Different as these methods are'는 사례들의 공통점을 묻습니다."
   },
   {
     "id": "m2b-11-34",
     "level": "m2",
     "set": "mock-11",
+    "rev": 2,
     "no": 34,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Many adults say that time passes faster than when they were children. One explanation is proportion. For a five-year-old, one year is one fifth of the whole life. For a fifty-year-old, one year is only one fiftieth. Because the same length of time becomes a smaller part of our experience, it feels shorter. Another explanation is that children have many new experiences, which make days feel long and full. As adults repeat the same routines, the days blur together. So as we grow older, each year seems shorter because it becomes __________.",
+    "passage": "Ask a skilled cyclist how to keep a bicycle from falling over, and you may receive a vague answer such as \"You just balance.\" In fact the rider is doing something quite precise: when the bicycle begins to lean to one side, the front wheel is turned slightly toward that side, which brings the wheels back under the body. Most people who ride every day have never thought about this and could not have described it. Knowing the rule is not enough either; a child who memorizes the sentence will still fall on the first try. The ability comes from practice, as the body adjusts again and again to small mistakes. Much the same is true of recognizing a friend's face, tying a knot, or judging when soup has enough salt. A philosopher summed up the idea by saying that we __________. That is one reason why some skills are best learned beside someone who already has them.",
     "options": [
-      "a heavier burden for the body to carry",
-      "more crowded with new experiences than before",
-      "a longer period according to the calendar",
-      "a smaller part of the life that we have lived",
-      "easier to remember in every small detail"
+      "forget every skill that we do not use daily",
+      "should read a rule before we try any task",
+      "learn faster when we practice completely alone",
+      "can often do more than we are able to explain",
+      "can explain exactly whatever we are able to do"
     ],
     "answer": 3,
-    "translation": "많은 어른이 어릴 때보다 시간이 더 빨리 흐른다고 말한다. 한 가지 설명은 비율이다. 다섯 살 아이에게 일 년은 인생 전체의 5분의 1이다. 쉰 살 사람에게 일 년은 겨우 50분의 1이다. 같은 길이의 시간이 우리 경험의 더 작은 부분이 되기 때문에 더 짧게 느껴진다. 또 다른 설명은 아이들은 새로운 경험이 많아 하루가 길고 알차게 느껴진다는 것이다. 어른이 같은 일상을 반복하면 하루하루가 뭉개진다. 그래서 나이가 들수록 매년이 우리가 살아온 삶의 더 작은 부분이 되어 더 짧게 느껴진다.",
-    "why": "같은 일 년이 살아온 삶에서 차지하는 비율이 작아지므로 더 짧게 느껴집니다.",
+    "translation": "능숙한 자전거 타는 사람에게 넘어지지 않는 법을 물으면 \"그냥 균형을 잡아\" 같은 모호한 답을 들을 수 있다. 실제로 타는 사람은 꽤 정밀한 일을 한다. 자전거가 한쪽으로 기울기 시작하면 앞바퀴를 그쪽으로 살짝 돌려 바퀴를 몸 아래로 되돌린다. 매일 타는 대부분의 사람은 이를 생각해 본 적 없고 설명할 수도 없었을 것이다. 규칙을 아는 것만으로도 부족하다. 그 문장을 외운 아이도 첫 시도에 넘어진다. 능력은 몸이 작은 실수에 거듭 적응하는 연습에서 온다. 친구의 얼굴 알아보기, 매듭 묶기, 국의 간 맞추기도 거의 같다. 한 철학자는 우리가 설명할 수 있는 것보다 흔히 더 많은 것을 할 수 있다는 말로 이 생각을 요약했다. 어떤 기술이 이미 가진 사람 곁에서 가장 잘 배워지는 한 가지 이유이다.",
+    "why": "할 수는 있지만 설명하지 못하는 사례들이므로 ④가 알맞습니다.",
     "optionNotes": [
-      "무거운 부담은 나오지 않습니다.",
-      "새 경험이 많아진다는 것은 글과 반대입니다.",
-      "달력상 더 길다는 내용은 글과 반대입니다.",
-      "정답. 살아온 삶의 더 작은 부분이 됩니다.",
-      "더 기억하기 쉽다는 내용은 글과 반대입니다."
+      "망각은 나오지 않습니다.",
+      "규칙만으로는 부족하다고 했습니다.",
+      "누군가 곁에서 배우는 것이 좋다고 했습니다.",
+      "정답. 설명할 수 있는 것보다 더 많이 할 수 있습니다.",
+      "설명하지 못한다는 것과 반대입니다."
     ],
-    "trap": "'new experiences'를 어른의 상황으로 오해하지 마세요. 그것은 아이들의 경우입니다.",
-    "tip": "proportion 설명(1/5 vs 1/50)이 빈칸의 핵심 단서입니다."
+    "trap": "⑤는 어순을 바꿔 뜻을 뒤집은 함정입니다.",
+    "tip": "'could not have described it'를 일반화한 말을 찾으세요."
   },
   {
     "id": "m2b-11-35",
     "level": "m2",
     "set": "mock-11",
+    "rev": 2,
     "no": 35,
     "type": "irrelevant",
     "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
-    "passage": "Learning to play a musical instrument benefits the brain in many ways. ① It improves memory, because musicians must remember long pieces of music. ② It also helps with concentration, since playing requires attention to notes, rhythm, and timing at once. ③ Children who practice regularly often learn to manage their time better. ④ Many famous paintings are displayed in museums around the world. ⑤ In addition, playing in a group teaches teamwork and listening skills.",
+    "passage": "In some neighborhoods, children now travel to school on what is called a walking school bus. There is no vehicle at all. A group of children walks along a fixed route, picking up others at agreed corners, while one or two adults accompany them. The group follows a timetable, just like a real bus, and children who are late must catch up. ① Parents take turns, so each adult needs to give only one or two mornings a week. ② The children get some exercise before lessons begin and arrive more awake. ③ Fewer cars gather at the school gate, which makes the street safer for everyone. Some children also learn the safe way to cross a busy road by doing it with an adult. ④ The yellow color used on many school buses was chosen because it is easy to see in dim light. ⑤ Walking together also gives children a chance to make friends across different grades. An idea this simple needs little more than good shoes and a few willing adults.",
     "options": [
       "①",
       "②",
@@ -183,26 +190,27 @@
       "⑤"
     ],
     "answer": 3,
-    "translation": "악기를 연주하는 법을 배우는 것은 여러 방식으로 뇌에 이롭다. ① 연주자는 긴 곡을 기억해야 하므로 기억력이 좋아진다. ② 또한 연주는 음, 리듬, 박자에 동시에 주의를 요구하므로 집중력에도 도움이 된다. ③ 규칙적으로 연습하는 아이들은 흔히 시간 관리를 더 잘하게 된다. ④ 많은 유명한 그림이 세계의 박물관에 전시되어 있다. ⑤ 게다가 합주는 팀워크와 듣기 기술을 가르친다.",
-    "why": "글은 악기 연주가 뇌에 이로운 점을 이야기하는데 ④는 그림 전시에 관한 이야기라 관계가 없습니다.",
+    "translation": "일부 동네에서 아이들은 이제 걷는 스쿨버스라는 것으로 등교한다. 차량은 전혀 없다. 아이 무리가 정해진 길을 걸으며 약속한 모퉁이에서 다른 아이를 태우고, 어른 한두 명이 동행한다. 이 무리는 진짜 버스처럼 시간표를 따르며 늦은 아이는 따라잡아야 한다. ① 부모가 번갈아 맡아 각 어른은 주 한두 아침만 내면 된다. ② 아이들은 수업 전에 운동을 하고 더 깬 상태로 도착한다. ③ 교문에 모이는 차가 줄어 거리가 모두에게 안전해진다. 일부 아이는 어른과 함께 해 보며 붐비는 길을 안전하게 건너는 법도 배운다. ④ 많은 스쿨버스의 노란색은 어두운 빛에서 잘 보여서 선택되었다. ⑤ 함께 걷는 것은 학년이 다른 아이끼리 친구가 될 기회도 준다. 이렇게 단순한 생각에는 좋은 신발과 기꺼이 나서는 어른 몇 명이면 거의 충분하다.",
+    "why": "글은 걷는 스쿨버스의 방식과 이점을 다루는데 ④는 실제 버스의 색 이야기라 흐름에서 벗어납니다.",
     "optionNotes": [
-      "기억력 향상이라는 이점입니다.",
-      "집중력 향상이라는 이점입니다.",
-      "시간 관리라는 이점입니다.",
-      "정답(무관). 그림 전시 이야기라 관계가 없습니다.",
-      "팀워크라는 이점입니다."
+      "운영 방식입니다.",
+      "건강상의 이점입니다.",
+      "안전상의 이점입니다.",
+      "정답. 실제 버스의 색은 무관합니다.",
+      "친구 사귀기의 이점입니다."
     ],
-    "trap": "'music'과 '예술'이라는 큰 범주 때문에 그림 이야기도 관련 있다고 착각하기 쉽습니다.",
-    "tip": "주제(악기 연주의 이점)를 직접 뒷받침하지 않는 문장을 고르세요."
+    "trap": "'school bus'라는 말이 같아 보여도 이 글에는 차량이 없습니다.",
+    "tip": "첫 부분의 'There is no vehicle at all'을 기억하세요."
   },
   {
     "id": "m2b-11-36",
     "level": "m2",
     "set": "mock-11",
+    "rev": 2,
     "no": 36,
     "type": "order",
     "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
-    "passage": "Honeybees have an amazing way of keeping their hive at a comfortable temperature in winter. They cannot fly in the cold, so they stay inside the hive all winter.\n(A) After a while, they change places, so that no bee stays in the cold outer layer for too long.\n(B) When the temperature drops, the bees gather closely together and form a tight ball around the queen, who must stay warm.\n(C) The bees on the outside of the ball keep their wings still. Those in the center shiver their flight muscles to produce heat.",
+    "passage": "The zipper, which now closes millions of bags and jackets, took a surprisingly long time to succeed.\n(A) The new design was far more reliable, yet buyers were still slow to come. Many people simply did not know how to work it. It was first used widely on rubber boots in the 1920s, and a company that sold those boots helped to make the word zipper popular. Only later did clothing makers accept it for trousers and dresses.\n(B) In the 1890s an American inventor, Whitcomb Judson, showed a fastener made of hooks and eyes that could be closed with a sliding guide. It was meant to save people the trouble of lacing high boots, but it had a bad habit of springing open.\n(C) An engineer named Gideon Sundback, who joined Judson's company, worked on the problem for several years. By 1913 he had replaced the hooks with many small identical teeth that a slider could press firmly together. His version was soon used on money belts and small pouches.",
     "options": [
       "(A)-(C)-(B)",
       "(B)-(A)-(C)",
@@ -211,26 +219,27 @@
       "(C)-(B)-(A)"
     ],
     "answer": 2,
-    "translation": "꿀벌은 겨울에 벌통을 편안한 온도로 유지하는 놀라운 방법을 가지고 있다. 그들은 추위에서는 날 수 없어 겨울 내내 벌통 안에 머문다. (B) 기온이 떨어지면 벌들은 서로 바짝 모여 여왕벌 주위에 단단한 공 모양을 만든다. 여왕벌은 따뜻하게 지내야 한다. (C) 공의 바깥쪽에 있는 벌들은 날개를 가만히 둔다. 중앙의 벌들은 비행 근육을 떨어 열을 만든다. (A) 잠시 후 그들은 자리를 바꿔서 어떤 벌도 추운 바깥층에 너무 오래 머물지 않게 한다.",
-    "why": "(B) 모여서 공 모양을 만듦 → (C) 'the ball'의 바깥과 중앙의 역할 → (A) 'After a while'로 자리 교대 순서입니다.",
+    "translation": "지금 수백만 개의 가방과 재킷을 잠그는 지퍼는 성공하는 데 놀랄 만큼 오래 걸렸다. (B) 1890년대 미국 발명가 휘트컴 저드슨은 미끄러지는 장치로 닫는 갈고리와 고리의 잠금장치를 선보였다. 긴 장화 끈을 매는 수고를 덜려는 것이었지만 저절로 벌어지는 나쁜 버릇이 있었다. (C) 저드슨의 회사에 들어온 기술자 기디언 선드백이 몇 년 동안 이 문제를 연구했다. 1913년까지 그는 갈고리를 슬라이더가 단단히 맞물리게 할 수 있는 똑같은 작은 이 여러 개로 바꾸었다. 그의 제품은 곧 돈 허리띠와 작은 주머니에 쓰였다. (A) 새 설계는 훨씬 믿을 만했지만 구매자는 여전히 더디게 왔다. 많은 사람은 그것을 어떻게 다루는지조차 몰랐다. 1920년대에 고무장화에 처음 널리 쓰였고 그 장화를 팔던 회사가 zipper라는 말을 유행시키는 데 기여했다. 의류 업체는 나중에야 바지와 드레스에 받아들였다.",
+    "why": "(B) 최초 발명과 결함 → (C) 개선 → (A) 보급 순서입니다.",
     "optionNotes": [
-      "(A)의 'they change places'가 가리킬 대상이 앞에 없습니다.",
-      "(A)가 (C) 앞에 오면 바깥층의 역할 설명 없이 교대가 나옵니다.",
-      "정답. 모임 → 역할 분담 → 교대.",
-      "(C)의 'the ball'이 가리킬 공이 앞에 나오지 않습니다.",
-      "(C)의 'the ball'이 가리킬 공이 앞에 나오지 않습니다."
+      "(A)의 'The new design'은 (C) 뒤여야 합니다.",
+      "(A)가 (C)보다 앞서면 'new design'이 없습니다.",
+      "정답. 발명 → 개선 → 보급입니다.",
+      "(C)의 'the problem'은 (B) 뒤여야 합니다.",
+      "(C)가 처음에 올 수 없습니다."
     ],
-    "trap": "(C)의 'the ball'은 (B)에서 형성한 tight ball을 가리킵니다.",
-    "tip": "the ball, After a while 같은 지시어와 시간 표현을 확인하세요."
+    "trap": "(C)의 'Judson's company'는 (B)에서 Judson을 소개한 뒤여야 합니다.",
+    "tip": "전체 이름이 먼저 나오는 문단과 'the problem' 같은 지시어를 보세요."
   },
   {
     "id": "m2b-11-37",
     "level": "m2",
     "set": "mock-11",
+    "rev": 2,
     "no": 37,
     "type": "order",
     "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
-    "passage": "Cities in the Netherlands have thousands of kilometers of bicycle lanes. Many of these lanes are completely separated from car roads.\n(A) This makes cycling safe, which encourages even young children to ride to school. Parents also feel calm when they see the safe lanes.\n(B) Other cities have begun to copy this model, hoping to reduce traffic jams and air pollution. Tourists often come just to see this system.\n(C) As a result, about a quarter of all trips in the country are made by bike, much more than in most other countries.",
+    "passage": "Washing greasy hands with water alone rarely works, but adding soap changes everything.\n(A) The reason is that water and oil do not mix. Water molecules hold tightly to one another and slide off a greasy surface, leaving most of the dirt where it was. Anyone who has tried to rinse a greasy pan under a cold tap has seen this happen.\n(B) Rubbing breaks the oil into tiny drops, each surrounded by a ball of soap molecules with their water-loving ends facing outward. The running water can now carry these drops away down the drain. This is why rubbing for about twenty seconds works better than a quick splash. Warm water may feel pleasant, but it is the soap and the rubbing that do most of the work.\n(C) A soap molecule solves this difficulty because its two ends behave differently. One end is attracted to water, while the long tail at the other end prefers oil and pushes into the greasy layer. Millions of these molecules gather around each patch of oil, all with their tails buried inside it.",
     "options": [
       "(A)-(C)-(B)",
       "(B)-(A)-(C)",
@@ -239,26 +248,27 @@
       "(C)-(B)-(A)"
     ],
     "answer": 0,
-    "translation": "네덜란드의 도시에는 수천 킬로미터의 자전거 도로가 있다. 이 도로 중 상당수는 자동차 도로와 완전히 분리되어 있다. (A) 이는 자전거 타기를 안전하게 만들어 어린아이들까지 자전거로 등교하도록 장려한다. 부모들도 안전한 도로를 보면 마음이 놓인다. (C) 그 결과 이 나라 전체 이동의 약 4분의 1이 자전거로 이루어지며 이는 대부분의 다른 나라보다 훨씬 많다. (B) 다른 도시들은 교통 체증과 대기 오염을 줄이기를 바라며 이 모델을 따라 하기 시작했다. 관광객들도 이 체계를 보려고 일부러 찾아온다.",
-    "why": "(A) 'This'로 분리 도로의 효과 → (C) 'As a result'로 자전거 이용 비율 → (B) 다른 도시의 모방 순서입니다.",
+    "translation": "기름 묻은 손을 물로만 씻으면 잘 되지 않지만 비누를 더하면 모든 것이 달라진다. (A) 이유는 물과 기름이 섞이지 않기 때문이다. 물 분자는 서로 단단히 붙잡고 기름진 표면에서 미끄러져 때 대부분을 그대로 둔다. 기름 묻은 팬을 찬 수돗물에 헹궈 본 사람은 누구나 이것을 보았다. (C) 비누 분자는 양 끝이 다르게 행동하므로 이 어려움을 해결한다. 한쪽 끝은 물에 끌리고 반대쪽 긴 꼬리는 기름을 좋아해 기름층으로 파고든다. 이 분자 수백만 개가 각 기름 얼룩 주위에 모여 모두 꼬리를 그 안에 박는다. (B) 문지르면 기름이 아주 작은 방울로 쪼개지고, 방울마다 물을 좋아하는 끝을 바깥으로 한 비누 분자 공에 둘러싸인다. 이제 흐르는 물이 이 방울을 하수구로 실어 갈 수 있다. 약 20초 문지르는 것이 잠깐 물을 끼얹는 것보다 나은 이유이다. 따뜻한 물은 기분 좋겠지만 대부분의 일은 비누와 문지르기가 한다.",
+    "why": "(A) 물만으로 안 되는 이유 → (C) 비누 분자의 구조 → (B) 씻겨 나가는 과정 순서입니다.",
     "optionNotes": [
-      "정답. 안전 → 결과(이용 비율) → 확산.",
-      "(B)의 'this model'이 가리킬 내용이 앞에 없습니다.",
-      "(B)의 'this model'이 가리킬 내용이 앞에 없습니다.",
-      "(C)의 'As a result'가 이어질 원인이 앞에 없습니다.",
-      "(C)가 (A) 앞에 오면 원인(안전)이 뒤로 밀립니다."
+      "정답. 문제 → 해결 원리 → 결과입니다.",
+      "(B)가 비누 분자 설명보다 앞설 수 없습니다.",
+      "(B)가 처음에 올 수 없습니다.",
+      "(C)의 'this difficulty'는 (A) 뒤여야 합니다.",
+      "(C)가 처음에 오면 'this difficulty'의 대상이 없습니다."
     ],
-    "trap": "(A)의 'This'는 주어진 글의 분리된 자전거 도로를 가리킵니다.",
-    "tip": "This, As a result, this model 같은 지시어와 연결어의 연결을 확인하세요."
+    "trap": "(C)의 'this difficulty'가 (A)의 내용임을 확인하세요.",
+    "tip": "문제 → 원리 → 과정의 흐름을 따라가세요."
   },
   {
     "id": "m2b-11-38",
     "level": "m2",
     "set": "mock-11",
+    "rev": 2,
     "no": 38,
     "type": "insert",
     "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
-    "passage": "[주어진 문장]\nFew people know that the first computer mouse was made of wood.\n\n[글]\n( ① ) It was invented in 1964 by an American engineer named Douglas Engelbart. ( ② ) The wooden box had two wheels underneath and a single red button on top. ( ③ ) At the time, computers were used only by scientists, so nobody imagined that ordinary people would need such a device. ( ④ ) It became popular only in the 1980s, when personal computers entered homes and offices. ( ⑤ ) Today, wireless mice are small, light, and available in many colors.",
+    "passage": "[주어진 문장]\nThe cause, surprisingly, is not in the stomach or the teeth but mainly in the roof of the mouth.\n\n[글]\nAlmost everyone who has eaten ice cream too quickly on a hot day knows the sudden, sharp pain in the forehead. It is often called brain freeze, although the brain itself does not freeze at all. ( ① ) When something very cold touches that area, blood vessels nearby respond quickly, narrowing and then widening. ( ② ) Nerves there send a strong signal toward the brain along a path that also serves the face. ( ③ ) The brain therefore reads the message as coming from the forehead, even though nothing is wrong there. Doctors call this referred pain: the trouble is in one place, but we feel it in another. ( ④ ) The pain usually fades within a minute as the mouth warms again. For most people it is harmless, though it can certainly spoil a pleasant moment. ( ⑤ ) Eating more slowly or pressing the tongue against the top of the mouth can help.",
     "options": [
       "①",
       "②",
@@ -267,26 +277,27 @@
       "⑤"
     ],
     "answer": 0,
-    "translation": "[주어진 문장] 최초의 컴퓨터 마우스가 나무로 만들어졌다는 것을 아는 사람은 거의 없다. [글] 그것은 1964년 미국 기술자 더글러스 엥겔바트가 발명했다. 나무 상자에는 아래에 바퀴 두 개와 위에 빨간 단추 하나가 있었다. 당시 컴퓨터는 과학자만 썼기 때문에 아무도 보통 사람이 그런 장치를 필요로 하리라고 상상하지 못했다. 그것은 개인용 컴퓨터가 가정과 사무실에 들어온 1980년대에야 대중화되었다. 오늘날 무선 마우스는 작고 가볍고 다양한 색으로 나온다.",
-    "why": "'It'이 가리키는 마우스가 먼저 소개되어야 하므로 주어진 문장은 ①에 들어갑니다.",
+    "translation": "[주어진 문장] 놀랍게도 원인은 위나 이가 아니라 주로 입천장에 있다. [글] 더운 날 아이스크림을 너무 빨리 먹어 본 거의 모든 사람은 이마의 갑작스럽고 날카로운 통증을 안다. 흔히 뇌 얼음이라 부르지만 뇌 자체는 전혀 얼지 않는다. 아주 찬 것이 그 부위에 닿으면 근처 혈관이 빠르게 반응해 좁아졌다 넓어진다. 그곳의 신경은 얼굴도 담당하는 경로를 따라 뇌로 강한 신호를 보낸다. 그래서 뇌는 이마에 아무 이상이 없는데도 메시지가 이마에서 온 것으로 읽는다. 의사들은 이를 연관통이라 부르는데, 문제는 한 곳에 있지만 다른 곳에서 느끼는 것이다. 통증은 대개 입이 다시 따뜻해지며 1분 안에 사라진다. 대부분에게 해는 없지만 즐거운 순간을 망칠 수는 있다. 더 천천히 먹거나 혀를 입천장에 대면 도움이 될 수 있다.",
+    "why": "통증을 소개한 뒤 원인이 입천장이라고 밝히고, 다음 문장의 'that area'가 입천장을 받으므로 ①입니다.",
     "optionNotes": [
-      "정답. 마우스를 소개한 뒤 'It'으로 이어집니다.",
-      "'It'이 가리킬 대상이 이미 나온 뒤라 소개로 어색합니다.",
-      "당시 상황 설명 중간이라 어색합니다.",
-      "대중화 설명 중간이라 어색합니다.",
-      "마지막에 오면 대명사의 지시 대상이 빠집니다."
+      "정답. 'that area'가 입천장을 가리키게 됩니다.",
+      "'that area'가 먼저 나와 대상이 없습니다.",
+      "신경 설명 뒤에는 원인 제시가 늦습니다.",
+      "뇌의 해석 뒤에는 늦습니다.",
+      "통증이 사라진 뒤에는 어색합니다."
     ],
-    "trap": "'wooden box'가 ②에 나온다고 ②에 넣지 마세요. ①의 'It'이 먼저 지시 대상을 요구합니다.",
-    "tip": "대명사(It)가 처음 나오는 문장 앞에는 그 대상을 소개하는 문장이 옵니다."
+    "trap": "②에 넣으면 ① 뒤 문장의 'that area'가 가리킬 대상이 없습니다.",
+    "tip": "'that area'처럼 지시어가 있는 문장 바로 앞을 확인하세요."
   },
   {
     "id": "m2b-11-39",
     "level": "m2",
     "set": "mock-11",
+    "rev": 2,
     "no": 39,
     "type": "insert",
     "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
-    "passage": "[주어진 문장]\nThat is why scientists recommend washing your hands for at least twenty seconds.\n\n[글]\n( ① ) Our hands touch many things every day, such as doorknobs, phones, and keyboards. ( ② ) These surfaces can carry germs that cause illnesses. ( ③ ) Soap breaks down the outer layer of germs, but it needs time to do so. ( ④ ) Singing a short song twice is an easy way to measure the time. ( ⑤ ) Dry your hands well afterward, because germs spread more easily on wet skin.",
+    "passage": "[주어진 문장]\nTo stop the damage, the cave was closed to the general public in 1963.\n\n[글]\n( ① ) In 1940 a group of teenagers in France, searching an opening in the ground, climbed into a cave and found its walls covered with paintings of horses, deer, and wild cattle. According to the story, a dog belonging to one of them had first led them to the spot. ( ② ) The pictures, many thousands of years old, were astonishingly fresh, and after the Second World War visitors came in large numbers. ( ③ ) Their breath, body heat, and the germs they carried in soon changed the air, and green growth and white crystals began to appear on the walls. Paintings that had survived for thousands of years suddenly seemed in danger of being lost. ( ④ ) Years later an exact copy of the main halls was built nearby, so that people could still experience them. Today it welcomes large numbers of visitors, while only a few specialists may enter the original. ( ⑤ ) The story shows that loving a place and protecting it are not always the same thing.",
     "options": [
       "①",
       "②",
@@ -295,44 +306,45 @@
       "⑤"
     ],
     "answer": 3,
-    "translation": "[주어진 문장] 그래서 과학자들은 적어도 이십 초 동안 손을 씻으라고 권한다. [글] 우리 손은 매일 문손잡이, 휴대전화, 키보드 같은 많은 것을 만진다. 이런 표면은 질병을 일으키는 세균을 지닐 수 있다. 비누는 세균의 바깥층을 분해하지만 그러려면 시간이 필요하다. 짧은 노래를 두 번 부르는 것은 시간을 재는 쉬운 방법이다. 세균은 젖은 피부에서 더 쉽게 퍼지므로 씻은 뒤에는 손을 잘 말리세요.",
-    "why": "비누가 작용하는 데 시간이 필요하다는 이유 뒤에 'That is why'로 권장 시간을 말하고, 곧이어 시간을 재는 방법이 이어지므로 ④에 들어갑니다.",
+    "translation": "[주어진 문장] 피해를 막기 위해 동굴은 1963년 일반 대중에게 폐쇄되었다. [글] 1940년 프랑스의 10대 몇 명이 땅의 구멍을 살피다 동굴에 내려가 벽이 말, 사슴, 들소 그림으로 덮인 것을 발견했다. 이야기에 따르면 그중 한 명의 개가 처음 그곳으로 이끌었다. 수천 년 넘은 그림은 놀랄 만큼 생생했고 제2차 세계대전 뒤 많은 방문객이 몰려왔다. 그들의 숨, 체온, 들여온 균이 곧 공기를 바꾸어 벽에 녹색 생장물과 흰 결정이 나타나기 시작했다. 수천 년을 견딘 그림이 갑자기 사라질 위험에 놓인 듯했다. 몇 년 뒤 사람들이 여전히 경험할 수 있도록 근처에 주요 방의 똑같은 복제품이 지어졌다. 오늘날 복제품은 많은 방문객을 맞고, 원래 동굴에는 소수의 전문가만 들어갈 수 있다. 이 이야기는 어떤 곳을 사랑하는 것과 보호하는 것이 늘 같지는 않음을 보여 준다.",
+    "why": "피해(③ 문장) 뒤에 '피해를 막기 위해' 폐쇄했고, 그 뒤 복제품을 지었으므로 ④입니다.",
     "optionNotes": [
-      "'That is why'가 이어질 이유가 아직 나오지 않았습니다.",
-      "세균 이야기 직전이라 이유가 부족합니다.",
-      "이유(비누가 시간이 필요) 설명 도중이라 아직 이릅니다.",
-      "정답. 이유 뒤에 권장 시간이 나오고 측정 방법이 이어집니다.",
-      "마지막 건조 설명 앞이라 흐름이 어긋납니다."
+      "발견 전이라 'the damage'가 없습니다.",
+      "피해가 아직 설명되지 않았습니다.",
+      "방문객이 막 온 시점이라 이릅니다.",
+      "정답. 피해 → 폐쇄 → 복제품입니다.",
+      "복제품 설명 뒤에는 순서가 거꾸로입니다."
     ],
-    "trap": "'twenty seconds'와 ④의 'measure the time'이 이어진다는 점을 놓치지 마세요.",
-    "tip": "That is why는 원인 설명 직후에 놓입니다."
+    "trap": "⑤에 넣으면 복제품이 폐쇄 전에 지어진 것처럼 됩니다.",
+    "tip": "'the damage'가 가리키는 내용 바로 뒤를 찾으세요."
   },
   {
     "id": "m2b-11-40",
     "level": "m2",
     "set": "mock-11",
+    "rev": 2,
     "no": 40,
     "type": "summary",
     "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Researchers followed two hundred children for two years. One group read aloud with an adult for twenty minutes every day, while the other group read silently alone. When the experiment ended, the children who read aloud had learned about twice as many new words as the others. The researchers explained that adults often stopped to explain difficult words and asked questions about the story. The children heard many new words in a meaningful context and talked about them. In contrast, the children who read alone often skipped words they did not understand.\n\n▶ Reading aloud with an adult (A) children's vocabulary because the children (B) many new words.",
+    "passage": "Many parents have watched a child push vegetables to the edge of the plate. Researchers wondered whether giving children a hand in the cooking might make a difference. In one study, children aged six to ten were divided into two groups. Those in the first group prepared a lunch together with a parent, washing and mixing the ingredients under guidance. Those in the second group played while a parent cooked the same lunch by the same recipe. Afterward every child was served the meal. The children who had helped ate considerably more of the salad than the others, and they also reported feeling more positive. The study was small and looked at a single meal, so it cannot tell us whether the effect lasts for months. Even so, it suggests that taking part in making food may change how willing a child is to eat it.\n\n▶ Children who help to (A) a meal may be more (B) to eat the food in it.",
     "options": [
-      "(A) reduced — (B) completely avoided and ignored",
-      "(A) ignored — (B) forgot",
-      "(A) delayed — (B) skipped",
-      "(A) improved — (B) heard and discussed",
-      "(A) stopped — (B) hid"
+      "(A) buy — (B) afraid",
+      "(A) serve — (B) slow",
+      "(A) prepare — (B) unable",
+      "(A) prepare — (B) willing",
+      "(A) clean — (B) willing"
     ],
     "answer": 3,
-    "translation": "연구자들은 2년 동안 아이 이백 명을 추적했다. 한 집단은 매일 이십 분씩 어른과 소리 내어 읽었고 다른 집단은 혼자 조용히 읽었다. 실험이 끝났을 때 소리 내어 읽은 아이들은 다른 아이들보다 약 두 배 많은 새 단어를 배웠다. 연구자들은 어른이 자주 멈춰 어려운 단어를 설명하고 이야기에 대해 질문했다고 설명했다. 아이들은 의미 있는 맥락에서 많은 새 단어를 듣고 그것에 대해 이야기했다. 반면 혼자 읽은 아이들은 이해하지 못하는 단어를 자주 건너뛰었다. ▶ 어른과 소리 내어 읽는 것은 아이들이 많은 새 단어를 (B)했기 때문에 어휘를 (A)했다.",
-    "why": "어른과 소리 내어 읽은 아이들이 새 단어를 듣고 이야기하며 어휘가 늘었으므로 (A)는 improved, (B)는 heard and discussed입니다.",
+    "translation": "많은 부모는 아이가 채소를 접시 가장자리로 미는 것을 보았다. 연구자들은 아이를 요리에 참여시키면 차이가 생길지 궁금했다. 한 연구에서 6~10세 아동을 두 집단으로 나누었다. 첫 집단은 안내에 따라 재료를 씻고 섞으며 부모와 점심을 준비했다. 둘째 집단은 부모가 같은 조리법으로 같은 점심을 만드는 동안 놀았다. 그 뒤 모든 아이에게 식사를 주었다. 도운 아이들은 다른 아이보다 샐러드를 상당히 많이 먹었고 기분도 더 좋다고 답했다. 연구는 작고 한 끼만 보았으므로 효과가 몇 달 지속되는지는 알 수 없다. 그래도 음식 만들기에 참여하는 것이 아이가 그것을 먹으려는 마음을 바꿀 수 있음을 시사한다. ▶ 식사 준비를 돕는 아이는 그 음식을 먹으려는 마음이 더 클 수 있다.",
+    "why": "요리를 도운(prepare) 아이들이 더 많이 먹었으므로(willing) ④입니다.",
     "optionNotes": [
-      "reduced와 avoided는 글과 반대입니다.",
-      "ignored와 forgot은 글에 나오지 않습니다.",
-      "delayed와 skipped는 혼자 읽은 집단의 모습입니다.",
-      "정답. 어휘가 향상되었고 단어를 듣고 이야기했습니다.",
-      "stopped와 hid는 글에 나오지 않습니다."
+      "장보기는 실험 조건이 아닙니다.",
+      "상 차리기가 아니라 요리였습니다.",
+      "먹지 못하게 된 것이 아닙니다.",
+      "정답. 준비를 도우면 더 기꺼이 먹습니다.",
+      "청소는 실험 조건이 아닙니다."
     ],
-    "trap": "skipped는 혼자 읽은 아이들의 행동이므로 소리 내어 읽은 집단과 혼동하지 마세요.",
-    "tip": "요약문은 조건(어른과 읽기)과 결과(어휘 향상)를 짝지으세요."
+    "trap": "⑤는 (B)만 맞고 (A)가 틀린 함정입니다.",
+    "tip": "두 집단의 차이(요리 참여 여부)가 (A)입니다."
   }
 ]
