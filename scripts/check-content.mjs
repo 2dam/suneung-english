@@ -127,6 +127,13 @@ for (const q of questions) {
     }
   }
   if (q.type === 'blank' && q.passage && !/_{5,}/.test(q.passage)) err(id, '빈칸 문제에 ____ 표기가 없습니다')
+  // 개정판 44번(지칭): 밑줄은 모두 대명사여야 하고, 정답만 성별이 달라 바로 풀리면 안 된다.
+  if (q.rev === 2 && q.no === 44 && q.passage) {
+    const marks = [...q.passage.matchAll(/\{([1-5])\|([^}]+)\}/g)].sort((a, b) => a[1] - b[1])
+    const genders = marks.map((m) => (/^(he|him|his|himself)$/i.test(m[2]) ? 'm' : /^(she|her|hers|herself)$/i.test(m[2]) ? 'f' : null))
+    if (marks.length !== 5 || genders.includes(null)) err(id, '44번 밑줄 5개는 모두 대명사(he/she 계열)여야 합니다')
+    else if (genders.filter((g) => g === genders[q.answer]).length === 1) err(id, '44번 정답 밑줄만 성별이 달라 읽지 않고도 풀립니다')
+  }
   // 줄바꿈이 두 번 이스케이프되면 화면에 \n 글자가 그대로 보인다.
   if (/\\\\[n"]/.test(JSON.stringify(q))) err(id, '문자열에 이스케이프 기호(\\n, \\")가 글자 그대로 들어 있습니다')
 
