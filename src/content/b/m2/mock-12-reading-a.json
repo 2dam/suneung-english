@@ -3,229 +3,247 @@
     "id": "m2b-12-18",
     "level": "m2",
     "set": "mock-12",
+    "rev": 2,
     "no": 18,
     "type": "purpose",
     "stem": "다음 글의 목적으로 가장 적절한 것은?",
-    "passage": "Dear Ms. Yoon,\nMy name is Minsu Kang, and I am a ninth-grade student. I am writing about the school lunch menu. My younger sister, who goes to the same school, is allergic to peanuts. Last week, she felt sick after eating a side dish, and we later found out that it contained peanuts. The weekly menu does not show which dishes include common allergens. I would like to ask you to add small symbols next to each dish to show its ingredients, such as peanuts, eggs, and milk. This would help many students stay safe. Thank you for taking the time to read my message.\nSincerely,\nMinsu Kang",
+    "passage": "Dear Neighbors,\nMy name is Hyejin Moon, and I volunteer at the animal shelter on Pine Street. Winter has arrived early this year, and our building is old. At night the concrete floors become very cold, and several of the dogs and cats in our care are elderly or recovering from illness. We wash their bedding every day, so it wears out much faster than you might think. At this point we have fewer than twenty usable blankets for more than sixty animals. If you have old towels, blankets, or fleece clothes that you no longer need, would you consider giving them to us? They do not have to be new, but please make sure that they are clean and have no loose buttons or long threads, which animals may swallow. You can leave them in the blue box by our front door at any time of day. Even one towel can give a frightened animal a warm place to sleep.\nWith thanks,\nHyejin Moon",
     "options": [
-      "급식 메뉴의 가격이 비싼 점에 대해 항의하려고",
-      "급식 메뉴에 알레르기 정보를 표시해 달라고 요청하려고",
-      "급식에 새로운 채식 메뉴를 추가해 달라고 정식으로 건의하려고",
-      "급식실의 위생 상태가 좋아진 것에 감사하려고",
-      "급식 시간을 더 길게 늘려 달라고 부탁하려고"
+      "보호소에서 지내는 유기 동물을 가족으로 입양해 달라고 간절히 권하려고",
+      "보호소에서 쓸 헌 수건과 담요를 기부해 달라고 요청하려고",
+      "추운 날 반려동물을 돌보는 방법을 알리려고",
+      "동물 보호소의 이전 장소를 안내하려고",
+      "보호소의 세탁 봉사자를 모집하려고"
     ],
     "answer": 1,
-    "translation": "윤 선생님께. 제 이름은 강민수이고 3학년 학생입니다. 저는 학교 급식 메뉴에 관해 씁니다. 같은 학교에 다니는 제 여동생은 땅콩 알레르기가 있습니다. 지난주 동생은 반찬 하나를 먹은 뒤 몸이 아팠고 나중에 그 반찬에 땅콩이 들어 있었다는 것을 알았습니다. 주간 메뉴에는 어떤 요리에 흔한 알레르기 유발 물질이 들어 있는지 표시되어 있지 않습니다. 각 요리 옆에 땅콩, 달걀, 우유 같은 재료를 보여 주는 작은 기호를 추가해 주시기를 부탁드립니다. 이는 많은 학생이 안전하게 지내는 데 도움이 될 것입니다. 제 메시지를 읽어 주셔서 감사합니다. 강민수 드림.",
-    "why": "급식 메뉴에 알레르기 유발 재료를 기호로 표시해 달라고 요청하는 글입니다.",
+    "translation": "이웃 여러분께. 저는 파인 거리의 동물 보호소에서 봉사하는 문혜진입니다. 올해는 겨울이 일찍 왔고 우리 건물은 낡았습니다. 밤에는 콘크리트 바닥이 매우 차가워지며, 우리가 돌보는 개와 고양이 중 몇은 늙었거나 병에서 회복 중입니다. 깔개를 매일 빨기 때문에 생각보다 훨씬 빨리 해집니다. 지금은 60마리 넘는 동물에게 쓸 만한 담요가 20장도 안 됩니다. 더는 필요 없는 헌 수건, 담요, 보풀 옷이 있다면 주시겠습니까? 새것일 필요는 없지만 깨끗하고, 동물이 삼킬 수 있는 헐거운 단추나 긴 실이 없는지 확인해 주세요. 언제든 정문 옆 파란 상자에 두시면 됩니다. 수건 한 장이라도 겁먹은 동물에게 따뜻한 잠자리를 줄 수 있습니다. 문혜진 드림.",
+    "why": "보호소에서 쓸 헌 수건과 담요를 기부해 달라고 요청하는 글입니다.",
     "optionNotes": [
-      "가격 항의는 나오지 않습니다.",
-      "정답. 알레르기 정보 표시를 요청합니다.",
-      "채식 메뉴는 나오지 않습니다.",
-      "위생에 대한 감사는 나오지 않습니다.",
-      "급식 시간은 나오지 않습니다."
+      "입양 권유가 아닙니다.",
+      "정답. 수건과 담요 기부를 요청합니다.",
+      "돌보는 방법 안내가 아닙니다.",
+      "이전 안내가 아닙니다.",
+      "봉사자 모집이 아닙니다."
     ],
-    "trap": "동생의 경험을 보고 항의(①)로 착각하지 마세요. 글의 요청은 표시 추가입니다.",
-    "tip": "목적 문제는 'I would like to ask you to ~' 같은 요청 문장을 확인하세요."
+    "trap": "'We wash their bedding'을 보고 세탁 봉사(⑤)로 생각하지 마세요.",
+    "tip": "목적 문제는 'would you consider ~?' 같은 요청 문장을 찾으세요."
   },
   {
     "id": "m2b-12-19",
     "level": "m2",
     "set": "mock-12",
+    "rev": 2,
     "no": 19,
     "type": "mood",
-    "stem": "다음 글에 드러난 Sora의 심경 변화로 가장 적절한 것은?",
-    "passage": "Sora had practiced the song for three months, but at the audition, her voice cracked on the high note. The judges wrote something on their papers, and she felt her face burning. When the results were posted, her name was not on the list. She walked home with her head down, sure that she would never sing again. That evening, her music teacher called her. \"You have a lovely voice, Sora. Many famous singers failed their first auditions. What matters is that you keep going.\" Sora wiped her eyes. She opened her notebook and began to write a new practice plan for the next audition.",
+    "stem": "다음 글에 드러난 Doyoon의 심경 변화로 가장 적절한 것은?",
+    "passage": "Doyoon had spent three evenings building his kite from thin bamboo and colored paper. At the riverside on Saturday, other children's kites rose almost at once, while his turned a circle and dived into the grass. He tried again, and again it fell. On the fifth attempt a corner tore. He sat down on the bank, picked at the broken paper, and told his father that he wanted to go home. His father did not argue. He only asked where the string was tied. Together they moved the knot a finger's width higher and patched the torn corner with tape. \"One more,\" said his father, and Doyoon shrugged. He ran without much hope, the wind caught the paper, and suddenly the line pulled hard in his hands. Up and up it went, past the bridge and above the tallest tree. Doyoon shouted so loudly that people on the path turned to look, and he did not care at all.",
     "options": [
-      "proud and excited → ashamed and disappointed",
-      "bored and sleepy → surprised and amused",
-      "disappointed and hopeless → encouraged and determined",
-      "jealous and angry → calm and thankful to others",
-      "nervous and shy → proud and fully satisfied with herself"
+      "excited → bored",
+      "proud → nervous",
+      "frustrated → overjoyed",
+      "calm → frightened",
+      "curious → disappointed"
     ],
     "answer": 2,
-    "translation": "소라는 석 달 동안 그 노래를 연습했지만 오디션에서 높은 음에서 목소리가 갈라졌다. 심사위원들은 종이에 무언가를 적었고 그녀는 얼굴이 화끈거렸다. 결과가 게시되었을 때 그녀의 이름은 명단에 없었다. 그녀는 다시는 노래하지 못할 것이라고 확신하며 고개를 숙인 채 집으로 걸어갔다. 그날 저녁 음악 선생님이 전화했다. \"소라야, 넌 아름다운 목소리를 가졌어. 유명한 가수들도 첫 오디션에서 떨어진 경우가 많단다. 중요한 건 계속하는 거야.\" 소라는 눈물을 닦았다. 그녀는 공책을 펴고 다음 오디션을 위한 새 연습 계획을 쓰기 시작했다.",
-    "why": "처음에는 낙담하고 절망했지만(disappointed and hopeless) 선생님의 격려로 새 계획을 세우며 결심했습니다(encouraged and determined).",
+    "translation": "도윤은 가는 대나무와 색종이로 연을 만드는 데 세 저녁을 썼다. 토요일 강변에서 다른 아이들의 연은 곧바로 떠올랐지만 그의 연은 한 바퀴 돌더니 풀밭에 처박혔다. 다시 해 보았지만 또 떨어졌다. 다섯 번째 시도에서 모서리가 찢어졌다. 그는 둑에 앉아 찢어진 종이를 뜯으며 아버지에게 집에 가고 싶다고 말했다. 아버지는 따지지 않았다. 줄이 어디에 묶였는지만 물었다. 둘은 매듭을 손가락 너비만큼 위로 옮기고 찢어진 모서리를 테이프로 붙였다. \"한 번만 더.\" 아버지가 말했고 도윤은 어깨를 으쓱했다. 별 기대 없이 달렸는데 바람이 종이를 잡았고 갑자기 줄이 손에서 세게 당겼다. 연은 위로 위로 올라 다리를 지나 가장 큰 나무 위로 갔다. 도윤이 너무 크게 소리쳐 길 가던 사람들이 돌아보았지만 전혀 신경 쓰지 않았다.",
+    "why": "연이 자꾸 떨어져 좌절했다가(frustrated) 높이 날아 몹시 기뻐했으므로(overjoyed) ③입니다.",
     "optionNotes": [
-      "자랑스러움에서 부끄러움이 아니라 반대입니다.",
-      "지루함에서 놀람이 아닙니다.",
-      "정답. 낙담과 절망에서 격려와 결심으로 변했습니다.",
-      "질투에서 평온이 아닙니다.",
-      "긴장에서 만족이 아닙니다."
+      "신남에서 지루함이 아닙니다.",
+      "자부심에서 긴장이 아닙니다.",
+      "정답. 좌절에서 큰 기쁨으로 변했습니다.",
+      "평온에서 두려움이 아닙니다.",
+      "순서가 반대에 가깝습니다."
     ],
-    "trap": "'wiped her eyes'만 보고 계속 슬프다고 오해하지 마세요.",
-    "tip": "전환 신호(That evening ~)를 기준으로 앞뒤 감정을 비교하세요."
+    "trap": "⑤는 감정의 방향을 뒤집은 함정입니다.",
+    "tip": "전환점(the wind caught the paper)과 마지막 행동(shouted)을 보세요."
   },
   {
     "id": "m2b-12-20",
     "level": "m2",
     "set": "mock-12",
+    "rev": 2,
     "no": 20,
     "type": "claim",
     "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
-    "passage": "Many teenagers cannot cook even a simple meal. They rely on instant food and delivery, which are often high in salt and sugar. Learning to cook teaches useful life skills, such as planning, measuring, and managing time. It also helps young people choose healthier foods, because they understand what goes into a dish. Cooking together in class builds teamwork, and students feel proud when they enjoy a meal that they made themselves. Some countries already include cooking in the regular curriculum, and students there show healthier eating habits. Therefore, schools should teach all students how to cook basic meals.",
+    "passage": "A typical school day asks students to sit for many hours, rising mainly to change rooms. By the afternoon, heads are on desks and eyes drift to the window. Teachers often respond by asking for more effort, as if attention were only a matter of will. The body, however, was not built to stay still for so long. A few minutes of movement, such as stretching, walking around the room, or tossing a soft ball while reviewing vocabulary, can wake students up. Several schools that tried this found that pupils returned to their work more calmly, not more wildly, as some had feared. Naturally, the break should be short and clearly begin and end, or it may turn into noise. The time lost is small compared with the time wasted when a whole class is only pretending to listen. For this reason, teachers should build short movement breaks into long lessons.",
     "options": [
-      "청소년은 배달 음식을 자주 먹는 것이 좋다.",
-      "요리는 전문 요리사만 배우면 충분하다.",
-      "학교 급식은 학생이 직접 요리해야 한다.",
-      "요리 수업은 가정에서만 이루어져야 한다.",
-      "학교는 모든 학생에게 기본적인 요리를 하는 방법을 가르쳐야 한다."
+      "학교는 체육 수업 시간을 지금보다 두 배로 늘려야 한다.",
+      "학생은 의지를 길러 오랜 시간 앉아 있는 연습을 해야 한다.",
+      "교실에서 공놀이를 하면 소란해지므로 금지해야 한다.",
+      "쉬는 시간에는 학생이 책상에 엎드려 쉬도록 해야 한다.",
+      "교사는 긴 수업 중에 몸을 움직이는 짧은 휴식 시간을 마련해 주어야 한다."
     ],
     "answer": 4,
-    "translation": "많은 십대는 간단한 음식조차 요리하지 못한다. 그들은 소금과 설탕이 많은 인스턴트 식품과 배달에 의존한다. 요리를 배우면 계획, 계량, 시간 관리 같은 유용한 생활 기술을 배운다. 또한 요리에 무엇이 들어가는지 이해하므로 청소년이 더 건강한 음식을 고르도록 돕는다. 수업에서 함께 요리하면 팀워크가 길러지고 직접 만든 음식을 즐길 때 학생들은 자랑스러워한다. 일부 나라는 이미 요리를 정규 교육 과정에 포함하며 그곳 학생들은 더 건강한 식습관을 보인다. 그러므로 학교는 모든 학생에게 기본 요리를 가르쳐야 한다.",
-    "why": "마지막 문장에서 학교가 모든 학생에게 기본 요리를 가르쳐야 한다고 주장합니다.",
+    "translation": "보통의 학교 하루는 학생에게 여러 시간 앉아 있게 하고 주로 교실을 옮길 때 일어나게 한다. 오후쯤이면 고개는 책상에 놓이고 눈은 창으로 떠돈다. 교사는 흔히 주의력이 의지의 문제일 뿐인 것처럼 더 노력하라고 대응한다. 그러나 몸은 그렇게 오래 가만히 있도록 만들어지지 않았다. 스트레칭, 교실 걷기, 낱말을 복습하며 말랑한 공 던지기 같은 몇 분의 움직임이 학생을 깨울 수 있다. 이를 시도한 몇몇 학교는 학생이 일부의 우려처럼 더 들뜨지 않고 더 차분하게 과제로 돌아온 것을 발견했다. 물론 휴식은 짧고 시작과 끝이 분명해야 하며 그렇지 않으면 소음이 될 수 있다. 잃는 시간은 온 학급이 듣는 척만 할 때 버려지는 시간에 비하면 작다. 그러므로 교사는 긴 수업에 짧은 움직임 휴식을 넣어야 한다.",
+    "why": "마지막 문장에서 긴 수업에 짧은 움직임 휴식을 넣어야 한다고 주장합니다.",
     "optionNotes": [
-      "배달 음식은 문제로 지적됩니다.",
-      "전문 요리사만 배우면 된다는 말은 글과 반대입니다.",
-      "급식을 학생이 요리하자는 말은 나오지 않습니다.",
-      "가정에서만 하라는 말은 글과 반대입니다.",
-      "정답. 학교가 요리를 가르쳐야 합니다."
+      "체육 시간 확대는 나오지 않습니다.",
+      "의지만의 문제가 아니라고 했습니다.",
+      "짧고 분명하면 괜찮다고 했습니다.",
+      "엎드려 쉬자는 내용이 아닙니다.",
+      "정답. 짧은 움직임 휴식을 마련하자고 합니다."
     ],
-    "trap": "'Cooking together in class'를 급식 조리(③)로 오해하지 마세요.",
-    "tip": "주장 문제는 'Therefore, ~ should' 같은 결론 문장을 확인하세요."
+    "trap": "②는 글이 비판하는 생각입니다.",
+    "tip": "주장은 'For this reason ~ should' 문장에서 확인하세요."
   },
   {
     "id": "m2b-12-21",
     "level": "m2",
     "set": "mock-12",
+    "rev": 2,
     "no": 21,
     "type": "implied",
     "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
-    "passage": "Eunha planned a surprise birthday party for her best friend Jimin. She told everyone in the class to keep it a secret. At lunch, however, Taewoo said loudly, \"I can't wait for Jimin's party on Saturday!\" Jimin turned around, and everyone froze. Eunha whispered to Taewoo, \"You {u|spilled the beans}!\" Taewoo covered his mouth and apologized. Jimin only smiled and said, \"Don't worry. I'll act surprised on Saturday.\" Everyone laughed, and the secret party turned into a fun joke.",
+    "passage": "For weeks Sejin had complained that the school magazine was dull. The covers never changed, she said, and the stories were all about meetings and test dates. One afternoon the teacher in charge listened to her for a long while without interrupting. Then the teacher said that she agreed with several points. The magazine could use new voices and better pictures, and there was money for four extra color pages. Students could even suggest a new name for it. The editorial team met on Thursdays, and a seat was empty. She would be glad to see a plan for the next issue by the end of the month, and she promised to read it carefully. Sejin opened her mouth to add another complaint and found that she had nothing to say. The teacher smiled and gathered her papers. \"I have done what I can,\" she said at the door. \"Now {u|the ball is in your court}.\"",
     "options": [
-      "dropped some food on the lunch table",
-      "cooked a bean dish for the party",
-      "made a loud noise in the cafeteria",
-      "threw away the party gifts by accident",
-      "told a secret without meaning to"
+      "it is time for you to go and play a sport outside",
+      "someone has taken something that belongs to you",
+      "you must wait until the teacher makes a decision",
+      "you are not allowed to join the magazine team",
+      "it is now your turn to take action and respond"
     ],
     "answer": 4,
-    "translation": "은하는 단짝 지민을 위해 깜짝 생일 파티를 계획했다. 그녀는 반 모두에게 비밀로 하라고 말했다. 그런데 점심시간에 태우가 큰 소리로 말했다. \"토요일 지민이 파티가 정말 기다려져!\" 지민이 뒤를 돌아보았고 모두 얼어붙었다. 은하가 태우에게 속삭였다. \"네가 비밀을 털어놨잖아!\" 태우는 입을 막고 사과했다. 지민은 미소만 짓고 말했다. \"걱정 마. 토요일에 놀란 척할게.\" 모두 웃었고 비밀 파티는 재미있는 농담이 되었다.",
-    "why": "비밀로 하기로 한 파티를 큰 소리로 말해 버린 상황이므로 'spill the beans'는 무심코 비밀을 누설한다는 뜻입니다.",
+    "translation": "몇 주 동안 세진은 학교 잡지가 따분하다고 불평해 왔다. 표지는 바뀌지 않고 기사는 온통 회의와 시험 날짜 이야기라고 했다. 어느 오후 담당 교사는 끼어들지 않고 오래 들었다. 그러고는 몇 가지에는 동의한다고 말했다. 잡지에는 새 목소리와 더 좋은 사진이 필요하고 컬러 4쪽을 늘릴 돈이 있다. 학생들은 새 이름을 제안할 수도 있었다. 편집팀은 목요일에 모이며 자리 하나가 비었다. 월말까지 다음 호 계획을 보면 기쁘겠고 꼼꼼히 읽겠다고 약속했다. 세진은 불평을 하나 더 하려고 입을 열었다가 할 말이 없음을 알았다. 교사는 미소 지으며 서류를 챙겼다. \"내가 할 수 있는 건 했어.\" 문에서 말했다. \"이제 공은 네 코트에 있어.\"",
+    "why": "기회와 조건을 마련해 주었으니 이제 세진이 행동할 차례라는 뜻입니다.",
     "optionNotes": [
-      "음식을 쏟은 것이 아닙니다.",
-      "콩 요리를 한 것이 아닙니다.",
-      "소음을 낸 것이 아닙니다.",
-      "선물을 버린 것이 아닙니다.",
-      "정답. 무심코 비밀을 말했다는 뜻입니다."
+      "실제 운동 이야기가 아닙니다.",
+      "물건을 빼앗긴 상황이 아닙니다.",
+      "교사의 결정을 기다리는 것과 반대입니다.",
+      "자리가 비어 있다고 했습니다.",
+      "정답. 이제 네가 행동할 차례입니다."
     ],
-    "trap": "'beans'를 문자 그대로 콩으로 해석하지 마세요.",
-    "tip": "관용 표현은 앞뒤 문맥(keep it a secret, said loudly)에서 의미를 추론하세요."
+    "trap": "'ball', 'court'를 운동으로 해석하지 마세요.",
+    "tip": "'I have done what I can' 뒤에 오는 말의 뜻을 생각하세요."
   },
   {
     "id": "m2b-12-22",
     "level": "m2",
     "set": "mock-12",
+    "rev": 2,
     "no": 22,
     "type": "gist",
     "stem": "다음 글의 요지로 가장 적절한 것은?",
-    "passage": "People often think that a big change needs a big effort. But small habits can bring great results over time. If you improve by just one percent each day, you will be much better after a year. Reading ten pages a day adds up to about a dozen books a year. Doing five minutes of exercise every morning builds strength slowly. The key is to choose a habit that is so small that you cannot say no. Once it becomes part of your routine, you can increase it little by little.",
+    "passage": "You are lost in a new building, or stuck on a math problem, and someone nearby could probably help. Still you hesitate. The person looks busy, and you imagine a sigh or a polite refusal. Studies suggest that this picture is often wrong. In a series of experiments, participants had to ask strangers for small favors, such as filling out a short form or borrowing a phone. Before starting, they guessed how many people they would need to approach. They consistently expected to be turned down far more often than they actually were. One reason is that the person asking thinks about the cost of helping, while the person being asked also feels how awkward it would be to say no, and may even enjoy being useful. This does not mean that every request should be granted or that we may demand anything. It does mean that fear of refusal is a poor guide. Asking is often easier than we expect.",
     "options": [
-      "큰 변화를 위해서는 큰 노력이 반드시 먼저 필요하다.",
-      "하루에 책을 열 쪽 이상 읽으면 성적이 크게 오른다.",
-      "운동은 아침보다 저녁에 하는 것이 훨씬 효과적이다.",
-      "작은 습관이라도 꾸준히 쌓이면 큰 변화를 만들 수 있다.",
-      "습관을 만들 때는 처음부터 매우 어려운 목표를 세워야 한다."
+      "남에게 도움을 청할 때는 보답을 미리 약속해야 한다.",
+      "바빠 보이는 사람에게는 아무리 급한 일이 있더라도 부탁하지 않는 것이 올바른 예의이다.",
+      "낯선 사람은 대부분 부탁을 귀찮아하며 거절한다.",
+      "사람들은 생각보다 잘 도와주므로 거절이 두려워 부탁을 미룰 필요는 없다.",
+      "어떤 부탁이든 받으면 반드시 들어주어야 한다."
     ],
     "answer": 3,
-    "translation": "사람들은 흔히 큰 변화에는 큰 노력이 필요하다고 생각한다. 그러나 작은 습관은 시간이 지나면 큰 결과를 가져올 수 있다. 매일 1퍼센트씩만 나아져도 일 년 뒤에는 훨씬 나아져 있다. 하루에 열 쪽을 읽으면 일 년에 약 열두 권이 된다. 매일 아침 오 분 운동하면 힘이 서서히 길러진다. 핵심은 거절할 수 없을 만큼 작은 습관을 고르는 것이다. 그것이 일과의 일부가 되면 조금씩 늘릴 수 있다.",
-    "why": "작은 습관이 꾸준히 쌓이면 큰 변화를 만든다는 내용입니다.",
+    "translation": "새 건물에서 길을 잃거나 수학 문제에 막혔는데 근처 누군가가 아마 도울 수 있다. 그래도 망설인다. 그 사람은 바빠 보이고 한숨이나 정중한 거절을 상상한다. 연구는 이 그림이 흔히 틀렸음을 시사한다. 일련의 실험에서 참가자는 낯선 이에게 짧은 서식 작성이나 전화 빌리기 같은 작은 부탁을 해야 했다. 시작 전에 몇 명에게 다가가야 할지 추측했다. 그들은 실제보다 훨씬 자주 거절당할 것이라 한결같이 예상했다. 한 이유는 부탁하는 사람은 돕는 비용을 생각하지만 부탁받는 사람은 거절의 어색함도 느끼며 쓸모 있는 것을 즐길 수도 있기 때문이다. 모든 요청을 들어주어야 한다거나 무엇이든 요구해도 된다는 뜻은 아니다. 거절에 대한 두려움은 나쁜 안내자라는 뜻이다. 부탁은 흔히 예상보다 쉽다.",
+    "why": "사람들은 예상보다 잘 도와주므로 거절이 두려워 부탁을 미룰 필요가 없다는 것이 요지입니다.",
     "optionNotes": [
-      "글의 첫 문장의 통념이며 글이 반박합니다.",
-      "성적은 나오지 않습니다.",
-      "운동 시간대 비교는 나오지 않습니다.",
-      "정답. 작은 습관이 쌓여 큰 변화를 만듭니다.",
-      "어려운 목표는 글과 반대입니다."
+      "보답 약속은 나오지 않습니다.",
+      "바빠 보여도 거절 예상은 틀리기 쉽습니다.",
+      "거절은 예상보다 적었습니다.",
+      "정답. 거절을 두려워하지 말고 부탁해도 됩니다.",
+      "모두 들어주어야 한다는 뜻이 아니라고 했습니다."
     ],
-    "trap": "첫 문장의 통념(큰 변화 = 큰 노력)을 필자의 주장으로 착각하지 마세요.",
-    "tip": "요지는 'But' 이후의 핵심 주장을 확인하세요."
+    "trap": "⑤는 'This does not mean ~'을 뒤집은 함정입니다.",
+    "tip": "실험 결과와 마지막 두 문장을 연결하세요."
   },
   {
     "id": "m2b-12-23",
     "level": "m2",
     "set": "mock-12",
+    "rev": 2,
     "no": 23,
     "type": "topic",
     "stem": "다음 글의 주제로 가장 적절한 것은?",
-    "passage": "Glaciers are huge rivers of ice that move slowly down mountains. They store about two thirds of the world's fresh water. However, as the Earth becomes warmer, glaciers are melting faster than ever. The melted water flows into rivers and oceans, causing sea levels to rise. Some small islands may disappear under water, and coastal cities face a higher risk of flooding. In addition, millions of people who depend on glacier water for drinking and farming may face shortages. Scientists say that reducing greenhouse gases is the best way to slow down this change.",
+    "passage": "Cutting an onion can bring tears to the eyes of the most cheerful cook. The vegetable has not always been so unfriendly. While it sits whole in the basket, it gives no trouble at all, because the chemicals involved are kept in separate parts of its cells. The knife breaks those walls. Substances that were apart now meet, and an enzyme quickly turns one of them into a gas that floats upward. When the gas reaches the surface of the eye, nerves there sense it as something harmful, and tears flow to wash it away. For the onion, this is probably a defense against animals that might bite into it underground. Cooks have found several ways to reduce the effect. A very sharp knife crushes fewer cells, chilling the onion slows the release of the gas, and a fan can blow it away from the face before it arrives. None of these works perfectly.",
     "options": [
-      "빙하 지형을 따라 안전하게 산을 오르는 방법과 장비",
-      "빙하가 녹아 해수면이 올라가는 문제와 그 영향",
-      "지구에서 가장 큰 호수의 위치와 크기",
-      "깨끗한 식수를 저장하는 가정용 물탱크의 종류",
-      "산에 사는 동물들의 겨울잠 습관"
+      "여러 가지 양파를 싹이 트지 않게 오랫동안 신선하게 보관하는 방법",
+      "양파를 썰 때 눈물이 나는 까닭과 줄이는 방법",
+      "눈물이 눈의 건강을 지키는 다양한 원리",
+      "채소가 땅속에서 영양분을 모으는 과정",
+      "요리사가 칼을 안전하게 다루는 요령"
     ],
     "answer": 1,
-    "translation": "빙하는 산을 따라 천천히 움직이는 거대한 얼음의 강이다. 빙하는 세계 민물의 약 3분의 2를 저장한다. 그러나 지구가 더 따뜻해지면서 빙하가 어느 때보다 빠르게 녹고 있다. 녹은 물이 강과 바다로 흘러 해수면이 올라간다. 일부 작은 섬은 물속으로 사라질 수 있고 해안 도시는 홍수 위험이 높아진다. 게다가 식수와 농업을 빙하의 물에 의존하는 수백만 명이 물 부족을 겪을 수 있다. 과학자들은 온실가스를 줄이는 것이 이 변화를 늦추는 가장 좋은 방법이라고 말한다.",
-    "why": "빙하가 녹아 해수면이 오르고 여러 영향을 준다는 내용입니다.",
+    "translation": "양파를 썰면 가장 쾌활한 요리사의 눈에도 눈물이 맺힐 수 있다. 이 채소가 늘 그렇게 불친절했던 것은 아니다. 바구니에 통째로 있을 때는 관련 화학 물질이 세포의 다른 부분에 따로 있어 전혀 문제를 일으키지 않는다. 칼이 그 벽을 부순다. 떨어져 있던 물질이 만나고 효소가 그중 하나를 위로 떠오르는 기체로 빠르게 바꾼다. 기체가 눈 표면에 닿으면 그곳의 신경이 해로운 것으로 감지해 씻어 내려고 눈물이 흐른다. 양파에게 이는 아마 땅속에서 물어뜯을 동물에 대한 방어일 것이다. 요리사는 효과를 줄이는 몇 가지 방법을 찾았다. 아주 날카로운 칼은 세포를 덜 으깨고, 양파를 차게 하면 기체 방출이 느려지며, 선풍기는 기체가 닿기 전에 얼굴에서 날려 버릴 수 있다. 어느 것도 완벽하게 통하지는 않는다.",
+    "why": "양파를 썰 때 눈물이 나는 원리와 줄이는 방법을 설명하므로 ②가 주제입니다.",
     "optionNotes": [
-      "등산 방법은 나오지 않습니다.",
-      "정답. 빙하가 녹아 해수면이 오르는 문제와 영향입니다.",
-      "호수는 나오지 않습니다.",
-      "물탱크는 나오지 않습니다.",
-      "겨울잠은 나오지 않습니다."
+      "보관법은 나오지 않습니다.",
+      "정답. 눈물의 원인과 줄이는 방법입니다.",
+      "눈물의 일반 원리가 아닙니다.",
+      "영양분 흡수는 나오지 않습니다.",
+      "칼 안전 요령이 아닙니다."
     ],
-    "trap": "'fresh water'가 나온다고 식수 저장(④)으로 착각하지 마세요.",
-    "tip": "주제는 반복되는 핵심어(glaciers melting)와 결과로 파악하세요."
+    "trap": "⑤는 'sharp knife'를 이용한 함정입니다.",
+    "tip": "글의 앞부분(원인)과 뒷부분(해결)을 함께 담으세요."
   },
   {
     "id": "m2b-12-24",
     "level": "m2",
     "set": "mock-12",
+    "rev": 2,
     "no": 24,
     "type": "title",
     "stem": "다음 글의 제목으로 가장 적절한 것은?",
-    "passage": "Most people think that cats purr only when they are happy. In fact, cats also purr when they are scared, hurt, or hungry. Scientists believe that the sound helps cats calm themselves down. The vibration of a purr, which is between twenty-five and one hundred fifty hertz, may even help heal bones and reduce pain. Kittens begin to purr when they are only a few days old, and the sound tells their mother that they are safe. Some cats even purr to ask for food by mixing a high-pitched cry with their normal purr. So a purr is not just a sign of joy; it is a tool for communication and healing.",
+    "passage": "When Paris built its famous iron tower for the World's Fair of 1889, other countries took notice. Chicago was to hold the next great fair, and its organizers challenged American engineers to produce something just as daring. Many proposals were simply taller towers. A bridge builder named George Ferris suggested something quite different: a gigantic wheel that would carry people around in the air. His idea was at first dismissed as unsafe and impossible. He persisted, paid for studies himself, and finally received permission. The wheel that opened in 1893 stood about eighty meters high and carried thirty-six cars, each large enough to hold dozens of passengers. Visitors who had never been higher than a church steeple saw the whole city spread out below them. The original wheel was later destroyed, but smaller and larger relatives now turn in amusement parks and city centers all over the world, still carrying Ferris's name.",
     "options": [
-      "The Surprising Reasons Why Cats Purr",
-      "How to Train Your Cat to Use a New Toilet",
-      "Great Cat Breeds for Small Apartments in the City",
-      "The History of Cats in Ancient Egyptian Temples",
-      "Why Dogs Are Smarter Than Cats in Every Way"
+      "A Wheel to Rival a Tower: The Birth of the Ferris Wheel",
+      "Why the Famous Eiffel Tower in Paris Had to Be Made of Iron",
+      "How to Stay Safe in an Amusement Park",
+      "The History of Bridges Across American Rivers",
+      "Chicago: The Tallest City in the World"
     ],
     "answer": 0,
-    "translation": "대부분의 사람은 고양이가 행복할 때만 가르랑거린다고 생각한다. 사실 고양이는 겁이 나거나 다쳤거나 배고플 때도 가르랑거린다. 과학자들은 그 소리가 고양이가 스스로 진정하도록 돕는다고 믿는다. 25~150헤르츠 사이인 가르랑 소리의 진동은 뼈가 낫는 것을 돕고 통증을 줄여 줄 수도 있다. 새끼 고양이는 태어난 지 며칠 만에 가르랑거리기 시작하며 그 소리는 어미에게 자신이 안전하다고 알린다. 일부 고양이는 높은 울음소리를 평소의 가르랑 소리에 섞어 먹이를 달라고 하기도 한다. 그래서 가르랑 소리는 단순한 기쁨의 표시가 아니라 의사소통과 치유의 도구이다.",
-    "why": "고양이가 가르랑거리는 뜻밖의 이유를 설명하는 글이므로 ①이 제목으로 알맞습니다.",
+    "translation": "파리가 1889년 만국 박람회를 위해 유명한 철탑을 세우자 다른 나라들이 주목했다. 시카고가 다음 대박람회를 열게 되었고 주최 측은 미국 기술자에게 그만큼 대담한 것을 만들라고 도전을 걸었다. 많은 제안은 그저 더 높은 탑이었다. 조지 페리스라는 교량 기술자는 아주 다른 것을 제안했다. 사람을 태워 공중에서 돌리는 거대한 바퀴였다. 그의 생각은 처음에 위험하고 불가능하다고 일축되었다. 그는 굴하지 않고 직접 비용을 들여 연구한 끝에 허가를 받았다. 1893년에 문을 연 바퀴는 높이 약 80미터였고 각각 수십 명이 타는 객차 36량을 실었다. 교회 첨탑보다 높이 올라 본 적 없는 방문객이 발아래 펼쳐진 도시 전체를 보았다. 원래 바퀴는 나중에 파괴되었지만 작고 큰 친척들이 지금도 페리스의 이름을 지닌 채 전 세계 놀이공원과 도심에서 돌고 있다.",
+    "why": "에펠탑에 맞설 것을 찾다 대관람차가 탄생한 이야기이므로 ①이 제목입니다.",
     "optionNotes": [
-      "정답. 가르랑거리는 뜻밖의 이유입니다.",
-      "화장실 훈련은 나오지 않습니다.",
-      "고양이 품종은 나오지 않습니다.",
-      "이집트 신전은 나오지 않습니다.",
-      "개와 고양이 비교는 나오지 않습니다."
+      "정답. 탑에 맞선 바퀴, 대관람차의 탄생입니다.",
+      "에펠탑 재료는 나오지 않습니다.",
+      "놀이공원 안전 수칙이 아닙니다.",
+      "다리의 역사가 아닙니다.",
+      "도시의 높이 순위가 아닙니다."
     ],
-    "trap": "'kittens'가 나온다고 새끼 고양이 돌봄으로 좁히지 마세요.",
-    "tip": "제목은 글 전체의 핵심 반전(행복할 때만이 아님)을 담으세요."
+    "trap": "②는 첫 문장만 보고 고르게 하는 함정입니다.",
+    "tip": "글 전체의 중심 대상(wheel)과 계기(tower)를 담으세요."
   },
   {
     "id": "m2b-12-25",
     "level": "m2",
     "set": "mock-12",
+    "rev": 2,
     "no": 25,
     "type": "chart",
     "stem": "다음 도표의 내용과 일치하지 않는 것은?",
     "chart": {
-      "title": "Students' Favorite Fruits (%)",
-      "unit": "%",
+      "title": "Average Sleep on School Nights (hours)",
+      "unit": "hours",
       "labels": [
-        "Apple",
-        "Grape",
-        "Peach",
-        "Banana",
-        "Melon"
+        "Grade 5",
+        "Grade 6",
+        "Grade 7",
+        "Grade 8",
+        "Grade 9"
       ],
       "series": [
         {
-          "name": "Percent",
+          "name": "2012",
           "values": [
-            30,
-            24,
-            20,
-            16,
-            10
+            9,
+            8.8,
+            8.2,
+            7.6,
+            7.2
+          ]
+        },
+        {
+          "name": "2022",
+          "values": [
+            8.8,
+            8.4,
+            7.5,
+            7,
+            6.5
           ]
         }
       ]
     },
-    "passage": "The graph shows the favorite fruits of students. ① Apple is the most popular fruit. ② Grape is chosen by 24 percent of the students. ③ Peach is more popular than banana. ④ Banana is chosen by 6 percent more students than melon. ⑤ The percentage of students who chose melon is higher than that of peach.",
+    "passage": "The graph shows how long students in five grades slept on school nights in 2012 and 2022. ① In every grade, students slept less in 2022 than in 2012. ② In both years, the higher the grade, the shorter the sleep. ③ The decrease was smallest in Grade 5. ④ Grade 7 and Grade 9 recorded the same amount of decrease. ⑤ In 2022, Grade 7 students slept longer than Grade 8 students had slept in 2012.",
     "options": [
       "①",
       "②",
@@ -234,100 +252,103 @@
       "⑤"
     ],
     "answer": 4,
-    "translation": "그래프는 학생들이 가장 좋아하는 과일을 보여 준다. ① 사과가 가장 인기 있는 과일이다. ② 포도는 학생의 24퍼센트가 선택했다. ③ 복숭아는 바나나보다 인기가 많다. ④ 바나나는 멜론보다 6퍼센트 더 많은 학생이 선택했다. ⑤ 멜론을 선택한 학생의 비율은 복숭아보다 높다.",
-    "why": "멜론은 10%, 복숭아는 20%이므로 멜론이 복숭아보다 높다는 ⑤는 일치하지 않습니다.",
+    "translation": "그래프는 2012년과 2022년 다섯 학년 학생의 등교 전날 수면 시간을 보여 준다. ① 모든 학년에서 2022년이 2012년보다 적게 잤다. ② 두 해 모두 학년이 높을수록 수면이 짧았다. ③ 감소는 5학년에서 가장 작았다. ④ 7학년과 9학년은 감소량이 같았다. ⑤ 2022년 7학년은 2012년 8학년보다 오래 잤다.",
+    "why": "2022년 7학년은 7.5시간, 2012년 8학년은 7.6시간이므로 ⑤는 일치하지 않습니다.",
     "optionNotes": [
-      "사과 30%로 가장 높습니다.",
-      "포도는 24%입니다.",
-      "복숭아 20%가 바나나 16%보다 높습니다.",
-      "16 - 10 = 6퍼센트입니다.",
-      "정답(불일치). 멜론(10%)은 복숭아(20%)보다 낮습니다."
+      "다섯 학년 모두 줄었습니다.",
+      "두 해 모두 학년이 올라갈수록 줄어듭니다.",
+      "0.2시간으로 가장 작습니다.",
+      "둘 다 0.7시간 줄었습니다.",
+      "정답(불일치). 7.5시간은 7.6시간보다 짧습니다."
     ],
-    "trap": "가장 낮은 항목과 중간 항목의 순서를 반대로 읽기 쉽습니다.",
-    "tip": "그래프 문제는 비교 표현(higher than)의 방향을 수치로 확인하세요."
+    "trap": "⑤는 서로 다른 연도와 학년을 비교하므로 값을 정확히 찾아야 합니다.",
+    "tip": "비교 대상의 연도와 학년을 하나씩 확인하세요."
   },
   {
     "id": "m2b-12-26",
     "level": "m2",
     "set": "mock-12",
+    "rev": 2,
     "no": 26,
     "type": "match",
-    "stem": "Frida Kahlo에 관한 다음 글의 내용과 일치하는 것은?",
-    "passage": "Frida Kahlo was born in Mexico in 1907. She wanted to become a doctor, but a terrible bus accident at the age of eighteen changed her life. She had to lie in bed for months with a broken body. To help her pass the time, her parents placed a mirror above her bed and gave her paints. She began to paint herself, and this was the start of her career as an artist. Over her lifetime, she painted about fifty self-portraits, which show her pain and her love of Mexican culture. She married the famous painter Diego Rivera. Today, her colorful and emotional paintings are admired around the world.",
+    "stem": "Grace Hopper에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Grace Hopper was born in New York City in 1906. As a curious child, she is said to have taken apart several alarm clocks to see how they worked. She studied mathematics and physics, earned a doctorate in mathematics from Yale in 1934, and then taught at a college for women. During the Second World War she joined the navy and was sent to Harvard to work on one of the first large computers. At that time instructions had to be written in forms that only specialists could read. Hopper believed that people should be able to program in something closer to English. Many doubted that a machine could handle this, but her team built an early program that translated instructions into machine code, and her ideas strongly influenced a widely used business language. She remained in the navy, off and on, for decades and retired as a rear admiral in 1986. She died in 1992.",
     "options": [
-      "어릴 때부터 화가를 꿈꾸며 미술 학교를 다녔다.",
-      "그녀의 그림은 대부분 풍경화였다.",
-      "사고로 오랫동안 침대에 누워 지내는 동안 거울을 보며 자화상을 그리기 시작했다.",
-      "화가 디에고 리베라와 결혼하지 않았다.",
-      "그림은 모두 밝고 즐거운 분위기였다."
+      "어린 시절 고장 난 시계를 고치는 가게에서 일했다.",
+      "제2차 세계대전 전에 해군에 들어가 항해를 담당했다.",
+      "사람들이 영어에 가까운 말로 프로그램을 짤 수 있어야 한다고 믿었다.",
+      "그녀의 생각은 처음부터 모두에게 환영받았다.",
+      "해군을 일찍 떠난 뒤에는 다시 돌아가지 않았다."
     ],
     "answer": 2,
-    "translation": "프리다 칼로는 1907년 멕시코에서 태어났다. 그녀는 의사가 되고 싶었지만 열여덟 살에 당한 끔찍한 버스 사고가 인생을 바꿨다. 그녀는 부서진 몸으로 몇 달 동안 침대에 누워 있어야 했다. 시간을 보내도록 부모는 침대 위에 거울을 달고 물감을 주었다. 그녀는 자신을 그리기 시작했고 이것이 화가로서의 경력의 시작이었다. 평생 동안 그녀는 약 쉰 점의 자화상을 그렸고 이는 그녀의 고통과 멕시코 문화에 대한 사랑을 보여 준다. 그녀는 유명한 화가 디에고 리베라와 결혼했다. 오늘날 그녀의 화려하고 감정적인 그림은 전 세계에서 사랑받는다.",
-    "why": "사고로 누워 지내는 동안 거울을 보며 자신을 그리기 시작했다고 하므로 ③이 일치합니다.",
+    "translation": "그레이스 호퍼는 1906년 뉴욕에서 태어났다. 호기심 많은 아이였던 그녀는 작동 원리를 보려고 알람 시계 여러 개를 분해했다고 한다. 수학과 물리를 공부하고 1934년 예일에서 수학 박사를 받은 뒤 여자 대학에서 가르쳤다. 제2차 세계대전 중 해군에 들어가 초기 대형 컴퓨터 중 하나를 다루러 하버드에 보내졌다. 당시 명령은 전문가만 읽을 수 있는 형태로 써야 했다. 호퍼는 사람들이 영어에 더 가까운 것으로 프로그램을 짤 수 있어야 한다고 믿었다. 많은 이가 기계가 이를 다룰 수 있을지 의심했지만 그녀의 팀은 명령을 기계어로 번역하는 초기 프로그램을 만들었고 그녀의 생각은 널리 쓰인 업무용 언어에 큰 영향을 주었다. 수십 년간 해군에 있다 말다 하다가 1986년 해군 소장으로 퇴역했다. 1992년 세상을 떠났다.",
+    "why": "영어에 가까운 말로 프로그램을 짜야 한다고 믿었으므로 ③이 일치합니다.",
     "optionNotes": [
-      "의사가 되고 싶었다고 했습니다.",
-      "자화상을 주로 그렸습니다.",
-      "정답. 거울을 보며 자화상을 그리기 시작했습니다.",
-      "디에고 리베라와 결혼했습니다.",
-      "고통을 보여 주는 그림이었습니다."
+      "시계를 분해했다고 합니다.",
+      "전쟁 중에 해군에 들어갔습니다.",
+      "정답. 영어에 가까운 프로그래밍을 믿었습니다.",
+      "많은 이가 의심했습니다.",
+      "수십 년간 해군에 몸담았습니다."
     ],
-    "trap": "꿈이 의사였다는 점과 사고 후 화가가 된 순서를 혼동하지 마세요.",
-    "tip": "일치 문제는 계기·시기·작품 특징을 보기와 하나씩 대조하세요."
+    "trap": "④는 'Many doubted'를 뒤집은 함정입니다.",
+    "tip": "일치 문제는 시기(during, before)와 반응(doubted)을 대조하세요."
   },
   {
     "id": "m2b-12-27",
     "level": "m2",
     "set": "mock-12",
+    "rev": 2,
     "no": 27,
     "type": "notice",
-    "stem": "Hanbit Recycling Art Contest에 관한 다음 안내문의 내용과 일치하는 것은?",
-    "passage": "Hanbit Recycling Art Contest\nTheme: Second Life\nWho can join: Students in Grades 7 to 9, individually or in a team of up to three\nMaterials: Only recycled items such as bottles, cans, and boxes\nHow to enter: Bring your work to Room 105 by Friday, November 7.\nDisplay: November 10 - 14, school main hall\nPrize: First prize - a $50 bookstore gift card\nNote: Please write your name and the title on the back of your work.",
+    "stem": "Riverside Clean-up Day 안내문의 내용과 일치하는 것은?",
+    "passage": "Riverside Clean-up Day\nWhen: Saturday, April 12, 9 a.m. - noon\nMeet: The wooden bridge near the south parking lot\nWho: Everyone is welcome. Children under 12 must come with an adult.\nWe provide: Gloves, trash bags, and long tongs\nPlease bring: A water bottle you can refill, a hat, and shoes with good grip\nAreas: Teams of five will be given one section of the riverbank each.\nSafety: Do not pick up broken glass or needles. Call a staff member instead.\nAfter: Free rice balls for all participants at noon\nRain: In light rain we will go ahead; in heavy rain the event moves to April 19.",
     "options": [
-      "작품은 재활용 재료로만 만들어야 하며 11월 7일까지 105호실에 가져와야 한다.",
-      "개인으로만 참가할 수 있다.",
-      "전시는 체육관에서 열린다.",
-      "1등에게는 현금 50달러를 준다.",
-      "7학년만 참가할 수 있다."
+      "유리 조각이나 바늘은 직접 줍지 말고 직원을 불러야 한다.",
+      "12세 미만 어린이는 혼자서도 참가할 수 있다.",
+      "참가자는 장갑과 쓰레기봉투를 가져와야 한다.",
+      "비가 조금만 와도 행사는 4월 19일로 미뤄진다.",
+      "주먹밥은 미리 돈을 낸 사람에게만 준다."
     ],
     "answer": 0,
-    "translation": "한빛 재활용 미술 대회. 주제: 두 번째 삶. 참가 대상: 7~9학년 학생, 개인 또는 최대 세 명의 팀. 재료: 병, 캔, 상자 같은 재활용품만 가능. 참가 방법: 11월 7일 금요일까지 105호실에 작품을 가져오세요. 전시: 11월 10~14일 학교 중앙 홀. 상: 1등 – 서점 상품권 50달러. 유의: 작품 뒷면에 이름과 제목을 쓰세요.",
-    "why": "'Only recycled items'와 'Bring your work to Room 105 by Friday, November 7'과 일치합니다.",
+    "translation": "강변 정화의 날. 일시: 4월 12일 토요일 오전 9시~정오. 모임: 남쪽 주차장 옆 나무다리. 대상: 누구나 환영, 12세 미만은 어른과 함께. 제공: 장갑, 쓰레기봉투, 긴 집게. 준비물: 다시 채울 수 있는 물병, 모자, 미끄럽지 않은 신발. 구역: 다섯 명 팀마다 강둑 한 구간. 안전: 깨진 유리나 바늘은 줍지 말고 직원을 부를 것. 이후: 정오에 참가자 전원 무료 주먹밥. 우천: 약한 비에는 진행, 폭우면 4월 19일로 연기.",
+    "why": "'Do not pick up broken glass or needles. Call a staff member instead.'와 일치합니다.",
     "optionNotes": [
-      "정답. 재활용 재료와 제출 장소·기한이 일치합니다.",
-      "최대 세 명의 팀도 가능합니다.",
-      "전시는 중앙 홀에서 열립니다.",
-      "현금이 아니라 서점 상품권입니다.",
-      "7~9학년이 참가할 수 있습니다."
+      "정답. 직원을 불러야 합니다.",
+      "어른과 함께 와야 합니다.",
+      "장갑과 봉투는 제공됩니다.",
+      "약한 비에는 진행합니다.",
+      "전원 무료입니다."
     ],
-    "trap": "제출 기한(11월 7일)과 전시 기간(11월 10~14일)을 혼동하지 마세요.",
-    "tip": "안내문의 Materials, How to enter, Display, Prize 항목을 하나씩 대조하세요."
+    "trap": "④는 'light rain'과 'heavy rain'을 뒤바꾼 함정입니다.",
+    "tip": "안내문의 Who, We provide, Safety, Rain 항목을 대조하세요."
   },
   {
     "id": "m2b-12-28",
     "level": "m2",
     "set": "mock-12",
+    "rev": 2,
     "no": 28,
     "type": "notice",
-    "stem": "Hanbit Bake Sale 안내문의 내용과 일치하는 것은?",
-    "passage": "Hanbit Bake Sale\nDate: Friday, December 5, 12:30 p.m. - 1:30 p.m.\nPlace: Cafeteria entrance\nPrices: Cookies $1 / Muffins $2 / Cake slices $3\nPayment: Cash only\nAll money raised will help the local animal shelter buy food and blankets.\nIf you want to donate homemade baked goods, please bring them to the student council room by Thursday.",
+    "stem": "Summer Swimming Lessons 안내문의 내용과 일치하는 것은?",
+    "passage": "Summer Swimming Lessons at Bluewater Center\nPeriod: July 21 - August 15, Monday, Wednesday, and Friday\nClasses: Beginner 9:00 - 9:50 / Intermediate 10:00 - 10:50\nWho: Ages 10 to 15\nClass size: Up to 12 students per class\nFee: 60,000 won for four weeks; brothers and sisters receive 10 percent off\nBring: Swimsuit, cap, and towel. Goggles can be bought at the front desk.\nRegistration: From June 30 on the center's website, first come, first served\nMissed classes: There are no make-up lessons or refunds for individual absences.\nParents may watch from the second-floor window.",
     "options": [
-      "판매는 토요일에 열린다.",
-      "쿠키는 한 개에 2달러이다.",
-      "현금뿐 아니라 카드로도 결제할 수 있다.",
-      "행사는 도서관 입구에서 열린다.",
-      "수익금은 동물 보호소를 돕는 데 쓰인다."
+      "수업은 월요일부터 금요일까지 매일 열린다.",
+      "한 반의 정원은 20명까지이다.",
+      "수영 모자는 안내 데스크에서 무료로 빌려준다.",
+      "결석한 수업은 다른 날에 보충받을 수 있다.",
+      "부모는 2층 창에서 수업을 지켜볼 수 있다."
     ],
     "answer": 4,
-    "translation": "한빛 베이킹 바자. 일시: 12월 5일 금요일 낮 12시 30분~오후 1시 30분. 장소: 급식실 입구. 가격: 쿠키 1달러 / 머핀 2달러 / 케이크 한 조각 3달러. 결제: 현금만 가능. 모인 모든 돈은 지역 동물 보호소가 사료와 담요를 사는 데 쓰입니다. 직접 만든 구운 과자를 기부하려면 목요일까지 학생회실로 가져오세요.",
-    "why": "'All money raised will help the local animal shelter'와 일치합니다.",
+    "translation": "블루워터 센터 여름 수영 강습. 기간: 7월 21일~8월 15일 월·수·금. 반: 초급 9:00~9:50, 중급 10:00~10:50. 대상: 10~15세. 정원: 반당 최대 12명. 수강료: 4주 60,000원, 형제자매 10% 할인. 준비물: 수영복, 모자, 수건. 물안경은 안내 데스크에서 구매 가능. 신청: 6월 30일부터 센터 누리집, 선착순. 결석: 개인 결석에는 보강과 환불 없음. 부모는 2층 창에서 참관 가능.",
+    "why": "'Parents may watch from the second-floor window'와 일치합니다.",
     "optionNotes": [
-      "금요일에 열립니다.",
-      "쿠키는 1달러입니다.",
-      "현금만 가능합니다.",
-      "급식실 입구에서 열립니다.",
-      "정답. 수익금은 동물 보호소를 돕는 데 쓰입니다."
+      "월·수·금에만 열립니다.",
+      "최대 12명입니다.",
+      "모자는 가져와야 합니다.",
+      "보강이 없습니다.",
+      "정답. 2층 창에서 볼 수 있습니다."
     ],
-    "trap": "쿠키(1달러)와 머핀(2달러)의 가격을 혼동하지 마세요.",
-    "tip": "안내문의 Date, Place, Prices, Payment 항목을 하나씩 대조하세요."
+    "trap": "③은 '물안경 구매'를 '모자 대여'로 바꾼 함정입니다.",
+    "tip": "안내문의 Period, Class size, Bring, Missed classes 항목을 대조하세요."
   }
 ]
