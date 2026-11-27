@@ -3,10 +3,11 @@
     "id": "m2b-14-29",
     "level": "m2",
     "set": "mock-14",
+    "rev": 2,
     "no": 29,
     "type": "grammar",
     "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
-    "passage": "Elephants are the largest land animals, and they live in family groups led by the oldest female. Elephants communicate {1|with} each other using low sounds that people cannot hear. These sounds can travel several kilometers through the ground, so other elephants {2|feel} them with their feet. A baby elephant can stand within an hour of birth, and it {3|follow} its mother soon after. Elephants love water and use their trunks {4|to spray} themselves on hot days. They also {5|remember} places where they found food many years ago. Because of their strong memory, the oldest elephants guide the group to water during long dry seasons.",
+    "passage": "People cleaned their teeth long before there were toothbrushes like ours. In many places they chewed the end of a twig until the fibers spread out, and then {1|rubbed} their teeth with it. Some kinds of wood were preferred because their taste or smell was pleasant. A brush that looks more familiar appeared in China several centuries ago. Stiff hairs from pigs were fixed into a handle {2|made} of bone or bamboo. When the idea reached Europe, some people found the hairs too hard and chose softer ones from horses, {3|that} cleaned less well. Animal hair had another weakness: it stayed damp, which allowed germs {4|to grow} in it. This problem was not solved until the late 1930s, when nylon bristles came on the market. They dried quickly and did not fall out so easily. Today people replace their brushes often, and the question has become what to do with {5|the billions} of used plastic handles.",
     "options": [
       "①",
       "②",
@@ -15,26 +16,27 @@
       "⑤"
     ],
     "answer": 2,
-    "translation": "코끼리는 가장 큰 육상 동물이며 가장 나이 많은 암컷이 이끄는 가족 무리를 이루어 산다. 코끼리는 사람이 들을 수 없는 낮은 소리로 서로 의사소통한다. 이 소리는 땅을 통해 몇 킬로미터를 갈 수 있어서 다른 코끼리들이 발로 그것을 느낀다. 아기 코끼리는 태어나 한 시간 안에 설 수 있고 곧 어미를 따라간다. 코끼리는 물을 좋아하고 더운 날 코로 몸에 물을 뿌린다. 또한 여러 해 전에 먹이를 찾았던 장소를 기억한다. 강한 기억력 덕분에 가장 나이 많은 코끼리들이 긴 건기 동안 무리를 물이 있는 곳으로 이끈다.",
-    "why": "주어 it이 3인칭 단수이고 현재 시제이므로 'follow'가 아니라 'follows'여야 합니다.",
+    "translation": "사람들은 우리 같은 칫솔이 있기 훨씬 전부터 이를 닦았다. 많은 곳에서 섬유가 퍼질 때까지 잔가지 끝을 씹은 뒤 그것으로 이를 문질렀다. 맛이나 향이 좋아 선호된 나무도 있었다. 더 익숙한 모양의 솔은 몇 세기 전 중국에 나타났다. 뻣뻣한 돼지 털을 뼈나 대나무 손잡이에 박았다. 이 생각이 유럽에 닿자 어떤 이는 털이 너무 딱딱해 더 부드러운 말 털을 골랐는데 덜 잘 닦였다. 동물 털에는 또 다른 약점이 있었다. 축축하게 남아 세균이 자라게 했다. 이 문제는 1930년대 후반 나일론 솔이 시장에 나와서야 풀렸다. 빨리 마르고 쉽게 빠지지 않았다. 오늘날 사람들은 솔을 자주 바꾸며, 물음은 다 쓴 수십억 개의 플라스틱 손잡이를 어떻게 할 것인가가 되었다.",
+    "why": "콤마 뒤에서 앞의 softer ones를 설명하는 계속적 용법에는 that을 쓸 수 없으므로 which여야 합니다.",
     "optionNotes": [
-      "communicate with 구조의 with입니다.",
-      "주어 other elephants에 맞는 동사원형 feel입니다.",
-      "정답(틀린 것). 주어 it에 맞춰 follows여야 합니다.",
-      "목적을 나타내는 to부정사입니다.",
-      "주어 They에 맞는 동사원형 remember입니다."
+      "chewed와 병렬인 과거형입니다.",
+      "a handle을 꾸미는 과거분사입니다.",
+      "정답(틀린 것). 콤마 뒤에는 which를 씁니다.",
+      "allow + 목적어 + to V입니다.",
+      "'수십억 개'라는 명사구입니다."
     ],
-    "trap": "and로 이어진 절의 주어(it)를 놓치고 앞 절의 동사 형태를 따라가기 쉽습니다.",
-    "tip": "절마다 주어를 확인해 동사의 수와 시제를 일치시키세요."
+    "trap": "that이 관계대명사로 흔해 지나치기 쉽습니다.",
+    "tip": "콤마 뒤의 관계대명사 that을 확인하세요."
   },
   {
     "id": "m2b-14-30",
     "level": "m2",
     "set": "mock-14",
+    "rev": 2,
     "no": 30,
     "type": "vocab",
     "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
-    "passage": "Sleep is very important for teenagers. During sleep, the brain {1|stores} what we learned during the day. Teenagers need about nine hours of sleep, but many get less than seven. Lack of sleep makes it {2|hard} to concentrate and can cause bad moods. Using phones in bed {3|delays} sleep because the screen light tells the brain that it is still daytime. To sleep better, go to bed at a regular time and keep your room {4|dark} and quiet. A short walk in the evening also helps your body to relax. If you {5|ignore} these habits, you will feel more energetic every day.",
+    "passage": "Shoppers who care about the environment often look for food that has not traveled far. The idea of counting \"food miles\" is easy to grasp, and buying from nearby farms has real {1|benefits}. The food is often fresh, and money stays in the local community. Yet distance alone can be a {2|poor} guide to the damage that a meal causes. Much depends on how the food is produced. A tomato grown nearby in a heated greenhouse in winter may require more {3|energy} than one grown in a warm country and carried by ship. The way of transport matters too, since moving goods by air releases far more gas than moving them by sea. For many foods, growing and processing account for a much {4|larger} share than the journey does. This is no reason to ignore distance. It does suggest that a shopper who wants to help should consider the season and the method of production, and not judge a product {5|carefully} by the number of kilometers on its label.",
     "options": [
       "①",
       "②",
@@ -43,138 +45,143 @@
       "⑤"
     ],
     "answer": 4,
-    "translation": "수면은 십대에게 매우 중요하다. 자는 동안 뇌는 낮에 배운 것을 저장한다. 십대는 약 아홉 시간의 수면이 필요하지만 많은 학생이 일곱 시간도 못 잔다. 수면 부족은 집중을 어렵게 하고 기분을 나쁘게 만들 수 있다. 침대에서 휴대전화를 쓰면 화면 빛이 뇌에 아직 낮이라고 알려 주기 때문에 잠이 늦어진다. 더 잘 자려면 규칙적인 시간에 자고 방을 어둡고 조용하게 유지하라. 저녁의 짧은 산책도 몸이 이완되도록 돕는다. 이런 습관을 따르면 매일 더 활기차게 지낼 것이다.",
-    "why": "활기차게 지내려면 이런 습관을 '무시하는(ignore)' 것이 아니라 '따르는(follow)' 것이 알맞습니다.",
+    "translation": "환경을 생각하는 소비자는 흔히 멀리 이동하지 않은 식품을 찾는다. \"푸드 마일\"을 세는 생각은 이해하기 쉽고, 근처 농장에서 사는 것은 실제 이점이 있다. 식품이 흔히 신선하고 돈이 지역 사회에 남는다. 그러나 거리만으로는 한 끼가 일으키는 피해의 나쁜 안내자일 수 있다. 많은 것이 식품을 어떻게 생산하느냐에 달렸다. 겨울에 난방 온실에서 근처에서 기른 토마토는 따뜻한 나라에서 길러 배로 실어 온 것보다 에너지가 더 들 수 있다. 운송 방법도 중요한데, 항공 운송은 해상 운송보다 훨씬 많은 가스를 내놓기 때문이다. 많은 식품에서 재배와 가공은 이동보다 훨씬 큰 몫을 차지한다. 거리를 무시할 이유는 아니다. 돕고 싶은 소비자는 제철과 생산 방법을 고려해야 하며, 라벨의 킬로미터 수로 상품을 신중하게 판단하지 말아야 함을 시사한다.",
+    "why": "거리 숫자'만으로' 판단하지 말라는 것이므로 carefully는 부적절합니다. simply(merely)여야 합니다.",
     "optionNotes": [
-      "배운 것을 저장한다는 의미로 stores가 알맞습니다.",
-      "집중하기 어렵다는 의미로 hard가 알맞습니다.",
-      "잠이 늦어진다는 의미로 delays가 알맞습니다.",
-      "어둡고 조용하게 유지한다는 의미로 dark가 알맞습니다.",
-      "정답(부적절). 습관을 따라야 하므로 follow여야 합니다."
+      "지역 식품의 '이점'이라는 benefits입니다.",
+      "거리만으로는 '부실한' 안내라는 poor입니다.",
+      "더 많은 '에너지'가 들 수 있다는 energy입니다.",
+      "생산이 '더 큰' 몫이라는 larger입니다.",
+      "정답(부적절). 단순히(simply) 판단하지 말라는 뜻이어야 합니다."
     ],
-    "trap": "'you will feel more energetic'과 호응하는 동사의 방향을 놓치기 쉽습니다.",
-    "tip": "결과(활기참)와 조건(습관)의 방향이 일치하는지 확인하세요."
+    "trap": "'judge carefully'는 좋은 말처럼 들리지만 'not'과 함께 읽어야 합니다.",
+    "tip": "마지막 문장이 앞의 주장(거리만 보지 말라)과 맞는지 확인하세요."
   },
   {
     "id": "m2b-14-31",
     "level": "m2",
     "set": "mock-14",
+    "rev": 2,
     "no": 31,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Benjamin Franklin once wanted to win the friendship of a man who disliked him. Instead of doing the man a favor, he asked him to lend a rare book. The man agreed, and afterward he became friendly with Franklin. Psychologists explain that when we help someone, our brain wants to explain why: \"I must like this person.\" Franklin later wrote about this surprising result in his autobiography. So receiving a favor is not the only way to build friendship. In fact, asking someone to do a small favor for you can make them feel __________.",
+    "passage": "Try to remember these words in order: boat, king, apple, river, drum, cloud, letter, fox. Reading them once, most people recall only a few, and the order slips away. Now imagine a king who sails a boat while eating an apple, drifts down a river, hears a drum on the bank, looks up at a cloud shaped like a letter, and sees a fox reading it. The story is silly, yet it is far easier to bring back. In classic experiments, students who linked lists of unrelated words into stories later recalled many more of them than students who simply studied the words. A story gives each item a place and a reason to be there. One event leads to the next, so that remembering one pulls the following one after it. The lesson reaches beyond word games. Isolated facts tend to fade quickly, whereas information is easier to hold when __________.",
     "options": [
-      "angry about the long time that they lost",
-      "unwilling to speak to you again",
-      "unable to remember your name later",
-      "jealous of your books and clothes",
-      "more positive toward you than before"
+      "it is repeated loudly many times in a row",
+      "it is printed in a large and colorful type",
+      "it is learned late at night just before sleep",
+      "it is divided into the smallest possible pieces",
+      "it is connected into a meaningful whole"
     ],
     "answer": 4,
-    "translation": "벤저민 프랭클린은 한때 자신을 싫어하는 남자의 우정을 얻고 싶었다. 그는 그 남자에게 호의를 베푸는 대신 귀한 책을 빌려 달라고 부탁했다. 남자는 승낙했고 그 뒤 프랭클린에게 친근해졌다. 심리학자들은 우리가 누군가를 도울 때 뇌가 이유를 설명하려 한다고 말한다. \"나는 이 사람을 좋아하는 게 틀림없어.\" 프랭클린은 나중에 이 놀라운 결과를 자서전에 썼다. 그러므로 호의를 받는 것만이 우정을 쌓는 유일한 방법은 아니다. 사실 누군가에게 작은 부탁을 하면 그 사람이 전보다 당신에게 더 긍정적으로 느끼게 할 수 있다.",
-    "why": "도움을 준 사람은 '내가 이 사람을 좋아하는 게 틀림없다'고 생각하게 되므로 부탁받은 사람은 전보다 더 긍정적으로 느낍니다.",
+    "translation": "이 낱말을 순서대로 기억해 보라. 배, 왕, 사과, 강, 북, 구름, 편지, 여우. 한 번 읽으면 대부분 몇 개만 떠올리고 순서는 빠져나간다. 이제 사과를 먹으며 배를 모는 왕이 강을 따라 떠가다 둑의 북소리를 듣고 편지 모양 구름을 올려다보고 그것을 읽는 여우를 본다고 상상하라. 이야기는 우습지만 훨씬 쉽게 되살아난다. 고전 실험에서 무관한 낱말 목록을 이야기로 엮은 학생은 낱말을 그냥 공부한 학생보다 나중에 훨씬 많이 떠올렸다. 이야기는 항목마다 자리와 거기 있을 이유를 준다. 한 사건이 다음으로 이어져 하나를 기억하면 다음 것이 따라 끌려온다. 교훈은 낱말 놀이를 넘어선다. 고립된 사실은 빨리 바래기 쉬운 반면, 정보는 의미 있는 하나로 연결될 때 지니기 쉽다.",
+    "why": "이야기로 엮으면 기억이 잘 되므로 ⑤가 알맞습니다.",
     "optionNotes": [
-      "화가 난다는 내용은 글과 반대입니다.",
-      "다시 말하지 않으려 한다는 내용은 글과 반대입니다.",
-      "이름을 기억하지 못한다는 내용은 나오지 않습니다.",
-      "질투는 나오지 않습니다.",
-      "정답. 전보다 더 긍정적으로 느낍니다."
+      "반복은 글에서 다루지 않습니다.",
+      "글씨 모양은 나오지 않습니다.",
+      "학습 시각은 나오지 않습니다.",
+      "잘게 나누는 것과 반대입니다.",
+      "정답. 의미 있는 전체로 연결될 때입니다."
     ],
-    "trap": "'a rare book'을 빌리는 부탁이 부담이라고 오해하지 마세요.",
-    "tip": "앞 내용(he became friendly)에서 결론을 추론하세요."
+    "trap": "④는 'Isolated facts'와 같은 방향이라 반대입니다.",
+    "tip": "'Isolated facts ~ whereas ~'의 대비를 확인하세요."
   },
   {
     "id": "m2b-14-32",
     "level": "m2",
     "set": "mock-14",
+    "rev": 2,
     "no": 32,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "A rainbow appears when sunlight shines on water drops in the air. When light enters a drop, it bends and splits into different colors, because each color bends by a different amount. The light then reflects off the back of the drop and leaves it. We see a rainbow when the sun is behind us and the drops are in front of us. This is why rainbows often appear after rain, while the sun is shining. This explains why a rainbow is a curved band of colors. In other words, water drops act like __________.",
+    "passage": "On warm summer evenings, small points of light drift over damp fields. Fireflies make this light inside their own bodies, through a chemical reaction that gives off very little heat. The display is lovely to watch, but for the insects it has a serious purpose. In many species, a male flies about and flashes in a pattern that is particular to his kind: perhaps a single long glow, perhaps two quick blinks followed by a pause. A female resting in the grass watches, and if the signal is the right one, she answers after a delay that is also typical of the species. He turns toward her, and the exchange continues until they meet. Where several kinds of fireflies share a field, these differences matter greatly. A few predators even copy the answer of another species in order to lure males and eat them. For fireflies, then, each pattern of flashes works as __________.",
     "options": [
-      "tiny prisms that split sunlight into colors",
-      "mirrors that send light back to the sun",
-      "clouds that block the light completely",
-      "lenses that make the sky look larger",
-      "filters that turn colors into black and white"
+      "a message that tells others who is signaling",
+      "a lamp that helps them to find food at night",
+      "a way of warming their bodies in cool weather",
+      "a warning that rain is going to arrive soon",
+      "a map that shows the way back to their eggs"
     ],
     "answer": 0,
-    "translation": "무지개는 햇빛이 공기 중의 물방울에 비칠 때 나타난다. 빛이 물방울에 들어가면 꺾이고 여러 색으로 갈라지는데 각 색이 서로 다른 정도로 꺾이기 때문이다. 그다음 빛은 물방울의 뒷면에서 반사되어 나온다. 해가 우리 뒤에 있고 물방울이 우리 앞에 있을 때 무지개가 보인다. 이 때문에 무지개는 흔히 해가 비치는 동안 비가 온 뒤에 나타난다. 이는 무지개가 왜 곡선 모양의 색 띠인지 설명해 준다. 다시 말해 물방울은 햇빛을 여러 색으로 갈라 주는 작은 프리즘처럼 작용한다.",
-    "why": "물방울이 빛을 꺾어 여러 색으로 갈라 주므로 작은 프리즘과 같습니다.",
+    "translation": "따뜻한 여름 저녁 작은 빛점이 축축한 들판 위를 떠다닌다. 반딧불이는 열을 거의 내지 않는 화학 반응으로 몸속에서 이 빛을 만든다. 보기에 아름답지만 곤충에게는 진지한 목적이 있다. 많은 종에서 수컷은 날아다니며 자기 종 특유의 방식으로 빛을 낸다. 긴 빛 하나일 수도, 짧은 깜박임 둘과 멈춤일 수도 있다. 풀에서 쉬는 암컷은 지켜보다 신호가 맞으면 역시 그 종 특유의 지연 뒤에 답한다. 수컷은 암컷 쪽으로 돌고 만날 때까지 주고받음이 이어진다. 여러 종이 한 들판을 나눠 쓰는 곳에서는 이 차이가 크게 중요하다. 몇몇 포식자는 수컷을 꾀어 잡아먹으려고 다른 종의 대답을 흉내 내기까지 한다. 그러므로 반딧불이에게 각 점멸 양상은 누가 신호를 보내는지 알려 주는 메시지로 작동한다.",
+    "why": "종마다 다른 점멸로 상대를 알아보므로 ①이 알맞습니다.",
     "optionNotes": [
-      "정답. 햇빛을 색으로 가르는 작은 프리즘입니다.",
-      "거울처럼 해로 되돌리는 것이 아닙니다.",
-      "빛을 완전히 막는 것이 아닙니다.",
-      "하늘을 크게 보이게 하는 것이 아닙니다.",
-      "색을 흑백으로 바꾸는 것이 아닙니다."
+      "정답. 누가 신호하는지 알리는 메시지입니다.",
+      "먹이 찾기 용도가 아닙니다.",
+      "열을 거의 내지 않습니다.",
+      "비 예고는 나오지 않습니다.",
+      "알을 찾는 지도가 아닙니다."
     ],
-    "trap": "'reflects'만 보고 거울(②)을 고르지 마세요. 핵심은 색의 분리입니다.",
-    "tip": "In other words 앞의 설명(빛이 꺾이고 색으로 갈라짐)이 비유의 핵심입니다."
+    "trap": "②는 빛이라는 점만 보고 고르게 하는 함정입니다.",
+    "tip": "'particular to his kind', 'typical of the species'를 보세요."
   },
   {
     "id": "m2b-14-33",
     "level": "m2",
     "set": "mock-14",
+    "rev": 2,
     "no": 33,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Researchers say that we choose actions that need the least effort. To build a good habit, make it easy: put your running shoes by the door, or place a book on your pillow. To break a bad habit, add small obstacles: put your phone in another room, or delete the app. Even a delay of twenty seconds can make us give up. Small changes can build big habits over a long time. So changing our environment is often more effective than relying on willpower, because small changes in the environment can __________.",
+    "passage": "After a long day at school, many students feel that they deserve a rest, and they lie on the sofa scrolling through short videos. An hour later they stand up feeling no better, and sometimes worse. Their bodies have not moved, yet their minds have been busy the whole time, judging, reacting, and waiting for the next clip. Compare this with twenty minutes spent walking a dog, kicking a ball against a wall, or drawing something for no particular reason. These are activities, so they do not look like rest. Still, people often report that they return from them refreshed. Studies of workers on breaks have pointed in a similar direction: what helps is being able to detach from the demands that tired us and to feel some control over our time. The best break, in other words, is not always the one in which we do the least. It is often the one that __________.",
     "options": [
-      "make us forget all of our old habits",
-      "increase the price of the things that we usually buy",
-      "guide our behavior without us noticing it",
-      "reduce the number of hours in a day",
-      "teach us how to speak other languages"
+      "keeps our eyes fixed on a bright screen for a much longer time",
+      "lets us continue the same work in a new place",
+      "allows a worn part of us to recover by using others",
+      "requires no movement of any kind from the body",
+      "fills every minute with as much news as possible"
     ],
     "answer": 2,
-    "translation": "연구자들은 우리가 가장 적은 노력이 드는 행동을 선택한다고 말한다. 좋은 습관을 들이려면 쉽게 만들어라. 운동화를 문 옆에 두거나 베개 위에 책을 놓아 두라. 나쁜 습관을 끊으려면 작은 장애물을 더하라. 휴대전화를 다른 방에 두거나 앱을 지워라. 이십 초의 지연만으로도 우리는 포기할 수 있다. 작은 변화가 오랜 시간이 지나면 큰 습관을 만들 수 있다. 그래서 환경을 바꾸는 것이 흔히 의지력에 의존하는 것보다 더 효과적인데 환경의 작은 변화가 우리가 알아채지 못하는 사이에 행동을 이끌 수 있기 때문이다.",
-    "why": "운동화를 문 옆에 두거나 앱을 지우는 것처럼 환경의 작은 변화가 우리도 모르게 행동을 이끕니다.",
+    "translation": "학교에서 긴 하루를 보낸 뒤 많은 학생은 쉴 자격이 있다고 느끼며 소파에 누워 짧은 영상을 넘긴다. 한 시간 뒤 나아진 것 없이, 때로 더 나빠진 채 일어난다. 몸은 움직이지 않았지만 마음은 내내 판단하고 반응하고 다음 영상을 기다리느라 바빴다. 개 산책, 벽에 공 차기, 별 이유 없이 그리기에 쓴 20분과 비교해 보라. 이것은 활동이라 휴식처럼 보이지 않는다. 그래도 사람들은 흔히 상쾌해져 돌아온다고 말한다. 휴식 중인 직장인 연구도 비슷한 방향을 가리켰다. 도움이 되는 것은 우리를 지치게 한 요구에서 벗어나고 자기 시간에 어느 정도 통제를 느끼는 것이다. 다시 말해 최고의 휴식이 늘 가장 적게 하는 것은 아니다. 흔히 다른 부분을 써서 지친 부분이 회복되게 하는 것이다.",
+    "why": "지친 요구에서 벗어나 다른 활동을 하면 회복되므로 ③이 알맞습니다.",
     "optionNotes": [
-      "오래된 습관을 모두 잊는다는 내용은 나오지 않습니다.",
-      "물건 가격은 나오지 않습니다.",
-      "정답. 알아채지 못하는 사이에 행동을 이끕니다.",
-      "하루 시간의 변화는 나오지 않습니다.",
-      "언어 학습은 나오지 않습니다."
+      "화면을 보는 것은 회복이 안 되었습니다.",
+      "같은 일을 계속하면 벗어날 수 없습니다.",
+      "정답. 다른 부분을 써서 지친 부분을 회복합니다.",
+      "움직이는 활동이 도움이 되었습니다.",
+      "정보를 채우는 것과 반대입니다."
     ],
-    "trap": "'delete the app' 같은 예시를 가격이나 학습(①④⑤)과 연결하지 마세요.",
-    "tip": "예시(신발을 문 옆에, 앱 삭제)를 일반화하면 '환경이 행동을 이끈다'입니다."
+    "trap": "④는 휴식에 대한 흔한 생각이며 글이 반박합니다.",
+    "tip": "'detach from the demands that tired us'를 바꿔 말한 것을 고르세요."
   },
   {
     "id": "m2b-14-34",
     "level": "m2",
     "set": "mock-14",
+    "rev": 2,
     "no": 34,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Psychologists asked students to write a letter of thanks to someone who had helped them. Many did not even send the letters. Some kept them in a drawer for months. Writing takes only about ten minutes, so anyone can try it. However, after writing, the students reported feeling happier for several weeks. When the letters were delivered, the receivers also felt joyful and surprised, because they had not known how much their help meant. The researchers said that expressing thanks in writing makes our feelings clearer and stronger. Therefore, writing a thank-you letter can __________.",
+    "passage": "A friend asks you to help paint a room on Saturday, and you say yes. Another wants company at the shops that afternoon, and you agree to that too. Then a classmate asks for notes by Sunday, and refusing seems unkind. By Saturday night the room is half painted, you arrived late at the shops, and the notes are not written. Each yes was meant generously. Together they produced three disappointed people. Nobody had meant any harm. Many of us treat a refusal as the opposite of kindness, as if a good person would never let anyone down. But time is limited, and every promise takes some of it from the others. Someone who says, \"I can't on Saturday, but I could on Sunday,\" gives the other person information that can be used. They can ask someone else or change their plan. Seen in this way, an honest no is sometimes what __________.",
     "options": [
-      "waste time that we could spend studying",
-      "make people forget what they were thankful for",
-      "cause trouble between the writer and the reader",
-      "take a long time to be delivered by mail",
-      "make both the writer and the reader feel happier and more connected"
+      "shows that we do not care about our friends",
+      "makes other people stop asking us for anything",
+      "allows us to avoid every difficult task for good",
+      "helps us become more popular than other people",
+      "makes it possible for our yes to be worth trusting"
     ],
     "answer": 4,
-    "translation": "심리학자들은 학생들에게 자신을 도와준 사람에게 감사 편지를 쓰게 했다. 많은 학생은 편지를 부치지도 않았다. 일부는 몇 달 동안 서랍에 넣어 두었다. 쓰는 데는 십 분밖에 걸리지 않아 누구나 해 볼 수 있다. 그러나 쓰고 난 뒤 학생들은 몇 주 동안 더 행복하다고 보고했다. 편지가 전달되자 받은 사람들도 자신의 도움이 얼마나 의미 있었는지 몰랐기 때문에 기쁘고 놀랐다. 연구자들은 글로 감사를 표현하면 우리 감정이 더 분명하고 강해진다고 말했다. 그러므로 감사 편지를 쓰는 것은 쓰는 사람과 읽는 사람 모두를 더 행복하고 더 연결되어 있다고 느끼게 할 수 있다.",
-    "why": "쓴 학생과 받은 사람 모두 기뻐했으므로 감사 편지는 둘 다 더 행복하고 연결되어 있다고 느끼게 합니다.",
+    "translation": "친구가 토요일에 방 칠하기를 도와 달라고 하자 좋다고 한다. 다른 친구가 그날 오후 장보기 동행을 원해 그것도 승낙한다. 그러자 급우가 일요일까지 필기를 부탁하고, 거절은 불친절해 보인다. 토요일 밤 방은 반만 칠해졌고 장보기에는 늦었으며 필기는 안 썼다. 승낙마다 너그러운 마음이었다. 합치니 실망한 사람 셋이 나왔다. 누구도 해를 끼칠 뜻은 없었다. 많은 이는 좋은 사람은 누구도 실망시키지 않는다는 듯 거절을 친절의 반대로 다룬다. 그러나 시간은 한정되어 있고 약속마다 다른 것에서 시간을 가져간다. \"토요일은 안 되지만 일요일은 돼\"라고 말하는 사람은 상대에게 쓸 수 있는 정보를 준다. 상대는 다른 사람에게 부탁하거나 계획을 바꿀 수 있다. 이렇게 보면 정직한 거절은 때때로 우리의 승낙이 믿을 만해지게 하는 것이다.",
+    "why": "무리한 승낙은 실망을 낳고 정직한 거절이 약속의 신뢰를 지키므로 ⑤가 알맞습니다.",
     "optionNotes": [
-      "공부 시간 낭비는 나오지 않습니다.",
-      "감사를 잊는다는 내용은 글과 반대입니다.",
-      "갈등은 나오지 않습니다.",
-      "배달 시간은 나오지 않습니다.",
-      "정답. 쓰는 사람과 읽는 사람 모두 더 행복해집니다."
+      "친절과 대립하지 않는다는 글입니다.",
+      "부탁을 막는 것이 목적이 아닙니다.",
+      "어려운 일을 피하라는 말이 아닙니다.",
+      "인기는 논점이 아닙니다.",
+      "정답. 우리의 승낙을 믿을 만하게 만듭니다."
     ],
-    "trap": "'Many did not even send the letters'를 부정적 결과로 오해하지 마세요.",
-    "tip": "두 집단(쓴 사람, 받은 사람)의 반응을 합친 것이 빈칸의 답입니다."
+    "trap": "①은 글이 바로잡으려는 생각입니다.",
+    "tip": "세 번의 승낙이 낳은 결과를 뒤집어 생각하세요."
   },
   {
     "id": "m2b-14-35",
     "level": "m2",
     "set": "mock-14",
+    "rev": 2,
     "no": 35,
     "type": "irrelevant",
     "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
-    "passage": "There are several simple ways to stay focused while studying. ① First, put your phone in another room, because even a silent phone can distract you. ② Second, study in short blocks of about thirty minutes and take a five-minute break after each block. ③ Third, make a list of what you want to finish so that you can see your progress. ④ Keeping your desk tidy also helps you find your things quickly. ⑤ The Eiffel Tower was built in Paris in 1889 for a world fair.",
+    "passage": "A short thank-you note takes only a few minutes to write, but its effect is often greater than the writer expects. Yet many of us rarely get around to writing one, even when we mean to. People who send such notes tend to guess that the receiver will feel a little awkward and only mildly pleased. ① Researchers who asked both sides found that receivers were usually more delighted than the writers had predicted. The same pattern appeared among adults of different ages. ② Writers also worried too much about finding exactly the right words. ③ Receivers cared far more about the warmth of the message than about its style. A few plain sentences about what the person had done were usually enough. ④ These mistaken guesses may lead many people to leave their gratitude unspoken. Writing down what one is thankful for can take less time than choosing a snack. ⑤ The postal services of different countries use mailboxes of many different shapes and colors.",
     "options": [
       "①",
       "②",
@@ -183,26 +190,27 @@
       "⑤"
     ],
     "answer": 4,
-    "translation": "공부할 때 집중력을 유지하는 간단한 방법이 여럿 있다. ① 첫째, 소리를 꺼 둔 휴대전화조차 주의를 흩뜨릴 수 있으므로 휴대전화를 다른 방에 두라. ② 둘째, 약 삼십 분 단위로 짧게 공부하고 각 단위 뒤에 오 분씩 쉬라. ③ 셋째, 진행 상황을 볼 수 있도록 끝내고 싶은 일의 목록을 만들라. ④ 책상을 깔끔하게 하면 물건을 빨리 찾는 데도 도움이 된다. ⑤ 에펠탑은 1889년 만국 박람회를 위해 파리에 세워졌다.",
-    "why": "글은 공부할 때 집중하는 방법을 이야기하는데 ⑤는 에펠탑에 관한 별개의 이야기입니다.",
+    "translation": "짧은 감사 쪽지는 몇 분이면 쓰지만 효과는 흔히 쓴 사람의 예상보다 크다. 그런데도 많은 이는 쓸 마음이 있을 때조차 좀처럼 쓰지 못한다. 이런 쪽지를 보내는 사람은 받는 이가 조금 어색하고 약간만 기뻐할 것이라 짐작하는 경향이 있다. ① 양쪽에 물어본 연구자는 받은 이가 대개 쓴 이의 예측보다 더 기뻐함을 발견했다. 같은 양상이 여러 연령의 성인에게서 나타났다. ② 쓴 이는 꼭 맞는 말을 찾는 것도 지나치게 걱정했다. ③ 받은 이는 문체보다 메시지의 따뜻함을 훨씬 중요하게 여겼다. 상대가 해 준 일에 관한 소박한 몇 문장이면 대개 충분했다. ④ 이런 틀린 짐작은 많은 사람이 감사를 말하지 않고 두게 할 수 있다. 고마운 것을 적는 데는 간식을 고르는 것보다 적은 시간이 들 수 있다. ⑤ 여러 나라의 우편 서비스는 모양과 색이 다양한 우체통을 쓴다.",
+    "why": "글은 감사 쪽지의 효과를 다루는데 ⑤는 우체통 모양 이야기라 흐름에서 벗어납니다.",
     "optionNotes": [
-      "휴대전화를 치우라는 방법입니다.",
-      "짧게 공부하고 쉬라는 방법입니다.",
-      "목록을 만들라는 방법입니다.",
-      "책상을 정돈하라는 방법입니다.",
-      "정답(무관). 에펠탑 이야기라 관계가 없습니다."
+      "받는 이의 실제 반응입니다.",
+      "쓴 이의 걱정입니다.",
+      "받는 이가 중요하게 여기는 것입니다.",
+      "틀린 짐작의 결과입니다.",
+      "정답. 우체통 모양은 무관합니다."
     ],
-    "trap": "'world fair'가 학습과 관련 있다고 착각하기 쉽습니다.",
-    "tip": "주제(집중하는 방법)를 직접 뒷받침하지 않는 문장을 고르세요."
+    "trap": "'note'와 우편을 연결해 흐름에 맞다고 생각하지 마세요.",
+    "tip": "주제(effect of thank-you notes)와 이어지지 않는 문장을 찾으세요."
   },
   {
     "id": "m2b-14-36",
     "level": "m2",
     "set": "mock-14",
+    "rev": 2,
     "no": 36,
     "type": "order",
     "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
-    "passage": "The Statue of Liberty in New York was a gift from France to the United States. It was completed in 1886. It was designed to celebrate the friendship between the two countries.\n(A) When the boxes arrived in New York, it took four months to put the pieces together on a small island.\n(B) Today, the statue stands as a symbol of freedom, and millions of visitors come to see it every year.\n(C) To send it across the Atlantic Ocean, workers took the statue apart into 350 pieces and packed them in more than 200 boxes.",
+    "passage": "In 1783, long before anyone had built an airplane, a crowd in France gathered to watch something rise into the sky.\n(A) The brothers Joseph and Étienne Montgolfier, who ran a paper business, had noticed that hot air could lift light bags. Nobody yet knew whether a living creature could survive high above the ground, so in September they sent up a sheep, a duck, and a rooster in a basket.\n(B) All three animals came down alive after a flight of several minutes. Encouraged by this result, two men made the first free flight by humans in November, drifting across Paris for about twenty-five minutes. People had finally left the ground.\n(C) That something was a huge bag of cloth and paper, filled with hot air from a fire. The people who made it were not scientists by profession, and many in the crowd did not expect it to leave the ground. After all, nothing so large had ever seemed able to float.",
     "options": [
       "(A)-(C)-(B)",
       "(B)-(A)-(C)",
@@ -211,26 +219,27 @@
       "(C)-(B)-(A)"
     ],
     "answer": 3,
-    "translation": "뉴욕의 자유의 여신상은 프랑스가 미국에 준 선물이었다. 그것은 1886년에 완성되었다. 두 나라의 우정을 기념하려고 설계되었다. (C) 대서양을 건너 보내려고 일꾼들은 조각상을 350개 조각으로 해체해 200개가 넘는 상자에 담았다. (A) 상자들이 뉴욕에 도착하자 작은 섬에서 조각을 조립하는 데 넉 달이 걸렸다. (B) 오늘날 이 조각상은 자유의 상징으로 서 있고 해마다 수백만 명의 방문객이 보러 온다.",
-    "why": "(C) 'To send it'으로 운송 준비 → (A) 'the boxes arrived'로 도착 후 조립 → (B) 'Today'로 오늘날 순서입니다.",
+    "translation": "1783년, 누구도 비행기를 만들기 훨씬 전에 프랑스의 군중이 무언가가 하늘로 오르는 것을 보려고 모였다. (C) 그 무언가는 불에서 나온 뜨거운 공기로 채운 천과 종이의 거대한 자루였다. 만든 이들은 직업 과학자가 아니었고 군중의 많은 이는 그것이 땅을 떠나리라 기대하지 않았다. 그렇게 큰 것이 떠오를 수 있어 보인 적은 없었기 때문이다. (A) 종이 사업을 하던 조제프와 에티엔 몽골피에 형제는 뜨거운 공기가 가벼운 자루를 들어 올릴 수 있음을 알아챘었다. 생물이 높은 곳에서 살 수 있는지 아직 아무도 몰랐기에 9월에 양, 오리, 수탉을 바구니에 태워 올려 보냈다. (B) 세 동물 모두 몇 분의 비행 뒤 살아서 내려왔다. 이 결과에 힘입어 두 사람이 11월에 인류 최초의 자유 비행을 해 약 25분 동안 파리를 가로질러 떠갔다. 사람이 마침내 땅을 떠난 것이다.",
+    "why": "(C) 'something'의 정체 → (A) 형제와 동물 시험 → (B) 결과와 사람의 비행 순서입니다.",
     "optionNotes": [
-      "(A)의 'the boxes'가 가리킬 상자가 앞에 없습니다.",
-      "(B)의 'Today'가 과정 설명 전에 먼저 나옵니다.",
-      "(B)가 먼저 오면 'Today'의 기준 과거가 없습니다.",
-      "정답. 운송 준비 → 조립 → 오늘날.",
-      "(B)가 (A) 앞에 오면 조립 과정이 뒤로 밀립니다."
+      "(C)의 'That something'은 주어진 글 바로 뒤여야 합니다.",
+      "(B)의 'All three animals'는 (A) 뒤여야 합니다.",
+      "(B)가 처음에 올 수 없습니다.",
+      "정답. 정체 → 시험 → 성공입니다.",
+      "(B)가 (A)보다 앞서면 동물이 소개되지 않았습니다."
     ],
-    "trap": "(A)의 'the boxes'는 (C)에서 포장한 상자를 가리킵니다.",
-    "tip": "the boxes, Today 같은 지시어와 시간 표현을 확인하세요."
+    "trap": "(C)의 'That something'이 주어진 글의 something을 받습니다.",
+    "tip": "지시어(That something, All three animals)를 따라가세요."
   },
   {
     "id": "m2b-14-37",
     "level": "m2",
     "set": "mock-14",
+    "rev": 2,
     "no": 37,
     "type": "order",
     "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
-    "passage": "Many people believe that goldfish have a memory of only three seconds. Goldfish can live for more than ten years. This is a common myth, and many people repeat it without checking.\n(A) In fact, scientists have trained goldfish to push a lever to get food at a certain time of day.\n(B) So the next time you hear this myth, you can explain that goldfish are smarter than they look.\n(C) The fish remembered the right time for several weeks, and they even learned to find their way through a simple maze.",
+    "passage": "In some warm, windy coastal regions, people still make salt from the sea much as their ancestors did.\n(A) First, seawater is let into a wide, shallow pond when the tide is high, and the gate is closed. The water rests there while mud and sand sink to the bottom. The pond is built on flat ground with clay soil, which keeps the water from soaking away.\n(B) Before long, white crystals begin to form on the surface and the floor of the final pond. Workers gather them into piles with long wooden rakes and leave them to drain and dry. The first thin crystals, which float on the water, are often considered the finest of all.\n(C) Next the water is moved from pond to pond. Under the sun and wind, more and more of it disappears into the air, so that what remains grows saltier at every stage. The salt makers must watch the sky, because one heavy rain can undo weeks of work.",
     "options": [
       "(A)-(C)-(B)",
       "(B)-(A)-(C)",
@@ -239,26 +248,27 @@
       "(C)-(B)-(A)"
     ],
     "answer": 0,
-    "translation": "많은 사람은 금붕어의 기억력이 겨우 삼 초라고 믿는다. 금붕어는 십 년 넘게 살 수도 있다. 이는 흔한 잘못된 통념이며 많은 사람이 확인하지 않고 되풀이한다. (A) 사실 과학자들은 금붕어가 하루 중 정해진 시간에 먹이를 얻으려고 지렛대를 밀도록 훈련했다. (C) 물고기들은 올바른 시간을 몇 주 동안 기억했고 간단한 미로에서 길을 찾는 법도 배웠다. (B) 그러니 다음에 이 통념을 들으면 금붕어가 보이는 것보다 똑똑하다고 설명해 줄 수 있다.",
-    "why": "(A) 'In fact'로 반박 사실 → (C) 'The fish'로 결과 → (B) 'So'로 결론 순서입니다.",
+    "translation": "따뜻하고 바람 많은 일부 해안 지역에서는 사람들이 여전히 조상처럼 바다에서 소금을 만든다. (A) 먼저 밀물 때 바닷물을 넓고 얕은 못에 들이고 문을 닫는다. 진흙과 모래가 가라앉는 동안 물은 거기서 쉰다. 못은 점토질의 평평한 땅에 만들어 물이 스며들지 않게 한다. (C) 다음으로 물을 못에서 못으로 옮긴다. 해와 바람 아래 점점 많은 물이 공기로 사라져 남은 것은 단계마다 더 짜진다. 폭우 한 번이 몇 주의 일을 되돌릴 수 있어 소금 만드는 사람은 하늘을 지켜보아야 한다. (B) 머지않아 마지막 못의 수면과 바닥에 흰 결정이 생기기 시작한다. 일꾼은 긴 나무 갈퀴로 더미를 모아 물을 빼고 말린다. 물 위에 뜨는 첫 얇은 결정은 흔히 가장 좋은 것으로 여겨진다.",
+    "why": "(A) 바닷물 들이기 → (C) 못을 옮기며 증발 → (B) 결정 수확 순서입니다.",
     "optionNotes": [
-      "정답. 반박 → 결과 → 결론.",
-      "(A)가 (B) 뒤에 오면 결론이 근거 없이 먼저 나옵니다.",
-      "(B)가 먼저 오면 결론이 근거보다 앞섭니다.",
-      "(C)의 'The fish'가 가리킬 실험이 앞에 없습니다.",
-      "(C)가 먼저 오면 'The fish'가 불분명합니다."
+      "정답. 들이기, 증발, 수확 순서입니다.",
+      "(B)의 결정이 먼저 올 수 없습니다.",
+      "(B)가 처음에 올 수 없습니다.",
+      "(C)의 'Next'는 (A) 뒤여야 합니다.",
+      "(C)가 처음에 올 수 없습니다."
     ],
-    "trap": "(C)의 'The fish'는 (A)에서 훈련받은 금붕어를 가리킵니다.",
-    "tip": "In fact → The fish ~ → So의 논리 흐름을 따라가세요."
+    "trap": "(B)의 'the final pond'는 여러 못을 거친 뒤여야 합니다.",
+    "tip": "First, Next, Before long 같은 순서어를 따라가세요."
   },
   {
     "id": "m2b-14-38",
     "level": "m2",
     "set": "mock-14",
+    "rev": 2,
     "no": 38,
     "type": "insert",
     "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
-    "passage": "[주어진 문장]\nAs a result, the number of late students dropped sharply.\n\n[글]\n( ① ) A middle school in Daegu changed its start time from 8:00 to 8:30. ( ② ) At first, some parents worried that students would have less time after school. ( ③ ) However, the students began to sleep thirty minutes longer every morning. ( ④ ) Teachers also noticed that students looked more cheerful in class. ( ⑤ ) Now the school plans to keep the new schedule.",
+    "passage": "[주어진 문장]\nThe two periods match so closely that the same side is always turned toward us.\n\n[글]\nWhenever the moon is bright, we see the familiar pattern of dark and light patches on its face. These patches never seem to slide around the edge toward the back. ( ① ) People thousands of years ago saw the very same pattern. ( ② ) This is not because the moon stands still, for it does turn on its axis. If it did not turn at all, we would see every side of it in the course of a month. ( ③ ) It takes about twenty-seven days to turn once, and it takes the same time to travel once around the Earth. ( ④ ) You can act this out by walking around a chair while always facing it: by the end of the circle you have also turned around once. The chair, however, has seen only your front. ( ⑤ ) The other side stayed hidden from human eyes until a spacecraft photographed it in 1959. The pictures showed a surface with far fewer dark plains than the side that we know.",
     "options": [
       "①",
       "②",
@@ -267,26 +277,27 @@
       "⑤"
     ],
     "answer": 3,
-    "translation": "[주어진 문장] 그 결과 지각하는 학생 수가 급격히 줄었다. [글] 대구의 한 중학교는 시작 시간을 8시에서 8시 30분으로 바꾸었다. 처음에 일부 학부모는 학생들이 방과 후 시간이 줄어들까 봐 걱정했다. 그러나 학생들은 아침마다 삼십 분 더 자기 시작했다. 교사들은 또한 학생들이 수업에서 더 밝아 보인다는 것을 알아챘다. 이제 학교는 새 일정을 유지할 계획이다.",
-    "why": "더 오래 자기 시작했다는 원인 뒤에 'As a result'로 지각이 줄었다는 결과가 이어지므로 ④에 들어갑니다.",
+    "translation": "[주어진 문장] 두 주기가 아주 정확히 맞아 늘 같은 면이 우리를 향한다. [글] 달이 밝을 때마다 우리는 표면의 익숙한 어둡고 밝은 얼룩 무늬를 본다. 이 얼룩은 가장자리를 돌아 뒤로 미끄러지는 법이 없어 보인다. 수천 년 전 사람들도 똑같은 무늬를 보았다. 달이 가만히 있기 때문은 아닌데, 자기 축으로 돌기 때문이다. 전혀 돌지 않는다면 한 달 동안 모든 면을 보게 될 것이다. 한 번 도는 데 약 27일이 걸리고, 지구를 한 바퀴 도는 데도 같은 시간이 걸린다. 의자를 늘 바라보며 그 둘레를 걸어 이를 흉내 낼 수 있다. 원을 마칠 때쯤 당신도 한 바퀴 돈 것이다. 그러나 의자는 당신의 앞모습만 보았다. 반대쪽 면은 1959년 우주선이 촬영할 때까지 사람의 눈에 숨어 있었다. 사진은 우리가 아는 면보다 어두운 평원이 훨씬 적은 표면을 보여 주었다.",
+    "why": "두 시간이 같다는 설명(③ 뒤 문장) 뒤에 '두 주기가 맞아 같은 면이 향한다'고 결론 내리므로 ④입니다.",
     "optionNotes": [
-      "'As a result'가 이어질 원인이 없습니다.",
-      "걱정을 말하는 단계라 결과가 이릅니다.",
-      "원인을 설명하는 문장 앞이라 결과가 이릅니다.",
-      "정답. 원인 뒤에 결과가 나옵니다.",
-      "결과를 다 설명한 뒤라 어색합니다."
+      "두 주기가 아직 없습니다.",
+      "자전 설명 전이라 이릅니다.",
+      "공전 시간이 나오기 전입니다.",
+      "정답. 두 주기 설명 직후의 결론입니다.",
+      "비유 뒤에는 늦습니다."
     ],
-    "trap": "'As a result'는 원인(더 오래 잠)을 먼저 요구합니다.",
-    "tip": "As a result는 원인 바로 뒤에 놓입니다."
+    "trap": "③에 넣으면 'The two periods'가 가리킬 두 시간이 없습니다.",
+    "tip": "'The two periods'의 두 대상이 앞에 모두 나온 곳을 찾으세요."
   },
   {
     "id": "m2b-14-39",
     "level": "m2",
     "set": "mock-14",
+    "rev": 2,
     "no": 39,
     "type": "insert",
     "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
-    "passage": "[주어진 문장]\nBecause of this, the stars appear to move across the sky during the night.\n\n[글]\n( ① ) The Earth rotates once every twenty-four hours. ( ② ) In long-exposure photographs, the stars look like bright curved lines. ( ③ ) Only the North Star stays almost still, since it is located above the Earth's axis. ( ④ ) For centuries, sailors used it to find their way at sea. ( ⑤ ) Today, we use satellites for navigation, but the North Star still guides hikers.",
+    "passage": "[주어진 문장]\nBefore any of that, however, a puppy has to learn about ordinary life.\n\n[글]\n( ① ) A guide dog that leads its owner safely through a busy city has received a long education. It can notice dangers that its owner cannot see. ( ② ) For about its first year, it usually lives with a volunteer family, who take it on buses, into shops, and past noisy road works so that nothing seems strange. The family also teaches it simple manners, such as not begging at the table. ( ③ ) It then moves to a training school, where it learns to stop at curbs and steer around obstacles. Not every dog enjoys this work, and some are found a new life as ordinary pets. ( ④ ) One of the hardest lessons is to disobey: if the owner says to go forward while a car is coming, the dog must refuse. ( ⑤ ) Finally, the dog and its new owner train together until they trust each other. Even after that, trainers visit from time to time to make sure that all is well.",
     "options": [
       "①",
       "②",
@@ -295,44 +306,45 @@
       "⑤"
     ],
     "answer": 1,
-    "translation": "[주어진 문장] 이 때문에 별들은 밤 동안 하늘을 가로질러 움직이는 것처럼 보인다. [글] 지구는 스물네 시간에 한 번 자전한다. 노출 시간이 긴 사진에서 별들은 밝은 곡선처럼 보인다. 북극성만 지구의 축 위에 있어서 거의 가만히 있다. 수 세기 동안 선원들은 그것을 이용해 바다에서 길을 찾았다. 오늘날에는 위성을 항법에 쓰지만 북극성은 여전히 등산객을 안내한다.",
-    "why": "지구가 자전한다는 원인 뒤에 'Because of this'로 별이 움직이는 것처럼 보인다는 결과가 이어지고, 이어서 사진 이야기가 나오므로 ②에 들어갑니다.",
+    "translation": "[주어진 문장] 그러나 그 모든 것에 앞서 강아지는 평범한 생활을 배워야 한다. [글] 붐비는 도시에서 주인을 안전하게 이끄는 안내견은 긴 교육을 받았다. 개는 주인이 볼 수 없는 위험을 알아챌 수 있다. 생후 첫 1년쯤은 대개 자원봉사 가정과 살며, 가족은 아무것도 낯설지 않게 버스에 태우고 가게에 데려가고 시끄러운 공사장을 지난다. 가족은 식탁에서 조르지 않기 같은 간단한 예절도 가르친다. 그다음 훈련 학교로 옮겨 연석에서 멈추고 장애물을 돌아가는 법을 배운다. 모든 개가 이 일을 즐기는 것은 아니어서 일부는 평범한 반려견의 새 삶을 찾는다. 가장 어려운 수업 하나는 불복종이다. 차가 오는데 주인이 가라고 하면 개는 거부해야 한다. 마지막으로 개와 새 주인이 서로 믿을 때까지 함께 훈련한다. 그 뒤에도 훈련사가 때때로 찾아와 잘 지내는지 확인한다.",
+    "why": "긴 교육 소개 뒤에 '그 전에 일상을 배워야 한다'고 하고, 첫해의 일상 경험이 이어지므로 ②입니다.",
     "optionNotes": [
-      "'this'가 가리킬 자전이 아직 나오지 않았습니다.",
-      "정답. 자전의 결과로 별이 움직여 보입니다.",
-      "북극성 설명 앞이라 어색합니다.",
-      "선원 이야기 앞이라 어색합니다.",
-      "마지막에 오면 원인-결과 연결이 어긋납니다."
+      "'that'이 가리킬 교육이 아직 없습니다.",
+      "정답. 교육 소개 → 먼저 일상 → 첫해입니다.",
+      "첫해 설명 뒤에는 늦습니다.",
+      "훈련 학교 설명 뒤에는 순서가 거꾸로입니다.",
+      "마지막 단계 앞에는 어색합니다."
     ],
-    "trap": "'Because of this'의 this가 ①의 지구 자전을 가리킨다는 점을 놓치지 마세요.",
-    "tip": "Because of this는 원인 문장 직후에 놓입니다."
+    "trap": "③에 넣으면 'Before any of that'이 이미 지난 첫해 뒤에 옵니다.",
+    "tip": "'Before any of that' 다음에는 가장 이른 단계가 옵니다."
   },
   {
     "id": "m2b-14-40",
     "level": "m2",
     "set": "mock-14",
+    "rev": 2,
     "no": 40,
     "type": "summary",
     "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "A company tested walking meetings with its employees. Some teams held their meetings while walking outside, and other teams sat in a meeting room as usual. After a month, the managers compared the results. The employees who walked while they talked produced more creative ideas than those who sat. They also reported feeling more energetic and less stressed. Managers noticed that shy members spoke more freely while walking, because there was no need to sit face to face. Many teams decided to keep walking meetings once a week.\n\n▶ Holding meetings while (A) outside helped employees (B) more creative ideas.",
+    "passage": "Would a single word change how willing a young child is to help? Researchers tested this with children aged about four to six. An adult spoke with them briefly about helping before they began to play. With some children, the adult used a verb and talked about how people can help. With others, the adult used a noun and talked about how people can be helpers. Later, while the children were busy with toys, chances arose to assist, such as picking up crayons that had spilled. Children who had heard about being helpers stopped their play to help noticeably more often than those who had heard about helping. The researchers suggested that the noun invites a child to think about what kind of person to be. The study was small, and one word is hardly a recipe for raising kind people. Still, it shows that the way we phrase things can matter.\n\n▶ Young children helped more when helping was presented as something about who they could (A), not only something they could (B).",
     "options": [
-      "(A) sitting — (B) completely forget",
-      "(A) sleeping — (B) avoid",
-      "(A) arguing — (B) hide",
-      "(A) walking — (B) produce",
-      "(A) waiting — (B) lose"
+      "(A) see — (B) say",
+      "(A) follow — (B) do",
+      "(A) be — (B) forget",
+      "(A) be — (B) do",
+      "(A) meet — (B) play"
     ],
     "answer": 3,
-    "translation": "한 회사가 직원들과 걷기 회의를 시험했다. 일부 팀은 밖에서 걸으며 회의를 했고 다른 팀은 평소처럼 회의실에 앉았다. 한 달 뒤 관리자들은 결과를 비교했다. 걸으며 이야기한 직원들은 앉아 있던 직원들보다 더 창의적인 아이디어를 냈다. 그들은 또한 더 활기차고 스트레스가 덜하다고 보고했다. 관리자들은 마주 보고 앉을 필요가 없어서 수줍은 구성원이 걸을 때 더 자유롭게 말한다는 것을 알아챘다. 많은 팀이 일주일에 한 번 걷기 회의를 하기로 했다. ▶ 밖에서 (A) 회의를 하는 것은 직원들이 더 창의적인 아이디어를 (B)하도록 도왔다.",
-    "why": "밖에서 걸으며 회의한 직원이 더 창의적인 아이디어를 냈으므로 (A)는 walking, (B)는 produce입니다.",
+    "translation": "낱말 하나가 어린아이의 도우려는 마음을 바꿀까? 연구자들은 약 4~6세 아동으로 시험했다. 아이들이 놀기 전에 어른이 돕기에 관해 잠깐 이야기했다. 어떤 아이에게는 동사를 써서 사람이 어떻게 도울 수 있는지 말했다. 다른 아이에게는 명사를 써서 어떻게 도우미가 될 수 있는지 말했다. 나중에 장난감에 바쁠 때 쏟아진 크레용 줍기 같은 도울 기회가 생겼다. 도우미가 되는 것에 관해 들은 아이는 돕기에 관해 들은 아이보다 눈에 띄게 자주 놀이를 멈추고 도왔다. 연구자는 명사가 아이에게 어떤 사람이 될지 생각하게 한다고 제안했다. 연구는 작았고 낱말 하나가 친절한 사람을 기르는 처방은 아니다. 그래도 표현 방식이 중요할 수 있음을 보여 준다. ▶ 돕기가 할 수 있는 일일 뿐 아니라 어떤 사람이 될 수 있는가의 문제로 제시되었을 때 아이들은 더 많이 도왔다.",
+    "why": "'helpers(어떤 사람이 되는가)'와 'helping(하는 일)'의 대비이므로 be — do입니다.",
     "optionNotes": [
-      "sitting과 forget은 글과 반대입니다.",
-      "sleeping과 avoid는 글에 나오지 않습니다.",
-      "arguing과 hide는 글에 나오지 않습니다.",
-      "정답. 걸으며 회의하면 아이디어를 더 낸다는 내용입니다.",
-      "waiting과 lose는 글에 나오지 않습니다."
+      "보고 말하는 것이 아닙니다.",
+      "(A)가 맞지 않습니다.",
+      "(B)가 맞지 않습니다.",
+      "정답. 되는 것(be)과 하는 것(do)입니다.",
+      "무관한 내용입니다."
     ],
-    "trap": "앉은 팀과 걸은 팀의 결과를 서로 바꿔 이해하지 마세요.",
-    "tip": "요약문은 조건(걸으며 회의)과 결과(창의적 아이디어 증가)를 짝지으세요."
+    "trap": "③은 (A)만 맞는 함정입니다.",
+    "tip": "noun(helpers)과 verb(help)의 차이를 풀어 말해 보세요."
   }
 ]
