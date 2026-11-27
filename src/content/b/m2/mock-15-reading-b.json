@@ -3,10 +3,11 @@
     "id": "m2b-15-29",
     "level": "m2",
     "set": "mock-15",
+    "rev": 2,
     "no": 29,
     "type": "grammar",
     "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
-    "passage": "Sea turtles spend most of their lives in the ocean, but females must return to land to lay eggs. A mother turtle often travels thousands of kilometers {1|to return} to the same beach where she was born. She digs a deep hole in the sand and lays about a hundred eggs. After she covers the nest, she goes back to the sea and never sees her babies. About two months later, the baby turtles {2|come} out of their eggs at night. They {3|walk} quickly toward the water, guided by the light of the moon on the waves. Unfortunately, bright lights from hotels can confuse them, so many turtles {4|is} lost. To protect them, some towns turn off the lights near the beach during the nesting season. Thanks to these efforts, {5|more} baby turtles reach the ocean safely every year.",
+    "passage": "Today a photo can cross the world in a second, but the humble postcard once seemed just as exciting. In the middle of the nineteenth century, sending a letter meant {1|finding} paper, folding it, and writing at some length, with the proper greetings. An official in Austria suggested a simpler way: a small card {2|that} could be sent without an envelope at a lower price. The first official cards appeared in 1869, and millions were sold within months. Some people worried that messages {3|written} on an open card could be read by anyone who handled it. Others complained that such brief notes were rude. The public did not seem {4|caring}. Later, pictures were added to one side, and travelers began to buy cards showing mountains, harbors, and city squares. Collecting them became a popular hobby. A card kept in a drawer for a century can now tell historians what a street looked like and {5|how} people greeted one another.",
     "options": [
       "①",
       "②",
@@ -15,26 +16,27 @@
       "⑤"
     ],
     "answer": 3,
-    "translation": "바다거북은 평생 대부분을 바다에서 보내지만 암컷은 알을 낳으려고 육지로 돌아와야 한다. 어미 거북은 자신이 태어난 바로 그 해변으로 돌아오려고 수천 킬로미터를 이동하곤 한다. 어미는 모래에 깊은 구덩이를 파고 약 백 개의 알을 낳는다. 둥지를 덮은 뒤 바다로 돌아가고 새끼들은 결코 보지 못한다. 약 두 달 뒤 새끼 거북들은 밤에 알에서 나온다. 그들은 파도에 비친 달빛의 안내를 받아 물을 향해 빠르게 걷는다. 안타깝게도 호텔의 밝은 불빛이 새끼들을 혼란스럽게 할 수 있어서 많은 거북이 길을 잃는다. 이들을 보호하려고 일부 마을은 산란기 동안 해변 근처의 불을 끈다. 이런 노력 덕분에 해마다 더 많은 새끼 거북이 안전하게 바다에 도착한다.",
-    "why": "주어 many turtles는 복수이므로 is가 아니라 are여야 합니다.",
+    "translation": "오늘날 사진은 1초에 세계를 건너지만 소박한 우편엽서도 한때 그만큼 신났다. 19세기 중반에 편지를 보내려면 종이를 찾아 접고 알맞은 인사와 함께 꽤 길게 써야 했다. 오스트리아의 한 관리는 더 간단한 방법을 제안했다. 봉투 없이 더 싼 값에 보낼 수 있는 작은 카드였다. 첫 공식 엽서는 1869년에 나왔고 몇 달 안에 수백만 장이 팔렸다. 어떤 이는 열린 카드에 쓴 메시지를 다루는 누구나 읽을 수 있다고 걱정했다. 다른 이는 그런 짧은 글이 무례하다고 불평했다. 대중은 개의치 않는 듯했다. 나중에 한 면에 그림이 더해졌고 여행자는 산, 항구, 광장이 있는 엽서를 사기 시작했다. 수집은 인기 취미가 되었다. 서랍에 백 년 간직된 엽서는 이제 역사가에게 거리가 어떠했고 사람들이 어떻게 인사했는지 말해 줄 수 있다.",
+    "why": "seem 뒤에서 '개의치 않는 듯'은 seem to care의 형태여야 하므로 caring은 틀렸습니다.",
     "optionNotes": [
-      "목적을 나타내는 to부정사입니다.",
-      "복수 주어 baby turtles에 맞는 동사원형 come입니다.",
-      "복수 주어 They에 맞는 동사원형 walk입니다.",
-      "정답(틀린 것). 복수 주어 many turtles에 맞춰 are여야 합니다.",
-      "baby turtles를 꾸미는 비교급 more입니다."
+      "meant의 목적어인 동명사입니다.",
+      "a small card를 선행사로 하는 관계대명사입니다.",
+      "messages를 꾸미는 과거분사입니다.",
+      "정답(틀린 것). did not seem to care여야 합니다.",
+      "간접의문문을 이끄는 how입니다."
     ],
-    "trap": "'so many turtles' 뒤에서 lost만 보고 단수 동사를 고르기 쉽습니다.",
-    "tip": "주어의 수(turtles)를 먼저 확인하고 be동사를 일치시키세요."
+    "trap": "-ing가 형용사처럼 보여도 seem 뒤에서 동작을 말할 때는 to부정사를 씁니다.",
+    "tip": "seem to V의 형태를 확인하세요."
   },
   {
     "id": "m2b-15-30",
     "level": "m2",
     "set": "mock-15",
+    "rev": 2,
     "no": 30,
     "type": "vocab",
     "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
-    "passage": "Water is a precious resource, and we can protect it with small habits. If you turn off the tap while brushing your teeth, you can {1|waste} about eight liters of water each time. Taking a shower instead of a bath also {2|reduces} the amount of water we use. Fixing a leaking pipe is {3|important} as well. A small leak can lose hundreds of liters in a month. When you wash vegetables, use a bowl instead of running water, and then use the same water for the plants. These small actions seem {4|minor}, but they make a big difference when millions of people do them together. In fact, if every family in a city {5|followed} these tips, the city could save enough water for thousands of homes.",
+    "passage": "In many kitchens, banana skins and carrot ends go straight into the trash, where they are {1|valuable}. Composting offers them another future. When food scraps are mixed with dry leaves or paper and left to break down, tiny living things turn them into a dark, crumbly material that {2|enriches} soil. The process needs air, so the pile should be turned from time to time. It also needs a balance. Too many wet scraps make the heap {3|smell} unpleasant, while too many dry leaves slow the work almost to a stop. Meat and oily food are usually left out, because they can attract rats. Not everyone has a garden, of course. Some apartment buildings now share a collection bin, and the finished compost is {4|offered} to residents for flower pots. The effort is small for each household. Added together, it can noticeably {5|reduce} the amount of waste that has to be burned or buried.",
     "options": [
       "①",
       "②",
@@ -43,138 +45,143 @@
       "⑤"
     ],
     "answer": 0,
-    "translation": "물은 귀중한 자원이며 우리는 작은 습관으로 그것을 지킬 수 있다. 양치할 때 수도꼭지를 잠그면 매번 약 8리터의 물을 절약할 수 있다. 목욕 대신 샤워를 하는 것도 우리가 쓰는 물의 양을 줄인다. 새는 파이프를 고치는 것도 중요하다. 작은 누수가 한 달에 수백 리터를 잃게 할 수 있기 때문이다. 채소를 씻을 때는 흐르는 물 대신 그릇을 쓰고 그 물을 식물에 다시 써라. 이런 작은 행동은 사소해 보이지만 수백만 명이 함께 하면 큰 차이를 만든다. 실제로 한 도시의 모든 가정이 이 요령을 따른다면 그 도시는 수천 가구가 쓸 만큼의 물을 아낄 수 있다.",
-    "why": "수도꼭지를 잠그면 물을 '낭비하는(waste)'것이 아니라 '절약하는(save)' 것이므로 waste는 부적절합니다.",
+    "translation": "많은 부엌에서 바나나 껍질과 당근 끝은 곧장 쓰레기통에 들어가 귀중해진다. 퇴비화는 다른 미래를 준다. 음식 찌꺼기를 마른 잎이나 종이와 섞어 분해되게 두면 아주 작은 생물이 흙을 기름지게 하는 검고 부슬부슬한 물질로 바꾼다. 과정에는 공기가 필요하므로 가끔 더미를 뒤집어야 한다. 균형도 필요하다. 젖은 찌꺼기가 너무 많으면 더미에서 불쾌한 냄새가 나고, 마른 잎이 너무 많으면 일이 거의 멈춘다. 고기와 기름진 음식은 쥐를 끌 수 있어 대개 뺀다. 물론 모두가 정원이 있는 것은 아니다. 일부 아파트는 이제 수거함을 함께 쓰고 완성된 퇴비를 화분용으로 주민에게 나눠 준다. 가정마다의 수고는 작다. 합치면 태우거나 묻어야 하는 쓰레기 양을 눈에 띄게 줄일 수 있다.",
+    "why": "쓰레기통에 들어가면 쓸모없이 버려지므로 valuable은 부적절합니다. wasted(useless)여야 합니다.",
     "optionNotes": [
-      "정답(부적절). 잠그면 물을 절약하므로 save여야 합니다.",
-      "샤워가 물 사용량을 줄인다는 의미로 reduces가 알맞습니다.",
-      "누수를 고치는 것이 중요하다는 의미로 important가 알맞습니다.",
-      "작은 행동이 사소해 보인다는 의미로 minor가 알맞습니다.",
-      "이 요령을 따른다는 의미로 followed가 알맞습니다."
+      "정답(부적절). 쓰레기통에서는 버려집니다.",
+      "흙을 '기름지게' 한다는 enriches입니다.",
+      "불쾌한 '냄새'가 난다는 smell입니다.",
+      "퇴비를 '나눠 준다'는 offered입니다.",
+      "쓰레기를 '줄인다'는 reduce입니다."
     ],
-    "trap": "'turn off the tap'의 결과가 낭비인지 절약인지 방향을 놓치기 쉽습니다.",
-    "tip": "앞 조건(수도꼭지를 잠금)과 결과 동사의 방향이 일치하는지 확인하세요."
+    "trap": "뒤에 퇴비의 가치가 나오므로 첫 낱말도 좋은 말이라고 착각하기 쉽습니다.",
+    "tip": "'Composting offers them another future'는 지금의 상태가 좋지 않다는 뜻입니다."
   },
   {
     "id": "m2b-15-31",
     "level": "m2",
     "set": "mock-15",
+    "rev": 2,
     "no": 31,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Have you ever kept thinking about a TV drama that ended at an exciting moment? Psychologists call this the Zeigarnik effect. In the 1920s, a researcher noticed that waiters remembered unpaid orders very well, but forgot them soon after the customers paid. Later experiments showed the same result: people remember unfinished tasks better than finished ones. Our brain keeps an unfinished task active, as if it were telling us to complete it. Writers of TV series know this well. This is why a good story often stops at an exciting point, so that viewers feel __________.",
+    "passage": "A shop displays a jacket with a tag that reads 200,000 won, crossed out, and below it 90,000 won. Many shoppers feel that they have found a bargain before they have even touched the cloth. The old price does the work. Would they feel the same if the tag simply said 90,000 won? Psychologists have shown that the first number we meet often pulls our later judgments toward it, even when it has little to do with the question. In one well-known study, people watched a wheel of numbers stop and then estimated a quantity that had nothing to do with the wheel; those who saw a higher number tended to guess higher. This pull is called anchoring. It does not mean that we cannot think clearly. It does suggest a useful habit. Before looking at the crossed-out figure, or after noticing it, a shopper can ask what the item would be worth to him or her if __________.",
     "options": [
-      "tired of watching the show for too long",
-      "sure that they have forgotten the whole story",
-      "eager to come back and find out what happens next",
-      "disappointed that the show has been canceled for good",
-      "relaxed because all their questions were answered"
+      "the shop were about to close for the night",
+      "a friend had bought the very same jacket",
+      "no earlier price had been shown at all",
+      "the jacket came in many different colors",
+      "it could be returned within a single week"
     ],
     "answer": 2,
-    "translation": "흥미진진한 순간에 끝난 TV 드라마를 계속 생각한 적이 있는가? 심리학자들은 이것을 자이가르닉 효과라고 부른다. 1920년대에 한 연구자는 웨이터들이 계산되지 않은 주문은 아주 잘 기억하지만 손님이 계산하고 나면 곧 잊는다는 것을 알아챘다. 이후 실험도 같은 결과를 보였다. 사람들은 끝난 일보다 끝나지 않은 일을 더 잘 기억한다. 우리 뇌는 끝나지 않은 일을 마치라고 말하듯이 계속 활성화해 둔다. TV 시리즈 작가들은 이를 잘 안다. 이 때문에 좋은 이야기는 흔히 흥미진진한 지점에서 멈춰 시청자가 다음에 일어날 일을 알아보려고 돌아오고 싶어 하도록 만든다.",
-    "why": "끝나지 않은 일이 기억에 남으므로 이야기가 흥미진진한 곳에서 멈추면 시청자는 다음 내용이 궁금해 돌아오고 싶어 합니다.",
+    "translation": "가게가 20만 원에 줄을 긋고 아래에 9만 원이라 적힌 표의 재킷을 진열한다. 많은 손님은 천을 만지기도 전에 싸게 샀다고 느낀다. 옛 가격이 일을 하는 것이다. 표에 그냥 9만 원이라 적혀 있어도 같게 느낄까? 심리학자들은 처음 만난 수가 질문과 거의 상관없어도 이후 판단을 그쪽으로 끌어당기는 일이 많음을 보였다. 잘 알려진 연구에서 사람들은 숫자 바퀴가 멈추는 것을 본 뒤 바퀴와 무관한 양을 추정했는데, 큰 수를 본 사람이 더 크게 추측하는 경향이 있었다. 이 끌림을 기준점 효과라 한다. 우리가 명료하게 생각할 수 없다는 뜻은 아니다. 쓸모 있는 습관을 시사한다. 손님은 그은 숫자를 보기 전이나 알아챈 뒤에, 이전 가격이 전혀 보이지 않았다면 그 물건이 자기에게 얼마의 가치일지 물을 수 있다.",
+    "why": "처음 본 수가 판단을 끌어당기므로, 이전 가격이 없었다고 가정하는 것이 알맞습니다.",
     "optionNotes": [
-      "너무 오래 봐서 지친다는 내용은 나오지 않습니다.",
-      "이야기를 잊는다는 내용은 글과 반대입니다.",
-      "정답. 다음 내용을 알아보려고 돌아오고 싶어 합니다.",
-      "방송 취소는 나오지 않습니다.",
-      "질문이 해결되어 편안하다는 내용은 글과 반대입니다."
+      "영업 종료는 무관합니다.",
+      "친구의 구매는 무관합니다.",
+      "정답. 이전 가격이 보이지 않았다면입니다.",
+      "색상 수는 무관합니다.",
+      "반품 조건은 무관합니다."
     ],
-    "trap": "waiters가 주문을 '잊는' 부분만 보고 ②를 고르지 마세요. 핵심은 끝나지 않은 일을 더 잘 기억한다는 것입니다.",
-    "tip": "'unfinished tasks better'라는 핵심 결과를 빈칸의 감정과 연결하세요."
+    "trap": "②는 비교를 통해 오히려 또 다른 기준점을 만드는 것입니다.",
+    "tip": "문제의 원인(첫 숫자)을 없앤 상황을 고르세요."
   },
   {
     "id": "m2b-15-32",
     "level": "m2",
     "set": "mock-15",
+    "rev": 2,
     "no": 32,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Restaurants carefully choose the colors of their rooms and logos. Red and yellow are common in fast-food restaurants because these colors catch the eye and are said to make people feel hungry. They also create a feeling of energy, so customers tend to eat quickly and leave. In contrast, many high-class restaurants use soft lights and dark colors. These create a calm mood, so customers stay longer and often order more. Some cafes also play slow music to make this mood stronger. Customers rarely notice these choices, but their behavior changes. In short, color is a silent tool that can __________.",
+    "passage": "A hummingbird hanging in front of a flower seems to be resting on the air. In truth it is working harder than almost any other animal of its size. Its wings beat dozens of times each second, and its heart can beat more than a thousand times a minute. Such a body burns fuel at an astonishing rate. To keep going, a hummingbird visits hundreds of flowers a day for their sugary nectar and also catches small insects for protein. It cannot store much. Its body is simply too small. This creates a danger at night, when it cannot feed for many hours and the air grows cool. Many hummingbirds answer the problem by entering a state called torpor, in which their body temperature drops sharply and the heart slows to a fraction of its daytime speed. In the morning they warm up and set off again. For these tiny birds, then, survival depends on __________.",
     "options": [
-      "influence how people feel and act while eating",
-      "make food taste exactly the same everywhere",
-      "keep customers from seeing the menu clearly",
-      "lower the price of the dishes on the menu",
-      "change the way that vegetables grow on large farms"
+      "carefully balancing the energy that they take in and use",
+      "building the largest and warmest nests that they can possibly make for winter",
+      "flying very long distances in the dark without stopping",
+      "staying as warm as possible all through the cold night",
+      "eating a single big meal that lasts them for a week"
     ],
     "answer": 0,
-    "translation": "식당은 실내 색과 로고의 색을 신중하게 고른다. 빨강과 노랑은 눈길을 끌고 사람들을 배고프게 느끼게 한다고 해서 패스트푸드 식당에서 흔하다. 이 색들은 활기찬 느낌도 만들어서 손님이 빨리 먹고 떠나는 경향이 있다. 반대로 많은 고급 식당은 부드러운 조명과 어두운 색을 쓴다. 이것은 차분한 분위기를 만들어 손님이 더 오래 머물고 흔히 더 많이 주문한다. 일부 카페는 이 분위기를 더 강하게 하려고 느린 음악도 튼다. 손님은 이런 선택을 거의 알아채지 못하지만 행동은 달라진다. 요컨대 색은 식사하는 동안 사람들의 기분과 행동에 영향을 줄 수 있는 조용한 도구이다.",
-    "why": "패스트푸드점과 고급 식당에서 색이 손님의 기분과 행동을 다르게 만들므로 색은 기분과 행동에 영향을 줍니다.",
+    "translation": "꽃 앞에 떠 있는 벌새는 공기에서 쉬는 듯 보인다. 사실 그 크기의 거의 어떤 동물보다 힘들게 일하고 있다. 날개는 1초에 수십 번 치고 심장은 1분에 천 번 넘게 뛸 수 있다. 그런 몸은 놀라운 속도로 연료를 태운다. 계속하려고 벌새는 하루에 수백 송이 꽃에서 단 꿀을 먹고 단백질을 위해 작은 곤충도 잡는다. 많이 저장할 수 없다. 몸이 그저 너무 작다. 밤에는 여러 시간 먹을 수 없고 공기가 서늘해져 위험이 생긴다. 많은 벌새는 체온이 급격히 떨어지고 심장이 낮 속도의 일부로 느려지는 무기력 상태에 들어가 대응한다. 아침에는 몸을 데워 다시 나선다. 그러므로 이 작은 새의 생존은 들이고 쓰는 에너지를 세심하게 맞추는 데 달려 있다.",
+    "why": "많이 먹고, 밤에는 에너지를 아끼므로 에너지 균형이 핵심인 ①이 알맞습니다.",
     "optionNotes": [
-      "정답. 사람들의 기분과 행동에 영향을 줍니다.",
-      "음식 맛이 똑같아진다는 내용은 나오지 않습니다.",
-      "메뉴를 못 보게 한다는 내용은 나오지 않습니다.",
-      "가격을 낮춘다는 내용은 나오지 않습니다.",
-      "채소 재배는 나오지 않습니다."
+      "정답. 에너지의 수입과 지출을 맞추는 것입니다.",
+      "둥지는 나오지 않습니다.",
+      "밤에 날지 않습니다.",
+      "밤에는 체온을 낮춥니다.",
+      "많이 저장할 수 없다고 했습니다."
     ],
-    "trap": "'make people feel hungry'만 보고 음식과 관련된 보기(②)를 고르지 마세요.",
-    "tip": "두 사례(패스트푸드·고급 식당)의 공통점을 일반화하면 빈칸이 나옵니다."
+    "trap": "④는 torpor(체온 저하)와 반대입니다.",
+    "tip": "낮의 섭취와 밤의 절약을 함께 아우르는 말을 고르세요."
   },
   {
     "id": "m2b-15-33",
     "level": "m2",
     "set": "mock-15",
+    "rev": 2,
     "no": 33,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Thomas Edison tested thousands of materials before he found one that could keep a light bulb glowing for a long time. When a reporter asked how it felt to fail so many times, Edison replied that he had not failed. He had simply found thousands of ways that did not work. Many successful people share this attitude. They do not see a mistake as the end of the road. Instead, they treat it as __________. Each failed attempt tells them what to avoid and brings them one step closer to the answer.",
+    "passage": "Four friends who like the same music, read the same websites, and come from the same neighborhood are planning a school event. Their meetings are pleasant and short, since someone suggests an idea and the others quickly agree. A second group is less comfortable. One member rides a wheelchair, one has recently moved from another country, one hates crowds, and one has a little brother who might attend. Their meetings take longer. Nothing is settled quickly. Someone asks how a person who cannot climb stairs will reach the stage. Someone else points out that the date falls on a holiday for some families. Studies of problem solving suggest that groups whose members see things differently can catch more mistakes and consider more options, though they may also feel less sure of themselves along the way. Agreement is not a bad thing. But when it comes too easily, it may only mean that __________.",
     "options": [
-      "proof that they should give up quickly",
-      "useful information that helps them improve",
-      "a reason to blame the people around them",
-      "a secret that must be hidden from everyone",
-      "a chance to win a prize at the contest"
+      "the group has already solved every possible problem",
+      "nobody in the room is able to see what is missing",
+      "the members do not like one another very much",
+      "the event will certainly be a great success",
+      "each person has thought about it very deeply"
     ],
     "answer": 1,
-    "translation": "토머스 에디슨은 전구가 오래 빛나게 할 수 있는 재료를 찾기까지 수천 가지 재료를 시험했다. 기자가 그렇게 많이 실패하니 기분이 어떠냐고 묻자 에디슨은 자신이 실패한 것이 아니라고 대답했다. 그는 효과가 없는 수천 가지 방법을 찾았을 뿐이라고 했다. 성공한 많은 사람이 이런 태도를 공유한다. 그들은 실수를 길의 끝으로 보지 않는다. 대신 그것을 자신이 나아지도록 돕는 유용한 정보로 여긴다. 실패한 시도는 하나하나가 피해야 할 것을 알려 주고 그들을 답에 한 걸음 더 가깝게 한다.",
-    "why": "실패한 시도가 피해야 할 것을 알려 주고 답에 가까워지게 하므로 실수는 개선에 도움이 되는 유용한 정보입니다.",
+    "translation": "같은 음악을 좋아하고 같은 누리집을 읽고 같은 동네에서 온 네 친구가 학교 행사를 계획한다. 누가 생각을 내면 다른 이가 빨리 찬성해 회의는 즐겁고 짧다. 둘째 집단은 덜 편하다. 한 명은 휠체어를 타고, 한 명은 최근 다른 나라에서 왔고, 한 명은 인파를 싫어하며, 한 명은 참석할지 모를 남동생이 있다. 회의는 더 길다. 어느 것도 빨리 정해지지 않는다. 계단을 못 오르는 사람이 무대에 어떻게 가느냐고 누군가 묻는다. 그 날짜가 일부 가정의 명절이라고 다른 이가 지적한다. 문제 해결 연구는 보는 눈이 다른 집단이 실수를 더 많이 잡고 선택지를 더 많이 고려할 수 있지만 도중에 확신은 덜 들 수 있다고 시사한다. 합의가 나쁜 것은 아니다. 그러나 너무 쉽게 올 때는 방 안의 누구도 무엇이 빠졌는지 볼 수 없다는 뜻일 뿐일 수 있다.",
+    "why": "비슷한 사람끼리는 빠진 점을 못 볼 수 있으므로 ②가 알맞습니다.",
     "optionNotes": [
-      "빨리 포기해야 한다는 증거는 글과 반대입니다.",
-      "정답. 나아지도록 돕는 유용한 정보입니다.",
-      "남을 탓하는 이유는 나오지 않습니다.",
-      "숨겨야 할 비밀은 나오지 않습니다.",
-      "상을 받을 기회는 나오지 않습니다."
+      "모든 문제를 풀었다는 보장이 없습니다.",
+      "정답. 빠진 것을 아무도 못 보는 것입니다.",
+      "친구 사이는 좋습니다.",
+      "성공이 보장되지 않습니다.",
+      "깊이 생각했다는 근거가 없습니다."
     ],
-    "trap": "'failed'라는 단어 때문에 부정적인 보기(①②)를 고르지 마세요.",
-    "tip": "빈칸 뒤 문장(Each failed attempt tells them what to avoid)이 정답의 근거입니다."
+    "trap": "①, ④는 쉬운 합의를 긍정적으로 해석한 것입니다.",
+    "tip": "둘째 집단이 발견한 것(계단, 명절)을 첫 집단은 어땠을지 생각하세요."
   },
   {
     "id": "m2b-15-34",
     "level": "m2",
     "set": "mock-15",
+    "rev": 2,
     "no": 34,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Clownfish live among the stinging arms of sea anemones. Divers often see small clownfish swimming happily among the arms. Scientists have studied this partnership for many years. Most fish would be hurt by the poison, but the clownfish is covered by a thick layer of mucus that protects it. The anemone gives the clownfish a safe home where enemies cannot easily follow. In return, the clownfish chases away fish that eat anemones and cleans the anemone by eating dead pieces. It also leaves waste that the anemone uses as food. Scientists call this kind of relationship mutualism, in which __________.",
+    "passage": "Watch a group of children playing a game of statues. When the leader turns around, everyone must freeze, however much they want to take one more step. A five-year-old who cannot sit still at the dinner table may hold an awkward pose for surprisingly long in order to stay in the game. Many childhood games ask for something of this kind: waiting for one's turn, doing the opposite of what is said, or not laughing when a friend makes faces. Even a simple race begins with waiting for a signal. Nobody is giving a lesson, and the players would probably stop if one began. Yet each round requires them to hold back a first impulse and follow a rule that they have agreed to. Some researchers think that this is good practice for self-control, although the size of the effect is still debated. What is clear is that in play children will often willingly __________.",
     "options": [
-      "one animal always harms the other one to get food",
-      "both animals compete for the same home",
-      "neither animal needs the other to survive",
-      "the stronger animal rules the weaker one",
-      "both partners gain something from living together"
+      "ignore every rule that makes the game difficult",
+      "copy the actions of adults without any thought",
+      "ask a grown-up to decide who has won or lost",
+      "stop playing as soon as they are asked to wait",
+      "accept limits that they would resist elsewhere"
     ],
     "answer": 4,
-    "translation": "흰동가리는 말미잘의 쏘는 촉수 사이에서 산다. 잠수부는 작은 흰동가리가 촉수 사이를 즐겁게 헤엄치는 모습을 자주 본다. 과학자들은 이 협력 관계를 여러 해 동안 연구해 왔다. 대부분의 물고기는 독에 다치겠지만 흰동가리는 자신을 보호하는 두꺼운 점액층으로 덮여 있다. 말미잘은 흰동가리에게 적이 쉽게 따라오지 못하는 안전한 집을 준다. 그 대가로 흰동가리는 말미잘을 먹는 물고기를 쫓아내고 죽은 조각을 먹어서 말미잘을 청소한다. 또 말미잘이 먹이로 쓰는 배설물도 남긴다. 과학자들은 이런 관계를 공생이라 부르며, 공생에서는 두 파트너가 함께 살면서 무언가를 얻는다.",
-    "why": "말미잘은 집을 주고 흰동가리는 청소와 보호를 해 주므로 공생에서는 둘 다 이득을 얻습니다.",
+    "translation": "동상 놀이를 하는 아이들을 보라. 술래가 돌아보면 한 걸음 더 가고 싶어도 모두 얼어야 한다. 저녁 식탁에서 가만히 못 앉는 다섯 살이 놀이에 남으려고 어색한 자세를 놀랄 만큼 오래 유지할 수 있다. 많은 어린 시절 놀이는 이런 것을 요구한다. 차례 기다리기, 말한 것의 반대로 하기, 친구가 우스운 표정을 지어도 웃지 않기이다. 간단한 달리기도 신호를 기다리는 것으로 시작한다. 아무도 수업하지 않으며 시작하면 아마 그만둘 것이다. 그러나 판마다 첫 충동을 참고 합의한 규칙을 따라야 한다. 일부 연구자는 이것이 자기 조절의 좋은 연습이라 생각하지만 효과의 크기는 아직 논란이다. 분명한 것은 놀이에서 아이들은 흔히 다른 곳에서라면 거부할 제한을 기꺼이 받아들인다는 점이다.",
+    "why": "식탁에서는 못 참던 아이가 놀이에서는 참으므로 ⑤가 알맞습니다.",
     "optionNotes": [
-      "한쪽이 먹이를 얻으려고 해친다는 내용은 글과 반대입니다.",
-      "같은 집을 두고 경쟁한다는 내용은 나오지 않습니다.",
-      "서로 필요 없다는 내용은 글과 반대입니다.",
-      "강한 쪽이 지배한다는 내용은 나오지 않습니다.",
-      "정답. 함께 살면서 둘 다 무언가를 얻습니다."
+      "규칙을 따릅니다.",
+      "생각 없는 모방이 아닙니다.",
+      "어른의 판정은 나오지 않습니다.",
+      "기다림을 견딥니다.",
+      "정답. 다른 데서는 거부할 제한을 받아들입니다."
     ],
-    "trap": "'poison', 'stinging' 같은 단어 때문에 해로운 관계(①)로 오해하지 마세요.",
-    "tip": "In return 앞뒤의 주고받는 관계를 일반화하세요."
+    "trap": "①은 놀이의 자유로움이라는 인상에 기댄 함정입니다.",
+    "tip": "식탁(dinner table)과 놀이(game)의 대비를 보세요."
   },
   {
     "id": "m2b-15-35",
     "level": "m2",
     "set": "mock-15",
+    "rev": 2,
     "no": 35,
     "type": "irrelevant",
     "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
-    "passage": "Many middle school students look for activities that are fun and meaningful. Volunteering at a local animal shelter can teach students many valuable things. ① You learn responsibility by feeding and cleaning the animals on a regular schedule. ② Mount Everest is the highest mountain in the world, at 8,849 meters. ③ You also learn patience as you slowly gain the trust of frightened dogs and cats. ④ Working with other volunteers helps you improve your teamwork and communication skills. ⑤ Most of all, you feel proud when an animal you cared for finds a new home.",
+    "passage": "When a problem will not move, getting up for a short walk can be more useful than it sounds. Many writers and scientists have described walking as part of their working day. In one series of experiments, students were asked to think of unusual uses for everyday objects, such as a brick or a newspaper. ① They came up with more original ideas while walking than while sitting. ② Walking shoes are now made in a great many colors, and some cost more than a month's allowance. ③ The effect appeared both on a treadmill facing a blank wall and outdoors. This suggests that the movement itself mattered more than the scenery. ④ It also lasted for a short while after the walkers had sat down again. ⑤ Walking did not help as much with tasks that have a single correct answer, so it is no cure for every kind of difficulty. Still, when many possibilities are needed, a short walk costs almost nothing to try.",
     "options": [
       "①",
       "②",
@@ -183,26 +190,27 @@
       "⑤"
     ],
     "answer": 1,
-    "translation": "많은 중학생이 재미있고 의미 있는 활동을 찾는다. 지역 동물 보호소에서 하는 봉사 활동은 학생들에게 많은 소중한 것을 가르쳐 줄 수 있다. ① 정해진 일정에 따라 동물에게 먹이를 주고 청소하면서 책임감을 배운다. ② 에베레스트산은 세계에서 가장 높은 산으로 8,849미터이다. ③ 또 겁먹은 개와 고양이의 신뢰를 천천히 얻으면서 인내심도 배운다. ④ 다른 봉사자들과 일하면 팀워크와 의사소통 능력이 좋아진다. ⑤ 무엇보다 자신이 돌본 동물이 새 가정을 찾으면 자부심을 느낀다.",
-    "why": "글은 동물 보호소 봉사로 배우는 것을 이야기하는데 ②는 에베레스트산에 관한 별개의 이야기입니다.",
+    "translation": "문제가 꿈쩍하지 않을 때 일어나 잠깐 걷는 것은 말보다 쓸모 있을 수 있다. 많은 작가와 과학자는 걷기를 일과의 일부로 묘사했다. 일련의 실험에서 학생에게 벽돌이나 신문 같은 일상 물건의 특이한 쓰임을 생각하게 했다. ① 앉아 있을 때보다 걸을 때 더 독창적인 생각을 냈다. ② 걷기용 신발은 이제 아주 많은 색으로 나오며 어떤 것은 한 달 용돈보다 비싸다. ③ 효과는 빈 벽을 향한 러닝머신에서도 야외에서도 나타났다. 이는 경치보다 움직임 자체가 중요했음을 시사한다. ④ 걷던 사람이 다시 앉은 뒤에도 잠깐 이어졌다. ⑤ 정답이 하나인 과제에는 걷기가 그만큼 돕지 않았으므로 모든 어려움의 처방은 아니다. 그래도 많은 가능성이 필요할 때 짧은 산책은 시도하는 비용이 거의 없다.",
+    "why": "글은 걷기가 생각에 미치는 효과를 다루는데 ②는 신발의 색과 값 이야기라 흐름에서 벗어납니다.",
     "optionNotes": [
-      "책임감을 배운다는 내용입니다.",
-      "정답(무관). 에베레스트산 이야기라 관계가 없습니다.",
-      "인내심을 배운다는 내용입니다.",
-      "팀워크를 배운다는 내용입니다.",
-      "자부심을 느낀다는 내용입니다."
+      "걷기의 효과입니다.",
+      "정답. 신발 이야기는 무관합니다.",
+      "효과가 나타난 조건입니다.",
+      "효과의 지속입니다.",
+      "효과의 한계입니다."
     ],
-    "trap": "숫자와 사실이 들어간 문장이라 정보가 풍부해 보여 흐름에 맞는다고 착각하기 쉽습니다.",
-    "tip": "각 문장이 '봉사로 배우는 것'이라는 주제를 뒷받침하는지 확인하세요."
+    "trap": "'walking'이 반복되어도 주제는 생각에 미치는 영향입니다.",
+    "tip": "①의 'original ideas'와 이어지지 않는 문장을 찾으세요."
   },
   {
     "id": "m2b-15-36",
     "level": "m2",
     "set": "mock-15",
+    "rev": 2,
     "no": 36,
     "type": "order",
     "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
-    "passage": "In 1968, a scientist named Spencer Silver was trying to make a very strong glue at a company in the United States. However, he accidentally created a weak glue that stuck lightly and could be peeled off easily.\n(A) Thanks to that idea, the company released colorful sticky notes in 1980. Soon they appeared on desks all over the world.\n(B) Then, one Sunday, a colleague named Art Fry kept losing his place in a church songbook. His paper bookmarks kept falling out. He suddenly remembered the weak glue and thought it would make a perfect bookmark.\n(C) For years, nobody knew what to do with this strange glue, so it was stored away and almost forgotten.",
+    "passage": "Basketball was not discovered on a playground. It was designed on purpose, to solve a problem at a training school in Massachusetts.\n(A) The early game had an odd feature: because the baskets still had bottoms, someone had to climb up and fetch the ball after each score. In time the bottoms were cut out, nets and metal rims appeared, and the game spread around the world. Millions play it today.\n(B) A young teacher named James Naismith wrote down thirteen rules and nailed two peach baskets high on the walls. Players could not run with the ball, and the goal was placed above their heads so that they would have to throw gently.\n(C) In the winter of 1891, the students there were restless. It was too cold to play outside, and the usual indoor exercises bored them. The teachers wanted a lively game that would not lead to rough collisions on a hard floor.",
     "options": [
       "(A)-(C)-(B)",
       "(B)-(A)-(C)",
@@ -211,26 +219,27 @@
       "(C)-(B)-(A)"
     ],
     "answer": 4,
-    "translation": "1968년 스펜서 실버라는 과학자는 미국의 한 회사에서 아주 강력한 접착제를 만들려 하고 있었다. 그러나 그는 가볍게 붙고 쉽게 떼어지는 약한 접착제를 우연히 만들어 냈다. (C) 몇 해 동안 아무도 이 이상한 접착제를 어디에 쓸지 몰라서 접착제는 보관되었고 거의 잊혔다. (B) 그러던 어느 일요일 동료인 아트 프라이는 교회 노래책에서 계속 자리를 잃었다. 종이 책갈피가 자꾸 떨어졌다. 그는 문득 그 약한 접착제를 떠올렸고 완벽한 책갈피가 되겠다고 생각했다. (A) 그 아이디어 덕분에 회사는 1980년에 색색의 접착식 메모지를 내놓았다. 곧 전 세계 책상 위에 나타났다.",
-    "why": "(C) 'For years'로 접착제가 잊힘 → (B) 'Then'으로 프라이가 활용 아이디어를 떠올림 → (A) 'that idea'로 제품 출시 순서입니다.",
+    "translation": "농구는 놀이터에서 발견된 것이 아니다. 매사추세츠의 한 훈련 학교에서 문제를 풀려고 일부러 설계되었다. (C) 1891년 겨울 그곳 학생들은 들썩였다. 밖에서 놀기엔 너무 추웠고 평소의 실내 운동은 지루했다. 교사들은 딱딱한 바닥에서 거친 충돌이 없는 활기찬 경기를 원했다. (B) 제임스 네이스미스라는 젊은 교사가 13개 규칙을 적고 복숭아 바구니 두 개를 벽 높이 박았다. 선수는 공을 들고 뛸 수 없었고, 부드럽게 던지도록 골을 머리 위에 두었다. (A) 초기 경기에는 이상한 점이 있었다. 바구니에 바닥이 있어 득점마다 누군가 올라가 공을 꺼내야 했다. 이윽고 바닥을 잘라 내고 그물과 금속 테가 생겼으며 경기는 전 세계로 퍼졌다. 오늘날 수백만 명이 즐긴다.",
+    "why": "(C) 문제 상황 → (B) 설계 → (A) 개선과 확산 순서입니다.",
     "optionNotes": [
-      "(A)의 'that idea'가 가리킬 아이디어가 앞에 없습니다.",
-      "(B)의 'the weak glue'를 설명한 글이 앞에 와야 합니다.",
-      "(B)가 먼저 오면 'Then'이 이어질 앞 내용이 없습니다.",
-      "(A)의 'that idea'가 (B)보다 먼저 나올 수 없습니다.",
-      "정답. 잊힌 접착제 → 책갈피 아이디어 → 제품 출시."
+      "(A)의 'The early game'은 (B) 뒤여야 합니다.",
+      "(B)의 'A young teacher'가 상황(C)보다 앞설 수 없습니다.",
+      "(C)가 설계(B) 뒤에 오면 어색합니다.",
+      "(A)가 설계(B)보다 앞설 수 없습니다.",
+      "정답. 상황 → 설계 → 발전입니다."
     ],
-    "trap": "(A)의 'that idea'는 (B)에서 프라이가 떠올린 책갈피 아이디어를 가리킵니다.",
-    "tip": "Then, that idea 같은 연결어와 지시어를 확인하세요."
+    "trap": "(C)의 'the students there'의 there는 주어진 글의 학교입니다.",
+    "tip": "문제 → 해결 → 이후의 변화 순서를 따라가세요."
   },
   {
     "id": "m2b-15-37",
     "level": "m2",
     "set": "mock-15",
+    "rev": 2,
     "no": 37,
     "type": "order",
     "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
-    "passage": "Octopuses are among the most intelligent animals in the sea. Scientists have observed many surprising behaviors in them. They have no bones, so they can squeeze through very tiny spaces.\n(A) For example, in a laboratory, an octopus learned how to open a jar with a screw lid after watching a person do it. It then got the crab inside.\n(B) These abilities show that intelligence can develop in animals that look very different from humans. They make us think again about what a smart mind is.\n(C) Some octopuses were even seen using coconut shells as portable shelters, carrying them across the sea floor.",
+    "passage": "The smooth silk of a fine scarf begins with a small caterpillar that eats almost nothing but mulberry leaves.\n(A) After about a month of feeding, the silkworm is ready to change. It moves its head back and forth for several days, wrapping itself in a single long thread that hardens into a cocoon. During that month of eating, it has grown many times heavier.\n(C) Farmers gather the cocoons and heat them before the moths can break out and cut the thread. Timing matters, because a moth that escapes leaves the thread in short pieces. The cocoons are then soaked in hot water, which loosens the natural glue that holds them together.\n(B) Once the glue has softened, workers find the end of each thread and unwind it. Several of these fine strands are twisted together to make one thread that is strong enough to weave. A single cocoon may give a thread several hundred meters long.",
     "options": [
       "(A)-(C)-(B)",
       "(B)-(A)-(C)",
@@ -239,26 +248,27 @@
       "(C)-(B)-(A)"
     ],
     "answer": 0,
-    "translation": "문어는 바다에서 가장 지능이 높은 동물에 속한다. 과학자들은 문어에게서 많은 놀라운 행동을 관찰했다. 문어는 뼈가 없어서 아주 작은 틈도 비집고 들어갈 수 있다. (A) 예를 들어 실험실에서 한 문어는 사람이 하는 것을 본 뒤 돌려서 여는 뚜껑이 달린 병을 여는 법을 배웠다. 그러고 나서 안에 든 게를 얻었다. (C) 어떤 문어는 심지어 코코넛 껍데기를 휴대용 은신처로 써서 바다 밑바닥을 가로질러 나르는 모습이 목격되었다. (B) 이런 능력은 지능이 인간과 매우 다르게 생긴 동물에게서도 발달할 수 있음을 보여 준다. 이 능력은 똑똑한 정신이 무엇인지 다시 생각하게 한다.",
-    "why": "(A) 'For example'로 구체적 사례 → (C) 'even'으로 추가 사례 → (B) 'These abilities'로 사례를 종합하는 순서입니다.",
+    "translation": "고운 스카프의 매끄러운 비단은 뽕잎 말고는 거의 먹지 않는 작은 애벌레에서 시작된다. (A) 약 한 달을 먹은 뒤 누에는 변할 준비가 된다. 며칠 동안 머리를 앞뒤로 움직여 굳어 고치가 되는 긴 실 한 가닥으로 몸을 감는다. 먹는 그 한 달 동안 누에는 몇 배나 무거워졌다. (C) 농부는 고치를 모아 나방이 뚫고 나와 실을 끊기 전에 가열한다. 빠져나온 나방은 실을 짧은 조각으로 남기므로 때가 중요하다. 그다음 뜨거운 물에 담그면 고치를 붙이는 천연 풀이 느슨해진다. (B) 풀이 부드러워지면 일꾼이 실 끝을 찾아 푼다. 이 가는 가닥 몇 개를 꼬아 짤 수 있을 만큼 튼튼한 실 하나를 만든다. 고치 하나에서 수백 미터의 실이 나올 수 있다.",
+    "why": "(A) 고치 짓기 → (C) 수확과 삶기 → (B) 실 풀기 순서입니다.",
     "optionNotes": [
-      "정답. 사례 → 추가 사례 → 종합.",
-      "(B)의 'These abilities'가 가리킬 능력이 앞에 없습니다.",
-      "(B)가 먼저 오면 'These abilities'가 불분명합니다.",
-      "(C)의 'even'이 덧붙일 앞 사례가 없습니다.",
-      "(C)의 'even'과 (B)의 'These abilities'가 모두 앞 사례를 요구합니다."
+      "정답. 고치 → 삶기 → 실 뽑기입니다.",
+      "(B)의 'the glue'는 (C) 뒤여야 합니다.",
+      "(B)가 처음에 올 수 없습니다.",
+      "(C)의 'the cocoons'는 (A) 뒤여야 합니다.",
+      "(C)가 처음에 올 수 없습니다."
     ],
-    "trap": "(B)의 'These abilities'는 (A)와 (C)의 사례를 모두 가리킵니다.",
-    "tip": "For example → even → These abilities의 흐름을 따라가세요."
+    "trap": "(B)의 'Once the glue has softened'는 (C)의 뜨거운 물 뒤입니다.",
+    "tip": "cocoon → glue → thread의 등장 순서를 따라가세요."
   },
   {
     "id": "m2b-15-38",
     "level": "m2",
     "set": "mock-15",
+    "rev": 2,
     "no": 38,
     "type": "insert",
     "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
-    "passage": "[주어진 문장]\nHowever, shop owners were worried that fewer customers would visit their stores.\n\n[글]\n( ① ) A small city in Spain decided to close its busy main street to cars for good. ( ② ) The mayor believed that a quiet street would be safer and more pleasant for everyone. ( ③ ) Surprisingly, the opposite happened, because people stayed longer to sit at outdoor cafes. ( ④ ) After six months, the number of visitors had risen by twenty percent. ( ⑤ ) Now several other cities are planning to follow this example.",
+    "passage": "[주어진 문장]\nCold air, however, cannot hold nearly as much of this invisible gas as warm air can.\n\n[글]\nOn a frosty morning, every breath turns into a small white cloud that vanishes a moment later. Children sometimes call it smoke, although nothing is burning. ( ① ) The air that leaves our lungs is warm and carries a great deal of water in the form of vapor. ( ② ) We cannot see it while it remains a gas. The same is true of the vapor right at the spout of a boiling kettle. ( ③ ) So when the warm breath meets the chilly air and cools suddenly, some of the vapor turns into countless tiny drops of liquid water. ( ④ ) It is these drops that we see as a cloud. Clouds high in the sky form in much the same way, when rising air cools. ( ⑤ ) As they mix with drier air around them, they evaporate again and the cloud disappears. On a very damp day, the little cloud may linger longer before it fades.",
     "options": [
       "①",
       "②",
@@ -267,26 +277,27 @@
       "⑤"
     ],
     "answer": 2,
-    "translation": "[주어진 문장] 그러나 가게 주인들은 가게를 찾는 손님이 줄어들까 봐 걱정했다. [글] 스페인의 한 작은 도시는 번잡한 중심가를 자동차에 영구히 닫기로 했다. 시장은 조용한 거리가 모두에게 더 안전하고 쾌적할 것이라고 믿었다. 놀랍게도 정반대의 일이 일어났는데 사람들이 야외 카페에 앉아 더 오래 머물렀기 때문이다. 여섯 달 뒤 방문객 수가 20퍼센트 늘었다. 이제 다른 몇몇 도시가 이 사례를 따를 계획이다.",
-    "why": "'the opposite happened'가 가리키는 걱정(손님이 줄 것)이 먼저 나와야 하므로 ③에 들어갑니다.",
+    "translation": "[주어진 문장] 그러나 찬 공기는 이 보이지 않는 기체를 따뜻한 공기만큼 거의 담지 못한다. [글] 서리 내린 아침에는 숨마다 작은 흰 구름이 되었다가 곧 사라진다. 아무것도 타지 않는데 아이들은 때때로 연기라 부른다. 허파에서 나오는 공기는 따뜻하고 수증기 형태의 물을 많이 담는다. 기체로 있는 동안은 볼 수 없다. 끓는 주전자 주둥이 바로 앞의 수증기도 그렇다. 그래서 따뜻한 숨이 차가운 공기를 만나 갑자기 식으면 수증기의 일부가 무수한 아주 작은 물방울이 된다. 우리가 구름으로 보는 것이 이 물방울이다. 높은 하늘의 구름도 오르는 공기가 식을 때 거의 같은 방식으로 생긴다. 주위의 더 마른 공기와 섞이며 다시 증발해 구름은 사라진다. 아주 습한 날에는 작은 구름이 더 오래 머물다 사라질 수 있다.",
+    "why": "수증기를 설명한 뒤 '찬 공기는 담지 못한다'고 하고, 'So'로 결과가 이어지므로 ③입니다.",
     "optionNotes": [
-      "시장의 믿음을 말하기 전이라 'However'가 어색합니다.",
-      "시장의 믿음 앞에 놓이면 이어지는 문장과 흐름이 맞지 않습니다.",
-      "정답. 걱정이 나온 뒤 'the opposite'가 이어집니다.",
-      "결과가 이미 나온 뒤라 어색합니다.",
-      "마지막에 오면 흐름이 끊깁니다."
+      "수증기가 아직 없습니다.",
+      "'this invisible gas'를 설명하기 전이라 이릅니다.",
+      "정답. 수증기 → 찬 공기의 한계 → So 결과입니다.",
+      "물방울 설명 뒤에는 이유가 늦습니다.",
+      "구름이 사라지는 설명 앞에는 어색합니다."
     ],
-    "trap": "'the opposite'가 가리키는 대상(손님이 줄 것이라는 걱정)을 놓치기 쉽습니다.",
-    "tip": "the opposite, However 같은 표현은 반대되는 앞 내용을 요구합니다."
+    "trap": "②에 넣으면 'We cannot see it'의 it과 흐름이 끊깁니다.",
+    "tip": "'So when ~'의 원인이 바로 앞에 있어야 합니다."
   },
   {
     "id": "m2b-15-39",
     "level": "m2",
     "set": "mock-15",
+    "rev": 2,
     "no": 39,
     "type": "insert",
     "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
-    "passage": "[주어진 문장]\nThat is why night-shift workers often have trouble sleeping during the day.\n\n[글]\n( ① ) Our body has an internal clock that follows the cycle of light and dark. ( ② ) When it gets dark, the body produces a chemical that makes us feel sleepy. ( ③ ) This chemical cannot be produced well under bright light. ( ④ ) Doctors suggest that they wear dark sunglasses on the way home to help the body prepare for sleep. ( ⑤ ) Everyone can also sleep better by dimming the lights in the evening.",
+    "passage": "[주어진 문장]\nThis chance find led to one of the most important searches of the century.\n\n[글]\n( ① ) In 1947 a young shepherd near the Dead Sea was looking for a lost animal among rocky cliffs. The cliffs there are dry and steep, with many natural openings. ( ② ) He threw a stone into the opening of a cave and heard something break. He did not dare to go in at once. ( ③ ) Inside he and a relative found tall clay jars, some of which held old rolls of leather covered in writing. Neither of them could read a word of it. ( ④ ) Over the following ten years, scholars and local people explored the area and found manuscripts in eleven caves. The writings include the oldest known copies of many books of the Hebrew Bible. ( ⑤ ) Some of them are more than two thousand years old. The dry air of the caves had helped to preserve them for all that time.",
     "options": [
       "①",
       "②",
@@ -295,44 +306,45 @@
       "⑤"
     ],
     "answer": 3,
-    "translation": "[주어진 문장] 그것이 야간 근무자들이 낮에 잠을 자는 데 어려움을 겪는 이유이다. [글] 우리 몸에는 빛과 어둠의 주기를 따르는 체내 시계가 있다. 어두워지면 몸은 졸리게 하는 화학 물질을 만든다. 이 물질은 밝은 빛 아래에서는 잘 만들어지지 않는다. 의사들은 그들이 집에 가는 길에 짙은 선글라스를 써서 몸이 잠을 준비하도록 도우라고 제안한다. 모든 사람이 저녁에 조명을 어둡게 해도 더 잘 잘 수 있다.",
-    "why": "밝은 빛에서는 물질이 잘 만들어지지 않는다는 원인 뒤에 'That is why'로 야간 근무자의 문제가 이어지고, 다음 문장의 'they'가 야간 근무자를 가리키므로 ④에 들어갑니다.",
+    "translation": "[주어진 문장] 이 우연한 발견은 그 세기의 가장 중요한 탐색 중 하나로 이어졌다. [글] 1947년 사해 근처의 어린 목동이 바위 절벽에서 잃은 짐승을 찾고 있었다. 그곳 절벽은 건조하고 가파르며 자연 구멍이 많다. 동굴 입구에 돌을 던지자 무언가 깨지는 소리가 났다. 그는 감히 바로 들어가지 못했다. 안에서 그와 친척은 높은 질항아리를 발견했고 일부에는 글이 적힌 오래된 가죽 두루마리가 있었다. 둘 다 한 글자도 읽을 수 없었다. 이후 10년 동안 학자와 주민이 그 지역을 탐사해 동굴 11곳에서 필사본을 발견했다. 그 글에는 히브리 성서 여러 책의 알려진 가장 오래된 사본이 들어 있다. 그중 일부는 2천 년이 넘었다. 동굴의 건조한 공기가 그 긴 세월 동안 보존을 도왔다.",
+    "why": "발견(③ 문장) 뒤에 '이 우연한 발견이 탐색으로 이어졌다'고 하고, 다음 문장이 탐색을 설명하므로 ④입니다.",
     "optionNotes": [
-      "'That is why'가 설명할 원인이 앞에 없습니다.",
-      "어두워지면 졸리다는 설명 뒤라 밝은 빛이 원인이라는 내용이 먼저 필요합니다.",
-      "밝은 빛 설명 바로 앞이라 이유가 먼저 나올 수 없습니다.",
-      "정답. 원인 뒤에 결과가 오고 이어지는 'they'가 야간 근무자를 가리킵니다.",
-      "선글라스 제안 뒤에 오면 'they'가 가리킬 대상이 없습니다."
+      "발견이 아직 없습니다.",
+      "돌을 던지기도 전입니다.",
+      "항아리를 발견하기 전입니다.",
+      "정답. 발견 → 탐색으로 이어짐 → 탐색 내용입니다.",
+      "탐색 설명 뒤에는 순서가 거꾸로입니다."
     ],
-    "trap": "④ 다음 문장의 'they'가 주어진 문장의 night-shift workers를 가리킨다는 점을 놓치지 마세요.",
-    "tip": "That is why는 원인 직후에, 대명사 they는 선행하는 복수 명사 직후에 놓입니다."
+    "trap": "⑤에 넣으면 탐색을 설명한 뒤에야 탐색이 시작됐다고 하게 됩니다.",
+    "tip": "'led to ~ searches' 다음에 탐색의 내용이 와야 합니다."
   },
   {
     "id": "m2b-15-40",
     "level": "m2",
     "set": "mock-15",
+    "rev": 2,
     "no": 40,
     "type": "summary",
     "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Researchers wanted to know whether background music affects studying. They asked two groups of students to read the same passage and then answer questions. One group read in a silent room, and the other group read while listening to loud music with lyrics. The students in the silent room answered 85 percent of the questions correctly, while the music group answered only 62 percent. Many students in the music group said they did not notice any problem. However, their results showed that songs with lyrics competed with the words they were reading. The researchers advised students to choose quiet places or soft music without words when they need to understand difficult texts.\n\n▶ Students who read in a (A) room understood the text (B) than those who listened to loud music with lyrics.",
+    "passage": "Researchers asked children aged four and six to work on a boring task on a computer for ten minutes. A tablet with an attractive game was placed nearby, and the children were told that they could take a break and play whenever they liked. Before starting, some were asked to think about how they themselves were doing, saying, \"Am I working hard?\" Others were told to imagine being a character known for working hard, such as a superhero or a clever builder, and some even put on a cape. They asked, \"Is the superhero working hard?\" The children who pretended to be the character stayed with the dull task longer than those who thought about themselves. The study was small, and ten minutes on a computer is not the same as a year of homework. Still, it suggests that stepping outside oneself for a moment may help a child resist temptation.\n\n▶ Young children who (A) to be a hardworking character tended to stay with a dull task (B).",
     "options": [
-      "(A) crowded — (B) less",
-      "(A) bright — (B) later",
-      "(A) quiet — (B) better",
-      "(A) warm — (B) slower",
-      "(A) large — (B) worse"
+      "(A) refused — (B) longer",
+      "(A) pretended — (B) less",
+      "(A) pretended — (B) longer",
+      "(A) forgot — (B) longer",
+      "(A) pretended — (B) alone"
     ],
     "answer": 2,
-    "translation": "연구자들은 배경 음악이 공부에 영향을 주는지 알고 싶었다. 그들은 두 집단의 학생에게 같은 글을 읽고 질문에 답하게 했다. 한 집단은 조용한 방에서 읽었고 다른 집단은 가사가 있는 시끄러운 음악을 들으며 읽었다. 조용한 방의 학생들은 질문의 85퍼센트를 맞혔고 음악 집단은 62퍼센트만 맞혔다. 음악 집단의 많은 학생은 아무 문제를 못 느꼈다고 했다. 그러나 결과를 보면 가사 있는 노래가 읽는 글과 경쟁했다. 연구자들은 어려운 글을 이해해야 할 때 조용한 장소나 가사 없는 잔잔한 음악을 고르라고 조언했다. ▶ 조용한 (A) 방에서 읽은 학생들은 가사가 있는 시끄러운 음악을 들은 학생들보다 글을 (B) 이해했다.",
-    "why": "조용한 방에서 읽은 집단의 점수가 더 높았으므로 (A)는 quiet, (B)는 better입니다.",
+    "translation": "연구자들은 4세와 6세 아동에게 10분 동안 컴퓨터의 지루한 과제를 하게 했다. 근처에 재미있는 게임이 든 태블릿을 두고 원할 때 쉬며 놀 수 있다고 말했다. 시작 전에 일부에게는 \"나는 열심히 하고 있나?\"라며 자신이 어떻게 하는지 생각하게 했다. 다른 아이에게는 슈퍼 영웅이나 영리한 건축가처럼 열심히 일하기로 알려진 인물이 되었다고 상상하게 했고 일부는 망토도 걸쳤다. 그들은 \"영웅은 열심히 하고 있나?\"라고 물었다. 인물인 척한 아이는 자신을 생각한 아이보다 지루한 과제에 더 오래 머물렀다. 연구는 작았고 컴퓨터 10분은 1년의 숙제와 같지 않다. 그래도 잠시 자신 밖으로 나가는 것이 유혹을 견디게 도울 수 있음을 시사한다. ▶ 열심히 하는 인물인 척한 어린아이는 지루한 과제를 더 오래 하는 경향이 있었다.",
+    "why": "인물인 척한(pretended) 아이가 더 오래(longer) 했으므로 ③입니다.",
     "optionNotes": [
-      "crowded와 less는 글에 나오지 않습니다.",
-      "bright와 later는 글에 나오지 않습니다.",
-      "정답. 조용한 방에서 더 잘 이해했습니다.",
-      "warm과 slower는 글에 나오지 않습니다.",
-      "large와 worse는 글에 나오지 않습니다."
+      "거부한 것이 아닙니다.",
+      "(B)가 반대입니다.",
+      "정답. 인물인 척하면 더 오래 합니다.",
+      "잊은 것이 아닙니다.",
+      "혼자 했는지는 논점이 아닙니다."
     ],
-    "trap": "음악 집단 학생들이 '문제를 못 느꼈다'는 말을 결과가 좋았다는 뜻으로 오해하지 마세요.",
-    "tip": "요약문은 조건(조용한 방)과 결과(더 잘 이해)를 짝지으세요."
+    "trap": "②는 (A)만 맞는 함정입니다.",
+    "tip": "'pretended to be the character stayed longer'를 요약합니다."
   }
 ]
