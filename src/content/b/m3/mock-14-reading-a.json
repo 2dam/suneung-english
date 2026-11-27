@@ -3,229 +3,247 @@
     "id": "m3b-14-18",
     "level": "m3",
     "set": "mock-14",
+    "rev": 2,
     "no": 18,
     "type": "purpose",
     "stem": "다음 글의 목적으로 가장 적절한 것은?",
-    "passage": "Dear Manager,\nMy family and I visited your restaurant, Green Table, on Saturday evening to celebrate my grandmother's seventieth birthday. We had made a reservation for seven o'clock a week earlier, but we had to wait for forty minutes before we were seated. During this time, no staff member explained the delay or apologized. When the food finally arrived, one of the main dishes was cold, and we waited another twenty minutes for it to be replaced. The waiter was polite, but he seemed overwhelmed because there were not enough servers. We have enjoyed your restaurant for many years, so we were very disappointed. I hope you will look into the problems with reservations and staffing so that other customers do not have the same experience.\nSincerely,\nMinji Seo",
+    "passage": "Dear Director of Transportation,\nI am a ninth grader at Seobu Middle School and one of about seventy students there who ride bicycles every day. I would like to thank your office for the new bike lane on Sycamore Street, which has made the trip much safer. The difficulty now begins when we arrive. The only rack near the school gate holds twelve bicycles. By eight o'clock it is full, and the rest of us chain our bikes to fences, signposts, and the rails beside the bus stop. Last month an older woman caught her coat on one of them, and two bicycles have been damaged. There is a strip of unused pavement, about ten meters long, just east of the gate. We measured it and believe that it could hold racks for at least forty more bicycles. Could your office install them there? I have attached a drawing, photographs, and the signatures of the students who support this request.\nSincerely,\nMin Chaewon",
     "options": [
-      "식당의 서비스 문제를 알리고 개선을 요청하려고",
-      "생신 잔치를 위한 식당 예약을 부탁하려고",
-      "식당 음식의 맛이 좋았다고 칭찬하려고",
-      "식당 종업원 채용 공고를 보고 지원 방법을 문의하려고",
-      "식당의 새 메뉴에 대한 정보를 문의하려고"
+      "학교 정문 근처에 자전거 거치대를 더 설치해 달라고 요청하려고",
+      "시커모어 거리에 새로 만든 자전거 도로를 다시 철거해 달라고 강하게 요구하려고",
+      "버스 정류장의 위치를 옮겨 달라고 하려고",
+      "자전거 파손에 대한 보상을 청구하려고",
+      "자전거 안전 교육의 일정을 문의하려고"
     ],
     "answer": 0,
-    "translation": "지배인님께. 저희 가족은 토요일 저녁 할머니의 칠순을 축하하려고 귀하의 식당 그린 테이블을 방문했습니다. 일주일 전에 7시로 예약했지만 자리에 앉기까지 사십 분을 기다려야 했습니다. 이 시간 동안 어느 직원도 지연을 설명하거나 사과하지 않았습니다. 음식이 마침내 나왔을 때 주요리 중 하나가 식어 있었고 교체되기까지 이십 분을 더 기다렸습니다. 종업원은 공손했지만 서빙 직원이 부족해서 정신이 없어 보였습니다. 저희는 여러 해 동안 귀하의 식당을 즐겨 이용했기에 매우 실망했습니다. 다른 손님들이 같은 경험을 하지 않도록 예약과 인력 문제를 살펴봐 주시기를 바랍니다. 서민지 드림.",
-    "why": "예약과 서비스 문제를 알리고 개선을 요청하는 글입니다.",
+    "translation": "교통 담당 국장님께. 저는 서부 중학교 3학년이며 매일 자전거를 타는 약 70명 중 한 명입니다. 시커모어 거리의 새 자전거 도로 덕분에 훨씬 안전해져 감사드립니다. 어려움은 이제 도착해서 시작됩니다. 교문 근처 유일한 거치대는 12대를 수용합니다. 8시면 가득 차서 나머지는 울타리, 표지판 기둥, 버스 정류장 옆 난간에 자전거를 묶습니다. 지난달 한 할머니의 외투가 그중 하나에 걸렸고 자전거 두 대가 파손되었습니다. 교문 바로 동쪽에 약 10미터의 쓰지 않는 보도가 있습니다. 재어 보니 최소 40대를 더 둘 거치대를 놓을 수 있다고 봅니다. 귀 부서에서 설치해 주실 수 있을까요? 도면, 사진, 이 요청을 지지하는 학생들의 서명을 첨부합니다. 민채원 드림.",
+    "why": "교문 근처에 자전거 거치대를 추가 설치해 달라는 요청입니다.",
     "optionNotes": [
-      "정답. 서비스 문제를 알리고 개선을 요청합니다.",
-      "예약은 이미 했던 일입니다.",
-      "칭찬이 아니라 불만입니다.",
-      "채용 공고는 나오지 않습니다.",
-      "새 메뉴는 나오지 않습니다."
+      "정답. 거치대 설치를 요청합니다.",
+      "자전거 도로에 감사합니다.",
+      "정류장 이전 요청이 아닙니다.",
+      "보상 청구가 아닙니다.",
+      "안전 교육 문의가 아닙니다."
     ],
-    "trap": "'celebrate birthday'를 보고 예약 부탁(②)으로 착각하지 마세요.",
-    "tip": "목적 문제는 'I hope you will look into ~' 같은 요청 문장과 글 전체의 불만 흐름을 확인하세요."
+    "trap": "첫 부분의 감사와 파손 사례를 목적으로 착각하지 마세요.",
+    "tip": "목적 문제는 'Could your office ~?' 같은 요청 문장을 찾으세요."
   },
   {
     "id": "m3b-14-19",
     "level": "m3",
     "set": "mock-14",
+    "rev": 2,
     "no": 19,
     "type": "mood",
-    "stem": "다음 글에 드러난 Hyuk의 심경 변화로 가장 적절한 것은?",
-    "passage": "Hyuk looked up at the steep trail and wondered whether he could really reach the top of the mountain. It was his first time climbing such a high peak. After the first hour, his legs ached, and his backpack felt twice as heavy. Several times he wanted to turn back, but his friends kept encouraging him. 'Just take one step at a time,' said Minho. Hyuk took a deep breath and slowly continued, counting his steps. Two hours later, he stepped onto the summit. A wide landscape of green hills and white clouds opened in front of him. He raised both arms and shouted with joy. All his tiredness disappeared, and he felt proud that he had not given up.",
+    "stem": "다음 글에 드러난 Jaewon의 심경 변화로 가장 적절한 것은?",
+    "passage": "The nurse behind the desk spoke quickly, and Jaewon's mother turned to him with a helpless look. They had been in the country for only five months. His mother had cut her hand badly while cooking, and now she held it wrapped in a dish towel while a form waited on the counter. Jaewon was thirteen. He had learned the words for school subjects and snack foods, not for allergies and stitches. He opened his mouth, and nothing came. The people in line behind them shifted their feet. Then he took a slow breath and told the nurse, in simple words, that he would try, and would she please speak a little more slowly. She smiled and did. He pointed to his own arm to ask about an injection, drew a small calendar to show the date of the last one, and translated every answer back to his mother. When they left, she held his shoulder with her good hand, and he walked a little taller beside her.",
     "options": [
-      "bored and careless → angry and impatient",
-      "relaxed and cheerful → nervous and confused",
-      "jealous and bitter toward his friends → calm and thankful to them",
-      "ashamed and lonely → curious and playful",
-      "worried and doubtful → proud and excited about his achievement"
+      "bored and sleepy → annoyed",
+      "excited and curious → deeply disappointed",
+      "relaxed and cheerful → frightened",
+      "angry and jealous → sorry",
+      "helpless and tense → capable and proud"
     ],
     "answer": 4,
-    "translation": "혁은 가파른 산길을 올려다보며 정말 산 정상에 오를 수 있을지 궁금했다. 그렇게 높은 봉우리를 오르는 것은 처음이었다. 첫 한 시간이 지나자 다리가 아팠고 배낭이 두 배는 무거워진 것 같았다. 여러 번 되돌아가고 싶었지만 친구들이 계속 격려했다. \"한 번에 한 걸음씩만 가.\" 하고 민호가 말했다. 혁은 심호흡을 하고 걸음을 세며 천천히 계속 걸었다. 두 시간 뒤 그는 정상에 올랐다. 초록 언덕과 흰 구름의 넓은 풍경이 눈앞에 펼쳐졌다. 그는 두 팔을 들어 기뻐서 소리쳤다. 모든 피로가 사라졌고 포기하지 않았다는 것이 자랑스러웠다.",
-    "why": "처음에는 오를 수 있을지 걱정하고 의심했지만(worried and doubtful) 정상에 올라 자랑스럽고 들떴습니다(proud and excited).",
+    "translation": "접수대의 간호사가 빠르게 말했고 재원의 어머니는 난감한 표정으로 그를 돌아보았다. 그 나라에 온 지 다섯 달밖에 안 되었다. 어머니는 요리하다 손을 심하게 베었고, 지금 행주로 감싼 손을 들고 있었으며 계산대에는 서식이 기다리고 있었다. 재원은 열세 살이었다. 학교 과목과 간식 낱말은 배웠지만 알레르기와 봉합은 아니었다. 입을 열었지만 아무것도 나오지 않았다. 뒤에 선 사람들이 발을 옮겼다. 그는 천천히 숨을 쉬고 쉬운 말로 해 보겠다며 조금 천천히 말해 달라고 했다. 간호사는 웃으며 그렇게 했다. 주사를 물으려고 자기 팔을 가리키고, 마지막 접종 날짜를 보이려 작은 달력을 그리고, 모든 대답을 어머니에게 통역했다. 나올 때 어머니는 성한 손으로 그의 어깨를 잡았고 그는 곁에서 조금 더 당당히 걸었다.",
+    "why": "말이 막혀 난감하고 긴장했다가(helpless and tense) 해내고 뿌듯해졌으므로(capable and proud) ⑤입니다.",
     "optionNotes": [
-      "지루함에서 화남이 아닙니다.",
-      "편안함에서 불안이 아니라 반대입니다.",
-      "질투에서 차분함이 아닙니다.",
-      "부끄러움에서 장난기가 아닙니다.",
-      "정답. 걱정과 의심에서 자랑스러움과 설렘으로 변했습니다."
+      "지루함에서 짜증이 아닙니다.",
+      "실망으로 끝나지 않습니다.",
+      "순서가 맞지 않습니다.",
+      "화와 질투가 아닙니다.",
+      "정답. 난감과 긴장에서 유능함과 자부심으로 변했습니다."
     ],
-    "trap": "'wanted to turn back'만 보고 끝까지 포기하고 싶었다고 오해하지 마세요.",
-    "tip": "전환 신호(Two hours later ~)를 기준으로 앞뒤 감정을 비교하세요."
+    "trap": "앞부분의 긴장만 보고 판단하지 마세요.",
+    "tip": "전환점(Then he took a slow breath)과 마지막 모습을 보세요."
   },
   {
     "id": "m3b-14-20",
     "level": "m3",
     "set": "mock-14",
+    "rev": 2,
     "no": 20,
     "type": "claim",
     "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
-    "passage": "As cities grow, open land is quickly replaced by buildings and roads. Many people think that parks are a luxury, but they are actually a necessity. Studies show that people who live near parks exercise more often and have lower stress levels. Famous examples include Central Park in New York, which millions of people visit every year. Parks also give children a safe place to play and meet friends, and they help adults to relax after work. In addition, trees in parks clean the air and reduce the heat of summer by providing shade. Because green spaces make a city healthier and more livable, they are worth the money and land that they require. Therefore, cities should build more parks for the health and happiness of their citizens.",
+    "passage": "We protect rivers from chemicals and the air from smoke, but noise is often treated as a mere annoyance that people should learn to ignore. The body does not ignore it so easily. Traffic that continues through the night can disturb sleep even when we do not fully wake, and researchers have linked long exposure to noise with higher blood pressure and poorer concentration in children. Those who can afford it move to quieter streets or buy better windows. Others stay beside the highway. Much urban noise is not unavoidable. Road surfaces that make less sound, lower speeds at night, rows of buildings placed to shield courtyards, and rules about delivery hours can all reduce it. Such measures cost money, yet they are far cheaper to include while a district is being designed than to add afterward. City planners should therefore treat quiet as a basic public need and design for it from the beginning.",
     "options": [
-      "도시는 시민의 건강을 위해 공원을 더 만들어야 한다.",
-      "공원은 도시 개발에 방해가 되므로 줄여야 한다.",
-      "공원은 어린이만 이용할 수 있도록 제한해야 한다.",
-      "시민의 건강은 병원을 더 많이 짓는 것으로만 지킬 수 있다.",
-      "공원을 만들기보다 모든 도로를 넓히는 것이 우선이다."
+      "도시 계획자는 조용함을 기본적인 공공의 필요로 보고 처음부터 설계에 반영해야 한다.",
+      "시민은 도시의 소음을 무시하는 법을 배워야 한다.",
+      "소음에 시달리는 가정은 스스로 좋은 창문을 달아야 한다.",
+      "도시에서는 밤 시간의 모든 차량 통행을 금지하고 고속도로 옆에는 어떤 건물도 짓지 못하게 해야 한다.",
+      "고속도로 옆에는 어떤 건물도 지어서는 안 된다."
     ],
     "answer": 0,
-    "translation": "도시가 성장하면서 열린 땅은 빠르게 건물과 도로로 바뀐다. 많은 사람은 공원이 사치라고 생각하지만 사실 필수이다. 연구에 따르면 공원 근처에 사는 사람들은 더 자주 운동하고 스트레스 수준이 낮다. 유명한 예로 뉴욕의 센트럴 파크가 있는데 해마다 수백만 명이 찾는다. 공원은 또한 아이들에게 놀고 친구를 만나는 안전한 장소를 주고 어른들이 퇴근 후 쉬도록 돕는다. 게다가 공원의 나무는 그늘을 제공해 공기를 정화하고 여름 더위를 줄인다. 녹지가 도시를 더 건강하고 살기 좋게 만들므로 그것이 필요로 하는 돈과 땅의 가치가 있다. 그러므로 도시는 시민의 건강과 행복을 위해 공원을 더 많이 만들어야 한다.",
-    "why": "마지막 문장에서 시민의 건강과 행복을 위해 공원을 더 만들어야 한다고 주장합니다.",
+    "translation": "우리는 강을 화학 물질에서, 공기를 연기에서 보호하지만 소음은 흔히 무시하는 법을 배워야 할 성가심쯤으로 다룬다. 몸은 그리 쉽게 무시하지 않는다. 밤새 이어지는 교통은 완전히 깨지 않아도 수면을 방해할 수 있고, 연구자는 장기간 소음 노출을 높은 혈압과 아이의 낮은 집중력과 연결했다. 여유 있는 사람은 조용한 거리로 이사하거나 좋은 창을 산다. 다른 이들은 고속도로 옆에 남는다. 도시 소음의 많은 부분은 불가피하지 않다. 소리가 덜 나는 노면, 야간 속도 낮추기, 안마당을 가려 주도록 배치한 건물, 배송 시간 규칙 모두 줄일 수 있다. 이런 조치는 돈이 들지만 나중에 더하기보다 지구를 설계할 때 넣는 것이 훨씬 싸다. 그러므로 도시 계획자는 조용함을 기본 공공 필요로 다루고 처음부터 설계해야 한다.",
+    "why": "마지막 문장에서 조용함을 처음부터 설계에 반영해야 한다고 주장합니다.",
     "optionNotes": [
-      "정답. 공원을 더 많이 만들어야 합니다.",
-      "공원 축소는 글과 반대입니다.",
-      "어린이만의 이용 제한은 나오지 않습니다.",
-      "병원 이야기는 나오지 않습니다.",
-      "도로 확장은 나오지 않습니다."
+      "정답. 조용함을 처음부터 설계하자고 합니다.",
+      "몸은 쉽게 무시하지 못한다고 했습니다.",
+      "개인의 대응만으로는 불공평하다는 취지입니다.",
+      "모든 통행 금지는 나오지 않습니다.",
+      "건축 금지는 나오지 않습니다."
     ],
-    "trap": "첫 문장의 통념(공원은 사치)을 필자의 주장으로 착각하지 마세요.",
-    "tip": "주장 문제는 'Therefore, ~ should' 같은 결론 문장을 확인하세요."
+    "trap": "②는 글이 비판하는 태도입니다.",
+    "tip": "주장은 'should therefore' 문장에서 확인하세요."
   },
   {
     "id": "m3b-14-21",
     "level": "m3",
     "set": "mock-14",
+    "rev": 2,
     "no": 21,
     "type": "implied",
     "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
-    "passage": "Sohee was the kind of person who found it hard to say no. At the beginning of the semester, she joined the debate team, the school band, and the volunteer club, and she also took extra math classes after school. For a few weeks, she managed to keep up, but soon she began to fall behind on her homework and feel exhausted. Her older sister noticed the dark circles under her eyes and said gently, \"I think you've {u|bitten off more than you can chew}. Maybe you should drop one or two activities.\" Sohee realized that her sister was right. She quit the volunteer club and the extra math classes, and she finally felt that she could breathe again. A few weeks later, she was surprised to find that she enjoyed her remaining activities much more.",
+    "passage": "When the new fire alarm was installed in the dormitory, it went off whenever someone toasted bread. The first night, everyone hurried outside in pajamas. The second time, most of them did the same, grumbling. By the end of the month the bell had rung eleven times, and not once had there been a fire. Students pulled their pillows over their heads and went on sleeping. One girl even bought earplugs. Mr. Hwang, who supervised the building, understood why, but it worried him greatly. He asked the company to move the sensor farther from the kitchen and to lower its sensitivity. At the next meeting a student complained that this was a lot of trouble over a harmless noise. Mr. Hwang shook his head. \"A bell that {u|cries wolf} is not harmless,\" he said. \"One night there will be smoke, and I need every one of you to believe it.\"",
     "options": [
-      "eaten more food than your stomach can hold",
-      "chewed on something that is too hard to eat",
-      "joined too many clubs because you wanted friends",
-      "taken on more work than you can handle",
-      "spoken more words than you could remember"
+      "makes a loud sound that is very similar to that of a wild animal",
+      "rings so loudly that it can be heard in town",
+      "protects people from dangerous animals at night",
+      "gives false warnings until people stop believing it",
+      "stops working when it is needed the most"
     ],
     "answer": 3,
-    "translation": "소희는 거절하는 것이 어려운 사람이었다. 학기 초에 그녀는 토론 팀, 학교 밴드, 봉사 동아리에 가입했고 방과 후에 추가 수학 수업도 들었다. 몇 주 동안은 버텼지만 곧 숙제가 밀리고 지치기 시작했다. 언니가 그녀의 눈 밑 다크서클을 알아채고 부드럽게 말했다. \"네가 감당할 수 있는 것보다 더 많은 일을 맡은 것 같아. 한두 개는 그만두는 게 어때?\" 소희는 언니가 옳다는 것을 깨달았다. 그녀는 봉사 동아리와 추가 수학 수업을 그만두었고 마침내 다시 숨 쉴 수 있다고 느꼈다. 몇 주 뒤 그녀는 남은 활동이 훨씬 더 즐겁다는 것을 알고 놀랐다.",
-    "why": "너무 많은 활동으로 지친 상황에서 하는 말이므로 'bitten off more than you can chew'는 감당할 수 있는 것보다 더 많은 일을 맡았다는 뜻입니다.",
+    "translation": "기숙사에 새 화재경보기가 설치되자 누가 빵을 구울 때마다 울렸다. 첫날 밤에는 모두 잠옷 차림으로 서둘러 나갔다. 두 번째에는 대부분 투덜대며 똑같이 했다. 그달 말까지 벨은 열한 번 울렸고 한 번도 불은 없었다. 학생들은 베개를 머리에 덮고 계속 잤다. 한 여학생은 귀마개까지 샀다. 건물을 관리하는 황 선생은 이유를 이해했지만 크게 걱정했다. 회사에 감지기를 부엌에서 더 멀리 옮기고 민감도를 낮춰 달라고 했다. 다음 회의에서 한 학생이 해 없는 소음에 너무 수고한다고 불평했다. 황 선생은 고개를 저었다. \"늑대가 왔다고 외치는 벨은 해가 없는 게 아니야. 어느 밤 연기가 날 것이고, 그때 너희 모두가 믿어 주어야 해.\"",
+    "why": "거짓 경보가 반복되어 사람들이 믿지 않게 되는 것을 뜻합니다.",
     "optionNotes": [
-      "문자 그대로 음식을 많이 먹은 것이 아닙니다.",
-      "너무 단단한 것을 씹은 것이 아닙니다.",
-      "친구를 사귀려고 한 것이 아닙니다.",
-      "정답. 감당할 수 있는 것보다 많은 일을 맡았다는 뜻입니다.",
-      "말을 많이 한 것이 아닙니다."
+      "늑대 소리를 내는 것이 아닙니다.",
+      "소리 크기의 문제가 아닙니다.",
+      "동물로부터의 보호가 아닙니다.",
+      "정답. 거짓 경보로 믿지 않게 만듭니다.",
+      "필요할 때 고장 난다는 뜻이 아닙니다."
     ],
-    "trap": "'chew'를 문자 그대로 음식과 관련지어 해석하지 마세요.",
-    "tip": "관용 표현은 앞뒤 문맥(joined many clubs, exhausted)에서 의미를 추론하세요."
+    "trap": "'wolf'를 실제 동물로 해석하지 마세요.",
+    "tip": "반복된 헛경보와 학생의 반응을 연결하세요."
   },
   {
     "id": "m3b-14-22",
     "level": "m3",
     "set": "mock-14",
+    "rev": 2,
     "no": 22,
     "type": "gist",
     "stem": "다음 글의 요지로 가장 적절한 것은?",
-    "passage": "Many people are proud of being able to do several things at once, such as answering messages while watching a lecture. However, research shows that the brain cannot truly focus on two demanding tasks at the same time. Instead, it switches quickly between them, and each switch costs time and energy. In one study, people who often switched between tasks made more mistakes and needed up to forty percent more time to finish their work. Even a short notification from a phone can break concentration and take several minutes to recover from. Experts therefore recommend working on one task at a time, turning off notifications, and taking short breaks. In other words, doing less at once often means getting more done.",
+    "passage": "A mathematics teacher who has solved the same kind of equation a thousand times may find it hard to imagine what is difficult about it. The steps have become so automatic that they are no longer felt as steps. When such a teacher takes up something entirely new, such as dancing or a foreign alphabet, the forgotten experience returns. Instructions that seemed clear to the instructor are confusing. A single correction in front of others stings. A pause of a few seconds to think feels embarrassingly long. Teachers who have put themselves in this position often report that they afterward explain more slowly and wait longer before supplying an answer. This does not require becoming good at the new activity; in a sense, being bad at it is the point. Those who teach benefit from being a beginner now and then, because it reminds them how learning looks from the other side.",
     "options": [
-      "여러 일을 동시에 하는 사람이 가장 높은 성과를 낸다.",
-      "작업 사이를 자주 오가면 집중력이 크게 향상된다.",
-      "휴대전화 알림은 업무 능력을 높이는 데 도움이 된다.",
-      "한 가지 일에 오래 집중하는 것은 뇌에 해롭다.",
-      "여러 일을 한꺼번에 하면 효율이 오히려 떨어진다."
+      "가르치는 사람은 자신이 확실하게 잘 아는 과목만 맡아야 배우는 학생에게 실질적인 도움이 된다.",
+      "설명은 빠르고 간결해야 학생이 지루해하지 않는다.",
+      "새로운 활동은 남보다 잘하게 될 때까지 계속해야 한다.",
+      "학생의 실수는 여러 사람 앞에서 바로잡아야 효과적이다.",
+      "가르치는 사람은 때때로 초보자가 되어 보면 배우는 이를 더 이해하게 된다."
     ],
     "answer": 4,
-    "translation": "많은 사람은 강의를 보면서 메시지에 답하는 것처럼 여러 가지 일을 동시에 할 수 있다는 것을 자랑스러워한다. 그러나 연구는 뇌가 요구가 높은 두 가지 과제에 동시에 진정으로 집중할 수 없음을 보여 준다. 대신 뇌는 둘 사이를 빠르게 전환하며 전환할 때마다 시간과 에너지가 든다. 한 연구에서 과제 사이를 자주 오간 사람들은 실수를 더 많이 했고 일을 끝내는 데 최대 40퍼센트 더 많은 시간이 필요했다. 휴대전화의 짧은 알림조차 집중을 깨뜨리고 회복하는 데 몇 분이 걸릴 수 있다. 그래서 전문가들은 한 번에 한 가지 일을 하고 알림을 끄고 짧게 쉬라고 권한다. 다시 말해 한 번에 덜 하는 것이 흔히 더 많이 해내는 것을 뜻한다.",
-    "why": "여러 일을 동시에 하면 전환 비용 때문에 효율과 정확성이 떨어진다는 내용입니다.",
+    "translation": "같은 종류의 방정식을 천 번 푼 수학 교사는 무엇이 어려운지 상상하기 힘들 수 있다. 단계가 너무 자동이 되어 더는 단계로 느껴지지 않는다. 그런 교사가 춤이나 외국 문자처럼 전혀 새로운 것을 시작하면 잊었던 경험이 돌아온다. 가르치는 이에게는 분명해 보이던 지시가 헷갈린다. 남 앞의 지적 한 번이 따끔하다. 생각하려는 몇 초의 멈춤이 민망하게 길게 느껴진다. 이런 처지에 서 본 교사는 흔히 이후 더 천천히 설명하고 답을 주기 전에 더 오래 기다린다고 말한다. 새 활동에 능숙해질 필요는 없다. 어떤 의미에서는 못하는 것이 요점이다. 가르치는 사람은 때때로 초보자가 되는 것에서 이득을 얻는데, 배움이 반대편에서 어떻게 보이는지 일깨워 주기 때문이다.",
+    "why": "초보자가 되어 보면 배우는 이를 이해하게 된다는 것이 요지입니다.",
     "optionNotes": [
-      "글과 반대입니다.",
-      "오히려 실수가 늘어납니다.",
-      "알림은 집중을 깨뜨린다고 했습니다.",
-      "한 가지에 집중하라고 권합니다.",
-      "정답. 효율과 정확성이 떨어진다는 요지입니다."
+      "새로운 것을 해 보라는 글입니다.",
+      "더 천천히 설명하게 된다고 했습니다.",
+      "잘할 필요는 없다고 했습니다.",
+      "남 앞의 지적은 따끔하다고 했습니다.",
+      "정답. 초보자 경험이 이해를 돕습니다."
     ],
-    "trap": "첫 문장의 통념(여러 일을 동시에 하는 것을 자랑스러워함)을 필자의 주장으로 착각하지 마세요.",
-    "tip": "요지는 'However' 이후와 'In other words' 문장을 확인하세요."
+    "trap": "③은 'being bad at it is the point'와 반대입니다.",
+    "tip": "마지막 문장에서 요지를 확인하세요."
   },
   {
     "id": "m3b-14-23",
     "level": "m3",
     "set": "mock-14",
+    "rev": 2,
     "no": 23,
     "type": "topic",
     "stem": "다음 글의 주제로 가장 적절한 것은?",
-    "passage": "If you spend a day at the beach, you will notice that the sea level rises and falls twice a day. These movements are called tides, and they are caused mainly by the moon. The moon's gravity pulls on the Earth, and the water in the oceans is easier to pull than the solid ground. As a result, a bulge of water forms on the side of the Earth that faces the moon. A second bulge forms on the opposite side, because the Earth itself is pulled toward the moon more strongly than the water on the far side. As the Earth rotates, different places pass through these bulges, and each place experiences high tide and low tide. The sun also affects the tides, but its effect is weaker because it is much farther away.",
+    "passage": "It seems that a mountaintop should be warm, since it is closer to the sun than the valley below. In fact the difference in distance is far too small to matter. What counts is how the air is heated. Sunlight passes through the atmosphere without warming it very much and is absorbed mainly by the ground. The ground then warms the air just above it, so the lowest air receives the most heat. When a parcel of that air rises, for example when wind pushes it up a slope, it moves into a region where the pressure is lower. It expands, and in expanding it uses some of its own energy and cools, even though no heat has been taken from it. On average the temperature falls by around six degrees Celsius for every thousand meters of height. That is why snow can lie on a high peak while people in the town below are eating ice cream.",
     "options": [
-      "바다에서 소금이 만들어지는 과정과 역사",
-      "달의 모양이 한 달 동안 변하는 이유와 이름",
-      "해양 생물이 깊은 바다에서 살아가는 방식",
-      "파도의 에너지로 전기를 만드는 발전소의 구조와 원리",
-      "달의 중력이 바다의 밀물과 썰물을 일으키는 원리"
+      "높은 산에서 등산할 때 필요한 안전 장비",
+      "태양과 지구 사이의 거리를 재는 방법",
+      "산에 쌓인 눈이 마을의 물 공급에 미치는 영향",
+      "바람이 산비탈의 모양을 바꾸어 가는 과정",
+      "높은 곳으로 올라갈수록 기온이 낮아지는 까닭"
     ],
     "answer": 4,
-    "translation": "해변에서 하루를 보내 보면 해수면이 하루에 두 번 오르내리는 것을 알 수 있다. 이런 움직임을 조수라고 하며 주로 달 때문에 일어난다. 달의 중력이 지구를 당기는데 바다의 물은 단단한 땅보다 당기기 쉽다. 그 결과 달을 마주 보는 지구 쪽에 물이 불룩하게 모인다. 지구 자체가 반대편 물보다 달 쪽으로 더 강하게 당겨지기 때문에 반대쪽에도 두 번째 불룩한 부분이 생긴다. 지구가 자전하면서 여러 장소가 이 불룩한 부분을 지나며 각 장소는 밀물과 썰물을 겪는다. 태양도 조수에 영향을 주지만 훨씬 멀리 있어서 그 영향이 더 약하다.",
-    "why": "달의 중력이 바다의 밀물과 썰물을 일으키는 원리를 설명하는 글입니다.",
+    "translation": "산꼭대기는 아래 골짜기보다 해에 가까우니 따뜻해야 할 것 같다. 사실 거리 차이는 너무 작아 중요하지 않다. 중요한 것은 공기가 데워지는 방식이다. 햇빛은 대기를 별로 데우지 않고 통과해 주로 땅에 흡수된다. 그러면 땅이 바로 위 공기를 데우므로 가장 낮은 공기가 가장 많은 열을 받는다. 바람이 비탈 위로 밀어 올리는 등으로 그 공기 덩어리가 올라가면 압력이 낮은 곳으로 들어간다. 팽창하며 자기 에너지를 일부 써서, 열을 빼앗기지 않았는데도 식는다. 평균적으로 높이 1,000미터마다 기온이 섭씨 약 6도 떨어진다. 그래서 아래 마을 사람이 아이스크림을 먹는 동안 높은 봉우리에는 눈이 쌓일 수 있다.",
+    "why": "높이 올라갈수록 기온이 낮아지는 원리를 설명하므로 ⑤가 주제입니다.",
     "optionNotes": [
-      "소금은 나오지 않습니다.",
-      "달의 모양 변화는 나오지 않습니다.",
-      "해양 생물은 나오지 않습니다.",
-      "파도 발전은 나오지 않습니다.",
-      "정답. 달의 중력과 조수의 원리입니다."
+      "안전 장비는 나오지 않습니다.",
+      "거리 측정은 나오지 않습니다.",
+      "물 공급은 나오지 않습니다.",
+      "지형 변화는 나오지 않습니다.",
+      "정답. 고도에 따른 기온 하강의 까닭입니다."
     ],
-    "trap": "'sun'도 나온다고 태양의 영향(세부 내용)만을 주제로 착각하지 마세요.",
-    "tip": "주제는 첫 문장(sea level rises and falls)과 반복되는 핵심어(tides, moon)로 파악하세요."
+    "trap": "②는 'closer to the sun'을 이용한 함정입니다.",
+    "tip": "첫 문장의 통념을 반박한 뒤 설명하는 내용을 찾으세요."
   },
   {
     "id": "m3b-14-24",
     "level": "m3",
     "set": "mock-14",
+    "rev": 2,
     "no": 24,
     "type": "title",
     "stem": "다음 글의 제목으로 가장 적절한 것은?",
-    "passage": "In many large cities, there is little space for farming, and most food travels long distances before it reaches the table. To solve this problem, some cities have started to use the roofs of buildings as gardens. On a rooftop garden, people grow vegetables such as tomatoes, lettuce, and peppers in boxes of soil. The fresh vegetables travel only a few meters from the garden to the kitchen, so they stay fresh and need no long transportation. Rooftop gardens also keep buildings cooler in summer, absorb rainwater, and give city residents a green place to relax. In some neighborhoods, neighbors work together in these gardens, and they make new friends while they work. In this way, a small space above the city can feed people and bring a community together.",
+    "passage": "For centuries sailors judged the coming weather by the color of the sky and the ache in an old wound. In the middle of the nineteenth century, a British naval officer named Robert FitzRoy set out to do better. After a terrible storm in 1859 sank a large ship and cost hundreds of lives, he organized stations along the coast that sent reports by telegraph to London. From these he could see systems of pressure moving, and he began to warn ports of approaching gales. In 1861 a newspaper printed his first daily outlook, for which he used a new word: \"forecast.\" The public was fascinated and quick to mock him whenever he was wrong. Some scientists complained that his methods lacked a solid foundation. FitzRoy died in 1865, and the forecasts were stopped for a time, but demand from seamen brought them back. What he started with a few telegrams now relies on satellites and powerful computers.",
     "options": [
-      "Rooftop Gardens: Bringing Fresh Food and Green Space Into Crowded Cities",
-      "How to Grow Tomatoes in a Small Pot",
-      "The Best Time to Visit City Parks",
-      "Why Cities Are Getting Hotter Every Year",
-      "Cooking Classes for Busy Parents"
+      "The First Forecaster: How Weather Prediction Began",
+      "Why Sailors Trusted Their Old Wounds",
+      "The Great Storm That Destroyed London",
+      "How the Telegraph Was First Invented",
+      "Satellites and Computers of the Future"
     ],
     "answer": 0,
-    "translation": "많은 대도시에는 농사지을 공간이 거의 없고 대부분의 음식은 식탁에 오기까지 먼 거리를 이동한다. 이 문제를 해결하려고 일부 도시는 건물 옥상을 정원으로 쓰기 시작했다. 옥상 정원에서는 사람들이 흙을 담은 상자에 토마토, 상추, 고추 같은 채소를 기른다. 신선한 채소는 정원에서 부엌까지 몇 미터만 이동하므로 신선하게 유지되고 긴 운송이 필요 없다. 옥상 정원은 또한 여름에 건물을 시원하게 하고 빗물을 흡수하며 도시 주민에게 쉴 수 있는 녹색 공간을 준다. 일부 동네에서는 이웃들이 이 정원에서 함께 일하며 새 친구를 사귄다. 이렇게 도시 위의 작은 공간이 사람들을 먹이고 공동체를 하나로 모을 수 있다.",
-    "why": "옥상 정원이 신선한 식량과 녹색 공간을 제공한다는 내용이므로 ①이 제목으로 알맞습니다.",
+    "translation": "수백 년 동안 선원은 하늘색과 옛 상처의 쑤심으로 다가올 날씨를 판단했다. 19세기 중반 로버트 피츠로이라는 영국 해군 장교가 더 낫게 해 보기로 했다. 1859년 끔찍한 폭풍이 큰 배를 침몰시켜 수백 명이 죽은 뒤, 그는 해안을 따라 관측소를 조직해 전신으로 런던에 보고하게 했다. 이를 통해 기압계가 움직이는 것을 보고 항구에 다가오는 강풍을 경고하기 시작했다. 1861년 한 신문이 첫 일일 전망을 실었고 그는 새 낱말 \"forecast\"를 썼다. 대중은 매료되었고 틀릴 때마다 재빨리 조롱했다. 일부 과학자는 방법에 튼튼한 기초가 없다고 불평했다. 피츠로이는 1865년 죽었고 예보는 한동안 중단되었지만 선원들의 요구가 되살렸다. 몇 통의 전보로 시작한 일이 지금은 위성과 강력한 컴퓨터에 의존한다.",
+    "why": "피츠로이의 일기 예보 시작을 다루므로 ①이 제목입니다.",
     "optionNotes": [
-      "정답. 옥상 정원이 식량과 녹색 공간을 제공합니다.",
-      "화분에 토마토 기르는 법은 나오지 않습니다.",
-      "공원 방문 시기는 나오지 않습니다.",
-      "도시 온난화의 이유는 나오지 않습니다.",
-      "요리 교실은 나오지 않습니다."
+      "정답. 첫 예보관, 일기 예보의 시작입니다.",
+      "상처의 쑤심은 옛 방법의 예입니다.",
+      "런던을 파괴한 폭풍은 아닙니다.",
+      "전신 발명은 나오지 않습니다.",
+      "미래 기술이 주제가 아닙니다."
     ],
-    "trap": "'tomatoes'가 나온다고 토마토 재배법(②)으로 좁히지 마세요.",
-    "tip": "제목은 글 전체의 핵심(옥상 정원의 역할)을 담으세요."
+    "trap": "④는 'telegraph'라는 세부를 이용한 함정입니다.",
+    "tip": "인물과 그가 시작한 일을 담은 제목을 고르세요."
   },
   {
     "id": "m3b-14-25",
     "level": "m3",
     "set": "mock-14",
+    "rev": 2,
     "no": 25,
     "type": "chart",
     "stem": "다음 도표의 내용과 일치하지 않는 것은?",
     "chart": {
-      "title": "Books Borrowed per Month at Hanbit Library",
-      "unit": "",
+      "title": "Daily Household Water Use per Person (liters)",
+      "unit": "L",
       "labels": [
-        "Novel",
-        "History",
-        "Science",
-        "Comics",
-        "Poetry"
+        "Toilet",
+        "Shower",
+        "Laundry",
+        "Kitchen",
+        "Other"
       ],
       "series": [
         {
-          "name": "Books",
+          "name": "2005",
           "values": [
-            120,
             80,
             60,
+            55,
+            50,
+            25
+          ]
+        },
+        {
+          "name": "2025",
+          "values": [
+            50,
+            66,
             40,
-            20
+            45,
+            19
           ]
         }
       ]
     },
-    "passage": "The graph shows the number of books borrowed per month at Hanbit Library by genre. ① Novels are borrowed the most. ② History books are borrowed twice as much as science books. ③ Science books are borrowed 20 more than comics. ④ Comics are borrowed twice as much as poetry books. ⑤ The total number of science books and comics borrowed is 100.",
+    "passage": "The graph shows how much water one person used per day at home for five purposes in one city in 2005 and 2025. ① The toilet used the most water in 2005 but not in 2025. ② The shower and the kitchen were the only uses that increased. ③ The largest decrease was in water used by the toilet. ④ In 2025, laundry used less water than the kitchen. ⑤ The total amount used per person was lower in 2025 than in 2005.",
     "options": [
       "①",
       "②",
@@ -234,100 +252,103 @@
       "⑤"
     ],
     "answer": 1,
-    "translation": "그래프는 한빛 도서관에서 장르별로 한 달에 빌려 가는 책의 수를 보여 준다. ① 소설이 가장 많이 대출된다. ② 역사책은 과학책의 두 배 대출된다. ③ 과학책은 만화책보다 20권 더 많이 대출된다. ④ 만화책은 시집의 두 배 대출된다. ⑤ 과학책과 만화책의 대출 합계는 100권이다.",
-    "why": "역사책은 80권, 과학책은 60권이므로 두 배가 아니어서 ②는 일치하지 않습니다.",
+    "translation": "그래프는 2005년과 2025년 한 도시에서 한 사람이 다섯 용도로 하루에 가정에서 쓴 물의 양을 보여 준다. ① 변기는 2005년에는 물을 가장 많이 썼지만 2025년에는 아니었다. ② 샤워와 부엌은 늘어난 유일한 용도였다. ③ 가장 큰 감소는 변기 물이었다. ④ 2025년 세탁은 부엌보다 물을 적게 썼다. ⑤ 1인당 총사용량은 2025년이 2005년보다 적었다.",
+    "why": "부엌은 50L에서 45L로 줄었고 늘어난 것은 샤워뿐이므로 ②는 일치하지 않습니다.",
     "optionNotes": [
-      "소설 120권으로 가장 많습니다.",
-      "정답(불일치). 80은 60의 두 배(120)가 아닙니다.",
-      "60 - 40 = 20권입니다.",
-      "40은 20의 두 배입니다.",
-      "60 + 40 = 100권입니다."
+      "80L로 1위였고 2025년에는 샤워가 1위입니다.",
+      "정답(불일치). 부엌은 줄었습니다.",
+      "30L 감소로 가장 큽니다.",
+      "40L는 45L보다 적습니다.",
+      "270L에서 220L로 줄었습니다."
     ],
-    "trap": "'twice'의 배수 관계를 어림으로 넘기지 마세요.",
-    "tip": "그래프 문제는 배수·차이 표현을 직접 계산해 확인하세요."
+    "trap": "②는 두 항목 중 하나만 맞는 문장입니다.",
+    "tip": "and로 묶인 항목은 각각 확인하세요."
   },
   {
     "id": "m3b-14-26",
     "level": "m3",
     "set": "mock-14",
+    "rev": 2,
     "no": 26,
     "type": "match",
-    "stem": "Mary Anning에 관한 다음 글의 내용과 일치하는 것은?",
-    "passage": "Mary Anning was born in 1799 in Lyme Regis, a small seaside town in England. Her family was poor, and her father made a living by selling fossils found on the beach. When she was about twelve, she and her brother discovered the complete skeleton of a giant sea reptile, later named an ichthyosaur. She went on to find other important fossils, including the first nearly complete plesiosaur. Scientists from all over the country visited her shop to buy specimens and to ask for advice. However, as a woman from a poor family, she was not allowed to join the scientific societies of her time, and many scientists published studies about her discoveries without mentioning her name. Only after her death was she honored for her contributions.",
+    "stem": "Janaki Ammal에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Janaki Ammal was born in 1897 in Kerala, on the southwestern coast of India. At a time when few Indian women went to college, she studied botany, and in 1931 she received a doctorate from the University of Michigan. Back in India, she worked on breeding sugarcane, helping to produce varieties better suited to Indian conditions. She moved to England in 1939 and spent the war years there studying the chromosomes of plants, including magnolias; one magnolia was later named in her honor. In the early 1950s the Indian government invited her to return and reorganize the national survey of plants. In her later years she became concerned about the loss of forests, and she lent her voice to the campaign to save Silent Valley, a rich rainforest in her home state that was threatened by a dam. She continued her research until shortly before her death in 1984. India now gives a national award in her name.",
     "options": [
-      "부유한 집안에서 태어나 정식 교육을 받았다.",
-      "열두 살 때 혼자서 어룡의 유골을 발견했다.",
-      "당대의 과학 학회에 정회원으로 가입해 학자들과 함께 연구 발표를 하며 활동했다.",
-      "그녀의 발견은 중요한 자료가 되었지만 당시에는 공로를 인정받지 못했다.",
-      "화석을 파는 일을 그만두고 대학 교수가 되었다."
+      "대학에 진학하는 인도 여성이 흔하던 시대에 공부했다.",
+      "영국의 대학에서 1931년에 박사 학위를 받았다.",
+      "전쟁 기간에는 인도에서 사탕수수만 연구했다.",
+      "말년에 댐으로 위협받는 열대 우림을 지키는 운동에 힘을 보탰다.",
+      "인도 정부의 거듭된 초청을 모두 거절하고 세상을 떠날 때까지 영국에 계속 머물렀다."
     ],
     "answer": 3,
-    "translation": "메리 애닝은 1799년 영국의 작은 해안 마을 라임 리지스에서 태어났다. 그녀의 집은 가난했고 아버지는 해변에서 찾은 화석을 팔아 생계를 이었다. 열두 살쯤 그녀는 오빠와 함께 훗날 어룡이라 이름 붙은 거대한 바다 파충류의 완전한 골격을 발견했다. 그녀는 이어서 거의 완전한 최초의 수장룡을 포함해 다른 중요한 화석도 발견했다. 전국의 과학자들이 표본을 사고 조언을 구하려고 그녀의 가게를 찾았다. 그러나 가난한 집안의 여성이었기에 당시 과학 학회에 가입하는 것이 허락되지 않았고 많은 과학자가 그녀의 이름을 언급하지 않은 채 그녀의 발견에 관한 연구를 발표했다. 그녀는 죽은 뒤에야 공헌을 인정받았다.",
-    "why": "과학자들이 그녀의 발견을 쓰고도 이름을 언급하지 않았다고 하므로 ④가 일치합니다.",
+    "translation": "자나키 암말은 1897년 인도 남서 해안의 케랄라에서 태어났다. 대학에 가는 인도 여성이 거의 없던 때에 식물학을 공부했고 1931년 미시간 대학에서 박사 학위를 받았다. 인도로 돌아와 사탕수수 육종을 하며 인도 환경에 맞는 품종 생산을 도왔다. 1939년 영국으로 가 전쟁 동안 목련을 포함한 식물의 염색체를 연구했고, 한 목련은 나중에 그녀를 기려 이름 지어졌다. 1950년대 초 인도 정부가 돌아와 국립 식물 조사 기관을 재편해 달라고 초청했다. 말년에는 숲의 상실을 걱정해, 고향 주에서 댐의 위협을 받던 풍요로운 열대 우림 사일런트 밸리를 지키는 운동에 목소리를 보탰다. 1984년 죽기 직전까지 연구를 계속했다. 인도는 지금 그녀의 이름을 딴 국가상을 준다.",
+    "why": "댐으로 위협받는 사일런트 밸리 보호 운동에 힘을 보탰으므로 ④가 일치합니다.",
     "optionNotes": [
-      "가난한 집안에서 태어났습니다.",
-      "오빠와 함께 발견했습니다.",
-      "학회에 가입하지 못했습니다.",
-      "정답. 중요한 자료였지만 공로를 인정받지 못했습니다.",
-      "계속 화석 일을 했으며 교수가 되지 않았습니다."
+      "그런 여성이 거의 없던 때였습니다.",
+      "미국 미시간 대학에서 받았습니다.",
+      "전쟁 기간에는 영국에 있었습니다.",
+      "정답. 우림 보호 운동에 참여했습니다.",
+      "초청을 받고 돌아와 일했습니다."
     ],
-    "trap": "'with her brother'를 놓치고 혼자 발견했다고 오해하지 마세요.",
-    "tip": "일치 문제는 출신·공동 작업·학회 가입 여부를 보기와 하나씩 대조하세요."
+    "trap": "②는 박사 학위의 장소를 바꾼 함정입니다.",
+    "tip": "나라, 연도, 활동을 정확히 대조하세요."
   },
   {
     "id": "m3b-14-27",
     "level": "m3",
     "set": "mock-14",
+    "rev": 2,
     "no": 27,
     "type": "notice",
-    "stem": "Dinosaurs Alive Special Exhibition 안내문의 내용과 일치하는 것은?",
-    "passage": "Hanbit Science Museum - Special Exhibition: Dinosaurs Alive\nPeriod: October 10 - December 20\nHours: Tuesday to Sunday, 9 a.m. - 6 p.m. (Closed on Mondays)\nTickets: Adults $14 / Students $9 / Children under 5: free\nGroup discount: Groups of ten or more get 20% off.\nSpecial program: Fossil Workshop every Saturday at 2 p.m. (extra $5, reservation required)\nOnline booking is recommended on weekends.",
+    "stem": "Youth Orchestra Open Rehearsal 안내문의 내용과 일치하는 것은?",
+    "passage": "Youth Orchestra Open Rehearsal\nCome and see how a concert is made!\nWhen: Saturday, September 13, 2 - 4:30 p.m.\nWhere: Rehearsal Hall B, City Arts Center\nWho: Anyone aged 9 or older\nSchedule: Rehearsal (2:00 - 3:30), questions to the conductor (3:30 - 4:00), try an instrument (4:00 - 4:30)\nSeats: Visitors may sit among the players, so that they can hear each section up close.\nAdmission: Free, but reservation is required by September 8.\nPlease: Do not take photos or record during the rehearsal. Doors close at 2:00; latecomers may enter only at the break.\nInstruments for the trial are limited to violins, flutes, and drums.",
     "options": [
-      "전시는 월요일에도 관람할 수 있다.",
-      "5세 미만 어린이도 입장료를 내야 한다.",
-      "10명 이상의 단체는 입장료를 20퍼센트 할인받는다.",
-      "화석 체험 교실은 추가 비용 없이 누구나 참여할 수 있다.",
-      "온라인 예약은 받지 않는다."
+      "참가에는 나이 제한이 전혀 없다.",
+      "관람객은 연습이 끝난 뒤에야 입장한다.",
+      "방문객은 연주자들 사이에 앉을 수 있다.",
+      "무료이므로 예약 없이 방문하면 된다.",
+      "원하는 어떤 악기든 직접 연주해 볼 수 있다."
     ],
     "answer": 2,
-    "translation": "한빛 과학관 – 특별전: 살아 있는 공룡. 기간: 10월 10일~12월 20일. 시간: 화~일 오전 9시~오후 6시(월요일 휴관). 입장료: 성인 14달러 / 학생 9달러 / 5세 미만 어린이 무료. 단체 할인: 열 명 이상 단체는 20퍼센트 할인. 특별 프로그램: 매주 토요일 오후 2시 화석 체험 교실(추가 5달러, 예약 필수). 주말에는 온라인 예약을 권장합니다.",
-    "why": "'Groups of ten or more get 20% off'와 일치합니다.",
+    "translation": "청소년 관현악단 공개 연습. 연주회가 만들어지는 과정을 보러 오세요! 일시: 9월 13일 토 오후 2~4:30. 장소: 시립 예술 센터 B 연습실. 대상: 9세 이상 누구나. 일정: 연습(2:00~3:30), 지휘자에게 질문(3:30~4:00), 악기 체험(4:00~4:30). 좌석: 방문객은 각 파트를 가까이 듣도록 연주자 사이에 앉을 수 있음. 입장료: 무료, 9월 8일까지 예약 필수. 부탁: 연습 중 촬영·녹음 금지. 2시에 문을 닫고 늦은 분은 휴식 때만 입장. 체험 악기는 바이올린, 플루트, 북으로 한정.",
+    "why": "'Visitors may sit among the players'와 일치합니다.",
     "optionNotes": [
-      "월요일은 휴관입니다.",
-      "5세 미만은 무료입니다.",
-      "정답. 10명 이상 단체는 20% 할인됩니다.",
-      "추가 5달러가 필요합니다.",
-      "주말에는 온라인 예약을 권장합니다."
+      "9세 이상입니다.",
+      "연습 중에 관람합니다.",
+      "정답. 연주자 사이에 앉을 수 있습니다.",
+      "예약이 필수입니다.",
+      "세 가지 악기로 한정됩니다."
     ],
-    "trap": "학생 요금(9달러)과 단체 할인(20%)을 혼동하지 마세요.",
-    "tip": "안내문의 Hours, Tickets, Group discount, Special program 항목을 하나씩 대조하세요."
+    "trap": "④는 'Free, but reservation is required'의 뒷부분을 빠뜨리게 합니다.",
+    "tip": "안내문의 Who, Seats, Admission, Please 항목을 대조하세요."
   },
   {
     "id": "m3b-14-28",
     "level": "m3",
     "set": "mock-14",
+    "rev": 2,
     "no": 28,
     "type": "notice",
-    "stem": "Route 3 School Bus 변경 안내문의 내용과 일치하는 것은?",
-    "passage": "Hanbit Middle School - School Bus Notice\nFrom Monday, March 3, the morning departure time of Route 3 will change from 7:30 a.m. to 7:20 a.m.\nA new stop, Maple Apartments, will be added between Stop 4 and Stop 5.\nThe afternoon schedule will not change. The bus will leave the school at 4:30 p.m.\nStudents should arrive at their stops at least five minutes before the departure time.\nFor questions, please contact the transport office at 555-0123.",
+    "stem": "Neighborhood Map Walk 안내문의 내용과 일치하는 것은?",
+    "passage": "Neighborhood Map Walk\nHelp us make a map of what matters in our streets.\nDate: Saturday, May 10 (rain date: May 17), 9:30 a.m. - 12:30 p.m.\nMeeting point: Entrance of Haneul Park\nTeams: Four to five people, each with one adult leader\nTasks: Mark broken sidewalks, shady resting spots, drinking fountains, and places where crossing feels unsafe.\nTools: A paper map and stickers are provided. Bring a pen and comfortable shoes.\nAfter the walk: Teams share findings over lunch, which is included. The finished map will be sent to the district office in June.\nSign up: By May 2, individually or as a family; teams are formed on the day.",
     "options": [
-      "3번 노선의 아침 출발 시각이 10분 앞당겨진다.",
-      "오후 출발 시각도 함께 변경된다.",
-      "새 정류장은 추가되지 않는다.",
-      "학생들은 출발 시각 직전에 정류장에 도착해도 된다.",
-      "변경 사항은 다음 학기부터 적용된다."
+      "각 조에는 어른 인솔자가 한 명씩 있다.",
+      "지도와 필기도구는 모두 주최 측이 제공한다.",
+      "점심은 각자 돈을 내고 사 먹어야 한다.",
+      "완성된 지도는 참가자의 집에 우편으로 보낸다.",
+      "미리 만든 팀 단위로만 신청할 수 있다."
     ],
     "answer": 0,
-    "translation": "한빛 중학교 – 스쿨버스 안내. 3월 3일 월요일부터 3번 노선의 아침 출발 시각이 오전 7시 30분에서 7시 20분으로 바뀝니다. 새 정류장인 메이플 아파트가 4번 정류장과 5번 정류장 사이에 추가됩니다. 오후 일정은 바뀌지 않습니다. 버스는 오후 4시 30분에 학교를 떠납니다. 학생들은 출발 시각 최소 5분 전에 정류장에 도착해야 합니다. 문의는 교통실 555-0123으로 연락하세요.",
-    "why": "7시 30분에서 7시 20분으로 바뀌므로 아침 출발이 10분 앞당겨집니다.",
+    "translation": "동네 지도 걷기. 우리 거리에서 중요한 것의 지도 만들기를 도와주세요. 날짜: 5월 10일 토(우천 시 17일) 오전 9:30~12:30. 모임: 하늘 공원 입구. 팀: 4~5명, 팀마다 어른 인솔자 1명. 할 일: 깨진 보도, 그늘진 쉼터, 음수대, 건너기 불안한 곳 표시. 도구: 종이 지도와 스티커 제공, 펜과 편한 신발 준비. 걷기 후: 점심(포함)을 먹으며 발견 공유. 완성 지도는 6월에 구청에 전달. 신청: 5월 2일까지 개인이나 가족 단위. 팀은 당일 구성.",
+    "why": "'each with one adult leader'와 일치합니다.",
     "optionNotes": [
-      "정답. 아침 출발이 10분 앞당겨집니다.",
-      "오후 일정은 바뀌지 않습니다.",
-      "새 정류장이 추가됩니다.",
-      "최소 5분 전에 도착해야 합니다.",
-      "3월 3일부터 적용됩니다."
+      "정답. 조마다 어른 인솔자가 있습니다.",
+      "펜은 각자 가져옵니다.",
+      "점심은 포함됩니다.",
+      "구청에 전달합니다.",
+      "개인이나 가족이 신청하고 팀은 당일 구성합니다."
     ],
-    "trap": "아침(바뀜)과 오후(그대로) 시각을 혼동하지 마세요.",
-    "tip": "안내문의 날짜, 변경 내용, 변경되지 않는 내용을 하나씩 대조하세요."
+    "trap": "②는 제공품과 준비물을 합친 함정입니다.",
+    "tip": "안내문의 Teams, Tools, After, Sign up 항목을 대조하세요."
   }
 ]
