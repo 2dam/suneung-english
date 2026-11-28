@@ -297,7 +297,7 @@
     "no": 39,
     "type": "insert",
     "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
-    "passage": "[주어진 문장]\nThey turned out to be only the first of thousands of life-sized figures buried in rows.\n\n[글]\n( ① ) In 1974 farmers near the Chinese city of Xi'an were digging a well during a dry spring. They hoped to find water for their thirsty fields. ( ② ) Instead of water, their tools struck pieces of baked clay, including what looked like a human head. The farmers had no idea what they had found. ( ③ ) Officials and archaeologists soon arrived and began to dig with great care. ( ④ ) The soldiers, with their different faces and hairstyles, had been made to guard the tomb of China's first emperor, who died more than two thousand years ago. Near them lay clay horses, the remains of wooden chariots, and real bronze weapons. ( ⑤ ) Much of the site is still unexcavated, partly because scientists fear that colors and materials could be damaged by air. The emperor's own burial mound, which stands nearby, has not been opened. Visitors today can look down on long pits filled with the standing figures.",
+    "passage": "[주어진 문장]\nThe careful excavation that followed showed that the head belonged to just one of thousands of life-sized figures buried in rows.\n\n[글]\n( ① ) In 1974 farmers near the Chinese city of Xi'an were digging a well during a dry spring. They hoped to find water for their thirsty fields. ( ② ) Instead of water, their tools struck pieces of baked clay, including what looked like a human head. The farmers had no idea what they had found. ( ③ ) Officials and archaeologists soon arrived and began to dig with great care. ( ④ ) The soldiers, with their different faces and hairstyles, had been made to guard the tomb of China's first emperor, who died more than two thousand years ago. Near them lay clay horses, the remains of wooden chariots, and real bronze weapons. ( ⑤ ) Much of the site is still unexcavated, partly because scientists fear that colors and materials could be damaged by air. The emperor's own burial mound, which stands nearby, has not been opened. Visitors today can look down on long pits filled with the standing figures.",
     "options": [
       "①",
       "②",
@@ -306,17 +306,17 @@
       "⑤"
     ],
     "answer": 3,
-    "translation": "[주어진 문장] 그것들은 줄지어 묻힌 실물 크기 형상 수천 개 중 첫 번째에 불과한 것으로 드러났다. [글] 1974년 중국 시안 근처의 농부들이 가문 봄에 우물을 파고 있었다. 목마른 밭에 댈 물을 찾으려던 것이었다. 물 대신 도구는 사람 머리처럼 보이는 것을 포함한 구운 흙 조각에 부딪혔다. 농부들은 자신들이 무엇을 발견했는지 전혀 몰랐다. 관리와 고고학자들이 곧 도착해 아주 조심스럽게 파기 시작했다. 얼굴과 머리 모양이 서로 다른 병사들은 2천여 년 전 죽은 중국 첫 황제의 무덤을 지키도록 만들어졌다. 그 곁에는 흙으로 빚은 말, 나무 전차의 잔해, 진짜 청동 무기가 놓여 있었다. 색과 재료가 공기에 손상될 것을 과학자들이 걱정하는 까닭도 있어 유적의 많은 부분은 아직 발굴되지 않았다. 근처에 있는 황제의 봉분은 열리지 않았다. 오늘날 방문객은 서 있는 형상으로 가득한 긴 구덩이를 내려다볼 수 있다.",
-    "why": "발굴 시작(③ 문장) 뒤에 '그것들은 수천 개의 첫 번째였다'고 하고, 이어 'The soldiers'가 그 형상을 받으므로 ④입니다.",
+    "translation": "[주어진 문장] 이어진 세심한 발굴은 그 머리가 줄지어 묻힌 실물 크기 형상 수천 개 가운데 하나의 것에 불과함을 보여 주었다. [글] 1974년 중국 시안 근처의 농부들이 가문 봄에 우물을 파고 있었다. 목마른 밭에 댈 물을 찾으려던 것이었다. 물 대신 도구는 사람 머리처럼 보이는 것을 포함한 구운 흙 조각에 부딪혔다. 농부들은 자신들이 무엇을 발견했는지 전혀 몰랐다. 관리와 고고학자들이 곧 도착해 아주 조심스럽게 파기 시작했다. 얼굴과 머리 모양이 서로 다른 병사들은 2천여 년 전 죽은 중국 첫 황제의 무덤을 지키도록 만들어졌다. 그 곁에는 흙으로 빚은 말, 나무 전차의 잔해, 진짜 청동 무기가 놓여 있었다. 색과 재료가 공기에 손상될 것을 과학자들이 걱정하는 까닭도 있어 유적의 많은 부분은 아직 발굴되지 않았다. 근처에 있는 황제의 봉분은 열리지 않았다. 오늘날 방문객은 서 있는 형상으로 가득한 긴 구덩이를 내려다볼 수 있다.",
+    "why": "'The careful excavation that followed'는 조심스럽게 파기 시작했다는 문장(③ 뒤)을 받고, 이어 'The soldiers'가 그 형상들을 가리키므로 ④입니다.",
     "optionNotes": [
-      "'They'가 가리킬 것이 없습니다.",
+      "발굴이 아직 없습니다.",
       "흙 조각이 나오기 전입니다.",
-      "발굴 전이라 '드러났다'고 할 수 없습니다.",
-      "정답. 발굴 → 규모 확인 → 병사의 정체입니다.",
+      "파기 시작했다는 말 앞이라 'excavation that followed'가 이릅니다.",
+      "정답. 발굴 시작 → 규모 확인 → 병사의 정체입니다.",
       "병사 설명 뒤에는 순서가 거꾸로입니다."
     ],
-    "trap": "③에 넣으면 파기도 전에 수천 개임이 드러난 것이 됩니다.",
-    "tip": "'The soldiers'라는 말은 형상이 먼저 소개되어야 자연스럽습니다."
+    "trap": "③에 넣으면 고고학자가 오기도 전에 발굴 결과를 말하게 됩니다.",
+    "tip": "'that followed'가 무엇에 이어지는지 확인하세요."
   },
   {
     "id": "m3b-13-40",

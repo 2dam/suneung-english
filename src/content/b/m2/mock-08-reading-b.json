@@ -297,7 +297,7 @@
     "no": 39,
     "type": "insert",
     "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
-    "passage": "[주어진 문장]\nFor this reason, the bridge was built with steel cables that can stretch and shrink without breaking.\n\n[글]\n( ① ) A long suspension bridge looks solid, but it is never completely still, even on a calm and quiet day. ( ② ) The weight of thousands of cars changes from minute to minute, and strong winds push against the deck from the side, sometimes for many hours at a time. ( ③ ) Temperature matters as well, since steel expands in summer and contracts in winter, so the middle of a long span may hang noticeably lower on a hot day than on a freezing one. ( ④ ) Engineers must allow the structure to move, because a bridge that is too stiff would crack when these forces act on it, just as a dry stick snaps more easily than a green one. ( ⑤ ) Special joints at each end give it room to slide, and drivers usually do not notice that anything is happening at all beneath their wheels.",
+    "passage": "[주어진 문장]\nThe same principle applies to the great cables, which are made of steel that can stretch a little without breaking.\n\n[글]\n( ① ) A long suspension bridge looks solid, but it is never completely still, even on a calm and quiet day. ( ② ) The weight of thousands of cars changes from minute to minute, and strong winds push against the deck from the side, sometimes for many hours at a time. ( ③ ) Temperature matters as well, since steel expands in summer and contracts in winter. As a result, the middle of a long span may hang noticeably lower on a hot day than on a freezing one. ( ④ ) Engineers must allow the structure to move, because a bridge that is too stiff would crack when these forces act on it, just as a dry stick snaps more easily than a green one. ( ⑤ ) Special joints at each end likewise give the deck room to slide, and drivers usually do not notice that anything is happening at all beneath their wheels.",
     "options": [
       "①",
       "②",
@@ -306,17 +306,17 @@
       "⑤"
     ],
     "answer": 4,
-    "translation": "[주어진 문장] 이런 이유로 다리는 끊어지지 않고 늘고 줄 수 있는 강철 케이블로 지어졌다. [글] 긴 현수교는 단단해 보이지만 결코 완전히 멈춰 있지 않다. 바람 없는 조용한 날에도 그렇다. 수천 대 차의 무게가 시시각각 변하고 강한 바람이 옆에서 상판을 민다. 때로는 한 번에 여러 시간 동안 그런다. 온도도 중요한데, 강철은 여름에 늘고 겨울에 줄어 긴 구간의 중간은 더운 날 눈에 띄게 낮게 처질 수 있다. 몹시 추운 날과 비교해서 그렇다. 너무 뻣뻣한 다리는 이런 힘이 작용할 때 갈라지므로 기술자는 구조물이 움직이게 해야 한다. 마른 나뭇가지가 생나무 가지보다 쉽게 부러지는 것과 같다. 양 끝의 특수 이음은 다리가 미끄러질 공간을 주고 운전자는 대개 아무 일도 일어나는 것을 알아채지 못한다. 바퀴 아래에서 벌어지는 일인데도 말이다.",
-    "why": "너무 뻣뻣하면 갈라지므로 움직이게 해야 한다는 설명 뒤에 'For this reason'으로 신축성 있는 케이블을 말하고, 다음 문장의 'it'이 다리를 받으므로 ⑤입니다.",
+    "translation": "[주어진 문장] 같은 원리가 거대한 케이블에도 적용되는데, 케이블은 끊어지지 않고 조금 늘어날 수 있는 강철로 만든다. [글] 긴 현수교는 단단해 보이지만 결코 완전히 멈춰 있지 않다. 바람 없는 조용한 날에도 그렇다. 수천 대 차의 무게가 시시각각 변하고 강한 바람이 옆에서 상판을 민다. 때로는 한 번에 여러 시간 동안 그런다. 온도도 중요한데, 강철은 여름에 늘고 겨울에 줄기 때문이다. 그 결과 긴 구간의 중간은 더운 날 눈에 띄게 낮게 처질 수 있다. 몹시 추운 날과 비교해서 그렇다. 너무 뻣뻣한 다리는 이런 힘이 작용할 때 갈라지므로 기술자는 구조물이 움직이게 해야 한다. 마른 나뭇가지가 생나무 가지보다 쉽게 부러지는 것과 같다. 마찬가지로 양 끝의 특수 이음은 상판이 미끄러질 공간을 주고 운전자는 대개 아무 일도 일어나는 것을 알아채지 못한다. 바퀴 아래에서 벌어지는 일인데도 말이다.",
+    "why": "구조물이 움직일 수 있게 해야 한다는 원리(④ 뒤 문장)를 말한 뒤 '같은 원리'가 케이블에도 적용된다고 하고, 이어 이음 장치를 'likewise'로 덧붙이므로 ⑤입니다.",
     "optionNotes": [
-      "아직 이유가 설명되지 않았습니다.",
-      "바람·무게 설명 중간이라 'this reason'이 불충분합니다.",
-      "온도 설명 앞에 끼면 흐름이 끊깁니다.",
-      "움직여야 하는 이유가 결론나기 전입니다.",
-      "정답. 이유 설명 뒤에 결과를 말합니다."
+      "아직 원리가 없습니다.",
+      "바람·무게를 말하는 중이라 'The same principle'의 대상이 없습니다.",
+      "온도 설명 앞이라 원리가 아직 없습니다.",
+      "움직이게 해야 한다는 원리가 나오기 전입니다.",
+      "정답. 원리 → 케이블 적용 → 이음 장치입니다."
     ],
-    "trap": "④와 ⑤에서 헷갈립니다. 'For this reason'은 ④ 문장(움직이게 해야 함)이 나온 뒤에 옵니다.",
-    "tip": "'For this reason'의 이유가 바로 앞 문장에 있는지 확인하세요."
+    "trap": "④는 온도 이야기 뒤라 그럴듯해 보이지만, 'The same principle'이 가리킬 원리는 아직 나오지 않았습니다.",
+    "tip": "'The same principle'의 원리가 바로 앞 문장에 있는지 확인하세요."
   },
   {
     "id": "m2b-08-40",

@@ -268,7 +268,7 @@
     "no": 38,
     "type": "insert",
     "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
-    "passage": "[주어진 문장]\nThe reason is that light and sound travel at enormously different speeds.\n\n[글]\nDuring a summer storm we often see a flash of lightning and only later hear the thunder. Children often wonder whether these are two separate events, but they come from a single stroke. ( ① ) Light covers about three hundred thousand kilometers in a second, so the flash reaches us almost at the instant it happens. Over the distance of a storm, its delay is far too small to notice. ( ② ) Sound moves through air at only about three hundred and forty meters per second. It therefore needs about three seconds to travel one kilometer. ( ③ ) This gives us a simple way to estimate how far away the lightning struck. ( ④ ) Count the seconds between the flash and the thunder, then divide by three to get the distance in kilometers. ( ⑤ ) If the two come almost together, the storm is very near, and it is time to go indoors. A lone tall tree is one of the worst places to wait for it to pass.",
+    "passage": "[주어진 문장]\nThe reason is that light and sound travel at enormously different speeds.\n\n[글]\nDuring a summer storm we often see a flash of lightning and only later hear the thunder. The thunder may arrive many seconds late, although both come from the very same stroke. ( ① ) Light covers about three hundred thousand kilometers in a second, so the flash reaches us almost at the instant it happens. Over the distance of a storm, its delay is far too small to notice. ( ② ) Sound moves through air at only about three hundred and forty meters per second. It therefore needs about three seconds to travel one kilometer. ( ③ ) This gives us a simple way to estimate how far away the lightning struck. ( ④ ) Count the seconds between the flash and the thunder, then divide by three to get the distance in kilometers. ( ⑤ ) If the two come almost together, the storm is very near, and it is time to go indoors. A lone tall tree is one of the worst places to wait for it to pass.",
     "options": [
       "①",
       "②",
@@ -277,7 +277,7 @@
       "⑤"
     ],
     "answer": 0,
-    "translation": "[주어진 문장] 이유는 빛과 소리가 엄청나게 다른 속도로 이동하기 때문이다. [글] 여름 폭풍 때 우리는 흔히 번개가 번쩍이는 것을 보고 나중에야 천둥을 듣는다. 아이들은 흔히 둘이 별개의 사건인지 궁금해하지만 한 번의 방전에서 나온다. 빛은 1초에 약 30만 킬로미터를 가므로 번쩍임은 일어나는 거의 그 순간 우리에게 닿는다. 폭풍 정도의 거리에서는 그 지연이 알아채기에 너무 작다. 소리는 공기 속을 초속 약 340미터로만 움직인다. 따라서 1킬로미터를 가는 데 약 3초가 걸린다. 이는 번개가 얼마나 멀리 쳤는지 추정하는 간단한 방법을 준다. 번쩍임과 천둥 사이의 초를 세어 3으로 나누면 킬로미터 거리가 나온다. 둘이 거의 함께 오면 폭풍이 아주 가까우니 실내로 들어갈 때이다. 홀로 선 큰 나무는 폭풍이 지나가길 기다리기에 가장 나쁜 곳 중 하나이다.",
+    "translation": "[주어진 문장] 이유는 빛과 소리가 엄청나게 다른 속도로 이동하기 때문이다. [글] 여름 폭풍 때 우리는 흔히 번개가 번쩍이는 것을 보고 나중에야 천둥을 듣는다. 둘 다 똑같은 방전에서 나오는데도 천둥은 여러 초 늦게 닿기도 한다. 빛은 1초에 약 30만 킬로미터를 가므로 번쩍임은 일어나는 거의 그 순간 우리에게 닿는다. 폭풍 정도의 거리에서는 그 지연이 알아채기에 너무 작다. 소리는 공기 속을 초속 약 340미터로만 움직인다. 따라서 1킬로미터를 가는 데 약 3초가 걸린다. 이는 번개가 얼마나 멀리 쳤는지 추정하는 간단한 방법을 준다. 번쩍임과 천둥 사이의 초를 세어 3으로 나누면 킬로미터 거리가 나온다. 둘이 거의 함께 오면 폭풍이 아주 가까우니 실내로 들어갈 때이다. 홀로 선 큰 나무는 폭풍이 지나가길 기다리기에 가장 나쁜 곳 중 하나이다.",
     "why": "현상을 제시한 뒤 이유를 말하고, 이어 빛과 소리의 속도를 설명하므로 ①입니다.",
     "optionNotes": [
       "정답. 현상 → 이유 → 각 속도입니다.",

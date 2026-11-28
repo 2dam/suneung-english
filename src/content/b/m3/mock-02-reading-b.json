@@ -268,7 +268,7 @@
     "no": 38,
     "type": "insert",
     "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
-    "passage": "[주어진 문장]\nCareful observation, however, showed that unrelated bats also shared food, and that they were most generous to those that had fed them in the past.\n\n[글]\n( ① ) Vampire bats must drink blood every two or three nights, and a bat that fails to feed for about sixty hours may starve to death. ( ② ) Because hunting is unreliable, a hungry bat will often beg a roost-mate for food, and a well-fed bat may share some of the blood it has swallowed by pushing it into the beggar's mouth. ( ③ ) Biologists once assumed that such sharing occurred only between mothers and their young, since helping one's own offspring is easy to explain. ( ④ ) Whether to help a stranger is a harder question, because the helper pays a real cost and gains nothing immediately. ( ⑤ ) This pattern suggests that the bats keep track of favors, a surprisingly sophisticated form of cooperation that depends on memory and trust rather than on family ties.",
+    "passage": "[주어진 문장]\nCareful observation, however, showed that unrelated bats also shared food, and that they were most generous to those that had fed them in the past.\n\n[글]\n( ① ) Vampire bats must drink blood every two or three nights, and a bat that fails to feed for about sixty hours may starve to death. ( ② ) Because hunting is unreliable, a hungry bat will often beg a roost-mate for food, and a well-fed bat may share some of the blood it has swallowed by pushing it into the beggar's mouth. ( ③ ) Biologists once assumed that such sharing occurred only between mothers and their young, since helping one's own offspring is easy to explain. Helping a stranger, which costs something and brings no immediate gain, is a different matter. ( ④ ) This pattern suggests that the bats keep track of favors, a surprisingly sophisticated form of cooperation that depends on memory and trust rather than on family ties. ( ⑤ ) A bat that never gives, it seems, may find fewer partners willing to help on the night when its own hunting fails.",
     "options": [
       "①",
       "②",
@@ -277,16 +277,16 @@
       "⑤"
     ],
     "answer": 3,
-    "translation": "[주어진 문장] 그러나 세심한 관찰은 혈연이 아닌 박쥐들도 먹이를 나누며 과거에 자신을 먹여 준 박쥐에게 가장 너그럽다는 것을 보여 주었다. [글] 흡혈박쥐는 이틀이나 사흘에 한 번 피를 마셔야 하며 약 60시간 동안 먹지 못한 박쥐는 굶어 죽을 수 있다. 사냥이 불확실하기 때문에 굶주린 박쥐는 흔히 같은 보금자리의 동료에게 먹이를 구걸하고, 잘 먹은 박쥐는 삼킨 피의 일부를 구걸하는 박쥐의 입에 밀어 넣어 나누기도 한다. 생물학자들은 새끼를 돕는 것은 설명하기 쉬우므로 그런 나눔이 어미와 새끼 사이에서만 일어난다고 한때 가정했다. 낯선 개체를 도울지는 더 어려운 문제인데, 도와주는 쪽이 실제 비용을 치르고 당장은 아무것도 얻지 못하기 때문이다. 이 양상은 박쥐들이 호의를 기억하고 있음을 시사하는데, 이는 혈연이 아니라 기억과 신뢰에 의존하는 놀랍도록 정교한 협력의 형태이다.",
-    "why": "혈연 사이에서만 나눈다는 가정 뒤에 'however'로 반대 관찰 결과를 제시하고, 'This pattern'이 그 결과를 받으므로 ④에 들어갑니다.",
+    "translation": "[주어진 문장] 그러나 세심한 관찰은 혈연이 아닌 박쥐들도 먹이를 나누며 과거에 자신을 먹여 준 박쥐에게 가장 너그럽다는 것을 보여 주었다. [글] 흡혈박쥐는 이틀이나 사흘에 한 번 피를 마셔야 하며 약 60시간 동안 먹지 못한 박쥐는 굶어 죽을 수 있다. 사냥이 불확실하기 때문에 굶주린 박쥐는 흔히 같은 보금자리의 동료에게 먹이를 구걸하고, 잘 먹은 박쥐는 삼킨 피의 일부를 구걸하는 박쥐의 입에 밀어 넣어 나누기도 한다. 생물학자들은 새끼를 돕는 것은 설명하기 쉬우므로 그런 나눔이 어미와 새끼 사이에서만 일어난다고 한때 가정했다. 비용을 치르고 당장 얻는 것이 없는 낯선 개체 돕기는 다른 문제이다. 이 양상은 박쥐들이 호의를 기억하고 있음을 시사하는데, 이는 혈연이 아니라 기억과 신뢰에 의존하는 놀랍도록 정교한 협력의 형태이다. 결코 내주지 않는 박쥐는 자기 사냥이 실패한 밤에 도와주려는 상대가 적을 수 있는 듯하다.",
+    "why": "어미와 새끼 사이에서만 나눈다는 가정 뒤에 'however'로 반대 관찰이 오고, 다음 문장의 'This pattern'이 '자신을 먹여 준 박쥐에게 가장 너그럽다'는 결과를 받으므로 ④입니다.",
     "optionNotes": [
       "앞에 반박할 가정이 없어 'however'가 어색합니다.",
       "나눔을 소개하는 중이라 아직 반박할 가정이 없습니다.",
-      "가정을 설명하는 문장 사이에 끼면 흐름이 끊깁니다.",
-      "정답. 가정 뒤에 반전이 오고 'This pattern'으로 이어집니다.",
-      "'This pattern'이 가리킬 관찰 결과가 먼저 필요합니다."
+      "가정을 말하기 전이라 'however'의 대상이 없습니다.",
+      "정답. 가정 → 반대 관찰 → 'This pattern'입니다.",
+      "'This pattern'이 가리킬 관찰이 그 앞에 있어야 하므로 늦습니다."
     ],
-    "trap": "③ 뒤의 문장과 ④ 사이에서 헷갈리지만 'Whether to help a stranger ...'는 낯선 개체를 돕는 문제를 제기하므로 주어진 문장 뒤에 와야 합니다.",
+    "trap": "⑤에 넣으면 앞의 'This pattern'이 가리킬 관찰 결과가 없습니다.",
     "tip": "however는 앞 문장과 대조되어야 하고, This pattern은 앞 문장의 관찰 결과를 가리킵니다."
   },
   {

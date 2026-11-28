@@ -297,7 +297,7 @@
     "no": 39,
     "type": "insert",
     "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
-    "passage": "[주어진 문장]\nThe discovery was a lesson in how much can remain hidden in the sea.\n\n[글]\n( ① ) Scientists once believed that a group of fish called coelacanths had died out about sixty-six million years ago, since no fossils younger than that were known. The animals were familiar only as shapes preserved in stone. ( ② ) In 1938 Marjorie Courtenay-Latimer, who worked at a small museum in South Africa, noticed an unusual blue fish in a fisherman's catch. Few people on the dock would have given it a second glance. ( ③ ) She sketched it and wrote to a fish expert, J. L. B. Smith, who recognized it as a living coelacanth. The news astonished scientists around the world. ( ④ ) Another specimen was not found until 1952, and a second species turned up in Indonesia in the late 1990s. The fish are now protected, and very few people have ever seen one alive. ( ⑤ ) An animal may vanish from the record of the rocks without vanishing from the world.",
+    "passage": "[주어진 문장]\nTaken together, these finds carry a lesson about how much can remain hidden in the sea.\n\n[글]\n( ① ) Scientists once believed that a group of fish called coelacanths had died out about sixty-six million years ago, since no fossils younger than that were known. The animals were familiar only as shapes preserved in stone. ( ② ) In 1938 Marjorie Courtenay-Latimer, who worked at a small museum in South Africa, noticed an unusual blue fish in a fisherman's catch. Few people on the dock would have given it a second glance. ( ③ ) She sketched it and wrote to a fish expert, J. L. B. Smith, who recognized it as a living coelacanth. The news astonished scientists around the world. ( ④ ) Another specimen was not found until 1952, and a second species turned up in Indonesia in the late 1990s. The fish are now protected, and very few people have ever seen one alive. ( ⑤ ) An animal may vanish from the record of the rocks without vanishing from the world.",
     "options": [
       "①",
       "②",
@@ -306,17 +306,17 @@
       "⑤"
     ],
     "answer": 4,
-    "translation": "[주어진 문장] 이 발견은 바다에 얼마나 많은 것이 숨어 있을 수 있는지에 관한 교훈이었다. [글] 과학자들은 한때 실러캔스라는 물고기 무리가 약 6,600만 년 전에 멸종했다고 믿었는데, 그보다 젊은 화석이 알려지지 않았기 때문이다. 그 동물은 돌에 보존된 형태로만 알려져 있었다. 1938년 남아프리카의 작은 박물관에서 일하던 마저리 코트니래티머가 어부의 어획물에서 특이한 파란 물고기를 알아챘다. 부두의 사람 대부분은 두 번 보지도 않았을 것이다. 그녀는 그것을 스케치해 어류 전문가 J. L. B. 스미스에게 편지를 썼고, 그는 살아 있는 실러캔스임을 알아보았다. 그 소식은 전 세계 과학자를 놀라게 했다. 또 다른 표본은 1952년에야 발견되었고 두 번째 종은 1990년대 후반 인도네시아에서 나타났다. 이 물고기는 지금 보호받고 있으며 살아 있는 것을 본 사람은 아주 드물다. 동물은 암석의 기록에서 사라져도 세상에서 사라지지 않았을 수 있다.",
-    "why": "발견의 전말(②~④) 뒤에 교훈을 말하고, 마지막 문장이 교훈을 풀어 말하므로 ⑤입니다.",
+    "translation": "[주어진 문장] 종합하면 이 발견들은 바다에 얼마나 많은 것이 숨어 있을 수 있는지에 관한 교훈을 준다. [글] 과학자들은 한때 실러캔스라는 물고기 무리가 약 6,600만 년 전에 멸종했다고 믿었는데, 그보다 젊은 화석이 알려지지 않았기 때문이다. 그 동물은 돌에 보존된 형태로만 알려져 있었다. 1938년 남아프리카의 작은 박물관에서 일하던 마저리 코트니래티머가 어부의 어획물에서 특이한 파란 물고기를 알아챘다. 부두의 사람 대부분은 두 번 보지도 않았을 것이다. 그녀는 그것을 스케치해 어류 전문가 J. L. B. 스미스에게 편지를 썼고, 그는 살아 있는 실러캔스임을 알아보았다. 그 소식은 전 세계 과학자를 놀라게 했다. 또 다른 표본은 1952년에야 발견되었고 두 번째 종은 1990년대 후반 인도네시아에서 나타났다. 이 물고기는 지금 보호받고 있으며 살아 있는 것을 본 사람은 아주 드물다. 동물은 암석의 기록에서 사라져도 세상에서 사라지지 않았을 수 있다.",
+    "why": "'these finds'는 1938년의 발견과 이후의 표본·새 종을 모두 가리키므로 후속 발견까지 말한 뒤인 ⑤입니다.",
     "optionNotes": [
-      "'The discovery'가 아직 없습니다.",
+      "발견이 아직 없습니다.",
       "발견 전입니다.",
       "발견이 확인되기 전입니다.",
-      "후속 발견이 이어지고 있어 이릅니다.",
+      "후속 발견이 나오기 전이라 복수형 'these finds'가 맞지 않습니다.",
       "정답. 발견 이야기 → 교훈 → 풀이입니다."
     ],
-    "trap": "④에 넣으면 후속 발견 설명이 교훈 뒤에 덧붙어 어색합니다.",
-    "tip": "교훈을 말하는 문장은 대개 사례가 끝난 뒤에 옵니다."
+    "trap": "④에서는 아직 발견이 하나뿐이어서 'these finds'라고 할 수 없습니다.",
+    "tip": "복수 지시어가 가리키는 것이 모두 앞에 있는지 확인하세요."
   },
   {
     "id": "m3b-14-40",
