@@ -3,229 +3,247 @@
     "id": "m3b-17-18",
     "level": "m3",
     "set": "mock-17",
+    "rev": 2,
     "no": 18,
     "type": "purpose",
     "stem": "다음 글의 목적으로 가장 적절한 것은?",
-    "passage": "Dear Ms. Carter,\nI am a teacher at Hanbit Middle School, and I booked a group visit to your museum for forty students on Tuesday, October 14 (reservation number 2047). Unfortunately, our school has had to move the midterm exams to that week, so my students will not be able to attend. They have been preparing for this visit by reading about your exhibition on ancient history. I would like to ask whether it is possible to change our visit to Tuesday, October 21, at the same time of 10:30 a.m. If that date is not available, any weekday afternoon in the following week would also be acceptable. I understand that your schedule is tight, and I apologize for the inconvenience. I would be grateful if you could let me know by this Friday.\nSincerely,\nDaniel Kim",
+    "passage": "Dear Manager,\nI live on the seventh floor of Building 103 and have been a resident here for six years. I am writing about the small playground between our building and Building 104. Two of the three lamps around it have not worked since the storm at the beginning of last month. At this time of year it is already dark by half past five, which is just when many children come home from their after-school classes and cross the playground. Last week a first grader tripped over the edge of the sandbox and hurt her knee. Several parents have told me that they now ask their children to take the long way around by the parking lot, although cars are constantly moving in and out there. I understand that your office has many requests to deal with. Still, I would be very grateful if you could have these two lamps repaired as soon as possible, before someone is injured more seriously.\nYours sincerely,\nHan Jiyeon",
     "options": [
-      "예약한 단체 관람 일정의 변경 가능 여부를 문의하려고",
-      "박물관 전시 해설사 채용에 지원하려고",
-      "관람 후기를 남기며 박물관을 칭찬하려고",
-      "박물관 입장료 환불 절차를 확인하려고",
-      "시험 일정이 바뀐 이유를 학부모에게 자세히 알려 주려고"
+      "놀이터의 고장 난 조명을 서둘러 고쳐 달라고 요청하려고",
+      "주차장에서 일어난 접촉 사고를 신고하려고",
+      "놀이터의 모래를 새것으로 바꿔 달라고 건의하려고",
+      "방과 후 수업이 끝나는 시간을 지금보다 앞당겨 달라고 부탁하려고",
+      "태풍에 대비한 주민 행동 요령을 안내하려고"
     ],
     "answer": 0,
-    "translation": "카터 선생님께. 저는 한빛 중학교 교사이며 10월 14일 화요일에 학생 마흔 명의 단체 관람을 귀 박물관에 예약했습니다(예약 번호 2047). 안타깝게도 우리 학교가 중간고사를 그 주로 옮겨야 해서 학생들이 참석할 수 없게 되었습니다. 학생들은 귀 박물관의 고대사 전시에 관해 읽으며 이번 관람을 준비해 왔습니다. 관람을 10월 21일 화요일 같은 시각인 오전 10시 30분으로 바꿀 수 있는지 문의드립니다. 그 날짜가 불가능하면 그다음 주의 평일 오후도 괜찮습니다. 일정이 빠듯하다는 것을 알며 불편을 드려 죄송합니다. 이번 주 금요일까지 알려 주시면 감사하겠습니다. 대니얼 김 드림.",
-    "why": "시험 일정 때문에 예약한 단체 관람 날짜를 바꿀 수 있는지 문의하는 글입니다.",
+    "translation": "관리소장님께. 저는 103동 7층에 사는 6년째 입주민입니다. 우리 동과 104동 사이의 작은 놀이터에 관해 씁니다. 주변의 등 세 개 중 두 개가 지난달 초 폭풍 뒤로 켜지지 않습니다. 이맘때는 5시 반이면 벌써 어두운데, 바로 그때 많은 아이가 방과 후 수업에서 돌아와 놀이터를 가로지릅니다. 지난주에는 1학년 아이가 모래밭 가장자리에 걸려 넘어져 무릎을 다쳤습니다. 여러 학부모가 이제 아이에게 주차장 쪽으로 돌아가라고 한다고 말했는데, 거기는 차가 계속 드나듭니다. 관리소에 처리할 요청이 많은 것은 압니다. 그래도 누가 더 크게 다치기 전에 이 두 등을 가능한 한 빨리 고쳐 주시면 매우 감사하겠습니다. 한지연 드림.",
+    "why": "고장 난 놀이터 조명 두 개를 빨리 수리해 달라는 요청입니다.",
     "optionNotes": [
-      "정답. 예약한 관람 일정의 변경 가능 여부를 문의합니다.",
-      "채용 지원은 나오지 않습니다.",
-      "관람 후기는 나오지 않습니다.",
-      "환불은 나오지 않습니다.",
-      "학부모에게 알리는 글이 아닙니다."
+      "정답. 조명 수리를 요청합니다.",
+      "접촉 사고는 일어나지 않았습니다.",
+      "모래 교체가 아닙니다.",
+      "수업 시간 변경이 아닙니다.",
+      "행동 요령 안내가 아닙니다."
     ],
-    "trap": "시험 일정 변경이 언급된다고 학부모 안내(⑤)로 착각하지 마세요.",
-    "tip": "목적 문제는 'I would like to ask whether ~' 같은 핵심 문장을 확인하세요."
+    "trap": "②는 주차장 언급만 보고 고른 함정입니다.",
+    "tip": "'I would be very grateful if you could ~' 문장을 찾으세요."
   },
   {
     "id": "m3b-17-19",
     "level": "m3",
     "set": "mock-17",
+    "rev": 2,
     "no": 19,
     "type": "mood",
-    "stem": "다음 글에 드러난 Hyun의 심경 변화로 가장 적절한 것은?",
-    "passage": "Hyun had been chosen as the host for Lucas, an exchange student from Brazil. All week, his stomach had been full of butterflies. What if his English was not good enough? What if Lucas found his house boring? At the airport, Hyun held a sign that he had made the night before, with \"Bem-vindo, Lucas!\" written in colorful letters. He had looked up the Portuguese word for welcome and practiced it twenty times. When Lucas walked out of the gate, he stopped and stared at the sign. Then his face broke into a wide smile. \"You wrote it in my language?\" he said, giving Hyun a big hug. \"Nobody has ever done that for me.\" Hyun felt his worries melt away, and warmth spread through his chest. He could hardly stop smiling all the way home.",
+    "stem": "다음 글에 드러난 Seungho의 심경 변화로 가장 적절한 것은?",
+    "passage": "Seungho strode to the front of the science room with his chin up. He had built the model bridge from wooden sticks in only two evenings, while others had spent a week, and he was sure that his would hold more weight than anyone's. \"Watch and learn,\" he told his table with a grin. The teacher placed the first small bag of sand on the bridge. Seungho folded his arms and glanced around to make sure that people were looking. The second bag followed. Then came a sharp crack, and before the teacher could reach for the third, the whole thing folded in the middle and dropped into the bucket. Someone at the back said, \"Well, we learned something.\" A few students laughed. Seungho felt the heat rush to his ears. He gathered the broken sticks as quickly as he could without looking at anyone, slid back into his seat, and held his notebook up high enough to hide most of his face.",
     "options": [
-      "bored → annoyed",
-      "nervous but excited → delighted and touched",
-      "angry → ashamed",
-      "worried and confused → indifferent and tired",
-      "lonely → jealous"
+      "anxious and doubtful → greatly relieved and glad",
+      "proud and confident → embarrassed and ashamed",
+      "bored and sleepy → curious and interested",
+      "angry and upset → calm and forgiving",
+      "hopeful and excited → grateful and moved"
     ],
     "answer": 1,
-    "translation": "현은 브라질에서 온 교환학생 루카스의 홈스테이 가족으로 뽑혔다. 한 주 내내 그의 배 속은 나비로 가득했다. 영어가 충분하지 않으면 어쩌지? 루카스가 우리 집을 지루해하면 어쩌지? 공항에서 현은 전날 밤에 만든 팻말을 들고 있었는데 거기에 알록달록한 글씨로 \"Bem-vindo, Lucas!\"라고 쓰여 있었다. 그는 환영을 뜻하는 포르투갈어 낱말을 찾아보고 스무 번 연습했다. 루카스가 출구로 걸어 나오다 멈춰서 팻말을 응시했다. 그러더니 얼굴에 환한 미소가 번졌다. \"내 나라 말로 써 줬어?\" 하고 그가 현을 꼭 안으며 말했다. \"아무도 나한테 그렇게 해 준 적이 없어.\" 현은 걱정이 녹아내리는 것을 느꼈고 가슴에 온기가 퍼졌다. 그는 집에 가는 내내 미소를 멈출 수 없었다.",
-    "why": "처음에는 걱정되면서도 설렜지만(nervous but excited) 루카스의 반응에 기쁘고 감동했으므로(delighted and touched) ②가 알맞습니다.",
+    "translation": "승호는 턱을 치켜들고 과학실 앞으로 성큼성큼 걸었다. 남들이 일주일을 쓴 나무 막대 다리 모형을 단 이틀 저녁에 만들었고, 자기 것이 누구 것보다 큰 무게를 버틸 것이라 확신했다. \"보고 배워.\" 그는 씩 웃으며 모둠에게 말했다. 선생님이 첫 번째 작은 모래주머니를 다리에 올렸다. 승호는 팔짱을 끼고 사람들이 보는지 둘러보았다. 두 번째 주머니가 올라갔다. 그때 날카로운 딱 소리가 나더니 선생님이 세 번째에 손을 뻗기도 전에 전체가 가운데에서 접혀 양동이로 떨어졌다. 뒤에서 누가 \"음, 뭔가 배웠네\"라고 했다. 몇몇이 웃었다. 승호는 귀로 열이 확 오르는 것을 느꼈다. 아무도 보지 않은 채 부러진 막대를 최대한 빨리 모아 자리로 미끄러져 들어가 얼굴 대부분이 가려지게 공책을 높이 들었다.",
+    "why": "자신만만하다가(proud and confident) 창피해졌으므로(embarrassed and ashamed) ②입니다.",
     "optionNotes": [
-      "지루함에서 짜증이 아닙니다.",
-      "정답. 긴장과 설렘에서 기쁨과 감동으로 변했습니다.",
-      "화남에서 부끄러움이 아닙니다.",
-      "걱정에서 무관심이 아닙니다.",
-      "외로움에서 질투가 아닙니다."
+      "처음에 불안하지 않았습니다.",
+      "정답. 자신감에서 창피함으로 변했습니다.",
+      "지루함이 아닙니다.",
+      "화가 가라앉는 내용이 아닙니다.",
+      "감동으로 끝나지 않습니다."
     ],
-    "trap": "처음의 걱정(What if ~)만 보고 끝까지 걱정했다고 오해하지 마세요.",
-    "tip": "전환 신호(When Lucas walked out, Then his face broke into a smile)를 기준으로 앞뒤 감정을 비교하세요."
+    "trap": "다리가 무너진 것을 '화'로만 해석하지 마세요.",
+    "tip": "귀가 뜨거워지고 얼굴을 가리는 행동을 보세요."
   },
   {
     "id": "m3b-17-20",
     "level": "m3",
     "set": "mock-17",
+    "rev": 2,
     "no": 20,
     "type": "claim",
     "stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
-    "passage": "Every year, about one third of all food produced in the world is wasted. Much of this waste happens in homes, where people buy more than they can eat and throw away leftovers. Wasting food is not only a waste of money. It also harms the environment, because the water, energy, and land used to grow the food are wasted too, and rotting food in landfills releases greenhouse gases. The solution does not require complicated changes. If families plan their meals for the week, make a shopping list, and buy only what they need, they can avoid most of the waste. Storing food properly and using leftovers in new dishes also helps. Therefore, households should reduce food waste by planning meals and buying only the amount of food they need.",
+    "passage": "A shocking photograph appears on your phone with the words \"This is happening right now.\" Your thumb is already moving toward the share button, because friends ought to know. It is worth stopping for a minute at exactly this point. Old pictures are often passed around as new ones, and a photograph taken in one country can be presented as a scene from another. Sometimes the words attached to a real image are simply invented. Checking does not require special skills. One can look for the date, ask who first published the item, and see whether reliable news organizations are reporting the same thing. If none of these questions can be answered, the honest choice is to wait. Some people argue that sharing is harmless when it is done with good intentions. But a false story does the same damage whether it is spread out of malice or out of concern. Before passing something on, we should confirm where and when it came from.",
     "options": [
-      "음식은 많이 사서 오래 보관하는 것이 경제적이다.",
-      "음식물 쓰레기는 모두 매립지에 버려야 한다.",
-      "가정에서는 식사를 계획하고 필요한 만큼만 사서 음식물 쓰레기를 줄여야 한다.",
-      "농장에서 생산하는 식량의 양을 줄여야 한다.",
-      "외식을 줄이면 환경 문제가 모두 해결된다."
+      "충격적인 사진은 어떤 경우에도 온라인에 올려서는 안 된다.",
+      "언론사는 속보를 지금보다 더 빠르게 전달해야 한다.",
+      "정보를 퍼뜨리기 전에 그것이 언제 어디에서 나온 것인지 반드시 확인해야 한다.",
+      "좋은 의도로 나눈 정보는 틀려도 책임이 없다.",
+      "청소년의 휴대 전화 사용 시간을 제한해야 한다."
     ],
     "answer": 2,
-    "translation": "해마다 세계에서 생산되는 식량의 약 삼분의 일이 버려진다. 이 낭비의 많은 부분은 사람들이 먹을 수 있는 것보다 더 많이 사서 남은 음식을 버리는 가정에서 일어난다. 음식을 버리는 것은 돈 낭비일 뿐만이 아니다. 그것은 환경에도 해를 끼치는데, 음식을 기르는 데 쓰인 물, 에너지, 땅도 낭비되고 매립지에서 썩는 음식은 온실가스를 내뿜기 때문이다. 해결책은 복잡한 변화를 요구하지 않는다. 가족이 한 주의 식사를 계획하고 장보기 목록을 만들고 필요한 것만 사면 대부분의 낭비를 피할 수 있다. 음식을 제대로 보관하고 남은 음식을 새 요리에 쓰는 것도 도움이 된다. 그러므로 가정은 식사를 계획하고 필요한 양의 음식만 사서 음식물 쓰레기를 줄여야 한다.",
-    "why": "마지막 문장에서 가정은 식사를 계획하고 필요한 만큼만 사서 음식물 쓰레기를 줄여야 한다고 주장합니다.",
+    "translation": "\"지금 바로 일어나는 일\"이라는 말과 함께 충격적인 사진이 휴대 전화에 뜬다. 친구들이 알아야 하니 엄지는 벌써 공유 버튼으로 가고 있다. 바로 이 지점에서 1분 멈출 만하다. 오래된 사진이 새것처럼 돌아다니는 일이 흔하고, 한 나라에서 찍은 사진이 다른 나라의 장면으로 제시될 수 있다. 때로 진짜 이미지에 붙은 말이 그냥 지어낸 것이다. 확인에 특별한 기술은 필요 없다. 날짜를 찾고, 누가 처음 올렸는지 묻고, 믿을 만한 언론사가 같은 일을 보도하는지 볼 수 있다. 이 질문에 하나도 답할 수 없다면 정직한 선택은 기다리는 것이다. 좋은 뜻으로 하면 공유는 해가 없다고 주장하는 사람도 있다. 그러나 거짓 이야기는 악의로 퍼지든 걱정으로 퍼지든 같은 해를 끼친다. 무언가를 전달하기 전에 그것이 어디서 언제 나왔는지 확인해야 한다.",
+    "why": "마지막 문장에서 전달 전에 출처와 시점을 확인해야 한다고 주장합니다.",
     "optionNotes": [
-      "많이 사서 보관하라는 말은 글과 반대입니다.",
-      "매립지에 버리라는 말은 글과 반대입니다.",
-      "정답. 식사를 계획하고 필요한 만큼만 사야 합니다.",
-      "식량 생산 감축은 나오지 않습니다.",
-      "외식 감소는 나오지 않습니다."
+      "올리지 말라는 것이 아니라 확인하라는 것입니다.",
+      "속보 속도는 나오지 않습니다.",
+      "정답. 출처와 시점을 확인하라는 것입니다.",
+      "의도가 좋아도 해는 같다고 했습니다.",
+      "사용 시간은 나오지 않습니다."
     ],
-    "trap": "'landfills'가 나온다고 매립지에 버리자(②)는 뜻으로 오해하지 마세요.",
-    "tip": "주장 문제는 'Therefore, ~ should' 같은 결론 문장을 확인하세요."
+    "trap": "④는 글이 반박한 의견입니다.",
+    "tip": "마지막 'we should' 문장을 확인하세요."
   },
   {
     "id": "m3b-17-21",
     "level": "m3",
     "set": "mock-17",
+    "rev": 2,
     "no": 21,
     "type": "implied",
     "stem": "밑줄 친 부분이 다음 글에서 의미하는 바로 가장 적절한 것은?",
-    "passage": "Mina had been looking forward to her trip to Busan for weeks, but on the morning of departure, her train was canceled because of a heavy storm. She was disappointed and angry as she sat in the station with her heavy bag. Then, she heard someone call her name. It was Yeji, her best friend from elementary school, whom she had not seen for five years. Yeji's train had been canceled, too. They decided to have lunch together and talked for hours about everything that had happened since they last met. Before they parted, they promised to meet again every month. Later, Mina told her mother, \"If the train hadn't been canceled, we would never have met. It was truly {u|a blessing in disguise}.\"",
+    "passage": "On the first day of the term a new student barely answered when Dahye spoke to him. By lunchtime she had decided that he was unfriendly, and she told two others so. He had, she learned much later, spent the previous night in a hospital waiting room with his grandmother. Dahye had seen one morning and treated it as the whole person. We do this constantly. A shop assistant who is curt becomes a rude woman; a driver who cuts in becomes a selfish man. Our own bad moments we explain quite differently: I was tired, I was worried, anyone would have snapped. We know the story around our own behavior, because we lived through what came before and expect to be better tomorrow. Of other people we often have only one frame. It is worth remembering this before passing judgment, since otherwise we keep {u|mistaking a snapshot for the whole film}.",
     "options": [
-      "a gift that is wrapped in plain paper",
-      "a person who hides their true feelings",
-      "something that seems bad at first but turns out to be good",
-      "a problem that becomes worse over time",
-      "a secret that nobody is allowed to know"
+      "choosing an old photograph instead of a new video",
+      "watching only the beginning of a movie that is too long",
+      "judging what someone is really like from a single moment",
+      "forgetting the faces of people whom we met only once",
+      "taking pictures of strangers without asking permission"
     ],
     "answer": 2,
-    "translation": "미나는 몇 주 동안 부산 여행을 기대해 왔지만 출발하는 날 아침 폭풍우 때문에 기차가 취소되었다. 그녀는 무거운 가방을 들고 역에 앉아 실망하고 화가 났다. 그때 누군가 그녀의 이름을 불렀다. 오 년 동안 보지 못한 초등학교 단짝 예지였다. 예지의 기차도 취소되었다. 그들은 함께 점심을 먹기로 하고 마지막으로 만난 뒤 있었던 모든 일에 대해 몇 시간 동안 이야기했다. 헤어지기 전에 그들은 매달 다시 만나기로 약속했다. 나중에 미나가 어머니께 말했다. \"기차가 취소되지 않았다면 우리는 절대 만나지 못했을 거예요. 정말 전화위복이었어요.\"",
-    "why": "기차가 취소된 불운이 오랜 친구를 만나는 좋은 결과로 이어졌으므로 'a blessing in disguise'는 처음에는 나빠 보이지만 결국 좋은 일이라는 뜻입니다.",
+    "translation": "학기 첫날 전학생은 다혜가 말을 걸자 거의 대답하지 않았다. 점심때 그녀는 그가 불친절하다고 결론짓고 두 명에게 그렇게 말했다. 한참 뒤 알고 보니 그는 전날 밤을 할머니와 병원 대기실에서 보냈다. 다혜는 하루 아침을 보고 그것을 사람 전체로 다뤘다. 우리는 늘 이렇게 한다. 퉁명스러운 점원은 무례한 여자가 되고, 끼어든 운전자는 이기적인 남자가 된다. 우리 자신의 나쁜 순간은 전혀 다르게 설명한다. 피곤했다, 걱정이 있었다, 누구라도 쏘아붙였을 것이다. 우리는 앞선 일을 겪었고 내일은 나아지리라 기대하므로 자기 행동 둘레의 이야기를 안다. 남에 대해서는 흔히 한 장면만 있다. 판단을 내리기 전에 이를 기억할 만하다. 그러지 않으면 한 장의 사진을 영화 전체로 계속 착각하게 된다.",
+    "why": "한 순간만 보고 그 사람 전체를 판단하는 것을 뜻합니다.",
     "optionNotes": [
-      "문자 그대로 포장된 선물이 아닙니다.",
-      "감정을 숨기는 사람이 아닙니다.",
-      "정답. 처음엔 나빠 보이지만 결국 좋은 일이라는 뜻입니다.",
-      "나빠지는 문제가 아닙니다.",
-      "비밀이 아닙니다."
+      "사진과 영상의 선택이 아닙니다.",
+      "영화 감상 이야기가 아닙니다.",
+      "정답. 한 순간으로 사람을 판단하는 것입니다.",
+      "얼굴을 잊는 이야기가 아닙니다.",
+      "촬영 허락 이야기가 아닙니다."
     ],
-    "trap": "'disguise'를 문자 그대로 변장이나 숨김과 연결하지 마세요.",
-    "tip": "관용 표현은 앞뒤 문맥(canceled, would never have met)에서 의미를 추론하세요."
+    "trap": "'snapshot'과 'film'을 실제 사진·영화로 해석하지 마세요.",
+    "tip": "'had seen one morning and treated it as the whole person'을 확인하세요."
   },
   {
     "id": "m3b-17-22",
     "level": "m3",
     "set": "mock-17",
+    "rev": 2,
     "no": 22,
     "type": "gist",
     "stem": "다음 글의 요지로 가장 적절한 것은?",
-    "passage": "Many adults believe that play is something for children and that grown-ups should spend their time on serious work. However, researchers who study play argue that this belief is mistaken. When adults play, whether it is a board game, a sport, or simply a silly conversation, their brains relax and become more flexible. This flexible state allows them to come up with new ideas and to see old problems from fresh angles. Play also reduces stress, because it shifts attention away from worries and releases chemicals that make us feel good. Companies that give their employees time to play, for example with games or creative workshops, often report higher energy and better teamwork. For these reasons, adults should not give up play as they grow older.",
+    "passage": "\"Write anything you like.\" It sounds like the most generous assignment a teacher could give, yet many students sit in front of the empty page for the whole hour. Now suppose the task is to describe a morning in your kitchen without using the word \"I\" and without naming a single food. Pencils start moving. The rules rule out the first sentences that would have come to mind and force a search for others: the hiss of something in a pan, steam on a window, a chair pushed back. Something similar happens when a cook has only what is left in the refrigerator, or when a composer is asked for a piece that a beginner can play. Of course, a task can be so tightly restricted that nothing is left to decide, and then it is merely dull. A few well-chosen limits, however, give the mind something to push against. Total freedom is not always the best friend of invention.",
     "options": [
-      "놀이는 아이들에게만 필요한 활동이다.",
-      "성인은 일에 더 집중하기 위해 놀이 시간을 줄여야 한다.",
-      "놀이 시간이 길수록 학업 성적이 오른다.",
-      "놀이는 어른에게도 창의성을 높이고 스트레스를 줄여 준다.",
-      "경쟁적인 놀이는 협동을 방해한다."
+      "창의적인 사람은 어떤 규칙도 따르지 않는다.",
+      "글쓰기 실력은 자유 주제를 많이 써야 늘어난다.",
+      "제한이 많으면 많을수록 사람이 만들어 내는 결과물의 수준은 틀림없이 높아진다.",
+      "적절한 제약은 오히려 새로운 생각을 끌어내는 데 도움이 된다.",
+      "요리와 작곡은 글쓰기보다 창의성이 덜 필요하다."
     ],
     "answer": 3,
-    "translation": "많은 어른은 놀이가 아이들의 것이며 어른은 진지한 일에 시간을 써야 한다고 믿는다. 그러나 놀이를 연구하는 연구자들은 이 믿음이 잘못되었다고 주장한다. 어른이 보드게임이든 운동이든 단순히 엉뚱한 대화이든 놀 때 뇌는 이완되고 더 유연해진다. 이 유연한 상태는 새로운 아이디어를 떠올리고 오래된 문제를 새로운 각도에서 보게 한다. 놀이는 또 주의를 걱정에서 돌리고 기분 좋게 하는 물질을 내보내므로 스트레스를 줄인다. 직원에게 게임이나 창의적 워크숍 같은 놀이 시간을 주는 회사는 흔히 더 높은 활력과 더 나은 팀워크를 보고한다. 이런 이유로 어른은 나이가 들면서 놀이를 포기해서는 안 된다.",
-    "why": "놀이가 어른에게도 창의성과 스트레스 해소, 팀워크에 도움이 된다는 내용입니다.",
+    "translation": "\"쓰고 싶은 것을 아무거나 쓰세요.\" 교사가 줄 수 있는 가장 너그러운 과제처럼 들리지만 많은 학생이 한 시간 내내 빈 종이 앞에 앉아 있다. 이제 과제가 '나'라는 말을 쓰지 않고 음식 이름을 하나도 대지 않으면서 부엌의 아침을 묘사하는 것이라 하자. 연필이 움직이기 시작한다. 규칙은 처음 떠올랐을 문장을 배제하고 다른 것을 찾게 만든다. 팬에서 지글거리는 소리, 창의 김, 뒤로 밀린 의자. 요리사에게 냉장고에 남은 것만 있을 때나 작곡가가 초보자도 칠 수 있는 곡을 부탁받을 때도 비슷한 일이 생긴다. 물론 과제가 너무 빡빡해 정할 것이 남지 않으면 그저 지루하다. 그러나 잘 고른 몇 가지 제한은 마음이 밀어붙일 무언가를 준다. 완전한 자유가 늘 발명의 가장 좋은 친구는 아니다.",
+    "why": "적절한 제약이 새로운 생각을 돕는다는 것이 요지입니다.",
     "optionNotes": [
-      "통념이며 글이 반박합니다.",
-      "놀이를 줄이라는 말은 글과 반대입니다.",
-      "학업 성적은 나오지 않습니다.",
-      "정답. 어른에게도 창의성을 높이고 스트레스를 줄여 줍니다.",
-      "경쟁적 놀이와 협동은 나오지 않습니다."
+      "규칙이 도움이 된다고 했습니다.",
+      "자유 주제 때문에 막히는 예를 들었습니다.",
+      "너무 빡빡하면 지루하다고 했습니다.",
+      "정답. 적절한 제약이 도움이 됩니다.",
+      "요리와 작곡은 같은 원리의 예입니다."
     ],
-    "trap": "첫 문장의 통념(놀이는 아이들 것)을 필자의 주장으로 착각하지 마세요.",
-    "tip": "요지는 'However' 이후와 'For these reasons' 문장을 확인하세요."
+    "trap": "③은 '적절한'을 '많을수록'으로 바꾼 함정입니다.",
+    "tip": "'A few well-chosen limits, however' 문장이 핵심입니다."
   },
   {
     "id": "m3b-17-23",
     "level": "m3",
     "set": "mock-17",
+    "rev": 2,
     "no": 23,
     "type": "topic",
     "stem": "다음 글의 주제로 가장 적절한 것은?",
-    "passage": "Honeybees are best known for making honey, but their most important job is pollination. When a bee visits a flower to collect nectar, pollen sticks to its body and is carried to the next flower, allowing the plant to produce fruits and seeds. About one third of the food we eat, including apples, almonds, and many vegetables, depends on pollinating insects. Unfortunately, bee populations have been declining in many parts of the world. Scientists point to several causes: pesticides that harm the insects, the loss of wildflower habitats, diseases caused by mites, and climate change. Without enough bees, farmers might need to pollinate crops by hand, which is expensive and slow. To protect bees, we can plant flowers, reduce pesticide use, and support local beekeepers.",
+    "passage": "Travelers who cross a desert are often surprised that a day of fierce heat can be followed by a night that calls for a thick jacket. The explanation has much to do with water, or rather with the lack of it. During the day, sunlight pours onto dry sand and rock. Little of its energy goes into evaporating moisture, so the surface and the air just above it heat up rapidly. Sand, however, passes heat downward poorly, and only a thin layer at the top becomes very hot. After sunset that layer loses its warmth quickly. In humid places, water vapor and clouds absorb much of the heat rising from the ground and send part of it back, rather like a light blanket. Above many deserts the air is dry and the sky clear, so the heat escapes with little to stop it. The result is a swing in temperature that can exceed twenty degrees within a single day.",
     "options": [
-      "꿀의 종류와 맛의 차이",
-      "양봉업자가 되기 위한 준비 과정",
-      "꿀벌이 식량 생산에 하는 역할과 꿀벌이 직면한 위협",
-      "곤충이 사람에게 옮길 수 있는 질병의 종류와 예방 방법",
-      "과일을 오래 신선하게 보관하는 방법"
+      "사막에 사는 여러 동물이 한낮의 더위를 피하는 방법",
+      "모래를 이용한 새로운 난방 기술",
+      "사막에서 낮과 밤의 기온 차가 크게 나는 까닭",
+      "구름이 만들어지는 과정과 구름의 종류",
+      "사막을 여행할 때 챙겨야 할 준비물"
     ],
     "answer": 2,
-    "translation": "꿀벌은 꿀을 만드는 것으로 가장 잘 알려져 있지만 가장 중요한 일은 수분이다. 벌이 꿀을 모으려고 꽃을 찾아가면 꽃가루가 몸에 붙어 다음 꽃으로 옮겨지고 식물이 열매와 씨앗을 만들 수 있게 된다. 사과, 아몬드, 많은 채소를 포함해 우리가 먹는 식품의 약 삼분의 일은 수분 곤충에 달려 있다. 안타깝게도 세계 여러 곳에서 벌의 개체 수가 줄고 있다. 과학자들은 곤충에게 해로운 살충제, 야생화 서식지의 감소, 진드기가 일으키는 질병, 기후 변화 등 여러 원인을 꼽는다. 벌이 충분하지 않으면 농부들은 작물을 손으로 수분시켜야 할 수 있는데 이는 비싸고 느리다. 벌을 보호하려면 꽃을 심고 살충제 사용을 줄이고 지역 양봉가를 도울 수 있다.",
-    "why": "꿀벌이 식량 생산에서 수분으로 하는 역할과 개체 수 감소라는 위협을 다루는 글입니다.",
+    "translation": "사막을 건너는 여행자는 맹렬히 더운 낮 뒤에 두꺼운 겉옷이 필요한 밤이 올 수 있다는 데 흔히 놀란다. 설명은 물, 더 정확히는 물의 부족과 크게 관련된다. 낮에 햇빛이 마른 모래와 바위에 쏟아진다. 에너지 중 수분 증발에 가는 것이 거의 없어 표면과 바로 위의 공기가 빠르게 뜨거워진다. 그러나 모래는 열을 아래로 잘 전달하지 못해 꼭대기의 얇은 층만 매우 뜨거워진다. 해가 지면 그 층은 온기를 빨리 잃는다. 습한 곳에서는 수증기와 구름이 땅에서 올라오는 열의 많은 부분을 흡수해 일부를 되돌려 보내는데, 얇은 담요와 비슷하다. 많은 사막 위에서는 공기가 건조하고 하늘이 맑아 열이 막는 것 없이 빠져나간다. 그 결과 하루 안에 20도를 넘을 수 있는 기온 변동이 생긴다.",
+    "why": "사막의 큰 일교차의 원인을 설명하므로 ③이 주제입니다.",
     "optionNotes": [
-      "꿀의 종류는 나오지 않습니다.",
-      "양봉업자 준비는 나오지 않습니다.",
-      "정답. 꿀벌의 역할과 위협입니다.",
-      "곤충의 질병은 나오지 않습니다.",
-      "과일 보관은 나오지 않습니다."
+      "동물은 나오지 않습니다.",
+      "난방 기술이 아닙니다.",
+      "정답. 일교차가 큰 까닭입니다.",
+      "구름의 종류는 나오지 않습니다.",
+      "준비물 안내가 아닙니다."
     ],
-    "trap": "'honey'가 나온다고 꿀의 종류(①)로 착각하지 마세요. 핵심은 수분 역할입니다.",
-    "tip": "주제는 글 전체의 두 축(역할, 위협)을 모두 담은 선택지를 고르세요."
+    "trap": "④는 구름 언급만 보고 고른 함정입니다.",
+    "tip": "낮의 가열과 밤의 냉각을 모두 설명하는 말을 고르세요."
   },
   {
     "id": "m3b-17-24",
     "level": "m3",
     "set": "mock-17",
+    "rev": 2,
     "no": 24,
     "type": "title",
     "stem": "다음 글의 제목으로 가장 적절한 것은?",
-    "passage": "We often hear the advice to sleep on it when facing a difficult decision, and science supports this idea. During sleep, the brain does not simply rest. It replays the events of the day, strengthens important memories, and links new information with what we already know. In one experiment, participants were given a puzzle that had a hidden shortcut. Those who slept for eight hours between attempts were nearly three times more likely to discover the shortcut than those who stayed awake for the same period. Researchers believe that sleeping helps the brain to reorganize information in new ways, which leads to sudden insights. Therefore, if you are stuck on a problem, taking a good night's sleep may be more helpful than working on it all night.",
+    "passage": "Before the 1950s, loading a cargo ship was slow work. Goods arrived at the dock in sacks, barrels, and crates of every size, and gangs of workers carried them aboard and fitted them into the hold piece by piece. A ship could spend as much time in port as at sea, and things were often damaged or stolen along the way. An American trucking businessman named Malcom McLean pushed a simple alternative. Pack the goods into a large metal box at the factory, lift the whole box onto the ship, and set it on a truck or train at the other end without ever opening it. The box itself was hardly a marvel of engineering. Its power came when companies and countries agreed on standard sizes, so that cranes, ships, and trucks everywhere could handle one another's containers. The cost of moving goods fell sharply, and products made on one side of the world became ordinary on the other.",
     "options": [
-      "Why Dreams Are Always Hard to Remember in the Morning",
-      "How to Solve Difficult Puzzles in Less Than One Minute",
-      "The Dangers of Sleeping Too Little Every Single Night",
-      "A History of Sleep Research in the Twentieth Century",
-      "Sleep On It: How Rest Helps Us Solve Problems"
+      "The Hard Life of a Dock Worker in the Past",
+      "How to Build a Faster Ship with Less Metal",
+      "Why Barrels Are Still the Best for Shipping",
+      "The Rise and Fall of American Trucking Firms",
+      "A Simple Box That Changed World Trade"
     ],
     "answer": 4,
-    "translation": "어려운 결정에 직면했을 때 하룻밤 자고 생각해 보라는 조언을 우리는 자주 듣는데 과학이 이 생각을 뒷받침한다. 자는 동안 뇌는 단순히 쉬지 않는다. 뇌는 낮의 사건을 되풀이하고 중요한 기억을 강화하며 새 정보를 이미 아는 것과 연결한다. 한 실험에서 참가자들에게 숨은 지름길이 있는 퍼즐을 주었다. 시도 사이에 여덟 시간을 잔 사람들은 같은 시간 동안 깨어 있던 사람들보다 지름길을 발견할 가능성이 거의 세 배 높았다. 연구자들은 잠이 뇌가 정보를 새로운 방식으로 재구성하도록 도와 갑작스러운 통찰로 이어진다고 믿는다. 그러므로 문제에서 막혔다면 밤새 매달리는 것보다 푹 자는 것이 더 도움이 될 수 있다.",
-    "why": "잠이 문제 해결에 도움이 되는 이유를 설명하므로 ⑤가 제목으로 알맞습니다.",
+    "translation": "1950년대 이전에 화물선 싣기는 느린 일이었다. 물건은 온갖 크기의 자루, 통, 상자로 부두에 도착했고 일꾼 무리가 배로 날라 화물칸에 하나씩 끼워 넣었다. 배는 바다에 있는 만큼 항구에 있기도 했고 물건은 도중에 자주 파손되거나 도난당했다. 맬컴 매클레인이라는 미국 화물 트럭 사업가가 단순한 대안을 밀어붙였다. 공장에서 큰 금속 상자에 물건을 싣고, 상자째 배에 올리고, 도착해서는 한 번도 열지 않고 트럭이나 기차에 얹는 것이다. 상자 자체는 공학의 경이라 하기 어려웠다. 그 힘은 회사와 나라들이 표준 크기에 합의해 어디의 크레인, 배, 트럭도 서로의 컨테이너를 다룰 수 있게 되면서 나왔다. 물건을 옮기는 비용이 급락했고 세계 한쪽에서 만든 제품이 반대쪽에서 흔해졌다.",
+    "why": "표준 컨테이너가 세계 무역을 바꾼 이야기이므로 ⑤가 제목입니다.",
     "optionNotes": [
-      "꿈의 기억은 나오지 않습니다.",
-      "퍼즐 빨리 풀기는 나오지 않습니다.",
-      "수면 부족의 위험은 중심 내용이 아닙니다.",
-      "수면 연구의 역사는 나오지 않습니다.",
-      "정답. 잠이 문제 해결을 돕는다는 내용입니다."
+      "부두 노동은 배경입니다.",
+      "배 건조법이 아닙니다.",
+      "통을 권하지 않습니다.",
+      "트럭 회사의 흥망이 아닙니다.",
+      "정답. 세계 무역을 바꾼 단순한 상자입니다."
     ],
-    "trap": "'puzzle'이 나온다고 퍼즐 풀이법(②)으로 착각하지 마세요.",
-    "tip": "제목은 실험 사례를 넘어 글 전체의 결론(잠이 문제 해결을 돕는다)을 담으세요."
+    "trap": "①은 도입부 배경만 본 함정입니다.",
+    "tip": "마지막 문장의 결과를 담은 제목을 고르세요."
   },
   {
     "id": "m3b-17-25",
     "level": "m3",
     "set": "mock-17",
+    "rev": 2,
     "no": 25,
     "type": "chart",
     "stem": "다음 도표의 내용과 일치하지 않는 것은?",
     "chart": {
-      "title": "Average Daily Time of Students by Activity (minutes)",
-      "unit": "min",
+      "title": "Main Source of News for Adults (%)",
+      "unit": "%",
       "labels": [
-        "Video",
-        "Games",
-        "Study",
-        "SNS",
-        "Reading"
+        "Television",
+        "News sites",
+        "Social media",
+        "Newspapers",
+        "Radio"
       ],
       "series": [
         {
-          "name": "Minutes",
+          "name": "2013",
           "values": [
-            50,
             40,
+            28,
+            10,
+            16,
+            6
+          ]
+        },
+        {
+          "name": "2023",
+          "values": [
+            24,
+            32,
             30,
-            60,
-            10
+            8,
+            6
           ]
         }
       ]
     },
-    "passage": "The graph shows the average daily time that students spend on each activity. ① Video has the longest time. ② Games is 10 minutes shorter than Video. ③ Study is three times as long as Reading. ④ SNS is twice as long as Study. ⑤ The total time of Study and Reading is 40 minutes.",
+    "passage": "The graph shows the main source of news for adults in one country in 2013 and 2023. ① Television was the most common main source in both years. ② The percentage for social media in 2023 was three times that of 2013. ③ The percentage for newspapers fell by half. ④ Radio had the same percentage in both years. ⑤ In 2023, news sites and social media together accounted for more than half.",
     "options": [
       "①",
       "②",
@@ -234,100 +252,103 @@
       "⑤"
     ],
     "answer": 0,
-    "translation": "그래프는 학생들이 활동별로 하루에 평균 얼마나 시간을 쓰는지 보여 준다. ① 영상 시청 시간이 가장 길다. ② 게임은 영상보다 10분 짧다. ③ 공부는 독서의 세 배이다. ④ SNS는 공부의 두 배이다. ⑤ 공부와 독서 시간의 합계는 40분이다.",
-    "why": "가장 긴 활동은 SNS(60분)이고 영상 시청은 50분이므로 ①은 일치하지 않습니다.",
+    "translation": "그래프는 2013년과 2023년 한 나라 성인의 주된 뉴스 출처를 보여 준다. ① 텔레비전은 두 해 모두 가장 흔한 주된 출처였다. ② 2023년 소셜 미디어의 비율은 2013년의 세 배였다. ③ 신문의 비율은 절반으로 줄었다. ④ 라디오는 두 해의 비율이 같았다. ⑤ 2023년에 뉴스 사이트와 소셜 미디어를 합치면 절반이 넘었다.",
+    "why": "2023년에는 뉴스 사이트(32%)가 텔레비전(24%)보다 많았으므로 ①은 일치하지 않습니다.",
     "optionNotes": [
-      "정답(불일치). 가장 긴 활동은 SNS입니다.",
-      "50 - 40 = 10분입니다.",
-      "30은 10의 세 배입니다.",
-      "60은 30의 두 배입니다.",
-      "30 + 10 = 40분입니다."
+      "정답(불일치). 2023년 1위는 뉴스 사이트입니다.",
+      "10%에서 30%로 세 배입니다.",
+      "16%에서 8%로 절반입니다.",
+      "두 해 모두 6%입니다.",
+      "32%와 30%를 합쳐 62%입니다."
     ],
-    "trap": "첫 번째 항목이 가장 길 것이라는 선입견을 버리고 모든 항목을 비교하세요.",
-    "tip": "그래프 문제는 '가장 ~한' 표현을 모든 항목과 비교해 확인하세요."
+    "trap": "2013년만 보면 ①이 맞는 것처럼 보입니다.",
+    "tip": "'in both years'는 두 해를 모두 확인하세요."
   },
   {
     "id": "m3b-17-26",
     "level": "m3",
     "set": "mock-17",
+    "rev": 2,
     "no": 26,
     "type": "match",
-    "stem": "Katherine Johnson에 관한 다음 글의 내용과 일치하는 것은?",
-    "passage": "Katherine Johnson was born in 1918 in West Virginia, in the United States. She showed an extraordinary talent for mathematics as a child, and she entered college at the age of fifteen. At that time, schools for Black students in her area stopped after the eighth grade, but her father moved the family so that she could continue her education. After working as a teacher, she joined NASA's predecessor in 1953 as a human computer, doing complex calculations by hand. In 1961, her calculations helped guide Alan Shepard, the first American in space. When the astronaut John Glenn prepared for his orbital flight in 1962, electronic computers had already been programmed with the flight path. Even so, he asked that Johnson personally check the numbers before he would go. In 2015, she received the Presidential Medal of Freedom. She died in 2020 at the age of 101.",
+    "stem": "Subrahmanyan Chandrasekhar에 관한 다음 글의 내용과 일치하는 것은?",
+    "passage": "Subrahmanyan Chandrasekhar was born in 1910 in Lahore and grew up mostly in Madras, now called Chennai. His uncle, C. V. Raman, was a famous physicist who won the Nobel Prize in 1930. That same year the young man set out for England to study at Cambridge. During the long sea voyage he worked on a question about dying stars and calculated that a certain kind of star, called a white dwarf, could not remain stable above a particular mass. Heavier ones would have to keep collapsing. When he presented his work in 1935, Arthur Eddington, one of the most respected astronomers of the day, publicly ridiculed it. Chandrasekhar moved to the United States in 1937 and taught at the University of Chicago for many years, working in one field after another. His limit came to be accepted, and in 1983, more than fifty years after the voyage, he shared the Nobel Prize in Physics. He died in 1995.",
     "options": [
-      "성인이 된 뒤에야 수학에 관심을 갖게 되었다.",
-      "학교가 일찍 끝나서 대학 진학을 포기했다.",
-      "컴퓨터가 없던 시절이어서 모든 계산을 다른 사람이 대신 해 주었다.",
-      "글렌은 그녀의 계산을 확인하지 않고 비행에 나섰다.",
-      "글렌은 비행 전에 그녀가 직접 계산을 확인해 주기를 요청했다."
+      "영국에서 태어나 인도에서 대학 공부를 마쳤다.",
+      "그의 삼촌은 노벨상을 받지 못한 무명의 학자였다.",
+      "에딩턴은 1935년 그의 연구를 적극적으로 지지했다.",
+      "1937년 이후 인도로 돌아가 평생을 보냈다.",
+      "1983년에 노벨 물리학상을 공동으로 받았다."
     ],
     "answer": 4,
-    "translation": "캐서린 존슨은 1918년 미국 웨스트버지니아에서 태어났다. 어릴 때부터 수학에 비범한 재능을 보였고 열다섯 살에 대학에 들어갔다. 당시 그 지역의 흑인 학생 학교는 8학년 뒤에 끝났지만 아버지가 그녀가 교육을 이어 갈 수 있도록 가족을 이사시켰다. 교사로 일한 뒤 그녀는 1953년 나사의 전신에 인간 컴퓨터로 입사해 복잡한 계산을 손으로 했다. 1961년 그녀의 계산은 미국인 최초의 우주인 앨런 셰퍼드를 안내하는 데 도움이 되었다. 우주인 존 글렌이 1962년 궤도 비행을 준비할 때 전자 컴퓨터에는 이미 비행 경로가 입력되어 있었다. 그래도 그는 출발 전에 존슨이 직접 숫자를 확인해 달라고 요청했다. 2015년 그녀는 대통령 자유 훈장을 받았다. 그녀는 2020년 101세로 세상을 떠났다.",
-    "why": "글렌이 출발 전에 존슨이 직접 숫자를 확인해 주기를 요청했다고 하므로 ⑤가 일치합니다.",
+    "translation": "수브라마니안 찬드라세카르는 1910년 라호르에서 태어나 주로 지금 첸나이로 불리는 마드라스에서 자랐다. 삼촌 C. V. 라만은 1930년 노벨상을 받은 유명한 물리학자였다. 같은 해 젊은 그는 케임브리지에서 공부하러 영국으로 떠났다. 긴 항해 중 죽어 가는 별에 관한 문제를 풀어, 백색 왜성이라는 어떤 별은 특정 질량 위에서는 안정을 유지할 수 없다고 계산했다. 더 무거운 것은 계속 붕괴해야 한다. 1935년 연구를 발표하자 당대 가장 존경받는 천문학자 중 하나인 아서 에딩턴이 공개적으로 조롱했다. 그는 1937년 미국으로 가 시카고 대학에서 여러 해 가르치며 분야를 옮겨 가며 연구했다. 그의 한계값은 받아들여졌고, 항해 후 50년이 넘은 1983년 노벨 물리학상을 공동 수상했다. 1995년 세상을 떠났다.",
+    "why": "1983년 노벨 물리학상을 공동 수상했으므로 ⑤가 일치합니다.",
     "optionNotes": [
-      "어릴 때부터 수학에 재능을 보였습니다.",
-      "아버지가 이사해 교육을 이어 갔고 열다섯 살에 대학에 들어갔습니다.",
-      "인간 컴퓨터로서 손으로 계산했습니다.",
-      "글렌은 그녀의 확인을 요청했습니다.",
-      "정답. 글렌이 비행 전에 그녀의 직접 확인을 요청했습니다."
+      "라호르에서 태어났고 케임브리지로 갔습니다.",
+      "삼촌은 1930년 노벨상 수상자입니다.",
+      "공개적으로 조롱했습니다.",
+      "미국에서 가르쳤습니다.",
+      "정답. 1983년 공동 수상했습니다."
     ],
-    "trap": "전자 컴퓨터가 이미 있었다는 점 때문에 사람의 확인이 필요 없었다고 오해하지 마세요.",
-    "tip": "일치 문제는 어린 시절·학업·업적·사건의 세부 내용을 보기와 하나씩 대조하세요."
+    "trap": "②는 삼촌에 관한 정보를 뒤집은 함정입니다.",
+    "tip": "연도별 사건을 선택지와 하나씩 대조하세요."
   },
   {
     "id": "m3b-17-27",
     "level": "m3",
     "set": "mock-17",
+    "rev": 2,
     "no": 27,
     "type": "notice",
-    "stem": "Youth Volunteer Program 안내문의 내용과 일치하는 것은?",
-    "passage": "Hanbit Youth Volunteer Program\nPlace: Hanbit Senior Center\nDates: Saturdays in November (Nov. 1, 8, 15, and 22), 9 a.m. - 12 p.m.\nWho can join: Students in Grades 8 and 9\nActivities: Reading to seniors, playing board games, and helping with lunch service\nBenefit: A volunteer hours certificate will be issued to every participant.\nLunch: Provided free of charge\nRegistration: By October 31 through your homeroom teacher",
+    "stem": "Winter Bird Count 안내문의 내용과 일치하는 것은?",
+    "passage": "Winter Bird Count\nJoin neighbors in recording the birds that spend winter along our river.\nDate: Sunday, January 11, 8:00 - 11:00 a.m.\nMeet: Footbridge at the east entrance of Riverside Park\nWho: Anyone aged 12 or older; no experience needed\nHow it works: Groups of six, each led by a trained guide, walk a two-kilometer route and note every bird seen or heard.\nEquipment: A limited number of binoculars can be borrowed; request one when you sign up.\nFee: Free. Hot tea is offered afterward; please bring your own cup.\nSign-up: By January 5 on the park website\nWeather: In heavy snow the count moves to the following Sunday.\nPlease note: Dogs may not join the walk.",
     "options": [
-      "활동은 평일 저녁에 진행된다.",
-      "참가자에게는 봉사 시간 인증서가 발급된다.",
-      "7학년 학생도 참가할 수 있다.",
-      "점심은 제공되지 않으므로 각자 도시락을 가져와야 한다.",
-      "신청은 활동 당일 센터 현장에서 받는다."
+      "행사는 토요일 오후에 진행된다.",
+      "참가자는 안내자가 이끄는 여섯 명 모둠으로 걷는다.",
+      "쌍안경은 신청하지 않아도 모든 참가자에게 자동으로 나눠 준다.",
+      "차를 마실 컵은 주최 측에서 제공한다.",
+      "눈이 많이 오면 행사는 완전히 취소된다."
     ],
     "answer": 1,
-    "translation": "한빛 청소년 봉사 프로그램. 장소: 한빛 노인 복지관. 일시: 11월 매주 토요일(11월 1, 8, 15, 22일) 오전 9시~낮 12시. 참가 대상: 8~9학년 학생. 활동: 어르신께 책 읽어 드리기, 보드게임 하기, 점심 배식 돕기. 혜택: 모든 참가자에게 봉사 시간 인증서가 발급됩니다. 점심: 무료 제공. 신청: 10월 31일까지 담임 교사를 통해.",
-    "why": "'A volunteer hours certificate will be issued to every participant'와 일치합니다.",
+    "translation": "겨울 철새 조사. 강가에서 겨울을 나는 새를 이웃과 함께 기록해 보세요. 날짜: 1월 11일 일 오전 8~11시. 집합: 강변 공원 동쪽 입구 보행교. 대상: 12세 이상 누구나, 경험 불필요. 방식: 훈련받은 안내자가 이끄는 6명 모둠이 2km를 걸으며 보거나 들은 모든 새를 기록. 장비: 쌍안경 한정 대여, 신청 때 요청. 참가비: 무료, 끝나고 따뜻한 차 제공, 개인 컵 지참. 신청: 1월 5일까지 공원 누리집. 날씨: 폭설이면 다음 일요일로 연기. 유의: 반려견 동반 불가.",
+    "why": "'Groups of six, each led by a trained guide'와 일치합니다.",
     "optionNotes": [
-      "토요일 오전에 진행됩니다.",
-      "정답. 봉사 시간 인증서가 발급됩니다.",
-      "8~9학년만 참가할 수 있습니다.",
-      "점심은 무료로 제공됩니다.",
-      "10월 31일까지 담임 교사를 통해 신청합니다."
+      "일요일 오전입니다.",
+      "정답. 6명 모둠과 안내자입니다.",
+      "한정 수량이며 요청해야 합니다.",
+      "컵은 직접 가져와야 합니다.",
+      "다음 일요일로 옮깁니다."
     ],
-    "trap": "신청 마감(10월 31일)과 활동 날짜(11월 토요일)를 혼동하지 마세요.",
-    "tip": "안내문의 Dates, Who, Benefit, Lunch, Registration 항목을 하나씩 대조하세요."
+    "trap": "③은 'limited number'와 'request'를 놓친 함정입니다.",
+    "tip": "안내문의 Date, How, Equipment, Fee, Weather 항목을 대조하세요."
   },
   {
     "id": "m3b-17-28",
     "level": "m3",
     "set": "mock-17",
+    "rev": 2,
     "no": 28,
     "type": "notice",
-    "stem": "City Bike-Sharing Service 안내문의 내용과 일치하는 것은?",
-    "passage": "Hanbit City Bike-Sharing Service\nHours: 6 a.m. - 10 p.m. every day\nHow to rent: Scan the QR code on the bike with the Hanbit Bike app.\nFee: The first 30 minutes are free. After that, $1 is charged for every 15 minutes.\nSafety: Helmets are available free of charge at every station. Users under 14 must be accompanied by an adult.\nReturn: Bikes can be returned to any station in the city.",
+    "stem": "Student Film Contest 안내문의 내용과 일치하는 것은?",
+    "passage": "Student Film Contest: \"One Day in Our Town\"\nWho: Middle and high school students, alone or in teams of up to five\nFilm length: No longer than three minutes, including titles\nEquipment: Any device, including a smartphone\nRules:\n- All footage must be shot within the city.\n- Music must be your own or free for public use.\n- Anyone whose face can be clearly seen must agree to appear.\nSubmit: Upload to the contest page between May 1 and May 31. One entry per person or team.\nAwards: Announced on June 20. Winning films will be shown at the city library in July.\nNote: Films that have already won a prize elsewhere cannot be entered.",
     "options": [
-      "서비스는 하루 24시간 운영된다.",
-      "30분이 지나면 15분마다 1달러의 요금이 부과된다.",
-      "14세 미만은 혼자서도 자유롭게 이용할 수 있다.",
-      "헬멧은 이용자가 직접 가져와야 한다.",
-      "반납은 처음 빌린 정거장에서만 가능하다."
+      "작품 길이는 제목을 빼고 3분까지이다.",
+      "얼굴이 뚜렷이 나오는 사람에게는 출연 동의를 받아야 한다.",
+      "스마트폰으로 촬영한 작품은 낼 수 없다.",
+      "한 팀이 여러 작품을 낼 수 있다.",
+      "수상작은 6월에 시청에서 상영된다."
     ],
     "answer": 1,
-    "translation": "한빛시 공공 자전거 서비스. 운영 시간: 매일 오전 6시~오후 10시. 대여 방법: 한빛 자전거 앱으로 자전거의 QR 코드를 스캔하세요. 요금: 처음 30분은 무료입니다. 그 후에는 15분마다 1달러가 부과됩니다. 안전: 모든 정거장에서 헬멧을 무료로 빌릴 수 있습니다. 14세 미만은 어른과 함께해야 합니다. 반납: 자전거는 시내 어느 정거장에서든 반납할 수 있습니다.",
-    "why": "처음 30분은 무료이고 그 후 15분마다 1달러가 부과되므로 ②가 일치합니다.",
+    "translation": "학생 영상 공모전 \"우리 마을의 하루\". 대상: 중고생, 개인 또는 5명 이하 팀. 길이: 제목 포함 3분 이내. 장비: 스마트폰 포함 어떤 기기든. 규칙: 모든 촬영은 시내에서, 음악은 자작 또는 자유 이용 음악, 얼굴이 뚜렷이 보이는 사람은 출연에 동의해야 함. 제출: 5월 1~31일 공모 페이지에 올리기, 개인·팀당 한 편. 발표: 6월 20일, 수상작은 7월 시립 도서관 상영. 유의: 다른 곳에서 이미 상을 받은 작품은 불가.",
+    "why": "'Anyone whose face can be clearly seen must agree to appear'와 일치합니다.",
     "optionNotes": [
-      "오전 6시부터 오후 10시까지 운영됩니다.",
-      "정답. 30분 이후 15분마다 1달러가 부과됩니다.",
-      "14세 미만은 어른과 함께해야 합니다.",
-      "헬멧은 정거장에서 무료로 빌릴 수 있습니다.",
-      "어느 정거장에서든 반납할 수 있습니다."
+      "제목을 포함해 3분입니다.",
+      "정답. 출연 동의가 필요합니다.",
+      "스마트폰도 됩니다.",
+      "팀당 한 편입니다.",
+      "7월에 시립 도서관에서 상영합니다."
     ],
-    "trap": "무료 시간(30분)과 요금 단위(15분)를 혼동하지 마세요.",
-    "tip": "안내문의 Hours, Fee, Safety, Return 항목을 하나씩 대조하세요."
+    "trap": "①은 'including'을 '빼고'로 바꾼 함정입니다.",
+    "tip": "안내문의 Film length, Rules, Submit, Awards 항목을 대조하세요."
   }
 ]
