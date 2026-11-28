@@ -239,7 +239,7 @@
     "no": 37,
     "type": "order",
     "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
-    "passage": "In 1826, a young French doctor in a small town noticed that some of his patients could not say what they wanted, although they understood him.\n(A) One of them, a man who had been known as a lively talker, could now produce only a single syllable, \"tan,\" no matter what he was asked. The doctor who later studied him, Paul Broca, listened carefully and wrote down everything that the patient could still do over the course of many visits.\n(B) The finding suggested that different abilities depend on different parts of the brain. It opened a new field of study, and scientists today still use the name \"Broca's area\" for the region that is important for producing speech, in memory of his careful work.\n(C) After the man died in 1861, Broca examined his brain and found damage in a small area on the left side, near the front. He then collected similar cases and found the same damage again and again.",
+    "passage": "In April 1861, a French doctor named Paul Broca was asked to examine a patient who understood what people said but could hardly speak.\n(A) The man had lived in a hospital near Paris for about twenty years and could produce only a single syllable, \"tan,\" no matter what he was asked. Broca listened carefully and wrote down what the patient could still do, such as using his fingers to answer questions about numbers.\n(B) The finding suggested that different abilities depend on different parts of the brain. It opened a new field of study, and scientists today still use the name \"Broca's area\" for the region that is important for producing speech, in memory of his careful work.\n(C) When the man died only a few days later, Broca examined his brain and found damage in a small area on the left side, near the front. He then collected similar cases and found the same kind of damage again and again.",
     "options": [
       "(A)-(C)-(B)",
       "(B)-(A)-(C)",
@@ -248,8 +248,8 @@
       "(C)-(B)-(A)"
     ],
     "answer": 0,
-    "translation": "1826년 작은 마을의 젊은 프랑스 의사는 일부 환자가 그의 말은 알아듣지만 원하는 것을 말하지 못한다는 것을 알아챘다. (A) 그중 한 명, 말 잘하기로 알려졌던 남자는 이제 무엇을 물어도 '탄'이라는 한 음절만 낼 수 있었다. 나중에 그를 연구한 의사 폴 브로카는 주의 깊게 듣고 환자가 아직 할 수 있는 모든 것을 기록했다. 그는 여러 번 방문하며 그렇게 했다. (C) 그 남자가 1861년에 죽은 뒤 브로카는 그의 뇌를 조사해 왼쪽 앞부분 근처의 작은 영역이 손상되었음을 발견했다. 그 뒤 비슷한 사례를 모아 같은 손상을 거듭 발견했다. (B) 이 발견은 서로 다른 능력이 뇌의 서로 다른 부분에 의존함을 시사했다. 이는 새 연구 분야를 열었고 과학자들은 오늘날에도 말을 만드는 데 중요한 영역을 '브로카 영역'이라 부른다. 그의 꼼꼼한 연구를 기리는 것이다.",
-    "why": "(A) 환자의 증상과 연구 → (C) 사망 후 뇌 조사와 추가 사례 → (B) 발견의 의미 순서입니다.",
+    "translation": "1861년 4월, 폴 브로카라는 프랑스 의사는 사람들의 말은 알아듣지만 거의 말을 하지 못하는 환자를 진찰해 달라는 요청을 받았다. (A) 그 남자는 약 20년 동안 파리 근처의 병원에서 지냈고 무엇을 물어도 \"탄\"이라는 한 음절만 낼 수 있었다. 브로카는 주의 깊게 듣고, 수에 관한 물음에 손가락으로 답하는 것처럼 환자가 아직 할 수 있는 일을 기록했다. (C) 며칠 뒤 그 남자가 죽자 브로카는 뇌를 조사해 왼쪽 앞부분 근처의 작은 영역이 손상된 것을 발견했다. 그 뒤 비슷한 사례를 모아 같은 종류의 손상을 거듭 발견했다. (B) 이 발견은 서로 다른 능력이 뇌의 서로 다른 부분에 달려 있음을 시사했다. 새 연구 분야가 열렸고, 과학자들은 지금도 말을 만드는 데 중요한 영역을 그의 꼼꼼한 연구를 기려 \"브로카 영역\"이라 부른다.",
+    "why": "(A) 환자의 상태와 관찰 → (C) 환자가 죽은 뒤 뇌 조사 → (B) 발견의 의미 순서입니다.",
     "optionNotes": [
       "정답. 증상 → 뇌 조사 → 의미입니다.",
       "(B)의 'The finding'은 (C)의 발견 뒤여야 합니다.",
