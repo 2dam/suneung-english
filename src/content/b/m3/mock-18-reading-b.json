@@ -3,10 +3,11 @@
     "id": "m3b-18-29",
     "level": "m3",
     "set": "mock-18",
+    "rev": 2,
     "no": 29,
     "type": "grammar",
     "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
-    "passage": "The Olympic Games, which {1|began} in ancient Greece more than 2,700 years ago, were held in Olympia every four years to honor the god Zeus. Only free Greek men were allowed to compete, and the athletes {2|competed} in events such as running, wrestling, and chariot racing. The winners received a wreath made of olive branches, not gold medals. During the games, all wars were stopped so that the athletes and spectators could travel safely. After more than a thousand years, the Games were banned by a Roman emperor in the fourth century. It was not until 1896 that a French educator named Pierre de Coubertin {3|revived} them in Athens. Since then, the modern Olympics {4|has been held} every four years, with a few exceptions caused by wars and a pandemic. Today, athletes from more than two hundred countries {5|take} part.",
+    "passage": "A pencil is so cheap that we rarely wonder how it is made or why it works. The dark core is not lead at all but a mixture of graphite and clay. Graphite is a form of carbon {1|whose} atoms are arranged in flat sheets that slide easily over one another, leaving a trail on paper. When a rich deposit of unusually pure graphite was found in England in the sixteenth century, people took the material {2|to be} a kind of lead, and the name stayed. Later, a method of grinding graphite, mixing it with clay, and {3|baking} the mixture in an oven was developed. By changing the proportion of clay, makers could control how hard the core was, an idea {4|what} is still used today. The wooden case is made from two grooved halves glued around the core. So simple does the finished object look that few users suspect how many steps {5|are involved} in producing it.",
     "options": [
       "①",
       "②",
@@ -15,26 +16,27 @@
       "⑤"
     ],
     "answer": 3,
-    "translation": "2,700년도 더 전에 고대 그리스에서 시작된 올림픽 경기는 제우스 신을 기리려고 올림피아에서 사 년마다 열렸다. 자유로운 그리스 남성만 경기에 나갈 수 있었고 선수들은 달리기, 레슬링, 전차 경주 같은 종목에서 겨뤘다. 우승자는 금메달이 아니라 올리브 가지로 만든 화관을 받았다. 경기 중에는 선수와 관중이 안전하게 이동할 수 있도록 모든 전쟁이 멈췄다. 천 년이 넘은 뒤 4세기에 한 로마 황제가 경기를 금지했다. 1896년이 되어서야 피에르 드 쿠베르탱이라는 프랑스 교육자가 아테네에서 경기를 부활시켰다. 그 뒤 근대 올림픽은 전쟁과 팬데믹으로 인한 몇 번의 예외를 빼고 사 년마다 열려 왔다. 오늘날에는 이백 개가 넘는 나라의 선수들이 참가한다.",
-    "why": "주어 the modern Olympics는 복수이므로 has been held가 아니라 have been held여야 합니다.",
+    "translation": "연필은 너무 싸서 어떻게 만들고 왜 써지는지 좀처럼 궁금해하지 않는다. 검은 심은 납이 전혀 아니라 흑연과 점토의 혼합물이다. 흑연은 원자가 평평한 층으로 배열되어 서로 쉽게 미끄러지며 종이에 자국을 남기는 탄소의 한 형태이다. 16세기 영국에서 유난히 순수한 흑연의 풍부한 매장지가 발견되었을 때 사람들은 그 물질을 일종의 납으로 여겼고 이름이 남았다. 나중에 흑연을 갈아 점토와 섞고 오븐에서 굽는 방법이 개발되었다. 점토 비율을 바꿔 심의 단단함을 조절할 수 있었는데 이 생각은 지금도 쓰인다. 나무 몸통은 홈을 판 두 쪽을 심 둘레에 붙여 만든다. 완성품이 너무 단순해 보여 생산에 얼마나 많은 단계가 드는지 의심하는 사용자는 거의 없다.",
+    "why": "선행사 an idea를 꾸미는 절에서 주어 역할을 하므로 ④ what은 that 또는 which여야 합니다.",
     "optionNotes": [
-      "선행사를 꾸미는 관계절의 과거 동사입니다.",
-      "주어 the athletes에 맞는 과거 동사입니다.",
-      "it was not until ~ that 구문의 과거 동사입니다.",
-      "정답(틀린 것). 복수 주어 the modern Olympics에 맞춰 have been held여야 합니다.",
-      "복수 주어 athletes에 맞는 동사원형입니다."
+      "atoms를 꾸미는 소유격 관계대명사 whose는 맞습니다.",
+      "take A to be B 구문의 to be는 맞습니다.",
+      "grinding, mixing과 병렬인 baking은 맞습니다.",
+      "정답(틀림). 선행사가 있으므로 that이어야 합니다.",
+      "how many steps를 주어로 하는 수동태 are involved는 맞습니다."
     ],
-    "trap": "Olympics가 -s로 끝나지만 스포츠 이름처럼 단수로 착각하기 쉽습니다.",
-    "tip": "주어의 수(the modern Olympics → 복수)를 먼저 확인하고 동사를 일치시키세요."
+    "trap": "③은 of 뒤에 세 동명사가 병렬된 구조입니다.",
+    "tip": "what 앞에 선행사가 있는지 확인하세요."
   },
   {
     "id": "m3b-18-30",
     "level": "m3",
     "set": "mock-18",
+    "rev": 2,
     "no": 30,
     "type": "vocab",
     "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
-    "passage": "The Dead Sea, which lies between Israel and Jordan, is famous for its extremely salty water. It is about ten times saltier than ordinary seawater, so no fish can {1|survive} there. This is why it is called the Dead Sea. The high salt content also makes the water very {2|thin}, so people float on its surface with no effort. Visitors often read newspapers while floating. The mud on the shore is rich in minerals, and many people cover their bodies with it because they believe it is {3|beneficial} for the skin. However, the Dead Sea is {4|shrinking} quickly, losing about one meter in depth each year. The river that feeds it is being used for farming and drinking water, and little reaches the sea. Experts warn that, unless action is taken, this natural wonder may {5|disappear}.",
+    "passage": "On a summer afternoon the difference between a street with large trees and one without them can be felt at once. Trees cool a city in two ways. Their leaves {1|block} sunlight before it reaches pavements and walls, which would otherwise soak up heat and release it long into the night. They also draw water from the soil and let it evaporate from their leaves, a process that {2|adds} heat from the surrounding air. The benefits are not shared equally. In many cities, wealthier districts have {3|more} trees than poorer ones, where residents are also less likely to own air conditioners. Planting more is an obvious answer, but a young tree offers little shade for years and may die in its first dry summer without regular {4|care}. Roots also need room. A sapling squeezed into a tiny square of soil surrounded by concrete is unlikely to {5|thrive}. A city that wants shade tomorrow has to think about soil, water, and maintenance today.",
     "options": [
       "①",
       "②",
@@ -43,138 +45,143 @@
       "⑤"
     ],
     "answer": 1,
-    "translation": "이스라엘과 요르단 사이에 있는 사해는 매우 짠 물로 유명하다. 사해는 보통 바닷물보다 약 열 배 짜서 어떤 물고기도 그곳에서 살아남을 수 없다. 그래서 사해라고 불린다. 높은 염분은 물을 매우 묽게 만들기도 해서 사람들은 힘들이지 않고 수면 위에 뜬다. 방문객은 흔히 떠 있으면서 신문을 읽는다. 해안의 진흙은 광물이 풍부하고 많은 사람이 피부에 이롭다고 믿어서 몸에 바른다. 그러나 사해는 해마다 깊이가 약 1미터씩 줄며 빠르게 줄어들고 있다. 사해로 흘러드는 강이 농업과 식수로 쓰여 바다에 닿는 물이 거의 없다. 전문가들은 조치가 취해지지 않으면 이 자연의 경이로움이 사라질 수 있다고 경고한다.",
-    "why": "염분이 높아 사람이 쉽게 뜨려면 물이 '묽은(thin)' 것이 아니라 '밀도가 높은(dense)' 것이어야 합니다.",
+    "translation": "여름 오후에 큰 나무가 있는 거리와 없는 거리의 차이는 바로 느낄 수 있다. 나무는 두 가지로 도시를 식힌다. 잎은 햇빛이 보도와 벽에 닿기 전에 막는데, 그러지 않으면 그것들은 열을 흡수해 밤늦도록 내놓는다. 또 흙에서 물을 끌어올려 잎에서 증발시키는데, 이는 주변 공기에서 열을 더하는 과정이다. 혜택은 고르게 나뉘지 않는다. 많은 도시에서 부유한 구역은 가난한 구역보다 나무가 많고, 후자의 주민은 에어컨을 가질 가능성도 낮다. 더 심는 것이 뻔한 답이지만 어린 나무는 여러 해 그늘을 거의 주지 못하고 정기적 돌봄 없이는 첫 가문 여름에 죽을 수 있다. 뿌리도 공간이 필요하다. 콘크리트에 둘러싸인 아주 작은 흙 칸에 끼워 넣은 묘목은 잘 자라기 어렵다. 내일 그늘을 원하는 도시는 오늘 흙, 물, 관리를 생각해야 한다.",
+    "why": "증발은 주변 공기의 열을 빼앗아 식히므로 ② adds는 takes(removes)여야 합니다.",
     "optionNotes": [
-      "물고기가 살아남지 못한다는 의미로 survive가 알맞습니다.",
-      "정답(부적절). 쉽게 뜨려면 물이 밀도가 높아야 하므로 dense여야 합니다.",
-      "피부에 이롭다는 의미로 beneficial이 알맞습니다.",
-      "빠르게 줄어든다는 의미로 shrinking이 알맞습니다.",
-      "사라질 수 있다는 의미로 disappear가 알맞습니다."
+      "햇빛을 '막는다'는 block입니다.",
+      "정답(부적절). 증발은 열을 빼앗습니다(takes).",
+      "부유한 구역에 나무가 '더 많다'는 more입니다.",
+      "정기적 '돌봄'이 필요하다는 care입니다.",
+      "잘 '자라기' 어렵다는 thrive입니다."
     ],
-    "trap": "'float with no effort'라는 결과와 물의 성질이 호응하는지 놓치기 쉽습니다.",
-    "tip": "결과(쉽게 뜸)와 원인(물의 성질)이 논리적으로 이어지는지 확인하세요."
+    "trap": "'cool a city'라는 첫 문장과의 관계를 놓치지 마세요.",
+    "tip": "식히는 방법이라면 열이 늘어야 할지 줄어야 할지 생각하세요."
   },
   {
     "id": "m3b-18-31",
     "level": "m3",
     "set": "mock-18",
+    "rev": 2,
     "no": 31,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "In a famous study, psychologists gave students tests of logic and grammar and then asked them to guess their own scores. Students who scored in the lowest quarter believed that they had performed better than most of their classmates, although their actual scores were far below average. Meanwhile, the highest-scoring students tended to underestimate their ranking slightly. The researchers explained that the skills needed to perform well are the same skills needed to recognize one's mistakes. Someone who does not know the rules of grammar cannot tell that a sentence is wrong. This explains why beginners are sometimes overconfident. As people learn more, they begin to see the complexity of a subject, and their confidence becomes more realistic. In short, people with little knowledge in a field may __________.",
+    "passage": "In a famous set of experiments in the late 1960s, a student sat alone in a room filling out a form when smoke began to drift in through a vent. Most of those who were alone got up and reported it within a few minutes. The room was clearly not normal, and they treated it that way. When the student was seated with two others who had been told to ignore the smoke, very few reported it, even as the room grew hazy. Some coughed and waved the smoke away from their papers. Similar results appeared when participants believed that someone in another room needed help: the more people they thought had heard, the slower they were to act. This does not mean that people in groups are heartless. Each one looks at the others to judge whether the situation is serious, while the others are doing exactly the same. And each can suppose that someone better placed will deal with it. In short, when many people witness a problem, __________.",
     "options": [
-      "avoid tests because they know they will fail",
-      "learn the basics of the subject faster than experienced experts in the same field",
-      "give up studying the subject as soon as possible",
-      "overestimate their ability because they cannot see their own mistakes",
-      "ask more questions than the other students"
+      "each of them becomes far more eager than usual to be treated as a hero",
+      "the problem is usually less serious than it first appears",
+      "someone with special training is always found among them",
+      "each may feel less personally responsible for doing something",
+      "they quickly agree on who should be the first one to act"
     ],
     "answer": 3,
-    "translation": "한 유명한 연구에서 심리학자들은 학생들에게 논리와 문법 시험을 치르게 하고 자신의 점수를 짐작하게 했다. 점수가 하위 사분위에 속한 학생들은 실제 점수가 평균을 한참 밑도는데도 자신이 대부분의 반 친구보다 잘했다고 믿었다. 한편 점수가 가장 높은 학생들은 자신의 순위를 약간 낮게 평가하는 경향이 있었다. 연구자들은 잘 수행하는 데 필요한 기술이 자신의 실수를 알아보는 데 필요한 기술과 같다고 설명했다. 문법 규칙을 모르는 사람은 문장이 틀렸다는 것을 알 수 없다. 이는 초보자가 때로 지나치게 자신만만한 이유를 설명한다. 사람들은 더 배우면서 주제의 복잡함을 보기 시작하고 자신감이 더 현실적이 된다. 요컨대 어떤 분야에 지식이 적은 사람은 자신의 실수를 보지 못해서 자신의 능력을 과대평가할 수 있다.",
-    "why": "하위 점수 학생들이 자신의 실수를 알아보지 못해 능력을 과대평가했으므로 지식이 적은 사람은 자신의 실수를 보지 못해 능력을 과대평가할 수 있습니다.",
+    "translation": "1960년대 후반의 유명한 일련의 실험에서 한 학생이 방에 혼자 앉아 서류를 작성할 때 환기구로 연기가 들어오기 시작했다. 혼자였던 사람 대부분은 몇 분 안에 일어나 알렸다. 방은 분명 정상이 아니었고 그들은 그렇게 대했다. 연기를 무시하라고 지시받은 두 사람과 함께 앉았을 때는 방이 뿌예져도 알린 사람이 거의 없었다. 어떤 이는 기침하며 서류에서 연기를 손으로 쫓았다. 다른 방의 누군가가 도움이 필요하다고 믿은 때도 비슷한 결과가 나왔다. 들은 사람이 많다고 생각할수록 행동이 느렸다. 집단 속 사람이 무정하다는 뜻은 아니다. 각자 상황이 심각한지 판단하려 남을 보는데 남도 똑같이 한다. 그리고 각자 더 나은 위치의 누군가가 처리하리라 여길 수 있다. 요컨대 많은 사람이 문제를 목격하면 각자는 무언가 해야 한다는 개인적 책임을 덜 느낄 수 있다.",
+    "why": "들은 사람이 많을수록 행동이 느렸으므로 ④가 알맞습니다.",
     "optionNotes": [
-      "시험을 피한다는 내용은 나오지 않습니다.",
-      "전문가보다 빨리 배운다는 내용은 나오지 않습니다.",
-      "공부를 포기한다는 내용은 나오지 않습니다.",
-      "정답. 실수를 보지 못해 능력을 과대평가합니다.",
-      "질문을 더 많이 한다는 내용은 나오지 않습니다."
+      "더 적극적이 되지 않았습니다.",
+      "문제의 심각성과는 무관합니다.",
+      "전문가가 있다는 내용은 없습니다.",
+      "정답. 개인적 책임감이 줄 수 있습니다.",
+      "합의하지 못했습니다."
     ],
-    "trap": "점수가 높은 학생들의 과소평가를 일반화하여 반대로 읽지 마세요.",
-    "tip": "연구 결과(하위 학생의 과대평가)와 이유 설명(같은 기술)에서 결론을 추론하세요."
+    "trap": "②는 남이 가만히 있어서 생기는 착각을 사실로 본 것입니다.",
+    "tip": "'someone better placed will deal with it'을 바꿔 말한 것을 고르세요."
   },
   {
     "id": "m3b-18-32",
     "level": "m3",
     "set": "mock-18",
+    "rev": 2,
     "no": 32,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Our modern lives demand constant attention: we answer messages, watch screens, and make dozens of small decisions every day. This directed attention is like a muscle that becomes tired with use. Researchers have found that spending time in nature can help it recover. This idea is called attention restoration theory. In one experiment, participants walked for fifty minutes either in a quiet park or along a busy street. Afterward, those who had walked in the park scored about twenty percent higher on a memory test. A similar result appeared when people looked at photographs of nature instead of city streets. Natural scenes, such as trees and flowing water, attract our attention gently without demanding effort. Doctors now sometimes recommend regular walks in green spaces to patients with high stress. In this way, they __________.",
+    "passage": "Twenty minutes into a dull film, you consider walking out. Then you remember what the ticket cost, and you stay for another hundred minutes. You are bored and a little annoyed the whole time. The money is gone whether you stay or leave; remaining in your seat will not bring any of it back. Economists call such spending a sunk cost. The only real question is how you would rather spend the rest of the evening. Yet the payment keeps whispering that leaving would waste it. The same voice speaks in larger matters. A company may continue pouring funds into a failing project because so much has been invested already, and a person may keep up a hobby long after the pleasure has gone because of the expensive equipment in the closet. Past effort can teach us something about what lies ahead, and finishing what one starts is often wise. The trap lies elsewhere. It is that we may __________.",
     "options": [
-      "make us more nervous about our schedules",
-      "help us finish our work faster than before",
-      "give our tired brain a chance to rest and recover",
-      "teach us the names of different kinds of trees",
-      "protect us completely from the loud noise of the busy city streets"
+      "forget how much money we paid for something in the first place",
+      "judge every new project to be certain to fail before it begins",
+      "let what has already been spent decide what we should do next",
+      "give up valuable activities as soon as they become difficult",
+      "think only about the future and ignore what we learned before"
     ],
     "answer": 2,
-    "translation": "현대의 삶은 끊임없는 주의를 요구한다. 우리는 메시지에 답하고 화면을 보며 매일 수십 가지의 작은 결정을 내린다. 이렇게 집중하는 주의는 쓸수록 피곤해지는 근육과 같다. 연구자들은 자연에서 시간을 보내는 것이 그것의 회복을 도울 수 있다는 것을 발견했다. 이 생각은 주의 회복 이론이라고 불린다. 한 실험에서 참가자들은 조용한 공원이나 번잡한 거리를 따라 오십 분 걸었다. 그 뒤 공원에서 걸은 사람들은 기억력 시험에서 약 20퍼센트 더 높은 점수를 받았다. 도시 거리 대신 자연 사진을 본 사람들에게서도 비슷한 결과가 나타났다. 나무나 흐르는 물 같은 자연 풍경은 노력을 요구하지 않고 우리의 주의를 부드럽게 끈다. 의사들은 이제 스트레스가 높은 환자에게 녹지에서 규칙적으로 걷기를 권하기도 한다. 이렇게 해서 그것들은 피곤한 뇌가 쉬고 회복할 기회를 준다.",
-    "why": "자연 풍경은 노력 없이 주의를 부드럽게 끌어 지친 주의가 회복되게 하므로 피곤한 뇌에 쉬고 회복할 기회를 줍니다.",
+    "translation": "지루한 영화가 시작한 지 20분, 나갈까 생각한다. 그러다 표값을 떠올리고 100분을 더 앉아 있는다. 내내 지루하고 약간 짜증이 난다. 있든 나가든 돈은 이미 사라졌고 자리에 남는다고 조금도 돌아오지 않는다. 경제학자는 이런 지출을 매몰 비용이라 부른다. 진짜 질문은 남은 저녁을 어떻게 보내고 싶은가뿐이다. 그러나 지불한 돈은 나가면 낭비라고 계속 속삭인다. 같은 목소리가 더 큰 일에서도 말한다. 회사는 이미 너무 많이 투자했다는 이유로 실패하는 사업에 자금을 계속 쏟고, 사람은 벽장의 비싼 장비 때문에 즐거움이 사라진 지 오래인 취미를 이어 갈 수 있다. 지난 노력은 앞에 놓인 것에 대해 무언가 가르칠 수 있고 시작한 것을 끝내는 것은 흔히 현명하다. 함정은 다른 데 있다. 이미 쓴 것이 다음에 할 일을 정하게 할 수 있다는 것이다.",
+    "why": "이미 쓴 비용 때문에 계속하는 것이 문제이므로 ③이 알맞습니다.",
     "optionNotes": [
-      "긴장을 더한다는 내용은 글과 반대입니다.",
-      "일을 더 빨리 끝낸다는 내용은 나오지 않습니다.",
-      "정답. 피곤한 뇌가 쉬고 회복할 기회를 줍니다.",
-      "나무 이름은 나오지 않습니다.",
-      "소음 차단은 나오지 않습니다."
+      "돈을 너무 기억하는 것이 문제입니다.",
+      "실패를 미리 단정하는 이야기가 아닙니다.",
+      "정답. 이미 쓴 것이 다음 행동을 정합니다.",
+      "어렵다고 포기하는 것이 아닙니다.",
+      "과거에 얽매이는 것이 문제입니다."
     ],
-    "trap": "공원에서 걸은 집단의 기억력 향상을 업무 속도(②)와 혼동하지 마세요.",
-    "tip": "실험 결과(공원에서 걸은 뒤 기억력 향상)와 원인 설명에서 결론을 추론하세요."
+    "trap": "⑤는 함정의 방향을 반대로 말한 것입니다.",
+    "tip": "영화, 회사, 취미 예의 공통점을 찾으세요."
   },
   {
     "id": "m3b-18-33",
     "level": "m3",
     "set": "mock-18",
+    "rev": 2,
     "no": 33,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "When we are stressed, we often talk to ourselves in the first person: \"Why am I so nervous?\" Psychologists have found that a small change can help: speaking to ourselves as if we were someone else. In one experiment, participants were asked to prepare a speech under pressure. Some used I when thinking about the task, while others used their own names or you. Those who used their own names felt less anxious and performed better. The effect was seen in several different tasks. The researchers explained that using one's own name creates psychological distance. We see our own problems from the outside, as we would see a friend's, and we can give ourselves calmer advice. Thus, talking to ourselves as a third person can help us __________.",
+    "passage": "People often turn to a dictionary to settle an argument, as if it were a book of laws handed down from above. If a word is missing from it, someone is sure to say that the word does not exist. Those who make dictionaries see their work rather differently. They collect enormous amounts of writing and speech and examine how words are actually being used. A word earns its place by appearing again and again, in many places, over a period of time. When enough people use \"mouse\" for a device beside a computer, the new meaning goes in. When a word that once meant \"foolish\" has long since come to mean \"pleasant,\" as happened to the English word \"nice,\" the entry reflects the change. Entries are added every year, and some meanings are marked as old. Editors do note that some uses are informal or that many readers object to them, and such guidance is valuable for anyone choosing words with care. But they have no power to hold a language still. A dictionary, then, is better understood as __________.",
     "options": [
-      "forget the things that we are afraid of",
-      "gain distance from our worries and think more calmly",
-      "become more nervous before important events",
-      "speak much louder than the other people in a large group",
-      "avoid speaking in front of other people"
+      "a set of rules that speakers are forbidden to break",
+      "a record of how people are using words, updated as usage shifts",
+      "a list of words that will never change their meanings",
+      "a collection of the personal opinions of a single famous writer",
+      "a guide that decides which languages are superior to others"
     ],
     "answer": 1,
-    "translation": "스트레스를 받으면 우리는 흔히 일인칭으로 혼잣말을 한다. \"나는 왜 이렇게 긴장되지?\" 심리학자들은 작은 변화가 도움이 될 수 있음을 발견했다. 마치 다른 사람인 것처럼 자신에게 말하는 것이다. 한 실험에서 참가자들은 압박 속에서 연설을 준비하게 되었다. 일부는 과제를 생각할 때 '나'를 썼고 다른 일부는 자기 이름이나 '너'를 썼다. 자기 이름을 쓴 사람들은 덜 불안했고 더 잘 해냈다. 이 효과는 여러 다른 과제에서 나타났다. 연구자들은 자기 이름을 쓰는 것이 심리적 거리를 만든다고 설명했다. 우리는 친구의 문제를 보듯 자신의 문제를 바깥에서 보고 자신에게 더 침착한 조언을 줄 수 있다. 따라서 삼인칭으로 자신에게 말하는 것은 걱정과 거리를 두고 더 침착하게 생각하도록 도울 수 있다.",
-    "why": "자기 이름을 쓰면 심리적 거리가 생겨 문제를 바깥에서 보게 되므로 걱정과 거리를 두고 침착하게 생각하게 됩니다.",
+    "translation": "사람들은 흔히 위에서 내려온 법전인 양 사전을 펴 논쟁을 끝내려 한다. 거기에 없는 낱말이면 누군가는 꼭 그런 낱말은 없다고 말한다. 사전을 만드는 사람은 자기 일을 사뭇 다르게 본다. 방대한 글과 말을 모아 낱말이 실제로 어떻게 쓰이는지 살핀다. 낱말은 일정 기간 여러 곳에 거듭 나타남으로써 자리를 얻는다. 충분히 많은 사람이 컴퓨터 옆 장치를 '마우스'라 하면 새 뜻이 들어간다. 영어 낱말 'nice'처럼 한때 '어리석은'을 뜻하던 말이 오래전에 '기분 좋은'을 뜻하게 되면 항목은 변화를 반영한다. 해마다 항목이 늘고 어떤 뜻은 옛말로 표시된다. 편집자는 어떤 용법이 비격식이라거나 많은 독자가 반대한다고 표시하며, 이런 안내는 낱말을 조심해 고르는 이에게 값지다. 그러나 언어를 멈춰 세울 힘은 없다. 그러므로 사전은 사람들이 낱말을 어떻게 쓰고 있는지의 기록이며 용법이 변하면 갱신되는 것으로 이해하는 편이 낫다.",
+    "why": "실제 용법을 살펴 변화를 반영하므로 ②가 알맞습니다.",
     "optionNotes": [
-      "두려운 것을 잊게 한다는 내용은 나오지 않습니다.",
-      "정답. 걱정과 거리를 두고 침착하게 생각하게 합니다.",
-      "더 긴장된다는 내용은 글과 반대입니다.",
-      "목소리 크기는 나오지 않습니다.",
-      "말하기를 피한다는 내용은 나오지 않습니다."
+      "언어를 멈출 힘이 없다고 했습니다.",
+      "정답. 용법의 기록이며 갱신됩니다.",
+      "뜻은 변한다고 했습니다.",
+      "방대한 자료를 모읍니다.",
+      "언어의 우열은 나오지 않습니다."
     ],
-    "trap": "'speech'가 나온다고 사람들 앞에서 말하는 것을 피하게 한다(⑤)고 오해하지 마세요.",
-    "tip": "설명 문장(psychological distance)이 정답의 핵심 근거입니다."
+    "trap": "①은 첫 문장의 통념입니다.",
+    "tip": "'Those who make dictionaries see their work rather differently' 뒤를 보세요."
   },
   {
     "id": "m3b-18-34",
     "level": "m3",
     "set": "mock-18",
+    "rev": 2,
     "no": 34,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Imagine buying the car of your dreams. At first, every ride makes you happy. After a few months, however, the car feels ordinary. The same pattern appears with new clothes, new phones, and even a promotion at work. Psychologists call this hedonic adaptation: the tendency to return to a stable level of happiness after a positive or negative event. Studies of lottery winners found that, a year later, their happiness was not much higher than before. Likewise, people who experienced serious setbacks often recovered more happiness than they had expected. Our minds quickly adjust to new circumstances. This is not a sign of ingratitude; it is simply how the human mind works. For this reason, the happiness from new possessions or events is usually __________.",
+    "passage": "Visitors to a museum raise their phones, take a picture of a painting, and move on to the next. Some hardly look at the work except through the screen. Surely the photograph will help them remember it. A researcher in the United States tested this by leading students on a museum tour in which they photographed some objects and simply looked at others. The two sets of objects were similar in kind. The next day the students remembered fewer of the objects that they had photographed, and fewer details about them. The effect was not the same in every case: when participants were asked to zoom in on a particular part, which required them to attend closely, memory did not suffer in the same way. One explanation is that pressing the button gives a feeling that the job of keeping the image is done. Photographs remain a fine way to revisit a day. The risk is that in __________, we may give the moment itself less of our attention.",
     "options": [
-      "stronger than the happiness from relationships",
-      "temporary, since we soon get used to the change",
-      "permanent as long as the new thing is expensive enough",
-      "greater for older people than for young people",
-      "impossible to measure by scientific methods"
+      "studying a painting carefully for a long period of time",
+      "handing the task of remembering over to the camera",
+      "refusing to bring any kind of device into a museum",
+      "drawing every object that we find on display by hand",
+      "listening to a guide explain the history of each work"
     ],
     "answer": 1,
-    "translation": "꿈에 그리던 자동차를 산다고 상상해 보자. 처음에는 탈 때마다 행복하다. 그러나 몇 달이 지나면 그 차는 평범하게 느껴진다. 같은 양상이 새 옷, 새 휴대전화, 심지어 직장에서의 승진에도 나타난다. 심리학자들은 이를 쾌락 적응이라고 부르는데 긍정적이거나 부정적인 사건 뒤에 안정된 수준의 행복으로 돌아오려는 경향이다. 복권 당첨자를 연구한 결과 일 년 뒤 그들의 행복은 이전보다 크게 높지 않았다. 마찬가지로 심각한 좌절을 겪은 사람들은 흔히 예상보다 더 많은 행복을 회복했다. 우리 마음은 새로운 상황에 빠르게 적응한다. 이는 배은망덕의 신호가 아니라 인간의 마음이 작동하는 방식일 뿐이다. 이런 이유로 새 소유물이나 사건에서 오는 행복은 대개 변화에 곧 익숙해지기 때문에 일시적이다.",
-    "why": "새로운 상황에 마음이 빠르게 적응하므로 새 소유물에서 오는 행복은 변화에 곧 익숙해져 일시적입니다.",
+    "translation": "박물관 방문객은 전화기를 들어 그림을 찍고 다음으로 넘어간다. 어떤 이는 화면을 통해서가 아니면 작품을 거의 보지 않는다. 사진이 기억을 도울 것이 틀림없어 보인다. 미국의 한 연구자는 학생들을 박물관 견학에 데려가 어떤 물건은 찍고 어떤 것은 그냥 보게 해 이를 시험했다. 두 묶음의 물건은 종류가 비슷했다. 다음 날 학생들은 찍은 물건을 더 적게, 세부도 더 적게 기억했다. 효과가 모든 경우에 같지는 않았다. 특정 부분을 확대하라고 해 자세히 주의해야 했을 때는 기억이 같은 식으로 나빠지지 않았다. 한 설명은 단추를 누르면 이미지를 간직하는 일이 끝났다는 느낌이 든다는 것이다. 사진은 하루를 다시 찾는 좋은 방법이다. 위험은 기억하는 일을 카메라에 넘기면서 그 순간 자체에 주의를 덜 줄 수 있다는 것이다.",
+    "why": "찍으면 기억하는 일이 끝난 느낌이 드므로 ②가 알맞습니다.",
     "optionNotes": [
-      "관계와의 비교는 나오지 않습니다.",
-      "정답. 변화에 곧 익숙해지므로 일시적입니다.",
-      "비쌀수록 영구적이라는 내용은 글과 반대입니다.",
-      "나이에 따른 차이는 나오지 않습니다.",
-      "측정이 불가능하다는 내용은 나오지 않습니다."
+      "오래 살피면 주의가 늘어납니다.",
+      "정답. 기억을 카메라에 넘깁니다.",
+      "기기 반입 거부는 나오지 않습니다.",
+      "손으로 그리기는 나오지 않습니다.",
+      "해설 듣기는 나오지 않습니다."
     ],
-    "trap": "복권 당첨자의 행복이 크게 높지 않았다는 결과를 놓치고 지속된다고 오해하지 마세요.",
-    "tip": "핵심 개념(쾌락 적응)의 정의에서 결론을 추론하세요."
+    "trap": "①은 주의를 덜 주는 원인이 될 수 없습니다.",
+    "tip": "'the job of keeping the image is done'을 바꿔 말한 것을 고르세요."
   },
   {
     "id": "m3b-18-35",
     "level": "m3",
     "set": "mock-18",
+    "rev": 2,
     "no": 35,
     "type": "irrelevant",
     "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
-    "passage": "Cooking at home has many advantages over eating out or ordering delivery. Even simple meals can improve your health, your budget, and your relationships. ① When you cook for yourself, you can save a lot of money, because restaurant meals usually cost two or three times more than the same dishes made at home. ② You also control the ingredients, so you can reduce the amount of salt, sugar, and oil in your food. ③ Mount Fuji is the highest mountain in Japan and attracts many climbers every summer. ④ Preparing meals together with family members gives everyone a chance to talk and strengthens their bonds. ⑤ Finally, regular cooking teaches useful life skills, such as planning, measuring, and managing time.",
+    "passage": "Noise-canceling headphones can make the roar of an airplane engine fade almost to a murmur, and they do it in a surprising way: by producing more sound. At first this seems likely to make matters twice as bad. ① Tiny microphones on the outside of each earpiece pick up the noise around the listener. ② An electronic circuit then creates a wave that is the mirror image of it, rising where the noise falls and falling where it rises. This must happen almost instantly, or the new wave would arrive too late. ③ Many travelers also carry a soft neck pillow so that they can sleep more comfortably on long flights. ④ When the two waves meet at the ear, they largely cancel each other out. ⑤ The method works best on steady, low sounds such as engines and is less successful with sudden voices, which change too quickly to be predicted. That is why a spoken announcement can often still be heard.",
     "options": [
       "①",
       "②",
@@ -183,26 +190,27 @@
       "⑤"
     ],
     "answer": 2,
-    "translation": "집에서 요리하는 것은 외식이나 배달에 비해 많은 장점이 있다. 간단한 식사조차 건강, 예산, 인간관계를 개선할 수 있다. ① 스스로 요리하면 식당 음식이 같은 요리를 집에서 만들 때보다 보통 두세 배 비싸기 때문에 많은 돈을 아낄 수 있다. ② 또 재료를 직접 조절하므로 음식의 소금, 설탕, 기름의 양을 줄일 수 있다. ③ 후지산은 일본에서 가장 높은 산이며 해마다 여름이면 많은 등산객을 끌어들인다. ④ 가족과 함께 식사를 준비하면 모두가 이야기할 기회를 얻고 유대가 강해진다. ⑤ 마지막으로 규칙적인 요리는 계획하기, 재기, 시간 관리 같은 유용한 생활 기술을 가르친다.",
-    "why": "글은 집에서 요리하는 장점을 이야기하는데 ③은 후지산에 관한 별개의 이야기입니다.",
+    "translation": "소음 제거 헤드폰은 비행기 엔진의 굉음을 거의 웅얼거림으로 줄일 수 있는데, 놀라운 방식으로, 곧 소리를 더 만들어 그렇게 한다. 처음에는 상황을 두 배로 나쁘게 할 것처럼 보인다. ① 각 귀 덮개 바깥의 작은 마이크가 듣는 이 주위의 소음을 잡는다. ② 전자 회로는 소음이 내려갈 때 올라가고 올라갈 때 내려가는 거울상 파동을 만든다. 거의 즉시 해야 하며 그러지 않으면 새 파동이 너무 늦게 닿는다. ③ 많은 여행객은 긴 비행에서 더 편히 자려고 부드러운 목 베개도 가지고 다닌다. ④ 두 파동이 귀에서 만나면 대체로 서로 지운다. ⑤ 이 방법은 엔진처럼 일정한 낮은 소리에 가장 잘 통하고, 너무 빨리 변해 예측할 수 없는 갑작스러운 목소리에는 덜 성공적이다. 그래서 안내 방송은 흔히 여전히 들린다.",
+    "why": "글은 소음 제거의 원리를 설명하는데 ③은 목 베개 이야기라 흐름에서 벗어납니다.",
     "optionNotes": [
-      "돈을 아낀다는 장점입니다.",
-      "재료를 조절한다는 장점입니다.",
-      "정답(무관). 후지산 이야기라 관계가 없습니다.",
-      "가족 유대를 강화한다는 장점입니다.",
-      "생활 기술을 배운다는 장점입니다."
+      "마이크가 소음을 받는 단계입니다.",
+      "거울상 파동을 만드는 단계입니다.",
+      "정답. 목 베개는 무관합니다.",
+      "두 파동이 지워지는 결과입니다.",
+      "방법의 한계 설명입니다."
     ],
-    "trap": "'many climbers'처럼 구체적 사실이 흐름에 맞는 정보처럼 보일 수 있습니다.",
-    "tip": "각 문장이 '집에서 요리하는 장점'을 뒷받침하는지 확인하세요."
+    "trap": "비행이라는 소재만 같다고 관련 문장은 아닙니다.",
+    "tip": "④의 'the two waves'가 어느 문장과 이어지는지 보세요."
   },
   {
     "id": "m3b-18-36",
     "level": "m3",
     "set": "mock-18",
+    "rev": 2,
     "no": 36,
     "type": "order",
     "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
-    "passage": "Chocolate comes from the seeds of the cacao tree, which grows in tropical regions. Cacao trees need warm, humid weather and plenty of rain to grow well. The ancient Maya and Aztec peoples were among the first to use them. For these peoples, the seeds were so precious that they were sometimes used as money.\n(A) Over time, chocolate changed from a bitter drink into the sweet solid bars that we enjoy today, and by the nineteenth century, companies had invented machines to make them.\n(B) When this drink was brought to Europe in the sixteenth century, people added sugar and milk to make it sweeter.\n(C) They ground the roasted seeds and mixed the paste with water and spices to make a bitter drink.",
+    "passage": "The coal that has powered factories and homes was once part of living plants.\n(A) As still more layers piled on top over millions of years, the buried material sank deeper, where it was hotter and the pressure was far greater. Under these conditions it slowly changed into harder and darker coal, richer in carbon than before. When we burn it, we release energy that leaves captured from sunlight long ago.\n(B) Later, sand and mud spread over the swamps and covered the peat. The weight of these layers squeezed out much of the water and packed the plant matter into a much thinner band. What had been loose and wet was now something like a firm mat.\n(C) Long ago, large areas of the land were covered with warm swamps. When plants died there, they fell into still water that held little oxygen, so they did not rot completely but built up as a soft material called peat. Layer after layer of dead leaves, bark, and roots gathered in this way for thousands of years.",
     "options": [
       "(A)-(C)-(B)",
       "(B)-(A)-(C)",
@@ -211,26 +219,27 @@
       "(C)-(B)-(A)"
     ],
     "answer": 4,
-    "translation": "초콜릿은 열대 지방에서 자라는 카카오나무의 씨앗에서 나온다. 카카오나무는 잘 자라려면 따뜻하고 습한 날씨와 충분한 비가 필요하다. 고대 마야인과 아즈텍인은 그것을 처음 사용한 사람들에 속한다. 이들에게 씨앗은 너무 귀해서 때로는 돈으로 쓰이기도 했다. (C) 그들은 볶은 씨앗을 갈아 반죽을 물과 향신료와 섞어 쓴 음료를 만들었다. (B) 이 음료가 16세기에 유럽으로 건너오자 사람들은 더 달게 하려고 설탕과 우유를 넣었다. (A) 시간이 지나면서 초콜릿은 쓴 음료에서 오늘날 우리가 즐기는 달콤한 고체 막대로 바뀌었고 19세기에는 회사들이 그것을 만드는 기계를 발명했다.",
-    "why": "(C) 'They'로 마야·아즈텍인의 쓴 음료 → (B) 'this drink'로 유럽에서 설탕을 더함 → (A) 'Over time'으로 고체 막대로의 변화 순서입니다.",
+    "translation": "공장과 집에 동력을 준 석탄은 한때 살아 있는 식물의 일부였다. (C) 오래전 땅의 넓은 지역이 따뜻한 늪으로 덮여 있었다. 거기서 식물이 죽으면 산소가 적은 고인 물에 쓰러져 완전히 썩지 않고 이탄이라는 부드러운 물질로 쌓였다. 죽은 잎, 껍질, 뿌리가 수천 년 동안 이렇게 겹겹이 모였다. (B) 나중에 모래와 진흙이 늪 위로 퍼져 이탄을 덮었다. 이 층의 무게가 물의 많은 부분을 짜내고 식물질을 훨씬 얇은 띠로 다졌다. 푸석하고 젖었던 것이 이제 단단한 깔개 같은 것이 되었다. (A) 수백만 년에 걸쳐 더 많은 층이 위에 쌓이며 묻힌 물질은 더 깊이 가라앉았는데, 그곳은 더 뜨겁고 압력이 훨씬 컸다. 이런 조건에서 전보다 탄소가 많은 더 단단하고 검은 석탄으로 서서히 변했다. 그것을 태울 때 우리는 오래전 잎이 햇빛에서 붙잡은 에너지를 내놓는다.",
+    "why": "(C) 늪과 이탄 → (B) 덮임과 압축 → (A) 열과 압력으로 석탄 순서입니다.",
     "optionNotes": [
-      "(A)의 'chocolate changed'가 변화 과정보다 먼저 나올 수 없습니다.",
-      "(B)의 'this drink'가 가리킬 음료가 앞에 없습니다.",
-      "(B)의 'this drink'를 소개한 글이 먼저 와야 합니다.",
-      "(A)가 (B)의 유럽 전래보다 먼저 나올 수 없습니다.",
-      "정답. 쓴 음료 → 유럽의 개량 → 고체 초콜릿."
+      "(A)의 'still more layers'가 처음에 올 수 없습니다.",
+      "(B)의 'the peat'이 처음에 올 수 없습니다.",
+      "(B)가 처음에 올 수 없습니다.",
+      "(A)의 'still more layers'는 (B) 뒤여야 합니다.",
+      "정답. 이탄 → 압축 → 석탄입니다."
     ],
-    "trap": "(B)의 'this drink'는 (C)에서 만든 쓴 음료를 가리킵니다.",
-    "tip": "They → this drink → Over time의 지시어와 시간 표현을 따라가세요."
+    "trap": "(A)의 'still more'는 이미 덮인 층이 있다는 뜻입니다.",
+    "tip": "'the peat'과 'still more layers'를 단서로 삼으세요."
   },
   {
     "id": "m3b-18-37",
     "level": "m3",
     "set": "mock-18",
+    "rev": 2,
     "no": 37,
     "type": "order",
     "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
-    "passage": "The Silk Road was not a single road but a network of trade routes that connected China with the Mediterranean for more than a thousand years. It got its name from the valuable cloth that was carried from China. The name was first used by a German geographer in the nineteenth century.\n(A) As a result, cities along the routes became rich and diverse centers where people of many cultures lived side by side for centuries.\n(B) Merchants rarely traveled the whole way; instead, goods passed through many hands, from one trader to the next, across deserts and mountains.\n(C) Along the way, ideas, religions, and technologies spread together with silk, spices, and paper, and even new ways of thinking about the world.",
+    "passage": "Many illnesses strike a person hard once and then rarely or never again, a fact that people noticed long before anyone understood it. A child who has had chickenpox, for example, seldom catches it again.\n(A) Should the same germ return, these waiting cells recognize it at once. They multiply so quickly that the invader is often destroyed before the person feels ill at all, which is also the principle behind vaccination. A vaccine shows the body a harmless sample, so that the record exists before any real attack.\n(B) When a germ enters for the first time, the body must search among a vast variety of defense cells for the few that happen to fit it. It is rather like trying thousands of keys in a single lock. This takes days, during which the germ spreads and the person becomes sick.\n(C) Once found, those cells make countless copies of themselves and attack. After the battle is won, most of them die, but some remain in the body, sometimes for many years. These survivors form a kind of record of the enemy.",
     "options": [
       "(A)-(C)-(B)",
       "(B)-(A)-(C)",
@@ -239,26 +248,27 @@
       "(C)-(B)-(A)"
     ],
     "answer": 2,
-    "translation": "실크로드는 하나의 길이 아니라 천 년 넘게 중국과 지중해를 연결한 교역로의 망이었다. 그 이름은 중국에서 운반된 값비싼 비단에서 왔다. 그 이름은 19세기에 한 독일 지리학자가 처음 썼다. (B) 상인들은 전체 길을 이동하는 일이 드물었다. 대신 물건은 사막과 산을 가로질러 여러 사람의 손을 거쳐 한 상인에게서 다음 상인에게로 전해졌다. (C) 그 길을 따라 사상, 종교, 기술이 비단, 향신료, 종이와 함께, 심지어 세계를 생각하는 새로운 방식과 함께 퍼졌다. (A) 그 결과 교역로를 따른 도시들은 여러 문화의 사람들이 수 세기 동안 나란히 살아가는 부유하고 다양한 중심지가 되었다.",
-    "why": "(B) 상인들이 물건을 여러 손으로 전달함 → (C) 'Along the way'로 사상과 기술이 함께 퍼짐 → (A) 'As a result'로 도시의 발전 순서입니다.",
+    "translation": "많은 병은 사람을 한 번 심하게 앓게 하고 그 뒤로는 드물게 오거나 다시 오지 않는데, 사람들은 누가 이해하기 훨씬 전부터 이를 알아챘다. 예컨대 수두를 앓은 아이는 좀처럼 다시 걸리지 않는다. (B) 균이 처음 들어오면 몸은 아주 다양한 방어 세포 중에서 우연히 맞는 소수를 찾아야 한다. 자물쇠 하나에 열쇠 수천 개를 맞춰 보는 것과 비슷하다. 며칠이 걸리고 그동안 균이 퍼져 사람이 아프게 된다. (C) 일단 찾으면 그 세포는 수없이 자기를 복제해 공격한다. 싸움에 이긴 뒤 대부분은 죽지만 일부는 때로 여러 해 몸에 남는다. 이 생존자들은 적에 대한 일종의 기록이 된다. (A) 같은 균이 돌아오면 이 대기 세포가 즉시 알아본다. 너무 빠르게 늘어 사람이 아프다고 느끼기도 전에 침입자가 파괴되는 일이 흔하며, 이것이 예방 접종의 원리이기도 하다. 백신은 해 없는 견본을 몸에 보여 실제 공격 전에 기록이 있게 한다.",
+    "why": "(B) 첫 침입과 탐색 → (C) 증식과 일부 잔류 → (A) 재침입 순서입니다.",
     "optionNotes": [
-      "(A)의 'As a result'가 이어질 원인이 앞에 없습니다.",
-      "(A)가 (C)의 확산이라는 원인보다 먼저 나올 수 없습니다.",
-      "정답. 물건의 전달 → 문화의 확산 → 도시의 발전.",
-      "(C)의 'Along the way'가 (B)의 이동 설명보다 먼저 나올 수 없습니다.",
-      "(C)가 먼저 오면 'the way'가 가리키는 이동 설명이 없습니다."
+      "(A)의 'these waiting cells'가 처음에 올 수 없습니다.",
+      "(A)의 'these waiting cells'는 (C) 뒤여야 합니다.",
+      "정답. 탐색 → 공격과 잔류 → 재침입입니다.",
+      "(C)의 'Once found'가 처음에 올 수 없습니다.",
+      "(C)가 (B)보다 앞설 수 없습니다."
     ],
-    "trap": "(A)의 'As a result'는 (C)의 확산을 원인으로 받습니다.",
-    "tip": "Along the way → As a result의 흐름을 따라가세요."
+    "trap": "(C)의 'Once found'는 (B)에서 찾던 세포를 받습니다.",
+    "tip": "처음, 찾은 뒤, 다시 왔을 때의 순서를 따라가세요."
   },
   {
     "id": "m3b-18-38",
     "level": "m3",
     "set": "mock-18",
+    "rev": 2,
     "no": 38,
     "type": "insert",
     "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
-    "passage": "[주어진 문장]\nTo achieve this goal, they built hundreds of kilometers of separate bike lanes.\n\n[글]\n( ① ) In the 1970s, city planners in Copenhagen, Denmark, wanted more people to commute by bike because traffic and air pollution were getting worse. ( ② ) As a result, riding a bike in the city center became safer and often faster than driving. ( ③ ) Today, about half of all commuters in the city travel to work or school by bicycle, even in winter. ( ④ ) Other cities around the world are now studying this model. ( ⑤ ) However, experts say that the success took decades of steady investment and patience.",
+    "passage": "[주어진 문장]\nInstead, they arise from the way in which light bounces within the extremely thin film.\n\n[글]\nSoapy water in a cup is nearly colorless, yet the bubbles blown from it show moving bands of pink, green, and gold. Children chase them partly for this reason. ( ① ) These colors do not come from any dye hidden in the liquid. ( ② ) Part of the light that strikes a bubble reflects from the outer surface of the film, and part passes in and reflects from the inner surface. ( ③ ) When the two reflections come back together, some colors in white light are strengthened while others are weakened. ( ④ ) Which colors survive depends on how thick the film is at that spot, and since the water keeps flowing downward, the thickness changes from moment to moment. ( ⑤ ) Just before a bubble bursts, parts of it may become so thin that they look dark or almost invisible. A thin spot of oil on a wet road shines with colors for a similar reason.",
     "options": [
       "①",
       "②",
@@ -267,26 +277,27 @@
       "⑤"
     ],
     "answer": 1,
-    "translation": "[주어진 문장] 이 목표를 이루기 위해 그들은 수백 킬로미터의 분리된 자전거 도로를 만들었다. [글] 1970년대 덴마크 코펜하겐의 도시 계획자들은 교통과 대기 오염이 나빠지고 있었기 때문에 더 많은 사람이 자전거로 출퇴근하기를 원했다. 그 결과 도심에서 자전거를 타는 것이 운전하는 것보다 안전하고 흔히 더 빨라졌다. 오늘날 이 도시 통근자의 약 절반이 겨울에도 자전거로 출퇴근이나 통학을 한다. 세계의 다른 도시들이 이제 이 모델을 연구하고 있다. 그러나 전문가들은 이 성공에 수십 년의 꾸준한 투자와 인내가 필요했다고 말한다.",
-    "why": "목표가 소개된 뒤 'this goal'이 이어지고, 'As a result'로 자전거 도로의 결과가 나오므로 ②에 들어갑니다.",
+    "translation": "[주어진 문장] 대신 그것은 극히 얇은 막 안에서 빛이 튕기는 방식에서 생긴다. [글] 컵 속의 비눗물은 거의 색이 없지만 그것으로 분 방울은 분홍, 초록, 금빛의 움직이는 띠를 보인다. 아이들이 방울을 쫓는 데에는 이 까닭도 있다. 이 색은 액체에 숨은 어떤 염료에서 오지 않는다. 방울에 닿는 빛의 일부는 막의 바깥 면에서 반사되고 일부는 들어가 안쪽 면에서 반사된다. 두 반사가 다시 합쳐지면 백색광의 어떤 색은 강해지고 어떤 색은 약해진다. 어느 색이 살아남는지는 그 지점의 막 두께에 달려 있고, 물이 계속 아래로 흐르므로 두께는 순간순간 바뀐다. 방울이 터지기 직전에는 일부가 너무 얇아져 검거나 거의 안 보일 수 있다. 젖은 길의 얇은 기름 얼룩이 색으로 빛나는 것도 비슷한 까닭이다.",
+    "why": "'염료에서 오지 않는다' 뒤에 'Instead' 어디서 오는지가 나와야 하므로 ②입니다.",
     "optionNotes": [
-      "'this goal'이 가리킬 목표가 아직 없습니다.",
-      "정답. 목표 소개 뒤에 방법이 나오고 결과가 이어집니다.",
-      "결과가 이미 나온 뒤라 'To achieve this goal'이 어색합니다.",
-      "오늘날의 상황 뒤라 방법 설명이 어색합니다.",
-      "마지막에 오면 'However'와 연결되지 않습니다."
+      "부정하는 문장이 아직 없어 'Instead'가 어색합니다.",
+      "정답. 부정 → Instead → 반사 설명입니다.",
+      "두 반사 설명 사이를 끊습니다.",
+      "색의 강약 설명 뒤라 늦습니다.",
+      "설명이 끝난 뒤라 맞지 않습니다."
     ],
-    "trap": "②의 'As a result'가 자전거 도로를 만든 일의 결과임을 놓치기 쉽습니다.",
-    "tip": "this goal은 목표를 제시한 문장 직후에, As a result는 방법 직후에 놓입니다."
+    "trap": "①은 'they'가 가리킬 색은 있지만 'Instead'의 짝이 없습니다.",
+    "tip": "'Instead' 앞에는 '아니다'라는 말이 있어야 합니다."
   },
   {
     "id": "m3b-18-39",
     "level": "m3",
     "set": "mock-18",
+    "rev": 2,
     "no": 39,
     "type": "insert",
     "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
-    "passage": "[주어진 문장]\nLearning a second language changes the brain.\n\n[글]\n( ① ) For example, brain scans show that bilingual people have more gray matter in areas related to attention and memory. ( ② ) They also switch between tasks more easily, because they constantly choose between two languages. ( ③ ) Some research even suggests that being bilingual can delay the signs of dementia by several years. ( ④ ) These benefits appear at any age, although children learn languages with less effort. ( ⑤ ) Therefore, learning a second language is a valuable investment for the brain.",
+    "passage": "[주어진 문장]\nA Hungarian doctor at the hospital, Ignaz Semmelweis, set out to discover the reason.\n\n[글]\nIn the 1840s a large hospital in Vienna had two clinics where women gave birth, and far more mothers died of fever in the first than in the second. Women in the city knew this, and some begged to be sent to the second. ( ① ) He ruled out one explanation after another, from crowding to the position in which the women lay. ( ② ) He noted, however, that doctors and students often went to the first clinic directly from cutting open dead bodies, while the midwives in the second did not. ( ③ ) Then a colleague was cut with a knife during such work and died with signs much like those of the mothers. ( ④ ) Semmelweis ordered everyone to wash their hands in a chlorine solution before examining patients, and deaths fell sharply. ( ⑤ ) Even so, many in the profession rejected his idea, which was widely accepted only after germs had come to be understood.",
     "options": [
       "①",
       "②",
@@ -295,44 +306,45 @@
       "⑤"
     ],
     "answer": 0,
-    "translation": "[주어진 문장] 제2 언어를 배우면 뇌가 바뀐다. [글] 예를 들어 뇌 촬영은 이중 언어 사용자가 주의와 기억에 관련된 영역에 더 많은 회백질을 가지고 있음을 보여 준다. 그들은 두 언어 사이에서 끊임없이 선택하기 때문에 과제 사이를 더 쉽게 전환하기도 한다. 일부 연구는 이중 언어 사용이 치매의 징후를 몇 년 늦출 수 있음을 시사하기까지 한다. 이런 이점은 어떤 나이에도 나타나지만 아이들은 더 적은 노력으로 언어를 배운다. 그러므로 제2 언어를 배우는 것은 뇌에 대한 가치 있는 투자이다.",
-    "why": "'For example'로 시작하는 구체적 사례들 앞에 일반적인 주제문이 먼저 와야 하므로 ①에 들어갑니다.",
+    "translation": "[주어진 문장] 그 병원의 헝가리 의사 이그나즈 제멜바이스가 이유를 밝히려 나섰다. [글] 1840년대 빈의 큰 병원에는 여성이 출산하는 병동이 둘 있었는데 첫째에서 둘째보다 훨씬 많은 산모가 열병으로 죽었다. 도시의 여성들은 이를 알았고 어떤 이는 둘째로 보내 달라고 애원했다. 그는 혼잡부터 산모가 눕는 자세까지 설명을 하나씩 배제했다. 그러나 의사와 학생은 흔히 시신을 해부하다 곧장 첫째 병동으로 갔고 둘째의 조산사는 그렇지 않다는 데 주목했다. 그러다 한 동료가 그런 작업 중 칼에 베어 산모들과 매우 비슷한 증상으로 죽었다. 제멜바이스는 환자를 진찰하기 전에 모두 염소 용액에 손을 씻게 했고 사망이 급감했다. 그런데도 업계의 많은 사람이 그의 생각을 거부했고, 세균이 이해된 뒤에야 널리 받아들여졌다.",
+    "why": "사망률 차이를 말한 뒤 그가 이유를 밝히려 나섰다고 해야 하므로 ①이며, 뒤의 'He'가 이를 받습니다.",
     "optionNotes": [
-      "정답. 사례들 앞에 일반적인 주제문이 옵니다.",
-      "'For example' 사례 뒤에 오면 주제문이 어색합니다.",
-      "치매 연구 앞에 오면 흐름이 끊깁니다.",
-      "나이에 관한 문장 앞에 오면 어색합니다.",
-      "결론 앞에 오면 어색합니다."
+      "정답. 문제 → 인물 소개 → 조사입니다.",
+      "'He'가 이미 나온 뒤에 인물을 소개할 수 없습니다.",
+      "조사 결과 뒤라 늦습니다.",
+      "동료의 죽음 뒤라 늦습니다.",
+      "결론 부분이라 맞지 않습니다."
     ],
-    "trap": "'For example'은 앞에 일반적인 진술이 있어야 쓸 수 있습니다.",
-    "tip": "For example로 시작하는 첫 문장 앞에는 주제문이 놓입니다."
+    "trap": "인물 소개는 'He'보다 앞에 와야 합니다.",
+    "tip": "처음 나오는 'He'가 누구인지 확인하세요."
   },
   {
     "id": "m3b-18-40",
     "level": "m3",
     "set": "mock-18",
+    "rev": 2,
     "no": 40,
     "type": "summary",
     "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Plastic bags were once given away for free in almost every store. In 2002, Ireland introduced a small tax of about fifteen cents on every plastic bag at supermarkets. Shoppers did not have to stop using bags; they simply had to pay if they wanted one. Within a few months, the use of plastic bags dropped by more than ninety percent. Many people began to bring their own cloth bags, and the habit quickly became normal. Litter on streets also decreased, and the money collected was used for environmental projects. The success of the policy inspired many other countries to follow. Experts explain that even a small cost makes people stop and think before they act automatically.\n\n▶ After a small fee was (A) on plastic bags, shoppers (B) their use sharply.",
+    "passage": "Two psychologists, Elizabeth Loftus and John Palmer, showed students short films of traffic accidents and then asked them to estimate how fast the cars had been going. The question was not the same for everyone. Some were asked how fast the cars were going when they \"smashed\" into each other; others heard \"hit\" or \"contacted\" instead. Those who heard \"smashed\" gave the highest estimates, and those who heard \"contacted\" the lowest, although all of them had watched the same events. In a further experiment, participants were asked a week later whether they had seen any broken glass. There had been none in the film. Yet people who had heard \"smashed\" were more likely to say that they had. The studies used short films, not real accidents witnessed in fear, but they have made investigators far more careful about how they put their questions.\n\n▶ The (A) of a question can influence what people later (B) about an event they have seen.",
     "options": [
-      "(A) removed — (B) increased",
-      "(A) charged — (B) reduced",
-      "(A) doubled — (B) ignored",
-      "(A) banned — (B) hid",
-      "(A) lowered — (B) copied"
+      "(A) length — (B) forget",
+      "(A) wording — (B) report",
+      "(A) wording — (B) dream",
+      "(A) speed — (B) draw",
+      "(A) price — (B) buy"
     ],
     "answer": 1,
-    "translation": "비닐봉지는 한때 거의 모든 가게에서 공짜로 주던 것이었다. 2002년 아일랜드는 슈퍼마켓의 모든 비닐봉지에 약 15센트의 작은 세금을 도입했다. 쇼핑객이 봉지 사용을 멈춰야 하는 것은 아니었고 필요하면 돈을 내기만 하면 되었다. 몇 달 안에 비닐봉지 사용이 90퍼센트 넘게 줄었다. 많은 사람이 자기 천 가방을 가져오기 시작했고 그 습관은 빠르게 보통이 되었다. 거리의 쓰레기도 줄었고 걷은 돈은 환경 사업에 쓰였다. 이 정책의 성공은 다른 많은 나라가 따르도록 영감을 주었다. 전문가들은 작은 비용조차 사람들이 자동으로 행동하기 전에 멈춰 생각하게 만든다고 설명한다. ▶ 비닐봉지에 작은 요금이 (A)된 뒤 쇼핑객들은 그 사용을 급격히 (B)했다.",
-    "why": "작은 요금을 부과하자 비닐봉지 사용이 급격히 줄었으므로 (A)는 charged, (B)는 reduced입니다.",
+    "translation": "심리학자 엘리자베스 로프터스와 존 파머는 학생들에게 교통사고의 짧은 영상을 보여 주고 차가 얼마나 빨랐는지 추정하게 했다. 질문은 모두에게 같지 않았다. 어떤 이는 차가 서로 '박살 낼 듯 들이받았을' 때의 속도를 물었고 다른 이는 대신 '부딪혔을' 또는 '접촉했을'을 들었다. 모두 같은 장면을 보았는데도 '들이받았다'를 들은 이가 가장 높게, '접촉했다'를 들은 이가 가장 낮게 추정했다. 추가 실험에서는 일주일 뒤 깨진 유리를 보았는지 물었다. 영상에는 없었다. 그러나 '들이받았다'를 들은 사람이 보았다고 말할 가능성이 더 컸다. 이 연구는 두려움 속에 목격한 실제 사고가 아니라 짧은 영상을 썼지만, 조사관이 질문 방식에 훨씬 조심하게 만들었다. ▶ 질문의 표현은 사람들이 본 사건에 대해 나중에 보고하는 것에 영향을 줄 수 있다.",
+    "why": "낱말 선택이 속도 추정과 유리 목격 진술에 영향을 주었으므로 (A) wording, (B) report인 ②입니다.",
     "optionNotes": [
-      "removed와 increased는 글과 반대입니다.",
-      "정답. 요금을 부과하자 사용이 줄었습니다.",
-      "doubled와 ignored는 글에 나오지 않습니다.",
-      "banned와 hid는 글에 나오지 않습니다. 금지가 아니라 요금입니다.",
-      "lowered와 copied는 글에 나오지 않습니다."
+      "질문 길이가 아닙니다.",
+      "정답. 표현, 보고입니다.",
+      "(B)가 맞지 않습니다.",
+      "속도는 추정 대상이었습니다.",
+      "가격은 나오지 않습니다."
     ],
-    "trap": "금지(ban)가 아니라 작은 세금(fee)이었다는 점을 놓치지 마세요.",
-    "tip": "요약문은 정책(요금 부과)과 결과(사용 감소)를 짝지으세요."
+    "trap": "③은 (A)만 맞습니다.",
+    "tip": "두 실험에서 달라진 것과 영향을 받은 것을 찾으세요."
   }
 ]
