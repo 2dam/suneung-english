@@ -3,10 +3,11 @@
     "id": "m2b-18-29",
     "level": "m2",
     "set": "mock-18",
+    "rev": 2,
     "no": 29,
     "type": "grammar",
     "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
-    "passage": "Owls hunt at night, and they {1|has} special features that help them. Their large eyes collect even a small amount of light, so they can see in the dark. Their ears are placed at different heights on the head, {2|which} lets them find the exact position of a sound. When an owl flies, it makes almost no noise, because the edges of its feathers are soft. A mouse on the ground cannot hear the owl {3|coming}. Owls cannot move their eyes, so they turn their heads up to 270 degrees to {4|look} around. After catching a mouse, the owl swallows it whole and later {5|spits} out the bones in a small ball.",
+    "passage": "Bamboo looks like a tree and can grow as tall as one, but it belongs to the grass family. Some kinds are famous for {1|grow} astonishingly fast, adding many centimeters to their height in a single day. The secret lies partly in its structure. A young shoot already contains all the sections of the future stem, {2|packed} closely together, and as water enters the cells, the sections stretch one after another like the parts of a folding telescope. Because the stem is hollow, it is light for its size, yet it bends in the wind {3|without} breaking easily. People in many parts of Asia have used it to build houses and bridges, to make baskets and instruments, and even {4|to cook} rice inside it. Another useful feature is {5|that} the plant does not die when a stem is cut. New shoots rise from the roots, so a well-managed grove can be harvested again and again.",
     "options": [
       "①",
       "②",
@@ -15,26 +16,27 @@
       "⑤"
     ],
     "answer": 0,
-    "translation": "부엉이는 밤에 사냥하며 그들을 돕는 특별한 특징이 있다. 큰 눈은 적은 양의 빛도 모아서 어둠 속에서 볼 수 있다. 귀는 머리의 서로 다른 높이에 달려 있어서 소리의 정확한 위치를 찾을 수 있다. 부엉이가 날 때는 깃털 가장자리가 부드러워서 거의 소리가 나지 않는다. 땅 위의 쥐는 부엉이가 오는 소리를 듣지 못한다. 부엉이는 눈을 움직일 수 없어서 주위를 보려고 머리를 270도까지 돌린다. 쥐를 잡은 뒤 부엉이는 통째로 삼키고 나중에 뼈를 작은 덩어리로 뱉어 낸다.",
-    "why": "주어 they는 복수이므로 has가 아니라 have여야 합니다.",
+    "translation": "대나무는 나무처럼 보이고 나무만큼 크게 자랄 수 있지만 볏과에 속한다. 어떤 종류는 하루에 키가 여러 센티미터 자랄 만큼 놀랍도록 빨리 자라는 것으로 유명하다. 비결은 부분적으로 구조에 있다. 어린 죽순은 이미 앞으로의 줄기 마디를 빽빽이 모두 담고 있고, 물이 세포에 들어가면 마디가 접이식 망원경의 부분처럼 차례로 늘어난다. 줄기가 비어 있어 크기에 비해 가볍지만 바람에 휘면서 쉽게 부러지지 않는다. 아시아 여러 곳의 사람들은 집과 다리를 짓고 바구니와 악기를 만들며 심지어 그 안에 밥을 짓는 데도 썼다. 또 하나 유용한 특징은 줄기를 베어도 식물이 죽지 않는다는 것이다. 뿌리에서 새순이 올라와 잘 관리한 대밭은 거듭 수확할 수 있다.",
+    "why": "전치사 for 뒤에는 동명사가 와야 하므로 ① grow는 growing이어야 합니다.",
     "optionNotes": [
-      "정답(틀린 것). 복수 주어 they에 맞춰 have여야 합니다.",
-      "앞 절 전체를 받는 계속적 용법의 관계대명사 which입니다.",
-      "지각동사 hear의 목적격 보어 coming입니다.",
-      "목적을 나타내는 to부정사 look입니다.",
-      "주어 the owl에 맞는 단수 동사 spits입니다."
+      "정답(틀림). for growing이 되어야 합니다.",
+      "sections를 꾸미는 분사 packed는 맞습니다.",
+      "전치사 without 뒤의 breaking으로 이어지는 맞는 표현입니다.",
+      "to build, to make와 병렬인 to cook은 맞습니다.",
+      "보어절을 이끄는 접속사 that은 맞습니다."
     ],
-    "trap": "주어 they를 앞 문장의 단수 owls와 혼동하기 쉽습니다.",
-    "tip": "주어의 수(they → 복수)를 먼저 확인하고 동사를 일치시키세요."
+    "trap": "②는 'contains ~ packed'의 분사라 동사가 아닙니다.",
+    "tip": "전치사 바로 뒤의 동사 형태를 확인하세요."
   },
   {
     "id": "m2b-18-30",
     "level": "m2",
     "set": "mock-18",
+    "rev": 2,
     "no": 30,
     "type": "vocab",
     "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
-    "passage": "Sunlight is good for our body because it helps us make vitamin D. However, too much sun can {1|harm} our skin. The sun's UV rays can cause sunburn, and over many years, they can lead to skin cancer. To protect yourself, put on sunscreen at least twenty minutes before you go outside. Do not forget to {2|apply} it again every two hours, especially after swimming. It is also a good idea to {3|expose} your skin to the sunlight at noon, when the UV rays are the strongest. Wearing a hat and sunglasses also helps. With these simple habits, you can enjoy the sun and keep your skin {4|healthy}. A little care today will {5|protect} your skin for the future.",
+    "passage": "On a hot afternoon a dog lies in the shade with its tongue hanging out, breathing in quick, shallow puffs. This panting is not a sign that the animal is out of breath. It is the dog's main way of {1|losing} heat. A person cools off largely by sweating over almost the whole body: as sweat turns into vapor, it carries warmth away from the skin. Dogs have very {2|few} sweat glands of this kind, mostly on the pads of their feet, and their fur would get in the way in any case. Instead they move air rapidly over the wet surfaces of the mouth and nose, where evaporation does the same job. The method works well in dry air but much less well when the air is {3|light} with moisture, because water then evaporates slowly. Dogs with very short noses have a {4|harder} time, since they have less surface for cooling. This is why owners should never leave a dog in a parked car, where the temperature can {5|climb} to dangerous levels within minutes.",
     "options": [
       "①",
       "②",
@@ -43,138 +45,143 @@
       "⑤"
     ],
     "answer": 2,
-    "translation": "햇빛은 비타민 D를 만들도록 도와서 우리 몸에 좋다. 그러나 해를 너무 많이 쬐면 피부를 해칠 수 있다. 태양의 자외선은 햇볕에 타는 것을 일으킬 수 있고 여러 해가 지나면 피부암으로 이어질 수 있다. 자신을 보호하려면 밖에 나가기 최소 이십 분 전에 자외선 차단제를 바르라. 특히 수영한 뒤에는 두 시간마다 다시 바르는 것을 잊지 마라. 자외선이 가장 강한 정오의 햇빛에 피부를 노출하는 것도 좋은 생각이다. 모자와 선글라스를 쓰는 것도 도움이 된다. 이런 간단한 습관으로 햇빛을 즐기면서 피부를 건강하게 유지할 수 있다. 오늘의 작은 주의가 미래의 피부를 보호할 것이다.",
-    "why": "자외선이 가장 강한 정오에는 햇빛에 피부를 '노출하는(expose)' 것이 아니라 '피하는(avoid)' 것이 알맞습니다.",
+    "translation": "더운 오후에 개는 혀를 늘어뜨리고 빠르고 얕게 숨을 쉬며 그늘에 눕는다. 이 헐떡임은 숨이 찬다는 신호가 아니다. 개가 열을 내보내는 주된 방법이다. 사람은 주로 거의 온몸에 땀을 흘려 식는다. 땀이 증기가 되며 피부의 온기를 가져간다. 개는 이런 땀샘이 아주 적고 주로 발바닥에 있으며 어차피 털이 방해할 것이다. 대신 입과 코의 젖은 표면 위로 공기를 빠르게 움직이는데 거기서 증발이 같은 일을 한다. 이 방법은 건조한 공기에서는 잘 통하지만 공기가 습기로 가벼울 때는 물이 천천히 증발해 훨씬 덜 통한다. 코가 아주 짧은 개는 식힐 표면이 적어 더 힘들다. 그래서 주인은 몇 분 만에 위험한 온도로 오를 수 있는 주차된 차에 개를 절대 두어서는 안 된다.",
+    "why": "물이 천천히 증발하는 것은 공기에 습기가 많을 때이므로 ③ light는 heavy여야 합니다.",
     "optionNotes": [
-      "피부를 해칠 수 있다는 의미로 harm이 알맞습니다.",
-      "다시 바른다는 의미로 apply가 알맞습니다.",
-      "정답(부적절). 가장 강한 햇빛은 피해야 하므로 avoid여야 합니다.",
-      "피부를 건강하게 유지한다는 의미로 healthy가 알맞습니다.",
-      "피부를 보호한다는 의미로 protect가 알맞습니다."
+      "열을 '내보내는' 방법이라는 losing입니다.",
+      "땀샘이 '거의 없다'는 few입니다.",
+      "정답(부적절). heavy with moisture여야 합니다.",
+      "식힐 표면이 적어 '더 힘들다'는 harder입니다.",
+      "온도가 '오른다'는 climb입니다."
     ],
-    "trap": "'It is a good idea to' 뒤의 행동이 앞 내용(보호)과 맞는지 놓치기 쉽습니다.",
-    "tip": "앞뒤 흐름(자외선이 가장 강함 → 피해야 함)을 기준으로 동사의 방향을 확인하세요."
+    "trap": "'dry air'와의 대비를 놓치면 안 됩니다.",
+    "tip": "물이 천천히 증발하는 공기가 어떤 공기인지 생각하세요."
   },
   {
     "id": "m2b-18-31",
     "level": "m2",
     "set": "mock-18",
+    "rev": 2,
     "no": 31,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "It takes about twenty minutes for the brain to receive the message that the stomach is full. If you eat very fast, you may finish a large meal before the message arrives. As a result, you may eat more than your body needs. People who eat slowly, on the other hand, tend to feel satisfied with smaller meals. Chewing each bite well also helps the stomach digest food more easily. Many doctors therefore advise people to put down their forks between bites and to enjoy the taste. Eating slowly gives our brain enough time to __________.",
+    "passage": "\"Clean your room\" can leave a person standing in the doorway for a long time without doing anything. There are clothes on the chair, papers under the bed, three cups on the desk, and no clear place to begin. The job is not especially difficult. It is simply too large and too vague to take hold of. Now change the instruction: put the cups in the kitchen. Almost anyone can start that at once. When it is done, the desk looks a little better, and the next small action, stacking the books, suggests itself. School projects work the same way. \"Write a report on rivers\" invites delay, while \"find two sources about the Han River\" can be done this evening. The small steps do not reduce the total amount of work. They do change how hard it is to get moving. When a task keeps being put off, it often helps to __________.",
     "options": [
-      "forget the taste of the food",
-      "make us feel hungry again",
-      "change the color and the smell of the food on the plate",
-      "finish the meal for us",
-      "tell us that we are already full"
+      "wait until there is enough free time to finish the whole thing all at once",
+      "think more often about how large and important the whole job is",
+      "give it to someone else who does not mind doing difficult things",
+      "choose a day far in the future and promise to begin on that day",
+      "break it into pieces that are small and clear enough to start now"
     ],
     "answer": 4,
-    "translation": "뇌가 위가 가득 찼다는 신호를 받는 데는 약 이십 분이 걸린다. 매우 빨리 먹으면 신호가 오기 전에 많은 식사를 끝낼 수 있다. 그 결과 몸이 필요로 하는 것보다 더 많이 먹을 수 있다. 반면 천천히 먹는 사람은 더 적은 식사에도 만족하는 경향이 있다. 한 입 한 입 잘 씹는 것도 위가 음식을 더 쉽게 소화하도록 돕는다. 그래서 많은 의사가 한 입 사이에 포크를 내려놓고 맛을 즐기라고 조언한다. 천천히 먹는 것은 뇌에 우리가 이미 배부르다고 알려 줄 충분한 시간을 준다.",
-    "why": "뇌가 배부르다는 신호를 받는 데 시간이 걸리므로 천천히 먹으면 뇌가 이미 배부르다고 알려 줄 시간을 얻습니다.",
+    "translation": "\"방 치워\"라는 말은 사람을 아무것도 하지 않은 채 문간에 오래 서 있게 할 수 있다. 의자에 옷, 침대 밑에 종이, 책상에 컵 세 개가 있고 분명한 시작점이 없다. 일이 특별히 어려운 것은 아니다. 다만 붙잡기에 너무 크고 막연하다. 이제 지시를 바꿔 보자. 컵을 부엌에 갖다 놓아. 거의 누구나 바로 시작할 수 있다. 그것이 끝나면 책상이 조금 나아 보이고 다음의 작은 행동인 책 쌓기가 저절로 떠오른다. 학교 과제도 같다. \"강에 관한 보고서를 써라\"는 미루게 만들지만 \"한강에 관한 자료 두 개를 찾아라\"는 오늘 저녁에 할 수 있다. 작은 단계가 일의 총량을 줄이지는 않는다. 움직이기 시작하는 어려움은 바꾼다. 일이 계속 미뤄질 때는 지금 시작할 만큼 작고 분명한 조각으로 나누는 것이 흔히 도움이 된다.",
+    "why": "작고 분명한 단계가 시작을 쉽게 하므로 ⑤가 알맞습니다.",
     "optionNotes": [
-      "맛을 잊는다는 내용은 나오지 않습니다.",
-      "다시 배고프게 한다는 내용은 나오지 않습니다.",
-      "음식의 색과 냄새는 나오지 않습니다.",
-      "식사를 대신 끝내 준다는 내용은 나오지 않습니다.",
-      "정답. 이미 배부르다고 알려 줄 시간을 줍니다."
+      "한 번에 끝낼 시간을 기다리라는 내용이 아닙니다.",
+      "크기를 생각하면 더 막힙니다.",
+      "남에게 맡기라는 내용은 없습니다.",
+      "미루는 것을 권하지 않습니다.",
+      "정답. 작고 분명하게 나눕니다."
     ],
-    "trap": "'finish a large meal before the message arrives'를 반대로 해석하지 마세요.",
-    "tip": "앞의 원인(20분 걸림)과 결론(천천히 먹기)을 연결해 빈칸을 추론하세요."
+    "trap": "②는 막막함을 더하는 방법입니다.",
+    "tip": "컵과 자료 두 개의 예가 보여 주는 공통점을 찾으세요."
   },
   {
     "id": "m2b-18-32",
     "level": "m2",
     "set": "mock-18",
+    "rev": 2,
     "no": 32,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "When someone smiles at us, we often smile back without thinking. Scientists believe that our brain automatically copies the expressions of the people around us. When our face copies a smile, the brain feels a little of the same happiness. In one study, people who saw smiling faces on a screen reported better moods than those who saw angry faces. A smile can also pass from person to person in a crowd, like a wave. This is why a cheerful teacher or classmate can brighten a whole room. In short, smiling can __________.",
+    "passage": "A plant is rooted in one spot for its whole life, yet its children often grow up far away. If seeds simply dropped straight down, the young plants would crowd together in their parent's shade and compete for the same water. None of them would get enough light to grow strong. Over a very long time, plants have come to solve this problem in remarkably varied ways. A dandelion seed hangs beneath a tiny parachute that the slightest breeze can lift. A coconut floats and may cross a stretch of sea before it comes to rest on a beach. Burrs cling to the fur of passing animals with little hooks. Sweet berries are eaten by birds, which later leave the seeds somewhere else. Maple seeds spin like tiny propellers as they fall, which gives the wind more time to carry them. Violets can even shoot their seeds a short distance when the pods split. The methods look very different, but most of them share one idea. Unable to travel themselves, many plants spread their young by __________.",
     "options": [
-      "make other people feel happier as well",
-      "cost us a lot of money and time every single day",
-      "make our eyes smaller than before",
-      "stop the rain from falling on us",
-      "help us understand math problems"
+      "borrowing movement from wind, water, and passing animals",
+      "slowly walking across the ground on their strongest roots",
+      "keeping every seed safely close to the parent for years",
+      "producing seeds only when no animals are anywhere nearby",
+      "waiting for people to plant each of them in a new field"
     ],
     "answer": 0,
-    "translation": "누군가 우리에게 미소 지으면 우리는 흔히 생각 없이 마주 웃는다. 과학자들은 우리 뇌가 주변 사람들의 표정을 자동으로 따라 한다고 믿는다. 얼굴이 미소를 따라 하면 뇌는 같은 행복을 조금 느낀다. 한 연구에서 화면에서 웃는 얼굴을 본 사람들은 화난 얼굴을 본 사람들보다 기분이 더 좋다고 보고했다. 미소는 군중 속에서 사람에게서 사람에게 파도처럼 전해질 수도 있다. 그래서 밝은 선생님이나 반 친구가 방 전체를 환하게 할 수 있다. 요컨대 미소는 다른 사람들도 더 행복하게 만들 수 있다.",
-    "why": "미소는 따라 하는 사람의 기분을 좋게 하고 군중에게 퍼지므로 다른 사람들도 더 행복하게 만듭니다.",
+    "translation": "식물은 평생 한 자리에 뿌리박고 있지만 그 자식은 흔히 멀리서 자란다. 씨가 바로 아래로 떨어지기만 하면 어린 식물은 부모의 그늘에 몰려 같은 물을 두고 다툴 것이다. 튼튼히 자랄 만큼 빛을 받는 것도 없을 것이다. 아주 긴 시간에 걸쳐 식물은 놀랍도록 다양한 방식으로 이 문제를 풀게 되었다. 민들레 씨는 가장 약한 바람도 들어 올릴 수 있는 작은 낙하산 아래 매달린다. 코코넛은 떠서 해변에 닿기 전에 바다를 건널 수 있다. 도꼬마리 같은 열매는 작은 갈고리로 지나가는 동물의 털에 붙는다. 달콤한 열매는 새가 먹고 나중에 씨를 다른 곳에 남긴다. 단풍나무 씨는 떨어지며 작은 프로펠러처럼 돌아 바람이 나를 시간을 더 준다. 제비꽃은 꼬투리가 갈라질 때 씨를 짧은 거리 쏘기도 한다. 방법은 아주 달라 보이지만 대부분 한 생각을 나눈다. 스스로 이동할 수 없는 많은 식물은 바람, 물, 지나가는 동물에게서 움직임을 빌려 자손을 퍼뜨린다.",
+    "why": "바람, 물, 동물을 이용하는 예들이므로 ①이 알맞습니다.",
     "optionNotes": [
-      "정답. 다른 사람들도 더 행복하게 만듭니다.",
-      "돈과 시간이 든다는 내용은 나오지 않습니다.",
-      "눈이 작아진다는 내용은 나오지 않습니다.",
-      "비를 막는다는 내용은 나오지 않습니다.",
-      "수학 이해는 나오지 않습니다."
+      "정답. 바람, 물, 동물의 움직임을 빌립니다.",
+      "식물은 걷지 않습니다.",
+      "멀리 퍼뜨리는 이야기입니다.",
+      "동물을 이용합니다.",
+      "사람이 심는 내용은 없습니다."
     ],
-    "trap": "'brighten a whole room'을 문자 그대로 조명과 연결하지 마세요.",
-    "tip": "예시(웃는 얼굴을 본 사람의 기분 개선)를 일반화하면 빈칸이 나옵니다."
+    "trap": "③은 첫 부분의 문제를 해결책으로 착각한 것입니다.",
+    "tip": "민들레, 코코넛, 도꼬마리의 예를 묶어 보세요."
   },
   {
     "id": "m2b-18-33",
     "level": "m2",
     "set": "mock-18",
+    "rev": 2,
     "no": 33,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "In summer, cities can be several degrees hotter than the countryside, because concrete and asphalt hold heat. Trees help to solve this problem. Their leaves give shade, so the ground and the buildings stay cooler. Trees also release water vapor from their leaves, which cools the air, just like sweat cools our body. On a hot day, the air under a tree can be up to five degrees cooler than the air in an open parking lot. For this reason, many cities plant trees along streets. So trees in a city can __________.",
+    "passage": "A bat can catch a flying insect in complete darkness. It can even tell a moth from a falling leaf. For a long time this puzzled naturalists, since the animal's small eyes did not seem able to do the job. Experiments showed that bats with covered eyes could still avoid obstacles, while bats with plugged ears could not. The explanation became clear in the twentieth century, when instruments could record sounds too high for people to hear. Many bats call out as they fly and listen for the echoes. Each call is like a question sent out into the dark. An echo that returns quickly means that something is near. One that arrives at one ear slightly before the other tells the direction, and small changes in its pitch can reveal whether the target is approaching or moving away. As the bat closes in, it calls faster and faster, receiving fresh information many times a second. In a sense, the bat finds its way by __________.",
     "options": [
-      "make the streets hotter in the summer",
-      "lower the temperature around us on hot days",
-      "stop the sun from rising in the morning",
-      "increase the amount of concrete and asphalt in cities",
-      "keep people from walking outside at all"
+      "seeing very small objects with unusually powerful eyes",
+      "turning the echoes of its own voice into a picture of its surroundings",
+      "remembering the exact position of every insect from the night before",
+      "following the particular smell that each kind of insect leaves behind in the air",
+      "waiting silently until an insect happens to fly into its mouth"
     ],
     "answer": 1,
-    "translation": "여름에 도시는 콘크리트와 아스팔트가 열을 품기 때문에 시골보다 몇 도 더 더울 수 있다. 나무는 이 문제를 해결하도록 돕는다. 잎이 그늘을 만들어 땅과 건물이 더 시원하게 유지된다. 나무는 또 잎에서 수증기를 내보내는데 땀이 우리 몸을 식히듯 공기를 식힌다. 더운 날 나무 아래 공기는 트인 주차장의 공기보다 최대 5도 더 시원할 수 있다. 이런 이유로 많은 도시가 길을 따라 나무를 심는다. 그러니 도시의 나무는 더운 날 우리 주변의 온도를 낮출 수 있다.",
-    "why": "그늘과 수증기로 공기를 식히므로 나무는 더운 날 주변 온도를 낮춥니다.",
+    "translation": "박쥐는 완전한 어둠 속에서 날아다니는 곤충을 잡을 수 있다. 나방과 떨어지는 잎을 구별하기까지 한다. 오랫동안 박물학자들은 이를 이상히 여겼는데, 작은 눈이 그 일을 할 수 있어 보이지 않았기 때문이다. 실험은 눈을 가린 박쥐는 여전히 장애물을 피하지만 귀를 막은 박쥐는 그러지 못함을 보였다. 설명은 20세기에 사람이 듣기에 너무 높은 소리를 녹음할 수 있게 되면서 분명해졌다. 많은 박쥐는 날면서 소리를 내고 메아리를 듣는다. 소리 하나하나는 어둠 속으로 던지는 질문과 같다. 빨리 돌아오는 메아리는 무언가 가깝다는 뜻이다. 한쪽 귀에 조금 먼저 닿으면 방향을 알려 주고, 높이의 작은 변화는 목표가 다가오는지 멀어지는지 드러낼 수 있다. 가까워질수록 점점 빠르게 소리 내어 초당 여러 번 새 정보를 받는다. 어떤 의미에서 박쥐는 자기 목소리의 메아리를 주변의 그림으로 바꾸어 길을 찾는다.",
+    "why": "메아리로 거리와 방향을 알아내므로 ②가 알맞습니다.",
     "optionNotes": [
-      "거리를 더 덥게 한다는 내용은 글과 반대입니다.",
-      "정답. 더운 날 주변 온도를 낮춥니다.",
-      "해가 뜨는 것을 막는다는 내용은 나오지 않습니다.",
-      "콘크리트를 늘린다는 내용은 글과 반대입니다.",
-      "걷지 못하게 한다는 내용은 나오지 않습니다."
+      "눈을 가려도 피했습니다.",
+      "정답. 메아리를 주변의 그림으로 바꿉니다.",
+      "기억에 의존한다는 내용은 없습니다.",
+      "냄새는 나오지 않습니다.",
+      "소리를 내며 적극적으로 찾습니다."
     ],
-    "trap": "첫 문장의 도시가 더운 이유(콘크리트)를 나무의 효과로 착각하지 마세요.",
-    "tip": "앞 내용(그늘, 수증기로 시원함)을 한 문장으로 요약하면 빈칸이 나옵니다."
+    "trap": "①은 실험 결과와 반대입니다.",
+    "tip": "메아리가 알려 주는 세 가지 정보를 확인하세요."
   },
   {
     "id": "m2b-18-34",
     "level": "m2",
     "set": "mock-18",
+    "rev": 2,
     "no": 34,
     "type": "blank",
     "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "Do you want to remember what you studied? Try teaching it to someone else. When you prepare to teach, you must organize the information in your mind and find the main ideas. While explaining, you notice parts that you do not fully understand, and you go back to study them again. Researchers found that students who expected to teach a lesson remembered more details than students who studied only for a test. Teaching a friend or even your little brother makes the lesson clear and strong in your memory. So teaching others is also a way to __________.",
+    "passage": "Jiwon had read the chapter on volcanoes twice and felt ready for the test. Then her little brother asked why mountains sometimes explode, and she began confidently. Halfway through the second sentence she stopped. She knew the word \"pressure,\" but pressure of what, and why did it build up? She had to go back to the book. The next evening she tried again, this time with a bottle of soda as an example, and the boy nodded. Something had changed in her own understanding as well. Studies have found that students who prepare to teach material, and especially those who actually explain it, often learn it better than those who only study for themselves. To explain something, one has to put ideas in order, connect causes with results, and notice the gaps. So one of the most useful ways to find out whether you understand something, and to understand it better, is __________.",
     "options": [
-      "forget the information more quickly",
-      "learn the material better yourself",
-      "avoid studying for a test",
-      "waste a lot of valuable time on other things",
-      "make your friends angry at you"
+      "to read it silently until you can recognize every sentence",
+      "to explain it in your own words to someone who does not know it",
+      "to copy the most difficult words onto small cards and keep them",
+      "to ask a younger person to read the chapter in your place",
+      "to avoid questions that might show what you do not know"
     ],
     "answer": 1,
-    "translation": "공부한 것을 기억하고 싶은가? 다른 사람에게 가르쳐 보라. 가르칠 준비를 할 때는 머릿속 정보를 정리하고 요점을 찾아야 한다. 설명하는 동안 완전히 이해하지 못한 부분을 알아채고 다시 공부하러 돌아간다. 연구자들은 수업을 가르칠 것으로 예상한 학생들이 시험만을 위해 공부한 학생들보다 더 많은 세부 사항을 기억했다는 것을 발견했다. 친구나 심지어 남동생을 가르치면 수업이 기억 속에서 분명하고 강해진다. 그러니 다른 사람을 가르치는 것은 스스로 자료를 더 잘 배우는 방법이기도 하다.",
-    "why": "가르치려고 준비하고 설명하면서 이해가 깊어지므로 가르치는 것은 스스로 더 잘 배우는 방법입니다.",
+    "translation": "지원은 화산 단원을 두 번 읽고 시험 준비가 되었다고 느꼈다. 그때 어린 남동생이 산은 왜 가끔 폭발하느냐고 물었고 그녀는 자신 있게 시작했다. 두 번째 문장 중간에서 멈췄다. \"압력\"이라는 말은 알았지만 무엇의 압력이며 왜 쌓이는가? 책으로 돌아가야 했다. 다음 날 저녁 이번에는 탄산음료 병을 예로 다시 해 보았고 소년은 고개를 끄덕였다. 그녀 자신의 이해에도 무언가 바뀌었다. 연구는 내용을 가르칠 준비를 하는 학생, 특히 실제로 설명하는 학생이 자기만을 위해 공부하는 학생보다 흔히 더 잘 배운다는 것을 발견했다. 무언가를 설명하려면 생각을 순서대로 놓고, 원인과 결과를 잇고, 빈틈을 알아채야 한다. 그러므로 이해하는지 알아보고 더 잘 이해하는 가장 유용한 방법의 하나는 그것을 모르는 사람에게 자기 말로 설명하는 것이다.",
+    "why": "설명하면서 빈틈을 알고 이해가 깊어졌으므로 ②가 알맞습니다.",
     "optionNotes": [
-      "더 빨리 잊는다는 내용은 글과 반대입니다.",
-      "정답. 스스로 자료를 더 잘 배우게 됩니다.",
-      "시험 공부를 피하는 방법이라는 내용은 나오지 않습니다.",
-      "시간 낭비라는 내용은 글과 반대입니다.",
-      "친구를 화나게 한다는 내용은 나오지 않습니다."
+      "두 번 읽고도 설명하지 못했습니다.",
+      "정답. 모르는 사람에게 자기 말로 설명합니다.",
+      "낱말 카드는 나오지 않습니다.",
+      "남이 대신 읽는 내용은 없습니다.",
+      "빈틈을 알아채야 합니다."
     ],
-    "trap": "가르치는 대상(친구)에게 도움이 된다는 뜻으로만 읽지 마세요. 핵심은 가르치는 사람의 이득입니다.",
-    "tip": "연구 결과(가르칠 것으로 예상한 학생이 더 기억함)에서 결론을 추론하세요."
+    "trap": "①은 알아보는 것과 이해하는 것을 혼동한 것입니다.",
+    "tip": "동생에게 설명하기 전과 후를 비교하세요."
   },
   {
     "id": "m2b-18-35",
     "level": "m2",
     "set": "mock-18",
+    "rev": 2,
     "no": 35,
     "type": "irrelevant",
     "stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
-    "passage": "A messy desk can make it hard to study. Here are some simple ways to keep your desk neat and your mind clear. ① Put the things you use every day, such as pens and notebooks, within easy reach. ② Keep a small box for loose papers so that they do not pile up. ③ Pandas spend most of the day eating bamboo in the mountains of China. ④ At the end of each day, take two minutes to put everything back in its place. ⑤ A neat desk helps you find things quickly and stay focused on your work.",
+    "passage": "An empty glass bottle may seem like rubbish, but glass is one of the few materials that can be melted and shaped again and again without becoming noticeably weaker. Unlike many materials, it does not have to be turned into something of lower quality. ① Collected bottles are first sorted by color, because mixing colors would spoil the appearance of the new glass. ② Labels, caps, and bits of food are then removed, and the glass is crushed into small pieces, which pass magnets and other machines for a final check. ③ Many restaurants serve drinks in tall glasses decorated with slices of lemon or orange. ④ These pieces melt at a lower temperature than the sand and other raw materials from which new glass is made. ⑤ Using them therefore saves fuel as well as sand, and within a few weeks the old bottle may be back on a shop shelf as a new one. The same material can go around this circle many times.",
     "options": [
       "①",
       "②",
@@ -183,26 +190,27 @@
       "⑤"
     ],
     "answer": 2,
-    "translation": "어질러진 책상은 공부를 어렵게 만들 수 있다. 여기 책상을 깔끔하고 마음을 맑게 유지하는 몇 가지 간단한 방법이 있다. ① 펜과 공책처럼 매일 쓰는 물건은 손이 쉽게 닿는 곳에 두어라. ② 낱장의 종이가 쌓이지 않도록 작은 상자를 하나 두어라. ③ 판다는 하루 대부분을 중국의 산에서 대나무를 먹으며 보낸다. ④ 매일 끝날 때 이 분 동안 모든 것을 제자리에 되돌려 놓아라. ⑤ 깔끔한 책상은 물건을 빨리 찾고 공부에 집중하도록 돕는다.",
-    "why": "글은 책상을 깔끔하게 유지하는 방법을 이야기하는데 ③은 판다의 생활에 관한 별개의 이야기입니다.",
+    "translation": "빈 유리병은 쓰레기처럼 보일지 모르지만 유리는 눈에 띄게 약해지지 않고 거듭 녹여 다시 만들 수 있는 몇 안 되는 재료의 하나이다. 많은 재료와 달리 질이 낮은 것으로 바꿔야 하지 않는다. ① 모은 병은 먼저 색깔별로 분류하는데 색이 섞이면 새 유리의 겉모습이 망가지기 때문이다. ② 그런 다음 라벨, 뚜껑, 음식 조각을 없애고 유리를 작은 조각으로 부순다. 조각은 마지막 점검을 위해 자석과 다른 기계를 지난다. ③ 많은 식당은 레몬이나 오렌지 조각으로 장식한 긴 유리잔에 음료를 낸다. ④ 이 조각은 새 유리를 만드는 모래와 다른 원료보다 낮은 온도에서 녹는다. ⑤ 그러므로 그것을 쓰면 모래뿐 아니라 연료도 아끼며, 몇 주 안에 옛 병이 새 병으로 가게 선반에 돌아올 수 있다. 같은 재료가 이 순환을 여러 번 돌 수 있다.",
+    "why": "글은 유리 재활용 과정을 다루는데 ③은 식당의 음료 장식 이야기라 흐름에서 벗어납니다.",
     "optionNotes": [
-      "자주 쓰는 물건을 가까이 두라는 방법입니다.",
-      "종이를 상자에 모으라는 방법입니다.",
-      "정답(무관). 판다 이야기라 관계가 없습니다.",
-      "매일 정리하라는 방법입니다.",
-      "깔끔한 책상의 효과를 말합니다."
+      "색깔별 분류 단계입니다.",
+      "이물질 제거와 분쇄 단계입니다.",
+      "정답. 음료 장식은 무관합니다.",
+      "'These pieces'가 ②의 조각을 받습니다.",
+      "절약과 재탄생의 결과입니다."
     ],
-    "trap": "'mountains', 'bamboo' 같은 구체적 묘사가 흐름에 맞다고 착각하기 쉽습니다.",
-    "tip": "각 문장이 '책상을 깔끔하게 유지하는 방법'을 뒷받침하는지 확인하세요."
+    "trap": "'glasses'라는 낱말만 보고 관련 있다고 생각하지 마세요.",
+    "tip": "④의 'These pieces'가 어느 문장과 이어지는지 보세요."
   },
   {
     "id": "m2b-18-36",
     "level": "m2",
     "set": "mock-18",
+    "rev": 2,
     "no": 36,
     "type": "order",
     "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
-    "passage": "In 1799, French soldiers in Egypt found a large black stone near the town of Rosetta. It was covered with strange symbols that nobody could read at that time. For many years, scholars tried to read it without success. The stone had three kinds of writing on it.\n(A) Thanks to this discovery, people today can read the writings on the walls of ancient tombs and temples.\n(B) Scholars compared the Greek text with the other two, and after many years of work, they began to understand the ancient Egyptian writing.\n(C) One of them was Greek, which scholars could read easily.",
+    "passage": "A bar of chocolate begins its life inside a large, colorful pod growing on a cacao tree in a hot, rainy part of the world.\n(A) At the factory the pieces are finally ground until they turn into a thick, dark paste. Sugar and often milk are added, the mixture is stirred for many hours to make it smooth, and then it is poured into molds to cool. The finished bars are wrapped and sent to shops around the world.\n(B) The beans are next spread in the sun to dry, turned often so that they do not rot, and shipped abroad. There they are roasted, which deepens their flavor, and their thin shells are cracked and blown away, leaving small brown pieces of bean.\n(C) Farmers cut the ripe pods and scoop out the seeds, usually called beans, which are wrapped in sweet white pulp. The seeds are piled up and covered for several days, during which they ferment and begin to develop the taste that we know. Without this step, the final product would taste flat and bitter.",
     "options": [
       "(A)-(C)-(B)",
       "(B)-(A)-(C)",
@@ -211,26 +219,27 @@
       "(C)-(B)-(A)"
     ],
     "answer": 4,
-    "translation": "1799년 이집트에 있던 프랑스 군인들이 로제타 마을 근처에서 커다란 검은 돌을 발견했다. 그것은 당시 아무도 읽을 수 없는 이상한 기호로 덮여 있었다. 여러 해 동안 학자들은 그것을 읽으려 했지만 성공하지 못했다. 그 돌에는 세 종류의 글이 새겨져 있었다. (C) 그중 하나는 학자들이 쉽게 읽을 수 있는 그리스어였다. (B) 학자들은 그리스어 글을 나머지 둘과 비교했고 여러 해의 연구 끝에 고대 이집트 문자를 이해하기 시작했다. (A) 이 발견 덕분에 오늘날 사람들은 고대 무덤과 신전 벽의 글을 읽을 수 있다.",
-    "why": "(C) 'One of them'으로 그리스어 소개 → (B) 'the Greek text'로 비교와 해독 → (A) 'this discovery'로 결과 순서입니다.",
+    "translation": "초콜릿 한 판은 덥고 비가 많은 지역의 카카오나무에 달린 크고 화려한 꼬투리 안에서 삶을 시작한다. (C) 농부는 익은 꼬투리를 잘라 달콤한 흰 과육에 싸인, 흔히 콩이라 부르는 씨를 퍼낸다. 씨를 쌓아 며칠 덮어 두면 그동안 발효해 우리가 아는 맛이 생기기 시작한다. 이 단계가 없으면 완성품은 밋밋하고 쓸 것이다. (B) 다음으로 콩을 햇볕에 펴 말리고 썩지 않게 자주 뒤집고 해외로 보낸다. 거기서 볶아 풍미를 깊게 하고 얇은 껍질을 깨 날려 작은 갈색 콩 조각을 남긴다. (A) 공장에서 마지막으로 조각을 걸쭉하고 검은 반죽이 될 때까지 간다. 설탕과 흔히 우유를 넣고 부드럽게 하려 여러 시간 저은 뒤 틀에 부어 식힌다. 완성된 판은 포장되어 전 세계의 가게로 보내진다.",
+    "why": "(C) 수확과 발효 → (B) 건조와 볶기 → (A) 갈아 만들기 순서입니다.",
     "optionNotes": [
-      "(A)의 'this discovery'가 가리킬 발견이 앞에 없습니다.",
-      "(B)의 'the Greek text'가 가리킬 그리스어가 앞에 없습니다.",
-      "(B)의 'the Greek text'를 소개한 글이 먼저 와야 합니다.",
-      "(A)의 'this discovery'가 해독 과정(B)보다 먼저 나올 수 없습니다.",
-      "정답. 그리스어 소개 → 비교와 해독 → 발견의 결과."
+      "(A)의 'the pieces'가 처음에 올 수 없습니다.",
+      "(B)의 'The beans are next'가 처음에 올 수 없습니다.",
+      "(B)가 처음에 올 수 없습니다.",
+      "(A)의 'the pieces'는 (B) 뒤여야 합니다.",
+      "정답. 수확 → 건조·볶기 → 가공입니다."
     ],
-    "trap": "(B)의 'the Greek text'는 (C)에서 소개한 그리스어 글을 가리킵니다.",
-    "tip": "One of them → the Greek text → this discovery 같은 지시어를 따라가세요."
+    "trap": "(A)의 'the pieces'는 (B)에서 생긴 조각입니다.",
+    "tip": "'next', 'finally' 같은 순서 표현을 보세요."
   },
   {
     "id": "m2b-18-37",
     "level": "m2",
     "set": "mock-18",
+    "rev": 2,
     "no": 37,
     "type": "order",
     "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
-    "passage": "Paper is one of the most useful inventions in history. It was invented in China about two thousand years ago. It is made from the fibers of plants, mostly from wood. People around the world use it every day for writing, drawing, and packing things.\n(A) Finally, the pulp is spread flat, dried, and pressed into thin sheets that we use for books and notebooks, and the sheets are often recycled.\n(B) Next, the pieces are mixed with water and turned into a soft, wet mixture called pulp.\n(C) First, workers cut trees and break the wood into small pieces.",
+    "passage": "For thousands of years people watched birds and wished that they could rise into the air. The first successful answer did not involve wings at all.\n(A) Encouraged by the animals' safe return, two men climbed aboard a much larger balloon in Paris two months later. They floated over the roofs of the city for about twenty-five minutes while crowds stared up from below. People had at last seen the ground as birds see it.\n(B) In September 1783 the brothers gave a demonstration before the French king. Not knowing whether a living creature could survive high above the ground, they first sent up a sheep, a duck, and a rooster, all of which came down alive. A large crowd had gathered to watch the strange passengers leave the ground.\n(C) Two French brothers, Joseph and Étienne Montgolfier, who came from a family of papermakers, noticed that hot air could lift light things. They experimented with bags of paper and cloth held over fires, making them larger and larger. A bag filled with hot air would suddenly rise toward the ceiling.",
     "options": [
       "(A)-(C)-(B)",
       "(B)-(A)-(C)",
@@ -239,26 +248,27 @@
       "(C)-(B)-(A)"
     ],
     "answer": 4,
-    "translation": "종이는 역사상 가장 유용한 발명품 중 하나이다. 그것은 약 이천 년 전 중국에서 발명되었다. 그것은 식물의 섬유, 주로 나무로 만든다. 전 세계 사람들이 글쓰기, 그림 그리기, 물건 포장에 매일 종이를 쓴다. (C) 먼저 일꾼들이 나무를 베어 목재를 작은 조각으로 부순다. (B) 다음으로 그 조각을 물과 섞어 펄프라고 하는 부드럽고 젖은 혼합물로 만든다. (A) 마지막으로 펄프를 평평하게 펴서 말리고 눌러 책과 공책에 쓰는 얇은 종이로 만들며 이 종이는 흔히 재활용된다.",
-    "why": "(C) 'First'로 나무를 조각냄 → (B) 'Next'로 펄프를 만듦 → (A) 'Finally'로 종이로 만듦 순서입니다.",
+    "translation": "수천 년 동안 사람들은 새를 보며 공중에 오르기를 바랐다. 처음 성공한 답에는 날개가 전혀 없었다. (C) 종이 만드는 집안 출신의 프랑스 형제 조제프와 에티엔 몽골피에는 뜨거운 공기가 가벼운 것을 들어 올릴 수 있음을 알아챘다. 불 위에 든 종이와 천 주머니로 실험하며 점점 크게 만들었다. 뜨거운 공기를 채운 주머니는 갑자기 천장으로 떠올랐다. (B) 1783년 9월 형제는 프랑스 왕 앞에서 시범을 보였다. 생물이 땅 위 높이에서 살 수 있는지 몰라 먼저 양, 오리, 수탉을 올려 보냈고 모두 살아 내려왔다. 이상한 승객들이 땅을 떠나는 것을 보려고 큰 군중이 모였다. (A) 동물의 무사 귀환에 힘을 얻어 두 남자가 두 달 뒤 파리에서 훨씬 큰 기구에 올랐다. 군중이 아래에서 올려다보는 동안 약 25분간 도시 지붕 위를 떠다녔다. 사람이 마침내 새가 보듯 땅을 본 것이다.",
+    "why": "(C) 발견과 실험 → (B) 동물 비행 → (A) 사람 비행 순서입니다.",
     "optionNotes": [
-      "(A)의 'Finally'가 가장 먼저 나올 수 없습니다.",
-      "(B)의 'Next'가 'First'보다 앞설 수 없습니다.",
-      "(B)의 'Next'가 먼저 오면 'the pieces'가 가리킬 대상이 없습니다.",
-      "(A)의 'Finally'가 (B)보다 먼저 나올 수 없습니다.",
-      "정답. First → Next → Finally."
+      "(A)의 'the animals'가 처음에 올 수 없습니다.",
+      "(B)의 'the brothers'가 처음에 올 수 없습니다.",
+      "(B)가 처음에 올 수 없습니다.",
+      "(A)는 (B)의 동물 비행 뒤여야 합니다.",
+      "정답. 실험 → 동물 → 사람입니다."
     ],
-    "trap": "(B)의 'the pieces'는 (C)에서 부순 목재 조각을 가리킵니다.",
-    "tip": "First → Next → Finally 같은 순서 표현을 따라가세요."
+    "trap": "(B)의 'the brothers'는 (C)에서 소개된 형제입니다.",
+    "tip": "'the animals' safe return'이 어디를 받는지 확인하세요."
   },
   {
     "id": "m2b-18-38",
     "level": "m2",
     "set": "mock-18",
+    "rev": 2,
     "no": 38,
     "type": "insert",
     "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
-    "passage": "[주어진 문장]\nBecause of this, many people now choose to buy used clothes.\n\n[글]\n( ① ) Making a single new T-shirt takes a lot of water and energy, and many clothes are thrown away after only a few uses. ( ② ) Second-hand shops are growing in number in many cities. ( ③ ) They sell good clothes at low prices. ( ④ ) Buying used clothes also reduces waste. ( ⑤ ) Some shops even give discounts when you bring your old clothes.",
+    "passage": "[주어진 문장]\nWhat has changed is the path of the light that carries its picture to your eyes.\n\n[글]\nPut a straw into a clear glass of water and look at it from the side, and it seems to be broken at the surface, with the lower part shifted away from the upper part. Children are often delighted by this, while adults rarely stop to ask why it happens. ( ① ) The straw itself has not changed at all, as you can easily prove by pulling it out. ( ② ) Light travels more slowly in water than in air. ( ③ ) When it passes at an angle from one into the other, this difference in speed makes it change direction. ( ④ ) Your brain, however, assumes that light has come to you in a straight line, and so it places the lower part of the straw where it is not. ( ⑤ ) The same effect makes a pond look shallower than it really is, which is a good reason to be careful before jumping in. You can watch it again with a spoon standing in a cup.",
     "options": [
       "①",
       "②",
@@ -267,26 +277,27 @@
       "⑤"
     ],
     "answer": 1,
-    "translation": "[주어진 문장] 이 때문에 이제 많은 사람이 중고 옷을 사기로 한다. [글] 새 티셔츠 한 장을 만드는 데는 많은 물과 에너지가 들고 많은 옷이 몇 번 입고 버려진다. 중고 가게는 많은 도시에서 수가 늘고 있다. 그곳은 좋은 옷을 싼 가격에 판다. 중고 옷을 사면 쓰레기도 줄어든다. 일부 가게는 낡은 옷을 가져오면 할인도 해 준다.",
-    "why": "새 옷을 만드는 데 드는 자원과 낭비라는 이유 뒤에 'Because of this'로 중고 옷을 선택한다는 결과가 이어지므로 ②에 들어갑니다.",
+    "translation": "[주어진 문장] 바뀐 것은 그 모습을 눈까지 나르는 빛의 경로이다. [글] 맑은 물잔에 빨대를 넣고 옆에서 보면 수면에서 부러져 아랫부분이 윗부분에서 밀려난 것처럼 보인다. 아이들은 흔히 이를 보고 즐거워하지만 어른은 왜 그런지 좀처럼 묻지 않는다. 빨대 자체는 전혀 바뀌지 않았고, 꺼내 보면 쉽게 증명된다. 빛은 공기보다 물에서 느리게 나아간다. 한쪽에서 다른 쪽으로 비스듬히 지날 때 이 속도 차이가 방향을 바꾸게 한다. 그러나 뇌는 빛이 곧게 왔다고 가정해 빨대 아랫부분을 있지 않은 곳에 놓는다. 같은 효과로 연못은 실제보다 얕아 보이는데, 뛰어들기 전에 조심할 좋은 이유이다. 컵에 세운 숟가락으로도 다시 볼 수 있다.",
+    "why": "'빨대는 바뀌지 않았다' 뒤에 '바뀐 것은 빛의 경로'라고 이어져야 하므로 ②입니다.",
     "optionNotes": [
-      "'this'가 가리킬 이유가 아직 나오지 않았습니다.",
-      "정답. 이유 뒤에 결과가 이어집니다.",
-      "중고 가게 설명 뒤라 'this'가 어색합니다.",
-      "재활용 효과 설명 앞이라 흐름이 끊깁니다.",
-      "마지막에 오면 앞 문장과 연결되지 않습니다."
+      "'바뀌지 않은 것'을 말하기 전이라 'What has changed'가 어색합니다.",
+      "정답. 안 바뀐 것 → 바뀐 것 → 설명입니다.",
+      "빛의 속도 설명과 'When it passes' 사이를 끊습니다.",
+      "방향 변화 설명 뒤라 늦습니다.",
+      "설명이 끝난 뒤라 맞지 않습니다."
     ],
-    "trap": "'Because of this'의 this가 ①의 자원 낭비를 가리킨다는 점을 놓치지 마세요.",
-    "tip": "Because of this는 원인 문장 직후에 놓입니다."
+    "trap": "①은 아직 대비할 말이 없습니다.",
+    "tip": "'has not changed'와 'What has changed'의 짝을 찾으세요."
   },
   {
     "id": "m2b-18-39",
     "level": "m2",
     "set": "mock-18",
+    "rev": 2,
     "no": 39,
     "type": "insert",
     "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
-    "passage": "[주어진 문장]\nThe students enjoyed the new game so much that they played it every day.\n\n[글]\n( ① ) In 1891, a teacher named James Naismith needed an indoor game for his students during the winter. ( ② ) He nailed two peach baskets to the walls of the gym and wrote thirteen simple rules. ( ③ ) The students had to throw a soccer ball into the baskets. ( ④ ) Soon, other schools began to ask for the rules. ( ⑤ ) Today, basketball is played by millions of people around the world.",
+    "passage": "[주어진 문장]\nA crown containing silver would therefore take up more room than a lump of pure gold of the same weight.\n\n[글]\n( ① ) According to a famous story, a king in ancient Sicily suspected that the maker of his new crown had secretly mixed cheaper silver into the gold, and he asked Archimedes to find out without damaging it. ( ② ) The scholar was puzzled until one day he stepped into a full bath and saw the water spill over the edge. ( ③ ) He realized that a sunken object pushes aside an amount of water equal to its own size, and he already knew that silver is lighter than gold, so that a given weight of silver is bulkier. ( ④ ) All that was needed was to compare how much water the crown and the pure gold pushed out. ( ⑤ ) Historians doubt some details of the tale, which was written down long after his death, but the principle that it illustrates is sound.",
     "options": [
       "①",
       "②",
@@ -295,44 +306,45 @@
       "⑤"
     ],
     "answer": 3,
-    "translation": "[주어진 문장] 학생들은 그 새 놀이가 너무 즐거워서 매일 그것을 했다. [글] 1891년 제임스 네이스미스라는 교사는 겨울 동안 학생들을 위한 실내 놀이가 필요했다. 그는 체육관 벽에 복숭아 바구니 두 개를 못으로 박고 열세 개의 간단한 규칙을 썼다. 학생들은 축구공을 바구니에 던져 넣어야 했다. 곧 다른 학교들이 규칙을 알려 달라고 하기 시작했다. 오늘날 농구는 전 세계 수백만 명이 즐긴다.",
-    "why": "학생들이 놀이를 매일 했다는 내용 뒤에 'Soon'으로 다른 학교가 규칙을 요청했다는 내용이 이어지므로 ④에 들어갑니다.",
+    "translation": "[주어진 문장] 그러므로 은이 섞인 왕관은 같은 무게의 순금 덩어리보다 자리를 더 차지할 것이다. [글] 유명한 이야기에 따르면 고대 시칠리아의 왕은 새 왕관을 만든 사람이 금에 값싼 은을 몰래 섞었다고 의심해 아르키메데스에게 왕관을 상하지 않고 알아내라고 했다. 학자는 어느 날 가득 찬 욕조에 들어가 물이 넘치는 것을 볼 때까지 난감해했다. 그는 가라앉은 물체가 자기 크기만큼의 물을 밀어낸다는 것을 깨달았고, 은이 금보다 가벼워 같은 무게의 은이 부피가 크다는 것은 이미 알고 있었다. 필요한 것은 왕관과 순금이 밀어내는 물의 양을 비교하는 것뿐이었다. 역사가들은 그가 죽은 뒤 한참 지나 기록된 이야기의 일부 세부를 의심하지만 그것이 보여 주는 원리는 옳다.",
+    "why": "은이 부피가 크다는 설명 뒤에 '그러므로 은 섞인 왕관은 더 크다'고 하고, 이어 물의 양을 비교하므로 ④입니다.",
     "optionNotes": [
-      "'the new game'이 가리킬 놀이가 아직 소개되지 않았습니다.",
-      "놀이 규칙을 설명하기 전이라 'the new game'이 어색합니다.",
-      "놀이 방법 설명이 끝나기 전이라 흐름이 끊깁니다.",
-      "정답. 학생들이 즐긴 뒤 다른 학교가 규칙을 요청합니다.",
-      "마지막에 오면 'Soon'과 이어지지 않습니다."
+      "왕관과 은 이야기가 나오기 전입니다.",
+      "아직 부피의 원리가 나오지 않았습니다.",
+      "은의 성질을 말하기 전이라 'therefore'가 맞지 않습니다.",
+      "정답. 은은 부피가 큼 → 그러므로 → 비교입니다.",
+      "비교 방법 뒤라 근거 제시가 늦습니다."
     ],
-    "trap": "'the new game'은 ③에서 설명한 농구를 가리킵니다.",
-    "tip": "the new game 같은 정관사 표현은 그것이 소개된 뒤에 놓입니다."
+    "trap": "③에 넣으면 'therefore'의 근거가 없습니다.",
+    "tip": "'therefore' 앞에는 이유가 있어야 합니다."
   },
   {
     "id": "m2b-18-40",
     "level": "m2",
     "set": "mock-18",
+    "rev": 2,
     "no": 40,
     "type": "summary",
     "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것을 고르시오.",
-    "passage": "A middle school tried a \"phone-free lunch\" for one month. Students put their phones in a box at the cafeteria door. At first, many students complained and felt bored. After a week, however, the cafeteria became louder, with more talking and laughter. Students said that they got to know their classmates better. Teachers also noticed fewer arguments over social media posts. In a survey at the end of the month, seventy percent of the students said that they felt more relaxed after lunch. Most of them wanted to continue.\n\n▶ When students put away their phones during lunch, they (A) with each other more and felt (B) afterwards.",
+    "passage": "Does money make us happier when we spend it on ourselves or on someone else? In one experiment in Canada, researchers approached people on a university campus in the morning and asked how happy they felt. Each was then given an envelope containing either five or twenty dollars to be spent by the end of the day. Some were told to use it on a bill or a treat for themselves, others on a gift or a donation. In the evening the researchers telephoned them. Those who had spent the money on other people reported feeling happier than those who had spent it on themselves. Interestingly, the amount, five dollars or twenty, made little difference. Yet when other people were asked to guess the outcome, most expected that spending on oneself, and having more to spend, would bring more happiness. The experiment was small, but later studies have looked at the same question.\n\n▶ In the experiment, spending money on (A) tended to make people feel (B) than spending it on themselves.",
     "options": [
-      "(A) slept — (B) tired",
-      "(A) talked and laughed — (B) more relaxed",
-      "(A) argued — (B) angry",
-      "(A) ate — (B) hungry",
-      "(A) studied — (B) bored"
+      "(A) food — (B) hungrier",
+      "(A) others — (B) happier",
+      "(A) others — (B) poorer",
+      "(A) games — (B) calmer",
+      "(A) bills — (B) safer"
     ],
     "answer": 1,
-    "translation": "한 중학교가 한 달 동안 \"휴대전화 없는 점심\"을 시도했다. 학생들은 급식실 문 앞의 상자에 휴대전화를 넣었다. 처음에는 많은 학생이 불평하고 지루해했다. 그러나 일주일 뒤 급식실은 더 많은 대화와 웃음으로 시끄러워졌다. 학생들은 반 친구들을 더 잘 알게 되었다고 말했다. 교사들은 소셜 미디어 게시물을 둘러싼 다툼도 줄었다고 알아챘다. 한 달 말의 설문에서 학생의 70퍼센트가 점심 뒤에 더 편안하다고 했다. 대부분이 계속하기를 원했다. ▶ 점심시간에 휴대전화를 치우자 학생들은 서로 더 많이 (A)했고 그 뒤에 (B) 느꼈다.",
-    "why": "휴대전화를 치우자 대화와 웃음이 늘고 점심 뒤에 더 편안했으므로 (A)는 talked and laughed, (B)는 more relaxed입니다.",
+    "translation": "돈은 자신에게 쓸 때와 남에게 쓸 때 언제 우리를 더 행복하게 할까? 캐나다의 한 실험에서 연구자는 아침에 대학 교정에서 사람들에게 다가가 얼마나 행복한지 물었다. 각자에게 그날 안에 쓸 5달러나 20달러가 든 봉투를 주었다. 어떤 이는 자기 청구서나 간식에, 다른 이는 선물이나 기부에 쓰라고 했다. 저녁에 연구자가 전화했다. 남에게 쓴 사람이 자신에게 쓴 사람보다 더 행복하다고 보고했다. 흥미롭게도 5달러냐 20달러냐는 별 차이가 없었다. 그러나 다른 사람들에게 결과를 짐작하게 하자 대부분 자신에게 쓰고 쓸 돈이 많은 쪽이 더 행복할 것이라 예상했다. 실험은 작았지만 이후 연구도 같은 질문을 살폈다. ▶ 실험에서 남에게 돈을 쓰는 것은 자신에게 쓰는 것보다 사람을 더 행복하게 느끼게 하는 경향이 있었다.",
+    "why": "남에게 쓴 사람이 더 행복했으므로 (A) others, (B) happier인 ②입니다.",
     "optionNotes": [
-      "slept와 tired는 글에 나오지 않습니다.",
-      "정답. 대화와 웃음이 늘고 더 편안해졌습니다.",
-      "argued와 angry는 글과 반대입니다.",
-      "ate와 hungry는 글에 나오지 않습니다.",
-      "studied와 bored는 글과 반대입니다."
+      "음식과 배고픔은 나오지 않습니다.",
+      "정답. 남, 더 행복함입니다.",
+      "더 가난하게 느꼈다는 내용은 없습니다.",
+      "게임은 나오지 않습니다.",
+      "청구서는 자신에게 쓰는 예입니다."
     ],
-    "trap": "처음의 불평과 지루함(at first)을 최종 결과로 오해하지 마세요.",
-    "tip": "요약문은 행동 변화(휴대전화 치움)와 결과(대화 증가, 편안함)를 짝지으세요."
+    "trap": "③은 (A)만 맞습니다.",
+    "tip": "저녁 전화에서 무엇이 달랐는지 확인하세요."
   }
 ]
